@@ -25,7 +25,8 @@ ENV_FEEDS = os.getenv("RSS_FEEDS", "").strip()
 
 # Option B: Fallback list here (edit to your feeds if you prefer hardcoding)
 FALLBACK_FEEDS = [
-    # "https://example.com/feed.xml",
+    "https://hnrss.org/frontpage",
+    "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
 ]
 
 # How many items per feed to process on each run (avoid massive churn)
