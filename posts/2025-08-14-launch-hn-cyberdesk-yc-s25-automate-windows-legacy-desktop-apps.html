@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Launch HN: Cyberdesk (YC S25) – Automate Windows legacy desktop apps</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Launch HN: Cyberdesk (YC S25) – Automate Windows legacy desktop apps</h1>
+    <p><small>Published: 2025-08-14T15:24:53+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hi HN, We’re Mahmoud and Alan, building Cyberdesk (<a href="https://www.cyberdesk.io/">https://www.cyberdesk.io/</a>), a deterministic computer use agent for automating Windows desktop applications. Developers use us to automate repetitive tasks in legacy software in healthcare, accounting, construction, and more, by executing clicks and keystrokes directly into the desktop.<p>Here’s a couple demos of Cyberdesk’s computer use agent:<p>A fast file import automation into a legacy desktop app: <a href="https://youtu.be/H_lRzrCCN0E" rel="nofollow">https://youtu.be/H_lRzrCCN0E</a><p>Working on a monster of a Windows monolith called OpenDental (showcases agent learning process as well): <a href="https://youtu.be/nXiJDebOJD0" rel="nofollow">https://youtu.be/nXiJDebOJD0</a>.<p>Filing a W-2 tax form: <a href="https://youtu.be/6VNEzHdc8mc" rel="nofollow">https://youtu.be/6VNEzHdc8mc</a><p>Many industries are stuck with legacy Windows desktop applications, with staff plagued by repetitive tasks that are incredibly time consuming. Vendors offering automations for these end up writing brittle Robotic Process Automation (RPA) scripts or hiring off-shore teams for manual task execution. RPA often breaks due to inevitable UI changes or unexpected popups like a Windows update or a random in-app notification. Off-shore teams are often unreliable and costlier than software, plus they’re not always an option for regulated industries.<p>I previously built RPA scripts impacting 20K+ employees at a Fortune 100 company where I experienced first hand RPA’s brittleness and inflexibility. It was obvious to me that this was a bandaid solution to an unsolved problem. Alan was building a computer use agent for his previous startup and realized its huge potential to automate a ton of manual computer tasks across many industries, so we started working on Cyberdesk.<p>Computer use models can struggle with abstract, long-horizon tasks, but they excel at making context-aware decisions on a screen-by-screen basis, so they’re a good fit for automating these desktop apps.<p>The key to reliability is crafting prompts that are highly specific and well thought out. Much like with ChatGPT, vague or ambiguous prompts won’t get you the results you want. This is especially true in computer use because the model is processing nearly an entire desktop screen’s worth of extra visual information; without precise instructions, it doesn’t know which details to focus on or how to act.<p>Unlike RPA, Cyberdesk’s agents don’t blindly replay clicks. They read the screen state before every action and self-correct when flows drift (pop-ups, latency, UI changes). Unlike off-the-shelf computer use AIs, Cyberdesk runs deterministically in production: the agent primarily
+follows the steps it has learned and only falls back to reasoning when anomalies occur. Cyberdesk learns workflows from natural-language instructions, capturing nuance and handling dynamic tasks - far beyond what a simple screen recording of a few runs can encode.<p>This approach is good for both reliability and cost: reliability, because we fall back to a computer use model in unexpected situations; and cost because the computer use models are expensive and we only use them when we need to. Otherwise we leverage faster, more affordable visual LLMs for checking the screen state step-by-step during deterministic runs. Our agents are also equipped with tools like failsafes, data extraction, screen evaluation to handle dynamic and sensitive situations.<p>How it works: you install our open source driver on any Windows machine (<a href="https://github.com/cyberdesk-hq/cyberdriver" rel="nofollow">https://github.com/cyberdesk-hq/cyberdriver</a>). It communicates with our backend to receive commands (click, type, scroll, screenshot) and sends back data (screenshots, API responses, etc). You give our computer use agent a detailed natural language description of the process for a given task, just like an SOP for an employee learning a new task for the first time. The agent then leverages computer use AI models to learn the steps and memorizes them by saving each screenshot alongside its action (click on these coordinates, type XYZ, wait for page to load, etc).<p>The agent deterministically runs through these steps to run fast and predictably. In order to account for popups and UI changes, our agent checks the live screen state against the memorized state to determine whether it’s safe to proceed with the memorized step. If no major changes prevent safe execution of the memorized step, it proceeds; otherwise, it falls back to a computer use model with context on past actions and the remaining task.<p>Customers are currently using us for manual tasks like importing and exporting files from legacy desktop applications, booking appointments for patients on a desktop PMS, and data entry for filling our forms like patient profiles and such in an EMR.<p>We don't have a self-serve option yet but we'd love to onboard you manually. Book a demo here to learn more! (<a href="https://www.cyberdesk.io/">https://www.cyberdesk.io/</a>) 
+If you’d rather wait for the self-serve option a little later down the line, please do submit your email here (<a href="https://forms.gle/HfQLxMXKcv9Eh8Gs8" rel="nofollow">https://forms.gle/HfQLxMXKcv9Eh8Gs8</a>) so you can be notified as soon as that’s ready. 
+You can also check out our docs here: <a href="https://docs.cyberdesk.io/">https://docs.cyberdesk.io/</a>.<p>We’d absolutely love to hear your thoughts on our approach and on desktop automation for legacy industries!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=44901528">https://news.ycombinator.com/item?id=44901528</a></p>
+<p>Points: 49</p>
+<p># Comments: 34</p>
+    <p><a href="https://news.ycombinator.com/item?id=44901528" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

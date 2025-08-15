@@ -1,3 +1,364 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "id": "https://www.nytimes.com/2025/08/14/science/margaret-boden-dead.html",
+      "title": "Margaret Boden, Philosopher of Artificial Intelligence, Dies at 88",
+      "slug": "2025-08-15-margaret-boden-philosopher-of-artificial-intelligence-dies-at-88.html",
+      "path": "posts/2025-08-15-margaret-boden-philosopher-of-artificial-intelligence-dies-at-88.html",
+      "date_iso": "2025-08-15T13:46:17+00:00",
+      "source": "https://www.nytimes.com/2025/08/14/science/margaret-boden-dead.html",
+      "summary": "Margaret Boden in 1994. “What’s unique about Maggie is that she’s a philosopher who has informed, inspired and shaped science,” Blay Whitby, a fellow philosopher, said."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/15/podcasts/hardfork-gpt5-perplexity.html",
+      "title": "GPT-5 Backlash + Perplexity C.E.O. Aravind Srinivas on the Browser Wars + Hot Mess Express",
+      "slug": "2025-08-15-gpt-5-backlash-perplexity-c-e-o-aravind-srinivas-on-the-browser-wars-hot-mess-express.html",
+      "path": "posts/2025-08-15-gpt-5-backlash-perplexity-c-e-o-aravind-srinivas-on-the-browser-wars-hot-mess-express.html",
+      "date_iso": "2025-08-15T11:00:09+00:00",
+      "source": "https://www.nytimes.com/2025/08/15/podcasts/hardfork-gpt5-perplexity.html",
+      "summary": "“I think this was a growing up moment for OpenAI and the industry.”"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/15/arts/ai-toys-curio-grem.html",
+      "title": "They’re Stuffed Animals. They’re Also A.I. Chatbots.",
+      "slug": "2025-08-15-they-re-stuffed-animals-they-re-also-a-i-chatbots.html",
+      "path": "posts/2025-08-15-they-re-stuffed-animals-they-re-also-a-i-chatbots.html",
+      "date_iso": "2025-08-15T09:01:32+00:00",
+      "source": "https://www.nytimes.com/2025/08/15/arts/ai-toys-curio-grem.html",
+      "summary": "New types of cuddly toys, some for children as young as 3, are being sold as an alternative to screen time — and to parental attention."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/15/technology/spacex-musk-government-contracts-taxes.html",
+      "title": "Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes",
+      "slug": "2025-08-15-elon-musk-s-spacex-most-likely-doesn-t-pay-taxes.html",
+      "path": "posts/2025-08-15-elon-musk-s-spacex-most-likely-doesn-t-pay-taxes.html",
+      "date_iso": "2025-08-15T09:00:17+00:00",
+      "source": "https://www.nytimes.com/2025/08/15/technology/spacex-musk-government-contracts-taxes.html",
+      "summary": "Elon Musk’s rocket company relies on federal contracts, but years of losses have most likely let it avoid paying federal income taxes, according to internal company documents."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44906305",
+      "title": "Your Mac Game Is Probably Rendering Blurry",
+      "slug": "2025-08-14-your-mac-game-is-probably-rendering-blurry.html",
+      "path": "posts/2025-08-14-your-mac-game-is-probably-rendering-blurry.html",
+      "date_iso": "2025-08-14T22:11:47+00:00",
+      "source": "https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/",
+      "summary": "Article URL: https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/ Comments URL: https://news.ycombinator.com/item?id=44906305 Points: 32 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44905808",
+      "title": "We rewrote the Ghostty GTK application",
+      "slug": "2025-08-14-we-rewrote-the-ghostty-gtk-application.html",
+      "path": "posts/2025-08-14-we-rewrote-the-ghostty-gtk-application.html",
+      "date_iso": "2025-08-14T21:19:00+00:00",
+      "source": "https://mitchellh.com/writing/ghostty-gtk-rewrite",
+      "summary": "Article URL: https://mitchellh.com/writing/ghostty-gtk-rewrite Comments URL: https://news.ycombinator.com/item?id=44905808 Points: 87 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44905791",
+      "title": "Where Are All the Tourists from 3025?",
+      "slug": "2025-08-14-where-are-all-the-tourists-from-3025.html",
+      "path": "posts/2025-08-14-where-are-all-the-tourists-from-3025.html",
+      "date_iso": "2025-08-14T21:17:21+00:00",
+      "source": "https://arxiv.org/abs/2508.09157",
+      "summary": "Article URL: https://arxiv.org/abs/2508.09157 Comments URL: https://news.ycombinator.com/item?id=44905791 Points: 6 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44905647",
+      "title": "OneSignal (YC S11) Is Hiring Engineers",
+      "slug": "2025-08-14-onesignal-yc-s11-is-hiring-engineers.html",
+      "path": "posts/2025-08-14-onesignal-yc-s11-is-hiring-engineers.html",
+      "date_iso": "2025-08-14T21:01:04+00:00",
+      "source": "https://onesignal.com/careers",
+      "summary": "Article URL: https://onesignal.com/careers Comments URL: https://news.ycombinator.com/item?id=44905647 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44904993",
+      "title": "DINOv3",
+      "slug": "2025-08-14-dinov3.html",
+      "path": "posts/2025-08-14-dinov3.html",
+      "date_iso": "2025-08-14T20:02:46+00:00",
+      "source": "https://github.com/facebookresearch/dinov3",
+      "summary": "Article URL: https://github.com/facebookresearch/dinov3 Comments URL: https://news.ycombinator.com/item?id=44904993 Points: 38 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44904974",
+      "title": "Show HN: MCP Security Suite",
+      "slug": "2025-08-14-show-hn-mcp-security-suite.html",
+      "path": "posts/2025-08-14-show-hn-mcp-security-suite.html",
+      "date_iso": "2025-08-14T20:01:33+00:00",
+      "source": "https://github.com/NineSunsInc/mighty-security",
+      "summary": "Hi HN! We kept seeing devs get pwned through MCP tools in ways that security scanners completely miss. So we built an open-source analyzer to catch these attacks. Our first OSS by Mighty team. The problem: At Defcon, we saw MCP exploits with 100% success rate against Claude and…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44904869",
+      "title": "Airbrush art of the 80s was Chrome-tastic (2015)",
+      "slug": "2025-08-14-airbrush-art-of-the-80s-was-chrome-tastic-2015.html",
+      "path": "posts/2025-08-14-airbrush-art-of-the-80s-was-chrome-tastic-2015.html",
+      "date_iso": "2025-08-14T19:53:12+00:00",
+      "source": "https://www.coolandcollected.com/airbrush-art-of-the-80s-was-chrome-tastic/",
+      "summary": "Article URL: https://www.coolandcollected.com/airbrush-art-of-the-80s-was-chrome-tastic/ Comments URL: https://news.ycombinator.com/item?id=44904869 Points: 33 # Comments: 6"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/14/us/politics/supreme-court-mississippi-social-media.html",
+      "title": "Supreme Court Allows Mississippi Law on Children’s Use of Social Media, for Now",
+      "slug": "2025-08-14-supreme-court-allows-mississippi-law-on-children-s-use-of-social-media-for-now.html",
+      "path": "posts/2025-08-14-supreme-court-allows-mississippi-law-on-children-s-use-of-social-media-for-now.html",
+      "date_iso": "2025-08-14T18:54:26+00:00",
+      "source": "https://www.nytimes.com/2025/08/14/us/politics/supreme-court-mississippi-social-media.html",
+      "summary": "The Supreme Court’s precedents have protected the First Amendment rights of both children and social media sites."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44903803",
+      "title": "Steve Wozniak: Life to me was never about accomplishment, but about happiness",
+      "slug": "2025-08-14-steve-wozniak-life-to-me-was-never-about-accomplishment-but-about-happiness.html",
+      "path": "posts/2025-08-14-steve-wozniak-life-to-me-was-never-about-accomplishment-but-about-happiness.html",
+      "date_iso": "2025-08-14T18:19:42+00:00",
+      "source": "https://yro.slashdot.org/comments.pl?sid=23765914&cid=65583466",
+      "summary": "Article URL: https://yro.slashdot.org/comments.pl?sid=23765914&amp;cid=65583466 Comments URL: https://news.ycombinator.com/item?id=44903803 Points: 395 # Comments: 262"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/14/technology/apple-watch-masimo-blood-oxygen-levels.html",
+      "title": "Blood Oxygen Measurements to Return to Some Apple Watches",
+      "slug": "2025-08-14-blood-oxygen-measurements-to-return-to-some-apple-watches.html",
+      "path": "posts/2025-08-14-blood-oxygen-measurements-to-return-to-some-apple-watches.html",
+      "date_iso": "2025-08-14T17:53:14+00:00",
+      "source": "https://www.nytimes.com/2025/08/14/technology/apple-watch-masimo-blood-oxygen-levels.html",
+      "summary": "Apple will issue a software update that will restart its Blood Oxygen app on some Apple Watch models in the United States."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44902797",
+      "title": "Streaming services are driving viewers back to piracy",
+      "slug": "2025-08-14-streaming-services-are-driving-viewers-back-to-piracy.html",
+      "path": "posts/2025-08-14-streaming-services-are-driving-viewers-back-to-piracy.html",
+      "date_iso": "2025-08-14T16:56:31+00:00",
+      "source": "https://www.theguardian.com/film/2025/aug/14/cant-pay-wont-pay-impoverished-streaming-services-are-driving-viewers-back-to-piracy",
+      "summary": "Article URL: https://www.theguardian.com/film/2025/aug/14/cant-pay-wont-pay-impoverished-streaming-services-are-driving-viewers-back-to-piracy Comments URL: https://news.ycombinator.com/item?id=44902797 Points: 266 # Comments: 260"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44902763",
+      "title": "Bluesky: Updated Terms and Policies",
+      "slug": "2025-08-14-bluesky-updated-terms-and-policies.html",
+      "path": "posts/2025-08-14-bluesky-updated-terms-and-policies.html",
+      "date_iso": "2025-08-14T16:54:14+00:00",
+      "source": "https://bsky.social/about/blog/08-14-2025-updated-terms-and-policies",
+      "summary": "Article URL: https://bsky.social/about/blog/08-14-2025-updated-terms-and-policies Comments URL: https://news.ycombinator.com/item?id=44902763 Points: 73 # Comments: 103"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44902148",
+      "title": "Gemma 3 270M: Compact model for hyper-efficient AI",
+      "slug": "2025-08-14-gemma-3-270m-compact-model-for-hyper-efficient-ai.html",
+      "path": "posts/2025-08-14-gemma-3-270m-compact-model-for-hyper-efficient-ai.html",
+      "date_iso": "2025-08-14T16:08:36+00:00",
+      "source": "https://developers.googleblog.com/en/introducing-gemma-3-270m/",
+      "summary": "Article URL: https://developers.googleblog.com/en/introducing-gemma-3-270m/ Comments URL: https://news.ycombinator.com/item?id=44902148 Points: 475 # Comments: 193"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44902127",
+      "title": "I made a real-time C/C++/Rust build visualizer",
+      "slug": "2025-08-14-i-made-a-real-time-c-c-rust-build-visualizer.html",
+      "path": "posts/2025-08-14-i-made-a-real-time-c-c-rust-build-visualizer.html",
+      "date_iso": "2025-08-14T16:06:55+00:00",
+      "source": "https://danielchasehooper.com/posts/syscall-build-snooping/",
+      "summary": "Article URL: https://danielchasehooper.com/posts/syscall-build-snooping/ Comments URL: https://news.ycombinator.com/item?id=44902127 Points: 155 # Comments: 44"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44901853",
+      "title": "Show HN: OWhisper – Ollama for realtime speech-to-text",
+      "slug": "2025-08-14-show-hn-owhisper-ollama-for-realtime-speech-to-text.html",
+      "path": "posts/2025-08-14-show-hn-owhisper-ollama-for-realtime-speech-to-text.html",
+      "date_iso": "2025-08-14T15:47:43+00:00",
+      "source": "https://docs.hyprnote.com/owhisper/what-is-this",
+      "summary": "Hello everyone. This is Yujong from the Hyprnote team ( https://github.com/fastrepl/hyprnote ). We built OWhisper for 2 reasons: (Also outlined in https://docs.hyprnote.com/owhisper/what-is-this ) (1). While working with on-device, realtime speech-to-text, we found there isn't t…"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/13/magazine/tiktok-livestream-manual-labor.html",
+      "title": "Strawberry Picking Is Thankless Work. That’s What Makes It Worth Watching.",
+      "slug": "2025-08-14-strawberry-picking-is-thankless-work-that-s-what-makes-it-worth-watching.html",
+      "path": "posts/2025-08-14-strawberry-picking-is-thankless-work-that-s-what-makes-it-worth-watching.html",
+      "date_iso": "2025-08-14T15:44:41+00:00",
+      "source": "https://www.nytimes.com/2025/08/13/magazine/tiktok-livestream-manual-labor.html",
+      "summary": "On TikTok Live, workers stream video of themselves doing manual labor, providing glimpses of the human effort that powers our world."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44901683",
+      "title": "Show HN: I built a free alternative to Adobe Acrobat PDF viewer",
+      "slug": "2025-08-14-show-hn-i-built-a-free-alternative-to-adobe-acrobat-pdf-viewer.html",
+      "path": "posts/2025-08-14-show-hn-i-built-a-free-alternative-to-adobe-acrobat-pdf-viewer.html",
+      "date_iso": "2025-08-14T15:34:46+00:00",
+      "source": "https://github.com/embedpdf/embed-pdf-viewer",
+      "summary": "I built EmbedPDF: an MIT-licensed, open-source PDF viewer that aims to match all of Adobe Acrobat’s paid features… for free. Already working: - Annotations (highlight, sticky notes, free text, ink) - True redaction (content actually removed) - Search, text selection, zoom, rotat…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44901528",
+      "title": "Launch HN: Cyberdesk (YC S25) – Automate Windows legacy desktop apps",
+      "slug": "2025-08-14-launch-hn-cyberdesk-yc-s25-automate-windows-legacy-desktop-apps.html",
+      "path": "posts/2025-08-14-launch-hn-cyberdesk-yc-s25-automate-windows-legacy-desktop-apps.html",
+      "date_iso": "2025-08-14T15:24:53+00:00",
+      "source": "https://news.ycombinator.com/item?id=44901528",
+      "summary": "Hi HN, We’re Mahmoud and Alan, building Cyberdesk ( https://www.cyberdesk.io/ ), a deterministic computer use agent for automating Windows desktop applications. Developers use us to automate repetitive tasks in legacy software in healthcare, accounting, construction, and more, b…"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/14/business/energy-environment/ai-data-centers-electricity-costs.html",
+      "title": "Big Tech’s A.I. Data Centers Are Driving Up Electricity Bills for Everyone",
+      "slug": "2025-08-14-big-tech-s-a-i-data-centers-are-driving-up-electricity-bills-for-everyone.html",
+      "path": "posts/2025-08-14-big-tech-s-a-i-data-centers-are-driving-up-electricity-bills-for-everyone.html",
+      "date_iso": "2025-08-14T15:13:37+00:00",
+      "source": "https://www.nytimes.com/2025/08/14/business/energy-environment/ai-data-centers-electricity-costs.html",
+      "summary": "A transmission line running near data centers in Ashburn, Va. As the electricity demands of the structures rapidly escalate, tech companies are becoming some of the most dominant players in energy."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44899999",
+      "title": "Blood oxygen monitoring returning to Apple Watch in the US",
+      "slug": "2025-08-14-blood-oxygen-monitoring-returning-to-apple-watch-in-the-us.html",
+      "path": "posts/2025-08-14-blood-oxygen-monitoring-returning-to-apple-watch-in-the-us.html",
+      "date_iso": "2025-08-14T13:14:35+00:00",
+      "source": "https://www.apple.com/newsroom/2025/08/an-update-on-blood-oxygen-for-apple-watch-in-the-us/",
+      "summary": "Article URL: https://www.apple.com/newsroom/2025/08/an-update-on-blood-oxygen-for-apple-watch-in-the-us/ Comments URL: https://news.ycombinator.com/item?id=44899999 Points: 310 # Comments: 223"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44899415",
+      "title": "How to rig elections [video]",
+      "slug": "2025-08-14-how-to-rig-elections-video.html",
+      "path": "posts/2025-08-14-how-to-rig-elections-video.html",
+      "date_iso": "2025-08-14T12:04:05+00:00",
+      "source": "https://media.ccc.de/v/why2025-218-how-to-rig-elections",
+      "summary": "https://arxiv.org/abs/2412.04535 Comments URL: https://news.ycombinator.com/item?id=44899415 Points: 127 # Comments: 100"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44899339",
+      "title": "New protein therapy shows promise as antidote for carbon monoxide poisoning",
+      "slug": "2025-08-14-new-protein-therapy-shows-promise-as-antidote-for-carbon-monoxide-poisoning.html",
+      "path": "posts/2025-08-14-new-protein-therapy-shows-promise-as-antidote-for-carbon-monoxide-poisoning.html",
+      "date_iso": "2025-08-14T11:56:20+00:00",
+      "source": "https://www.medschool.umaryland.edu/news/2025/new-protein-therapy-shows-promise-as-first-ever-antidote-for-carbon-monoxide-poisoning.html",
+      "summary": "Article URL: https://www.medschool.umaryland.edu/news/2025/new-protein-therapy-shows-promise-as-first-ever-antidote-for-carbon-monoxide-poisoning.html Comments URL: https://news.ycombinator.com/item?id=44899339 Points: 203 # Comments: 47"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44894910",
+      "title": "What does Palantir actually do?",
+      "slug": "2025-08-13-what-does-palantir-actually-do.html",
+      "path": "posts/2025-08-13-what-does-palantir-actually-do.html",
+      "date_iso": "2025-08-13T23:03:16+00:00",
+      "source": "https://www.wired.com/story/palantir-what-the-company-does/",
+      "summary": "Article URL: https://www.wired.com/story/palantir-what-the-company-does/ Comments URL: https://news.ycombinator.com/item?id=44894910 Points: 164 # Comments: 133"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/13/business/wall-street-banks-crypto-stablecoins.html",
+      "title": "Behind Wall Street’s Abrupt Flip on Crypto",
+      "slug": "2025-08-13-behind-wall-street-s-abrupt-flip-on-crypto.html",
+      "path": "posts/2025-08-13-behind-wall-street-s-abrupt-flip-on-crypto.html",
+      "date_iso": "2025-08-13T22:12:04+00:00",
+      "source": "https://www.nytimes.com/2025/08/13/business/wall-street-banks-crypto-stablecoins.html",
+      "summary": "The reversal risks declawing a century of consumer financial protections and replacing the backbone of bank accounts."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44893522",
+      "title": "All Souls exam questions and the limits of machine reasoning",
+      "slug": "2025-08-13-all-souls-exam-questions-and-the-limits-of-machine-reasoning.html",
+      "path": "posts/2025-08-13-all-souls-exam-questions-and-the-limits-of-machine-reasoning.html",
+      "date_iso": "2025-08-13T20:34:27+00:00",
+      "source": "https://resobscura.substack.com/p/all-souls-exam-questions-and-the",
+      "summary": "Article URL: https://resobscura.substack.com/p/all-souls-exam-questions-and-the Comments URL: https://news.ycombinator.com/item?id=44893522 Points: 40 # Comments: 20"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/13/technology/trump-chips-nvidia-intel.html",
+      "title": "Trump Has Made Himself Commander in Chief of the Chip Industry",
+      "slug": "2025-08-13-trump-has-made-himself-commander-in-chief-of-the-chip-industry.html",
+      "path": "posts/2025-08-13-trump-has-made-himself-commander-in-chief-of-the-chip-industry.html",
+      "date_iso": "2025-08-13T13:28:39+00:00",
+      "source": "https://www.nytimes.com/2025/08/13/technology/trump-chips-nvidia-intel.html",
+      "summary": "President Trump has inserted himself into one of the world’s most economically and strategically important industries."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/12/technology/do-kwon-crypto-fraud-guilty-plea.html",
+      "title": "Do Kwon, Crypto Founder Who Caused 2022 Market Crash, Pleads Guilty to Fraud",
+      "slug": "2025-08-12-do-kwon-crypto-founder-who-caused-2022-market-crash-pleads-guilty-to-fraud.html",
+      "path": "posts/2025-08-12-do-kwon-crypto-founder-who-caused-2022-market-crash-pleads-guilty-to-fraud.html",
+      "date_iso": "2025-08-12T22:21:03+00:00",
+      "source": "https://www.nytimes.com/2025/08/12/technology/do-kwon-crypto-fraud-guilty-plea.html",
+      "summary": "Police officers escorted the cryptocurrency entrepreneur Do Kwon out of court in Podgorica, Montenegro, last year."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/12/technology/silicon-chips-doodles.html",
+      "title": "Hidden Inside Our Electronics, Tiny Doodles From Another Era",
+      "slug": "2025-08-12-hidden-inside-our-electronics-tiny-doodles-from-another-era.html",
+      "path": "posts/2025-08-12-hidden-inside-our-electronics-tiny-doodles-from-another-era.html",
+      "date_iso": "2025-08-12T22:11:43+00:00",
+      "source": "https://www.nytimes.com/2025/08/12/technology/silicon-chips-doodles.html",
+      "summary": "When designers began to leave their marks on chips for devices, they never intended for the world to find out."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/12/technology/elon-musk-apple-openai-xai.html",
+      "title": "Elon Musk Threatens Lawsuit Against Apple Over Claims It Favors OpenAI",
+      "slug": "2025-08-12-elon-musk-threatens-lawsuit-against-apple-over-claims-it-favors-openai.html",
+      "path": "posts/2025-08-12-elon-musk-threatens-lawsuit-against-apple-over-claims-it-favors-openai.html",
+      "date_iso": "2025-08-12T19:41:35+00:00",
+      "source": "https://www.nytimes.com/2025/08/12/technology/elon-musk-apple-openai-xai.html",
+      "summary": "Elon Musk during a cabinet meeting at the White House in April. He has feuded with Apple and OpenAI before."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/12/business/larry-ellison-oracle-philanthropy.html",
+      "title": "Larry Ellison Wants to Do Good, Do Research and Make a Profit",
+      "slug": "2025-08-12-larry-ellison-wants-to-do-good-do-research-and-make-a-profit.html",
+      "path": "posts/2025-08-12-larry-ellison-wants-to-do-good-do-research-and-make-a-profit.html",
+      "date_iso": "2025-08-12T18:37:13+00:00",
+      "source": "https://www.nytimes.com/2025/08/12/business/larry-ellison-oracle-philanthropy.html",
+      "summary": "Larry Ellison said he would spend one billion pounds to build a campus and sponsor 20 fellowships at Oxford each year."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/11/business/energy-environment/hydrogen-clean-energy.html",
+      "title": "America’s Clean Hydrogen Dreams Are Fading Again",
+      "slug": "2025-08-12-america-s-clean-hydrogen-dreams-are-fading-again.html",
+      "path": "posts/2025-08-12-america-s-clean-hydrogen-dreams-are-fading-again.html",
+      "date_iso": "2025-08-12T18:23:34+00:00",
+      "source": "https://www.nytimes.com/2025/08/11/business/energy-environment/hydrogen-clean-energy.html",
+      "summary": "A hydrogen-powered car fueling at a gas station in Fountain Valley, Calif. The infrastructure to support such vehicles also does not exist in most of the world."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/12/technology/perplexity-google-chrome-bid.html",
+      "title": "A.I. Start-Up Perplexity Offers to Buy Google’s Chrome Browser for $34.5 Billion",
+      "slug": "2025-08-12-a-i-start-up-perplexity-offers-to-buy-google-s-chrome-browser-for-34-5-billion.html",
+      "path": "posts/2025-08-12-a-i-start-up-perplexity-offers-to-buy-google-s-chrome-browser-for-34-5-billion.html",
+      "date_iso": "2025-08-12T17:57:16+00:00",
+      "source": "https://www.nytimes.com/2025/08/12/technology/perplexity-google-chrome-bid.html",
+      "summary": "Aravind Srinivas, the chief executive of Perplexity, an A.I. start-up aggressively taking on the traditional search engine business."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/11/technology/president-trump-intel-ceo.html",
+      "title": "President Trump Calls Intel C.E.O. a ‘Success’ After Meeting",
+      "slug": "2025-08-11-president-trump-calls-intel-c-e-o-a-success-after-meeting.html",
+      "path": "posts/2025-08-11-president-trump-calls-intel-c-e-o-a-success-after-meeting.html",
+      "date_iso": "2025-08-11T23:38:04+00:00",
+      "source": "https://www.nytimes.com/2025/08/11/technology/president-trump-intel-ceo.html",
+      "summary": "A meeting between the chief executive of Intel, Lip-Bu Tan, and President Trump comes at a crucial moment for the American company, a flagging semiconductor manufacturer."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/11/technology/trump-intel-lip-bu-tan.html",
+      "title": "Who is Lip-Bu Tan, the Intel CEO in Trump’s Cross Hairs?",
+      "slug": "2025-08-11-who-is-lip-bu-tan-the-intel-ceo-in-trump-s-cross-hairs.html",
+      "path": "posts/2025-08-11-who-is-lip-bu-tan-the-intel-ceo-in-trump-s-cross-hairs.html",
+      "date_iso": "2025-08-11T22:42:39+00:00",
+      "source": "https://www.nytimes.com/2025/08/11/technology/trump-intel-lip-bu-tan.html",
+      "summary": "Intel’s chief executive Lip-Bu Tan speaks at the company’s annual event in San Jose in April."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/11/world/americas/brazil-big-tech-trump-tariffs.html",
+      "title": "Brazil Clamped Down on Big Tech. Trump’s Tariffs Could Change That.",
+      "slug": "2025-08-11-brazil-clamped-down-on-big-tech-trump-s-tariffs-could-change-that.html",
+      "path": "posts/2025-08-11-brazil-clamped-down-on-big-tech-trump-s-tariffs-could-change-that.html",
+      "date_iso": "2025-08-11T20:58:11+00:00",
+      "source": "https://www.nytimes.com/2025/08/11/world/americas/brazil-big-tech-trump-tariffs.html",
+      "summary": "A demonstration last year to protest the Brazilian Supreme Court’s move to ban Elon Musk’s X."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/11/business/ford-electric-vehicles.html",
+      "title": "Ford Rejigs E.V. Plans After Suffering Billions in Losses",
+      "slug": "2025-08-11-ford-rejigs-e-v-plans-after-suffering-billions-in-losses.html",
+      "path": "posts/2025-08-11-ford-rejigs-e-v-plans-after-suffering-billions-in-losses.html",
+      "date_iso": "2025-08-11T15:41:47+00:00",
+      "source": "https://www.nytimes.com/2025/08/11/business/ford-electric-vehicles.html",
+      "summary": "A Ford F-150 Lightning Lariat electric vehicle at the New York International Auto Show in March 2024."
+    }
+  ]
 }

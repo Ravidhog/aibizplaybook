@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: MCP Security Suite</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: MCP Security Suite</h1>
+    <p><small>Published: 2025-08-14T20:01:33+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hi HN!<p>We kept seeing devs get pwned through MCP tools in ways that security scanners completely miss. So we built an open-source analyzer to catch these attacks. Our first OSS by Mighty team.<p>The problem: At Defcon, we saw MCP exploits with 100% success rate against Claude and Llama. Three attack patterns:<p>Hidden Unicode in "error messages" - Paste a colleague's error into Claude, your SSH keys get exfiltrated
+Trusted tool updates - That database tool you've used for months? Last week's update added credential theft
+Tool redefinition - Malicious tool redefines "deploy to prod" to run attacker's script<p>Traditional scanners (CodeQL, SonarQube) catch <15% of these. They're looking for SQLi, not prompt injections hidden in tool descriptions.<p>What we built:
+git clone <a href="https://github.com/NineSunsInc/mighty-security" rel="nofollow">https://github.com/NineSunsInc/mighty-security</a><p>python analyzers/comprehensive_mcp_analyzer.py /path/to/your/mcp/tool<p>Scans for prompt injection, credential exfil, suspicious updates, tool shadowing. Runtime wrapper adds <10ms overhead. Fully local, no telemetry.<p>Why this matters: 43% of MCP tools have command injection vulns. GitHub's own MCP server was exploitable. We found Fortune 500s running database-connected MCP tools that hadn't been audited since installation.
+We went from paranoid code review to "AI said it works" in 18 months. The magic is real, but so are the vulnerabilities.<p>Demo: <a href="https://www.loom.com/share/e830c56d39254a788776358c5b03fdc3" rel="nofollow">https://www.loom.com/share/e830c56d39254a788776358c5b03fdc3</a><p>GitHub: <a href="https://github.com/NineSunsInc/mighty-security" rel="nofollow">https://github.com/NineSunsInc/mighty-security</a><p>Would love feedback - what MCP security issues have you seen?</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=44904974">https://news.ycombinator.com/item?id=44904974</a></p>
+<p>Points: 15</p>
+<p># Comments: 10</p>
+    <p><a href="https://github.com/NineSunsInc/mighty-security" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
