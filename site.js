@@ -1,42 +1,63 @@
-// Inject AdSense partial (assets/ads.html) if present
-fetch('assets/ads.html').then(r => r.ok ? r.text() : '').then(html => {
-  if (html) { const slot = document.getElementById('ad-slot'); if (slot) slot.innerHTML = html; }
-}).catch(()=>{});
+// site.js — lightweight front-end for aibizplaybook
+// - Renders latest posts to #latest-posts
+// - Renders full archive to #all-posts (if present)
+// - Injects /assets/ads.html into #ad-slot (if present)
+// - Renders /assets/affiliates.json into #affiliates (if present)
 
-// Load affiliates list
-fetch('assets/affiliates.json').then(r => r.ok ? r.json() : []).then(list => {
-  const ul = document.getElementById('affiliates');
-  if (!ul) return;
-  if (Array.isArray(list) && list.length) {
-    list.forEach(item => {
-      const li = document.createElement('li');
-      const a = document.createElement('a');
-      a.href = item.url;
-      a.textContent = item.name || item.url;
-      a.rel = "sponsored noopener";
-      a.target = "_blank";
-      li.appendChild(a);
-      ul.appendChild(li);
+(function () {
+  // ---------- Small helpers ----------
+  const bust = () => `?v=${Date.now()}`;
+
+  function $(sel) {
+    return document.querySelector(sel);
+  }
+
+  function escapeHTML(s) {
+    return (s || "")
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/'/g, "&#039;");
+  }
+
+  function fmtDate(iso) {
+    if (!iso) return "";
+    const d = new Date(iso);
+    if (isNaN(d.getTime())) return "";
+    return d.toLocaleDateString(undefined, {
+      year: "numeric",
+      month: "short",
+      day: "2-digit",
     });
-  } else {
-    ul.innerHTML = '<li>Add links in assets/affiliates.json</li>';
   }
-}).catch(()=>{});
 
-// Build a simple list of posts by reading a manifest that rss_to_posts.py maintains
-fetch('posts/manifest.json').then(r => r.ok ? r.json() : {posts:[]}).then(data => {
-  const ul = document.getElementById('post-list');
-  if (!ul) return;
-  if (!data.posts || !data.posts.length) {
-    ul.innerHTML = '<li>No posts yet. The Daily publisher will create them.</li>';
-    return;
+  async function fetchJSON(path) {
+    const res = await fetch(path + bust(), { headers: { Accept: "application/json" } });
+    if (!res.ok) throw new Error(`Failed to fetch ${path}`);
+    return res.json();
   }
-  data.posts.slice(0, 20).forEach(p => {
-    const li = document.createElement('li');
-    const a = document.createElement('a');
-    a.href = 'posts/' + p.filename;
-    a.textContent = p.title + ' — ' + p.date;
-    li.appendChild(a);
-    ul.appendChild(li);
-  });
-}).catch(()=>{});
+
+  async function fetchText(path) {
+    const res = await fetch(path + bust());
+    if (!res.ok) throw new Error(`Failed to fetch ${path}`);
+    return res.text();
+  }
+
+  // ---------- Posts rendering ----------
+  async function loadManifest() {
+    try {
+      const data = await fetchJSON("/posts/manifest.json");
+      const posts = Array.isArray(data.posts) ? data.posts : [];
+      // sort newest first if not already
+      posts.sort((a, b) => String(b.date_iso).localeCompare(String(a.date_iso)));
+      return posts;
+    } catch (e) {
+      console.error(e);
+      return [];
+    }
+  }
+
+  function postHref(p) {
+    // Prefer explicit path from manifest; else build from slug
+    return "/" + (p.path || ("posts
