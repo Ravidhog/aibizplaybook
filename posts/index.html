@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>All Posts — AI Biz Playbook</title>
+  <meta name="description" content="Archive of all posts from AI Biz Playbook." />
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <header>
+    <h1>All posts</h1>
+    <nav>
+      <a href="/">← Home</a>
+      <a href="/about.html">About</a>
+    </nav>
+  </header>
+
+  <main>
+    <!-- Simple search filter -->
+    <div style="margin:1rem 0;">
+      <input id="post-filter" type="search" placeholder="Filter posts…" aria-label="Filter posts" />
+    </div>
+
+    <ul id="all-posts"><li>Loading…</li></ul>
+
+    <!-- Small helper to filter the rendered list on this page only -->
+    <script>
+      (function () {
+        function filterList() {
+          const q = (document.getElementById('post-filter').value || '').toLowerCase();
+          const items = document.querySelectorAll('#all-posts li');
+          items.forEach(li => {
+            const txt = li.textContent.toLowerCase();
+            li.style.display = txt.includes(q) ? '' : 'none';
+          });
+        }
+        document.addEventListener('DOMContentLoaded', () => {
+          const input = document.getElementById('post-filter');
+          if (input) input.addEventListener('input', filterList);
+        });
+      })();
+    </script>
+  </main>
+
+  <footer>
+    <p>© <span id="year"></span> AI Biz Playbook</p>
+  </footer>
+
+  <script>
+    // keep footer year current even if site.js fails
+    (function(){ try {
+      document.getElementById("year").textContent = new Date().getFullYear();
+    } catch(_) {} })();
+  </script>
+  <script src="/site.js"></script>
+</body>
+</html>
