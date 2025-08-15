@@ -1,37 +1,58 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>AI Biz Playbook</title>
-  <link rel="stylesheet" href="styles.css" />
+  <meta name="description" content="Daily AI workflows for SMBs." />
+  <link rel="stylesheet" href="/styles.css" />
+  <meta property="og:title" content="AI Biz Playbook" />
+  <meta property="og:description" content="Daily AI workflows for SMBs." />
+  <meta property="og:type" content="website" />
 </head>
 <body>
   <header>
     <h1>AI Biz Playbook</h1>
     <p class="tagline">Daily AI workflows for SMBs</p>
     <nav>
-      <a href="index.html">Home</a>
-      <a href="about.html">About</a>
+      <a href="/index.html">Home</a>
+      <a href="/about.html">About</a>
+      <a href="/posts/index.html">All posts</a>
     </nav>
   </header>
 
   <main>
+    <!-- Optional ad slot (filled by /site.js if /assets/ads.html exists) -->
     <div id="ad-slot"></div>
-    <h2>Latest posts</h2>
-    <ul id="post-list">
-    </ul>
+
+    <section aria-labelledby="latest-heading">
+      <h2 id="latest-heading">Latest posts</h2>
+      <ul id="latest-posts">
+        <li><em>Loading posts…</em></li>
+      </ul>
+      <p><a href="/posts/index.html">Browse all posts →</a></p>
+    </section>
   </main>
 
   <aside>
     <h3>Tools we like</h3>
-    <ul id="affiliates"></ul>
+    <ul id="affiliates"><!-- filled by /site.js from /assets/affiliates.json --></ul>
   </aside>
 
   <footer>
-    <p>&copy; 2025 AI Biz Playbook</p>
+    <p>© <span id="year"></span> AI Biz Playbook</p>
   </footer>
 
-  <script src="scripts/site.js"></script>
+  <noscript>
+    <p><em>JavaScript is required to load the latest posts.</em></p>
+  </noscript>
+
+  <script>
+    // tiny helper so the footer year stays current even without site.js
+    (function(){ try {
+      document.getElementById("year").textContent = new Date().getFullYear();
+    } catch(_) {} })();
+  </script>
+  <script src="/site.js"></script>
 </body>
 </html>
