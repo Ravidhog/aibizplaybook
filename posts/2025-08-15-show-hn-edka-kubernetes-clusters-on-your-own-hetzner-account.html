@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Edka – Kubernetes clusters on your own Hetzner account</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Edka – Kubernetes clusters on your own Hetzner account</h1>
+    <p><small>Published: 2025-08-15T17:34:54+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hi HN,<p>I’ve been working with Kubernetes for over a decade, since the alpha days, and was involved in kube-aws project before AWS launched EKS. For the past four years, I’ve been helping friends and small businesses cut costs by running Kubernetes on Hetzner Cloud, which I’ve found to be rock solid and by far the best priced provider.<p>Provisioning a cluster on Hetzner is now straightforward, thanks to tools like k3s and hetzner-k3s, but configuring it for your specific needs still takes time and expertise. I built Edka to make that part easy: spin up a production ready cluster in ~2 minutes, then choose how low level or automated you want to go.<p>How it works:<p>Layer 1 – Cluster provisioning
+ - Creates a k3s-based Kubernetes cluster on Hetzner (lightweight, easy to manage, scales well).<p>Layer 2 – Add-ons
+ - One-click deploy for metrics-server, cert-manager, and various operators; preconfigured for Hetzner, no extra setup needed.<p>Layer 3 – Applications
+ - Minimal config UIs for apps built on top of add-ons.
+ - Example: Need PostgreSQL? Fill a few fields → platform installs CloudNativePG → provisions HA PostgreSQL with PITR → gives ready to use endpoints. Backups can be restored to any point in time with a click. Quick demo: <a href="https://edka.io/apps/" rel="nofollow">https://edka.io/apps/</a><p>Layer 4 – Deployments
+ - Connect your CI to push container images to a public/private registry.
+ - Edka updates deployments automatically (with semantic versioning rules), supports instant rollbacks, autoscaling, persistent volumes, secrets/env imports, and quick public exposure. Quick demo: <a href="https://edka.io/deployments/" rel="nofollow">https://edka.io/deployments/</a><p>Tech stack: TypeScript, React + Tailwind CSS, PostgreSQL, Redis, BullMQ, Vault + AWS KMS to encrypted sensitive data.<p>The platform is still in beta and I’m building it in my spare time, so there are some rough edges, but I’d love feedback from anyone running Kubernetes on Hetzner, exploring alternatives to EKS/GKE/AKS or looking to automate their infrastructure with Kubernetes.<p>More details: <a href="https://edka.io/" rel="nofollow">https://edka.io/</a><p>Thank you!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=44915164">https://news.ycombinator.com/item?id=44915164</a></p>
+<p>Points: 243</p>
+<p># Comments: 77</p>
+    <p><a href="https://edka.io" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

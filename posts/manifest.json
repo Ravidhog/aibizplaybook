@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2025/08/15/technology/media-matters-ftc-musk-injunction.html",
+      "title": "Judge Blocks F.T.C. Investigation of Media Matters",
+      "slug": "2025-08-15-judge-blocks-f-t-c-investigation-of-media-matters.html",
+      "path": "posts/2025-08-15-judge-blocks-f-t-c-investigation-of-media-matters.html",
+      "date_iso": "2025-08-15T23:02:00+00:00",
+      "source": "https://www.nytimes.com/2025/08/15/technology/media-matters-ftc-musk-injunction.html",
+      "summary": "An investigation of Media Matters by the Federal Trade Commission, above, “presents a straightforward First Amendment violation,” a federal judge ruled on Friday."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44917835",
+      "title": "California unemployment rises to 5.5%, worst in the U.S. as tech falters",
+      "slug": "2025-08-15-california-unemployment-rises-to-5-5-worst-in-the-u-s-as-tech-falters.html",
+      "path": "posts/2025-08-15-california-unemployment-rises-to-5-5-worst-in-the-u-s-as-tech-falters.html",
+      "date_iso": "2025-08-15T22:10:26+00:00",
+      "source": "https://www.sfchronicle.com/california/article/unemployment-rate-rises-tech-20819276.php",
+      "summary": "Article URL: https://www.sfchronicle.com/california/article/unemployment-rate-rises-tech-20819276.php Comments URL: https://news.ycombinator.com/item?id=44917835 Points: 28 # Comments: 7"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/15/technology/meta-child-safety-senate-investigation.html",
+      "title": "Senator Josh Hawley Begins Child Safety Inquiry Into Meta’s A.I. Bot",
+      "slug": "2025-08-15-senator-josh-hawley-begins-child-safety-inquiry-into-meta-s-a-i-bot.html",
+      "path": "posts/2025-08-15-senator-josh-hawley-begins-child-safety-inquiry-into-meta-s-a-i-bot.html",
+      "date_iso": "2025-08-15T21:46:34+00:00",
+      "source": "https://www.nytimes.com/2025/08/15/technology/meta-child-safety-senate-investigation.html",
+      "summary": "Senator Josh Hawley, Republican of Missouri, is chair of the Senate Judiciary Committee’s Subcommittee on Crime and Counterterrorism."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44917450",
+      "title": "TextKit 2 – The Promised Land",
+      "slug": "2025-08-15-textkit-2-the-promised-land.html",
+      "path": "posts/2025-08-15-textkit-2-the-promised-land.html",
+      "date_iso": "2025-08-15T21:26:53+00:00",
+      "source": "https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/",
+      "summary": "Article URL: https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/ Comments URL: https://news.ycombinator.com/item?id=44917450 Points: 25 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44917308",
+      "title": "US F-16s lose out as Thai Air Force seals US$600M deal for Swedish Gripen jets",
+      "slug": "2025-08-15-us-f-16s-lose-out-as-thai-air-force-seals-us-600m-deal-for-swedish-gripen-jets.html",
+      "path": "posts/2025-08-15-us-f-16s-lose-out-as-thai-air-force-seals-us-600m-deal-for-swedish-gripen-jets.html",
+      "date_iso": "2025-08-15T21:11:42+00:00",
+      "source": "https://www.scmp.com/news/asia/southeast-asia/article/3320828/us-f-16s-lose-out-thai-air-force-seals-us600-million-deal-swedish-gripen-jets",
+      "summary": "Article URL: https://www.scmp.com/news/asia/southeast-asia/article/3320828/us-f-16s-lose-out-thai-air-force-seals-us600-million-deal-swedish-gripen-jets Comments URL: https://news.ycombinator.com/item?id=44917308 Points: 87 # Comments: 80"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44916900",
+      "title": "Porting Gigabyte MZ33-AR1 Server Board with AMD Turin CPU to Coreboot",
+      "slug": "2025-08-15-porting-gigabyte-mz33-ar1-server-board-with-amd-turin-cpu-to-coreboot.html",
+      "path": "posts/2025-08-15-porting-gigabyte-mz33-ar1-server-board-with-amd-turin-cpu-to-coreboot.html",
+      "date_iso": "2025-08-15T20:21:27+00:00",
+      "source": "https://blog.3mdeb.com/2025/2025-08-07-gigabyte_mz33_ar1_part1/",
+      "summary": "Article URL: https://blog.3mdeb.com/2025/2025-08-07-gigabyte_mz33_ar1_part1/ Comments URL: https://news.ycombinator.com/item?id=44916900 Points: 9 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44916813",
+      "title": "Claude Opus 4 and 4.1 can now end a rare subset of conversations",
+      "slug": "2025-08-15-claude-opus-4-and-4-1-can-now-end-a-rare-subset-of-conversations.html",
+      "path": "posts/2025-08-15-claude-opus-4-and-4-1-can-now-end-a-rare-subset-of-conversations.html",
+      "date_iso": "2025-08-15T20:12:13+00:00",
+      "source": "https://www.anthropic.com/research/end-subset-conversations",
+      "summary": "Article URL: https://www.anthropic.com/research/end-subset-conversations Comments URL: https://news.ycombinator.com/item?id=44916813 Points: 128 # Comments: 163"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44916783",
+      "title": "The Future of Large Files in Git Is Git",
+      "slug": "2025-08-15-the-future-of-large-files-in-git-is-git.html",
+      "path": "posts/2025-08-15-the-future-of-large-files-in-git-is-git.html",
+      "date_iso": "2025-08-15T20:07:06+00:00",
+      "source": "https://tylercipriani.com/blog/2025/08/15/git-lfs/",
+      "summary": "Article URL: https://tylercipriani.com/blog/2025/08/15/git-lfs/ Comments URL: https://news.ycombinator.com/item?id=44916783 Points: 75 # Comments: 30"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44915824",
+      "title": "OpenBSD is so fast, I had to modify the program slightly to measure itself",
+      "slug": "2025-08-15-openbsd-is-so-fast-i-had-to-modify-the-program-slightly-to-measure-itself.html",
+      "path": "posts/2025-08-15-openbsd-is-so-fast-i-had-to-modify-the-program-slightly-to-measure-itself.html",
+      "date_iso": "2025-08-15T18:25:02+00:00",
+      "source": "https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux",
+      "summary": "Article URL: https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux Comments URL: https://news.ycombinator.com/item?id=44915824 Points: 91 # Comments: 66"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44915220",
+      "title": "Show HN: JMAP MCP – Email for your agents",
+      "slug": "2025-08-15-show-hn-jmap-mcp-email-for-your-agents.html",
+      "path": "posts/2025-08-15-show-hn-jmap-mcp-email-for-your-agents.html",
+      "date_iso": "2025-08-15T17:39:02+00:00",
+      "source": "https://github.com/wyattjoh/jmap-mcp",
+      "summary": "I wrote this JMAP MCP server that adds email management tools to Claude for searching, reading, and sending emails through FastMail and other JMAP providers in Deno! Comments URL: https://news.ycombinator.com/item?id=44915220 Points: 35 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44915206",
+      "title": "Launch HN: Embedder (YC S25) – Claude code for embedded software",
+      "slug": "2025-08-15-launch-hn-embedder-yc-s25-claude-code-for-embedded-software.html",
+      "path": "posts/2025-08-15-launch-hn-embedder-yc-s25-claude-code-for-embedded-software.html",
+      "date_iso": "2025-08-15T17:38:05+00:00",
+      "source": "https://news.ycombinator.com/item?id=44915206",
+      "summary": "Hey HN - We’re Bob and Ethan from Embedder ( https://embedder.dev ), a hardware-aware AI coding agent that can write firmware and test it on physical hardware. Here’s a demo in which we integrate a magnetometer for the Pebble 2 smartwatch: https://www.youtube.com/watch?v=WOpAfei…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44915187",
+      "title": "Imagen 4 is now generally available",
+      "slug": "2025-08-15-imagen-4-is-now-generally-available.html",
+      "path": "posts/2025-08-15-imagen-4-is-now-generally-available.html",
+      "date_iso": "2025-08-15T17:36:15+00:00",
+      "source": "https://developers.googleblog.com/en/announcing-imagen-4-fast-and-imagen-4-family-generally-available-in-the-gemini-api/",
+      "summary": "Article URL: https://developers.googleblog.com/en/announcing-imagen-4-fast-and-imagen-4-family-generally-available-in-the-gemini-api/ Comments URL: https://news.ycombinator.com/item?id=44915187 Points: 144 # Comments: 55"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44915164",
+      "title": "Show HN: Edka – Kubernetes clusters on your own Hetzner account",
+      "slug": "2025-08-15-show-hn-edka-kubernetes-clusters-on-your-own-hetzner-account.html",
+      "path": "posts/2025-08-15-show-hn-edka-kubernetes-clusters-on-your-own-hetzner-account.html",
+      "date_iso": "2025-08-15T17:34:54+00:00",
+      "source": "https://edka.io",
+      "summary": "Hi HN, I’ve been working with Kubernetes for over a decade, since the alpha days, and was involved in kube-aws project before AWS launched EKS. For the past four years, I’ve been helping friends and small businesses cut costs by running Kubernetes on Hetzner Cloud, which I’ve fo…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44914149",
+      "title": "Bullfrog in the Dungeon",
+      "slug": "2025-08-15-bullfrog-in-the-dungeon.html",
+      "path": "posts/2025-08-15-bullfrog-in-the-dungeon.html",
+      "date_iso": "2025-08-15T16:10:18+00:00",
+      "source": "https://www.filfre.net/2025/08/bullfrog-in-the-dungeon/",
+      "summary": "Article URL: https://www.filfre.net/2025/08/bullfrog-in-the-dungeon/ Comments URL: https://news.ycombinator.com/item?id=44914149 Points: 78 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44914061",
+      "title": "Occult books digitized and put online by Amsterdam’s Ritman Library",
+      "slug": "2025-08-15-occult-books-digitized-and-put-online-by-amsterdam-s-ritman-library.html",
+      "path": "posts/2025-08-15-occult-books-digitized-and-put-online-by-amsterdam-s-ritman-library.html",
+      "date_iso": "2025-08-15T16:03:36+00:00",
+      "source": "https://www.openculture.com/2025/08/2178-occult-books-now-digitized-put-online.html",
+      "summary": "https://embassyofthefreemind.com/en/library/online-catalogue... Comments URL: https://news.ycombinator.com/item?id=44914061 Points: 290 # Comments: 114"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44914040",
+      "title": "I let LLMs write an Elixir NIF in C; it mostly worked",
+      "slug": "2025-08-15-i-let-llms-write-an-elixir-nif-in-c-it-mostly-worked.html",
+      "path": "posts/2025-08-15-i-let-llms-write-an-elixir-nif-in-c-it-mostly-worked.html",
+      "date_iso": "2025-08-15T16:02:25+00:00",
+      "source": "https://overbring.com/blog/2025-08-13-writing-an-elixir-nif-with-genai/",
+      "summary": "Article URL: https://overbring.com/blog/2025-08-13-writing-an-elixir-nif-with-genai/ Comments URL: https://news.ycombinator.com/item?id=44914040 Points: 46 # Comments: 45"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44913663",
+      "title": "The electric fence stopped working years ago",
+      "slug": "2025-08-15-the-electric-fence-stopped-working-years-ago.html",
+      "path": "posts/2025-08-15-the-electric-fence-stopped-working-years-ago.html",
+      "date_iso": "2025-08-15T15:34:43+00:00",
+      "source": "https://soonly.com/electric-fences/",
+      "summary": "Article URL: https://soonly.com/electric-fences/ Comments URL: https://news.ycombinator.com/item?id=44913663 Points: 168 # Comments: 81"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44913359",
+      "title": "Do Things That Don't Scale (2013)",
+      "slug": "2025-08-15-do-things-that-don-t-scale-2013.html",
+      "path": "posts/2025-08-15-do-things-that-don-t-scale-2013.html",
+      "date_iso": "2025-08-15T15:07:04+00:00",
+      "source": "https://paulgraham.com/ds.html",
+      "summary": "Article URL: https://paulgraham.com/ds.html Comments URL: https://news.ycombinator.com/item?id=44913359 Points: 229 # Comments: 78"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44913081",
+      "title": "Model intelligence is no longer the constraint for automation",
+      "slug": "2025-08-15-model-intelligence-is-no-longer-the-constraint-for-automation.html",
+      "path": "posts/2025-08-15-model-intelligence-is-no-longer-the-constraint-for-automation.html",
+      "date_iso": "2025-08-15T14:44:49+00:00",
+      "source": "https://latentintent.substack.com/p/model-intelligence-is-no-longer-the",
+      "summary": "Article URL: https://latentintent.substack.com/p/model-intelligence-is-no-longer-the Comments URL: https://news.ycombinator.com/item?id=44913081 Points: 10 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44912861",
+      "title": "ADHD drug treatment and risk of negative events and outcomes",
+      "slug": "2025-08-15-adhd-drug-treatment-and-risk-of-negative-events-and-outcomes.html",
+      "path": "posts/2025-08-15-adhd-drug-treatment-and-risk-of-negative-events-and-outcomes.html",
+      "date_iso": "2025-08-15T14:27:44+00:00",
+      "source": "https://www.bmj.com/content/390/bmj-2024-083658",
+      "summary": "Article URL: https://www.bmj.com/content/390/bmj-2024-083658 Comments URL: https://news.ycombinator.com/item?id=44912861 Points: 120 # Comments: 165"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44912727",
+      "title": "An interactive guide to sensor fusion with quaternions",
+      "slug": "2025-08-15-an-interactive-guide-to-sensor-fusion-with-quaternions.html",
+      "path": "posts/2025-08-15-an-interactive-guide-to-sensor-fusion-with-quaternions.html",
+      "date_iso": "2025-08-15T14:17:07+00:00",
+      "source": "https://quaternion.cafe/",
+      "summary": "Article URL: https://quaternion.cafe/ Comments URL: https://news.ycombinator.com/item?id=44912727 Points: 48 # Comments: 14"
+    },
+    {
       "id": "https://www.nytimes.com/2025/08/14/science/margaret-boden-dead.html",
       "title": "Margaret Boden, Philosopher of Artificial Intelligence, Dies at 88",
       "slug": "2025-08-15-margaret-boden-philosopher-of-artificial-intelligence-dies-at-88.html",
@@ -8,6 +197,15 @@
       "date_iso": "2025-08-15T13:46:17+00:00",
       "source": "https://www.nytimes.com/2025/08/14/science/margaret-boden-dead.html",
       "summary": "Margaret Boden in 1994. “What’s unique about Maggie is that she’s a philosopher who has informed, inspired and shaped science,” Blay Whitby, a fellow philosopher, said."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44911941",
+      "title": "Is air travel getting worse?",
+      "slug": "2025-08-15-is-air-travel-getting-worse.html",
+      "path": "posts/2025-08-15-is-air-travel-getting-worse.html",
+      "date_iso": "2025-08-15T13:06:33+00:00",
+      "source": "https://www.maximum-progress.com/p/is-air-travel-getting-worse",
+      "summary": "Article URL: https://www.maximum-progress.com/p/is-air-travel-getting-worse Comments URL: https://news.ycombinator.com/item?id=44911941 Points: 71 # Comments: 110"
     },
     {
       "id": "https://www.nytimes.com/2025/08/15/podcasts/hardfork-gpt5-perplexity.html",
