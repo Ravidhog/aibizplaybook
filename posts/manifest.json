@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=44937991",
+      "title": "Web apps in a single, portable, self-updating, vanilla HTML file",
+      "slug": "2025-08-18-web-apps-in-a-single-portable-self-updating-vanilla-html-file.html",
+      "path": "posts/2025-08-18-web-apps-in-a-single-portable-self-updating-vanilla-html-file.html",
+      "date_iso": "2025-08-18T06:38:11+00:00",
+      "source": "https://hyperclay.com/",
+      "summary": "Article URL: https://hyperclay.com/ Comments URL: https://news.ycombinator.com/item?id=44937991 Points: 63 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44937933",
+      "title": "Airbus A320 Poised to Overtake Boeing 737 as Most-Delivered Commercial Airliner",
+      "slug": "2025-08-18-airbus-a320-poised-to-overtake-boeing-737-as-most-delivered-commercial-airliner.html",
+      "path": "posts/2025-08-18-airbus-a320-poised-to-overtake-boeing-737-as-most-delivered-commercial-airliner.html",
+      "date_iso": "2025-08-18T06:26:07+00:00",
+      "source": "https://simpleflying.com/airbus-a320-overtake-boeing-737-most-delivered-commercial-airliner/",
+      "summary": "Article URL: https://simpleflying.com/airbus-a320-overtake-boeing-737-most-delivered-commercial-airliner/ Comments URL: https://news.ycombinator.com/item?id=44937933 Points: 22 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44937550",
+      "title": "SystemD Service Hardening",
+      "slug": "2025-08-18-systemd-service-hardening.html",
+      "path": "posts/2025-08-18-systemd-service-hardening.html",
+      "date_iso": "2025-08-18T04:57:47+00:00",
+      "source": "https://roguesecurity.dev/blog/systemd-hardening",
+      "summary": "Article URL: https://roguesecurity.dev/blog/systemd-hardening Comments URL: https://news.ycombinator.com/item?id=44937550 Points: 5 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44936945",
+      "title": "Google admits anti-competitive conduct involving Google Search in Australia",
+      "slug": "2025-08-18-google-admits-anti-competitive-conduct-involving-google-search-in-australia.html",
+      "path": "posts/2025-08-18-google-admits-anti-competitive-conduct-involving-google-search-in-australia.html",
+      "date_iso": "2025-08-18T02:54:55+00:00",
+      "source": "https://www.accc.gov.au/media-release/google-admits-anti-competitive-conduct-involving-google-search-in-australia",
+      "summary": "Article URL: https://www.accc.gov.au/media-release/google-admits-anti-competitive-conduct-involving-google-search-in-australia Comments URL: https://news.ycombinator.com/item?id=44936945 Points: 158 # Comments: 94"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44936932",
+      "title": "Show HN: ASCII Tree Editor",
+      "slug": "2025-08-18-show-hn-ascii-tree-editor.html",
+      "path": "posts/2025-08-18-show-hn-ascii-tree-editor.html",
+      "date_iso": "2025-08-18T02:52:29+00:00",
+      "source": "https://asciitree.reorx.com/",
+      "summary": "Show HN: ASCII Tree Editor I've created a web-based editor for ASCII file directory trees called asciitreeman. It's designed to make it easier to edit and reorganize the output of the tree command. You can try it out here: https://reorx.github.io/asciitreeman/ And the source cod…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44936575",
+      "title": "Non-Uniform Memory Access (NUMA) is reshaping microservice placement",
+      "slug": "2025-08-18-non-uniform-memory-access-numa-is-reshaping-microservice-placement.html",
+      "path": "posts/2025-08-18-non-uniform-memory-access-numa-is-reshaping-microservice-placement.html",
+      "date_iso": "2025-08-18T01:40:29+00:00",
+      "source": "https://codemia.io/blog/path/NUMA-Is-the-New-Network-How-Per-Socket-Memory-Models-Are-Reshaping-Microservice-Placement",
+      "summary": "Article URL: https://codemia.io/blog/path/NUMA-Is-the-New-Network-How-Per-Socket-Memory-Models-Are-Reshaping-Microservice-Placement Comments URL: https://news.ycombinator.com/item?id=44936575 Points: 56 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44936333",
+      "title": "Mangle – a language for deductive database programming",
+      "slug": "2025-08-18-mangle-a-language-for-deductive-database-programming.html",
+      "path": "posts/2025-08-18-mangle-a-language-for-deductive-database-programming.html",
+      "date_iso": "2025-08-18T00:55:35+00:00",
+      "source": "https://github.com/google/mangle",
+      "summary": "Article URL: https://github.com/google/mangle Comments URL: https://news.ycombinator.com/item?id=44936333 Points: 44 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44936309",
+      "title": "Clojure Async Flow Guide",
+      "slug": "2025-08-18-clojure-async-flow-guide.html",
+      "path": "posts/2025-08-18-clojure-async-flow-guide.html",
+      "date_iso": "2025-08-18T00:52:03+00:00",
+      "source": "https://clojure.github.io/core.async/flow-guide.html",
+      "summary": "Article URL: https://clojure.github.io/core.async/flow-guide.html Comments URL: https://news.ycombinator.com/item?id=44936309 Points: 124 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44935169",
+      "title": "Llama-Scan: Convert PDFs to Text W Local LLMs",
+      "slug": "2025-08-17-llama-scan-convert-pdfs-to-text-w-local-llms.html",
+      "path": "posts/2025-08-17-llama-scan-convert-pdfs-to-text-w-local-llms.html",
+      "date_iso": "2025-08-17T21:40:47+00:00",
+      "source": "https://github.com/ngafar/llama-scan",
+      "summary": "Article URL: https://github.com/ngafar/llama-scan Comments URL: https://news.ycombinator.com/item?id=44935169 Points: 132 # Comments: 60"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44934391",
+      "title": "Show HN: Doxx – Terminal .docx viewer inspired by Glow",
+      "slug": "2025-08-17-show-hn-doxx-terminal-docx-viewer-inspired-by-glow.html",
+      "path": "posts/2025-08-17-show-hn-doxx-terminal-docx-viewer-inspired-by-glow.html",
+      "date_iso": "2025-08-17T19:52:03+00:00",
+      "source": "https://github.com/bgreenwell/doxx",
+      "summary": "I got tired of open file.docx → wait 8 seconds → close Word just to read a document, so I built a terminal-native Word viewer! What it does: * View `.docx` files directly in your terminal with (mostly) proper formatting * Tables actually look like tables (with Unicode borders!)…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44933401",
+      "title": "ArchiveTeam has finished archiving all goo.gl short links",
+      "slug": "2025-08-17-archiveteam-has-finished-archiving-all-goo-gl-short-links.html",
+      "path": "posts/2025-08-17-archiveteam-has-finished-archiving-all-goo-gl-short-links.html",
+      "date_iso": "2025-08-17T17:46:04+00:00",
+      "source": "https://tracker.archiveteam.org/goo-gl/",
+      "summary": "Article URL: https://tracker.archiveteam.org/goo-gl/ Comments URL: https://news.ycombinator.com/item?id=44933401 Points: 352 # Comments: 82"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44933255",
+      "title": "Claudia – Desktop companion for Claude code",
+      "slug": "2025-08-17-claudia-desktop-companion-for-claude-code.html",
+      "path": "posts/2025-08-17-claudia-desktop-companion-for-claude-code.html",
+      "date_iso": "2025-08-17T17:26:56+00:00",
+      "source": "https://claudiacode.com/",
+      "summary": "Article URL: https://claudiacode.com/ Comments URL: https://news.ycombinator.com/item?id=44933255 Points: 388 # Comments: 193"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44932980",
+      "title": "The Enterprise Experience",
+      "slug": "2025-08-17-the-enterprise-experience.html",
+      "path": "posts/2025-08-17-the-enterprise-experience.html",
+      "date_iso": "2025-08-17T16:53:03+00:00",
+      "source": "https://churchofturing.github.io/the-enterprise-experience.html",
+      "summary": "Article URL: https://churchofturing.github.io/the-enterprise-experience.html Comments URL: https://news.ycombinator.com/item?id=44932980 Points: 341 # Comments: 99"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44932651",
+      "title": "Show HN: OverType – A Markdown WYSIWYG editor that's just a textarea",
+      "slug": "2025-08-17-show-hn-overtype-a-markdown-wysiwyg-editor-that-s-just-a-textarea.html",
+      "path": "posts/2025-08-17-show-hn-overtype-a-markdown-wysiwyg-editor-that-s-just-a-textarea.html",
+      "date_iso": "2025-08-17T16:13:06+00:00",
+      "source": "https://news.ycombinator.com/item?id=44932651",
+      "summary": "Hi HN! I got so frustrated with modern WYSIWYG editors that I started to play around with building my own. The problem I had was simple: I wanted a low-tech way to type styled text, but I didn't want to load a complex 500KB library, especially if I was going to initialize it doz…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44932624",
+      "title": "MS-DOS development resources",
+      "slug": "2025-08-17-ms-dos-development-resources.html",
+      "path": "posts/2025-08-17-ms-dos-development-resources.html",
+      "date_iso": "2025-08-17T16:10:37+00:00",
+      "source": "https://github.com/SuperIlu/DOSDevelResources/blob/main/README.md",
+      "summary": "Article URL: https://github.com/SuperIlu/DOSDevelResources/blob/main/README.md Comments URL: https://news.ycombinator.com/item?id=44932624 Points: 88 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44932342",
+      "title": "Here be dragons: Preventing static damage, latchup, and metastability in the 386",
+      "slug": "2025-08-17-here-be-dragons-preventing-static-damage-latchup-and-metastability-in-the-386.html",
+      "path": "posts/2025-08-17-here-be-dragons-preventing-static-damage-latchup-and-metastability-in-the-386.html",
+      "date_iso": "2025-08-17T15:34:10+00:00",
+      "source": "http://www.righto.com/2025/08/static-latchup-metastability-386.html",
+      "summary": "Article URL: http://www.righto.com/2025/08/static-latchup-metastability-386.html Comments URL: https://news.ycombinator.com/item?id=44932342 Points: 75 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44931824",
+      "title": "Show HN: NextDNS Adds \"Bypass Age Verification\"",
+      "slug": "2025-08-17-show-hn-nextdns-adds-bypass-age-verification.html",
+      "path": "posts/2025-08-17-show-hn-nextdns-adds-bypass-age-verification.html",
+      "date_iso": "2025-08-17T14:29:22+00:00",
+      "source": "https://news.ycombinator.com/item?id=44931824",
+      "summary": "We just shipped a new feature in NextDNS: Bypass Age Verification. More and more sites (especially adult ones) are now forcing users to upload IDs or selfies to continue. We think that’s a terrible idea: handing over government documents to random sites is a huge privacy risk. T…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44931666",
+      "title": "Derivatives, Gradients, Jacobians and Hessians",
+      "slug": "2025-08-17-derivatives-gradients-jacobians-and-hessians.html",
+      "path": "posts/2025-08-17-derivatives-gradients-jacobians-and-hessians.html",
+      "date_iso": "2025-08-17T14:08:18+00:00",
+      "source": "https://blog.demofox.org/2025/08/16/derivatives-gradients-jacobians-and-hessians-oh-my/",
+      "summary": "Article URL: https://blog.demofox.org/2025/08/16/derivatives-gradients-jacobians-and-hessians-oh-my/ Comments URL: https://news.ycombinator.com/item?id=44931666 Points: 232 # Comments: 53"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44931415",
+      "title": "Why Nim?",
+      "slug": "2025-08-17-why-nim.html",
+      "path": "posts/2025-08-17-why-nim.html",
+      "date_iso": "2025-08-17T13:28:29+00:00",
+      "source": "https://undefined.pyfy.ch/why-nim",
+      "summary": "Article URL: https://undefined.pyfy.ch/why-nim Comments URL: https://news.ycombinator.com/item?id=44931415 Points: 141 # Comments: 150"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44931368",
+      "title": "Faster Index I/O with NVMe SSDs",
+      "slug": "2025-08-17-faster-index-i-o-with-nvme-ssds.html",
+      "path": "posts/2025-08-17-faster-index-i-o-with-nvme-ssds.html",
+      "date_iso": "2025-08-17T13:17:20+00:00",
+      "source": "https://www.marginalia.nu/log/a_123_index_io/",
+      "summary": "Article URL: https://www.marginalia.nu/log/a_123_index_io/ Comments URL: https://news.ycombinator.com/item?id=44931368 Points: 156 # Comments: 24"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/17/business/tiktok-ai-avatars.html",
+      "title": "He Sold His Likeness. Now His Avatar Is Shilling Supplements on TikTok.",
+      "slug": "2025-08-17-he-sold-his-likeness-now-his-avatar-is-shilling-supplements-on-tiktok.html",
+      "path": "posts/2025-08-17-he-sold-his-likeness-now-his-avatar-is-shilling-supplements-on-tiktok.html",
+      "date_iso": "2025-08-17T09:00:32+00:00",
+      "source": "https://www.nytimes.com/2025/08/17/business/tiktok-ai-avatars.html",
+      "summary": "Welcome to a new era of commercial work fueled by generative artificial intelligence."
+    },
+    {
       "id": "https://www.nytimes.com/2025/08/15/technology/media-matters-ftc-musk-injunction.html",
       "title": "Judge Blocks F.T.C. Investigation of Media Matters",
       "slug": "2025-08-15-judge-blocks-f-t-c-investigation-of-media-matters.html",

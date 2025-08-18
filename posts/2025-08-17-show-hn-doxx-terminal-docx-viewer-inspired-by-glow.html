@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Doxx – Terminal .docx viewer inspired by Glow</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Doxx – Terminal .docx viewer inspired by Glow</h1>
+    <p><small>Published: 2025-08-17T19:52:03+00:00</small></p>
+  </header>
+
+  <main>
+    <p>I got tired of open file.docx → wait 8 seconds → close Word just to read a document, so I built a terminal-native Word viewer!<p>What it does:<p>* View `.docx` files directly in your terminal with (mostly) proper formatting<p>* Tables actually look like tables (with Unicode borders!)<p>* Nested lists work correctly with indentation<p>* Full-text search with highlighting<p>* Copy content straight to clipboard with `c`<p>* Export to markdown/CSV/JSON<p>Why I made this:<p>Working on servers over SSH, I constantly hit Word docs I needed to check quickly. The existing solutions I'm aware of either strip all formatting (docx2txt) or require GUI apps. Wanted something that felt as polished as [glow](<a href="https://github.com/charmbracelet/glow" rel="nofollow">https://github.com/charmbracelet/glow</a>) but for Word documents.<p>The good stuff:<p>* 50ms startup vs Word's 8+ seconds<p>* Works over SSH (obviously)<p>* Preserves document structure and formatting<p>* Smart table alignment based on data types<p>* Interactive outline view for long docs<p>Built with Rust + ratatui and heavily inspired by Charm's [glow](<a href="https://github.com/charmbracelet/glow" rel="nofollow">https://github.com/charmbracelet/glow</a>) package for viewing Markdown in the CLI (built in Go)!<p><pre><code>    # Install
+    cargo install --git https://github.com/bgreenwell/doxx
+    
+    # Use
+    doxx quarterly-report.docx
+</code></pre>
+Still early but handles most Word docs I throw at it. Always wanted a proper Word viewer in my terminal toolkit alongside `bat`, `glow`, and friends. Let me know what you think!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=44934391">https://news.ycombinator.com/item?id=44934391</a></p>
+<p>Points: 159</p>
+<p># Comments: 40</p>
+    <p><a href="https://github.com/bgreenwell/doxx" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
