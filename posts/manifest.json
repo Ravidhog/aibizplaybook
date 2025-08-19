@@ -1,6 +1,222 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2025/08/19/technology/britain-apple-back-door.html",
+      "title": "Britain Drops Request That Apple Create a Back Door",
+      "slug": "2025-08-19-britain-drops-request-that-apple-create-a-back-door.html",
+      "path": "posts/2025-08-19-britain-drops-request-that-apple-create-a-back-door.html",
+      "date_iso": "2025-08-19T04:50:05+00:00",
+      "source": "https://www.nytimes.com/2025/08/19/technology/britain-apple-back-door.html",
+      "summary": "The Trump administration says that law enforcement organizations in Britain would back off asking the company for a tool to access customers’ data."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44948352",
+      "title": "How to Build a Medieval Castle",
+      "slug": "2025-08-19-how-to-build-a-medieval-castle.html",
+      "path": "posts/2025-08-19-how-to-build-a-medieval-castle.html",
+      "date_iso": "2025-08-19T04:49:35+00:00",
+      "source": "https://archaeology.org/issues/september-october-2025/features/how-to-build-a-medieval-castle/",
+      "summary": "Article URL: https://archaeology.org/issues/september-october-2025/features/how-to-build-a-medieval-castle/ Comments URL: https://news.ycombinator.com/item?id=44948352 Points: 14 # Comments: 2"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/18/world/asia/china-humanoid-robot-games.html",
+      "title": "At China’s Humanoid Robot Games, Athletes Fell Down a Lot",
+      "slug": "2025-08-19-at-china-s-humanoid-robot-games-athletes-fell-down-a-lot.html",
+      "path": "posts/2025-08-19-at-china-s-humanoid-robot-games-athletes-fell-down-a-lot.html",
+      "date_iso": "2025-08-19T01:52:45+00:00",
+      "source": "https://www.nytimes.com/2025/08/18/world/asia/china-humanoid-robot-games.html",
+      "summary": "The Humanoid Robot Games in Beijing — featuring running, kickboxing and soccer — highlighted advancements in robotics. Limitations, too."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44946996",
+      "title": "OpenMower – An open source lawn mower",
+      "slug": "2025-08-19-openmower-an-open-source-lawn-mower.html",
+      "path": "posts/2025-08-19-openmower-an-open-source-lawn-mower.html",
+      "date_iso": "2025-08-19T00:35:08+00:00",
+      "source": "https://github.com/ClemensElflein/OpenMower",
+      "summary": "Article URL: https://github.com/ClemensElflein/OpenMower Comments URL: https://news.ycombinator.com/item?id=44946996 Points: 237 # Comments: 51"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44946813",
+      "title": "A general Fortran code for solutions of problems in space mechanics [pdf]",
+      "slug": "2025-08-19-a-general-fortran-code-for-solutions-of-problems-in-space-mechanics-pdf.html",
+      "path": "posts/2025-08-19-a-general-fortran-code-for-solutions-of-problems-in-space-mechanics-pdf.html",
+      "date_iso": "2025-08-19T00:12:17+00:00",
+      "source": "https://jonathanadams.pro/blog-articles/Nasa-Fortran-Code-1963.pdf",
+      "summary": "Article URL: https://jonathanadams.pro/blog-articles/Nasa-Fortran-Code-1963.pdf Comments URL: https://news.ycombinator.com/item?id=44946813 Points: 39 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44946774",
+      "title": "Ted Chiang: The Secret Third Thing",
+      "slug": "2025-08-19-ted-chiang-the-secret-third-thing.html",
+      "path": "posts/2025-08-19-ted-chiang-the-secret-third-thing.html",
+      "date_iso": "2025-08-19T00:05:59+00:00",
+      "source": "https://linch.substack.com/p/ted-chiang-review",
+      "summary": "Article URL: https://linch.substack.com/p/ted-chiang-review Comments URL: https://news.ycombinator.com/item?id=44946774 Points: 84 # Comments: 38"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44946762",
+      "title": "Croatian freediver held breath for 29 minutes",
+      "slug": "2025-08-19-croatian-freediver-held-breath-for-29-minutes.html",
+      "path": "posts/2025-08-19-croatian-freediver-held-breath-for-29-minutes.html",
+      "date_iso": "2025-08-19T00:04:11+00:00",
+      "source": "https://divernet.com/scuba-news/freediving/how-croatian-freediver-held-breath-for-29-minutes/",
+      "summary": "Article URL: https://divernet.com/scuba-news/freediving/how-croatian-freediver-held-breath-for-29-minutes/ Comments URL: https://news.ycombinator.com/item?id=44946762 Points: 183 # Comments: 72"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/18/technology/intel-trump-government-stake.html",
+      "title": "Trump Administration Discusses Taking 10% Stake in Intel",
+      "slug": "2025-08-18-trump-administration-discusses-taking-10-stake-in-intel.html",
+      "path": "posts/2025-08-18-trump-administration-discusses-taking-10-stake-in-intel.html",
+      "date_iso": "2025-08-18T23:55:16+00:00",
+      "source": "https://www.nytimes.com/2025/08/18/technology/intel-trump-government-stake.html",
+      "summary": "An Intel factory in Hillsboro, Ore. The company’s chip manufacturing business has struggled to find customers."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44945959",
+      "title": "Lab-grown salmon hits the menu",
+      "slug": "2025-08-18-lab-grown-salmon-hits-the-menu.html",
+      "path": "posts/2025-08-18-lab-grown-salmon-hits-the-menu.html",
+      "date_iso": "2025-08-18T22:29:14+00:00",
+      "source": "https://www.smithsonianmag.com/smart-news/lab-grown-salmon-hits-the-menu-at-an-oregon-restaurant-as-the-fda-greenlights-the-cell-cultured-product-180986769/",
+      "summary": "Article URL: https://www.smithsonianmag.com/smart-news/lab-grown-salmon-hits-the-menu-at-an-oregon-restaurant-as-the-fda-greenlights-the-cell-cultured-product-180986769/ Comments URL: https://news.ycombinator.com/item?id=44945959 Points: 131 # Comments: 209"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44945943",
+      "title": "Shamelessness as a strategy (2019)",
+      "slug": "2025-08-18-shamelessness-as-a-strategy-2019.html",
+      "path": "posts/2025-08-18-shamelessness-as-a-strategy-2019.html",
+      "date_iso": "2025-08-18T22:27:01+00:00",
+      "source": "https://nadia.xyz/shameless",
+      "summary": "Article URL: https://nadia.xyz/shameless Comments URL: https://news.ycombinator.com/item?id=44945943 Points: 147 # Comments: 84"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44945730",
+      "title": "Newgrounds: Flash Forward 2025",
+      "slug": "2025-08-18-newgrounds-flash-forward-2025.html",
+      "path": "posts/2025-08-18-newgrounds-flash-forward-2025.html",
+      "date_iso": "2025-08-18T21:54:13+00:00",
+      "source": "https://www.newgrounds.com/bbs/topic/1542140",
+      "summary": "Article URL: https://www.newgrounds.com/bbs/topic/1542140 Comments URL: https://news.ycombinator.com/item?id=44945730 Points: 61 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44945562",
+      "title": "Spice Data (YC S19) Is Hiring a Product Associate (New Grad)",
+      "slug": "2025-08-18-spice-data-yc-s19-is-hiring-a-product-associate-new-grad.html",
+      "path": "posts/2025-08-18-spice-data-yc-s19-is-hiring-a-product-associate-new-grad.html",
+      "date_iso": "2025-08-18T21:31:49+00:00",
+      "source": "https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad",
+      "summary": "Article URL: https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad Comments URL: https://news.ycombinator.com/item?id=44945562 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44945532",
+      "title": "Obsidian Bases",
+      "slug": "2025-08-18-obsidian-bases.html",
+      "path": "posts/2025-08-18-obsidian-bases.html",
+      "date_iso": "2025-08-18T21:28:05+00:00",
+      "source": "https://help.obsidian.md/bases",
+      "summary": "Article URL: https://help.obsidian.md/bases Comments URL: https://news.ycombinator.com/item?id=44945532 Points: 470 # Comments: 136"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44945008",
+      "title": "Tiny-tpu: A minimal tensor processing unit (TPU), inspired by Google's TPU",
+      "slug": "2025-08-18-tiny-tpu-a-minimal-tensor-processing-unit-tpu-inspired-by-google-s-tpu.html",
+      "path": "posts/2025-08-18-tiny-tpu-a-minimal-tensor-processing-unit-tpu-inspired-by-google-s-tpu.html",
+      "date_iso": "2025-08-18T20:34:37+00:00",
+      "source": "https://github.com/tiny-tpu-v2/tiny-tpu",
+      "summary": "Article URL: https://github.com/tiny-tpu-v2/tiny-tpu Comments URL: https://news.ycombinator.com/item?id=44945008 Points: 153 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44944592",
+      "title": "Show HN: I built a toy TPU that can do inference and training on the XOR problem",
+      "slug": "2025-08-18-show-hn-i-built-a-toy-tpu-that-can-do-inference-and-training-on-the-xor-problem.html",
+      "path": "posts/2025-08-18-show-hn-i-built-a-toy-tpu-that-can-do-inference-and-training-on-the-xor-problem.html",
+      "date_iso": "2025-08-18T19:52:14+00:00",
+      "source": "https://www.tinytpu.com",
+      "summary": "We wanted to do something very challenging to prove to ourselves that we can do anything we put our mind to. The reasoning for why we chose to build a toy TPU specifically is fairly simple: - Building a chip for ML workloads seemed cool - There was no well-documented open source…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44943986",
+      "title": "Show HN: We started building an AI dev tool but it turned into a Sims-style game",
+      "slug": "2025-08-18-show-hn-we-started-building-an-ai-dev-tool-but-it-turned-into-a-sims-style-game.html",
+      "path": "posts/2025-08-18-show-hn-we-started-building-an-ai-dev-tool-but-it-turned-into-a-sims-style-game.html",
+      "date_iso": "2025-08-18T18:51:23+00:00",
+      "source": "https://www.youtube.com/watch?v=sRPnX_f2V_c",
+      "summary": "Hi HN! We’re Max and Peyton from The Interface ( https://www.theinterface.com/ ). We started out building an AI agent dev tool, but somewhere along the way it turned into Sims for AI agents. Demo video: https://www.youtube.com/watch?v=sRPnX_f2V_c . The original idea was simple:…"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/18/business/used-electric-vehicles-callout.html",
+      "title": "Did You Recently Buy a Used E.V.? We Want to Hear From You.",
+      "slug": "2025-08-18-did-you-recently-buy-a-used-e-v-we-want-to-hear-from-you.html",
+      "path": "posts/2025-08-18-did-you-recently-buy-a-used-e-v-we-want-to-hear-from-you.html",
+      "date_iso": "2025-08-18T17:26:27+00:00",
+      "source": "https://www.nytimes.com/2025/08/18/business/used-electric-vehicles-callout.html",
+      "summary": "Some used Teslas sell for less than the average used car."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44942936",
+      "title": "Left to Right Programming",
+      "slug": "2025-08-18-left-to-right-programming.html",
+      "path": "posts/2025-08-18-left-to-right-programming.html",
+      "date_iso": "2025-08-18T17:08:36+00:00",
+      "source": "https://graic.net/p/left-to-right-programming",
+      "summary": "Article URL: https://graic.net/p/left-to-right-programming Comments URL: https://news.ycombinator.com/item?id=44942936 Points: 282 # Comments: 233"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44942731",
+      "title": "Show HN: Whispering – Open-source, local-first dictation you can trust",
+      "slug": "2025-08-18-show-hn-whispering-open-source-local-first-dictation-you-can-trust.html",
+      "path": "posts/2025-08-18-show-hn-whispering-open-source-local-first-dictation-you-can-trust.html",
+      "date_iso": "2025-08-18T16:52:29+00:00",
+      "source": "https://github.com/epicenter-so/epicenter/tree/main/apps/whispering",
+      "summary": "Hey HN! Braden here, creator of Whispering, an open-source speech-to-text app. I really like dictation. For years, I relied on transcription tools that were almost good, but they were all closed-source. Even a lot of them that claimed to be “local” or “on-device” were still blac…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44942501",
+      "title": "Anna's Archive: An Update from the Team",
+      "slug": "2025-08-18-anna-s-archive-an-update-from-the-team.html",
+      "path": "posts/2025-08-18-anna-s-archive-an-update-from-the-team.html",
+      "date_iso": "2025-08-18T16:31:48+00:00",
+      "source": "https://annas-archive.org/blog/an-update-from-the-team.html",
+      "summary": "Article URL: https://annas-archive.org/blog/an-update-from-the-team.html Comments URL: https://news.ycombinator.com/item?id=44942501 Points: 895 # Comments: 405"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44941580",
+      "title": "Launch HN: Reality Defender (YC W22) – API for Deepfake and GenAI Detection",
+      "slug": "2025-08-18-launch-hn-reality-defender-yc-w22-api-for-deepfake-and-genai-detection.html",
+      "path": "posts/2025-08-18-launch-hn-reality-defender-yc-w22-api-for-deepfake-and-genai-detection.html",
+      "date_iso": "2025-08-18T15:16:34+00:00",
+      "source": "https://www.realitydefender.com/platform/api",
+      "summary": "Hi HN! This is Ben from Reality Defender ( https://www.realitydefender.com ). We build real-time multimodal and multi-model deepfake detection for Fortune 100s and governments all over the world. (We even won the RSAC Innovation Showcase award for our work: https://www.prnewswir…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44941369",
+      "title": "Counter-Strike: A billion-dollar game built in a dorm room",
+      "slug": "2025-08-18-counter-strike-a-billion-dollar-game-built-in-a-dorm-room.html",
+      "path": "posts/2025-08-18-counter-strike-a-billion-dollar-game-built-in-a-dorm-room.html",
+      "date_iso": "2025-08-18T14:59:26+00:00",
+      "source": "https://www.nytimes.com/2025/08/18/arts/counter-strike-half-life-minh-le.html",
+      "summary": "Article URL: https://www.nytimes.com/2025/08/18/arts/counter-strike-half-life-minh-le.html Comments URL: https://news.ycombinator.com/item?id=44941369 Points: 336 # Comments: 267"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44940485",
+      "title": "FFmpeg Assembly Language Lessons",
+      "slug": "2025-08-18-ffmpeg-assembly-language-lessons.html",
+      "path": "posts/2025-08-18-ffmpeg-assembly-language-lessons.html",
+      "date_iso": "2025-08-18T13:39:53+00:00",
+      "source": "https://github.com/FFmpeg/asm-lessons",
+      "summary": "Article URL: https://github.com/FFmpeg/asm-lessons Comments URL: https://news.ycombinator.com/item?id=44940485 Points: 349 # Comments: 106"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44938818",
+      "title": "Electromechanical reshaping,  an alternative to laser eye surgery",
+      "slug": "2025-08-18-electromechanical-reshaping-an-alternative-to-laser-eye-surgery.html",
+      "path": "posts/2025-08-18-electromechanical-reshaping-an-alternative-to-laser-eye-surgery.html",
+      "date_iso": "2025-08-18T09:35:17+00:00",
+      "source": "https://medicalxpress.com/news/2025-08-alternative-lasik-lasers.html",
+      "summary": "Article URL: https://medicalxpress.com/news/2025-08-alternative-lasik-lasers.html Comments URL: https://news.ycombinator.com/item?id=44938818 Points: 234 # Comments: 99"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=44937991",
       "title": "Web apps in a single, portable, self-updating, vanilla HTML file",
       "slug": "2025-08-18-web-apps-in-a-single-portable-self-updating-vanilla-html-file.html",
