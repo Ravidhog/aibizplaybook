@@ -1,6 +1,213 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=44959092",
+      "title": "Databricks is raising a Series K Investment at >$100B valuation",
+      "slug": "2025-08-20-databricks-is-raising-a-series-k-investment-at-100b-valuation.html",
+      "path": "posts/2025-08-20-databricks-is-raising-a-series-k-investment-at-100b-valuation.html",
+      "date_iso": "2025-08-20T06:06:15+00:00",
+      "source": "https://www.databricks.com/company/newsroom/press-releases/databricks-raising-series-k-investment-100-billion-valuation",
+      "summary": "Article URL: https://www.databricks.com/company/newsroom/press-releases/databricks-raising-series-k-investment-100-billion-valuation Comments URL: https://news.ycombinator.com/item?id=44959092 Points: 18 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44959073",
+      "title": "Ask HN: Why does the US Visa application website do a port-scan of my network?",
+      "slug": "2025-08-20-ask-hn-why-does-the-us-visa-application-website-do-a-port-scan-of-my-network.html",
+      "path": "posts/2025-08-20-ask-hn-why-does-the-us-visa-application-website-do-a-port-scan-of-my-network.html",
+      "date_iso": "2025-08-20T06:03:03+00:00",
+      "source": "https://news.ycombinator.com/item?id=44959073",
+      "summary": "I have recently installed this extension on FF: https://addons.mozilla.org/en-US/firefox/addon/port-authorit... and yesterday I visited this website: https://ceac.state.gov/genniv/ and I got a notification that the website tried to do a port-scan of my private network. Is this a…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44959069",
+      "title": "Vibe Coding Is the Worst Idea of 2025 [video]",
+      "slug": "2025-08-20-vibe-coding-is-the-worst-idea-of-2025-video.html",
+      "path": "posts/2025-08-20-vibe-coding-is-the-worst-idea-of-2025-video.html",
+      "date_iso": "2025-08-20T06:02:29+00:00",
+      "source": "https://www.youtube.com/watch?v=1A6uPztchXk",
+      "summary": "Article URL: https://www.youtube.com/watch?v=1A6uPztchXk Comments URL: https://news.ycombinator.com/item?id=44959069 Points: 33 # Comments: 28"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44958752",
+      "title": "Type-machine",
+      "slug": "2025-08-20-type-machine.html",
+      "path": "posts/2025-08-20-type-machine.html",
+      "date_iso": "2025-08-20T04:59:27+00:00",
+      "source": "https://arthi-chaud.github.io/posts/type-machine/",
+      "summary": "Article URL: https://arthi-chaud.github.io/posts/type-machine/ Comments URL: https://news.ycombinator.com/item?id=44958752 Points: 15 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44958621",
+      "title": "Analysis of the GFW's Unconditional Port 443 Block on August 20, 2025",
+      "slug": "2025-08-20-analysis-of-the-gfw-s-unconditional-port-443-block-on-august-20-2025.html",
+      "path": "posts/2025-08-20-analysis-of-the-gfw-s-unconditional-port-443-block-on-august-20-2025.html",
+      "date_iso": "2025-08-20T04:27:29+00:00",
+      "source": "https://gfw.report/blog/gfw_unconditional_rst_20250820/en/",
+      "summary": "Article URL: https://gfw.report/blog/gfw_unconditional_rst_20250820/en/ Comments URL: https://news.ycombinator.com/item?id=44958621 Points: 120 # Comments: 62"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44958543",
+      "title": "Show HN: Hanaco Weather – A poetic weather SNS from the OS Yamato project",
+      "slug": "2025-08-20-show-hn-hanaco-weather-a-poetic-weather-sns-from-the-os-yamato-project.html",
+      "path": "posts/2025-08-20-show-hn-hanaco-weather-a-poetic-weather-sns-from-the-os-yamato-project.html",
+      "date_iso": "2025-08-20T04:04:20+00:00",
+      "source": "https://github.com/osyamato/os-yamato",
+      "summary": "hanaco Weather is a minimalist social network where users post short, emotional weather thoughts and connect with others experiencing the same weather. No likes or followers (for now) — just gentle presence. Built entirely by a solo engineer, including the custom operating syste…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44958421",
+      "title": "Monoid-Augmented FIFOs, Deamortised",
+      "slug": "2025-08-20-monoid-augmented-fifos-deamortised.html",
+      "path": "posts/2025-08-20-monoid-augmented-fifos-deamortised.html",
+      "date_iso": "2025-08-20T03:35:20+00:00",
+      "source": "https://pvk.ca/Blog/2025/08/19/monoid-augmented-fifos/",
+      "summary": "Article URL: https://pvk.ca/Blog/2025/08/19/monoid-augmented-fifos/ Comments URL: https://news.ycombinator.com/item?id=44958421 Points: 17 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44958400",
+      "title": "Modern CI Is Too Complex and Misdirected",
+      "slug": "2025-08-20-modern-ci-is-too-complex-and-misdirected.html",
+      "path": "posts/2025-08-20-modern-ci-is-too-complex-and-misdirected.html",
+      "date_iso": "2025-08-20T03:30:06+00:00",
+      "source": "https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/",
+      "summary": "Article URL: https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/ Comments URL: https://news.ycombinator.com/item?id=44958400 Points: 23 # Comments: 1"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/19/technology/mark-zuckerberg-meta-ai.html",
+      "title": "Zuckerberg Again Overhauls Meta’s A.I. Efforts",
+      "slug": "2025-08-20-zuckerberg-again-overhauls-meta-s-a-i-efforts.html",
+      "path": "posts/2025-08-20-zuckerberg-again-overhauls-meta-s-a-i-efforts.html",
+      "date_iso": "2025-08-20T02:58:52+00:00",
+      "source": "https://www.nytimes.com/2025/08/19/technology/mark-zuckerberg-meta-ai.html",
+      "summary": "Mark Zuckerberg, Meta’s chief executive, is sparing no expense and is willing to upend his company to stay relevant in artificial intelligence."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44958145",
+      "title": "We’re Not So Special: A new book challenges human exceptionalism",
+      "slug": "2025-08-20-we-re-not-so-special-a-new-book-challenges-human-exceptionalism.html",
+      "path": "posts/2025-08-20-we-re-not-so-special-a-new-book-challenges-human-exceptionalism.html",
+      "date_iso": "2025-08-20T02:25:53+00:00",
+      "source": "https://democracyjournal.org/magazine/78/were-not-so-special/",
+      "summary": "Article URL: https://democracyjournal.org/magazine/78/were-not-so-special/ Comments URL: https://news.ycombinator.com/item?id=44958145 Points: 53 # Comments: 92"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44958020",
+      "title": "The Value of Hitting the HN Front Page",
+      "slug": "2025-08-20-the-value-of-hitting-the-hn-front-page.html",
+      "path": "posts/2025-08-20-the-value-of-hitting-the-hn-front-page.html",
+      "date_iso": "2025-08-20T02:00:11+00:00",
+      "source": "https://www.mooreds.com/wordpress/archives/3530",
+      "summary": "Article URL: https://www.mooreds.com/wordpress/archives/3530 Comments URL: https://news.ycombinator.com/item?id=44958020 Points: 39 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44957818",
+      "title": "Calling Their Bluff",
+      "slug": "2025-08-20-calling-their-bluff.html",
+      "path": "posts/2025-08-20-calling-their-bluff.html",
+      "date_iso": "2025-08-20T01:19:43+00:00",
+      "source": "https://anguscheng.com/post/2025-08-13-calling-their-bluff/",
+      "summary": "Article URL: https://anguscheng.com/post/2025-08-13-calling-their-bluff/ Comments URL: https://news.ycombinator.com/item?id=44957818 Points: 54 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44957454",
+      "title": "Copilot broke audit logs, but Microsoft won't tell customers",
+      "slug": "2025-08-20-copilot-broke-audit-logs-but-microsoft-won-t-tell-customers.html",
+      "path": "posts/2025-08-20-copilot-broke-audit-logs-but-microsoft-won-t-tell-customers.html",
+      "date_iso": "2025-08-20T00:18:00+00:00",
+      "source": "https://pistachioapp.com/blog/copilot-broke-your-audit-log",
+      "summary": "Article URL: https://pistachioapp.com/blog/copilot-broke-your-audit-log Comments URL: https://news.ycombinator.com/item?id=44957454 Points: 419 # Comments: 140"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44957443",
+      "title": "AGENTS.md – Open format for guiding coding agents",
+      "slug": "2025-08-20-agents-md-open-format-for-guiding-coding-agents.html",
+      "path": "posts/2025-08-20-agents-md-open-format-for-guiding-coding-agents.html",
+      "date_iso": "2025-08-20T00:15:03+00:00",
+      "source": "https://agents.md/",
+      "summary": "Article URL: https://agents.md/ Comments URL: https://news.ycombinator.com/item?id=44957443 Points: 399 # Comments: 178"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44957157",
+      "title": "Tiny microbe challenges the definition of cellular life",
+      "slug": "2025-08-19-tiny-microbe-challenges-the-definition-of-cellular-life.html",
+      "path": "posts/2025-08-19-tiny-microbe-challenges-the-definition-of-cellular-life.html",
+      "date_iso": "2025-08-19T23:18:48+00:00",
+      "source": "https://nautil.us/a-rogue-new-life-form-1232095/",
+      "summary": "Article URL: https://nautil.us/a-rogue-new-life-form-1232095/ Comments URL: https://news.ycombinator.com/item?id=44957157 Points: 86 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44956915",
+      "title": "How to Draw a Space Invader",
+      "slug": "2025-08-19-how-to-draw-a-space-invader.html",
+      "path": "posts/2025-08-19-how-to-draw-a-space-invader.html",
+      "date_iso": "2025-08-19T22:41:16+00:00",
+      "source": "https://muffinman.io/blog/invaders/",
+      "summary": "Article URL: https://muffinman.io/blog/invaders/ Comments URL: https://news.ycombinator.com/item?id=44956915 Points: 258 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44956581",
+      "title": "Drunken Bishop (2023)",
+      "slug": "2025-08-19-drunken-bishop-2023.html",
+      "path": "posts/2025-08-19-drunken-bishop-2023.html",
+      "date_iso": "2025-08-19T21:48:30+00:00",
+      "source": "https://re.factorcode.org/2023/08/drunken-bishop.html",
+      "summary": "Article URL: https://re.factorcode.org/2023/08/drunken-bishop.html Comments URL: https://news.ycombinator.com/item?id=44956581 Points: 62 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44955576",
+      "title": "Show HN: OpenAI/reflect – Physical AI Assistant that illuminates your life",
+      "slug": "2025-08-19-show-hn-openai-reflect-physical-ai-assistant-that-illuminates-your-life.html",
+      "path": "posts/2025-08-19-show-hn-openai-reflect-physical-ai-assistant-that-illuminates-your-life.html",
+      "date_iso": "2025-08-19T19:48:38+00:00",
+      "source": "https://github.com/openai/openai-reflect",
+      "summary": "I have been working on making WebRTC + Embedded Devices easier for a few years. This is a hackathon project that pulled some of that together. I hope others build on it/it inspires them to play with hardware. I worked on it with two other people and I had a lot of fun with some…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44955459",
+      "title": "CRDT: Text Buffer",
+      "slug": "2025-08-19-crdt-text-buffer.html",
+      "path": "posts/2025-08-19-crdt-text-buffer.html",
+      "date_iso": "2025-08-19T19:38:45+00:00",
+      "source": "https://madebyevan.com/algos/crdt-text-buffer/",
+      "summary": "Article URL: https://madebyevan.com/algos/crdt-text-buffer/ Comments URL: https://news.ycombinator.com/item?id=44955459 Points: 104 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44954823",
+      "title": "AnduinOS",
+      "slug": "2025-08-19-anduinos.html",
+      "path": "posts/2025-08-19-anduinos.html",
+      "date_iso": "2025-08-19T18:42:25+00:00",
+      "source": "https://www.anduinos.com/",
+      "summary": "Article URL: https://www.anduinos.com/ Comments URL: https://news.ycombinator.com/item?id=44954823 Points: 112 # Comments: 133"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/19/technology/openai-chatgpt-stock-sale-valuation.html",
+      "title": "OpenAI Employee Stock Sale Would Value ChatGPT Maker at $500 Billion",
+      "slug": "2025-08-19-openai-employee-stock-sale-would-value-chatgpt-maker-at-500-billion.html",
+      "path": "posts/2025-08-19-openai-employee-stock-sale-would-value-chatgpt-maker-at-500-billion.html",
+      "date_iso": "2025-08-19T18:16:29+00:00",
+      "source": "https://www.nytimes.com/2025/08/19/technology/openai-chatgpt-stock-sale-valuation.html",
+      "summary": "Sam Altman, the chief executive of OpenAI, which is engaged in a fierce contest to lead the artificial intelligence boom."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44954524",
+      "title": "D2 (text to diagram tool) now supports ASCII renders",
+      "slug": "2025-08-19-d2-text-to-diagram-tool-now-supports-ascii-renders.html",
+      "path": "posts/2025-08-19-d2-text-to-diagram-tool-now-supports-ascii-renders.html",
+      "date_iso": "2025-08-19T18:14:41+00:00",
+      "source": "https://d2lang.com/blog/ascii/",
+      "summary": "Article URL: https://d2lang.com/blog/ascii/ Comments URL: https://news.ycombinator.com/item?id=44954524 Points: 288 # Comments: 47"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/19/travel/ai-travel-tools-test.html",
+      "title": "A.I. Travel Tools Are Everywhere. Are They Any Good?",
+      "slug": "2025-08-19-a-i-travel-tools-are-everywhere-are-they-any-good.html",
+      "path": "posts/2025-08-19-a-i-travel-tools-are-everywhere-are-they-any-good.html",
+      "date_iso": "2025-08-19T09:00:15+00:00",
+      "source": "https://www.nytimes.com/2025/08/19/travel/ai-travel-tools-test.html",
+      "summary": "A.I.-powered tools can help you plan trips, squeeze value out of loyalty programs and translate languages. But don’t give up Google Flights just yet."
+    },
+    {
       "id": "https://www.nytimes.com/2025/08/19/technology/britain-apple-back-door.html",
       "title": "Britain Drops Request That Apple Create a Back Door",
       "slug": "2025-08-19-britain-drops-request-that-apple-create-a-back-door.html",
