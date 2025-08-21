@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: I replaced vector databases with Git for AI memory (PoC)</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: I replaced vector databases with Git for AI memory (PoC)</h1>
+    <p><small>Published: 2025-08-21T06:20:11+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hey HN! I built a proof-of-concept for AI memory using Git instead of vector databases.<p>The insight: Git already solved versioned document management. Why are we building complex vector stores when we could just use markdown files with Git's built-in diff/blame/history?<p>How it works:<p>Memories stored as markdown files in a Git repo
+Each conversation = one commit
+git diff shows how understanding evolves over time
+BM25 for search (no embeddings needed)
+LLMs generate search queries from conversation context
+Example: Ask "how has my project evolved?" and it uses git diff to show actual changes in understanding, not just similarity scores.<p>This is very much a PoC - rough edges everywhere, not production ready. But it's been working surprisingly well for personal use. The entire index for a year of conversations fits in ~100MB RAM with sub-second retrieval.<p>The cool part: You can git checkout to any point in time and see exactly what the AI knew then. Perfect reproducibility, human-readable storage, and you can manually edit memories if needed.<p>GitHub: <a href="https://github.com/Growth-Kinetics/DiffMem" rel="nofollow">https://github.com/Growth-Kinetics/DiffMem</a><p>Stack: Python, GitPython, rank-bm25, OpenRouter for LLM orchestration. MIT licensed.<p>Would love feedback on the approach. Is this crazy or clever? What am I missing that will bite me later?</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=44969622">https://news.ycombinator.com/item?id=44969622</a></p>
+<p>Points: 27</p>
+<p># Comments: 2</p>
+    <p><a href="https://github.com/Growth-Kinetics/DiffMem" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Luminal – Open-source, search-based GPU compiler</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Luminal – Open-source, search-based GPU compiler</h1>
+    <p><small>Published: 2025-08-20T16:01:13+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hi HN, I’m Joe. My friends Matthew, Jake and I are building Luminal (<a href="https://luminalai.com/">https://luminalai.com/</a>), a GPU compiler for automatically generating fast GPU kernels for AI models. It uses search-based compilation to achieve high performance.<p>We take high level model code, like you'd have in PyTorch, and generate very fast GPU code. We do that without using LLMs or AI - rather, we pose it as a search problem. Our compiler builds a search space, generates millions of possible kernels, and then searches through it to minimize runtime.<p>You can try out a demo in `demos/matmul` on mac to see how Luminal takes a naive operation, represented in our IR of 12 simple operations, and compiles it to an optimized, tensor-core enabled Metal kernel. Here’s a video showing how: <a href="https://youtu.be/P2oNR8zxSAA" rel="nofollow">https://youtu.be/P2oNR8zxSAA</a><p>Our approach differs significantly from traditional ML libraries in that we ahead-of-time compile everything, generate a large search space of logically-equivalent kernels, and search through it to find the fastest kernels. This allows us to leverage the Bitter Lesson to discover complex optimizations like Flash Attention entirely automatically without needing manual heuristics. The best rule is no rule, the best heuristic is no heuristic, just search everything.<p>We’re working on bringing CUDA support up to parity with Metal, adding more flexibility to the search space, adding full-model examples (like Llama), and adding very exotic hardware backends.<p>We aim to radically simplify the ML ecosystem while improving performance and hardware utilization. Please check out our repo: <a href="https://github.com/luminal-ai/luminal" rel="nofollow">https://github.com/luminal-ai/luminal</a> and I’d love to hear your thoughts!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=44963135">https://news.ycombinator.com/item?id=44963135</a></p>
+<p>Points: 108</p>
+<p># Comments: 52</p>
+    <p><a href="https://github.com/luminal-ai/luminal" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

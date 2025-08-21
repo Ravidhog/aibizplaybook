@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=44969622",
+      "title": "Show HN: I replaced vector databases with Git for AI memory (PoC)",
+      "slug": "2025-08-21-show-hn-i-replaced-vector-databases-with-git-for-ai-memory-poc.html",
+      "path": "posts/2025-08-21-show-hn-i-replaced-vector-databases-with-git-for-ai-memory-poc.html",
+      "date_iso": "2025-08-21T06:20:11+00:00",
+      "source": "https://github.com/Growth-Kinetics/DiffMem",
+      "summary": "Hey HN! I built a proof-of-concept for AI memory using Git instead of vector databases. The insight: Git already solved versioned document management. Why are we building complex vector stores when we could just use markdown files with Git's built-in diff/blame/history? How it w…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44969221",
+      "title": "Python f-string cheat sheets (2022)",
+      "slug": "2025-08-21-python-f-string-cheat-sheets-2022.html",
+      "path": "posts/2025-08-21-python-f-string-cheat-sheets-2022.html",
+      "date_iso": "2025-08-21T05:08:08+00:00",
+      "source": "https://fstring.help/cheat/",
+      "summary": "Article URL: https://fstring.help/cheat/ Comments URL: https://news.ycombinator.com/item?id=44969221 Points: 13 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44969211",
+      "title": "Data, objects, and how we're railroaded into poor design (2018)",
+      "slug": "2025-08-21-data-objects-and-how-we-re-railroaded-into-poor-design-2018.html",
+      "path": "posts/2025-08-21-data-objects-and-how-we-re-railroaded-into-poor-design-2018.html",
+      "date_iso": "2025-08-21T05:06:05+00:00",
+      "source": "https://www.tedinski.com/2018/01/23/data-objects-and-being-railroaded-into-misdesign.html",
+      "summary": "Article URL: https://www.tedinski.com/2018/01/23/data-objects-and-being-railroaded-into-misdesign.html Comments URL: https://news.ycombinator.com/item?id=44969211 Points: 29 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44968883",
+      "title": "The Pleasure of Patterns in Art",
+      "slug": "2025-08-21-the-pleasure-of-patterns-in-art.html",
+      "path": "posts/2025-08-21-the-pleasure-of-patterns-in-art.html",
+      "date_iso": "2025-08-21T03:53:47+00:00",
+      "source": "https://thereader.mitpress.mit.edu/why-repetition-in-art-pleases-the-brain/",
+      "summary": "Article URL: https://thereader.mitpress.mit.edu/why-repetition-in-art-pleases-the-brain/ Comments URL: https://news.ycombinator.com/item?id=44968883 Points: 24 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44967923",
+      "title": "Advice for Tech Non-Profits",
+      "slug": "2025-08-21-advice-for-tech-non-profits.html",
+      "path": "posts/2025-08-21-advice-for-tech-non-profits.html",
+      "date_iso": "2025-08-21T00:30:45+00:00",
+      "source": "https://mitchellh.com/writing/advice-for-tech-nonprofits",
+      "summary": "Article URL: https://mitchellh.com/writing/advice-for-tech-nonprofits Comments URL: https://news.ycombinator.com/item?id=44967923 Points: 37 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44967796",
+      "title": "A statistical analysis of Rotten Tomatoes",
+      "slug": "2025-08-21-a-statistical-analysis-of-rotten-tomatoes.html",
+      "path": "posts/2025-08-21-a-statistical-analysis-of-rotten-tomatoes.html",
+      "date_iso": "2025-08-21T00:10:07+00:00",
+      "source": "https://www.statsignificant.com/p/is-rotten-tomatoes-still-reliable",
+      "summary": "Article URL: https://www.statsignificant.com/p/is-rotten-tomatoes-still-reliable Comments URL: https://news.ycombinator.com/item?id=44967796 Points: 114 # Comments: 43"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44967505",
+      "title": "SimpleIDE",
+      "slug": "2025-08-20-simpleide.html",
+      "path": "posts/2025-08-20-simpleide.html",
+      "date_iso": "2025-08-20T23:15:55+00:00",
+      "source": "https://github.com/jamesplotts/simpleide",
+      "summary": "Article URL: https://github.com/jamesplotts/simpleide Comments URL: https://news.ycombinator.com/item?id=44967505 Points: 62 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44967469",
+      "title": "Code review can be better",
+      "slug": "2025-08-20-code-review-can-be-better.html",
+      "path": "posts/2025-08-20-code-review-can-be-better.html",
+      "date_iso": "2025-08-20T23:10:37+00:00",
+      "source": "https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/",
+      "summary": "Article URL: https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/ Comments URL: https://news.ycombinator.com/item?id=44967469 Points: 230 # Comments: 116"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44966408",
+      "title": "Coris (YC S22) Is Hiring",
+      "slug": "2025-08-20-coris-yc-s22-is-hiring.html",
+      "path": "posts/2025-08-20-coris-yc-s22-is-hiring.html",
+      "date_iso": "2025-08-20T21:00:14+00:00",
+      "source": "https://www.ycombinator.com/companies/coris/jobs/rqO40yy-ai-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/coris/jobs/rqO40yy-ai-engineer Comments URL: https://news.ycombinator.com/item?id=44966408 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/20/business/stephanie-shirley-dead.html",
+      "title": "Stephanie Shirley, Who Created a Tech World for Women, Dies at 91",
+      "slug": "2025-08-20-stephanie-shirley-who-created-a-tech-world-for-women-dies-at-91.html",
+      "path": "posts/2025-08-20-stephanie-shirley-who-created-a-tech-world-for-women-dies-at-91.html",
+      "date_iso": "2025-08-20T20:50:28+00:00",
+      "source": "https://www.nytimes.com/2025/08/20/business/stephanie-shirley-dead.html",
+      "summary": "Stephanie Shirley in 2022. “She was ridiculously ahead of her time,” Sue Black, a computer science professor at Durham University in England, said. “We haven’t even got companies like that now, 65 years later, that really champion women.”"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44966170",
+      "title": "Show HN: PlutoPrint – Generate PDFs and PNGs from HTML with Python",
+      "slug": "2025-08-20-show-hn-plutoprint-generate-pdfs-and-pngs-from-html-with-python.html",
+      "path": "posts/2025-08-20-show-hn-plutoprint-generate-pdfs-and-pngs-from-html-with-python.html",
+      "date_iso": "2025-08-20T20:37:58+00:00",
+      "source": "https://github.com/plutoprint/plutoprint",
+      "summary": "Hi everyone, I built PlutoPrint because I needed a simple way to generate beautiful PDFs and images directly from HTML with Python. Most of the tools I tried felt heavy, tricky to set up, or produced results that didn’t look great, so I wanted something lightweight, modern, and…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44965233",
+      "title": "Introduction to AT Protocol",
+      "slug": "2025-08-20-introduction-to-at-protocol.html",
+      "path": "posts/2025-08-20-introduction-to-at-protocol.html",
+      "date_iso": "2025-08-20T19:13:09+00:00",
+      "source": "https://mackuba.eu/2025/08/20/introduction-to-atproto/",
+      "summary": "Article URL: https://mackuba.eu/2025/08/20/introduction-to-atproto/ Comments URL: https://news.ycombinator.com/item?id=44965233 Points: 156 # Comments: 81"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44964916",
+      "title": "Zedless: Zed fork focused on privacy and being local-first",
+      "slug": "2025-08-20-zedless-zed-fork-focused-on-privacy-and-being-local-first.html",
+      "path": "posts/2025-08-20-zedless-zed-fork-focused-on-privacy-and-being-local-first.html",
+      "date_iso": "2025-08-20T18:47:03+00:00",
+      "source": "https://github.com/zedless-editor/zed",
+      "summary": "Article URL: https://github.com/zedless-editor/zed Comments URL: https://news.ycombinator.com/item?id=44964916 Points: 467 # Comments: 259"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44964693",
+      "title": "Project to formalise a proof of Fermat’s Last Theorem in the Lean theorem prover",
+      "slug": "2025-08-20-project-to-formalise-a-proof-of-fermat-s-last-theorem-in-the-lean-theorem-prover.html",
+      "path": "posts/2025-08-20-project-to-formalise-a-proof-of-fermat-s-last-theorem-in-the-lean-theorem-prover.html",
+      "date_iso": "2025-08-20T18:27:25+00:00",
+      "source": "https://imperialcollegelondon.github.io/FLT/",
+      "summary": "Article URL: https://imperialcollegelondon.github.io/FLT/ Comments URL: https://news.ycombinator.com/item?id=44964693 Points: 107 # Comments: 71"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/20/technology/warren-brodey-dead.html",
+      "title": "Warren Brodey, 101, Dies; a Visionary at the Dawn of the Information Age",
+      "slug": "2025-08-20-warren-brodey-101-dies-a-visionary-at-the-dawn-of-the-information-age.html",
+      "path": "posts/2025-08-20-warren-brodey-101-dies-a-visionary-at-the-dawn-of-the-information-age.html",
+      "date_iso": "2025-08-20T17:35:50+00:00",
+      "source": "https://www.nytimes.com/2025/08/20/technology/warren-brodey-dead.html",
+      "summary": "His work on complex systems and responsive technologies helped lay the groundwork for later work on artificial intelligence."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44963939",
+      "title": "Pixel 10 Phones",
+      "slug": "2025-08-20-pixel-10-phones.html",
+      "path": "posts/2025-08-20-pixel-10-phones.html",
+      "date_iso": "2025-08-20T17:24:10+00:00",
+      "source": "https://blog.google/products/pixel/google-pixel-10-pro-xl/",
+      "summary": "Article URL: https://blog.google/products/pixel/google-pixel-10-pro-xl/ Comments URL: https://news.ycombinator.com/item?id=44963939 Points: 389 # Comments: 776"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44963724",
+      "title": "An Update on Pytype",
+      "slug": "2025-08-20-an-update-on-pytype.html",
+      "path": "posts/2025-08-20-an-update-on-pytype.html",
+      "date_iso": "2025-08-20T17:04:51+00:00",
+      "source": "https://github.com/google/pytype",
+      "summary": "Article URL: https://github.com/google/pytype Comments URL: https://news.ycombinator.com/item?id=44963724 Points: 169 # Comments: 57"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44963135",
+      "title": "Show HN: Luminal – Open-source, search-based GPU compiler",
+      "slug": "2025-08-20-show-hn-luminal-open-source-search-based-gpu-compiler.html",
+      "path": "posts/2025-08-20-show-hn-luminal-open-source-search-based-gpu-compiler.html",
+      "date_iso": "2025-08-20T16:01:13+00:00",
+      "source": "https://github.com/luminal-ai/luminal",
+      "summary": "Hi HN, I’m Joe. My friends Matthew, Jake and I are building Luminal ( https://luminalai.com/ ), a GPU compiler for automatically generating fast GPU kernels for AI models. It uses search-based compilation to achieve high performance. We take high level model code, like you'd hav…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44962969",
+      "title": "OPA maintainers and Styra employees hired by Apple",
+      "slug": "2025-08-20-opa-maintainers-and-styra-employees-hired-by-apple.html",
+      "path": "posts/2025-08-20-opa-maintainers-and-styra-employees-hired-by-apple.html",
+      "date_iso": "2025-08-20T15:44:33+00:00",
+      "source": "https://blog.openpolicyagent.org/note-from-teemu-tim-and-torin-to-the-open-policy-agent-community-2dbbfe494371",
+      "summary": "Article URL: https://blog.openpolicyagent.org/note-from-teemu-tim-and-torin-to-the-open-policy-agent-community-2dbbfe494371 Comments URL: https://news.ycombinator.com/item?id=44962969 Points: 126 # Comments: 42"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44962881",
+      "title": "Launch HN: Channel3 (YC S25) – A database of every product on the internet",
+      "slug": "2025-08-20-launch-hn-channel3-yc-s25-a-database-of-every-product-on-the-internet.html",
+      "path": "posts/2025-08-20-launch-hn-channel3-yc-s25-a-database-of-every-product-on-the-internet.html",
+      "date_iso": "2025-08-20T15:34:07+00:00",
+      "source": "https://news.ycombinator.com/item?id=44962881",
+      "summary": "Hi HN — we’re George and Alex, building Channel3 ( https://trychannel3.com/ ), a database of every product on the internet, searchable via text/image, and with built-in affiliate monetization. Here’s a demo: https://www.youtube.com/watch?v=Mx8FyP7KvJg . It’s surprisingly hard to…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44962771",
+      "title": "Home Depot sued for 'secretly' using facial recognition at self-checkouts",
+      "slug": "2025-08-20-home-depot-sued-for-secretly-using-facial-recognition-at-self-checkouts.html",
+      "path": "posts/2025-08-20-home-depot-sued-for-secretly-using-facial-recognition-at-self-checkouts.html",
+      "date_iso": "2025-08-20T15:23:19+00:00",
+      "source": "https://petapixel.com/2025/08/20/home-depot-sued-for-secretly-using-facial-recognition-technology-on-self-checkout-cameras/",
+      "summary": "Article URL: https://petapixel.com/2025/08/20/home-depot-sued-for-secretly-using-facial-recognition-technology-on-self-checkout-cameras/ Comments URL: https://news.ycombinator.com/item?id=44962771 Points: 101 # Comments: 88"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44962529",
+      "title": "Why are anime catgirls blocking my access to the Linux kernel?",
+      "slug": "2025-08-20-why-are-anime-catgirls-blocking-my-access-to-the-linux-kernel.html",
+      "path": "posts/2025-08-20-why-are-anime-catgirls-blocking-my-access-to-the-linux-kernel.html",
+      "date_iso": "2025-08-20T14:54:45+00:00",
+      "source": "https://lock.cmpxchg8b.com/anubis.html",
+      "summary": "Article URL: https://lock.cmpxchg8b.com/anubis.html Comments URL: https://news.ycombinator.com/item?id=44962529 Points: 448 # Comments: 465"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=44959092",
       "title": "Databricks is raising a Series K Investment at >$100B valuation",
       "slug": "2025-08-20-databricks-is-raising-a-series-k-investment-at-100b-valuation.html",
