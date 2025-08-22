@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=44981525",
+      "title": "It's Not Wrong that \" \".length == 7",
+      "slug": "2025-08-22-it-s-not-wrong-that-length-7.html",
+      "path": "posts/2025-08-22-it-s-not-wrong-that-length-7.html",
+      "date_iso": "2025-08-22T06:18:56+00:00",
+      "source": "https://hsivonen.fi/string-length/",
+      "summary": "Article URL: https://hsivonen.fi/string-length/ Comments URL: https://news.ycombinator.com/item?id=44981525 Points: 9 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44980865",
+      "title": "Io_uring, kTLS and Rust for zero syscall HTTPS server",
+      "slug": "2025-08-22-io-uring-ktls-and-rust-for-zero-syscall-https-server.html",
+      "path": "posts/2025-08-22-io-uring-ktls-and-rust-for-zero-syscall-https-server.html",
+      "date_iso": "2025-08-22T03:51:44+00:00",
+      "source": "https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html",
+      "summary": "Article URL: https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html Comments URL: https://news.ycombinator.com/item?id=44980865 Points: 120 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44980339",
+      "title": "Everything Is Correlated",
+      "slug": "2025-08-22-everything-is-correlated.html",
+      "path": "posts/2025-08-22-everything-is-correlated.html",
+      "date_iso": "2025-08-22T02:05:53+00:00",
+      "source": "https://gwern.net/everything",
+      "summary": "Article URL: https://gwern.net/everything Comments URL: https://news.ycombinator.com/item?id=44980339 Points: 64 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44980004",
+      "title": "Control shopping cart wheels with your phone (2021)",
+      "slug": "2025-08-22-control-shopping-cart-wheels-with-your-phone-2021.html",
+      "path": "posts/2025-08-22-control-shopping-cart-wheels-with-your-phone-2021.html",
+      "date_iso": "2025-08-22T00:59:04+00:00",
+      "source": "https://www.begaydocrime.com/",
+      "summary": "Original DEF CON 29 (2021) talk: https://www.youtube.com/watch?v=fBICDODmCPI Comments URL: https://news.ycombinator.com/item?id=44980004 Points: 142 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44979107",
+      "title": "From GPT-4 to GPT-5: Measuring progress through MedHELM [pdf]",
+      "slug": "2025-08-21-from-gpt-4-to-gpt-5-measuring-progress-through-medhelm-pdf.html",
+      "path": "posts/2025-08-21-from-gpt-4-to-gpt-5-measuring-progress-through-medhelm-pdf.html",
+      "date_iso": "2025-08-21T22:52:14+00:00",
+      "source": "https://www.fertrevino.com/docs/gpt5_medhelm.pdf",
+      "summary": "I recently worked on running a thorough healthcare eval on GPT-5. The results show a (slight) regression in GPT-5 performance compared to GPT-4 era models. I found this to be an interesting finding. Here are the detailed results: https://www.fertrevino.com/docs/gpt5_medhelm.pdf…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44978140",
+      "title": "Show HN: Splice – CAD for Cable Harnesses and Electrical Assemblies",
+      "slug": "2025-08-21-show-hn-splice-cad-for-cable-harnesses-and-electrical-assemblies.html",
+      "path": "posts/2025-08-21-show-hn-splice-cad-for-cable-harnesses-and-electrical-assemblies.html",
+      "date_iso": "2025-08-21T21:10:34+00:00",
+      "source": "https://splice-cad.com",
+      "summary": "I first posted Splice CAD as an in-browser tool for making cable harnesses. Since then it’s grown in both features and scope — the direction is moving from “harness-only” toward a lightweight CAD for wiring and electrical assemblies. New functionality includes: Editing Enhanceme…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44978073",
+      "title": "Text.ai (YC X25) Is Hiring Founding Full-Stack Engineer",
+      "slug": "2025-08-21-text-ai-yc-x25-is-hiring-founding-full-stack-engineer.html",
+      "path": "posts/2025-08-21-text-ai-yc-x25-is-hiring-founding-full-stack-engineer.html",
+      "date_iso": "2025-08-21T21:04:39+00:00",
+      "source": "https://www.ycombinator.com/companies/text-ai/jobs/OJBr0v2-founding-full-stack-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/text-ai/jobs/OJBr0v2-founding-full-stack-engineer Comments URL: https://news.ycombinator.com/item?id=44978073 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44977645",
+      "title": "Code formatting comes to uv experimentally",
+      "slug": "2025-08-21-code-formatting-comes-to-uv-experimentally.html",
+      "path": "posts/2025-08-21-code-formatting-comes-to-uv-experimentally.html",
+      "date_iso": "2025-08-21T20:26:44+00:00",
+      "source": "https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/",
+      "summary": "Article URL: https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/ Comments URL: https://news.ycombinator.com/item?id=44977645 Points: 232 # Comments: 141"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44977189",
+      "title": "Crimes with Python's Pattern Matching (2022)",
+      "slug": "2025-08-21-crimes-with-python-s-pattern-matching-2022.html",
+      "path": "posts/2025-08-21-crimes-with-python-s-pattern-matching-2022.html",
+      "date_iso": "2025-08-21T19:47:02+00:00",
+      "source": "https://www.hillelwayne.com/post/python-abc/",
+      "summary": "Article URL: https://www.hillelwayne.com/post/python-abc/ Comments URL: https://news.ycombinator.com/item?id=44977189 Points: 182 # Comments: 71"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/21/world/europe/jean-pormanove-dead-streamer-kick-french.html",
+      "title": "French Authorities Investigate Death of Streamer Jean Pormanove After Months of Abuse",
+      "slug": "2025-08-21-french-authorities-investigate-death-of-streamer-jean-pormanove-after-months-of-abuse.html",
+      "path": "posts/2025-08-21-french-authorities-investigate-death-of-streamer-jean-pormanove-after-months-of-abuse.html",
+      "date_iso": "2025-08-21T19:23:24+00:00",
+      "source": "https://www.nytimes.com/2025/08/21/world/europe/jean-pormanove-dead-streamer-kick-french.html",
+      "summary": "Raphaël Graven, known online as Jean Pormanove, was regularly subjected to humiliation and abuse on Kick, a streaming platform."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44976929",
+      "title": "The AI Job Title Decoder Ring",
+      "slug": "2025-08-21-the-ai-job-title-decoder-ring.html",
+      "path": "posts/2025-08-21-the-ai-job-title-decoder-ring.html",
+      "date_iso": "2025-08-21T19:22:26+00:00",
+      "source": "https://www.dbreunig.com/2025/08/21/a-guide-to-ai-titles.html",
+      "summary": "Article URL: https://www.dbreunig.com/2025/08/21/a-guide-to-ai-titles.html Comments URL: https://news.ycombinator.com/item?id=44976929 Points: 69 # Comments: 60"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44976764",
+      "title": "DeepSeek-v3.1",
+      "slug": "2025-08-21-deepseek-v3-1.html",
+      "path": "posts/2025-08-21-deepseek-v3-1.html",
+      "date_iso": "2025-08-21T19:06:09+00:00",
+      "source": "https://api-docs.deepseek.com/news/news250821",
+      "summary": "Article URL: https://api-docs.deepseek.com/news/news250821 Comments URL: https://news.ycombinator.com/item?id=44976764 Points: 445 # Comments: 111"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44976568",
+      "title": "AI tooling must be disclosed for contributions",
+      "slug": "2025-08-21-ai-tooling-must-be-disclosed-for-contributions.html",
+      "path": "posts/2025-08-21-ai-tooling-must-be-disclosed-for-contributions.html",
+      "date_iso": "2025-08-21T18:49:57+00:00",
+      "source": "https://github.com/ghostty-org/ghostty/pull/8289",
+      "summary": "Article URL: https://github.com/ghostty-org/ghostty/pull/8289 Comments URL: https://news.ycombinator.com/item?id=44976568 Points: 606 # Comments: 344"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44976468",
+      "title": "Building AI products in the probabilistic era",
+      "slug": "2025-08-21-building-ai-products-in-the-probabilistic-era.html",
+      "path": "posts/2025-08-21-building-ai-products-in-the-probabilistic-era.html",
+      "date_iso": "2025-08-21T18:42:10+00:00",
+      "source": "https://giansegato.com/essays/probabilistic-era",
+      "summary": "Article URL: https://giansegato.com/essays/probabilistic-era Comments URL: https://news.ycombinator.com/item?id=44976468 Points: 130 # Comments: 63"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/21/technology/apple-fitness-jay-blahnik.html",
+      "title": "Apple Fitness Chief Accused of Toxic Workplace Culture and Harassment",
+      "slug": "2025-08-21-apple-fitness-chief-accused-of-toxic-workplace-culture-and-harassment.html",
+      "path": "posts/2025-08-21-apple-fitness-chief-accused-of-toxic-workplace-culture-and-harassment.html",
+      "date_iso": "2025-08-21T15:09:54+00:00",
+      "source": "https://www.nytimes.com/2025/08/21/technology/apple-fitness-jay-blahnik.html",
+      "summary": "Three circular bands came to define fitness on the Apple Watch."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44973375",
+      "title": "Beyond sensor data: Foundation models of behavioral data from wearables",
+      "slug": "2025-08-21-beyond-sensor-data-foundation-models-of-behavioral-data-from-wearables.html",
+      "path": "posts/2025-08-21-beyond-sensor-data-foundation-models-of-behavioral-data-from-wearables.html",
+      "date_iso": "2025-08-21T14:39:45+00:00",
+      "source": "https://arxiv.org/abs/2507.00191",
+      "summary": "Article URL: https://arxiv.org/abs/2507.00191 Comments URL: https://news.ycombinator.com/item?id=44973375 Points: 208 # Comments: 45"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44972213",
+      "title": "How well does the money laundering control system work?",
+      "slug": "2025-08-21-how-well-does-the-money-laundering-control-system-work.html",
+      "path": "posts/2025-08-21-how-well-does-the-money-laundering-control-system-work.html",
+      "date_iso": "2025-08-21T12:58:17+00:00",
+      "source": "https://www.journals.uchicago.edu/doi/10.1086/735665",
+      "summary": "Article URL: https://www.journals.uchicago.edu/doi/10.1086/735665 Comments URL: https://news.ycombinator.com/item?id=44972213 Points: 232 # Comments: 240"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44972151",
+      "title": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
+      "slug": "2025-08-21-aws-ceo-says-using-ai-to-replace-junior-staff-is-dumbest-thing-i-ve-ever-heard.html",
+      "path": "posts/2025-08-21-aws-ceo-says-using-ai-to-replace-junior-staff-is-dumbest-thing-i-ve-ever-heard.html",
+      "date_iso": "2025-08-21T12:53:16+00:00",
+      "source": "https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/",
+      "summary": "Article URL: https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/ Comments URL: https://news.ycombinator.com/item?id=44972151 Points: 1298 # Comments: 519"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44971954",
+      "title": "Privately-Owned Rail Cars",
+      "slug": "2025-08-21-privately-owned-rail-cars.html",
+      "path": "posts/2025-08-21-privately-owned-rail-cars.html",
+      "date_iso": "2025-08-21T12:31:46+00:00",
+      "source": "https://www.amtrak.com/privately-owned-rail-cars",
+      "summary": "Article URL: https://www.amtrak.com/privately-owned-rail-cars Comments URL: https://news.ycombinator.com/item?id=44971954 Points: 138 # Comments: 180"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44971850",
+      "title": "How does the US use water?",
+      "slug": "2025-08-21-how-does-the-us-use-water.html",
+      "path": "posts/2025-08-21-how-does-the-us-use-water.html",
+      "date_iso": "2025-08-21T12:21:38+00:00",
+      "source": "https://www.construction-physics.com/p/how-does-the-us-use-water",
+      "summary": "Article URL: https://www.construction-physics.com/p/how-does-the-us-use-water Comments URL: https://news.ycombinator.com/item?id=44971850 Points: 148 # Comments: 136"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44971845",
+      "title": "Weaponizing image scaling against production AI systems",
+      "slug": "2025-08-21-weaponizing-image-scaling-against-production-ai-systems.html",
+      "path": "posts/2025-08-21-weaponizing-image-scaling-against-production-ai-systems.html",
+      "date_iso": "2025-08-21T12:20:53+00:00",
+      "source": "https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/",
+      "summary": "Article URL: https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/ Comments URL: https://news.ycombinator.com/item?id=44971845 Points: 367 # Comments: 100"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44971607",
+      "title": "1981 Sony Trinitron KV-3000R: The Most Luxurious Trinitron [video]",
+      "slug": "2025-08-21-1981-sony-trinitron-kv-3000r-the-most-luxurious-trinitron-video.html",
+      "path": "posts/2025-08-21-1981-sony-trinitron-kv-3000r-the-most-luxurious-trinitron-video.html",
+      "date_iso": "2025-08-21T11:52:29+00:00",
+      "source": "https://www.youtube.com/watch?v=jHG_I-9a7FY",
+      "summary": "Article URL: https://www.youtube.com/watch?v=jHG_I-9a7FY Comments URL: https://news.ycombinator.com/item?id=44971607 Points: 50 # Comments: 38"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=44969622",
       "title": "Show HN: I replaced vector databases with Git for AI memory (PoC)",
       "slug": "2025-08-21-show-hn-i-replaced-vector-databases-with-git-for-ai-memory-poc.html",
