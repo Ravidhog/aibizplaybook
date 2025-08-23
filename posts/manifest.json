@@ -1,6 +1,240 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=44993797",
+      "title": "I'm too dumb for Zig's new IO interface",
+      "slug": "2025-08-23-i-m-too-dumb-for-zig-s-new-io-interface.html",
+      "path": "posts/2025-08-23-i-m-too-dumb-for-zig-s-new-io-interface.html",
+      "date_iso": "2025-08-23T06:39:38+00:00",
+      "source": "https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/",
+      "summary": "Article URL: https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/ Comments URL: https://news.ycombinator.com/item?id=44993797 Points: 20 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44992930",
+      "title": "A visual history of Visual C++ (2017)",
+      "slug": "2025-08-23-a-visual-history-of-visual-c-2017.html",
+      "path": "posts/2025-08-23-a-visual-history-of-visual-c-2017.html",
+      "date_iso": "2025-08-23T03:39:37+00:00",
+      "source": "http://www.malsmith.net/blog/visual-c-visual-history/",
+      "summary": "Article URL: http://www.malsmith.net/blog/visual-c-visual-history/ Comments URL: https://news.ycombinator.com/item?id=44992930 Points: 34 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44992832",
+      "title": "Measuring the environmental impact of AI inference",
+      "slug": "2025-08-23-measuring-the-environmental-impact-of-ai-inference.html",
+      "path": "posts/2025-08-23-measuring-the-environmental-impact-of-ai-inference.html",
+      "date_iso": "2025-08-23T03:22:33+00:00",
+      "source": "https://arstechnica.com/ai/2025/08/google-says-it-dropped-the-energy-cost-of-ai-queries-by-33x-in-one-year/",
+      "summary": "Research paper: https://services.google.com/fh/files/misc/measuring_the_envi... Google blog post: https://cloud.google.com/blog/products/infrastructure/measur... Comments URL: https://news.ycombinator.com/item?id=44992832 Points: 103 # Comments: 47"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44992446",
+      "title": "Japan city drafts ordinance to cap smartphone use at 2 hours per day",
+      "slug": "2025-08-23-japan-city-drafts-ordinance-to-cap-smartphone-use-at-2-hours-per-day.html",
+      "path": "posts/2025-08-23-japan-city-drafts-ordinance-to-cap-smartphone-use-at-2-hours-per-day.html",
+      "date_iso": "2025-08-23T02:20:09+00:00",
+      "source": "https://english.kyodonews.net/articles/-/59582",
+      "summary": "Article URL: https://english.kyodonews.net/articles/-/59582 Comments URL: https://news.ycombinator.com/item?id=44992446 Points: 81 # Comments: 58"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/22/business/jensen-huang-nvidia-china.html",
+      "title": "Nvidia Is Making a New Chip for China Amid Debate on AI Exports",
+      "slug": "2025-08-23-nvidia-is-making-a-new-chip-for-china-amid-debate-on-ai-exports.html",
+      "path": "posts/2025-08-23-nvidia-is-making-a-new-chip-for-china-amid-debate-on-ai-exports.html",
+      "date_iso": "2025-08-23T01:19:42+00:00",
+      "source": "https://www.nytimes.com/2025/08/22/business/jensen-huang-nvidia-china.html",
+      "summary": "Jensen Huang, Nvidia’s chief executive, said he had “worked quite hard” to secure export licenses from the Trump administration to ship A.I. chips to China."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44991884",
+      "title": "My tips for using LLM agents to create software",
+      "slug": "2025-08-23-my-tips-for-using-llm-agents-to-create-software.html",
+      "path": "posts/2025-08-23-my-tips-for-using-llm-agents-to-create-software.html",
+      "date_iso": "2025-08-23T00:59:02+00:00",
+      "source": "https://efitz-thoughts.blogspot.com/2025/08/my-experience-creating-software-with_22.html",
+      "summary": "Article URL: https://efitz-thoughts.blogspot.com/2025/08/my-experience-creating-software-with_22.html Comments URL: https://news.ycombinator.com/item?id=44991884 Points: 52 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44991542",
+      "title": "Computer fraud laws used to prosecute leaking air crash footage to CNN",
+      "slug": "2025-08-23-computer-fraud-laws-used-to-prosecute-leaking-air-crash-footage-to-cnn.html",
+      "path": "posts/2025-08-23-computer-fraud-laws-used-to-prosecute-leaking-air-crash-footage-to-cnn.html",
+      "date_iso": "2025-08-23T00:04:56+00:00",
+      "source": "https://www.techdirt.com/2025/08/22/investigators-used-terrible-computer-fraud-laws-to-ensure-people-were-punished-for-leaking-air-crash-footage-to-cnn/",
+      "summary": "Article URL: https://www.techdirt.com/2025/08/22/investigators-used-terrible-computer-fraud-laws-to-ensure-people-were-punished-for-leaking-air-crash-footage-to-cnn/ Comments URL: https://news.ycombinator.com/item?id=44991542 Points: 156 # Comments: 71"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44991384",
+      "title": "Popular Japanese smartphone games have introduced external payment systems",
+      "slug": "2025-08-22-popular-japanese-smartphone-games-have-introduced-external-payment-systems.html",
+      "path": "posts/2025-08-22-popular-japanese-smartphone-games-have-introduced-external-payment-systems.html",
+      "date_iso": "2025-08-22T23:50:13+00:00",
+      "source": "https://english.kyodonews.net/articles/-/59689",
+      "summary": "Article URL: https://english.kyodonews.net/articles/-/59689 Comments URL: https://news.ycombinator.com/item?id=44991384 Points: 116 # Comments: 61"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/22/business/eaton-corporation-hack-prison-sentence.html",
+      "title": "Ex-Employee Sentenced to 4 Years for Sabotaging Company’s Computer Network",
+      "slug": "2025-08-22-ex-employee-sentenced-to-4-years-for-sabotaging-company-s-computer-network.html",
+      "path": "posts/2025-08-22-ex-employee-sentenced-to-4-years-for-sabotaging-company-s-computer-network.html",
+      "date_iso": "2025-08-22T23:14:11+00:00",
+      "source": "https://www.nytimes.com/2025/08/22/business/eaton-corporation-hack-prison-sentence.html",
+      "summary": "A Chinese citizen living in Houston was sentenced to four years in prison on Thursday for a 2019 hack that severely damaged the computer network systems of Eaton Corporation, the Ohio company where he worked at the time."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44990981",
+      "title": "The use of LLM assistants for kernel development",
+      "slug": "2025-08-22-the-use-of-llm-assistants-for-kernel-development.html",
+      "path": "posts/2025-08-22-the-use-of-llm-assistants-for-kernel-development.html",
+      "date_iso": "2025-08-22T23:02:05+00:00",
+      "source": "https://lwn.net/Articles/1032612/",
+      "summary": "Article URL: https://lwn.net/Articles/1032612/ Comments URL: https://news.ycombinator.com/item?id=44990981 Points: 26 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44990886",
+      "title": "Bluesky Goes Dark in Mississippi over Age Verification Law",
+      "slug": "2025-08-22-bluesky-goes-dark-in-mississippi-over-age-verification-law.html",
+      "path": "posts/2025-08-22-bluesky-goes-dark-in-mississippi-over-age-verification-law.html",
+      "date_iso": "2025-08-22T22:51:27+00:00",
+      "source": "https://www.wired.com/story/bluesky-goes-dark-in-mississippi-age-verification/",
+      "summary": "Article URL: https://www.wired.com/story/bluesky-goes-dark-in-mississippi-age-verification/ Comments URL: https://news.ycombinator.com/item?id=44990886 Points: 138 # Comments: 57"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44990798",
+      "title": "Transcribe music in abc with syntax highlighting",
+      "slug": "2025-08-22-transcribe-music-in-abc-with-syntax-highlighting.html",
+      "path": "posts/2025-08-22-transcribe-music-in-abc-with-syntax-highlighting.html",
+      "date_iso": "2025-08-22T22:41:20+00:00",
+      "source": "https://fugue-state.io/app?project=24024aab-22f1-43cc-abef-c1647cc59597",
+      "summary": "Article URL: https://fugue-state.io/app?project=24024aab-22f1-43cc-abef-c1647cc59597 Comments URL: https://news.ycombinator.com/item?id=44990798 Points: 18 # Comments: 6"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/22/technology/trump-intel-stake.html",
+      "title": "Intel Agrees to Sell U.S. a 10% Stake in Its Business",
+      "slug": "2025-08-22-intel-agrees-to-sell-u-s-a-10-stake-in-its-business.html",
+      "path": "posts/2025-08-22-intel-agrees-to-sell-u-s-a-10-stake-in-its-business.html",
+      "date_iso": "2025-08-22T22:36:38+00:00",
+      "source": "https://www.nytimes.com/2025/08/22/technology/trump-intel-stake.html",
+      "summary": "An Intel chip-making site in Chandler, Ariz. If the deal goes through, the government’s stake in the company would be worth $8.9 billion."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44990680",
+      "title": "Glyn: Type-safe PubSub and Registry for Gleam actors with distributed clustering",
+      "slug": "2025-08-22-glyn-type-safe-pubsub-and-registry-for-gleam-actors-with-distributed-clustering.html",
+      "path": "posts/2025-08-22-glyn-type-safe-pubsub-and-registry-for-gleam-actors-with-distributed-clustering.html",
+      "date_iso": "2025-08-22T22:29:28+00:00",
+      "source": "https://github.com/mbuhot/glyn",
+      "summary": "Article URL: https://github.com/mbuhot/glyn Comments URL: https://news.ycombinator.com/item?id=44990680 Points: 45 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44989773",
+      "title": "U.S. government takes 10% stake in Intel",
+      "slug": "2025-08-22-u-s-government-takes-10-stake-in-intel.html",
+      "path": "posts/2025-08-22-u-s-government-takes-10-stake-in-intel.html",
+      "date_iso": "2025-08-22T21:01:52+00:00",
+      "source": "https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html",
+      "summary": "Article URL: https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html Comments URL: https://news.ycombinator.com/item?id=44989773 Points: 517 # Comments: 591"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/22/technology/elon-musk-x-settlements.html",
+      "title": "Elon Musk’s X Agrees to Settlements With Thousands of Former Employees",
+      "slug": "2025-08-22-elon-musk-s-x-agrees-to-settlements-with-thousands-of-former-employees.html",
+      "path": "posts/2025-08-22-elon-musk-s-x-agrees-to-settlements-with-thousands-of-former-employees.html",
+      "date_iso": "2025-08-22T20:41:19+00:00",
+      "source": "https://www.nytimes.com/2025/08/22/technology/elon-musk-x-settlements.html",
+      "summary": "When Elon Musk bought Twitter, now X, three years ago, he cut more than 5,000 jobs."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44988530",
+      "title": "Nitro: A tiny but flexible init system and process supervisor",
+      "slug": "2025-08-22-nitro-a-tiny-but-flexible-init-system-and-process-supervisor.html",
+      "path": "posts/2025-08-22-nitro-a-tiny-but-flexible-init-system-and-process-supervisor.html",
+      "date_iso": "2025-08-22T19:06:29+00:00",
+      "source": "https://git.vuxu.org/nitro/about/",
+      "summary": "Article URL: https://git.vuxu.org/nitro/about/ Comments URL: https://news.ycombinator.com/item?id=44988530 Points: 179 # Comments: 61"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44988271",
+      "title": "Show HN: JavaScript-free (X)HTML Includes",
+      "slug": "2025-08-22-show-hn-javascript-free-x-html-includes.html",
+      "path": "posts/2025-08-22-show-hn-javascript-free-x-html-includes.html",
+      "date_iso": "2025-08-22T18:47:30+00:00",
+      "source": "https://github.com/Evidlo/xsl-website",
+      "summary": "(spoiler: its XSLT) I've been working on a little demo for how to avoid copy-pasting header/footer boilerplate on a simple static webpage. My goal is to approximate the experience of Jekyll/Hugo but eliminate the need for a build step before publishing. This demo shows how to ge…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44987924",
+      "title": "The first Media over QUIC CDN: Cloudflare",
+      "slug": "2025-08-22-the-first-media-over-quic-cdn-cloudflare.html",
+      "path": "posts/2025-08-22-the-first-media-over-quic-cdn-cloudflare.html",
+      "date_iso": "2025-08-22T18:24:16+00:00",
+      "source": "https://moq.dev/blog/first-cdn/",
+      "summary": "Article URL: https://moq.dev/blog/first-cdn/ Comments URL: https://news.ycombinator.com/item?id=44987924 Points: 214 # Comments: 94"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44987380",
+      "title": "Leaving Gmail for Mailbox.org",
+      "slug": "2025-08-22-leaving-gmail-for-mailbox-org.html",
+      "path": "posts/2025-08-22-leaving-gmail-for-mailbox-org.html",
+      "date_iso": "2025-08-22T17:41:48+00:00",
+      "source": "https://giuliomagnifico.blog/post/2025-08-18-leaving-gmail/",
+      "summary": "Article URL: https://giuliomagnifico.blog/post/2025-08-18-leaving-gmail/ Comments URL: https://news.ycombinator.com/item?id=44987380 Points: 238 # Comments: 258"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44986809",
+      "title": "Launch HN: BlankBio (YC S25) – Making RNA Programmable",
+      "slug": "2025-08-22-launch-hn-blankbio-yc-s25-making-rna-programmable.html",
+      "path": "posts/2025-08-22-launch-hn-blankbio-yc-s25-making-rna-programmable.html",
+      "date_iso": "2025-08-22T16:53:30+00:00",
+      "source": "https://news.ycombinator.com/item?id=44986809",
+      "summary": "Hey HN, we're Phil, Ian and Jonny, and we're building BlankBio ( https://blank.bio ). We're training RNA foundation models to power a computational toolkit for therapeutics. The first application is in mRNA design where our vision is for any biologist to design an effective ther…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44986251",
+      "title": "Closing the Nix gap: From environments to packaged applications for rust",
+      "slug": "2025-08-22-closing-the-nix-gap-from-environments-to-packaged-applications-for-rust.html",
+      "path": "posts/2025-08-22-closing-the-nix-gap-from-environments-to-packaged-applications-for-rust.html",
+      "date_iso": "2025-08-22T16:06:15+00:00",
+      "source": "https://devenv.sh/blog/2025/08/22/closing-the-nix-gap-from-environments-to-packaged-applications-for-rust/",
+      "summary": "Article URL: https://devenv.sh/blog/2025/08/22/closing-the-nix-gap-from-environments-to-packaged-applications-for-rust/ Comments URL: https://news.ycombinator.com/item?id=44986251 Points: 63 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44985730",
+      "title": "FFmpeg 8.0",
+      "slug": "2025-08-22-ffmpeg-8-0.html",
+      "path": "posts/2025-08-22-ffmpeg-8-0.html",
+      "date_iso": "2025-08-22T15:22:42+00:00",
+      "source": "https://ffmpeg.org/index.html#pr8.0",
+      "summary": "Article URL: https://ffmpeg.org/index.html#pr8.0 Comments URL: https://news.ycombinator.com/item?id=44985730 Points: 783 # Comments: 177"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/22/podcasts/is-this-an-ai-bubble-metas-missing-morals-tiktok-shock-slop.html",
+      "title": "Is This an A.I. Bubble? + Meta’s Missing Morals + TikTok Shock Slop",
+      "slug": "2025-08-22-is-this-an-a-i-bubble-meta-s-missing-morals-tiktok-shock-slop.html",
+      "path": "posts/2025-08-22-is-this-an-a-i-bubble-meta-s-missing-morals-tiktok-shock-slop.html",
+      "date_iso": "2025-08-22T11:00:03+00:00",
+      "source": "https://www.nytimes.com/2025/08/22/podcasts/is-this-an-ai-bubble-metas-missing-morals-tiktok-shock-slop.html",
+      "summary": "“It’s beyond enormous. It’s unprecedented.”"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44982409",
+      "title": "LabPlot: Free, open source and cross-platform Data Visualization and Analysis",
+      "slug": "2025-08-22-labplot-free-open-source-and-cross-platform-data-visualization-and-analysis.html",
+      "path": "posts/2025-08-22-labplot-free-open-source-and-cross-platform-data-visualization-and-analysis.html",
+      "date_iso": "2025-08-22T09:11:26+00:00",
+      "source": "https://labplot.org/",
+      "summary": "Article URL: https://labplot.org/ Comments URL: https://news.ycombinator.com/item?id=44982409 Points: 215 # Comments: 37"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/22/world/europe/art-restoration-ai-innovation.html",
+      "title": "The Hobbyist Restorer Who Rocked the Art World With an A.I. Innovation",
+      "slug": "2025-08-22-the-hobbyist-restorer-who-rocked-the-art-world-with-an-a-i-innovation.html",
+      "path": "posts/2025-08-22-the-hobbyist-restorer-who-rocked-the-art-world-with-an-a-i-innovation.html",
+      "date_iso": "2025-08-22T09:02:16+00:00",
+      "source": "https://www.nytimes.com/2025/08/22/world/europe/art-restoration-ai-innovation.html",
+      "summary": "The collapsed Church of San Salvatore in Campi on Oct. 31, 2016, a day after a 6.6 magnitude earthquake hit central Italy."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=44981525",
       "title": "It's Not Wrong that \" \".length == 7",
       "slug": "2025-08-22-it-s-not-wrong-that-length-7.html",

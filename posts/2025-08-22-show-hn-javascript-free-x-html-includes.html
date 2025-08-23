@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: JavaScript-free (X)HTML Includes</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: JavaScript-free (X)HTML Includes</h1>
+    <p><small>Published: 2025-08-22T18:47:30+00:00</small></p>
+  </header>
+
+  <main>
+    <p>(spoiler: its XSLT)<p>I've been working on a little demo for how to avoid copy-pasting header/footer boilerplate on a simple static webpage. My goal is to approximate the experience of Jekyll/Hugo but eliminate the need for a build step before publishing. This demo shows how to get basic templating features with XSL so you could write a blog post which looks like<p><pre><code>  
+  
+  
+      My Article
+      
+          some content
+          <ul>
+              <li>hello</li>
+              <li>hello</li>
+          </ul>
+      
+  
+</code></pre>
+Some properties which set this approach apart from other methods:<p><pre><code>  - no build step (no need to setup Jekyll on the client or configure Github/Gitlab actions)
+  - works on any webserver (e.g. as opposed to server-side includes, actions)
+  - normal looking URLs (e.g. `example.com/foobar` as opposed to `example.com/#page=foobar`)
+</code></pre>
+There's been some talk about removing XSLT support from the HTML spec [0], so I figured I would show this proof of concept while it still works.<p>[0]: <a href="https://news.ycombinator.com/item?id=44952185">https://news.ycombinator.com/item?id=44952185</a><p>See also: grug-brain XSLT <a href="https://news.ycombinator.com/item?id=44393817">https://news.ycombinator.com/item?id=44393817</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=44988271">https://news.ycombinator.com/item?id=44988271</a></p>
+<p>Points: 123</p>
+<p># Comments: 59</p>
+    <p><a href="https://github.com/Evidlo/xsl-website" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
