@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45001751",
+      "title": "Equal Earth – Political Wall Map (2018)",
+      "slug": "2025-08-24-equal-earth-political-wall-map-2018.html",
+      "path": "posts/2025-08-24-equal-earth-political-wall-map-2018.html",
+      "date_iso": "2025-08-24T05:54:15+00:00",
+      "source": "https://equal-earth.com/index.html",
+      "summary": "Article URL: https://equal-earth.com/index.html Comments URL: https://news.ycombinator.com/item?id=45001751 Points: 11 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45001740",
+      "title": "Wildthing – A model trained on role-reversed ChatGPT conversations",
+      "slug": "2025-08-24-wildthing-a-model-trained-on-role-reversed-chatgpt-conversations.html",
+      "path": "posts/2025-08-24-wildthing-a-model-trained-on-role-reversed-chatgpt-conversations.html",
+      "date_iso": "2025-08-24T05:51:43+00:00",
+      "source": "https://youaretheassistantnow.com/",
+      "summary": "Article URL: https://youaretheassistantnow.com/ Comments URL: https://news.ycombinator.com/item?id=45001740 Points: 20 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45001551",
+      "title": "Ask HN: Best codebases to study to learn software design?",
+      "slug": "2025-08-24-ask-hn-best-codebases-to-study-to-learn-software-design.html",
+      "path": "posts/2025-08-24-ask-hn-best-codebases-to-study-to-learn-software-design.html",
+      "date_iso": "2025-08-24T05:08:19+00:00",
+      "source": "https://news.ycombinator.com/item?id=45001551",
+      "summary": "I’m working on improving my software design skills, and it was recommended that I study existing well designed codebases. What are some publicly accessible codebases you would consider gold standards for software design? Comments URL: https://news.ycombinator.com/item?id=4500155…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45001371",
+      "title": "ThinkMesh: A Python lib for parallel thinking in LLMs",
+      "slug": "2025-08-24-thinkmesh-a-python-lib-for-parallel-thinking-in-llms.html",
+      "path": "posts/2025-08-24-thinkmesh-a-python-lib-for-parallel-thinking-in-llms.html",
+      "date_iso": "2025-08-24T04:23:33+00:00",
+      "source": "https://github.com/martianlantern/ThinkMesh",
+      "summary": "Article URL: https://github.com/martianlantern/ThinkMesh Comments URL: https://news.ycombinator.com/item?id=45001371 Points: 10 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45001051",
+      "title": "How to build a coding agent",
+      "slug": "2025-08-24-how-to-build-a-coding-agent.html",
+      "path": "posts/2025-08-24-how-to-build-a-coding-agent.html",
+      "date_iso": "2025-08-24T03:21:14+00:00",
+      "source": "https://ghuntley.com/agent/",
+      "summary": "Article URL: https://ghuntley.com/agent/ Comments URL: https://news.ycombinator.com/item?id=45001051 Points: 126 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45000988",
+      "title": "Programming People (2016)",
+      "slug": "2025-08-24-programming-people-2016.html",
+      "path": "posts/2025-08-24-programming-people-2016.html",
+      "date_iso": "2025-08-24T03:09:01+00:00",
+      "source": "https://leftoversalad.com/c/015_programmingpeople/",
+      "summary": "Article URL: https://leftoversalad.com/c/015_programmingpeople/ Comments URL: https://news.ycombinator.com/item?id=45000988 Points: 23 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45000982",
+      "title": "Show HN: Port Kill – A lightweight macOS status bar development port monitor",
+      "slug": "2025-08-24-show-hn-port-kill-a-lightweight-macos-status-bar-development-port-monitor.html",
+      "path": "posts/2025-08-24-show-hn-port-kill-a-lightweight-macos-status-bar-development-port-monitor.html",
+      "date_iso": "2025-08-24T03:08:15+00:00",
+      "source": "https://github.com/kagehq/port-kill",
+      "summary": "Article URL: https://github.com/kagehq/port-kill Comments URL: https://news.ycombinator.com/item?id=45000982 Points: 50 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45000894",
+      "title": "Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet",
+      "slug": "2025-08-24-agentic-browser-security-indirect-prompt-injection-in-perplexity-comet.html",
+      "path": "posts/2025-08-24-agentic-browser-security-indirect-prompt-injection-in-perplexity-comet.html",
+      "date_iso": "2025-08-24T02:52:08+00:00",
+      "source": "https://brave.com/blog/comet-prompt-injection/",
+      "summary": "Article URL: https://brave.com/blog/comet-prompt-injection/ Comments URL: https://news.ycombinator.com/item?id=45000894 Points: 21 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45000270",
+      "title": "Evaluating LLMs for my personal use case",
+      "slug": "2025-08-24-evaluating-llms-for-my-personal-use-case.html",
+      "path": "posts/2025-08-24-evaluating-llms-for-my-personal-use-case.html",
+      "date_iso": "2025-08-24T00:40:33+00:00",
+      "source": "https://darkcoding.net/software/personal-ai-evals-aug-2025/",
+      "summary": "Article URL: https://darkcoding.net/software/personal-ai-evals-aug-2025/ Comments URL: https://news.ycombinator.com/item?id=45000270 Points: 46 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45000176",
+      "title": "AGI is an engineering problem, not a model training problem",
+      "slug": "2025-08-24-agi-is-an-engineering-problem-not-a-model-training-problem.html",
+      "path": "posts/2025-08-24-agi-is-an-engineering-problem-not-a-model-training-problem.html",
+      "date_iso": "2025-08-24T00:18:52+00:00",
+      "source": "https://www.vincirufus.com/posts/agi-is-engineering-problem/",
+      "summary": "Article URL: https://www.vincirufus.com/posts/agi-is-engineering-problem/ Comments URL: https://news.ycombinator.com/item?id=45000176 Points: 131 # Comments: 262"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44999815",
+      "title": "Debdelta",
+      "slug": "2025-08-23-debdelta.html",
+      "path": "posts/2025-08-23-debdelta.html",
+      "date_iso": "2025-08-23T23:03:42+00:00",
+      "source": "https://debdelta.debian.net/",
+      "summary": "Article URL: https://debdelta.debian.net/ Comments URL: https://news.ycombinator.com/item?id=44999815 Points: 26 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44999766",
+      "title": "The problems that accountability can't fix",
+      "slug": "2025-08-23-the-problems-that-accountability-can-t-fix.html",
+      "path": "posts/2025-08-23-the-problems-that-accountability-can-t-fix.html",
+      "date_iso": "2025-08-23T22:53:37+00:00",
+      "source": "https://surfingcomplexity.blog/2025/08/23/the-problems-that-accountability-cant-fix/",
+      "summary": "Article URL: https://surfingcomplexity.blog/2025/08/23/the-problems-that-accountability-cant-fix/ Comments URL: https://news.ycombinator.com/item?id=44999766 Points: 26 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44999373",
+      "title": "The cost of interrupted work (2023)",
+      "slug": "2025-08-23-the-cost-of-interrupted-work-2023.html",
+      "path": "posts/2025-08-23-the-cost-of-interrupted-work-2023.html",
+      "date_iso": "2025-08-23T21:45:06+00:00",
+      "source": "https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html",
+      "summary": "Article URL: https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html Comments URL: https://news.ycombinator.com/item?id=44999373 Points: 167 # Comments: 96"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/23/business/ai-female-hackers-foundher-house.html",
+      "title": "The All-Female Hacker House Trying to Break A.I.’s Glass Ceiling",
+      "slug": "2025-08-23-the-all-female-hacker-house-trying-to-break-a-i-s-glass-ceiling.html",
+      "path": "posts/2025-08-23-the-all-female-hacker-house-trying-to-break-a-i-s-glass-ceiling.html",
+      "date_iso": "2025-08-23T21:21:13+00:00",
+      "source": "https://www.nytimes.com/2025/08/23/business/ai-female-hackers-foundher-house.html",
+      "summary": "The members of FoundHer House, an all-female hacker house in San Francisco. From left, Ava Poole, 20; Anantika Mannby, 21; Danica Sun, 19; Miki Safronov-Yamamoto, 18; Sonya Jin, 20; Fatimah Hussain, 19; Chloe Hughes, 21; and Naciima Mohamed, 20."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44999094",
+      "title": "Motion (YC W20) Is Hiring Principal Software Engineers",
+      "slug": "2025-08-23-motion-yc-w20-is-hiring-principal-software-engineers.html",
+      "path": "posts/2025-08-23-motion-yc-w20-is-hiring-principal-software-engineers.html",
+      "date_iso": "2025-08-23T21:00:33+00:00",
+      "source": "https://jobs.ashbyhq.com/motion/7355e80d-dab2-4ba1-89cc-a0197e08a83c?utm_source=hn",
+      "summary": "Article URL: https://jobs.ashbyhq.com/motion/7355e80d-dab2-4ba1-89cc-a0197e08a83c?utm_source=hn Comments URL: https://news.ycombinator.com/item?id=44999094 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44998514",
+      "title": "A 2k-year-old sun hat worn by a Roman soldier in Egypt",
+      "slug": "2025-08-23-a-2k-year-old-sun-hat-worn-by-a-roman-soldier-in-egypt.html",
+      "path": "posts/2025-08-23-a-2k-year-old-sun-hat-worn-by-a-roman-soldier-in-egypt.html",
+      "date_iso": "2025-08-23T19:35:31+00:00",
+      "source": "https://www.smithsonianmag.com/smart-news/a-2000-year-old-sun-hat-worn-by-a-roman-soldier-in-egypt-goes-on-view-after-a-century-in-storage-180987192/",
+      "summary": "Article URL: https://www.smithsonianmag.com/smart-news/a-2000-year-old-sun-hat-worn-by-a-roman-soldier-in-egypt-goes-on-view-after-a-century-in-storage-180987192/ Comments URL: https://news.ycombinator.com/item?id=44998514 Points: 113 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44998295",
+      "title": "What makes Claude Code so damn good",
+      "slug": "2025-08-23-what-makes-claude-code-so-damn-good.html",
+      "path": "posts/2025-08-23-what-makes-claude-code-so-damn-good.html",
+      "date_iso": "2025-08-23T19:07:42+00:00",
+      "source": "https://minusx.ai/blog/decoding-claude-code/",
+      "summary": "Article URL: https://minusx.ai/blog/decoding-claude-code/ Comments URL: https://news.ycombinator.com/item?id=44998295 Points: 289 # Comments: 208"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44996938",
+      "title": "Line scan camera image processing for train photography",
+      "slug": "2025-08-23-line-scan-camera-image-processing-for-train-photography.html",
+      "path": "posts/2025-08-23-line-scan-camera-image-processing-for-train-photography.html",
+      "date_iso": "2025-08-23T16:09:21+00:00",
+      "source": "https://daniel.lawrence.lu/blog/y2025m09d21/",
+      "summary": "Article URL: https://daniel.lawrence.lu/blog/y2025m09d21/ Comments URL: https://news.ycombinator.com/item?id=44996938 Points: 285 # Comments: 55"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/23/technology/intel-computer-chips-tech-ai-trump.html",
+      "title": "Intel's Downfall Underlines How Even Tech Giants Can Fade",
+      "slug": "2025-08-23-intel-s-downfall-underlines-how-even-tech-giants-can-fade.html",
+      "path": "posts/2025-08-23-intel-s-downfall-underlines-how-even-tech-giants-can-fade.html",
+      "date_iso": "2025-08-23T14:29:37+00:00",
+      "source": "https://www.nytimes.com/2025/08/23/technology/intel-computer-chips-tech-ai-trump.html",
+      "summary": "Intel’s co-founders and early employees prolonged its dominance. But it couldn’t outrun the disruptive forces of Silicon Valley forever."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44995640",
+      "title": "RFC 9839 and Bad Unicode",
+      "slug": "2025-08-23-rfc-9839-and-bad-unicode.html",
+      "path": "posts/2025-08-23-rfc-9839-and-bad-unicode.html",
+      "date_iso": "2025-08-23T12:54:01+00:00",
+      "source": "https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839",
+      "summary": "Article URL: https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839 Comments URL: https://news.ycombinator.com/item?id=44995640 Points: 238 # Comments: 119"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44995508",
+      "title": "Writing Speed-of-Light Flash Attention for 5090 in CUDA C++",
+      "slug": "2025-08-23-writing-speed-of-light-flash-attention-for-5090-in-cuda-c.html",
+      "path": "posts/2025-08-23-writing-speed-of-light-flash-attention-for-5090-in-cuda-c.html",
+      "date_iso": "2025-08-23T12:29:02+00:00",
+      "source": "https://gau-nernst.github.io/fa-5090/",
+      "summary": "Article URL: https://gau-nernst.github.io/fa-5090/ Comments URL: https://news.ycombinator.com/item?id=44995508 Points: 145 # Comments: 32"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=44993797",
       "title": "I'm too dumb for Zig's new IO interface",
       "slug": "2025-08-23-i-m-too-dumb-for-zig-s-new-io-interface.html",
@@ -143,6 +332,15 @@
       "date_iso": "2025-08-22T20:41:19+00:00",
       "source": "https://www.nytimes.com/2025/08/22/technology/elon-musk-x-settlements.html",
       "summary": "When Elon Musk bought Twitter, now X, three years ago, he cut more than 5,000 jobs."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=44988845",
+      "title": "Why was Apache Kafka created?",
+      "slug": "2025-08-22-why-was-apache-kafka-created.html",
+      "path": "posts/2025-08-22-why-was-apache-kafka-created.html",
+      "date_iso": "2025-08-22T19:31:41+00:00",
+      "source": "https://bigdata.2minutestreaming.com/p/why-was-apache-kafka-created",
+      "summary": "Article URL: https://bigdata.2minutestreaming.com/p/why-was-apache-kafka-created Comments URL: https://news.ycombinator.com/item?id=44988845 Points: 116 # Comments: 100"
     },
     {
       "id": "https://news.ycombinator.com/item?id=44988530",
