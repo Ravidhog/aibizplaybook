@@ -1,6 +1,213 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45011158",
+      "title": "On the Screen, Libyans Learned About Everything but Themselves (2021)",
+      "slug": "2025-08-25-on-the-screen-libyans-learned-about-everything-but-themselves-2021.html",
+      "path": "posts/2025-08-25-on-the-screen-libyans-learned-about-everything-but-themselves-2021.html",
+      "date_iso": "2025-08-25T07:12:22+00:00",
+      "source": "https://newlinesmag.com/argument/on-the-screen-libyans-learned-about-everything-but-themselves/",
+      "summary": "Article URL: https://newlinesmag.com/argument/on-the-screen-libyans-learned-about-everything-but-themselves/ Comments URL: https://news.ycombinator.com/item?id=45011158 Points: 3 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45010876",
+      "title": "What Are OKLCH Colors?",
+      "slug": "2025-08-25-what-are-oklch-colors.html",
+      "path": "posts/2025-08-25-what-are-oklch-colors.html",
+      "date_iso": "2025-08-25T06:32:04+00:00",
+      "source": "https://jakub.kr/components/oklch-colors",
+      "summary": "Article URL: https://jakub.kr/components/oklch-colors Comments URL: https://news.ycombinator.com/item?id=45010876 Points: 69 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45010524",
+      "title": "MCP Gateway and Registry",
+      "slug": "2025-08-25-mcp-gateway-and-registry.html",
+      "path": "posts/2025-08-25-mcp-gateway-and-registry.html",
+      "date_iso": "2025-08-25T05:30:00+00:00",
+      "source": "https://github.com/IBM/mcp-context-forge",
+      "summary": "Article URL: https://github.com/IBM/mcp-context-forge Comments URL: https://news.ycombinator.com/item?id=45010524 Points: 23 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45010183",
+      "title": "Bro, ban me at the IP level if you don't like me",
+      "slug": "2025-08-25-bro-ban-me-at-the-ip-level-if-you-don-t-like-me.html",
+      "path": "posts/2025-08-25-bro-ban-me-at-the-ip-level-if-you-don-t-like-me.html",
+      "date_iso": "2025-08-25T04:23:29+00:00",
+      "source": "https://boston.conman.org/2025/08/21.1",
+      "summary": "Article URL: https://boston.conman.org/2025/08/21.1 Comments URL: https://news.ycombinator.com/item?id=45010183 Points: 175 # Comments: 75"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45010161",
+      "title": "Git-Annex",
+      "slug": "2025-08-25-git-annex.html",
+      "path": "posts/2025-08-25-git-annex.html",
+      "date_iso": "2025-08-25T04:18:56+00:00",
+      "source": "https://git-annex.branchable.com/",
+      "summary": "Article URL: https://git-annex.branchable.com/ Comments URL: https://news.ycombinator.com/item?id=45010161 Points: 65 # Comments: 15"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/24/science/spacex-starship-launch.html",
+      "title": "SpaceX Scrubs Critical 10th Test Launch of Starship Rocket",
+      "slug": "2025-08-25-spacex-scrubs-critical-10th-test-launch-of-starship-rocket.html",
+      "path": "posts/2025-08-25-spacex-scrubs-critical-10th-test-launch-of-starship-rocket.html",
+      "date_iso": "2025-08-25T04:11:59+00:00",
+      "source": "https://www.nytimes.com/2025/08/24/science/spacex-starship-launch.html",
+      "summary": "The Starship mega rocket on the launchpad at Starbase, Texas, in May, before its ninth test flight."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45009164",
+      "title": "The Unix-Haters Handbook (1994) [pdf]",
+      "slug": "2025-08-25-the-unix-haters-handbook-1994-pdf.html",
+      "path": "posts/2025-08-25-the-unix-haters-handbook-1994-pdf.html",
+      "date_iso": "2025-08-25T00:46:22+00:00",
+      "source": "https://simson.net/ref/ugh.pdf",
+      "summary": "Article URL: https://simson.net/ref/ugh.pdf Comments URL: https://news.ycombinator.com/item?id=45009164 Points: 44 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45008819",
+      "title": "Show HN: Sping – An HTTP/TCP latency tool that's easy on the eye",
+      "slug": "2025-08-24-show-hn-sping-an-http-tcp-latency-tool-that-s-easy-on-the-eye.html",
+      "path": "posts/2025-08-24-show-hn-sping-an-http-tcp-latency-tool-that-s-easy-on-the-eye.html",
+      "date_iso": "2025-08-24T23:42:01+00:00",
+      "source": "https://dseltzer.gitlab.io/sping/docs/",
+      "summary": "I've frequently found myself using [nvitop]( https://github.com/XuehaiPan/nvitop ) to diagnose GPU/CPU contention issues. The two best things about it are: - It's easy to install if I can access pip in the container - It makes a compelling screenshot (which helps me communicate…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45008740",
+      "title": "Ghrc.io appears to be malicious",
+      "slug": "2025-08-24-ghrc-io-appears-to-be-malicious.html",
+      "path": "posts/2025-08-24-ghrc-io-appears-to-be-malicious.html",
+      "date_iso": "2025-08-24T23:27:52+00:00",
+      "source": "https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/",
+      "summary": "Article URL: https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/ Comments URL: https://news.ycombinator.com/item?id=45008740 Points: 315 # Comments: 47"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45008239",
+      "title": "From Hackathon to YC",
+      "slug": "2025-08-24-from-hackathon-to-yc.html",
+      "path": "posts/2025-08-24-from-hackathon-to-yc.html",
+      "date_iso": "2025-08-24T22:08:26+00:00",
+      "source": "https://www.producthunt.com/p/april-yc-s25/from-hackathon-to-yc",
+      "summary": "Article URL: https://www.producthunt.com/p/april-yc-s25/from-hackathon-to-yc Comments URL: https://news.ycombinator.com/item?id=45008239 Points: 34 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45008209",
+      "title": "A bubble that knows it's a bubble",
+      "slug": "2025-08-24-a-bubble-that-knows-it-s-a-bubble.html",
+      "path": "posts/2025-08-24-a-bubble-that-knows-it-s-a-bubble.html",
+      "date_iso": "2025-08-24T22:02:52+00:00",
+      "source": "https://craigmccaskill.com/ai-bubble-history",
+      "summary": "Article URL: https://craigmccaskill.com/ai-bubble-history Comments URL: https://news.ycombinator.com/item?id=45008209 Points: 56 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45008056",
+      "title": "Uncle Sam shouldn't own Intel stock",
+      "slug": "2025-08-24-uncle-sam-shouldn-t-own-intel-stock.html",
+      "path": "posts/2025-08-24-uncle-sam-shouldn-t-own-intel-stock.html",
+      "date_iso": "2025-08-24T21:40:35+00:00",
+      "source": "https://www.wsj.com/opinion/uncle-sam-shouldnt-own-intel-stock-ccd6986d",
+      "summary": "Article URL: https://www.wsj.com/opinion/uncle-sam-shouldnt-own-intel-stock-ccd6986d Comments URL: https://news.ycombinator.com/item?id=45008056 Points: 143 # Comments: 142"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45007414",
+      "title": "Halt and Catch Fire Syllabus (2021)",
+      "slug": "2025-08-24-halt-and-catch-fire-syllabus-2021.html",
+      "path": "posts/2025-08-24-halt-and-catch-fire-syllabus-2021.html",
+      "date_iso": "2025-08-24T20:19:55+00:00",
+      "source": "https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/",
+      "summary": "Article URL: https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/ Comments URL: https://news.ycombinator.com/item?id=45007414 Points: 140 # Comments: 48"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45006902",
+      "title": "A Brilliant and Nearby One-off Fast Radio Burst Localized to 13 pc Precision",
+      "slug": "2025-08-24-a-brilliant-and-nearby-one-off-fast-radio-burst-localized-to-13-pc-precision.html",
+      "path": "posts/2025-08-24-a-brilliant-and-nearby-one-off-fast-radio-burst-localized-to-13-pc-precision.html",
+      "date_iso": "2025-08-24T19:23:19+00:00",
+      "source": "https://iopscience.iop.org/article/10.3847/2041-8213/adf62f",
+      "summary": "Article URL: https://iopscience.iop.org/article/10.3847/2041-8213/adf62f Comments URL: https://news.ycombinator.com/item?id=45006902 Points: 68 # Comments: 10"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/24/technology/spotify-panama-playlists-privacy.html",
+      "title": "What the ‘Panama Playlists’ Exposed About Spotify User Privacy",
+      "slug": "2025-08-24-what-the-panama-playlists-exposed-about-spotify-user-privacy.html",
+      "path": "posts/2025-08-24-what-the-panama-playlists-exposed-about-spotify-user-privacy.html",
+      "date_iso": "2025-08-24T19:16:58+00:00",
+      "source": "https://www.nytimes.com/2025/08/24/technology/spotify-panama-playlists-privacy.html",
+      "summary": "The “Panama Playlists” exposed the Spotify listening habits of some famous people — and two journalists who didn’t know as much about protecting their privacy as they had thought."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45006801",
+      "title": "Everything I know about good API design",
+      "slug": "2025-08-24-everything-i-know-about-good-api-design.html",
+      "path": "posts/2025-08-24-everything-i-know-about-good-api-design.html",
+      "date_iso": "2025-08-24T19:10:09+00:00",
+      "source": "https://www.seangoedecke.com/good-api-design/",
+      "summary": "Article URL: https://www.seangoedecke.com/good-api-design/ Comments URL: https://news.ycombinator.com/item?id=45006801 Points: 266 # Comments: 99"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45006098",
+      "title": "Show HN: I Built a XSLT Blog Framework",
+      "slug": "2025-08-24-show-hn-i-built-a-xslt-blog-framework.html",
+      "path": "posts/2025-08-24-show-hn-i-built-a-xslt-blog-framework.html",
+      "date_iso": "2025-08-24T17:38:30+00:00",
+      "source": "https://vgr.land/content/posts/20250821.xml",
+      "summary": "A few weeks ago a friend sent me grug-brain XSLT (1) which inspired me to redo my personal blog in XSLT. Rather than just build my own blog on it, I wrote it up for others to use and I've published it on GitHub https://github.com/vgr-land/vgr-xslt-blog-framework (2) Since others…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45005545",
+      "title": "Is 4chan the perfect Pirate Bay poster child to justify wider UK site-blocking?",
+      "slug": "2025-08-24-is-4chan-the-perfect-pirate-bay-poster-child-to-justify-wider-uk-site-blocking.html",
+      "path": "posts/2025-08-24-is-4chan-the-perfect-pirate-bay-poster-child-to-justify-wider-uk-site-blocking.html",
+      "date_iso": "2025-08-24T16:30:18+00:00",
+      "source": "https://torrentfreak.com/uk-govt-finds-ideal-pirate-bay-poster-boy-to-sell-blocking-of-non-pirate-sites-250824/",
+      "summary": "Article URL: https://torrentfreak.com/uk-govt-finds-ideal-pirate-bay-poster-boy-to-sell-blocking-of-non-pirate-sites-250824/ Comments URL: https://news.ycombinator.com/item?id=45005545 Points: 229 # Comments: 263"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45005434",
+      "title": "We put a coding agent in a while loop",
+      "slug": "2025-08-24-we-put-a-coding-agent-in-a-while-loop.html",
+      "path": "posts/2025-08-24-we-put-a-coding-agent-in-a-while-loop.html",
+      "date_iso": "2025-08-24T16:18:53+00:00",
+      "source": "https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md",
+      "summary": "Article URL: https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md Comments URL: https://news.ycombinator.com/item?id=45005434 Points: 207 # Comments: 135"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45004846",
+      "title": "Comet AI browser can get prompt injected from any site, drain your bank account",
+      "slug": "2025-08-24-comet-ai-browser-can-get-prompt-injected-from-any-site-drain-your-bank-account.html",
+      "path": "posts/2025-08-24-comet-ai-browser-can-get-prompt-injected-from-any-site-drain-your-bank-account.html",
+      "date_iso": "2025-08-24T15:14:34+00:00",
+      "source": "https://twitter.com/zack_overflow/status/1959308058200551721",
+      "summary": "Article URL: https://twitter.com/zack_overflow/status/1959308058200551721 Comments URL: https://news.ycombinator.com/item?id=45004846 Points: 532 # Comments: 184"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/24/briefing/revealing-taste.html",
+      "title": "Revealing Taste",
+      "slug": "2025-08-24-revealing-taste.html",
+      "path": "posts/2025-08-24-revealing-taste.html",
+      "date_iso": "2025-08-24T15:05:48+00:00",
+      "source": "https://www.nytimes.com/2025/08/24/briefing/revealing-taste.html",
+      "summary": "Vice President JD Vance, whose playlists were part of a prankish Spotify leak."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45004728",
+      "title": "Making games in Go: 3 months without LLMs vs. 3 days with LLMs",
+      "slug": "2025-08-24-making-games-in-go-3-months-without-llms-vs-3-days-with-llms.html",
+      "path": "posts/2025-08-24-making-games-in-go-3-months-without-llms-vs-3-days-with-llms.html",
+      "date_iso": "2025-08-24T15:01:24+00:00",
+      "source": "https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/",
+      "summary": "Article URL: https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/ Comments URL: https://news.ycombinator.com/item?id=45004728 Points: 286 # Comments: 192"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45003420",
+      "title": "Show HN: Clearcam – Add AI object detection to your IP CCTV cameras",
+      "slug": "2025-08-24-show-hn-clearcam-add-ai-object-detection-to-your-ip-cctv-cameras.html",
+      "path": "posts/2025-08-24-show-hn-clearcam-add-ai-object-detection-to-your-ip-cctv-cameras.html",
+      "date_iso": "2025-08-24T11:34:15+00:00",
+      "source": "https://github.com/roryclear/clearcam",
+      "summary": "This runs YOLOv8 + bytetrack with Tinygrad detections (depending on user config) are saved and can be sent to the companion iOS app along with a notification, all video processing is done locally, all footage is encrypted before leaving your computer, and the sending notificatio…"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45001751",
       "title": "Equal Earth – Political Wall Map (2018)",
       "slug": "2025-08-24-equal-earth-political-wall-map-2018.html",
