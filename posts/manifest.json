@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45023071",
+      "title": "Interactive Map of Paul's First Century Travels in Roman World",
+      "slug": "2025-08-26-interactive-map-of-paul-s-first-century-travels-in-roman-world.html",
+      "path": "posts/2025-08-26-interactive-map-of-paul-s-first-century-travels-in-roman-world.html",
+      "date_iso": "2025-08-26T06:42:58+00:00",
+      "source": "https://www.intofarlands.com/map-of-pauls-journeys",
+      "summary": "Article URL: https://www.intofarlands.com/map-of-pauls-journeys Comments URL: https://news.ycombinator.com/item?id=45023071 Points: 4 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45022931",
+      "title": "Show HN: I integrated my from-scratch TCP/IP stack into the xv6-riscv OS",
+      "slug": "2025-08-26-show-hn-i-integrated-my-from-scratch-tcp-ip-stack-into-the-xv6-riscv-os.html",
+      "path": "posts/2025-08-26-show-hn-i-integrated-my-from-scratch-tcp-ip-stack-into-the-xv6-riscv-os.html",
+      "date_iso": "2025-08-26T06:24:30+00:00",
+      "source": "https://github.com/pandax381/xv6-riscv-net",
+      "summary": "Hi HN, To truly understand how operating systems and network protocols work, I decided to combine two classic learning tools: the xv6 teaching OS and a from-scratch TCP/IP stack. I'm excited to share the result: my own from-scratch TCP/IP networking stack running directly inside…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45022383",
+      "title": "macOS dotfiles should not go in –/Library/Application Support",
+      "slug": "2025-08-26-macos-dotfiles-should-not-go-in-library-application-support.html",
+      "path": "posts/2025-08-26-macos-dotfiles-should-not-go-in-library-application-support.html",
+      "date_iso": "2025-08-26T04:49:36+00:00",
+      "source": "https://becca.ooo/blog/macos-dotfiles/",
+      "summary": "Article URL: https://becca.ooo/blog/macos-dotfiles/ Comments URL: https://news.ycombinator.com/item?id=45022383 Points: 104 # Comments: 50"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45022380",
+      "title": "Multi-Path TCP: revolutionizing connectivity, one path at a time",
+      "slug": "2025-08-26-multi-path-tcp-revolutionizing-connectivity-one-path-at-a-time.html",
+      "path": "posts/2025-08-26-multi-path-tcp-revolutionizing-connectivity-one-path-at-a-time.html",
+      "date_iso": "2025-08-26T04:48:58+00:00",
+      "source": "https://blog.cloudflare.com/multi-path-tcp-revolutionizing-connectivity-one-path-at-a-time/",
+      "summary": "Article URL: https://blog.cloudflare.com/multi-path-tcp-revolutionizing-connectivity-one-path-at-a-time/ Comments URL: https://news.ycombinator.com/item?id=45022380 Points: 18 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45022184",
+      "title": "Will Smith's concert crowds are real, but AI is blurring the lines",
+      "slug": "2025-08-26-will-smith-s-concert-crowds-are-real-but-ai-is-blurring-the-lines.html",
+      "path": "posts/2025-08-26-will-smith-s-concert-crowds-are-real-but-ai-is-blurring-the-lines.html",
+      "date_iso": "2025-08-26T04:11:10+00:00",
+      "source": "https://waxy.org/2025/08/will-smiths-concert-crowds-were-real-but-ai-is-blurring-the-lines/",
+      "summary": "Article URL: https://waxy.org/2025/08/will-smiths-concert-crowds-were-real-but-ai-is-blurring-the-lines/ Comments URL: https://news.ycombinator.com/item?id=45022184 Points: 82 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45021078",
+      "title": "The Limits of NTP Accuracy on Linux",
+      "slug": "2025-08-26-the-limits-of-ntp-accuracy-on-linux.html",
+      "path": "posts/2025-08-26-the-limits-of-ntp-accuracy-on-linux.html",
+      "date_iso": "2025-08-26T01:02:59+00:00",
+      "source": "https://scottstuff.net/posts/2025/05/19/ntp-limits/",
+      "summary": "Article URL: https://scottstuff.net/posts/2025/05/19/ntp-limits/ Comments URL: https://news.ycombinator.com/item?id=45021078 Points: 79 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45020903",
+      "title": "Climbing catfish filmed scaling waterfalls",
+      "slug": "2025-08-26-climbing-catfish-filmed-scaling-waterfalls.html",
+      "path": "posts/2025-08-26-climbing-catfish-filmed-scaling-waterfalls.html",
+      "date_iso": "2025-08-26T00:37:42+00:00",
+      "source": "https://www.science.org/content/article/thousands-climbing-catfish-filmed-scaling-waterfalls",
+      "summary": "Article URL: https://www.science.org/content/article/thousands-climbing-catfish-filmed-scaling-waterfalls Comments URL: https://news.ycombinator.com/item?id=45020903 Points: 71 # Comments: 3"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/25/science/spacex-starship-launch.html",
+      "title": "SpaceX Scrubs 10th Starship Test Launch Because of Lousy Weather",
+      "slug": "2025-08-26-spacex-scrubs-10th-starship-test-launch-because-of-lousy-weather.html",
+      "path": "posts/2025-08-26-spacex-scrubs-10th-starship-test-launch-because-of-lousy-weather.html",
+      "date_iso": "2025-08-26T00:32:28+00:00",
+      "source": "https://www.nytimes.com/2025/08/25/science/spacex-starship-launch.html",
+      "summary": "A helicopter passes SpaceX’s large Starship rocket on Monday at Starbase, Texas."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45020685",
+      "title": "macOS 26 Tahoe's Dead Canary Utility App Icons",
+      "slug": "2025-08-26-macos-26-tahoe-s-dead-canary-utility-app-icons.html",
+      "path": "posts/2025-08-26-macos-26-tahoe-s-dead-canary-utility-app-icons.html",
+      "date_iso": "2025-08-26T00:03:25+00:00",
+      "source": "https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons",
+      "summary": "Article URL: https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons Comments URL: https://news.ycombinator.com/item?id=45020685 Points: 269 # Comments: 105"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45020457",
+      "title": "WiFi-3D-Fusion – Real-time 3D motion sensing with Wi-Fi",
+      "slug": "2025-08-25-wifi-3d-fusion-real-time-3d-motion-sensing-with-wi-fi.html",
+      "path": "posts/2025-08-25-wifi-3d-fusion-real-time-3d-motion-sensing-with-wi-fi.html",
+      "date_iso": "2025-08-25T23:26:42+00:00",
+      "source": "https://github.com/MaliosDark/wifi-3d-fusion",
+      "summary": "Article URL: https://github.com/MaliosDark/wifi-3d-fusion Comments URL: https://news.ycombinator.com/item?id=45020457 Points: 89 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45019483",
+      "title": "Ask HN: Why hasn't x86 caught up with Apple M series?",
+      "slug": "2025-08-25-ask-hn-why-hasn-t-x86-caught-up-with-apple-m-series.html",
+      "path": "posts/2025-08-25-ask-hn-why-hasn-t-x86-caught-up-with-apple-m-series.html",
+      "date_iso": "2025-08-25T21:50:41+00:00",
+      "source": "https://news.ycombinator.com/item?id=45019483",
+      "summary": "Hi, My daily workhorse is a M1 Pro that I purchased on release date, It has been one of the best tech purchases I have made, even now it really deals with anything I throw at it. My daily work load is regularly having a Android emulator, iOS simulator and a number of Dockers con…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45018509",
+      "title": "Reverse Engineering All the Raspberry Pis",
+      "slug": "2025-08-25-reverse-engineering-all-the-raspberry-pis.html",
+      "path": "posts/2025-08-25-reverse-engineering-all-the-raspberry-pis.html",
+      "date_iso": "2025-08-25T20:20:35+00:00",
+      "source": "https://www.jeffgeerling.com/blog/2025/reverse-engineering-all-raspberry-pis",
+      "summary": "Article URL: https://www.jeffgeerling.com/blog/2025/reverse-engineering-all-raspberry-pis Comments URL: https://news.ycombinator.com/item?id=45018509 Points: 73 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45018081",
+      "title": "Fenster: Most minimal cross-platform GUI library",
+      "slug": "2025-08-25-fenster-most-minimal-cross-platform-gui-library.html",
+      "path": "posts/2025-08-25-fenster-most-minimal-cross-platform-gui-library.html",
+      "date_iso": "2025-08-25T19:41:51+00:00",
+      "source": "https://github.com/zserge/fenster",
+      "summary": "Article URL: https://github.com/zserge/fenster Comments URL: https://news.ycombinator.com/item?id=45018081 Points: 91 # Comments: 21"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/25/technology/elon-musk-xai-sues-apple.html",
+      "title": "Elon Musk’s xAI Sues Apple and OpenAI Over Claims It Is Being Shut Out",
+      "slug": "2025-08-25-elon-musk-s-xai-sues-apple-and-openai-over-claims-it-is-being-shut-out.html",
+      "path": "posts/2025-08-25-elon-musk-s-xai-sues-apple-and-openai-over-claims-it-is-being-shut-out.html",
+      "date_iso": "2025-08-25T18:27:19+00:00",
+      "source": "https://www.nytimes.com/2025/08/25/technology/elon-musk-xai-sues-apple.html",
+      "summary": "Elon Musk’s xAI company sued Apple, claiming that its app was artificially suppressed in the App Store."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45017028",
+      "title": "Google will allow only apps from verified developers to be installed on Android",
+      "slug": "2025-08-25-google-will-allow-only-apps-from-verified-developers-to-be-installed-on-android.html",
+      "path": "posts/2025-08-25-google-will-allow-only-apps-from-verified-developers-to-be-installed-on-android.html",
+      "date_iso": "2025-08-25T18:18:18+00:00",
+      "source": "https://9to5google.com/2025/08/25/android-apps-developer-verification/",
+      "summary": "Also https://techcrunch.com/2025/08/25/google-will-require-develo... (from merged thread) Official announcement 1: https://android-developers.googleblog.com/2025/08/elevating-... Official announcement 2: https://developer.android.com/developer-verification Play Console Help: htt…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45016794",
+      "title": "How RubyGems.org protects OSS infrastructure",
+      "slug": "2025-08-25-how-rubygems-org-protects-oss-infrastructure.html",
+      "path": "posts/2025-08-25-how-rubygems-org-protects-oss-infrastructure.html",
+      "date_iso": "2025-08-25T18:02:51+00:00",
+      "source": "https://blog.rubygems.org/2025/08/25/rubygems-security-response.html",
+      "summary": "Article URL: https://blog.rubygems.org/2025/08/25/rubygems-security-response.html Comments URL: https://news.ycombinator.com/item?id=45016794 Points: 112 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45016720",
+      "title": "Google's Liquid Cooling",
+      "slug": "2025-08-25-google-s-liquid-cooling.html",
+      "path": "posts/2025-08-25-google-s-liquid-cooling.html",
+      "date_iso": "2025-08-25T17:57:18+00:00",
+      "source": "https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips",
+      "summary": "Article URL: https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips Comments URL: https://news.ycombinator.com/item?id=45016720 Points: 311 # Comments: 128"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45015230",
+      "title": "Launch HN: April (YC S25) – Voice AI to manage your email and calendar",
+      "slug": "2025-08-25-launch-hn-april-yc-s25-voice-ai-to-manage-your-email-and-calendar.html",
+      "path": "posts/2025-08-25-launch-hn-april-yc-s25-voice-ai-to-manage-your-email-and-calendar.html",
+      "date_iso": "2025-08-25T15:56:26+00:00",
+      "source": "https://news.ycombinator.com/item?id=45015230",
+      "summary": "Hi HN, we’re Neha and Akash from April ( https://tryapril.com ). We are building an AI executive assistant to help you get through emails and manage your schedule, hands-free while you drive to work, or whenever else you prefer voice interaction. Here's a demo: https://www.youtu…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45014131",
+      "title": "Show HN: Base, an SQLite database editor for macOS",
+      "slug": "2025-08-25-show-hn-base-an-sqlite-database-editor-for-macos.html",
+      "path": "posts/2025-08-25-show-hn-base-an-sqlite-database-editor-for-macos.html",
+      "date_iso": "2025-08-25T14:17:38+00:00",
+      "source": "https://menial.co.uk/base/",
+      "summary": "I recently released v3 of Base, my SQLite editor for macOS. The goal of this app is to provide a comfortable native GUI for SQLite, without it turning into a massive IDE-style app. The coolest features are - That it can handle full altering of tables, which is quite finicky to d…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45013737",
+      "title": "A small change to improve browsers for keyboard navigation",
+      "slug": "2025-08-25-a-small-change-to-improve-browsers-for-keyboard-navigation.html",
+      "path": "posts/2025-08-25-a-small-change-to-improve-browsers-for-keyboard-navigation.html",
+      "date_iso": "2025-08-25T13:40:11+00:00",
+      "source": "https://b.43z.one/2025-07-22/",
+      "summary": "Article URL: https://b.43z.one/2025-07-22/ Comments URL: https://news.ycombinator.com/item?id=45013737 Points: 177 # Comments: 58"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45013154",
+      "title": "What is a color space?",
+      "slug": "2025-08-25-what-is-a-color-space.html",
+      "path": "posts/2025-08-25-what-is-a-color-space.html",
+      "date_iso": "2025-08-25T12:33:13+00:00",
+      "source": "https://www.makingsoftware.com/chapters/color-spaces-models-and-gamuts",
+      "summary": "Article URL: https://www.makingsoftware.com/chapters/color-spaces-models-and-gamuts Comments URL: https://news.ycombinator.com/item?id=45013154 Points: 202 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45012414",
+      "title": "Memory optimizations to reduce CPU costs",
+      "slug": "2025-08-25-memory-optimizations-to-reduce-cpu-costs.html",
+      "path": "posts/2025-08-25-memory-optimizations-to-reduce-cpu-costs.html",
+      "date_iso": "2025-08-25T10:42:01+00:00",
+      "source": "https://ayende.com/blog/203011-A/memory-optimizations-to-reduce-cpu-costs",
+      "summary": "Article URL: https://ayende.com/blog/203011-A/memory-optimizations-to-reduce-cpu-costs Comments URL: https://news.ycombinator.com/item?id=45012414 Points: 11 # Comments: 2"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45011158",
       "title": "On the Screen, Libyans Learned About Everything but Themselves (2021)",
       "slug": "2025-08-25-on-the-screen-libyans-learned-about-everything-but-themselves-2021.html",

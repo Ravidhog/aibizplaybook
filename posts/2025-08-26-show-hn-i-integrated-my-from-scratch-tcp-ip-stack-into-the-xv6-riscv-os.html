@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: I integrated my from-scratch TCP/IP stack into the xv6-riscv OS</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: I integrated my from-scratch TCP/IP stack into the xv6-riscv OS</h1>
+    <p><small>Published: 2025-08-26T06:24:30+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hi HN,<p>To truly understand how operating systems and network protocols work, I decided to combine two classic learning tools: the xv6 teaching OS and a from-scratch TCP/IP stack.<p>I'm excited to share the result: my own from-scratch TCP/IP networking stack running directly inside the xv6-riscv (<a href="https://github.com/pandax381/xv6-riscv-net" rel="nofollow">https://github.com/pandax381/xv6-riscv-net</a>) kernel.<p>The project uses a modern virtio-net driver, allowing it to run seamlessly in QEMU and communicate with the host machine.<p>Key features:<p>- From-Scratch Stack: The core is powered by microps (<a href="https://github.com/pandax381/microps" rel="nofollow">https://github.com/pandax381/microps</a>), a TCP/IP stack I originally wrote to run in user-space as a personal project to learn the low-level details of networking.<p>- Kernel Integration: This project ports microps from user-space into the xv6-riscv kernel.<p>- Socket API: Implements standard system calls (socket, bind, accept, etc.) to enable network application development.<p>- User-level Tools: Comes with a simple ifconfig command, plus tcpecho and udpecho servers to demonstrate its capabilities.<p>This has been a fantastic learning experience. My goal was to demystify the magic behind network-aware operating systems by building the components myself.<p>I'd love to hear your feedback and answer any questions!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45022931">https://news.ycombinator.com/item?id=45022931</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+    <p><a href="https://github.com/pandax381/xv6-riscv-net" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
