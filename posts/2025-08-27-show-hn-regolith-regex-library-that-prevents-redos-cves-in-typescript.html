@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Regolith – Regex library that prevents ReDoS CVEs in TypeScript</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Regolith – Regex library that prevents ReDoS CVEs in TypeScript</h1>
+    <p><small>Published: 2025-08-27T02:54:07+00:00</small></p>
+  </header>
+
+  <main>
+    <p>I wanted a safer alternative to RegExp for TypeScript that uses a linear-time engine, so I built Regolith.<p>Why:
+Many CVEs happen because TypeScript libraries are vulnerable to Regular Expression Denial of Service attacks. I learned about this problem while doing undergraduate research and found that languages like Rust have built-in protection but languages like JavaScript, TypeScript, and Python do not. This library attempts to mitigate these vulnerabilities for TypeScript and JavaScript.<p>How:
+Regolith uses Rust's Regex library under the hood to prevent ReDoS attacks. The Rust Regex library implements a linear-time Regex engine that guarantees linear complexity for execution. A ReDoS attack occurs when a malicious input is provided that causes a normal Regex engine to check for a matching string in too many overlapping configurations. This causes the engine to take an extremely long time to compute the Regex, which could cause latency or downtime for a service. By designing the engine to take at most a linear amount of time, we can prevent these attacks at the library level and have software inherit these safety properties.<p>I'm really fascinated by making programming languages safer and I would love to hear any feedback on how to improve this project. I'll try to answer all questions posted in the comments.<p>Thanks!
+- Jake Roggenbuck</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45034957">https://news.ycombinator.com/item?id=45034957</a></p>
+<p>Points: 17</p>
+<p># Comments: 18</p>
+    <p><a href="https://github.com/JakeRoggenbuck/regolith" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

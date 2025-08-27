@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2025/08/26/science/spacex-starship-test-launch.html",
+      "title": "SpaceX Starship Completes Successful Test Flight After Previous Launch Setbacks",
+      "slug": "2025-08-27-spacex-starship-completes-successful-test-flight-after-previous-launch-setbacks.html",
+      "path": "posts/2025-08-27-spacex-starship-completes-successful-test-flight-after-previous-launch-setbacks.html",
+      "date_iso": "2025-08-27T07:00:55+00:00",
+      "source": "https://www.nytimes.com/2025/08/26/science/spacex-starship-test-launch.html",
+      "summary": "A prototype of SpaceX’s Starship rocket lifted off on Tuesday night from South Texas."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45035856",
+      "title": "Whistleblower says DOGE officials copied Social Security numbers",
+      "slug": "2025-08-27-whistleblower-says-doge-officials-copied-social-security-numbers.html",
+      "path": "posts/2025-08-27-whistleblower-says-doge-officials-copied-social-security-numbers.html",
+      "date_iso": "2025-08-27T05:50:24+00:00",
+      "source": "https://www.npr.org/2025/08/26/nx-s1-5517977/social-security-doge-privacy",
+      "summary": "Article URL: https://www.npr.org/2025/08/26/nx-s1-5517977/social-security-doge-privacy Comments URL: https://news.ycombinator.com/item?id=45035856 Points: 19 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45035699",
+      "title": "Uncomfortable Questions About Android Developer Verification",
+      "slug": "2025-08-27-uncomfortable-questions-about-android-developer-verification.html",
+      "path": "posts/2025-08-27-uncomfortable-questions-about-android-developer-verification.html",
+      "date_iso": "2025-08-27T05:14:19+00:00",
+      "source": "https://commonsware.com/blog/2025/08/26/uncomfortable-questions-android-developer-verification.html",
+      "summary": "Article URL: https://commonsware.com/blog/2025/08/26/uncomfortable-questions-android-developer-verification.html Comments URL: https://news.ycombinator.com/item?id=45035699 Points: 193 # Comments: 89"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45035685",
+      "title": "The man with a Home Computer (1967) [video]",
+      "slug": "2025-08-27-the-man-with-a-home-computer-1967-video.html",
+      "path": "posts/2025-08-27-the-man-with-a-home-computer-1967-video.html",
+      "date_iso": "2025-08-27T05:11:18+00:00",
+      "source": "https://www.youtube.com/watch?v=w6Ka42eyudA",
+      "summary": "Article URL: https://www.youtube.com/watch?v=w6Ka42eyudA Comments URL: https://news.ycombinator.com/item?id=45035685 Points: 17 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45034957",
+      "title": "Show HN: Regolith – Regex library that prevents ReDoS CVEs in TypeScript",
+      "slug": "2025-08-27-show-hn-regolith-regex-library-that-prevents-redos-cves-in-typescript.html",
+      "path": "posts/2025-08-27-show-hn-regolith-regex-library-that-prevents-redos-cves-in-typescript.html",
+      "date_iso": "2025-08-27T02:54:07+00:00",
+      "source": "https://github.com/JakeRoggenbuck/regolith",
+      "summary": "I wanted a safer alternative to RegExp for TypeScript that uses a linear-time engine, so I built Regolith. Why: Many CVEs happen because TypeScript libraries are vulnerable to Regular Expression Denial of Service attacks. I learned about this problem while doing undergraduate re…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45034537",
+      "title": "Dissecting the Apple M1 GPU, the end",
+      "slug": "2025-08-27-dissecting-the-apple-m1-gpu-the-end.html",
+      "path": "posts/2025-08-27-dissecting-the-apple-m1-gpu-the-end.html",
+      "date_iso": "2025-08-27T01:44:16+00:00",
+      "source": "https://rosenzweig.io/blog/asahi-gpu-part-n.html",
+      "summary": "Article URL: https://rosenzweig.io/blog/asahi-gpu-part-n.html Comments URL: https://news.ycombinator.com/item?id=45034537 Points: 351 # Comments: 62"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/26/technology/silicon-valley-ai-super-pacs.html",
+      "title": "Silicon Valley Pledges $200 Million to New Pro-A.I. Super PACs",
+      "slug": "2025-08-26-silicon-valley-pledges-200-million-to-new-pro-a-i-super-pacs.html",
+      "path": "posts/2025-08-26-silicon-valley-pledges-200-million-to-new-pro-a-i-super-pacs.html",
+      "date_iso": "2025-08-26T23:39:22+00:00",
+      "source": "https://www.nytimes.com/2025/08/26/technology/silicon-valley-ai-super-pacs.html",
+      "summary": "Meta has funded tens of millions of dollars to Meta California."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45033563",
+      "title": "Starship's Tenth Flight Test",
+      "slug": "2025-08-26-starship-s-tenth-flight-test.html",
+      "path": "posts/2025-08-26-starship-s-tenth-flight-test.html",
+      "date_iso": "2025-08-26T23:22:14+00:00",
+      "source": "https://www.spacex.com/",
+      "summary": "YouTube: https://www.youtube.com/watch?v=TpmTivdrQiQ Comments URL: https://news.ycombinator.com/item?id=45033563 Points: 311 # Comments: 149"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45032276",
+      "title": "LiteLLM (YC W23) is hiring a back end engineer",
+      "slug": "2025-08-26-litellm-yc-w23-is-hiring-a-back-end-engineer.html",
+      "path": "posts/2025-08-26-litellm-yc-w23-is-hiring-a-back-end-engineer.html",
+      "date_iso": "2025-08-26T21:00:46+00:00",
+      "source": "https://www.ycombinator.com/companies/litellm/jobs/6uvoBp3-founding-backend-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/litellm/jobs/6uvoBp3-founding-backend-engineer Comments URL: https://news.ycombinator.com/item?id=45032276 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45031673",
+      "title": "GNU Artanis – A fast web application framework for Scheme",
+      "slug": "2025-08-26-gnu-artanis-a-fast-web-application-framework-for-scheme.html",
+      "path": "posts/2025-08-26-gnu-artanis-a-fast-web-application-framework-for-scheme.html",
+      "date_iso": "2025-08-26T20:06:29+00:00",
+      "source": "https://artanis.dev/index.html",
+      "summary": "Article URL: https://artanis.dev/index.html Comments URL: https://news.ycombinator.com/item?id=45031673 Points: 204 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45030760",
+      "title": "Claude for Chrome",
+      "slug": "2025-08-26-claude-for-chrome.html",
+      "path": "posts/2025-08-26-claude-for-chrome.html",
+      "date_iso": "2025-08-26T19:01:56+00:00",
+      "source": "https://www.anthropic.com/news/claude-for-chrome",
+      "summary": "See also https://claude.ai/chrome Comments URL: https://news.ycombinator.com/item?id=45030760 Points: 590 # Comments: 320"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45030714",
+      "title": "\"Special register groups\" invaded computer dictionaries for decades (2019)",
+      "slug": "2025-08-26-special-register-groups-invaded-computer-dictionaries-for-decades-2019.html",
+      "path": "posts/2025-08-26-special-register-groups-invaded-computer-dictionaries-for-decades-2019.html",
+      "date_iso": "2025-08-26T18:57:22+00:00",
+      "source": "https://www.righto.com/2019/10/how-special-register-groups-invaded.html",
+      "summary": "Article URL: https://www.righto.com/2019/10/how-special-register-groups-invaded.html Comments URL: https://news.ycombinator.com/item?id=45030714 Points: 90 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45030144",
+      "title": "Why do people keep writing about the imaginary compound Cr2Gr2Te6?",
+      "slug": "2025-08-26-why-do-people-keep-writing-about-the-imaginary-compound-cr2gr2te6.html",
+      "path": "posts/2025-08-26-why-do-people-keep-writing-about-the-imaginary-compound-cr2gr2te6.html",
+      "date_iso": "2025-08-26T18:07:07+00:00",
+      "source": "https://www.righto.com/2025/08/Cr2Ge2Te6-not-Cr2Gr2Te6.html",
+      "summary": "Article URL: https://www.righto.com/2025/08/Cr2Ge2Te6-not-Cr2Gr2Te6.html Comments URL: https://news.ycombinator.com/item?id=45030144 Points: 161 # Comments: 85"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/26/business/trump-technology-european-union-tariffs.html",
+      "title": "Trump Wants Europe to Stop Regulating Big Tech. Will It Bend?",
+      "slug": "2025-08-26-trump-wants-europe-to-stop-regulating-big-tech-will-it-bend.html",
+      "path": "posts/2025-08-26-trump-wants-europe-to-stop-regulating-big-tech-will-it-bend.html",
+      "date_iso": "2025-08-26T18:04:27+00:00",
+      "source": "https://www.nytimes.com/2025/08/26/business/trump-technology-european-union-tariffs.html",
+      "summary": "The White House suggested that countries with digital regulations restricting U.S. tech companies could face penalties. The question is whether Europe can stand firm."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html",
+      "title": "A Teen Was Suicidal. ChatGPT Was the Friend He Confided In.",
+      "slug": "2025-08-26-a-teen-was-suicidal-chatgpt-was-the-friend-he-confided-in.html",
+      "path": "posts/2025-08-26-a-teen-was-suicidal-chatgpt-was-the-friend-he-confided-in.html",
+      "date_iso": "2025-08-26T17:54:10+00:00",
+      "source": "https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html",
+      "summary": "A photograph of Adam Raine taken not long before his death. His baby blanket, which his mother found in his bed, hangs over a corner."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45029764",
+      "title": "Michigan Supreme Court: Unrestricted phone searches violate Fourth Amendment",
+      "slug": "2025-08-26-michigan-supreme-court-unrestricted-phone-searches-violate-fourth-amendment.html",
+      "path": "posts/2025-08-26-michigan-supreme-court-unrestricted-phone-searches-violate-fourth-amendment.html",
+      "date_iso": "2025-08-26T17:36:57+00:00",
+      "source": "https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific",
+      "summary": "Article URL: https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific Comments URL: https://news.ycombinator.com/item?id=45029764 Points: 457 # Comments: 87"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45029241",
+      "title": "Undisclosed financial conflicts of interest in DSM-5 (2024)",
+      "slug": "2025-08-26-undisclosed-financial-conflicts-of-interest-in-dsm-5-2024.html",
+      "path": "posts/2025-08-26-undisclosed-financial-conflicts-of-interest-in-dsm-5-2024.html",
+      "date_iso": "2025-08-26T16:57:44+00:00",
+      "source": "https://www.bmj.com/content/384/bmj-2023-076902",
+      "summary": "Article URL: https://www.bmj.com/content/384/bmj-2023-076902 Comments URL: https://news.ycombinator.com/item?id=45029241 Points: 210 # Comments: 136"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45026886",
+      "title": "A teen was suicidal. ChatGPT was the friend he confided in",
+      "slug": "2025-08-26-a-teen-was-suicidal-chatgpt-was-the-friend-he-confided-in.html",
+      "path": "posts/2025-08-26-a-teen-was-suicidal-chatgpt-was-the-friend-he-confided-in.html",
+      "date_iso": "2025-08-26T14:15:54+00:00",
+      "source": "https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html",
+      "summary": "Article URL: https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html Comments URL: https://news.ycombinator.com/item?id=45026886 Points: 251 # Comments: 215"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45026792",
+      "title": "One universal antiviral to rule them all?",
+      "slug": "2025-08-26-one-universal-antiviral-to-rule-them-all.html",
+      "path": "posts/2025-08-26-one-universal-antiviral-to-rule-them-all.html",
+      "date_iso": "2025-08-26T14:07:42+00:00",
+      "source": "https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all",
+      "summary": "Article URL: https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all Comments URL: https://news.ycombinator.com/item?id=45026792 Points: 286 # Comments: 128"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45026719",
+      "title": "Gemini 2.5 Flash Image",
+      "slug": "2025-08-26-gemini-2-5-flash-image.html",
+      "path": "posts/2025-08-26-gemini-2-5-flash-image.html",
+      "date_iso": "2025-08-26T14:01:46+00:00",
+      "source": "https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/",
+      "summary": "Also: https://deepmind.google/models/gemini/image/ , https://techcrunch.com/2025/08/26/google-geminis-ai-image-mo... Comments URL: https://news.ycombinator.com/item?id=45026719 Points: 886 # Comments: 414"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45024786",
+      "title": "US Intel",
+      "slug": "2025-08-26-us-intel.html",
+      "path": "posts/2025-08-26-us-intel.html",
+      "date_iso": "2025-08-26T10:47:46+00:00",
+      "source": "https://stratechery.com/2025/u-s-intel/",
+      "summary": "Article URL: https://stratechery.com/2025/u-s-intel/ Comments URL: https://news.ycombinator.com/item?id=45024786 Points: 436 # Comments: 455"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45023730",
+      "title": "Rv, a new kind of Ruby management tool",
+      "slug": "2025-08-26-rv-a-new-kind-of-ruby-management-tool.html",
+      "path": "posts/2025-08-26-rv-a-new-kind-of-ruby-management-tool.html",
+      "date_iso": "2025-08-26T08:15:49+00:00",
+      "source": "https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/",
+      "summary": "Article URL: https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/ Comments URL: https://news.ycombinator.com/item?id=45023730 Points: 236 # Comments: 69"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45023071",
       "title": "Interactive Map of Paul's First Century Travels in Roman World",
       "slug": "2025-08-26-interactive-map-of-paul-s-first-century-travels-in-roman-world.html",
@@ -91,6 +289,15 @@
       "summary": "Article URL: https://github.com/MaliosDark/wifi-3d-fusion Comments URL: https://news.ycombinator.com/item?id=45020457 Points: 89 # Comments: 22"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=45019671",
+      "title": "iOS 18.6.1 0-click RCE POC",
+      "slug": "2025-08-25-ios-18-6-1-0-click-rce-poc.html",
+      "path": "posts/2025-08-25-ios-18-6-1-0-click-rce-poc.html",
+      "date_iso": "2025-08-25T22:05:34+00:00",
+      "source": "https://github.com/b1n4r1b01/n-days/blob/main/CVE-2025-43300.md",
+      "summary": "Article URL: https://github.com/b1n4r1b01/n-days/blob/main/CVE-2025-43300.md Comments URL: https://news.ycombinator.com/item?id=45019671 Points: 190 # Comments: 41"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45019483",
       "title": "Ask HN: Why hasn't x86 caught up with Apple M series?",
       "slug": "2025-08-25-ask-hn-why-hasn-t-x86-caught-up-with-apple-m-series.html",
@@ -179,6 +386,15 @@
       "date_iso": "2025-08-25T13:40:11+00:00",
       "source": "https://b.43z.one/2025-07-22/",
       "summary": "Article URL: https://b.43z.one/2025-07-22/ Comments URL: https://news.ycombinator.com/item?id=45013737 Points: 177 # Comments: 58"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45013572",
+      "title": "Show HN: Async – Claude code and Linear and GitHub PRs in one opinionated tool",
+      "slug": "2025-08-25-show-hn-async-claude-code-and-linear-and-github-prs-in-one-opinionated-tool.html",
+      "path": "posts/2025-08-25-show-hn-async-claude-code-and-linear-and-github-prs-in-one-opinionated-tool.html",
+      "date_iso": "2025-08-25T13:21:19+00:00",
+      "source": "https://github.com/bkdevs/async-server",
+      "summary": "Hi, I’m Mikkel and I’m building Async, an open-sourced developer tool that combines AI coding with task management and code review. What Async does: - Automatically researches coding tasks, asks clarifying questions, then executes code changes in the cloud - Breaks work into rev…"
     },
     {
       "id": "https://news.ycombinator.com/item?id=45013154",
