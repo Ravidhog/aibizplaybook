@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45048736",
+      "title": "Lesser known mobile adtech domains where data is sent",
+      "slug": "2025-08-28-lesser-known-mobile-adtech-domains-where-data-is-sent.html",
+      "path": "posts/2025-08-28-lesser-known-mobile-adtech-domains-where-data-is-sent.html",
+      "date_iso": "2025-08-28T05:30:23+00:00",
+      "source": "https://jamesoclaire.com/2025/08/28/uncovering-lesser-known-mobile-adtech-domains/",
+      "summary": "Article URL: https://jamesoclaire.com/2025/08/28/uncovering-lesser-known-mobile-adtech-domains/ Comments URL: https://news.ycombinator.com/item?id=45048736 Points: 4 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45048473",
+      "title": "Sci-Hub has been blocked in India",
+      "slug": "2025-08-28-sci-hub-has-been-blocked-in-india.html",
+      "path": "posts/2025-08-28-sci-hub-has-been-blocked-in-india.html",
+      "date_iso": "2025-08-28T04:47:01+00:00",
+      "source": "https://sci-hub.se/sci-hub-blocked-india",
+      "summary": "Article URL: https://sci-hub.se/sci-hub-blocked-india Comments URL: https://news.ycombinator.com/item?id=45048473 Points: 93 # Comments: 30"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45048419",
+      "title": "The Deletion of Docker.io/Bitnami",
+      "slug": "2025-08-28-the-deletion-of-docker-io-bitnami.html",
+      "path": "posts/2025-08-28-the-deletion-of-docker-io-bitnami.html",
+      "date_iso": "2025-08-28T04:37:12+00:00",
+      "source": "https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon",
+      "summary": "Article URL: https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon Comments URL: https://news.ycombinator.com/item?id=45048419 Points: 108 # Comments: 50"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45047897",
+      "title": "Certificates for Onion Services",
+      "slug": "2025-08-28-certificates-for-onion-services.html",
+      "path": "posts/2025-08-28-certificates-for-onion-services.html",
+      "date_iso": "2025-08-28T03:05:42+00:00",
+      "source": "https://onionservices.torproject.org/research/proposals/usability/certificates/",
+      "summary": "Article URL: https://onionservices.torproject.org/research/proposals/usability/certificates/ Comments URL: https://news.ycombinator.com/item?id=45047897 Points: 21 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45047659",
+      "title": "Canaries in the Coal Mine? Recent Employment Effects of AI [pdf]",
+      "slug": "2025-08-28-canaries-in-the-coal-mine-recent-employment-effects-of-ai-pdf.html",
+      "path": "posts/2025-08-28-canaries-in-the-coal-mine-recent-employment-effects-of-ai-pdf.html",
+      "date_iso": "2025-08-28T02:28:19+00:00",
+      "source": "https://digitaleconomy.stanford.edu/wp-content/uploads/2025/08/Canaries_BrynjolfssonChandarChen.pdf",
+      "summary": "Article URL: https://digitaleconomy.stanford.edu/wp-content/uploads/2025/08/Canaries_BrynjolfssonChandarChen.pdf Comments URL: https://news.ycombinator.com/item?id=45047659 Points: 58 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45047572",
+      "title": "Bookmarks.txt is a concept of keeping URLs in plain text files",
+      "slug": "2025-08-28-bookmarks-txt-is-a-concept-of-keeping-urls-in-plain-text-files.html",
+      "path": "posts/2025-08-28-bookmarks-txt-is-a-concept-of-keeping-urls-in-plain-text-files.html",
+      "date_iso": "2025-08-28T02:12:23+00:00",
+      "source": "https://github.com/soulim/bookmarks.txt",
+      "summary": "Article URL: https://github.com/soulim/bookmarks.txt Comments URL: https://news.ycombinator.com/item?id=45047572 Points: 82 # Comments: 51"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45046916",
+      "title": "Altered states of consciousness induced by breathwork accompanied by music",
+      "slug": "2025-08-28-altered-states-of-consciousness-induced-by-breathwork-accompanied-by-music.html",
+      "path": "posts/2025-08-28-altered-states-of-consciousness-induced-by-breathwork-accompanied-by-music.html",
+      "date_iso": "2025-08-28T00:22:24+00:00",
+      "source": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411",
+      "summary": "Article URL: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411 Comments URL: https://news.ycombinator.com/item?id=45046916 Points: 270 # Comments: 120"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/27/technology/nvidia-earnings-ai-chips.html",
+      "title": "Nvidia Earnings Show Sales Jump Amid Strong Demand for A.I. Chips",
+      "slug": "2025-08-27-nvidia-earnings-show-sales-jump-amid-strong-demand-for-a-i-chips.html",
+      "path": "posts/2025-08-27-nvidia-earnings-show-sales-jump-amid-strong-demand-for-a-i-chips.html",
+      "date_iso": "2025-08-27T22:51:44+00:00",
+      "source": "https://www.nytimes.com/2025/08/27/technology/nvidia-earnings-ai-chips.html",
+      "summary": "Jensen Huang, Nvidia’s chief executive. The chipmaker has become perhaps the most important factor in the direction of the stock market."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45045500",
+      "title": "Researchers find evidence of ChatGPT buzzwords turning up in everyday speech",
+      "slug": "2025-08-27-researchers-find-evidence-of-chatgpt-buzzwords-turning-up-in-everyday-speech.html",
+      "path": "posts/2025-08-27-researchers-find-evidence-of-chatgpt-buzzwords-turning-up-in-everyday-speech.html",
+      "date_iso": "2025-08-27T21:27:13+00:00",
+      "source": "https://news.fsu.edu/news/education-society/2025/08/26/on-screen-and-now-irl-fsu-researchers-find-evidence-suggesting-chatgpt-influences-how-we-speak/",
+      "summary": "Article URL: https://news.fsu.edu/news/education-society/2025/08/26/on-screen-and-now-irl-fsu-researchers-find-evidence-suggesting-chatgpt-influences-how-we-speak/ Comments URL: https://news.ycombinator.com/item?id=45045500 Points: 150 # Comments: 241"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45045398",
+      "title": "Google has eliminated 35% of managers overseeing small teams in past year",
+      "slug": "2025-08-27-google-has-eliminated-35-of-managers-overseeing-small-teams-in-past-year.html",
+      "path": "posts/2025-08-27-google-has-eliminated-35-of-managers-overseeing-small-teams-in-past-year.html",
+      "date_iso": "2025-08-27T21:16:56+00:00",
+      "source": "https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html",
+      "summary": "Article URL: https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html Comments URL: https://news.ycombinator.com/item?id=45045398 Points: 417 # Comments: 186"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45045307",
+      "title": "Yamanot.es: A music box of train station melodies from the JR Yamanote Line",
+      "slug": "2025-08-27-yamanot-es-a-music-box-of-train-station-melodies-from-the-jr-yamanote-line.html",
+      "path": "posts/2025-08-27-yamanot-es-a-music-box-of-train-station-melodies-from-the-jr-yamanote-line.html",
+      "date_iso": "2025-08-27T21:08:49+00:00",
+      "source": "https://yamanot.es/",
+      "summary": "Article URL: https://yamanot.es/ Comments URL: https://news.ycombinator.com/item?id=45045307 Points: 209 # Comments: 60"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45045116",
+      "title": "Show HN: Meetup.com and eventribe alternative to small groups",
+      "slug": "2025-08-27-show-hn-meetup-com-and-eventribe-alternative-to-small-groups.html",
+      "path": "posts/2025-08-27-show-hn-meetup-com-and-eventribe-alternative-to-small-groups.html",
+      "date_iso": "2025-08-27T20:53:51+00:00",
+      "source": "https://github.com/polaroi8d/cactoide",
+      "summary": "Mobile first open-source RSVP platform. Alternative for meetup.com / eventribe for small companies and groups. If you have a small group and don't want to pay for services you can easily selfhost this solution. Open for improvements and for feedback, ofc. - One-Click Sharing - E…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45044440",
+      "title": "Beginning 1 September, we will need to geoblock Mississippi IPs",
+      "slug": "2025-08-27-beginning-1-september-we-will-need-to-geoblock-mississippi-ips.html",
+      "path": "posts/2025-08-27-beginning-1-september-we-will-need-to-geoblock-mississippi-ips.html",
+      "date_iso": "2025-08-27T20:03:01+00:00",
+      "source": "https://dw-news.dreamwidth.org/44429.html",
+      "summary": "Article URL: https://dw-news.dreamwidth.org/44429.html Comments URL: https://news.ycombinator.com/item?id=45044440 Points: 202 # Comments: 238"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/27/technology/personaltech/google-pixel-10-pro-review-ai-phone.html",
+      "title": "Google Pixel 10 Pro Review: This A.I. Phone Can Save Time if You Surrender Your Data",
+      "slug": "2025-08-27-google-pixel-10-pro-review-this-a-i-phone-can-save-time-if-you-surrender-your-data.html",
+      "path": "posts/2025-08-27-google-pixel-10-pro-review-this-a-i-phone-can-save-time-if-you-surrender-your-data.html",
+      "date_iso": "2025-08-27T18:54:08+00:00",
+      "source": "https://www.nytimes.com/2025/08/27/technology/personaltech/google-pixel-10-pro-review-ai-phone.html",
+      "summary": "The new artificially intelligent Pixel can help people streamline certain tasks. But that efficiency may not be worth the data you give up, our reviewer writes."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45042461",
+      "title": "A failure of security systems at PayPal is causing concern for German banks",
+      "slug": "2025-08-27-a-failure-of-security-systems-at-paypal-is-causing-concern-for-german-banks.html",
+      "path": "posts/2025-08-27-a-failure-of-security-systems-at-paypal-is-causing-concern-for-german-banks.html",
+      "date_iso": "2025-08-27T17:28:20+00:00",
+      "source": "https://www.nordbayern.de/news-in-english/paypal-security-systems-down-german-banks-block-payments-in-the-billions-1.14811187",
+      "summary": "Article URL: https://www.nordbayern.de/news-in-english/paypal-security-systems-down-german-banks-block-payments-in-the-billions-1.14811187 Comments URL: https://news.ycombinator.com/item?id=45042461 Points: 236 # Comments: 167"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45042175",
+      "title": "Lago – Open-Source Usage Based Billing – Is Hiring in Sales, Eng, Ops (EU, US)",
+      "slug": "2025-08-27-lago-open-source-usage-based-billing-is-hiring-in-sales-eng-ops-eu-us.html",
+      "path": "posts/2025-08-27-lago-open-source-usage-based-billing-is-hiring-in-sales-eng-ops-eu-us.html",
+      "date_iso": "2025-08-27T17:01:06+00:00",
+      "source": "https://www.ycombinator.com/companies/lago/jobs",
+      "summary": "Article URL: https://www.ycombinator.com/companies/lago/jobs Comments URL: https://news.ycombinator.com/item?id=45042175 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45041743",
+      "title": "GMP damaging Zen 5 CPUs?",
+      "slug": "2025-08-27-gmp-damaging-zen-5-cpus.html",
+      "path": "posts/2025-08-27-gmp-damaging-zen-5-cpus.html",
+      "date_iso": "2025-08-27T16:24:12+00:00",
+      "source": "https://gmplib.org/gmp-zen5",
+      "summary": "Article URL: https://gmplib.org/gmp-zen5 Comments URL: https://news.ycombinator.com/item?id=45041743 Points: 181 # Comments: 159"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45041315",
+      "title": "VIM Master",
+      "slug": "2025-08-27-vim-master.html",
+      "path": "posts/2025-08-27-vim-master.html",
+      "date_iso": "2025-08-27T15:50:54+00:00",
+      "source": "https://github.com/renzorlive/vimmaster",
+      "summary": "Article URL: https://github.com/renzorlive/vimmaster Comments URL: https://news.ycombinator.com/item?id=45041315 Points: 269 # Comments: 89"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45041286",
+      "title": "Unexpected productivity boost of Rust",
+      "slug": "2025-08-27-unexpected-productivity-boost-of-rust.html",
+      "path": "posts/2025-08-27-unexpected-productivity-boost-of-rust.html",
+      "date_iso": "2025-08-27T15:48:07+00:00",
+      "source": "https://lubeno.dev/blog/rusts-productivity-curve",
+      "summary": "Article URL: https://lubeno.dev/blog/rusts-productivity-curve Comments URL: https://news.ycombinator.com/item?id=45041286 Points: 381 # Comments: 333"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45041185",
+      "title": "Launch HN: Bitrig (YC S25) – Build Swift apps on your iPhone",
+      "slug": "2025-08-27-launch-hn-bitrig-yc-s25-build-swift-apps-on-your-iphone.html",
+      "path": "posts/2025-08-27-launch-hn-bitrig-yc-s25-build-swift-apps-on-your-iphone.html",
+      "date_iso": "2025-08-27T15:39:33+00:00",
+      "source": "https://news.ycombinator.com/item?id=45041185",
+      "summary": "Hi HN, we’re Kyle, Jacob, and Tim. We’re building Bitrig ( https://www.bitrig.app ). Bitrig lets you create native Swift apps for your phone, on your phone, just by chatting with AI. It’s like Lovable for iPhone apps. Here's a video of Bitrig in action: https://youtu.be/CUlWhF3E…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45039301",
+      "title": "Implementing Forth in Go and C",
+      "slug": "2025-08-27-implementing-forth-in-go-and-c.html",
+      "path": "posts/2025-08-27-implementing-forth-in-go-and-c.html",
+      "date_iso": "2025-08-27T13:19:11+00:00",
+      "source": "https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/",
+      "summary": "Article URL: https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/ Comments URL: https://news.ycombinator.com/item?id=45039301 Points: 145 # Comments: 22"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/27/technology/personaltech/apple-google-news-customize.html",
+      "title": "How to Set Up a Personalized News Feed on Your Phone",
+      "slug": "2025-08-27-how-to-set-up-a-personalized-news-feed-on-your-phone.html",
+      "path": "posts/2025-08-27-how-to-set-up-a-personalized-news-feed-on-your-phone.html",
+      "date_iso": "2025-08-27T13:00:14+00:00",
+      "source": "https://www.nytimes.com/2025/08/27/technology/personaltech/apple-google-news-customize.html",
+      "summary": "The Apple News app provides a dashboard for following the headlines about your favorite topics along with breaking news."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/27/world/asia/south-korea-school-smartphone-ban.html",
+      "title": "South Korea Outlaws Use of Smartphones During Class",
+      "slug": "2025-08-27-south-korea-outlaws-use-of-smartphones-during-class.html",
+      "path": "posts/2025-08-27-south-korea-outlaws-use-of-smartphones-during-class.html",
+      "date_iso": "2025-08-27T12:25:01+00:00",
+      "source": "https://www.nytimes.com/2025/08/27/world/asia/south-korea-school-smartphone-ban.html",
+      "summary": "A parent and child arriving at an elementary school in Seoul last year. A new law in South Korea gives principals and teachers the power to stop students from carrying or using phones at school."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/27/business/economy/ai-investment-economic-growth.html",
+      "title": "The A.I. Spending Frenzy Is Propping Up the Real Economy, Too",
+      "slug": "2025-08-27-the-a-i-spending-frenzy-is-propping-up-the-real-economy-too.html",
+      "path": "posts/2025-08-27-the-a-i-spending-frenzy-is-propping-up-the-real-economy-too.html",
+      "date_iso": "2025-08-27T12:22:12+00:00",
+      "source": "https://www.nytimes.com/2025/08/27/business/economy/ai-investment-economic-growth.html",
+      "summary": "The construction of a Meta data center last fall in Eagle Mountain, Utah. Companies will spend $375 billion globally on new data centers this year, UBS estimates."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45037365",
+      "title": "The GitHub website is slow on Safari",
+      "slug": "2025-08-27-the-github-website-is-slow-on-safari.html",
+      "path": "posts/2025-08-27-the-github-website-is-slow-on-safari.html",
+      "date_iso": "2025-08-27T09:43:43+00:00",
+      "source": "https://github.com/orgs/community/discussions/170758",
+      "summary": "Article URL: https://github.com/orgs/community/discussions/170758 Comments URL: https://news.ycombinator.com/item?id=45037365 Points: 347 # Comments: 263"
+    },
+    {
       "id": "https://www.nytimes.com/2025/08/26/science/spacex-starship-test-launch.html",
       "title": "SpaceX Starship Completes Successful Test Flight After Previous Launch Setbacks",
       "slug": "2025-08-27-spacex-starship-completes-successful-test-flight-after-previous-launch-setbacks.html",
