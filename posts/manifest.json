@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45060161",
+      "title": "Strange CW Keys",
+      "slug": "2025-08-29-strange-cw-keys.html",
+      "path": "posts/2025-08-29-strange-cw-keys.html",
+      "date_iso": "2025-08-29T04:22:48+00:00",
+      "source": "https://sites.google.com/site/oh6dccw/strangecwkeys",
+      "summary": "Article URL: https://sites.google.com/site/oh6dccw/strangecwkeys Comments URL: https://news.ycombinator.com/item?id=45060161 Points: 57 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45060004",
+      "title": "PSA: Libxslt is unmaintained and has 5 unpatched security bugs",
+      "slug": "2025-08-29-psa-libxslt-is-unmaintained-and-has-5-unpatched-security-bugs.html",
+      "path": "posts/2025-08-29-psa-libxslt-is-unmaintained-and-has-5-unpatched-security-bugs.html",
+      "date_iso": "2025-08-29T03:57:46+00:00",
+      "source": "https://vuxml.freebsd.org/freebsd/b0a3466f-5efc-11f0-ae84-99047d0a6bcc.html",
+      "summary": "Article URL: https://vuxml.freebsd.org/freebsd/b0a3466f-5efc-11f0-ae84-99047d0a6bcc.html Comments URL: https://news.ycombinator.com/item?id=45060004 Points: 37 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45059470",
+      "title": "A deep dive into Debian 13 /tmp: What's new, and what to do if you don't like it",
+      "slug": "2025-08-29-a-deep-dive-into-debian-13-tmp-what-s-new-and-what-to-do-if-you-don-t-like-it.html",
+      "path": "posts/2025-08-29-a-deep-dive-into-debian-13-tmp-what-s-new-and-what-to-do-if-you-don-t-like-it.html",
+      "date_iso": "2025-08-29T02:39:44+00:00",
+      "source": "https://lowendbox.com/blog/a-deep-dive-into-debian-13s-tmp-whats-new-and-what-to-do-if-you-dont-like-it/",
+      "summary": "Article URL: https://lowendbox.com/blog/a-deep-dive-into-debian-13s-tmp-whats-new-and-what-to-do-if-you-dont-like-it/ Comments URL: https://news.ycombinator.com/item?id=45059470 Points: 90 # Comments: 50"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45059160",
+      "title": "Lucky 13: a look at Debian trixie",
+      "slug": "2025-08-29-lucky-13-a-look-at-debian-trixie.html",
+      "path": "posts/2025-08-29-lucky-13-a-look-at-debian-trixie.html",
+      "date_iso": "2025-08-29T01:55:14+00:00",
+      "source": "https://lwn.net/Articles/1033474/",
+      "summary": "Article URL: https://lwn.net/Articles/1033474/ Comments URL: https://news.ycombinator.com/item?id=45059160 Points: 69 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45058688",
+      "title": "Claude Sonnet will ship in Xcode",
+      "slug": "2025-08-29-claude-sonnet-will-ship-in-xcode.html",
+      "path": "posts/2025-08-29-claude-sonnet-will-ship-in-xcode.html",
+      "date_iso": "2025-08-29T00:44:27+00:00",
+      "source": "https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes",
+      "summary": "Article URL: https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes Comments URL: https://news.ycombinator.com/item?id=45058688 Points: 264 # Comments: 200"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45058171",
+      "title": "Python: The Documentary [video]",
+      "slug": "2025-08-28-python-the-documentary-video.html",
+      "path": "posts/2025-08-28-python-the-documentary-video.html",
+      "date_iso": "2025-08-28T23:27:27+00:00",
+      "source": "https://www.youtube.com/watch?v=GfH4QL4VqJ0",
+      "summary": "Article URL: https://www.youtube.com/watch?v=GfH4QL4VqJ0 Comments URL: https://news.ycombinator.com/item?id=45058171 Points: 193 # Comments: 62"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45058024",
+      "title": "RSS is awesome",
+      "slug": "2025-08-28-rss-is-awesome.html",
+      "path": "posts/2025-08-28-rss-is-awesome.html",
+      "date_iso": "2025-08-28T23:04:01+00:00",
+      "source": "https://evanverma.com/rss-is-awesome",
+      "summary": "Article URL: https://evanverma.com/rss-is-awesome Comments URL: https://news.ycombinator.com/item?id=45058024 Points: 196 # Comments: 79"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45057561",
+      "title": "Rupert's Property",
+      "slug": "2025-08-28-rupert-s-property.html",
+      "path": "posts/2025-08-28-rupert-s-property.html",
+      "date_iso": "2025-08-28T22:02:28+00:00",
+      "source": "https://johncarlosbaez.wordpress.com/2025/08/28/a-polyhedron-without-ruperts-property/",
+      "summary": "Article URL: https://johncarlosbaez.wordpress.com/2025/08/28/a-polyhedron-without-ruperts-property/ Comments URL: https://news.ycombinator.com/item?id=45057561 Points: 50 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45057513",
+      "title": "An eyecare foundation model for clinical assistance",
+      "slug": "2025-08-28-an-eyecare-foundation-model-for-clinical-assistance.html",
+      "path": "posts/2025-08-28-an-eyecare-foundation-model-for-clinical-assistance.html",
+      "date_iso": "2025-08-28T21:57:40+00:00",
+      "source": "https://www.nature.com/articles/s41591-025-03900-7",
+      "summary": "Article URL: https://www.nature.com/articles/s41591-025-03900-7 Comments URL: https://news.ycombinator.com/item?id=45057513 Points: 12 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45057404",
+      "title": "The Space Shuttle Columbia disaster and the over-reliance on PowerPoint (2019)",
+      "slug": "2025-08-28-the-space-shuttle-columbia-disaster-and-the-over-reliance-on-powerpoint-2019.html",
+      "path": "posts/2025-08-28-the-space-shuttle-columbia-disaster-and-the-over-reliance-on-powerpoint-2019.html",
+      "date_iso": "2025-08-28T21:44:47+00:00",
+      "source": "https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx",
+      "summary": "Article URL: https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx Comments URL: https://news.ycombinator.com/item?id=45057404 Points: 122 # Comments: 94"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45057346",
+      "title": "Sometimes CPU cores are odd",
+      "slug": "2025-08-28-sometimes-cpu-cores-are-odd.html",
+      "path": "posts/2025-08-28-sometimes-cpu-cores-are-odd.html",
+      "date_iso": "2025-08-28T21:39:18+00:00",
+      "source": "https://anubis.techaro.lol/blog/2025/cpu-core-odd/",
+      "summary": "Article URL: https://anubis.techaro.lol/blog/2025/cpu-core-odd/ Comments URL: https://news.ycombinator.com/item?id=45057346 Points: 81 # Comments: 97"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45057322",
+      "title": "Expert: LSP for Elixir",
+      "slug": "2025-08-28-expert-lsp-for-elixir.html",
+      "path": "posts/2025-08-28-expert-lsp-for-elixir.html",
+      "date_iso": "2025-08-28T21:36:36+00:00",
+      "source": "https://github.com/elixir-lang/expert",
+      "summary": "Article URL: https://github.com/elixir-lang/expert Comments URL: https://news.ycombinator.com/item?id=45057322 Points: 118 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45057020",
+      "title": "Fuck up my site – Turn any website into beautiful chaos",
+      "slug": "2025-08-28-fuck-up-my-site-turn-any-website-into-beautiful-chaos.html",
+      "path": "posts/2025-08-28-fuck-up-my-site-turn-any-website-into-beautiful-chaos.html",
+      "date_iso": "2025-08-28T21:04:36+00:00",
+      "source": "https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&torchCursor=true&comicSans=true&fakeCursors=true&peskyFly=true",
+      "summary": "Article URL: https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&amp;torchCursor=true&amp;comicSans=true&amp;fakeCursors=true&amp;peskyFly=true Comments URL: https://news.ycombinator.com/item?id=45057020 Points: 227 # Comments: 74"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45056878",
+      "title": "You no longer need JavaScript: an overview of what makes modern CSS so awesome",
+      "slug": "2025-08-28-you-no-longer-need-javascript-an-overview-of-what-makes-modern-css-so-awesome.html",
+      "path": "posts/2025-08-28-you-no-longer-need-javascript-an-overview-of-what-makes-modern-css-so-awesome.html",
+      "date_iso": "2025-08-28T20:49:34+00:00",
+      "source": "https://lyra.horse/blog/2025/08/you-dont-need-js/",
+      "summary": "Article URL: https://lyra.horse/blog/2025/08/you-dont-need-js/ Comments URL: https://news.ycombinator.com/item?id=45056878 Points: 189 # Comments: 103"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45056177",
+      "title": "My startup banking story (2023)",
+      "slug": "2025-08-28-my-startup-banking-story-2023.html",
+      "path": "posts/2025-08-28-my-startup-banking-story-2023.html",
+      "date_iso": "2025-08-28T19:38:20+00:00",
+      "source": "https://mitchellh.com/writing/my-startup-banking-story",
+      "summary": "Article URL: https://mitchellh.com/writing/my-startup-banking-story Comments URL: https://news.ycombinator.com/item?id=45056177 Points: 242 # Comments: 117"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45055641",
+      "title": "Some thoughts on LLMs and software development",
+      "slug": "2025-08-28-some-thoughts-on-llms-and-software-development.html",
+      "path": "posts/2025-08-28-some-thoughts-on-llms-and-software-development.html",
+      "date_iso": "2025-08-28T18:52:00+00:00",
+      "source": "https://martinfowler.com/articles/202508-ai-thoughts.html",
+      "summary": "Article URL: https://martinfowler.com/articles/202508-ai-thoughts.html Comments URL: https://news.ycombinator.com/item?id=45055641 Points: 270 # Comments: 237"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45055452",
+      "title": "Web Bot Auth",
+      "slug": "2025-08-28-web-bot-auth.html",
+      "path": "posts/2025-08-28-web-bot-auth.html",
+      "date_iso": "2025-08-28T18:35:46+00:00",
+      "source": "https://developers.cloudflare.com/bots/reference/bot-verification/web-bot-auth/",
+      "summary": "Article URL: https://developers.cloudflare.com/bots/reference/bot-verification/web-bot-auth/ Comments URL: https://news.ycombinator.com/item?id=45055452 Points: 53 # Comments: 48"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45055439",
+      "title": "Building your own CLI coding agent with Pydantic-AI",
+      "slug": "2025-08-28-building-your-own-cli-coding-agent-with-pydantic-ai.html",
+      "path": "posts/2025-08-28-building-your-own-cli-coding-agent-with-pydantic-ai.html",
+      "date_iso": "2025-08-28T18:34:29+00:00",
+      "source": "https://martinfowler.com/articles/build-own-coding-agent.html",
+      "summary": "Article URL: https://martinfowler.com/articles/build-own-coding-agent.html Comments URL: https://news.ycombinator.com/item?id=45055439 Points: 143 # Comments: 30"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45054703",
+      "title": "Uncertain<T>",
+      "slug": "2025-08-28-uncertain-t.html",
+      "path": "posts/2025-08-28-uncertain-t.html",
+      "date_iso": "2025-08-28T17:22:54+00:00",
+      "source": "https://nshipster.com/uncertainty/",
+      "summary": "Article URL: https://nshipster.com/uncertainty/ Comments URL: https://news.ycombinator.com/item?id=45054703 Points: 319 # Comments: 70"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45054260",
+      "title": "Ask HN: The government of my country blocked VPN access. What should I use?",
+      "slug": "2025-08-28-ask-hn-the-government-of-my-country-blocked-vpn-access-what-should-i-use.html",
+      "path": "posts/2025-08-28-ask-hn-the-government-of-my-country-blocked-vpn-access-what-should-i-use.html",
+      "date_iso": "2025-08-28T16:43:05+00:00",
+      "source": "https://news.ycombinator.com/item?id=45054260",
+      "summary": "Indonesia is currently in chaos. Earlier today, the government blocked access to Twitter & Discord knowing news spread mainly through those channels. Usually we can use Cloudflare's WARP to avoid it, but just today they blocked the access as well. What alternative should we use?…"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45048736",
       "title": "Lesser known mobile adtech domains where data is sent",
       "slug": "2025-08-28-lesser-known-mobile-adtech-domains-where-data-is-sent.html",
