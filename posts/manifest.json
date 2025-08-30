@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45072160",
+      "title": "From Multi-Head to Latent Attention: The Evolution of Attention Mechanisms",
+      "slug": "2025-08-30-from-multi-head-to-latent-attention-the-evolution-of-attention-mechanisms.html",
+      "path": "posts/2025-08-30-from-multi-head-to-latent-attention-the-evolution-of-attention-mechanisms.html",
+      "date_iso": "2025-08-30T05:45:24+00:00",
+      "source": "https://vinithavn.medium.com/from-multi-head-to-latent-attention-the-evolution-of-attention-mechanisms-64e3c0505f24",
+      "summary": "Article URL: https://vinithavn.medium.com/from-multi-head-to-latent-attention-the-evolution-of-attention-mechanisms-64e3c0505f24 Comments URL: https://news.ycombinator.com/item?id=45072160 Points: 14 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45071838",
+      "title": "Fun and Immersive Typing Game",
+      "slug": "2025-08-30-fun-and-immersive-typing-game.html",
+      "path": "posts/2025-08-30-fun-and-immersive-typing-game.html",
+      "date_iso": "2025-08-30T04:05:22+00:00",
+      "source": "https://keybara.io",
+      "summary": "Article URL: https://keybara.io Comments URL: https://news.ycombinator.com/item?id=45071838 Points: 9 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45071722",
+      "title": "Show HN: Hacker News em dash user leaderboard pre-ChatGPT",
+      "slug": "2025-08-30-show-hn-hacker-news-em-dash-user-leaderboard-pre-chatgpt.html",
+      "path": "posts/2025-08-30-show-hn-hacker-news-em-dash-user-leaderboard-pre-chatgpt.html",
+      "date_iso": "2025-08-30T03:40:23+00:00",
+      "source": "https://www.gally.net/miscellaneous/hn-em-dash-user-leaderboard.html",
+      "summary": "The use of the em dash (—) now raises suspicions that a text might have been AI-generated. Inspired by a suggestion from dang [1], I created a leaderboard of HN users according to how many of their posts before November 30, 2022—that is, before the release of ChatGPT—contained e…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45071703",
+      "title": "Accelerating life sciences research",
+      "slug": "2025-08-30-accelerating-life-sciences-research.html",
+      "path": "posts/2025-08-30-accelerating-life-sciences-research.html",
+      "date_iso": "2025-08-30T03:35:41+00:00",
+      "source": "https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences/",
+      "summary": "Article URL: https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences/ Comments URL: https://news.ycombinator.com/item?id=45071703 Points: 33 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45071677",
+      "title": "SynthID – A tool to watermark and identify content generated through AI",
+      "slug": "2025-08-30-synthid-a-tool-to-watermark-and-identify-content-generated-through-ai.html",
+      "path": "posts/2025-08-30-synthid-a-tool-to-watermark-and-identify-content-generated-through-ai.html",
+      "date_iso": "2025-08-30T03:29:01+00:00",
+      "source": "https://deepmind.google/science/synthid/",
+      "summary": "Article URL: https://deepmind.google/science/synthid/ Comments URL: https://news.ycombinator.com/item?id=45071677 Points: 27 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45070793",
+      "title": "Why Romania excels in international Olympiads",
+      "slug": "2025-08-30-why-romania-excels-in-international-olympiads.html",
+      "path": "posts/2025-08-30-why-romania-excels-in-international-olympiads.html",
+      "date_iso": "2025-08-30T00:09:43+00:00",
+      "source": "https://www.palladiummag.com/2025/08/29/why-romania-excels-in-international-olympiads/",
+      "summary": "Article URL: https://www.palladiummag.com/2025/08/29/why-romania-excels-in-international-olympiads/ Comments URL: https://news.ycombinator.com/item?id=45070793 Points: 102 # Comments: 85"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45070602",
+      "title": "Nginx-CGI brings support for CGI to Nginx and angie",
+      "slug": "2025-08-29-nginx-cgi-brings-support-for-cgi-to-nginx-and-angie.html",
+      "path": "posts/2025-08-29-nginx-cgi-brings-support-for-cgi-to-nginx-and-angie.html",
+      "date_iso": "2025-08-29T23:40:21+00:00",
+      "source": "https://github.com/pjincz/nginx-cgi",
+      "summary": "Article URL: https://github.com/pjincz/nginx-cgi Comments URL: https://news.ycombinator.com/item?id=45070602 Points: 21 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45068986",
+      "title": "The Theoretical Limitations of Embedding-Based Retrieval",
+      "slug": "2025-08-29-the-theoretical-limitations-of-embedding-based-retrieval.html",
+      "path": "posts/2025-08-29-the-theoretical-limitations-of-embedding-based-retrieval.html",
+      "date_iso": "2025-08-29T20:25:34+00:00",
+      "source": "https://arxiv.org/abs/2508.21038",
+      "summary": "Article URL: https://arxiv.org/abs/2508.21038 Comments URL: https://news.ycombinator.com/item?id=45068986 Points: 89 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45068091",
+      "title": "Do the simplest thing that could possibly work",
+      "slug": "2025-08-29-do-the-simplest-thing-that-could-possibly-work.html",
+      "path": "posts/2025-08-29-do-the-simplest-thing-that-could-possibly-work.html",
+      "date_iso": "2025-08-29T19:05:09+00:00",
+      "source": "https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/",
+      "summary": "Article URL: https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/ Comments URL: https://news.ycombinator.com/item?id=45068091 Points: 594 # Comments: 230"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45067423",
+      "title": "Income Equality in Nordic Countries: Myths, Facts, and Lessons",
+      "slug": "2025-08-29-income-equality-in-nordic-countries-myths-facts-and-lessons.html",
+      "path": "posts/2025-08-29-income-equality-in-nordic-countries-myths-facts-and-lessons.html",
+      "date_iso": "2025-08-29T18:03:33+00:00",
+      "source": "https://www.aeaweb.org/articles?id=10.1257/jel.20251636",
+      "summary": "Article URL: https://www.aeaweb.org/articles?id=10.1257/jel.20251636 Comments URL: https://news.ycombinator.com/item?id=45067423 Points: 68 # Comments: 98"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45066999",
+      "title": "SQLite's documentation about its durability properties is unclear",
+      "slug": "2025-08-29-sqlite-s-documentation-about-its-durability-properties-is-unclear.html",
+      "path": "posts/2025-08-29-sqlite-s-documentation-about-its-durability-properties-is-unclear.html",
+      "date_iso": "2025-08-29T17:30:29+00:00",
+      "source": "https://www.agwa.name/blog/post/sqlite_durability",
+      "summary": "Article URL: https://www.agwa.name/blog/post/sqlite_durability Comments URL: https://news.ycombinator.com/item?id=45066999 Points: 132 # Comments: 51"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45066395",
+      "title": "John Carmack's arguments against building a custom XR OS at Meta",
+      "slug": "2025-08-29-john-carmack-s-arguments-against-building-a-custom-xr-os-at-meta.html",
+      "path": "posts/2025-08-29-john-carmack-s-arguments-against-building-a-custom-xr-os-at-meta.html",
+      "date_iso": "2025-08-29T16:45:21+00:00",
+      "source": "https://twitter.com/ID_AA_Carmack/status/1961172409920491849",
+      "summary": "https://xcancel.com/ID_AA_Carmack/status/1961172409920491849 Comments URL: https://news.ycombinator.com/item?id=45066395 Points: 341 # Comments: 364"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45066258",
+      "title": "The web does not need gatekeepers: Cloudflare’s new “signed agents” pitch",
+      "slug": "2025-08-29-the-web-does-not-need-gatekeepers-cloudflare-s-new-signed-agents-pitch.html",
+      "path": "posts/2025-08-29-the-web-does-not-need-gatekeepers-cloudflare-s-new-signed-agents-pitch.html",
+      "date_iso": "2025-08-29T16:35:24+00:00",
+      "source": "https://positiveblue.substack.com/p/the-web-does-not-need-gatekeepers",
+      "summary": "Article URL: https://positiveblue.substack.com/p/the-web-does-not-need-gatekeepers Comments URL: https://news.ycombinator.com/item?id=45066258 Points: 359 # Comments: 349"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45066060",
+      "title": "Wikipedia as a Graph",
+      "slug": "2025-08-29-wikipedia-as-a-graph.html",
+      "path": "posts/2025-08-29-wikipedia-as-a-graph.html",
+      "date_iso": "2025-08-29T16:19:56+00:00",
+      "source": "https://wikigrapher.com/paths",
+      "summary": "Article URL: https://wikigrapher.com/paths Comments URL: https://news.ycombinator.com/item?id=45066060 Points: 187 # Comments: 47"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45065705",
+      "title": "Essential Coding Theory [pdf]",
+      "slug": "2025-08-29-essential-coding-theory-pdf.html",
+      "path": "posts/2025-08-29-essential-coding-theory-pdf.html",
+      "date_iso": "2025-08-29T15:53:41+00:00",
+      "source": "https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf",
+      "summary": "Article URL: https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf Comments URL: https://news.ycombinator.com/item?id=45065705 Points: 292 # Comments: 45"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/29/business/cadillac-electric-vehicles-trump.html",
+      "title": "Can Cadillac Keep Selling E.V.s as Trump Repeals Climate Policies?",
+      "slug": "2025-08-29-can-cadillac-keep-selling-e-v-s-as-trump-repeals-climate-policies.html",
+      "path": "posts/2025-08-29-can-cadillac-keep-selling-e-v-s-as-trump-repeals-climate-policies.html",
+      "date_iso": "2025-08-29T14:38:19+00:00",
+      "source": "https://www.nytimes.com/2025/08/29/business/cadillac-electric-vehicles-trump.html",
+      "summary": "An electric Cadillac Lyriq at a General Motors facility in Spring Hill, Tenn. About 70 percent of electric Cadillac Optiq and Lyriq buyers are switching from other luxury brands."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45064329",
+      "title": "Deploying DeepSeek on 96 H100 GPUs",
+      "slug": "2025-08-29-deploying-deepseek-on-96-h100-gpus.html",
+      "path": "posts/2025-08-29-deploying-deepseek-on-96-h100-gpus.html",
+      "date_iso": "2025-08-29T14:07:28+00:00",
+      "source": "https://lmsys.org/blog/2025-05-05-large-scale-ep/",
+      "summary": "Article URL: https://lmsys.org/blog/2025-05-05-large-scale-ep/ Comments URL: https://news.ycombinator.com/item?id=45064329 Points: 219 # Comments: 64"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45064284",
+      "title": "Flunking my Anthropic interview again",
+      "slug": "2025-08-29-flunking-my-anthropic-interview-again.html",
+      "path": "posts/2025-08-29-flunking-my-anthropic-interview-again.html",
+      "date_iso": "2025-08-29T14:02:59+00:00",
+      "source": "https://taylor.town/flunking-anthropic",
+      "summary": "Article URL: https://taylor.town/flunking-anthropic Comments URL: https://news.ycombinator.com/item?id=45064284 Points: 299 # Comments: 278"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45063874",
+      "title": "Show HN: Sosumi.ai – Convert Apple Developer docs to AI-readable Markdown",
+      "slug": "2025-08-29-show-hn-sosumi-ai-convert-apple-developer-docs-to-ai-readable-markdown.html",
+      "path": "posts/2025-08-29-show-hn-sosumi-ai-convert-apple-developer-docs-to-ai-readable-markdown.html",
+      "date_iso": "2025-08-29T13:30:16+00:00",
+      "source": "https://sosumi.ai/",
+      "summary": "I got tired of Claude hallucinating Swift APIs. It does a good job at Python and TypeScript, but ask it about SwiftUI and it's basically guessing. The problem? Apple's docs are JavaScript-rendered, so when you paste URLs into AI tools, they just see a blank page. Copy-pasting wo…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45063559",
+      "title": "Grok Code Fast 1",
+      "slug": "2025-08-29-grok-code-fast-1.html",
+      "path": "posts/2025-08-29-grok-code-fast-1.html",
+      "date_iso": "2025-08-29T13:01:45+00:00",
+      "source": "https://x.ai/news/grok-code-fast-1",
+      "summary": "Article URL: https://x.ai/news/grok-code-fast-1 Comments URL: https://news.ycombinator.com/item?id=45063559 Points: 382 # Comments: 394"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/29/podcasts/hardfork-intel-waymo.html",
+      "title": "Intel’s New Deal + Waymo C.E.O. Tekedra Mawakana on Scaling Driverless Cars + Trumps in Tech",
+      "slug": "2025-08-29-intel-s-new-deal-waymo-c-e-o-tekedra-mawakana-on-scaling-driverless-cars-trumps-in-tech.html",
+      "path": "posts/2025-08-29-intel-s-new-deal-waymo-c-e-o-tekedra-mawakana-on-scaling-driverless-cars-trumps-in-tech.html",
+      "date_iso": "2025-08-29T11:00:08+00:00",
+      "source": "https://www.nytimes.com/2025/08/29/podcasts/hardfork-intel-waymo.html",
+      "summary": "“At its core, what this is is like a state-sponsored industrial project.”"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45060161",
       "title": "Strange CW Keys",
       "slug": "2025-08-29-strange-cw-keys.html",
@@ -323,6 +512,15 @@
       "date_iso": "2025-08-27T17:01:06+00:00",
       "source": "https://www.ycombinator.com/companies/lago/jobs",
       "summary": "Article URL: https://www.ycombinator.com/companies/lago/jobs Comments URL: https://news.ycombinator.com/item?id=45042175 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45041744",
+      "title": "I'm working on implementing a programming language all my own",
+      "slug": "2025-08-27-i-m-working-on-implementing-a-programming-language-all-my-own.html",
+      "path": "posts/2025-08-27-i-m-working-on-implementing-a-programming-language-all-my-own.html",
+      "date_iso": "2025-08-27T16:24:13+00:00",
+      "source": "https://eli.li/to-the-surprise-of-literally-no-one-im-working-on-implementing-a-programming-language-all-my-own",
+      "summary": "Article URL: https://eli.li/to-the-surprise-of-literally-no-one-im-working-on-implementing-a-programming-language-all-my-own Comments URL: https://news.ycombinator.com/item?id=45041744 Points: 52 # Comments: 20"
     },
     {
       "id": "https://news.ycombinator.com/item?id=45041743",

@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Sosumi.ai – Convert Apple Developer docs to AI-readable Markdown</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Sosumi.ai – Convert Apple Developer docs to AI-readable Markdown</h1>
+    <p><small>Published: 2025-08-29T13:30:16+00:00</small></p>
+  </header>
+
+  <main>
+    <p>I got tired of Claude hallucinating Swift APIs. It does a good job at Python and TypeScript, but ask it about SwiftUI and it's basically guessing.<p>The problem? Apple's docs are JavaScript-rendered, so when you paste URLs into AI tools, they just see a blank page. Copy-pasting works but... c'mon.<p>So I built something that converts Apple Developer docs to clean markdown. Just swap developer.apple.com with sosumi.ai in any Apple docs URL and you get AI-readable content.<p>For example:<p>- Before: <a href="https://developer.apple.com/documentation/swift/double" rel="nofollow">https://developer.apple.com/documentation/swift/double</a><p>- After: <a href="https://sosumi.ai/documentation/swift/double" rel="nofollow">https://sosumi.ai/documentation/swift/double</a><p>The site itself is a small Hono app running on Cloudflare Workers. Apple's docs are actually available as structured data, but Apple doesn't make it obvious how to get it. So what this does is map the URLs, fetch the original JSON, and render as Markdown.<p>It also provides an MCP interface that includes a tool to search the Apple developer website, which is helpful.<p>Anyway, please give this a try and let me know what you think!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45063874">https://news.ycombinator.com/item?id=45063874</a></p>
+<p>Points: 106</p>
+<p># Comments: 61</p>
+    <p><a href="https://sosumi.ai/" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
