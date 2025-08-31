@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45080720",
+      "title": "Git Diagramming \"The Weave\"",
+      "slug": "2025-08-31-git-diagramming-the-weave.html",
+      "path": "posts/2025-08-31-git-diagramming-the-weave.html",
+      "date_iso": "2025-08-31T05:59:57+00:00",
+      "source": "https://daverupert.com/2025/08/git-diagramming-the-weave/",
+      "summary": "Article URL: https://daverupert.com/2025/08/git-diagramming-the-weave/ Comments URL: https://news.ycombinator.com/item?id=45080720 Points: 3 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45080618",
+      "title": "Rick Beato Is Right to Rant About Music Copyright Strikes",
+      "slug": "2025-08-31-rick-beato-is-right-to-rant-about-music-copyright-strikes.html",
+      "path": "posts/2025-08-31-rick-beato-is-right-to-rant-about-music-copyright-strikes.html",
+      "date_iso": "2025-08-31T05:35:59+00:00",
+      "source": "https://savingcountrymusic.com/rick-beato-is-right-to-rant-about-music-copyright-strikes/",
+      "summary": "Article URL: https://savingcountrymusic.com/rick-beato-is-right-to-rant-about-music-copyright-strikes/ Comments URL: https://news.ycombinator.com/item?id=45080618 Points: 12 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45080538",
+      "title": "Intermittent fasting correlated with increased risk of cardiovascular disease",
+      "slug": "2025-08-31-intermittent-fasting-correlated-with-increased-risk-of-cardiovascular-disease.html",
+      "path": "posts/2025-08-31-intermittent-fasting-correlated-with-increased-risk-of-cardiovascular-disease.html",
+      "date_iso": "2025-08-31T05:13:05+00:00",
+      "source": "https://www.bbc.com/news/articles/c0l6ye6xe12o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c0l6ye6xe12o Comments URL: https://news.ycombinator.com/item?id=45080538 Points: 33 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45080388",
+      "title": "Sheafification – The optimal path to mathematical mastery",
+      "slug": "2025-08-31-sheafification-the-optimal-path-to-mathematical-mastery.html",
+      "path": "posts/2025-08-31-sheafification-the-optimal-path-to-mathematical-mastery.html",
+      "date_iso": "2025-08-31T04:31:29+00:00",
+      "source": "https://sheafification.com/the-fast-track/",
+      "summary": "Article URL: https://sheafification.com/the-fast-track/ Comments URL: https://news.ycombinator.com/item?id=45080388 Points: 25 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45080351",
+      "title": "Josef Bacik Leaving Meta and Stepping Back from Kernel Development",
+      "slug": "2025-08-31-josef-bacik-leaving-meta-and-stepping-back-from-kernel-development.html",
+      "path": "posts/2025-08-31-josef-bacik-leaving-meta-and-stepping-back-from-kernel-development.html",
+      "date_iso": "2025-08-31T04:21:06+00:00",
+      "source": "https://www.phoronix.com/news/Josef-Bacik-Leaves-Meta",
+      "summary": "Article URL: https://www.phoronix.com/news/Josef-Bacik-Leaves-Meta Comments URL: https://news.ycombinator.com/item?id=45080351 Points: 21 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45080051",
+      "title": "Red: A programming language inspired by REBOL",
+      "slug": "2025-08-31-red-a-programming-language-inspired-by-rebol.html",
+      "path": "posts/2025-08-31-red-a-programming-language-inspired-by-rebol.html",
+      "date_iso": "2025-08-31T03:14:05+00:00",
+      "source": "https://github.com/red/red",
+      "summary": "Article URL: https://github.com/red/red Comments URL: https://news.ycombinator.com/item?id=45080051 Points: 30 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45079962",
+      "title": "My phone is an ereader now",
+      "slug": "2025-08-31-my-phone-is-an-ereader-now.html",
+      "path": "posts/2025-08-31-my-phone-is-an-ereader-now.html",
+      "date_iso": "2025-08-31T02:58:32+00:00",
+      "source": "https://www.davepagurek.com/blog/minimal-phone/",
+      "summary": "Article URL: https://www.davepagurek.com/blog/minimal-phone/ Comments URL: https://news.ycombinator.com/item?id=45079962 Points: 25 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45079911",
+      "title": "Are people's bosses making them use AI tools?",
+      "slug": "2025-08-31-are-people-s-bosses-making-them-use-ai-tools.html",
+      "path": "posts/2025-08-31-are-people-s-bosses-making-them-use-ai-tools.html",
+      "date_iso": "2025-08-31T02:47:47+00:00",
+      "source": "https://piccalil.li/blog/are-peoples-bosses-really-making-them-use-ai/",
+      "summary": "Article URL: https://piccalil.li/blog/are-peoples-bosses-really-making-them-use-ai/ Comments URL: https://news.ycombinator.com/item?id=45079911 Points: 74 # Comments: 46"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45077937",
+      "title": "Six months into tariffs, businesses have no idea how to price anything",
+      "slug": "2025-08-30-six-months-into-tariffs-businesses-have-no-idea-how-to-price-anything.html",
+      "path": "posts/2025-08-30-six-months-into-tariffs-businesses-have-no-idea-how-to-price-anything.html",
+      "date_iso": "2025-08-30T20:56:40+00:00",
+      "source": "https://www.wsj.com/business/retail/trump-tariff-business-price-impact-37b630c8",
+      "summary": "Article URL: https://www.wsj.com/business/retail/trump-tariff-business-price-impact-37b630c8 Comments URL: https://news.ycombinator.com/item?id=45077937 Points: 287 # Comments: 356"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45077735",
+      "title": "Why did books start being divided into chapters? A new history",
+      "slug": "2025-08-30-why-did-books-start-being-divided-into-chapters-a-new-history.html",
+      "path": "posts/2025-08-30-why-did-books-start-being-divided-into-chapters-a-new-history.html",
+      "date_iso": "2025-08-30T20:26:35+00:00",
+      "source": "https://sydneyreviewofbooks.com/reviews/just-a-little-longer",
+      "summary": "Article URL: https://sydneyreviewofbooks.com/reviews/just-a-little-longer Comments URL: https://news.ycombinator.com/item?id=45077735 Points: 88 # Comments: 24"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45077291",
+      "title": "Are we decentralized yet?",
+      "slug": "2025-08-30-are-we-decentralized-yet.html",
+      "path": "posts/2025-08-30-are-we-decentralized-yet.html",
+      "date_iso": "2025-08-30T19:26:29+00:00",
+      "source": "https://arewedecentralizedyet.online/",
+      "summary": "Article URL: https://arewedecentralizedyet.online/ Comments URL: https://news.ycombinator.com/item?id=45077291 Points: 389 # Comments: 190"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45077209",
+      "title": "Anduril's product engineering machine",
+      "slug": "2025-08-30-anduril-s-product-engineering-machine.html",
+      "path": "posts/2025-08-30-anduril-s-product-engineering-machine.html",
+      "date_iso": "2025-08-30T19:14:15+00:00",
+      "source": "https://joincolossus.com/article/the-amusement-park-for-engineers/",
+      "summary": "Article URL: https://joincolossus.com/article/the-amusement-park-for-engineers/ Comments URL: https://news.ycombinator.com/item?id=45077209 Points: 42 # Comments: 62"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45076274",
+      "title": "The Default Trap: Why Anthropic's Data Policy Change Matters",
+      "slug": "2025-08-30-the-default-trap-why-anthropic-s-data-policy-change-matters.html",
+      "path": "posts/2025-08-30-the-default-trap-why-anthropic-s-data-policy-change-matters.html",
+      "date_iso": "2025-08-30T17:12:06+00:00",
+      "source": "https://natesnewsletter.substack.com/p/the-default-trap-why-anthropics-data",
+      "summary": "Article URL: https://natesnewsletter.substack.com/p/the-default-trap-why-anthropics-data Comments URL: https://news.ycombinator.com/item?id=45076274 Points: 75 # Comments: 17"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/30/us/school-shooting-hoax-universities-purgatory-swatting.html",
+      "title": "An Online Group Claims It’s Behind Campus Swatting Wave",
+      "slug": "2025-08-30-an-online-group-claims-it-s-behind-campus-swatting-wave.html",
+      "path": "posts/2025-08-30-an-online-group-claims-it-s-behind-campus-swatting-wave.html",
+      "date_iso": "2025-08-30T16:19:46+00:00",
+      "source": "https://www.nytimes.com/2025/08/30/us/school-shooting-hoax-universities-purgatory-swatting.html",
+      "summary": "An online group has said that it was behind a number of recent swatting episodes that have drawn law enforcement officers to American college campuses, including Villanova University on Aug. 21."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45075813",
+      "title": "New research reveals longevity gains slowing, life expectancy of 100 unlikely",
+      "slug": "2025-08-30-new-research-reveals-longevity-gains-slowing-life-expectancy-of-100-unlikely.html",
+      "path": "posts/2025-08-30-new-research-reveals-longevity-gains-slowing-life-expectancy-of-100-unlikely.html",
+      "date_iso": "2025-08-30T16:15:44+00:00",
+      "source": "https://lafollette.wisc.edu/news/new-research-reveals-longevity-gains-slowing-life-expectancy-of-100-unlikely/",
+      "summary": "Article URL: https://lafollette.wisc.edu/news/new-research-reveals-longevity-gains-slowing-life-expectancy-of-100-unlikely/ Comments URL: https://news.ycombinator.com/item?id=45075813 Points: 91 # Comments: 149"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45075384",
+      "title": "LandChad, a site dedicated to turning internet peasants into Internet Landlords",
+      "slug": "2025-08-30-landchad-a-site-dedicated-to-turning-internet-peasants-into-internet-landlords.html",
+      "path": "posts/2025-08-30-landchad-a-site-dedicated-to-turning-internet-peasants-into-internet-landlords.html",
+      "date_iso": "2025-08-30T15:18:25+00:00",
+      "source": "https://landchad.net",
+      "summary": "Article URL: https://landchad.net Comments URL: https://news.ycombinator.com/item?id=45075384 Points: 105 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45075048",
+      "title": "You Have to Feel It",
+      "slug": "2025-08-30-you-have-to-feel-it.html",
+      "path": "posts/2025-08-30-you-have-to-feel-it.html",
+      "date_iso": "2025-08-30T14:38:33+00:00",
+      "source": "https://mitchellh.com/writing/feel-it",
+      "summary": "Article URL: https://mitchellh.com/writing/feel-it Comments URL: https://news.ycombinator.com/item?id=45075048 Points: 234 # Comments: 84"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45074895",
+      "title": "Condor's Cuzco RISC-V Core at Hot Chips 2025",
+      "slug": "2025-08-30-condor-s-cuzco-risc-v-core-at-hot-chips-2025.html",
+      "path": "posts/2025-08-30-condor-s-cuzco-risc-v-core-at-hot-chips-2025.html",
+      "date_iso": "2025-08-30T14:18:41+00:00",
+      "source": "https://chipsandcheese.com/p/condors-cuzco-risc-v-core-at-hot",
+      "summary": "Article URL: https://chipsandcheese.com/p/condors-cuzco-risc-v-core-at-hot Comments URL: https://news.ycombinator.com/item?id=45074895 Points: 135 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45074467",
+      "title": "AI models need a virtual machine",
+      "slug": "2025-08-30-ai-models-need-a-virtual-machine.html",
+      "path": "posts/2025-08-30-ai-models-need-a-virtual-machine.html",
+      "date_iso": "2025-08-30T13:25:39+00:00",
+      "source": "https://blog.sigplan.org/2025/08/29/ai-models-need-a-virtual-machine/",
+      "summary": "Article URL: https://blog.sigplan.org/2025/08/29/ai-models-need-a-virtual-machine/ Comments URL: https://news.ycombinator.com/item?id=45074467 Points: 197 # Comments: 101"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45074312",
+      "title": "Bcachefs Goes to \"Externally Maintained\"",
+      "slug": "2025-08-30-bcachefs-goes-to-externally-maintained.html",
+      "path": "posts/2025-08-30-bcachefs-goes-to-externally-maintained.html",
+      "date_iso": "2025-08-30T13:07:41+00:00",
+      "source": "https://lwn.net/Articles/1035736/",
+      "summary": "Article URL: https://lwn.net/Articles/1035736/ Comments URL: https://news.ycombinator.com/item?id=45074312 Points: 144 # Comments: 160"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45074248",
+      "title": "Cognitive load is what matters",
+      "slug": "2025-08-30-cognitive-load-is-what-matters.html",
+      "path": "posts/2025-08-30-cognitive-load-is-what-matters.html",
+      "date_iso": "2025-08-30T12:58:48+00:00",
+      "source": "https://github.com/zakirullin/cognitive-load",
+      "summary": "Article URL: https://github.com/zakirullin/cognitive-load Comments URL: https://news.ycombinator.com/item?id=45074248 Points: 1032 # Comments: 402"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45072160",
       "title": "From Multi-Head to Latent Attention: The Evolution of Attention Mechanisms",
       "slug": "2025-08-30-from-multi-head-to-latent-attention-the-evolution-of-attention-mechanisms.html",
