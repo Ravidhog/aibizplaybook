@@ -1,6 +1,213 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45090216",
+      "title": "Telli (YC F24) is hiring engineers, designers, and interns [on-site Berlin]",
+      "slug": "2025-09-01-telli-yc-f24-is-hiring-engineers-designers-and-interns-on-site-berlin.html",
+      "path": "posts/2025-09-01-telli-yc-f24-is-hiring-engineers-designers-and-interns-on-site-berlin.html",
+      "date_iso": "2025-09-01T07:01:13+00:00",
+      "source": "https://hi.telli.com/join-us",
+      "summary": "Article URL: https://hi.telli.com/join-us Comments URL: https://news.ycombinator.com/item?id=45090216 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45090007",
+      "title": "Catholic churches in France have a bad landlord: the French government",
+      "slug": "2025-09-01-catholic-churches-in-france-have-a-bad-landlord-the-french-government.html",
+      "path": "posts/2025-09-01-catholic-churches-in-france-have-a-bad-landlord-the-french-government.html",
+      "date_iso": "2025-09-01T06:25:04+00:00",
+      "source": "https://thecatholicherald.com/article/catholic-churches-in-france-suffer-from-a-bad-landlord-the-french-government",
+      "summary": "Article URL: https://thecatholicherald.com/article/catholic-churches-in-france-suffer-from-a-bad-landlord-the-french-government Comments URL: https://news.ycombinator.com/item?id=45090007 Points: 3 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45089256",
+      "title": "What Is Complexity in Chess?",
+      "slug": "2025-09-01-what-is-complexity-in-chess.html",
+      "path": "posts/2025-09-01-what-is-complexity-in-chess.html",
+      "date_iso": "2025-09-01T03:45:33+00:00",
+      "source": "https://lichess.org/@/Toadofsky/blog/what-is-complexity/pKo1swFh",
+      "summary": "Article URL: https://lichess.org/@/Toadofsky/blog/what-is-complexity/pKo1swFh Comments URL: https://news.ycombinator.com/item?id=45089256 Points: 28 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45087971",
+      "title": "Nintendo Switch 2 Dock USB-C Compatibility",
+      "slug": "2025-08-31-nintendo-switch-2-dock-usb-c-compatibility.html",
+      "path": "posts/2025-08-31-nintendo-switch-2-dock-usb-c-compatibility.html",
+      "date_iso": "2025-08-31T23:21:46+00:00",
+      "source": "https://www.lttlabs.com/blog/2025/08/30/nintendo-switch-2-dock",
+      "summary": "Article URL: https://www.lttlabs.com/blog/2025/08/30/nintendo-switch-2-dock Comments URL: https://news.ycombinator.com/item?id=45087971 Points: 162 # Comments: 57"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45087905",
+      "title": "Show HN: Spotilyrics – See synchronized Spotify lyrics inside VS Code",
+      "slug": "2025-08-31-show-hn-spotilyrics-see-synchronized-spotify-lyrics-inside-vs-code.html",
+      "path": "posts/2025-08-31-show-hn-spotilyrics-see-synchronized-spotify-lyrics-inside-vs-code.html",
+      "date_iso": "2025-08-31T23:09:19+00:00",
+      "source": "https://github.com/therepanic/spotilyrics",
+      "summary": "Article URL: https://github.com/therepanic/spotilyrics Comments URL: https://news.ycombinator.com/item?id=45087905 Points: 15 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45087815",
+      "title": "Lewis and Clark marked their trail with laxatives",
+      "slug": "2025-08-31-lewis-and-clark-marked-their-trail-with-laxatives.html",
+      "path": "posts/2025-08-31-lewis-and-clark-marked-their-trail-with-laxatives.html",
+      "date_iso": "2025-08-31T22:54:26+00:00",
+      "source": "https://offbeatoregon.com/2501d1006d_biliousPills-686.077.html",
+      "summary": "Article URL: https://offbeatoregon.com/2501d1006d_biliousPills-686.077.html Comments URL: https://news.ycombinator.com/item?id=45087815 Points: 122 # Comments: 27"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45087748",
+      "title": "A Linux version of the Procmon Sysinternals tool",
+      "slug": "2025-08-31-a-linux-version-of-the-procmon-sysinternals-tool.html",
+      "path": "posts/2025-08-31-a-linux-version-of-the-procmon-sysinternals-tool.html",
+      "date_iso": "2025-08-31T22:43:05+00:00",
+      "source": "https://github.com/microsoft/ProcMon-for-Linux",
+      "summary": "Article URL: https://github.com/microsoft/ProcMon-for-Linux Comments URL: https://news.ycombinator.com/item?id=45087748 Points: 84 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45087396",
+      "title": "We should have the ability to run any code we want on hardware we own",
+      "slug": "2025-08-31-we-should-have-the-ability-to-run-any-code-we-want-on-hardware-we-own.html",
+      "path": "posts/2025-08-31-we-should-have-the-ability-to-run-any-code-we-want-on-hardware-we-own.html",
+      "date_iso": "2025-08-31T21:46:26+00:00",
+      "source": "https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html",
+      "summary": "Article URL: https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html Comments URL: https://news.ycombinator.com/item?id=45087396 Points: 802 # Comments: 420"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45086346",
+      "title": "Installing UEFI Firmware on ARM SBCs",
+      "slug": "2025-08-31-installing-uefi-firmware-on-arm-sbcs.html",
+      "path": "posts/2025-08-31-installing-uefi-firmware-on-arm-sbcs.html",
+      "date_iso": "2025-08-31T19:37:08+00:00",
+      "source": "https://interfacinglinux.com/2025/08/25/edk2-uefi-for-the-rock-5-itx/",
+      "summary": "Article URL: https://interfacinglinux.com/2025/08/25/edk2-uefi-for-the-rock-5-itx/ Comments URL: https://news.ycombinator.com/item?id=45086346 Points: 81 # Comments: 27"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45086276",
+      "title": "New Ruby Curl bindings with Fiber native support",
+      "slug": "2025-08-31-new-ruby-curl-bindings-with-fiber-native-support.html",
+      "path": "posts/2025-08-31-new-ruby-curl-bindings-with-fiber-native-support.html",
+      "date_iso": "2025-08-31T19:29:23+00:00",
+      "source": "https://github.com/taf2/curb/blob/master/ChangeLog.md",
+      "summary": "Article URL: https://github.com/taf2/curb/blob/master/ChangeLog.md Comments URL: https://news.ycombinator.com/item?id=45086276 Points: 59 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45086238",
+      "title": "Lunar soil machine developed to build bricks using sunlight",
+      "slug": "2025-08-31-lunar-soil-machine-developed-to-build-bricks-using-sunlight.html",
+      "path": "posts/2025-08-31-lunar-soil-machine-developed-to-build-bricks-using-sunlight.html",
+      "date_iso": "2025-08-31T19:24:49+00:00",
+      "source": "https://www.moondaily.com/reports/Lunar_soil_machine_developed_to_build_bricks_using_sunlight_999.html",
+      "summary": "Article URL: https://www.moondaily.com/reports/Lunar_soil_machine_developed_to_build_bricks_using_sunlight_999.html Comments URL: https://news.ycombinator.com/item?id=45086238 Points: 58 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45086210",
+      "title": "What to do with C++ modules?",
+      "slug": "2025-08-31-what-to-do-with-c-modules.html",
+      "path": "posts/2025-08-31-what-to-do-with-c-modules.html",
+      "date_iso": "2025-08-31T19:22:01+00:00",
+      "source": "https://nibblestew.blogspot.com/2025/08/we-need-to-seriously-think-about-what.html",
+      "summary": "Article URL: https://nibblestew.blogspot.com/2025/08/we-need-to-seriously-think-about-what.html Comments URL: https://news.ycombinator.com/item?id=45086210 Points: 136 # Comments: 115"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45086020",
+      "title": "Eternal Struggle",
+      "slug": "2025-08-31-eternal-struggle.html",
+      "path": "posts/2025-08-31-eternal-struggle.html",
+      "date_iso": "2025-08-31T19:04:03+00:00",
+      "source": "https://yoavg.github.io/eternal/",
+      "summary": "https://github.com/yoavg/yoavg.github.io/tree/main/eternal Comments URL: https://news.ycombinator.com/item?id=45086020 Points: 453 # Comments: 100"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45085029",
+      "title": "Use One Big Server (2022)",
+      "slug": "2025-08-31-use-one-big-server-2022.html",
+      "path": "posts/2025-08-31-use-one-big-server-2022.html",
+      "date_iso": "2025-08-31T17:29:07+00:00",
+      "source": "https://specbranch.com/posts/one-big-server/",
+      "summary": "Article URL: https://specbranch.com/posts/one-big-server/ Comments URL: https://news.ycombinator.com/item?id=45085029 Points: 187 # Comments: 146"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45084913",
+      "title": "When the sun will literally set on what's left of the British Empire",
+      "slug": "2025-08-31-when-the-sun-will-literally-set-on-what-s-left-of-the-british-empire.html",
+      "path": "posts/2025-08-31-when-the-sun-will-literally-set-on-what-s-left-of-the-british-empire.html",
+      "date_iso": "2025-08-31T17:15:19+00:00",
+      "source": "https://oikofuge.com/sun-sets-on-british-empire/",
+      "summary": "Article URL: https://oikofuge.com/sun-sets-on-british-empire/ Comments URL: https://news.ycombinator.com/item?id=45084913 Points: 171 # Comments: 230"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45084759",
+      "title": "Launch HN: VibeFlow (YC S25) – Web app generator with visual, editable workflows",
+      "slug": "2025-08-31-launch-hn-vibeflow-yc-s25-web-app-generator-with-visual-editable-workflows.html",
+      "path": "posts/2025-08-31-launch-hn-vibeflow-yc-s25-web-app-generator-with-visual-editable-workflows.html",
+      "date_iso": "2025-08-31T17:00:19+00:00",
+      "source": "https://news.ycombinator.com/item?id=45084759",
+      "summary": "Hi HN! We’re Alessia and Elia, the founders of VibeFlow ( https://vibeflow.ai ). VibeFlow lets semi-technical people (i.e. people with some technical skill but who are not professional programmers) build full-stack web apps from natural language prompts, while making the underly…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45083952",
+      "title": "Jujutsu for everyone",
+      "slug": "2025-08-31-jujutsu-for-everyone.html",
+      "path": "posts/2025-08-31-jujutsu-for-everyone.html",
+      "date_iso": "2025-08-31T15:31:04+00:00",
+      "source": "https://jj-for-everyone.github.io/",
+      "summary": "Article URL: https://jj-for-everyone.github.io/ Comments URL: https://news.ycombinator.com/item?id=45083952 Points: 353 # Comments: 288"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45083635",
+      "title": "Survey: a third of senior developers say over half their code is AI-generated",
+      "slug": "2025-08-31-survey-a-third-of-senior-developers-say-over-half-their-code-is-ai-generated.html",
+      "path": "posts/2025-08-31-survey-a-third-of-senior-developers-say-over-half-their-code-is-ai-generated.html",
+      "date_iso": "2025-08-31T14:55:56+00:00",
+      "source": "https://www.fastly.com/blog/senior-developers-ship-more-ai-code",
+      "summary": "Related: https://www.theregister.com/2025/08/28/older_developers_ai_c... Comments URL: https://news.ycombinator.com/item?id=45083635 Points: 138 # Comments: 194"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45082731",
+      "title": "“This telegram must be closely paraphrased before being communicated to anyone”",
+      "slug": "2025-08-31-this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone.html",
+      "path": "posts/2025-08-31-this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone.html",
+      "date_iso": "2025-08-31T12:39:47+00:00",
+      "source": "https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone",
+      "summary": "Article URL: https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone Comments URL: https://news.ycombinator.com/item?id=45082731 Points: 615 # Comments: 117"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45082587",
+      "title": "Why haven't quantum computers factored 21 yet?",
+      "slug": "2025-08-31-why-haven-t-quantum-computers-factored-21-yet.html",
+      "path": "posts/2025-08-31-why-haven-t-quantum-computers-factored-21-yet.html",
+      "date_iso": "2025-08-31T12:14:26+00:00",
+      "source": "https://algassert.com/post/2500",
+      "summary": "Article URL: https://algassert.com/post/2500 Comments URL: https://news.ycombinator.com/item?id=45082587 Points: 277 # Comments: 155"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/31/technology/clanker-anti-ai.html",
+      "title": "How ‘Clanker’ Became an Anti-A.I. Rallying Cry",
+      "slug": "2025-08-31-how-clanker-became-an-anti-a-i-rallying-cry.html",
+      "path": "posts/2025-08-31-how-clanker-became-an-anti-a-i-rallying-cry.html",
+      "date_iso": "2025-08-31T09:00:46+00:00",
+      "source": "https://www.nytimes.com/2025/08/31/technology/clanker-anti-ai.html",
+      "summary": "The term, which was popularized by a “Star Wars” show and is rooted in real frustrations with technology, has become a go-to slur against artificial intelligence and robots."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/31/technology/builder-ai-collapse.html",
+      "title": "How Builder.ai Collapsed Amid Silicon Valley’s Biggest Boom",
+      "slug": "2025-08-31-how-builder-ai-collapsed-amid-silicon-valley-s-biggest-boom.html",
+      "path": "posts/2025-08-31-how-builder-ai-collapsed-amid-silicon-valley-s-biggest-boom.html",
+      "date_iso": "2025-08-31T09:00:38+00:00",
+      "source": "https://www.nytimes.com/2025/08/31/technology/builder-ai-collapse.html",
+      "summary": "Builder.ai attended the Web Summit Qatar in 2024. The company is now being liquidated."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/08/31/science/trump-science-autocrats.html",
+      "title": "Historians See Autocratic Playbook in Trump’s Attacks on Science",
+      "slug": "2025-08-31-historians-see-autocratic-playbook-in-trump-s-attacks-on-science.html",
+      "path": "posts/2025-08-31-historians-see-autocratic-playbook-in-trump-s-attacks-on-science.html",
+      "date_iso": "2025-08-31T09:00:21+00:00",
+      "source": "https://www.nytimes.com/2025/08/31/science/trump-science-autocrats.html",
+      "summary": "The 1633 trial of Galileo over his backing of the heliocentric theory came to symbolize the church’s hostility to open inquiry."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45080720",
       "title": "Git Diagramming \"The Weave\"",
       "slug": "2025-08-31-git-diagramming-the-weave.html",
