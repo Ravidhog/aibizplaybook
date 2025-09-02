@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45099939",
+      "title": "Kapa.ai (YC S23) is hiring research and software engineers",
+      "slug": "2025-09-02-kapa-ai-yc-s23-is-hiring-research-and-software-engineers.html",
+      "path": "posts/2025-09-02-kapa-ai-yc-s23-is-hiring-research-and-software-engineers.html",
+      "date_iso": "2025-09-02T07:01:01+00:00",
+      "source": "https://www.ycombinator.com/companies/kapa-ai/jobs",
+      "summary": "Article URL: https://www.ycombinator.com/companies/kapa-ai/jobs Comments URL: https://news.ycombinator.com/item?id=45099939 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45099619",
+      "title": "Vibe coding as a VC",
+      "slug": "2025-09-02-vibe-coding-as-a-vc.html",
+      "path": "posts/2025-09-02-vibe-coding-as-a-vc.html",
+      "date_iso": "2025-09-02T06:05:35+00:00",
+      "source": "https://kevinkuipers.substack.com/p/vc-for-vibe-coding-a-fresh-new-start",
+      "summary": "Article URL: https://kevinkuipers.substack.com/p/vc-for-vibe-coding-a-fresh-new-start Comments URL: https://news.ycombinator.com/item?id=45099619 Points: 8 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45099418",
+      "title": "Collecting All Causal Knowledge",
+      "slug": "2025-09-02-collecting-all-causal-knowledge.html",
+      "path": "posts/2025-09-02-collecting-all-causal-knowledge.html",
+      "date_iso": "2025-09-02T05:26:04+00:00",
+      "source": "https://causenet.org/",
+      "summary": "Article URL: https://causenet.org/ Comments URL: https://news.ycombinator.com/item?id=45099418 Points: 21 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45099124",
+      "title": "WinBoat: Run Windows apps on Linux with seamless integration",
+      "slug": "2025-09-02-winboat-run-windows-apps-on-linux-with-seamless-integration.html",
+      "path": "posts/2025-09-02-winboat-run-windows-apps-on-linux-with-seamless-integration.html",
+      "date_iso": "2025-09-02T04:24:07+00:00",
+      "source": "https://github.com/TibixDev/winboat",
+      "summary": "Article URL: https://github.com/TibixDev/winboat Comments URL: https://news.ycombinator.com/item?id=45099124 Points: 28 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45098867",
+      "title": "The Wetware Crisis: The Thermocline of Truth (2008)",
+      "slug": "2025-09-02-the-wetware-crisis-the-thermocline-of-truth-2008.html",
+      "path": "posts/2025-09-02-the-wetware-crisis-the-thermocline-of-truth-2008.html",
+      "date_iso": "2025-09-02T03:31:34+00:00",
+      "source": "https://brucefwebster.com/2008/04/15/the-wetware-crisis-the-themocline-of-truth/",
+      "summary": "Article URL: https://brucefwebster.com/2008/04/15/the-wetware-crisis-the-themocline-of-truth/ Comments URL: https://news.ycombinator.com/item?id=45098867 Points: 13 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45098722",
+      "title": "FreeDroidWarn",
+      "slug": "2025-09-02-freedroidwarn.html",
+      "path": "posts/2025-09-02-freedroidwarn.html",
+      "date_iso": "2025-09-02T03:01:02+00:00",
+      "source": "https://github.com/woheller69/FreeDroidWarn",
+      "summary": "Article URL: https://github.com/woheller69/FreeDroidWarn Comments URL: https://news.ycombinator.com/item?id=45098722 Points: 187 # Comments: 100"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45098411",
+      "title": "Apple pulls iPhone torrent app from AltStore PAL in Europe",
+      "slug": "2025-09-02-apple-pulls-iphone-torrent-app-from-altstore-pal-in-europe.html",
+      "path": "posts/2025-09-02-apple-pulls-iphone-torrent-app-from-altstore-pal-in-europe.html",
+      "date_iso": "2025-09-02T02:12:12+00:00",
+      "source": "https://www.theverge.com/news/767344/apple-removes-itorrent-altstore-pal-ios-marketplace",
+      "summary": "Article URL: https://www.theverge.com/news/767344/apple-removes-itorrent-altstore-pal-ios-marketplace Comments URL: https://news.ycombinator.com/item?id=45098411 Points: 115 # Comments: 70"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45098269",
+      "title": "Kazeta: An operating system that brings the console gaming experience of 90s",
+      "slug": "2025-09-02-kazeta-an-operating-system-that-brings-the-console-gaming-experience-of-90s.html",
+      "path": "posts/2025-09-02-kazeta-an-operating-system-that-brings-the-console-gaming-experience-of-90s.html",
+      "date_iso": "2025-09-02T01:44:22+00:00",
+      "source": "https://kazeta.org/",
+      "summary": "Article URL: https://kazeta.org/ Comments URL: https://news.ycombinator.com/item?id=45098269 Points: 91 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45096585",
+      "title": "Raspberry Pi 5 support (OpenBSD)",
+      "slug": "2025-09-01-raspberry-pi-5-support-openbsd.html",
+      "path": "posts/2025-09-01-raspberry-pi-5-support-openbsd.html",
+      "date_iso": "2025-09-01T21:03:51+00:00",
+      "source": "https://marc.info/?l=openbsd-cvs&m=175675287220070&w=2",
+      "summary": "Article URL: https://marc.info/?l=openbsd-cvs&amp;m=175675287220070&amp;w=2 Comments URL: https://news.ycombinator.com/item?id=45096585 Points: 146 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45096254",
+      "title": "The buyer-pull and seller-push theories of sales",
+      "slug": "2025-09-01-the-buyer-pull-and-seller-push-theories-of-sales.html",
+      "path": "posts/2025-09-01-the-buyer-pull-and-seller-push-theories-of-sales.html",
+      "date_iso": "2025-09-01T20:17:45+00:00",
+      "source": "https://howtogrow.substack.com/p/the-physics-of-sales",
+      "summary": "Article URL: https://howtogrow.substack.com/p/the-physics-of-sales Comments URL: https://news.ycombinator.com/item?id=45096254 Points: 76 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45095849",
+      "title": "Patrick Winston: How to Speak (2018) [video]",
+      "slug": "2025-09-01-patrick-winston-how-to-speak-2018-video.html",
+      "path": "posts/2025-09-01-patrick-winston-how-to-speak-2018-video.html",
+      "date_iso": "2025-09-01T19:32:17+00:00",
+      "source": "https://www.youtube.com/watch?v=Unzc731iCUY",
+      "summary": "Article URL: https://www.youtube.com/watch?v=Unzc731iCUY Comments URL: https://news.ycombinator.com/item?id=45095849 Points: 305 # Comments: 59"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45095603",
+      "title": "Amazon has mostly sat out the AI talent war",
+      "slug": "2025-09-01-amazon-has-mostly-sat-out-the-ai-talent-war.html",
+      "path": "posts/2025-09-01-amazon-has-mostly-sat-out-the-ai-talent-war.html",
+      "date_iso": "2025-09-01T19:04:31+00:00",
+      "source": "https://www.businessinsider.com/amazon-ai-talent-wars-internal-document-2025-8",
+      "summary": "https://archive.ph/ed8WJ Comments URL: https://news.ycombinator.com/item?id=45095603 Points: 230 # Comments: 349"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45095545",
+      "title": "Thoughts on (Amazonian) leadership",
+      "slug": "2025-09-01-thoughts-on-amazonian-leadership.html",
+      "path": "posts/2025-09-01-thoughts-on-amazonian-leadership.html",
+      "date_iso": "2025-09-01T18:56:39+00:00",
+      "source": "https://www.daemonology.net/blog/2025-09-01-Thoughts-on-Amazonian-Leadership.html",
+      "summary": "Article URL: https://www.daemonology.net/blog/2025-09-01-Thoughts-on-Amazonian-Leadership.html Comments URL: https://news.ycombinator.com/item?id=45095545 Points: 117 # Comments: 97"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45095475",
+      "title": "The future of 32-bit support in the kernel",
+      "slug": "2025-09-01-the-future-of-32-bit-support-in-the-kernel.html",
+      "path": "posts/2025-09-01-the-future-of-32-bit-support-in-the-kernel.html",
+      "date_iso": "2025-09-01T18:48:22+00:00",
+      "source": "https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/ Comments URL: https://news.ycombinator.com/item?id=45095475 Points: 182 # Comments: 173"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45095460",
+      "title": "Implementing a Foil Sticker Effect",
+      "slug": "2025-09-01-implementing-a-foil-sticker-effect.html",
+      "path": "posts/2025-09-01-implementing-a-foil-sticker-effect.html",
+      "date_iso": "2025-09-01T18:47:21+00:00",
+      "source": "https://www.4rknova.com/blog/2025/08/30/foil-sticker",
+      "summary": "Article URL: https://www.4rknova.com/blog/2025/08/30/foil-sticker Comments URL: https://news.ycombinator.com/item?id=45095460 Points: 304 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45094692",
+      "title": "One of Britain's largest stocks of second-hand books ever amassed",
+      "slug": "2025-09-01-one-of-britain-s-largest-stocks-of-second-hand-books-ever-amassed.html",
+      "path": "posts/2025-09-01-one-of-britain-s-largest-stocks-of-second-hand-books-ever-amassed.html",
+      "date_iso": "2025-09-01T17:25:08+00:00",
+      "source": "https://www.worldofinteriors.com/story/richard-axe-second-hand-books-yorkshire",
+      "summary": "Article URL: https://www.worldofinteriors.com/story/richard-axe-second-hand-books-yorkshire Comments URL: https://news.ycombinator.com/item?id=45094692 Points: 99 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45094421",
+      "title": "Adaptive LLM routing under budget constraints",
+      "slug": "2025-09-01-adaptive-llm-routing-under-budget-constraints.html",
+      "path": "posts/2025-09-01-adaptive-llm-routing-under-budget-constraints.html",
+      "date_iso": "2025-09-01T16:57:38+00:00",
+      "source": "https://arxiv.org/abs/2508.21141",
+      "summary": "Article URL: https://arxiv.org/abs/2508.21141 Comments URL: https://news.ycombinator.com/item?id=45094421 Points: 177 # Comments: 70"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45093192",
+      "title": "Ask HN: Who is hiring? (September 2025)",
+      "slug": "2025-09-01-ask-hn-who-is-hiring-september-2025.html",
+      "path": "posts/2025-09-01-ask-hn-who-is-hiring-september-2025.html",
+      "date_iso": "2025-09-01T15:01:02+00:00",
+      "source": "https://news.ycombinator.com/item?id=45093192",
+      "summary": "Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option. Please only post if you personally are part of the hiring company—no recruiting firms or job boards. One post per comp…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45093090",
+      "title": "Cloudflare Radar: AI Insights",
+      "slug": "2025-09-01-cloudflare-radar-ai-insights.html",
+      "path": "posts/2025-09-01-cloudflare-radar-ai-insights.html",
+      "date_iso": "2025-09-01T14:49:25+00:00",
+      "source": "https://radar.cloudflare.com/ai-insights",
+      "summary": "Article URL: https://radar.cloudflare.com/ai-insights Comments URL: https://news.ycombinator.com/item?id=45093090 Points: 323 # Comments: 107"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45092490",
+      "title": "Bear is now source-available",
+      "slug": "2025-09-01-bear-is-now-source-available.html",
+      "path": "posts/2025-09-01-bear-is-now-source-available.html",
+      "date_iso": "2025-09-01T13:17:56+00:00",
+      "source": "https://herman.bearblog.dev/license/",
+      "summary": "Article URL: https://herman.bearblog.dev/license/ Comments URL: https://news.ycombinator.com/item?id=45092490 Points: 398 # Comments: 328"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45090216",
       "title": "Telli (YC F24) is hiring engineers, designers, and interns [on-site Berlin]",
       "slug": "2025-09-01-telli-yc-f24-is-hiring-engineers-designers-and-interns-on-site-berlin.html",
