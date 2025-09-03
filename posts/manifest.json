@@ -1,6 +1,258 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45112996",
+      "title": "Kernel-hack-drill and exploiting CVE-2024-50264 in the Linux kernel",
+      "slug": "2025-09-03-kernel-hack-drill-and-exploiting-cve-2024-50264-in-the-linux-kernel.html",
+      "path": "posts/2025-09-03-kernel-hack-drill-and-exploiting-cve-2024-50264-in-the-linux-kernel.html",
+      "date_iso": "2025-09-03T06:58:51+00:00",
+      "source": "https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html",
+      "summary": "Article URL: https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html Comments URL: https://news.ycombinator.com/item?id=45112996 Points: 7 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45112720",
+      "title": "Lit: a library for building fast, lightweight web components",
+      "slug": "2025-09-03-lit-a-library-for-building-fast-lightweight-web-components.html",
+      "path": "posts/2025-09-03-lit-a-library-for-building-fast-lightweight-web-components.html",
+      "date_iso": "2025-09-03T06:14:22+00:00",
+      "source": "https://lit.dev",
+      "summary": "Article URL: https://lit.dev Comments URL: https://news.ycombinator.com/item?id=45112720 Points: 11 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45112653",
+      "title": "Finnish City Inaugurates 1 MW/100 MWh Sand Battery",
+      "slug": "2025-09-03-finnish-city-inaugurates-1-mw-100-mwh-sand-battery.html",
+      "path": "posts/2025-09-03-finnish-city-inaugurates-1-mw-100-mwh-sand-battery.html",
+      "date_iso": "2025-09-03T06:00:47+00:00",
+      "source": "https://cleantechnica.com/2025/08/30/finnish-city-inaugurates-1-mw-100-mwh-sand-battery/",
+      "summary": "Article URL: https://cleantechnica.com/2025/08/30/finnish-city-inaugurates-1-mw-100-mwh-sand-battery/ Comments URL: https://news.ycombinator.com/item?id=45112653 Points: 55 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45111909",
+      "title": "Comic Sans typeball designed to work with the IBM Selectric typewriters",
+      "slug": "2025-09-03-comic-sans-typeball-designed-to-work-with-the-ibm-selectric-typewriters.html",
+      "path": "posts/2025-09-03-comic-sans-typeball-designed-to-work-with-the-ibm-selectric-typewriters.html",
+      "date_iso": "2025-09-03T03:13:05+00:00",
+      "source": "https://www.printables.com/model/441233-comic-sans-typeball-for-the-ibm-selectric-typewrit",
+      "summary": "Article URL: https://www.printables.com/model/441233-comic-sans-typeball-for-the-ibm-selectric-typewrit Comments URL: https://news.ycombinator.com/item?id=45111909 Points: 49 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45111405",
+      "title": "Zig Software Foundation 2025 Financial Report and Fundraiser",
+      "slug": "2025-09-03-zig-software-foundation-2025-financial-report-and-fundraiser.html",
+      "path": "posts/2025-09-03-zig-software-foundation-2025-financial-report-and-fundraiser.html",
+      "date_iso": "2025-09-03T01:45:47+00:00",
+      "source": "https://ziglang.org/news/2025-financials/",
+      "summary": "Article URL: https://ziglang.org/news/2025-financials/ Comments URL: https://news.ycombinator.com/item?id=45111405 Points: 82 # Comments: 22"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/02/technology/personaltech/what-the-fixes-for-googles-search-monopoly-mean-for-you-its-a-nothingburger.html",
+      "title": "What the Fixes for Google’s Search Monopoly Mean for You: It’s a ‘Nothingburger’",
+      "slug": "2025-09-03-what-the-fixes-for-google-s-search-monopoly-mean-for-you-it-s-a-nothingburger.html",
+      "path": "posts/2025-09-03-what-the-fixes-for-google-s-search-monopoly-mean-for-you-it-s-a-nothingburger.html",
+      "date_iso": "2025-09-03T00:09:08+00:00",
+      "source": "https://www.nytimes.com/2025/09/02/technology/personaltech/what-the-fixes-for-googles-search-monopoly-mean-for-you-its-a-nothingburger.html",
+      "summary": "A federal judge’s remedy stops short of making meaningful changes to how we use our phones, computers and the web."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45110748",
+      "title": "Show HN: LightCycle, a FOSS game in Rust based on Tron",
+      "slug": "2025-09-03-show-hn-lightcycle-a-foss-game-in-rust-based-on-tron.html",
+      "path": "posts/2025-09-03-show-hn-lightcycle-a-foss-game-in-rust-based-on-tron.html",
+      "date_iso": "2025-09-03T00:08:54+00:00",
+      "source": "https://github.com/Tortured-Metaphor/LightCycle",
+      "summary": "Article URL: https://github.com/Tortured-Metaphor/LightCycle Comments URL: https://news.ycombinator.com/item?id=45110748 Points: 28 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45110688",
+      "title": "%CPU utilization is a lie",
+      "slug": "2025-09-03-cpu-utilization-is-a-lie.html",
+      "path": "posts/2025-09-03-cpu-utilization-is-a-lie.html",
+      "date_iso": "2025-09-03T00:01:02+00:00",
+      "source": "https://www.brendanlong.com/cpu-utilization-is-a-lie.html",
+      "summary": "Article URL: https://www.brendanlong.com/cpu-utilization-is-a-lie.html Comments URL: https://news.ycombinator.com/item?id=45110688 Points: 228 # Comments: 85"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/02/technology/google-search-antitrust-decision.html",
+      "title": "Google Must Share Search Data With Rivals, Judge Rules in Antitrust Case",
+      "slug": "2025-09-02-google-must-share-search-data-with-rivals-judge-rules-in-antitrust-case.html",
+      "path": "posts/2025-09-02-google-must-share-search-data-with-rivals-judge-rules-in-antitrust-case.html",
+      "date_iso": "2025-09-02T23:59:51+00:00",
+      "source": "https://www.nytimes.com/2025/09/02/technology/google-search-antitrust-decision.html",
+      "summary": "Besides requiring Google to share search results, a federal judge put restrictions on payments that the company uses to ensure its search engine gets prime placement on smartphones in web browsers."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45110386",
+      "title": "Indices, not Pointers",
+      "slug": "2025-09-02-indices-not-pointers.html",
+      "path": "posts/2025-09-02-indices-not-pointers.html",
+      "date_iso": "2025-09-02T23:21:30+00:00",
+      "source": "https://joegm.github.io/blog/indices-not-pointers/",
+      "summary": "Article URL: https://joegm.github.io/blog/indices-not-pointers/ Comments URL: https://news.ycombinator.com/item?id=45110386 Points: 60 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45110209",
+      "title": "This blog is running on a recycled Google Pixel 5 (2024)",
+      "slug": "2025-09-02-this-blog-is-running-on-a-recycled-google-pixel-5-2024.html",
+      "path": "posts/2025-09-02-this-blog-is-running-on-a-recycled-google-pixel-5-2024.html",
+      "date_iso": "2025-09-02T22:58:23+00:00",
+      "source": "https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/",
+      "summary": "Article URL: https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/ Comments URL: https://news.ycombinator.com/item?id=45110209 Points: 190 # Comments: 87"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/02/technology/google-antitrust-case-ruling.html",
+      "title": "What Will Happen to Google After the Antitrust Ruling?",
+      "slug": "2025-09-02-what-will-happen-to-google-after-the-antitrust-ruling.html",
+      "path": "posts/2025-09-02-what-will-happen-to-google-after-the-antitrust-ruling.html",
+      "date_iso": "2025-09-02T22:33:02+00:00",
+      "source": "https://www.nytimes.com/2025/09/02/technology/google-antitrust-case-ruling.html",
+      "summary": "The judge’s decision positions Google to keep its search business running largely without interruption."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/02/technology/personaltech/chatgpt-parental-controls-openai.html",
+      "title": "ChatGPT Will Get Parental Controls and New Safety Features, OpenAI Says",
+      "slug": "2025-09-02-chatgpt-will-get-parental-controls-and-new-safety-features-openai-says.html",
+      "path": "posts/2025-09-02-chatgpt-will-get-parental-controls-and-new-safety-features-openai-says.html",
+      "date_iso": "2025-09-02T21:46:31+00:00",
+      "source": "https://www.nytimes.com/2025/09/02/technology/personaltech/chatgpt-parental-controls-openai.html",
+      "summary": "Sam Altman, chief executive of OpenAI, the company behind ChatGPT, which has 700 million users."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45108548",
+      "title": "Google can keep its Chrome browser but will be barred from exclusive contracts",
+      "slug": "2025-09-02-google-can-keep-its-chrome-browser-but-will-be-barred-from-exclusive-contracts.html",
+      "path": "posts/2025-09-02-google-can-keep-its-chrome-browser-but-will-be-barred-from-exclusive-contracts.html",
+      "date_iso": "2025-09-02T20:26:47+00:00",
+      "source": "https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html",
+      "summary": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.223... Comments URL: https://news.ycombinator.com/item?id=45108548 Points: 679 # Comments: 435"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45108066",
+      "title": "Making a Linux home server sleep on idle and wake on demand (2023)",
+      "slug": "2025-09-02-making-a-linux-home-server-sleep-on-idle-and-wake-on-demand-2023.html",
+      "path": "posts/2025-09-02-making-a-linux-home-server-sleep-on-idle-and-wake-on-demand-2023.html",
+      "date_iso": "2025-09-02T19:42:48+00:00",
+      "source": "https://dgross.ca/blog/linux-home-server-auto-sleep",
+      "summary": "Article URL: https://dgross.ca/blog/linux-home-server-auto-sleep Comments URL: https://news.ycombinator.com/item?id=45108066 Points: 206 # Comments: 73"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45107962",
+      "title": "A staff engineer's journey with Claude Code",
+      "slug": "2025-09-02-a-staff-engineer-s-journey-with-claude-code.html",
+      "path": "posts/2025-09-02-a-staff-engineer-s-journey-with-claude-code.html",
+      "date_iso": "2025-09-02T19:34:24+00:00",
+      "source": "https://www.sanity.io/blog/first-attempt-will-be-95-garbage",
+      "summary": "Article URL: https://www.sanity.io/blog/first-attempt-will-be-95-garbage Comments URL: https://news.ycombinator.com/item?id=45107962 Points: 345 # Comments: 229"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45106981",
+      "title": "Vijaye Raji to become CTO of Applications with acquisition of Statsig",
+      "slug": "2025-09-02-vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig.html",
+      "path": "posts/2025-09-02-vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig.html",
+      "date_iso": "2025-09-02T18:18:10+00:00",
+      "source": "https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig/",
+      "summary": "Article URL: https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig/ Comments URL: https://news.ycombinator.com/item?id=45106981 Points: 160 # Comments: 60"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45106846",
+      "title": "Physically based rendering from first principles",
+      "slug": "2025-09-02-physically-based-rendering-from-first-principles.html",
+      "path": "posts/2025-09-02-physically-based-rendering-from-first-principles.html",
+      "date_iso": "2025-09-02T18:07:22+00:00",
+      "source": "https://imadr.me/pbr/",
+      "summary": "Article URL: https://imadr.me/pbr/ Comments URL: https://news.ycombinator.com/item?id=45106846 Points: 200 # Comments: 45"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/02/technology/anthropic-funding-ai.html",
+      "title": "Anthropic Raises Its Valuation to $183 Billion in New Funding",
+      "slug": "2025-09-02-anthropic-raises-its-valuation-to-183-billion-in-new-funding.html",
+      "path": "posts/2025-09-02-anthropic-raises-its-valuation-to-183-billion-in-new-funding.html",
+      "date_iso": "2025-09-02T17:52:29+00:00",
+      "source": "https://www.nytimes.com/2025/09/02/technology/anthropic-funding-ai.html",
+      "summary": "Anthropic’s chief executive, Dario Amodei. The start-up has raised a total of more than $27 billion since its founding in 2021."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45106314",
+      "title": "Introduction to Ada: a project-based exploration with rosettas",
+      "slug": "2025-09-02-introduction-to-ada-a-project-based-exploration-with-rosettas.html",
+      "path": "posts/2025-09-02-introduction-to-ada-a-project-based-exploration-with-rosettas.html",
+      "date_iso": "2025-09-02T17:32:08+00:00",
+      "source": "https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas",
+      "summary": "Article URL: https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas Comments URL: https://news.ycombinator.com/item?id=45106314 Points: 167 # Comments: 42"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45106049",
+      "title": "<template>: The Content Template element",
+      "slug": "2025-09-02-template-the-content-template-element.html",
+      "path": "posts/2025-09-02-template-the-content-template-element.html",
+      "date_iso": "2025-09-02T17:16:42+00:00",
+      "source": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/template",
+      "summary": "Article URL: https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/template Comments URL: https://news.ycombinator.com/item?id=45106049 Points: 182 # Comments: 59"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45105710",
+      "title": "'World Models,' an old idea in AI, mount a comeback",
+      "slug": "2025-09-02-world-models-an-old-idea-in-ai-mount-a-comeback.html",
+      "path": "posts/2025-09-02-world-models-an-old-idea-in-ai-mount-a-comeback.html",
+      "date_iso": "2025-09-02T16:53:29+00:00",
+      "source": "https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/",
+      "summary": "Article URL: https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/ Comments URL: https://news.ycombinator.com/item?id=45105710 Points: 170 # Comments: 61"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/02/business/dealbook/elon-musk-x-europe-trump.html",
+      "title": "How Fining Elon Musk’s X Could Threaten the U.S.-E.U. Trade Deal",
+      "slug": "2025-09-02-how-fining-elon-musk-s-x-could-threaten-the-u-s-e-u-trade-deal.html",
+      "path": "posts/2025-09-02-how-fining-elon-musk-s-x-could-threaten-the-u-s-e-u-trade-deal.html",
+      "date_iso": "2025-09-02T16:34:09+00:00",
+      "source": "https://www.nytimes.com/2025/09/02/business/dealbook/elon-musk-x-europe-trump.html",
+      "summary": "An Amnesty International report released Monday appeared to add pressure to the European Union to fine X."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45104974",
+      "title": "Launch HN: Datafruit (YC S25) – AI for DevOps",
+      "slug": "2025-09-02-launch-hn-datafruit-yc-s25-ai-for-devops.html",
+      "path": "posts/2025-09-02-launch-hn-datafruit-yc-s25-ai-for-devops.html",
+      "date_iso": "2025-09-02T16:08:31+00:00",
+      "source": "https://news.ycombinator.com/item?id=45104974",
+      "summary": "Hey HN! We’re Abhi, Venkat, Tom, and Nick and we are building Datafruit ( https://datafruit.dev/ ), an AI DevOps agent. We’re like Devin for DevOps. You can ask Datafruit to check your cloud spend, look for loose security policies, make changes to your IaC, and it can reason acr…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45104303",
+      "title": "Static sites enable a good time travel experience",
+      "slug": "2025-09-02-static-sites-enable-a-good-time-travel-experience.html",
+      "path": "posts/2025-09-02-static-sites-enable-a-good-time-travel-experience.html",
+      "date_iso": "2025-09-02T15:25:44+00:00",
+      "source": "https://hamatti.org/posts/static-sites-enable-a-good-time-travel-experience/",
+      "summary": "Article URL: https://hamatti.org/posts/static-sites-enable-a-good-time-travel-experience/ Comments URL: https://news.ycombinator.com/item?id=45104303 Points: 167 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45104289",
+      "title": "The staff ate it later",
+      "slug": "2025-09-02-the-staff-ate-it-later.html",
+      "path": "posts/2025-09-02-the-staff-ate-it-later.html",
+      "date_iso": "2025-09-02T15:24:48+00:00",
+      "source": "https://en.wikipedia.org/wiki/The_staff_ate_it_later",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/The_staff_ate_it_later Comments URL: https://news.ycombinator.com/item?id=45104289 Points: 267 # Comments: 148"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/02/technology/elon-musk-grok-conservative-chatbot.html",
+      "title": "How Elon Musk Is Remaking Grok in His Image",
+      "slug": "2025-09-02-how-elon-musk-is-remaking-grok-in-his-image.html",
+      "path": "posts/2025-09-02-how-elon-musk-is-remaking-grok-in-his-image.html",
+      "date_iso": "2025-09-02T14:47:18+00:00",
+      "source": "https://www.nytimes.com/2025/09/02/technology/elon-musk-grok-conservative-chatbot.html",
+      "summary": "Mr. Musk said he wanted xAI’s chatbot to be “politically neutral.” His actions say otherwise."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/02/briefing/ask-the-morning-what-do-you-want-to-know-about-ai.html",
+      "title": "Ask The Morning: What Do You Want to Know About A.I.?",
+      "slug": "2025-09-02-ask-the-morning-what-do-you-want-to-know-about-a-i.html",
+      "path": "posts/2025-09-02-ask-the-morning-what-do-you-want-to-know-about-a-i.html",
+      "date_iso": "2025-09-02T10:17:57+00:00",
+      "source": "https://www.nytimes.com/2025/09/02/briefing/ask-the-morning-what-do-you-want-to-know-about-ai.html",
+      "summary": "The technology seems to be everywhere these days. We’ll find experts to answer your questions."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45099939",
       "title": "Kapa.ai (YC S23) is hiring research and software engineers",
       "slug": "2025-09-02-kapa-ai-yc-s23-is-hiring-research-and-software-engineers.html",
