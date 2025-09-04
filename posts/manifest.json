@@ -1,6 +1,213 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45124143",
+      "title": "Melvyn Bragg steps down from presenting In Our Time",
+      "slug": "2025-09-04-melvyn-bragg-steps-down-from-presenting-in-our-time.html",
+      "path": "posts/2025-09-04-melvyn-bragg-steps-down-from-presenting-in-our-time.html",
+      "date_iso": "2025-09-04T06:18:13+00:00",
+      "source": "https://www.bbc.co.uk/mediacentre/2025/melvyn-bragg-decides-to-step-down-from-presenting-in-our-time/",
+      "summary": "See also https://www.theguardian.com/tv-and-radio/2025/sep/03/in-our-... Comments URL: https://news.ycombinator.com/item?id=45124143 Points: 62 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45124003",
+      "title": "30 minutes with a stranger",
+      "slug": "2025-09-04-30-minutes-with-a-stranger.html",
+      "path": "posts/2025-09-04-30-minutes-with-a-stranger.html",
+      "date_iso": "2025-09-04T05:56:29+00:00",
+      "source": "https://pudding.cool/2025/06/hello-stranger/",
+      "summary": "Article URL: https://pudding.cool/2025/06/hello-stranger/ Comments URL: https://news.ycombinator.com/item?id=45124003 Points: 87 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45123857",
+      "title": "William Wordsworth's letter: \"The Law of Copyright\" (1838)",
+      "slug": "2025-09-04-william-wordsworth-s-letter-the-law-of-copyright-1838.html",
+      "path": "posts/2025-09-04-william-wordsworth-s-letter-the-law-of-copyright-1838.html",
+      "date_iso": "2025-09-04T05:23:47+00:00",
+      "source": "https://gutenberg.org/cache/epub/76806/pg76806-images.html",
+      "summary": "Article URL: https://gutenberg.org/cache/epub/76806/pg76806-images.html Comments URL: https://news.ycombinator.com/item?id=45123857 Points: 17 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45123003",
+      "title": "Étoilé – desktop built on GNUStep",
+      "slug": "2025-09-04-toil-desktop-built-on-gnustep.html",
+      "path": "posts/2025-09-04-toil-desktop-built-on-gnustep.html",
+      "date_iso": "2025-09-04T02:55:24+00:00",
+      "source": "http://etoileos.com/",
+      "summary": "Article URL: http://etoileos.com/ Comments URL: https://news.ycombinator.com/item?id=45123003 Points: 108 # Comments: 35"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45121915",
+      "title": "Neovim Pack",
+      "slug": "2025-09-04-neovim-pack.html",
+      "path": "posts/2025-09-04-neovim-pack.html",
+      "date_iso": "2025-09-04T00:18:16+00:00",
+      "source": "https://neovim.io/doc/user/pack.html#vim.pack",
+      "summary": "Article URL: https://neovim.io/doc/user/pack.html#vim.pack Comments URL: https://news.ycombinator.com/item?id=45121915 Points: 132 # Comments: 81"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45121721",
+      "title": "ReMarkable Paper Pro Move",
+      "slug": "2025-09-03-remarkable-paper-pro-move.html",
+      "path": "posts/2025-09-03-remarkable-paper-pro-move.html",
+      "date_iso": "2025-09-03T23:52:58+00:00",
+      "source": "https://remarkable.com/products/remarkable-paper/pro-move",
+      "summary": "Article URL: https://remarkable.com/products/remarkable-paper/pro-move Comments URL: https://news.ycombinator.com/item?id=45121721 Points: 186 # Comments: 205"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45121547",
+      "title": "Evaluating Agents",
+      "slug": "2025-09-03-evaluating-agents.html",
+      "path": "posts/2025-09-03-evaluating-agents.html",
+      "date_iso": "2025-09-03T23:32:57+00:00",
+      "source": "https://aunhumano.com/index.php/2025/09/03/on-evaluating-agents/",
+      "summary": "Article URL: https://aunhumano.com/index.php/2025/09/03/on-evaluating-agents/ Comments URL: https://news.ycombinator.com/item?id=45121547 Points: 35 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45121342",
+      "title": "Evidence that AI is destroying jobs for young people",
+      "slug": "2025-09-03-evidence-that-ai-is-destroying-jobs-for-young-people.html",
+      "path": "posts/2025-09-03-evidence-that-ai-is-destroying-jobs-for-young-people.html",
+      "date_iso": "2025-09-03T23:07:36+00:00",
+      "source": "https://www.derekthompson.org/p/the-evidence-that-ai-is-destroying",
+      "summary": "Article URL: https://www.derekthompson.org/p/the-evidence-that-ai-is-destroying Comments URL: https://news.ycombinator.com/item?id=45121342 Points: 281 # Comments: 248"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45120517",
+      "title": "Where's the shovelware? Why AI coding claims don't add up",
+      "slug": "2025-09-03-where-s-the-shovelware-why-ai-coding-claims-don-t-add-up.html",
+      "path": "posts/2025-09-03-where-s-the-shovelware-why-ai-coding-claims-don-t-add-up.html",
+      "date_iso": "2025-09-03T21:18:29+00:00",
+      "source": "https://mikelovesrobots.substack.com/p/wheres-the-shovelware-why-ai-coding",
+      "summary": "Article URL: https://mikelovesrobots.substack.com/p/wheres-the-shovelware-why-ai-coding Comments URL: https://news.ycombinator.com/item?id=45120517 Points: 466 # Comments: 284"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45120373",
+      "title": "Depot (YC W23) Is Hiring a Solutions Engineer (Remote US and Canada)",
+      "slug": "2025-09-03-depot-yc-w23-is-hiring-a-solutions-engineer-remote-us-and-canada.html",
+      "path": "posts/2025-09-03-depot-yc-w23-is-hiring-a-solutions-engineer-remote-us-and-canada.html",
+      "date_iso": "2025-09-03T21:00:27+00:00",
+      "source": "https://www.ycombinator.com/companies/depot/jobs/U54HGtn-solutions-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/depot/jobs/U54HGtn-solutions-engineer Comments URL: https://news.ycombinator.com/item?id=45120373 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/03/technology/amazon-prime-invitee-free-shipping.html",
+      "title": "Amazon Pares Back Free Shipping Perk on Prime",
+      "slug": "2025-09-03-amazon-pares-back-free-shipping-perk-on-prime.html",
+      "path": "posts/2025-09-03-amazon-pares-back-free-shipping-perk-on-prime.html",
+      "date_iso": "2025-09-03T19:00:31+00:00",
+      "source": "https://www.nytimes.com/2025/09/03/technology/amazon-prime-invitee-free-shipping.html",
+      "summary": "Amazon is ending its Prime Invitee program, which allowed Prime Members to share their free, fast shipping perk with someone outside their household."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45119076",
+      "title": "We're Joining OpenAI",
+      "slug": "2025-09-03-we-re-joining-openai.html",
+      "path": "posts/2025-09-03-we-re-joining-openai.html",
+      "date_iso": "2025-09-03T18:38:48+00:00",
+      "source": "https://www.alexcodes.app/blog/alex-team-joins-openai",
+      "summary": "Article URL: https://www.alexcodes.app/blog/alex-team-joins-openai Comments URL: https://news.ycombinator.com/item?id=45119076 Points: 159 # Comments: 107"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/03/technology/google-ruling-antitrust.html",
+      "title": "Google Search Monopoly Ruling Sends Signal for Big-Tech Antitrust Cases",
+      "slug": "2025-09-03-google-search-monopoly-ruling-sends-signal-for-big-tech-antitrust-cases.html",
+      "path": "posts/2025-09-03-google-search-monopoly-ruling-sends-signal-for-big-tech-antitrust-cases.html",
+      "date_iso": "2025-09-03T18:33:33+00:00",
+      "source": "https://www.nytimes.com/2025/09/03/technology/google-ruling-antitrust.html",
+      "summary": "The Google search case is one of five pending antitrust suits by the Justice Department or the F.T.C. against big tech companies: Amazon, Apple, Meta and Google, twice."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45118592",
+      "title": "What is it like to be a bat?",
+      "slug": "2025-09-03-what-is-it-like-to-be-a-bat.html",
+      "path": "posts/2025-09-03-what-is-it-like-to-be-a-bat.html",
+      "date_iso": "2025-09-03T17:48:27+00:00",
+      "source": "https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F",
+      "summary": "https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf Comments URL: https://news.ycombinator.com/item?id=45118592 Points: 140 # Comments: 201"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45118392",
+      "title": "Microsoft BASIC for 6502 Microprocessor – Version 1.1",
+      "slug": "2025-09-03-microsoft-basic-for-6502-microprocessor-version-1-1.html",
+      "path": "posts/2025-09-03-microsoft-basic-for-6502-microprocessor-version-1-1.html",
+      "date_iso": "2025-09-03T17:28:32+00:00",
+      "source": "https://github.com/microsoft/BASIC-M6502",
+      "summary": "https://opensource.microsoft.com/blog/2025/09/03/microsoft-o... Comments URL: https://news.ycombinator.com/item?id=45118392 Points: 248 # Comments: 169"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45118111",
+      "title": "Speeding up PyTorch inference on Apple devices with AI-generated Metal kernels",
+      "slug": "2025-09-03-speeding-up-pytorch-inference-on-apple-devices-with-ai-generated-metal-kernels.html",
+      "path": "posts/2025-09-03-speeding-up-pytorch-inference-on-apple-devices-with-ai-generated-metal-kernels.html",
+      "date_iso": "2025-09-03T17:03:35+00:00",
+      "source": "https://gimletlabs.ai/blog/ai-generated-metal-kernels",
+      "summary": "Article URL: https://gimletlabs.ai/blog/ai-generated-metal-kernels Comments URL: https://news.ycombinator.com/item?id=45118111 Points: 162 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45117668",
+      "title": "Writing a C compiler in 500 lines of Python (2023)",
+      "slug": "2025-09-03-writing-a-c-compiler-in-500-lines-of-python-2023.html",
+      "path": "posts/2025-09-03-writing-a-c-compiler-in-500-lines-of-python-2023.html",
+      "date_iso": "2025-09-03T16:28:23+00:00",
+      "source": "https://vgel.me/posts/c500/",
+      "summary": "Article URL: https://vgel.me/posts/c500/ Comments URL: https://news.ycombinator.com/item?id=45117668 Points: 186 # Comments: 46"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45117230",
+      "title": "Nuclear: Desktop music player focused on streaming from free sources",
+      "slug": "2025-09-03-nuclear-desktop-music-player-focused-on-streaming-from-free-sources.html",
+      "path": "posts/2025-09-03-nuclear-desktop-music-player-focused-on-streaming-from-free-sources.html",
+      "date_iso": "2025-09-03T15:54:12+00:00",
+      "source": "https://github.com/nukeop/nuclear",
+      "summary": "Article URL: https://github.com/nukeop/nuclear Comments URL: https://news.ycombinator.com/item?id=45117230 Points: 302 # Comments: 196"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45116957",
+      "title": "Understanding Transformers Using a Minimal Example",
+      "slug": "2025-09-03-understanding-transformers-using-a-minimal-example.html",
+      "path": "posts/2025-09-03-understanding-transformers-using-a-minimal-example.html",
+      "date_iso": "2025-09-03T15:30:06+00:00",
+      "source": "https://rti.github.io/gptvis/",
+      "summary": "Article URL: https://rti.github.io/gptvis/ Comments URL: https://news.ycombinator.com/item?id=45116957 Points: 184 # Comments: 9"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/03/us/politics/federal-courts-computer-hacks.html",
+      "title": "Federal Courts Slow to Fix Vulnerable System After Repeated Hacking",
+      "slug": "2025-09-03-federal-courts-slow-to-fix-vulnerable-system-after-repeated-hacking.html",
+      "path": "posts/2025-09-03-federal-courts-slow-to-fix-vulnerable-system-after-repeated-hacking.html",
+      "date_iso": "2025-09-03T15:21:14+00:00",
+      "source": "https://www.nytimes.com/2025/09/03/us/politics/federal-courts-computer-hacks.html",
+      "summary": "The unique culture of the judiciary, which can tilt toward tradition over innovation, has led it to move more slowly than a private company or other branches of government might."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45116849",
+      "title": "A Random Walk in 10 Dimensions (2021)",
+      "slug": "2025-09-03-a-random-walk-in-10-dimensions-2021.html",
+      "path": "posts/2025-09-03-a-random-walk-in-10-dimensions-2021.html",
+      "date_iso": "2025-09-03T15:20:34+00:00",
+      "source": "https://galileo-unbound.blog/2021/06/28/a-random-walk-in-10-dimensions/",
+      "summary": "Article URL: https://galileo-unbound.blog/2021/06/28/a-random-walk-in-10-dimensions/ Comments URL: https://news.ycombinator.com/item?id=45116849 Points: 108 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45116688",
+      "title": "Claude Code: Now in Beta in Zed",
+      "slug": "2025-09-03-claude-code-now-in-beta-in-zed.html",
+      "path": "posts/2025-09-03-claude-code-now-in-beta-in-zed.html",
+      "date_iso": "2025-09-03T15:07:20+00:00",
+      "source": "https://zed.dev/blog/claude-code-via-acp",
+      "summary": "Article URL: https://zed.dev/blog/claude-code-via-acp Comments URL: https://news.ycombinator.com/item?id=45116688 Points: 562 # Comments: 349"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45115941",
+      "title": "Eels are fish",
+      "slug": "2025-09-03-eels-are-fish.html",
+      "path": "posts/2025-09-03-eels-are-fish.html",
+      "date_iso": "2025-09-03T14:02:18+00:00",
+      "source": "https://eocampaign1.com/web-version?p=495827fa-8295-11f0-8687-8f5da38390bd&pt=campaign&t=1756227062&s=033ffe0494c7a7084332eb6e164c4feeeb6b4612e0de0df1aa1bf5fd59ce2d08",
+      "summary": "Article URL: https://eocampaign1.com/web-version?p=495827fa-8295-11f0-8687-8f5da38390bd&amp;pt=campaign&amp;t=1756227062&amp;s=033ffe0494c7a7084332eb6e164c4feeeb6b4612e0de0df1aa1bf5fd59ce2d08 Comments URL: https://news.ycombinator.com/item?id=45115941 Points: 99 # Comments: 120"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45112996",
       "title": "Kernel-hack-drill and exploiting CVE-2024-50264 in the Linux kernel",
       "slug": "2025-09-03-kernel-hack-drill-and-exploiting-cve-2024-50264-in-the-linux-kernel.html",
