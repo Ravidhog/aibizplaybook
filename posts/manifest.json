@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45135529",
+      "title": "Age verification doesn’t work",
+      "slug": "2025-09-05-age-verification-doesn-t-work.html",
+      "path": "posts/2025-09-05-age-verification-doesn-t-work.html",
+      "date_iso": "2025-09-05T06:25:22+00:00",
+      "source": "https://pornbiz.com/post/17/the_scam_of_age_verification",
+      "summary": "Article URL: https://pornbiz.com/post/17/the_scam_of_age_verification Comments URL: https://news.ycombinator.com/item?id=45135529 Points: 56 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45135427",
+      "title": "Escaping the odds and a formula for life (2024)",
+      "slug": "2025-09-05-escaping-the-odds-and-a-formula-for-life-2024.html",
+      "path": "posts/2025-09-05-escaping-the-odds-and-a-formula-for-life-2024.html",
+      "date_iso": "2025-09-05T06:04:42+00:00",
+      "source": "https://farhadg.com/blog/escaping-odds/",
+      "summary": "Article URL: https://farhadg.com/blog/escaping-odds/ Comments URL: https://news.ycombinator.com/item?id=45135427 Points: 13 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45135302",
+      "title": "Why RDF Is the Natural Knowledge Layer for AI Systems",
+      "slug": "2025-09-05-why-rdf-is-the-natural-knowledge-layer-for-ai-systems.html",
+      "path": "posts/2025-09-05-why-rdf-is-the-natural-knowledge-layer-for-ai-systems.html",
+      "date_iso": "2025-09-05T05:39:37+00:00",
+      "source": "https://bryon.io/why-rdf-is-the-natural-knowledge-layer-for-ai-systems-a5fd0b43d4c5",
+      "summary": "Article URL: https://bryon.io/why-rdf-is-the-natural-knowledge-layer-for-ai-systems-a5fd0b43d4c5 Comments URL: https://news.ycombinator.com/item?id=45135302 Points: 26 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45135061",
+      "title": "Poisoning Well for LLMs",
+      "slug": "2025-09-05-poisoning-well-for-llms.html",
+      "path": "posts/2025-09-05-poisoning-well-for-llms.html",
+      "date_iso": "2025-09-05T04:48:24+00:00",
+      "source": "https://heydonworks.com/article/poisoning-well/",
+      "summary": "Article URL: https://heydonworks.com/article/poisoning-well/ Comments URL: https://news.ycombinator.com/item?id=45135061 Points: 7 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45134489",
+      "title": "Using AI to perceive the universe in greater depth",
+      "slug": "2025-09-05-using-ai-to-perceive-the-universe-in-greater-depth.html",
+      "path": "posts/2025-09-05-using-ai-to-perceive-the-universe-in-greater-depth.html",
+      "date_iso": "2025-09-05T02:35:31+00:00",
+      "source": "https://deepmind.google/discover/blog/using-ai-to-perceive-the-universe-in-greater-depth/",
+      "summary": "Article URL: https://deepmind.google/discover/blog/using-ai-to-perceive-the-universe-in-greater-depth/ Comments URL: https://news.ycombinator.com/item?id=45134489 Points: 12 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45133938",
+      "title": "Fil's Unbelievable Garbage Collector",
+      "slug": "2025-09-05-fil-s-unbelievable-garbage-collector.html",
+      "path": "posts/2025-09-05-fil-s-unbelievable-garbage-collector.html",
+      "date_iso": "2025-09-05T00:55:52+00:00",
+      "source": "https://fil-c.org/fugc",
+      "summary": "Article URL: https://fil-c.org/fugc Comments URL: https://news.ycombinator.com/item?id=45133938 Points: 281 # Comments: 87"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45133935",
+      "title": "Forking Chrome to render in a terminal (2023)",
+      "slug": "2025-09-05-forking-chrome-to-render-in-a-terminal-2023.html",
+      "path": "posts/2025-09-05-forking-chrome-to-render-in-a-terminal-2023.html",
+      "date_iso": "2025-09-05T00:54:55+00:00",
+      "source": "https://fathy.fr/carbonyl",
+      "summary": "Article URL: https://fathy.fr/carbonyl Comments URL: https://news.ycombinator.com/item?id=45133935 Points: 71 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45133652",
+      "title": "Evolving the OCaml Programming Language (2025) [pdf]",
+      "slug": "2025-09-05-evolving-the-ocaml-programming-language-2025-pdf.html",
+      "path": "posts/2025-09-05-evolving-the-ocaml-programming-language-2025-pdf.html",
+      "date_iso": "2025-09-05T00:05:50+00:00",
+      "source": "https://kcsrk.info/slides/Evolution_Ashoka_2025.pdf",
+      "summary": "Article URL: https://kcsrk.info/slides/Evolution_Ashoka_2025.pdf Comments URL: https://news.ycombinator.com/item?id=45133652 Points: 92 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45132810",
+      "title": "What Is the Fourier Transform?",
+      "slug": "2025-09-04-what-is-the-fourier-transform.html",
+      "path": "posts/2025-09-04-what-is-the-fourier-transform.html",
+      "date_iso": "2025-09-04T22:11:09+00:00",
+      "source": "https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/",
+      "summary": "Article URL: https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/ Comments URL: https://news.ycombinator.com/item?id=45132810 Points: 256 # Comments: 103"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45132710",
+      "title": "io_uring is faster than mmap",
+      "slug": "2025-09-04-io-uring-is-faster-than-mmap.html",
+      "path": "posts/2025-09-04-io-uring-is-faster-than-mmap.html",
+      "date_iso": "2025-09-04T22:01:11+00:00",
+      "source": "https://www.bitflux.ai/blog/memory-is-slow-part2/",
+      "summary": "Article URL: https://www.bitflux.ai/blog/memory-is-slow-part2/ Comments URL: https://news.ycombinator.com/item?id=45132710 Points: 159 # Comments: 64"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/04/business/joshua-abram-dead.html",
+      "title": "Joshua Abram Dies at 62; Gave Workspace-Sharing an Upscale Spin",
+      "slug": "2025-09-04-joshua-abram-dies-at-62-gave-workspace-sharing-an-upscale-spin.html",
+      "path": "posts/2025-09-04-joshua-abram-dies-at-62-gave-workspace-sharing-an-upscale-spin.html",
+      "date_iso": "2025-09-04T21:41:31+00:00",
+      "source": "https://www.nytimes.com/2025/09/04/business/joshua-abram-dead.html",
+      "summary": "He and a partner made their co-working locations feel like private clubs. Among his other ventures, he sought to slash the cost of in vitro fertilization by using robotics and A.I."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45132498",
+      "title": "What If OpenDocument Used SQLite?",
+      "slug": "2025-09-04-what-if-opendocument-used-sqlite.html",
+      "path": "posts/2025-09-04-what-if-opendocument-used-sqlite.html",
+      "date_iso": "2025-09-04T21:36:50+00:00",
+      "source": "https://www.sqlite.org/affcase1.html",
+      "summary": "Article URL: https://www.sqlite.org/affcase1.html Comments URL: https://news.ycombinator.com/item?id=45132498 Points: 153 # Comments: 60"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45131921",
+      "title": "ICPC 2025 World Finals Results",
+      "slug": "2025-09-04-icpc-2025-world-finals-results.html",
+      "path": "posts/2025-09-04-icpc-2025-world-finals-results.html",
+      "date_iso": "2025-09-04T20:33:53+00:00",
+      "source": "https://worldfinals.icpc.global/scoreboard/2025/index.html",
+      "summary": "Article URL: https://worldfinals.icpc.global/scoreboard/2025/index.html Comments URL: https://news.ycombinator.com/item?id=45131921 Points: 94 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45131538",
+      "title": "Classic 8×8-pixel B&W Mac patterns",
+      "slug": "2025-09-04-classic-8-8-pixel-b-w-mac-patterns.html",
+      "path": "posts/2025-09-04-classic-8-8-pixel-b-w-mac-patterns.html",
+      "date_iso": "2025-09-04T19:53:42+00:00",
+      "source": "https://www.pauladamsmith.com/blog/2025/09/classic-mac-patterns.html",
+      "summary": "Article URL: https://www.pauladamsmith.com/blog/2025/09/classic-mac-patterns.html Comments URL: https://news.ycombinator.com/item?id=45131538 Points: 135 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45131243",
+      "title": "Action was the best 8-bit programming language",
+      "slug": "2025-09-04-action-was-the-best-8-bit-programming-language.html",
+      "path": "posts/2025-09-04-action-was-the-best-8-bit-programming-language.html",
+      "date_iso": "2025-09-04T19:25:54+00:00",
+      "source": "https://www.goto10retro.com/p/action-was-the-best-8-bit-programming",
+      "summary": "Article URL: https://www.goto10retro.com/p/action-was-the-best-8-bit-programming Comments URL: https://news.ycombinator.com/item?id=45131243 Points: 58 # Comments: 28"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45130260",
+      "title": "LLM Visualization",
+      "slug": "2025-09-04-llm-visualization.html",
+      "path": "posts/2025-09-04-llm-visualization.html",
+      "date_iso": "2025-09-04T18:06:05+00:00",
+      "source": "https://bbycroft.net/llm",
+      "summary": "Article URL: https://bbycroft.net/llm Comments URL: https://news.ycombinator.com/item?id=45130260 Points: 330 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45129237",
+      "title": "A PM's Guide to AI Agent Architecture",
+      "slug": "2025-09-04-a-pm-s-guide-to-ai-agent-architecture.html",
+      "path": "posts/2025-09-04-a-pm-s-guide-to-ai-agent-architecture.html",
+      "date_iso": "2025-09-04T16:45:39+00:00",
+      "source": "https://www.productcurious.com/p/a-pms-guide-to-ai-agent-architecture",
+      "summary": "Article URL: https://www.productcurious.com/p/a-pms-guide-to-ai-agent-architecture Comments URL: https://news.ycombinator.com/item?id=45129237 Points: 141 # Comments: 49"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45129190",
+      "title": "Age Simulation Suit",
+      "slug": "2025-09-04-age-simulation-suit.html",
+      "path": "posts/2025-09-04-age-simulation-suit.html",
+      "date_iso": "2025-09-04T16:41:24+00:00",
+      "source": "https://www.age-simulation-suit.com/",
+      "summary": "Article URL: https://www.age-simulation-suit.com/ Comments URL: https://news.ycombinator.com/item?id=45129190 Points: 172 # Comments: 122"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45129085",
+      "title": "Stripe Launches L1 Blockchain: Tempo",
+      "slug": "2025-09-04-stripe-launches-l1-blockchain-tempo.html",
+      "path": "posts/2025-09-04-stripe-launches-l1-blockchain-tempo.html",
+      "date_iso": "2025-09-04T16:32:24+00:00",
+      "source": "https://tempo.xyz",
+      "summary": "Article URL: https://tempo.xyz Comments URL: https://news.ycombinator.com/item?id=45129085 Points: 623 # Comments: 744"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45128391",
+      "title": "Wikipedia survives while the rest of the internet breaks",
+      "slug": "2025-09-04-wikipedia-survives-while-the-rest-of-the-internet-breaks.html",
+      "path": "posts/2025-09-04-wikipedia-survives-while-the-rest-of-the-internet-breaks.html",
+      "date_iso": "2025-09-04T15:30:20+00:00",
+      "source": "https://www.theverge.com/cs/features/717322/wikipedia-attacks-neutrality-history-jimmy-wales",
+      "summary": "Article URL: https://www.theverge.com/cs/features/717322/wikipedia-attacks-neutrality-history-jimmy-wales Comments URL: https://news.ycombinator.com/item?id=45128391 Points: 322 # Comments: 218"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45127983",
+      "title": "WiFi signals can measure heart rate",
+      "slug": "2025-09-04-wifi-signals-can-measure-heart-rate.html",
+      "path": "posts/2025-09-04-wifi-signals-can-measure-heart-rate.html",
+      "date_iso": "2025-09-04T14:53:50+00:00",
+      "source": "https://news.ucsc.edu/2025/09/pulse-fi-wifi-heart-rate/",
+      "summary": "Article URL: https://news.ucsc.edu/2025/09/pulse-fi-wifi-heart-rate/ Comments URL: https://news.ycombinator.com/item?id=45127983 Points: 343 # Comments: 182"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45124143",
       "title": "Melvyn Bragg steps down from presenting In Our Time",
       "slug": "2025-09-04-melvyn-bragg-steps-down-from-presenting-in-our-time.html",
