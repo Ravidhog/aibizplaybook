@@ -1,6 +1,240 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45146967",
+      "title": "Rug pulls, forks, and open-source feudalism",
+      "slug": "2025-09-06-rug-pulls-forks-and-open-source-feudalism.html",
+      "path": "posts/2025-09-06-rug-pulls-forks-and-open-source-feudalism.html",
+      "date_iso": "2025-09-06T05:59:39+00:00",
+      "source": "https://lwn.net/SubscriberLink/1036465/e80ebbc4cee39bfb/",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1036465/e80ebbc4cee39bfb/ Comments URL: https://news.ycombinator.com/item?id=45146967 Points: 3 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/06/business/china-stablecoin-trump.html",
+      "title": "Would Anyone Use a Chinese Stablecoin?",
+      "slug": "2025-09-06-would-anyone-use-a-chinese-stablecoin.html",
+      "path": "posts/2025-09-06-would-anyone-use-a-chinese-stablecoin.html",
+      "date_iso": "2025-09-06T04:00:04+00:00",
+      "source": "https://www.nytimes.com/2025/09/06/business/china-stablecoin-trump.html",
+      "summary": "A new law in Hong Kong could pave the way for digital currencies tied to China."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45145794",
+      "title": "Developing a Space Flight Simulator in Clojure",
+      "slug": "2025-09-06-developing-a-space-flight-simulator-in-clojure.html",
+      "path": "posts/2025-09-06-developing-a-space-flight-simulator-in-clojure.html",
+      "date_iso": "2025-09-06T01:39:01+00:00",
+      "source": "https://www.wedesoft.de/software/2025/09/05/clojure-game/",
+      "summary": "Article URL: https://www.wedesoft.de/software/2025/09/05/clojure-game/ Comments URL: https://news.ycombinator.com/item?id=45145794 Points: 107 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45145457",
+      "title": "GLM 4.5 with Claude Code",
+      "slug": "2025-09-06-glm-4-5-with-claude-code.html",
+      "path": "posts/2025-09-06-glm-4-5-with-claude-code.html",
+      "date_iso": "2025-09-06T00:45:08+00:00",
+      "source": "https://docs.z.ai/guides/llm/glm-4.5",
+      "summary": "Article URL: https://docs.z.ai/guides/llm/glm-4.5 Comments URL: https://news.ycombinator.com/item?id=45145457 Points: 93 # Comments: 44"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html",
+      "title": "Anthropic Agrees to Pay $1.5 Billion to Settle Lawsuit With Book Authors",
+      "slug": "2025-09-05-anthropic-agrees-to-pay-1-5-billion-to-settle-lawsuit-with-book-authors.html",
+      "path": "posts/2025-09-05-anthropic-agrees-to-pay-1-5-billion-to-settle-lawsuit-with-book-authors.html",
+      "date_iso": "2025-09-05T22:38:29+00:00",
+      "source": "https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html",
+      "summary": "Anthropic’s Claude chatbot has become one of the world’s most popular A.I. systems."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45144337",
+      "title": "The Universe Within 12.5 Light Years",
+      "slug": "2025-09-05-the-universe-within-12-5-light-years.html",
+      "path": "posts/2025-09-05-the-universe-within-12-5-light-years.html",
+      "date_iso": "2025-09-05T22:20:37+00:00",
+      "source": "http://www.atlasoftheuniverse.com/12lys.html",
+      "summary": "Article URL: http://www.atlasoftheuniverse.com/12lys.html Comments URL: https://news.ycombinator.com/item?id=45144337 Points: 139 # Comments: 81"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45144234",
+      "title": "Quantum Mechanics, Concise Book",
+      "slug": "2025-09-05-quantum-mechanics-concise-book.html",
+      "path": "posts/2025-09-05-quantum-mechanics-concise-book.html",
+      "date_iso": "2025-09-05T22:09:10+00:00",
+      "source": "https://github.com/basketballguy999/Quantum-Mechanics-Concise-Book",
+      "summary": "Article URL: https://github.com/basketballguy999/Quantum-Mechanics-Concise-Book Comments URL: https://news.ycombinator.com/item?id=45144234 Points: 49 # Comments: 14"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/05/technology/ai-doctor-scams.html",
+      "title": "The Doctors Are Real, but the Sales Pitches Are Frauds",
+      "slug": "2025-09-05-the-doctors-are-real-but-the-sales-pitches-are-frauds.html",
+      "path": "posts/2025-09-05-the-doctors-are-real-but-the-sales-pitches-are-frauds.html",
+      "date_iso": "2025-09-05T21:38:25+00:00",
+      "source": "https://www.nytimes.com/2025/09/05/technology/ai-doctor-scams.html",
+      "summary": "“There are so many things wrong with this,” said Dr. Robert Lustig of the University of California, San Francisco."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45143879",
+      "title": "Nest 1st gen and 2nd gen thermostats no longer supported from Oct 25",
+      "slug": "2025-09-05-nest-1st-gen-and-2nd-gen-thermostats-no-longer-supported-from-oct-25.html",
+      "path": "posts/2025-09-05-nest-1st-gen-and-2nd-gen-thermostats-no-longer-supported-from-oct-25.html",
+      "date_iso": "2025-09-05T21:33:51+00:00",
+      "source": "https://community.hubitat.com/t/nest-1st-gen-and-2nd-gen-thermostats-no-longer-supported-by-google-from-10-25-2025/152952",
+      "summary": "Article URL: https://community.hubitat.com/t/nest-1st-gen-and-2nd-gen-thermostats-no-longer-supported-by-google-from-10-25-2025/152952 Comments URL: https://news.ycombinator.com/item?id=45143879 Points: 248 # Comments: 229"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/05/business/google-eu-antitrust-fine.html",
+      "title": "Google Is Fined $3.5 Billion for Breaking Europe’s Antitrust Laws",
+      "slug": "2025-09-05-google-is-fined-3-5-billion-for-breaking-europe-s-antitrust-laws.html",
+      "path": "posts/2025-09-05-google-is-fined-3-5-billion-for-breaking-europe-s-antitrust-laws.html",
+      "date_iso": "2025-09-05T21:00:47+00:00",
+      "source": "https://www.nytimes.com/2025/09/05/business/google-eu-antitrust-fine.html",
+      "summary": "Google’s multibillion-dollar business is underpinned by its dominance of the online advertising market."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45143548",
+      "title": "Gym Class VR (YC W22) Is Hiring – UX Design Engineer",
+      "slug": "2025-09-05-gym-class-vr-yc-w22-is-hiring-ux-design-engineer.html",
+      "path": "posts/2025-09-05-gym-class-vr-yc-w22-is-hiring-ux-design-engineer.html",
+      "date_iso": "2025-09-05T21:00:26+00:00",
+      "source": "https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-ux-design-engineer-senior-staff-principal",
+      "summary": "Article URL: https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-ux-design-engineer-senior-staff-principal Comments URL: https://news.ycombinator.com/item?id=45143548 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45143077",
+      "title": "I kissed comment culture goodbye",
+      "slug": "2025-09-05-i-kissed-comment-culture-goodbye.html",
+      "path": "posts/2025-09-05-i-kissed-comment-culture-goodbye.html",
+      "date_iso": "2025-09-05T20:11:39+00:00",
+      "source": "https://sustainableviews.substack.com/p/the-day-i-kissed-comment-culture",
+      "summary": "Article URL: https://sustainableviews.substack.com/p/the-day-i-kissed-comment-culture Comments URL: https://news.ycombinator.com/item?id=45143077 Points: 165 # Comments: 145"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/05/business/elon-musk-tesla-pay-trillionaire.html",
+      "title": "Elon Musk Could Become First Trillionaire Under New Tesla Pay Package",
+      "slug": "2025-09-05-elon-musk-could-become-first-trillionaire-under-new-tesla-pay-package.html",
+      "path": "posts/2025-09-05-elon-musk-could-become-first-trillionaire-under-new-tesla-pay-package.html",
+      "date_iso": "2025-09-05T20:08:47+00:00",
+      "source": "https://www.nytimes.com/2025/09/05/business/elon-musk-tesla-pay-trillionaire.html",
+      "summary": "Elon Musk, already the world’s richest person, would have to meet certain targets, including a 25-fold increase in Tesla’s profit, in order to earn a pay package that could make him a trillionaire."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45142885",
+      "title": "Anthropic agrees to pay $1.5B to settle lawsuit with book authors",
+      "slug": "2025-09-05-anthropic-agrees-to-pay-1-5b-to-settle-lawsuit-with-book-authors.html",
+      "path": "posts/2025-09-05-anthropic-agrees-to-pay-1-5b-to-settle-lawsuit-with-book-authors.html",
+      "date_iso": "2025-09-05T19:52:45+00:00",
+      "source": "https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share",
+      "summary": "Also https://www.washingtonpost.com/technology/2025/09/05/anthrop... , https://www.reuters.com/sustainability/boards-policy-regulat... Comments URL: https://news.ycombinator.com/item?id=45142885 Points: 611 # Comments: 443"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45142397",
+      "title": "My Own DNS Server at Home – Part 1: IPv4",
+      "slug": "2025-09-05-my-own-dns-server-at-home-part-1-ipv4.html",
+      "path": "posts/2025-09-05-my-own-dns-server-at-home-part-1-ipv4.html",
+      "date_iso": "2025-09-05T19:08:49+00:00",
+      "source": "https://jan.wildeboer.net/2025/08/My-DNS-Part-1/",
+      "summary": "Article URL: https://jan.wildeboer.net/2025/08/My-DNS-Part-1/ Comments URL: https://news.ycombinator.com/item?id=45142397 Points: 140 # Comments: 59"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45141636",
+      "title": "Making a font of my handwriting",
+      "slug": "2025-09-05-making-a-font-of-my-handwriting.html",
+      "path": "posts/2025-09-05-making-a-font-of-my-handwriting.html",
+      "date_iso": "2025-09-05T18:06:33+00:00",
+      "source": "https://chameth.com/making-a-font-of-my-handwriting/",
+      "summary": "Article URL: https://chameth.com/making-a-font-of-my-handwriting/ Comments URL: https://news.ycombinator.com/item?id=45141636 Points: 233 # Comments: 62"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45140921",
+      "title": "Show HN: Open-sourcing our text-to-CAD app",
+      "slug": "2025-09-05-show-hn-open-sourcing-our-text-to-cad-app.html",
+      "path": "posts/2025-09-05-show-hn-open-sourcing-our-text-to-cad-app.html",
+      "date_iso": "2025-09-05T17:09:35+00:00",
+      "source": "https://github.com/Adam-CAD/CADAM",
+      "summary": "Hey HN! I'm Zach from Adam ( https://adam.new/ ). We’re building an AI co-pilot for mechanical CAD software. As part of our broader research, we built a browser-based Text-to-CAD app ( https://news.ycombinator.com/item?id=44182206 ) and are now open sourcing it. This is a React…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45140786",
+      "title": "Freeway guardrails are now a favorite target of thieves",
+      "slug": "2025-09-05-freeway-guardrails-are-now-a-favorite-target-of-thieves.html",
+      "path": "posts/2025-09-05-freeway-guardrails-are-now-a-favorite-target-of-thieves.html",
+      "date_iso": "2025-09-05T16:57:45+00:00",
+      "source": "https://laist.com/news/transportation/guardrails-aluminum-theft",
+      "summary": "Article URL: https://laist.com/news/transportation/guardrails-aluminum-theft Comments URL: https://news.ycombinator.com/item?id=45140786 Points: 113 # Comments: 205"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45140381",
+      "title": "MentraOS – open-source Smart glasses OS",
+      "slug": "2025-09-05-mentraos-open-source-smart-glasses-os.html",
+      "path": "posts/2025-09-05-mentraos-open-source-smart-glasses-os.html",
+      "date_iso": "2025-09-05T16:25:48+00:00",
+      "source": "https://github.com/Mentra-Community/MentraOS",
+      "summary": "Article URL: https://github.com/Mentra-Community/MentraOS Comments URL: https://news.ycombinator.com/item?id=45140381 Points: 139 # Comments: 76"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45139088",
+      "title": "Purposeful animations",
+      "slug": "2025-09-05-purposeful-animations.html",
+      "path": "posts/2025-09-05-purposeful-animations.html",
+      "date_iso": "2025-09-05T14:34:57+00:00",
+      "source": "https://emilkowal.ski/ui/you-dont-need-animations",
+      "summary": "Article URL: https://emilkowal.ski/ui/you-dont-need-animations Comments URL: https://news.ycombinator.com/item?id=45139088 Points: 385 # Comments: 109"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45137525",
+      "title": "I ditched Docker for Podman",
+      "slug": "2025-09-05-i-ditched-docker-for-podman.html",
+      "path": "posts/2025-09-05-i-ditched-docker-for-podman.html",
+      "date_iso": "2025-09-05T11:56:59+00:00",
+      "source": "https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too",
+      "summary": "Article URL: https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too Comments URL: https://news.ycombinator.com/item?id=45137525 Points: 942 # Comments: 547"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45137373",
+      "title": "ML needs a new programming language – Interview with Chris Lattner",
+      "slug": "2025-09-05-ml-needs-a-new-programming-language-interview-with-chris-lattner.html",
+      "path": "posts/2025-09-05-ml-needs-a-new-programming-language-interview-with-chris-lattner.html",
+      "date_iso": "2025-09-05T11:33:48+00:00",
+      "source": "https://signalsandthreads.com/why-ml-needs-a-new-programming-language/",
+      "summary": "Article URL: https://signalsandthreads.com/why-ml-needs-a-new-programming-language/ Comments URL: https://news.ycombinator.com/item?id=45137373 Points: 246 # Comments: 218"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45137245",
+      "title": "Interview with Japanese Demoscener 0b5vr",
+      "slug": "2025-09-05-interview-with-japanese-demoscener-0b5vr.html",
+      "path": "posts/2025-09-05-interview-with-japanese-demoscener-0b5vr.html",
+      "date_iso": "2025-09-05T11:08:26+00:00",
+      "source": "https://6octaves.com/2025/09/interview-with-demoscener-0b5vr.html",
+      "summary": "Article URL: https://6octaves.com/2025/09/interview-with-demoscener-0b5vr.html Comments URL: https://news.ycombinator.com/item?id=45137245 Points: 198 # Comments: 17"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/05/podcasts/hardfork-education-alpha-school.html",
+      "title": "A.I. School Is in Session: Two Takes on the Future of Education",
+      "slug": "2025-09-05-a-i-school-is-in-session-two-takes-on-the-future-of-education.html",
+      "path": "posts/2025-09-05-a-i-school-is-in-session-two-takes-on-the-future-of-education.html",
+      "date_iso": "2025-09-05T11:00:07+00:00",
+      "source": "https://www.nytimes.com/2025/09/05/podcasts/hardfork-education-alpha-school.html",
+      "summary": "“I think that A.I. is going to help break, in a sense, the university model that has anyway reached a certain kind of end game,” says the Princeton professor D. Graham Burnett."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/05/technology/youtube-nfl-live-sports.html",
+      "title": "YouTube’s NFL Broadcast Will Test Platform’s Ability to Handle Live Sports",
+      "slug": "2025-09-05-youtube-s-nfl-broadcast-will-test-platform-s-ability-to-handle-live-sports.html",
+      "path": "posts/2025-09-05-youtube-s-nfl-broadcast-will-test-platform-s-ability-to-handle-live-sports.html",
+      "date_iso": "2025-09-05T09:02:41+00:00",
+      "source": "https://www.nytimes.com/2025/09/05/technology/youtube-nfl-live-sports.html",
+      "summary": "YouTube’s live broadcast on Friday night of the Kansas City Chiefs and Los Angeles Chargers game is set to be a major test of the platform’s programming ambitions."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45136103",
+      "title": "I bought the cheapest EV, a used Nissan Leaf",
+      "slug": "2025-09-05-i-bought-the-cheapest-ev-a-used-nissan-leaf.html",
+      "path": "posts/2025-09-05-i-bought-the-cheapest-ev-a-used-nissan-leaf.html",
+      "date_iso": "2025-09-05T07:57:21+00:00",
+      "source": "https://www.jeffgeerling.com/blog/2025/i-bought-cheapest-ev-used-nissan-leaf",
+      "summary": "Article URL: https://www.jeffgeerling.com/blog/2025/i-bought-cheapest-ev-used-nissan-leaf Comments URL: https://news.ycombinator.com/item?id=45136103 Points: 360 # Comments: 487"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45135529",
       "title": "Age verification doesn’t work",
       "slug": "2025-09-05-age-verification-doesn-t-work.html",
@@ -242,6 +476,15 @@
       "date_iso": "2025-09-03T23:52:58+00:00",
       "source": "https://remarkable.com/products/remarkable-paper/pro-move",
       "summary": "Article URL: https://remarkable.com/products/remarkable-paper/pro-move Comments URL: https://news.ycombinator.com/item?id=45121721 Points: 186 # Comments: 205"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45121581",
+      "title": "Novel hollow-core optical fiber transmits data faster with record low loss",
+      "slug": "2025-09-03-novel-hollow-core-optical-fiber-transmits-data-faster-with-record-low-loss.html",
+      "path": "posts/2025-09-03-novel-hollow-core-optical-fiber-transmits-data-faster-with-record-low-loss.html",
+      "date_iso": "2025-09-03T23:37:54+00:00",
+      "source": "https://phys.org/news/2025-09-hollow-core-optical-fiber-transmits.html",
+      "summary": "Article URL: https://phys.org/news/2025-09-hollow-core-optical-fiber-transmits.html Comments URL: https://news.ycombinator.com/item?id=45121581 Points: 40 # Comments: 8"
     },
     {
       "id": "https://news.ycombinator.com/item?id=45121547",

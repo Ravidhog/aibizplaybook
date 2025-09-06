@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Open-sourcing our text-to-CAD app</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Open-sourcing our text-to-CAD app</h1>
+    <p><small>Published: 2025-09-05T17:09:35+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hey HN! I'm Zach from Adam (<a href="https://adam.new/">https://adam.new/</a>). We’re building an AI co-pilot for mechanical CAD software.<p>As part of our broader research, we built a browser-based Text-to-CAD app (<a href="https://news.ycombinator.com/item?id=44182206">https://news.ycombinator.com/item?id=44182206</a>) and are now open sourcing it. This is a React SPA with a Supabase backend.<p>What it does:<p>* Generates parametric 3D models from natural language descriptions, with support for both text prompts and image references<p>* Outputs OpenSCAD code with automatically extracted parameters that surface as interactive sliders for instant dimension tweaking<p>* Exports as .STL or .SCAD<p>Under the hood:<p>* Separate agents for conversation and code generation; simple parameter tweaks bypass AI entirely using deterministic regex-based updates<p>* Runs fully in-browser by compiling OpenSCAD to WebAssembly and integrating Three.js with React Three Fiber for 3D rendering<p>* Supports BOSL, BOSL2, MCAD libraries and custom font support (Geist) for text in models<p>We’ve seen many developers trying to replicate this kind of functionality, so we’re releasing this to give the community a solid foundation to build on.<p>Future improvements:<p>* Expand geometry support - Move beyond CSG primitives to support curved surfaces, fillets, lofts, and constraint-driven modeling through CadQuery/Build123D<p>* Better spatial context - UI for face/edge selection and viewport image integration to give LLMs spatial understanding<p>* Enhanced capabilities - RAG on documentation and integration with more OpenSCAD libraries for features like proper threading<p>You can clone the repo and run it locally! Contributions are welcome, and we’ll keep merging PRs as they come in.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45140921">https://news.ycombinator.com/item?id=45140921</a></p>
+<p>Points: 130</p>
+<p># Comments: 15</p>
+    <p><a href="https://github.com/Adam-CAD/CADAM" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
