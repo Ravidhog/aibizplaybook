@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45155398",
+      "title": "Unofficial Windows 11 requirements bypass tool allows disabling all AI features",
+      "slug": "2025-09-07-unofficial-windows-11-requirements-bypass-tool-allows-disabling-all-ai-features.html",
+      "path": "posts/2025-09-07-unofficial-windows-11-requirements-bypass-tool-allows-disabling-all-ai-features.html",
+      "date_iso": "2025-09-07T04:27:18+00:00",
+      "source": "https://www.neowin.net/news/unofficial-windows-11-requirements-bypass-tool-now-allows-you-to-disable-all-ai-features/",
+      "summary": "Article URL: https://www.neowin.net/news/unofficial-windows-11-requirements-bypass-tool-now-allows-you-to-disable-all-ai-features/ Comments URL: https://news.ycombinator.com/item?id=45155398 Points: 53 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45155179",
+      "title": "RFC 3339 vs. ISO 8601",
+      "slug": "2025-09-07-rfc-3339-vs-iso-8601.html",
+      "path": "posts/2025-09-07-rfc-3339-vs-iso-8601.html",
+      "date_iso": "2025-09-07T03:36:22+00:00",
+      "source": "https://ijmacd.github.io/rfc3339-iso8601/",
+      "summary": "Article URL: https://ijmacd.github.io/rfc3339-iso8601/ Comments URL: https://news.ycombinator.com/item?id=45155179 Points: 41 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45154947",
+      "title": "The world has a running Rational R1000/400 computer again (2019)",
+      "slug": "2025-09-07-the-world-has-a-running-rational-r1000-400-computer-again-2019.html",
+      "path": "posts/2025-09-07-the-world-has-a-running-rational-r1000-400-computer-again-2019.html",
+      "date_iso": "2025-09-07T02:46:55+00:00",
+      "source": "https://datamuseum.dk/wiki/Rational/R1000s400/Logbook/2019#2019-10-28",
+      "summary": "Article URL: https://datamuseum.dk/wiki/Rational/R1000s400/Logbook/2019#2019-10-28 Comments URL: https://news.ycombinator.com/item?id=45154947 Points: 26 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45154857",
+      "title": "Show HN: Lightweight tool for managing Linux virtual machines",
+      "slug": "2025-09-07-show-hn-lightweight-tool-for-managing-linux-virtual-machines.html",
+      "path": "posts/2025-09-07-show-hn-lightweight-tool-for-managing-linux-virtual-machines.html",
+      "date_iso": "2025-09-07T02:30:16+00:00",
+      "source": "https://github.com/ccheshirecat/flint",
+      "summary": "hey guys. the other day i was migrating hosting providers and i just needed something not too heavy and convenient to spin up my backups for awhile and realised there is almost nothing out there. kimchi hasn't been updated for years and cockpit is heavy. so here's something i ca…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45154856",
+      "title": "Navy SEALs reportedly killed North Korean fishermen to hide a failed mission",
+      "slug": "2025-09-07-navy-seals-reportedly-killed-north-korean-fishermen-to-hide-a-failed-mission.html",
+      "path": "posts/2025-09-07-navy-seals-reportedly-killed-north-korean-fishermen-to-hide-a-failed-mission.html",
+      "date_iso": "2025-09-07T02:30:07+00:00",
+      "source": "https://www.nytimes.com/2025/09/05/us/navy-seal-north-korea-trump-2019.html",
+      "summary": "Article URL: https://www.nytimes.com/2025/09/05/us/navy-seal-north-korea-trump-2019.html Comments URL: https://news.ycombinator.com/item?id=45154856 Points: 191 # Comments: 106"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45154609",
+      "title": "Show HN: I recreated Windows XP as my portfolio",
+      "slug": "2025-09-07-show-hn-i-recreated-windows-xp-as-my-portfolio.html",
+      "path": "posts/2025-09-07-show-hn-i-recreated-windows-xp-as-my-portfolio.html",
+      "date_iso": "2025-09-07T01:44:19+00:00",
+      "source": "https://mitchivin.com/",
+      "summary": "Years ago I stumbled across a basic version of this concept and it stuck with me. I knew if I was ever going to take on such a project, it would need to be flawless, but without coding experience it was just another idea that would never happen. By the end of 2024, as AI coding…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45154501",
+      "title": "The key to getting MVC correct is understanding what models are",
+      "slug": "2025-09-07-the-key-to-getting-mvc-correct-is-understanding-what-models-are.html",
+      "path": "posts/2025-09-07-the-key-to-getting-mvc-correct-is-understanding-what-models-are.html",
+      "date_iso": "2025-09-07T01:26:44+00:00",
+      "source": "https://stlab.cc/tips/about-mvc.html",
+      "summary": "Article URL: https://stlab.cc/tips/about-mvc.html Comments URL: https://news.ycombinator.com/item?id=45154501 Points: 72 # Comments: 55"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45154270",
+      "title": "Blogs used to be different",
+      "slug": "2025-09-07-blogs-used-to-be-different.html",
+      "path": "posts/2025-09-07-blogs-used-to-be-different.html",
+      "date_iso": "2025-09-07T00:45:22+00:00",
+      "source": "https://jetgirl.art/blogs-used-to-be-very-different/",
+      "summary": "Article URL: https://jetgirl.art/blogs-used-to-be-very-different/ Comments URL: https://news.ycombinator.com/item?id=45154270 Points: 65 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45153428",
+      "title": "A history of metaphorical brain talk in psychiatry",
+      "slug": "2025-09-06-a-history-of-metaphorical-brain-talk-in-psychiatry.html",
+      "path": "posts/2025-09-06-a-history-of-metaphorical-brain-talk-in-psychiatry.html",
+      "date_iso": "2025-09-06T22:21:55+00:00",
+      "source": "https://www.nature.com/articles/s41380-025-03053-6",
+      "summary": "Article URL: https://www.nature.com/articles/s41380-025-03053-6 Comments URL: https://news.ycombinator.com/item?id=45153428 Points: 26 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45152940",
+      "title": "Show HN: I'm making an open-source platform for learning Japanese",
+      "slug": "2025-09-06-show-hn-i-m-making-an-open-source-platform-for-learning-japanese.html",
+      "path": "posts/2025-09-06-show-hn-i-m-making-an-open-source-platform-for-learning-japanese.html",
+      "date_iso": "2025-09-06T21:19:30+00:00",
+      "source": "https://kanadojo.com",
+      "summary": "The idea is actually quite simple. As a Japanese learner and a coder, I've always wanted there to be an open-source, 100% free for learning Japanese, similar to Monkeytype in the typing community. Unfortunately, pretty much all language learning apps are closed-sourced and paid…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45152779",
+      "title": "A Navajo weaving of an integrated circuit: the 555 timer",
+      "slug": "2025-09-06-a-navajo-weaving-of-an-integrated-circuit-the-555-timer.html",
+      "path": "posts/2025-09-06-a-navajo-weaving-of-an-integrated-circuit-the-555-timer.html",
+      "date_iso": "2025-09-06T20:57:27+00:00",
+      "source": "https://www.righto.com/2025/09/marilou-schultz-navajo-555-weaving.html",
+      "summary": "Article URL: https://www.righto.com/2025/09/marilou-schultz-navajo-555-weaving.html Comments URL: https://news.ycombinator.com/item?id=45152779 Points: 221 # Comments: 44"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45152648",
+      "title": "Shipping textures as PNGs is suboptimal",
+      "slug": "2025-09-06-shipping-textures-as-pngs-is-suboptimal.html",
+      "path": "posts/2025-09-06-shipping-textures-as-pngs-is-suboptimal.html",
+      "date_iso": "2025-09-06T20:37:16+00:00",
+      "source": "https://gamesbymason.com/blog/2025/stop-shipping-pngs/",
+      "summary": "Article URL: https://gamesbymason.com/blog/2025/stop-shipping-pngs/ Comments URL: https://news.ycombinator.com/item?id=45152648 Points: 96 # Comments: 43"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45152402",
+      "title": "Being good isn't enough",
+      "slug": "2025-09-06-being-good-isn-t-enough.html",
+      "path": "posts/2025-09-06-being-good-isn-t-enough.html",
+      "date_iso": "2025-09-06T20:01:35+00:00",
+      "source": "https://joshs.bearblog.dev/being-good-isnt-enough/",
+      "summary": "Article URL: https://joshs.bearblog.dev/being-good-isnt-enough/ Comments URL: https://news.ycombinator.com/item?id=45152402 Points: 78 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45152374",
+      "title": "Over 80% of sunscreen performed below their labelled efficacy (2020)",
+      "slug": "2025-09-06-over-80-of-sunscreen-performed-below-their-labelled-efficacy-2020.html",
+      "path": "posts/2025-09-06-over-80-of-sunscreen-performed-below-their-labelled-efficacy-2020.html",
+      "date_iso": "2025-09-06T19:57:59+00:00",
+      "source": "https://www.consumer.org.hk/en/press-release/528-sunscreen-test",
+      "summary": "Article URL: https://www.consumer.org.hk/en/press-release/528-sunscreen-test Comments URL: https://news.ycombinator.com/item?id=45152374 Points: 184 # Comments: 149"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45152066",
+      "title": "How the “Kim” dump exposed North Korea's credential theft playbook",
+      "slug": "2025-09-06-how-the-kim-dump-exposed-north-korea-s-credential-theft-playbook.html",
+      "path": "posts/2025-09-06-how-the-kim-dump-exposed-north-korea-s-credential-theft-playbook.html",
+      "date_iso": "2025-09-06T19:14:26+00:00",
+      "source": "https://dti.domaintools.com/inside-the-kimsuky-leak-how-the-kim-dump-exposed-north-koreas-credential-theft-playbook/",
+      "summary": "Article URL: https://dti.domaintools.com/inside-the-kimsuky-leak-how-the-kim-dump-exposed-north-koreas-credential-theft-playbook/ Comments URL: https://news.ycombinator.com/item?id=45152066 Points: 269 # Comments: 76"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45151622",
+      "title": "Stop writing CLI validation. Parse it right the first time",
+      "slug": "2025-09-06-stop-writing-cli-validation-parse-it-right-the-first-time.html",
+      "path": "posts/2025-09-06-stop-writing-cli-validation-parse-it-right-the-first-time.html",
+      "date_iso": "2025-09-06T18:20:26+00:00",
+      "source": "https://hackers.pub/@hongminhee/2025/stop-writing-cli-validation-parse-it-right-the-first-time",
+      "summary": "Article URL: https://hackers.pub/@hongminhee/2025/stop-writing-cli-validation-parse-it-right-the-first-time Comments URL: https://news.ycombinator.com/item?id=45151622 Points: 132 # Comments: 69"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45151598",
+      "title": "GigaByte CXL memory expansion card with up to 512GB DRAM",
+      "slug": "2025-09-06-gigabyte-cxl-memory-expansion-card-with-up-to-512gb-dram.html",
+      "path": "posts/2025-09-06-gigabyte-cxl-memory-expansion-card-with-up-to-512gb-dram.html",
+      "date_iso": "2025-09-06T18:17:06+00:00",
+      "source": "https://www.gigabyte.com/PC-Accessory/AI-TOP-CXL-R5X4",
+      "summary": "Article URL: https://www.gigabyte.com/PC-Accessory/AI-TOP-CXL-R5X4 Comments URL: https://news.ycombinator.com/item?id=45151598 Points: 75 # Comments: 53"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45149626",
+      "title": "Oldest recorded transaction",
+      "slug": "2025-09-06-oldest-recorded-transaction.html",
+      "path": "posts/2025-09-06-oldest-recorded-transaction.html",
+      "date_iso": "2025-09-06T14:34:55+00:00",
+      "source": "https://avi.im/blag/2025/oldest-txn/",
+      "summary": "Article URL: https://avi.im/blag/2025/oldest-txn/ Comments URL: https://news.ycombinator.com/item?id=45149626 Points: 158 # Comments: 70"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45148944",
+      "title": "We hacked Burger King: How auth bypass led to drive-thru audio surveillance",
+      "slug": "2025-09-06-we-hacked-burger-king-how-auth-bypass-led-to-drive-thru-audio-surveillance.html",
+      "path": "posts/2025-09-06-we-hacked-burger-king-how-auth-bypass-led-to-drive-thru-audio-surveillance.html",
+      "date_iso": "2025-09-06T13:04:51+00:00",
+      "source": "https://bobdahacker.com/blog/rbi-hacked-drive-thrus/",
+      "summary": "Article URL: https://bobdahacker.com/blog/rbi-hacked-drive-thrus/ Comments URL: https://news.ycombinator.com/item?id=45148944 Points: 321 # Comments: 178"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/06/well/family/jean-twenge-social-media-screens-teens.html",
+      "title": "Jean Twenge Is Still Warning Parents About Teens and Screen Time. Is Anyone Listening?",
+      "slug": "2025-09-06-jean-twenge-is-still-warning-parents-about-teens-and-screen-time-is-anyone-listening.html",
+      "path": "posts/2025-09-06-jean-twenge-is-still-warning-parents-about-teens-and-screen-time-is-anyone-listening.html",
+      "date_iso": "2025-09-06T09:00:07+00:00",
+      "source": "https://www.nytimes.com/2025/09/06/well/family/jean-twenge-social-media-screens-teens.html",
+      "summary": "Jean Twenge’s 13-year-old, Julia, has what the teen calls a “kid’s phone” without access to the internet. Under her parents’ rules, Julia won’t get social media accounts or a smartphone until she is at least 16."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45147385",
+      "title": "Why language models hallucinate",
+      "slug": "2025-09-06-why-language-models-hallucinate.html",
+      "path": "posts/2025-09-06-why-language-models-hallucinate.html",
+      "date_iso": "2025-09-06T07:41:48+00:00",
+      "source": "https://openai.com/index/why-language-models-hallucinate/",
+      "summary": "Article URL: https://openai.com/index/why-language-models-hallucinate/ Comments URL: https://news.ycombinator.com/item?id=45147385 Points: 210 # Comments: 183"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45146967",
       "title": "Rug pulls, forks, and open-source feudalism",
       "slug": "2025-09-06-rug-pulls-forks-and-open-source-feudalism.html",
