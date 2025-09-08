@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45165245",
+      "title": "Show HN: Veena Chromatic Tuner",
+      "slug": "2025-09-08-show-hn-veena-chromatic-tuner.html",
+      "path": "posts/2025-09-08-show-hn-veena-chromatic-tuner.html",
+      "date_iso": "2025-09-08T06:38:34+00:00",
+      "source": "https://play.google.com/store/apps/details?id=in.magima.digitaltuner&hl=en_US",
+      "summary": "We're happy to present Veena Chromatic Tuner, an app we've developed for musicians, instrument makers, and ethnomusicologists who need more than just a standard chromatic tuner. Our goal was to create a tool that not only supports pitch detection but also provides deep support f…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45165186",
+      "title": "Britain built some of the safest roads",
+      "slug": "2025-09-08-britain-built-some-of-the-safest-roads.html",
+      "path": "posts/2025-09-08-britain-built-some-of-the-safest-roads.html",
+      "date_iso": "2025-09-08T06:26:43+00:00",
+      "source": "https://ourworldindata.org/britain-safest-roads-history",
+      "summary": "Article URL: https://ourworldindata.org/britain-safest-roads-history Comments URL: https://news.ycombinator.com/item?id=45165186 Points: 5 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45165019",
+      "title": "AI Adoption Rate Trending Down for Large Companies",
+      "slug": "2025-09-08-ai-adoption-rate-trending-down-for-large-companies.html",
+      "path": "posts/2025-09-08-ai-adoption-rate-trending-down-for-large-companies.html",
+      "date_iso": "2025-09-08T05:56:48+00:00",
+      "source": "https://www.apolloacademy.com/ai-adoption-rate-trending-down-for-large-companies/",
+      "summary": "Article URL: https://www.apolloacademy.com/ai-adoption-rate-trending-down-for-large-companies/ Comments URL: https://news.ycombinator.com/item?id=45165019 Points: 30 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45164444",
+      "title": "'Make invalid states unrepresentable' considered harmful",
+      "slug": "2025-09-08-make-invalid-states-unrepresentable-considered-harmful.html",
+      "path": "posts/2025-09-08-make-invalid-states-unrepresentable-considered-harmful.html",
+      "date_iso": "2025-09-08T03:40:02+00:00",
+      "source": "https://www.seangoedecke.com/invalid-states/",
+      "summary": "Article URL: https://www.seangoedecke.com/invalid-states/ Comments URL: https://news.ycombinator.com/item?id=45164444 Points: 46 # Comments: 46"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45163598",
+      "title": "How the Slavic Migration Reshaped Central and Eastern Europe",
+      "slug": "2025-09-08-how-the-slavic-migration-reshaped-central-and-eastern-europe.html",
+      "path": "posts/2025-09-08-how-the-slavic-migration-reshaped-central-and-eastern-europe.html",
+      "date_iso": "2025-09-08T00:30:19+00:00",
+      "source": "https://www.mpg.de/25256341/0827-evan-slavic-migration-reshaped-central-and-eastern-europe-150495-x",
+      "summary": "Article URL: https://www.mpg.de/25256341/0827-evan-slavic-migration-reshaped-central-and-eastern-europe-150495-x Comments URL: https://news.ycombinator.com/item?id=45163598 Points: 28 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45163362",
+      "title": "Using Claude Code to modernize a 25-year-old kernel driver",
+      "slug": "2025-09-07-using-claude-code-to-modernize-a-25-year-old-kernel-driver.html",
+      "path": "posts/2025-09-07-using-claude-code-to-modernize-a-25-year-old-kernel-driver.html",
+      "date_iso": "2025-09-07T23:53:47+00:00",
+      "source": "https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver",
+      "summary": "Article URL: https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver Comments URL: https://news.ycombinator.com/item?id=45163362 Points: 423 # Comments: 119"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45163043",
+      "title": "Formatting code should be unnecessary",
+      "slug": "2025-09-07-formatting-code-should-be-unnecessary.html",
+      "path": "posts/2025-09-07-formatting-code-should-be-unnecessary.html",
+      "date_iso": "2025-09-07T23:08:42+00:00",
+      "source": "https://maxleiter.com/blog/formatting",
+      "summary": "Article URL: https://maxleiter.com/blog/formatting Comments URL: https://news.ycombinator.com/item?id=45163043 Points: 123 # Comments: 135"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45162803",
+      "title": "The demo scene is dying, but that's alright",
+      "slug": "2025-09-07-the-demo-scene-is-dying-but-that-s-alright.html",
+      "path": "posts/2025-09-07-the-demo-scene-is-dying-but-that-s-alright.html",
+      "date_iso": "2025-09-07T22:34:23+00:00",
+      "source": "https://www.datagubbe.se/sceneherit/",
+      "summary": "Article URL: https://www.datagubbe.se/sceneherit/ Comments URL: https://news.ycombinator.com/item?id=45162803 Points: 151 # Comments: 67"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45162626",
+      "title": "Intel Arc Pro B50 GPU Launched at $349 for Compact Workstations",
+      "slug": "2025-09-07-intel-arc-pro-b50-gpu-launched-at-349-for-compact-workstations.html",
+      "path": "posts/2025-09-07-intel-arc-pro-b50-gpu-launched-at-349-for-compact-workstations.html",
+      "date_iso": "2025-09-07T22:06:35+00:00",
+      "source": "https://www.guru3d.com/story/intel-arc-pro-b50-gpu-launched-at-for-compact-workstations/",
+      "summary": "Article URL: https://www.guru3d.com/story/intel-arc-pro-b50-gpu-launched-at-for-compact-workstations/ Comments URL: https://news.ycombinator.com/item?id=45162626 Points: 85 # Comments: 94"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45162593",
+      "title": "Taking Buildkite from a side project to a global company",
+      "slug": "2025-09-07-taking-buildkite-from-a-side-project-to-a-global-company.html",
+      "path": "posts/2025-09-07-taking-buildkite-from-a-side-project-to-a-global-company.html",
+      "date_iso": "2025-09-07T22:03:13+00:00",
+      "source": "https://www.valleyofdoubt.com/p/taking-buildkite-from-a-side-project",
+      "summary": "Article URL: https://www.valleyofdoubt.com/p/taking-buildkite-from-a-side-project Comments URL: https://news.ycombinator.com/item?id=45162593 Points: 43 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45162501",
+      "title": "Creative Technology: The Sound Blaster",
+      "slug": "2025-09-07-creative-technology-the-sound-blaster.html",
+      "path": "posts/2025-09-07-creative-technology-the-sound-blaster.html",
+      "date_iso": "2025-09-07T21:50:30+00:00",
+      "source": "https://www.abortretry.fail/p/the-story-of-creative-technology",
+      "summary": "Article URL: https://www.abortretry.fail/p/the-story-of-creative-technology Comments URL: https://news.ycombinator.com/item?id=45162501 Points: 67 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45162220",
+      "title": "Taco Bell AI Drive-Thru",
+      "slug": "2025-09-07-taco-bell-ai-drive-thru.html",
+      "path": "posts/2025-09-07-taco-bell-ai-drive-thru.html",
+      "date_iso": "2025-09-07T21:14:08+00:00",
+      "source": "https://aidarwinawards.org/nominees/taco-bell-ai-drive-thru.html",
+      "summary": "Article URL: https://aidarwinawards.org/nominees/taco-bell-ai-drive-thru.html Comments URL: https://news.ycombinator.com/item?id=45162220 Points: 86 # Comments: 116"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45161816",
+      "title": "Everything from 1991 Radio Shack ad I now do with my phone (2014)",
+      "slug": "2025-09-07-everything-from-1991-radio-shack-ad-i-now-do-with-my-phone-2014.html",
+      "path": "posts/2025-09-07-everything-from-1991-radio-shack-ad-i-now-do-with-my-phone-2014.html",
+      "date_iso": "2025-09-07T20:26:30+00:00",
+      "source": "https://www.trendingbuffalo.com/life/uncle-steves-buffalo/everything-from-1991-radio-shack-ad-now/",
+      "summary": "Article URL: https://www.trendingbuffalo.com/life/uncle-steves-buffalo/everything-from-1991-radio-shack-ad-now/ Comments URL: https://news.ycombinator.com/item?id=45161816 Points: 173 # Comments: 133"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45161556",
+      "title": "No Silver Bullet: Essence and Accidents of Software Engineering (1986) [pdf]",
+      "slug": "2025-09-07-no-silver-bullet-essence-and-accidents-of-software-engineering-1986-pdf.html",
+      "path": "posts/2025-09-07-no-silver-bullet-essence-and-accidents-of-software-engineering-1986-pdf.html",
+      "date_iso": "2025-09-07T19:53:03+00:00",
+      "source": "https://www.cs.unc.edu/techreports/86-020.pdf",
+      "summary": "Article URL: https://www.cs.unc.edu/techreports/86-020.pdf Comments URL: https://news.ycombinator.com/item?id=45161556 Points: 77 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45161229",
+      "title": "How to make metals from Martian dirt",
+      "slug": "2025-09-07-how-to-make-metals-from-martian-dirt.html",
+      "path": "posts/2025-09-07-how-to-make-metals-from-martian-dirt.html",
+      "date_iso": "2025-09-07T19:09:45+00:00",
+      "source": "https://www.csiro.au/en/news/All/Articles/2025/August/Metals-out-of-martian-dirt",
+      "summary": "Article URL: https://www.csiro.au/en/news/All/Articles/2025/August/Metals-out-of-martian-dirt Comments URL: https://news.ycombinator.com/item?id=45161229 Points: 54 # Comments: 45"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45160774",
+      "title": "Keeping secrets out of logs (2024)",
+      "slug": "2025-09-07-keeping-secrets-out-of-logs-2024.html",
+      "path": "posts/2025-09-07-keeping-secrets-out-of-logs-2024.html",
+      "date_iso": "2025-09-07T18:16:30+00:00",
+      "source": "https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/",
+      "summary": "Article URL: https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/ Comments URL: https://news.ycombinator.com/item?id=45160774 Points: 190 # Comments: 34"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/07/technology/ross-ulbricht-silk-road-comeback.html",
+      "title": "The Spectacular Comeback Tour of Ross Ulbricht, the Founder of Silk Road",
+      "slug": "2025-09-07-the-spectacular-comeback-tour-of-ross-ulbricht-the-founder-of-silk-road.html",
+      "path": "posts/2025-09-07-the-spectacular-comeback-tour-of-ross-ulbricht-the-founder-of-silk-road.html",
+      "date_iso": "2025-09-07T15:48:34+00:00",
+      "source": "https://www.nytimes.com/2025/09/07/technology/ross-ulbricht-silk-road-comeback.html",
+      "summary": "Ross Ulbricht, who was convicted of drug distribution on his Silk Road marketplace, was the closing speaker at Bitcoin 2025, a conference held at the Venetian in Las Vegas in May."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45158968",
+      "title": "The MacBook has a sensor that knows the exact angle of the screen hinge",
+      "slug": "2025-09-07-the-macbook-has-a-sensor-that-knows-the-exact-angle-of-the-screen-hinge.html",
+      "path": "posts/2025-09-07-the-macbook-has-a-sensor-that-knows-the-exact-angle-of-the-screen-hinge.html",
+      "date_iso": "2025-09-07T15:20:29+00:00",
+      "source": "https://twitter.com/samhenrigold/status/1964428927159382261",
+      "summary": "Alts: https://hachyderm.io/@samhenrigold/115159295473019599 , https://bsky.app/profile/samhenri.gold/post/3ly7252lx422d Theremin Mode: https://twitter.com/samhenrigold/status/1964464940049453153 Github: https://github.com/samhenrigold/LidAngleSensor Comments URL: https://news.yc…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45158814",
+      "title": "SQLite's Use of Tcl (2017)",
+      "slug": "2025-09-07-sqlite-s-use-of-tcl-2017.html",
+      "path": "posts/2025-09-07-sqlite-s-use-of-tcl-2017.html",
+      "date_iso": "2025-09-07T15:03:46+00:00",
+      "source": "https://www.tcl-lang.org/community/tcl2017/assets/talk93/Paper.html",
+      "summary": "Article URL: https://www.tcl-lang.org/community/tcl2017/assets/talk93/Paper.html Comments URL: https://news.ycombinator.com/item?id=45158814 Points: 86 # Comments: 28"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45157020",
+      "title": "Show HN: I'm a dermatologist and I vibe coded a skin cancer learning app",
+      "slug": "2025-09-07-show-hn-i-m-a-dermatologist-and-i-vibe-coded-a-skin-cancer-learning-app.html",
+      "path": "posts/2025-09-07-show-hn-i-m-a-dermatologist-and-i-vibe-coded-a-skin-cancer-learning-app.html",
+      "date_iso": "2025-09-07T10:38:29+00:00",
+      "source": "https://molecheck.info/",
+      "summary": "Coded using Gemini Pro 2.5 (free version) in about 2-3 hours. Single file including all html/js/css, Vanilla JS, no backend, scores persisted with localStorage. Deployed using ubuntu/apache2/python/flask on a £5 Digital Ocean server (but could have been hosted on a static hostin…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45156826",
+      "title": "What is the origin of the private network address 192.168.*.*? (2009)",
+      "slug": "2025-09-07-what-is-the-origin-of-the-private-network-address-192-168-2009.html",
+      "path": "posts/2025-09-07-what-is-the-origin-of-the-private-network-address-192-168-2009.html",
+      "date_iso": "2025-09-07T09:52:56+00:00",
+      "source": "https://lists.ding.net/othersite/isoc-internet-history/2009/oct/msg00000.html",
+      "summary": "Article URL: https://lists.ding.net/othersite/isoc-internet-history/2009/oct/msg00000.html Comments URL: https://news.ycombinator.com/item?id=45156826 Points: 169 # Comments: 78"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45155398",
       "title": "Unofficial Windows 11 requirements bypass tool allows disabling all AI features",
       "slug": "2025-09-07-unofficial-windows-11-requirements-bypass-tool-allows-disabling-all-ai-features.html",
