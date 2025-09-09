@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2025/09/09/business/asml-mistral-ai-chips-investment.html",
+      "title": "ASML to Invest $1.5 Billion in Mistral, the French A.I. Start-Up",
+      "slug": "2025-09-09-asml-to-invest-1-5-billion-in-mistral-the-french-a-i-start-up.html",
+      "path": "posts/2025-09-09-asml-to-invest-1-5-billion-in-mistral-the-french-a-i-start-up.html",
+      "date_iso": "2025-09-09T07:17:46+00:00",
+      "source": "https://www.nytimes.com/2025/09/09/business/asml-mistral-ai-chips-investment.html",
+      "summary": "Arthur Mensch, the chief executive of the artificial intelligence start-up Mistral. A new fund-raising round values the firm at 13.8 billion."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45177518",
+      "title": "Strong Eventual Consistency – The Big Idea Behind CRDTs",
+      "slug": "2025-09-09-strong-eventual-consistency-the-big-idea-behind-crdts.html",
+      "path": "posts/2025-09-09-strong-eventual-consistency-the-big-idea-behind-crdts.html",
+      "date_iso": "2025-09-09T04:46:17+00:00",
+      "source": "https://lewiscampbell.tech/blog/250908.html",
+      "summary": "Article URL: https://lewiscampbell.tech/blog/250908.html Comments URL: https://news.ycombinator.com/item?id=45177518 Points: 23 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45177507",
+      "title": "Byte Type: Supporting Raw Data Copies in the LLVM IR",
+      "slug": "2025-09-09-byte-type-supporting-raw-data-copies-in-the-llvm-ir.html",
+      "path": "posts/2025-09-09-byte-type-supporting-raw-data-copies-in-the-llvm-ir.html",
+      "date_iso": "2025-09-09T04:44:20+00:00",
+      "source": "https://blog.llvm.org/posts/2025-08-29-gsoc-byte-type/",
+      "summary": "Article URL: https://blog.llvm.org/posts/2025-08-29-gsoc-byte-type/ Comments URL: https://news.ycombinator.com/item?id=45177507 Points: 7 # Comments: 1"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/08/technology/personaltech/ai-iphones-android-smartphones.html",
+      "title": "A.I. Could Make the Smartphone Passé. What Comes Next?",
+      "slug": "2025-09-09-a-i-could-make-the-smartphone-pass-what-comes-next.html",
+      "path": "posts/2025-09-09-a-i-could-make-the-smartphone-pass-what-comes-next.html",
+      "date_iso": "2025-09-09T04:41:27+00:00",
+      "source": "https://www.nytimes.com/2025/09/08/technology/personaltech/ai-iphones-android-smartphones.html",
+      "summary": "As Apple prepares to release new iPhones this week, industry veterans shared their predictions for what will be the next big thing in personal computing."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45176491",
+      "title": "Incident Report for Anthropic",
+      "slug": "2025-09-09-incident-report-for-anthropic.html",
+      "path": "posts/2025-09-09-incident-report-for-anthropic.html",
+      "date_iso": "2025-09-09T01:51:54+00:00",
+      "source": "https://status.anthropic.com/incidents/72f99lh1cj2c",
+      "summary": "Article URL: https://status.anthropic.com/incidents/72f99lh1cj2c Comments URL: https://news.ycombinator.com/item?id=45176491 Points: 57 # Comments: 43"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45176401",
+      "title": "Show HN: Attempt – A CLI for retrying fallible commands",
+      "slug": "2025-09-09-show-hn-attempt-a-cli-for-retrying-fallible-commands.html",
+      "path": "posts/2025-09-09-show-hn-attempt-a-cli-for-retrying-fallible-commands.html",
+      "date_iso": "2025-09-09T01:37:28+00:00",
+      "source": "https://github.com/MaxBondABE/attempt",
+      "summary": "Hi HN, Here's a tool I wrote for retrying fallible commands. Nothing groundbreaking here, this is a tool that's been made many times (and several have been submitted to Show HN). Though this one does have a more comprehensive feature set than most. I hope one or two people will…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45176206",
+      "title": "No adblocker detected",
+      "slug": "2025-09-09-no-adblocker-detected.html",
+      "path": "posts/2025-09-09-no-adblocker-detected.html",
+      "date_iso": "2025-09-09T01:09:21+00:00",
+      "source": "https://maurycyz.com/misc/ads/",
+      "summary": "Article URL: https://maurycyz.com/misc/ads/ Comments URL: https://news.ycombinator.com/item?id=45176206 Points: 298 # Comments: 119"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45175628",
+      "title": "The Storm Hits the Art Market",
+      "slug": "2025-09-08-the-storm-hits-the-art-market.html",
+      "path": "posts/2025-09-08-the-storm-hits-the-art-market.html",
+      "date_iso": "2025-09-08T23:48:14+00:00",
+      "source": "https://news.artnet.com/market/intelligence-report-storm-2025-2684512",
+      "summary": "Article URL: https://news.artnet.com/market/intelligence-report-storm-2025-2684512 Comments URL: https://news.ycombinator.com/item?id=45175628 Points: 189 # Comments: 133"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/08/technology/whatsapp-whistleblower-lawsuit.html",
+      "title": "Whistle-Blower Sues Meta Over Claims of WhatsApp Security Flaws",
+      "slug": "2025-09-08-whistle-blower-sues-meta-over-claims-of-whatsapp-security-flaws.html",
+      "path": "posts/2025-09-08-whistle-blower-sues-meta-over-claims-of-whatsapp-security-flaws.html",
+      "date_iso": "2025-09-08T22:16:32+00:00",
+      "source": "https://www.nytimes.com/2025/09/08/technology/whatsapp-whistleblower-lawsuit.html",
+      "summary": "Attaullah Baig tried to warn Meta’s top leaders, including its chief executive, Mark Zuckerberg, that millions of users were being harmed by the security weaknesses, according to his lawsuit."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45174297",
+      "title": "Liquid Glass in the Browser: Refraction with CSS and SVG",
+      "slug": "2025-09-08-liquid-glass-in-the-browser-refraction-with-css-and-svg.html",
+      "path": "posts/2025-09-08-liquid-glass-in-the-browser-refraction-with-css-and-svg.html",
+      "date_iso": "2025-09-08T21:32:49+00:00",
+      "source": "https://kube.io/blog/liquid-glass-css-svg/",
+      "summary": "Article URL: https://kube.io/blog/liquid-glass-css-svg/ Comments URL: https://news.ycombinator.com/item?id=45174297 Points: 214 # Comments: 55"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45174221",
+      "title": "Ex-WhatsApp cybersecurity head says Meta endangered billions of users",
+      "slug": "2025-09-08-ex-whatsapp-cybersecurity-head-says-meta-endangered-billions-of-users.html",
+      "path": "posts/2025-09-08-ex-whatsapp-cybersecurity-head-says-meta-endangered-billions-of-users.html",
+      "date_iso": "2025-09-08T21:26:07+00:00",
+      "source": "https://www.theguardian.com/technology/2025/sep/08/meta-user-data-lawsuit-whatsapp",
+      "summary": "Article URL: https://www.theguardian.com/technology/2025/sep/08/meta-user-data-lawsuit-whatsapp Comments URL: https://news.ycombinator.com/item?id=45174221 Points: 246 # Comments: 125"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45174125",
+      "title": "Alterego: Thought to Text",
+      "slug": "2025-09-08-alterego-thought-to-text.html",
+      "path": "posts/2025-09-08-alterego-thought-to-text.html",
+      "date_iso": "2025-09-08T21:17:50+00:00",
+      "source": "https://www.alterego.io/",
+      "summary": "Article URL: https://www.alterego.io/ Comments URL: https://news.ycombinator.com/item?id=45174125 Points: 124 # Comments: 84"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45174037",
+      "title": "The elegance of movement in Silksong",
+      "slug": "2025-09-08-the-elegance-of-movement-in-silksong.html",
+      "path": "posts/2025-09-08-the-elegance-of-movement-in-silksong.html",
+      "date_iso": "2025-09-08T21:10:18+00:00",
+      "source": "https://theahura.substack.com/p/the-elegance-of-movement-in-silksong",
+      "summary": "Article URL: https://theahura.substack.com/p/the-elegance-of-movement-in-silksong Comments URL: https://news.ycombinator.com/item?id=45174037 Points: 94 # Comments: 108"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45172609",
+      "title": "Microsoft doubles down on small modular reactors and fusion energy",
+      "slug": "2025-09-08-microsoft-doubles-down-on-small-modular-reactors-and-fusion-energy.html",
+      "path": "posts/2025-09-08-microsoft-doubles-down-on-small-modular-reactors-and-fusion-energy.html",
+      "date_iso": "2025-09-08T19:16:39+00:00",
+      "source": "https://www.techradar.com/pro/microsoft-joins-world-nuclear-association-as-it-doubles-down-on-small-modular-reactors-and-fusion-energy",
+      "summary": "Announcement release: https://world-nuclear.org/news-and-media/press-statements/wo... Comments URL: https://news.ycombinator.com/item?id=45172609 Points: 94 # Comments: 148"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45171200",
+      "title": "iPhone dumbphone",
+      "slug": "2025-09-08-iphone-dumbphone.html",
+      "path": "posts/2025-09-08-iphone-dumbphone.html",
+      "date_iso": "2025-09-08T17:33:44+00:00",
+      "source": "https://stopa.io/post/297",
+      "summary": "Article URL: https://stopa.io/post/297 Comments URL: https://news.ycombinator.com/item?id=45171200 Points: 407 # Comments: 264"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45170515",
+      "title": "Signal Secure Backups",
+      "slug": "2025-09-08-signal-secure-backups.html",
+      "path": "posts/2025-09-08-signal-secure-backups.html",
+      "date_iso": "2025-09-08T16:43:39+00:00",
+      "source": "https://signal.org/blog/introducing-secure-backups/",
+      "summary": "Article URL: https://signal.org/blog/introducing-secure-backups/ Comments URL: https://news.ycombinator.com/item?id=45170515 Points: 760 # Comments: 338"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45170000",
+      "title": "I have left Branch and am no longer involved with Nova Launcher",
+      "slug": "2025-09-08-i-have-left-branch-and-am-no-longer-involved-with-nova-launcher.html",
+      "path": "posts/2025-09-08-i-have-left-branch-and-am-no-longer-involved-with-nova-launcher.html",
+      "date_iso": "2025-09-08T16:06:52+00:00",
+      "source": "https://teslacoilapps.com/nova/solong.html",
+      "summary": "Article URL: https://teslacoilapps.com/nova/solong.html Comments URL: https://news.ycombinator.com/item?id=45170000 Points: 135 # Comments: 62"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/08/technology/space-capsules-ai-lasers-tech-golden-dome.html",
+      "title": "Tech Companies Show Off for Trump’s ‘Golden Dome’",
+      "slug": "2025-09-08-tech-companies-show-off-for-trump-s-golden-dome.html",
+      "path": "posts/2025-09-08-tech-companies-show-off-for-trump-s-golden-dome.html",
+      "date_iso": "2025-09-08T15:49:14+00:00",
+      "source": "https://www.nytimes.com/2025/09/08/technology/space-capsules-ai-lasers-tech-golden-dome.html",
+      "summary": "Will Bruey, the chief executive of Varda Space Industries, at the company’s headquarters in El Segundo, Calif."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45169657",
+      "title": "NPM debug and chalk packages compromised",
+      "slug": "2025-09-08-npm-debug-and-chalk-packages-compromised.html",
+      "path": "posts/2025-09-08-npm-debug-and-chalk-packages-compromised.html",
+      "date_iso": "2025-09-08T15:37:57+00:00",
+      "source": "https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised",
+      "summary": "https://github.com/advisories/GHSA-8mgj-vmr8-frr6 Comments URL: https://news.ycombinator.com/item?id=45169657 Points: 1116 # Comments: 601"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45169624",
+      "title": "Will Amazon S3 Vectors kill vector databases or save them?",
+      "slug": "2025-09-08-will-amazon-s3-vectors-kill-vector-databases-or-save-them.html",
+      "path": "posts/2025-09-08-will-amazon-s3-vectors-kill-vector-databases-or-save-them.html",
+      "date_iso": "2025-09-08T15:35:46+00:00",
+      "source": "https://zilliz.com/blog/will-amazon-s3-vectors-kill-vector-databases-or-save-them",
+      "summary": "Article URL: https://zilliz.com/blog/will-amazon-s3-vectors-kill-vector-databases-or-save-them Comments URL: https://news.ycombinator.com/item?id=45169624 Points: 204 # Comments: 99"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45169275",
+      "title": "Clankers Die on Christmas",
+      "slug": "2025-09-08-clankers-die-on-christmas.html",
+      "path": "posts/2025-09-08-clankers-die-on-christmas.html",
+      "date_iso": "2025-09-08T15:08:20+00:00",
+      "source": "https://remyhax.xyz/posts/clankers-die-on-christmas/",
+      "summary": "Article URL: https://remyhax.xyz/posts/clankers-die-on-christmas/ Comments URL: https://news.ycombinator.com/item?id=45169275 Points: 195 # Comments: 149"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45168953",
+      "title": "Experimenting with Local LLMs on macOS",
+      "slug": "2025-09-08-experimenting-with-local-llms-on-macos.html",
+      "path": "posts/2025-09-08-experimenting-with-local-llms-on-macos.html",
+      "date_iso": "2025-09-08T14:43:17+00:00",
+      "source": "https://blog.6nok.org/experimenting-with-local-llms-on-macos/",
+      "summary": "Article URL: https://blog.6nok.org/experimenting-with-local-llms-on-macos/ Comments URL: https://news.ycombinator.com/item?id=45168953 Points: 303 # Comments: 195"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45168854",
+      "title": "AMD claims Arm ISA doesn't offer efficiency advantage over x86",
+      "slug": "2025-09-08-amd-claims-arm-isa-doesn-t-offer-efficiency-advantage-over-x86.html",
+      "path": "posts/2025-09-08-amd-claims-arm-isa-doesn-t-offer-efficiency-advantage-over-x86.html",
+      "date_iso": "2025-09-08T14:36:00+00:00",
+      "source": "https://www.techpowerup.com/340779/amd-claims-arm-isa-doesnt-offer-efficiency-advantage-over-x86",
+      "summary": "Article URL: https://www.techpowerup.com/340779/amd-claims-arm-isa-doesnt-offer-efficiency-advantage-over-x86 Comments URL: https://news.ycombinator.com/item?id=45168854 Points: 148 # Comments: 274"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/08/technology/mike-isaac-music-writing.html",
+      "title": "A Tech Reporter’s Side Gig: Music Writing",
+      "slug": "2025-09-08-a-tech-reporter-s-side-gig-music-writing.html",
+      "path": "posts/2025-09-08-a-tech-reporter-s-side-gig-music-writing.html",
+      "date_iso": "2025-09-08T14:27:37+00:00",
+      "source": "https://www.nytimes.com/2025/09/08/technology/mike-isaac-music-writing.html",
+      "summary": "Every so often, Mike Isaac swerves from his Silicon Valley beat to write about bands."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45167625",
+      "title": "AI might yet follow the path of previous technological revolutions",
+      "slug": "2025-09-08-ai-might-yet-follow-the-path-of-previous-technological-revolutions.html",
+      "path": "posts/2025-09-08-ai-might-yet-follow-the-path-of-previous-technological-revolutions.html",
+      "date_iso": "2025-09-08T12:49:46+00:00",
+      "source": "https://www.economist.com/finance-and-economics/2025/09/04/what-if-artificial-intelligence-is-just-a-normal-technology",
+      "summary": "Article URL: https://www.economist.com/finance-and-economics/2025/09/04/what-if-artificial-intelligence-is-just-a-normal-technology Comments URL: https://news.ycombinator.com/item?id=45167625 Points: 147 # Comments: 207"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45165245",
       "title": "Show HN: Veena Chromatic Tuner",
       "slug": "2025-09-08-show-hn-veena-chromatic-tuner.html",
