@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: TailGuard – Bridge your WireGuard router into Tailscale via a container</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: TailGuard – Bridge your WireGuard router into Tailscale via a container</h1>
+    <p><small>Published: 2025-09-10T03:42:55+00:00</small></p>
+  </header>
+
+  <main>
+    <p>My elderly parents are behind a 5G connection in rural areas, and I help them manage their network from overseas. I found a reasonably priced 5G router that can do external antennas required for it to work, but the only reasonable ways to get access to it is either through OpenVPN or WireGuard, the latter of which is much more lightweight and preferred with the memory constraints of the device.<p>The problem with WireGuard is that it requires handling key management oneself, and configuring the keys to every device you want to access it from. It also doesn't play nicely together with other VPNs, meaning I ended up connecting and disconnecting VPNs whenever I wanted to use them. This is especially evident on my phone, which only allows one VPN app at a time.<p>I was already using Tailscale as an easy way to handle homelab access with SSO, even if some computers are behind ISP CGNAT, and came up with this idea of spinning up a Docker container to connect the two. I found some suggestions for it online, but nothing ready to use. It ended up being more work than I expected to fine tune the routing, IPv6, firewall settings, re-resolving the DNS of the router on IP address changes etc.<p>I got it very stable eventually though, and wanted to share with everyone else. I think it's cool to have the WireGuard router looking like any other Tailscale node in my tailnet now.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45192963">https://news.ycombinator.com/item?id=45192963</a></p>
+<p>Points: 128</p>
+<p># Comments: 26</p>
+    <p><a href="https://github.com/juhovh/tailguard" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

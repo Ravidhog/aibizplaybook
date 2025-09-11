@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2025/09/11/technology/charlie-kirk-shooting-false-accusation.html",
+      "title": "Canadian Man Falsely Named as Charlie Kirk’s Shooter on Social Media",
+      "slug": "2025-09-11-canadian-man-falsely-named-as-charlie-kirk-s-shooter-on-social-media.html",
+      "path": "posts/2025-09-11-canadian-man-falsely-named-as-charlie-kirk-s-shooter-on-social-media.html",
+      "date_iso": "2025-09-11T04:14:00+00:00",
+      "source": "https://www.nytimes.com/2025/09/11/technology/charlie-kirk-shooting-false-accusation.html",
+      "summary": "The authorities in Utah were still searching Wednesday night for the person who killed Charlie Kirk."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/10/technology/whatsapp-senators-letter-meta.html",
+      "title": "Senators Demand Answers From Mark Zuckerberg on WhatsApp Security",
+      "slug": "2025-09-11-senators-demand-answers-from-mark-zuckerberg-on-whatsapp-security.html",
+      "path": "posts/2025-09-11-senators-demand-answers-from-mark-zuckerberg-on-whatsapp-security.html",
+      "date_iso": "2025-09-11T02:57:31+00:00",
+      "source": "https://www.nytimes.com/2025/09/10/technology/whatsapp-senators-letter-meta.html",
+      "summary": "Attaullah Baig, the former head of security at WhatsApp, sued Meta on Monday accusing the company of ignoring major security and privacy flaws that put billions of the messaging app’s users at risk."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45207008",
+      "title": "The Four Fallacies of Modern AI",
+      "slug": "2025-09-11-the-four-fallacies-of-modern-ai.html",
+      "path": "posts/2025-09-11-the-four-fallacies-of-modern-ai.html",
+      "date_iso": "2025-09-11T02:26:16+00:00",
+      "source": "https://blog.apiad.net/p/the-four-fallacies-of-modern-ai",
+      "summary": "Article URL: https://blog.apiad.net/p/the-four-fallacies-of-modern-ai Comments URL: https://news.ycombinator.com/item?id=45207008 Points: 50 # Comments: 32"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/10/technology/charlie-kirk-shooting-videos-social-media.html",
+      "title": "Videos of Charlie Kirk’s Shooting Spread Rapidly on Social Media",
+      "slug": "2025-09-11-videos-of-charlie-kirk-s-shooting-spread-rapidly-on-social-media.html",
+      "path": "posts/2025-09-11-videos-of-charlie-kirk-s-shooting-spread-rapidly-on-social-media.html",
+      "date_iso": "2025-09-11T01:30:18+00:00",
+      "source": "https://www.nytimes.com/2025/09/10/technology/charlie-kirk-shooting-videos-social-media.html",
+      "summary": "An area at Utah Valley University in Orem was cordoned off after the fatal shooting of Charlie Kirk during a rally there on Wednesday."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45206567",
+      "title": "Court rejects Verizon claim that selling location data without consent is legal",
+      "slug": "2025-09-11-court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal.html",
+      "path": "posts/2025-09-11-court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal.html",
+      "date_iso": "2025-09-11T01:27:31+00:00",
+      "source": "https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/ Comments URL: https://news.ycombinator.com/item?id=45206567 Points: 351 # Comments: 27"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45206311",
+      "title": "Where did the Smurfs get their hats (2018)",
+      "slug": "2025-09-11-where-did-the-smurfs-get-their-hats-2018.html",
+      "path": "posts/2025-09-11-where-did-the-smurfs-get-their-hats-2018.html",
+      "date_iso": "2025-09-11T00:52:32+00:00",
+      "source": "https://www.pipelinecomics.com/beginning-bd-smurfs-hats-origin/",
+      "summary": "Article URL: https://www.pipelinecomics.com/beginning-bd-smurfs-hats-origin/ Comments URL: https://news.ycombinator.com/item?id=45206311 Points: 55 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45205232",
+      "title": "DOOMscrolling: The Game",
+      "slug": "2025-09-10-doomscrolling-the-game.html",
+      "path": "posts/2025-09-10-doomscrolling-the-game.html",
+      "date_iso": "2025-09-10T22:56:55+00:00",
+      "source": "https://ironicsans.ghost.io/doomscrolling-the-game/",
+      "summary": "Article URL: https://ironicsans.ghost.io/doomscrolling-the-game/ Comments URL: https://news.ycombinator.com/item?id=45205232 Points: 208 # Comments: 50"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45204838",
+      "title": "Intel's E2200 \"Mount Morgan\" IPU at Hot Chips 2025",
+      "slug": "2025-09-10-intel-s-e2200-mount-morgan-ipu-at-hot-chips-2025.html",
+      "path": "posts/2025-09-10-intel-s-e2200-mount-morgan-ipu-at-hot-chips-2025.html",
+      "date_iso": "2025-09-10T22:21:35+00:00",
+      "source": "https://chipsandcheese.com/p/intels-e2200-mount-morgan-ipu-at",
+      "summary": "Article URL: https://chipsandcheese.com/p/intels-e2200-mount-morgan-ipu-at Comments URL: https://news.ycombinator.com/item?id=45204838 Points: 62 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45204393",
+      "title": "KDE launches its own distribution",
+      "slug": "2025-09-10-kde-launches-its-own-distribution.html",
+      "path": "posts/2025-09-10-kde-launches-its-own-distribution.html",
+      "date_iso": "2025-09-10T21:49:36+00:00",
+      "source": "https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/ Comments URL: https://news.ycombinator.com/item?id=45204393 Points: 403 # Comments: 197"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45203935",
+      "title": "Fraudulent Publishing in the Mathematical Sciences",
+      "slug": "2025-09-10-fraudulent-publishing-in-the-mathematical-sciences.html",
+      "path": "posts/2025-09-10-fraudulent-publishing-in-the-mathematical-sciences.html",
+      "date_iso": "2025-09-10T21:21:36+00:00",
+      "source": "https://arxiv.org/abs/2509.07257",
+      "summary": "Article URL: https://arxiv.org/abs/2509.07257 Comments URL: https://news.ycombinator.com/item?id=45203935 Points: 56 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45203643",
+      "title": "Mux (YC W16) Is Hiring Engineering ICs and Managers",
+      "slug": "2025-09-10-mux-yc-w16-is-hiring-engineering-ics-and-managers.html",
+      "path": "posts/2025-09-10-mux-yc-w16-is-hiring-engineering-ics-and-managers.html",
+      "date_iso": "2025-09-10T21:01:01+00:00",
+      "source": "https://mux.com/jobs",
+      "summary": "Article URL: https://mux.com/jobs Comments URL: https://news.ycombinator.com/item?id=45203643 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/10/technology/openai-oracle-data-centers-deal.html",
+      "title": "OpenAI Signs $300 Billion Data Center Pact With Tech Giant Oracle",
+      "slug": "2025-09-10-openai-signs-300-billion-data-center-pact-with-tech-giant-oracle.html",
+      "path": "posts/2025-09-10-openai-signs-300-billion-data-center-pact-with-tech-giant-oracle.html",
+      "date_iso": "2025-09-10T20:31:27+00:00",
+      "source": "https://www.nytimes.com/2025/09/10/technology/openai-oracle-data-centers-deal.html",
+      "summary": "From right, Larry Ellison of Oracle, Masayoshi Son of SoftBank and Sam Altman of OpenAI announced their Project Stargate with President Trump at the White House in January."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45201703",
+      "title": "Show HN: Haystack – Review pull requests like you wrote them yourself",
+      "slug": "2025-09-10-show-hn-haystack-review-pull-requests-like-you-wrote-them-yourself.html",
+      "path": "posts/2025-09-10-show-hn-haystack-review-pull-requests-like-you-wrote-them-yourself.html",
+      "date_iso": "2025-09-10T18:21:12+00:00",
+      "source": "https://haystackeditor.com",
+      "summary": "Hi HN! We’re Akshay and Jake. We put together a tool called Haystack to make pull requests straightforward to read. What Haystack does: -- Builds a clear narrative. Changes in Haystack aren’t just arranged as unordered diffs. Instead, they unfold in a logical order, each paired…"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/10/arts/music/royal-opera-ai-festival.html",
+      "title": "Royal Ballet and Opera Confronts A.I. With ‘RBO/Shift’ Festival",
+      "slug": "2025-09-10-royal-ballet-and-opera-confronts-a-i-with-rbo-shift-festival.html",
+      "path": "posts/2025-09-10-royal-ballet-and-opera-confronts-a-i-with-rbo-shift-festival.html",
+      "date_iso": "2025-09-10T17:49:25+00:00",
+      "source": "https://www.nytimes.com/2025/09/10/arts/music/royal-opera-ai-festival.html",
+      "summary": "The London institution is creating “RBO/Shift,” a technology festival whose first year will ask how far A.I. can push the boundaries of opera."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45200925",
+      "title": "Defeating Nondeterminism in LLM Inference",
+      "slug": "2025-09-10-defeating-nondeterminism-in-llm-inference.html",
+      "path": "posts/2025-09-10-defeating-nondeterminism-in-llm-inference.html",
+      "date_iso": "2025-09-10T17:26:08+00:00",
+      "source": "https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/",
+      "summary": "Article URL: https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/ Comments URL: https://news.ycombinator.com/item?id=45200925 Points: 237 # Comments: 94"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45200024",
+      "title": "“No Tax on Tips” Includes Digital Creators, Too",
+      "slug": "2025-09-10-no-tax-on-tips-includes-digital-creators-too.html",
+      "path": "posts/2025-09-10-no-tax-on-tips-includes-digital-creators-too.html",
+      "date_iso": "2025-09-10T16:26:07+00:00",
+      "source": "https://www.hollywoodreporter.com/business/business-news/no-tax-on-tips-guidance-creators-trump-treasury-1236366513/",
+      "summary": "Article URL: https://www.hollywoodreporter.com/business/business-news/no-tax-on-tips-guidance-creators-trump-treasury-1236366513/ Comments URL: https://news.ycombinator.com/item?id=45200024 Points: 119 # Comments: 189"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45199931",
+      "title": "I didn't bring my son to a museum to look at screens",
+      "slug": "2025-09-10-i-didn-t-bring-my-son-to-a-museum-to-look-at-screens.html",
+      "path": "posts/2025-09-10-i-didn-t-bring-my-son-to-a-museum-to-look-at-screens.html",
+      "date_iso": "2025-09-10T16:20:55+00:00",
+      "source": "https://sethpurcell.com/writing/screens-in-museums/",
+      "summary": "Article URL: https://sethpurcell.com/writing/screens-in-museums/ Comments URL: https://news.ycombinator.com/item?id=45199931 Points: 933 # Comments: 311"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45199713",
+      "title": "ChatGPT Developer Mode: Full MCP client access",
+      "slug": "2025-09-10-chatgpt-developer-mode-full-mcp-client-access.html",
+      "path": "posts/2025-09-10-chatgpt-developer-mode-full-mcp-client-access.html",
+      "date_iso": "2025-09-10T16:04:49+00:00",
+      "source": "https://platform.openai.com/docs/guides/developer-mode",
+      "summary": "Article URL: https://platform.openai.com/docs/guides/developer-mode Comments URL: https://news.ycombinator.com/item?id=45199713 Points: 418 # Comments: 227"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45199648",
+      "title": "Launch HN: Recall.ai (YC W20) – API for meeting recordings and transcripts",
+      "slug": "2025-09-10-launch-hn-recall-ai-yc-w20-api-for-meeting-recordings-and-transcripts.html",
+      "path": "posts/2025-09-10-launch-hn-recall-ai-yc-w20-api-for-meeting-recordings-and-transcripts.html",
+      "date_iso": "2025-09-10T16:00:06+00:00",
+      "source": "https://news.ycombinator.com/item?id=45199648",
+      "summary": "Hey HN, we're David and Amanda from Recall.ai ( https://www.recall.ai ). Today we’re launching our Desktop Recording SDK, a way to get meeting data without a bot in the meeting: https://www.recall.ai/product/desktop-recording-sdk . It’s our biggest release in quite a while so we…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45198481",
+      "title": "Jiratui – A Textual UI for interacting with Atlassian Jira from your shell",
+      "slug": "2025-09-10-jiratui-a-textual-ui-for-interacting-with-atlassian-jira-from-your-shell.html",
+      "path": "posts/2025-09-10-jiratui-a-textual-ui-for-interacting-with-atlassian-jira-from-your-shell.html",
+      "date_iso": "2025-09-10T14:42:15+00:00",
+      "source": "https://jiratui.sh/",
+      "summary": "Article URL: https://jiratui.sh/ Comments URL: https://news.ycombinator.com/item?id=45198481 Points: 209 # Comments: 58"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45196437",
+      "title": "Kerberoasting",
+      "slug": "2025-09-10-kerberoasting.html",
+      "path": "posts/2025-09-10-kerberoasting.html",
+      "date_iso": "2025-09-10T12:01:30+00:00",
+      "source": "https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/",
+      "summary": "Article URL: https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/ Comments URL: https://news.ycombinator.com/item?id=45196437 Points: 173 # Comments: 60"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45195520",
+      "title": "Pontevedra, Spain declares its entire urban area a \"reduced traffic zone\"",
+      "slug": "2025-09-10-pontevedra-spain-declares-its-entire-urban-area-a-reduced-traffic-zone.html",
+      "path": "posts/2025-09-10-pontevedra-spain-declares-its-entire-urban-area-a-reduced-traffic-zone.html",
+      "date_iso": "2025-09-10T10:08:14+00:00",
+      "source": "https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/",
+      "summary": "Article URL: https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/ Comments URL: https://news.ycombinator.com/item?id=45195520 Points: 778 # Comments: 843"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45194341",
       "title": "News: Arm announces next Generation core family called Arm Lumex",
       "slug": "2025-09-10-news-arm-announces-next-generation-core-family-called-arm-lumex.html",
@@ -26,6 +224,15 @@
       "date_iso": "2025-09-10T07:00:23+00:00",
       "source": "https://forums.plex.tv/t/important-notice-of-security-incident/930523",
       "summary": "Article URL: https://forums.plex.tv/t/important-notice-of-security-incident/930523 Comments URL: https://news.ycombinator.com/item?id=45194218 Points: 12 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45192963",
+      "title": "Show HN: TailGuard – Bridge your WireGuard router into Tailscale via a container",
+      "slug": "2025-09-10-show-hn-tailguard-bridge-your-wireguard-router-into-tailscale-via-a-container.html",
+      "path": "posts/2025-09-10-show-hn-tailguard-bridge-your-wireguard-router-into-tailscale-via-a-container.html",
+      "date_iso": "2025-09-10T03:42:55+00:00",
+      "source": "https://github.com/juhovh/tailguard",
+      "summary": "My elderly parents are behind a 5G connection in rural areas, and I help them manage their network from overseas. I found a reasonably priced 5G router that can do external antennas required for it to work, but the only reasonable ways to get access to it is either through OpenV…"
     },
     {
       "id": "https://news.ycombinator.com/item?id=45192655",
@@ -226,6 +433,15 @@
       "summary": "David Sacks, a White House adviser on artificial intelligence, has attacked newly proposed restrictions on A.I. chip sales to China."
     },
     {
+      "id": "https://news.ycombinator.com/item?id=45181535",
+      "title": "Show HN: Term.everything – Run any GUI app in the terminal",
+      "slug": "2025-09-09-show-hn-term-everything-run-any-gui-app-in-the-terminal.html",
+      "path": "posts/2025-09-09-show-hn-term-everything-run-any-gui-app-in-the-terminal.html",
+      "date_iso": "2025-09-09T13:16:30+00:00",
+      "source": "https://github.com/mmulet/term.everything",
+      "summary": "I made a built-from scratch Wayland Compositor to display any GUI app* in the terminal! I think there is a lot of unexplored potential in custom Wayland compositors, a lot of really cool things you can embed existing applications into! So, I started with embedding apps into the…"
+    },
+    {
       "id": "https://www.nytimes.com/2025/09/09/business/asml-mistral-ai-chips-investment.html",
       "title": "ASML to Invest $1.5 Billion in Mistral, the French A.I. Start-Up",
       "slug": "2025-09-09-asml-to-invest-1-5-billion-in-mistral-the-french-a-i-start-up.html",
@@ -305,6 +521,15 @@
       "date_iso": "2025-09-08T22:16:32+00:00",
       "source": "https://www.nytimes.com/2025/09/08/technology/whatsapp-whistleblower-lawsuit.html",
       "summary": "Attaullah Baig tried to warn Meta’s top leaders, including its chief executive, Mark Zuckerberg, that millions of users were being harmed by the security weaknesses, according to his lawsuit."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45174328",
+      "title": "Formally verifying a floating-point division routine with Gappa – part 1",
+      "slug": "2025-09-08-formally-verifying-a-floating-point-division-routine-with-gappa-part-1.html",
+      "path": "posts/2025-09-08-formally-verifying-a-floating-point-division-routine-with-gappa-part-1.html",
+      "date_iso": "2025-09-08T21:35:41+00:00",
+      "source": "https://community.arm.com/arm-community-blogs/b/embedded-and-microcontrollers-blog/posts/formally-verifying-a-floating-point-division-routine-with-gappa-p1",
+      "summary": "Article URL: https://community.arm.com/arm-community-blogs/b/embedded-and-microcontrollers-blog/posts/formally-verifying-a-floating-point-division-routine-with-gappa-p1 Comments URL: https://news.ycombinator.com/item?id=45174328 Points: 18 # Comments: 1"
     },
     {
       "id": "https://news.ycombinator.com/item?id=45174297",
