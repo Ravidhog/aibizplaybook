@@ -1,6 +1,240 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45219406",
+      "title": "Styled-components maintenance mode: A 40% faster fork",
+      "slug": "2025-09-12-styled-components-maintenance-mode-a-40-faster-fork.html",
+      "path": "posts/2025-09-12-styled-components-maintenance-mode-a-40-faster-fork.html",
+      "date_iso": "2025-09-12T07:00:52+00:00",
+      "source": "https://www.sanity.io/blog/cut-styled-components-into-pieces-this-is-our-last-resort",
+      "summary": "Article URL: https://www.sanity.io/blog/cut-styled-components-into-pieces-this-is-our-last-resort Comments URL: https://news.ycombinator.com/item?id=45219406 Points: 8 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45218111",
+      "title": "Debian 13, Postgres, and the US time zones",
+      "slug": "2025-09-12-debian-13-postgres-and-the-us-time-zones.html",
+      "path": "posts/2025-09-12-debian-13-postgres-and-the-us-time-zones.html",
+      "date_iso": "2025-09-12T02:33:54+00:00",
+      "source": "https://rachelbythebay.com/w/2025/09/11/debtz/",
+      "summary": "Article URL: https://rachelbythebay.com/w/2025/09/11/debtz/ Comments URL: https://news.ycombinator.com/item?id=45218111 Points: 55 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45217858",
+      "title": "The challenge of maintaining curl",
+      "slug": "2025-09-12-the-challenge-of-maintaining-curl.html",
+      "path": "posts/2025-09-12-the-challenge-of-maintaining-curl.html",
+      "date_iso": "2025-09-12T01:42:37+00:00",
+      "source": "https://lwn.net/Articles/1034966/",
+      "summary": "Article URL: https://lwn.net/Articles/1034966/ Comments URL: https://news.ycombinator.com/item?id=45217858 Points: 100 # Comments: 25"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/11/world/asia/nepal-protest-genz-discord.html",
+      "title": "Nepal’s Social Media Ban Backfires as Politics Moves to a Chat Room",
+      "slug": "2025-09-12-nepal-s-social-media-ban-backfires-as-politics-moves-to-a-chat-room.html",
+      "path": "posts/2025-09-12-nepal-s-social-media-ban-backfires-as-politics-moves-to-a-chat-room.html",
+      "date_iso": "2025-09-12T01:10:01+00:00",
+      "source": "https://www.nytimes.com/2025/09/11/world/asia/nepal-protest-genz-discord.html",
+      "summary": "Some Nepalis attended an annual festival in Kathmandu on Thursday, despite the unrest of recent days."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45217499",
+      "title": "Backprompting: Leveraging synthetic production data for health advice guardrails",
+      "slug": "2025-09-12-backprompting-leveraging-synthetic-production-data-for-health-advice-guardrails.html",
+      "path": "posts/2025-09-12-backprompting-leveraging-synthetic-production-data-for-health-advice-guardrails.html",
+      "date_iso": "2025-09-12T00:31:06+00:00",
+      "source": "https://arxiv.org/abs/2508.18384",
+      "summary": "Article URL: https://arxiv.org/abs/2508.18384 Comments URL: https://news.ycombinator.com/item?id=45217499 Points: 19 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45217415",
+      "title": "Float Exposed",
+      "slug": "2025-09-12-float-exposed.html",
+      "path": "posts/2025-09-12-float-exposed.html",
+      "date_iso": "2025-09-12T00:11:15+00:00",
+      "source": "https://float.exposed/",
+      "summary": "Article URL: https://float.exposed/ Comments URL: https://news.ycombinator.com/item?id=45217415 Points: 126 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45217372",
+      "title": "Toddlerbot: Open-Source Humanoid Robot",
+      "slug": "2025-09-12-toddlerbot-open-source-humanoid-robot.html",
+      "path": "posts/2025-09-12-toddlerbot-open-source-humanoid-robot.html",
+      "date_iso": "2025-09-12T00:04:25+00:00",
+      "source": "https://toddlerbot.github.io/",
+      "summary": "Article URL: https://toddlerbot.github.io/ Comments URL: https://news.ycombinator.com/item?id=45217372 Points: 46 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45217269",
+      "title": "Why our website looks like an operating system",
+      "slug": "2025-09-11-why-our-website-looks-like-an-operating-system.html",
+      "path": "posts/2025-09-11-why-our-website-looks-like-an-operating-system.html",
+      "date_iso": "2025-09-11T23:45:36+00:00",
+      "source": "https://posthog.com/blog/why-os",
+      "summary": "Article URL: https://posthog.com/blog/why-os Comments URL: https://news.ycombinator.com/item?id=45217269 Points: 251 # Comments: 196"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/11/technology/openai-microsoft-deal.html",
+      "title": "OpenAI Takes Big Steps Toward Its Long-Planned Reorganization",
+      "slug": "2025-09-11-openai-takes-big-steps-toward-its-long-planned-reorganization.html",
+      "path": "posts/2025-09-11-openai-takes-big-steps-toward-its-long-planned-reorganization.html",
+      "date_iso": "2025-09-11T23:06:53+00:00",
+      "source": "https://www.nytimes.com/2025/09/11/technology/openai-microsoft-deal.html",
+      "summary": "OpenAI was founded as a nonprofit company meant to be focused on A.I. safety."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45216844",
+      "title": "Fartscroll-Lid: An app that plays fart sounds when opening or closing a MacBook",
+      "slug": "2025-09-11-fartscroll-lid-an-app-that-plays-fart-sounds-when-opening-or-closing-a-macbook.html",
+      "path": "posts/2025-09-11-fartscroll-lid-an-app-that-plays-fart-sounds-when-opening-or-closing-a-macbook.html",
+      "date_iso": "2025-09-11T22:41:43+00:00",
+      "source": "https://github.com/iannuttall/fartscroll-lid",
+      "summary": "Article URL: https://github.com/iannuttall/fartscroll-lid Comments URL: https://news.ycombinator.com/item?id=45216844 Points: 196 # Comments: 52"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45216805",
+      "title": "Danish supermarket chain is setting up \"Emergency Stores\"",
+      "slug": "2025-09-11-danish-supermarket-chain-is-setting-up-emergency-stores.html",
+      "path": "posts/2025-09-11-danish-supermarket-chain-is-setting-up-emergency-stores.html",
+      "date_iso": "2025-09-11T22:35:36+00:00",
+      "source": "https://swiss.social/@swaldorff/115186445638788782",
+      "summary": "Article URL: https://swiss.social/@swaldorff/115186445638788782 Comments URL: https://news.ycombinator.com/item?id=45216805 Points: 247 # Comments: 193"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/11/technology/charlie-kirk-falsehoods-speculation-conspiracy.html",
+      "title": "Wild Speculation and Misinformation on Charlie Kirk Shooting Spreads on Social Media",
+      "slug": "2025-09-11-wild-speculation-and-misinformation-on-charlie-kirk-shooting-spreads-on-social-media.html",
+      "path": "posts/2025-09-11-wild-speculation-and-misinformation-on-charlie-kirk-shooting-spreads-on-social-media.html",
+      "date_iso": "2025-09-11T20:53:43+00:00",
+      "source": "https://www.nytimes.com/2025/09/11/technology/charlie-kirk-falsehoods-speculation-conspiracy.html",
+      "summary": "People arrived at a memorial at the Turning Point USA headquarters in Phoenix to pay their respects to Charlie Kirk."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45215869",
+      "title": "Nano Banana image examples",
+      "slug": "2025-09-11-nano-banana-image-examples.html",
+      "path": "posts/2025-09-11-nano-banana-image-examples.html",
+      "date_iso": "2025-09-11T20:35:11+00:00",
+      "source": "https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md",
+      "summary": "Article URL: https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md Comments URL: https://news.ycombinator.com/item?id=45215869 Points: 410 # Comments: 166"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/11/technology/google-meta-chatgpt-ai-chatbots.html",
+      "title": "F.T.C. Starts Inquiry Into A.I. Chatbots and Child Safety",
+      "slug": "2025-09-11-f-t-c-starts-inquiry-into-a-i-chatbots-and-child-safety.html",
+      "path": "posts/2025-09-11-f-t-c-starts-inquiry-into-a-i-chatbots-and-child-safety.html",
+      "date_iso": "2025-09-11T20:02:42+00:00",
+      "source": "https://www.nytimes.com/2025/09/11/technology/google-meta-chatgpt-ai-chatbots.html",
+      "summary": "Chatbots such as OpenAI’s ChatGPT provide humanlike responses to questions and can engage in long conversations."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45214933",
+      "title": "Rails on SQLite: new ways to cause outages",
+      "slug": "2025-09-11-rails-on-sqlite-new-ways-to-cause-outages.html",
+      "path": "posts/2025-09-11-rails-on-sqlite-new-ways-to-cause-outages.html",
+      "date_iso": "2025-09-11T18:58:22+00:00",
+      "source": "https://andre.arko.net/2025/09/11/rails-on-sqlite-exciting-new-ways-to-cause-outages/",
+      "summary": "Article URL: https://andre.arko.net/2025/09/11/rails-on-sqlite-exciting-new-ways-to-cause-outages/ Comments URL: https://news.ycombinator.com/item?id=45214933 Points: 137 # Comments: 36"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45214908",
+      "title": "Claude’s memory architecture is the opposite of ChatGPT’s",
+      "slug": "2025-09-11-claude-s-memory-architecture-is-the-opposite-of-chatgpt-s.html",
+      "path": "posts/2025-09-11-claude-s-memory-architecture-is-the-opposite-of-chatgpt-s.html",
+      "date_iso": "2025-09-11T18:55:50+00:00",
+      "source": "https://www.shloked.com/writing/claude-memory",
+      "summary": "Article URL: https://www.shloked.com/writing/claude-memory Comments URL: https://news.ycombinator.com/item?id=45214908 Points: 307 # Comments: 152"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45214672",
+      "title": "Making io_uring pervasive in QEMU [pdf]",
+      "slug": "2025-09-11-making-io-uring-pervasive-in-qemu-pdf.html",
+      "path": "posts/2025-09-11-making-io-uring-pervasive-in-qemu-pdf.html",
+      "date_iso": "2025-09-11T18:32:43+00:00",
+      "source": "https://vmsplice.net/~stefan/stefanha-kvm-forum-2025.pdf",
+      "summary": "Article URL: https://vmsplice.net/~stefan/stefanha-kvm-forum-2025.pdf Comments URL: https://news.ycombinator.com/item?id=45214672 Points: 70 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45214670",
+      "title": "Top model scores may be skewed by Git history leaks in SWE-bench",
+      "slug": "2025-09-11-top-model-scores-may-be-skewed-by-git-history-leaks-in-swe-bench.html",
+      "path": "posts/2025-09-11-top-model-scores-may-be-skewed-by-git-history-leaks-in-swe-bench.html",
+      "date_iso": "2025-09-11T18:32:23+00:00",
+      "source": "https://github.com/SWE-bench/SWE-bench/issues/465",
+      "summary": "Article URL: https://github.com/SWE-bench/SWE-bench/issues/465 Comments URL: https://news.ycombinator.com/item?id=45214670 Points: 363 # Comments: 115"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45214164",
+      "title": "Bulletproof host Stark Industries evades EU sanctions",
+      "slug": "2025-09-11-bulletproof-host-stark-industries-evades-eu-sanctions.html",
+      "path": "posts/2025-09-11-bulletproof-host-stark-industries-evades-eu-sanctions.html",
+      "date_iso": "2025-09-11T17:42:56+00:00",
+      "source": "https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/",
+      "summary": "Article URL: https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/ Comments URL: https://news.ycombinator.com/item?id=45214164 Points: 174 # Comments: 58"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45214159",
+      "title": "A Web Framework for Zig",
+      "slug": "2025-09-11-a-web-framework-for-zig.html",
+      "path": "posts/2025-09-11-a-web-framework-for-zig.html",
+      "date_iso": "2025-09-11T17:42:30+00:00",
+      "source": "https://www.jetzig.dev/",
+      "summary": "Article URL: https://www.jetzig.dev/ Comments URL: https://news.ycombinator.com/item?id=45214159 Points: 103 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45213732",
+      "title": "'Robber bees' invade apiarist's shop in attempted honey heist",
+      "slug": "2025-09-11-robber-bees-invade-apiarist-s-shop-in-attempted-honey-heist.html",
+      "path": "posts/2025-09-11-robber-bees-invade-apiarist-s-shop-in-attempted-honey-heist.html",
+      "date_iso": "2025-09-11T16:58:08+00:00",
+      "source": "https://www.cbc.ca/news/canada/british-columbia/robber-bees-terrace-bc-apiary-1.7627532",
+      "summary": "Article URL: https://www.cbc.ca/news/canada/british-columbia/robber-bees-terrace-bc-apiary-1.7627532 Comments URL: https://news.ycombinator.com/item?id=45213732 Points: 139 # Comments: 74"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45213299",
+      "title": "NT OS Kernel Information Disclosure Vulnerability",
+      "slug": "2025-09-11-nt-os-kernel-information-disclosure-vulnerability.html",
+      "path": "posts/2025-09-11-nt-os-kernel-information-disclosure-vulnerability.html",
+      "date_iso": "2025-09-11T16:13:09+00:00",
+      "source": "https://www.crowdfense.com/nt-os-kernel-information-disclosure-vulnerability-cve-2025-53136/",
+      "summary": "Article URL: https://www.crowdfense.com/nt-os-kernel-information-disclosure-vulnerability-cve-2025-53136/ Comments URL: https://news.ycombinator.com/item?id=45213299 Points: 129 # Comments: 27"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/11/style/phone-ban-ipod-mp3-school.html",
+      "title": "Their Schools Banned Phones. Out Came the iPods and Cassette Players.",
+      "slug": "2025-09-11-their-schools-banned-phones-out-came-the-ipods-and-cassette-players.html",
+      "path": "posts/2025-09-11-their-schools-banned-phones-out-came-the-ipods-and-cassette-players.html",
+      "date_iso": "2025-09-11T15:56:04+00:00",
+      "source": "https://www.nytimes.com/2025/09/11/style/phone-ban-ipod-mp3-school.html",
+      "summary": "Enterprising students have been bringing the contraband of yesteryear to school in what they see as a “loophole” in cellphone bans."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/11/technology/fake-reviews-small-businesses.html",
+      "title": "Small Businesses Face a New Threat: Pay Up or Be Flooded With Bad Reviews",
+      "slug": "2025-09-11-small-businesses-face-a-new-threat-pay-up-or-be-flooded-with-bad-reviews.html",
+      "path": "posts/2025-09-11-small-businesses-face-a-new-threat-pay-up-or-be-flooded-with-bad-reviews.html",
+      "date_iso": "2025-09-11T14:19:22+00:00",
+      "source": "https://www.nytimes.com/2025/09/11/technology/fake-reviews-small-businesses.html",
+      "summary": "Negative reviews can drive down a business’s star ratings and damage its online reputation, potentially costing it thousands in lost revenue. They’re also difficult to remove from Google."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45211868",
+      "title": "Conway's Game of Life, but musical",
+      "slug": "2025-09-11-conway-s-game-of-life-but-musical.html",
+      "path": "posts/2025-09-11-conway-s-game-of-life-but-musical.html",
+      "date_iso": "2025-09-11T14:05:31+00:00",
+      "source": "https://www.hudsong.dev/digital-darwin",
+      "summary": "Article URL: https://www.hudsong.dev/digital-darwin Comments URL: https://news.ycombinator.com/item?id=45211868 Points: 177 # Comments: 31"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45211596",
+      "title": "CRISPR offers new hope for treating diabetes",
+      "slug": "2025-09-11-crispr-offers-new-hope-for-treating-diabetes.html",
+      "path": "posts/2025-09-11-crispr-offers-new-hope-for-treating-diabetes.html",
+      "date_iso": "2025-09-11T13:45:28+00:00",
+      "source": "https://www.wired.com/story/no-more-injections-crispr-offers-new-hope-for-treating-diabetes/",
+      "summary": "Article URL: https://www.wired.com/story/no-more-injections-crispr-offers-new-hope-for-treating-diabetes/ Comments URL: https://news.ycombinator.com/item?id=45211596 Points: 204 # Comments: 50"
+    },
+    {
       "id": "https://www.nytimes.com/2025/09/11/technology/charlie-kirk-shooting-false-accusation.html",
       "title": "Canadian Man Falsely Named as Charlie Kirk’s Shooter on Social Media",
       "slug": "2025-09-11-canadian-man-falsely-named-as-charlie-kirk-s-shooter-on-social-media.html",
