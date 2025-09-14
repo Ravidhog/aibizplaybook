@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45237717",
+      "title": "Refurb Weekend: Silicon Graphics Indigo² Impact 10000",
+      "slug": "2025-09-14-refurb-weekend-silicon-graphics-indigo-impact-10000.html",
+      "path": "posts/2025-09-14-refurb-weekend-silicon-graphics-indigo-impact-10000.html",
+      "date_iso": "2025-09-14T05:42:38+00:00",
+      "source": "http://oldvcr.blogspot.com/2025/09/refurb-weekend-silicon-graphics-indigo.html",
+      "summary": "Article URL: http://oldvcr.blogspot.com/2025/09/refurb-weekend-silicon-graphics-indigo.html Comments URL: https://news.ycombinator.com/item?id=45237717 Points: 30 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45237442",
+      "title": "A single, 'naked' black hole confounds theories of the young cosmos",
+      "slug": "2025-09-14-a-single-naked-black-hole-confounds-theories-of-the-young-cosmos.html",
+      "path": "posts/2025-09-14-a-single-naked-black-hole-confounds-theories-of-the-young-cosmos.html",
+      "date_iso": "2025-09-14T04:27:12+00:00",
+      "source": "https://www.quantamagazine.org/a-single-naked-black-hole-rewrites-the-history-of-the-universe-20250912/",
+      "summary": "Article URL: https://www.quantamagazine.org/a-single-naked-black-hole-rewrites-the-history-of-the-universe-20250912/ Comments URL: https://news.ycombinator.com/item?id=45237442 Points: 12 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45237184",
+      "title": "High Altitude Living – 8,000 ft and above (2021)",
+      "slug": "2025-09-14-high-altitude-living-8-000-ft-and-above-2021.html",
+      "path": "posts/2025-09-14-high-altitude-living-8-000-ft-and-above-2021.html",
+      "date_iso": "2025-09-14T03:29:35+00:00",
+      "source": "https://studioq.com/blog/2021/5/30/high-altitude-living-8000-ft-and-above-2450-meters",
+      "summary": "Article URL: https://studioq.com/blog/2021/5/30/high-altitude-living-8000-ft-and-above-2450-meters Comments URL: https://news.ycombinator.com/item?id=45237184 Points: 27 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45237035",
+      "title": "Why you’d issue a branded stablecoin",
+      "slug": "2025-09-14-why-you-d-issue-a-branded-stablecoin.html",
+      "path": "posts/2025-09-14-why-you-d-issue-a-branded-stablecoin.html",
+      "date_iso": "2025-09-14T02:57:00+00:00",
+      "source": "https://text-incubation.com/Why+you%27d+issue+a+branded+stablecoin+like+McDonaldsCoin",
+      "summary": "Article URL: https://text-incubation.com/Why+you%27d+issue+a+branded+stablecoin+like+McDonaldsCoin Comments URL: https://news.ycombinator.com/item?id=45237035 Points: 30 # Comments: 31"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45236774",
+      "title": "Visual programming is stuck on the form",
+      "slug": "2025-09-14-visual-programming-is-stuck-on-the-form.html",
+      "path": "posts/2025-09-14-visual-programming-is-stuck-on-the-form.html",
+      "date_iso": "2025-09-14T01:53:31+00:00",
+      "source": "https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/",
+      "summary": "Article URL: https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/ Comments URL: https://news.ycombinator.com/item?id=45236774 Points: 20 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45236473",
+      "title": "How the restoration of ancient Babylon is drawing tourists back to Iraq",
+      "slug": "2025-09-14-how-the-restoration-of-ancient-babylon-is-drawing-tourists-back-to-iraq.html",
+      "path": "posts/2025-09-14-how-the-restoration-of-ancient-babylon-is-drawing-tourists-back-to-iraq.html",
+      "date_iso": "2025-09-14T00:34:25+00:00",
+      "source": "https://www.theartnewspaper.com/2025/09/12/how-the-restoration-of-ancient-babylon-is-helping-to-draw-tourists-back-to-iraq",
+      "summary": "Article URL: https://www.theartnewspaper.com/2025/09/12/how-the-restoration-of-ancient-babylon-is-helping-to-draw-tourists-back-to-iraq Comments URL: https://news.ycombinator.com/item?id=45236473 Points: 34 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45236314",
+      "title": "EFF to court: The Supreme Court must rein in secondary copyright liability",
+      "slug": "2025-09-13-eff-to-court-the-supreme-court-must-rein-in-secondary-copyright-liability.html",
+      "path": "posts/2025-09-13-eff-to-court-the-supreme-court-must-rein-in-secondary-copyright-liability.html",
+      "date_iso": "2025-09-13T23:59:27+00:00",
+      "source": "https://www.eff.org/deeplinks/2025/09/eff-court-supreme-court-must-rein-expansive-secondary-copyright-liability",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2025/09/eff-court-supreme-court-must-rein-expansive-secondary-copyright-liability Comments URL: https://news.ycombinator.com/item?id=45236314 Points: 89 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45236263",
+      "title": "Two Slice, a font that's only 2px tall",
+      "slug": "2025-09-13-two-slice-a-font-that-s-only-2px-tall.html",
+      "path": "posts/2025-09-13-two-slice-a-font-that-s-only-2px-tall.html",
+      "date_iso": "2025-09-13T23:50:25+00:00",
+      "source": "https://joefatula.com/twoslice.html",
+      "summary": "Article URL: https://joefatula.com/twoslice.html Comments URL: https://news.ycombinator.com/item?id=45236263 Points: 165 # Comments: 48"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45236079",
+      "title": "Pass: Unix Password Manager",
+      "slug": "2025-09-13-pass-unix-password-manager.html",
+      "path": "posts/2025-09-13-pass-unix-password-manager.html",
+      "date_iso": "2025-09-13T23:16:40+00:00",
+      "source": "https://www.passwordstore.org/",
+      "summary": "Article URL: https://www.passwordstore.org/ Comments URL: https://news.ycombinator.com/item?id=45236079 Points: 152 # Comments: 79"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45235676",
+      "title": "Will AI be the basis of many future industrial fortunes, or a net loser?",
+      "slug": "2025-09-13-will-ai-be-the-basis-of-many-future-industrial-fortunes-or-a-net-loser.html",
+      "path": "posts/2025-09-13-will-ai-be-the-basis-of-many-future-industrial-fortunes-or-a-net-loser.html",
+      "date_iso": "2025-09-13T22:01:35+00:00",
+      "source": "https://joincolossus.com/article/ai-will-not-make-you-rich/",
+      "summary": "Article URL: https://joincolossus.com/article/ai-will-not-make-you-rich/ Comments URL: https://news.ycombinator.com/item?id=45235676 Points: 92 # Comments: 110"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45235648",
+      "title": "Myocardial infarction may be an infectious disease",
+      "slug": "2025-09-13-myocardial-infarction-may-be-an-infectious-disease.html",
+      "path": "posts/2025-09-13-myocardial-infarction-may-be-an-infectious-disease.html",
+      "date_iso": "2025-09-13T21:55:42+00:00",
+      "source": "https://www.tuni.fi/en/news/myocardial-infarction-may-be-infectious-disease",
+      "summary": "Paper: https://www.ahajournals.org/doi/10.1161/JAHA.125.041521 Comments URL: https://news.ycombinator.com/item?id=45235648 Points: 391 # Comments: 135"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45235293",
+      "title": "AMD’s RDNA4 GPU architecture",
+      "slug": "2025-09-13-amd-s-rdna4-gpu-architecture.html",
+      "path": "posts/2025-09-13-amd-s-rdna4-gpu-architecture.html",
+      "date_iso": "2025-09-13T21:04:18+00:00",
+      "source": "https://chipsandcheese.com/p/amds-rdna4-gpu-architecture-at-hot",
+      "summary": "Article URL: https://chipsandcheese.com/p/amds-rdna4-gpu-architecture-at-hot Comments URL: https://news.ycombinator.com/item?id=45235293 Points: 95 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45234460",
+      "title": "Safe C++ proposal is not being continued",
+      "slug": "2025-09-13-safe-c-proposal-is-not-being-continued.html",
+      "path": "posts/2025-09-13-safe-c-proposal-is-not-being-continued.html",
+      "date_iso": "2025-09-13T19:00:29+00:00",
+      "source": "https://sibellavia.lol/posts/2025/09/safe-c-proposal-is-not-being-continued/",
+      "summary": "Article URL: https://sibellavia.lol/posts/2025/09/safe-c-proposal-is-not-being-continued/ Comments URL: https://news.ycombinator.com/item?id=45234460 Points: 144 # Comments: 120"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45234323",
+      "title": "The case against social media is stronger than you think",
+      "slug": "2025-09-13-the-case-against-social-media-is-stronger-than-you-think.html",
+      "path": "posts/2025-09-13-the-case-against-social-media-is-stronger-than-you-think.html",
+      "date_iso": "2025-09-13T18:39:17+00:00",
+      "source": "https://arachnemag.substack.com/p/the-case-against-social-media-is",
+      "summary": "Article URL: https://arachnemag.substack.com/p/the-case-against-social-media-is Comments URL: https://news.ycombinator.com/item?id=45234323 Points: 203 # Comments: 171"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45233713",
+      "title": "RIP pthread_cancel",
+      "slug": "2025-09-13-rip-pthread-cancel.html",
+      "path": "posts/2025-09-13-rip-pthread-cancel.html",
+      "date_iso": "2025-09-13T17:20:21+00:00",
+      "source": "https://eissing.org/icing/posts/rip_pthread_cancel/",
+      "summary": "Article URL: https://eissing.org/icing/posts/rip_pthread_cancel/ Comments URL: https://news.ycombinator.com/item?id=45233713 Points: 184 # Comments: 83"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45233415",
+      "title": "Geedge and MESA leak: Analyzing the great firewall’s largest document leak",
+      "slug": "2025-09-13-geedge-and-mesa-leak-analyzing-the-great-firewall-s-largest-document-leak.html",
+      "path": "posts/2025-09-13-geedge-and-mesa-leak-analyzing-the-great-firewall-s-largest-document-leak.html",
+      "date_iso": "2025-09-13T16:43:26+00:00",
+      "source": "https://gfw.report/blog/geedge_and_mesa_leak/en/",
+      "summary": "https://www.tomshardware.com/tech-industry/chinas-great-fire... https://x.com/gfw_report/status/1966669581302309018 Comments URL: https://news.ycombinator.com/item?id=45233415 Points: 77 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45233237",
+      "title": "Recreating the US/* time zone situation",
+      "slug": "2025-09-13-recreating-the-us-time-zone-situation.html",
+      "path": "posts/2025-09-13-recreating-the-us-time-zone-situation.html",
+      "date_iso": "2025-09-13T16:14:11+00:00",
+      "source": "https://rachelbythebay.com/w/2025/09/12/tz/",
+      "summary": "Article URL: https://rachelbythebay.com/w/2025/09/12/tz/ Comments URL: https://news.ycombinator.com/item?id=45233237 Points: 74 # Comments: 36"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45232565",
+      "title": "486Tang – 486 on a credit-card-sized FPGA board",
+      "slug": "2025-09-13-486tang-486-on-a-credit-card-sized-fpga-board.html",
+      "path": "posts/2025-09-13-486tang-486-on-a-credit-card-sized-fpga-board.html",
+      "date_iso": "2025-09-13T14:52:45+00:00",
+      "source": "https://nand2mario.github.io/posts/2025/486tang_486_on_a_credit_card_size_fpga_board/",
+      "summary": "Article URL: https://nand2mario.github.io/posts/2025/486tang_486_on_a_credit_card_size_fpga_board/ Comments URL: https://news.ycombinator.com/item?id=45232565 Points: 170 # Comments: 47"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45232562",
+      "title": "Four-year wedding crasher mystery solved",
+      "slug": "2025-09-13-four-year-wedding-crasher-mystery-solved.html",
+      "path": "posts/2025-09-13-four-year-wedding-crasher-mystery-solved.html",
+      "date_iso": "2025-09-13T14:52:33+00:00",
+      "source": "https://www.theguardian.com/uk-news/2025/sep/12/wedding-crasher-mystery-solved-four-years-bride-scotland",
+      "summary": "Article URL: https://www.theguardian.com/uk-news/2025/sep/12/wedding-crasher-mystery-solved-four-years-bride-scotland Comments URL: https://news.ycombinator.com/item?id=45232562 Points: 290 # Comments: 88"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45232299",
+      "title": "Show HN: CLAVIER-36 – A programming environment for generative music",
+      "slug": "2025-09-13-show-hn-clavier-36-a-programming-environment-for-generative-music.html",
+      "path": "posts/2025-09-13-show-hn-clavier-36-a-programming-environment-for-generative-music.html",
+      "date_iso": "2025-09-13T14:22:59+00:00",
+      "source": "https://clavier36.com/p/LtZDdcRP3haTWHErgvdM",
+      "summary": "CLAVIER-36 is a programming environment for generative music. Programs are laid out in a two-dimensional grid, and evolve over time according to a fixed set of rules. The system is much like a cellular automaton, in that most of the rules governing the evolution of the system ar…"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/13/business/used-electric-vehciles.html",
+      "title": "Used E.V. Sales Take Off as Prices Plummet",
+      "slug": "2025-09-13-used-e-v-sales-take-off-as-prices-plummet.html",
+      "path": "posts/2025-09-13-used-e-v-sales-take-off-as-prices-plummet.html",
+      "date_iso": "2025-09-13T09:00:59+00:00",
+      "source": "https://www.nytimes.com/2025/09/13/business/used-electric-vehciles.html",
+      "summary": "K. Boyle, a retired teacher who lives in San Francisco, recently bought a used Nissan Leaf she found on Craigslist for just $1,000 after factoring in a rebate from her electric utility."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45229443",
       "title": "Qwen 3 now supports ARM and MLX",
       "slug": "2025-09-13-qwen-3-now-supports-arm-and-mlx.html",
