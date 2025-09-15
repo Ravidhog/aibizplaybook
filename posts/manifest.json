@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45246403",
+      "title": "Celestia – real-time 3D visualization of space",
+      "slug": "2025-09-15-celestia-real-time-3d-visualization-of-space.html",
+      "path": "posts/2025-09-15-celestia-real-time-3d-visualization-of-space.html",
+      "date_iso": "2025-09-15T05:30:19+00:00",
+      "source": "https://celestiaproject.space/",
+      "summary": "Article URL: https://celestiaproject.space/ Comments URL: https://news.ycombinator.com/item?id=45246403 Points: 21 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45246325",
+      "title": "Omarchy on CachyOS",
+      "slug": "2025-09-15-omarchy-on-cachyos.html",
+      "path": "posts/2025-09-15-omarchy-on-cachyos.html",
+      "date_iso": "2025-09-15T05:13:33+00:00",
+      "source": "https://github.com/mroboff/omarchy-on-cachyos",
+      "summary": "Article URL: https://github.com/mroboff/omarchy-on-cachyos Comments URL: https://news.ycombinator.com/item?id=45246325 Points: 15 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45246247",
+      "title": "Americans Crushed by Auto Loans as Defaults and Repossessions Surge",
+      "slug": "2025-09-15-americans-crushed-by-auto-loans-as-defaults-and-repossessions-surge.html",
+      "path": "posts/2025-09-15-americans-crushed-by-auto-loans-as-defaults-and-repossessions-surge.html",
+      "date_iso": "2025-09-15T04:56:24+00:00",
+      "source": "https://www.carscoops.com/2025/09/auto-loan-delinquencies-are-off-the-dial-and-even-prime-borrowers-are-struggling/",
+      "summary": "Article URL: https://www.carscoops.com/2025/09/auto-loan-delinquencies-are-off-the-dial-and-even-prime-borrowers-are-struggling/ Comments URL: https://news.ycombinator.com/item?id=45246247 Points: 26 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45246229",
+      "title": "Starlink is currently experiencing a service outage",
+      "slug": "2025-09-15-starlink-is-currently-experiencing-a-service-outage.html",
+      "path": "posts/2025-09-15-starlink-is-currently-experiencing-a-service-outage.html",
+      "date_iso": "2025-09-15T04:51:29+00:00",
+      "source": "https://www.starlink.com/",
+      "summary": "Article URL: https://www.starlink.com/ Comments URL: https://news.ycombinator.com/item?id=45246229 Points: 39 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45245962",
+      "title": "A qualitative analysis of pig-butchering scams",
+      "slug": "2025-09-15-a-qualitative-analysis-of-pig-butchering-scams.html",
+      "path": "posts/2025-09-15-a-qualitative-analysis-of-pig-butchering-scams.html",
+      "date_iso": "2025-09-15T03:58:23+00:00",
+      "source": "https://arxiv.org/abs/2503.20821",
+      "summary": "Article URL: https://arxiv.org/abs/2503.20821 Comments URL: https://news.ycombinator.com/item?id=45245962 Points: 53 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45245948",
+      "title": "Language Models Pack Billions of Concepts into 12,000 Dimensions",
+      "slug": "2025-09-15-language-models-pack-billions-of-concepts-into-12-000-dimensions.html",
+      "path": "posts/2025-09-15-language-models-pack-billions-of-concepts-into-12-000-dimensions.html",
+      "date_iso": "2025-09-15T03:54:20+00:00",
+      "source": "https://nickyoder.com/johnson-lindenstrauss/",
+      "summary": "Article URL: https://nickyoder.com/johnson-lindenstrauss/ Comments URL: https://news.ycombinator.com/item?id=45245948 Points: 59 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45245802",
+      "title": "Decentralized YouTube alternative adds livestream scheduling in new release",
+      "slug": "2025-09-15-decentralized-youtube-alternative-adds-livestream-scheduling-in-new-release.html",
+      "path": "posts/2025-09-15-decentralized-youtube-alternative-adds-livestream-scheduling-in-new-release.html",
+      "date_iso": "2025-09-15T03:27:34+00:00",
+      "source": "https://news.itsfoss.com/peertube-7-3/",
+      "summary": "Article URL: https://news.itsfoss.com/peertube-7-3/ Comments URL: https://news.ycombinator.com/item?id=45245802 Points: 52 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45245678",
+      "title": "Which NPM package has the largest version number?",
+      "slug": "2025-09-15-which-npm-package-has-the-largest-version-number.html",
+      "path": "posts/2025-09-15-which-npm-package-has-the-largest-version-number.html",
+      "date_iso": "2025-09-15T03:03:18+00:00",
+      "source": "https://adamhl.dev/blog/largest-number-in-npm-package/",
+      "summary": "Article URL: https://adamhl.dev/blog/largest-number-in-npm-package/ Comments URL: https://news.ycombinator.com/item?id=45245678 Points: 61 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45245313",
+      "title": "For Good First Issue – A repository of social impact and open source projects",
+      "slug": "2025-09-15-for-good-first-issue-a-repository-of-social-impact-and-open-source-projects.html",
+      "path": "posts/2025-09-15-for-good-first-issue-a-repository-of-social-impact-and-open-source-projects.html",
+      "date_iso": "2025-09-15T02:02:39+00:00",
+      "source": "https://forgoodfirstissue.github.com/",
+      "summary": "Article URL: https://forgoodfirstissue.github.com/ Comments URL: https://news.ycombinator.com/item?id=45245313 Points: 25 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45245138",
+      "title": "Show HN: Dagger.js – A buildless, runtime-only JavaScript micro-framework",
+      "slug": "2025-09-15-show-hn-dagger-js-a-buildless-runtime-only-javascript-micro-framework.html",
+      "path": "posts/2025-09-15-show-hn-dagger-js-a-buildless-runtime-only-javascript-micro-framework.html",
+      "date_iso": "2025-09-15T01:28:52+00:00",
+      "source": "https://daggerjs.org",
+      "summary": "TL;DR: dagger.js is a buildless, runtime-only micro-framework that plays nicely with native Web Components. It uses HTML-first directives (e.g. +click, +load) so you can ship a page by dropping a single"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45244295",
+      "title": "Gentoo AI Policy",
+      "slug": "2025-09-14-gentoo-ai-policy.html",
+      "path": "posts/2025-09-14-gentoo-ai-policy.html",
+      "date_iso": "2025-09-14T23:20:01+00:00",
+      "source": "https://wiki.gentoo.org/wiki/Project:Council/AI_policy",
+      "summary": "Article URL: https://wiki.gentoo.org/wiki/Project:Council/AI_policy Comments URL: https://news.ycombinator.com/item?id=45244295 Points: 132 # Comments: 106"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45243925",
+      "title": "Titania Programming Language",
+      "slug": "2025-09-14-titania-programming-language.html",
+      "path": "posts/2025-09-14-titania-programming-language.html",
+      "date_iso": "2025-09-14T22:29:49+00:00",
+      "source": "https://github.com/gingerBill/titania",
+      "summary": "Article URL: https://github.com/gingerBill/titania Comments URL: https://news.ycombinator.com/item?id=45243925 Points: 72 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45243803",
+      "title": "Grapevine canes can be converted into plastic-like material that will decompose",
+      "slug": "2025-09-14-grapevine-canes-can-be-converted-into-plastic-like-material-that-will-decompose.html",
+      "path": "posts/2025-09-14-grapevine-canes-can-be-converted-into-plastic-like-material-that-will-decompose.html",
+      "date_iso": "2025-09-14T22:15:33+00:00",
+      "source": "https://www.sdstate.edu/news/2025/08/can-grapevines-help-slow-plastic-waste-problem",
+      "summary": "Article URL: https://www.sdstate.edu/news/2025/08/can-grapevines-help-slow-plastic-waste-problem Comments URL: https://news.ycombinator.com/item?id=45243803 Points: 281 # Comments: 177"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45243740",
+      "title": "Trigger Crossbar",
+      "slug": "2025-09-14-trigger-crossbar.html",
+      "path": "posts/2025-09-14-trigger-crossbar.html",
+      "date_iso": "2025-09-14T22:08:13+00:00",
+      "source": "https://serd.es/2025/09/14/Trigger-crossbar.html",
+      "summary": "Article URL: https://serd.es/2025/09/14/Trigger-crossbar.html Comments URL: https://news.ycombinator.com/item?id=45243740 Points: 59 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45243635",
+      "title": "Betty Crocker broke recipes by shrinking boxes",
+      "slug": "2025-09-14-betty-crocker-broke-recipes-by-shrinking-boxes.html",
+      "path": "posts/2025-09-14-betty-crocker-broke-recipes-by-shrinking-boxes.html",
+      "date_iso": "2025-09-14T21:54:07+00:00",
+      "source": "https://www.cubbyathome.com/boxed-cake-mix-sizes-have-shrunk-80045058",
+      "summary": "Article URL: https://www.cubbyathome.com/boxed-cake-mix-sizes-have-shrunk-80045058 Comments URL: https://news.ycombinator.com/item?id=45243635 Points: 324 # Comments: 331"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45243439",
+      "title": "AMD Turin PSP binaries analysis from open-source firmware perspective",
+      "slug": "2025-09-14-amd-turin-psp-binaries-analysis-from-open-source-firmware-perspective.html",
+      "path": "posts/2025-09-14-amd-turin-psp-binaries-analysis-from-open-source-firmware-perspective.html",
+      "date_iso": "2025-09-14T21:35:42+00:00",
+      "source": "https://blog.3mdeb.com/2025/2025-09-11-gigabyte-mz33-ar1-blob-analysis/",
+      "summary": "Article URL: https://blog.3mdeb.com/2025/2025-09-11-gigabyte-mz33-ar1-blob-analysis/ Comments URL: https://news.ycombinator.com/item?id=45243439 Points: 44 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45242591",
+      "title": "OCSP Service Has Reached End of Life",
+      "slug": "2025-09-14-ocsp-service-has-reached-end-of-life.html",
+      "path": "posts/2025-09-14-ocsp-service-has-reached-end-of-life.html",
+      "date_iso": "2025-09-14T19:34:48+00:00",
+      "source": "https://letsencrypt.org/2025/08/06/ocsp-service-has-reached-end-of-life",
+      "summary": "Article URL: https://letsencrypt.org/2025/08/06/ocsp-service-has-reached-end-of-life Comments URL: https://news.ycombinator.com/item?id=45242591 Points: 165 # Comments: 48"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45240682",
+      "title": "Writing an operating system kernel from scratch",
+      "slug": "2025-09-14-writing-an-operating-system-kernel-from-scratch.html",
+      "path": "posts/2025-09-14-writing-an-operating-system-kernel-from-scratch.html",
+      "date_iso": "2025-09-14T15:44:44+00:00",
+      "source": "https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/",
+      "summary": "Article URL: https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/ Comments URL: https://news.ycombinator.com/item?id=45240682 Points: 273 # Comments: 50"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45240391",
+      "title": "Nicu's test website made with SVG (2007)",
+      "slug": "2025-09-14-nicu-s-test-website-made-with-svg-2007.html",
+      "path": "posts/2025-09-14-nicu-s-test-website-made-with-svg-2007.html",
+      "date_iso": "2025-09-14T15:13:42+00:00",
+      "source": "https://svg.nicubunu.ro/",
+      "summary": "Article URL: https://svg.nicubunu.ro/ Comments URL: https://news.ycombinator.com/item?id=45240391 Points: 150 # Comments: 84"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45240146",
+      "title": "Why We Spiral",
+      "slug": "2025-09-14-why-we-spiral.html",
+      "path": "posts/2025-09-14-why-we-spiral.html",
+      "date_iso": "2025-09-14T14:46:58+00:00",
+      "source": "https://behavioralscientist.org/why-we-spiral/",
+      "summary": "Article URL: https://behavioralscientist.org/why-we-spiral/ Comments URL: https://news.ycombinator.com/item?id=45240146 Points: 279 # Comments: 75"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/14/technology/lina-khan-democratic-party.html",
+      "title": "Lina Khan Revamped Antitrust. Now She’s Pushing the Democratic Party.",
+      "slug": "2025-09-14-lina-khan-revamped-antitrust-now-she-s-pushing-the-democratic-party.html",
+      "path": "posts/2025-09-14-lina-khan-revamped-antitrust-now-she-s-pushing-the-democratic-party.html",
+      "date_iso": "2025-09-14T09:00:34+00:00",
+      "source": "https://www.nytimes.com/2025/09/14/technology/lina-khan-democratic-party.html",
+      "summary": "Lina Khan has been a frequent podcast guest, talking up the benefits of vigorous law enforcement against monopolies."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45237717",
       "title": "Refurb Weekend: Silicon Graphics Indigo² Impact 10000",
       "slug": "2025-09-14-refurb-weekend-silicon-graphics-indigo-impact-10000.html",
