@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Pyproc – Call Python from Go Without CGO or Microservices</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Pyproc – Call Python from Go Without CGO or Microservices</h1>
+    <p><small>Published: 2025-09-16T04:08:00+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hi HN!I built *pyproc* to let Go services call Python like a local function — *no CGO and no separate microservice*. It runs a pool of Python worker processes and talks over *Unix Domain Sockets* on the same host/pod, so you get low overhead, process isolation, and parallelism beyond the GIL.<p>*Why this exists*<p>* Keep your Go service, reuse Python/NumPy/pandas/PyTorch/scikit-learn.
+* Avoid network hops, service discovery, and ops burden of a separate Python service.<p>*Quick try (\~5 minutes)*<p>Go (app):<p>```
+go get github.com/YuminosukeSato/pyproc@latest
+```<p>Python (worker):<p>```
+pip install pyproc-worker
+```<p>Minimal worker (Python):<p>```
+from pyproc_worker import expose, run_worker
+@expose
+def predict(req):
+    return {"result": req["value"] * 2}
+if __name__ == "__main__":
+    run_worker()
+```<p>Call from Go:<p>```
+import (
+  "context"
+  "fmt"
+  "github.com/YuminosukeSato/pyproc/pkg/pyproc"
+)
+func main() {
+  pool, _ := pyproc.NewPool(pyproc.PoolOptions{
+    Config:       pyproc.PoolConfig{Workers: 4, MaxInFlight: 10},
+    WorkerConfig: pyproc.WorkerConfig{SocketPath: "/tmp/pyproc.sock", PythonExec: "python3", WorkerScript: "worker.py"},
+  }, nil)
+  _ = pool.Start(context.Background())
+  defer pool.Shutdown(context.Background())
+  var out map[string]any
+  _ = pool.Call(context.Background(), "predict", map[string]any{"value": 42}, &amp;out)
+  fmt.Println(out["result"]) // 84
+}
+```<p>*Scope / limits*<p>* Same-host/pod only (UDS). Linux/macOS supported; Windows named pipes not yet.
+* Best for request/response payloads ≲ \~100 KB JSON; GPU orchestration and cross-host serving are out of scope.<p>*Benchmarks (indicative)*<p>* Local M1, simple JSON: \~*45µs p50* and *\~200k req/s* with 8 workers. Your numbers will vary.<p>*What’s included*<p>* Pure Go client (no CGO), Python worker lib, pool, health checks, graceful restarts, and examples.<p>*Docs & code*<p>* README, design/ops/security docs, pkg.go.dev: [<a href="https://github.com/YuminosukeSato/pyproc" rel="nofollow">https://github.com/YuminosukeSato/pyproc</a>](<a href="https://github.com/YuminosukeSato/pyproc" rel="nofollow">https://github.com/YuminosukeSato/pyproc</a>)<p>*License*<p>* Apache-2.0. Current release: v0.2.x.<p>*Feedback welcome*<p>* API ergonomics, failure modes under load, and priorities for codecs/transports (e.g., Arrow IPC, gRPC-over-UDS).<p>---<p><i>Source for details: project README and docs.</i> ([github.com][1])<p>[1]: <a href="https://github.com/YuminosukeSato/pyproc" rel="nofollow">https://github.com/YuminosukeSato/pyproc</a> "GitHub - YuminosukeSato/pyproc: Call Python from Go without CGO or microservices - Unix domain socket based IPC for ML inference and data processin"</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45257929">https://news.ycombinator.com/item?id=45257929</a></p>
+<p>Points: 12</p>
+<p># Comments: 0</p>
+    <p><a href="https://github.com/YuminosukeSato/pyproc" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

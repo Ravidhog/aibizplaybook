@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45258098",
+      "title": "Public static void main(String[] args) is dead",
+      "slug": "2025-09-16-public-static-void-main-string-args-is-dead.html",
+      "path": "posts/2025-09-16-public-static-void-main-string-args-is-dead.html",
+      "date_iso": "2025-09-16T04:42:18+00:00",
+      "source": "https://mccue.dev/pages/9-16-25-psvm",
+      "summary": "Article URL: https://mccue.dev/pages/9-16-25-psvm Comments URL: https://news.ycombinator.com/item?id=45258098 Points: 141 # Comments: 132"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45257929",
+      "title": "Show HN: Pyproc – Call Python from Go Without CGO or Microservices",
+      "slug": "2025-09-16-show-hn-pyproc-call-python-from-go-without-cgo-or-microservices.html",
+      "path": "posts/2025-09-16-show-hn-pyproc-call-python-from-go-without-cgo-or-microservices.html",
+      "date_iso": "2025-09-16T04:08:00+00:00",
+      "source": "https://github.com/YuminosukeSato/pyproc",
+      "summary": "Hi HN!I built *pyproc* to let Go services call Python like a local function — *no CGO and no separate microservice*. It runs a pool of Python worker processes and talks over *Unix Domain Sockets* on the same host/pod, so you get low overhead, process isolation, and parallelism b…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45257627",
+      "title": "\"Your\" vs. \"My\" in user interfaces",
+      "slug": "2025-09-16-your-vs-my-in-user-interfaces.html",
+      "path": "posts/2025-09-16-your-vs-my-in-user-interfaces.html",
+      "date_iso": "2025-09-16T03:05:53+00:00",
+      "source": "https://adamsilver.io/blog/your-vs-my-in-user-interfaces/",
+      "summary": "Article URL: https://adamsilver.io/blog/your-vs-my-in-user-interfaces/ Comments URL: https://news.ycombinator.com/item?id=45257627 Points: 45 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45256651",
+      "title": "Linux phones are more important now than ever",
+      "slug": "2025-09-16-linux-phones-are-more-important-now-than-ever.html",
+      "path": "posts/2025-09-16-linux-phones-are-more-important-now-than-ever.html",
+      "date_iso": "2025-09-16T00:33:12+00:00",
+      "source": "https://feddit.org/post/18353777",
+      "summary": "Article URL: https://feddit.org/post/18353777 Comments URL: https://news.ycombinator.com/item?id=45256651 Points: 374 # Comments: 201"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45256577",
+      "title": "I feel Apple has lost its alignment with me and other long-time customers",
+      "slug": "2025-09-16-i-feel-apple-has-lost-its-alignment-with-me-and-other-long-time-customers.html",
+      "path": "posts/2025-09-16-i-feel-apple-has-lost-its-alignment-with-me-and-other-long-time-customers.html",
+      "date_iso": "2025-09-16T00:20:59+00:00",
+      "source": "https://morrick.me/archives/10137",
+      "summary": "Article URL: https://morrick.me/archives/10137 Comments URL: https://news.ycombinator.com/item?id=45256577 Points: 257 # Comments: 224"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/15/technology/nvidia-china-antitrust.html",
+      "title": "Nvidia Broke Antitrust Law, China Says, as Tensions With U.S. Mount",
+      "slug": "2025-09-15-nvidia-broke-antitrust-law-china-says-as-tensions-with-u-s-mount.html",
+      "path": "posts/2025-09-15-nvidia-broke-antitrust-law-china-says-as-tensions-with-u-s-mount.html",
+      "date_iso": "2025-09-15T23:35:19+00:00",
+      "source": "https://www.nytimes.com/2025/09/15/technology/nvidia-china-antitrust.html",
+      "summary": "Jensen Huang, Nvidia’s chief executive, sees the ability to do business with China as crucial to the company."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45256043",
+      "title": "Why do we keep gravitating toward complexity?",
+      "slug": "2025-09-15-why-do-we-keep-gravitating-toward-complexity.html",
+      "path": "posts/2025-09-15-why-do-we-keep-gravitating-toward-complexity.html",
+      "date_iso": "2025-09-15T23:02:31+00:00",
+      "source": "https://kyrylo.org/software/2025/08/21/why-do-software-developers-love-complexity.html",
+      "summary": "Article URL: https://kyrylo.org/software/2025/08/21/why-do-software-developers-love-complexity.html Comments URL: https://news.ycombinator.com/item?id=45256043 Points: 73 # Comments: 97"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/15/technology/tiktok-ban-us-china-deal.html",
+      "title": "U.S.-China Deal to Avert TikTok Ban May be Close, Trump Official Says",
+      "slug": "2025-09-15-u-s-china-deal-to-avert-tiktok-ban-may-be-close-trump-official-says.html",
+      "path": "posts/2025-09-15-u-s-china-deal-to-avert-tiktok-ban-may-be-close-trump-official-says.html",
+      "date_iso": "2025-09-15T22:46:10+00:00",
+      "source": "https://www.nytimes.com/2025/09/15/technology/tiktok-ban-us-china-deal.html",
+      "summary": "President Trump in Morristown, N.J. on Sunday. He will speak on Friday with President Xi Jinping of China to resolve concerns about the Chinese ownership of TikTok, according to Treasury Secretary Scott Bessent."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/15/technology/crypto-fellowship-super-pac-100-million-budget.html",
+      "title": "New Crypto Super PAC Garners $100 Million to Help Push Industry Agenda",
+      "slug": "2025-09-15-new-crypto-super-pac-garners-100-million-to-help-push-industry-agenda.html",
+      "path": "posts/2025-09-15-new-crypto-super-pac-garners-100-million-to-help-push-industry-agenda.html",
+      "date_iso": "2025-09-15T22:44:18+00:00",
+      "source": "https://www.nytimes.com/2025/09/15/technology/crypto-fellowship-super-pac-100-million-budget.html",
+      "summary": "Brandon Lutnick, the chairman of Cantor Fitzgerald, right, in a discussion with Paolo Ardoino, the chief executive of Tether, at Bitcoin 2025 in Las Vegas in May."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45255400",
+      "title": "Massive Attack turns concert into facial recognition surveillance experiment",
+      "slug": "2025-09-15-massive-attack-turns-concert-into-facial-recognition-surveillance-experiment.html",
+      "path": "posts/2025-09-15-massive-attack-turns-concert-into-facial-recognition-surveillance-experiment.html",
+      "date_iso": "2025-09-15T21:51:55+00:00",
+      "source": "https://www.gadgetreview.com/massive-attack-turns-concert-into-facial-recognition-surveillance-experiment",
+      "summary": "Article URL: https://www.gadgetreview.com/massive-attack-turns-concert-into-facial-recognition-surveillance-experiment Comments URL: https://news.ycombinator.com/item?id=45255400 Points: 229 # Comments: 101"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45255137",
+      "title": "William Gibson Reads Neuromancer (2004)",
+      "slug": "2025-09-15-william-gibson-reads-neuromancer-2004.html",
+      "path": "posts/2025-09-15-william-gibson-reads-neuromancer-2004.html",
+      "date_iso": "2025-09-15T21:28:01+00:00",
+      "source": "http://bearcave.com/bookrev/neuromancer/neuromancer_audio.html",
+      "summary": "Article URL: http://bearcave.com/bookrev/neuromancer/neuromancer_audio.html Comments URL: https://news.ycombinator.com/item?id=45255137 Points: 208 # Comments: 55"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45253775",
+      "title": "How People Use ChatGPT [pdf]",
+      "slug": "2025-09-15-how-people-use-chatgpt-pdf.html",
+      "path": "posts/2025-09-15-how-people-use-chatgpt-pdf.html",
+      "date_iso": "2025-09-15T19:14:28+00:00",
+      "source": "https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf",
+      "summary": "Article URL: https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf Comments URL: https://news.ycombinator.com/item?id=45253775 Points: 100 # Comments: 57"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45253458",
+      "title": "Addendum to GPT-5 system card: GPT-5-Codex",
+      "slug": "2025-09-15-addendum-to-gpt-5-system-card-gpt-5-codex.html",
+      "path": "posts/2025-09-15-addendum-to-gpt-5-system-card-gpt-5-codex.html",
+      "date_iso": "2025-09-15T18:45:32+00:00",
+      "source": "https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex/",
+      "summary": "Article URL: https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex/ Comments URL: https://news.ycombinator.com/item?id=45253458 Points: 209 # Comments: 125"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45252817",
+      "title": "Hosting a website on a disposable vape",
+      "slug": "2025-09-15-hosting-a-website-on-a-disposable-vape.html",
+      "path": "posts/2025-09-15-hosting-a-website-on-a-disposable-vape.html",
+      "date_iso": "2025-09-15T17:53:19+00:00",
+      "source": "https://bogdanthegeek.github.io/blog/projects/vapeserver/",
+      "summary": "Article URL: https://bogdanthegeek.github.io/blog/projects/vapeserver/ Comments URL: https://news.ycombinator.com/item?id=45252817 Points: 921 # Comments: 391"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45252715",
+      "title": "React is winning by default and slowing innovation",
+      "slug": "2025-09-15-react-is-winning-by-default-and-slowing-innovation.html",
+      "path": "posts/2025-09-15-react-is-winning-by-default-and-slowing-innovation.html",
+      "date_iso": "2025-09-15T17:46:01+00:00",
+      "source": "https://www.lorenstew.art/blog/react-won-by-default/",
+      "summary": "Article URL: https://www.lorenstew.art/blog/react-won-by-default/ Comments URL: https://news.ycombinator.com/item?id=45252715 Points: 429 # Comments: 442"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/15/us/politics/trump-uae-chips-witkoff-world-liberty.html",
+      "title": "In Giant Deals, U.A.E. Got Chips, and Trump Team Got Crypto Riches",
+      "slug": "2025-09-15-in-giant-deals-u-a-e-got-chips-and-trump-team-got-crypto-riches.html",
+      "path": "posts/2025-09-15-in-giant-deals-u-a-e-got-chips-and-trump-team-got-crypto-riches.html",
+      "date_iso": "2025-09-15T17:23:43+00:00",
+      "source": "https://www.nytimes.com/2025/09/15/us/politics/trump-uae-chips-witkoff-world-liberty.html",
+      "summary": "A lucrative transaction involving the Trump family’s cryptocurrency firm and an agreement giving the Emiratis access to A.I. chips were connected in ways that have not been previously reported."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45252378",
+      "title": "macOS Tahoe",
+      "slug": "2025-09-15-macos-tahoe.html",
+      "path": "posts/2025-09-15-macos-tahoe.html",
+      "date_iso": "2025-09-15T17:16:42+00:00",
+      "source": "https://www.apple.com/os/macos/",
+      "summary": "Article URL: https://www.apple.com/os/macos/ Comments URL: https://news.ycombinator.com/item?id=45252378 Points: 400 # Comments: 514"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45252301",
+      "title": "GPT-5-Codex",
+      "slug": "2025-09-15-gpt-5-codex.html",
+      "path": "posts/2025-09-15-gpt-5-codex.html",
+      "date_iso": "2025-09-15T17:10:39+00:00",
+      "source": "https://openai.com/index/introducing-upgrades-to-codex/",
+      "summary": "Article URL: https://openai.com/index/introducing-upgrades-to-codex/ Comments URL: https://news.ycombinator.com/item?id=45252301 Points: 274 # Comments: 87"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45251690",
+      "title": "Wanted to spy on my dog, ended up spying on TP-Link",
+      "slug": "2025-09-15-wanted-to-spy-on-my-dog-ended-up-spying-on-tp-link.html",
+      "path": "posts/2025-09-15-wanted-to-spy-on-my-dog-ended-up-spying-on-tp-link.html",
+      "date_iso": "2025-09-15T16:28:54+00:00",
+      "source": "https://kennedn.com/blog/posts/tapo/",
+      "summary": "Article URL: https://kennedn.com/blog/posts/tapo/ Comments URL: https://news.ycombinator.com/item?id=45251690 Points: 404 # Comments: 129"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/15/business/elon-musk-buys-tesla-shares.html",
+      "title": "Elon Musk Buys $1 Billion in Tesla Stock as Board Defends His Pay",
+      "slug": "2025-09-15-elon-musk-buys-1-billion-in-tesla-stock-as-board-defends-his-pay.html",
+      "path": "posts/2025-09-15-elon-musk-buys-1-billion-in-tesla-stock-as-board-defends-his-pay.html",
+      "date_iso": "2025-09-15T15:48:34+00:00",
+      "source": "https://www.nytimes.com/2025/09/15/business/elon-musk-buys-tesla-shares.html",
+      "summary": "Elon Musk’s purchase of Tesla stock prompted a jump in the company’s shares in early trading on Monday."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45251093",
+      "title": "Boring work needs tension",
+      "slug": "2025-09-15-boring-work-needs-tension.html",
+      "path": "posts/2025-09-15-boring-work-needs-tension.html",
+      "date_iso": "2025-09-15T15:44:29+00:00",
+      "source": "https://iaziz786.com/blog/boring-work-needs-tension/",
+      "summary": "Article URL: https://iaziz786.com/blog/boring-work-needs-tension/ Comments URL: https://news.ycombinator.com/item?id=45251093 Points: 114 # Comments: 60"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45250720",
+      "title": "Launch HN: Trigger.dev (YC W23) – Open-source platform to build reliable AI apps",
+      "slug": "2025-09-15-launch-hn-trigger-dev-yc-w23-open-source-platform-to-build-reliable-ai-apps.html",
+      "path": "posts/2025-09-15-launch-hn-trigger-dev-yc-w23-open-source-platform-to-build-reliable-ai-apps.html",
+      "date_iso": "2025-09-15T15:20:18+00:00",
+      "source": "https://news.ycombinator.com/item?id=45250720",
+      "summary": "Hi HN, I’m Eric, CTO at Trigger.dev ( https://trigger.dev ). We’re a developer platform for building and running AI agents and workflows, open-source under the Apache 2.0 license ( https://github.com/triggerdotdev/trigger.dev ). We provide everything needed to create production-…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45250202",
+      "title": "How to self-host a web font from Google Fonts",
+      "slug": "2025-09-15-how-to-self-host-a-web-font-from-google-fonts.html",
+      "path": "posts/2025-09-15-how-to-self-host-a-web-font-from-google-fonts.html",
+      "date_iso": "2025-09-15T14:33:41+00:00",
+      "source": "https://blog.velocifyer.com/Posts/3,0,0,2025-8-13,+how+to+self+host+a+font+from+google+fonts.html",
+      "summary": "Article URL: https://blog.velocifyer.com/Posts/3,0,0,2025-8-13,+how+to+self+host+a+font+from+google+fonts.html Comments URL: https://news.ycombinator.com/item?id=45250202 Points: 138 # Comments: 107"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45249915",
+      "title": "PayPal to support Ethereum and Bitcoin",
+      "slug": "2025-09-15-paypal-to-support-ethereum-and-bitcoin.html",
+      "path": "posts/2025-09-15-paypal-to-support-ethereum-and-bitcoin.html",
+      "date_iso": "2025-09-15T14:04:47+00:00",
+      "source": "https://newsroom.paypal-corp.com/2025-09-15-PayPal-Ushers-in-a-New-Era-of-Peer-to-Peer-Payments,-Reimagining-How-Money-Moves-to-Anyone,-Anywhere",
+      "summary": "Article URL: https://newsroom.paypal-corp.com/2025-09-15-PayPal-Ushers-in-a-New-Era-of-Peer-to-Peer-Payments,-Reimagining-How-Money-Moves-to-Anyone,-Anywhere Comments URL: https://news.ycombinator.com/item?id=45249915 Points: 412 # Comments: 313"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45249878",
+      "title": "CubeSats are fascinating learning tools for space",
+      "slug": "2025-09-15-cubesats-are-fascinating-learning-tools-for-space.html",
+      "path": "posts/2025-09-15-cubesats-are-fascinating-learning-tools-for-space.html",
+      "date_iso": "2025-09-15T14:02:02+00:00",
+      "source": "https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space",
+      "summary": "Article URL: https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space Comments URL: https://news.ycombinator.com/item?id=45249878 Points: 183 # Comments: 75"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45246403",
       "title": "Celestia – real-time 3D visualization of space",
       "slug": "2025-09-15-celestia-real-time-3d-visualization-of-space.html",
@@ -376,6 +601,15 @@
       "path": "posts/2025-09-13-used-e-v-sales-take-off-as-prices-plummet.html",
       "date_iso": "2025-09-13T09:00:59+00:00",
       "source": "https://www.nytimes.com/2025/09/13/business/used-electric-vehciles.html",
+      "summary": "K. Boyle, a retired teacher who lives in San Francisco, recently bought a used Nissan Leaf she found on Craigslist for just $1,000 after factoring in a rebate from her electric utility."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/13/business/used-electric-vehicles.html",
+      "title": "Used E.V. Sales Take Off as Prices Plummet",
+      "slug": "2025-09-13-used-e-v-sales-take-off-as-prices-plummet.html",
+      "path": "posts/2025-09-13-used-e-v-sales-take-off-as-prices-plummet.html",
+      "date_iso": "2025-09-13T09:00:59+00:00",
+      "source": "https://www.nytimes.com/2025/09/13/business/used-electric-vehicles.html",
       "summary": "K. Boyle, a retired teacher who lives in San Francisco, recently bought a used Nissan Leaf she found on Craigslist for just $1,000 after factoring in a rebate from her electric utility."
     },
     {
