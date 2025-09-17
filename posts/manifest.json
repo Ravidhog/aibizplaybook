@@ -1,6 +1,267 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45272653",
+      "title": "Introducing Stargate UK",
+      "slug": "2025-09-17-introducing-stargate-uk.html",
+      "path": "posts/2025-09-17-introducing-stargate-uk.html",
+      "date_iso": "2025-09-17T06:54:02+00:00",
+      "source": "https://openai.com/index/introducing-stargate-uk/",
+      "summary": "Article URL: https://openai.com/index/introducing-stargate-uk/ Comments URL: https://news.ycombinator.com/item?id=45272653 Points: 12 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45272480",
+      "title": "Murex – An intuitive and content aware shell for a modern command line",
+      "slug": "2025-09-17-murex-an-intuitive-and-content-aware-shell-for-a-modern-command-line.html",
+      "path": "posts/2025-09-17-murex-an-intuitive-and-content-aware-shell-for-a-modern-command-line.html",
+      "date_iso": "2025-09-17T06:32:17+00:00",
+      "source": "https://murex.rocks/",
+      "summary": "Article URL: https://murex.rocks/ Comments URL: https://news.ycombinator.com/item?id=45272480 Points: 13 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45272296",
+      "title": "In Praise of Idleness (1932)",
+      "slug": "2025-09-17-in-praise-of-idleness-1932.html",
+      "path": "posts/2025-09-17-in-praise-of-idleness-1932.html",
+      "date_iso": "2025-09-17T06:04:06+00:00",
+      "source": "https://harpers.org/archive/1932/10/in-praise-of-idleness/",
+      "summary": "Article URL: https://harpers.org/archive/1932/10/in-praise-of-idleness/ Comments URL: https://news.ycombinator.com/item?id=45272296 Points: 17 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45271942",
+      "title": "Notion API importer, with Databases to Bases conversion bounty",
+      "slug": "2025-09-17-notion-api-importer-with-databases-to-bases-conversion-bounty.html",
+      "path": "posts/2025-09-17-notion-api-importer-with-databases-to-bases-conversion-bounty.html",
+      "date_iso": "2025-09-17T05:11:50+00:00",
+      "source": "https://github.com/obsidianmd/obsidian-importer/issues/421",
+      "summary": "Article URL: https://github.com/obsidianmd/obsidian-importer/issues/421 Comments URL: https://news.ycombinator.com/item?id=45271942 Points: 66 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45271664",
+      "title": "I just want an 80×25 console, but that's no longer possible",
+      "slug": "2025-09-17-i-just-want-an-80-25-console-but-that-s-no-longer-possible.html",
+      "path": "posts/2025-09-17-i-just-want-an-80-25-console-but-that-s-no-longer-possible.html",
+      "date_iso": "2025-09-17T04:26:02+00:00",
+      "source": "https://changelog.complete.org/archives/10881-i-just-want-an-80x25-console-but-thats-no-longer-possible",
+      "summary": "Article URL: https://changelog.complete.org/archives/10881-i-just-want-an-80x25-console-but-thats-no-longer-possible Comments URL: https://news.ycombinator.com/item?id=45271664 Points: 46 # Comments: 41"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/17/technology/britain-facial-recognition-digital-controls.html",
+      "title": "Has Britain Gone Too Far With Its Digital Controls?",
+      "slug": "2025-09-17-has-britain-gone-too-far-with-its-digital-controls.html",
+      "path": "posts/2025-09-17-has-britain-gone-too-far-with-its-digital-controls.html",
+      "date_iso": "2025-09-17T04:00:08+00:00",
+      "source": "https://www.nytimes.com/2025/09/17/technology/britain-facial-recognition-digital-controls.html",
+      "summary": "Facial recognition vans are being used by police across London."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45271484",
+      "title": "The Asus Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation",
+      "slug": "2025-09-17-the-asus-gaming-laptop-acpi-firmware-bug-a-deep-technical-investigation.html",
+      "path": "posts/2025-09-17-the-asus-gaming-laptop-acpi-firmware-bug-a-deep-technical-investigation.html",
+      "date_iso": "2025-09-17T03:54:36+00:00",
+      "source": "https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive",
+      "summary": "Article URL: https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive Comments URL: https://news.ycombinator.com/item?id=45271484 Points: 107 # Comments: 44"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45271481",
+      "title": "GNU Midnight Commander",
+      "slug": "2025-09-17-gnu-midnight-commander.html",
+      "path": "posts/2025-09-17-gnu-midnight-commander.html",
+      "date_iso": "2025-09-17T03:54:06+00:00",
+      "source": "https://midnight-commander.org/",
+      "summary": "Article URL: https://midnight-commander.org/ Comments URL: https://news.ycombinator.com/item?id=45271481 Points: 156 # Comments: 87"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45270981",
+      "title": "Show HN: A PSX/DOS style 3D game written in Rust with a custom software renderer",
+      "slug": "2025-09-17-show-hn-a-psx-dos-style-3d-game-written-in-rust-with-a-custom-software-renderer.html",
+      "path": "posts/2025-09-17-show-hn-a-psx-dos-style-3d-game-written-in-rust-with-a-custom-software-renderer.html",
+      "date_iso": "2025-09-17T02:39:19+00:00",
+      "source": "https://totenarctanz.itch.io/a-scavenging-trip",
+      "summary": "So, after years of abandoning Rust after the hello world stage, I finally decided to do something substantial. It started with simple line rendering, but I liked how it was progressing so I figured I could make a reasonably complete PSX style renderer and a game with it. My only…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45270676",
+      "title": "Slow social media",
+      "slug": "2025-09-17-slow-social-media.html",
+      "path": "posts/2025-09-17-slow-social-media.html",
+      "date_iso": "2025-09-17T01:57:58+00:00",
+      "source": "https://herman.bearblog.dev/slow-social-media/",
+      "summary": "Article URL: https://herman.bearblog.dev/slow-social-media/ Comments URL: https://news.ycombinator.com/item?id=45270676 Points: 63 # Comments: 48"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45270649",
+      "title": "I got the highest score on ARC-AGI again swapping Python for English",
+      "slug": "2025-09-17-i-got-the-highest-score-on-arc-agi-again-swapping-python-for-english.html",
+      "path": "posts/2025-09-17-i-got-the-highest-score-on-arc-agi-again-swapping-python-for-english.html",
+      "date_iso": "2025-09-17T01:53:47+00:00",
+      "source": "https://jeremyberman.substack.com/p/how-i-got-the-highest-score-on-arc-agi-again",
+      "summary": "Article URL: https://jeremyberman.substack.com/p/how-i-got-the-highest-score-on-arc-agi-again Comments URL: https://news.ycombinator.com/item?id=45270649 Points: 49 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45270482",
+      "title": "Irssi: IRC Client in a Docker Image",
+      "slug": "2025-09-17-irssi-irc-client-in-a-docker-image.html",
+      "path": "posts/2025-09-17-irssi-irc-client-in-a-docker-image.html",
+      "date_iso": "2025-09-17T01:26:41+00:00",
+      "source": "https://hub.docker.com/_/irssi",
+      "summary": "Article URL: https://hub.docker.com/_/irssi Comments URL: https://news.ycombinator.com/item?id=45270482 Points: 37 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45270108",
+      "title": "About the security content of iOS 15.8.5 and iPadOS 15.8.5",
+      "slug": "2025-09-17-about-the-security-content-of-ios-15-8-5-and-ipados-15-8-5.html",
+      "path": "posts/2025-09-17-about-the-security-content-of-ios-15-8-5-and-ipados-15-8-5.html",
+      "date_iso": "2025-09-17T00:34:02+00:00",
+      "source": "https://support.apple.com/en-us/125142",
+      "summary": "Article URL: https://support.apple.com/en-us/125142 Comments URL: https://news.ycombinator.com/item?id=45270108 Points: 294 # Comments: 120"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45270087",
+      "title": "AMD Open Source Driver for Vulkan project is discontinued",
+      "slug": "2025-09-17-amd-open-source-driver-for-vulkan-project-is-discontinued.html",
+      "path": "posts/2025-09-17-amd-open-source-driver-for-vulkan-project-is-discontinued.html",
+      "date_iso": "2025-09-17T00:31:04+00:00",
+      "source": "https://github.com/GPUOpen-Drivers/AMDVLK/discussions/416",
+      "summary": "Article URL: https://github.com/GPUOpen-Drivers/AMDVLK/discussions/416 Comments URL: https://news.ycombinator.com/item?id=45270087 Points: 49 # Comments: 5"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/16/technology/tiktok-fourth-delay.html",
+      "title": "Trump Delays TikTok Ban Again as a Deal Takes Shape",
+      "slug": "2025-09-16-trump-delays-tiktok-ban-again-as-a-deal-takes-shape.html",
+      "path": "posts/2025-09-16-trump-delays-tiktok-ban-again-as-a-deal-takes-shape.html",
+      "date_iso": "2025-09-16T23:50:39+00:00",
+      "source": "https://www.nytimes.com/2025/09/16/technology/tiktok-fourth-delay.html",
+      "summary": "The latest extension gives negotiators until Dec. 16 to find a new owner for TikTok."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45268269",
+      "title": "Doom crash after 2.5 years of real-world runtime confirmed on real hardware",
+      "slug": "2025-09-16-doom-crash-after-2-5-years-of-real-world-runtime-confirmed-on-real-hardware.html",
+      "path": "posts/2025-09-16-doom-crash-after-2-5-years-of-real-world-runtime-confirmed-on-real-hardware.html",
+      "date_iso": "2025-09-16T21:24:23+00:00",
+      "source": "https://lenowo.org/viewtopic.php?t=31",
+      "summary": "Article URL: https://lenowo.org/viewtopic.php?t=31 Comments URL: https://news.ycombinator.com/item?id=45268269 Points: 186 # Comments: 59"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45266947",
+      "title": "In Defense of C++",
+      "slug": "2025-09-16-in-defense-of-c.html",
+      "path": "posts/2025-09-16-in-defense-of-c.html",
+      "date_iso": "2025-09-16T19:40:34+00:00",
+      "source": "https://dayvster.com/blog/in-defense-of-cpp/",
+      "summary": "Article URL: https://dayvster.com/blog/in-defense-of-cpp/ Comments URL: https://news.ycombinator.com/item?id=45266947 Points: 118 # Comments: 198"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45266854",
+      "title": "Should we drain the Everglades?",
+      "slug": "2025-09-16-should-we-drain-the-everglades.html",
+      "path": "posts/2025-09-16-should-we-drain-the-everglades.html",
+      "date_iso": "2025-09-16T19:33:35+00:00",
+      "source": "https://rabbitcavern.substack.com/p/should-we-drain-the-everglades",
+      "summary": "Article URL: https://rabbitcavern.substack.com/p/should-we-drain-the-everglades Comments URL: https://news.ycombinator.com/item?id=45266854 Points: 82 # Comments: 83"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/16/technology/what-exactly-are-ai-companies-trying-to-build-heres-a-guide.html",
+      "title": "What Exactly Are A.I. Companies Trying to Build? Here’s a Guide.",
+      "slug": "2025-09-16-what-exactly-are-a-i-companies-trying-to-build-here-s-a-guide.html",
+      "path": "posts/2025-09-16-what-exactly-are-a-i-companies-trying-to-build-here-s-a-guide.html",
+      "date_iso": "2025-09-16T19:19:57+00:00",
+      "source": "https://www.nytimes.com/2025/09/16/technology/what-exactly-are-ai-companies-trying-to-build-heres-a-guide.html",
+      "summary": "Amazon, Microsoft, Google, Meta and OpenAI plan to spend at least $325 billion by the end of the year in pursuit of A.I. We explain why they’re doing it."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/16/business/united-airlines-newark-airport.html",
+      "title": "United Airlines Says Newark Airport Problems Have Eased Greatly",
+      "slug": "2025-09-16-united-airlines-says-newark-airport-problems-have-eased-greatly.html",
+      "path": "posts/2025-09-16-united-airlines-says-newark-airport-problems-have-eased-greatly.html",
+      "date_iso": "2025-09-16T19:16:43+00:00",
+      "source": "https://www.nytimes.com/2025/09/16/business/united-airlines-newark-airport.html",
+      "summary": "Customer confidence in United Airlines and Newark Liberty International Airport has bounced back since the spring."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45266215",
+      "title": "Meta RayBan AR glasses shows Lumus waveguide structures in leaked video",
+      "slug": "2025-09-16-meta-rayban-ar-glasses-shows-lumus-waveguide-structures-in-leaked-video.html",
+      "path": "posts/2025-09-16-meta-rayban-ar-glasses-shows-lumus-waveguide-structures-in-leaked-video.html",
+      "date_iso": "2025-09-16T18:47:04+00:00",
+      "source": "https://kguttag.com/2025/09/16/meta-rayban-ar-glasses-shows-lumus-waveguide-structures-in-leaked-video/",
+      "summary": "Article URL: https://kguttag.com/2025/09/16/meta-rayban-ar-glasses-shows-lumus-waveguide-structures-in-leaked-video/ Comments URL: https://news.ycombinator.com/item?id=45266215 Points: 80 # Comments: 82"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/16/business/tesla-doors-nhtsa-investigation.html",
+      "title": "Tesla’s 2021 Model Y Doors Could Trap Riders, US Safety Agency Says",
+      "slug": "2025-09-16-tesla-s-2021-model-y-doors-could-trap-riders-us-safety-agency-says.html",
+      "path": "posts/2025-09-16-tesla-s-2021-model-y-doors-could-trap-riders-us-safety-agency-says.html",
+      "date_iso": "2025-09-16T18:40:37+00:00",
+      "source": "https://www.nytimes.com/2025/09/16/business/tesla-doors-nhtsa-investigation.html",
+      "summary": "The National Highway Traffic Safety Administration said its investigation was based on reports from owners of Tesla’s 2021 Model Y electric vehicle."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45266039",
+      "title": "How to make the Framework Desktop run even quieter",
+      "slug": "2025-09-16-how-to-make-the-framework-desktop-run-even-quieter.html",
+      "path": "posts/2025-09-16-how-to-make-the-framework-desktop-run-even-quieter.html",
+      "date_iso": "2025-09-16T18:33:21+00:00",
+      "source": "https://noctua.at/en/how-to-make-the-framework-desktop-run-even-quieter",
+      "summary": "Article URL: https://noctua.at/en/how-to-make-the-framework-desktop-run-even-quieter Comments URL: https://news.ycombinator.com/item?id=45266039 Points: 259 # Comments: 77"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45265745",
+      "title": "Denmark close to wiping out cancer-causing HPV strains after vaccine roll-out",
+      "slug": "2025-09-16-denmark-close-to-wiping-out-cancer-causing-hpv-strains-after-vaccine-roll-out.html",
+      "path": "posts/2025-09-16-denmark-close-to-wiping-out-cancer-causing-hpv-strains-after-vaccine-roll-out.html",
+      "date_iso": "2025-09-16T18:12:29+00:00",
+      "source": "https://www.gavi.org/vaccineswork/denmark-close-wiping-out-leading-cancer-causing-hpv-strains-after-vaccine-roll-out",
+      "summary": "Article URL: https://www.gavi.org/vaccineswork/denmark-close-wiping-out-leading-cancer-causing-hpv-strains-after-vaccine-roll-out Comments URL: https://news.ycombinator.com/item?id=45265745 Points: 676 # Comments: 270"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/16/world/europe/tinder-swindler-simon-leviev-arrested.html",
+      "title": "Man Known as the ‘Tinder Swindler’ Is Arrested in Georgia",
+      "slug": "2025-09-16-man-known-as-the-tinder-swindler-is-arrested-in-georgia.html",
+      "path": "posts/2025-09-16-man-known-as-the-tinder-swindler-is-arrested-in-georgia.html",
+      "date_iso": "2025-09-16T17:46:14+00:00",
+      "source": "https://www.nytimes.com/2025/09/16/world/europe/tinder-swindler-simon-leviev-arrested.html",
+      "summary": "Shimon Hayut, also known as Simon Leviev, left, in Athens in 2019."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/16/us/limewire-crypto-fyre-festival.html",
+      "title": "LimeWire, the Former File-Sharing Service, Is Buying Fyre Festival Brand",
+      "slug": "2025-09-16-limewire-the-former-file-sharing-service-is-buying-fyre-festival-brand.html",
+      "path": "posts/2025-09-16-limewire-the-former-file-sharing-service-is-buying-fyre-festival-brand.html",
+      "date_iso": "2025-09-16T17:25:11+00:00",
+      "source": "https://www.nytimes.com/2025/09/16/us/limewire-crypto-fyre-festival.html",
+      "summary": "Trash, discarded materials and remnants of the failed Fyre Festival in 2017."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45264867",
+      "title": "Launch HN: Rowboat (YC S24) – Open-source IDE for multi-agent systems",
+      "slug": "2025-09-16-launch-hn-rowboat-yc-s24-open-source-ide-for-multi-agent-systems.html",
+      "path": "posts/2025-09-16-launch-hn-rowboat-yc-s24-open-source-ide-for-multi-agent-systems.html",
+      "date_iso": "2025-09-16T17:01:16+00:00",
+      "source": "https://github.com/rowboatlabs/rowboat",
+      "summary": "Hi HN! We are Arjun, Ramnique, and Akhilesh, the founders of Rowboat ( https://www.rowboatlabs.com ), an AI-assisted IDE for building and managing multi-agent systems with a copilot. Using Rowboat, you can build both deterministic automation agents (e.g. automatically summarizin…"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/16/business/media/youtube-livestreaming-video.html",
+      "title": "YouTube Expands its Livestreaming Tools In Push for More Live Video",
+      "slug": "2025-09-16-youtube-expands-its-livestreaming-tools-in-push-for-more-live-video.html",
+      "path": "posts/2025-09-16-youtube-expands-its-livestreaming-tools-in-push-for-more-live-video.html",
+      "date_iso": "2025-09-16T15:55:56+00:00",
+      "source": "https://www.nytimes.com/2025/09/16/business/media/youtube-livestreaming-video.html",
+      "summary": "YouTube’s San Bruno, Calif., offices. The video platform is expanding its livestreaming capabilities."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/16/technology/charlie-kirk-meta-x-tiktok.html",
+      "title": "Social Platforms Duck Blame for Inflaming Divisions Before Charlie Kirk’s Death",
+      "slug": "2025-09-16-social-platforms-duck-blame-for-inflaming-divisions-before-charlie-kirk-s-death.html",
+      "path": "posts/2025-09-16-social-platforms-duck-blame-for-inflaming-divisions-before-charlie-kirk-s-death.html",
+      "date_iso": "2025-09-16T15:37:00+00:00",
+      "source": "https://www.nytimes.com/2025/09/16/technology/charlie-kirk-meta-x-tiktok.html",
+      "summary": "A camera operator films at a makeshift memorial for the political activist Charlie Kirk after his recent killing on campus at Utah Valley University in Orem."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45258098",
       "title": "Public static void main(String[] args) is dead",
       "slug": "2025-09-16-public-static-void-main-string-args-is-dead.html",

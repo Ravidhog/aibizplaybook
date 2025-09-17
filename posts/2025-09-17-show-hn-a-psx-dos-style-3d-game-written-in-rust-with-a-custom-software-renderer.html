@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: A PSX/DOS style 3D game written in Rust with a custom software renderer</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: A PSX/DOS style 3D game written in Rust with a custom software renderer</h1>
+    <p><small>Published: 2025-09-17T02:39:19+00:00</small></p>
+  </header>
+
+  <main>
+    <p>So, after years of abandoning Rust after the hello world stage, I finally decided to do something substantial. It started with simple line rendering, but I liked how it was progressing so I figured I could make a reasonably complete PSX style renderer and a game with it.<p>My only dependency is SDL2; I treat it as my "platform", so it handles windowing, input and audio. This means my Cargo.toml is as simple as:<p>[dependencies.sdl2]
+version = "0.35"
+default-features = false
+features = ["mixer"]<p>this pulls around 6-7 other dependencies.<p>I am doing actual true color 3D rendering (with Z buffer, transforming, lighting and rasterizing each triangle and so on, no special techniques or raycasting), the framebuffer is 320x180 (widescreen 320x240). SDL handles the hardware-accelerated final scaling to the display resolution (if available, for example in VMs it's sometimes not so it's pure software). I do my own physics, quaternion/matrix/vector math, TGA and OBJ loading.<p>Performance: I have not spent a lot of time on this really, but I am kind of satisfied: FPS ranges from [200-500] on a 2011 i5 Thinkpad to [70-80] on a 2005 Pentium laptop (this could barely run rustc...I had to jump through some hoops to make it work on 32 bit Linux), to [40-50] on a RaspberryPi 3B+. I don't have more modern hardware to test.<p>All of this is single threaded, no SIMD, no inline asm. Also, implementing interlaced rendering provided a +50% perf boost (and a nice effect).<p>The Pentium laptop has an ATI (yes) chip which is, maybe not surprisingly, supported perfectly by SDL.<p>Regarding Rust: I've barely touched the language. I am using it more as a "C with vec!s, borrow checker, pattern matching, error propagation, and traits". I love the syntax of the subset that I use; it's crystal clear, readable, ergonomic. Things like matches/ifs returning values are extremely useful for concise and productive code. However, pro/idiomatic code that I see around, looks unreadable to me. I've written all of the code from scratch on my own terms, so this was not a problem, but still... In any case, the ecosystem and tooling are amazing. All in all, an amazing development experience. I am a bit afraid to switch back to C++ for my next project.<p>Also, rustup/cargo made things a walk in the park while creating a deployment script that automates the whole process: after a commit, it scans source files for used assets and packages only those, copies dependencies (DLLs for Win), sets up build dependencies depending on the target, builds all 3 targets (Win10_64, Linux32, Linux64), bundles everything into separate zips and uploads them to my local server. I am doing this from a 64bit Lubuntu 18.04 virtual machine.<p>You can try the game and read all info about it on the linked itch.io page:
+<a href="https://totenarctanz.itch.io/a-scavenging-trip" rel="nofollow">https://totenarctanz.itch.io/a-scavenging-trip</a><p>All assets (audio/images/fonts) where also made by me for this project (you could guess from the low quality).<p>Development tools: Geany (on Linux), notepad++ (on Windows), both vanilla with no plugins, Blender, Gimp, REAPER.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45270981">https://news.ycombinator.com/item?id=45270981</a></p>
+<p>Points: 35</p>
+<p># Comments: 2</p>
+    <p><a href="https://totenarctanz.itch.io/a-scavenging-trip" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
