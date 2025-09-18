@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Launch HN: RunRL (YC X25) – Reinforcement learning as a service</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Launch HN: RunRL (YC X25) – Reinforcement learning as a service</h1>
+    <p><small>Published: 2025-09-17T16:13:00+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hey HN, we’re Andrew and Derik at RunRL (<a href="https://runrl.com/">https://runrl.com/</a>). We've built a platform to improve models and agents with reinforcement learning. If you can define a metric, we'll make your model or agent better, without you having to think about managing GPU clusters.<p>Here's a demo video: <a href="https://youtu.be/EtiBjs4jfCg" rel="nofollow">https://youtu.be/EtiBjs4jfCg</a><p>I (Andrew) was doing a PhD in reinforcement learning on language models, and everyone kept...not using RL because it was too hard to get running. At some point I realized that someone's got to sit down and actually write a good platform for running RL experiments.<p>Once this happened, people started using it for antiviral design, formal verification, browser agents, and a bunch of other cool applications, so we decided to make a startup out of it.<p>How it works:<p>- Choose an open-weight base model (weights are necessary for RL updates; Qwen3-4B-Instruct-2507 is a good starting point)<p>- Upload a set of initial prompts ("Generate an antiviral targeting Sars-CoV-2 protease", "Prove this theorem", "What's the average summer high in Windhoek?")<p>- Define a reward function, using Python, an LLM-as-a-judge, or both<p>- For complex settings, you can define an entire multi-turn environment<p>- Watch the reward go up!<p>For most well-defined problems, a small open model + RunRL outperforms frontier models. (For instance, we've seen Qwen-3B do better than Claude 4.1 Opus on antiviral design.) This is because LLM intelligence is notoriously "spiky"; often models are decent-but-not-great at common-sense knowledge, are randomly good at a few domains, but make mistakes on lots of other tasks. RunRL creates spikes precisely on the tasks where you need them.<p>Pricing: $80/node-hour. Most models up to 14B parameters fit on one node (0.6-1.2 TB of VRAM). We do full fine-tuning, at the cost of parameter-efficiency (with RL, people seem to care a lot about the last few percent gains in e.g. agent reliability).<p>Next up: continuous learning; tool use. Tool use is currently in private beta, which you can join here: <a href="https://forms.gle/D2mSmeQDVCDraPQg8" rel="nofollow">https://forms.gle/D2mSmeQDVCDraPQg8</a><p>We'd love to hear any thoughts, questions, or positive or negative reinforcement!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45277704">https://news.ycombinator.com/item?id=45277704</a></p>
+<p>Points: 61</p>
+<p># Comments: 16</p>
+    <p><a href="https://runrl.com" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

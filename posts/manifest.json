@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2025/09/18/technology/brendan-carr-fcc-jimmy-kimmel.html",
+      "title": "Who Is Brendan Carr, the F.C.C. Chair Who Played a Role In Jimmy Kimmel’s Suspension?",
+      "slug": "2025-09-18-who-is-brendan-carr-the-f-c-c-chair-who-played-a-role-in-jimmy-kimmel-s-suspension.html",
+      "path": "posts/2025-09-18-who-is-brendan-carr-the-f-c-c-chair-who-played-a-role-in-jimmy-kimmel-s-suspension.html",
+      "date_iso": "2025-09-18T05:51:20+00:00",
+      "source": "https://www.nytimes.com/2025/09/18/technology/brendan-carr-fcc-jimmy-kimmel.html",
+      "summary": "Brendan Carr, Chairman of the Federal Communications Commission, speaking at the Federal Communications Commission building in Washington D.C. in February 27."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45285780",
+      "title": "European ant is the first known animal to clone members of another species",
+      "slug": "2025-09-18-european-ant-is-the-first-known-animal-to-clone-members-of-another-species.html",
+      "path": "posts/2025-09-18-european-ant-is-the-first-known-animal-to-clone-members-of-another-species.html",
+      "date_iso": "2025-09-18T05:27:01+00:00",
+      "source": "https://www.livescience.com/animals/ants/almost-like-science-fiction-european-ant-is-the-first-known-animal-to-clone-members-of-another-species",
+      "summary": "Article URL: https://www.livescience.com/animals/ants/almost-like-science-fiction-european-ant-is-the-first-known-animal-to-clone-members-of-another-species Comments URL: https://news.ycombinator.com/item?id=45285780 Points: 58 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45284766",
+      "title": "Towards a Physics Foundation Model",
+      "slug": "2025-09-18-towards-a-physics-foundation-model.html",
+      "path": "posts/2025-09-18-towards-a-physics-foundation-model.html",
+      "date_iso": "2025-09-18T03:06:08+00:00",
+      "source": "https://arxiv.org/abs/2509.13805",
+      "summary": "Article URL: https://arxiv.org/abs/2509.13805 Comments URL: https://news.ycombinator.com/item?id=45284766 Points: 34 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45284398",
+      "title": "A QBasic Text Adventure Still Expanding in 2025",
+      "slug": "2025-09-18-a-qbasic-text-adventure-still-expanding-in-2025.html",
+      "path": "posts/2025-09-18-a-qbasic-text-adventure-still-expanding-in-2025.html",
+      "date_iso": "2025-09-18T02:25:59+00:00",
+      "source": "https://the-ventureweaver.itch.io/",
+      "summary": "Article URL: https://the-ventureweaver.itch.io/ Comments URL: https://news.ycombinator.com/item?id=45284398 Points: 29 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45284311",
+      "title": "Show HN: The text disappears when you screenshot it",
+      "slug": "2025-09-18-show-hn-the-text-disappears-when-you-screenshot-it.html",
+      "path": "posts/2025-09-18-show-hn-the-text-disappears-when-you-screenshot-it.html",
+      "date_iso": "2025-09-18T02:18:45+00:00",
+      "source": "https://unscreenshottable.vercel.app/?text=Hello",
+      "summary": "Article URL: https://unscreenshottable.vercel.app/?text=Hello Comments URL: https://news.ycombinator.com/item?id=45284311 Points: 145 # Comments: 53"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45283887",
+      "title": "Slack has raised our charges by $195k per year",
+      "slug": "2025-09-18-slack-has-raised-our-charges-by-195k-per-year.html",
+      "path": "posts/2025-09-18-slack-has-raised-our-charges-by-195k-per-year.html",
+      "date_iso": "2025-09-18T01:37:11+00:00",
+      "source": "https://skyfall.dev/posts/slack",
+      "summary": "Article URL: https://skyfall.dev/posts/slack Comments URL: https://news.ycombinator.com/item?id=45283887 Points: 725 # Comments: 354"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45283731",
+      "title": "Hypervisor 101 in Rust",
+      "slug": "2025-09-18-hypervisor-101-in-rust.html",
+      "path": "posts/2025-09-18-hypervisor-101-in-rust.html",
+      "date_iso": "2025-09-18T01:18:58+00:00",
+      "source": "https://tandasat.github.io/Hypervisor-101-in-Rust/",
+      "summary": "Article URL: https://tandasat.github.io/Hypervisor-101-in-Rust/ Comments URL: https://news.ycombinator.com/item?id=45283731 Points: 80 # Comments: 5"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/17/technology/personaltech/meta-smart-glasses-ai.html",
+      "title": "Meta Unveils Smart Glasses With Apps and an Artificial Intelligence Assistant",
+      "slug": "2025-09-18-meta-unveils-smart-glasses-with-apps-and-an-artificial-intelligence-assistant.html",
+      "path": "posts/2025-09-18-meta-unveils-smart-glasses-with-apps-and-an-artificial-intelligence-assistant.html",
+      "date_iso": "2025-09-18T01:01:20+00:00",
+      "source": "https://www.nytimes.com/2025/09/17/technology/personaltech/meta-smart-glasses-ai.html",
+      "summary": "Mark Zuckerberg, Meta’s chief executive, unveiled three new types of smart glasses at the company’s annual developer conference in Menlo Park, Calif., on Wednesday."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45283306",
+      "title": "Meta Ray-Ban Display",
+      "slug": "2025-09-18-meta-ray-ban-display.html",
+      "path": "posts/2025-09-18-meta-ray-ban-display.html",
+      "date_iso": "2025-09-18T00:30:44+00:00",
+      "source": "https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/",
+      "summary": "Article URL: https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/ Comments URL: https://news.ycombinator.com/item?id=45283306 Points: 332 # Comments: 454"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45283196",
+      "title": "Stepping Down as Libxml2 Maintainer",
+      "slug": "2025-09-18-stepping-down-as-libxml2-maintainer.html",
+      "path": "posts/2025-09-18-stepping-down-as-libxml2-maintainer.html",
+      "date_iso": "2025-09-18T00:17:20+00:00",
+      "source": "https://discourse.gnome.org/t/stepping-down-as-libxml2-maintainer/31398",
+      "summary": "Article URL: https://discourse.gnome.org/t/stepping-down-as-libxml2-maintainer/31398 Comments URL: https://news.ycombinator.com/item?id=45283196 Points: 59 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45282497",
+      "title": "One Token to rule them all – Obtaining Global Admin in every Entra ID tenant",
+      "slug": "2025-09-17-one-token-to-rule-them-all-obtaining-global-admin-in-every-entra-id-tenant.html",
+      "path": "posts/2025-09-17-one-token-to-rule-them-all-obtaining-global-admin-in-every-entra-id-tenant.html",
+      "date_iso": "2025-09-17T23:03:21+00:00",
+      "source": "https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/",
+      "summary": "Article URL: https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/ Comments URL: https://news.ycombinator.com/item?id=45282497 Points: 159 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45281139",
+      "title": "A postmortem of three recent issues",
+      "slug": "2025-09-17-a-postmortem-of-three-recent-issues.html",
+      "path": "posts/2025-09-17-a-postmortem-of-three-recent-issues.html",
+      "date_iso": "2025-09-17T20:41:07+00:00",
+      "source": "https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues",
+      "summary": "Article URL: https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues Comments URL: https://news.ycombinator.com/item?id=45281139 Points: 263 # Comments: 86"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45280592",
+      "title": "Gluon: a GPU programming language based on the same compiler stack as Triton",
+      "slug": "2025-09-17-gluon-a-gpu-programming-language-based-on-the-same-compiler-stack-as-triton.html",
+      "path": "posts/2025-09-17-gluon-a-gpu-programming-language-based-on-the-same-compiler-stack-as-triton.html",
+      "date_iso": "2025-09-17T19:50:11+00:00",
+      "source": "https://github.com/triton-lang/triton/blob/main/python/tutorials/gluon/01-intro.py",
+      "summary": "Article URL: https://github.com/triton-lang/triton/blob/main/python/tutorials/gluon/01-intro.py Comments URL: https://news.ycombinator.com/item?id=45280592 Points: 71 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45279792",
+      "title": "Optimizing ClickHouse for Intel's 280 core processors",
+      "slug": "2025-09-17-optimizing-clickhouse-for-intel-s-280-core-processors.html",
+      "path": "posts/2025-09-17-optimizing-clickhouse-for-intel-s-280-core-processors.html",
+      "date_iso": "2025-09-17T18:46:03+00:00",
+      "source": "https://clickhouse.com/blog/optimizing-clickhouse-intel-high-core-count-cpu",
+      "summary": "Article URL: https://clickhouse.com/blog/optimizing-clickhouse-intel-high-core-count-cpu Comments URL: https://news.ycombinator.com/item?id=45279792 Points: 176 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45279384",
+      "title": "WASM 3.0 Completed",
+      "slug": "2025-09-17-wasm-3-0-completed.html",
+      "path": "posts/2025-09-17-wasm-3-0-completed.html",
+      "date_iso": "2025-09-17T18:16:53+00:00",
+      "source": "https://webassembly.org/news/2025-09-17-wasm-3.0/",
+      "summary": "Article URL: https://webassembly.org/news/2025-09-17-wasm-3.0/ Comments URL: https://news.ycombinator.com/item?id=45279384 Points: 811 # Comments: 326"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45279357",
+      "title": "DeepMind and OpenAI win gold at ICPC",
+      "slug": "2025-09-17-deepmind-and-openai-win-gold-at-icpc.html",
+      "path": "posts/2025-09-17-deepmind-and-openai-win-gold-at-icpc.html",
+      "date_iso": "2025-09-17T18:15:16+00:00",
+      "source": "https://codeforces.com/blog/entry/146536",
+      "summary": "https://x.com/MostafaRohani/status/1968360976379703569 https://x.com/HengTze/status/1968359525339246825 Comments URL: https://news.ycombinator.com/item?id=45279357 Points: 206 # Comments: 200"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45278657",
+      "title": "Tinycolor supply chain attack post-mortem",
+      "slug": "2025-09-17-tinycolor-supply-chain-attack-post-mortem.html",
+      "path": "posts/2025-09-17-tinycolor-supply-chain-attack-post-mortem.html",
+      "date_iso": "2025-09-17T17:18:38+00:00",
+      "source": "https://sigh.dev/posts/ctrl-tinycolor-post-mortem/",
+      "summary": "Article URL: https://sigh.dev/posts/ctrl-tinycolor-post-mortem/ Comments URL: https://news.ycombinator.com/item?id=45278657 Points: 150 # Comments: 58"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45278581",
+      "title": "Drought in Iraq reveals tombs created 2,300 years ago",
+      "slug": "2025-09-17-drought-in-iraq-reveals-tombs-created-2-300-years-ago.html",
+      "path": "posts/2025-09-17-drought-in-iraq-reveals-tombs-created-2-300-years-ago.html",
+      "date_iso": "2025-09-17T17:12:15+00:00",
+      "source": "https://www.smithsonianmag.com/smart-news/severe-droughts-in-iraq-reveals-dozens-of-ancient-tombs-created-2300-years-ago-180987347/",
+      "summary": "Article URL: https://www.smithsonianmag.com/smart-news/severe-droughts-in-iraq-reveals-dozens-of-ancient-tombs-created-2300-years-ago-180987347/ Comments URL: https://news.ycombinator.com/item?id=45278581 Points: 131 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45278279",
+      "title": "Ton Roosendaal to step down as Blender chairman and CEO",
+      "slug": "2025-09-17-ton-roosendaal-to-step-down-as-blender-chairman-and-ceo.html",
+      "path": "posts/2025-09-17-ton-roosendaal-to-step-down-as-blender-chairman-and-ceo.html",
+      "date_iso": "2025-09-17T16:49:37+00:00",
+      "source": "https://www.cgchannel.com/2025/09/ton-roosendaal-to-step-down-as-blender-chairman-and-ceo/",
+      "summary": "https://www.blender.org/press/blender-foundation-announces-n... Comments URL: https://news.ycombinator.com/item?id=45278279 Points: 287 # Comments: 54"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45277704",
+      "title": "Launch HN: RunRL (YC X25) – Reinforcement learning as a service",
+      "slug": "2025-09-17-launch-hn-runrl-yc-x25-reinforcement-learning-as-a-service.html",
+      "path": "posts/2025-09-17-launch-hn-runrl-yc-x25-reinforcement-learning-as-a-service.html",
+      "date_iso": "2025-09-17T16:13:00+00:00",
+      "source": "https://runrl.com",
+      "summary": "Hey HN, we’re Andrew and Derik at RunRL ( https://runrl.com/ ). We've built a platform to improve models and agents with reinforcement learning. If you can define a metric, we'll make your model or agent better, without you having to think about managing GPU clusters. Here's a d…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45276262",
+      "title": "YouTube addresses lower view counts which seem to be caused by ad blockers",
+      "slug": "2025-09-17-youtube-addresses-lower-view-counts-which-seem-to-be-caused-by-ad-blockers.html",
+      "path": "posts/2025-09-17-youtube-addresses-lower-view-counts-which-seem-to-be-caused-by-ad-blockers.html",
+      "date_iso": "2025-09-17T14:29:10+00:00",
+      "source": "https://9to5google.com/2025/09/16/youtube-lower-view-counts-ad-blockers/",
+      "summary": "https://github.com/easylist/easylist/issues/22375 Comments URL: https://news.ycombinator.com/item?id=45276262 Points: 329 # Comments: 614"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45275354",
+      "title": "Tau² benchmark: How a prompt rewrite boosted GPT-5-mini by 22%",
+      "slug": "2025-09-17-tau-benchmark-how-a-prompt-rewrite-boosted-gpt-5-mini-by-22.html",
+      "path": "posts/2025-09-17-tau-benchmark-how-a-prompt-rewrite-boosted-gpt-5-mini-by-22.html",
+      "date_iso": "2025-09-17T13:03:24+00:00",
+      "source": "https://quesma.com/blog/tau2-benchmark-improving-results-smaller-models/",
+      "summary": "Article URL: https://quesma.com/blog/tau2-benchmark-improving-results-smaller-models/ Comments URL: https://news.ycombinator.com/item?id=45275354 Points: 179 # Comments: 56"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45272653",
       "title": "Introducing Stargate UK",
       "slug": "2025-09-17-introducing-stargate-uk.html",
