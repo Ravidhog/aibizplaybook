@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2025/09/20/business/media/pentagon-restrictions-reporters-hegseth-trump.html",
+      "title": "Pentagon Introduces New Restrictions on Reporter Access",
+      "slug": "2025-09-20-pentagon-introduces-new-restrictions-on-reporter-access.html",
+      "path": "posts/2025-09-20-pentagon-introduces-new-restrictions-on-reporter-access.html",
+      "date_iso": "2025-09-20T05:21:08+00:00",
+      "source": "https://www.nytimes.com/2025/09/20/business/media/pentagon-restrictions-reporters-hegseth-trump.html",
+      "summary": "Defense Secretary Pete Hegseth called on reporters for questions during a press briefing after the Iran strike in June."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45310294",
+      "title": "High-performance read-through cache for object storage",
+      "slug": "2025-09-20-high-performance-read-through-cache-for-object-storage.html",
+      "path": "posts/2025-09-20-high-performance-read-through-cache-for-object-storage.html",
+      "date_iso": "2025-09-20T04:13:17+00:00",
+      "source": "https://github.com/s2-streamstore/cachey",
+      "summary": "Article URL: https://github.com/s2-streamstore/cachey Comments URL: https://news.ycombinator.com/item?id=45310294 Points: 17 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45310123",
+      "title": "Supporting Our AI Overlords: Redesigning Data Systems to Be Agent-First",
+      "slug": "2025-09-20-supporting-our-ai-overlords-redesigning-data-systems-to-be-agent-first.html",
+      "path": "posts/2025-09-20-supporting-our-ai-overlords-redesigning-data-systems-to-be-agent-first.html",
+      "date_iso": "2025-09-20T03:41:23+00:00",
+      "source": "https://arxiv.org/abs/2509.00997",
+      "summary": "Article URL: https://arxiv.org/abs/2509.00997 Comments URL: https://news.ycombinator.com/item?id=45310123 Points: 7 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45309355",
+      "title": "Grok 4 Fast",
+      "slug": "2025-09-20-grok-4-fast.html",
+      "path": "posts/2025-09-20-grok-4-fast.html",
+      "date_iso": "2025-09-20T01:55:43+00:00",
+      "source": "https://x.ai/news/grok-4-fast",
+      "summary": "Article URL: https://x.ai/news/grok-4-fast Comments URL: https://news.ycombinator.com/item?id=45309355 Points: 21 # Comments: 3"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/19/business/trump-tiktok-deal-china.html",
+      "title": "Trump and China Suggest TikTok Deal Could Move Ahead in Vague Statements",
+      "slug": "2025-09-20-trump-and-china-suggest-tiktok-deal-could-move-ahead-in-vague-statements.html",
+      "path": "posts/2025-09-20-trump-and-china-suggest-tiktok-deal-could-move-ahead-in-vague-statements.html",
+      "date_iso": "2025-09-20T01:21:28+00:00",
+      "source": "https://www.nytimes.com/2025/09/19/business/trump-tiktok-deal-china.html",
+      "summary": "President Trump spoke to members of the press aboard Air Force One on Thursday."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45307242",
+      "title": "Less is safer: How Obsidian reduces the risk of supply chain attacks",
+      "slug": "2025-09-19-less-is-safer-how-obsidian-reduces-the-risk-of-supply-chain-attacks.html",
+      "path": "posts/2025-09-19-less-is-safer-how-obsidian-reduces-the-risk-of-supply-chain-attacks.html",
+      "date_iso": "2025-09-19T22:02:29+00:00",
+      "source": "https://obsidian.md/blog/less-is-safer/",
+      "summary": "Article URL: https://obsidian.md/blog/less-is-safer/ Comments URL: https://news.ycombinator.com/item?id=45307242 Points: 266 # Comments: 110"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45307166",
+      "title": "Show HN: Zedis – A Redis clone I'm writing in Zig",
+      "slug": "2025-09-19-show-hn-zedis-a-redis-clone-i-m-writing-in-zig.html",
+      "path": "posts/2025-09-19-show-hn-zedis-a-redis-clone-i-m-writing-in-zig.html",
+      "date_iso": "2025-09-19T21:55:43+00:00",
+      "source": "https://github.com/barddoo/zedis",
+      "summary": "Writing Redis from scratch in Zig. Comments URL: https://news.ycombinator.com/item?id=45307166 Points: 85 # Comments: 65"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45307095",
+      "title": "Hidden risk in Notion 3.0 AI agents: Web search tool abuse for data exfiltration",
+      "slug": "2025-09-19-hidden-risk-in-notion-3-0-ai-agents-web-search-tool-abuse-for-data-exfiltration.html",
+      "path": "posts/2025-09-19-hidden-risk-in-notion-3-0-ai-agents-web-search-tool-abuse-for-data-exfiltration.html",
+      "date_iso": "2025-09-19T21:49:37+00:00",
+      "source": "https://www.codeintegrity.ai/blog/notion",
+      "summary": "Article URL: https://www.codeintegrity.ai/blog/notion Comments URL: https://news.ycombinator.com/item?id=45307095 Points: 108 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45306701",
+      "title": "Feedmaker: URL + CSS selectors = RSS feed",
+      "slug": "2025-09-19-feedmaker-url-css-selectors-rss-feed.html",
+      "path": "posts/2025-09-19-feedmaker-url-css-selectors-rss-feed.html",
+      "date_iso": "2025-09-19T21:14:56+00:00",
+      "source": "https://feedmaker.fly.dev",
+      "summary": "Article URL: https://feedmaker.fly.dev Comments URL: https://news.ycombinator.com/item?id=45306701 Points: 109 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45306120",
+      "title": "Show HN: WeUseElixir - Elixir project directory",
+      "slug": "2025-09-19-show-hn-weuseelixir-elixir-project-directory.html",
+      "path": "posts/2025-09-19-show-hn-weuseelixir-elixir-project-directory.html",
+      "date_iso": "2025-09-19T20:25:14+00:00",
+      "source": "https://weuseelixir.com/",
+      "summary": "Article URL: https://weuseelixir.com/ Comments URL: https://news.ycombinator.com/item?id=45306120 Points: 127 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45305845",
+      "title": "Trump to impose $100k fee for H-1B worker visas, White House says",
+      "slug": "2025-09-19-trump-to-impose-100k-fee-for-h-1b-worker-visas-white-house-says.html",
+      "path": "posts/2025-09-19-trump-to-impose-100k-fee-for-h-1b-worker-visas-white-house-says.html",
+      "date_iso": "2025-09-19T19:59:33+00:00",
+      "source": "https://www.reuters.com/business/media-telecom/trump-mulls-adding-new-100000-fee-h-1b-visas-bloomberg-news-reports-2025-09-19/",
+      "summary": "Article URL: https://www.reuters.com/business/media-telecom/trump-mulls-adding-new-100000-fee-h-1b-visas-bloomberg-news-reports-2025-09-19/ Comments URL: https://news.ycombinator.com/item?id=45305845 Points: 983 # Comments: 1313"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45305660",
+      "title": "The Economic Impacts of AI: A Multidisciplinary, Multibook Review [pdf]",
+      "slug": "2025-09-19-the-economic-impacts-of-ai-a-multidisciplinary-multibook-review-pdf.html",
+      "path": "posts/2025-09-19-the-economic-impacts-of-ai-a-multidisciplinary-multibook-review-pdf.html",
+      "date_iso": "2025-09-19T19:44:16+00:00",
+      "source": "https://kevinbryanecon.com/BryanAIBookReview.pdf",
+      "summary": "Article URL: https://kevinbryanecon.com/BryanAIBookReview.pdf Comments URL: https://news.ycombinator.com/item?id=45305660 Points: 55 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45305180",
+      "title": "Three-Minute Take-Home Test May Identify Symptoms Linked to Alzheimer's Disease",
+      "slug": "2025-09-19-three-minute-take-home-test-may-identify-symptoms-linked-to-alzheimer-s-disease.html",
+      "path": "posts/2025-09-19-three-minute-take-home-test-may-identify-symptoms-linked-to-alzheimer-s-disease.html",
+      "date_iso": "2025-09-19T19:03:02+00:00",
+      "source": "https://www.smithsonianmag.com/smart-news/three-minute-take-home-test-may-identify-symptoms-linked-to-alzheimers-disease-years-before-a-traditional-diagnosis-180987281/",
+      "summary": "Article URL: https://www.smithsonianmag.com/smart-news/three-minute-take-home-test-may-identify-symptoms-linked-to-alzheimers-disease-years-before-a-traditional-diagnosis-180987281/ Comments URL: https://news.ycombinator.com/item?id=45305180 Points: 82 # Comments: 33"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45304706",
+      "title": "An untidy history of AI across four books",
+      "slug": "2025-09-19-an-untidy-history-of-ai-across-four-books.html",
+      "path": "posts/2025-09-19-an-untidy-history-of-ai-across-four-books.html",
+      "date_iso": "2025-09-19T18:15:18+00:00",
+      "source": "https://hedgehogreview.com/issues/lessons-of-babel/articles/perplexity",
+      "summary": "Article URL: https://hedgehogreview.com/issues/lessons-of-babel/articles/perplexity Comments URL: https://news.ycombinator.com/item?id=45304706 Points: 98 # Comments: 35"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45304379",
+      "title": "Your very own humane interface: Try Jef Raskin's ideas at home",
+      "slug": "2025-09-19-your-very-own-humane-interface-try-jef-raskin-s-ideas-at-home.html",
+      "path": "posts/2025-09-19-your-very-own-humane-interface-try-jef-raskin-s-ideas-at-home.html",
+      "date_iso": "2025-09-19T17:43:33+00:00",
+      "source": "https://arstechnica.com/gadgets/2025/09/your-very-own-humane-interface-try-jef-raskins-ideas-at-home/",
+      "summary": "Article URL: https://arstechnica.com/gadgets/2025/09/your-very-own-humane-interface-try-jef-raskins-ideas-at-home/ Comments URL: https://news.ycombinator.com/item?id=45304379 Points: 86 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45302721",
+      "title": "Kernel: Introduce Multikernel Architecture Support",
+      "slug": "2025-09-19-kernel-introduce-multikernel-architecture-support.html",
+      "path": "posts/2025-09-19-kernel-introduce-multikernel-architecture-support.html",
+      "date_iso": "2025-09-19T15:29:25+00:00",
+      "source": "https://lwn.net/ml/all/20250918222607.186488-1-xiyou.wangcong@gmail.com/",
+      "summary": "Article URL: https://lwn.net/ml/all/20250918222607.186488-1-xiyou.wangcong@gmail.com/ Comments URL: https://news.ycombinator.com/item?id=45302721 Points: 141 # Comments: 39"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/19/technology/kimmel-carr-outrage-online.html",
+      "title": "How Outrage at Kimmel Grew to a Shout From a Whisper",
+      "slug": "2025-09-19-how-outrage-at-kimmel-grew-to-a-shout-from-a-whisper.html",
+      "path": "posts/2025-09-19-how-outrage-at-kimmel-grew-to-a-shout-from-a-whisper.html",
+      "date_iso": "2025-09-19T12:49:15+00:00",
+      "source": "https://www.nytimes.com/2025/09/19/technology/kimmel-carr-outrage-online.html",
+      "summary": "The New York Times reviewed hundreds of thousands of posts on X, along with commentary from radio, television and podcasts, and livestreams on YouTube and other websites, to reconstruct the origins of the outrage that exploded among conservatives over Jimmy Kimmel’s Monday night…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45300865",
+      "title": "Ants that seem to defy biology – They lay eggs that hatch into another species",
+      "slug": "2025-09-19-ants-that-seem-to-defy-biology-they-lay-eggs-that-hatch-into-another-species.html",
+      "path": "posts/2025-09-19-ants-that-seem-to-defy-biology-they-lay-eggs-that-hatch-into-another-species.html",
+      "date_iso": "2025-09-19T12:25:50+00:00",
+      "source": "https://www.smithsonianmag.com/smart-news/these-ant-queens-seem-to-defy-biology-they-lay-eggs-that-hatch-into-another-species-180987292/",
+      "summary": "Article URL: https://www.smithsonianmag.com/smart-news/these-ant-queens-seem-to-defy-biology-they-lay-eggs-that-hatch-into-another-species-180987292/ Comments URL: https://news.ycombinator.com/item?id=45300865 Points: 369 # Comments: 118"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45300810",
+      "title": "The best YouTube downloaders, and how Google silenced the press",
+      "slug": "2025-09-19-the-best-youtube-downloaders-and-how-google-silenced-the-press.html",
+      "path": "posts/2025-09-19-the-best-youtube-downloaders-and-how-google-silenced-the-press.html",
+      "date_iso": "2025-09-19T12:20:10+00:00",
+      "source": "https://windowsread.me/p/best-youtube-downloaders",
+      "summary": "Article URL: https://windowsread.me/p/best-youtube-downloaders Comments URL: https://news.ycombinator.com/item?id=45300810 Points: 278 # Comments: 119"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/19/podcasts/hardfork-charlie-kirk.html",
+      "title": "Charlie Kirk and Online Rage + Inside Trump’s Chip Flip + This Week in A.I.",
+      "slug": "2025-09-19-charlie-kirk-and-online-rage-inside-trump-s-chip-flip-this-week-in-a-i.html",
+      "path": "posts/2025-09-19-charlie-kirk-and-online-rage-inside-trump-s-chip-flip-this-week-in-a-i.html",
+      "date_iso": "2025-09-19T11:00:06+00:00",
+      "source": "https://www.nytimes.com/2025/09/19/podcasts/hardfork-charlie-kirk.html",
+      "summary": "“We as a culture are optimizing for rage now.”"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/19/technology/san-francisco-robot-fight.html",
+      "title": "‘Peak SF’ on a Friday Night Is a Robot Fight",
+      "slug": "2025-09-19-peak-sf-on-a-friday-night-is-a-robot-fight.html",
+      "path": "posts/2025-09-19-peak-sf-on-a-friday-night-is-a-robot-fight.html",
+      "date_iso": "2025-09-19T09:00:47+00:00",
+      "source": "https://www.nytimes.com/2025/09/19/technology/san-francisco-robot-fight.html",
+      "summary": "The artificial intelligence boom, which has brought techies flocking back to the city, has fueled a resurgence of live — and sometimes futuristic — events."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45299170",
+      "title": "Ruby Central's Attack on RubyGems [pdf]",
+      "slug": "2025-09-19-ruby-central-s-attack-on-rubygems-pdf.html",
+      "path": "posts/2025-09-19-ruby-central-s-attack-on-rubygems-pdf.html",
+      "date_iso": "2025-09-19T08:09:17+00:00",
+      "source": "https://pup-e.com/goodbye-rubygems.pdf",
+      "summary": "Article URL: https://pup-e.com/goodbye-rubygems.pdf Comments URL: https://news.ycombinator.com/item?id=45299170 Points: 634 # Comments: 213"
+    },
+    {
       "id": "https://www.nytimes.com/2025/09/18/technology/elon-musk-artificial-intelligence-xai.html",
       "title": "Elon Musk Has Focused on xAI Since Leaving Washington",
       "slug": "2025-09-19-elon-musk-has-focused-on-xai-since-leaving-washington.html",
@@ -118,6 +316,15 @@
       "summary": "Article URL: https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html Comments URL: https://news.ycombinator.com/item?id=45294440 Points: 358 # Comments: 106"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=45294390",
+      "title": "Shipping 100 hardware units in under eight weeks",
+      "slug": "2025-09-18-shipping-100-hardware-units-in-under-eight-weeks.html",
+      "path": "posts/2025-09-18-shipping-100-hardware-units-in-under-eight-weeks.html",
+      "date_iso": "2025-09-18T20:11:29+00:00",
+      "source": "https://farhanhossain.substack.com/p/how-we-shipped-100-hardware-units",
+      "summary": "Article URL: https://farhanhossain.substack.com/p/how-we-shipped-100-hardware-units Comments URL: https://news.ycombinator.com/item?id=45294390 Points: 124 # Comments: 72"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45294058",
       "title": "U.S. already has the critical minerals it needs, according to new analysis",
       "slug": "2025-09-18-u-s-already-has-the-critical-minerals-it-needs-according-to-new-analysis.html",
@@ -152,6 +359,15 @@
       "date_iso": "2025-09-18T17:42:56+00:00",
       "source": "https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/",
       "summary": "Article URL: https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/ Comments URL: https://news.ycombinator.com/item?id=45292648 Points: 297 # Comments: 200"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45291538",
+      "title": "Faster Argmin on Floats",
+      "slug": "2025-09-18-faster-argmin-on-floats.html",
+      "path": "posts/2025-09-18-faster-argmin-on-floats.html",
+      "date_iso": "2025-09-18T16:20:46+00:00",
+      "source": "https://algorithmiker.github.io/faster-float-argmin/",
+      "summary": "Article URL: https://algorithmiker.github.io/faster-float-argmin/ Comments URL: https://news.ycombinator.com/item?id=45291538 Points: 12 # Comments: 5"
     },
     {
       "id": "https://www.nytimes.com/2025/09/18/business/newark-airport-air-traffic-control.html",
