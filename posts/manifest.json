@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45320230",
+      "title": "Representing Heterogeneous Data (2023)",
+      "slug": "2025-09-21-representing-heterogeneous-data-2023.html",
+      "path": "posts/2025-09-21-representing-heterogeneous-data-2023.html",
+      "date_iso": "2025-09-21T05:13:35+00:00",
+      "source": "https://journal.stuffwithstuff.com/2023/08/04/representing-heterogeneous-data/",
+      "summary": "Article URL: https://journal.stuffwithstuff.com/2023/08/04/representing-heterogeneous-data/ Comments URL: https://news.ycombinator.com/item?id=45320230 Points: 4 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45319876",
+      "title": "Spectral Labs releases SGS-1: the first generative model for structured CAD",
+      "slug": "2025-09-21-spectral-labs-releases-sgs-1-the-first-generative-model-for-structured-cad.html",
+      "path": "posts/2025-09-21-spectral-labs-releases-sgs-1-the-first-generative-model-for-structured-cad.html",
+      "date_iso": "2025-09-21T03:46:07+00:00",
+      "source": "https://www.spectrallabs.ai/research/SGS-1",
+      "summary": "Article URL: https://www.spectrallabs.ai/research/SGS-1 Comments URL: https://news.ycombinator.com/item?id=45319876 Points: 46 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45319690",
+      "title": "iFixit iPhone Air teardown",
+      "slug": "2025-09-21-ifixit-iphone-air-teardown.html",
+      "path": "posts/2025-09-21-ifixit-iphone-air-teardown.html",
+      "date_iso": "2025-09-21T03:09:47+00:00",
+      "source": "https://www.ifixit.com/News/113171/iphone-air-teardown",
+      "summary": "Article URL: https://www.ifixit.com/News/113171/iphone-air-teardown Comments URL: https://news.ycombinator.com/item?id=45319690 Points: 83 # Comments: 36"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45319496",
+      "title": "Ask HN: Radar and radio failures at Dallas area airports",
+      "slug": "2025-09-21-ask-hn-radar-and-radio-failures-at-dallas-area-airports.html",
+      "path": "posts/2025-09-21-ask-hn-radar-and-radio-failures-at-dallas-area-airports.html",
+      "date_iso": "2025-09-21T02:28:35+00:00",
+      "source": "https://news.ycombinator.com/item?id=45319496",
+      "summary": "Anyone have any clue what the cause of this disruption was/is and if it's still going on? Comments URL: https://news.ycombinator.com/item?id=45319496 Points: 21 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45319463",
+      "title": "Amazon to end commingling after years of complaints from brands and sellers",
+      "slug": "2025-09-21-amazon-to-end-commingling-after-years-of-complaints-from-brands-and-sellers.html",
+      "path": "posts/2025-09-21-amazon-to-end-commingling-after-years-of-complaints-from-brands-and-sellers.html",
+      "date_iso": "2025-09-21T02:23:59+00:00",
+      "source": "https://www.modernretail.co/operations/amazon-to-end-commingling-program-after-years-of-complaints-from-brands-and-sellers/",
+      "summary": "Article URL: https://www.modernretail.co/operations/amazon-to-end-commingling-program-after-years-of-complaints-from-brands-and-sellers/ Comments URL: https://news.ycombinator.com/item?id=45319463 Points: 212 # Comments: 77"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45319399",
+      "title": "The bloat of edge-case first libraries",
+      "slug": "2025-09-21-the-bloat-of-edge-case-first-libraries.html",
+      "path": "posts/2025-09-21-the-bloat-of-edge-case-first-libraries.html",
+      "date_iso": "2025-09-21T02:09:43+00:00",
+      "source": "https://43081j.com/2025/09/bloat-of-edge-case-libraries",
+      "summary": "Article URL: https://43081j.com/2025/09/bloat-of-edge-case-libraries Comments URL: https://news.ycombinator.com/item?id=45319399 Points: 50 # Comments: 45"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/20/us/politics/h1b-visa-trump-immigration.html",
+      "title": "The H-1B Visa: Why Is Trump Adding a $100,000 Fee?",
+      "slug": "2025-09-21-the-h-1b-visa-why-is-trump-adding-a-100-000-fee.html",
+      "path": "posts/2025-09-21-the-h-1b-visa-why-is-trump-adding-a-100-000-fee.html",
+      "date_iso": "2025-09-21T01:22:35+00:00",
+      "source": "https://www.nytimes.com/2025/09/20/us/politics/h1b-visa-trump-immigration.html",
+      "summary": "President Trump signed an executive order on Friday adding a $100,000 fee to visas for skilled foreign workers."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45318798",
+      "title": "In defence of swap: common misconceptions (2018)",
+      "slug": "2025-09-21-in-defence-of-swap-common-misconceptions-2018.html",
+      "path": "posts/2025-09-21-in-defence-of-swap-common-misconceptions-2018.html",
+      "date_iso": "2025-09-21T00:06:38+00:00",
+      "source": "https://chrisdown.name/2018/01/02/in-defence-of-swap.html",
+      "summary": "Article URL: https://chrisdown.name/2018/01/02/in-defence-of-swap.html Comments URL: https://news.ycombinator.com/item?id=45318798 Points: 42 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45318559",
+      "title": "Teen suspect surrenders in 2023 Las Vegas casino cyberattack case",
+      "slug": "2025-09-20-teen-suspect-surrenders-in-2023-las-vegas-casino-cyberattack-case.html",
+      "path": "posts/2025-09-20-teen-suspect-surrenders-in-2023-las-vegas-casino-cyberattack-case.html",
+      "date_iso": "2025-09-20T23:29:57+00:00",
+      "source": "https://www.casino.org/news/teen-suspect-surrenders-in-2023-las-vegas-strip-cyberattack-case/",
+      "summary": "Article URL: https://www.casino.org/news/teen-suspect-surrenders-in-2023-las-vegas-strip-cyberattack-case/ Comments URL: https://news.ycombinator.com/item?id=45318559 Points: 54 # Comments: 35"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45317527",
+      "title": "$2 WeAct Display FS adds a 0.96-inch USB information display to your computer",
+      "slug": "2025-09-20-2-weact-display-fs-adds-a-0-96-inch-usb-information-display-to-your-computer.html",
+      "path": "posts/2025-09-20-2-weact-display-fs-adds-a-0-96-inch-usb-information-display-to-your-computer.html",
+      "date_iso": "2025-09-20T21:04:47+00:00",
+      "source": "https://www.cnx-software.com/2025/09/18/2-weact-display-fs-adds-a-0-96-inch-usb-information-display-to-your-computer/",
+      "summary": "Article URL: https://www.cnx-software.com/2025/09/18/2-weact-display-fs-adds-a-0-96-inch-usb-information-display-to-your-computer/ Comments URL: https://news.ycombinator.com/item?id=45317527 Points: 248 # Comments: 115"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45317526",
+      "title": "A brief history of threads and threading",
+      "slug": "2025-09-20-a-brief-history-of-threads-and-threading.html",
+      "path": "posts/2025-09-20-a-brief-history-of-threads-and-threading.html",
+      "date_iso": "2025-09-20T21:04:38+00:00",
+      "source": "https://eclecticlight.co/2025/09/20/a-brief-history-of-threads-and-threading/",
+      "summary": "Article URL: https://eclecticlight.co/2025/09/20/a-brief-history-of-threads-and-threading/ Comments URL: https://news.ycombinator.com/item?id=45317526 Points: 64 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45316744",
+      "title": "A revolution in English bell ringing",
+      "slug": "2025-09-20-a-revolution-in-english-bell-ringing.html",
+      "path": "posts/2025-09-20-a-revolution-in-english-bell-ringing.html",
+      "date_iso": "2025-09-20T19:51:36+00:00",
+      "source": "https://harpers.org/archive/2025/10/a-change-of-tune-veronique-greenwood-bell-ringing/",
+      "summary": "Article URL: https://harpers.org/archive/2025/10/a-change-of-tune-veronique-greenwood-bell-ringing/ Comments URL: https://news.ycombinator.com/item?id=45316744 Points: 64 # Comments: 26"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/20/technology/white-house-tiktok-deal.html",
+      "title": "White House Outlines a TikTok Deal With a U.S. Board",
+      "slug": "2025-09-20-white-house-outlines-a-tiktok-deal-with-a-u-s-board.html",
+      "path": "posts/2025-09-20-white-house-outlines-a-tiktok-deal-with-a-u-s-board.html",
+      "date_iso": "2025-09-20T18:34:39+00:00",
+      "source": "https://www.nytimes.com/2025/09/20/technology/white-house-tiktok-deal.html",
+      "summary": "The Trump administration and China had offered vague statements this past week about the status of a deal that would allow TikTok to stay on American phones."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45315312",
+      "title": "Designing NotebookLM",
+      "slug": "2025-09-20-designing-notebooklm.html",
+      "path": "posts/2025-09-20-designing-notebooklm.html",
+      "date_iso": "2025-09-20T17:25:58+00:00",
+      "source": "https://jasonspielman.com/notebooklm",
+      "summary": "Article URL: https://jasonspielman.com/notebooklm Comments URL: https://news.ycombinator.com/item?id=45315312 Points: 212 # Comments: 71"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45314592",
+      "title": "Ultrasonic Chef's Knife",
+      "slug": "2025-09-20-ultrasonic-chef-s-knife.html",
+      "path": "posts/2025-09-20-ultrasonic-chef-s-knife.html",
+      "date_iso": "2025-09-20T16:12:56+00:00",
+      "source": "https://seattleultrasonics.com/",
+      "summary": "Article URL: https://seattleultrasonics.com/ Comments URL: https://news.ycombinator.com/item?id=45314592 Points: 536 # Comments: 420"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45313415",
+      "title": "Vapor chamber tech keeps iPhone 17 Pro cool",
+      "slug": "2025-09-20-vapor-chamber-tech-keeps-iphone-17-pro-cool.html",
+      "path": "posts/2025-09-20-vapor-chamber-tech-keeps-iphone-17-pro-cool.html",
+      "date_iso": "2025-09-20T13:50:58+00:00",
+      "source": "https://spectrum.ieee.org/iphone-17-pro-vapor-chamber",
+      "summary": "Article URL: https://spectrum.ieee.org/iphone-17-pro-vapor-chamber Comments URL: https://news.ycombinator.com/item?id=45313415 Points: 108 # Comments: 232"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45312515",
+      "title": "Images over DNS",
+      "slug": "2025-09-20-images-over-dns.html",
+      "path": "posts/2025-09-20-images-over-dns.html",
+      "date_iso": "2025-09-20T11:50:15+00:00",
+      "source": "https://dgl.cx/2025/09/images-over-dns",
+      "summary": "Article URL: https://dgl.cx/2025/09/images-over-dns Comments URL: https://news.ycombinator.com/item?id=45312515 Points: 171 # Comments: 45"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45312326",
+      "title": "FLX1s phone is launched",
+      "slug": "2025-09-20-flx1s-phone-is-launched.html",
+      "path": "posts/2025-09-20-flx1s-phone-is-launched.html",
+      "date_iso": "2025-09-20T11:20:04+00:00",
+      "source": "https://furilabs.com/flx1s-is-launched/",
+      "summary": "https://furilabs.com/shop/flx1s/ Comments URL: https://news.ycombinator.com/item?id=45312326 Points: 228 # Comments: 147"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/20/technology/personaltech/meta-smart-glasses-mark-zuckerberg.html",
+      "title": "Seeing Through the Reality of Meta’s Smart Glasses",
+      "slug": "2025-09-20-seeing-through-the-reality-of-meta-s-smart-glasses.html",
+      "path": "posts/2025-09-20-seeing-through-the-reality-of-meta-s-smart-glasses.html",
+      "date_iso": "2025-09-20T09:02:39+00:00",
+      "source": "https://www.nytimes.com/2025/09/20/technology/personaltech/meta-smart-glasses-mark-zuckerberg.html",
+      "summary": "New York Times reporter Eli Tan tests the new Meta Neural band and Ray-Ban glasses at Meta Connect in Menlo Park, Calif., earlier this week."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45310995",
+      "title": "PYREX vs. pyrex: What's the difference?",
+      "slug": "2025-09-20-pyrex-vs-pyrex-what-s-the-difference.html",
+      "path": "posts/2025-09-20-pyrex-vs-pyrex-what-s-the-difference.html",
+      "date_iso": "2025-09-20T06:37:01+00:00",
+      "source": "https://www.corning.com/worldwide/en/products/life-sciences/resources/stories/in-the-field/pyrex-vs-pyrex-whats-the-difference.html",
+      "summary": "Article URL: https://www.corning.com/worldwide/en/products/life-sciences/resources/stories/in-the-field/pyrex-vs-pyrex-whats-the-difference.html Comments URL: https://news.ycombinator.com/item?id=45310995 Points: 134 # Comments: 101"
+    },
+    {
       "id": "https://www.nytimes.com/2025/09/20/business/media/pentagon-restrictions-reporters-hegseth-trump.html",
       "title": "Pentagon Introduces New Restrictions on Reporter Access",
       "slug": "2025-09-20-pentagon-introduces-new-restrictions-on-reporter-access.html",
@@ -334,6 +514,15 @@
       "summary": "Article URL: https://www.minesnewsroom.com/news/us-already-has-critical-minerals-it-needs-theyre-being-thrown-away-new-analysis-shows Comments URL: https://news.ycombinator.com/item?id=45294058 Points: 146 # Comments: 152"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=45294053",
+      "title": "The SAT Game",
+      "slug": "2025-09-18-the-sat-game.html",
+      "path": "posts/2025-09-18-the-sat-game.html",
+      "date_iso": "2025-09-18T19:41:40+00:00",
+      "source": "https://www.cril.univ-artois.fr/~roussel/satgame/satgame.php?level=5&lang=eng",
+      "summary": "Article URL: https://www.cril.univ-artois.fr/~roussel/satgame/satgame.php?level=5&lang;=eng Comments URL: https://news.ycombinator.com/item?id=45294053 Points: 4 # Comments: 0"
+    },
+    {
       "id": "https://www.nytimes.com/2025/09/18/business/nvidia-intel-stake.html",
       "title": "Nvidia to Buy $5 Billion Stake in Intel, Giving Rival a Lifeline",
       "slug": "2025-09-18-nvidia-to-buy-5-billion-stake-in-intel-giving-rival-a-lifeline.html",
@@ -341,6 +530,24 @@
       "date_iso": "2025-09-18T18:45:52+00:00",
       "source": "https://www.nytimes.com/2025/09/18/business/nvidia-intel-stake.html",
       "summary": "Jensen Huang, the chief executive of Nvidia, has become a technology industry superstar. He joined President Trump on a state visit to Britain this week."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45293012",
+      "title": "MapSCII – World map in terminal",
+      "slug": "2025-09-18-mapscii-world-map-in-terminal.html",
+      "path": "posts/2025-09-18-mapscii-world-map-in-terminal.html",
+      "date_iso": "2025-09-18T18:12:58+00:00",
+      "source": "https://github.com/rastapasta/mapscii",
+      "summary": "Article URL: https://github.com/rastapasta/mapscii Comments URL: https://news.ycombinator.com/item?id=45293012 Points: 167 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45292915",
+      "title": "Lidar, optical distance and time of flight sensors",
+      "slug": "2025-09-18-lidar-optical-distance-and-time-of-flight-sensors.html",
+      "path": "posts/2025-09-18-lidar-optical-distance-and-time-of-flight-sensors.html",
+      "date_iso": "2025-09-18T18:05:58+00:00",
+      "source": "https://ams-osram.com/innovation/technology/depth-and-3d-sensing/lidar-optical-distance-and-time-of-flight-sensors",
+      "summary": "Article URL: https://ams-osram.com/innovation/technology/depth-and-3d-sensing/lidar-optical-distance-and-time-of-flight-sensors Comments URL: https://news.ycombinator.com/item?id=45292915 Points: 7 # Comments: 1"
     },
     {
       "id": "https://news.ycombinator.com/item?id=45292694",
