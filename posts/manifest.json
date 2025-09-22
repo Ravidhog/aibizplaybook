@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45329414",
+      "title": "Download Responsibly",
+      "slug": "2025-09-22-download-responsibly.html",
+      "path": "posts/2025-09-22-download-responsibly.html",
+      "date_iso": "2025-09-22T05:33:54+00:00",
+      "source": "https://blog.geofabrik.de/index.php/2025/09/10/download-responsibly/",
+      "summary": "Article URL: https://blog.geofabrik.de/index.php/2025/09/10/download-responsibly/ Comments URL: https://news.ycombinator.com/item?id=45329414 Points: 38 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45329127",
+      "title": "Privacy and Security Risks in the eSIM Ecosystem [pdf]",
+      "slug": "2025-09-22-privacy-and-security-risks-in-the-esim-ecosystem-pdf.html",
+      "path": "posts/2025-09-22-privacy-and-security-risks-in-the-esim-ecosystem-pdf.html",
+      "date_iso": "2025-09-22T04:35:27+00:00",
+      "source": "https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf",
+      "summary": "Article URL: https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf Comments URL: https://news.ycombinator.com/item?id=45329127 Points: 95 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45328828",
+      "title": "South Korea's President says US investment demands would spark financial crisis",
+      "slug": "2025-09-22-south-korea-s-president-says-us-investment-demands-would-spark-financial-crisis.html",
+      "path": "posts/2025-09-22-south-korea-s-president-says-us-investment-demands-would-spark-financial-crisis.html",
+      "date_iso": "2025-09-22T03:30:31+00:00",
+      "source": "https://www.reuters.com/world/china/south-koreas-president-lee-says-us-investment-demands-would-spark-financial-2025-09-21/",
+      "summary": "Article URL: https://www.reuters.com/world/china/south-koreas-president-lee-says-us-investment-demands-would-spark-financial-2025-09-21/ Comments URL: https://news.ycombinator.com/item?id=45328828 Points: 29 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45328579",
+      "title": "South Korea's President says US investment demands would spark financial crisis",
+      "slug": "2025-09-22-south-korea-s-president-says-us-investment-demands-would-spark-financial-crisis.html",
+      "path": "posts/2025-09-22-south-korea-s-president-says-us-investment-demands-would-spark-financial-crisis.html",
+      "date_iso": "2025-09-22T02:32:07+00:00",
+      "source": "https://www.cnbc.com/2025/09/21/south-koreas-president-lee-trump-investment-financial-crisis.html",
+      "summary": "Article URL: https://www.cnbc.com/2025/09/21/south-koreas-president-lee-trump-investment-financial-crisis.html Comments URL: https://news.ycombinator.com/item?id=45328579 Points: 146 # Comments: 127"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45328545",
+      "title": "Seattle, Tech Boomtown, Grapples with a Future of Fewer Tech Jobs",
+      "slug": "2025-09-22-seattle-tech-boomtown-grapples-with-a-future-of-fewer-tech-jobs.html",
+      "path": "posts/2025-09-22-seattle-tech-boomtown-grapples-with-a-future-of-fewer-tech-jobs.html",
+      "date_iso": "2025-09-22T02:26:22+00:00",
+      "source": "https://www.wsj.com/tech/seattle-tech-amazon-microsoft-jobs-95f2db27",
+      "summary": "Article URL: https://www.wsj.com/tech/seattle-tech-amazon-microsoft-jobs-95f2db27 Comments URL: https://news.ycombinator.com/item?id=45328545 Points: 43 # Comments: 28"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45328537",
+      "title": "DSM Disorders Disappear in Statistical Clustering of Psychiatric Symptoms (2024)",
+      "slug": "2025-09-22-dsm-disorders-disappear-in-statistical-clustering-of-psychiatric-symptoms-2024.html",
+      "path": "posts/2025-09-22-dsm-disorders-disappear-in-statistical-clustering-of-psychiatric-symptoms-2024.html",
+      "date_iso": "2025-09-22T02:24:50+00:00",
+      "source": "https://www.psychiatrymargins.com/p/traditional-dsm-disorders-dissolve?r=2wyot6&triedRedirect=true",
+      "summary": "Article URL: https://www.psychiatrymargins.com/p/traditional-dsm-disorders-dissolve?r=2wyot6&amp;triedRedirect=true Comments URL: https://news.ycombinator.com/item?id=45328537 Points: 99 # Comments: 47"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45328335",
+      "title": "Pointer Tagging in C++: The Art of Packing Bits into a Pointer",
+      "slug": "2025-09-22-pointer-tagging-in-c-the-art-of-packing-bits-into-a-pointer.html",
+      "path": "posts/2025-09-22-pointer-tagging-in-c-the-art-of-packing-bits-into-a-pointer.html",
+      "date_iso": "2025-09-22T01:46:37+00:00",
+      "source": "https://vectrx.substack.com/p/pointer-tagging-in-c-the-art-of-packing",
+      "summary": "Article URL: https://vectrx.substack.com/p/pointer-tagging-in-c-the-art-of-packing Comments URL: https://news.ycombinator.com/item?id=45328335 Points: 36 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45328247",
+      "title": "How I, a beginner developer, read the tutorial you, a developer, wrote for me",
+      "slug": "2025-09-22-how-i-a-beginner-developer-read-the-tutorial-you-a-developer-wrote-for-me.html",
+      "path": "posts/2025-09-22-how-i-a-beginner-developer-read-the-tutorial-you-a-developer-wrote-for-me.html",
+      "date_iso": "2025-09-22T01:27:34+00:00",
+      "source": "https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner",
+      "summary": "Article URL: https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner Comments URL: https://news.ycombinator.com/item?id=45328247 Points: 211 # Comments: 104"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45327417",
+      "title": "Why is Venus hell and Earth an Eden?",
+      "slug": "2025-09-21-why-is-venus-hell-and-earth-an-eden.html",
+      "path": "posts/2025-09-21-why-is-venus-hell-and-earth-an-eden.html",
+      "date_iso": "2025-09-21T22:56:31+00:00",
+      "source": "https://www.quantamagazine.org/why-is-venus-hell-and-earth-an-eden-20250915/",
+      "summary": "Article URL: https://www.quantamagazine.org/why-is-venus-hell-and-earth-an-eden-20250915/ Comments URL: https://news.ycombinator.com/item?id=45327417 Points: 104 # Comments: 147"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45327199",
+      "title": "How can I influence others without manipulating them?",
+      "slug": "2025-09-21-how-can-i-influence-others-without-manipulating-them.html",
+      "path": "posts/2025-09-21-how-can-i-influence-others-without-manipulating-them.html",
+      "date_iso": "2025-09-21T22:20:16+00:00",
+      "source": "https://andiroberts.com/leadership-questions/how-to-influence-others-without-manipulating",
+      "summary": "Article URL: https://andiroberts.com/leadership-questions/how-to-influence-others-without-manipulating Comments URL: https://news.ycombinator.com/item?id=45327199 Points: 85 # Comments: 60"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45327059",
+      "title": "My new Git utility `what-changed-twice` needs a new name",
+      "slug": "2025-09-21-my-new-git-utility-what-changed-twice-needs-a-new-name.html",
+      "path": "posts/2025-09-21-my-new-git-utility-what-changed-twice-needs-a-new-name.html",
+      "date_iso": "2025-09-21T21:59:12+00:00",
+      "source": "https://blog.plover.com/2025/09/21/#what-changed-twice",
+      "summary": "Article URL: https://blog.plover.com/2025/09/21/#what-changed-twice Comments URL: https://news.ycombinator.com/item?id=45327059 Points: 64 # Comments: 36"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45326754",
+      "title": "Show HN: Tips to stay safe from NPM supply chain attacks",
+      "slug": "2025-09-21-show-hn-tips-to-stay-safe-from-npm-supply-chain-attacks.html",
+      "path": "posts/2025-09-21-show-hn-tips-to-stay-safe-from-npm-supply-chain-attacks.html",
+      "date_iso": "2025-09-21T21:19:47+00:00",
+      "source": "https://github.com/bodadotsh/npm-security-best-practices",
+      "summary": "Hi everyone, given the recent increase of attacks on the NPM supply chain, I've put together a list of tips and tricks to help developers stay secure on this specific topic: https://github.com/bodadotsh/npm-security-best-practices I'd love for you to check it out, and contribute…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45326740",
+      "title": "Lightweight, highly accurate line and paragraph detection",
+      "slug": "2025-09-21-lightweight-highly-accurate-line-and-paragraph-detection.html",
+      "path": "posts/2025-09-21-lightweight-highly-accurate-line-and-paragraph-detection.html",
+      "date_iso": "2025-09-21T21:18:14+00:00",
+      "source": "https://arxiv.org/abs/2203.09638",
+      "summary": "Article URL: https://arxiv.org/abs/2203.09638 Comments URL: https://news.ycombinator.com/item?id=45326740 Points: 99 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45326690",
+      "title": "Procedural Island Generation (VI)",
+      "slug": "2025-09-21-procedural-island-generation-vi.html",
+      "path": "posts/2025-09-21-procedural-island-generation-vi.html",
+      "date_iso": "2025-09-21T21:11:57+00:00",
+      "source": "https://brashandplucky.com/2025/09/28/procedural-island-generation-vi.html",
+      "summary": "Article URL: https://brashandplucky.com/2025/09/28/procedural-island-generation-vi.html Comments URL: https://news.ycombinator.com/item?id=45326690 Points: 52 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45324349",
+      "title": "Sj.h: A tiny little JSON parsing library in ~150 lines of C99",
+      "slug": "2025-09-21-sj-h-a-tiny-little-json-parsing-library-in-150-lines-of-c99.html",
+      "path": "posts/2025-09-21-sj-h-a-tiny-little-json-parsing-library-in-150-lines-of-c99.html",
+      "date_iso": "2025-09-21T16:43:45+00:00",
+      "source": "https://github.com/rxi/sj.h",
+      "summary": "Article URL: https://github.com/rxi/sj.h Comments URL: https://news.ycombinator.com/item?id=45324349 Points: 377 # Comments: 187"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45324343",
+      "title": "Timesketch: Collaborative forensic timeline analysis",
+      "slug": "2025-09-21-timesketch-collaborative-forensic-timeline-analysis.html",
+      "path": "posts/2025-09-21-timesketch-collaborative-forensic-timeline-analysis.html",
+      "date_iso": "2025-09-21T16:43:19+00:00",
+      "source": "https://github.com/google/timesketch",
+      "summary": "Article URL: https://github.com/google/timesketch Comments URL: https://news.ycombinator.com/item?id=45324343 Points: 115 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45323207",
+      "title": "DXGI debugging: Microsoft put me on a list",
+      "slug": "2025-09-21-dxgi-debugging-microsoft-put-me-on-a-list.html",
+      "path": "posts/2025-09-21-dxgi-debugging-microsoft-put-me-on-a-list.html",
+      "date_iso": "2025-09-21T14:45:50+00:00",
+      "source": "https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/",
+      "summary": "Article URL: https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/ Comments URL: https://news.ycombinator.com/item?id=45323207 Points: 247 # Comments: 72"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45323027",
+      "title": "Unified Line and Paragraph Detection by Graph Convolutional Networks (2022)",
+      "slug": "2025-09-21-unified-line-and-paragraph-detection-by-graph-convolutional-networks-2022.html",
+      "path": "posts/2025-09-21-unified-line-and-paragraph-detection-by-graph-convolutional-networks-2022.html",
+      "date_iso": "2025-09-21T14:26:10+00:00",
+      "source": "https://arxiv.org/abs/2503.05136",
+      "summary": "Direct link to the book: https://fhetextbook.github.io/ Comments URL: https://news.ycombinator.com/item?id=45323027 Points: 91 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45322819",
+      "title": "I forced myself to spend a week in Instagram instead of Xcode",
+      "slug": "2025-09-21-i-forced-myself-to-spend-a-week-in-instagram-instead-of-xcode.html",
+      "path": "posts/2025-09-21-i-forced-myself-to-spend-a-week-in-instagram-instead-of-xcode.html",
+      "date_iso": "2025-09-21T14:00:16+00:00",
+      "source": "https://www.pixelpusher.club/p/i-forced-myself-to-spend-a-week-in",
+      "summary": "Article URL: https://www.pixelpusher.club/p/i-forced-myself-to-spend-a-week-in Comments URL: https://news.ycombinator.com/item?id=45322819 Points: 225 # Comments: 86"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45322135",
+      "title": "Why your outdoorsy friend suddenly has a gummy bear power bank",
+      "slug": "2025-09-21-why-your-outdoorsy-friend-suddenly-has-a-gummy-bear-power-bank.html",
+      "path": "posts/2025-09-21-why-your-outdoorsy-friend-suddenly-has-a-gummy-bear-power-bank.html",
+      "date_iso": "2025-09-21T12:31:57+00:00",
+      "source": "https://www.theverge.com/tech/781387/backpacking-ultralight-haribo-power-bank",
+      "summary": "https://archive.ph/1G2Ut Comments URL: https://news.ycombinator.com/item?id=45322135 Points: 207 # Comments: 250"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45320230",
       "title": "Representing Heterogeneous Data (2023)",
       "slug": "2025-09-21-representing-heterogeneous-data-2023.html",
