@@ -1,6 +1,240 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45343689",
+      "title": "Telli (YC F24) is hiring ambitious engineers [Berlin, on-site]",
+      "slug": "2025-09-23-telli-yc-f24-is-hiring-ambitious-engineers-berlin-on-site.html",
+      "path": "posts/2025-09-23-telli-yc-f24-is-hiring-ambitious-engineers-berlin-on-site.html",
+      "date_iso": "2025-09-23T07:01:44+00:00",
+      "source": "https://hi.telli.com/join-us",
+      "summary": "Article URL: https://hi.telli.com/join-us Comments URL: https://news.ycombinator.com/item?id=45343689 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45343449",
+      "title": "Altoids by the Fistful",
+      "slug": "2025-09-23-altoids-by-the-fistful.html",
+      "path": "posts/2025-09-23-altoids-by-the-fistful.html",
+      "date_iso": "2025-09-23T06:24:50+00:00",
+      "source": "https://www.scottsmitelli.com/articles/altoids-by-the-fistful/",
+      "summary": "Article URL: https://www.scottsmitelli.com/articles/altoids-by-the-fistful/ Comments URL: https://news.ycombinator.com/item?id=45343449 Points: 15 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45343108",
+      "title": "Delete FROM users WHERE location = 'Iran';",
+      "slug": "2025-09-23-delete-from-users-where-location-iran.html",
+      "path": "posts/2025-09-23-delete-from-users-where-location-iran.html",
+      "date_iso": "2025-09-23T05:30:28+00:00",
+      "source": "https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4",
+      "summary": "Article URL: https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4 Comments URL: https://news.ycombinator.com/item?id=45343108 Points: 251 # Comments: 147"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45342943",
+      "title": "Zoxide: A Better CD Command",
+      "slug": "2025-09-23-zoxide-a-better-cd-command.html",
+      "path": "posts/2025-09-23-zoxide-a-better-cd-command.html",
+      "date_iso": "2025-09-23T04:48:28+00:00",
+      "source": "https://github.com/ajeetdsouza/zoxide",
+      "summary": "Article URL: https://github.com/ajeetdsouza/zoxide Comments URL: https://news.ycombinator.com/item?id=45342943 Points: 53 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45342759",
+      "title": "Gamebooks and graph theory (2019)",
+      "slug": "2025-09-23-gamebooks-and-graph-theory-2019.html",
+      "path": "posts/2025-09-23-gamebooks-and-graph-theory-2019.html",
+      "date_iso": "2025-09-23T04:10:15+00:00",
+      "source": "https://notes.atomutek.org/gamebooks-and-graph-theory.html",
+      "summary": "Article URL: https://notes.atomutek.org/gamebooks-and-graph-theory.html Comments URL: https://news.ycombinator.com/item?id=45342759 Points: 17 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45342364",
+      "title": "Nine Things I Learned in Ninety Years",
+      "slug": "2025-09-23-nine-things-i-learned-in-ninety-years.html",
+      "path": "posts/2025-09-23-nine-things-i-learned-in-ninety-years.html",
+      "date_iso": "2025-09-23T03:03:06+00:00",
+      "source": "http://edwardpackard.com/wp-content/uploads/2025/09/Nine-Things-I-Learned-in-Ninety-Years.pdf",
+      "summary": "Article URL: http://edwardpackard.com/wp-content/uploads/2025/09/Nine-Things-I-Learned-in-Ninety-Years.pdf Comments URL: https://news.ycombinator.com/item?id=45342364 Points: 172 # Comments: 37"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/22/technology/google-ad-tech-monopoly.html",
+      "title": "U.S. Asks Judge to Break Up Google’s Advertising Technology Monopoly",
+      "slug": "2025-09-23-u-s-asks-judge-to-break-up-google-s-advertising-technology-monopoly.html",
+      "path": "posts/2025-09-23-u-s-asks-judge-to-break-up-google-s-advertising-technology-monopoly.html",
+      "date_iso": "2025-09-23T01:44:45+00:00",
+      "source": "https://www.nytimes.com/2025/09/22/technology/google-ad-tech-monopoly.html",
+      "summary": "Earlier this year, Judge Leonine Brinkema of the United States District Court for the Eastern District of Virginia ruled that Google had built a monopoly over tools that websites use to sell ad space"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45341683",
+      "title": "X server implementation for SIXEL-featured terminals (2010-2014)",
+      "slug": "2025-09-23-x-server-implementation-for-sixel-featured-terminals-2010-2014.html",
+      "path": "posts/2025-09-23-x-server-implementation-for-sixel-featured-terminals-2010-2014.html",
+      "date_iso": "2025-09-23T01:07:57+00:00",
+      "source": "https://github.com/saitoha/xserver-SIXEL",
+      "summary": "Article URL: https://github.com/saitoha/xserver-SIXEL Comments URL: https://news.ycombinator.com/item?id=45341683 Points: 44 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45341324",
+      "title": "Fall Foliage Map 2025",
+      "slug": "2025-09-23-fall-foliage-map-2025.html",
+      "path": "posts/2025-09-23-fall-foliage-map-2025.html",
+      "date_iso": "2025-09-23T00:14:37+00:00",
+      "source": "https://www.explorefall.com/fall-foliage-map",
+      "summary": "Article URL: https://www.explorefall.com/fall-foliage-map Comments URL: https://news.ycombinator.com/item?id=45341324 Points: 154 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45340133",
+      "title": "Paper2Agent: Stanford Reimagining Research Papers as Interactive AI Agents",
+      "slug": "2025-09-22-paper2agent-stanford-reimagining-research-papers-as-interactive-ai-agents.html",
+      "path": "posts/2025-09-22-paper2agent-stanford-reimagining-research-papers-as-interactive-ai-agents.html",
+      "date_iso": "2025-09-22T22:02:01+00:00",
+      "source": "https://arxiv.org/abs/2509.06917",
+      "summary": "Article URL: https://arxiv.org/abs/2509.06917 Comments URL: https://news.ycombinator.com/item?id=45340133 Points: 99 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45339923",
+      "title": "Germicidal UV could make airborne diseases as rare as those carried by water",
+      "slug": "2025-09-22-germicidal-uv-could-make-airborne-diseases-as-rare-as-those-carried-by-water.html",
+      "path": "posts/2025-09-22-germicidal-uv-could-make-airborne-diseases-as-rare-as-those-carried-by-water.html",
+      "date_iso": "2025-09-22T21:44:54+00:00",
+      "source": "https://www.worksinprogress.news/p/how-to-clean-the-air",
+      "summary": "Article URL: https://www.worksinprogress.news/p/how-to-clean-the-air Comments URL: https://news.ycombinator.com/item?id=45339923 Points: 47 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45338561",
+      "title": "Fine-grained HTTP filtering for Claude Code",
+      "slug": "2025-09-22-fine-grained-http-filtering-for-claude-code.html",
+      "path": "posts/2025-09-22-fine-grained-http-filtering-for-claude-code.html",
+      "date_iso": "2025-09-22T19:49:02+00:00",
+      "source": "https://ammar.io/blog/httpjail",
+      "summary": "Article URL: https://ammar.io/blog/httpjail Comments URL: https://news.ycombinator.com/item?id=45338561 Points: 68 # Comments: 10"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/22/us/argentina-tech-ceo-dead-mount-shasta.html",
+      "title": "Tech Executive Dies After Falling 2,000 Feet on Mount Shasta",
+      "slug": "2025-09-22-tech-executive-dies-after-falling-2-000-feet-on-mount-shasta.html",
+      "path": "posts/2025-09-22-tech-executive-dies-after-falling-2-000-feet-on-mount-shasta.html",
+      "date_iso": "2025-09-22T18:29:25+00:00",
+      "source": "https://www.nytimes.com/2025/09/22/us/argentina-tech-ceo-dead-mount-shasta.html",
+      "summary": "Mount Shasta, at just over 14,100 feet above sea level, is the fifth-highest mountain in California and the second-highest in the Cascade Range."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/22/technology/nvidia-openai-100-billion-investment.html",
+      "title": "Nvidia to Invest $100 Billion in OpenAI",
+      "slug": "2025-09-22-nvidia-to-invest-100-billion-in-openai.html",
+      "path": "posts/2025-09-22-nvidia-to-invest-100-billion-in-openai.html",
+      "date_iso": "2025-09-22T18:26:04+00:00",
+      "source": "https://www.nytimes.com/2025/09/22/technology/nvidia-openai-100-billion-investment.html",
+      "summary": "Jensen Huang, the chief executive of Nvidia, said his company would support the largest data center build out in history."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/22/us/politics/tiktok-deal-algorithm-trump.html",
+      "title": "American Investors Will License and Oversee TikTok’s U.S. Version, White House Says",
+      "slug": "2025-09-22-american-investors-will-license-and-oversee-tiktok-s-u-s-version-white-house-says.html",
+      "path": "posts/2025-09-22-american-investors-will-license-and-oversee-tiktok-s-u-s-version-white-house-says.html",
+      "date_iso": "2025-09-22T17:59:22+00:00",
+      "source": "https://www.nytimes.com/2025/09/22/us/politics/tiktok-deal-algorithm-trump.html",
+      "summary": "The TikTok office in Culver City, Calif."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/22/technology/amazon-ftc-subscription-practices.html",
+      "title": "Amazon Faces Trial on F.T.C. Charges Related to Prime Service",
+      "slug": "2025-09-22-amazon-faces-trial-on-f-t-c-charges-related-to-prime-service.html",
+      "path": "posts/2025-09-22-amazon-faces-trial-on-f-t-c-charges-related-to-prime-service.html",
+      "date_iso": "2025-09-22T17:52:13+00:00",
+      "source": "https://www.nytimes.com/2025/09/22/technology/amazon-ftc-subscription-practices.html",
+      "summary": "Subscriptions, primarily Prime, brought more than $44 billion to Amazon last year."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45336989",
+      "title": "Qwen3-Omni: Native Omni AI model for text, image and video",
+      "slug": "2025-09-22-qwen3-omni-native-omni-ai-model-for-text-image-and-video.html",
+      "path": "posts/2025-09-22-qwen3-omni-native-omni-ai-model-for-text-image-and-video.html",
+      "date_iso": "2025-09-22T17:50:21+00:00",
+      "source": "https://github.com/QwenLM/Qwen3-Omni",
+      "summary": "Article URL: https://github.com/QwenLM/Qwen3-Omni Comments URL: https://news.ycombinator.com/item?id=45336989 Points: 439 # Comments: 106"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45335635",
+      "title": "Testing is better than data structures and algorithms",
+      "slug": "2025-09-22-testing-is-better-than-data-structures-and-algorithms.html",
+      "path": "posts/2025-09-22-testing-is-better-than-data-structures-and-algorithms.html",
+      "date_iso": "2025-09-22T16:21:35+00:00",
+      "source": "https://nedbatchelder.com/blog/202509/testing_is_better_than_dsa.html",
+      "summary": "Article URL: https://nedbatchelder.com/blog/202509/testing_is_better_than_dsa.html Comments URL: https://news.ycombinator.com/item?id=45335635 Points: 134 # Comments: 124"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45335474",
+      "title": "OpenAI and Nvidia announce partnership to deploy 10GW of Nvidia systems",
+      "slug": "2025-09-22-openai-and-nvidia-announce-partnership-to-deploy-10gw-of-nvidia-systems.html",
+      "path": "posts/2025-09-22-openai-and-nvidia-announce-partnership-to-deploy-10gw-of-nvidia-systems.html",
+      "date_iso": "2025-09-22T16:10:15+00:00",
+      "source": "https://openai.com/index/openai-nvidia-systems-partnership/",
+      "summary": "Article URL: https://openai.com/index/openai-nvidia-systems-partnership/ Comments URL: https://news.ycombinator.com/item?id=45335474 Points: 430 # Comments: 546"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45334545",
+      "title": "PlanetScale for Postgres is now GA",
+      "slug": "2025-09-22-planetscale-for-postgres-is-now-ga.html",
+      "path": "posts/2025-09-22-planetscale-for-postgres-is-now-ga.html",
+      "date_iso": "2025-09-22T15:10:48+00:00",
+      "source": "https://planetscale.com/blog/planetscale-for-postgres-is-generally-available",
+      "summary": "Article URL: https://planetscale.com/blog/planetscale-for-postgres-is-generally-available Comments URL: https://news.ycombinator.com/item?id=45334545 Points: 274 # Comments: 171"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/22/technology/google-second-antitrust-trial.html",
+      "title": "A Judge’s Decision Could Disrupt Google’s $3.1 Trillion Business",
+      "slug": "2025-09-22-a-judge-s-decision-could-disrupt-google-s-3-1-trillion-business.html",
+      "path": "posts/2025-09-22-a-judge-s-decision-could-disrupt-google-s-3-1-trillion-business.html",
+      "date_iso": "2025-09-22T15:06:28+00:00",
+      "source": "https://www.nytimes.com/2025/09/22/technology/google-second-antitrust-trial.html",
+      "summary": "The Google campus in Mountain View, Calif."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45333021",
+      "title": "Why haven't local-first apps become popular?",
+      "slug": "2025-09-22-why-haven-t-local-first-apps-become-popular.html",
+      "path": "posts/2025-09-22-why-haven-t-local-first-apps-become-popular.html",
+      "date_iso": "2025-09-22T13:17:59+00:00",
+      "source": "https://marcobambini.substack.com/p/why-local-first-apps-havent-become",
+      "summary": "Article URL: https://marcobambini.substack.com/p/why-local-first-apps-havent-become Comments URL: https://news.ycombinator.com/item?id=45333021 Points: 381 # Comments: 365"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45332883",
+      "title": "Cap'n Web: a new RPC system for browsers and web servers",
+      "slug": "2025-09-22-cap-n-web-a-new-rpc-system-for-browsers-and-web-servers.html",
+      "path": "posts/2025-09-22-cap-n-web-a-new-rpc-system-for-browsers-and-web-servers.html",
+      "date_iso": "2025-09-22T13:05:32+00:00",
+      "source": "https://blog.cloudflare.com/capnweb-javascript-rpc-library/",
+      "summary": "Article URL: https://blog.cloudflare.com/capnweb-javascript-rpc-library/ Comments URL: https://news.ycombinator.com/item?id=45332883 Points: 498 # Comments: 221"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45332860",
+      "title": "Cloudflare is sponsoring Ladybird and Omarchy",
+      "slug": "2025-09-22-cloudflare-is-sponsoring-ladybird-and-omarchy.html",
+      "path": "posts/2025-09-22-cloudflare-is-sponsoring-ladybird-and-omarchy.html",
+      "date_iso": "2025-09-22T13:03:33+00:00",
+      "source": "https://blog.cloudflare.com/supporting-the-future-of-the-open-web/",
+      "summary": "Article URL: https://blog.cloudflare.com/supporting-the-future-of-the-open-web/ Comments URL: https://news.ycombinator.com/item?id=45332860 Points: 685 # Comments: 424"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45332859",
+      "title": "I'm spoiled by Apple Silicon but still love Framework",
+      "slug": "2025-09-22-i-m-spoiled-by-apple-silicon-but-still-love-framework.html",
+      "path": "posts/2025-09-22-i-m-spoiled-by-apple-silicon-but-still-love-framework.html",
+      "date_iso": "2025-09-22T13:03:10+00:00",
+      "source": "https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/",
+      "summary": "Article URL: https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/ Comments URL: https://news.ycombinator.com/item?id=45332859 Points: 285 # Comments: 373"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45332196",
+      "title": "Is a movie prop the ultimate laptop bag?",
+      "slug": "2025-09-22-is-a-movie-prop-the-ultimate-laptop-bag.html",
+      "path": "posts/2025-09-22-is-a-movie-prop-the-ultimate-laptop-bag.html",
+      "date_iso": "2025-09-22T11:59:01+00:00",
+      "source": "https://blog.jgc.org/2025/09/is-movie-prop-ultimate-laptop-bag.html",
+      "summary": "Article URL: https://blog.jgc.org/2025/09/is-movie-prop-ultimate-laptop-bag.html Comments URL: https://news.ycombinator.com/item?id=45332196 Points: 198 # Comments: 210"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45329414",
       "title": "Download Responsibly",
       "slug": "2025-09-22-download-responsibly.html",
