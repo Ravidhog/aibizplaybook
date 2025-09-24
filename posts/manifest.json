@@ -1,6 +1,240 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45356226",
+      "title": "Greatest irony of the AI age: Humans hired to clean AI slop",
+      "slug": "2025-09-24-greatest-irony-of-the-ai-age-humans-hired-to-clean-ai-slop.html",
+      "path": "posts/2025-09-24-greatest-irony-of-the-ai-age-humans-hired-to-clean-ai-slop.html",
+      "date_iso": "2025-09-24T04:15:04+00:00",
+      "source": "https://www.sify.com/ai-analytics/greatest-irony-of-the-ai-age-humans-being-increasingly-hired-to-clean-ai-slop/",
+      "summary": "Article URL: https://www.sify.com/ai-analytics/greatest-irony-of-the-ai-age-humans-being-increasingly-hired-to-clean-ai-slop/ Comments URL: https://news.ycombinator.com/item?id=45356226 Points: 50 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45355965",
+      "title": "New study shows plants and animals emit a visible light that expires at death",
+      "slug": "2025-09-24-new-study-shows-plants-and-animals-emit-a-visible-light-that-expires-at-death.html",
+      "path": "posts/2025-09-24-new-study-shows-plants-and-animals-emit-a-visible-light-that-expires-at-death.html",
+      "date_iso": "2025-09-24T03:27:41+00:00",
+      "source": "https://pubs.acs.org/doi/10.1021/acs.jpclett.4c03546",
+      "summary": "Article URL: https://pubs.acs.org/doi/10.1021/acs.jpclett.4c03546 Comments URL: https://news.ycombinator.com/item?id=45355965 Points: 12 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45355806",
+      "title": "America's top companies keep talking about AI – but can't explain the upsides",
+      "slug": "2025-09-24-america-s-top-companies-keep-talking-about-ai-but-can-t-explain-the-upsides.html",
+      "path": "posts/2025-09-24-america-s-top-companies-keep-talking-about-ai-but-can-t-explain-the-upsides.html",
+      "date_iso": "2025-09-24T02:59:45+00:00",
+      "source": "https://www.ft.com/content/e93e56df-dd9b-40c1-b77a-dba1ca01e473",
+      "summary": "Article URL: https://www.ft.com/content/e93e56df-dd9b-40c1-b77a-dba1ca01e473 Comments URL: https://news.ycombinator.com/item?id=45355806 Points: 88 # Comments: 50"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45355514",
+      "title": "Quadratic memory reductions for Zero-knowledge Proofs",
+      "slug": "2025-09-24-quadratic-memory-reductions-for-zero-knowledge-proofs.html",
+      "path": "posts/2025-09-24-quadratic-memory-reductions-for-zero-knowledge-proofs.html",
+      "date_iso": "2025-09-24T02:12:58+00:00",
+      "source": "https://github.com/logannye/space-efficient-zero-knowledge-proofs",
+      "summary": "Article URL: https://github.com/logannye/space-efficient-zero-knowledge-proofs Comments URL: https://news.ycombinator.com/item?id=45355514 Points: 54 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45355462",
+      "title": "Zutty: Zero-cost Unicode Teletype, high-end terminal for low-end systems",
+      "slug": "2025-09-24-zutty-zero-cost-unicode-teletype-high-end-terminal-for-low-end-systems.html",
+      "path": "posts/2025-09-24-zutty-zero-cost-unicode-teletype-high-end-terminal-for-low-end-systems.html",
+      "date_iso": "2025-09-24T02:07:23+00:00",
+      "source": "https://git.hq.sig7.se/zutty.git",
+      "summary": "Article URL: https://git.hq.sig7.se/zutty.git Comments URL: https://news.ycombinator.com/item?id=45355462 Points: 42 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45354689",
+      "title": "Periodic Table of Cognition",
+      "slug": "2025-09-24-periodic-table-of-cognition.html",
+      "path": "posts/2025-09-24-periodic-table-of-cognition.html",
+      "date_iso": "2025-09-24T00:33:24+00:00",
+      "source": "https://kk.org/thetechnium/the-periodic-table-of-cognition/",
+      "summary": "Article URL: https://kk.org/thetechnium/the-periodic-table-of-cognition/ Comments URL: https://news.ycombinator.com/item?id=45354689 Points: 29 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45354644",
+      "title": "Baldur's Gate 3 Steam Deck – Native Version",
+      "slug": "2025-09-24-baldur-s-gate-3-steam-deck-native-version.html",
+      "path": "posts/2025-09-24-baldur-s-gate-3-steam-deck-native-version.html",
+      "date_iso": "2025-09-24T00:26:59+00:00",
+      "source": "https://larian.com/support/faqs/steam-deck-native-version_121",
+      "summary": "Article URL: https://larian.com/support/faqs/steam-deck-native-version_121 Comments URL: https://news.ycombinator.com/item?id=45354644 Points: 325 # Comments: 207"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45354314",
+      "title": "Top Programming Languages 2025",
+      "slug": "2025-09-23-top-programming-languages-2025.html",
+      "path": "posts/2025-09-23-top-programming-languages-2025.html",
+      "date_iso": "2025-09-23T23:42:50+00:00",
+      "source": "https://spectrum.ieee.org/top-programming-languages-2025",
+      "summary": "Article URL: https://spectrum.ieee.org/top-programming-languages-2025 Comments URL: https://news.ycombinator.com/item?id=45354314 Points: 130 # Comments: 149"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45354262",
+      "title": "NYC Telecom Raid: What's Up with Those Weird SIM Banks?",
+      "slug": "2025-09-23-nyc-telecom-raid-what-s-up-with-those-weird-sim-banks.html",
+      "path": "posts/2025-09-23-nyc-telecom-raid-what-s-up-with-those-weird-sim-banks.html",
+      "date_iso": "2025-09-23T23:36:16+00:00",
+      "source": "https://tedium.co/2025/09/23/secret-service-raid-sim-bank-telecom-hardware/",
+      "summary": "Article URL: https://tedium.co/2025/09/23/secret-service-raid-sim-bank-telecom-hardware/ Comments URL: https://news.ycombinator.com/item?id=45354262 Points: 168 # Comments: 112"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45352944",
+      "title": "From Rust to reality: The hidden journey of fetch_max",
+      "slug": "2025-09-23-from-rust-to-reality-the-hidden-journey-of-fetch-max.html",
+      "path": "posts/2025-09-23-from-rust-to-reality-the-hidden-journey-of-fetch-max.html",
+      "date_iso": "2025-09-23T21:24:45+00:00",
+      "source": "https://questdb.com/blog/rust-fetch-max-compiler-journey/",
+      "summary": "Article URL: https://questdb.com/blog/rust-fetch-max-compiler-journey/ Comments URL: https://news.ycombinator.com/item?id=45352944 Points: 170 # Comments: 33"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45352901",
+      "title": "Context Engineering for AI Agents: Lessons",
+      "slug": "2025-09-23-context-engineering-for-ai-agents-lessons.html",
+      "path": "posts/2025-09-23-context-engineering-for-ai-agents-lessons.html",
+      "date_iso": "2025-09-23T21:20:15+00:00",
+      "source": "https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus",
+      "summary": "Article URL: https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus Comments URL: https://news.ycombinator.com/item?id=45352901 Points: 77 # Comments: 4"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/23/technology/openai-data-centers-united-states.html",
+      "title": "OpenAI to Join Tech Giants in Building 5 New Data Centers in U.S.",
+      "slug": "2025-09-23-openai-to-join-tech-giants-in-building-5-new-data-centers-in-u-s.html",
+      "path": "posts/2025-09-23-openai-to-join-tech-giants-in-building-5-new-data-centers-in-u-s.html",
+      "date_iso": "2025-09-23T21:00:07+00:00",
+      "source": "https://www.nytimes.com/2025/09/23/technology/openai-data-centers-united-states.html",
+      "summary": "Construction of an OpenAI infrastructure site in Abilene, Texas. The data center is a collaboration between OpenAI, SoftBank and Oracle."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45352672",
+      "title": "Qwen3-VL",
+      "slug": "2025-09-23-qwen3-vl.html",
+      "path": "posts/2025-09-23-qwen3-vl.html",
+      "date_iso": "2025-09-23T20:59:17+00:00",
+      "source": "https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list",
+      "summary": "Article URL: https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&amp;from=research.latest-advancements-list Comments URL: https://news.ycombinator.com/item?id=45352672 Points: 281 # Comments: 70"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45352533",
+      "title": "Is life a form of computation?",
+      "slug": "2025-09-23-is-life-a-form-of-computation.html",
+      "path": "posts/2025-09-23-is-life-a-form-of-computation.html",
+      "date_iso": "2025-09-23T20:46:24+00:00",
+      "source": "https://thereader.mitpress.mit.edu/is-life-a-form-of-computation/",
+      "summary": "Article URL: https://thereader.mitpress.mit.edu/is-life-a-form-of-computation/ Comments URL: https://news.ycombinator.com/item?id=45352533 Points: 124 # Comments: 103"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45352460",
+      "title": "Podman Desktop celebrates 3M downloads",
+      "slug": "2025-09-23-podman-desktop-celebrates-3m-downloads.html",
+      "path": "posts/2025-09-23-podman-desktop-celebrates-3m-downloads.html",
+      "date_iso": "2025-09-23T20:40:21+00:00",
+      "source": "https://podman-desktop.io/blog/3-million",
+      "summary": "Article URL: https://podman-desktop.io/blog/3-million Comments URL: https://news.ycombinator.com/item?id=45352460 Points: 125 # Comments: 30"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/23/technology/trump-h1b-visa-tech-start-ups.html",
+      "title": "Trump’s $100,000 H-1B Visa Fee Puts Many Tech Start-Ups in a Bind",
+      "slug": "2025-09-23-trump-s-100-000-h-1b-visa-fee-puts-many-tech-start-ups-in-a-bind.html",
+      "path": "posts/2025-09-23-trump-s-100-000-h-1b-visa-fee-puts-many-tech-start-ups-in-a-bind.html",
+      "date_iso": "2025-09-23T20:26:48+00:00",
+      "source": "https://www.nytimes.com/2025/09/23/technology/trump-h1b-visa-tech-start-ups.html",
+      "summary": "The offices of Delve, an artificial intelligence start-up in San Francisco. The company’s chief operating officer said she was grappling with what a change in H-1B visa fees meant for Delve’s hiring."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/23/technology/larry-ellison-oracle-tiktok.html",
+      "title": "TikTok Deal Could Make Oracle Founder Larry Ellison a New Kind of Media Mogul",
+      "slug": "2025-09-23-tiktok-deal-could-make-oracle-founder-larry-ellison-a-new-kind-of-media-mogul.html",
+      "path": "posts/2025-09-23-tiktok-deal-could-make-oracle-founder-larry-ellison-a-new-kind-of-media-mogul.html",
+      "date_iso": "2025-09-23T20:09:51+00:00",
+      "source": "https://www.nytimes.com/2025/09/23/technology/larry-ellison-oracle-tiktok.html",
+      "summary": "Larry Ellison is among the investors in the newly formulated American version of TikTok."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45351624",
+      "title": "Is Fortran better than Python for teaching basics of numerical linear algebra?",
+      "slug": "2025-09-23-is-fortran-better-than-python-for-teaching-basics-of-numerical-linear-algebra.html",
+      "path": "posts/2025-09-23-is-fortran-better-than-python-for-teaching-basics-of-numerical-linear-algebra.html",
+      "date_iso": "2025-09-23T19:29:26+00:00",
+      "source": "https://loiseaujc.github.io/posts/blog-title/fortran_vs_python.html",
+      "summary": "Article URL: https://loiseaujc.github.io/posts/blog-title/fortran_vs_python.html Comments URL: https://news.ycombinator.com/item?id=45351624 Points: 68 # Comments: 68"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/23/technology/youtube-reinstating-banned-accounts-pandemic-election.html",
+      "title": "YouTube to Reinstate Accounts Banned Over Content Related to the Pandemic and 2020 Election",
+      "slug": "2025-09-23-youtube-to-reinstate-accounts-banned-over-content-related-to-the-pandemic-and-2020-election.html",
+      "path": "posts/2025-09-23-youtube-to-reinstate-accounts-banned-over-content-related-to-the-pandemic-and-2020-election.html",
+      "date_iso": "2025-09-23T19:24:31+00:00",
+      "source": "https://www.nytimes.com/2025/09/23/technology/youtube-reinstating-banned-accounts-pandemic-election.html",
+      "summary": "YouTube has been rolling back policies it created during the pandemic."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45351437",
+      "title": "Apple A19 SoC die shot",
+      "slug": "2025-09-23-apple-a19-soc-die-shot.html",
+      "path": "posts/2025-09-23-apple-a19-soc-die-shot.html",
+      "date_iso": "2025-09-23T19:12:08+00:00",
+      "source": "https://chipwise.tech/our-portfolio/apple-a19-dieshot/",
+      "summary": "Article URL: https://chipwise.tech/our-portfolio/apple-a19-dieshot/ Comments URL: https://news.ycombinator.com/item?id=45351437 Points: 104 # Comments: 55"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45351410",
+      "title": "How to draw construction equipment for kids",
+      "slug": "2025-09-23-how-to-draw-construction-equipment-for-kids.html",
+      "path": "posts/2025-09-23-how-to-draw-construction-equipment-for-kids.html",
+      "date_iso": "2025-09-23T19:09:50+00:00",
+      "source": "https://alyssarosenberg.substack.com/p/how-to-draw-construction-equipment",
+      "summary": "Article URL: https://alyssarosenberg.substack.com/p/how-to-draw-construction-equipment Comments URL: https://news.ycombinator.com/item?id=45351410 Points: 104 # Comments: 52"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45350690",
+      "title": "Find SF parking cops",
+      "slug": "2025-09-23-find-sf-parking-cops.html",
+      "path": "posts/2025-09-23-find-sf-parking-cops.html",
+      "date_iso": "2025-09-23T18:06:07+00:00",
+      "source": "https://walzr.com/sf-parking/",
+      "summary": "https://walzr.com/sf-parking/about/ Comments URL: https://news.ycombinator.com/item?id=45350690 Points: 657 # Comments: 372"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/23/technology/meta-super-pac-ai.html",
+      "title": "Meta Ramps Up Spending on A.I. Politics With New Super PAC",
+      "slug": "2025-09-23-meta-ramps-up-spending-on-a-i-politics-with-new-super-pac.html",
+      "path": "posts/2025-09-23-meta-ramps-up-spending-on-a-i-politics-with-new-super-pac.html",
+      "date_iso": "2025-09-23T16:56:02+00:00",
+      "source": "https://www.nytimes.com/2025/09/23/technology/meta-super-pac-ai.html",
+      "summary": "Meta has recently unveiled two new super PACs focused on bolstering A.I."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45348495",
+      "title": "Always Invite Anna",
+      "slug": "2025-09-23-always-invite-anna.html",
+      "path": "posts/2025-09-23-always-invite-anna.html",
+      "date_iso": "2025-09-23T15:33:23+00:00",
+      "source": "https://sharif.io/anna-alexei",
+      "summary": "Article URL: https://sharif.io/anna-alexei Comments URL: https://news.ycombinator.com/item?id=45348495 Points: 792 # Comments: 95"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45347914",
+      "title": "Launch HN: Strata (YC X25) – One MCP server for AI to handle thousands of tools",
+      "slug": "2025-09-23-launch-hn-strata-yc-x25-one-mcp-server-for-ai-to-handle-thousands-of-tools.html",
+      "path": "posts/2025-09-23-launch-hn-strata-yc-x25-one-mcp-server-for-ai-to-handle-thousands-of-tools.html",
+      "date_iso": "2025-09-23T14:52:07+00:00",
+      "source": "https://news.ycombinator.com/item?id=45347914",
+      "summary": "Hey HN! We are Klavis AI ( https://www.klavis.ai/ ) and we're launching Strata, one open-source MCP server that helps AI agents use thousands of API tools without getting overwhelmed. Instead of showing all available tools at once, Strata reveals them step-by-step based on what…"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/23/world/africa/elon-musk-father-errol-child-abuse.html",
+      "title": "Elon Musk’s Father, Errol Musk, Accused of Child Sexual Abuse",
+      "slug": "2025-09-23-elon-musk-s-father-errol-musk-accused-of-child-sexual-abuse.html",
+      "path": "posts/2025-09-23-elon-musk-s-father-errol-musk-accused-of-child-sexual-abuse.html",
+      "date_iso": "2025-09-23T14:27:53+00:00",
+      "source": "https://www.nytimes.com/2025/09/23/world/africa/elon-musk-father-errol-child-abuse.html",
+      "summary": "Errol Musk, who has at least nine children and stepchildren, at his home in South Africa in 2022."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45343689",
       "title": "Telli (YC F24) is hiring ambitious engineers [Berlin, on-site]",
       "slug": "2025-09-23-telli-yc-f24-is-hiring-ambitious-engineers-berlin-on-site.html",

@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Launch HN: Strata (YC X25) – One MCP server for AI to handle thousands of tools</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Launch HN: Strata (YC X25) – One MCP server for AI to handle thousands of tools</h1>
+    <p><small>Published: 2025-09-23T14:52:07+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hey HN! We are Klavis AI (<a href="https://www.klavis.ai/">https://www.klavis.ai/</a>) and we're launching Strata, one open-source MCP server that helps AI agents use thousands of API tools without getting overwhelmed. Instead of showing all available tools at once, Strata reveals them step-by-step based on what the AI actually needs.<p>As a former Senior SWE on Google Gemini 's tool use team, I saw firsthand how AI would struggle with tools. If you've built AI agents, you've likely hit the same walls: (1) AI agents struggle to pick the right API from hundreds of options. (2) Tool descriptions and info consume massive token budgets. (3) Most servers cap at 40~50 tools to avoid these problems, limiting what you can build.<p>Instead of flooding the AI with everything upfront, Strata works like a human would. It guides the AI agents to discover relevant categories, then lists available actions in those categories. It relies on LLMs’ reasoning to drill down progressively to find the exact tool needed. Here are some examples:<p><i>Github query: "Find my stale pull requests in our main repo"</i><p>Strata: AI model identifies GitHub → Shows categories (Repos, Issues, PRs, Actions) → AI selects PRs → Shows PR-specific actions -> AI selects list_pull_requests → Shows  list_pull_requests details -> Executes list_pull_requests with the right parameters.<p><i>Jira query: "Create a bug ticket in the 'MOBILE' project about the app crashing on startup."</i><p>Strata: AI identifies Jira → Shows categories (Projects, Issues, Sprints) → AI selects Issues → Shows actions (create_issue, get_issue) → AI selects create_issue → Shows create_issue details → Executes with correct parameters.<p><i>Slack query: "Post a message in the #announcements channel that bonus will be paid out next Friday."</i><p>Strata: AI identifies Slack → Shows categories (Channels, Messages, Users) → AI selects Messages → Shows actions (send_message, schedule_message) → AI selects send_message → Shows send_message details → Executes with correct parameters.<p>This progressive approach unlocks a huge advantage: depth. While most integrations offer a handful of high-level tools, Strata can expose hundreds of granular features for a single app like GitHub, Jira, etc. Your AI agent can finally access the deep, specific features that real workflows require, without getting lost in a sea of options.<p>Under the hood, Strata manages authentication tokens and includes a built-in search tool for the agent to dig into documentation if it gets stuck.<p>On the MCPMark <a href="https://mcpmark.ai/leaderboard/mcp" rel="nofollow">https://mcpmark.ai/leaderboard/mcp</a>, Strata achieves +15.2% higher pass@1 rate vs the official GitHub server and +13.4% higher pass@1 rate vs the official Notion server. In human eval tests, it hits 83%+ accuracy on complex, real-world multi-app workflows.<p>Here is a quick demo to watch Strata navigate a complex workflow with multiple apps, automatically selecting the right tools at each step: <a href="https://www.youtube.com/watch?v=N00cY9Ov_fM" rel="nofollow">https://www.youtube.com/watch?v=N00cY9Ov_fM</a>.<p>You can connect to any external MCP Server into Strata, and we have an open source version for it: <a href="https://github.com/Klavis-AI/klavis" rel="nofollow">https://github.com/Klavis-AI/klavis</a>.<p>For team or production use with more features, visit our website: <a href="https://www.klavis.ai">https://www.klavis.ai</a>. Add Strata to Cursor, VS Code or any MCP-compatible application with one click. You can also use our API to easily plug in Strata to your AI application.<p>We look forward to your comments. Thanks for reading!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45347914">https://news.ycombinator.com/item?id=45347914</a></p>
+<p>Points: 124</p>
+<p># Comments: 62</p>
+    <p><a href="https://news.ycombinator.com/item?id=45347914" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
