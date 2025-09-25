@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Dayflow – A git log for your day</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Dayflow – A git log for your day</h1>
+    <p><small>Published: 2025-09-24T14:53:57+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hi HN! I've been building Dayflow, a macOS app that automatically tracks what you're actually working on (not just which apps you have open).<p>Here's what it does:<p>- It creates a semantic timeline of your day;<p>- It does it by understanding the content on your screen (with local or cloud VLMs);<p>- This allows you to see exactly where your time went without any manual logging.<p>Traditional time trackers tell you "3 hours in Chrome" which is not very helpful. Dayflow actually understands if you're reading documentation, debugging code, or scrolling HN. Instead of "Chrome: 3 hours", you get "Reviewed PR comments: 45min", "Read HN thread about Rust: 20min", "Debugged auth flow: 1.5hr".<p>I was an early Rewind user but rarely used the retrieval feature. I built Dayflow because I saw other interesting uses for screen data. I find that it helps me stay on track while working - I check it every few hours and make sure I’m spending my time the way I intended - if I’m not, I try to course correct.<p>Here’s what you need to know about privacy:<p>- Run 100% locally using qwen2.5-vl-3b (~4GB model)<p>- No cloud uploads, no account<p>- Full source available under MIT license (<a href="https://github.com/JerryZLiu/Dayflow" rel="nofollow">https://github.com/JerryZLiu/Dayflow</a>)<p>- Optional: BYO Gemini API key for better quality (stored in Keychain, with free-tier workaround to prevent training on your data)<p>The tech stack is pretty simple, SwiftUI with a local sqlite DB. Uses native macOS apis for efficient screen captures. Since most people who run LLMs locally already have their tool of choice (Ollama, LLMStudio, etc.), I decided to not embed an LLM into Dayflow.<p>By far the biggest challenge was adapting from SOTA vision models like Gemini 2.5 Pro to small, local models. My constraints were that it had to take up <4GB of ram and have vision capabilities. I had to do a lot of evals to figure out that Qwen2.5VL-3B was the best balance of size and quality, but there was still a sizable tradeoff in quality that I had to accept. I also got creative with sampling rates and prompt chunking to deal with the 100x smaller context window. Processing a 15 minute segment takes ~32 local LLM calls vs 2 Gemini calls!<p>Here’s what I’m working on next:<p>Distillation: Using Gemini's high-quality outputs as training data to teach a local model the patterns it needs, hopefully closing the quality gap.<p>Custom dashboards where you can track answers to any question like "How long did I spend on HN?" or "Hours until my first deep work session of the day<p>I'd love to hear your thoughts, especially if you've struggled with productivity tracking or have ideas for what you'd want from a tool like this.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45361268">https://news.ycombinator.com/item?id=45361268</a></p>
+<p>Points: 175</p>
+<p># Comments: 47</p>
+    <p><a href="https://github.com/JerryZLiu/Dayflow" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

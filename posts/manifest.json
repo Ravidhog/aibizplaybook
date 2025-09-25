@@ -1,6 +1,213 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45369768",
+      "title": "Knotty: A domain-specific language for knitting patterns",
+      "slug": "2025-09-25-knotty-a-domain-specific-language-for-knitting-patterns.html",
+      "path": "posts/2025-09-25-knotty-a-domain-specific-language-for-knitting-patterns.html",
+      "date_iso": "2025-09-25T06:13:32+00:00",
+      "source": "https://t0mpr1c3.github.io/knotty/index.html",
+      "summary": "Article URL: https://t0mpr1c3.github.io/knotty/index.html Comments URL: https://news.ycombinator.com/item?id=45369768 Points: 18 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45368058",
+      "title": "The \"Wage Level\" Mirage: H-1B proposal could help outsourcers and hurt US talent",
+      "slug": "2025-09-25-the-wage-level-mirage-h-1b-proposal-could-help-outsourcers-and-hurt-us-talent.html",
+      "path": "posts/2025-09-25-the-wage-level-mirage-h-1b-proposal-could-help-outsourcers-and-hurt-us-talent.html",
+      "date_iso": "2025-09-25T01:05:48+00:00",
+      "source": "https://ifp.org/the-wage-level-mirage/",
+      "summary": "Article URL: https://ifp.org/the-wage-level-mirage/ Comments URL: https://news.ycombinator.com/item?id=45368058 Points: 55 # Comments: 69"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/24/technology/intel-apple-talks-investment.html",
+      "title": "Intel Said to Seek Investment From Apple",
+      "slug": "2025-09-25-intel-said-to-seek-investment-from-apple.html",
+      "path": "posts/2025-09-25-intel-said-to-seek-investment-from-apple.html",
+      "date_iso": "2025-09-25T00:53:11+00:00",
+      "source": "https://www.nytimes.com/2025/09/24/technology/intel-apple-talks-investment.html",
+      "summary": "Intel, an industry pioneer, has faltered in recent years as tries to catch up with rivals in chip manufacturing."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45367086",
+      "title": "How did sports betting become legal in the US?",
+      "slug": "2025-09-24-how-did-sports-betting-become-legal-in-the-us.html",
+      "path": "posts/2025-09-24-how-did-sports-betting-become-legal-in-the-us.html",
+      "date_iso": "2025-09-24T23:15:38+00:00",
+      "source": "https://shreyashariharan.substack.com/p/how-did-sports-betting-become-legal",
+      "summary": "Article URL: https://shreyashariharan.substack.com/p/how-did-sports-betting-become-legal Comments URL: https://news.ycombinator.com/item?id=45367086 Points: 154 # Comments: 160"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45367085",
+      "title": "Docker Hub Is Down",
+      "slug": "2025-09-24-docker-hub-is-down.html",
+      "path": "posts/2025-09-24-docker-hub-is-down.html",
+      "date_iso": "2025-09-24T23:15:33+00:00",
+      "source": "https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68d47a2f93c09e05486d93a9",
+      "summary": "Article URL: https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68d47a2f93c09e05486d93a9 Comments URL: https://news.ycombinator.com/item?id=45367085 Points: 174 # Comments: 75"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45367046",
+      "title": "Do YC after you graduate: Early decision for students",
+      "slug": "2025-09-24-do-yc-after-you-graduate-early-decision-for-students.html",
+      "path": "posts/2025-09-24-do-yc-after-you-graduate-early-decision-for-students.html",
+      "date_iso": "2025-09-24T23:12:38+00:00",
+      "source": "https://www.ycombinator.com/early-decision",
+      "summary": "We announced something today at YC called Early Decision, specifically for students. It's a relatively small change, but we thought people might be interested to hear the thinking behind it, even if you don't happen to be a student graduating this year. A year ago, YC went from…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45366867",
+      "title": "Helium Browser",
+      "slug": "2025-09-24-helium-browser.html",
+      "path": "posts/2025-09-24-helium-browser.html",
+      "date_iso": "2025-09-24T22:51:16+00:00",
+      "source": "https://helium.computer/",
+      "summary": "Article URL: https://helium.computer/ Comments URL: https://news.ycombinator.com/item?id=45366867 Points: 294 # Comments: 171"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45366566",
+      "title": "Everything that's wrong with Google Search in one image",
+      "slug": "2025-09-24-everything-that-s-wrong-with-google-search-in-one-image.html",
+      "path": "posts/2025-09-24-everything-that-s-wrong-with-google-search-in-one-image.html",
+      "date_iso": "2025-09-24T22:11:48+00:00",
+      "source": "https://bitbytebit.substack.com/p/everything-thats-wrong-with-google",
+      "summary": "Article URL: https://bitbytebit.substack.com/p/everything-thats-wrong-with-google Comments URL: https://news.ycombinator.com/item?id=45366566 Points: 792 # Comments: 459"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45366474",
+      "title": "Snapdragon X2 Elite ARM Laptop CPU",
+      "slug": "2025-09-24-snapdragon-x2-elite-arm-laptop-cpu.html",
+      "path": "posts/2025-09-24-snapdragon-x2-elite-arm-laptop-cpu.html",
+      "date_iso": "2025-09-24T22:01:06+00:00",
+      "source": "https://www.qualcomm.com/products/mobile/snapdragon/laptops-and-tablets/snapdragon-x2-elite",
+      "summary": "Article URL: https://www.qualcomm.com/products/mobile/snapdragon/laptops-and-tablets/snapdragon-x2-elite Comments URL: https://news.ycombinator.com/item?id=45366474 Points: 102 # Comments: 136"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45365878",
+      "title": "SonyShell – An effort to “SSH into my Sony DSLR”",
+      "slug": "2025-09-24-sonyshell-an-effort-to-ssh-into-my-sony-dslr.html",
+      "path": "posts/2025-09-24-sonyshell-an-effort-to-ssh-into-my-sony-dslr.html",
+      "date_iso": "2025-09-24T21:00:00+00:00",
+      "source": "https://github.com/goudvuur/sonyshell",
+      "summary": "Article URL: https://github.com/goudvuur/sonyshell Comments URL: https://news.ycombinator.com/item?id=45365878 Points: 100 # Comments: 50"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45364450",
+      "title": "How fast is Go? Simulating particles on a smart TV",
+      "slug": "2025-09-24-how-fast-is-go-simulating-particles-on-a-smart-tv.html",
+      "path": "posts/2025-09-24-how-fast-is-go-simulating-particles-on-a-smart-tv.html",
+      "date_iso": "2025-09-24T18:48:39+00:00",
+      "source": "https://dgerrells.com/blog/how-fast-is-go-simulating-millions-of-particles-on-a-smart-tv",
+      "summary": "Article URL: https://dgerrells.com/blog/how-fast-is-go-simulating-millions-of-particles-on-a-smart-tv Comments URL: https://news.ycombinator.com/item?id=45364450 Points: 73 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45362914",
+      "title": "Launch HN: Flywheel (YC S25) – Waymo for Excavators",
+      "slug": "2025-09-24-launch-hn-flywheel-yc-s25-waymo-for-excavators.html",
+      "path": "posts/2025-09-24-launch-hn-flywheel-yc-s25-waymo-for-excavators.html",
+      "date_iso": "2025-09-24T16:48:27+00:00",
+      "source": "https://news.ycombinator.com/item?id=45362914",
+      "summary": "Hey HN, We're Jash and Mahimana, cofounders of Flywheel AI ( https://useflywheel.ai ). We’re building a remote teleop and autonomous stack for excavators. Here's a video: https://www.youtube.com/watch?v=zCNmNm3lQGk . Interfacing with existing excavators for enabling remote teleo…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45362697",
+      "title": "Terence Tao: The role of small organizations in society has shrunk significantly",
+      "slug": "2025-09-24-terence-tao-the-role-of-small-organizations-in-society-has-shrunk-significantly.html",
+      "path": "posts/2025-09-24-terence-tao-the-role-of-small-organizations-in-society-has-shrunk-significantly.html",
+      "date_iso": "2025-09-24T16:32:24+00:00",
+      "source": "https://mathstodon.xyz/@tao/115259943398316677",
+      "summary": "Article URL: https://mathstodon.xyz/@tao/115259943398316677 Comments URL: https://news.ycombinator.com/item?id=45362697 Points: 853 # Comments: 424"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45362254",
+      "title": "New bacteria, and two potential antibiotics, discovered in soil",
+      "slug": "2025-09-24-new-bacteria-and-two-potential-antibiotics-discovered-in-soil.html",
+      "path": "posts/2025-09-24-new-bacteria-and-two-potential-antibiotics-discovered-in-soil.html",
+      "date_iso": "2025-09-24T16:03:42+00:00",
+      "source": "https://www.rockefeller.edu/news/38239-hundreds-of-new-bacteria-and-two-potential-antibiotics-found-in-soil/",
+      "summary": "Article URL: https://www.rockefeller.edu/news/38239-hundreds-of-new-bacteria-and-two-potential-antibiotics-found-in-soil/ Comments URL: https://news.ycombinator.com/item?id=45362254 Points: 150 # Comments: 42"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45362206",
+      "title": "SedonaDB: A new geospatial DataFrame library written in Rust",
+      "slug": "2025-09-24-sedonadb-a-new-geospatial-dataframe-library-written-in-rust.html",
+      "path": "posts/2025-09-24-sedonadb-a-new-geospatial-dataframe-library-written-in-rust.html",
+      "date_iso": "2025-09-24T16:00:45+00:00",
+      "source": "https://sedona.apache.org/latest/blog/2025/09/24/introducing-sedonadb-a-single-node-analytical-database-engine-with-geospatial-as-a-first-class-citizen/",
+      "summary": "Article URL: https://sedona.apache.org/latest/blog/2025/09/24/introducing-sedonadb-a-single-node-analytical-database-engine-with-geospatial-as-a-first-class-citizen/ Comments URL: https://news.ycombinator.com/item?id=45362206 Points: 164 # Comments: 47"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45362023",
+      "title": "Python on the Edge: Fast, sandboxed, and powered by WebAssembly",
+      "slug": "2025-09-24-python-on-the-edge-fast-sandboxed-and-powered-by-webassembly.html",
+      "path": "posts/2025-09-24-python-on-the-edge-fast-sandboxed-and-powered-by-webassembly.html",
+      "date_iso": "2025-09-24T15:48:36+00:00",
+      "source": "https://wasmer.io/posts/python-on-the-edge-powered-by-webassembly",
+      "summary": "Article URL: https://wasmer.io/posts/python-on-the-edge-powered-by-webassembly Comments URL: https://news.ycombinator.com/item?id=45362023 Points: 278 # Comments: 99"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45361578",
+      "title": "Engineering a fixed-width bit-packed integer vector in Rust",
+      "slug": "2025-09-24-engineering-a-fixed-width-bit-packed-integer-vector-in-rust.html",
+      "path": "posts/2025-09-24-engineering-a-fixed-width-bit-packed-integer-vector-in-rust.html",
+      "date_iso": "2025-09-24T15:17:08+00:00",
+      "source": "https://lukefleed.xyz/posts/compressed-fixedvec/",
+      "summary": "Article URL: https://lukefleed.xyz/posts/compressed-fixedvec/ Comments URL: https://news.ycombinator.com/item?id=45361578 Points: 65 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45361394",
+      "title": "How to be a leader when the vibes are off",
+      "slug": "2025-09-24-how-to-be-a-leader-when-the-vibes-are-off.html",
+      "path": "posts/2025-09-24-how-to-be-a-leader-when-the-vibes-are-off.html",
+      "date_iso": "2025-09-24T15:03:59+00:00",
+      "source": "https://chaoticgood.management/how-to-be-a-leader-when-the-vibes-are-off/",
+      "summary": "Article URL: https://chaoticgood.management/how-to-be-a-leader-when-the-vibes-are-off/ Comments URL: https://news.ycombinator.com/item?id=45361394 Points: 241 # Comments: 118"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45361268",
+      "title": "Show HN: Dayflow – A git log for your day",
+      "slug": "2025-09-24-show-hn-dayflow-a-git-log-for-your-day.html",
+      "path": "posts/2025-09-24-show-hn-dayflow-a-git-log-for-your-day.html",
+      "date_iso": "2025-09-24T14:53:57+00:00",
+      "source": "https://github.com/JerryZLiu/Dayflow",
+      "summary": "Hi HN! I've been building Dayflow, a macOS app that automatically tracks what you're actually working on (not just which apps you have open). Here's what it does: - It creates a semantic timeline of your day; - It does it by understanding the content on your screen (with local o…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45360824",
+      "title": "Smartphone Cameras Go Hyperspectral",
+      "slug": "2025-09-24-smartphone-cameras-go-hyperspectral.html",
+      "path": "posts/2025-09-24-smartphone-cameras-go-hyperspectral.html",
+      "date_iso": "2025-09-24T14:20:33+00:00",
+      "source": "https://spectrum.ieee.org/hyperspectral-imaging",
+      "summary": "Article URL: https://spectrum.ieee.org/hyperspectral-imaging Comments URL: https://news.ycombinator.com/item?id=45360824 Points: 104 # Comments: 60"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45359604",
+      "title": "How to Lead in a Room Full of Experts",
+      "slug": "2025-09-24-how-to-lead-in-a-room-full-of-experts.html",
+      "path": "posts/2025-09-24-how-to-lead-in-a-room-full-of-experts.html",
+      "date_iso": "2025-09-24T12:52:52+00:00",
+      "source": "https://idiallo.com/blog/how-to-lead-in-a-room-full-of-experts",
+      "summary": "Article URL: https://idiallo.com/blog/how-to-lead-in-a-room-full-of-experts Comments URL: https://news.ycombinator.com/item?id=45359604 Points: 320 # Comments: 82"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/24/technology/brendan-carr-fcc-kimmel.html",
+      "title": "The F.C.C.’s Brendan Carr Plans to Keep Going After the Media Following Jimmy Kimmel’s Return",
+      "slug": "2025-09-24-the-f-c-c-s-brendan-carr-plans-to-keep-going-after-the-media-following-jimmy-kimmel-s-return.html",
+      "path": "posts/2025-09-24-the-f-c-c-s-brendan-carr-plans-to-keep-going-after-the-media-following-jimmy-kimmel-s-return.html",
+      "date_iso": "2025-09-24T09:03:17+00:00",
+      "source": "https://www.nytimes.com/2025/09/24/technology/brendan-carr-fcc-kimmel.html",
+      "summary": "While “Jimmy Kimmel Live!” returned to ABC on Tuesday, the chairman of the Federal Communications Commission has promised to continue his campaign against what he sees as liberal bias in broadcasts."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/24/technology/personaltech/apple-ios-26-google-android-16.html",
+      "title": "How to Use Apple’s iOS 26 and Google’s Android 16",
+      "slug": "2025-09-24-how-to-use-apple-s-ios-26-and-google-s-android-16.html",
+      "path": "posts/2025-09-24-how-to-use-apple-s-ios-26-and-google-s-android-16.html",
+      "date_iso": "2025-09-24T09:02:56+00:00",
+      "source": "https://www.nytimes.com/2025/09/24/technology/personaltech/apple-ios-26-google-android-16.html",
+      "summary": "As shown on the left, Apple’s new Liquid Glass software design brings a translucent look (left) to iPhone icons, notifications and other screen elements. To make things more legible (center), use the Reduce Transparency or Increase Contrast controls in the settings, (right) to m…"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45356226",
       "title": "Greatest irony of the AI age: Humans hired to clean AI slop",
       "slug": "2025-09-24-greatest-irony-of-the-ai-age-humans-hired-to-clean-ai-slop.html",
