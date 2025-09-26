@@ -1,6 +1,240 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45383612",
+      "title": "Kapa.ai (YC S23) Is Hiring a Customer Solutions Engineer (EU Remote)",
+      "slug": "2025-09-26-kapa-ai-yc-s23-is-hiring-a-customer-solutions-engineer-eu-remote.html",
+      "path": "posts/2025-09-26-kapa-ai-yc-s23-is-hiring-a-customer-solutions-engineer-eu-remote.html",
+      "date_iso": "2025-09-26T07:01:52+00:00",
+      "source": "https://www.ycombinator.com/companies/kapa-ai/jobs/mHIFJVz-support-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/kapa-ai/jobs/mHIFJVz-support-engineer Comments URL: https://news.ycombinator.com/item?id=45383612 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45382755",
+      "title": "No reachable chess position with more than 218 moves",
+      "slug": "2025-09-26-no-reachable-chess-position-with-more-than-218-moves.html",
+      "path": "posts/2025-09-26-no-reachable-chess-position-with-more-than-218-moves.html",
+      "date_iso": "2025-09-26T04:47:40+00:00",
+      "source": "https://lichess.org/@/Tobs40/blog/there-is-no-reachable-chess-position-with-more-than-218-moves/a5xdxeqs",
+      "summary": "Article URL: https://lichess.org/@/Tobs40/blog/there-is-no-reachable-chess-position-with-more-than-218-moves/a5xdxeqs Comments URL: https://news.ycombinator.com/item?id=45382755 Points: 58 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45382668",
+      "title": "The effect of H-1B quota on employment and selection of foreign-born labor (2018)",
+      "slug": "2025-09-26-the-effect-of-h-1b-quota-on-employment-and-selection-of-foreign-born-labor-2018.html",
+      "path": "posts/2025-09-26-the-effect-of-h-1b-quota-on-employment-and-selection-of-foreign-born-labor-2018.html",
+      "date_iso": "2025-09-26T04:33:31+00:00",
+      "source": "https://doi.org/10.1016/j.euroecorev.2018.06.010",
+      "summary": "Article URL: https://doi.org/10.1016/j.euroecorev.2018.06.010 Comments URL: https://news.ycombinator.com/item?id=45382668 Points: 39 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45382645",
+      "title": "A platform-jumping prince – History of Prince of Persia's 1990s Ports",
+      "slug": "2025-09-26-a-platform-jumping-prince-history-of-prince-of-persia-s-1990s-ports.html",
+      "path": "posts/2025-09-26-a-platform-jumping-prince-history-of-prince-of-persia-s-1990s-ports.html",
+      "date_iso": "2025-09-26T04:29:41+00:00",
+      "source": "https://www.jordanmechner.com/en/latest-news/#a-platform-jumping-prince",
+      "summary": "Article URL: https://www.jordanmechner.com/en/latest-news/#a-platform-jumping-prince Comments URL: https://news.ycombinator.com/item?id=45382645 Points: 41 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45382434",
+      "title": "Flock Reinstalls Cameras Without City Approval After Unlawful Govt Access",
+      "slug": "2025-09-26-flock-reinstalls-cameras-without-city-approval-after-unlawful-govt-access.html",
+      "path": "posts/2025-09-26-flock-reinstalls-cameras-without-city-approval-after-unlawful-govt-access.html",
+      "date_iso": "2025-09-26T03:51:16+00:00",
+      "source": "https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/",
+      "summary": "Article URL: https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/ Comments URL: https://news.ycombinator.com/item?id=45382434 Points: 127 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45382397",
+      "title": "My Deus Ex lipsyncing fix mod",
+      "slug": "2025-09-26-my-deus-ex-lipsyncing-fix-mod.html",
+      "path": "posts/2025-09-26-my-deus-ex-lipsyncing-fix-mod.html",
+      "date_iso": "2025-09-26T03:45:54+00:00",
+      "source": "https://www.joewintergreen.com/my-deus-ex-lipsyncing-fix-mod-making-of/",
+      "summary": "Article URL: https://www.joewintergreen.com/my-deus-ex-lipsyncing-fix-mod-making-of/ Comments URL: https://news.ycombinator.com/item?id=45382397 Points: 99 # Comments: 38"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45381813",
+      "title": "Writing Memory Safe JIT Compilers",
+      "slug": "2025-09-26-writing-memory-safe-jit-compilers.html",
+      "path": "posts/2025-09-26-writing-memory-safe-jit-compilers.html",
+      "date_iso": "2025-09-26T02:10:31+00:00",
+      "source": "https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd",
+      "summary": "Article URL: https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd Comments URL: https://news.ycombinator.com/item?id=45381813 Points: 29 # Comments: 8"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/25/technology/trump-tiktok-ban-deal.html",
+      "title": "Trump Clears Way for American-Owned TikTok Valued at $14 Billion",
+      "slug": "2025-09-26-trump-clears-way-for-american-owned-tiktok-valued-at-14-billion.html",
+      "path": "posts/2025-09-26-trump-clears-way-for-american-owned-tiktok-valued-at-14-billion.html",
+      "date_iso": "2025-09-26T01:53:54+00:00",
+      "source": "https://www.nytimes.com/2025/09/25/technology/trump-tiktok-ban-deal.html",
+      "summary": "President Trump signed the executive order to clear the path for a TikTok deal on Thursday."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45381631",
+      "title": "Bit is all we need: binary normalized neural networks",
+      "slug": "2025-09-26-bit-is-all-we-need-binary-normalized-neural-networks.html",
+      "path": "posts/2025-09-26-bit-is-all-we-need-binary-normalized-neural-networks.html",
+      "date_iso": "2025-09-26T01:43:57+00:00",
+      "source": "https://arxiv.org/abs/2509.07025",
+      "summary": "Article URL: https://arxiv.org/abs/2509.07025 Comments URL: https://news.ycombinator.com/item?id=45381631 Points: 36 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45381590",
+      "title": "Exploit allows for takeover of fleets of Unitree robots",
+      "slug": "2025-09-26-exploit-allows-for-takeover-of-fleets-of-unitree-robots.html",
+      "path": "posts/2025-09-26-exploit-allows-for-takeover-of-fleets-of-unitree-robots.html",
+      "date_iso": "2025-09-26T01:38:19+00:00",
+      "source": "https://spectrum.ieee.org/unitree-robot-exploit",
+      "summary": "Article URL: https://spectrum.ieee.org/unitree-robot-exploit Comments URL: https://news.ycombinator.com/item?id=45381590 Points: 54 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45381584",
+      "title": "Cloudflare Data Platform",
+      "slug": "2025-09-26-cloudflare-data-platform.html",
+      "path": "posts/2025-09-26-cloudflare-data-platform.html",
+      "date_iso": "2025-09-26T01:37:10+00:00",
+      "source": "https://blog.cloudflare.com/cloudflare-data-platform/",
+      "summary": "Article URL: https://blog.cloudflare.com/cloudflare-data-platform/ Comments URL: https://news.ycombinator.com/item?id=45381584 Points: 34 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45381010",
+      "title": "Investigating a Forged PDF",
+      "slug": "2025-09-26-investigating-a-forged-pdf.html",
+      "path": "posts/2025-09-26-investigating-a-forged-pdf.html",
+      "date_iso": "2025-09-26T00:14:11+00:00",
+      "source": "https://mjg59.dreamwidth.org/73317.html",
+      "summary": "Article URL: https://mjg59.dreamwidth.org/73317.html Comments URL: https://news.ycombinator.com/item?id=45381010 Points: 77 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45380699",
+      "title": "Redis is fast – I'll cache in Postgres",
+      "slug": "2025-09-25-redis-is-fast-i-ll-cache-in-postgres.html",
+      "path": "posts/2025-09-25-redis-is-fast-i-ll-cache-in-postgres.html",
+      "date_iso": "2025-09-25T23:34:46+00:00",
+      "source": "https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/",
+      "summary": "Article URL: https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/ Comments URL: https://news.ycombinator.com/item?id=45380699 Points: 133 # Comments: 110"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45379325",
+      "title": "RedoxFS is the default filesystem of Redox OS, inspired by ZFS",
+      "slug": "2025-09-25-redoxfs-is-the-default-filesystem-of-redox-os-inspired-by-zfs.html",
+      "path": "posts/2025-09-25-redoxfs-is-the-default-filesystem-of-redox-os-inspired-by-zfs.html",
+      "date_iso": "2025-09-25T21:25:51+00:00",
+      "source": "https://doc.redox-os.org/book/redoxfs.html",
+      "summary": "Article URL: https://doc.redox-os.org/book/redoxfs.html Comments URL: https://news.ycombinator.com/item?id=45379325 Points: 156 # Comments: 98"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/25/technology/amazon-ftc-settlement.html",
+      "title": "Amazon to Pay $2.5 Billion in Prime Membership Settlement",
+      "slug": "2025-09-25-amazon-to-pay-2-5-billion-in-prime-membership-settlement.html",
+      "path": "posts/2025-09-25-amazon-to-pay-2-5-billion-in-prime-membership-settlement.html",
+      "date_iso": "2025-09-25T20:29:39+00:00",
+      "source": "https://www.nytimes.com/2025/09/25/technology/amazon-ftc-settlement.html",
+      "summary": "A trial on the Federal Trade Commissions’s case against Amazon started this week in Seattle."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/25/technology/microsoft-israel-defense-ministry.html",
+      "title": "Microsoft Disables Some Services to Israel’s Defense Ministry",
+      "slug": "2025-09-25-microsoft-disables-some-services-to-israel-s-defense-ministry.html",
+      "path": "posts/2025-09-25-microsoft-disables-some-services-to-israel-s-defense-ministry.html",
+      "date_iso": "2025-09-25T20:07:11+00:00",
+      "source": "https://www.nytimes.com/2025/09/25/technology/microsoft-israel-defense-ministry.html",
+      "summary": "Microsoft’s review found evidence that Israel was using its cloud storage services to hold surveillance data on Palestinians, according to a company blog post."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/25/us/politics/google-supreme-epic-games.html",
+      "title": "Google Asks Supreme Court to Intervene in Dispute With Fortnite Creator",
+      "slug": "2025-09-25-google-asks-supreme-court-to-intervene-in-dispute-with-fortnite-creator.html",
+      "path": "posts/2025-09-25-google-asks-supreme-court-to-intervene-in-dispute-with-fortnite-creator.html",
+      "date_iso": "2025-09-25T19:29:33+00:00",
+      "source": "https://www.nytimes.com/2025/09/25/us/politics/google-supreme-epic-games.html",
+      "summary": "The Google campus in Mountain View, Calif."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45377748",
+      "title": "Can a model trained on satellite data really find brambles on the ground?",
+      "slug": "2025-09-25-can-a-model-trained-on-satellite-data-really-find-brambles-on-the-ground.html",
+      "path": "posts/2025-09-25-can-a-model-trained-on-satellite-data-really-find-brambles-on-the-ground.html",
+      "date_iso": "2025-09-25T19:28:16+00:00",
+      "source": "https://toao.com/blog/can-we-really-see-brambles-from-space",
+      "summary": "Article URL: https://toao.com/blog/can-we-really-see-brambles-from-space Comments URL: https://news.ycombinator.com/item?id=45377748 Points: 121 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45377641",
+      "title": "Ollama Web Search",
+      "slug": "2025-09-25-ollama-web-search.html",
+      "path": "posts/2025-09-25-ollama-web-search.html",
+      "date_iso": "2025-09-25T19:21:52+00:00",
+      "source": "https://ollama.com/blog/web-search",
+      "summary": "Article URL: https://ollama.com/blog/web-search Comments URL: https://news.ycombinator.com/item?id=45377641 Points: 240 # Comments: 128"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45376605",
+      "title": "Athlon 64: How AMD turned the tables on Intel",
+      "slug": "2025-09-25-athlon-64-how-amd-turned-the-tables-on-intel.html",
+      "path": "posts/2025-09-25-athlon-64-how-amd-turned-the-tables-on-intel.html",
+      "date_iso": "2025-09-25T18:09:47+00:00",
+      "source": "https://dfarq.homeip.net/athlon-64-how-amd-turned-the-tables-on-intel/",
+      "summary": "Article URL: https://dfarq.homeip.net/athlon-64-how-amd-turned-the-tables-on-intel/ Comments URL: https://news.ycombinator.com/item?id=45376605 Points: 242 # Comments: 169"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45375845",
+      "title": "Improved Gemini 2.5 Flash and Flash-Lite",
+      "slug": "2025-09-25-improved-gemini-2-5-flash-and-flash-lite.html",
+      "path": "posts/2025-09-25-improved-gemini-2-5-flash-and-flash-lite.html",
+      "date_iso": "2025-09-25T17:20:56+00:00",
+      "source": "https://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/",
+      "summary": "Article URL: https://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/ Comments URL: https://news.ycombinator.com/item?id=45375845 Points: 432 # Comments: 227"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45375477",
+      "title": "ChatGPT Pulse",
+      "slug": "2025-09-25-chatgpt-pulse.html",
+      "path": "posts/2025-09-25-chatgpt-pulse.html",
+      "date_iso": "2025-09-25T16:59:55+00:00",
+      "source": "https://openai.com/index/introducing-chatgpt-pulse/",
+      "summary": "Article URL: https://openai.com/index/introducing-chatgpt-pulse/ Comments URL: https://news.ycombinator.com/item?id=45375477 Points: 469 # Comments: 466"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45373081",
+      "title": "Cloudflare Email Service: private beta",
+      "slug": "2025-09-25-cloudflare-email-service-private-beta.html",
+      "path": "posts/2025-09-25-cloudflare-email-service-private-beta.html",
+      "date_iso": "2025-09-25T14:33:50+00:00",
+      "source": "https://blog.cloudflare.com/email-service/",
+      "summary": "Article URL: https://blog.cloudflare.com/email-service/ Comments URL: https://news.ycombinator.com/item?id=45373081 Points: 533 # Comments: 417"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45373008",
+      "title": "Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web",
+      "slug": "2025-09-25-launch-hn-webhound-yc-s23-research-agent-that-builds-datasets-from-the-web.html",
+      "path": "posts/2025-09-25-launch-hn-webhound-yc-s23-research-agent-that-builds-datasets-from-the-web.html",
+      "date_iso": "2025-09-25T14:28:24+00:00",
+      "source": "https://news.ycombinator.com/item?id=45373008",
+      "summary": "We're the team behind Webhound ( https://webhound.ai ), an AI agent that builds datasets from the web based on natural language prompts. You describe what you're trying to find. The agent figures out how to structure the data and where to look, then searches, extracts the result…"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/25/technology/grok-xai-government-elon-musk.html",
+      "title": "Elon Musk’s xAI Signs Deal to Provide Grok Chatbot to US Agencies",
+      "slug": "2025-09-25-elon-musk-s-xai-signs-deal-to-provide-grok-chatbot-to-us-agencies.html",
+      "path": "posts/2025-09-25-elon-musk-s-xai-signs-deal-to-provide-grok-chatbot-to-us-agencies.html",
+      "date_iso": "2025-09-25T14:27:52+00:00",
+      "source": "https://www.nytimes.com/2025/09/25/technology/grok-xai-government-elon-musk.html",
+      "summary": "The office building of xAI, Elon Musk’s start-up, in Palo Alto, Calif."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/25/business/china-factory-robots.html",
+      "title": "There Are More Robots Working in China Than the Rest of the World Combined",
+      "slug": "2025-09-25-there-are-more-robots-working-in-china-than-the-rest-of-the-world-combined.html",
+      "path": "posts/2025-09-25-there-are-more-robots-working-in-china-than-the-rest-of-the-world-combined.html",
+      "date_iso": "2025-09-25T12:00:08+00:00",
+      "source": "https://www.nytimes.com/2025/09/25/business/china-factory-robots.html",
+      "summary": "Robots at work on an auto assembly line in Hefei, China. Chinese robotics companies, like the electric vehicle and artificial intelligence industries, have benefited from a national push for growth."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45369768",
       "title": "Knotty: A domain-specific language for knitting patterns",
       "slug": "2025-09-25-knotty-a-domain-specific-language-for-knitting-patterns.html",
