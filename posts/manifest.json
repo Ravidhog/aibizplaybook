@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45392922",
+      "title": "Why Today's Humanoids Won't Learn Dexterity",
+      "slug": "2025-09-27-why-today-s-humanoids-won-t-learn-dexterity.html",
+      "path": "posts/2025-09-27-why-today-s-humanoids-won-t-learn-dexterity.html",
+      "date_iso": "2025-09-27T02:53:24+00:00",
+      "source": "https://rodneybrooks.com/why-todays-humanoids-wont-learn-dexterity/",
+      "summary": "Article URL: https://rodneybrooks.com/why-todays-humanoids-wont-learn-dexterity/ Comments URL: https://news.ycombinator.com/item?id=45392922 Points: 39 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45392744",
+      "title": "GPT-OSS Reinforcement Learning",
+      "slug": "2025-09-27-gpt-oss-reinforcement-learning.html",
+      "path": "posts/2025-09-27-gpt-oss-reinforcement-learning.html",
+      "date_iso": "2025-09-27T02:01:35+00:00",
+      "source": "https://docs.unsloth.ai/new/gpt-oss-reinforcement-learning",
+      "summary": "Article URL: https://docs.unsloth.ai/new/gpt-oss-reinforcement-learning Comments URL: https://news.ycombinator.com/item?id=45392744 Points: 38 # Comments: 9"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/26/business/electronic-arts-buyout-jared-kushner.html",
+      "title": "Jared Kushner’s Firm Is Said to Be Part of $50 Billion Buyout of Electronic Arts",
+      "slug": "2025-09-26-jared-kushner-s-firm-is-said-to-be-part-of-50-billion-buyout-of-electronic-arts.html",
+      "path": "posts/2025-09-26-jared-kushner-s-firm-is-said-to-be-part-of-50-billion-buyout-of-electronic-arts.html",
+      "date_iso": "2025-09-26T23:51:16+00:00",
+      "source": "https://www.nytimes.com/2025/09/26/business/electronic-arts-buyout-jared-kushner.html",
+      "summary": "Jared Kushner in Riyadh, Saudi Arabia, in 2022. The Saudi sovereign wealth fund is an investor in Mr. Kushner’s private equity fund, Affinity Partners."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45392164",
+      "title": "The Obsessively Complete Infocom Catalog",
+      "slug": "2025-09-26-the-obsessively-complete-infocom-catalog.html",
+      "path": "posts/2025-09-26-the-obsessively-complete-infocom-catalog.html",
+      "date_iso": "2025-09-26T23:43:33+00:00",
+      "source": "https://eblong.com/infocom/",
+      "summary": "Article URL: https://eblong.com/infocom/ Comments URL: https://news.ycombinator.com/item?id=45392164 Points: 74 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45391987",
+      "title": "Clean Hydrogen at a Crossroads: Why Methane Pyrolysis Deserves Attention",
+      "slug": "2025-09-26-clean-hydrogen-at-a-crossroads-why-methane-pyrolysis-deserves-attention.html",
+      "path": "posts/2025-09-26-clean-hydrogen-at-a-crossroads-why-methane-pyrolysis-deserves-attention.html",
+      "date_iso": "2025-09-26T23:12:07+00:00",
+      "source": "https://www.c2es.org/2025/09/clean-hydrogen-at-a-crossroads-why-methane-pyrolysis-deserves-attention/",
+      "summary": "Article URL: https://www.c2es.org/2025/09/clean-hydrogen-at-a-crossroads-why-methane-pyrolysis-deserves-attention/ Comments URL: https://news.ycombinator.com/item?id=45391987 Points: 29 # Comments: 38"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45391871",
+      "title": "New math revives geometry's oldest problems",
+      "slug": "2025-09-26-new-math-revives-geometry-s-oldest-problems.html",
+      "path": "posts/2025-09-26-new-math-revives-geometry-s-oldest-problems.html",
+      "date_iso": "2025-09-26T22:57:57+00:00",
+      "source": "https://www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-20250926/",
+      "summary": "Article URL: https://www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-20250926/ Comments URL: https://news.ycombinator.com/item?id=45391871 Points: 96 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45391786",
+      "title": "Why do we remember some life moments but not others?",
+      "slug": "2025-09-26-why-do-we-remember-some-life-moments-but-not-others.html",
+      "path": "posts/2025-09-26-why-do-we-remember-some-life-moments-but-not-others.html",
+      "date_iso": "2025-09-26T22:44:01+00:00",
+      "source": "https://www.bu.edu/articles/2025/why-do-we-remember-some-moments-but-not-others/",
+      "summary": "Article URL: https://www.bu.edu/articles/2025/why-do-we-remember-some-moments-but-not-others/ Comments URL: https://news.ycombinator.com/item?id=45391786 Points: 85 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45391566",
+      "title": "Thoughts on Mechanical Keyboards and the ZSA Moonlander",
+      "slug": "2025-09-26-thoughts-on-mechanical-keyboards-and-the-zsa-moonlander.html",
+      "path": "posts/2025-09-26-thoughts-on-mechanical-keyboards-and-the-zsa-moonlander.html",
+      "date_iso": "2025-09-26T22:17:03+00:00",
+      "source": "https://www.masteringemacs.org/article/thoughts-on-mechanical-keyboards-zsa-moonlander",
+      "summary": "Article URL: https://www.masteringemacs.org/article/thoughts-on-mechanical-keyboards-zsa-moonlander Comments URL: https://news.ycombinator.com/item?id=45391566 Points: 95 # Comments: 124"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45391444",
+      "title": "Moondream 3 Preview: Frontier-level reasoning at a blazing speed",
+      "slug": "2025-09-26-moondream-3-preview-frontier-level-reasoning-at-a-blazing-speed.html",
+      "path": "posts/2025-09-26-moondream-3-preview-frontier-level-reasoning-at-a-blazing-speed.html",
+      "date_iso": "2025-09-26T21:59:57+00:00",
+      "source": "https://moondream.ai/blog/moondream-3-preview",
+      "summary": "Article URL: https://moondream.ai/blog/moondream-3-preview Comments URL: https://news.ycombinator.com/item?id=45391444 Points: 146 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45390866",
+      "title": "RNA structure prediction is hard. How much does that matter?",
+      "slug": "2025-09-26-rna-structure-prediction-is-hard-how-much-does-that-matter.html",
+      "path": "posts/2025-09-26-rna-structure-prediction-is-hard-how-much-does-that-matter.html",
+      "date_iso": "2025-09-26T20:47:31+00:00",
+      "source": "https://www.owlposting.com/p/rna-structure-prediction-is-hard",
+      "summary": "Article URL: https://www.owlposting.com/p/rna-structure-prediction-is-hard Comments URL: https://news.ycombinator.com/item?id=45390866 Points: 46 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45390856",
+      "title": "How insurance risk is transformed into investable assets",
+      "slug": "2025-09-26-how-insurance-risk-is-transformed-into-investable-assets.html",
+      "path": "posts/2025-09-26-how-insurance-risk-is-transformed-into-investable-assets.html",
+      "date_iso": "2025-09-26T20:46:26+00:00",
+      "source": "https://riskvest.io/riskvest-insights/transforming-insurance-risk",
+      "summary": "Article URL: https://riskvest.io/riskvest-insights/transforming-insurance-risk Comments URL: https://news.ycombinator.com/item?id=45390856 Points: 86 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45390121",
+      "title": "Why use mailing lists?",
+      "slug": "2025-09-26-why-use-mailing-lists.html",
+      "path": "posts/2025-09-26-why-use-mailing-lists.html",
+      "date_iso": "2025-09-26T19:27:23+00:00",
+      "source": "https://mailarchive.ietf.org/arch/msg/ietf/q6A_anL1u-Y9iXe-vboiOYamsl0/",
+      "summary": "Article URL: https://mailarchive.ietf.org/arch/msg/ietf/q6A_anL1u-Y9iXe-vboiOYamsl0/ Comments URL: https://news.ycombinator.com/item?id=45390121 Points: 175 # Comments: 102"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45389965",
+      "title": "If you are harassed by lasers",
+      "slug": "2025-09-26-if-you-are-harassed-by-lasers.html",
+      "path": "posts/2025-09-26-if-you-are-harassed-by-lasers.html",
+      "date_iso": "2025-09-26T19:12:26+00:00",
+      "source": "https://www.laserpointersafety.com/harassment.html",
+      "summary": "Article URL: https://www.laserpointersafety.com/harassment.html Comments URL: https://news.ycombinator.com/item?id=45389965 Points: 152 # Comments: 148"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45389464",
+      "title": "Oral Microbes Linked to 3-Fold Increased Risk of Pancreatic Cancer",
+      "slug": "2025-09-26-oral-microbes-linked-to-3-fold-increased-risk-of-pancreatic-cancer.html",
+      "path": "posts/2025-09-26-oral-microbes-linked-to-3-fold-increased-risk-of-pancreatic-cancer.html",
+      "date_iso": "2025-09-26T18:20:33+00:00",
+      "source": "https://nyulangone.org/news/oral-microbes-linked-increased-risk-pancreatic-cancer",
+      "summary": "Article URL: https://nyulangone.org/news/oral-microbes-linked-increased-risk-pancreatic-cancer Comments URL: https://news.ycombinator.com/item?id=45389464 Points: 90 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45389293",
+      "title": "Auth.js is now part of Better Auth",
+      "slug": "2025-09-26-auth-js-is-now-part-of-better-auth.html",
+      "path": "posts/2025-09-26-auth-js-is-now-part-of-better-auth.html",
+      "date_iso": "2025-09-26T18:04:29+00:00",
+      "source": "https://www.better-auth.com/blog/authjs-joins-better-auth",
+      "summary": "Article URL: https://www.better-auth.com/blog/authjs-joins-better-auth Comments URL: https://news.ycombinator.com/item?id=45389293 Points: 108 # Comments: 35"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45389267",
+      "title": "SimpleFold: Folding proteins is simpler than you think",
+      "slug": "2025-09-26-simplefold-folding-proteins-is-simpler-than-you-think.html",
+      "path": "posts/2025-09-26-simplefold-folding-proteins-is-simpler-than-you-think.html",
+      "date_iso": "2025-09-26T18:01:26+00:00",
+      "source": "https://github.com/apple/ml-simplefold",
+      "summary": "https://arxiv.org/abs/2509.18480 Comments URL: https://news.ycombinator.com/item?id=45389267 Points: 357 # Comments: 111"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45388822",
+      "title": "Suno Studio, a Generative AI DAW",
+      "slug": "2025-09-26-suno-studio-a-generative-ai-daw.html",
+      "path": "posts/2025-09-26-suno-studio-a-generative-ai-daw.html",
+      "date_iso": "2025-09-26T17:17:54+00:00",
+      "source": "https://suno.com/studio-welcome",
+      "summary": "Article URL: https://suno.com/studio-welcome Comments URL: https://news.ycombinator.com/item?id=45388822 Points: 133 # Comments: 146"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45388728",
+      "title": "Modular Manifolds",
+      "slug": "2025-09-26-modular-manifolds.html",
+      "path": "posts/2025-09-26-modular-manifolds.html",
+      "date_iso": "2025-09-26T17:06:48+00:00",
+      "source": "https://thinkingmachines.ai/blog/modular-manifolds/",
+      "summary": "Article URL: https://thinkingmachines.ai/blog/modular-manifolds/ Comments URL: https://news.ycombinator.com/item?id=45388728 Points: 139 # Comments: 51"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45388021",
+      "title": "Open Social",
+      "slug": "2025-09-26-open-social.html",
+      "path": "posts/2025-09-26-open-social.html",
+      "date_iso": "2025-09-26T16:01:55+00:00",
+      "source": "https://overreacted.io/open-social/",
+      "summary": "Article URL: https://overreacted.io/open-social/ Comments URL: https://news.ycombinator.com/item?id=45388021 Points: 595 # Comments: 250"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45387494",
+      "title": "Evolving the Multi-User Spaceport",
+      "slug": "2025-09-26-evolving-the-multi-user-spaceport.html",
+      "path": "posts/2025-09-26-evolving-the-multi-user-spaceport.html",
+      "date_iso": "2025-09-26T15:17:31+00:00",
+      "source": "https://www.spacex.com/updates#multiuser-spaceport",
+      "summary": "Article URL: https://www.spacex.com/updates#multiuser-spaceport Comments URL: https://news.ycombinator.com/item?id=45387494 Points: 125 # Comments: 53"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45386578",
+      "title": "US cities pay too much for buses",
+      "slug": "2025-09-26-us-cities-pay-too-much-for-buses.html",
+      "path": "posts/2025-09-26-us-cities-pay-too-much-for-buses.html",
+      "date_iso": "2025-09-26T13:57:17+00:00",
+      "source": "https://www.bloomberg.com/news/articles/2025-09-26/us-cities-are-paying-too-much-for-new-transit-buses",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2025-09-26/us-cities-are-paying-too-much-for-new-transit-buses Comments URL: https://news.ycombinator.com/item?id=45386578 Points: 246 # Comments: 429"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/26/podcasts/hardfork-nvidia-h1b-tiktok.html",
+      "title": "The Great A.I. Build-Out + H-1B Visa Chaos + TikTok Braces for the Rapture",
+      "slug": "2025-09-26-the-great-a-i-build-out-h-1b-visa-chaos-tiktok-braces-for-the-rapture.html",
+      "path": "posts/2025-09-26-the-great-a-i-build-out-h-1b-visa-chaos-tiktok-braces-for-the-rapture.html",
+      "date_iso": "2025-09-26T11:00:04+00:00",
+      "source": "https://www.nytimes.com/2025/09/26/podcasts/hardfork-nvidia-h1b-tiktok.html",
+      "summary": "“You now have the leaders of the biggest technology companies in the world saying, effectively in unison, that they do not care how much it costs to build all the way to A.G.I.”"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45383612",
       "title": "Kapa.ai (YC S23) Is Hiring a Customer Solutions Engineer (EU Remote)",
       "slug": "2025-09-26-kapa-ai-yc-s23-is-hiring-a-customer-solutions-engineer-eu-remote.html",
