@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45401936",
+      "title": "Linus Torvalds and the Supposedly \"Garbage Code\"",
+      "slug": "2025-09-28-linus-torvalds-and-the-supposedly-garbage-code.html",
+      "path": "posts/2025-09-28-linus-torvalds-and-the-supposedly-garbage-code.html",
+      "date_iso": "2025-09-28T05:12:42+00:00",
+      "source": "https://giodicanio.com/2025/08/27/linus-torvalds-and-the-supposedly-garbage-code/",
+      "summary": "Article URL: https://giodicanio.com/2025/08/27/linus-torvalds-and-the-supposedly-garbage-code/ Comments URL: https://news.ycombinator.com/item?id=45401936 Points: 15 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45401907",
+      "title": "IBM Intellistation 185 AIX workstation (2016)",
+      "slug": "2025-09-28-ibm-intellistation-185-aix-workstation-2016.html",
+      "path": "posts/2025-09-28-ibm-intellistation-185-aix-workstation-2016.html",
+      "date_iso": "2025-09-28T05:04:39+00:00",
+      "source": "http://www.ibmfiles.com/pages/intellipower185.htm",
+      "summary": "Article URL: http://www.ibmfiles.com/pages/intellipower185.htm Comments URL: https://news.ycombinator.com/item?id=45401907 Points: 17 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45401051",
+      "title": "Do not do this unless you want magic black smoke",
+      "slug": "2025-09-28-do-not-do-this-unless-you-want-magic-black-smoke.html",
+      "path": "posts/2025-09-28-do-not-do-this-unless-you-want-magic-black-smoke.html",
+      "date_iso": "2025-09-28T01:48:15+00:00",
+      "source": "https://www.linspyre.com/ecoholics/temps.html",
+      "summary": "Article URL: https://www.linspyre.com/ecoholics/temps.html Comments URL: https://news.ycombinator.com/item?id=45401051 Points: 60 # Comments: 27"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45400828",
+      "title": "Bonding twelve 56K modems together to set dial-up broadband records",
+      "slug": "2025-09-28-bonding-twelve-56k-modems-together-to-set-dial-up-broadband-records.html",
+      "path": "posts/2025-09-28-bonding-twelve-56k-modems-together-to-set-dial-up-broadband-records.html",
+      "date_iso": "2025-09-28T00:59:51+00:00",
+      "source": "https://www.tomshardware.com/networking/enthusiasts-bond-twelve-56k-dial-up-modems-together-to-set-dial-up-broadband-records-a-dozen-screeching-boxes-achieve-record-668-kbps-download-speeds",
+      "summary": "Article URL: https://www.tomshardware.com/networking/enthusiasts-bond-twelve-56k-dial-up-modems-together-to-set-dial-up-broadband-records-a-dozen-screeching-boxes-achieve-record-668-kbps-download-speeds Comments URL: https://news.ycombinator.com/item?id=45400828 Points: 75 # Com…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45400376",
+      "title": "Learn to play Go",
+      "slug": "2025-09-27-learn-to-play-go.html",
+      "path": "posts/2025-09-27-learn-to-play-go.html",
+      "date_iso": "2025-09-27T23:50:42+00:00",
+      "source": "https://online-go.com/learn-to-play-go",
+      "summary": "Article URL: https://online-go.com/learn-to-play-go Comments URL: https://news.ycombinator.com/item?id=45400376 Points: 96 # Comments: 33"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45399863",
+      "title": "High-power microwave defeats drone swarm",
+      "slug": "2025-09-27-high-power-microwave-defeats-drone-swarm.html",
+      "path": "posts/2025-09-27-high-power-microwave-defeats-drone-swarm.html",
+      "date_iso": "2025-09-27T22:25:24+00:00",
+      "source": "https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration",
+      "summary": "Article URL: https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration Comments URL: https://news.ycombinator.com/item?id=45399863 Points: 126 # Comments: 69"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45399637",
+      "title": "We reverse-engineered Flash Attention 4",
+      "slug": "2025-09-27-we-reverse-engineered-flash-attention-4.html",
+      "path": "posts/2025-09-27-we-reverse-engineered-flash-attention-4.html",
+      "date_iso": "2025-09-27T21:50:30+00:00",
+      "source": "https://modal.com/blog/reverse-engineer-flash-attention-4",
+      "summary": "Article URL: https://modal.com/blog/reverse-engineer-flash-attention-4 Comments URL: https://news.ycombinator.com/item?id=45399637 Points: 80 # Comments: 27"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45399106",
+      "title": "Handy – Free open-source speech-to-text app written in Rust",
+      "slug": "2025-09-27-handy-free-open-source-speech-to-text-app-written-in-rust.html",
+      "path": "posts/2025-09-27-handy-free-open-source-speech-to-text-app-written-in-rust.html",
+      "date_iso": "2025-09-27T20:33:31+00:00",
+      "source": "https://handy.computer/",
+      "summary": "Article URL: https://handy.computer/ Comments URL: https://news.ycombinator.com/item?id=45399106 Points: 125 # Comments: 45"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45398731",
+      "title": "2025 Nikon Small World in Motion Competition Winners",
+      "slug": "2025-09-27-2025-nikon-small-world-in-motion-competition-winners.html",
+      "path": "posts/2025-09-27-2025-nikon-small-world-in-motion-competition-winners.html",
+      "date_iso": "2025-09-27T19:38:51+00:00",
+      "source": "https://www.nikonsmallworld.com/galleries/2025-small-world-in-motion-competition",
+      "summary": "Article URL: https://www.nikonsmallworld.com/galleries/2025-small-world-in-motion-competition Comments URL: https://news.ycombinator.com/item?id=45398731 Points: 89 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45398467",
+      "title": "LLM Observability in the Wild – Why OpenTelemetry Should Be the Standard",
+      "slug": "2025-09-27-llm-observability-in-the-wild-why-opentelemetry-should-be-the-standard.html",
+      "path": "posts/2025-09-27-llm-observability-in-the-wild-why-opentelemetry-should-be-the-standard.html",
+      "date_iso": "2025-09-27T18:56:18+00:00",
+      "source": "https://signoz.io/blog/llm-observability-opentelemetry/",
+      "summary": "Article URL: https://signoz.io/blog/llm-observability-opentelemetry/ Comments URL: https://news.ycombinator.com/item?id=45398467 Points: 93 # Comments: 30"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45398153",
+      "title": "The death of east London's most radical bookshop",
+      "slug": "2025-09-27-the-death-of-east-london-s-most-radical-bookshop.html",
+      "path": "posts/2025-09-27-the-death-of-east-london-s-most-radical-bookshop.html",
+      "date_iso": "2025-09-27T18:15:08+00:00",
+      "source": "https://www.the-londoner.co.uk/scarlett-letters-closure-left-wing-bookshop/",
+      "summary": "Article URL: https://www.the-londoner.co.uk/scarlett-letters-closure-left-wing-bookshop/ Comments URL: https://news.ycombinator.com/item?id=45398153 Points: 170 # Comments: 103"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45398005",
+      "title": "I made a public living room and the internet keeps putting weirder stuff in it",
+      "slug": "2025-09-27-i-made-a-public-living-room-and-the-internet-keeps-putting-weirder-stuff-in-it.html",
+      "path": "posts/2025-09-27-i-made-a-public-living-room-and-the-internet-keeps-putting-weirder-stuff-in-it.html",
+      "date_iso": "2025-09-27T17:59:47+00:00",
+      "source": "https://www.theroom.lol",
+      "summary": "I built this silly web game using the nano banana api, if you like dumb stuff come join burning through my google cloud credits. Comments URL: https://news.ycombinator.com/item?id=45398005 Points: 210 # Comments: 85"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45397492",
+      "title": "Great Question (YC W21) Is Hiring Director of Product",
+      "slug": "2025-09-27-great-question-yc-w21-is-hiring-director-of-product.html",
+      "path": "posts/2025-09-27-great-question-yc-w21-is-hiring-director-of-product.html",
+      "date_iso": "2025-09-27T17:00:42+00:00",
+      "source": "https://www.ycombinator.com/companies/great-question/jobs/9crdslU-director-of-product",
+      "summary": "Article URL: https://www.ycombinator.com/companies/great-question/jobs/9crdslU-director-of-product Comments URL: https://news.ycombinator.com/item?id=45397492 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45396754",
+      "title": "Greenland is a beautiful nightmare",
+      "slug": "2025-09-27-greenland-is-a-beautiful-nightmare.html",
+      "path": "posts/2025-09-27-greenland-is-a-beautiful-nightmare.html",
+      "date_iso": "2025-09-27T15:46:46+00:00",
+      "source": "https://matduggan.com/greenland-is-a-beautiful-nightmare/",
+      "summary": "Article URL: https://matduggan.com/greenland-is-a-beautiful-nightmare/ Comments URL: https://news.ycombinator.com/item?id=45396754 Points: 500 # Comments: 285"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45396641",
+      "title": "Norway to monitor airborne radioactivity in Svalbard",
+      "slug": "2025-09-27-norway-to-monitor-airborne-radioactivity-in-svalbard.html",
+      "path": "posts/2025-09-27-norway-to-monitor-airborne-radioactivity-in-svalbard.html",
+      "date_iso": "2025-09-27T15:35:59+00:00",
+      "source": "https://www.highnorthnews.com/en/norway-monitor-airborne-radioactivity-svalbard",
+      "summary": "Article URL: https://www.highnorthnews.com/en/norway-monitor-airborne-radioactivity-svalbard Comments URL: https://news.ycombinator.com/item?id=45396641 Points: 85 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45396441",
+      "title": "A WebGL game where you deliver messages on a tiny planet",
+      "slug": "2025-09-27-a-webgl-game-where-you-deliver-messages-on-a-tiny-planet.html",
+      "path": "posts/2025-09-27-a-webgl-game-where-you-deliver-messages-on-a-tiny-planet.html",
+      "date_iso": "2025-09-27T15:17:30+00:00",
+      "source": "https://messenger.abeto.co/",
+      "summary": "Article URL: https://messenger.abeto.co/ Comments URL: https://news.ycombinator.com/item?id=45396441 Points: 1283 # Comments: 203"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45396234",
+      "title": "Thoughts on Cloudflare",
+      "slug": "2025-09-27-thoughts-on-cloudflare.html",
+      "path": "posts/2025-09-27-thoughts-on-cloudflare.html",
+      "date_iso": "2025-09-27T14:55:29+00:00",
+      "source": "https://xn--gckvb8fzb.com/thoughts-on-cloudflare/",
+      "summary": "Article URL: https://xn--gckvb8fzb.com/thoughts-on-cloudflare/ Comments URL: https://news.ycombinator.com/item?id=45396234 Points: 88 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45395991",
+      "title": "SSH3: Faster and rich secure shell using HTTP/3",
+      "slug": "2025-09-27-ssh3-faster-and-rich-secure-shell-using-http-3.html",
+      "path": "posts/2025-09-27-ssh3-faster-and-rich-secure-shell-using-http-3.html",
+      "date_iso": "2025-09-27T14:27:10+00:00",
+      "source": "https://github.com/francoismichel/ssh3",
+      "summary": "Article URL: https://github.com/francoismichel/ssh3 Comments URL: https://news.ycombinator.com/item?id=45395991 Points: 401 # Comments: 209"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45395957",
+      "title": "A Postmark backdoor that’s downloading emails",
+      "slug": "2025-09-27-a-postmark-backdoor-that-s-downloading-emails.html",
+      "path": "posts/2025-09-27-a-postmark-backdoor-that-s-downloading-emails.html",
+      "date_iso": "2025-09-27T14:23:12+00:00",
+      "source": "https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft",
+      "summary": "Article URL: https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft Comments URL: https://news.ycombinator.com/item?id=45395957 Points: 256 # Comments: 130"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/27/business/energy-environment/oil-gas-trump-offshore-wind.html",
+      "title": "Unexpected Critics of Trump’s Attacks on Wind Energy: Oil Executives",
+      "slug": "2025-09-27-unexpected-critics-of-trump-s-attacks-on-wind-energy-oil-executives.html",
+      "path": "posts/2025-09-27-unexpected-critics-of-trump-s-attacks-on-wind-energy-oil-executives.html",
+      "date_iso": "2025-09-27T09:02:34+00:00",
+      "source": "https://www.nytimes.com/2025/09/27/business/energy-environment/oil-gas-trump-offshore-wind.html",
+      "summary": "Parts for the construction of Revolution Wind, a wind farm off the coast of Rhode Island that was among the projects threatened by the Trump administration."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45393842",
+      "title": "Typst: A Possible LaTeX Replacement",
+      "slug": "2025-09-27-typst-a-possible-latex-replacement.html",
+      "path": "posts/2025-09-27-typst-a-possible-latex-replacement.html",
+      "date_iso": "2025-09-27T07:31:39+00:00",
+      "source": "https://lwn.net/Articles/1037577/",
+      "summary": "Article URL: https://lwn.net/Articles/1037577/ Comments URL: https://news.ycombinator.com/item?id=45393842 Points: 674 # Comments: 329"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45392922",
       "title": "Why Today's Humanoids Won't Learn Dexterity",
       "slug": "2025-09-27-why-today-s-humanoids-won-t-learn-dexterity.html",
