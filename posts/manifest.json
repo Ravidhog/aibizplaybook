@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45410940",
+      "title": "What is \"good taste\" in software engineering?",
+      "slug": "2025-09-29-what-is-good-taste-in-software-engineering.html",
+      "path": "posts/2025-09-29-what-is-good-taste-in-software-engineering.html",
+      "date_iso": "2025-09-29T06:41:27+00:00",
+      "source": "https://www.seangoedecke.com/taste/",
+      "summary": "Article URL: https://www.seangoedecke.com/taste/ Comments URL: https://news.ycombinator.com/item?id=45410940 Points: 8 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45410155",
+      "title": "Zero ASIC releases Wildebeest, the highest performance FPGA synthesis tool",
+      "slug": "2025-09-29-zero-asic-releases-wildebeest-the-highest-performance-fpga-synthesis-tool.html",
+      "path": "posts/2025-09-29-zero-asic-releases-wildebeest-the-highest-performance-fpga-synthesis-tool.html",
+      "date_iso": "2025-09-29T03:45:40+00:00",
+      "source": "https://www.zeroasic.com/blog/wildebeest-launch",
+      "summary": "Article URL: https://www.zeroasic.com/blog/wildebeest-launch Comments URL: https://news.ycombinator.com/item?id=45410155 Points: 80 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45410134",
+      "title": "High-Level Synthesis Synthesis",
+      "slug": "2025-09-29-high-level-synthesis-synthesis.html",
+      "path": "posts/2025-09-29-high-level-synthesis-synthesis.html",
+      "date_iso": "2025-09-29T03:42:12+00:00",
+      "source": "https://stefanabikaram.com/writing/hls-synthesis/",
+      "summary": "Article URL: https://stefanabikaram.com/writing/hls-synthesis/ Comments URL: https://news.ycombinator.com/item?id=45410134 Points: 13 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45409914",
+      "title": "The elusive roots of rosin potatoes (2022)",
+      "slug": "2025-09-29-the-elusive-roots-of-rosin-potatoes-2022.html",
+      "path": "posts/2025-09-29-the-elusive-roots-of-rosin-potatoes-2022.html",
+      "date_iso": "2025-09-29T02:41:18+00:00",
+      "source": "https://bittersoutherner.com/feature/2022/the-elusive-roots-of-rosin-potatoes",
+      "summary": "Article URL: https://bittersoutherner.com/feature/2022/the-elusive-roots-of-rosin-potatoes Comments URL: https://news.ycombinator.com/item?id=45409914 Points: 11 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45409794",
+      "title": "F-Droid and Google’s developer registration decree",
+      "slug": "2025-09-29-f-droid-and-google-s-developer-registration-decree.html",
+      "path": "posts/2025-09-29-f-droid-and-google-s-developer-registration-decree.html",
+      "date_iso": "2025-09-29T02:10:20+00:00",
+      "source": "https://f-droid.org/2025/09/29/google-developer-registration-decree.html",
+      "summary": "Article URL: https://f-droid.org/2025/09/29/google-developer-registration-decree.html Comments URL: https://news.ycombinator.com/item?id=45409794 Points: 343 # Comments: 86"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45409552",
+      "title": "Primer on FedEx's Distribution Network (2024)",
+      "slug": "2025-09-29-primer-on-fedex-s-distribution-network-2024.html",
+      "path": "posts/2025-09-29-primer-on-fedex-s-distribution-network-2024.html",
+      "date_iso": "2025-09-29T01:18:14+00:00",
+      "source": "https://ontheseams.substack.com/p/a-brief-primer-on-fedexs-distribution",
+      "summary": "Article URL: https://ontheseams.substack.com/p/a-brief-primer-on-fedexs-distribution Comments URL: https://news.ycombinator.com/item?id=45409552 Points: 79 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45409526",
+      "title": "Cleaning house in Nx monorepo, how i removed unused deps safely",
+      "slug": "2025-09-29-cleaning-house-in-nx-monorepo-how-i-removed-unused-deps-safely.html",
+      "path": "posts/2025-09-29-cleaning-house-in-nx-monorepo-how-i-removed-unused-deps-safely.html",
+      "date_iso": "2025-09-29T01:12:45+00:00",
+      "source": "https://johnjames.blog/posts/cleaning-house-in-nx-monorepo-how-i-removed-120-unused-deps-safely",
+      "summary": "Article URL: https://johnjames.blog/posts/cleaning-house-in-nx-monorepo-how-i-removed-120-unused-deps-safely Comments URL: https://news.ycombinator.com/item?id=45409526 Points: 52 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45409519",
+      "title": "Show HN: Automatically set real iOS alarms for calendar events",
+      "slug": "2025-09-29-show-hn-automatically-set-real-ios-alarms-for-calendar-events.html",
+      "path": "posts/2025-09-29-show-hn-automatically-set-real-ios-alarms-for-calendar-events.html",
+      "date_iso": "2025-09-29T01:11:57+00:00",
+      "source": "https://apps.apple.com/us/app/reminders-alarms-beacon/id6752361800",
+      "summary": "I kept missing appointments and meetings because calendar notifications are too easy to ignore. Alarms, on the other hand, always break through silent mode/DND and force you to acknowledge them — but setting them manually every day was another chore. With iOS 26’s new AlarmKit,…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45408994",
+      "title": "Autism may be the price of human intelligence, linked to human brain evolution",
+      "slug": "2025-09-28-autism-may-be-the-price-of-human-intelligence-linked-to-human-brain-evolution.html",
+      "path": "posts/2025-09-28-autism-may-be-the-price-of-human-intelligence-linked-to-human-brain-evolution.html",
+      "date_iso": "2025-09-28T23:32:32+00:00",
+      "source": "https://academic.oup.com/mbe/article/42/9/msaf189/8245036?login=false",
+      "summary": "Article URL: https://academic.oup.com/mbe/article/42/9/msaf189/8245036?login=false Comments URL: https://news.ycombinator.com/item?id=45408994 Points: 157 # Comments: 105"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45408617",
+      "title": "Go ahead, write the “stupid” code",
+      "slug": "2025-09-28-go-ahead-write-the-stupid-code.html",
+      "path": "posts/2025-09-28-go-ahead-write-the-stupid-code.html",
+      "date_iso": "2025-09-28T22:20:59+00:00",
+      "source": "https://spikepuppet.io/posts/write-the-stupid-code/",
+      "summary": "Article URL: https://spikepuppet.io/posts/write-the-stupid-code/ Comments URL: https://news.ycombinator.com/item?id=45408617 Points: 112 # Comments: 65"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45408229",
+      "title": "Farewell friends",
+      "slug": "2025-09-28-farewell-friends.html",
+      "path": "posts/2025-09-28-farewell-friends.html",
+      "date_iso": "2025-09-28T21:31:10+00:00",
+      "source": "https://humbledollar.com/forum/farewell-friends/",
+      "summary": "Article URL: https://humbledollar.com/forum/farewell-friends/ Comments URL: https://news.ycombinator.com/item?id=45408229 Points: 233 # Comments: 45"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45408021",
+      "title": "Play snake in the URL address bar",
+      "slug": "2025-09-28-play-snake-in-the-url-address-bar.html",
+      "path": "posts/2025-09-28-play-snake-in-the-url-address-bar.html",
+      "date_iso": "2025-09-28T21:08:15+00:00",
+      "source": "https://demian.ferrei.ro/snake/",
+      "summary": "Article URL: https://demian.ferrei.ro/snake/ Comments URL: https://news.ycombinator.com/item?id=45408021 Points: 504 # Comments: 63"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45407951",
+      "title": "Roe (YC W24) Is Hiring",
+      "slug": "2025-09-28-roe-yc-w24-is-hiring.html",
+      "path": "posts/2025-09-28-roe-yc-w24-is-hiring.html",
+      "date_iso": "2025-09-28T21:00:07+00:00",
+      "source": "https://news.ycombinator.com/item?id=45407951",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=45407951 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45406911",
+      "title": "The QMA Singularity",
+      "slug": "2025-09-28-the-qma-singularity.html",
+      "path": "posts/2025-09-28-the-qma-singularity.html",
+      "date_iso": "2025-09-28T19:00:20+00:00",
+      "source": "https://scottaaronson.blog/?p=9183",
+      "summary": "Article URL: https://scottaaronson.blog/?p=9183 Comments URL: https://news.ycombinator.com/item?id=45406911 Points: 73 # Comments: 28"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45406109",
+      "title": "Bayesian Data Analysis, Third edition (2013) [pdf]",
+      "slug": "2025-09-28-bayesian-data-analysis-third-edition-2013-pdf.html",
+      "path": "posts/2025-09-28-bayesian-data-analysis-third-edition-2013-pdf.html",
+      "date_iso": "2025-09-28T17:23:21+00:00",
+      "source": "https://sites.stat.columbia.edu/gelman/book/BDA3.pdf",
+      "summary": "Article URL: https://sites.stat.columbia.edu/gelman/book/BDA3.pdf Comments URL: https://news.ycombinator.com/item?id=45406109 Points: 245 # Comments: 52"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45405177",
+      "title": "The AI coding trap",
+      "slug": "2025-09-28-the-ai-coding-trap.html",
+      "path": "posts/2025-09-28-the-ai-coding-trap.html",
+      "date_iso": "2025-09-28T15:43:33+00:00",
+      "source": "https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap",
+      "summary": "Article URL: https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap Comments URL: https://news.ycombinator.com/item?id=45405177 Points: 548 # Comments: 345"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45405175",
+      "title": "Scm2wasm: A Scheme to WASM compiler in 600 lines of C, making use of WASM GC",
+      "slug": "2025-09-28-scm2wasm-a-scheme-to-wasm-compiler-in-600-lines-of-c-making-use-of-wasm-gc.html",
+      "path": "posts/2025-09-28-scm2wasm-a-scheme-to-wasm-compiler-in-600-lines-of-c-making-use-of-wasm-gc.html",
+      "date_iso": "2025-09-28T15:43:25+00:00",
+      "source": "https://git.lain.faith/iitalics/scm2wasm",
+      "summary": "Article URL: https://git.lain.faith/iitalics/scm2wasm Comments URL: https://news.ycombinator.com/item?id=45405175 Points: 153 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45404667",
+      "title": "Show HN: Toolbrew – Free little tools without signups or ads",
+      "slug": "2025-09-28-show-hn-toolbrew-free-little-tools-without-signups-or-ads.html",
+      "path": "posts/2025-09-28-show-hn-toolbrew-free-little-tools-without-signups-or-ads.html",
+      "date_iso": "2025-09-28T14:40:46+00:00",
+      "source": "https://toolbrew.co/",
+      "summary": "I got tired of fighting through spammy tool sites just to do something simple, so I made Toolbrew in a few hours on Replit. Just a bunch of free little tools in one place. Text converters, SEO checks, video downloaders, that kind of stuff. No signups, no ads. If there is a tool…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45404022",
+      "title": "When I say “alphabetical order”, I mean “alphabetical order”",
+      "slug": "2025-09-28-when-i-say-alphabetical-order-i-mean-alphabetical-order.html",
+      "path": "posts/2025-09-28-when-i-say-alphabetical-order-i-mean-alphabetical-order.html",
+      "date_iso": "2025-09-28T13:00:16+00:00",
+      "source": "https://sebastiano.tronto.net/blog/2025-09-28-alphabetic-order/",
+      "summary": "Article URL: https://sebastiano.tronto.net/blog/2025-09-28-alphabetic-order/ Comments URL: https://news.ycombinator.com/item?id=45404022 Points: 448 # Comments: 270"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45404021",
+      "title": "Privacy Badger is a free browser extension made by EFF to stop spying",
+      "slug": "2025-09-28-privacy-badger-is-a-free-browser-extension-made-by-eff-to-stop-spying.html",
+      "path": "posts/2025-09-28-privacy-badger-is-a-free-browser-extension-made-by-eff-to-stop-spying.html",
+      "date_iso": "2025-09-28T12:59:54+00:00",
+      "source": "https://privacybadger.org/",
+      "summary": "Article URL: https://privacybadger.org/ Comments URL: https://news.ycombinator.com/item?id=45404021 Points: 678 # Comments: 264"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45401936",
       "title": "Linus Torvalds and the Supposedly \"Garbage Code\"",
       "slug": "2025-09-28-linus-torvalds-and-the-supposedly-garbage-code.html",
