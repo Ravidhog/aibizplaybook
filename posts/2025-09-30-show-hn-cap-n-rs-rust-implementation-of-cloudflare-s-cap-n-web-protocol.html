@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Cap'n-rs – Rust implementation of Cloudflare's Cap'n Web protocol</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Cap'n-rs – Rust implementation of Cloudflare's Cap'n Web protocol</h1>
+    <p><small>Published: 2025-09-30T02:13:00+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Last week Cloudflare released Cap'n Web [1], a schema-free capability-based RPC protocol. I built capn-rs this week - a Rust implementation with full wire protocol compatibility.
+Links:<p>GitHub: <a href="https://github.com/currentspace/capn-rs" rel="nofollow">https://github.com/currentspace/capn-rs</a>
+Crates: <a href="https://crates.io/crates/capnweb-server" rel="nofollow">https://crates.io/crates/capnweb-server</a>
+API docs: <a href="https://docs.rs/capnweb-server" rel="nofollow">https://docs.rs/capnweb-server</a><p>What's working:<p>Wire compatibility verified via integration tests against TypeScript reference
+Multi-transport: HTTP batch, WebSocket, WebTransport (HTTP/3)
+Complete IL (intermediate language) expression evaluator
+Promise pipelining with dependency resolution
+Comprehensive test coverage<p>The interesting design challenge was mapping Cap'n Web's record-replay .map() semantics to Rust's type system while maintaining ergonomic APIs. Cap'n Web records operations on placeholder values to build execution plans - in Rust this became a clean builder pattern with type-level guarantees.
+Built this as an experiment with Claude Code for porting complex protocols. The AI handled mechanical translation well, but architectural decisions (especially around async/await patterns and lifetime management) required human judgment.
+This is early days - I'd especially appreciate feedback on API ergonomics and any edge cases I might have missed. Also happy to discuss the protocol design or the AI-assisted development experience.<p>[1] <a href="https://news.ycombinator.com/item?id=45332883">https://news.ycombinator.com/item?id=45332883</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45421221">https://news.ycombinator.com/item?id=45421221</a></p>
+<p>Points: 20</p>
+<p># Comments: 2</p>
+    <p><a href="https://github.com/currentspace/capn-rs" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

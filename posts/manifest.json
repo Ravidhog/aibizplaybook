@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45422514",
+      "title": "Geolocation and Starlink",
+      "slug": "2025-09-30-geolocation-and-starlink.html",
+      "path": "posts/2025-09-30-geolocation-and-starlink.html",
+      "date_iso": "2025-09-30T06:23:31+00:00",
+      "source": "https://www.potaroo.net/ispcol/2025-09/starlinkgeo.html",
+      "summary": "Article URL: https://www.potaroo.net/ispcol/2025-09/starlinkgeo.html Comments URL: https://news.ycombinator.com/item?id=45422514 Points: 17 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45422353",
+      "title": "The ABS Programming Language",
+      "slug": "2025-09-30-the-abs-programming-language.html",
+      "path": "posts/2025-09-30-the-abs-programming-language.html",
+      "date_iso": "2025-09-30T05:53:25+00:00",
+      "source": "https://www.abs-lang.org/",
+      "summary": "Article URL: https://www.abs-lang.org/ Comments URL: https://news.ycombinator.com/item?id=45422353 Points: 6 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45422273",
+      "title": "People may age faster if their dad smoked during puberty",
+      "slug": "2025-09-30-people-may-age-faster-if-their-dad-smoked-during-puberty.html",
+      "path": "posts/2025-09-30-people-may-age-faster-if-their-dad-smoked-during-puberty.html",
+      "date_iso": "2025-09-30T05:40:02+00:00",
+      "source": "https://www.ersnet.org/news-and-features/news/people-may-age-faster-if-their-dad-smoked-during-puberty/",
+      "summary": "Article URL: https://www.ersnet.org/news-and-features/news/people-may-age-faster-if-their-dad-smoked-during-puberty/ Comments URL: https://news.ycombinator.com/item?id=45422273 Points: 4 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45421812",
+      "title": "AI tools I wish existed",
+      "slug": "2025-09-30-ai-tools-i-wish-existed.html",
+      "path": "posts/2025-09-30-ai-tools-i-wish-existed.html",
+      "date_iso": "2025-09-30T04:14:13+00:00",
+      "source": "https://sharif.io/28-ideas-2025",
+      "summary": "Article URL: https://sharif.io/28-ideas-2025 Comments URL: https://news.ycombinator.com/item?id=45421812 Points: 89 # Comments: 62"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/29/technology/youtube-trump-lawsuit-settlement.html",
+      "title": "YouTube Settles Trump Lawsuit Over Account Suspension for $24.5 Million",
+      "slug": "2025-09-30-youtube-settles-trump-lawsuit-over-account-suspension-for-24-5-million.html",
+      "path": "posts/2025-09-30-youtube-settles-trump-lawsuit-over-account-suspension-for-24-5-million.html",
+      "date_iso": "2025-09-30T03:49:05+00:00",
+      "source": "https://www.nytimes.com/2025/09/29/technology/youtube-trump-lawsuit-settlement.html",
+      "summary": "YouTube suspended President Trump’s account after the events of Jan. 6, 2021."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45421302",
+      "title": "Show HN: Devbox – Containers for better dev environments",
+      "slug": "2025-09-30-show-hn-devbox-containers-for-better-dev-environments.html",
+      "path": "posts/2025-09-30-show-hn-devbox-containers-for-better-dev-environments.html",
+      "date_iso": "2025-09-30T02:26:39+00:00",
+      "source": "https://devbox.ar0.eu/",
+      "summary": "I've been frustrated with dependency hell and clutter on my VPS from dev, so I built Devbox: a lightweight, open-source CLI tool that spins up isolated development environments using Docker. Each project runs in its own container, but your code stays in simple flat folders on th…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45421221",
+      "title": "Show HN: Cap'n-rs – Rust implementation of Cloudflare's Cap'n Web protocol",
+      "slug": "2025-09-30-show-hn-cap-n-rs-rust-implementation-of-cloudflare-s-cap-n-web-protocol.html",
+      "path": "posts/2025-09-30-show-hn-cap-n-rs-rust-implementation-of-cloudflare-s-cap-n-web-protocol.html",
+      "date_iso": "2025-09-30T02:13:00+00:00",
+      "source": "https://github.com/currentspace/capn-rs",
+      "summary": "Last week Cloudflare released Cap'n Web [1], a schema-free capability-based RPC protocol. I built capn-rs this week - a Rust implementation with full wire protocol compatibility. Links: GitHub: https://github.com/currentspace/capn-rs Crates: https://crates.io/crates/capnweb-serv…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45421067",
+      "title": "Awakening Bell",
+      "slug": "2025-09-30-awakening-bell.html",
+      "path": "posts/2025-09-30-awakening-bell.html",
+      "date_iso": "2025-09-30T01:46:02+00:00",
+      "source": "https://awakeningbell.org/",
+      "summary": "Article URL: https://awakeningbell.org/ Comments URL: https://news.ycombinator.com/item?id=45421067 Points: 32 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45420327",
+      "title": "FAA is granting Boeing “limited delegation” to certify airworthiness",
+      "slug": "2025-09-29-faa-is-granting-boeing-limited-delegation-to-certify-airworthiness.html",
+      "path": "posts/2025-09-29-faa-is-granting-boeing-limited-delegation-to-certify-airworthiness.html",
+      "date_iso": "2025-09-29T23:56:31+00:00",
+      "source": "https://www.theregister.com/2025/09/29/faa_decides_it_trusts_boeing/",
+      "summary": "Article URL: https://www.theregister.com/2025/09/29/faa_decides_it_trusts_boeing/ Comments URL: https://news.ycombinator.com/item?id=45420327 Points: 163 # Comments: 69"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45420173",
+      "title": "How to create an OS from scratch",
+      "slug": "2025-09-29-how-to-create-an-os-from-scratch.html",
+      "path": "posts/2025-09-29-how-to-create-an-os-from-scratch.html",
+      "date_iso": "2025-09-29T23:32:10+00:00",
+      "source": "https://github.com/cfenollosa/os-tutorial",
+      "summary": "Article URL: https://github.com/cfenollosa/os-tutorial Comments URL: https://news.ycombinator.com/item?id=45420173 Points: 104 # Comments: 38"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45420001",
+      "title": "Safe zero-copy operations in C#",
+      "slug": "2025-09-29-safe-zero-copy-operations-in-c.html",
+      "path": "posts/2025-09-29-safe-zero-copy-operations-in-c.html",
+      "date_iso": "2025-09-29T23:12:36+00:00",
+      "source": "https://ssg.dev/safe-zero-copy-operations-in-c/",
+      "summary": "Article URL: https://ssg.dev/safe-zero-copy-operations-in-c/ Comments URL: https://news.ycombinator.com/item?id=45420001 Points: 90 # Comments: 18"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/29/technology/california-ai-safety-law.html",
+      "title": "California’s Gavin Newsom Signs Major AI Safety Law",
+      "slug": "2025-09-29-california-s-gavin-newsom-signs-major-ai-safety-law.html",
+      "path": "posts/2025-09-29-california-s-gavin-newsom-signs-major-ai-safety-law.html",
+      "date_iso": "2025-09-29T22:27:54+00:00",
+      "source": "https://www.nytimes.com/2025/09/29/technology/california-ai-safety-law.html",
+      "summary": "The closely watched California law signed today by California Governor Gavin Newsom will escalate the tech industry’s war against state A.I. laws."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45418875",
+      "title": "Jax: Fast Combinations Calculation",
+      "slug": "2025-09-29-jax-fast-combinations-calculation.html",
+      "path": "posts/2025-09-29-jax-fast-combinations-calculation.html",
+      "date_iso": "2025-09-29T21:17:16+00:00",
+      "source": "https://github.com/phoenicyan/combinadics",
+      "summary": "Article URL: https://github.com/phoenicyan/combinadics Comments URL: https://news.ycombinator.com/item?id=45418875 Points: 50 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45418675",
+      "title": "Ask HN: What are you working on? (September 2025)",
+      "slug": "2025-09-29-ask-hn-what-are-you-working-on-september-2025.html",
+      "path": "posts/2025-09-29-ask-hn-what-are-you-working-on-september-2025.html",
+      "date_iso": "2025-09-29T20:58:11+00:00",
+      "source": "https://news.ycombinator.com/item?id=45418675",
+      "summary": "What are you working on? Any new ideas that you're thinking about? Comments URL: https://news.ycombinator.com/item?id=45418675 Points: 175 # Comments: 521"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45418428",
+      "title": "California governor signs AI transparency bill into law",
+      "slug": "2025-09-29-california-governor-signs-ai-transparency-bill-into-law.html",
+      "path": "posts/2025-09-29-california-governor-signs-ai-transparency-bill-into-law.html",
+      "date_iso": "2025-09-29T20:33:14+00:00",
+      "source": "https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry/",
+      "summary": "https://sb53.info/ Comments URL: https://news.ycombinator.com/item?id=45418428 Points: 272 # Comments: 168"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45418261",
+      "title": "iRobot Founder: Don't Believe the AI and Robotics Hype",
+      "slug": "2025-09-29-irobot-founder-don-t-believe-the-ai-and-robotics-hype.html",
+      "path": "posts/2025-09-29-irobot-founder-don-t-believe-the-ai-and-robotics-hype.html",
+      "date_iso": "2025-09-29T20:19:08+00:00",
+      "source": "https://crazystupidtech.com/2025/09/29/irobot-founder-dont-believe-the-ai-robotics-hype/",
+      "summary": "Article URL: https://crazystupidtech.com/2025/09/29/irobot-founder-dont-believe-the-ai-robotics-hype/ Comments URL: https://news.ycombinator.com/item?id=45418261 Points: 98 # Comments: 44"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45417637",
+      "title": "Don't Become a Scientist (1999)",
+      "slug": "2025-09-29-don-t-become-a-scientist-1999.html",
+      "path": "posts/2025-09-29-don-t-become-a-scientist-1999.html",
+      "date_iso": "2025-09-29T19:16:40+00:00",
+      "source": "https://yangxiao.cs.ua.edu/Don%27t%20Become%20a%20Scientist!.htm",
+      "summary": "Article URL: https://yangxiao.cs.ua.edu/Don%27t%20Become%20a%20Scientist!.htm Comments URL: https://news.ycombinator.com/item?id=45417637 Points: 84 # Comments: 74"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/29/business/dealbook/electronic-arts-buyout-jared-kushner.html",
+      "title": "$55 Billion Deal for Electronic Arts Is Biggest Buyout Ever",
+      "slug": "2025-09-29-55-billion-deal-for-electronic-arts-is-biggest-buyout-ever.html",
+      "path": "posts/2025-09-29-55-billion-deal-for-electronic-arts-is-biggest-buyout-ever.html",
+      "date_iso": "2025-09-29T17:58:11+00:00",
+      "source": "https://www.nytimes.com/2025/09/29/business/dealbook/electronic-arts-buyout-jared-kushner.html",
+      "summary": "An Electronic Arts office in Los Angeles. The company makes popular video games such as Madden N.F.L. and Battlefield."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45416228",
+      "title": "Claude Code 2.0",
+      "slug": "2025-09-29-claude-code-2-0.html",
+      "path": "posts/2025-09-29-claude-code-2-0.html",
+      "date_iso": "2025-09-29T17:12:13+00:00",
+      "source": "https://www.npmjs.com/package/@anthropic-ai/claude-code",
+      "summary": "Article URL: https://www.npmjs.com/package/@anthropic-ai/claude-code Comments URL: https://news.ycombinator.com/item?id=45416228 Points: 656 # Comments: 259"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45416080",
+      "title": "Instant Checkout and the Agentic Commerce Protocol",
+      "slug": "2025-09-29-instant-checkout-and-the-agentic-commerce-protocol.html",
+      "path": "posts/2025-09-29-instant-checkout-and-the-agentic-commerce-protocol.html",
+      "date_iso": "2025-09-29T17:00:42+00:00",
+      "source": "https://openai.com/index/buy-it-in-chatgpt/",
+      "summary": "Agentic Commerce Protocol: https://www.agenticcommerce.dev/ , ChatGPT Page: https://chatgpt.com/merchants , Stripe post: https://stripe.com/blog/developing-an-open-standard-for-agen... Comments URL: https://news.ycombinator.com/item?id=45416080 Points: 198 # Comments: 293"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45415962",
+      "title": "Claude Sonnet 4.5",
+      "slug": "2025-09-29-claude-sonnet-4-5.html",
+      "path": "posts/2025-09-29-claude-sonnet-4-5.html",
+      "date_iso": "2025-09-29T16:52:59+00:00",
+      "source": "https://www.anthropic.com/news/claude-sonnet-4-5",
+      "summary": "System card: https://assets.anthropic.com/m/12f214efcc2f457a/original/Cla... Comments URL: https://news.ycombinator.com/item?id=45415962 Points: 1266 # Comments: 650"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45415332",
+      "title": "Subtleties of SQLite Indexes",
+      "slug": "2025-09-29-subtleties-of-sqlite-indexes.html",
+      "path": "posts/2025-09-29-subtleties-of-sqlite-indexes.html",
+      "date_iso": "2025-09-29T15:54:42+00:00",
+      "source": "https://emschwartz.me/subtleties-of-sqlite-indexes/",
+      "summary": "Article URL: https://emschwartz.me/subtleties-of-sqlite-indexes/ Comments URL: https://news.ycombinator.com/item?id=45415332 Points: 107 # Comments: 50"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45415207",
+      "title": "Loadmo.re: design inspiration for unconventional web",
+      "slug": "2025-09-29-loadmo-re-design-inspiration-for-unconventional-web.html",
+      "path": "posts/2025-09-29-loadmo-re-design-inspiration-for-unconventional-web.html",
+      "date_iso": "2025-09-29T15:42:46+00:00",
+      "source": "https://loadmo.re",
+      "summary": "Article URL: https://loadmo.re Comments URL: https://news.ycombinator.com/item?id=45415207 Points: 322 # Comments: 46"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/29/world/americas/brazil-digital-payments.html",
+      "title": "Brazil’s Homegrown Payment System Is Target of Trump Administration",
+      "slug": "2025-09-29-brazil-s-homegrown-payment-system-is-target-of-trump-administration.html",
+      "path": "posts/2025-09-29-brazil-s-homegrown-payment-system-is-target-of-trump-administration.html",
+      "date_iso": "2025-09-29T15:10:41+00:00",
+      "source": "https://www.nytimes.com/2025/09/29/world/americas/brazil-digital-payments.html",
+      "summary": "Brazil’s fast and free homegrown digital payment system, PIX, has become wildly popular. The Trump administration says it unfairly undercuts U.S. companies."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/29/business/electric-vehicles-federal-tax-credit.html",
+      "title": "Electric Vehicles Face a ‘Pretty Dreadful Year’ in the U.S.",
+      "slug": "2025-09-29-electric-vehicles-face-a-pretty-dreadful-year-in-the-u-s.html",
+      "path": "posts/2025-09-29-electric-vehicles-face-a-pretty-dreadful-year-in-the-u-s.html",
+      "date_iso": "2025-09-29T09:02:45+00:00",
+      "source": "https://www.nytimes.com/2025/09/29/business/electric-vehicles-federal-tax-credit.html",
+      "summary": "A Tesla dealership in Mill Valley, Calif. Electric vehicle sales are expected to plummet as a result of policy changes made by President Trump and Republicans in Congress who have long opposed subsidies."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45410940",
       "title": "What is \"good taste\" in software engineering?",
       "slug": "2025-09-29-what-is-good-taste-in-software-engineering.html",
