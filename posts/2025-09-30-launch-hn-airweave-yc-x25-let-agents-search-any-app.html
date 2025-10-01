@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Launch HN: Airweave (YC X25) – Let agents search any app</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Launch HN: Airweave (YC X25) – Let agents search any app</h1>
+    <p><small>Published: 2025-09-30T16:21:09+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hey HN, we’re Lennert and Rauf. We’re building Airweave (<a href="https://airweave.ai/">https://airweave.ai/</a>), an open-source tool that lets AI agents search and retrieve context from your existing apps and databases through a single LLM-friendly API (or an MCP server, if that’s your thing). Our Github is at <a href="https://github.com/airweave-ai/airweave" rel="nofollow">https://github.com/airweave-ai/airweave</a>. We previously did a Show HN <a href="https://news.ycombinator.com/item?id=43964201">https://news.ycombinator.com/item?id=43964201</a> and since then we’ve recently launched the managed service and new search functionality.<p>Here’s an example of Cursor using Airweave <a href="https://www.youtube.com/watch?v=IvxidK9Ciy4" rel="nofollow">https://www.youtube.com/watch?v=IvxidK9Ciy4</a>. And here’s a general example of our new search functionality: <a href="https://www.youtube.com/watch?v=iqEqc_iGUO8" rel="nofollow">https://www.youtube.com/watch?v=iqEqc_iGUO8</a><p>We came to this problem while building agentic applications for webshop owners and customer service, and noticing most failure modes weren’t about tool execution, but finding the right internal context to enable the right actions.<p>We started solving, what seemed at the time, a problem for our own use case, and quickly fell into a rabbithole of issues. Company and user data lives across SaaS and databases; it’s sparse, messy, and constantly changing. Agents need a data orchestration and retrieval layer that accepts free-form natural language queries and returns actionable results quickly.<p>Simply pointing an agent at an MCP server does not equate to fine-grained search functionality or deep understanding of the underlying resource. Most MCP servers are thin wrappers that expose an existing API in a more LLM-friendly way, but this doesn’t actually give the agent any new capabilities beyond what the resource or app already offered. Specifically, it doesn’t give the agent a way to thoroughly search and understand the contents of the resource.<p>Airweave connects to sources via their APIs, crawls and normalizes content, chunks it, extracts entity relationships, and indexes the chunks in a vector store alongside keyword fields and lightweight graph metadata in Postgres. Data sync is orchestrated with Temporal (handles pagination/rate limits, schedules, and change detection via timestamps and content hashes) so collections stay close to real-time with their sources.<p>On retrieval, Airweave can run semantic and BM25 keyword search in parallel, fuse results (RRF), apply recency bias, and re-rank. Agents can fetch ranked chunks with citations or ask for a synthesized answer. The same interface is exposed via REST, Python/TS SDKs, and MCP so agents can discover it like any other tool.<p>It’s been fun to see what users have built with Airweave; from legal AI assistants to research discovery agents and context augmentation for coding agents. We’re currently experimenting with agentic search patterns, layering different types of enrichment and indexing, RBAC on indexed data, and streaming architectures.<p>If this is interesting to you, feel free to take it for a spin. Curious to hear your thoughts and feedback on the problem and our solution!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45427482">https://news.ycombinator.com/item?id=45427482</a></p>
+<p>Points: 143</p>
+<p># Comments: 22</p>
+    <p><a href="https://github.com/airweave-ai/airweave" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

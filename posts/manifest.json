@@ -1,6 +1,222 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45435100",
+      "title": "Type Theory and Functional Programming (1999) [pdf]",
+      "slug": "2025-10-01-type-theory-and-functional-programming-1999-pdf.html",
+      "path": "posts/2025-10-01-type-theory-and-functional-programming-1999-pdf.html",
+      "date_iso": "2025-10-01T07:00:21+00:00",
+      "source": "https://www.cs.cornell.edu/courses/cs6110/2015sp/textbook/Simon%20Thompson%20textbook.pdf",
+      "summary": "Article URL: https://www.cs.cornell.edu/courses/cs6110/2015sp/textbook/Simon%20Thompson%20textbook.pdf Comments URL: https://news.ycombinator.com/item?id=45435100 Points: 7 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45434941",
+      "title": "High-resolution efficient image generation from WiFi Mapping",
+      "slug": "2025-10-01-high-resolution-efficient-image-generation-from-wifi-mapping.html",
+      "path": "posts/2025-10-01-high-resolution-efficient-image-generation-from-wifi-mapping.html",
+      "date_iso": "2025-10-01T06:33:02+00:00",
+      "source": "https://arxiv.org/abs/2506.10605",
+      "summary": "Article URL: https://arxiv.org/abs/2506.10605 Comments URL: https://news.ycombinator.com/item?id=45434941 Points: 5 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45434779",
+      "title": "The god mode vulnerability that should kill \"Trust Microsoft\" forever",
+      "slug": "2025-10-01-the-god-mode-vulnerability-that-should-kill-trust-microsoft-forever.html",
+      "path": "posts/2025-10-01-the-god-mode-vulnerability-that-should-kill-trust-microsoft-forever.html",
+      "date_iso": "2025-10-01T06:06:24+00:00",
+      "source": "https://tide.org/blog/god-mode-vulnerability-microsoft-authorityless-security",
+      "summary": "Article URL: https://tide.org/blog/god-mode-vulnerability-microsoft-authorityless-security Comments URL: https://news.ycombinator.com/item?id=45434779 Points: 31 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45434417",
+      "title": "Intelligent Kubernetes Load Balancing at Databricks",
+      "slug": "2025-10-01-intelligent-kubernetes-load-balancing-at-databricks.html",
+      "path": "posts/2025-10-01-intelligent-kubernetes-load-balancing-at-databricks.html",
+      "date_iso": "2025-10-01T05:06:38+00:00",
+      "source": "https://www.databricks.com/blog/intelligent-kubernetes-load-balancing-databricks",
+      "summary": "Article URL: https://www.databricks.com/blog/intelligent-kubernetes-load-balancing-databricks Comments URL: https://news.ycombinator.com/item?id=45434417 Points: 30 # Comments: 7"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/01/world/asia/china-tech-trade.html",
+      "title": "China Displays Its Gizmos and Ambition, but Fewer Answers on Trade",
+      "slug": "2025-10-01-china-displays-its-gizmos-and-ambition-but-fewer-answers-on-trade.html",
+      "path": "posts/2025-10-01-china-displays-its-gizmos-and-ambition-but-fewer-answers-on-trade.html",
+      "date_iso": "2025-10-01T04:00:09+00:00",
+      "source": "https://www.nytimes.com/2025/10/01/world/asia/china-tech-trade.html",
+      "summary": "Robots boxing at the Global Digital Trade Expo in Hangzhou, China, on Friday."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/30/technology/uber-sexual-assualt-bellwether-lawsuit.html",
+      "title": "Uber Not Responsible for Sex Assault, Jury Finds, as More Cases Follow",
+      "slug": "2025-10-01-uber-not-responsible-for-sex-assault-jury-finds-as-more-cases-follow.html",
+      "path": "posts/2025-10-01-uber-not-responsible-for-sex-assault-jury-finds-as-more-cases-follow.html",
+      "date_iso": "2025-10-01T03:20:00+00:00",
+      "source": "https://www.nytimes.com/2025/09/30/technology/uber-sexual-assualt-bellwether-lawsuit.html",
+      "summary": "A central question in the cases against Uber is whether it is liable for the transgressions of its drivers."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45433926",
+      "title": "Blockdiff: We built our own file format for VM disk snapshots",
+      "slug": "2025-10-01-blockdiff-we-built-our-own-file-format-for-vm-disk-snapshots.html",
+      "path": "posts/2025-10-01-blockdiff-we-built-our-own-file-format-for-vm-disk-snapshots.html",
+      "date_iso": "2025-10-01T03:13:16+00:00",
+      "source": "https://cognition.ai/blog/blockdiff",
+      "summary": "Article URL: https://cognition.ai/blog/blockdiff Comments URL: https://news.ycombinator.com/item?id=45433926 Points: 29 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45433866",
+      "title": "The gaslit asset class",
+      "slug": "2025-10-01-the-gaslit-asset-class.html",
+      "path": "posts/2025-10-01-the-gaslit-asset-class.html",
+      "date_iso": "2025-10-01T02:59:28+00:00",
+      "source": "https://blog.dshr.org/2025/09/the-gaslit-asset-class.html",
+      "summary": "Article URL: https://blog.dshr.org/2025/09/the-gaslit-asset-class.html Comments URL: https://news.ycombinator.com/item?id=45433866 Points: 96 # Comments: 48"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45433768",
+      "title": "CDC File Transfer",
+      "slug": "2025-10-01-cdc-file-transfer.html",
+      "path": "posts/2025-10-01-cdc-file-transfer.html",
+      "date_iso": "2025-10-01T02:38:18+00:00",
+      "source": "https://github.com/google/cdc-file-transfer",
+      "summary": "Article URL: https://github.com/google/cdc-file-transfer Comments URL: https://news.ycombinator.com/item?id=45433768 Points: 168 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45432977",
+      "title": "Rio Terminal: A hardware-accelerated GPU terminal emulator",
+      "slug": "2025-10-01-rio-terminal-a-hardware-accelerated-gpu-terminal-emulator.html",
+      "path": "posts/2025-10-01-rio-terminal-a-hardware-accelerated-gpu-terminal-emulator.html",
+      "date_iso": "2025-10-01T00:29:33+00:00",
+      "source": "https://rioterm.com/",
+      "summary": "Article URL: https://rioterm.com/ Comments URL: https://news.ycombinator.com/item?id=45432977 Points: 49 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45431271",
+      "title": "Introduction to Multi-Armed Bandits (2019)",
+      "slug": "2025-09-30-introduction-to-multi-armed-bandits-2019.html",
+      "path": "posts/2025-09-30-introduction-to-multi-armed-bandits-2019.html",
+      "date_iso": "2025-09-30T21:08:28+00:00",
+      "source": "https://arxiv.org/abs/1904.07272",
+      "summary": "Article URL: https://arxiv.org/abs/1904.07272 Comments URL: https://news.ycombinator.com/item?id=45431271 Points: 99 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45431167",
+      "title": "Mind the encryptionroot: How to save your data when ZFS loses its mind",
+      "slug": "2025-09-30-mind-the-encryptionroot-how-to-save-your-data-when-zfs-loses-its-mind.html",
+      "path": "posts/2025-09-30-mind-the-encryptionroot-how-to-save-your-data-when-zfs-loses-its-mind.html",
+      "date_iso": "2025-09-30T20:58:52+00:00",
+      "source": "https://sambowman.tech/blog/posts/mind-the-encryptionroot-how-to-save-your-data-when-zfs-loses-its-mind/",
+      "summary": "Article URL: https://sambowman.tech/blog/posts/mind-the-encryptionroot-how-to-save-your-data-when-zfs-loses-its-mind/ Comments URL: https://news.ycombinator.com/item?id=45431167 Points: 98 # Comments: 31"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45431001",
+      "title": "Atuin Desktop: Runbooks That Run – Now Open Source",
+      "slug": "2025-09-30-atuin-desktop-runbooks-that-run-now-open-source.html",
+      "path": "posts/2025-09-30-atuin-desktop-runbooks-that-run-now-open-source.html",
+      "date_iso": "2025-09-30T20:44:30+00:00",
+      "source": "https://blog.atuin.sh/atuin-desktop-open-source/",
+      "summary": "Article URL: https://blog.atuin.sh/atuin-desktop-open-source/ Comments URL: https://news.ycombinator.com/item?id=45431001 Points: 211 # Comments: 63"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45430604",
+      "title": "Diff Algorithms",
+      "slug": "2025-09-30-diff-algorithms.html",
+      "path": "posts/2025-09-30-diff-algorithms.html",
+      "date_iso": "2025-09-30T20:09:44+00:00",
+      "source": "https://flo.znkr.io/diff/",
+      "summary": "Article URL: https://flo.znkr.io/diff/ Comments URL: https://news.ycombinator.com/item?id=45430604 Points: 194 # Comments: 38"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45430542",
+      "title": "Organize your Slack channels by \"How Often\", not \"What\"",
+      "slug": "2025-09-30-organize-your-slack-channels-by-how-often-not-what.html",
+      "path": "posts/2025-09-30-organize-your-slack-channels-by-how-often-not-what.html",
+      "date_iso": "2025-09-30T20:04:46+00:00",
+      "source": "https://aggressivelyparaphrasing.me/2025/09/30/organize-your-slack-channels-by-how-often-not-what/",
+      "summary": "Article URL: https://aggressivelyparaphrasing.me/2025/09/30/organize-your-slack-channels-by-how-often-not-what/ Comments URL: https://news.ycombinator.com/item?id=45430542 Points: 88 # Comments: 46"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45430498",
+      "title": "Inflammation now predicts heart disease more strongly than cholesterol",
+      "slug": "2025-09-30-inflammation-now-predicts-heart-disease-more-strongly-than-cholesterol.html",
+      "path": "posts/2025-09-30-inflammation-now-predicts-heart-disease-more-strongly-than-cholesterol.html",
+      "date_iso": "2025-09-30T20:00:21+00:00",
+      "source": "https://www.empirical.health/blog/inflammation-and-heart-health/",
+      "summary": "Article URL: https://www.empirical.health/blog/inflammation-and-heart-health/ Comments URL: https://news.ycombinator.com/item?id=45430498 Points: 471 # Comments: 250"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45428482",
+      "title": "Boeing has started working on a 737 MAX replacement",
+      "slug": "2025-09-30-boeing-has-started-working-on-a-737-max-replacement.html",
+      "path": "posts/2025-09-30-boeing-has-started-working-on-a-737-max-replacement.html",
+      "date_iso": "2025-09-30T17:31:34+00:00",
+      "source": "https://www.wsj.com/business/airlines/boeing-has-started-working-on-a-737-max-replacement-40a110df",
+      "summary": "Alt links: https://finance.yahoo.com/news/boeing-reportedly-working-737... https://www.reuters.com/business/aerospace-defense/boeing-st... https://www.foxbusiness.com/markets/boeing-developing-new-si... Comments URL: https://news.ycombinator.com/item?id=45428482 Points: 233 # Co…"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/30/technology/ai-meta-google-openai-periodic.html",
+      "title": "Top A.I. Researchers Leave OpenAI, Google and Meta for New Start-Up",
+      "slug": "2025-09-30-top-a-i-researchers-leave-openai-google-and-meta-for-new-start-up.html",
+      "path": "posts/2025-09-30-top-a-i-researchers-leave-openai-google-and-meta-for-new-start-up.html",
+      "date_iso": "2025-09-30T17:04:21+00:00",
+      "source": "https://www.nytimes.com/2025/09/30/technology/ai-meta-google-openai-periodic.html",
+      "summary": "Ekin Dogus Cubuk, left, and Liam Fedus are the co-founders of the start-up Periodic Labs in San Francisco."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45427982",
+      "title": "Sora 2",
+      "slug": "2025-09-30-sora-2.html",
+      "path": "posts/2025-09-30-sora-2.html",
+      "date_iso": "2025-09-30T16:55:01+00:00",
+      "source": "https://openai.com/index/sora-2/",
+      "summary": "Video: https://www.youtube.com/watch?v=gzneGhpXwjU System card: https://openai.com/index/sora-2-system-card/ Comments URL: https://news.ycombinator.com/item?id=45427982 Points: 685 # Comments: 696"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45427482",
+      "title": "Launch HN: Airweave (YC X25) – Let agents search any app",
+      "slug": "2025-09-30-launch-hn-airweave-yc-x25-let-agents-search-any-app.html",
+      "path": "posts/2025-09-30-launch-hn-airweave-yc-x25-let-agents-search-any-app.html",
+      "date_iso": "2025-09-30T16:21:09+00:00",
+      "source": "https://github.com/airweave-ai/airweave",
+      "summary": "Hey HN, we’re Lennert and Rauf. We’re building Airweave ( https://airweave.ai/ ), an open-source tool that lets AI agents search and retrieve context from your existing apps and databases through a single LLM-friendly API (or an MCP server, if that’s your thing). Our Github is a…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45427197",
+      "title": "Leaked Apple M5 9 core Geekbench scores",
+      "slug": "2025-09-30-leaked-apple-m5-9-core-geekbench-scores.html",
+      "path": "posts/2025-09-30-leaked-apple-m5-9-core-geekbench-scores.html",
+      "date_iso": "2025-09-30T16:00:36+00:00",
+      "source": "https://browser.geekbench.com/v6/cpu/14173685",
+      "summary": "Article URL: https://browser.geekbench.com/v6/cpu/14173685 Comments URL: https://news.ycombinator.com/item?id=45427197 Points: 243 # Comments: 363"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45427059",
+      "title": "Random Attractors – Found using Lyapunov Exponents (2001)",
+      "slug": "2025-09-30-random-attractors-found-using-lyapunov-exponents-2001.html",
+      "path": "posts/2025-09-30-random-attractors-found-using-lyapunov-exponents-2001.html",
+      "date_iso": "2025-09-30T15:50:14+00:00",
+      "source": "https://paulbourke.net/fractals/lyapunov/",
+      "summary": "Article URL: https://paulbourke.net/fractals/lyapunov/ Comments URL: https://news.ycombinator.com/item?id=45427059 Points: 115 # Comments: 27"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45426680",
+      "title": "Designing agentic loops",
+      "slug": "2025-09-30-designing-agentic-loops.html",
+      "path": "posts/2025-09-30-designing-agentic-loops.html",
+      "date_iso": "2025-09-30T15:21:23+00:00",
+      "source": "https://simonwillison.net/2025/Sep/30/designing-agentic-loops/",
+      "summary": "Article URL: https://simonwillison.net/2025/Sep/30/designing-agentic-loops/ Comments URL: https://news.ycombinator.com/item?id=45426680 Points: 192 # Comments: 84"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/09/30/technology/chatgpt-teen-parental-controls-openai.html",
+      "title": "What We Know About ChatGPT’s New Parental Controls",
+      "slug": "2025-09-30-what-we-know-about-chatgpt-s-new-parental-controls.html",
+      "path": "posts/2025-09-30-what-we-know-about-chatgpt-s-new-parental-controls.html",
+      "date_iso": "2025-09-30T11:06:50+00:00",
+      "source": "https://www.nytimes.com/2025/09/30/technology/chatgpt-teen-parental-controls-openai.html",
+      "summary": "Large banners featuring ChatGPT ad campaigns aimed at students hang on the side of buildings in Chicago, in April."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45422514",
       "title": "Geolocation and Starlink",
       "slug": "2025-09-30-geolocation-and-starlink.html",
