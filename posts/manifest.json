@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45446263",
+      "title": "Typepad is closed for business",
+      "slug": "2025-10-02-typepad-is-closed-for-business.html",
+      "path": "posts/2025-10-02-typepad-is-closed-for-business.html",
+      "date_iso": "2025-10-02T04:14:34+00:00",
+      "source": "https://www.typepad.com",
+      "summary": "Article URL: https://www.typepad.com Comments URL: https://news.ycombinator.com/item?id=45446263 Points: 53 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45445260",
+      "title": "The biggest semantic mess in Futhark",
+      "slug": "2025-10-02-the-biggest-semantic-mess-in-futhark.html",
+      "path": "posts/2025-10-02-the-biggest-semantic-mess-in-futhark.html",
+      "date_iso": "2025-10-02T00:38:38+00:00",
+      "source": "https://futhark-lang.org/blog/2025-09-26-the-biggest-semantic-mess.html",
+      "summary": "Article URL: https://futhark-lang.org/blog/2025-09-26-the-biggest-semantic-mess.html Comments URL: https://news.ycombinator.com/item?id=45445260 Points: 48 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45445114",
+      "title": "Keyhive – Local-first access control",
+      "slug": "2025-10-02-keyhive-local-first-access-control.html",
+      "path": "posts/2025-10-02-keyhive-local-first-access-control.html",
+      "date_iso": "2025-10-02T00:12:35+00:00",
+      "source": "https://www.inkandswitch.com/keyhive/notebook/",
+      "summary": "Article URL: https://www.inkandswitch.com/keyhive/notebook/ Comments URL: https://news.ycombinator.com/item?id=45445114 Points: 77 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45444694",
+      "title": "Cormac McCarthy's personal library",
+      "slug": "2025-10-01-cormac-mccarthy-s-personal-library.html",
+      "path": "posts/2025-10-01-cormac-mccarthy-s-personal-library.html",
+      "date_iso": "2025-10-01T23:06:55+00:00",
+      "source": "https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/",
+      "summary": "Article URL: https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/ Comments URL: https://news.ycombinator.com/item?id=45444694 Points: 163 # Comments: 50"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45443462",
+      "title": "Edge264 – Minimalist, high-performance software decoder for H.264/AVC video",
+      "slug": "2025-10-01-edge264-minimalist-high-performance-software-decoder-for-h-264-avc-video.html",
+      "path": "posts/2025-10-01-edge264-minimalist-high-performance-software-decoder-for-h-264-avc-video.html",
+      "date_iso": "2025-10-01T21:00:18+00:00",
+      "source": "https://github.com/tvlabs/edge264",
+      "summary": "Article URL: https://github.com/tvlabs/edge264 Comments URL: https://news.ycombinator.com/item?id=45443462 Points: 112 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45443298",
+      "title": "The Company Man",
+      "slug": "2025-10-01-the-company-man.html",
+      "path": "posts/2025-10-01-the-company-man.html",
+      "date_iso": "2025-10-01T20:47:55+00:00",
+      "source": "https://www.lesswrong.com/posts/JH6tJhYpnoCfFqAct/the-company-man",
+      "summary": "Article URL: https://www.lesswrong.com/posts/JH6tJhYpnoCfFqAct/the-company-man Comments URL: https://news.ycombinator.com/item?id=45443298 Points: 143 # Comments: 57"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/01/business/snapchat-storage-fee.html",
+      "title": "Heaviest Users of Snapchat Will Face a Small Charge for Storage",
+      "slug": "2025-10-01-heaviest-users-of-snapchat-will-face-a-small-charge-for-storage.html",
+      "path": "posts/2025-10-01-heaviest-users-of-snapchat-will-face-a-small-charge-for-storage.html",
+      "date_iso": "2025-10-01T20:22:47+00:00",
+      "source": "https://www.nytimes.com/2025/10/01/business/snapchat-storage-fee.html",
+      "summary": "An ad for Snapchat outside Madison Square Garden in Manhattan in July."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45441222",
+      "title": "Increasing your practice surface area",
+      "slug": "2025-10-01-increasing-your-practice-surface-area.html",
+      "path": "posts/2025-10-01-increasing-your-practice-surface-area.html",
+      "date_iso": "2025-10-01T18:20:49+00:00",
+      "source": "https://www.indiehackers.com/post/lifestyle/increasing-your-practice-surface-area-agxYGi9bL0gd1WYYQZAu",
+      "summary": "Article URL: https://www.indiehackers.com/post/lifestyle/increasing-your-practice-surface-area-agxYGi9bL0gd1WYYQZAu Comments URL: https://news.ycombinator.com/item?id=45441222 Points: 106 # Comments: 56"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45441069",
+      "title": "Jane Goodall has died",
+      "slug": "2025-10-01-jane-goodall-has-died.html",
+      "path": "posts/2025-10-01-jane-goodall-has-died.html",
+      "date_iso": "2025-10-01T18:10:39+00:00",
+      "source": "https://www.latimes.com/obituaries/story/2025-10-01/jane-goodall-chimpanzees-dead",
+      "summary": "Article URL: https://www.latimes.com/obituaries/story/2025-10-01/jane-goodall-chimpanzees-dead Comments URL: https://news.ycombinator.com/item?id=45441069 Points: 1116 # Comments: 149"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45440571",
+      "title": "Don't avoid workplace politics",
+      "slug": "2025-10-01-don-t-avoid-workplace-politics.html",
+      "path": "posts/2025-10-01-don-t-avoid-workplace-politics.html",
+      "date_iso": "2025-10-01T17:36:43+00:00",
+      "source": "https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/",
+      "summary": "Article URL: https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/ Comments URL: https://news.ycombinator.com/item?id=45440571 Points: 402 # Comments: 213"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45440431",
+      "title": "OpenTSLM: Language models that understand time series",
+      "slug": "2025-10-01-opentslm-language-models-that-understand-time-series.html",
+      "path": "posts/2025-10-01-opentslm-language-models-that-understand-time-series.html",
+      "date_iso": "2025-10-01T17:25:33+00:00",
+      "source": "https://www.opentslm.com/",
+      "summary": "Paper: https://www.opentslm.com/OpenTSLM-whitepaper.pdf Repo: https://github.com/StanfordBDHG/OpenTSLM Foundation models excel at text, images, audio, and video, but lack temporal reasoning capabilities over time-series data streams that run the real world: vitals, prices, telem…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45439997",
+      "title": "The RAG Obituary: Killed by agents, buried by context windows",
+      "slug": "2025-10-01-the-rag-obituary-killed-by-agents-buried-by-context-windows.html",
+      "path": "posts/2025-10-01-the-rag-obituary-killed-by-agents-buried-by-context-windows.html",
+      "date_iso": "2025-10-01T16:51:58+00:00",
+      "source": "https://www.nicolasbustamante.com/p/the-rag-obituary-killed-by-agents",
+      "summary": "Article URL: https://www.nicolasbustamante.com/p/the-rag-obituary-killed-by-agents Comments URL: https://news.ycombinator.com/item?id=45439997 Points: 117 # Comments: 87"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45439670",
+      "title": "Gmail will no longer support checking emails from third-party accounts via POP",
+      "slug": "2025-10-01-gmail-will-no-longer-support-checking-emails-from-third-party-accounts-via-pop.html",
+      "path": "posts/2025-10-01-gmail-will-no-longer-support-checking-emails-from-third-party-accounts-via-pop.html",
+      "date_iso": "2025-10-01T16:25:58+00:00",
+      "source": "https://support.google.com/mail/answer/16604719?hl=en",
+      "summary": "Article URL: https://support.google.com/mail/answer/16604719?hl=en Comments URL: https://news.ycombinator.com/item?id=45439670 Points: 243 # Comments: 130"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45438704",
+      "title": "Long-distance and wide-area detection of gene expression in living bacteria",
+      "slug": "2025-10-01-long-distance-and-wide-area-detection-of-gene-expression-in-living-bacteria.html",
+      "path": "posts/2025-10-01-long-distance-and-wide-area-detection-of-gene-expression-in-living-bacteria.html",
+      "date_iso": "2025-10-01T15:15:44+00:00",
+      "source": "https://www.asimov.press/p/hyperspectral",
+      "summary": "Article URL: https://www.asimov.press/p/hyperspectral Comments URL: https://news.ycombinator.com/item?id=45438704 Points: 72 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45438503",
+      "title": "Ask HN: Who is hiring? (October 2025)",
+      "slug": "2025-10-01-ask-hn-who-is-hiring-october-2025.html",
+      "path": "posts/2025-10-01-ask-hn-who-is-hiring-october-2025.html",
+      "date_iso": "2025-10-01T15:01:06+00:00",
+      "source": "https://news.ycombinator.com/item?id=45438503",
+      "summary": "Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option. Please only post if you personally are part of the hiring company—no recruiting firms or job boards. One post per comp…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45438501",
+      "title": "Ask HN: Who wants to be hired? (October 2025)",
+      "slug": "2025-10-01-ask-hn-who-wants-to-be-hired-october-2025.html",
+      "path": "posts/2025-10-01-ask-hn-who-wants-to-be-hired-october-2025.html",
+      "date_iso": "2025-10-01T15:01:06+00:00",
+      "source": "https://news.ycombinator.com/item?id=45438501",
+      "summary": "Share your information if you are looking for work. Please use this format: Location: Remote: Willing to relocate: Technologies: Résumé/CV: Email: Please only post if you are personally looking for work. Agencies, recruiters, job boards, and so on, are off topic here. Readers: p…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45438496",
+      "title": "Building the heap: racking 30 petabytes of hard drives for pretraining",
+      "slug": "2025-10-01-building-the-heap-racking-30-petabytes-of-hard-drives-for-pretraining.html",
+      "path": "posts/2025-10-01-building-the-heap-racking-30-petabytes-of-hard-drives-for-pretraining.html",
+      "date_iso": "2025-10-01T15:00:41+00:00",
+      "source": "https://si.inc/posts/the-heap/",
+      "summary": "Article URL: https://si.inc/posts/the-heap/ Comments URL: https://news.ycombinator.com/item?id=45438496 Points: 305 # Comments: 224"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45438346",
+      "title": "Show HN: Autism Simulator",
+      "slug": "2025-10-01-show-hn-autism-simulator.html",
+      "path": "posts/2025-10-01-show-hn-autism-simulator.html",
+      "date_iso": "2025-10-01T14:48:31+00:00",
+      "source": "https://autism-simulator.vercel.app/",
+      "summary": "Hey all, I built this. It’s not trying to capture every autistic experience (that’d be impossible). It’s based on my own lived experience as well as that of friends on the spectrum. I'm trying to give people a feel for what masking, decision fatigue, and burnout can look like da…"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/01/technology/facebooks-political-ads-deepfakes-scams.html",
+      "title": "Spam and Scams Proliferate in Facebook’s Political Ads",
+      "slug": "2025-10-01-spam-and-scams-proliferate-in-facebook-s-political-ads.html",
+      "path": "posts/2025-10-01-spam-and-scams-proliferate-in-facebook-s-political-ads.html",
+      "date_iso": "2025-10-01T14:43:41+00:00",
+      "source": "https://www.nytimes.com/2025/10/01/technology/facebooks-political-ads-deepfakes-scams.html",
+      "summary": "A new analysis of political advertisers found that the platform profits from ads that include deepfakes and other content prohibited by its own policies."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45437893",
+      "title": "Unix philosophy and filesystem access makes Claude Code amazing",
+      "slug": "2025-10-01-unix-philosophy-and-filesystem-access-makes-claude-code-amazing.html",
+      "path": "posts/2025-10-01-unix-philosophy-and-filesystem-access-makes-claude-code-amazing.html",
+      "date_iso": "2025-10-01T14:05:45+00:00",
+      "source": "https://www.alephic.com/writing/the-magic-of-claude-code",
+      "summary": "Article URL: https://www.alephic.com/writing/the-magic-of-claude-code Comments URL: https://news.ycombinator.com/item?id=45437893 Points: 291 # Comments: 149"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45437759",
+      "title": "F3: Open-source data file format for the future [pdf]",
+      "slug": "2025-10-01-f3-open-source-data-file-format-for-the-future-pdf.html",
+      "path": "posts/2025-10-01-f3-open-source-data-file-format-for-the-future-pdf.html",
+      "date_iso": "2025-10-01T13:52:41+00:00",
+      "source": "https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf",
+      "summary": "Article URL: https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf Comments URL: https://news.ycombinator.com/item?id=45437759 Points: 126 # Comments: 53"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45435422",
+      "title": "Category Theory Illustrated – Natural Transformations",
+      "slug": "2025-10-01-category-theory-illustrated-natural-transformations.html",
+      "path": "posts/2025-10-01-category-theory-illustrated-natural-transformations.html",
+      "date_iso": "2025-10-01T08:00:30+00:00",
+      "source": "https://abuseofnotation.github.io/category-theory-illustrated/11_natural_transformations/",
+      "summary": "Article URL: https://abuseofnotation.github.io/category-theory-illustrated/11_natural_transformations/ Comments URL: https://news.ycombinator.com/item?id=45435422 Points: 189 # Comments: 74"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45435100",
       "title": "Type Theory and Functional Programming (1999) [pdf]",
       "slug": "2025-10-01-type-theory-and-functional-programming-1999-pdf.html",
