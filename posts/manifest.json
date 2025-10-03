@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45459233",
+      "title": "In Praise of RSS and Controlled Feeds of Information",
+      "slug": "2025-10-03-in-praise-of-rss-and-controlled-feeds-of-information.html",
+      "path": "posts/2025-10-03-in-praise-of-rss-and-controlled-feeds-of-information.html",
+      "date_iso": "2025-10-03T05:13:47+00:00",
+      "source": "https://blog.burkert.me/posts/in_praise_of_syndication/",
+      "summary": "Article URL: https://blog.burkert.me/posts/in_praise_of_syndication/ Comments URL: https://news.ycombinator.com/item?id=45459233 Points: 53 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45459214",
+      "title": "Japan's ruling party is in crisis as voters swing to right-wing rivals",
+      "slug": "2025-10-03-japan-s-ruling-party-is-in-crisis-as-voters-swing-to-right-wing-rivals.html",
+      "path": "posts/2025-10-03-japan-s-ruling-party-is-in-crisis-as-voters-swing-to-right-wing-rivals.html",
+      "date_iso": "2025-10-03T05:10:36+00:00",
+      "source": "https://www.cnn.com/2025/10/02/asia/japan-ruling-party-election-explainer-intl-hnk",
+      "summary": "Article URL: https://www.cnn.com/2025/10/02/asia/japan-ruling-party-election-explainer-intl-hnk Comments URL: https://news.ycombinator.com/item?id=45459214 Points: 31 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45458987",
+      "title": "'Western Qwen': IBM Wows with Granite 4 LLM Launch and Hybrid Mamba/Transformer",
+      "slug": "2025-10-03-western-qwen-ibm-wows-with-granite-4-llm-launch-and-hybrid-mamba-transformer.html",
+      "path": "posts/2025-10-03-western-qwen-ibm-wows-with-granite-4-llm-launch-and-hybrid-mamba-transformer.html",
+      "date_iso": "2025-10-03T04:26:49+00:00",
+      "source": "https://venturebeat.com/ai/western-qwen-ibm-wows-with-granite-4-llm-launch-and-hybrid-mamba-transformer",
+      "summary": "Article URL: https://venturebeat.com/ai/western-qwen-ibm-wows-with-granite-4-llm-launch-and-hybrid-mamba-transformer Comments URL: https://news.ycombinator.com/item?id=45458987 Points: 34 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45458948",
+      "title": "Fp8 runs ~100 tflops faster when the kernel name has \"cutlass\" in it",
+      "slug": "2025-10-03-fp8-runs-100-tflops-faster-when-the-kernel-name-has-cutlass-in-it.html",
+      "path": "posts/2025-10-03-fp8-runs-100-tflops-faster-when-the-kernel-name-has-cutlass-in-it.html",
+      "date_iso": "2025-10-03T04:21:23+00:00",
+      "source": "https://github.com/triton-lang/triton/pull/7298",
+      "summary": "Article URL: https://github.com/triton-lang/triton/pull/7298 Comments URL: https://news.ycombinator.com/item?id=45458948 Points: 94 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45458909",
+      "title": "Digital ID – The New Chains of Capitalist Surveillance",
+      "slug": "2025-10-03-digital-id-the-new-chains-of-capitalist-surveillance.html",
+      "path": "posts/2025-10-03-digital-id-the-new-chains-of-capitalist-surveillance.html",
+      "date_iso": "2025-10-03T04:15:41+00:00",
+      "source": "https://theslowburningfuse.wordpress.com/2025/09/26/digital-id-the-new-chains-of-capitalist-surveillance/",
+      "summary": "Article URL: https://theslowburningfuse.wordpress.com/2025/09/26/digital-id-the-new-chains-of-capitalist-surveillance/ Comments URL: https://news.ycombinator.com/item?id=45458909 Points: 34 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45458791",
+      "title": "Blender 4.5 brings big changes",
+      "slug": "2025-10-03-blender-4-5-brings-big-changes.html",
+      "path": "posts/2025-10-03-blender-4-5-brings-big-changes.html",
+      "date_iso": "2025-10-03T03:52:43+00:00",
+      "source": "https://lwn.net/Articles/1036262/",
+      "summary": "Article URL: https://lwn.net/Articles/1036262/ Comments URL: https://news.ycombinator.com/item?id=45458791 Points: 102 # Comments: 26"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/02/us/politics/apple-iceblock-app-store-trump.html",
+      "title": "Apple Takes Down ICE Tracking Apps Amid Trump Pressure Campaign",
+      "slug": "2025-10-03-apple-takes-down-ice-tracking-apps-amid-trump-pressure-campaign.html",
+      "path": "posts/2025-10-03-apple-takes-down-ice-tracking-apps-amid-trump-pressure-campaign.html",
+      "date_iso": "2025-10-03T03:47:17+00:00",
+      "source": "https://www.nytimes.com/2025/10/02/us/politics/apple-iceblock-app-store-trump.html",
+      "summary": "Apple has removed several apps that alert users to sightings of immigration agents from its app store."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45458550",
+      "title": "You Want Technology with Warts",
+      "slug": "2025-10-03-you-want-technology-with-warts.html",
+      "path": "posts/2025-10-03-you-want-technology-with-warts.html",
+      "date_iso": "2025-10-03T03:13:13+00:00",
+      "source": "https://entropicthoughts.com/you-want-technology-with-warts",
+      "summary": "Article URL: https://entropicthoughts.com/you-want-technology-with-warts Comments URL: https://news.ycombinator.com/item?id=45458550 Points: 50 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45458482",
+      "title": "Google Workspace Updates: Send Gmail end-to-end encrypted emails to anyone",
+      "slug": "2025-10-03-google-workspace-updates-send-gmail-end-to-end-encrypted-emails-to-anyone.html",
+      "path": "posts/2025-10-03-google-workspace-updates-send-gmail-end-to-end-encrypted-emails-to-anyone.html",
+      "date_iso": "2025-10-03T03:04:04+00:00",
+      "source": "https://workspaceupdates.googleblog.com/2025/10/send-gmail-end-to-end-encrypted-emails-in-gmail.html",
+      "summary": "Article URL: https://workspaceupdates.googleblog.com/2025/10/send-gmail-end-to-end-encrypted-emails-in-gmail.html Comments URL: https://news.ycombinator.com/item?id=45458482 Points: 21 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45458249",
+      "title": "Stdlib: A library of frameworks, templates, and guides for technical leadership",
+      "slug": "2025-10-03-stdlib-a-library-of-frameworks-templates-and-guides-for-technical-leadership.html",
+      "path": "posts/2025-10-03-stdlib-a-library-of-frameworks-templates-and-guides-for-technical-leadership.html",
+      "date_iso": "2025-10-03T02:33:21+00:00",
+      "source": "https://debuggingleadership.com/stdlib",
+      "summary": "Article URL: https://debuggingleadership.com/stdlib Comments URL: https://news.ycombinator.com/item?id=45458249 Points: 42 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45458122",
+      "title": "FyneDesk: A full desktop environment for Linux written in Go",
+      "slug": "2025-10-03-fynedesk-a-full-desktop-environment-for-linux-written-in-go.html",
+      "path": "posts/2025-10-03-fynedesk-a-full-desktop-environment-for-linux-written-in-go.html",
+      "date_iso": "2025-10-03T02:13:17+00:00",
+      "source": "https://github.com/FyshOS/fynedesk",
+      "summary": "Article URL: https://github.com/FyshOS/fynedesk Comments URL: https://news.ycombinator.com/item?id=45458122 Points: 103 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45457670",
+      "title": "I spent the day teaching seniors how to use an iPhone",
+      "slug": "2025-10-03-i-spent-the-day-teaching-seniors-how-to-use-an-iphone.html",
+      "path": "posts/2025-10-03-i-spent-the-day-teaching-seniors-how-to-use-an-iphone.html",
+      "date_iso": "2025-10-03T01:20:32+00:00",
+      "source": "https://forums.macrumors.com/threads/i-spent-the-day-trying-to-teach-seniors-how-to-use-an-iphone-and-it-was-a-nightmare.2468117/",
+      "summary": "Article URL: https://forums.macrumors.com/threads/i-spent-the-day-trying-to-teach-seniors-how-to-use-an-iphone-and-it-was-a-nightmare.2468117/ Comments URL: https://news.ycombinator.com/item?id=45457670 Points: 130 # Comments: 141"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45457460",
+      "title": "Microcomputers – The Second Wave: Toward a Mass Market",
+      "slug": "2025-10-03-microcomputers-the-second-wave-toward-a-mass-market.html",
+      "path": "posts/2025-10-03-microcomputers-the-second-wave-toward-a-mass-market.html",
+      "date_iso": "2025-10-03T00:51:26+00:00",
+      "source": "https://technicshistory.com/2025/10/03/microcomputers-the-second-wave-towards-a-mass-market/",
+      "summary": "Article URL: https://technicshistory.com/2025/10/03/microcomputers-the-second-wave-towards-a-mass-market/ Comments URL: https://news.ycombinator.com/item?id=45457460 Points: 30 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45457411",
+      "title": "Researchers develop molecular qubits that communicate at telecom frequencies",
+      "slug": "2025-10-03-researchers-develop-molecular-qubits-that-communicate-at-telecom-frequencies.html",
+      "path": "posts/2025-10-03-researchers-develop-molecular-qubits-that-communicate-at-telecom-frequencies.html",
+      "date_iso": "2025-10-03T00:44:42+00:00",
+      "source": "https://chicagoquantum.org/news/researchers-develop-molecular-qubits-communicate-telecom-frequencies",
+      "summary": "Article URL: https://chicagoquantum.org/news/researchers-develop-molecular-qubits-communicate-telecom-frequencies Comments URL: https://news.ycombinator.com/item?id=45457411 Points: 35 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45457048",
+      "title": "Self-supervised learning, JEPA, world models, and the future of AI [video]",
+      "slug": "2025-10-02-self-supervised-learning-jepa-world-models-and-the-future-of-ai-video.html",
+      "path": "posts/2025-10-02-self-supervised-learning-jepa-world-models-and-the-future-of-ai-video.html",
+      "date_iso": "2025-10-02T23:57:23+00:00",
+      "source": "https://www.youtube.com/watch?v=yUmDRxV0krg",
+      "summary": "Article URL: https://www.youtube.com/watch?v=yUmDRxV0krg Comments URL: https://news.ycombinator.com/item?id=45457048 Points: 34 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45455882",
+      "title": "The strangest letter of the alphabet: The rise and fall of yogh",
+      "slug": "2025-10-02-the-strangest-letter-of-the-alphabet-the-rise-and-fall-of-yogh.html",
+      "path": "posts/2025-10-02-the-strangest-letter-of-the-alphabet-the-rise-and-fall-of-yogh.html",
+      "date_iso": "2025-10-02T21:34:42+00:00",
+      "source": "https://www.deadlanguagesociety.com/p/history-of-letter-yogh",
+      "summary": "Article URL: https://www.deadlanguagesociety.com/p/history-of-letter-yogh Comments URL: https://news.ycombinator.com/item?id=45455882 Points: 163 # Comments: 100"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/02/business/tesla-cybertruck-doors-lawsuit-california.html",
+      "title": "Tesla Is Sued by Family Who Says Faulty Cybertruck Doors Led to Woman’s Death",
+      "slug": "2025-10-02-tesla-is-sued-by-family-who-says-faulty-cybertruck-doors-led-to-woman-s-death.html",
+      "path": "posts/2025-10-02-tesla-is-sued-by-family-who-says-faulty-cybertruck-doors-led-to-woman-s-death.html",
+      "date_iso": "2025-10-02T21:23:52+00:00",
+      "source": "https://www.nytimes.com/2025/10/02/business/tesla-cybertruck-doors-lawsuit-california.html",
+      "summary": "Tesla pioneered the use of car doors that open or shut with the push of a button."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/02/technology/personaltech/iphone-robocalls-screener-android.html",
+      "title": "We Finally Have Free Anti-Robocall Tools That Work",
+      "slug": "2025-10-02-we-finally-have-free-anti-robocall-tools-that-work.html",
+      "path": "posts/2025-10-02-we-finally-have-free-anti-robocall-tools-that-work.html",
+      "date_iso": "2025-10-02T19:31:52+00:00",
+      "source": "https://www.nytimes.com/2025/10/02/technology/personaltech/iphone-robocalls-screener-android.html",
+      "summary": "A new feature for iPhones screens calls, similar to a technology available for Android users. Here’s how to activate it."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/02/technology/openai-sora-video-app.html",
+      "title": "OpenAI’s Sora Video App Is Jaw-Dropping (for Better and Worse)",
+      "slug": "2025-10-02-openai-s-sora-video-app-is-jaw-dropping-for-better-and-worse.html",
+      "path": "posts/2025-10-02-openai-s-sora-video-app-is-jaw-dropping-for-better-and-worse.html",
+      "date_iso": "2025-10-02T19:21:52+00:00",
+      "source": "https://www.nytimes.com/2025/10/02/technology/openai-sora-video-app.html",
+      "summary": "Sora, OpenAI’s new video-generating app, is really a social network in disguise that can bring creative A.I. to the masses — and its problems, too."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45453586",
+      "title": "OpenAI's H1 2025: $4.3B in income, $13.5B in loss",
+      "slug": "2025-10-02-openai-s-h1-2025-4-3b-in-income-13-5b-in-loss.html",
+      "path": "posts/2025-10-02-openai-s-h1-2025-4-3b-in-income-13-5b-in-loss.html",
+      "date_iso": "2025-10-02T18:37:28+00:00",
+      "source": "https://www.techinasia.com/news/openais-revenue-rises-16-to-4-3b-in-h1-2025",
+      "summary": "Article URL: https://www.techinasia.com/news/openais-revenue-rises-16-to-4-3b-in-h1-2025 Comments URL: https://news.ycombinator.com/item?id=45453586 Points: 430 # Comments: 497"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45453222",
+      "title": "Babel is why I keep blogging with Emacs",
+      "slug": "2025-10-02-babel-is-why-i-keep-blogging-with-emacs.html",
+      "path": "posts/2025-10-02-babel-is-why-i-keep-blogging-with-emacs.html",
+      "date_iso": "2025-10-02T18:06:41+00:00",
+      "source": "https://entropicthoughts.com/why-stick-to-emacs-blog",
+      "summary": "https://orgmode.org/worg/org-contrib/babel/ Comments URL: https://news.ycombinator.com/item?id=45453222 Points: 211 # Comments: 58"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/02/technology/openai-deal-500-billion.html",
+      "title": "OpenAI Completes Deal That Values It at $500 Billion",
+      "slug": "2025-10-02-openai-completes-deal-that-values-it-at-500-billion.html",
+      "path": "posts/2025-10-02-openai-completes-deal-that-values-it-at-500-billion.html",
+      "date_iso": "2025-10-02T18:01:06+00:00",
+      "source": "https://www.nytimes.com/2025/10/02/technology/openai-deal-500-billion.html",
+      "summary": "OpenAI’s valuation has jumped repeatedly over the last 12 months."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45452261",
+      "title": "Why I chose Lua for this blog",
+      "slug": "2025-10-02-why-i-chose-lua-for-this-blog.html",
+      "path": "posts/2025-10-02-why-i-chose-lua-for-this-blog.html",
+      "date_iso": "2025-10-02T16:58:55+00:00",
+      "source": "https://andregarzia.com/2025/03/why-i-choose-lua-for-this-blog.html",
+      "summary": "Article URL: https://andregarzia.com/2025/03/why-i-choose-lua-for-this-blog.html Comments URL: https://news.ycombinator.com/item?id=45452261 Points: 148 # Comments: 96"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45451577",
+      "title": "Playball – Watch MLB games from a terminal",
+      "slug": "2025-10-02-playball-watch-mlb-games-from-a-terminal.html",
+      "path": "posts/2025-10-02-playball-watch-mlb-games-from-a-terminal.html",
+      "date_iso": "2025-10-02T16:09:15+00:00",
+      "source": "https://github.com/paaatrick/playball",
+      "summary": "Article URL: https://github.com/paaatrick/playball Comments URL: https://news.ycombinator.com/item?id=45451577 Points: 278 # Comments: 117"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45451527",
+      "title": "Signal Protocol and Post-Quantum Ratchets",
+      "slug": "2025-10-02-signal-protocol-and-post-quantum-ratchets.html",
+      "path": "posts/2025-10-02-signal-protocol-and-post-quantum-ratchets.html",
+      "date_iso": "2025-10-02T16:06:10+00:00",
+      "source": "https://signal.org/blog/spqr/",
+      "summary": "Article URL: https://signal.org/blog/spqr/ Comments URL: https://news.ycombinator.com/item?id=45451527 Points: 541 # Comments: 226"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45446263",
       "title": "Typepad is closed for business",
       "slug": "2025-10-02-typepad-is-closed-for-business.html",
@@ -62,6 +287,15 @@
       "date_iso": "2025-10-01T20:22:47+00:00",
       "source": "https://www.nytimes.com/2025/10/01/business/snapchat-storage-fee.html",
       "summary": "An ad for Snapchat outside Madison Square Garden in Manhattan in July."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/01/us/waymo-tickets-san-bruno.html",
+      "title": "When a Driverless Car Makes an Illegal U-Turn, Who Gets the Ticket?",
+      "slug": "2025-10-01-when-a-driverless-car-makes-an-illegal-u-turn-who-gets-the-ticket.html",
+      "path": "posts/2025-10-01-when-a-driverless-car-makes-an-illegal-u-turn-who-gets-the-ticket.html",
+      "date_iso": "2025-10-01T19:56:28+00:00",
+      "source": "https://www.nytimes.com/2025/10/01/us/waymo-tickets-san-bruno.html",
+      "summary": "A police officer pulled over a driverless Waymo taxi after it made an illegal U-turn on Saturday in San Bruno, Calif., but could not issue a ticket because it was a driverless car."
     },
     {
       "id": "https://news.ycombinator.com/item?id=45441222",
