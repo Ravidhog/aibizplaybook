@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45471136",
+      "title": "Alibaba cloud FPGA: the $200 Kintex UltraScale+",
+      "slug": "2025-10-04-alibaba-cloud-fpga-the-200-kintex-ultrascale.html",
+      "path": "posts/2025-10-04-alibaba-cloud-fpga-the-200-kintex-ultrascale.html",
+      "date_iso": "2025-10-04T06:49:58+00:00",
+      "source": "https://essenceia.github.io/projects/alibaba_cloud_fpga/",
+      "summary": "Article URL: https://essenceia.github.io/projects/alibaba_cloud_fpga/ Comments URL: https://news.ycombinator.com/item?id=45471136 Points: 3 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45470842",
+      "title": "Optimizing a 6502 image decoder – part II: assembly",
+      "slug": "2025-10-04-optimizing-a-6502-image-decoder-part-ii-assembly.html",
+      "path": "posts/2025-10-04-optimizing-a-6502-image-decoder-part-ii-assembly.html",
+      "date_iso": "2025-10-04T05:51:56+00:00",
+      "source": "https://www.colino.net/wordpress/en/archives/2025/10/03/optimizing-a-6502-image-decoder-part-ii-assembly/",
+      "summary": "Article URL: https://www.colino.net/wordpress/en/archives/2025/10/03/optimizing-a-6502-image-decoder-part-ii-assembly/ Comments URL: https://news.ycombinator.com/item?id=45470842 Points: 4 # Comments: 1"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/03/science/phyllis-gardner-dead.html",
+      "title": "Phyllis Gardner, Early Skeptic of Theranos, Dies at 75",
+      "slug": "2025-10-04-phyllis-gardner-early-skeptic-of-theranos-dies-at-75.html",
+      "path": "posts/2025-10-04-phyllis-gardner-early-skeptic-of-theranos-dies-at-75.html",
+      "date_iso": "2025-10-04T05:04:29+00:00",
+      "source": "https://www.nytimes.com/2025/10/03/science/phyllis-gardner-dead.html",
+      "summary": "A pharmacologist, she was certain Elizabeth Holmes’s blood-testing idea would fail, and spoke up about it. At first, few listened."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45470513",
+      "title": "Starship's eleventh flight test",
+      "slug": "2025-10-04-starship-s-eleventh-flight-test.html",
+      "path": "posts/2025-10-04-starship-s-eleventh-flight-test.html",
+      "date_iso": "2025-10-04T04:25:54+00:00",
+      "source": "https://www.spacex.com/launches/starship-flight-11",
+      "summary": "Article URL: https://www.spacex.com/launches/starship-flight-11 Comments URL: https://news.ycombinator.com/item?id=45470513 Points: 47 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45470206",
+      "title": "Toyota runs a car-hacking event to boost security (2024)",
+      "slug": "2025-10-04-toyota-runs-a-car-hacking-event-to-boost-security-2024.html",
+      "path": "posts/2025-10-04-toyota-runs-a-car-hacking-event-to-boost-security-2024.html",
+      "date_iso": "2025-10-04T03:11:28+00:00",
+      "source": "https://toyotatimes.jp/en/spotlights/1061.html",
+      "summary": "Article URL: https://toyotatimes.jp/en/spotlights/1061.html Comments URL: https://news.ycombinator.com/item?id=45470206 Points: 37 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45469579",
+      "title": "New antibiotic targets IBD and AI predicted how it would work",
+      "slug": "2025-10-04-new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work.html",
+      "path": "posts/2025-10-04-new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work.html",
+      "date_iso": "2025-10-04T01:09:37+00:00",
+      "source": "https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/",
+      "summary": "Paper: https://www.nature.com/articles/s41564-025-02142-0 Comments URL: https://news.ycombinator.com/item?id=45469579 Points: 83 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45469468",
+      "title": "Track which Electron apps slow down macOS 26 Tahoe",
+      "slug": "2025-10-04-track-which-electron-apps-slow-down-macos-26-tahoe.html",
+      "path": "posts/2025-10-04-track-which-electron-apps-slow-down-macos-26-tahoe.html",
+      "date_iso": "2025-10-04T00:45:40+00:00",
+      "source": "https://avarayr.github.io/shamelectron/",
+      "summary": "Article URL: https://avarayr.github.io/shamelectron/ Comments URL: https://news.ycombinator.com/item?id=45469468 Points: 92 # Comments: 64"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45469437",
+      "title": "Sora Update #1",
+      "slug": "2025-10-04-sora-update-1.html",
+      "path": "posts/2025-10-04-sora-update-1.html",
+      "date_iso": "2025-10-04T00:39:14+00:00",
+      "source": "https://blog.samaltman.com/sora-update-number-1",
+      "summary": "Article URL: https://blog.samaltman.com/sora-update-number-1 Comments URL: https://news.ycombinator.com/item?id=45469437 Points: 61 # Comments: 71"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45469285",
+      "title": "Binary Formats Gallery",
+      "slug": "2025-10-04-binary-formats-gallery.html",
+      "path": "posts/2025-10-04-binary-formats-gallery.html",
+      "date_iso": "2025-10-04T00:19:02+00:00",
+      "source": "https://formats.kaitai.io/",
+      "summary": "Article URL: https://formats.kaitai.io/ Comments URL: https://news.ycombinator.com/item?id=45469285 Points: 48 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45468698",
+      "title": "Zig builds are getting faster",
+      "slug": "2025-10-03-zig-builds-are-getting-faster.html",
+      "path": "posts/2025-10-03-zig-builds-are-getting-faster.html",
+      "date_iso": "2025-10-03T22:45:28+00:00",
+      "source": "https://mitchellh.com/writing/zig-builds-getting-faster",
+      "summary": "Article URL: https://mitchellh.com/writing/zig-builds-getting-faster Comments URL: https://news.ycombinator.com/item?id=45468698 Points: 200 # Comments: 70"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45467717",
+      "title": "TrueVault (YC W14) Is Hiring a BDR (Ex-ECommerce Manager)",
+      "slug": "2025-10-03-truevault-yc-w14-is-hiring-a-bdr-ex-ecommerce-manager.html",
+      "path": "posts/2025-10-03-truevault-yc-w14-is-hiring-a-bdr-ex-ecommerce-manager.html",
+      "date_iso": "2025-10-03T21:00:32+00:00",
+      "source": "https://www.ycombinator.com/companies/truevault/jobs/FaC8Apo-ecommerce-manager-bdr",
+      "summary": "Article URL: https://www.ycombinator.com/companies/truevault/jobs/FaC8Apo-ecommerce-manager-bdr Comments URL: https://news.ycombinator.com/item?id=45467717 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45467543",
+      "title": "Interstellar Object 3I/Atlas Passed Mars Last Night",
+      "slug": "2025-10-03-interstellar-object-3i-atlas-passed-mars-last-night.html",
+      "path": "posts/2025-10-03-interstellar-object-3i-atlas-passed-mars-last-night.html",
+      "date_iso": "2025-10-03T20:40:52+00:00",
+      "source": "https://earthsky.org/space/new-interstellar-object-candidate-heading-toward-the-sun-a11pl3z/",
+      "summary": "Article URL: https://earthsky.org/space/new-interstellar-object-candidate-heading-toward-the-sun-a11pl3z/ Comments URL: https://news.ycombinator.com/item?id=45467543 Points: 137 # Comments: 97"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45467500",
+      "title": "Offline card payments should be possible no later than 1 July 2026",
+      "slug": "2025-10-03-offline-card-payments-should-be-possible-no-later-than-1-july-2026.html",
+      "path": "posts/2025-10-03-offline-card-payments-should-be-possible-no-later-than-1-july-2026.html",
+      "date_iso": "2025-10-03T20:36:03+00:00",
+      "source": "https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/",
+      "summary": "Article URL: https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/ Comments URL: https://news.ycombinator.com/item?id=45467500 Points: 341 # Comments: 342"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45467166",
+      "title": "AMD's EPYC 9355P: Inside a 32 Core Zen 5 Server Chip",
+      "slug": "2025-10-03-amd-s-epyc-9355p-inside-a-32-core-zen-5-server-chip.html",
+      "path": "posts/2025-10-03-amd-s-epyc-9355p-inside-a-32-core-zen-5-server-chip.html",
+      "date_iso": "2025-10-03T20:01:36+00:00",
+      "source": "https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core",
+      "summary": "Article URL: https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core Comments URL: https://news.ycombinator.com/item?id=45467166 Points: 117 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45466588",
+      "title": "Jules, remote coding agent from Google Labs, announces API",
+      "slug": "2025-10-03-jules-remote-coding-agent-from-google-labs-announces-api.html",
+      "path": "posts/2025-10-03-jules-remote-coding-agent-from-google-labs-announces-api.html",
+      "date_iso": "2025-10-03T19:08:11+00:00",
+      "source": "https://jules.google/docs/changelog/",
+      "summary": "Article URL: https://jules.google/docs/changelog/ Comments URL: https://news.ycombinator.com/item?id=45466588 Points: 136 # Comments: 24"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45466086",
+      "title": "PEP 810 – Explicit lazy imports",
+      "slug": "2025-10-03-pep-810-explicit-lazy-imports.html",
+      "path": "posts/2025-10-03-pep-810-explicit-lazy-imports.html",
+      "date_iso": "2025-10-03T18:24:58+00:00",
+      "source": "https://pep-previews--4622.org.readthedocs.build/pep-0810/",
+      "summary": "Article URL: https://pep-previews--4622.org.readthedocs.build/pep-0810/ Comments URL: https://news.ycombinator.com/item?id=45466086 Points: 294 # Comments: 162"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45464632",
+      "title": "Cancellations in async Rust",
+      "slug": "2025-10-03-cancellations-in-async-rust.html",
+      "path": "posts/2025-10-03-cancellations-in-async-rust.html",
+      "date_iso": "2025-10-03T16:18:29+00:00",
+      "source": "https://sunshowers.io/posts/cancelling-async-rust/",
+      "summary": "Article URL: https://sunshowers.io/posts/cancelling-async-rust/ Comments URL: https://news.ycombinator.com/item?id=45464632 Points: 193 # Comments: 70"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45464429",
+      "title": "Jeff Bezos says AI is in a bubble but society will get 'gigantic' benefits",
+      "slug": "2025-10-03-jeff-bezos-says-ai-is-in-a-bubble-but-society-will-get-gigantic-benefits.html",
+      "path": "posts/2025-10-03-jeff-bezos-says-ai-is-in-a-bubble-but-society-will-get-gigantic-benefits.html",
+      "date_iso": "2025-10-03T16:00:00+00:00",
+      "source": "https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html",
+      "summary": "Article URL: https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html Comments URL: https://news.ycombinator.com/item?id=45464429 Points: 139 # Comments: 284"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45464145",
+      "title": "Lessons learned from building an infrastructure devtool",
+      "slug": "2025-10-03-lessons-learned-from-building-an-infrastructure-devtool.html",
+      "path": "posts/2025-10-03-lessons-learned-from-building-an-infrastructure-devtool.html",
+      "date_iso": "2025-10-03T15:33:43+00:00",
+      "source": "https://www.nango.dev/blog/lessons-learned-building-infrastructure-devtool",
+      "summary": "Article URL: https://www.nango.dev/blog/lessons-learned-building-infrastructure-devtool Comments URL: https://news.ycombinator.com/item?id=45464145 Points: 19 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45463319",
+      "title": "I turned the Lego Game Boy into a working Game Boy",
+      "slug": "2025-10-03-i-turned-the-lego-game-boy-into-a-working-game-boy.html",
+      "path": "posts/2025-10-03-i-turned-the-lego-game-boy-into-a-working-game-boy.html",
+      "date_iso": "2025-10-03T14:18:56+00:00",
+      "source": "https://blog.nataliethenerd.com/i-turned-the-lego-game-boy-into-a-working-game-boy-part-1/",
+      "summary": "Article URL: https://blog.nataliethenerd.com/i-turned-the-lego-game-boy-into-a-working-game-boy-part-1/ Comments URL: https://news.ycombinator.com/item?id=45463319 Points: 235 # Comments: 17"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/03/podcasts/sora-and-the-infinite-slop-feeds-chatgpt-goes-to-therapy-hot-mess-express.html",
+      "title": "Sora and the Infinite Slop Feeds + ChatGPT Goes to Therapy + Hot Mess Express",
+      "slug": "2025-10-03-sora-and-the-infinite-slop-feeds-chatgpt-goes-to-therapy-hot-mess-express.html",
+      "path": "posts/2025-10-03-sora-and-the-infinite-slop-feeds-chatgpt-goes-to-therapy-hot-mess-express.html",
+      "date_iso": "2025-10-03T11:00:06+00:00",
+      "source": "https://www.nytimes.com/2025/10/03/podcasts/sora-and-the-infinite-slop-feeds-chatgpt-goes-to-therapy-hot-mess-express.html",
+      "summary": "“I do not like the idea of pointing these giant A.I. supercomputers at people’s dopamine receptors and just feeding them an endless diet of hyper-personalized stimulating videos.”"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/03/technology/sora-openai-video-disinformation.html",
+      "title": "OpenAI’s Sora Makes Disinformation Extremely Easy and Extremely Real",
+      "slug": "2025-10-03-openai-s-sora-makes-disinformation-extremely-easy-and-extremely-real.html",
+      "path": "posts/2025-10-03-openai-s-sora-makes-disinformation-extremely-easy-and-extremely-real.html",
+      "date_iso": "2025-10-03T09:03:27+00:00",
+      "source": "https://www.nytimes.com/2025/10/03/technology/sora-openai-video-disinformation.html",
+      "summary": "A frame of a video generated by the original iteration of Sora, an artificial intelligence tool from OpenAI."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45459233",
       "title": "In Praise of RSS and Controlled Feeds of Information",
       "slug": "2025-10-03-in-praise-of-rss-and-controlled-feeds-of-information.html",
@@ -152,6 +350,15 @@
       "date_iso": "2025-10-02T21:23:52+00:00",
       "source": "https://www.nytimes.com/2025/10/02/business/tesla-cybertruck-doors-lawsuit-california.html",
       "summary": "Tesla pioneered the use of car doors that open or shut with the push of a button."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45455164",
+      "title": "Where it's at://",
+      "slug": "2025-10-02-where-it-s-at.html",
+      "path": "posts/2025-10-02-where-it-s-at.html",
+      "date_iso": "2025-10-02T20:31:43+00:00",
+      "source": "https://overreacted.io/where-its-at/",
+      "summary": "Article URL: https://overreacted.io/where-its-at/ Comments URL: https://news.ycombinator.com/item?id=45455164 Points: 204 # Comments: 95"
     },
     {
       "id": "https://www.nytimes.com/2025/10/02/technology/personaltech/iphone-robocalls-screener-android.html",
