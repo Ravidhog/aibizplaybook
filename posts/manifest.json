@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45479103",
+      "title": "Way past its prime: how did Amazon get so rubbish?",
+      "slug": "2025-10-05-way-past-its-prime-how-did-amazon-get-so-rubbish.html",
+      "path": "posts/2025-10-05-way-past-its-prime-how-did-amazon-get-so-rubbish.html",
+      "date_iso": "2025-10-05T05:47:55+00:00",
+      "source": "https://www.theguardian.com/technology/2025/oct/05/way-past-its-prime-how-did-amazon-get-so-rubbish",
+      "summary": "Article URL: https://www.theguardian.com/technology/2025/oct/05/way-past-its-prime-how-did-amazon-get-so-rubbish Comments URL: https://news.ycombinator.com/item?id=45479103 Points: 94 # Comments: 68"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45478780",
+      "title": "Ambigr.am",
+      "slug": "2025-10-05-ambigr-am.html",
+      "path": "posts/2025-10-05-ambigr-am.html",
+      "date_iso": "2025-10-05T04:11:55+00:00",
+      "source": "https://ambigr.am/hall-of-fame",
+      "summary": "Article URL: https://ambigr.am/hall-of-fame Comments URL: https://news.ycombinator.com/item?id=45478780 Points: 4 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45478749",
+      "title": "Americans increasingly see legal sports betting as a bad thing for society",
+      "slug": "2025-10-05-americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society.html",
+      "path": "posts/2025-10-05-americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society.html",
+      "date_iso": "2025-10-05T04:01:57+00:00",
+      "source": "https://www.pewresearch.org/short-reads/2025/10/02/americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society-and-sports/",
+      "summary": "Article URL: https://www.pewresearch.org/short-reads/2025/10/02/americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society-and-sports/ Comments URL: https://news.ycombinator.com/item?id=45478749 Points: 80 # Comments: 63"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45478033",
+      "title": "Parrot – type-safe SQL in Gleam, supports SQlite, PostgreSQL and MySQL",
+      "slug": "2025-10-05-parrot-type-safe-sql-in-gleam-supports-sqlite-postgresql-and-mysql.html",
+      "path": "posts/2025-10-05-parrot-type-safe-sql-in-gleam-supports-sqlite-postgresql-and-mysql.html",
+      "date_iso": "2025-10-05T00:51:44+00:00",
+      "source": "https://github.com/daniellionel01/parrot",
+      "summary": "Article URL: https://github.com/daniellionel01/parrot Comments URL: https://news.ycombinator.com/item?id=45478033 Points: 44 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45477971",
+      "title": "Mod. 5140 - IBM's First Laptop Computer",
+      "slug": "2025-10-05-mod-5140-ibm-s-first-laptop-computer.html",
+      "path": "posts/2025-10-05-mod-5140-ibm-s-first-laptop-computer.html",
+      "date_iso": "2025-10-05T00:35:10+00:00",
+      "source": "https://richardsapperdesign.com/products/mod-5140/",
+      "summary": "Article URL: https://richardsapperdesign.com/products/mod-5140/ Comments URL: https://news.ycombinator.com/item?id=45477971 Points: 37 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45477742",
+      "title": "Space Mission Options for Reconnaissance and Mitigation of Asteroid 2024 YR4",
+      "slug": "2025-10-04-space-mission-options-for-reconnaissance-and-mitigation-of-asteroid-2024-yr4.html",
+      "path": "posts/2025-10-04-space-mission-options-for-reconnaissance-and-mitigation-of-asteroid-2024-yr4.html",
+      "date_iso": "2025-10-04T23:42:55+00:00",
+      "source": "https://arxiv.org/abs/2509.12351",
+      "summary": "Article URL: https://arxiv.org/abs/2509.12351 Comments URL: https://news.ycombinator.com/item?id=45477742 Points: 49 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45477661",
+      "title": "AI-powered open-source code laundering",
+      "slug": "2025-10-04-ai-powered-open-source-code-laundering.html",
+      "path": "posts/2025-10-04-ai-powered-open-source-code-laundering.html",
+      "date_iso": "2025-10-04T23:26:02+00:00",
+      "source": "https://github.com/SudoMaker/rEFui/blob/main/HALL_OF_SHAME.md",
+      "summary": "Article URL: https://github.com/SudoMaker/rEFui/blob/main/HALL_OF_SHAME.md Comments URL: https://news.ycombinator.com/item?id=45477661 Points: 71 # Comments: 55"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45477516",
+      "title": "Borehole Oscillators",
+      "slug": "2025-10-04-borehole-oscillators.html",
+      "path": "posts/2025-10-04-borehole-oscillators.html",
+      "date_iso": "2025-10-04T23:02:32+00:00",
+      "source": "https://www.gregegan.net/SCIENCE/Borehole/Borehole.html",
+      "summary": "Article URL: https://www.gregegan.net/SCIENCE/Borehole/Borehole.html Comments URL: https://news.ycombinator.com/item?id=45477516 Points: 35 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45477206",
+      "title": "NSA and IETF: Can an attacker purchase standardization of weakened cryptography?",
+      "slug": "2025-10-04-nsa-and-ietf-can-an-attacker-purchase-standardization-of-weakened-cryptography.html",
+      "path": "posts/2025-10-04-nsa-and-ietf-can-an-attacker-purchase-standardization-of-weakened-cryptography.html",
+      "date_iso": "2025-10-04T22:16:33+00:00",
+      "source": "https://blog.cr.yp.to/20251004-weakened.html",
+      "summary": "Article URL: https://blog.cr.yp.to/20251004-weakened.html Comments URL: https://news.ycombinator.com/item?id=45477206 Points: 83 # Comments: 36"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45477118",
+      "title": "XiangShan Vector Floating-Point Unit Design",
+      "slug": "2025-10-04-xiangshan-vector-floating-point-unit-design.html",
+      "path": "posts/2025-10-04-xiangshan-vector-floating-point-unit-design.html",
+      "date_iso": "2025-10-04T22:02:28+00:00",
+      "source": "https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/",
+      "summary": "Article URL: https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/ Comments URL: https://news.ycombinator.com/item?id=45477118 Points: 48 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45476821",
+      "title": "Matrix Core Programming on AMD GPUs",
+      "slug": "2025-10-04-matrix-core-programming-on-amd-gpus.html",
+      "path": "posts/2025-10-04-matrix-core-programming-on-amd-gpus.html",
+      "date_iso": "2025-10-04T21:22:11+00:00",
+      "source": "https://salykova.github.io/matrix-cores-cdna",
+      "summary": "Article URL: https://salykova.github.io/matrix-cores-cdna Comments URL: https://news.ycombinator.com/item?id=45476821 Points: 63 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45476820",
+      "title": "$912 energy independence without red tape",
+      "slug": "2025-10-04-912-energy-independence-without-red-tape.html",
+      "path": "posts/2025-10-04-912-energy-independence-without-red-tape.html",
+      "date_iso": "2025-10-04T21:22:05+00:00",
+      "source": "https://sunboxlabs.com/",
+      "summary": "Article URL: https://sunboxlabs.com/ Comments URL: https://news.ycombinator.com/item?id=45476820 Points: 160 # Comments: 107"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45475808",
+      "title": "Blog Feeds",
+      "slug": "2025-10-04-blog-feeds.html",
+      "path": "posts/2025-10-04-blog-feeds.html",
+      "date_iso": "2025-10-04T19:08:46+00:00",
+      "source": "https://blogfeeds.net",
+      "summary": "Article URL: https://blogfeeds.net Comments URL: https://news.ycombinator.com/item?id=45475808 Points: 148 # Comments: 52"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45475529",
+      "title": "ProofOfThought: LLM-based reasoning using Z3 theorem proving",
+      "slug": "2025-10-04-proofofthought-llm-based-reasoning-using-z3-theorem-proving.html",
+      "path": "posts/2025-10-04-proofofthought-llm-based-reasoning-using-z3-theorem-proving.html",
+      "date_iso": "2025-10-04T18:34:23+00:00",
+      "source": "https://github.com/DebarghaG/proofofthought",
+      "summary": "https://arxiv.org/abs/2409.17270 Comments URL: https://news.ycombinator.com/item?id=45475529 Points: 247 # Comments: 126"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45475528",
+      "title": "Show HN: Run – a CLI universal code runner I built while learning Rust",
+      "slug": "2025-10-04-show-hn-run-a-cli-universal-code-runner-i-built-while-learning-rust.html",
+      "path": "posts/2025-10-04-show-hn-run-a-cli-universal-code-runner-i-built-while-learning-rust.html",
+      "date_iso": "2025-10-04T18:34:13+00:00",
+      "source": "https://github.com/Esubaalew/run",
+      "summary": "Hi HN — I’m learning Rust and decided to build a universal CLI for running code in many languages. The tool, Run, aims to be a single, minimal dependency utility for: running one-off snippets (from CLI flags), running files, reading and executing piped stdin, and providing langu…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45474900",
+      "title": "How to inject knowledge efficiently? Knowledge infusion scaling law for LLMs",
+      "slug": "2025-10-04-how-to-inject-knowledge-efficiently-knowledge-infusion-scaling-law-for-llms.html",
+      "path": "posts/2025-10-04-how-to-inject-knowledge-efficiently-knowledge-infusion-scaling-law-for-llms.html",
+      "date_iso": "2025-10-04T17:18:07+00:00",
+      "source": "https://arxiv.org/abs/2509.19371",
+      "summary": "Article URL: https://arxiv.org/abs/2509.19371 Comments URL: https://news.ycombinator.com/item?id=45474900 Points: 84 # Comments: 27"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45473861",
+      "title": "A comparison of Ada and Rust, using solutions to the Advent of Code",
+      "slug": "2025-10-04-a-comparison-of-ada-and-rust-using-solutions-to-the-advent-of-code.html",
+      "path": "posts/2025-10-04-a-comparison-of-ada-and-rust-using-solutions-to-the-advent-of-code.html",
+      "date_iso": "2025-10-04T15:10:49+00:00",
+      "source": "https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md",
+      "summary": "Article URL: https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md Comments URL: https://news.ycombinator.com/item?id=45473861 Points: 227 # Comments: 148"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45473852",
+      "title": "How I influence tech company politics as a staff software engineer",
+      "slug": "2025-10-04-how-i-influence-tech-company-politics-as-a-staff-software-engineer.html",
+      "path": "posts/2025-10-04-how-i-influence-tech-company-politics-as-a-staff-software-engineer.html",
+      "date_iso": "2025-10-04T15:09:41+00:00",
+      "source": "https://www.seangoedecke.com/how-to-influence-politics/",
+      "summary": "Article URL: https://www.seangoedecke.com/how-to-influence-politics/ Comments URL: https://news.ycombinator.com/item?id=45473852 Points: 303 # Comments: 169"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45473730",
+      "title": "Self-hosting email like it's 1984",
+      "slug": "2025-10-04-self-hosting-email-like-it-s-1984.html",
+      "path": "posts/2025-10-04-self-hosting-email-like-it-s-1984.html",
+      "date_iso": "2025-10-04T14:53:32+00:00",
+      "source": "https://maxadamski.com/blog/2025/10/email.html",
+      "summary": "Article URL: https://maxadamski.com/blog/2025/10/email.html Comments URL: https://news.ycombinator.com/item?id=45473730 Points: 223 # Comments: 147"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45472765",
+      "title": "Thunderscan: A clever device transforms a printer into a scanner (2004)",
+      "slug": "2025-10-04-thunderscan-a-clever-device-transforms-a-printer-into-a-scanner-2004.html",
+      "path": "posts/2025-10-04-thunderscan-a-clever-device-transforms-a-printer-into-a-scanner-2004.html",
+      "date_iso": "2025-10-04T12:16:37+00:00",
+      "source": "https://www.folklore.org/Thunderscan.html",
+      "summary": "Article URL: https://www.folklore.org/Thunderscan.html Comments URL: https://news.ycombinator.com/item?id=45472765 Points: 149 # Comments: 30"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45471136",
       "title": "Alibaba cloud FPGA: the $200 Kintex UltraScale+",
       "slug": "2025-10-04-alibaba-cloud-fpga-the-200-kintex-ultrascale.html",
