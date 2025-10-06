@@ -1,6 +1,222 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45488441",
+      "title": "Flightcontrol: AWS PaaS",
+      "slug": "2025-10-06-flightcontrol-aws-paas.html",
+      "path": "posts/2025-10-06-flightcontrol-aws-paas.html",
+      "date_iso": "2025-10-06T07:07:11+00:00",
+      "source": "https://www.flightcontrol.dev/",
+      "summary": "Article URL: https://www.flightcontrol.dev/ Comments URL: https://news.ycombinator.com/item?id=45488441 Points: 5 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45488261",
+      "title": "Structured Procrastination",
+      "slug": "2025-10-06-structured-procrastination.html",
+      "path": "posts/2025-10-06-structured-procrastination.html",
+      "date_iso": "2025-10-06T06:35:36+00:00",
+      "source": "https://structuredprocrastination.com",
+      "summary": "Article URL: https://structuredprocrastination.com Comments URL: https://news.ycombinator.com/item?id=45488261 Points: 27 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45487629",
+      "title": "CHERI with a Linux on Top",
+      "slug": "2025-10-06-cheri-with-a-linux-on-top.html",
+      "path": "posts/2025-10-06-cheri-with-a-linux-on-top.html",
+      "date_iso": "2025-10-06T04:25:31+00:00",
+      "source": "https://lwn.net/Articles/1037974/",
+      "summary": "Article URL: https://lwn.net/Articles/1037974/ Comments URL: https://news.ycombinator.com/item?id=45487629 Points: 20 # Comments: 2"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/06/business/jaguar-range-rover-cyberattacks-britain.html",
+      "title": "From Jaguars to Grocery Shelves: Cyberattacks Disrupt British Daily Life",
+      "slug": "2025-10-06-from-jaguars-to-grocery-shelves-cyberattacks-disrupt-british-daily-life.html",
+      "path": "posts/2025-10-06-from-jaguars-to-grocery-shelves-cyberattacks-disrupt-british-daily-life.html",
+      "date_iso": "2025-10-06T04:01:12+00:00",
+      "source": "https://www.nytimes.com/2025/10/06/business/jaguar-range-rover-cyberattacks-britain.html",
+      "summary": "A Jaguar Land Rover factory in Solihull, Britain, in 2022. The automaker shut down its production lines last month after discovering a breach."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45487476",
+      "title": "1 Trillion Web Pages Archived",
+      "slug": "2025-10-06-1-trillion-web-pages-archived.html",
+      "path": "posts/2025-10-06-1-trillion-web-pages-archived.html",
+      "date_iso": "2025-10-06T03:48:34+00:00",
+      "source": "https://blog.archive.org/trillion/",
+      "summary": "Article URL: https://blog.archive.org/trillion/ Comments URL: https://news.ycombinator.com/item?id=45487476 Points: 162 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45487452",
+      "title": "Find Nearby Automated License Plate Readers (ALPR)",
+      "slug": "2025-10-06-find-nearby-automated-license-plate-readers-alpr.html",
+      "path": "posts/2025-10-06-find-nearby-automated-license-plate-readers-alpr.html",
+      "date_iso": "2025-10-06T03:42:15+00:00",
+      "source": "https://deflock.me/",
+      "summary": "Article URL: https://deflock.me/ Comments URL: https://news.ycombinator.com/item?id=45487452 Points: 47 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45487247",
+      "title": "Building Effective Text-to-3D AI Agents: A Hybrid Architecture Approach",
+      "slug": "2025-10-06-building-effective-text-to-3d-ai-agents-a-hybrid-architecture-approach.html",
+      "path": "posts/2025-10-06-building-effective-text-to-3d-ai-agents-a-hybrid-architecture-approach.html",
+      "date_iso": "2025-10-06T02:57:21+00:00",
+      "source": "https://www.addy.rocks/blog/text-to-3d-agent-hybrid-architecture",
+      "summary": "Article URL: https://www.addy.rocks/blog/text-to-3d-agent-hybrid-architecture Comments URL: https://news.ycombinator.com/item?id=45487247 Points: 13 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45487044",
+      "title": "Why do LLMs freak out over the seahorse emoji?",
+      "slug": "2025-10-06-why-do-llms-freak-out-over-the-seahorse-emoji.html",
+      "path": "posts/2025-10-06-why-do-llms-freak-out-over-the-seahorse-emoji.html",
+      "date_iso": "2025-10-06T02:20:05+00:00",
+      "source": "https://vgel.me/posts/seahorse/",
+      "summary": "Article URL: https://vgel.me/posts/seahorse/ Comments URL: https://news.ycombinator.com/item?id=45487044 Points: 234 # Comments: 102"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45486829",
+      "title": "Should I choose Ada, SPARK, or Rust over C/C++? (2024)",
+      "slug": "2025-10-06-should-i-choose-ada-spark-or-rust-over-c-c-2024.html",
+      "path": "posts/2025-10-06-should-i-choose-ada-spark-or-rust-over-c-c-2024.html",
+      "date_iso": "2025-10-06T01:35:03+00:00",
+      "source": "https://blog.adacore.com/should-i-choose-ada-spark-or-rust-over-c-c",
+      "summary": "Article URL: https://blog.adacore.com/should-i-choose-ada-spark-or-rust-over-c-c Comments URL: https://news.ycombinator.com/item?id=45486829 Points: 66 # Comments: 67"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45486306",
+      "title": "Rule-Based Expert Systems: The Mycin Experiments (1984)",
+      "slug": "2025-10-05-rule-based-expert-systems-the-mycin-experiments-1984.html",
+      "path": "posts/2025-10-05-rule-based-expert-systems-the-mycin-experiments-1984.html",
+      "date_iso": "2025-10-05T23:51:47+00:00",
+      "source": "https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm",
+      "summary": "Article URL: https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm Comments URL: https://news.ycombinator.com/item?id=45486306 Points: 54 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45486031",
+      "title": "Estimating AI energy use",
+      "slug": "2025-10-05-estimating-ai-energy-use.html",
+      "path": "posts/2025-10-05-estimating-ai-energy-use.html",
+      "date_iso": "2025-10-05T23:00:23+00:00",
+      "source": "https://spectrum.ieee.org/ai-energy-use",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-energy-use Comments URL: https://news.ycombinator.com/item?id=45486031 Points: 69 # Comments: 60"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45485806",
+      "title": "Germany outfitted half a million balconies with solar panels",
+      "slug": "2025-10-05-germany-outfitted-half-a-million-balconies-with-solar-panels.html",
+      "path": "posts/2025-10-05-germany-outfitted-half-a-million-balconies-with-solar-panels.html",
+      "date_iso": "2025-10-05T22:18:31+00:00",
+      "source": "https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/",
+      "summary": "Article URL: https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/ Comments URL: https://news.ycombinator.com/item?id=45485806 Points: 204 # Comments: 266"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45485736",
+      "title": "Ken Parker, famed luthier, has died",
+      "slug": "2025-10-05-ken-parker-famed-luthier-has-died.html",
+      "path": "posts/2025-10-05-ken-parker-famed-luthier-has-died.html",
+      "date_iso": "2025-10-05T22:10:15+00:00",
+      "source": "https://kenparkerarchtops.com",
+      "summary": "Article URL: https://kenparkerarchtops.com Comments URL: https://news.ycombinator.com/item?id=45485736 Points: 95 # Comments: 27"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45484284",
+      "title": "Toybox: All-in-one Linux command line",
+      "slug": "2025-10-05-toybox-all-in-one-linux-command-line.html",
+      "path": "posts/2025-10-05-toybox-all-in-one-linux-command-line.html",
+      "date_iso": "2025-10-05T19:09:35+00:00",
+      "source": "https://github.com/landley/toybox",
+      "summary": "Article URL: https://github.com/landley/toybox Comments URL: https://news.ycombinator.com/item?id=45484284 Points: 70 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45483924",
+      "title": "What GPT-OSS leaks about OpenAI's training data",
+      "slug": "2025-10-05-what-gpt-oss-leaks-about-openai-s-training-data.html",
+      "path": "posts/2025-10-05-what-gpt-oss-leaks-about-openai-s-training-data.html",
+      "date_iso": "2025-10-05T18:28:16+00:00",
+      "source": "https://fi-le.net/oss/",
+      "summary": "Article URL: https://fi-le.net/oss/ Comments URL: https://news.ycombinator.com/item?id=45483924 Points: 233 # Comments: 52"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45483386",
+      "title": "Fire destroys S. Korean government's cloud storage system, no backups available",
+      "slug": "2025-10-05-fire-destroys-s-korean-government-s-cloud-storage-system-no-backups-available.html",
+      "path": "posts/2025-10-05-fire-destroys-s-korean-government-s-cloud-storage-system-no-backups-available.html",
+      "date_iso": "2025-10-05T17:20:39+00:00",
+      "source": "https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936",
+      "summary": "https://www.chosun.com/english/national-en/2025/10/02/FPWGFS... Comments URL: https://news.ycombinator.com/item?id=45483386 Points: 1378 # Comments: 610"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45482516",
+      "title": "BYD builds fastest car",
+      "slug": "2025-10-05-byd-builds-fastest-car.html",
+      "path": "posts/2025-10-05-byd-builds-fastest-car.html",
+      "date_iso": "2025-10-05T15:54:01+00:00",
+      "source": "https://www.autotrader.co.uk/content/news/byd-builds-world-s-fastest-car",
+      "summary": "Article URL: https://www.autotrader.co.uk/content/news/byd-builds-world-s-fastest-car Comments URL: https://news.ycombinator.com/item?id=45482516 Points: 187 # Comments: 168"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45482467",
+      "title": "NFS at 40 – Remembering the Sun Microsystems Network File System",
+      "slug": "2025-10-05-nfs-at-40-remembering-the-sun-microsystems-network-file-system.html",
+      "path": "posts/2025-10-05-nfs-at-40-remembering-the-sun-microsystems-network-file-system.html",
+      "date_iso": "2025-10-05T15:49:58+00:00",
+      "source": "https://nfs40.online/",
+      "summary": "Article URL: https://nfs40.online/ Comments URL: https://news.ycombinator.com/item?id=45482467 Points: 124 # Comments: 92"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45482333",
+      "title": "Show HN: ASCII Drawing Board",
+      "slug": "2025-10-05-show-hn-ascii-drawing-board.html",
+      "path": "posts/2025-10-05-show-hn-ascii-drawing-board.html",
+      "date_iso": "2025-10-05T15:36:21+00:00",
+      "source": "https://www.delopsu.com/draw.html",
+      "summary": "I've made an ASCII drawing board. You can set any brush, canvas size, export art as a text file. I want to keep it as manual/analog as possible, hence there is no tool for converting image to ASCII. Prompting LLMs to draw ASCII art turned out to be a difficult task . So instead…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45481892",
+      "title": "The QNX Operating System",
+      "slug": "2025-10-05-the-qnx-operating-system.html",
+      "path": "posts/2025-10-05-the-qnx-operating-system.html",
+      "date_iso": "2025-10-05T14:47:13+00:00",
+      "source": "https://www.abortretry.fail/p/the-qnx-operating-system",
+      "summary": "Article URL: https://www.abortretry.fail/p/the-qnx-operating-system Comments URL: https://news.ycombinator.com/item?id=45481892 Points: 216 # Comments: 67"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45481008",
+      "title": "86 GB/s bitpacking with ARM SIMD (single thread)",
+      "slug": "2025-10-05-86-gb-s-bitpacking-with-arm-simd-single-thread.html",
+      "path": "posts/2025-10-05-86-gb-s-bitpacking-with-arm-simd-single-thread.html",
+      "date_iso": "2025-10-05T12:27:11+00:00",
+      "source": "https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack",
+      "summary": "Article URL: https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack Comments URL: https://news.ycombinator.com/item?id=45481008 Points: 107 # Comments: 24"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/05/science/awards-prizes-non-nobels.html",
+      "title": "Beyond the Nobel Prizes Is a World of Scientific Awards",
+      "slug": "2025-10-05-beyond-the-nobel-prizes-is-a-world-of-scientific-awards.html",
+      "path": "posts/2025-10-05-beyond-the-nobel-prizes-is-a-world-of-scientific-awards.html",
+      "date_iso": "2025-10-05T09:00:54+00:00",
+      "source": "https://www.nytimes.com/2025/10/05/science/awards-prizes-non-nobels.html",
+      "summary": "Many have argued for an expansion of the Nobel Prize categories, but there are plenty of other prizes scientists and mathematicians can compete for."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/05/technology/cows-ai-collars.html",
+      "title": "Cows Wear High-Tech Collars Now",
+      "slug": "2025-10-05-cows-wear-high-tech-collars-now.html",
+      "path": "posts/2025-10-05-cows-wear-high-tech-collars-now.html",
+      "date_iso": "2025-10-05T09:00:21+00:00",
+      "source": "https://www.nytimes.com/2025/10/05/technology/cows-ai-collars.html",
+      "summary": "The wearables help dairy farmers gather more data so their animals are happier and produce more milk."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/05/books/review/cory-doctorow-enshittification.html",
+      "title": "Can Cory Doctorow’s Book ‘Enshittification’ Change the Tech Debate?",
+      "slug": "2025-10-05-can-cory-doctorow-s-book-enshittification-change-the-tech-debate.html",
+      "path": "posts/2025-10-05-can-cory-doctorow-s-book-enshittification-change-the-tech-debate.html",
+      "date_iso": "2025-10-05T09:00:07+00:00",
+      "source": "https://www.nytimes.com/2025/10/05/books/review/cory-doctorow-enshittification.html",
+      "summary": "Cory Doctorow, with his heavily used laptop, in the backyard of his California home."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45479103",
       "title": "Way past its prime: how did Amazon get so rubbish?",
       "slug": "2025-10-05-way-past-its-prime-how-did-amazon-get-so-rubbish.html",
