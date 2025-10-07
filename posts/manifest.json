@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45499730",
+      "title": "Learning a foreign language–before you're born",
+      "slug": "2025-10-07-learning-a-foreign-language-before-you-re-born.html",
+      "path": "posts/2025-10-07-learning-a-foreign-language-before-you-re-born.html",
+      "date_iso": "2025-10-07T05:43:56+00:00",
+      "source": "https://nouvelles.umontreal.ca/en/article/2025/10/03/learning-a-foreign-language-before-you-re-born",
+      "summary": "Article URL: https://nouvelles.umontreal.ca/en/article/2025/10/03/learning-a-foreign-language-before-you-re-born Comments URL: https://news.ycombinator.com/item?id=45499730 Points: 18 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45499281",
+      "title": "California law forces Netflix, Hulu to turn down ad volumes",
+      "slug": "2025-10-07-california-law-forces-netflix-hulu-to-turn-down-ad-volumes.html",
+      "path": "posts/2025-10-07-california-law-forces-netflix-hulu-to-turn-down-ad-volumes.html",
+      "date_iso": "2025-10-07T04:03:49+00:00",
+      "source": "https://www.politico.com/news/2025/10/06/dial-it-down-california-forces-netflix-hulu-to-lower-ad-volume-00595663",
+      "summary": "Article URL: https://www.politico.com/news/2025/10/06/dial-it-down-california-forces-netflix-hulu-to-lower-ad-volume-00595663 Comments URL: https://news.ycombinator.com/item?id=45499281 Points: 64 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45499170",
+      "title": "Pdoc – Generate API documentation for Python projects",
+      "slug": "2025-10-07-pdoc-generate-api-documentation-for-python-projects.html",
+      "path": "posts/2025-10-07-pdoc-generate-api-documentation-for-python-projects.html",
+      "date_iso": "2025-10-07T03:40:41+00:00",
+      "source": "https://pdoc.dev/",
+      "summary": "Article URL: https://pdoc.dev/ Comments URL: https://news.ycombinator.com/item?id=45499170 Points: 54 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45498469",
+      "title": "Origami Patterns Solve a Major Physics Riddle",
+      "slug": "2025-10-07-origami-patterns-solve-a-major-physics-riddle.html",
+      "path": "posts/2025-10-07-origami-patterns-solve-a-major-physics-riddle.html",
+      "date_iso": "2025-10-07T01:34:32+00:00",
+      "source": "https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/",
+      "summary": "Article URL: https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/ Comments URL: https://news.ycombinator.com/item?id=45498469 Points: 38 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45497624",
+      "title": "The least amount of CSS for a decent looking site (2023)",
+      "slug": "2025-10-06-the-least-amount-of-css-for-a-decent-looking-site-2023.html",
+      "path": "posts/2025-10-06-the-least-amount-of-css-for-a-decent-looking-site-2023.html",
+      "date_iso": "2025-10-06T23:47:24+00:00",
+      "source": "https://thecascade.dev/article/least-amount-of-css/",
+      "summary": "Article URL: https://thecascade.dev/article/least-amount-of-css/ Comments URL: https://news.ycombinator.com/item?id=45497624 Points: 289 # Comments: 99"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45497384",
+      "title": "Microsoft is plugging more holes that let you use Windows 11 without MS account",
+      "slug": "2025-10-06-microsoft-is-plugging-more-holes-that-let-you-use-windows-11-without-ms-account.html",
+      "path": "posts/2025-10-06-microsoft-is-plugging-more-holes-that-let-you-use-windows-11-without-ms-account.html",
+      "date_iso": "2025-10-06T23:15:26+00:00",
+      "source": "https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes",
+      "summary": "Article URL: https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes Comments URL: https://news.ycombinator.com/item?id=45497384 Points: 301 # Comments: 400"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45497027",
+      "title": "RediShell: Critical remote code execution vulnerability in Redis",
+      "slug": "2025-10-06-redishell-critical-remote-code-execution-vulnerability-in-redis.html",
+      "path": "posts/2025-10-06-redishell-critical-remote-code-execution-vulnerability-in-redis.html",
+      "date_iso": "2025-10-06T22:30:12+00:00",
+      "source": "https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844",
+      "summary": "Article URL: https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844 Comments URL: https://news.ycombinator.com/item?id=45497027 Points: 72 # Comments: 29"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/06/us/politics/supreme-court-google-fortnite.html",
+      "title": "Supreme Court, for Now, Rejects Google Bid to Block Changes to App Store",
+      "slug": "2025-10-06-supreme-court-for-now-rejects-google-bid-to-block-changes-to-app-store.html",
+      "path": "posts/2025-10-06-supreme-court-for-now-rejects-google-bid-to-block-changes-to-app-store.html",
+      "date_iso": "2025-10-06T21:49:13+00:00",
+      "source": "https://www.nytimes.com/2025/10/06/us/politics/supreme-court-google-fortnite.html",
+      "summary": "The fight began in 2018, when Epic Games released Fortnight as a smartphone app. The company first distributed the game through direct downloads and the Samsung Galaxy Store, but eventually offered it on Google Play."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45496533",
+      "title": "CodeMender: an AI agent for code security",
+      "slug": "2025-10-06-codemender-an-ai-agent-for-code-security.html",
+      "path": "posts/2025-10-06-codemender-an-ai-agent-for-code-security.html",
+      "date_iso": "2025-10-06T21:28:56+00:00",
+      "source": "https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/",
+      "summary": "Article URL: https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/ Comments URL: https://news.ycombinator.com/item?id=45496533 Points: 143 # Comments: 21"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/06/technology/elon-musk-grok-sexy-chatbot.html",
+      "title": "Elon Musk Gambles on Sexy A.I. Companions",
+      "slug": "2025-10-06-elon-musk-gambles-on-sexy-a-i-companions.html",
+      "path": "posts/2025-10-06-elon-musk-gambles-on-sexy-a-i-companions.html",
+      "date_iso": "2025-10-06T20:57:11+00:00",
+      "source": "https://www.nytimes.com/2025/10/06/technology/elon-musk-grok-sexy-chatbot.html",
+      "summary": "In July, the billionaire’s A.I. company introduced two sexually explicit chatbots, pushing a new version of intimacy."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45496146",
+      "title": "Valorant's 128-Tick Servers (2020)",
+      "slug": "2025-10-06-valorant-s-128-tick-servers-2020.html",
+      "path": "posts/2025-10-06-valorant-s-128-tick-servers-2020.html",
+      "date_iso": "2025-10-06T20:47:25+00:00",
+      "source": "https://technology.riotgames.com/news/valorants-128-tick-servers",
+      "summary": "Article URL: https://technology.riotgames.com/news/valorants-128-tick-servers Comments URL: https://news.ycombinator.com/item?id=45496146 Points: 197 # Comments: 101"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45495738",
+      "title": "Translating Cython to Mojo, a first attempt",
+      "slug": "2025-10-06-translating-cython-to-mojo-a-first-attempt.html",
+      "path": "posts/2025-10-06-translating-cython-to-mojo-a-first-attempt.html",
+      "date_iso": "2025-10-06T20:09:44+00:00",
+      "source": "https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/",
+      "summary": "Article URL: https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/ Comments URL: https://news.ycombinator.com/item?id=45495738 Points: 64 # Comments: 10"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/06/technology/openai-amd-chips.html",
+      "title": "OpenAI Agrees to Use Computer Chips From AMD",
+      "slug": "2025-10-06-openai-agrees-to-use-computer-chips-from-amd.html",
+      "path": "posts/2025-10-06-openai-agrees-to-use-computer-chips-from-amd.html",
+      "date_iso": "2025-10-06T18:33:39+00:00",
+      "source": "https://www.nytimes.com/2025/10/06/technology/openai-amd-chips.html",
+      "summary": "Weeks after a $100 billion agreement to use computer chips from Nvidia, OpenAI has signed a similar deal with a rival chipmaker."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45494558",
+      "title": "Apps SDK",
+      "slug": "2025-10-06-apps-sdk.html",
+      "path": "posts/2025-10-06-apps-sdk.html",
+      "date_iso": "2025-10-06T18:27:33+00:00",
+      "source": "https://developers.openai.com/apps-sdk/",
+      "summary": "Article URL: https://developers.openai.com/apps-sdk/ Comments URL: https://news.ycombinator.com/item?id=45494558 Points: 362 # Comments: 299"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45493718",
+      "title": "OpenAI ChatKit",
+      "slug": "2025-10-06-openai-chatkit.html",
+      "path": "posts/2025-10-06-openai-chatkit.html",
+      "date_iso": "2025-10-06T17:23:20+00:00",
+      "source": "https://github.com/openai/chatkit-js",
+      "summary": "Article URL: https://github.com/openai/chatkit-js Comments URL: https://news.ycombinator.com/item?id=45493718 Points: 140 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45493453",
+      "title": "UpCodes (YC S17) is hiring remote engineers across the Americas",
+      "slug": "2025-10-06-upcodes-yc-s17-is-hiring-remote-engineers-across-the-americas.html",
+      "path": "posts/2025-10-06-upcodes-yc-s17-is-hiring-remote-engineers-across-the-americas.html",
+      "date_iso": "2025-10-06T17:01:31+00:00",
+      "source": "https://up.codes/careers?utm_source=HN",
+      "summary": "Article URL: https://up.codes/careers?utm_source=HN Comments URL: https://news.ycombinator.com/item?id=45493453 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45493358",
+      "title": "Ladybird passes the Apple 90% threshold on web-platform-tests",
+      "slug": "2025-10-06-ladybird-passes-the-apple-90-threshold-on-web-platform-tests.html",
+      "path": "posts/2025-10-06-ladybird-passes-the-apple-90-threshold-on-web-platform-tests.html",
+      "date_iso": "2025-10-06T16:52:58+00:00",
+      "source": "https://twitter.com/awesomekling/status/1974781722953953601",
+      "summary": "Article URL: https://twitter.com/awesomekling/status/1974781722953953601 Comments URL: https://news.ycombinator.com/item?id=45493358 Points: 787 # Comments: 213"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/06/technology/google-ad-tech-arguments.html",
+      "title": "U.S. v. Google: What Each Side Argued for Fixing Google’s Ad Tech Monopoly",
+      "slug": "2025-10-06-u-s-v-google-what-each-side-argued-for-fixing-google-s-ad-tech-monopoly.html",
+      "path": "posts/2025-10-06-u-s-v-google-what-each-side-argued-for-fixing-google-s-ad-tech-monopoly.html",
+      "date_iso": "2025-10-06T16:17:45+00:00",
+      "source": "https://www.nytimes.com/2025/10/06/technology/google-ad-tech-arguments.html",
+      "summary": "Both sides will offer closing arguments in November. Judge Leonie M. Brinkema, who is presiding over the case, is expected to reach a decision in the coming months."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45492803",
+      "title": "OpenZL: An open source format-aware compression framework",
+      "slug": "2025-10-06-openzl-an-open-source-format-aware-compression-framework.html",
+      "path": "posts/2025-10-06-openzl-an-open-source-format-aware-compression-framework.html",
+      "date_iso": "2025-10-06T16:01:58+00:00",
+      "source": "https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/",
+      "summary": "https://github.com/facebook/openzl https://arxiv.org/abs/2510.03203 https://openzl.org/ Comments URL: https://news.ycombinator.com/item?id=45492803 Points: 312 # Comments: 70"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45491621",
+      "title": "Mise: Monorepo Tasks",
+      "slug": "2025-10-06-mise-monorepo-tasks.html",
+      "path": "posts/2025-10-06-mise-monorepo-tasks.html",
+      "date_iso": "2025-10-06T14:07:46+00:00",
+      "source": "https://github.com/jdx/mise/discussions/6564",
+      "summary": "Article URL: https://github.com/jdx/mise/discussions/6564 Comments URL: https://news.ycombinator.com/item?id=45491621 Points: 317 # Comments: 67"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45491609",
+      "title": "Show HN: Kent Dybvig's Scheme Machine in 400 Lines of C (Heap-Memory Model)",
+      "slug": "2025-10-06-show-hn-kent-dybvig-s-scheme-machine-in-400-lines-of-c-heap-memory-model.html",
+      "path": "posts/2025-10-06-show-hn-kent-dybvig-s-scheme-machine-in-400-lines-of-c-heap-memory-model.html",
+      "date_iso": "2025-10-06T14:06:29+00:00",
+      "source": "https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b",
+      "summary": "Article URL: https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b Comments URL: https://news.ycombinator.com/item?id=45491609 Points: 199 # Comments: 36"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45491470",
+      "title": "Compiling a Forth",
+      "slug": "2025-10-06-compiling-a-forth.html",
+      "path": "posts/2025-10-06-compiling-a-forth.html",
+      "date_iso": "2025-10-06T13:52:50+00:00",
+      "source": "https://healeycodes.com/compiling-a-forth",
+      "summary": "Article URL: https://healeycodes.com/compiling-a-forth Comments URL: https://news.ycombinator.com/item?id=45491470 Points: 25 # Comments: 4"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45488441",
       "title": "Flightcontrol: AWS PaaS",
       "slug": "2025-10-06-flightcontrol-aws-paas.html",
@@ -19,6 +217,15 @@
       "summary": "Article URL: https://structuredprocrastination.com Comments URL: https://news.ycombinator.com/item?id=45488261 Points: 27 # Comments: 4"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=45487771",
+      "title": "Gem.coop",
+      "slug": "2025-10-06-gem-coop.html",
+      "path": "posts/2025-10-06-gem-coop.html",
+      "date_iso": "2025-10-06T04:59:39+00:00",
+      "source": "https://gem.coop/",
+      "summary": "Article URL: https://gem.coop/ Comments URL: https://news.ycombinator.com/item?id=45487771 Points: 480 # Comments: 254"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45487629",
       "title": "CHERI with a Linux on Top",
       "slug": "2025-10-06-cheri-with-a-linux-on-top.html",
@@ -35,6 +242,15 @@
       "date_iso": "2025-10-06T04:01:12+00:00",
       "source": "https://www.nytimes.com/2025/10/06/business/jaguar-range-rover-cyberattacks-britain.html",
       "summary": "A Jaguar Land Rover factory in Solihull, Britain, in 2022. The automaker shut down its production lines last month after discovering a breach."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45487519",
+      "title": "It's just a virus, the E.R. told him – days later, he was dead",
+      "slug": "2025-10-06-it-s-just-a-virus-the-e-r-told-him-days-later-he-was-dead.html",
+      "path": "posts/2025-10-06-it-s-just-a-virus-the-e-r-told-him-days-later-he-was-dead.html",
+      "date_iso": "2025-10-06T03:57:26+00:00",
+      "source": "https://www.nytimes.com/2025/10/05/well/sam-terblanche-virus-death-columbia.html",
+      "summary": "Article URL: https://www.nytimes.com/2025/10/05/well/sam-terblanche-virus-death-columbia.html Comments URL: https://news.ycombinator.com/item?id=45487519 Points: 177 # Comments: 306"
     },
     {
       "id": "https://news.ycombinator.com/item?id=45487476",
