@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45524437",
+      "title": "The Forecasting Company (YC S24) Is Hiring a Machine Learning Engineer",
+      "slug": "2025-10-09-the-forecasting-company-yc-s24-is-hiring-a-machine-learning-engineer.html",
+      "path": "posts/2025-10-09-the-forecasting-company-yc-s24-is-hiring-a-machine-learning-engineer.html",
+      "date_iso": "2025-10-09T07:01:07+00:00",
+      "source": "https://www.ycombinator.com/companies/the-forecasting-company/jobs/cXJzAhA-founding-machine-learning-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/the-forecasting-company/jobs/cXJzAhA-founding-machine-learning-engineer Comments URL: https://news.ycombinator.com/item?id=45524437 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45523871",
+      "title": "Download all of your GitHub data",
+      "slug": "2025-10-09-download-all-of-your-github-data.html",
+      "path": "posts/2025-10-09-download-all-of-your-github-data.html",
+      "date_iso": "2025-10-09T05:29:50+00:00",
+      "source": "https://github.blog/developer-skills/github/download-your-data/",
+      "summary": "Article URL: https://github.blog/developer-skills/github/download-your-data/ Comments URL: https://news.ycombinator.com/item?id=45523871 Points: 16 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45523537",
+      "title": "Two things LLM coding agents are still bad at",
+      "slug": "2025-10-09-two-things-llm-coding-agents-are-still-bad-at.html",
+      "path": "posts/2025-10-09-two-things-llm-coding-agents-are-still-bad-at.html",
+      "date_iso": "2025-10-09T04:33:48+00:00",
+      "source": "https://kix.dev/two-things-llm-coding-agents-are-still-bad-at/",
+      "summary": "Article URL: https://kix.dev/two-things-llm-coding-agents-are-still-bad-at/ Comments URL: https://news.ycombinator.com/item?id=45523537 Points: 40 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45523033",
+      "title": "California enacts law enabling people to universally opt out of data sharing",
+      "slug": "2025-10-09-california-enacts-law-enabling-people-to-universally-opt-out-of-data-sharing.html",
+      "path": "posts/2025-10-09-california-enacts-law-enabling-people-to-universally-opt-out-of-data-sharing.html",
+      "date_iso": "2025-10-09T02:59:34+00:00",
+      "source": "https://therecord.media/california-signs-law-opt-out-browsers",
+      "summary": "Article URL: https://therecord.media/california-signs-law-opt-out-browsers Comments URL: https://news.ycombinator.com/item?id=45523033 Points: 300 # Comments: 52"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45522406",
+      "title": "Designing a Low Latency 10G Ethernet Core (2023)",
+      "slug": "2025-10-09-designing-a-low-latency-10g-ethernet-core-2023.html",
+      "path": "posts/2025-10-09-designing-a-low-latency-10g-ethernet-core-2023.html",
+      "date_iso": "2025-10-09T01:17:20+00:00",
+      "source": "https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html",
+      "summary": "Article URL: https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html Comments URL: https://news.ycombinator.com/item?id=45522406 Points: 71 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45521920",
+      "title": "A competitor crippled a $23.5M bootcamp by becoming a Reddit moderator",
+      "slug": "2025-10-08-a-competitor-crippled-a-23-5m-bootcamp-by-becoming-a-reddit-moderator.html",
+      "path": "posts/2025-10-08-a-competitor-crippled-a-23-5m-bootcamp-by-becoming-a-reddit-moderator.html",
+      "date_iso": "2025-10-08T23:48:28+00:00",
+      "source": "https://larslofgren.com/codesmith-reddit-reputation-attack/",
+      "summary": "https://archive.ph/w0izj Comments URL: https://news.ycombinator.com/item?id=45521920 Points: 492 # Comments: 309"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45521788",
+      "title": "Show HN: HyprMCP – Analytics, logs and auth for MCP servers",
+      "slug": "2025-10-08-show-hn-hyprmcp-analytics-logs-and-auth-for-mcp-servers.html",
+      "path": "posts/2025-10-08-show-hn-hyprmcp-analytics-logs-and-auth-for-mcp-servers.html",
+      "date_iso": "2025-10-08T23:27:23+00:00",
+      "source": "https://github.com/hyprmcp/jetski",
+      "summary": "Hi HN, my name is Philip, I’m the co-founder of Glasskube and one of the creators of HyprMCP. This project started when we did what everyone was doing — building a remote MCP server and launching it. Building the first local MCP server for testing was quite simple, and we had ou…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45521738",
+      "title": "Discord says 70k users may have had their government IDs leaked in breach",
+      "slug": "2025-10-08-discord-says-70k-users-may-have-had-their-government-ids-leaked-in-breach.html",
+      "path": "posts/2025-10-08-discord-says-70k-users-may-have-had-their-government-ids-leaked-in-breach.html",
+      "date_iso": "2025-10-08T23:20:13+00:00",
+      "source": "https://www.theverge.com/news/797051/discord-government-ids-leaked-data-breach",
+      "summary": "Article URL: https://www.theverge.com/news/797051/discord-government-ids-leaked-data-breach Comments URL: https://news.ycombinator.com/item?id=45521738 Points: 368 # Comments: 187"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45521629",
+      "title": "OpenAI, Nvidia fuel $1T AI market with web of circular deals",
+      "slug": "2025-10-08-openai-nvidia-fuel-1t-ai-market-with-web-of-circular-deals.html",
+      "path": "posts/2025-10-08-openai-nvidia-fuel-1t-ai-market-with-web-of-circular-deals.html",
+      "date_iso": "2025-10-08T23:04:32+00:00",
+      "source": "https://www.bloomberg.com/news/features/2025-10-07/openai-s-nvidia-amd-deals-boost-1-trillion-ai-boom-with-circular-deals",
+      "summary": "See also https://www.bloomberg.com/news/articles/2025-10-08/the-circu... ( https://archive.ph/E7nGC ) Comments URL: https://news.ycombinator.com/item?id=45521629 Points: 182 # Comments: 112"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/08/science/nsf-spacecraft-technology.html",
+      "title": "His Lab Tested Cutting-Edge Spacecraft",
+      "slug": "2025-10-08-his-lab-tested-cutting-edge-spacecraft.html",
+      "path": "posts/2025-10-08-his-lab-tested-cutting-edge-spacecraft.html",
+      "date_iso": "2025-10-08T23:02:09+00:00",
+      "source": "https://www.nytimes.com/2025/10/08/science/nsf-spacecraft-technology.html",
+      "summary": "Mason Peck, an aerospace engineer at Cornell, was trying to test innovative designs in spacecraft when a stop-work order hit."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/08/climate/trump-climate-science-funding.html",
+      "title": "Has Your Scientific Work Been Cut? We Want to Hear.",
+      "slug": "2025-10-08-has-your-scientific-work-been-cut-we-want-to-hear.html",
+      "path": "posts/2025-10-08-has-your-scientific-work-been-cut-we-want-to-hear.html",
+      "date_iso": "2025-10-08T22:45:11+00:00",
+      "source": "https://www.nytimes.com/2025/10/08/climate/trump-climate-science-funding.html",
+      "summary": "For a new series, Times journalists are speaking with scientists whose research has ended as a result of policy changes by the Trump administration."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45520615",
+      "title": "Kurt Got Got",
+      "slug": "2025-10-08-kurt-got-got.html",
+      "path": "posts/2025-10-08-kurt-got-got.html",
+      "date_iso": "2025-10-08T21:02:34+00:00",
+      "source": "https://fly.io/blog/kurt-got-got/",
+      "summary": "Article URL: https://fly.io/blog/kurt-got-got/ Comments URL: https://news.ycombinator.com/item?id=45520615 Points: 237 # Comments: 156"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45520154",
+      "title": "I played 1k hands of online poker and built a web app with Cursor AI",
+      "slug": "2025-10-08-i-played-1k-hands-of-online-poker-and-built-a-web-app-with-cursor-ai.html",
+      "path": "posts/2025-10-08-i-played-1k-hands-of-online-poker-and-built-a-web-app-with-cursor-ai.html",
+      "date_iso": "2025-10-08T20:20:21+00:00",
+      "source": "https://blog.rchase.com/i-played-1-000-hands-of-online-poker-and-built-a-web-app-with-cursor-ai/",
+      "summary": "Article URL: https://blog.rchase.com/i-played-1-000-hands-of-online-poker-and-built-a-web-app-with-cursor-ai/ Comments URL: https://news.ycombinator.com/item?id=45520154 Points: 84 # Comments: 115"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45519575",
+      "title": "A few things to know before stealing my 914 (2022)",
+      "slug": "2025-10-08-a-few-things-to-know-before-stealing-my-914-2022.html",
+      "path": "posts/2025-10-08-a-few-things-to-know-before-stealing-my-914-2022.html",
+      "date_iso": "2025-10-08T19:16:10+00:00",
+      "source": "https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/",
+      "summary": "Article URL: https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/ Comments URL: https://news.ycombinator.com/item?id=45519575 Points: 277 # Comments: 126"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45518861",
+      "title": "Show HN: FleetCode – Open-source UI for running multiple coding agents",
+      "slug": "2025-10-08-show-hn-fleetcode-open-source-ui-for-running-multiple-coding-agents.html",
+      "path": "posts/2025-10-08-show-hn-fleetcode-open-source-ui-for-running-multiple-coding-agents.html",
+      "date_iso": "2025-10-08T18:00:34+00:00",
+      "source": "https://github.com/built-by-as/FleetCode",
+      "summary": "Hi HN! I've recently been finding productivity in running parallel CLI coding agents(after not believing in them initially). After having to do a ton of git stashing and branch fumbling, I decided I needed to something to more ergonomically run these agents in their own dedicate…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45518813",
+      "title": "WinBoat: Windows apps on Linux with seamless integration",
+      "slug": "2025-10-08-winboat-windows-apps-on-linux-with-seamless-integration.html",
+      "path": "posts/2025-10-08-winboat-windows-apps-on-linux-with-seamless-integration.html",
+      "date_iso": "2025-10-08T17:56:32+00:00",
+      "source": "https://www.winboat.app/",
+      "summary": "Article URL: https://www.winboat.app/ Comments URL: https://news.ycombinator.com/item?id=45518813 Points: 203 # Comments: 113"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45517134",
+      "title": "The RSS feed reader landscape",
+      "slug": "2025-10-08-the-rss-feed-reader-landscape.html",
+      "path": "posts/2025-10-08-the-rss-feed-reader-landscape.html",
+      "date_iso": "2025-10-08T15:17:36+00:00",
+      "source": "https://lighthouseapp.io/blog/feed-reader-deep-dive",
+      "summary": "Article URL: https://lighthouseapp.io/blog/feed-reader-deep-dive Comments URL: https://news.ycombinator.com/item?id=45517134 Points: 227 # Comments: 141"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45516968",
+      "title": "After 2 decades of tinkering, MAME cracks the Hyper Neo Geo 64",
+      "slug": "2025-10-08-after-2-decades-of-tinkering-mame-cracks-the-hyper-neo-geo-64.html",
+      "path": "posts/2025-10-08-after-2-decades-of-tinkering-mame-cracks-the-hyper-neo-geo-64.html",
+      "date_iso": "2025-10-08T15:01:38+00:00",
+      "source": "https://www.readonlymemo.com/mame-hyper-neo-geo-support-sound-emulation/",
+      "summary": "Article URL: https://www.readonlymemo.com/mame-hyper-neo-geo-support-sound-emulation/ Comments URL: https://news.ycombinator.com/item?id=45516968 Points: 304 # Comments: 65"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45516584",
+      "title": "Show HN: Recall: Give Claude memory with Redis-backed persistent context",
+      "slug": "2025-10-08-show-hn-recall-give-claude-memory-with-redis-backed-persistent-context.html",
+      "path": "posts/2025-10-08-show-hn-recall-give-claude-memory-with-redis-backed-persistent-context.html",
+      "date_iso": "2025-10-08T14:28:06+00:00",
+      "source": "https://www.npmjs.com/package/@joseairosa/recall",
+      "summary": "Hey HN! I'm José, and I built Recall to solve a problem that was driving me crazy. The Problem: I use Claude for coding daily, but every conversation starts from scratch. I'd explain my architecture, coding standards, past decisions... then hit the context limit and lose everyth…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45516426",
+      "title": "Now open for building: Introducing Gemini CLI extensions",
+      "slug": "2025-10-08-now-open-for-building-introducing-gemini-cli-extensions.html",
+      "path": "posts/2025-10-08-now-open-for-building-introducing-gemini-cli-extensions.html",
+      "date_iso": "2025-10-08T14:13:30+00:00",
+      "source": "https://blog.google/technology/developers/gemini-cli-extensions/",
+      "summary": "Article URL: https://blog.google/technology/developers/gemini-cli-extensions/ Comments URL: https://news.ycombinator.com/item?id=45516426 Points: 145 # Comments: 35"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45516000",
+      "title": "We found a bug in Go's ARM64 compiler",
+      "slug": "2025-10-08-we-found-a-bug-in-go-s-arm64-compiler.html",
+      "path": "posts/2025-10-08-we-found-a-bug-in-go-s-arm64-compiler.html",
+      "date_iso": "2025-10-08T13:33:15+00:00",
+      "source": "https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/",
+      "summary": "Article URL: https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/ Comments URL: https://news.ycombinator.com/item?id=45516000 Points: 674 # Comments: 102"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45514433",
+      "title": "One-man campaign ravages EU 'Chat Control' bill",
+      "slug": "2025-10-08-one-man-campaign-ravages-eu-chat-control-bill.html",
+      "path": "posts/2025-10-08-one-man-campaign-ravages-eu-chat-control-bill.html",
+      "date_iso": "2025-10-08T10:26:05+00:00",
+      "source": "https://www.politico.eu/article/one-man-spam-campaign-ravages-eu-chat-control-bill-fight-chat-control/",
+      "summary": "Related: https://fightchatcontrol.eu/ Comments URL: https://news.ycombinator.com/item?id=45514433 Points: 542 # Comments: 177"
+    },
+    {
       "id": "https://www.nytimes.com/2025/10/08/science/diamonds-computer-chips-ai.html",
       "title": "Why Diamonds Are Computer Chips’ New Best Friend",
       "slug": "2025-10-08-why-diamonds-are-computer-chips-new-best-friend.html",

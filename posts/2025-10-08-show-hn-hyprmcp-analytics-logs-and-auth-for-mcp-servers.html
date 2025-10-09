@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: HyprMCP – Analytics, logs and auth for MCP servers</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: HyprMCP – Analytics, logs and auth for MCP servers</h1>
+    <p><small>Published: 2025-10-08T23:27:23+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hi HN, my name is Philip, I’m the co-founder of Glasskube and one of the creators of HyprMCP.<p>This project started when we did what everyone was doing — building a remote MCP server and launching it. Building the first local MCP server for testing was quite simple, and we had our first tools ready within a day. The next step was turning that into a production-ready remote MCP server.<p>As we exposed the MCP server to our users, we wanted to authenticate them with our existing authentication methods. We dove deep into authentication. Our approach was to build an auth proxy and plug it in front of our MCP. It took a while to figure out Dynamic Client Registration (DCR) and the OAuth spec, and especially the gaps between existing OIDC IDPs and what LLM clients needed.<p>We thought authentication would be the hard part — but it wasn’t. When we shared the MCP server with a few friendly startups, we realized that different MCP clients behave differently. Especially if something didn't work, it was hard to figure out the root cause. We ended up storing all the raw gRPC method calls to see if the initialization and subsequent requests worked. This is especially useful if you are on a serverless environment with limited debugging functionality, like Cloudflare Workers.<p>Once we solved auth and compatibility, we launched to a small customer base — done, right? Unfortunately, not quite. Technically everything was working, but when we started talking to users, they told us the MCP server didn’t always respond with the right tools for their prompts. We had a working enterprise-grade MCP server — but it wasn’t very smart. After talking to some startup friends, we realized we needed an evaluation layer. That’s when we added prompt analytics — letting us see which prompts triggered which tools and how well they performed. That alone dramatically improved our MCP’s behavior and overall user experience.<p>After building all of this into our proxy, we realized that everyone building a remote MCP was facing the same challenges. So we decided to package it all up and release it to the community.<p>We’re thrilled to launch and open-source HyprMCP.
+It acts as a proxy that you can plug in front of your MCP server(s) with zero code changes. You get authentication, logging and debugging, prompt analytics, and an MCP connection instructions generator.<p>Under the hood, HyprMCP leverages dynamic Kubernetes Operators (Metacontroller) to automate infrastructure provisioning.<p>On the roadmap: MCP aggregation — combining multiple MCP servers under one single remote URL for large organizations running servers with different lifecycles.
+All of it without storing end user credentials on the server and connecting the MCP to the organizations existing authentication methods.<p>You can check the project out on GitHub: <a href="https://github.com/hyprmcp/jetski" rel="nofollow">https://github.com/hyprmcp/jetski</a><p>For testing, we also have a hosted version here: <a href="https://app.hyprmcp.com" rel="nofollow">https://app.hyprmcp.com</a><p>We even created a demo video on YouTube: <a href="https://www.youtube.com/watch?v=m2-YyfjXap4" rel="nofollow">https://www.youtube.com/watch?v=m2-YyfjXap4</a><p>We’d love to get your feedback, hear what features are missing, and learn how you’re building and running your own MCP servers.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45521788">https://news.ycombinator.com/item?id=45521788</a></p>
+<p>Points: 44</p>
+<p># Comments: 2</p>
+    <p><a href="https://github.com/hyprmcp/jetski" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

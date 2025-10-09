@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Recall: Give Claude memory with Redis-backed persistent context</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Recall: Give Claude memory with Redis-backed persistent context</h1>
+    <p><small>Published: 2025-10-08T14:28:06+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hey HN! I'm José, and I built Recall to solve a problem that was driving me crazy.<p>The Problem:
+I use Claude for coding daily, but every conversation starts from scratch. I'd explain my architecture, coding standards, past decisions... then hit the context limit and lose everything. Next session? Start over.<p>The Solution:
+Recall is an MCP (Model Context Protocol) server that gives Claude persistent memory using Redis + semantic search. Think of it as long-term memory that survives context limits and session restarts.<p>How it works:
+- Claude stores important context as "memories" during conversations
+- Memories are embedded (OpenAI) and stored in Redis with metadata
+- Semantic search retrieves relevant memories automatically
+- Works across sessions, projects, even machines (if you use cloud Redis)<p>Key Features:
+- Global memories: Share context across all projects
+- Relationships: Link related memories into knowledge graphs
+- Versioning: Track how memories evolve over time
+- Templates: Reusable patterns for common workflows
+- Workspace isolation: Project A memories don't pollute Project B<p>Tech Stack:
+- TypeScript + MCP SDK
+- Redis for storage
+- OpenAI embeddings (text-embedding-3-small)
+- ~189KB bundle, runs locally<p>Current Stats:
+- 27 tools exposed to Claude
+- 10 context types (directives, decisions, patterns, etc.)
+- Sub-second semantic search on 10k+ memories
+- Works with Claude Desktop, Claude Code, any MCP client<p>Example Use Case:
+I'm building an e-commerce platform. I told Claude once: "We use Tailwind, prefer composition API, API rate limit is 1000/min." Now every conversation, Claude remembers and applies these preferences automatically.<p>What's Next (v1.6.0 in progress):
+- CI/CD pipeline with GitHub Actions
+- Docker support for easy deployment
+- Proper test suite with Vitest
+- Better error messages and logging<p>Try it:<p>npm install -g @joseairosa/recall
+# Add to claude_desktop_config.json
+# Start using persistent memory</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45516584">https://news.ycombinator.com/item?id=45516584</a></p>
+<p>Points: 148</p>
+<p># Comments: 83</p>
+    <p><a href="https://www.npmjs.com/package/@joseairosa/recall" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
