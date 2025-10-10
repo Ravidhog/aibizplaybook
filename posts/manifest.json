@@ -1,6 +1,249 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2025/10/10/insider/cryptocurrency-reporing.html",
+      "title": "Riding the Wild Wave of Crypto Coverage",
+      "slug": "2025-10-10-riding-the-wild-wave-of-crypto-coverage.html",
+      "path": "posts/2025-10-10-riding-the-wild-wave-of-crypto-coverage.html",
+      "date_iso": "2025-10-10T07:00:05+00:00",
+      "source": "https://www.nytimes.com/2025/10/10/insider/cryptocurrency-reporing.html",
+      "summary": "Sam Bankman-Fried, left, at a cryptocurrency conference in 2022. He was convicted in 2023 of seven counts of fraud and conspiracy."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45535425",
+      "title": "Reasoning LLMs are wandering solution explorers",
+      "slug": "2025-10-10-reasoning-llms-are-wandering-solution-explorers.html",
+      "path": "posts/2025-10-10-reasoning-llms-are-wandering-solution-explorers.html",
+      "date_iso": "2025-10-10T04:40:26+00:00",
+      "source": "https://arxiv.org/abs/2505.20296",
+      "summary": "Article URL: https://arxiv.org/abs/2505.20296 Comments URL: https://news.ycombinator.com/item?id=45535425 Points: 65 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45535202",
+      "title": "My approach to building large technical projects (2023)",
+      "slug": "2025-10-10-my-approach-to-building-large-technical-projects-2023.html",
+      "path": "posts/2025-10-10-my-approach-to-building-large-technical-projects-2023.html",
+      "date_iso": "2025-10-10T03:45:29+00:00",
+      "source": "https://mitchellh.com/writing/building-large-technical-projects",
+      "summary": "Article URL: https://mitchellh.com/writing/building-large-technical-projects Comments URL: https://news.ycombinator.com/item?id=45535202 Points: 76 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45535183",
+      "title": "Love C, Hate C: Web Framework Memory Problems",
+      "slug": "2025-10-10-love-c-hate-c-web-framework-memory-problems.html",
+      "path": "posts/2025-10-10-love-c-hate-c-web-framework-memory-problems.html",
+      "date_iso": "2025-10-10T03:39:57+00:00",
+      "source": "https://alew.is/lava.html",
+      "summary": "Article URL: https://alew.is/lava.html Comments URL: https://news.ycombinator.com/item?id=45535183 Points: 34 # Comments: 28"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45535149",
+      "title": "The RubyGems \"Security Incident\"",
+      "slug": "2025-10-10-the-rubygems-security-incident.html",
+      "path": "posts/2025-10-10-the-rubygems-security-incident.html",
+      "date_iso": "2025-10-10T03:30:24+00:00",
+      "source": "https://andre.arko.net/2025/10/09/the-rubygems-security-incident/",
+      "summary": "Article URL: https://andre.arko.net/2025/10/09/the-rubygems-security-incident/ Comments URL: https://news.ycombinator.com/item?id=45535149 Points: 78 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45535082",
+      "title": "Managing Encrypted Filesystems with dirlock",
+      "slug": "2025-10-10-managing-encrypted-filesystems-with-dirlock.html",
+      "path": "posts/2025-10-10-managing-encrypted-filesystems-with-dirlock.html",
+      "date_iso": "2025-10-10T03:12:44+00:00",
+      "source": "https://lwn.net/Articles/1038859/",
+      "summary": "Article URL: https://lwn.net/Articles/1038859/ Comments URL: https://news.ycombinator.com/item?id=45535082 Points: 11 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45535014",
+      "title": "Vexing Exceptions",
+      "slug": "2025-10-10-vexing-exceptions.html",
+      "path": "posts/2025-10-10-vexing-exceptions.html",
+      "date_iso": "2025-10-10T02:54:31+00:00",
+      "source": "https://ericlippert.com/2008/09/10/vexing-exceptions/",
+      "summary": "Article URL: https://ericlippert.com/2008/09/10/vexing-exceptions/ Comments URL: https://news.ycombinator.com/item?id=45535014 Points: 7 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45534922",
+      "title": "Open-Source Agentic AI",
+      "slug": "2025-10-10-open-source-agentic-ai.html",
+      "path": "posts/2025-10-10-open-source-agentic-ai.html",
+      "date_iso": "2025-10-10T02:30:58+00:00",
+      "source": "https://github.com/AFK-surf/open-agent",
+      "summary": "Article URL: https://github.com/AFK-surf/open-agent Comments URL: https://news.ycombinator.com/item?id=45534922 Points: 34 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45533902",
+      "title": "How to write in Cuneiform",
+      "slug": "2025-10-09-how-to-write-in-cuneiform.html",
+      "path": "posts/2025-10-09-how-to-write-in-cuneiform.html",
+      "date_iso": "2025-10-09T22:58:31+00:00",
+      "source": "https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html",
+      "summary": "Article URL: https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html Comments URL: https://news.ycombinator.com/item?id=45533902 Points: 75 # Comments: 44"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45533870",
+      "title": "Show HN: Open source, logical multi-master PostgreSQL replication",
+      "slug": "2025-10-09-show-hn-open-source-logical-multi-master-postgresql-replication.html",
+      "path": "posts/2025-10-09-show-hn-open-source-logical-multi-master-postgresql-replication.html",
+      "date_iso": "2025-10-09T22:53:39+00:00",
+      "source": "https://github.com/pgEdge/spock",
+      "summary": "Article URL: https://github.com/pgEdge/spock Comments URL: https://news.ycombinator.com/item?id=45533870 Points: 100 # Comments: 27"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/09/science/nobel-prizes-science-basic-research.html",
+      "title": "Nobel Prizes This Year Offer Three Cheers for Slow Science",
+      "slug": "2025-10-09-nobel-prizes-this-year-offer-three-cheers-for-slow-science.html",
+      "path": "posts/2025-10-09-nobel-prizes-this-year-offer-three-cheers-for-slow-science.html",
+      "date_iso": "2025-10-09T22:35:10+00:00",
+      "source": "https://www.nytimes.com/2025/10/09/science/nobel-prizes-science-basic-research.html",
+      "summary": "Richard Robson, left, one of the winners of this year’s Nobel Prize for Chemistry, with a student at the University of Melbourne. He and his co-laureates were recognized for work derived from experiments that began in the 1980s."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45532685",
+      "title": "A built-in 'off switch' to stop persistent pain",
+      "slug": "2025-10-09-a-built-in-off-switch-to-stop-persistent-pain.html",
+      "path": "posts/2025-10-09-a-built-in-off-switch-to-stop-persistent-pain.html",
+      "date_iso": "2025-10-09T20:27:39+00:00",
+      "source": "https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain",
+      "summary": "Article URL: https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain Comments URL: https://news.ycombinator.com/item?id=45532685 Points: 151 # Comments: 67"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45532680",
+      "title": "Finding a VS Code Memory Leak",
+      "slug": "2025-10-09-finding-a-vs-code-memory-leak.html",
+      "path": "posts/2025-10-09-finding-a-vs-code-memory-leak.html",
+      "date_iso": "2025-10-09T20:27:28+00:00",
+      "source": "https://randomascii.wordpress.com/2025/10/09/finding-a-vs-code-memory-leak/",
+      "summary": "Article URL: https://randomascii.wordpress.com/2025/10/09/finding-a-vs-code-memory-leak/ Comments URL: https://news.ycombinator.com/item?id=45532680 Points: 72 # Comments: 9"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/09/technology/nvidia-chips-china-megaspeed.html",
+      "title": "A Mystery C.E.O. and Billions in Sales: Is China Buying Banned Nvidia Chips?",
+      "slug": "2025-10-09-a-mystery-c-e-o-and-billions-in-sales-is-china-buying-banned-nvidia-chips.html",
+      "path": "posts/2025-10-09-a-mystery-c-e-o-and-billions-in-sales-is-china-buying-banned-nvidia-chips.html",
+      "date_iso": "2025-10-09T20:25:47+00:00",
+      "source": "https://www.nytimes.com/2025/10/09/technology/nvidia-chips-china-megaspeed.html",
+      "summary": "Construction workers at Sedenak Tech Park, where U.S. workers found Megaspeed’s orders of Nvidia products still in boxes."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/09/technology/roger-ver-bitcoin-justice-department-deal.html",
+      "title": "Crypto Investor Known as ‘Bitcoin Jesus’ Reaches Deal With Prosecutors",
+      "slug": "2025-10-09-crypto-investor-known-as-bitcoin-jesus-reaches-deal-with-prosecutors.html",
+      "path": "posts/2025-10-09-crypto-investor-known-as-bitcoin-jesus-reaches-deal-with-prosecutors.html",
+      "date_iso": "2025-10-09T20:12:27+00:00",
+      "source": "https://www.nytimes.com/2025/10/09/technology/roger-ver-bitcoin-justice-department-deal.html",
+      "summary": "Roger Ver, shown in 2013, was charged with fraud and tax evasion for failing to pay $48 million in taxes that he owed on his cryptocurrency holdings."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45532352",
+      "title": "The Burrows-Wheeler Transform",
+      "slug": "2025-10-09-the-burrows-wheeler-transform.html",
+      "path": "posts/2025-10-09-the-burrows-wheeler-transform.html",
+      "date_iso": "2025-10-09T20:00:31+00:00",
+      "source": "https://sandbox.bio/concepts/bwt",
+      "summary": "Article URL: https://sandbox.bio/concepts/bwt Comments URL: https://news.ycombinator.com/item?id=45532352 Points: 117 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45532090",
+      "title": "Examples Are the Best Documentation",
+      "slug": "2025-10-09-examples-are-the-best-documentation.html",
+      "path": "posts/2025-10-09-examples-are-the-best-documentation.html",
+      "date_iso": "2025-10-09T19:34:36+00:00",
+      "source": "https://rakhim.exotext.com/examples-are-the-best-documentation",
+      "summary": "Article URL: https://rakhim.exotext.com/examples-are-the-best-documentation Comments URL: https://news.ycombinator.com/item?id=45532090 Points: 75 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45531367",
+      "title": "Hacker News Live Feed",
+      "slug": "2025-10-09-hacker-news-live-feed.html",
+      "path": "posts/2025-10-09-hacker-news-live-feed.html",
+      "date_iso": "2025-10-09T18:33:17+00:00",
+      "source": "https://jerbear2008.github.io/hn-live/",
+      "summary": "Article URL: https://jerbear2008.github.io/hn-live/ Comments URL: https://news.ycombinator.com/item?id=45531367 Points: 192 # Comments: 67"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45530744",
+      "title": "Subway Builder: A realistic subway simulation game",
+      "slug": "2025-10-09-subway-builder-a-realistic-subway-simulation-game.html",
+      "path": "posts/2025-10-09-subway-builder-a-realistic-subway-simulation-game.html",
+      "date_iso": "2025-10-09T17:38:29+00:00",
+      "source": "https://www.subwaybuilder.com/",
+      "summary": "Article URL: https://www.subwaybuilder.com/ Comments URL: https://news.ycombinator.com/item?id=45530744 Points: 231 # Comments: 97"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45530486",
+      "title": "LLMs are mortally terrified of exceptions",
+      "slug": "2025-10-09-llms-are-mortally-terrified-of-exceptions.html",
+      "path": "posts/2025-10-09-llms-are-mortally-terrified-of-exceptions.html",
+      "date_iso": "2025-10-09T17:16:28+00:00",
+      "source": "https://twitter.com/karpathy/status/1976077806443569355",
+      "summary": "https://x.com/karpathy/status/1976082963382272334 Comments URL: https://news.ycombinator.com/item?id=45530486 Points: 197 # Comments: 97"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45530261",
+      "title": "ESP32 and Termux",
+      "slug": "2025-10-09-esp32-and-termux.html",
+      "path": "posts/2025-10-09-esp32-and-termux.html",
+      "date_iso": "2025-10-09T16:56:52+00:00",
+      "source": "https://blog.gavide.dev/blog/esp32-and-termux",
+      "summary": "Article URL: https://blog.gavide.dev/blog/esp32-and-termux Comments URL: https://news.ycombinator.com/item?id=45530261 Points: 107 # Comments: 31"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45529587",
+      "title": "A small number of samples can poison LLMs of any size",
+      "slug": "2025-10-09-a-small-number-of-samples-can-poison-llms-of-any-size.html",
+      "path": "posts/2025-10-09-a-small-number-of-samples-can-poison-llms-of-any-size.html",
+      "date_iso": "2025-10-09T16:04:04+00:00",
+      "source": "https://www.anthropic.com/research/small-samples-poison",
+      "summary": "Article URL: https://www.anthropic.com/research/small-samples-poison Comments URL: https://news.ycombinator.com/item?id=45529587 Points: 850 # Comments: 308"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/09/business/new-jersey-electricity-prices-governor-election.html",
+      "title": "In N.J. Governor’s Race, Energy Costs Have Become a Central Issue",
+      "slug": "2025-10-09-in-n-j-governor-s-race-energy-costs-have-become-a-central-issue.html",
+      "path": "posts/2025-10-09-in-n-j-governor-s-race-energy-costs-have-become-a-central-issue.html",
+      "date_iso": "2025-10-09T15:53:06+00:00",
+      "source": "https://www.nytimes.com/2025/10/09/business/new-jersey-electricity-prices-governor-election.html",
+      "summary": "Energy costs have become a central issue in the governor’s race between Jack Ciattarelli, the Republican, and Representative Mikie Sherrill, the Democrat."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45529393",
+      "title": "Show HN: I've built a tiny hand-held keyboard",
+      "slug": "2025-10-09-show-hn-i-ve-built-a-tiny-hand-held-keyboard.html",
+      "path": "posts/2025-10-09-show-hn-i-ve-built-a-tiny-hand-held-keyboard.html",
+      "date_iso": "2025-10-09T15:51:20+00:00",
+      "source": "https://github.com/mafik/keyer",
+      "summary": "I bet you didn't knew you can use modelling clay (as opposed to 3d printing) to make nice devices by hand :) Comments URL: https://news.ycombinator.com/item?id=45529393 Points: 310 # Comments: 92"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/09/technology/personaltech/sora-ai-video-impact.html",
+      "title": "What the Arrival of A.I. Video Generators Like Sora Means for Us",
+      "slug": "2025-10-09-what-the-arrival-of-a-i-video-generators-like-sora-means-for-us.html",
+      "path": "posts/2025-10-09-what-the-arrival-of-a-i-video-generators-like-sora-means-for-us.html",
+      "date_iso": "2025-10-09T14:18:08+00:00",
+      "source": "https://www.nytimes.com/2025/10/09/technology/personaltech/sora-ai-video-impact.html",
+      "summary": "Welcome to the era of fakery. The widespread use of instant video generators like Sora will bring an end to visuals as proof."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45527507",
+      "title": "Using a laptop as an HDMI monitor for an SBC",
+      "slug": "2025-10-09-using-a-laptop-as-an-hdmi-monitor-for-an-sbc.html",
+      "path": "posts/2025-10-09-using-a-laptop-as-an-hdmi-monitor-for-an-sbc.html",
+      "date_iso": "2025-10-09T13:36:01+00:00",
+      "source": "https://danielmangum.com/posts/laptop-hdmi-monitor-sbc/",
+      "summary": "Article URL: https://danielmangum.com/posts/laptop-hdmi-monitor-sbc/ Comments URL: https://news.ycombinator.com/item?id=45527507 Points: 131 # Comments: 82"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/09/technology/intel-chip-factory-fab52.html",
+      "title": "Intel’s Big Bet: Inside the Chipmaker’s Make-or-Break Factory",
+      "slug": "2025-10-09-intel-s-big-bet-inside-the-chipmaker-s-make-or-break-factory.html",
+      "path": "posts/2025-10-09-intel-s-big-bet-inside-the-chipmaker-s-make-or-break-factory.html",
+      "date_iso": "2025-10-09T13:00:11+00:00",
+      "source": "https://www.nytimes.com/2025/10/09/technology/intel-chip-factory-fab52.html",
+      "summary": "The centerpiece of the company’s comeback hopes is a multibillion-dollar facility in the Arizona desert. Will it draw new customers?"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45524437",
       "title": "The Forecasting Company (YC S24) Is Hiring a Machine Learning Engineer",
       "slug": "2025-10-09-the-forecasting-company-yc-s24-is-hiring-a-machine-learning-engineer.html",
