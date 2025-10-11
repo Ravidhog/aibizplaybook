@@ -1,12 +1,183 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45546593",
+      "title": "AMD and Sony's PS6 chipset aims to rethink the current graphics pipeline",
+      "slug": "2025-10-11-amd-and-sony-s-ps6-chipset-aims-to-rethink-the-current-graphics-pipeline.html",
+      "path": "posts/2025-10-11-amd-and-sony-s-ps6-chipset-aims-to-rethink-the-current-graphics-pipeline.html",
+      "date_iso": "2025-10-11T04:36:16+00:00",
+      "source": "https://arstechnica.com/gaming/2025/10/amd-and-sony-tease-new-chip-architecture-ahead-of-playstation-6/",
+      "summary": "Article URL: https://arstechnica.com/gaming/2025/10/amd-and-sony-tease-new-chip-architecture-ahead-of-playstation-6/ Comments URL: https://news.ycombinator.com/item?id=45546593 Points: 49 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45546575",
+      "title": "What is going on with all this radioactive shrimp?",
+      "slug": "2025-10-11-what-is-going-on-with-all-this-radioactive-shrimp.html",
+      "path": "posts/2025-10-11-what-is-going-on-with-all-this-radioactive-shrimp.html",
+      "date_iso": "2025-10-11T04:31:15+00:00",
+      "source": "https://www.consumerreports.org/health/food-safety/radioactive-shrimp-explained-a5493175857/",
+      "summary": "Article URL: https://www.consumerreports.org/health/food-safety/radioactive-shrimp-explained-a5493175857/ Comments URL: https://news.ycombinator.com/item?id=45546575 Points: 20 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45545965",
+      "title": "How hard do you have to hit a chicken to cook it? (2020)",
+      "slug": "2025-10-11-how-hard-do-you-have-to-hit-a-chicken-to-cook-it-2020.html",
+      "path": "posts/2025-10-11-how-hard-do-you-have-to-hit-a-chicken-to-cook-it-2020.html",
+      "date_iso": "2025-10-11T02:06:02+00:00",
+      "source": "https://james-simon.github.io/blog/chicken-cooking/",
+      "summary": "Article URL: https://james-simon.github.io/blog/chicken-cooking/ Comments URL: https://news.ycombinator.com/item?id=45545965 Points: 43 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45545098",
+      "title": "Programming in the Sun: A Year with the Daylight Computer",
+      "slug": "2025-10-10-programming-in-the-sun-a-year-with-the-daylight-computer.html",
+      "path": "posts/2025-10-10-programming-in-the-sun-a-year-with-the-daylight-computer.html",
+      "date_iso": "2025-10-10T23:51:13+00:00",
+      "source": "https://wickstrom.tech/2025-10-10-programming-in-the-sun-a-year-with-the-daylight-computer.html",
+      "summary": "Article URL: https://wickstrom.tech/2025-10-10-programming-in-the-sun-a-year-with-the-daylight-computer.html Comments URL: https://news.ycombinator.com/item?id=45545098 Points: 49 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45544636",
+      "title": "Verge Genomics (YC S15) Is Hiring for Multiple Engineering and Product Roles",
+      "slug": "2025-10-10-verge-genomics-yc-s15-is-hiring-for-multiple-engineering-and-product-roles.html",
+      "path": "posts/2025-10-10-verge-genomics-yc-s15-is-hiring-for-multiple-engineering-and-product-roles.html",
+      "date_iso": "2025-10-10T22:37:16+00:00",
+      "source": "https://news.ycombinator.com/item?id=45544636",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=45544636 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45544228",
+      "title": "(Re)Introducing the Pebble Appstore",
+      "slug": "2025-10-10-re-introducing-the-pebble-appstore.html",
+      "path": "posts/2025-10-10-re-introducing-the-pebble-appstore.html",
+      "date_iso": "2025-10-10T21:53:48+00:00",
+      "source": "https://ericmigi.com/blog/re-introducing-the-pebble-appstore/",
+      "summary": "Article URL: https://ericmigi.com/blog/re-introducing-the-pebble-appstore/ Comments URL: https://news.ycombinator.com/item?id=45544228 Points: 132 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45543899",
+      "title": "Tangled, a Git collaboration platform built on atproto",
+      "slug": "2025-10-10-tangled-a-git-collaboration-platform-built-on-atproto.html",
+      "path": "posts/2025-10-10-tangled-a-git-collaboration-platform-built-on-atproto.html",
+      "date_iso": "2025-10-10T21:18:55+00:00",
+      "source": "https://blog.tangled.org/intro",
+      "summary": "Article URL: https://blog.tangled.org/intro Comments URL: https://news.ycombinator.com/item?id=45543899 Points: 155 # Comments: 31"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45543811",
+      "title": "How to save the world with ZFS and 12 USB sticks: 4th anniversary video (2011)",
+      "slug": "2025-10-10-how-to-save-the-world-with-zfs-and-12-usb-sticks-4th-anniversary-video-2011.html",
+      "path": "posts/2025-10-10-how-to-save-the-world-with-zfs-and-12-usb-sticks-4th-anniversary-video-2011.html",
+      "date_iso": "2025-10-10T21:09:44+00:00",
+      "source": "https://constantin.glez.de/posts/2011-01-24-how-to-save-the-world-with-zfs-and-12-usb-sticks-4th-anniversary-video-re-release-edition/",
+      "summary": "Article URL: https://constantin.glez.de/posts/2011-01-24-how-to-save-the-world-with-zfs-and-12-usb-sticks-4th-anniversary-video-re-release-edition/ Comments URL: https://news.ycombinator.com/item?id=45543811 Points: 80 # Comments: 24"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45543475",
+      "title": "I built physical album cards with NFC tags to teach my son music discovery",
+      "slug": "2025-10-10-i-built-physical-album-cards-with-nfc-tags-to-teach-my-son-music-discovery.html",
+      "path": "posts/2025-10-10-i-built-physical-album-cards-with-nfc-tags-to-teach-my-son-music-discovery.html",
+      "date_iso": "2025-10-10T20:34:19+00:00",
+      "source": "https://fulghum.io/album-cards",
+      "summary": "Article URL: https://fulghum.io/album-cards Comments URL: https://news.ycombinator.com/item?id=45543475 Points: 311 # Comments: 101"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45543471",
+      "title": "Show HN: Semantic search over the National Gallery of Art",
+      "slug": "2025-10-10-show-hn-semantic-search-over-the-national-gallery-of-art.html",
+      "path": "posts/2025-10-10-show-hn-semantic-search-over-the-national-gallery-of-art.html",
+      "date_iso": "2025-10-10T20:33:25+00:00",
+      "source": "https://nga.demo.mixedbread.com/",
+      "summary": "Article URL: https://nga.demo.mixedbread.com/ Comments URL: https://news.ycombinator.com/item?id=45543471 Points: 102 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45542444",
+      "title": "Does our “need for speed” make our wi-fi suck?",
+      "slug": "2025-10-10-does-our-need-for-speed-make-our-wi-fi-suck.html",
+      "path": "posts/2025-10-10-does-our-need-for-speed-make-our-wi-fi-suck.html",
+      "date_iso": "2025-10-10T18:55:30+00:00",
+      "source": "https://orb.net/blog/does-speed-make-wifi-suck",
+      "summary": "Article URL: https://orb.net/blog/does-speed-make-wifi-suck Comments URL: https://news.ycombinator.com/item?id=45542444 Points: 167 # Comments: 219"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45539943",
+      "title": "Ryanair flight landed at Manchester airport with six minutes of fuel left",
+      "slug": "2025-10-10-ryanair-flight-landed-at-manchester-airport-with-six-minutes-of-fuel-left.html",
+      "path": "posts/2025-10-10-ryanair-flight-landed-at-manchester-airport-with-six-minutes-of-fuel-left.html",
+      "date_iso": "2025-10-10T15:11:04+00:00",
+      "source": "https://www.theguardian.com/business/2025/oct/10/ryanair-flight-landed-at-manchester-airport-with-six-minutes-of-fuel-left-flight-log-suggests",
+      "summary": "Article URL: https://www.theguardian.com/business/2025/oct/10/ryanair-flight-landed-at-manchester-airport-with-six-minutes-of-fuel-left-flight-log-suggests Comments URL: https://news.ycombinator.com/item?id=45539943 Points: 595 # Comments: 437"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45539296",
+      "title": "All-natural geoengineering with Frank Herbert's Dune",
+      "slug": "2025-10-10-all-natural-geoengineering-with-frank-herbert-s-dune.html",
+      "path": "posts/2025-10-10-all-natural-geoengineering-with-frank-herbert-s-dune.html",
+      "date_iso": "2025-10-10T14:11:15+00:00",
+      "source": "https://www.governance.fyi/p/all-natural-geoengineering-with-frank",
+      "summary": "Article URL: https://www.governance.fyi/p/all-natural-geoengineering-with-frank Comments URL: https://news.ycombinator.com/item?id=45539296 Points: 93 # Comments: 35"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45538137",
+      "title": "Igalia, Servo, and the Sovereign Tech Fund",
+      "slug": "2025-10-10-igalia-servo-and-the-sovereign-tech-fund.html",
+      "path": "posts/2025-10-10-igalia-servo-and-the-sovereign-tech-fund.html",
+      "date_iso": "2025-10-10T12:21:02+00:00",
+      "source": "https://www.igalia.com/2025/10/09/Igalia,-Servo,-and-the-Sovereign-Tech-Fund.html",
+      "summary": "Article URL: https://www.igalia.com/2025/10/09/Igalia,-Servo,-and-the-Sovereign-Tech-Fund.html Comments URL: https://news.ycombinator.com/item?id=45538137 Points: 371 # Comments: 57"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45537890",
+      "title": "OpenGL: Mesh shaders in the current year",
+      "slug": "2025-10-10-opengl-mesh-shaders-in-the-current-year.html",
+      "path": "posts/2025-10-10-opengl-mesh-shaders-in-the-current-year.html",
+      "date_iso": "2025-10-10T11:56:05+00:00",
+      "source": "https://www.supergoodcode.com/mesh-shaders-in-the-current-year/",
+      "summary": "Article URL: https://www.supergoodcode.com/mesh-shaders-in-the-current-year/ Comments URL: https://news.ycombinator.com/item?id=45537890 Points: 139 # Comments: 96"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/10/podcasts/hardfork-openai-devday-amd.html",
+      "title": "ChatGPT’s Platform Play + a Trillion-Dollar GPU Empire + the Queen of Slop",
+      "slug": "2025-10-10-chatgpt-s-platform-play-a-trillion-dollar-gpu-empire-the-queen-of-slop.html",
+      "path": "posts/2025-10-10-chatgpt-s-platform-play-a-trillion-dollar-gpu-empire-the-queen-of-slop.html",
+      "date_iso": "2025-10-10T11:00:06+00:00",
+      "source": "https://www.nytimes.com/2025/10/10/podcasts/hardfork-openai-devday-amd.html",
+      "summary": "At DevDay, OpenAI signaled its ambition to take everything you can do on the internet and shove it inside ChatGPT."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45536694",
+      "title": "Show HN: I invented a new generative model and got accepted to ICLR",
+      "slug": "2025-10-10-show-hn-i-invented-a-new-generative-model-and-got-accepted-to-iclr.html",
+      "path": "posts/2025-10-10-show-hn-i-invented-a-new-generative-model-and-got-accepted-to-iclr.html",
+      "date_iso": "2025-10-10T09:01:54+00:00",
+      "source": "https://discrete-distribution-networks.github.io/",
+      "summary": "I invented Discrete Distribution Networks, a novel generative model with simple principles and unique properties, and the paper has been accepted to ICLR2025! Modeling data distribution is challenging; DDN adopts a simple yet fundamentally different approach compared to mainstre…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45536618",
+      "title": "Datastar: Lightweight hypermedia framework for building interactive web apps",
+      "slug": "2025-10-10-datastar-lightweight-hypermedia-framework-for-building-interactive-web-apps.html",
+      "path": "posts/2025-10-10-datastar-lightweight-hypermedia-framework-for-building-interactive-web-apps.html",
+      "date_iso": "2025-10-10T08:46:40+00:00",
+      "source": "https://data-star.dev/",
+      "summary": "Article URL: https://data-star.dev/ Comments URL: https://news.ycombinator.com/item?id=45536618 Points: 250 # Comments: 231"
+    },
+    {
       "id": "https://www.nytimes.com/2025/10/10/insider/cryptocurrency-reporing.html",
       "title": "Riding the Wild Wave of Crypto Coverage",
       "slug": "2025-10-10-riding-the-wild-wave-of-crypto-coverage.html",
       "path": "posts/2025-10-10-riding-the-wild-wave-of-crypto-coverage.html",
       "date_iso": "2025-10-10T07:00:05+00:00",
       "source": "https://www.nytimes.com/2025/10/10/insider/cryptocurrency-reporing.html",
+      "summary": "Sam Bankman-Fried, left, at a cryptocurrency conference in 2022. He was convicted in 2023 of seven counts of fraud and conspiracy."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/10/insider/cryptocurrency-reporting.html",
+      "title": "Riding the Wild Wave of Crypto Coverage",
+      "slug": "2025-10-10-riding-the-wild-wave-of-crypto-coverage.html",
+      "path": "posts/2025-10-10-riding-the-wild-wave-of-crypto-coverage.html",
+      "date_iso": "2025-10-10T07:00:05+00:00",
+      "source": "https://www.nytimes.com/2025/10/10/insider/cryptocurrency-reporting.html",
       "summary": "Sam Bankman-Fried, left, at a cryptocurrency conference in 2022. He was convicted in 2023 of seven counts of fraud and conspiracy."
     },
     {
@@ -17,6 +188,15 @@
       "date_iso": "2025-10-10T04:40:26+00:00",
       "source": "https://arxiv.org/abs/2505.20296",
       "summary": "Article URL: https://arxiv.org/abs/2505.20296 Comments URL: https://news.ycombinator.com/item?id=45535425 Points: 65 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45535424",
+      "title": "Show HN: Lights Out: my 2D Rubik's Cube-like Game",
+      "slug": "2025-10-10-show-hn-lights-out-my-2d-rubik-s-cube-like-game.html",
+      "path": "posts/2025-10-10-show-hn-lights-out-my-2d-rubik-s-cube-like-game.html",
+      "date_iso": "2025-10-10T04:40:19+00:00",
+      "source": "https://raymondtana.github.io/projects/pages/Lights_Out.html",
+      "summary": "\"Lights Out\" is a mathematical puzzle that lives on an grid where each cell of the grid is one of two colors: either red or white. The goal is to eventually get all the cells in the grid to be red. What's the catch? Clicking a cell will not only flip its color, but also that of…"
     },
     {
       "id": "https://news.ycombinator.com/item?id=45535202",
@@ -431,6 +611,15 @@
       "date_iso": "2025-10-08T13:33:15+00:00",
       "source": "https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/",
       "summary": "Article URL: https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/ Comments URL: https://news.ycombinator.com/item?id=45516000 Points: 674 # Comments: 102"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45515290",
+      "title": "HATEOAS for Haunted Houses",
+      "slug": "2025-10-08-hateoas-for-haunted-houses.html",
+      "path": "posts/2025-10-08-hateoas-for-haunted-houses.html",
+      "date_iso": "2025-10-08T12:13:30+00:00",
+      "source": "https://www.sanfordtech.xyz/posts/hateoas-for-haunted-houses/",
+      "summary": "Article URL: https://www.sanfordtech.xyz/posts/hateoas-for-haunted-houses/ Comments URL: https://news.ycombinator.com/item?id=45515290 Points: 17 # Comments: 4"
     },
     {
       "id": "https://news.ycombinator.com/item?id=45514433",
