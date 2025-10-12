@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45555570",
+      "title": "Spyware maker NSO Group confirms acquisition by US investors",
+      "slug": "2025-10-12-spyware-maker-nso-group-confirms-acquisition-by-us-investors.html",
+      "path": "posts/2025-10-12-spyware-maker-nso-group-confirms-acquisition-by-us-investors.html",
+      "date_iso": "2025-10-12T05:39:22+00:00",
+      "source": "https://techcrunch.com/2025/10/10/spyware-maker-nso-group-confirms-acquisition-by-us-investors/",
+      "summary": "Article URL: https://techcrunch.com/2025/10/10/spyware-maker-nso-group-confirms-acquisition-by-us-investors/ Comments URL: https://news.ycombinator.com/item?id=45555570 Points: 58 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45555308",
+      "title": "Pipelining in psql (PostgreSQL 18)",
+      "slug": "2025-10-12-pipelining-in-psql-postgresql-18.html",
+      "path": "posts/2025-10-12-pipelining-in-psql-postgresql-18.html",
+      "date_iso": "2025-10-12T04:46:57+00:00",
+      "source": "https://postgresql.verite.pro/blog/2025/10/01/psql-pipeline.html",
+      "summary": "Article URL: https://postgresql.verite.pro/blog/2025/10/01/psql-pipeline.html Comments URL: https://news.ycombinator.com/item?id=45555308 Points: 29 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45555012",
+      "title": "Coral Protocol: Open infrastructure connecting the internet of agents",
+      "slug": "2025-10-12-coral-protocol-open-infrastructure-connecting-the-internet-of-agents.html",
+      "path": "posts/2025-10-12-coral-protocol-open-infrastructure-connecting-the-internet-of-agents.html",
+      "date_iso": "2025-10-12T03:41:29+00:00",
+      "source": "https://arxiv.org/abs/2505.00749",
+      "summary": "Article URL: https://arxiv.org/abs/2505.00749 Comments URL: https://news.ycombinator.com/item?id=45555012 Points: 14 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45554369",
+      "title": "China's New Rare Earth and Magnet Restrictions Threaten US Defense Supply Chains",
+      "slug": "2025-10-12-china-s-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains.html",
+      "path": "posts/2025-10-12-china-s-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains.html",
+      "date_iso": "2025-10-12T01:37:37+00:00",
+      "source": "https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains",
+      "summary": "Article URL: https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains Comments URL: https://news.ycombinator.com/item?id=45554369 Points: 146 # Comments: 123"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45553995",
+      "title": "Show HN: Rift – A tiling window manager for macOS",
+      "slug": "2025-10-12-show-hn-rift-a-tiling-window-manager-for-macos.html",
+      "path": "posts/2025-10-12-show-hn-rift-a-tiling-window-manager-for-macos.html",
+      "date_iso": "2025-10-12T00:22:15+00:00",
+      "source": "https://github.com/acsandmann/rift",
+      "summary": "Article URL: https://github.com/acsandmann/rift Comments URL: https://news.ycombinator.com/item?id=45553995 Points: 91 # Comments: 31"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45553835",
+      "title": "LineageOS 23",
+      "slug": "2025-10-11-lineageos-23.html",
+      "path": "posts/2025-10-11-lineageos-23.html",
+      "date_iso": "2025-10-11T23:53:17+00:00",
+      "source": "https://lineageos.org/Changelog-30/",
+      "summary": "Article URL: https://lineageos.org/Changelog-30/ Comments URL: https://news.ycombinator.com/item?id=45553835 Points: 173 # Comments: 53"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45553783",
+      "title": "Vancouver Stock Exchange: Scam capital of the world (1989) [pdf]",
+      "slug": "2025-10-11-vancouver-stock-exchange-scam-capital-of-the-world-1989-pdf.html",
+      "path": "posts/2025-10-11-vancouver-stock-exchange-scam-capital-of-the-world-1989-pdf.html",
+      "date_iso": "2025-10-11T23:43:42+00:00",
+      "source": "https://scamcouver.wordpress.com/wp-content/uploads/2012/04/scam-capital.pdf",
+      "summary": "Article URL: https://scamcouver.wordpress.com/wp-content/uploads/2012/04/scam-capital.pdf Comments URL: https://news.ycombinator.com/item?id=45553783 Points: 75 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45553764",
+      "title": "Google blocks Android hack that let Pixel users enable VoLTE anywhere",
+      "slug": "2025-10-11-google-blocks-android-hack-that-let-pixel-users-enable-volte-anywhere.html",
+      "path": "posts/2025-10-11-google-blocks-android-hack-that-let-pixel-users-enable-volte-anywhere.html",
+      "date_iso": "2025-10-11T23:41:00+00:00",
+      "source": "https://www.androidauthority.com/pixel-ims-broken-october-update-3606444/",
+      "summary": "Article URL: https://www.androidauthority.com/pixel-ims-broken-october-update-3606444/ Comments URL: https://news.ycombinator.com/item?id=45553764 Points: 131 # Comments: 33"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45553701",
+      "title": "Paper2Video: Automatic Video Generation from Scientific Papers",
+      "slug": "2025-10-11-paper2video-automatic-video-generation-from-scientific-papers.html",
+      "path": "posts/2025-10-11-paper2video-automatic-video-generation-from-scientific-papers.html",
+      "date_iso": "2025-10-11T23:32:25+00:00",
+      "source": "https://arxiv.org/abs/2510.05096",
+      "summary": "Article URL: https://arxiv.org/abs/2510.05096 Comments URL: https://news.ycombinator.com/item?id=45553701 Points: 32 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45553577",
+      "title": "Meta Superintelligence's surprising first paper",
+      "slug": "2025-10-11-meta-superintelligence-s-surprising-first-paper.html",
+      "path": "posts/2025-10-11-meta-superintelligence-s-surprising-first-paper.html",
+      "date_iso": "2025-10-11T23:16:05+00:00",
+      "source": "https://paddedinputs.substack.com/p/meta-superintelligences-surprising",
+      "summary": "https://arxiv.org/abs/2509.01092 Comments URL: https://news.ycombinator.com/item?id=45553577 Points: 230 # Comments: 116"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45553296",
+      "title": "Heroin addicts often seem normal",
+      "slug": "2025-10-11-heroin-addicts-often-seem-normal.html",
+      "path": "posts/2025-10-11-heroin-addicts-often-seem-normal.html",
+      "date_iso": "2025-10-11T22:43:58+00:00",
+      "source": "https://justismills.substack.com/p/heroin-addicts-often-seem-normal",
+      "summary": "Article URL: https://justismills.substack.com/p/heroin-addicts-often-seem-normal Comments URL: https://news.ycombinator.com/item?id=45553296 Points: 84 # Comments: 77"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45553132",
+      "title": "Ask HN: Abandoned/dead projects you think died before their time and why?",
+      "slug": "2025-10-11-ask-hn-abandoned-dead-projects-you-think-died-before-their-time-and-why.html",
+      "path": "posts/2025-10-11-ask-hn-abandoned-dead-projects-you-think-died-before-their-time-and-why.html",
+      "date_iso": "2025-10-11T22:16:18+00:00",
+      "source": "https://news.ycombinator.com/item?id=45553132",
+      "summary": "Just curious and who knows, maybe someone will adopt it or develop something new based on its ideas. Comments URL: https://news.ycombinator.com/item?id=45553132 Points: 84 # Comments: 214"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45552049",
+      "title": "A Guide for WireGuard VPN Setup with Pi-Hole Adblock and Unbound DNS",
+      "slug": "2025-10-11-a-guide-for-wireguard-vpn-setup-with-pi-hole-adblock-and-unbound-dns.html",
+      "path": "posts/2025-10-11-a-guide-for-wireguard-vpn-setup-with-pi-hole-adblock-and-unbound-dns.html",
+      "date_iso": "2025-10-11T19:41:27+00:00",
+      "source": "https://psyonik.tech/posts/a-guide-for-wireguard-vpn-setup-with-pi-hole-adblock-and-unbound-dns/",
+      "summary": "Article URL: https://psyonik.tech/posts/a-guide-for-wireguard-vpn-setup-with-pi-hole-adblock-and-unbound-dns/ Comments URL: https://news.ycombinator.com/item?id=45552049 Points: 60 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45551504",
+      "title": "Microsoft only lets you opt out of AI photo scanning 3x a year",
+      "slug": "2025-10-11-microsoft-only-lets-you-opt-out-of-ai-photo-scanning-3x-a-year.html",
+      "path": "posts/2025-10-11-microsoft-only-lets-you-opt-out-of-ai-photo-scanning-3x-a-year.html",
+      "date_iso": "2025-10-11T18:36:51+00:00",
+      "source": "https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users",
+      "summary": "Article URL: https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users Comments URL: https://news.ycombinator.com/item?id=45551504 Points: 554 # Comments: 198"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45551450",
+      "title": "Rating 26 years of Java changes",
+      "slug": "2025-10-11-rating-26-years-of-java-changes.html",
+      "path": "posts/2025-10-11-rating-26-years-of-java-changes.html",
+      "date_iso": "2025-10-11T18:29:27+00:00",
+      "source": "https://neilmadden.blog/2025/09/12/rating-26-years-of-java-changes/",
+      "summary": "Article URL: https://neilmadden.blog/2025/09/12/rating-26-years-of-java-changes/ Comments URL: https://news.ycombinator.com/item?id=45551450 Points: 187 # Comments: 205"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45551260",
+      "title": "Anthropic's Prompt Engineering Tutorial",
+      "slug": "2025-10-11-anthropic-s-prompt-engineering-tutorial.html",
+      "path": "posts/2025-10-11-anthropic-s-prompt-engineering-tutorial.html",
+      "date_iso": "2025-10-11T18:06:40+00:00",
+      "source": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+      "summary": "Article URL: https://github.com/anthropics/prompt-eng-interactive-tutorial Comments URL: https://news.ycombinator.com/item?id=45551260 Points: 85 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45550049",
+      "title": "GNU Health",
+      "slug": "2025-10-11-gnu-health.html",
+      "path": "posts/2025-10-11-gnu-health.html",
+      "date_iso": "2025-10-11T15:47:22+00:00",
+      "source": "https://www.gnuhealth.org/about-us.html",
+      "summary": "Article URL: https://www.gnuhealth.org/about-us.html Comments URL: https://news.ycombinator.com/item?id=45550049 Points: 384 # Comments: 105"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45549434",
+      "title": "Vibing a non-trivial Ghostty feature",
+      "slug": "2025-10-11-vibing-a-non-trivial-ghostty-feature.html",
+      "path": "posts/2025-10-11-vibing-a-non-trivial-ghostty-feature.html",
+      "date_iso": "2025-10-11T14:31:15+00:00",
+      "source": "https://mitchellh.com/writing/non-trivial-vibing",
+      "summary": "Article URL: https://mitchellh.com/writing/non-trivial-vibing Comments URL: https://news.ycombinator.com/item?id=45549434 Points: 249 # Comments: 116"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/11/technology/tbpn-silicon-valley.html",
+      "title": "How ‘TBPN’ Became Silicon Valley’s Newest Obsession",
+      "slug": "2025-10-11-how-tbpn-became-silicon-valley-s-newest-obsession.html",
+      "path": "posts/2025-10-11-how-tbpn-became-silicon-valley-s-newest-obsession.html",
+      "date_iso": "2025-10-11T09:00:47+00:00",
+      "source": "https://www.nytimes.com/2025/10/11/technology/tbpn-silicon-valley.html",
+      "summary": "Jordi Hays, left, and John Coogan are the hosts of “TBPN.”"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45547566",
+      "title": "The <output> Tag",
+      "slug": "2025-10-11-the-output-tag.html",
+      "path": "posts/2025-10-11-the-output-tag.html",
+      "date_iso": "2025-10-11T08:27:26+00:00",
+      "source": "https://denodell.com/blog/html-best-kept-secret-output-tag",
+      "summary": "Article URL: https://denodell.com/blog/html-best-kept-secret-output-tag Comments URL: https://news.ycombinator.com/item?id=45547566 Points: 747 # Comments: 168"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45547359",
+      "title": "Windows Subsystem for FreeBSD",
+      "slug": "2025-10-11-windows-subsystem-for-freebsd.html",
+      "path": "posts/2025-10-11-windows-subsystem-for-freebsd.html",
+      "date_iso": "2025-10-11T07:32:08+00:00",
+      "source": "https://github.com/BalajeS/WSL-For-FreeBSD",
+      "summary": "Article URL: https://github.com/BalajeS/WSL-For-FreeBSD Comments URL: https://news.ycombinator.com/item?id=45547359 Points: 241 # Comments: 97"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45546593",
       "title": "AMD and Sony's PS6 chipset aims to rethink the current graphics pipeline",
       "slug": "2025-10-11-amd-and-sony-s-ps6-chipset-aims-to-rethink-the-current-graphics-pipeline.html",
