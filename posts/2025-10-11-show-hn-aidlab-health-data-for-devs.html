@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Aidlab – Health Data for Devs</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Aidlab – Health Data for Devs</h1>
+    <p><small>Published: 2025-10-11T14:24:35+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hey HN! I'm Jakub, and together with my co-founders Agnieszka and Nathan, we built Aidlab, a wearable that gives developers gold-standard physiological data. Unlike health trackers with locked-down APIs, Aidlab ships with a free SDK [1] across 6+ platforms so you can just <i>pip install aidlabsdk</i> or <i>flutter pub add aidlab_sdk</i> or whatever platform (even Unity), and start streaming raw health data and events in real time with simple <i>didReceive*(timestamp, value)</i> callbacks. Currently, we are exposing 13 data types including raw ECG, cough/snoring, motion, raw respiration, skin temperature, bodyweight reps, body position, and 20 high-level stats like stress or readiness through the API.<p>The most common questions I got are:<p>1) "how is it better than my smartwatch?"<p>2) "why we built it?"<p>Chest-mounted wearables are considered the gold standard for physiological measurements. For example, whenever Apple validates their watch, they benchmark against chest straps [2], as some signals can only be reliably measured (or measured at all!) near the heart including continuous ECG, true respiration (based on lung volume changes) or body position/orientation.<p>As for the second question: the problem for us was that smartwatches were too simple and the data too inaccurate, while advanced medical devices were too pricey or too complicated. We found a sweet spot between accuracy and accessibility - Aidlab delivers medical-grade signals without the hospital-level complexity. As "medical-grade" is a bold statement, we’ve published validation papers comparing Aidlab’s performance with other certified medical devices [3].<p>Today Aidlab is already a pretty mature concept. We've been building Aidlab for 2 years, shipped our first version in 2020, we got our first clients, including Bryan Johnson from Kernel/Blueprint (longevity research) or Boeing/Jeppesen (monitoring pilots’ bio-signals during tests&amp;training).<p>Now we're about to release Aidlab 2 [4] - with additional signals like EDA and GPS, and a bunch of new features, including on-device ML (we've trained a few small LSTM models running inference with TensorFlow Lite for Micro). The cool part is that we've built a custom shell on top of FreeRTOS, letting anyone invoke POSIX-like commands directly on the device, for example:<p><i>timeout 10 temperature --sampling-rate 1 | tee /data/temperature.csv | tail -n 5</i><p>The biggest breakthrough for us was realizing that cloud-based processing was the wrong approach. In the beginning, we pushed most of the computation to the cloud - it seemed natural, but turned out to be slow, costly, and devs didn't want it ("hey, is there a way to use your product without cloud?"). For example, our ECG analysis pipeline used to send raw data to an external microservice, processing it in 30-minute chunks through Bull queues. A 24-hour Holter analysis could spawn 100k+ event objects and take significant time to complete. Now we're doing everything we can to move computation to the edge. In an ideal world, the cloud wouldn't store or process anything - just receive already-analyzed, privacy-preserving results straight from the device.<p>Another lesson: don't hand-solder prototypes at 3 a.m. to save money -> please pay professionals to assemble PCBs.<p>We decided to showcase this now for three reasons:<p>- health feels more relevant than ever with the rise of longevity research and biohacking,<p>- we are close to finalizing Aidlab 2,<p>- and I am super curious to see if anyone here finds it useful!<p>If you'd like to check the quality of Aidlab for yourself, we are publishing free datasets every week during different activities [5].<p>[1] <a href="https://github.com/Aidlab" rel="nofollow">https://github.com/Aidlab</a><p>[2] <a href="https://www.apple.com/health/pdf/Heart_Rate_Calorimetry_Activity_on_Apple_Watch_November_2024.pdf" rel="nofollow">https://www.apple.com/health/pdf/Heart_Rate_Calorimetry_Acti...</a><p>[3] <a href="https://aidlab.com/validation" rel="nofollow">https://aidlab.com/validation</a><p>[4] <a href="https://aidlab.com/aidlab-2" rel="nofollow">https://aidlab.com/aidlab-2</a><p>[5] <a href="https://aidlab.com/datasets" rel="nofollow">https://aidlab.com/datasets</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45549392">https://news.ycombinator.com/item?id=45549392</a></p>
+<p>Points: 18</p>
+<p># Comments: 3</p>
+    <p><a href="https://news.ycombinator.com/item?id=45549392" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

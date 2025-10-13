@@ -1,6 +1,159 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45564619",
+      "title": "Fastmail Desktop App",
+      "slug": "2025-10-13-fastmail-desktop-app.html",
+      "path": "posts/2025-10-13-fastmail-desktop-app.html",
+      "date_iso": "2025-10-13T04:14:29+00:00",
+      "source": "https://www.fastmail.com/blog/desktop-app/",
+      "summary": "Article URL: https://www.fastmail.com/blog/desktop-app/ Comments URL: https://news.ycombinator.com/item?id=45564619 Points: 78 # Comments: 72"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45564196",
+      "title": "Countering Trusting Trust Through Diverse Double-Compiling (DDC)",
+      "slug": "2025-10-13-countering-trusting-trust-through-diverse-double-compiling-ddc.html",
+      "path": "posts/2025-10-13-countering-trusting-trust-through-diverse-double-compiling-ddc.html",
+      "date_iso": "2025-10-13T02:39:25+00:00",
+      "source": "https://dwheeler.com/trusting-trust/",
+      "summary": "Article URL: https://dwheeler.com/trusting-trust/ Comments URL: https://news.ycombinator.com/item?id=45564196 Points: 22 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45563900",
+      "title": "For centuries massive meals amazed visitors to Korea (2019)",
+      "slug": "2025-10-13-for-centuries-massive-meals-amazed-visitors-to-korea-2019.html",
+      "path": "posts/2025-10-13-for-centuries-massive-meals-amazed-visitors-to-korea-2019.html",
+      "date_iso": "2025-10-13T01:46:18+00:00",
+      "source": "https://www.atlasobscura.com/articles/history-of-korean-food",
+      "summary": "Article URL: https://www.atlasobscura.com/articles/history-of-korean-food Comments URL: https://news.ycombinator.com/item?id=45563900 Points: 93 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45563627",
+      "title": "John Searle has died",
+      "slug": "2025-10-13-john-searle-has-died.html",
+      "path": "posts/2025-10-13-john-searle-has-died.html",
+      "date_iso": "2025-10-13T00:57:49+00:00",
+      "source": "https://www.nytimes.com/2025/10/12/books/john-searle-dead.html",
+      "summary": "Article URL: https://www.nytimes.com/2025/10/12/books/john-searle-dead.html Comments URL: https://news.ycombinator.com/item?id=45563627 Points: 86 # Comments: 61"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45563161",
+      "title": "Novelty Automation",
+      "slug": "2025-10-12-novelty-automation.html",
+      "path": "posts/2025-10-12-novelty-automation.html",
+      "date_iso": "2025-10-12T23:46:55+00:00",
+      "source": "https://www.novelty-automation.com/",
+      "summary": "Article URL: https://www.novelty-automation.com/ Comments URL: https://news.ycombinator.com/item?id=45563161 Points: 37 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45562286",
+      "title": "Free software hasn't won",
+      "slug": "2025-10-12-free-software-hasn-t-won.html",
+      "path": "posts/2025-10-12-free-software-hasn-t-won.html",
+      "date_iso": "2025-10-12T21:51:45+00:00",
+      "source": "https://dorotac.eu/posts/fosswon/",
+      "summary": "Article URL: https://dorotac.eu/posts/fosswon/ Comments URL: https://news.ycombinator.com/item?id=45562286 Points: 205 # Comments: 236"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45562188",
+      "title": "An initial investigation into WDDM on ReactOS",
+      "slug": "2025-10-12-an-initial-investigation-into-wddm-on-reactos.html",
+      "path": "posts/2025-10-12-an-initial-investigation-into-wddm-on-reactos.html",
+      "date_iso": "2025-10-12T21:40:43+00:00",
+      "source": "https://reactos.org/blogs/investigating-wddm/",
+      "summary": "Article URL: https://reactos.org/blogs/investigating-wddm/ Comments URL: https://news.ycombinator.com/item?id=45562188 Points: 42 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45562056",
+      "title": "MAML – A new configuration language",
+      "slug": "2025-10-12-maml-a-new-configuration-language.html",
+      "path": "posts/2025-10-12-maml-a-new-configuration-language.html",
+      "date_iso": "2025-10-12T21:24:39+00:00",
+      "source": "https://maml.dev/",
+      "summary": "Article URL: https://maml.dev/ Comments URL: https://news.ycombinator.com/item?id=45562056 Points: 65 # Comments: 76"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45561700",
+      "title": "Edge AI for Beginners",
+      "slug": "2025-10-12-edge-ai-for-beginners.html",
+      "path": "posts/2025-10-12-edge-ai-for-beginners.html",
+      "date_iso": "2025-10-12T20:41:01+00:00",
+      "source": "https://github.com/microsoft/edgeai-for-beginners",
+      "summary": "Article URL: https://github.com/microsoft/edgeai-for-beginners Comments URL: https://news.ycombinator.com/item?id=45561700 Points: 145 # Comments: 50"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45561672",
+      "title": "Emacs agent-shell (powered by ACP)",
+      "slug": "2025-10-12-emacs-agent-shell-powered-by-acp.html",
+      "path": "posts/2025-10-12-emacs-agent-shell-powered-by-acp.html",
+      "date_iso": "2025-10-12T20:37:16+00:00",
+      "source": "https://xenodium.com/introducing-agent-shell",
+      "summary": "Also: https://xenodium.com/agent-shell-0-5-improvements Comments URL: https://news.ycombinator.com/item?id=45561672 Points: 152 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45561428",
+      "title": "Ask HN: What are you working on? (October 2025)",
+      "slug": "2025-10-12-ask-hn-what-are-you-working-on-october-2025.html",
+      "path": "posts/2025-10-12-ask-hn-what-are-you-working-on-october-2025.html",
+      "date_iso": "2025-10-12T20:09:14+00:00",
+      "source": "https://news.ycombinator.com/item?id=45561428",
+      "summary": "What are you working on? Any new ideas that you're thinking about? Comments URL: https://news.ycombinator.com/item?id=45561428 Points: 184 # Comments: 484"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45560974",
+      "title": "Completing a BASIC language interpreter in 2025",
+      "slug": "2025-10-12-completing-a-basic-language-interpreter-in-2025.html",
+      "path": "posts/2025-10-12-completing-a-basic-language-interpreter-in-2025.html",
+      "date_iso": "2025-10-12T19:19:38+00:00",
+      "source": "https://nanochess.org/ecs_basic_2.html",
+      "summary": "Article URL: https://nanochess.org/ecs_basic_2.html Comments URL: https://news.ycombinator.com/item?id=45560974 Points: 77 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45560535",
+      "title": "Constraint satisfaction to optimize item selection for bundles in Minecraft",
+      "slug": "2025-10-12-constraint-satisfaction-to-optimize-item-selection-for-bundles-in-minecraft.html",
+      "path": "posts/2025-10-12-constraint-satisfaction-to-optimize-item-selection-for-bundles-in-minecraft.html",
+      "date_iso": "2025-10-12T18:31:51+00:00",
+      "source": "https://www.robw.fyi/2025/10/12/using-constraint-satisfaction-to-optimize-item-selection-for-bundles-in-minecraft/",
+      "summary": "Article URL: https://www.robw.fyi/2025/10/12/using-constraint-satisfaction-to-optimize-item-selection-for-bundles-in-minecraft/ Comments URL: https://news.ycombinator.com/item?id=45560535 Points: 31 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45559857",
+      "title": "Wireguard FPGA",
+      "slug": "2025-10-12-wireguard-fpga.html",
+      "path": "posts/2025-10-12-wireguard-fpga.html",
+      "date_iso": "2025-10-12T17:12:00+00:00",
+      "source": "https://github.com/chili-chips-ba/wireguard-fpga",
+      "summary": "Article URL: https://github.com/chili-chips-ba/wireguard-fpga Comments URL: https://news.ycombinator.com/item?id=45559857 Points: 459 # Comments: 117"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45559767",
+      "title": "A years-long Turkish alphabet bug in the Kotlin compiler",
+      "slug": "2025-10-12-a-years-long-turkish-alphabet-bug-in-the-kotlin-compiler.html",
+      "path": "posts/2025-10-12-a-years-long-turkish-alphabet-bug-in-the-kotlin-compiler.html",
+      "date_iso": "2025-10-12T17:02:09+00:00",
+      "source": "https://sam-cooper.medium.com/the-country-that-broke-kotlin-84bdd0afb237",
+      "summary": "Article URL: https://sam-cooper.medium.com/the-country-that-broke-kotlin-84bdd0afb237 Comments URL: https://news.ycombinator.com/item?id=45559767 Points: 98 # Comments: 101"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45558611",
+      "title": "Show HN: I built a simple ambient sound app with no ads or subscriptions",
+      "slug": "2025-10-12-show-hn-i-built-a-simple-ambient-sound-app-with-no-ads-or-subscriptions.html",
+      "path": "posts/2025-10-12-show-hn-i-built-a-simple-ambient-sound-app-with-no-ads-or-subscriptions.html",
+      "date_iso": "2025-10-12T14:49:50+00:00",
+      "source": "https://ambisounds.app/",
+      "summary": "I’ve always liked having background noise while working or falling asleep, but I got frustrated that most “white noise” or ambient sound apps are either paywalled, stuffed with ads, or try to upsell subscriptions for basic features. So I made Ambi, a small iOS app with a clean i…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45555727",
+      "title": "Three ways formally verified code can go wrong in practice",
+      "slug": "2025-10-12-three-ways-formally-verified-code-can-go-wrong-in-practice.html",
+      "path": "posts/2025-10-12-three-ways-formally-verified-code-can-go-wrong-in-practice.html",
+      "date_iso": "2025-10-12T06:17:52+00:00",
+      "source": "https://buttondown.com/hillelwayne/archive/three-ways-formally-verified-code-can-go-wrong-in/",
+      "summary": "Article URL: https://buttondown.com/hillelwayne/archive/three-ways-formally-verified-code-can-go-wrong-in/ Comments URL: https://news.ycombinator.com/item?id=45555727 Points: 100 # Comments: 60"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45555570",
       "title": "Spyware maker NSO Group confirms acquisition by US investors",
       "slug": "2025-10-12-spyware-maker-nso-group-confirms-acquisition-by-us-investors.html",
@@ -109,6 +262,15 @@
       "summary": "Just curious and who knows, maybe someone will adopt it or develop something new based on its ideas. Comments URL: https://news.ycombinator.com/item?id=45553132 Points: 84 # Comments: 214"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=45552590",
+      "title": "A whirlwind introduction to dataflow graphs (2018)",
+      "slug": "2025-10-11-a-whirlwind-introduction-to-dataflow-graphs-2018.html",
+      "path": "posts/2025-10-11-a-whirlwind-introduction-to-dataflow-graphs-2018.html",
+      "date_iso": "2025-10-11T20:52:21+00:00",
+      "source": "https://fgiesen.wordpress.com/2018/03/05/a-whirlwind-introduction-to-dataflow-graphs/",
+      "summary": "Article URL: https://fgiesen.wordpress.com/2018/03/05/a-whirlwind-introduction-to-dataflow-graphs/ Comments URL: https://news.ycombinator.com/item?id=45552590 Points: 29 # Comments: 0"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45552049",
       "title": "A Guide for WireGuard VPN Setup with Pi-Hole Adblock and Unbound DNS",
       "slug": "2025-10-11-a-guide-for-wireguard-vpn-setup-with-pi-hole-adblock-and-unbound-dns.html",
@@ -161,6 +323,15 @@
       "date_iso": "2025-10-11T14:31:15+00:00",
       "source": "https://mitchellh.com/writing/non-trivial-vibing",
       "summary": "Article URL: https://mitchellh.com/writing/non-trivial-vibing Comments URL: https://news.ycombinator.com/item?id=45549434 Points: 249 # Comments: 116"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45549392",
+      "title": "Show HN: Aidlab – Health Data for Devs",
+      "slug": "2025-10-11-show-hn-aidlab-health-data-for-devs.html",
+      "path": "posts/2025-10-11-show-hn-aidlab-health-data-for-devs.html",
+      "date_iso": "2025-10-11T14:24:35+00:00",
+      "source": "https://news.ycombinator.com/item?id=45549392",
+      "summary": "Hey HN! I'm Jakub, and together with my co-founders Agnieszka and Nathan, we built Aidlab, a wearable that gives developers gold-standard physiological data. Unlike health trackers with locked-down APIs, Aidlab ships with a free SDK [1] across 6+ platforms so you can just pip in…"
     },
     {
       "id": "https://www.nytimes.com/2025/10/11/technology/tbpn-silicon-valley.html",
@@ -584,6 +755,15 @@
       "date_iso": "2025-10-09T15:51:20+00:00",
       "source": "https://github.com/mafik/keyer",
       "summary": "I bet you didn't knew you can use modelling clay (as opposed to 3d printing) to make nice devices by hand :) Comments URL: https://news.ycombinator.com/item?id=45529393 Points: 310 # Comments: 92"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45529331",
+      "title": "3D-Printed Automatic Weather Station",
+      "slug": "2025-10-09-3d-printed-automatic-weather-station.html",
+      "path": "posts/2025-10-09-3d-printed-automatic-weather-station.html",
+      "date_iso": "2025-10-09T15:45:49+00:00",
+      "source": "https://3dpaws.comet.ucar.edu",
+      "summary": "Article URL: https://3dpaws.comet.ucar.edu Comments URL: https://news.ycombinator.com/item?id=45529331 Points: 60 # Comments: 12"
     },
     {
       "id": "https://www.nytimes.com/2025/10/09/technology/personaltech/sora-ai-video-impact.html",
