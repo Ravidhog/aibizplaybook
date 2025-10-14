@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45576623",
+      "title": "Why Study Programming Languages",
+      "slug": "2025-10-14-why-study-programming-languages.html",
+      "path": "posts/2025-10-14-why-study-programming-languages.html",
+      "date_iso": "2025-10-14T05:36:57+00:00",
+      "source": "https://people.csail.mit.edu/rachit/post/why-study-programming-languages/",
+      "summary": "Article URL: https://people.csail.mit.edu/rachit/post/why-study-programming-languages/ Comments URL: https://news.ycombinator.com/item?id=45576623 Points: 14 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45576502",
+      "title": "Copy-and-Patch: A Copy-and-Patch Tutorial",
+      "slug": "2025-10-14-copy-and-patch-a-copy-and-patch-tutorial.html",
+      "path": "posts/2025-10-14-copy-and-patch-a-copy-and-patch-tutorial.html",
+      "date_iso": "2025-10-14T05:14:26+00:00",
+      "source": "https://transactional.blog/copy-and-patch/tutorial",
+      "summary": "Article URL: https://transactional.blog/copy-and-patch/tutorial Comments URL: https://news.ycombinator.com/item?id=45576502 Points: 27 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45575755",
+      "title": "New York Times, AP, Newsmax and others say they won't sign new Pentagon rules",
+      "slug": "2025-10-14-new-york-times-ap-newsmax-and-others-say-they-won-t-sign-new-pentagon-rules.html",
+      "path": "posts/2025-10-14-new-york-times-ap-newsmax-and-others-say-they-won-t-sign-new-pentagon-rules.html",
+      "date_iso": "2025-10-14T02:51:20+00:00",
+      "source": "https://apnews.com/article/pentagon-press-access-defense-department-rules-95878bce05096912887701eaa6d019c6",
+      "summary": "Article URL: https://apnews.com/article/pentagon-press-access-defense-department-rules-95878bce05096912887701eaa6d019c6 Comments URL: https://news.ycombinator.com/item?id=45575755 Points: 137 # Comments: 33"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45575391",
+      "title": "Don’t Look Up: Sensitive internal links in the clear on GEO satellites [pdf]",
+      "slug": "2025-10-14-don-t-look-up-sensitive-internal-links-in-the-clear-on-geo-satellites-pdf.html",
+      "path": "posts/2025-10-14-don-t-look-up-sensitive-internal-links-in-the-clear-on-geo-satellites-pdf.html",
+      "date_iso": "2025-10-14T01:48:56+00:00",
+      "source": "https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf",
+      "summary": "Article URL: https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf Comments URL: https://news.ycombinator.com/item?id=45575391 Points: 204 # Comments: 53"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45575127",
+      "title": "NVIDIA DGX Spark In-Depth Review: A New Standard for Local AI Inference",
+      "slug": "2025-10-14-nvidia-dgx-spark-in-depth-review-a-new-standard-for-local-ai-inference.html",
+      "path": "posts/2025-10-14-nvidia-dgx-spark-in-depth-review-a-new-standard-for-local-ai-inference.html",
+      "date_iso": "2025-10-14T01:07:45+00:00",
+      "source": "https://lmsys.org/blog/2025-10-13-nvidia-dgx-spark/",
+      "summary": "Article URL: https://lmsys.org/blog/2025-10-13-nvidia-dgx-spark/ Comments URL: https://news.ycombinator.com/item?id=45575127 Points: 24 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45574705",
+      "title": "StreamingVLM: Real-Time Understanding for Infinite Video Streams",
+      "slug": "2025-10-14-streamingvlm-real-time-understanding-for-infinite-video-streams.html",
+      "path": "posts/2025-10-14-streamingvlm-real-time-understanding-for-infinite-video-streams.html",
+      "date_iso": "2025-10-14T00:02:18+00:00",
+      "source": "https://arxiv.org/abs/2510.09608",
+      "summary": "Article URL: https://arxiv.org/abs/2510.09608 Comments URL: https://news.ycombinator.com/item?id=45574705 Points: 22 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45574393",
+      "title": "DDoS Botnet Aisuru Blankets US ISPs in Record DDoS",
+      "slug": "2025-10-13-ddos-botnet-aisuru-blankets-us-isps-in-record-ddos.html",
+      "path": "posts/2025-10-13-ddos-botnet-aisuru-blankets-us-isps-in-record-ddos.html",
+      "date_iso": "2025-10-13T23:21:23+00:00",
+      "source": "https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/",
+      "summary": "Article URL: https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/ Comments URL: https://news.ycombinator.com/item?id=45574393 Points: 114 # Comments: 87"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45574247",
+      "title": "Sony PlayStation 2 fixing frenzy",
+      "slug": "2025-10-13-sony-playstation-2-fixing-frenzy.html",
+      "path": "posts/2025-10-13-sony-playstation-2-fixing-frenzy.html",
+      "date_iso": "2025-10-13T23:02:06+00:00",
+      "source": "https://retrohax.net/sony-playstation-2-fixing-frenzy/",
+      "summary": "Article URL: https://retrohax.net/sony-playstation-2-fixing-frenzy/ Comments URL: https://news.ycombinator.com/item?id=45574247 Points: 109 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45572478",
+      "title": "LLMs are getting better at character-level text manipulation",
+      "slug": "2025-10-13-llms-are-getting-better-at-character-level-text-manipulation.html",
+      "path": "posts/2025-10-13-llms-are-getting-better-at-character-level-text-manipulation.html",
+      "date_iso": "2025-10-13T19:39:14+00:00",
+      "source": "https://blog.burkert.me/posts/llm_evolution_character_manipulation/",
+      "summary": "Article URL: https://blog.burkert.me/posts/llm_evolution_character_manipulation/ Comments URL: https://news.ycombinator.com/item?id=45572478 Points: 83 # Comments: 49"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45571822",
+      "title": "Strudel REPL – a music live coding environment living in the browser",
+      "slug": "2025-10-13-strudel-repl-a-music-live-coding-environment-living-in-the-browser.html",
+      "path": "posts/2025-10-13-strudel-repl-a-music-live-coding-environment-living-in-the-browser.html",
+      "date_iso": "2025-10-13T18:37:34+00:00",
+      "source": "https://strudel.cc",
+      "summary": "Article URL: https://strudel.cc Comments URL: https://news.ycombinator.com/item?id=45571822 Points: 142 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45571688",
+      "title": "Modern iOS Security Features – A Deep Dive into SPTM, TXM, and Exclaves",
+      "slug": "2025-10-13-modern-ios-security-features-a-deep-dive-into-sptm-txm-and-exclaves.html",
+      "path": "posts/2025-10-13-modern-ios-security-features-a-deep-dive-into-sptm-txm-and-exclaves.html",
+      "date_iso": "2025-10-13T18:23:15+00:00",
+      "source": "https://arxiv.org/abs/2510.09272",
+      "summary": "Article URL: https://arxiv.org/abs/2510.09272 Comments URL: https://news.ycombinator.com/item?id=45571688 Points: 155 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45570973",
+      "title": "America's future could hinge on whether AI slightly disappoints",
+      "slug": "2025-10-13-america-s-future-could-hinge-on-whether-ai-slightly-disappoints.html",
+      "path": "posts/2025-10-13-america-s-future-could-hinge-on-whether-ai-slightly-disappoints.html",
+      "date_iso": "2025-10-13T17:24:51+00:00",
+      "source": "https://www.noahpinion.blog/p/americas-future-could-hinge-on-whether",
+      "summary": "Article URL: https://www.noahpinion.blog/p/americas-future-could-hinge-on-whether Comments URL: https://news.ycombinator.com/item?id=45570973 Points: 113 # Comments: 104"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45570720",
+      "title": "Optery (YC W22) – Hiring Tech Lead with Node.js Experience (U.S. & Latin America)",
+      "slug": "2025-10-13-optery-yc-w22-hiring-tech-lead-with-node-js-experience-u-s-latin-america.html",
+      "path": "posts/2025-10-13-optery-yc-w22-hiring-tech-lead-with-node-js-experience-u-s-latin-america.html",
+      "date_iso": "2025-10-13T17:03:11+00:00",
+      "source": "https://www.optery.com/careers/",
+      "summary": "Article URL: https://www.optery.com/careers/ Comments URL: https://news.ycombinator.com/item?id=45570720 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45569350",
+      "title": "NanoChat – The best ChatGPT that $100 can buy",
+      "slug": "2025-10-13-nanochat-the-best-chatgpt-that-100-can-buy.html",
+      "path": "posts/2025-10-13-nanochat-the-best-chatgpt-that-100-can-buy.html",
+      "date_iso": "2025-10-13T15:22:47+00:00",
+      "source": "https://github.com/karpathy/nanochat",
+      "summary": "https://x.com/karpathy/status/1977755427569111362 Comments URL: https://news.ycombinator.com/item?id=45569350 Points: 1089 # Comments: 210"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45568915",
+      "title": "America is getting an AI gold rush instead of a factory boom",
+      "slug": "2025-10-13-america-is-getting-an-ai-gold-rush-instead-of-a-factory-boom.html",
+      "path": "posts/2025-10-13-america-is-getting-an-ai-gold-rush-instead-of-a-factory-boom.html",
+      "date_iso": "2025-10-13T14:48:47+00:00",
+      "source": "https://www.washingtonpost.com/business/2025/10/13/manufacturing-artificial-intelligence/",
+      "summary": "Article URL: https://www.washingtonpost.com/business/2025/10/13/manufacturing-artificial-intelligence/ Comments URL: https://news.ycombinator.com/item?id=45568915 Points: 183 # Comments: 185"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45568613",
+      "title": "Smartphones and being present",
+      "slug": "2025-10-13-smartphones-and-being-present.html",
+      "path": "posts/2025-10-13-smartphones-and-being-present.html",
+      "date_iso": "2025-10-13T14:20:33+00:00",
+      "source": "https://herman.bearblog.dev/being-present/",
+      "summary": "Article URL: https://herman.bearblog.dev/being-present/ Comments URL: https://news.ycombinator.com/item?id=45568613 Points: 246 # Comments: 160"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45567877",
+      "title": "No science, no startups: The innovation engine we're switching off",
+      "slug": "2025-10-13-no-science-no-startups-the-innovation-engine-we-re-switching-off.html",
+      "path": "posts/2025-10-13-no-science-no-startups-the-innovation-engine-we-re-switching-off.html",
+      "date_iso": "2025-10-13T13:02:20+00:00",
+      "source": "https://steveblank.com/2025/10/13/no-science-no-startups-the-unseen-engine-were-switching-off/",
+      "summary": "Article URL: https://steveblank.com/2025/10/13/no-science-no-startups-the-unseen-engine-were-switching-off/ Comments URL: https://news.ycombinator.com/item?id=45567877 Points: 433 # Comments: 321"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/13/technology/openai-broadcom-chips-deal.html",
+      "title": "OpenAI Inks Deal With Broadcom to Design Its Own Chips for A.I.",
+      "slug": "2025-10-13-openai-inks-deal-with-broadcom-to-design-its-own-chips-for-a-i.html",
+      "path": "posts/2025-10-13-openai-inks-deal-with-broadcom-to-design-its-own-chips-for-a-i.html",
+      "date_iso": "2025-10-13T13:00:07+00:00",
+      "source": "https://www.nytimes.com/2025/10/13/technology/openai-broadcom-chips-deal.html",
+      "summary": "“Developing our own accelerators adds to the broader ecosystem of partners all building the capacity required to push the frontier of A.I.,” OpenAI’s chief executive, Sam Altman, said in a statement."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45567770",
+      "title": "Show HN: SQLite Online – 11 years of solo development, 11K daily users",
+      "slug": "2025-10-13-show-hn-sqlite-online-11-years-of-solo-development-11k-daily-users.html",
+      "path": "posts/2025-10-13-show-hn-sqlite-online-11-years-of-solo-development-11k-daily-users.html",
+      "date_iso": "2025-10-13T12:46:52+00:00",
+      "source": "https://sqliteonline.com/",
+      "summary": "Article URL: https://sqliteonline.com/ Comments URL: https://news.ycombinator.com/item?id=45567770 Points: 375 # Comments: 124"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45567241",
+      "title": "Why did containers happen?",
+      "slug": "2025-10-13-why-did-containers-happen.html",
+      "path": "posts/2025-10-13-why-did-containers-happen.html",
+      "date_iso": "2025-10-13T11:37:55+00:00",
+      "source": "https://buttondown.com/justincormack/archive/ignore-previous-directions-8-devopsdays/",
+      "summary": "https://www.youtube.com/watch?v=eMU2mZgo99c Comments URL: https://news.ycombinator.com/item?id=45567241 Points: 106 # Comments: 118"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45566644",
+      "title": "Dutch government takes control of Chinese-owned chipmaker Nexperia",
+      "slug": "2025-10-13-dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html",
+      "path": "posts/2025-10-13-dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html",
+      "date_iso": "2025-10-13T10:03:11+00:00",
+      "source": "https://www.cnbc.com/2025/10/13/dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html",
+      "summary": "Related: https://www.scmp.com/news/china/diplomacy/article/3328726/chinas-wingtech-says-dutch-court-freezes-control-nexperia-amid-national-security-dispute Comments URL: https://news.ycombinator.com/item?id=45566644 Points: 416 # Comments: 331"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/13/technology/defense-tech-manufacturing-midwest-northeast.html",
+      "title": "Factory Towns Revive as Defense Tech Makers Arrive",
+      "slug": "2025-10-13-factory-towns-revive-as-defense-tech-makers-arrive.html",
+      "path": "posts/2025-10-13-factory-towns-revive-as-defense-tech-makers-arrive.html",
+      "date_iso": "2025-10-13T09:01:06+00:00",
+      "source": "https://www.nytimes.com/2025/10/13/technology/defense-tech-manufacturing-midwest-northeast.html",
+      "summary": "A worker inspecting a drone at Swarm Defense Technologies’ factory in Auburn Hills, Mich."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45564619",
       "title": "Fastmail Desktop App",
       "slug": "2025-10-13-fastmail-desktop-app.html",
