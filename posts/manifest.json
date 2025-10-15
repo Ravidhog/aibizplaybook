@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45588594",
+      "title": "Pixnapping Attack",
+      "slug": "2025-10-15-pixnapping-attack.html",
+      "path": "posts/2025-10-15-pixnapping-attack.html",
+      "date_iso": "2025-10-15T06:05:51+00:00",
+      "source": "https://www.pixnapping.com/",
+      "summary": "Article URL: https://www.pixnapping.com/ Comments URL: https://news.ycombinator.com/item?id=45588594 Points: 26 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45588283",
+      "title": "I am a programmer, not a rubber-stamp that approves Copilot generated code",
+      "slug": "2025-10-15-i-am-a-programmer-not-a-rubber-stamp-that-approves-copilot-generated-code.html",
+      "path": "posts/2025-10-15-i-am-a-programmer-not-a-rubber-stamp-that-approves-copilot-generated-code.html",
+      "date_iso": "2025-10-15T05:09:44+00:00",
+      "source": "https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html",
+      "summary": "Article URL: https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html Comments URL: https://news.ycombinator.com/item?id=45588283 Points: 101 # Comments: 110"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45587289",
+      "title": "Can we know whether a profiler is accurate?",
+      "slug": "2025-10-15-can-we-know-whether-a-profiler-is-accurate.html",
+      "path": "posts/2025-10-15-can-we-know-whether-a-profiler-is-accurate.html",
+      "date_iso": "2025-10-15T02:04:26+00:00",
+      "source": "https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/",
+      "summary": "Article URL: https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/ Comments URL: https://news.ycombinator.com/item?id=45587289 Points: 31 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45587280",
+      "title": "Disk Prices",
+      "slug": "2025-10-15-disk-prices.html",
+      "path": "posts/2025-10-15-disk-prices.html",
+      "date_iso": "2025-10-15T02:02:32+00:00",
+      "source": "https://diskprices.com/?locale=us",
+      "summary": "Article URL: https://diskprices.com/?locale=us Comments URL: https://news.ycombinator.com/item?id=45587280 Points: 91 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45586776",
+      "title": "Nvidia DGX Spark: great hardware, early days for the ecosystem",
+      "slug": "2025-10-15-nvidia-dgx-spark-great-hardware-early-days-for-the-ecosystem.html",
+      "path": "posts/2025-10-15-nvidia-dgx-spark-great-hardware-early-days-for-the-ecosystem.html",
+      "date_iso": "2025-10-15T00:49:25+00:00",
+      "source": "https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/",
+      "summary": "Article URL: https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/ Comments URL: https://news.ycombinator.com/item?id=45586776 Points: 82 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45586339",
+      "title": "FSF announces Librephone project",
+      "slug": "2025-10-14-fsf-announces-librephone-project.html",
+      "path": "posts/2025-10-14-fsf-announces-librephone-project.html",
+      "date_iso": "2025-10-14T23:47:08+00:00",
+      "source": "https://www.fsf.org/news/librephone-project",
+      "summary": "Article URL: https://www.fsf.org/news/librephone-project Comments URL: https://news.ycombinator.com/item?id=45586339 Points: 701 # Comments: 252"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45585869",
+      "title": "GrapheneOS is ready to break free from Pixels",
+      "slug": "2025-10-14-grapheneos-is-ready-to-break-free-from-pixels.html",
+      "path": "posts/2025-10-14-grapheneos-is-ready-to-break-free-from-pixels.html",
+      "date_iso": "2025-10-14T22:36:40+00:00",
+      "source": "https://www.androidauthority.com/graphene-os-major-android-oem-partnership-3606853/",
+      "summary": "Article URL: https://www.androidauthority.com/graphene-os-major-android-oem-partnership-3606853/ Comments URL: https://news.ycombinator.com/item?id=45585869 Points: 274 # Comments: 120"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45584498",
+      "title": "Surveillance data challenges what we thought we knew about location tracking",
+      "slug": "2025-10-14-surveillance-data-challenges-what-we-thought-we-knew-about-location-tracking.html",
+      "path": "posts/2025-10-14-surveillance-data-challenges-what-we-thought-we-knew-about-location-tracking.html",
+      "date_iso": "2025-10-14T20:36:01+00:00",
+      "source": "https://www.lighthousereports.com/investigation/surveillance-secrets/",
+      "summary": "Article URL: https://www.lighthousereports.com/investigation/surveillance-secrets/ Comments URL: https://news.ycombinator.com/item?id=45584498 Points: 376 # Comments: 89"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45584464",
+      "title": "Why Is SQLite Coded In C",
+      "slug": "2025-10-14-why-is-sqlite-coded-in-c.html",
+      "path": "posts/2025-10-14-why-is-sqlite-coded-in-c.html",
+      "date_iso": "2025-10-14T20:32:32+00:00",
+      "source": "https://www.sqlite.org/whyc.html",
+      "summary": "Article URL: https://www.sqlite.org/whyc.html Comments URL: https://news.ycombinator.com/item?id=45584464 Points: 183 # Comments: 203"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45584281",
+      "title": "Unpacking Cloudflare Workers CPU Performance Benchmarks",
+      "slug": "2025-10-14-unpacking-cloudflare-workers-cpu-performance-benchmarks.html",
+      "path": "posts/2025-10-14-unpacking-cloudflare-workers-cpu-performance-benchmarks.html",
+      "date_iso": "2025-10-14T20:17:44+00:00",
+      "source": "https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/",
+      "summary": "Article URL: https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/ Comments URL: https://news.ycombinator.com/item?id=45584281 Points: 196 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45583787",
+      "title": "How to turn liquid glass into a solid interface",
+      "slug": "2025-10-14-how-to-turn-liquid-glass-into-a-solid-interface.html",
+      "path": "posts/2025-10-14-how-to-turn-liquid-glass-into-a-solid-interface.html",
+      "date_iso": "2025-10-14T19:27:41+00:00",
+      "source": "https://tidbits.com/2025/10/09/how-to-turn-liquid-glass-into-a-solid-interface/",
+      "summary": "Article URL: https://tidbits.com/2025/10/09/how-to-turn-liquid-glass-into-a-solid-interface/ Comments URL: https://news.ycombinator.com/item?id=45583787 Points: 132 # Comments: 91"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45583574",
+      "title": "Preparing for AI's economic impact: exploring policy responses",
+      "slug": "2025-10-14-preparing-for-ai-s-economic-impact-exploring-policy-responses.html",
+      "path": "posts/2025-10-14-preparing-for-ai-s-economic-impact-exploring-policy-responses.html",
+      "date_iso": "2025-10-14T19:06:27+00:00",
+      "source": "https://www.anthropic.com/research/economic-policy-responses",
+      "summary": "Article URL: https://www.anthropic.com/research/economic-policy-responses Comments URL: https://news.ycombinator.com/item?id=45583574 Points: 44 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45583336",
+      "title": "What Americans die from vs. what the news reports on",
+      "slug": "2025-10-14-what-americans-die-from-vs-what-the-news-reports-on.html",
+      "path": "posts/2025-10-14-what-americans-die-from-vs-what-the-news-reports-on.html",
+      "date_iso": "2025-10-14T18:40:23+00:00",
+      "source": "https://ourworldindata.org/does-the-news-reflect-what-we-die-from",
+      "summary": "Article URL: https://ourworldindata.org/does-the-news-reflect-what-we-die-from Comments URL: https://news.ycombinator.com/item?id=45583336 Points: 513 # Comments: 286"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45583180",
+      "title": "Beliefs that are true for regular software but false when applied to AI",
+      "slug": "2025-10-14-beliefs-that-are-true-for-regular-software-but-false-when-applied-to-ai.html",
+      "path": "posts/2025-10-14-beliefs-that-are-true-for-regular-software-but-false-when-applied-to-ai.html",
+      "date_iso": "2025-10-14T18:26:00+00:00",
+      "source": "https://boydkane.com/essays/boss",
+      "summary": "Article URL: https://boydkane.com/essays/boss Comments URL: https://news.ycombinator.com/item?id=45583180 Points: 336 # Comments: 251"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45582758",
+      "title": "SmolBSD – build your own minimal BSD system",
+      "slug": "2025-10-14-smolbsd-build-your-own-minimal-bsd-system.html",
+      "path": "posts/2025-10-14-smolbsd-build-your-own-minimal-bsd-system.html",
+      "date_iso": "2025-10-14T17:43:33+00:00",
+      "source": "https://smolbsd.org",
+      "summary": "Article URL: https://smolbsd.org Comments URL: https://news.ycombinator.com/item?id=45582758 Points: 175 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45582462",
+      "title": "How bad can a $2.97 ADC be?",
+      "slug": "2025-10-14-how-bad-can-a-2-97-adc-be.html",
+      "path": "posts/2025-10-14-how-bad-can-a-2-97-adc-be.html",
+      "date_iso": "2025-10-14T17:12:10+00:00",
+      "source": "https://excamera.substack.com/p/how-bad-can-a-297-adc-be",
+      "summary": "Article URL: https://excamera.substack.com/p/how-bad-can-a-297-adc-be Comments URL: https://news.ycombinator.com/item?id=45582462 Points: 224 # Comments: 121"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45581735",
+      "title": "How AI hears accents: An audible visualization of accent clusters",
+      "slug": "2025-10-14-how-ai-hears-accents-an-audible-visualization-of-accent-clusters.html",
+      "path": "posts/2025-10-14-how-ai-hears-accents-an-audible-visualization-of-accent-clusters.html",
+      "date_iso": "2025-10-14T16:07:37+00:00",
+      "source": "https://accent-explorer.boldvoice.com/",
+      "summary": "Article URL: https://accent-explorer.boldvoice.com/ Comments URL: https://news.ycombinator.com/item?id=45581735 Points: 200 # Comments: 79"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45581288",
+      "title": "A modern approach to preventing CSRF in Go",
+      "slug": "2025-10-14-a-modern-approach-to-preventing-csrf-in-go.html",
+      "path": "posts/2025-10-14-a-modern-approach-to-preventing-csrf-in-go.html",
+      "date_iso": "2025-10-14T15:34:51+00:00",
+      "source": "https://www.alexedwards.net/blog/preventing-csrf-in-go",
+      "summary": "Article URL: https://www.alexedwards.net/blog/preventing-csrf-in-go Comments URL: https://news.ycombinator.com/item?id=45581288 Points: 50 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45580981",
+      "title": "DOJ seizes $15B in Bitcoin from 'pig butchering' scam based in Cambodia",
+      "slug": "2025-10-14-doj-seizes-15b-in-bitcoin-from-pig-butchering-scam-based-in-cambodia.html",
+      "path": "posts/2025-10-14-doj-seizes-15b-in-bitcoin-from-pig-butchering-scam-based-in-cambodia.html",
+      "date_iso": "2025-10-14T15:08:38+00:00",
+      "source": "https://www.cnbc.com/2025/10/14/bitcoin-doj-chen-zhi-pig-butchering-scam.html",
+      "summary": "https://www.justice.gov/opa/pr/chairman-prince-group-indicte... Comments URL: https://news.ycombinator.com/item?id=45580981 Points: 78 # Comments: 65"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45580699",
+      "title": "Astronomers 'image' a mysterious dark object in the distant Universe",
+      "slug": "2025-10-14-astronomers-image-a-mysterious-dark-object-in-the-distant-universe.html",
+      "path": "posts/2025-10-14-astronomers-image-a-mysterious-dark-object-in-the-distant-universe.html",
+      "date_iso": "2025-10-14T14:45:02+00:00",
+      "source": "https://www.mpg.de/25518363/1007-asph-astronomers-image-a-mysterious-dark-object-in-the-distant-universe-155031-x",
+      "summary": "Article URL: https://www.mpg.de/25518363/1007-asph-astronomers-image-a-mysterious-dark-object-in-the-distant-universe-155031-x Comments URL: https://news.ycombinator.com/item?id=45580699 Points: 215 # Comments: 118"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/14/technology/instagram-teenagers-pg-13-ratings.html",
+      "title": "Instagram Will Limit Content for Teenagers Based on PG-13 Ratings",
+      "slug": "2025-10-14-instagram-will-limit-content-for-teenagers-based-on-pg-13-ratings.html",
+      "path": "posts/2025-10-14-instagram-will-limit-content-for-teenagers-based-on-pg-13-ratings.html",
+      "date_iso": "2025-10-14T12:00:06+00:00",
+      "source": "https://www.nytimes.com/2025/10/14/technology/instagram-teenagers-pg-13-ratings.html",
+      "summary": "The restrictions also apply to conversations between teenage users and artificial intelligence chatbots."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/14/business/energy-environment/trump-renewable-energy-batteries.html",
+      "title": "Renewable Energy Is Booming Despite Trump’s Efforts to Slow It",
+      "slug": "2025-10-14-renewable-energy-is-booming-despite-trump-s-efforts-to-slow-it.html",
+      "path": "posts/2025-10-14-renewable-energy-is-booming-despite-trump-s-efforts-to-slow-it.html",
+      "date_iso": "2025-10-14T09:01:19+00:00",
+      "source": "https://www.nytimes.com/2025/10/14/business/energy-environment/trump-renewable-energy-batteries.html",
+      "summary": "The Little Elk solar project in Elkton, Md., is among those owned by CleanCapital, a company that develops and operates solar and battery storage projects around the country."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45576623",
       "title": "Why Study Programming Languages",
       "slug": "2025-10-14-why-study-programming-languages.html",
@@ -1078,6 +1276,15 @@
       "path": "posts/2025-10-08-his-lab-tested-cutting-edge-spacecraft.html",
       "date_iso": "2025-10-08T23:02:09+00:00",
       "source": "https://www.nytimes.com/2025/10/08/science/nsf-spacecraft-technology.html",
+      "summary": "Mason Peck, an aerospace engineer at Cornell, was trying to test innovative designs in spacecraft when a stop-work order hit."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/08/science/spacecraft-technology.html",
+      "title": "His Lab Tested Cutting-Edge Spacecraft",
+      "slug": "2025-10-08-his-lab-tested-cutting-edge-spacecraft.html",
+      "path": "posts/2025-10-08-his-lab-tested-cutting-edge-spacecraft.html",
+      "date_iso": "2025-10-08T23:02:09+00:00",
+      "source": "https://www.nytimes.com/2025/10/08/science/spacecraft-technology.html",
       "summary": "Mason Peck, an aerospace engineer at Cornell, was trying to test innovative designs in spacecraft when a stop-work order hit."
     },
     {
