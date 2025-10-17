@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Ask HN: How to stop an AWS bot sending 2B requests/month</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Ask HN: How to stop an AWS bot sending 2B requests/month</h1>
+    <p><small>Published: 2025-10-17T05:28:24+00:00</small></p>
+  </header>
+
+  <main>
+    <p>I have been struggling with a bot– 'Mozilla/5.0 (compatible; crawler)' coming from AWS Singapore – and sending an absurd number of requests to a domain of mine, averaging over 700 requests/second for several months now.
+Thankfully, CloudFlare is able to handle the traffic with a simple WAF rule and 444 response to reduce the outbound traffic.<p>I've submitted several complaints to AWS to get this traffic to stop, their typical followup is:
+We have engaged with our customer, and based on this engagement have determined that the reported activity does not require further action from AWS at this time.<p>I've tried various 4XX responses to see if the bot will back off, I've tried 30X redirects (which it follows) to no avail.<p>The traffic is hitting numbers that require me to re-negotiate my contract with CloudFlare and is otherwise a nuisance when reviewing analytics/logs.<p>I've considered redirecting the entirety of the traffic to aws abuse report page, but at this scall, it's essentially a small DDoS network and sending it anywhere could be considered abuse in itself.<p>Are there others that have similar experience?</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45613567">https://news.ycombinator.com/item?id=45613567</a></p>
+<p>Points: 26</p>
+<p># Comments: 13</p>
+    <p><a href="https://news.ycombinator.com/item?id=45613567" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
