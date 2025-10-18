@@ -1,6 +1,213 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45625351",
+      "title": "BBC Gaza documentary serious breach of rules",
+      "slug": "2025-10-18-bbc-gaza-documentary-serious-breach-of-rules.html",
+      "path": "posts/2025-10-18-bbc-gaza-documentary-serious-breach-of-rules.html",
+      "date_iso": "2025-10-18T06:20:23+00:00",
+      "source": "https://www.bbc.com/news/articles/c629j5m2n01o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c629j5m2n01o Comments URL: https://news.ycombinator.com/item?id=45625351 Points: 10 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45625251",
+      "title": "StageConnect: Behringer protocol is open source",
+      "slug": "2025-10-18-stageconnect-behringer-protocol-is-open-source.html",
+      "path": "posts/2025-10-18-stageconnect-behringer-protocol-is-open-source.html",
+      "date_iso": "2025-10-18T05:52:47+00:00",
+      "source": "https://github.com/OpenMixerProject/StageConnect",
+      "summary": "Article URL: https://github.com/OpenMixerProject/StageConnect Comments URL: https://news.ycombinator.com/item?id=45625251 Points: 36 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45625029",
+      "title": "The Majority AI View",
+      "slug": "2025-10-18-the-majority-ai-view.html",
+      "path": "posts/2025-10-18-the-majority-ai-view.html",
+      "date_iso": "2025-10-18T04:56:47+00:00",
+      "source": "https://www.anildash.com//2025/10/17/the-majority-ai-view/",
+      "summary": "Article URL: https://www.anildash.com//2025/10/17/the-majority-ai-view/ Comments URL: https://news.ycombinator.com/item?id=45625029 Points: 24 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45624888",
+      "title": "AMD's Chiplet APU: An Overview of Strix Halo",
+      "slug": "2025-10-18-amd-s-chiplet-apu-an-overview-of-strix-halo.html",
+      "path": "posts/2025-10-18-amd-s-chiplet-apu-an-overview-of-strix-halo.html",
+      "date_iso": "2025-10-18T04:26:19+00:00",
+      "source": "https://chipsandcheese.com/p/amds-chiplet-apu-an-overview-of-strix",
+      "summary": "Article URL: https://chipsandcheese.com/p/amds-chiplet-apu-an-overview-of-strix Comments URL: https://news.ycombinator.com/item?id=45624888 Points: 13 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45624186",
+      "title": "Show HN: ServiceRadar – open-source Network Observability Platform",
+      "slug": "2025-10-18-show-hn-serviceradar-open-source-network-observability-platform.html",
+      "path": "posts/2025-10-18-show-hn-serviceradar-open-source-network-observability-platform.html",
+      "date_iso": "2025-10-18T01:49:06+00:00",
+      "source": "https://github.com/carverauto/serviceradar",
+      "summary": "ServiceRadar is an open-source platform for distributed, secure network management and observability, scaling to 100k+ devices. Born from frustration with complex traditional NMS tools like Zabbix, it bridges legacy (SNMP/syslog) and modern (gNMI, OTLP) protocols for cloud-nativ…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45623917",
+      "title": "The Unix Executable as a Smalltalk Method [pdf]",
+      "slug": "2025-10-18-the-unix-executable-as-a-smalltalk-method-pdf.html",
+      "path": "posts/2025-10-18-the-unix-executable-as-a-smalltalk-method-pdf.html",
+      "date_iso": "2025-10-18T01:03:22+00:00",
+      "source": "https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf",
+      "summary": "Article URL: https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf Comments URL: https://news.ycombinator.com/item?id=45623917 Points: 64 # Comments: 6"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/17/business/boeing-737-max-faa.html",
+      "title": "Boeing Is Allowed to Increase 737 Max Plane Production, FAA Says",
+      "slug": "2025-10-17-boeing-is-allowed-to-increase-737-max-plane-production-faa-says.html",
+      "path": "posts/2025-10-17-boeing-is-allowed-to-increase-737-max-plane-production-faa-says.html",
+      "date_iso": "2025-10-17T22:16:45+00:00",
+      "source": "https://www.nytimes.com/2025/10/17/business/boeing-737-max-faa.html",
+      "summary": "Federal regulators limited how many 737 Max planes Boeing could produce after a panel flew off an Alaska Airlines plane in January 2024."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/17/us/benioff-apologizes-san-francisco.html",
+      "title": "Benioff Apologizes for Saying Trump Should Send Troops to San Francisco",
+      "slug": "2025-10-17-benioff-apologizes-for-saying-trump-should-send-troops-to-san-francisco.html",
+      "path": "posts/2025-10-17-benioff-apologizes-for-saying-trump-should-send-troops-to-san-francisco.html",
+      "date_iso": "2025-10-17T22:06:07+00:00",
+      "source": "https://www.nytimes.com/2025/10/17/us/benioff-apologizes-san-francisco.html",
+      "summary": "Marc Benioff faced criticism from San Francisco leaders for saying that President Trump should send National Guard troops to San Francisco."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45622604",
+      "title": "WebMCP",
+      "slug": "2025-10-17-webmcp.html",
+      "path": "posts/2025-10-17-webmcp.html",
+      "date_iso": "2025-10-17T21:57:44+00:00",
+      "source": "https://github.com/jasonjmcghee/WebMCP",
+      "summary": "Article URL: https://github.com/jasonjmcghee/WebMCP Comments URL: https://news.ycombinator.com/item?id=45622604 Points: 70 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45622365",
+      "title": "New Work by Gary Larson",
+      "slug": "2025-10-17-new-work-by-gary-larson.html",
+      "path": "posts/2025-10-17-new-work-by-gary-larson.html",
+      "date_iso": "2025-10-17T21:34:37+00:00",
+      "source": "https://www.thefarside.com/new-stuff",
+      "summary": "Article URL: https://www.thefarside.com/new-stuff Comments URL: https://news.ycombinator.com/item?id=45622365 Points: 205 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45621074",
+      "title": "The pivot",
+      "slug": "2025-10-17-the-pivot.html",
+      "path": "posts/2025-10-17-the-pivot.html",
+      "date_iso": "2025-10-17T19:37:16+00:00",
+      "source": "https://www.antipope.org/charlie/blog-static/2025/10/the-pivot-1.html",
+      "summary": "Article URL: https://www.antipope.org/charlie/blog-static/2025/10/the-pivot-1.html Comments URL: https://news.ycombinator.com/item?id=45621074 Points: 267 # Comments: 120"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45620653",
+      "title": "Asking AI to build scrapers should be easy right?",
+      "slug": "2025-10-17-asking-ai-to-build-scrapers-should-be-easy-right.html",
+      "path": "posts/2025-10-17-asking-ai-to-build-scrapers-should-be-easy-right.html",
+      "date_iso": "2025-10-17T19:03:21+00:00",
+      "source": "https://www.skyvern.com/blog/asking-ai-to-build-scrapers-should-be-easy-right/",
+      "summary": "Article URL: https://www.skyvern.com/blog/asking-ai-to-build-scrapers-should-be-easy-right/ Comments URL: https://news.ycombinator.com/item?id=45620653 Points: 96 # Comments: 44"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45619537",
+      "title": "Claude Skills are awesome, maybe a bigger deal than MCP",
+      "slug": "2025-10-17-claude-skills-are-awesome-maybe-a-bigger-deal-than-mcp.html",
+      "path": "posts/2025-10-17-claude-skills-are-awesome-maybe-a-bigger-deal-than-mcp.html",
+      "date_iso": "2025-10-17T17:40:21+00:00",
+      "source": "https://simonwillison.net/2025/Oct/16/claude-skills/",
+      "summary": "Article URL: https://simonwillison.net/2025/Oct/16/claude-skills/ Comments URL: https://news.ycombinator.com/item?id=45619537 Points: 496 # Comments: 273"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45619329",
+      "title": "Andrej Karpathy – It will take a decade to work through the issues with agents",
+      "slug": "2025-10-17-andrej-karpathy-it-will-take-a-decade-to-work-through-the-issues-with-agents.html",
+      "path": "posts/2025-10-17-andrej-karpathy-it-will-take-a-decade-to-work-through-the-issues-with-agents.html",
+      "date_iso": "2025-10-17T17:24:18+00:00",
+      "source": "https://www.dwarkesh.com/p/andrej-karpathy",
+      "summary": "Article URL: https://www.dwarkesh.com/p/andrej-karpathy Comments URL: https://news.ycombinator.com/item?id=45619329 Points: 671 # Comments: 659"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45618790",
+      "title": "The Rapper 50 Cent, Adjusted for Inflation",
+      "slug": "2025-10-17-the-rapper-50-cent-adjusted-for-inflation.html",
+      "path": "posts/2025-10-17-the-rapper-50-cent-adjusted-for-inflation.html",
+      "date_iso": "2025-10-17T16:40:02+00:00",
+      "source": "https://50centadjustedforinflation.com/",
+      "summary": "Article URL: https://50centadjustedforinflation.com/ Comments URL: https://news.ycombinator.com/item?id=45618790 Points: 589 # Comments: 156"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/17/technology/instagram-teen-safety-features-ai-chatbots.html",
+      "title": "Instagram Unveils Teen Safety Features for A.I. Chatbots",
+      "slug": "2025-10-17-instagram-unveils-teen-safety-features-for-a-i-chatbots.html",
+      "path": "posts/2025-10-17-instagram-unveils-teen-safety-features-for-a-i-chatbots.html",
+      "date_iso": "2025-10-17T16:28:54+00:00",
+      "source": "https://www.nytimes.com/2025/10/17/technology/instagram-teen-safety-features-ai-chatbots.html",
+      "summary": "Instagram is introducing parental controls and limits to conversations on topics like self-harm as concerns grow over how A.I. chatbots affect mental health."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45617819",
+      "title": "Intercellular communication in the brain through a dendritic nanotubular network",
+      "slug": "2025-10-17-intercellular-communication-in-the-brain-through-a-dendritic-nanotubular-network.html",
+      "path": "posts/2025-10-17-intercellular-communication-in-the-brain-through-a-dendritic-nanotubular-network.html",
+      "date_iso": "2025-10-17T15:22:29+00:00",
+      "source": "https://www.science.org/doi/10.1126/science.adr7403",
+      "summary": "Article URL: https://www.science.org/doi/10.1126/science.adr7403 Comments URL: https://news.ycombinator.com/item?id=45617819 Points: 269 # Comments: 214"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45615931",
+      "title": "Live Stream from the Namib Desert",
+      "slug": "2025-10-17-live-stream-from-the-namib-desert.html",
+      "path": "posts/2025-10-17-live-stream-from-the-namib-desert.html",
+      "date_iso": "2025-10-17T12:23:01+00:00",
+      "source": "https://bookofjoe2.blogspot.com/2025/10/live-stream-from-namib-desert.html",
+      "summary": "Article URL: https://bookofjoe2.blogspot.com/2025/10/live-stream-from-namib-desert.html Comments URL: https://news.ycombinator.com/item?id=45615931 Points: 455 # Comments: 86"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/17/podcasts/california-regulates-ai-companions-openai-investigates-its-critics-the-hard-fork-review-of-slop.html",
+      "title": "California Regulates A.I. Companions + OpenAI Investigates Its Critics + The Hard Fork Review of Slop",
+      "slug": "2025-10-17-california-regulates-a-i-companions-openai-investigates-its-critics-the-hard-fork-review-of-slop.html",
+      "path": "posts/2025-10-17-california-regulates-a-i-companions-openai-investigates-its-critics-the-hard-fork-review-of-slop.html",
+      "date_iso": "2025-10-17T11:00:06+00:00",
+      "source": "https://www.nytimes.com/2025/10/17/podcasts/california-regulates-ai-companions-openai-investigates-its-critics-the-hard-fork-review-of-slop.html",
+      "summary": "Could this be a blueprint for the nation?"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45615237",
+      "title": "EVs are depreciating faster than gas-powered cars",
+      "slug": "2025-10-17-evs-are-depreciating-faster-than-gas-powered-cars.html",
+      "path": "posts/2025-10-17-evs-are-depreciating-faster-than-gas-powered-cars.html",
+      "date_iso": "2025-10-17T10:56:40+00:00",
+      "source": "https://restofworld.org/2025/ev-depreciation-blusmart-collapse/",
+      "summary": "Article URL: https://restofworld.org/2025/ev-depreciation-blusmart-collapse/ Comments URL: https://news.ycombinator.com/item?id=45615237 Points: 319 # Comments: 735"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45614713",
+      "title": "Amazon’s Ring to partner with Flock",
+      "slug": "2025-10-17-amazon-s-ring-to-partner-with-flock.html",
+      "path": "posts/2025-10-17-amazon-s-ring-to-partner-with-flock.html",
+      "date_iso": "2025-10-17T09:15:25+00:00",
+      "source": "https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/",
+      "summary": "Article URL: https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/ Comments URL: https://news.ycombinator.com/item?id=45614713 Points: 499 # Comments: 435"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/17/science/starfront-observatories-remote-astronomy.html",
+      "title": "An Army of Robot Telescopes in Texas Makes the Stars Feel Closer Than Ever",
+      "slug": "2025-10-17-an-army-of-robot-telescopes-in-texas-makes-the-stars-feel-closer-than-ever.html",
+      "path": "posts/2025-10-17-an-army-of-robot-telescopes-in-texas-makes-the-stars-feel-closer-than-ever.html",
+      "date_iso": "2025-10-17T09:00:19+00:00",
+      "source": "https://www.nytimes.com/2025/10/17/science/starfront-observatories-remote-astronomy.html",
+      "summary": "In a year and a half, Starfront Observatories in Rockwood, Texas, has grown from zero telescopes to more than 550."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45614148",
+      "title": "4Chan Lawyer publishes Ofcom correspondence",
+      "slug": "2025-10-17-4chan-lawyer-publishes-ofcom-correspondence.html",
+      "path": "posts/2025-10-17-4chan-lawyer-publishes-ofcom-correspondence.html",
+      "date_iso": "2025-10-17T07:31:58+00:00",
+      "source": "https://alecmuffett.com/article/117792",
+      "summary": "Article URL: https://alecmuffett.com/article/117792 Comments URL: https://news.ycombinator.com/item?id=45614148 Points: 370 # Comments: 490"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45613567",
       "title": "Ask HN: How to stop an AWS bot sending 2B requests/month",
       "slug": "2025-10-17-ask-hn-how-to-stop-an-aws-bot-sending-2b-requests-month.html",
@@ -62,6 +269,15 @@
       "date_iso": "2025-10-16T20:51:27+00:00",
       "source": "https://sandbox.cloudflare.com/",
       "summary": "Article URL: https://sandbox.cloudflare.com/ Comments URL: https://news.ycombinator.com/item?id=45610523 Points: 179 # Comments: 57"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45610266",
+      "title": "Claude Code vs. Codex: I built a sentiment dashboard from Reddit comments",
+      "slug": "2025-10-16-claude-code-vs-codex-i-built-a-sentiment-dashboard-from-reddit-comments.html",
+      "path": "posts/2025-10-16-claude-code-vs-codex-i-built-a-sentiment-dashboard-from-reddit-comments.html",
+      "date_iso": "2025-10-16T20:26:35+00:00",
+      "source": "https://www.aiengineering.report/p/claude-code-vs-codex-sentiment-analysis-reddit",
+      "summary": "Article URL: https://www.aiengineering.report/p/claude-code-vs-codex-sentiment-analysis-reddit Comments URL: https://news.ycombinator.com/item?id=45610266 Points: 88 # Comments: 37"
     },
     {
       "id": "https://news.ycombinator.com/item?id=45610226",
@@ -377,6 +593,15 @@
       "date_iso": "2025-10-15T14:42:14+00:00",
       "source": "https://lab.alexanderobenauer.com/updates/the-jasper-report",
       "summary": "Article URL: https://lab.alexanderobenauer.com/updates/the-jasper-report Comments URL: https://news.ycombinator.com/item?id=45593390 Points: 102 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45593358",
+      "title": "Exploring PostgreSQL 18's new UUIDv7 support",
+      "slug": "2025-10-15-exploring-postgresql-18-s-new-uuidv7-support.html",
+      "path": "posts/2025-10-15-exploring-postgresql-18-s-new-uuidv7-support.html",
+      "date_iso": "2025-10-15T14:40:42+00:00",
+      "source": "https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support",
+      "summary": "Article URL: https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support Comments URL: https://news.ycombinator.com/item?id=45593358 Points: 207 # Comments: 152"
     },
     {
       "id": "https://news.ycombinator.com/item?id=45592585",
