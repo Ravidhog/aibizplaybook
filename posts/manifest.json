@@ -1,6 +1,132 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45631678",
+      "title": "The Accountability Problem",
+      "slug": "2025-10-19-the-accountability-problem.html",
+      "path": "posts/2025-10-19-the-accountability-problem.html",
+      "date_iso": "2025-10-19T02:22:53+00:00",
+      "source": "https://www.jamesshore.com/v2/blog/2025/the-accountability-problem",
+      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2025/the-accountability-problem Comments URL: https://news.ycombinator.com/item?id=45631678 Points: 37 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45631503",
+      "title": "Friendship Begins at Home",
+      "slug": "2025-10-19-friendship-begins-at-home.html",
+      "path": "posts/2025-10-19-friendship-begins-at-home.html",
+      "date_iso": "2025-10-19T01:23:29+00:00",
+      "source": "https://3quarksdaily.com/3quarksdaily/2025/10/friendship-begins-at-home.html",
+      "summary": "Article URL: https://3quarksdaily.com/3quarksdaily/2025/10/friendship-begins-at-home.html Comments URL: https://news.ycombinator.com/item?id=45631503 Points: 98 # Comments: 43"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45631422",
+      "title": "GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers",
+      "slug": "2025-10-19-gogograndparent-yc-s16-is-hiring-back-end-and-full-stack-engineers.html",
+      "path": "posts/2025-10-19-gogograndparent-yc-s16-is-hiring-back-end-and-full-stack-engineers.html",
+      "date_iso": "2025-10-19T01:00:42+00:00",
+      "source": "https://news.ycombinator.com/item?id=45631422",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=45631422 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45631328",
+      "title": "Using Pegs in Janet",
+      "slug": "2025-10-19-using-pegs-in-janet.html",
+      "path": "posts/2025-10-19-using-pegs-in-janet.html",
+      "date_iso": "2025-10-19T00:33:24+00:00",
+      "source": "https://articles.inqk.net/2020/09/19/how-to-use-pegs-in-janet.html",
+      "summary": "Article URL: https://articles.inqk.net/2020/09/19/how-to-use-pegs-in-janet.html Comments URL: https://news.ycombinator.com/item?id=45631328 Points: 21 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45629970",
+      "title": "How to sequence your DNA for <$2k",
+      "slug": "2025-10-18-how-to-sequence-your-dna-for-2k.html",
+      "path": "posts/2025-10-18-how-to-sequence-your-dna-for-2k.html",
+      "date_iso": "2025-10-18T19:58:25+00:00",
+      "source": "https://maxlangenkamp.substack.com/p/how-to-sequence-your-dna-for-2k",
+      "summary": "Article URL: https://maxlangenkamp.substack.com/p/how-to-sequence-your-dna-for-2k Comments URL: https://news.ycombinator.com/item?id=45629970 Points: 147 # Comments: 65"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45629299",
+      "title": "Most users cannot identify AI bias, even in training data",
+      "slug": "2025-10-18-most-users-cannot-identify-ai-bias-even-in-training-data.html",
+      "path": "posts/2025-10-18-most-users-cannot-identify-ai-bias-even-in-training-data.html",
+      "date_iso": "2025-10-18T18:13:27+00:00",
+      "source": "https://www.psu.edu/news/bellisario-college-communications/story/most-users-cannot-identify-ai-bias-even-training-data",
+      "summary": "Article URL: https://www.psu.edu/news/bellisario-college-communications/story/most-users-cannot-identify-ai-bias-even-training-data Comments URL: https://news.ycombinator.com/item?id=45629299 Points: 72 # Comments: 37"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/18/magazine/jimmy-wales-interview.html",
+      "title": "The Culture Wars Came for Wikipedia. Jimmy Wales Is Staying the Course.",
+      "slug": "2025-10-18-the-culture-wars-came-for-wikipedia-jimmy-wales-is-staying-the-course.html",
+      "path": "posts/2025-10-18-the-culture-wars-came-for-wikipedia-jimmy-wales-is-staying-the-course.html",
+      "date_iso": "2025-10-18T16:47:07+00:00",
+      "source": "https://www.nytimes.com/2025/10/18/magazine/jimmy-wales-interview.html",
+      "summary": "Attacks on the site are piling up. Its co-founder says trust the process."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45628391",
+      "title": "Tinnitus Neuromodulator",
+      "slug": "2025-10-18-tinnitus-neuromodulator.html",
+      "path": "posts/2025-10-18-tinnitus-neuromodulator.html",
+      "date_iso": "2025-10-18T16:08:10+00:00",
+      "source": "https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php",
+      "summary": "Article URL: https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php Comments URL: https://news.ycombinator.com/item?id=45628391 Points: 286 # Comments: 190"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45628283",
+      "title": "Picturing Mathematics",
+      "slug": "2025-10-18-picturing-mathematics.html",
+      "path": "posts/2025-10-18-picturing-mathematics.html",
+      "date_iso": "2025-10-18T15:52:39+00:00",
+      "source": "https://mathenchant.wordpress.com/2025/10/18/picturing-mathematics/",
+      "summary": "Article URL: https://mathenchant.wordpress.com/2025/10/18/picturing-mathematics/ Comments URL: https://news.ycombinator.com/item?id=45628283 Points: 76 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45627692",
+      "title": "Flowistry: An IDE plugin for Rust that focuses on relevant code",
+      "slug": "2025-10-18-flowistry-an-ide-plugin-for-rust-that-focuses-on-relevant-code.html",
+      "path": "posts/2025-10-18-flowistry-an-ide-plugin-for-rust-that-focuses-on-relevant-code.html",
+      "date_iso": "2025-10-18T14:33:22+00:00",
+      "source": "https://github.com/willcrichton/flowistry",
+      "summary": "Article URL: https://github.com/willcrichton/flowistry Comments URL: https://news.ycombinator.com/item?id=45627692 Points: 198 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45627394",
+      "title": "Root System Drawings",
+      "slug": "2025-10-18-root-system-drawings.html",
+      "path": "posts/2025-10-18-root-system-drawings.html",
+      "date_iso": "2025-10-18T13:52:24+00:00",
+      "source": "https://images.wur.nl/digital/collection/coll13/search",
+      "summary": "Article URL: https://images.wur.nl/digital/collection/coll13/search Comments URL: https://news.ycombinator.com/item?id=45627394 Points: 324 # Comments: 65"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45626349",
+      "title": "EQ: A video about all forms of equalizers",
+      "slug": "2025-10-18-eq-a-video-about-all-forms-of-equalizers.html",
+      "path": "posts/2025-10-18-eq-a-video-about-all-forms-of-equalizers.html",
+      "date_iso": "2025-10-18T10:51:02+00:00",
+      "source": "https://www.youtube.com/watch?v=CLAt95PrwL4",
+      "summary": "Article URL: https://www.youtube.com/watch?v=CLAt95PrwL4 Comments URL: https://news.ycombinator.com/item?id=45626349 Points: 94 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45626130",
+      "title": "./watch",
+      "slug": "2025-10-18-watch.html",
+      "path": "posts/2025-10-18-watch.html",
+      "date_iso": "2025-10-18T09:55:06+00:00",
+      "source": "https://dotslashwatch.com/",
+      "summary": "Article URL: https://dotslashwatch.com/ Comments URL: https://news.ycombinator.com/item?id=45626130 Points: 339 # Comments: 91"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/18/arts/design/artificial-intelligence-art-museums.html",
+      "title": "Does A.I. Count as Art? Ask the Curators",
+      "slug": "2025-10-18-does-a-i-count-as-art-ask-the-curators.html",
+      "path": "posts/2025-10-18-does-a-i-count-as-art-ask-the-curators.html",
+      "date_iso": "2025-10-18T09:01:30+00:00",
+      "source": "https://www.nytimes.com/2025/10/18/arts/design/artificial-intelligence-art-museums.html",
+      "summary": "While some art institutions are eagerly engaging artificial intelligence, others are less enthusiastic."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45625351",
       "title": "BBC Gaza documentary serious breach of rules",
       "slug": "2025-10-18-bbc-gaza-documentary-serious-breach-of-rules.html",
@@ -17,6 +143,15 @@
       "date_iso": "2025-10-18T05:52:47+00:00",
       "source": "https://github.com/OpenMixerProject/StageConnect",
       "summary": "Article URL: https://github.com/OpenMixerProject/StageConnect Comments URL: https://news.ycombinator.com/item?id=45625251 Points: 36 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45625229",
+      "title": "Chen-Ning Yang, Nobel laureate, dies at 103",
+      "slug": "2025-10-18-chen-ning-yang-nobel-laureate-dies-at-103.html",
+      "path": "posts/2025-10-18-chen-ning-yang-nobel-laureate-dies-at-103.html",
+      "date_iso": "2025-10-18T05:47:14+00:00",
+      "source": "https://www.chinadaily.com.cn/a/202510/18/WS68f3170ea310f735438b5bf2.html",
+      "summary": "https://www.bbc.com/news/articles/cdxrzzk02plo Comments URL: https://news.ycombinator.com/item?id=45625229 Points: 206 # Comments: 49"
     },
     {
       "id": "https://news.ycombinator.com/item?id=45625029",
@@ -127,6 +262,15 @@
       "summary": "Article URL: https://www.dwarkesh.com/p/andrej-karpathy Comments URL: https://news.ycombinator.com/item?id=45619329 Points: 671 # Comments: 659"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=45619108",
+      "title": "Is Postgres read heavy or write heavy?",
+      "slug": "2025-10-17-is-postgres-read-heavy-or-write-heavy.html",
+      "path": "posts/2025-10-17-is-postgres-read-heavy-or-write-heavy.html",
+      "date_iso": "2025-10-17T17:06:16+00:00",
+      "source": "https://www.crunchydata.com/blog/is-postgres-read-heavy-or-write-heavy-and-why-should-you-care",
+      "summary": "Article URL: https://www.crunchydata.com/blog/is-postgres-read-heavy-or-write-heavy-and-why-should-you-care Comments URL: https://news.ycombinator.com/item?id=45619108 Points: 151 # Comments: 38"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45618790",
       "title": "The Rapper 50 Cent, Adjusted for Inflation",
       "slug": "2025-10-17-the-rapper-50-cent-adjusted-for-inflation.html",
@@ -208,6 +352,15 @@
       "summary": "Article URL: https://alecmuffett.com/article/117792 Comments URL: https://news.ycombinator.com/item?id=45614148 Points: 370 # Comments: 490"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=45613898",
+      "title": "Titan submersible’s $62 SanDisk memory card found undamaged at wreckage site",
+      "slug": "2025-10-17-titan-submersible-s-62-sandisk-memory-card-found-undamaged-at-wreckage-site.html",
+      "path": "posts/2025-10-17-titan-submersible-s-62-sandisk-memory-card-found-undamaged-at-wreckage-site.html",
+      "date_iso": "2025-10-17T06:39:09+00:00",
+      "source": "https://www.tomshardware.com/pc-components/microsd-cards/tragic-oceangate-titan-submersibles-usd62-sandisk-memory-card-found-undamaged-at-wreckage-site-12-stills-and-nine-videos-have-been-recovered-but-none-from-the-fateful-implosion",
+      "summary": "Article URL: https://www.tomshardware.com/pc-components/microsd-cards/tragic-oceangate-titan-submersibles-usd62-sandisk-memory-card-found-undamaged-at-wreckage-site-12-stills-and-nine-videos-have-been-recovered-but-none-from-the-fateful-implosion Comments URL: https://news.ycomb…"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45613567",
       "title": "Ask HN: How to stop an AWS bot sending 2B requests/month",
       "slug": "2025-10-17-ask-hn-how-to-stop-an-aws-bot-sending-2b-requests-month.html",
@@ -253,6 +406,15 @@
       "summary": "Article URL: https://www.youtube.com/watch?v=T-jt3qBzJ4A Comments URL: https://news.ycombinator.com/item?id=45611735 Points: 141 # Comments: 74"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=45611252",
+      "title": "K8s with 1M nodes",
+      "slug": "2025-10-16-k8s-with-1m-nodes.html",
+      "path": "posts/2025-10-16-k8s-with-1m-nodes.html",
+      "date_iso": "2025-10-16T22:04:57+00:00",
+      "source": "https://bchess.github.io/k8s-1m/",
+      "summary": "Article URL: https://bchess.github.io/k8s-1m/ Comments URL: https://news.ycombinator.com/item?id=45611252 Points: 180 # Comments: 42"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45610996",
       "title": "Understanding Spec-Driven-Development: Kiro, Spec-Kit, and Tessl",
       "slug": "2025-10-16-understanding-spec-driven-development-kiro-spec-kit-and-tessl.html",
@@ -287,6 +449,15 @@
       "date_iso": "2025-10-16T20:22:48+00:00",
       "source": "https://blog.pixelmelt.dev/kindle-web-drm/",
       "summary": "Article URL: https://blog.pixelmelt.dev/kindle-web-drm/ Comments URL: https://news.ycombinator.com/item?id=45610226 Points: 866 # Comments: 267"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45609986",
+      "title": "When you opened a screen shot of a video in Paint, the video was playing in it",
+      "slug": "2025-10-16-when-you-opened-a-screen-shot-of-a-video-in-paint-the-video-was-playing-in-it.html",
+      "path": "posts/2025-10-16-when-you-opened-a-screen-shot-of-a-video-in-paint-the-video-was-playing-in-it.html",
+      "date_iso": "2025-10-16T19:57:41+00:00",
+      "source": "https://devblogs.microsoft.com/oldnewthing/20251014-00/?p=111681",
+      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20251014-00/?p=111681 Comments URL: https://news.ycombinator.com/item?id=45609986 Points: 225 # Comments: 32"
     },
     {
       "id": "https://news.ycombinator.com/item?id=45609922",
@@ -332,6 +503,15 @@
       "date_iso": "2025-10-16T16:05:47+00:00",
       "source": "https://www.anthropic.com/news/skills",
       "summary": "https://www.anthropic.com/engineering/equipping-agents-for-t... Comments URL: https://news.ycombinator.com/item?id=45607117 Points: 585 # Comments: 317"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45606986",
+      "title": "Secret diplomatic message deciphered after 350 years",
+      "slug": "2025-10-16-secret-diplomatic-message-deciphered-after-350-years.html",
+      "path": "posts/2025-10-16-secret-diplomatic-message-deciphered-after-350-years.html",
+      "date_iso": "2025-10-16T15:56:05+00:00",
+      "source": "https://www.nationalarchives.gov.uk/explore-the-collection/the-collection-blog/secret-diplomatic-message-deciphered-after-350-years/",
+      "summary": "Article URL: https://www.nationalarchives.gov.uk/explore-the-collection/the-collection-blog/secret-diplomatic-message-deciphered-after-350-years/ Comments URL: https://news.ycombinator.com/item?id=45606986 Points: 133 # Comments: 19"
     },
     {
       "id": "https://news.ycombinator.com/item?id=45606698",
@@ -467,6 +647,15 @@
       "date_iso": "2025-10-16T01:42:22+00:00",
       "source": "https://www.sciencealert.com/new-alzheimers-treatment-clears-plaques-from-brains-of-mice-within-hours",
       "summary": "Article URL: https://www.sciencealert.com/new-alzheimers-treatment-clears-plaques-from-brains-of-mice-within-hours Comments URL: https://news.ycombinator.com/item?id=45600581 Points: 82 # Comments: 46"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45600470",
+      "title": "Coral NPU: A full-stack platform for Edge AI",
+      "slug": "2025-10-16-coral-npu-a-full-stack-platform-for-edge-ai.html",
+      "path": "posts/2025-10-16-coral-npu-a-full-stack-platform-for-edge-ai.html",
+      "date_iso": "2025-10-16T01:25:28+00:00",
+      "source": "https://research.google/blog/coral-npu-a-full-stack-platform-for-edge-ai/",
+      "summary": "Article URL: https://research.google/blog/coral-npu-a-full-stack-platform-for-edge-ai/ Comments URL: https://news.ycombinator.com/item?id=45600470 Points: 115 # Comments: 18"
     },
     {
       "id": "https://news.ycombinator.com/item?id=45600338",
