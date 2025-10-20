@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45640678",
+      "title": "Bat v0.26.0 Released",
+      "slug": "2025-10-20-bat-v0-26-0-released.html",
+      "path": "posts/2025-10-20-bat-v0-26-0-released.html",
+      "date_iso": "2025-10-20T06:49:29+00:00",
+      "source": "https://github.com/sharkdp/bat/releases/tag/v0.26.0",
+      "summary": "Article URL: https://github.com/sharkdp/bat/releases/tag/v0.26.0 Comments URL: https://news.ycombinator.com/item?id=45640678 Points: 10 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45640594",
+      "title": "DeepSeek OCR",
+      "slug": "2025-10-20-deepseek-ocr.html",
+      "path": "posts/2025-10-20-deepseek-ocr.html",
+      "date_iso": "2025-10-20T06:26:33+00:00",
+      "source": "https://github.com/deepseek-ai/DeepSeek-OCR",
+      "summary": "Article URL: https://github.com/deepseek-ai/DeepSeek-OCR Comments URL: https://news.ycombinator.com/item?id=45640594 Points: 68 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45640226",
+      "title": "Space Elevator",
+      "slug": "2025-10-20-space-elevator.html",
+      "path": "posts/2025-10-20-space-elevator.html",
+      "date_iso": "2025-10-20T04:42:08+00:00",
+      "source": "https://neal.fun/space-elevator/",
+      "summary": "Article URL: https://neal.fun/space-elevator/ Comments URL: https://news.ycombinator.com/item?id=45640226 Points: 147 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45639995",
+      "title": "Entire Linux Network stack diagram (2024)",
+      "slug": "2025-10-20-entire-linux-network-stack-diagram-2024.html",
+      "path": "posts/2025-10-20-entire-linux-network-stack-diagram-2024.html",
+      "date_iso": "2025-10-20T03:33:11+00:00",
+      "source": "https://zenodo.org/records/14179366",
+      "summary": "Article URL: https://zenodo.org/records/14179366 Comments URL: https://news.ycombinator.com/item?id=45639995 Points: 202 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45639860",
+      "title": "Introduction to reverse-engineering vintage synth firmware",
+      "slug": "2025-10-20-introduction-to-reverse-engineering-vintage-synth-firmware.html",
+      "path": "posts/2025-10-20-introduction-to-reverse-engineering-vintage-synth-firmware.html",
+      "date_iso": "2025-10-20T02:56:20+00:00",
+      "source": "https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html",
+      "summary": "Article URL: https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html Comments URL: https://news.ycombinator.com/item?id=45639860 Points: 70 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45639654",
+      "title": "Nvidia has produced the first Blackwell wafer on US soil",
+      "slug": "2025-10-20-nvidia-has-produced-the-first-blackwell-wafer-on-us-soil.html",
+      "path": "posts/2025-10-20-nvidia-has-produced-the-first-blackwell-wafer-on-us-soil.html",
+      "date_iso": "2025-10-20T02:12:24+00:00",
+      "source": "https://www.xda-developers.com/nvidia-produced-first-blackwell-wafer-us-soil/",
+      "summary": "Article URL: https://www.xda-developers.com/nvidia-produced-first-blackwell-wafer-us-soil/ Comments URL: https://news.ycombinator.com/item?id=45639654 Points: 94 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45639498",
+      "title": "Look at how unhinged GPU box art was in the 2000s (2024)",
+      "slug": "2025-10-20-look-at-how-unhinged-gpu-box-art-was-in-the-2000s-2024.html",
+      "path": "posts/2025-10-20-look-at-how-unhinged-gpu-box-art-was-in-the-2000s-2024.html",
+      "date_iso": "2025-10-20T01:32:43+00:00",
+      "source": "https://www.xda-developers.com/absolutely-unhinged-gpu-box-art-from-the-early-2000s/",
+      "summary": "Article URL: https://www.xda-developers.com/absolutely-unhinged-gpu-box-art-from-the-early-2000s/ Comments URL: https://news.ycombinator.com/item?id=45639498 Points: 147 # Comments: 55"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45639250",
+      "title": "Forth: The programming language that writes itself",
+      "slug": "2025-10-20-forth-the-programming-language-that-writes-itself.html",
+      "path": "posts/2025-10-20-forth-the-programming-language-that-writes-itself.html",
+      "date_iso": "2025-10-20T00:40:03+00:00",
+      "source": "https://ratfactor.com/forth/the_programming_language_that_writes_itself.html",
+      "summary": "Article URL: https://ratfactor.com/forth/the_programming_language_that_writes_itself.html Comments URL: https://news.ycombinator.com/item?id=45639250 Points: 125 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45639157",
+      "title": "From Hollywood to horticulture: Cate Blanchett on a mission to save seeds",
+      "slug": "2025-10-20-from-hollywood-to-horticulture-cate-blanchett-on-a-mission-to-save-seeds.html",
+      "path": "posts/2025-10-20-from-hollywood-to-horticulture-cate-blanchett-on-a-mission-to-save-seeds.html",
+      "date_iso": "2025-10-20T00:19:54+00:00",
+      "source": "https://www.bbc.com/news/articles/cwy7ekl4yl8o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cwy7ekl4yl8o Comments URL: https://news.ycombinator.com/item?id=45639157 Points: 39 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45638986",
+      "title": "LoC Is a Dumb Metric for Functions",
+      "slug": "2025-10-19-loc-is-a-dumb-metric-for-functions.html",
+      "path": "posts/2025-10-19-loc-is-a-dumb-metric-for-functions.html",
+      "date_iso": "2025-10-19T23:39:57+00:00",
+      "source": "https://theaxolot.wordpress.com/2025/10/18/loc-is-a-dumb-metric-for-functions/",
+      "summary": "Article URL: https://theaxolot.wordpress.com/2025/10/18/loc-is-a-dumb-metric-for-functions/ Comments URL: https://news.ycombinator.com/item?id=45638986 Points: 34 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45638966",
+      "title": "QuickDrawViewer: A Mac OS X utility to visualise QuickDraw (PICT) files",
+      "slug": "2025-10-19-quickdrawviewer-a-mac-os-x-utility-to-visualise-quickdraw-pict-files.html",
+      "path": "posts/2025-10-19-quickdrawviewer-a-mac-os-x-utility-to-visualise-quickdraw-pict-files.html",
+      "date_iso": "2025-10-19T23:35:25+00:00",
+      "source": "https://github.com/wiesmann/QuickDrawViewer",
+      "summary": "Article URL: https://github.com/wiesmann/QuickDrawViewer Comments URL: https://news.ycombinator.com/item?id=45638966 Points: 50 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45638588",
+      "title": "Gleam OTP – Fault Tolerant Multicore Programs with Actors",
+      "slug": "2025-10-19-gleam-otp-fault-tolerant-multicore-programs-with-actors.html",
+      "path": "posts/2025-10-19-gleam-otp-fault-tolerant-multicore-programs-with-actors.html",
+      "date_iso": "2025-10-19T22:25:46+00:00",
+      "source": "https://github.com/gleam-lang/otp",
+      "summary": "Article URL: https://github.com/gleam-lang/otp Comments URL: https://news.ycombinator.com/item?id=45638588 Points: 98 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45637880",
+      "title": "Duke Nukem: Zero Hour N64 ROM Reverse-Engineering Project Hits 100%",
+      "slug": "2025-10-19-duke-nukem-zero-hour-n64-rom-reverse-engineering-project-hits-100.html",
+      "path": "posts/2025-10-19-duke-nukem-zero-hour-n64-rom-reverse-engineering-project-hits-100.html",
+      "date_iso": "2025-10-19T20:54:31+00:00",
+      "source": "https://github.com/Gillou68310/DukeNukemZeroHour",
+      "summary": "Article URL: https://github.com/Gillou68310/DukeNukemZeroHour Comments URL: https://news.ycombinator.com/item?id=45637880 Points: 145 # Comments: 50"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45637744",
+      "title": "Novo Nordisk's Canadian Mistake",
+      "slug": "2025-10-19-novo-nordisk-s-canadian-mistake.html",
+      "path": "posts/2025-10-19-novo-nordisk-s-canadian-mistake.html",
+      "date_iso": "2025-10-19T20:39:13+00:00",
+      "source": "https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake",
+      "summary": "Article URL: https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake Comments URL: https://news.ycombinator.com/item?id=45637744 Points: 334 # Comments: 160"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45637133",
+      "title": "Dosbian: Boot to DOSBox on Raspberry Pi",
+      "slug": "2025-10-19-dosbian-boot-to-dosbox-on-raspberry-pi.html",
+      "path": "posts/2025-10-19-dosbian-boot-to-dosbox-on-raspberry-pi.html",
+      "date_iso": "2025-10-19T19:26:54+00:00",
+      "source": "https://cmaiolino.wordpress.com/dosbian/",
+      "summary": "Article URL: https://cmaiolino.wordpress.com/dosbian/ Comments URL: https://news.ycombinator.com/item?id=45637133 Points: 123 # Comments: 52"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45636365",
+      "title": "Compare Single Board Computers",
+      "slug": "2025-10-19-compare-single-board-computers.html",
+      "path": "posts/2025-10-19-compare-single-board-computers.html",
+      "date_iso": "2025-10-19T18:02:00+00:00",
+      "source": "https://sbc.compare/",
+      "summary": "Article URL: https://sbc.compare/ Comments URL: https://news.ycombinator.com/item?id=45636365 Points: 147 # Comments: 60"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45636285",
+      "title": "Airliner hit by possible space debris",
+      "slug": "2025-10-19-airliner-hit-by-possible-space-debris.html",
+      "path": "posts/2025-10-19-airliner-hit-by-possible-space-debris.html",
+      "date_iso": "2025-10-19T17:54:21+00:00",
+      "source": "https://avbrief.com/united-max-hit-by-falling-object-at-36000-feet/",
+      "summary": "Article URL: https://avbrief.com/united-max-hit-by-falling-object-at-36000-feet/ Comments URL: https://news.ycombinator.com/item?id=45636285 Points: 286 # Comments: 148"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45635533",
+      "title": "Doing well in your courses: Andrej's advice for success (2013)",
+      "slug": "2025-10-19-doing-well-in-your-courses-andrej-s-advice-for-success-2013.html",
+      "path": "posts/2025-10-19-doing-well-in-your-courses-andrej-s-advice-for-success-2013.html",
+      "date_iso": "2025-10-19T16:31:57+00:00",
+      "source": "https://cs.stanford.edu/people/karpathy/advice.html",
+      "summary": "Article URL: https://cs.stanford.edu/people/karpathy/advice.html Comments URL: https://news.ycombinator.com/item?id=45635533 Points: 503 # Comments: 158"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45635069",
+      "title": "GNU Octave Meets JupyterLite: Compute Anywhere, Anytime",
+      "slug": "2025-10-19-gnu-octave-meets-jupyterlite-compute-anywhere-anytime.html",
+      "path": "posts/2025-10-19-gnu-octave-meets-jupyterlite-compute-anywhere-anytime.html",
+      "date_iso": "2025-10-19T15:48:52+00:00",
+      "source": "https://blog.jupyter.org/gnu-octave-meets-jupyterlite-compute-anywhere-anytime-8b033afbbcdc",
+      "summary": "Article URL: https://blog.jupyter.org/gnu-octave-meets-jupyterlite-compute-anywhere-anytime-8b033afbbcdc Comments URL: https://news.ycombinator.com/item?id=45635069 Points: 133 # Comments: 36"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45632976",
+      "title": "Deterministic multithreading is hard (2024)",
+      "slug": "2025-10-19-deterministic-multithreading-is-hard-2024.html",
+      "path": "posts/2025-10-19-deterministic-multithreading-is-hard-2024.html",
+      "date_iso": "2025-10-19T09:20:05+00:00",
+      "source": "https://www.factorio.com/blog/post/fff-415",
+      "summary": "Article URL: https://www.factorio.com/blog/post/fff-415 Comments URL: https://news.ycombinator.com/item?id=45632976 Points: 94 # Comments: 9"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45631678",
       "title": "The Accountability Problem",
       "slug": "2025-10-19-the-accountability-problem.html",
