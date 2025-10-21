@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45652859",
+      "title": "Practical Scheme",
+      "slug": "2025-10-21-practical-scheme.html",
+      "path": "posts/2025-10-21-practical-scheme.html",
+      "date_iso": "2025-10-21T05:47:39+00:00",
+      "source": "https://practical-scheme.net/index.html#docs",
+      "summary": "Article URL: https://practical-scheme.net/index.html#docs Comments URL: https://news.ycombinator.com/item?id=45652859 Points: 14 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45652307",
+      "title": "60k kids have avoided peanut allergies due to 2015 advice, study finds",
+      "slug": "2025-10-21-60k-kids-have-avoided-peanut-allergies-due-to-2015-advice-study-finds.html",
+      "path": "posts/2025-10-21-60k-kids-have-avoided-peanut-allergies-due-to-2015-advice-study-finds.html",
+      "date_iso": "2025-10-21T03:53:20+00:00",
+      "source": "https://www.cbsnews.com/news/peanut-allergies-60000-kids-avoided-2015-advice/",
+      "summary": "Article URL: https://www.cbsnews.com/news/peanut-allergies-60000-kids-avoided-2015-advice/ Comments URL: https://news.ycombinator.com/item?id=45652307 Points: 107 # Comments: 71"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/20/business/aws-down-internet-outage.html",
+      "title": "Amazon’s AWS Disruption Creates Outages for Hundreds of Websites for Hours",
+      "slug": "2025-10-21-amazon-s-aws-disruption-creates-outages-for-hundreds-of-websites-for-hours.html",
+      "path": "posts/2025-10-21-amazon-s-aws-disruption-creates-outages-for-hundreds-of-websites-for-hours.html",
+      "date_iso": "2025-10-21T01:33:14+00:00",
+      "source": "https://www.nytimes.com/2025/10/20/business/aws-down-internet-outage.html",
+      "summary": "The Amazon Web Services pavilion at a trade fair in Hanover, Germany, in March."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/20/science/nasa-moon-lander-spacex.html",
+      "title": "With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas",
+      "slug": "2025-10-21-with-spacex-behind-schedule-nasa-will-seek-more-moon-lander-ideas.html",
+      "path": "posts/2025-10-21-with-spacex-behind-schedule-nasa-will-seek-more-moon-lander-ideas.html",
+      "date_iso": "2025-10-21T00:58:45+00:00",
+      "source": "https://www.nytimes.com/2025/10/20/science/nasa-moon-lander-spacex.html",
+      "summary": "Blue Origin, owned by Jeff Bezos, and Lockheed Martin are among the contractors that may compete with Elon Musk’s company in the race back to the lunar surface."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45650792",
+      "title": "Old Computer Challenge – Modern Web for the ZX Spectrum",
+      "slug": "2025-10-20-old-computer-challenge-modern-web-for-the-zx-spectrum.html",
+      "path": "posts/2025-10-20-old-computer-challenge-modern-web-for-the-zx-spectrum.html",
+      "date_iso": "2025-10-20T23:40:25+00:00",
+      "source": "https://0x00.cl/blog/2025/occ-2025/",
+      "summary": "Article URL: https://0x00.cl/blog/2025/occ-2025/ Comments URL: https://news.ycombinator.com/item?id=45650792 Points: 33 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45649178",
+      "title": "Today is when the Amazon brain drain sent AWS down the spout",
+      "slug": "2025-10-20-today-is-when-the-amazon-brain-drain-sent-aws-down-the-spout.html",
+      "path": "posts/2025-10-20-today-is-when-the-amazon-brain-drain-sent-aws-down-the-spout.html",
+      "date_iso": "2025-10-20T20:50:03+00:00",
+      "source": "https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/",
+      "summary": "Article URL: https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/ Comments URL: https://news.ycombinator.com/item?id=45649178 Points: 553 # Comments: 243"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/20/technology/ai-data-center-backlash-mexico-ireland.html",
+      "title": "AI Data Centers Create Fury From Mexico to Ireland",
+      "slug": "2025-10-20-ai-data-centers-create-fury-from-mexico-to-ireland.html",
+      "path": "posts/2025-10-20-ai-data-centers-create-fury-from-mexico-to-ireland.html",
+      "date_iso": "2025-10-20T19:00:09+00:00",
+      "source": "https://www.nytimes.com/2025/10/20/technology/ai-data-center-backlash-mexico-ireland.html",
+      "summary": "When Microsoft opened a data center in central Mexico last year, nearby residents said power cuts became more frequent. Water outages, which once lasted days, stretched for weeks."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45647166",
+      "title": "Claude Code on the web",
+      "slug": "2025-10-20-claude-code-on-the-web.html",
+      "path": "posts/2025-10-20-claude-code-on-the-web.html",
+      "date_iso": "2025-10-20T18:12:23+00:00",
+      "source": "https://www.anthropic.com/news/claude-code-on-the-web",
+      "summary": "Article URL: https://www.anthropic.com/news/claude-code-on-the-web Comments URL: https://news.ycombinator.com/item?id=45647166 Points: 445 # Comments: 277"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45646958",
+      "title": "x86-64 Playground – An online assembly editor and GDB-like debugger",
+      "slug": "2025-10-20-x86-64-playground-an-online-assembly-editor-and-gdb-like-debugger.html",
+      "path": "posts/2025-10-20-x86-64-playground-an-online-assembly-editor-and-gdb-like-debugger.html",
+      "date_iso": "2025-10-20T17:55:18+00:00",
+      "source": "https://x64.halb.it/",
+      "summary": "Article URL: https://x64.halb.it/ Comments URL: https://news.ycombinator.com/item?id=45646958 Points: 134 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45646691",
+      "title": "TernFS – an exabyte scale, multi-region distributed filesystem",
+      "slug": "2025-10-20-ternfs-an-exabyte-scale-multi-region-distributed-filesystem.html",
+      "path": "posts/2025-10-20-ternfs-an-exabyte-scale-multi-region-distributed-filesystem.html",
+      "date_iso": "2025-10-20T17:36:16+00:00",
+      "source": "https://www.xtxmarkets.com/tech/2025-ternfs/#posix-shaped",
+      "summary": "Article URL: https://www.xtxmarkets.com/tech/2025-ternfs/#posix-shaped Comments URL: https://news.ycombinator.com/item?id=45646691 Points: 113 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45645349",
+      "title": "Production RAG: what I learned from processing 5M+ documents",
+      "slug": "2025-10-20-production-rag-what-i-learned-from-processing-5m-documents.html",
+      "path": "posts/2025-10-20-production-rag-what-i-learned-from-processing-5m-documents.html",
+      "date_iso": "2025-10-20T15:55:36+00:00",
+      "source": "https://blog.abdellatif.io/production-rag-processing-5m-documents",
+      "summary": "Article URL: https://blog.abdellatif.io/production-rag-processing-5m-documents Comments URL: https://news.ycombinator.com/item?id=45645349 Points: 366 # Comments: 88"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45645172",
+      "title": "Postman which I thought worked locally on my computer, is down",
+      "slug": "2025-10-20-postman-which-i-thought-worked-locally-on-my-computer-is-down.html",
+      "path": "posts/2025-10-20-postman-which-i-thought-worked-locally-on-my-computer-is-down.html",
+      "date_iso": "2025-10-20T15:40:40+00:00",
+      "source": "https://status.postman.com",
+      "summary": "Article URL: https://status.postman.com Comments URL: https://news.ycombinator.com/item?id=45645172 Points: 412 # Comments: 194"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45645120",
+      "title": "Show HN: I created a cross-platform GUI for the JJ VCS (Git compatible)",
+      "slug": "2025-10-20-show-hn-i-created-a-cross-platform-gui-for-the-jj-vcs-git-compatible.html",
+      "path": "posts/2025-10-20-show-hn-i-created-a-cross-platform-gui-for-the-jj-vcs-git-compatible.html",
+      "date_iso": "2025-10-20T15:35:19+00:00",
+      "source": "https://judojj.com",
+      "summary": "Personally, I think the JJ VCS ( https://github.com/jj-vcs/jj ) hit a point some time in this past year where I find it hard to find a great reason to continue using git. Over the years I've cobbled together aliases and bash functions to try to improve my git workflow, but after…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45644328",
+      "title": "BERT is just a single text diffusion step",
+      "slug": "2025-10-20-bert-is-just-a-single-text-diffusion-step.html",
+      "path": "posts/2025-10-20-bert-is-just-a-single-text-diffusion-step.html",
+      "date_iso": "2025-10-20T14:31:16+00:00",
+      "source": "https://nathan.rs/posts/roberta-diffusion/",
+      "summary": "Article URL: https://nathan.rs/posts/roberta-diffusion/ Comments URL: https://news.ycombinator.com/item?id=45644328 Points: 382 # Comments: 93"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45643357",
+      "title": "Servo v0.0.1",
+      "slug": "2025-10-20-servo-v0-0-1.html",
+      "path": "posts/2025-10-20-servo-v0-0-1.html",
+      "date_iso": "2025-10-20T12:55:30+00:00",
+      "source": "https://github.com/servo/servo",
+      "summary": "Article URL: https://github.com/servo/servo Comments URL: https://news.ycombinator.com/item?id=45643357 Points: 516 # Comments: 162"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45643163",
+      "title": "Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system",
+      "slug": "2025-10-20-alibaba-cloud-says-it-cut-nvidia-ai-gpu-use-by-82-with-new-pooling-system.html",
+      "path": "posts/2025-10-20-alibaba-cloud-says-it-cut-nvidia-ai-gpu-use-by-82-with-new-pooling-system.html",
+      "date_iso": "2025-10-20T12:31:22+00:00",
+      "source": "https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent",
+      "summary": "Paper: https://dl.acm.org/doi/10.1145/3731569.3764815 Comments URL: https://news.ycombinator.com/item?id=45643163 Points: 403 # Comments: 254"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/20/health/retinal-implant-macular-degeneration.html",
+      "title": "Vision Restored Using Prosthetic Retinal Implant",
+      "slug": "2025-10-20-vision-restored-using-prosthetic-retinal-implant.html",
+      "path": "posts/2025-10-20-vision-restored-using-prosthetic-retinal-implant.html",
+      "date_iso": "2025-10-20T12:00:06+00:00",
+      "source": "https://www.nytimes.com/2025/10/20/health/retinal-implant-macular-degeneration.html",
+      "summary": "A camera attached to glasses transmits the image on the right to a patient’s artificial retina."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45642911",
+      "title": "Show HN: Playwright Skill for Claude Code – Less context than playwright-MCP",
+      "slug": "2025-10-20-show-hn-playwright-skill-for-claude-code-less-context-than-playwright-mcp.html",
+      "path": "posts/2025-10-20-show-hn-playwright-skill-for-claude-code-less-context-than-playwright-mcp.html",
+      "date_iso": "2025-10-20T11:58:35+00:00",
+      "source": "https://github.com/lackeyjb/playwright-skill",
+      "summary": "I got tired of playwright-mcp eating through Claude's 200K token limit, so I built this using the new Claude Skills system. Built it with Claude Code itself. Instead of sending accessibility tree snapshots on every action, Claude just writes Playwright code and runs it. You get…"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/20/technology/chile-ai-politics.html",
+      "title": "How Chile Embodies A.I.’s No-Win Politics",
+      "slug": "2025-10-20-how-chile-embodies-a-i-s-no-win-politics.html",
+      "path": "posts/2025-10-20-how-chile-embodies-a-i-s-no-win-politics.html",
+      "date_iso": "2025-10-20T09:00:13+00:00",
+      "source": "https://www.nytimes.com/2025/10/20/technology/chile-ai-politics.html",
+      "summary": "Political debates have flared across Chile over artificial intelligence. Should the nation pour billions into A.I. and risk public backlash, or risk being left behind?"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45640838",
+      "title": "AWS multiple services outage in us-east-1",
+      "slug": "2025-10-20-aws-multiple-services-outage-in-us-east-1.html",
+      "path": "posts/2025-10-20-aws-multiple-services-outage-in-us-east-1.html",
+      "date_iso": "2025-10-20T07:22:28+00:00",
+      "source": "https://health.aws.amazon.com/health/status?ts=20251020",
+      "summary": "Article URL: https://health.aws.amazon.com/health/status?ts=20251020 Comments URL: https://news.ycombinator.com/item?id=45640838 Points: 1859 # Comments: 1868"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45640678",
       "title": "Bat v0.26.0 Released",
       "slug": "2025-10-20-bat-v0-26-0-released.html",
@@ -179,6 +359,15 @@
       "date_iso": "2025-10-19T09:20:05+00:00",
       "source": "https://www.factorio.com/blog/post/fff-415",
       "summary": "Article URL: https://www.factorio.com/blog/post/fff-415 Comments URL: https://news.ycombinator.com/item?id=45632976 Points: 94 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45632429",
+      "title": "A laser pointer at 2B FPS [video]",
+      "slug": "2025-10-19-a-laser-pointer-at-2b-fps-video.html",
+      "path": "posts/2025-10-19-a-laser-pointer-at-2b-fps-video.html",
+      "date_iso": "2025-10-19T06:42:19+00:00",
+      "source": "https://www.youtube.com/watch?v=o4TdHrMi6do",
+      "summary": "Article URL: https://www.youtube.com/watch?v=o4TdHrMi6do Comments URL: https://news.ycombinator.com/item?id=45632429 Points: 362 # Comments: 70"
     },
     {
       "id": "https://news.ycombinator.com/item?id=45631678",
@@ -370,6 +559,15 @@
       "summary": "Article URL: https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf Comments URL: https://news.ycombinator.com/item?id=45623917 Points: 64 # Comments: 6"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=45623509",
+      "title": "Results from blood test for 50 cancers",
+      "slug": "2025-10-17-results-from-blood-test-for-50-cancers.html",
+      "path": "posts/2025-10-17-results-from-blood-test-for-50-cancers.html",
+      "date_iso": "2025-10-17T23:54:40+00:00",
+      "source": "https://www.bbc.com/news/articles/c205g21n1zzo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c205g21n1zzo Comments URL: https://news.ycombinator.com/item?id=45623509 Points: 85 # Comments: 47"
+    },
+    {
       "id": "https://www.nytimes.com/2025/10/17/business/boeing-737-max-faa.html",
       "title": "Boeing Is Allowed to Increase 737 Max Plane Production, FAA Says",
       "slug": "2025-10-17-boeing-is-allowed-to-increase-737-max-plane-production-faa-says.html",
@@ -404,6 +602,15 @@
       "date_iso": "2025-10-17T21:34:37+00:00",
       "source": "https://www.thefarside.com/new-stuff",
       "summary": "Article URL: https://www.thefarside.com/new-stuff Comments URL: https://news.ycombinator.com/item?id=45622365 Points: 205 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45621557",
+      "title": "Code from MIT's 1986 SICP video lectures",
+      "slug": "2025-10-17-code-from-mit-s-1986-sicp-video-lectures.html",
+      "path": "posts/2025-10-17-code-from-mit-s-1986-sicp-video-lectures.html",
+      "date_iso": "2025-10-17T20:18:54+00:00",
+      "source": "https://github.com/felipap/sicp-code",
+      "summary": "Article URL: https://github.com/felipap/sicp-code Comments URL: https://news.ycombinator.com/item?id=45621557 Points: 103 # Comments: 14"
     },
     {
       "id": "https://news.ycombinator.com/item?id=45621074",
