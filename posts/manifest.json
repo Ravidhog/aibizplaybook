@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45664848",
+      "title": "Evaluating the Infinity Cache in AMD Strix Halo",
+      "slug": "2025-10-22-evaluating-the-infinity-cache-in-amd-strix-halo.html",
+      "path": "posts/2025-10-22-evaluating-the-infinity-cache-in-amd-strix-halo.html",
+      "date_iso": "2025-10-22T04:20:09+00:00",
+      "source": "https://chipsandcheese.com/p/evaluating-the-infinity-cache-in",
+      "summary": "Article URL: https://chipsandcheese.com/p/evaluating-the-infinity-cache-in Comments URL: https://news.ycombinator.com/item?id=45664848 Points: 46 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45664147",
+      "title": "OpenBSD 7.8",
+      "slug": "2025-10-22-openbsd-7-8.html",
+      "path": "posts/2025-10-22-openbsd-7-8.html",
+      "date_iso": "2025-10-22T02:02:58+00:00",
+      "source": "https://cdn.openbsd.org/pub/OpenBSD/7.8/ANNOUNCEMENT",
+      "summary": "Article URL: https://cdn.openbsd.org/pub/OpenBSD/7.8/ANNOUNCEMENT Comments URL: https://news.ycombinator.com/item?id=45664147 Points: 159 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45662668",
+      "title": "The Hidden Engineering of Niagara Falls",
+      "slug": "2025-10-21-the-hidden-engineering-of-niagara-falls.html",
+      "path": "posts/2025-10-21-the-hidden-engineering-of-niagara-falls.html",
+      "date_iso": "2025-10-21T22:43:07+00:00",
+      "source": "https://practical.engineering/blog/2025/10/21/the-hidden-engineering-of-niagara-falls",
+      "summary": "Article URL: https://practical.engineering/blog/2025/10/21/the-hidden-engineering-of-niagara-falls Comments URL: https://news.ycombinator.com/item?id=45662668 Points: 96 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45661638",
+      "title": "rlsw – Raylib software OpenGL renderer in less than 5k LOC",
+      "slug": "2025-10-21-rlsw-raylib-software-opengl-renderer-in-less-than-5k-loc.html",
+      "path": "posts/2025-10-21-rlsw-raylib-software-opengl-renderer-in-less-than-5k-loc.html",
+      "date_iso": "2025-10-21T21:00:10+00:00",
+      "source": "https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h",
+      "summary": "Article URL: https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h Comments URL: https://news.ycombinator.com/item?id=45661638 Points: 167 # Comments: 46"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45661462",
+      "title": "The Gypsy Life of Robert Louis Stevenson",
+      "slug": "2025-10-21-the-gypsy-life-of-robert-louis-stevenson.html",
+      "path": "posts/2025-10-21-the-gypsy-life-of-robert-louis-stevenson.html",
+      "date_iso": "2025-10-21T20:44:39+00:00",
+      "source": "https://hudsonreview.com/2025/10/the-gypsy-life-of-robert-louis-stevenson/",
+      "summary": "Article URL: https://hudsonreview.com/2025/10/the-gypsy-life-of-robert-louis-stevenson/ Comments URL: https://news.ycombinator.com/item?id=45661462 Points: 13 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45661306",
+      "title": "Erowid - Documenting the Complex Relationship Between Humans and Psychoactives",
+      "slug": "2025-10-21-erowid-documenting-the-complex-relationship-between-humans-and-psychoactives.html",
+      "path": "posts/2025-10-21-erowid-documenting-the-complex-relationship-between-humans-and-psychoactives.html",
+      "date_iso": "2025-10-21T20:31:47+00:00",
+      "source": "https://www.erowid.org",
+      "summary": "Article URL: https://www.erowid.org Comments URL: https://news.ycombinator.com/item?id=45661306 Points: 68 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45661253",
+      "title": "Replacing a $3000/mo Heroku bill with a $55/mo server",
+      "slug": "2025-10-21-replacing-a-3000-mo-heroku-bill-with-a-55-mo-server.html",
+      "path": "posts/2025-10-21-replacing-a-3000-mo-heroku-bill-with-a-55-mo-server.html",
+      "date_iso": "2025-10-21T20:28:15+00:00",
+      "source": "https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/",
+      "summary": "Article URL: https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/ Comments URL: https://news.ycombinator.com/item?id=45661253 Points: 579 # Comments: 395"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45661084",
+      "title": "Doomsday scoreboard",
+      "slug": "2025-10-21-doomsday-scoreboard.html",
+      "path": "posts/2025-10-21-doomsday-scoreboard.html",
+      "date_iso": "2025-10-21T20:14:22+00:00",
+      "source": "https://doomsday.march1studios.com/",
+      "summary": "Article URL: https://doomsday.march1studios.com/ Comments URL: https://news.ycombinator.com/item?id=45661084 Points: 200 # Comments: 97"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/21/technology/openai-web-browser-atlas.html",
+      "title": "OpenAI Unveils Atlas Web Browser Built to Work Closely With ChatGPT",
+      "slug": "2025-10-21-openai-unveils-atlas-web-browser-built-to-work-closely-with-chatgpt.html",
+      "path": "posts/2025-10-21-openai-unveils-atlas-web-browser-built-to-work-closely-with-chatgpt.html",
+      "date_iso": "2025-10-21T19:21:05+00:00",
+      "source": "https://www.nytimes.com/2025/10/21/technology/openai-web-browser-atlas.html",
+      "summary": "OpenAI’s chief executive, Sam Altman, has been looking for ways to level the playing field with his company’s giant competitors."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45659883",
+      "title": "Researchers complete first human trial on viability of enteral ventilation",
+      "slug": "2025-10-21-researchers-complete-first-human-trial-on-viability-of-enteral-ventilation.html",
+      "path": "posts/2025-10-21-researchers-complete-first-human-trial-on-viability-of-enteral-ventilation.html",
+      "date_iso": "2025-10-21T18:44:39+00:00",
+      "source": "https://newatlas.com/disease/butt-breathing-ignobel-prize/",
+      "summary": "Article URL: https://newatlas.com/disease/butt-breathing-ignobel-prize/ Comments URL: https://news.ycombinator.com/item?id=45659883 Points: 43 # Comments: 47"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/21/business/general-motors-earnings-tariffs-evs.html",
+      "title": "G.M. Raises Profit Forecast on Strong Demand and Lower Tariff Costs",
+      "slug": "2025-10-21-g-m-raises-profit-forecast-on-strong-demand-and-lower-tariff-costs.html",
+      "path": "posts/2025-10-21-g-m-raises-profit-forecast-on-strong-demand-and-lower-tariff-costs.html",
+      "date_iso": "2025-10-21T18:06:31+00:00",
+      "source": "https://www.nytimes.com/2025/10/21/business/general-motors-earnings-tariffs-evs.html",
+      "summary": "A General Motors factory in Spring Hill, Tenn."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45658479",
+      "title": "ChatGPT Atlas",
+      "slug": "2025-10-21-chatgpt-atlas.html",
+      "path": "posts/2025-10-21-chatgpt-atlas.html",
+      "date_iso": "2025-10-21T17:18:13+00:00",
+      "source": "https://chatgpt.com/atlas",
+      "summary": "Article URL: https://chatgpt.com/atlas Comments URL: https://news.ycombinator.com/item?id=45658479 Points: 640 # Comments: 600"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45658221",
+      "title": "Flexport Is Hiring SDRs in Chicago",
+      "slug": "2025-10-21-flexport-is-hiring-sdrs-in-chicago.html",
+      "path": "posts/2025-10-21-flexport-is-hiring-sdrs-in-chicago.html",
+      "date_iso": "2025-10-21T17:01:02+00:00",
+      "source": "https://job-boards.greenhouse.io/flexport/jobs/5690976?gh_jid=5690976",
+      "summary": "Article URL: https://job-boards.greenhouse.io/flexport/jobs/5690976?gh_jid=5690976 Comments URL: https://news.ycombinator.com/item?id=45658221 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/21/technology/inside-amazons-plans-to-replace-workers-with-robots.html",
+      "title": "Amazon Plans to Replace More Than Half a Million Jobs With Robots",
+      "slug": "2025-10-21-amazon-plans-to-replace-more-than-half-a-million-jobs-with-robots.html",
+      "path": "posts/2025-10-21-amazon-plans-to-replace-more-than-half-a-million-jobs-with-robots.html",
+      "date_iso": "2025-10-21T16:54:49+00:00",
+      "source": "https://www.nytimes.com/2025/10/21/technology/inside-amazons-plans-to-replace-workers-with-robots.html",
+      "summary": "Internal documents show the company that changed how people shop has a far-reaching plan to automate 75 percent of its operations."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45657827",
+      "title": "Build your own database",
+      "slug": "2025-10-21-build-your-own-database.html",
+      "path": "posts/2025-10-21-build-your-own-database.html",
+      "date_iso": "2025-10-21T16:31:51+00:00",
+      "source": "https://www.nan.fyi/database",
+      "summary": "Partly inspired by: Designing Data-Intensive Applications https://www.oreilly.com/library/view/designing-data-intensiv... Comments URL: https://news.ycombinator.com/item?id=45657827 Points: 463 # Comments: 69"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45657345",
+      "title": "Ask HN: Our AWS account got compromised after their outage",
+      "slug": "2025-10-21-ask-hn-our-aws-account-got-compromised-after-their-outage.html",
+      "path": "posts/2025-10-21-ask-hn-our-aws-account-got-compromised-after-their-outage.html",
+      "date_iso": "2025-10-21T15:55:41+00:00",
+      "source": "https://news.ycombinator.com/item?id=45657345",
+      "summary": "Could there be any link between the two events? Here is what happened: Some 600 instances were spawned within 3 hours before AWS flagged it off and sent us a health event. There were numerous domains verified and we could see SES quota increase request was made. We are still inv…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45657287",
+      "title": "Foreign hackers breached a US nuclear weapons plant via SharePoint flaws",
+      "slug": "2025-10-21-foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws.html",
+      "path": "posts/2025-10-21-foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws.html",
+      "date_iso": "2025-10-21T15:51:33+00:00",
+      "source": "https://www.csoonline.com/article/4074962/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws.html",
+      "summary": "Article URL: https://www.csoonline.com/article/4074962/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws.html Comments URL: https://news.ycombinator.com/item?id=45657287 Points: 366 # Comments: 265"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45656952",
+      "title": "Show HN: Katakate – Dozens of VMs per node for safe code exec",
+      "slug": "2025-10-21-show-hn-katakate-dozens-of-vms-per-node-for-safe-code-exec.html",
+      "path": "posts/2025-10-21-show-hn-katakate-dozens-of-vms-per-node-for-safe-code-exec.html",
+      "date_iso": "2025-10-21T15:22:25+00:00",
+      "source": "https://github.com/Katakate/k7",
+      "summary": "I've built this to make it easy to host your own infra for lightweight VMs at large scale. Intended for exec of AI-generated code, for CICD runners, or for off-chain AI DApps. Mainly to avoid Docker-in-Docker dangers and mess. Super easy to use with CLI / Python SDK, friendly to…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45656223",
+      "title": "LLMs can get \"brain rot\"",
+      "slug": "2025-10-21-llms-can-get-brain-rot.html",
+      "path": "posts/2025-10-21-llms-can-get-brain-rot.html",
+      "date_iso": "2025-10-21T14:24:26+00:00",
+      "source": "https://llm-brain-rot.github.io/",
+      "summary": "Article URL: https://llm-brain-rot.github.io/ Comments URL: https://news.ycombinator.com/item?id=45656223 Points: 357 # Comments: 208"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45655188",
+      "title": "NASA chief suggests SpaceX may be booted from moon mission",
+      "slug": "2025-10-21-nasa-chief-suggests-spacex-may-be-booted-from-moon-mission.html",
+      "path": "posts/2025-10-21-nasa-chief-suggests-spacex-may-be-booted-from-moon-mission.html",
+      "date_iso": "2025-10-21T12:58:43+00:00",
+      "source": "https://www.cnn.com/2025/10/20/science/nasa-spacex-moon-landing-contract-sean-duffy",
+      "summary": "Article URL: https://www.cnn.com/2025/10/20/science/nasa-spacex-moon-landing-contract-sean-duffy Comments URL: https://news.ycombinator.com/item?id=45655188 Points: 282 # Comments: 804"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45655161",
+      "title": "Neural audio codecs: how to get audio into LLMs",
+      "slug": "2025-10-21-neural-audio-codecs-how-to-get-audio-into-llms.html",
+      "path": "posts/2025-10-21-neural-audio-codecs-how-to-get-audio-into-llms.html",
+      "date_iso": "2025-10-21T12:55:59+00:00",
+      "source": "https://kyutai.org/next/codec-explainer",
+      "summary": "Article URL: https://kyutai.org/next/codec-explainer Comments URL: https://news.ycombinator.com/item?id=45655161 Points: 360 # Comments: 104"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/21/technology/amazon-robotics-automation.html",
+      "title": "The Robots Fueling Amazon’s Automation",
+      "slug": "2025-10-21-the-robots-fueling-amazon-s-automation.html",
+      "path": "posts/2025-10-21-the-robots-fueling-amazon-s-automation.html",
+      "date_iso": "2025-10-21T09:00:29+00:00",
+      "source": "https://www.nytimes.com/2025/10/21/technology/amazon-robotics-automation.html",
+      "summary": "Meet Sparrow, Cardinal and Proteus. They’re the robots that, step by step, are replacing human workers in the company’s warehouses."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45652859",
       "title": "Practical Scheme",
       "slug": "2025-10-21-practical-scheme.html",
@@ -28,6 +226,15 @@
       "summary": "The Amazon Web Services pavilion at a trade fair in Hanover, Germany, in March."
     },
     {
+      "id": "https://news.ycombinator.com/item?id=45651485",
+      "title": "Wikipedia says traffic is falling due to AI search summaries and social video",
+      "slug": "2025-10-21-wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video.html",
+      "path": "posts/2025-10-21-wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video.html",
+      "date_iso": "2025-10-21T01:29:03+00:00",
+      "source": "https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/",
+      "summary": "Article URL: https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/ Comments URL: https://news.ycombinator.com/item?id=45651485 Points: 373 # Comments: 341"
+    },
+    {
       "id": "https://www.nytimes.com/2025/10/20/science/nasa-moon-lander-spacex.html",
       "title": "With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas",
       "slug": "2025-10-21-with-spacex-behind-schedule-nasa-will-seek-more-moon-lander-ideas.html",
@@ -44,6 +251,15 @@
       "date_iso": "2025-10-20T23:40:25+00:00",
       "source": "https://0x00.cl/blog/2025/occ-2025/",
       "summary": "Article URL: https://0x00.cl/blog/2025/occ-2025/ Comments URL: https://news.ycombinator.com/item?id=45650792 Points: 33 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45649510",
+      "title": "The death of thread per core",
+      "slug": "2025-10-20-the-death-of-thread-per-core.html",
+      "path": "posts/2025-10-20-the-death-of-thread-per-core.html",
+      "date_iso": "2025-10-20T21:19:19+00:00",
+      "source": "https://buttondown.com/jaffray/archive/the-death-of-thread-per-core/",
+      "summary": "Article URL: https://buttondown.com/jaffray/archive/the-death-of-thread-per-core/ Comments URL: https://news.ycombinator.com/item?id=45649510 Points: 108 # Comments: 43"
     },
     {
       "id": "https://news.ycombinator.com/item?id=45649178",
