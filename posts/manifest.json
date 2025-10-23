@@ -1,6 +1,249 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45678603",
+      "title": "Radios, how do they work? (2024)",
+      "slug": "2025-10-23-radios-how-do-they-work-2024.html",
+      "path": "posts/2025-10-23-radios-how-do-they-work-2024.html",
+      "date_iso": "2025-10-23T05:56:23+00:00",
+      "source": "https://lcamtuf.substack.com/p/radios-how-do-they-work",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/radios-how-do-they-work Comments URL: https://news.ycombinator.com/item?id=45678603 Points: 12 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45678549",
+      "title": "VST3 audio plugin format is now MIT",
+      "slug": "2025-10-23-vst3-audio-plugin-format-is-now-mit.html",
+      "path": "posts/2025-10-23-vst3-audio-plugin-format-is-now-mit.html",
+      "date_iso": "2025-10-23T05:48:02+00:00",
+      "source": "https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988",
+      "summary": "Article URL: https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988 Comments URL: https://news.ycombinator.com/item?id=45678549 Points: 99 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45678511",
+      "title": "Programming with Less Than Nothing",
+      "slug": "2025-10-23-programming-with-less-than-nothing.html",
+      "path": "posts/2025-10-23-programming-with-less-than-nothing.html",
+      "date_iso": "2025-10-23T05:42:31+00:00",
+      "source": "https://joshmoody.org/blog/programming-with-less-than-nothing/",
+      "summary": "Article URL: https://joshmoody.org/blog/programming-with-less-than-nothing/ Comments URL: https://news.ycombinator.com/item?id=45678511 Points: 6 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45678156",
+      "title": "The mild mannered Englishman who was the most prolific ghost hunter",
+      "slug": "2025-10-23-the-mild-mannered-englishman-who-was-the-most-prolific-ghost-hunter.html",
+      "path": "posts/2025-10-23-the-mild-mannered-englishman-who-was-the-most-prolific-ghost-hunter.html",
+      "date_iso": "2025-10-23T04:23:39+00:00",
+      "source": "https://lithub.com/the-mild-mannered-englishman-who-was-the-worlds-most-prolific-ghost-hunter/",
+      "summary": "Article URL: https://lithub.com/the-mild-mannered-englishman-who-was-the-worlds-most-prolific-ghost-hunter/ Comments URL: https://news.ycombinator.com/item?id=45678156 Points: 11 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45677243",
+      "title": "Sodium-ion batteries have started to appear in cars and home storage",
+      "slug": "2025-10-23-sodium-ion-batteries-have-started-to-appear-in-cars-and-home-storage.html",
+      "path": "posts/2025-10-23-sodium-ion-batteries-have-started-to-appear-in-cars-and-home-storage.html",
+      "date_iso": "2025-10-23T01:36:37+00:00",
+      "source": "https://cleantechnica.com/2025/10/22/the-sodium-ion-battery-revolution-has-started/",
+      "summary": "Article URL: https://cleantechnica.com/2025/10/22/the-sodium-ion-battery-revolution-has-started/ Comments URL: https://news.ycombinator.com/item?id=45677243 Points: 96 # Comments: 94"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/22/business/tesla-earnings-elon-musk.html",
+      "title": "Tesla’s Profit Falls 37% After It Cut Car Prices",
+      "slug": "2025-10-22-tesla-s-profit-falls-37-after-it-cut-car-prices.html",
+      "path": "posts/2025-10-22-tesla-s-profit-falls-37-after-it-cut-car-prices.html",
+      "date_iso": "2025-10-22T23:17:42+00:00",
+      "source": "https://www.nytimes.com/2025/10/22/business/tesla-earnings-elon-musk.html",
+      "summary": "Tesla sales in the third quarter were helped by shoppers who took advantage of a federal tax credit on electric vehicles before it expired in September."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45676162",
+      "title": "VortexNet: Neural network based on fluid dynamics",
+      "slug": "2025-10-22-vortexnet-neural-network-based-on-fluid-dynamics.html",
+      "path": "posts/2025-10-22-vortexnet-neural-network-based-on-fluid-dynamics.html",
+      "date_iso": "2025-10-22T22:51:58+00:00",
+      "source": "https://github.com/samim23/vortexnet",
+      "summary": "Article URL: https://github.com/samim23/vortexnet Comments URL: https://news.ycombinator.com/item?id=45676162 Points: 25 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45675090",
+      "title": "InpharmD (YC W21) Is Hiring – NLP Engineer",
+      "slug": "2025-10-22-inpharmd-yc-w21-is-hiring-nlp-engineer.html",
+      "path": "posts/2025-10-22-inpharmd-yc-w21-is-hiring-nlp-engineer.html",
+      "date_iso": "2025-10-22T21:01:07+00:00",
+      "source": "https://inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer",
+      "summary": "Article URL: https://inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer Comments URL: https://news.ycombinator.com/item?id=45675090 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45675015",
+      "title": "Google flags Immich sites as dangerous",
+      "slug": "2025-10-22-google-flags-immich-sites-as-dangerous.html",
+      "path": "posts/2025-10-22-google-flags-immich-sites-as-dangerous.html",
+      "date_iso": "2025-10-22T20:53:49+00:00",
+      "source": "https://immich.app/blog/google-flags-immich-as-dangerous",
+      "summary": "Article URL: https://immich.app/blog/google-flags-immich-as-dangerous Comments URL: https://news.ycombinator.com/item?id=45675015 Points: 671 # Comments: 237"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/22/technology/reddit-data-scrapers-perplexity-theft.html",
+      "title": "Reddit Accuses ‘Data Scraper’ Companies of Theft",
+      "slug": "2025-10-22-reddit-accuses-data-scraper-companies-of-theft.html",
+      "path": "posts/2025-10-22-reddit-accuses-data-scraper-companies-of-theft.html",
+      "date_iso": "2025-10-22T20:23:55+00:00",
+      "source": "https://www.nytimes.com/2025/10/22/technology/reddit-data-scrapers-perplexity-theft.html",
+      "summary": "Reddit, which went public last year, has banned scraping of its website and charges companies for access to its data."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45674568",
+      "title": "Why SSA Compilers?",
+      "slug": "2025-10-22-why-ssa-compilers.html",
+      "path": "posts/2025-10-22-why-ssa-compilers.html",
+      "date_iso": "2025-10-22T20:13:31+00:00",
+      "source": "https://mcyoung.xyz/2025/10/21/ssa-1/",
+      "summary": "Article URL: https://mcyoung.xyz/2025/10/21/ssa-1/ Comments URL: https://news.ycombinator.com/item?id=45674568 Points: 156 # Comments: 49"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45674166",
+      "title": "Ovi: Twin backbone cross-modal fusion for audio-video generation",
+      "slug": "2025-10-22-ovi-twin-backbone-cross-modal-fusion-for-audio-video-generation.html",
+      "path": "posts/2025-10-22-ovi-twin-backbone-cross-modal-fusion-for-audio-video-generation.html",
+      "date_iso": "2025-10-22T19:42:36+00:00",
+      "source": "https://github.com/character-ai/Ovi",
+      "summary": "Article URL: https://github.com/character-ai/Ovi Comments URL: https://news.ycombinator.com/item?id=45674166 Points: 280 # Comments: 100"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45674126",
+      "title": "Show HN: Cuq – Formal Verification of Rust GPU Kernels",
+      "slug": "2025-10-22-show-hn-cuq-formal-verification-of-rust-gpu-kernels.html",
+      "path": "posts/2025-10-22-show-hn-cuq-formal-verification-of-rust-gpu-kernels.html",
+      "date_iso": "2025-10-22T19:38:54+00:00",
+      "source": "https://github.com/neelsomani/cuq",
+      "summary": "Article URL: https://github.com/neelsomani/cuq Comments URL: https://news.ycombinator.com/item?id=45674126 Points: 68 # Comments: 36"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45673479",
+      "title": "Criticisms of “The Body Keeps the Score”",
+      "slug": "2025-10-22-criticisms-of-the-body-keeps-the-score.html",
+      "path": "posts/2025-10-22-criticisms-of-the-body-keeps-the-score.html",
+      "date_iso": "2025-10-22T18:49:04+00:00",
+      "source": "https://josepheverettwil.substack.com/p/the-body-keeps-the-score-is-bullshit",
+      "summary": "Article URL: https://josepheverettwil.substack.com/p/the-body-keeps-the-score-is-bullshit Comments URL: https://news.ycombinator.com/item?id=45673479 Points: 244 # Comments: 278"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45673130",
+      "title": "Accessing Max Verstappen's passport and PII through FIA bugs",
+      "slug": "2025-10-22-accessing-max-verstappen-s-passport-and-pii-through-fia-bugs.html",
+      "path": "posts/2025-10-22-accessing-max-verstappen-s-passport-and-pii-through-fia-bugs.html",
+      "date_iso": "2025-10-22T18:21:54+00:00",
+      "source": "https://ian.sh/fia",
+      "summary": "Article URL: https://ian.sh/fia Comments URL: https://news.ycombinator.com/item?id=45673130 Points: 372 # Comments: 67"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/22/business/general-motors-ai-self-driving.html",
+      "title": "G.M. Previews Talking Cars, Cheaper Batteries and Other New Tech",
+      "slug": "2025-10-22-g-m-previews-talking-cars-cheaper-batteries-and-other-new-tech.html",
+      "path": "posts/2025-10-22-g-m-previews-talking-cars-cheaper-batteries-and-other-new-tech.html",
+      "date_iso": "2025-10-22T18:18:17+00:00",
+      "source": "https://www.nytimes.com/2025/10/22/business/general-motors-ai-self-driving.html",
+      "summary": "Battery assembly at a General Motors plant in Spring Hill, Tenn. G.M. announced that it had developed a new lower-cost battery."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45672844",
+      "title": "Rivian's TM-B electric bike",
+      "slug": "2025-10-22-rivian-s-tm-b-electric-bike.html",
+      "path": "posts/2025-10-22-rivian-s-tm-b-electric-bike.html",
+      "date_iso": "2025-10-22T18:00:20+00:00",
+      "source": "https://www.theverge.com/news/804157/rivian-tm-b-electric-bike-price-specs-helmet-quad",
+      "summary": "Article URL: https://www.theverge.com/news/804157/rivian-tm-b-electric-bike-price-specs-helmet-quad Comments URL: https://news.ycombinator.com/item?id=45672844 Points: 186 # Comments: 312"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/22/technology/meta-plans-to-cut-600-jobs-at-ai-superintelligence-labs.html",
+      "title": "Meta Cuts 600 Jobs at A.I. Superintelligence Labs",
+      "slug": "2025-10-22-meta-cuts-600-jobs-at-a-i-superintelligence-labs.html",
+      "path": "posts/2025-10-22-meta-cuts-600-jobs-at-a-i-superintelligence-labs.html",
+      "date_iso": "2025-10-22T17:59:16+00:00",
+      "source": "https://www.nytimes.com/2025/10/22/technology/meta-plans-to-cut-600-jobs-at-ai-superintelligence-labs.html",
+      "summary": "Mark Zuckerberg, Meta’s chief executive, at the company campus in Menlo Park, Calif., last month. Meta has hired aggressively to build A.I. in recent years."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45672336",
+      "title": "JMAP for Calendars, Contacts and Files Now in Stalwart",
+      "slug": "2025-10-22-jmap-for-calendars-contacts-and-files-now-in-stalwart.html",
+      "path": "posts/2025-10-22-jmap-for-calendars-contacts-and-files-now-in-stalwart.html",
+      "date_iso": "2025-10-22T17:26:06+00:00",
+      "source": "https://stalw.art/blog/jmap-collaboration/",
+      "summary": "Article URL: https://stalw.art/blog/jmap-collaboration/ Comments URL: https://news.ycombinator.com/item?id=45672336 Points: 303 # Comments: 127"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45672280",
+      "title": "I see a future in jj",
+      "slug": "2025-10-22-i-see-a-future-in-jj.html",
+      "path": "posts/2025-10-22-i-see-a-future-in-jj.html",
+      "date_iso": "2025-10-22T17:21:54+00:00",
+      "source": "https://steveklabnik.com/writing/i-see-a-future-in-jj/",
+      "summary": "Article URL: https://steveklabnik.com/writing/i-see-a-future-in-jj/ Comments URL: https://news.ycombinator.com/item?id=45672280 Points: 282 # Comments: 197"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45672235",
+      "title": "HP SitePrint",
+      "slug": "2025-10-22-hp-siteprint.html",
+      "path": "posts/2025-10-22-hp-siteprint.html",
+      "date_iso": "2025-10-22T17:18:33+00:00",
+      "source": "https://www.hp.com/us-en/printers/site-print/layout-robot.html",
+      "summary": "Article URL: https://www.hp.com/us-en/printers/site-print/layout-robot.html Comments URL: https://news.ycombinator.com/item?id=45672235 Points: 174 # Comments: 110"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/22/business/energy-environment/electric-bill-questionnaire.html",
+      "title": "Does Your Electric Bill Keep Going Up? We Want to See It.",
+      "slug": "2025-10-22-does-your-electric-bill-keep-going-up-we-want-to-see-it.html",
+      "path": "posts/2025-10-22-does-your-electric-bill-keep-going-up-we-want-to-see-it.html",
+      "date_iso": "2025-10-22T16:43:43+00:00",
+      "source": "https://www.nytimes.com/2025/10/22/business/energy-environment/electric-bill-questionnaire.html",
+      "summary": "Electricity meters in Charleston, W.Va."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/22/technology/googles-quantum-computer-leap.html",
+      "title": "Google’s Quantum Computer Makes a Big Technical Leap",
+      "slug": "2025-10-22-google-s-quantum-computer-makes-a-big-technical-leap.html",
+      "path": "posts/2025-10-22-google-s-quantum-computer-makes-a-big-technical-leap.html",
+      "date_iso": "2025-10-22T16:14:53+00:00",
+      "source": "https://www.nytimes.com/2025/10/22/technology/googles-quantum-computer-leap.html",
+      "summary": "A quantum computer at Google’s quantum research facility near Santa Barbara, Calif."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45670443",
+      "title": "Willow quantum chip demonstrates verifiable quantum advantage on hardware",
+      "slug": "2025-10-22-willow-quantum-chip-demonstrates-verifiable-quantum-advantage-on-hardware.html",
+      "path": "posts/2025-10-22-willow-quantum-chip-demonstrates-verifiable-quantum-advantage-on-hardware.html",
+      "date_iso": "2025-10-22T15:16:19+00:00",
+      "source": "https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/",
+      "summary": "Article URL: https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/ Comments URL: https://news.ycombinator.com/item?id=45670443 Points: 420 # Comments: 206"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45670052",
+      "title": "Scripts I wrote that I use all the time",
+      "slug": "2025-10-22-scripts-i-wrote-that-i-use-all-the-time.html",
+      "path": "posts/2025-10-22-scripts-i-wrote-that-i-use-all-the-time.html",
+      "date_iso": "2025-10-22T14:53:54+00:00",
+      "source": "https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/",
+      "summary": "Article URL: https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/ Comments URL: https://news.ycombinator.com/item?id=45670052 Points: 729 # Comments: 205"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45666497",
+      "title": "Element: setHTML() method",
+      "slug": "2025-10-22-element-sethtml-method.html",
+      "path": "posts/2025-10-22-element-sethtml-method.html",
+      "date_iso": "2025-10-22T09:03:40+00:00",
+      "source": "https://developer.mozilla.org/en-US/docs/Web/API/Element/setHTML",
+      "summary": "Article URL: https://developer.mozilla.org/en-US/docs/Web/API/Element/setHTML Comments URL: https://news.ycombinator.com/item?id=45666497 Points: 163 # Comments: 90"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/22/technology/personaltech/use-phone-to-scan-pdf.html",
+      "title": "How to Scan, Edit and Sign PDF Files on Your Phone or Tablet",
+      "slug": "2025-10-22-how-to-scan-edit-and-sign-pdf-files-on-your-phone-or-tablet.html",
+      "path": "posts/2025-10-22-how-to-scan-edit-and-sign-pdf-files-on-your-phone-or-tablet.html",
+      "date_iso": "2025-10-22T09:02:12+00:00",
+      "source": "https://www.nytimes.com/2025/10/22/technology/personaltech/use-phone-to-scan-pdf.html",
+      "summary": "Apple's Preview app for working with PDF files and images made the jump from the Mac to the iPhone and iPad in the recent iOS 26 software update."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45664848",
       "title": "Evaluating the Infinity Cache in AMD Strix Halo",
       "slug": "2025-10-22-evaluating-the-infinity-cache-in-amd-strix-halo.html",
