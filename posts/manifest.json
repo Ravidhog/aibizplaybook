@@ -1,6 +1,213 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45691127",
+      "title": "Alaska Airlines' statement on IT outage",
+      "slug": "2025-10-24-alaska-airlines-statement-on-it-outage.html",
+      "path": "posts/2025-10-24-alaska-airlines-statement-on-it-outage.html",
+      "date_iso": "2025-10-24T05:32:04+00:00",
+      "source": "https://news.alaskaair.com/on-the-record/alaska-statement-on-it-outage/",
+      "summary": "Article URL: https://news.alaskaair.com/on-the-record/alaska-statement-on-it-outage/ Comments URL: https://news.ycombinator.com/item?id=45691127 Points: 11 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45690871",
+      "title": "RFC 863 – Discard Protocol",
+      "slug": "2025-10-24-rfc-863-discard-protocol.html",
+      "path": "posts/2025-10-24-rfc-863-discard-protocol.html",
+      "date_iso": "2025-10-24T04:46:50+00:00",
+      "source": "https://datatracker.ietf.org/doc/html/rfc863",
+      "summary": "Article URL: https://datatracker.ietf.org/doc/html/rfc863 Comments URL: https://news.ycombinator.com/item?id=45690871 Points: 5 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45690679",
+      "title": "JupyterGIS breaks through to the next level",
+      "slug": "2025-10-24-jupytergis-breaks-through-to-the-next-level.html",
+      "path": "posts/2025-10-24-jupytergis-breaks-through-to-the-next-level.html",
+      "date_iso": "2025-10-24T04:13:01+00:00",
+      "source": "https://eo4society.esa.int/2025/10/16/jupytergis-breaks-through-to-the-next-level/",
+      "summary": "Article URL: https://eo4society.esa.int/2025/10/16/jupytergis-breaks-through-to-the-next-level/ Comments URL: https://news.ycombinator.com/item?id=45690679 Points: 34 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45690251",
+      "title": "Roc Camera",
+      "slug": "2025-10-24-roc-camera.html",
+      "path": "posts/2025-10-24-roc-camera.html",
+      "date_iso": "2025-10-24T02:54:29+00:00",
+      "source": "https://roc.camera/",
+      "summary": "Article URL: https://roc.camera/ Comments URL: https://news.ycombinator.com/item?id=45690251 Points: 147 # Comments: 127"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45690219",
+      "title": "Fast-DLLM: Training-Free Acceleration of Diffusion LLM",
+      "slug": "2025-10-24-fast-dllm-training-free-acceleration-of-diffusion-llm.html",
+      "path": "posts/2025-10-24-fast-dllm-training-free-acceleration-of-diffusion-llm.html",
+      "date_iso": "2025-10-24T02:50:50+00:00",
+      "source": "https://arxiv.org/abs/2505.22618",
+      "summary": "Article URL: https://arxiv.org/abs/2505.22618 Comments URL: https://news.ycombinator.com/item?id=45690219 Points: 21 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45690045",
+      "title": "Computer science courses that don't exist, but should (2015)",
+      "slug": "2025-10-24-computer-science-courses-that-don-t-exist-but-should-2015.html",
+      "path": "posts/2025-10-24-computer-science-courses-that-don-t-exist-but-should-2015.html",
+      "date_iso": "2025-10-24T02:22:07+00:00",
+      "source": "https://prog21.dadgum.com/210.html",
+      "summary": "Article URL: https://prog21.dadgum.com/210.html Comments URL: https://news.ycombinator.com/item?id=45690045 Points: 157 # Comments: 111"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45689241",
+      "title": "Counter-Strike's player economy is in a multi-billion dollar freefall",
+      "slug": "2025-10-24-counter-strike-s-player-economy-is-in-a-multi-billion-dollar-freefall.html",
+      "path": "posts/2025-10-24-counter-strike-s-player-economy-is-in-a-multi-billion-dollar-freefall.html",
+      "date_iso": "2025-10-24T00:24:11+00:00",
+      "source": "https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall/",
+      "summary": "Article URL: https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall/ Comments URL: https://news.ycombinator.com/item?id=45689241 Points: 92 # Comments: 124"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45688836",
+      "title": "React Flow, open source libraries for node-based UIs with React or Svelte",
+      "slug": "2025-10-23-react-flow-open-source-libraries-for-node-based-uis-with-react-or-svelte.html",
+      "path": "posts/2025-10-23-react-flow-open-source-libraries-for-node-based-uis-with-react-or-svelte.html",
+      "date_iso": "2025-10-23T23:33:28+00:00",
+      "source": "https://github.com/xyflow/xyflow",
+      "summary": "Article URL: https://github.com/xyflow/xyflow Comments URL: https://news.ycombinator.com/item?id=45688836 Points: 113 # Comments: 17"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/23/technology/meta-layoffs-user-privacy.html",
+      "title": "Meta Layoffs Included Employees Who Monitored Risks to User Privacy",
+      "slug": "2025-10-23-meta-layoffs-included-employees-who-monitored-risks-to-user-privacy.html",
+      "path": "posts/2025-10-23-meta-layoffs-included-employees-who-monitored-risks-to-user-privacy.html",
+      "date_iso": "2025-10-23T23:24:31+00:00",
+      "source": "https://www.nytimes.com/2025/10/23/technology/meta-layoffs-user-privacy.html",
+      "summary": "Meta has been under regulatory scrutiny for its handling of user data."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45688443",
+      "title": "Introduction to the concept of likelihood and its applications (2018)",
+      "slug": "2025-10-23-introduction-to-the-concept-of-likelihood-and-its-applications-2018.html",
+      "path": "posts/2025-10-23-introduction-to-the-concept-of-likelihood-and-its-applications-2018.html",
+      "date_iso": "2025-10-23T22:52:15+00:00",
+      "source": "https://journals.sagepub.com/doi/10.1177/2515245917744314",
+      "summary": "Article URL: https://journals.sagepub.com/doi/10.1177/2515245917744314 Comments URL: https://news.ycombinator.com/item?id=45688443 Points: 34 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45688236",
+      "title": "Automating Algorithm Discovery: A Case Study in MoE Load Balancing",
+      "slug": "2025-10-23-automating-algorithm-discovery-a-case-study-in-moe-load-balancing.html",
+      "path": "posts/2025-10-23-automating-algorithm-discovery-a-case-study-in-moe-load-balancing.html",
+      "date_iso": "2025-10-23T22:35:22+00:00",
+      "source": "https://adrs-ucb.notion.site/moe-load-balancing",
+      "summary": "Article URL: https://adrs-ucb.notion.site/moe-load-balancing Comments URL: https://news.ycombinator.com/item?id=45688236 Points: 111 # Comments: 54"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45688006",
+      "title": "Apple loses UK App Store monopoly case, penalty might near $2B",
+      "slug": "2025-10-23-apple-loses-uk-app-store-monopoly-case-penalty-might-near-2b.html",
+      "path": "posts/2025-10-23-apple-loses-uk-app-store-monopoly-case-penalty-might-near-2b.html",
+      "date_iso": "2025-10-23T22:11:23+00:00",
+      "source": "https://9to5mac.com/2025/10/23/apple-loses-uk-app-store-monopoly-case-penalty-might-near-2-billion/",
+      "summary": "Article URL: https://9to5mac.com/2025/10/23/apple-loses-uk-app-store-monopoly-case-penalty-might-near-2-billion/ Comments URL: https://news.ycombinator.com/item?id=45688006 Points: 248 # Comments: 238"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45687796",
+      "title": "How memory maps (mmap) deliver faster file access in Go",
+      "slug": "2025-10-23-how-memory-maps-mmap-deliver-faster-file-access-in-go.html",
+      "path": "posts/2025-10-23-how-memory-maps-mmap-deliver-faster-file-access-in-go.html",
+      "date_iso": "2025-10-23T21:56:07+00:00",
+      "source": "https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go",
+      "summary": "Article URL: https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go Comments URL: https://news.ycombinator.com/item?id=45687796 Points: 94 # Comments: 70"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45687458",
+      "title": "/dev/null is an ACID compliant database",
+      "slug": "2025-10-23-dev-null-is-an-acid-compliant-database.html",
+      "path": "posts/2025-10-23-dev-null-is-an-acid-compliant-database.html",
+      "date_iso": "2025-10-23T21:28:02+00:00",
+      "source": "https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/",
+      "summary": "Article URL: https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/ Comments URL: https://news.ycombinator.com/item?id=45687458 Points: 291 # Comments: 107"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45687441",
+      "title": "When is it better to think without words?",
+      "slug": "2025-10-23-when-is-it-better-to-think-without-words.html",
+      "path": "posts/2025-10-23-when-is-it-better-to-think-without-words.html",
+      "date_iso": "2025-10-23T21:26:57+00:00",
+      "source": "https://www.henrikkarlsson.xyz/p/wordless-thought",
+      "summary": "Article URL: https://www.henrikkarlsson.xyz/p/wordless-thought Comments URL: https://news.ycombinator.com/item?id=45687441 Points: 121 # Comments: 51"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45687227",
+      "title": "FocusTube: A Chrome extension that hides YouTube Shorts",
+      "slug": "2025-10-23-focustube-a-chrome-extension-that-hides-youtube-shorts.html",
+      "path": "posts/2025-10-23-focustube-a-chrome-extension-that-hides-youtube-shorts.html",
+      "date_iso": "2025-10-23T21:11:14+00:00",
+      "source": "https://github.com/CaptainYouz/FocusTube",
+      "summary": "Article URL: https://github.com/CaptainYouz/FocusTube Comments URL: https://news.ycombinator.com/item?id=45687227 Points: 195 # Comments: 148"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45686919",
+      "title": "Date bug in Rust-based coreutils affects Ubuntu 25.10 automatic updates",
+      "slug": "2025-10-23-date-bug-in-rust-based-coreutils-affects-ubuntu-25-10-automatic-updates.html",
+      "path": "posts/2025-10-23-date-bug-in-rust-based-coreutils-affects-ubuntu-25-10-automatic-updates.html",
+      "date_iso": "2025-10-23T20:49:08+00:00",
+      "source": "https://lwn.net/Articles/1043103/",
+      "summary": "Article URL: https://lwn.net/Articles/1043103/ Comments URL: https://news.ycombinator.com/item?id=45686919 Points: 140 # Comments: 141"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/23/business/ford-motor-earnings-third-quarter.html",
+      "title": "Ford’s Profit Jumps on Strong Sales but Company Lowers its Outlook",
+      "slug": "2025-10-23-ford-s-profit-jumps-on-strong-sales-but-company-lowers-its-outlook.html",
+      "path": "posts/2025-10-23-ford-s-profit-jumps-on-strong-sales-but-company-lowers-its-outlook.html",
+      "date_iso": "2025-10-23T20:05:40+00:00",
+      "source": "https://www.nytimes.com/2025/10/23/business/ford-motor-earnings-third-quarter.html",
+      "summary": "Ford F-150 trucks being assembled at the company’s plant in Dearborn, Mich."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45685007",
+      "title": "Can “second life” EV batteries work as grid-scale energy storage?",
+      "slug": "2025-10-23-can-second-life-ev-batteries-work-as-grid-scale-energy-storage.html",
+      "path": "posts/2025-10-23-can-second-life-ev-batteries-work-as-grid-scale-energy-storage.html",
+      "date_iso": "2025-10-23T18:15:45+00:00",
+      "source": "https://www.volts.wtf/p/can-second-life-ev-batteries-work",
+      "summary": "Article URL: https://www.volts.wtf/p/can-second-life-ev-batteries-work Comments URL: https://news.ycombinator.com/item?id=45685007 Points: 138 # Comments: 155"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/23/technology/trump-pardons-cz-binance.html",
+      "title": "Trump Pardons Changpeng Zhao, Founder of the Crypto Exchange Binance",
+      "slug": "2025-10-23-trump-pardons-changpeng-zhao-founder-of-the-crypto-exchange-binance.html",
+      "path": "posts/2025-10-23-trump-pardons-changpeng-zhao-founder-of-the-crypto-exchange-binance.html",
+      "date_iso": "2025-10-23T18:06:43+00:00",
+      "source": "https://www.nytimes.com/2025/10/23/technology/trump-pardons-cz-binance.html",
+      "summary": "Changpeng Zhao, the co-founder and former chief executive of Binance at the Token 2049 event in Dubai in April."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45684236",
+      "title": "OpenAI acquires Sky.app",
+      "slug": "2025-10-23-openai-acquires-sky-app.html",
+      "path": "posts/2025-10-23-openai-acquires-sky-app.html",
+      "date_iso": "2025-10-23T17:04:17+00:00",
+      "source": "https://openai.com/index/openai-acquires-software-applications-incorporated",
+      "summary": "Article URL: https://openai.com/index/openai-acquires-software-applications-incorporated Comments URL: https://news.ycombinator.com/item?id=45684236 Points: 166 # Comments: 108"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45684134",
+      "title": "Claude Memory",
+      "slug": "2025-10-23-claude-memory.html",
+      "path": "posts/2025-10-23-claude-memory.html",
+      "date_iso": "2025-10-23T16:56:07+00:00",
+      "source": "https://www.anthropic.com/news/memory",
+      "summary": "Article URL: https://www.anthropic.com/news/memory Comments URL: https://news.ycombinator.com/item?id=45684134 Points: 429 # Comments: 247"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45683897",
+      "title": "Antislop: A framework for eliminating repetitive patterns in language models",
+      "slug": "2025-10-23-antislop-a-framework-for-eliminating-repetitive-patterns-in-language-models.html",
+      "path": "posts/2025-10-23-antislop-a-framework-for-eliminating-repetitive-patterns-in-language-models.html",
+      "date_iso": "2025-10-23T16:36:05+00:00",
+      "source": "https://arxiv.org/abs/2510.15061",
+      "summary": "Article URL: https://arxiv.org/abs/2510.15061 Comments URL: https://news.ycombinator.com/item?id=45683897 Points: 99 # Comments: 97"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45678603",
       "title": "Radios, how do they work? (2024)",
       "slug": "2025-10-23-radios-how-do-they-work-2024.html",
