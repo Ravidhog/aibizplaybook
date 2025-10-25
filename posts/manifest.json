@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45701825",
+      "title": "Euro cops take down cybercrime network with 49M fake accounts",
+      "slug": "2025-10-25-euro-cops-take-down-cybercrime-network-with-49m-fake-accounts.html",
+      "path": "posts/2025-10-25-euro-cops-take-down-cybercrime-network-with-49m-fake-accounts.html",
+      "date_iso": "2025-10-25T06:48:12+00:00",
+      "source": "https://www.itnews.com.au/news/euro-cops-take-down-cybercrime-network-with-49-million-fake-accounts-621174",
+      "summary": "Article URL: https://www.itnews.com.au/news/euro-cops-take-down-cybercrime-network-with-49-million-fake-accounts-621174 Comments URL: https://news.ycombinator.com/item?id=45701825 Points: 5 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45701305",
+      "title": "Meet the real screen addicts: the elderly",
+      "slug": "2025-10-25-meet-the-real-screen-addicts-the-elderly.html",
+      "path": "posts/2025-10-25-meet-the-real-screen-addicts-the-elderly.html",
+      "date_iso": "2025-10-25T04:09:18+00:00",
+      "source": "https://www.economist.com/international/2025/10/23/meet-the-real-screen-addicts-the-elderly",
+      "summary": "Article URL: https://www.economist.com/international/2025/10/23/meet-the-real-screen-addicts-the-elderly Comments URL: https://news.ycombinator.com/item?id=45701305 Points: 8 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45700946",
+      "title": "Key IOCs for Pegasus and Predator Spyware Removed with iOS 26 Update",
+      "slug": "2025-10-25-key-iocs-for-pegasus-and-predator-spyware-removed-with-ios-26-update.html",
+      "path": "posts/2025-10-25-key-iocs-for-pegasus-and-predator-spyware-removed-with-ios-26-update.html",
+      "date_iso": "2025-10-25T02:31:55+00:00",
+      "source": "https://iverify.io/blog/key-iocs-for-pegasus-and-predator-spyware-cleaned-with-ios-26-update",
+      "summary": "Article URL: https://iverify.io/blog/key-iocs-for-pegasus-and-predator-spyware-cleaned-with-ios-26-update Comments URL: https://news.ycombinator.com/item?id=45700946 Points: 31 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45700911",
+      "title": "Advice for New Principal Tech ICs (I.e., Notes to Myself)",
+      "slug": "2025-10-25-advice-for-new-principal-tech-ics-i-e-notes-to-myself.html",
+      "path": "posts/2025-10-25-advice-for-new-principal-tech-ics-i-e-notes-to-myself.html",
+      "date_iso": "2025-10-25T02:24:30+00:00",
+      "source": "https://eugeneyan.com/writing/principal/",
+      "summary": "Article URL: https://eugeneyan.com/writing/principal/ Comments URL: https://news.ycombinator.com/item?id=45700911 Points: 45 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45700720",
+      "title": "Deepagent: A powerful desktop AI assistant",
+      "slug": "2025-10-25-deepagent-a-powerful-desktop-ai-assistant.html",
+      "path": "posts/2025-10-25-deepagent-a-powerful-desktop-ai-assistant.html",
+      "date_iso": "2025-10-25T01:36:10+00:00",
+      "source": "https://deepagent.abacus.ai",
+      "summary": "Article URL: https://deepagent.abacus.ai Comments URL: https://news.ycombinator.com/item?id=45700720 Points: 21 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45700663",
+      "title": "What Is Intelligence? (2024)",
+      "slug": "2025-10-25-what-is-intelligence-2024.html",
+      "path": "posts/2025-10-25-what-is-intelligence-2024.html",
+      "date_iso": "2025-10-25T01:21:43+00:00",
+      "source": "https://whatisintelligence.antikythera.org/",
+      "summary": "Article URL: https://whatisintelligence.antikythera.org/ Comments URL: https://news.ycombinator.com/item?id=45700663 Points: 56 # Comments: 36"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45699023",
+      "title": "Conductor (YC S24) Is Hiring a Founding Engineer in San Francisco",
+      "slug": "2025-10-24-conductor-yc-s24-is-hiring-a-founding-engineer-in-san-francisco.html",
+      "path": "posts/2025-10-24-conductor-yc-s24-is-hiring-a-founding-engineer-in-san-francisco.html",
+      "date_iso": "2025-10-24T21:00:27+00:00",
+      "source": "https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer Comments URL: https://news.ycombinator.com/item?id=45699023 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45698909",
+      "title": "Study: MRI contrast agent causes harmful metal buildup in some patients",
+      "slug": "2025-10-24-study-mri-contrast-agent-causes-harmful-metal-buildup-in-some-patients.html",
+      "path": "posts/2025-10-24-study-mri-contrast-agent-causes-harmful-metal-buildup-in-some-patients.html",
+      "date_iso": "2025-10-24T20:48:46+00:00",
+      "source": "https://www.ormanager.com/briefs/study-mri-contrast-agent-causes-harmful-metal-buildup-in-some-patients/",
+      "summary": "https://www.frontiersin.org/journals/toxicology/articles/10.... Comments URL: https://news.ycombinator.com/item?id=45698909 Points: 133 # Comments: 99"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/24/arts/halo-playstation-microsoft-xbox.html",
+      "title": "With Halo: Campaign Evolved, Microsoft Brings Prized Xbox Game to PlayStation",
+      "slug": "2025-10-24-with-halo-campaign-evolved-microsoft-brings-prized-xbox-game-to-playstation.html",
+      "path": "posts/2025-10-24-with-halo-campaign-evolved-microsoft-brings-prized-xbox-game-to-playstation.html",
+      "date_iso": "2025-10-24T20:32:16+00:00",
+      "source": "https://www.nytimes.com/2025/10/24/arts/halo-playstation-microsoft-xbox.html",
+      "summary": "As part of a strategic shift away from exclusivity, Microsoft is bringing Halo to Sony’s competing console for the first time."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45698570",
+      "title": "The Swift SDK for Android",
+      "slug": "2025-10-24-the-swift-sdk-for-android.html",
+      "path": "posts/2025-10-24-the-swift-sdk-for-android.html",
+      "date_iso": "2025-10-24T20:06:52+00:00",
+      "source": "https://www.swift.org/blog/nightly-swift-sdk-for-android/",
+      "summary": "Article URL: https://www.swift.org/blog/nightly-swift-sdk-for-android/ Comments URL: https://news.ycombinator.com/item?id=45698570 Points: 454 # Comments: 175"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45698554",
+      "title": "Harnessing America's Heat Pump Moment",
+      "slug": "2025-10-24-harnessing-america-s-heat-pump-moment.html",
+      "path": "posts/2025-10-24-harnessing-america-s-heat-pump-moment.html",
+      "date_iso": "2025-10-24T20:05:07+00:00",
+      "source": "https://www.heatpumped.org/p/harnessing-america-s-heat-pump-moment",
+      "summary": "Article URL: https://www.heatpumped.org/p/harnessing-america-s-heat-pump-moment Comments URL: https://news.ycombinator.com/item?id=45698554 Points: 124 # Comments: 267"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45696838",
+      "title": "How to make a Smith chart",
+      "slug": "2025-10-24-how-to-make-a-smith-chart.html",
+      "path": "posts/2025-10-24-how-to-make-a-smith-chart.html",
+      "date_iso": "2025-10-24T17:18:17+00:00",
+      "source": "https://www.johndcook.com/blog/2025/10/23/smith-chart/",
+      "summary": "Article URL: https://www.johndcook.com/blog/2025/10/23/smith-chart/ Comments URL: https://news.ycombinator.com/item?id=45696838 Points: 120 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45695621",
+      "title": "Code Like a Surgeon",
+      "slug": "2025-10-24-code-like-a-surgeon.html",
+      "path": "posts/2025-10-24-code-like-a-surgeon.html",
+      "date_iso": "2025-10-24T15:25:17+00:00",
+      "source": "https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon",
+      "summary": "Article URL: https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon Comments URL: https://news.ycombinator.com/item?id=45695621 Points: 135 # Comments: 90"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45695134",
+      "title": "Unlocking Free WiFi on British Airways",
+      "slug": "2025-10-24-unlocking-free-wifi-on-british-airways.html",
+      "path": "posts/2025-10-24-unlocking-free-wifi-on-british-airways.html",
+      "date_iso": "2025-10-24T14:40:34+00:00",
+      "source": "https://www.saxrag.com/tech/reversing/2025/06/01/BAWiFi.html",
+      "summary": "Article URL: https://www.saxrag.com/tech/reversing/2025/06/01/BAWiFi.html Comments URL: https://news.ycombinator.com/item?id=45695134 Points: 172 # Comments: 27"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45694856",
+      "title": "First shape found that can't pass through itself",
+      "slug": "2025-10-24-first-shape-found-that-can-t-pass-through-itself.html",
+      "path": "posts/2025-10-24-first-shape-found-that-can-t-pass-through-itself.html",
+      "date_iso": "2025-10-24T14:12:00+00:00",
+      "source": "https://www.quantamagazine.org/first-shape-found-that-cant-pass-through-itself-20251024/",
+      "summary": "Article URL: https://www.quantamagazine.org/first-shape-found-that-cant-pass-through-itself-20251024/ Comments URL: https://news.ycombinator.com/item?id=45694856 Points: 321 # Comments: 75"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45693978",
+      "title": "Typst 0.14",
+      "slug": "2025-10-24-typst-0-14.html",
+      "path": "posts/2025-10-24-typst-0-14.html",
+      "date_iso": "2025-10-24T12:33:10+00:00",
+      "source": "https://typst.app/blog/2025/typst-0.14/",
+      "summary": "Article URL: https://typst.app/blog/2025/typst-0.14/ Comments URL: https://news.ycombinator.com/item?id=45693978 Points: 570 # Comments: 152"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45693325",
+      "title": "Mesh2Motion – Open-source web application to animate 3D models",
+      "slug": "2025-10-24-mesh2motion-open-source-web-application-to-animate-3d-models.html",
+      "path": "posts/2025-10-24-mesh2motion-open-source-web-application-to-animate-3d-models.html",
+      "date_iso": "2025-10-24T11:01:23+00:00",
+      "source": "https://mesh2motion.org/",
+      "summary": "Article URL: https://mesh2motion.org/ Comments URL: https://news.ycombinator.com/item?id=45693325 Points: 192 # Comments: 34"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/24/podcasts/hardfork-sora-amazon-atlas.html",
+      "title": "Celebrities Fight Sora + Amazon’s Secret Automation Plans + ChatGPT Gets a Browser",
+      "slug": "2025-10-24-celebrities-fight-sora-amazon-s-secret-automation-plans-chatgpt-gets-a-browser.html",
+      "path": "posts/2025-10-24-celebrities-fight-sora-amazon-s-secret-automation-plans-chatgpt-gets-a-browser.html",
+      "date_iso": "2025-10-24T11:00:06+00:00",
+      "source": "https://www.nytimes.com/2025/10/24/podcasts/hardfork-sora-amazon-atlas.html",
+      "summary": "“Now we are just seeing OpenAI do the full Facebook when it comes to content policy.”"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45692984",
+      "title": "Twake Drive – An open-source alternative to Google Drive",
+      "slug": "2025-10-24-twake-drive-an-open-source-alternative-to-google-drive.html",
+      "path": "posts/2025-10-24-twake-drive-an-open-source-alternative-to-google-drive.html",
+      "date_iso": "2025-10-24T10:16:25+00:00",
+      "source": "https://github.com/linagora/twake-drive",
+      "summary": "Article URL: https://github.com/linagora/twake-drive Comments URL: https://news.ycombinator.com/item?id=45692984 Points: 319 # Comments: 180"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45692915",
+      "title": "Debian Technical Committee overrides systemd change",
+      "slug": "2025-10-24-debian-technical-committee-overrides-systemd-change.html",
+      "path": "posts/2025-10-24-debian-technical-committee-overrides-systemd-change.html",
+      "date_iso": "2025-10-24T10:07:34+00:00",
+      "source": "https://lwn.net/Articles/1041316/",
+      "summary": "Article URL: https://lwn.net/Articles/1041316/ Comments URL: https://news.ycombinator.com/item?id=45692915 Points: 178 # Comments: 180"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/24/magazine/character-ai-chatbot-lawsuit-teen-suicide-free-speech.html",
+      "title": "After Teen Suicide, Character.AI Lawsuit Raises Questions Over Free Speech Protections",
+      "slug": "2025-10-24-after-teen-suicide-character-ai-lawsuit-raises-questions-over-free-speech-protections.html",
+      "path": "posts/2025-10-24-after-teen-suicide-character-ai-lawsuit-raises-questions-over-free-speech-protections.html",
+      "date_iso": "2025-10-24T09:01:59+00:00",
+      "source": "https://www.nytimes.com/2025/10/24/magazine/character-ai-chatbot-lawsuit-teen-suicide-free-speech.html",
+      "summary": "Megan has become an advocate for children’s safety online and in September gave testimony at a congressional hearing on “Examining the Harm of A.I. Chatbots.”"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45691127",
       "title": "Alaska Airlines' statement on IT outage",
       "slug": "2025-10-24-alaska-airlines-statement-on-it-outage.html",
@@ -53,6 +242,15 @@
       "date_iso": "2025-10-24T02:22:07+00:00",
       "source": "https://prog21.dadgum.com/210.html",
       "summary": "Article URL: https://prog21.dadgum.com/210.html Comments URL: https://news.ycombinator.com/item?id=45690045 Points: 157 # Comments: 111"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45689905",
+      "title": "Modern Perfect Hashing",
+      "slug": "2025-10-24-modern-perfect-hashing.html",
+      "path": "posts/2025-10-24-modern-perfect-hashing.html",
+      "date_iso": "2025-10-24T01:59:56+00:00",
+      "source": "https://blog.sesse.net/blog/tech/2025-10-23-21-23_modern_perfect_hashing.html",
+      "summary": "Article URL: https://blog.sesse.net/blog/tech/2025-10-23-21-23_modern_perfect_hashing.html Comments URL: https://news.ycombinator.com/item?id=45689905 Points: 88 # Comments: 13"
     },
     {
       "id": "https://news.ycombinator.com/item?id=45689241",
@@ -206,6 +404,15 @@
       "date_iso": "2025-10-23T16:36:05+00:00",
       "source": "https://arxiv.org/abs/2510.15061",
       "summary": "Article URL: https://arxiv.org/abs/2510.15061 Comments URL: https://news.ycombinator.com/item?id=45683897 Points: 99 # Comments: 97"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45682164",
+      "title": "Context engineering is sleeping on the humble hyperlink",
+      "slug": "2025-10-23-context-engineering-is-sleeping-on-the-humble-hyperlink.html",
+      "path": "posts/2025-10-23-context-engineering-is-sleeping-on-the-humble-hyperlink.html",
+      "date_iso": "2025-10-23T14:24:47+00:00",
+      "source": "https://mbleigh.dev/posts/context-engineering-with-links/",
+      "summary": "Article URL: https://mbleigh.dev/posts/context-engineering-with-links/ Comments URL: https://news.ycombinator.com/item?id=45682164 Points: 63 # Comments: 31"
     },
     {
       "id": "https://news.ycombinator.com/item?id=45678603",
