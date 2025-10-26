@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45709698",
+      "title": "Bitmovin (YC S15) Is Hiring Engineering ICs and Managers in Europe",
+      "slug": "2025-10-26-bitmovin-yc-s15-is-hiring-engineering-ics-and-managers-in-europe.html",
+      "path": "posts/2025-10-26-bitmovin-yc-s15-is-hiring-engineering-ics-and-managers-in-europe.html",
+      "date_iso": "2025-10-26T07:00:33+00:00",
+      "source": "https://bitmovin.com/careers",
+      "summary": "Article URL: https://bitmovin.com/careers Comments URL: https://news.ycombinator.com/item?id=45709698 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45708884",
+      "title": "Tsdown – The Elegant Bundler for Libraries",
+      "slug": "2025-10-26-tsdown-the-elegant-bundler-for-libraries.html",
+      "path": "posts/2025-10-26-tsdown-the-elegant-bundler-for-libraries.html",
+      "date_iso": "2025-10-26T03:19:08+00:00",
+      "source": "https://tsdown.dev/",
+      "summary": "Article URL: https://tsdown.dev/ Comments URL: https://news.ycombinator.com/item?id=45708884 Points: 9 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45708795",
+      "title": "GenAI Image Editing Showdown",
+      "slug": "2025-10-26-genai-image-editing-showdown.html",
+      "path": "posts/2025-10-26-genai-image-editing-showdown.html",
+      "date_iso": "2025-10-26T02:57:57+00:00",
+      "source": "https://genai-showdown.specr.net/",
+      "summary": "Article URL: https://genai-showdown.specr.net/ Comments URL: https://news.ycombinator.com/item?id=45708795 Points: 47 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45708686",
+      "title": "PCB Edge USB C Connector Library",
+      "slug": "2025-10-26-pcb-edge-usb-c-connector-library.html",
+      "path": "posts/2025-10-26-pcb-edge-usb-c-connector-library.html",
+      "date_iso": "2025-10-26T02:31:54+00:00",
+      "source": "https://github.com/AnasMalas/pcb-edge-usb-c",
+      "summary": "Article URL: https://github.com/AnasMalas/pcb-edge-usb-c Comments URL: https://news.ycombinator.com/item?id=45708686 Points: 49 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45708524",
+      "title": "Pico-Banana-400k",
+      "slug": "2025-10-26-pico-banana-400k.html",
+      "path": "posts/2025-10-26-pico-banana-400k.html",
+      "date_iso": "2025-10-26T02:01:17+00:00",
+      "source": "https://github.com/apple/pico-banana-400k",
+      "summary": "Article URL: https://github.com/apple/pico-banana-400k Comments URL: https://news.ycombinator.com/item?id=45708524 Points: 156 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45708292",
+      "title": "A worker fell into a nuclear reactor pool",
+      "slug": "2025-10-26-a-worker-fell-into-a-nuclear-reactor-pool.html",
+      "path": "posts/2025-10-26-a-worker-fell-into-a-nuclear-reactor-pool.html",
+      "date_iso": "2025-10-26T01:15:43+00:00",
+      "source": "https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE",
+      "summary": "Article URL: https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE Comments URL: https://news.ycombinator.com/item?id=45708292 Points: 294 # Comments: 182"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45707658",
+      "title": "The Linux Boot Process: From Power Button to Kernel",
+      "slug": "2025-10-25-the-linux-boot-process-from-power-button-to-kernel.html",
+      "path": "posts/2025-10-25-the-linux-boot-process-from-power-button-to-kernel.html",
+      "date_iso": "2025-10-25T23:04:23+00:00",
+      "source": "https://www.0xkato.xyz/linux-boot/",
+      "summary": "Article URL: https://www.0xkato.xyz/linux-boot/ Comments URL: https://news.ycombinator.com/item?id=45707658 Points: 179 # Comments: 44"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45707539",
+      "title": "D2: Diagram Scripting Language",
+      "slug": "2025-10-25-d2-diagram-scripting-language.html",
+      "path": "posts/2025-10-25-d2-diagram-scripting-language.html",
+      "date_iso": "2025-10-25T22:40:00+00:00",
+      "source": "https://d2lang.com/tour/intro/",
+      "summary": "Article URL: https://d2lang.com/tour/intro/ Comments URL: https://news.ycombinator.com/item?id=45707539 Points: 95 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45706938",
+      "title": "How programs get run: ELF binaries (2015)",
+      "slug": "2025-10-25-how-programs-get-run-elf-binaries-2015.html",
+      "path": "posts/2025-10-25-how-programs-get-run-elf-binaries-2015.html",
+      "date_iso": "2025-10-25T21:03:39+00:00",
+      "source": "https://lwn.net/Articles/631631/",
+      "summary": "Article URL: https://lwn.net/Articles/631631/ Comments URL: https://news.ycombinator.com/item?id=45706938 Points: 87 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45706924",
+      "title": "An Efficient Implementation of SELF (1989) [pdf]",
+      "slug": "2025-10-25-an-efficient-implementation-of-self-1989-pdf.html",
+      "path": "posts/2025-10-25-an-efficient-implementation-of-self-1989-pdf.html",
+      "date_iso": "2025-10-25T21:01:02+00:00",
+      "source": "https://courses.cs.washington.edu/courses/cse501/15sp/papers/chambers.pdf",
+      "summary": "Article URL: https://courses.cs.washington.edu/courses/cse501/15sp/papers/chambers.pdf Comments URL: https://news.ycombinator.com/item?id=45706924 Points: 43 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45706866",
+      "title": "An Update on TinyKVM",
+      "slug": "2025-10-25-an-update-on-tinykvm.html",
+      "path": "posts/2025-10-25-an-update-on-tinykvm.html",
+      "date_iso": "2025-10-25T20:51:16+00:00",
+      "source": "https://fwsgonzo.medium.com/an-update-on-tinykvm-7a38518e57e9",
+      "summary": "Article URL: https://fwsgonzo.medium.com/an-update-on-tinykvm-7a38518e57e9 Comments URL: https://news.ycombinator.com/item?id=45706866 Points: 100 # Comments: 24"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45706815",
+      "title": "ARM Memory Tagging: how it improves C/C++ memory safety (2018) [pdf]",
+      "slug": "2025-10-25-arm-memory-tagging-how-it-improves-c-c-memory-safety-2018-pdf.html",
+      "path": "posts/2025-10-25-arm-memory-tagging-how-it-improves-c-c-memory-safety-2018-pdf.html",
+      "date_iso": "2025-10-25T20:42:02+00:00",
+      "source": "https://llvm.org/devmtg/2018-10/slides/Serebryany-Stepanov-Tsyrklevich-Memory-Tagging-Slides-LLVM-2018.pdf",
+      "summary": "Article URL: https://llvm.org/devmtg/2018-10/slides/Serebryany-Stepanov-Tsyrklevich-Memory-Tagging-Slides-LLVM-2018.pdf Comments URL: https://news.ycombinator.com/item?id=45706815 Points: 60 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45706792",
+      "title": "Show HN: Diagram as code tool with draggable customizations",
+      "slug": "2025-10-25-show-hn-diagram-as-code-tool-with-draggable-customizations.html",
+      "path": "posts/2025-10-25-show-hn-diagram-as-code-tool-with-draggable-customizations.html",
+      "date_iso": "2025-10-25T20:38:58+00:00",
+      "source": "https://github.com/RohanAdwankar/oxdraw",
+      "summary": "In the past I've used declarative diagram generation tools like Mermaid.js a lot for quickly drawing up things but for presentations or deliverables I find that I have to then move the generated diagrams over to a tool like Lucidchart which allows full control of the organizatio…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45706765",
+      "title": "Project Amplify: Powered footwear for running and walking",
+      "slug": "2025-10-25-project-amplify-powered-footwear-for-running-and-walking.html",
+      "path": "posts/2025-10-25-project-amplify-powered-footwear-for-running-and-walking.html",
+      "date_iso": "2025-10-25T20:35:48+00:00",
+      "source": "https://about.nike.com/en/newsroom/releases/nike-project-amplify-official-images",
+      "summary": "Article URL: https://about.nike.com/en/newsroom/releases/nike-project-amplify-official-images Comments URL: https://news.ycombinator.com/item?id=45706765 Points: 66 # Comments: 59"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45706729",
+      "title": "Agent Lightning: Train agents with RL (no code changes needed)",
+      "slug": "2025-10-25-agent-lightning-train-agents-with-rl-no-code-changes-needed.html",
+      "path": "posts/2025-10-25-agent-lightning-train-agents-with-rl-no-code-changes-needed.html",
+      "date_iso": "2025-10-25T20:30:25+00:00",
+      "source": "https://github.com/microsoft/agent-lightning",
+      "summary": "https://microsoft.github.io/agent-lightning/stable/ Comments URL: https://news.ycombinator.com/item?id=45706729 Points: 68 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45706705",
+      "title": "Testing out BLE beacons with BeaconDB",
+      "slug": "2025-10-25-testing-out-ble-beacons-with-beacondb.html",
+      "path": "posts/2025-10-25-testing-out-ble-beacons-with-beacondb.html",
+      "date_iso": "2025-10-25T20:26:59+00:00",
+      "source": "https://blog.matthewbrunelle.com/testing-out-ble-beacons-with-beacondb/",
+      "summary": "Article URL: https://blog.matthewbrunelle.com/testing-out-ble-beacons-with-beacondb/ Comments URL: https://news.ycombinator.com/item?id=45706705 Points: 53 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45706527",
+      "title": "California invests in battery energy storage, leaving rolling blackouts behind",
+      "slug": "2025-10-25-california-invests-in-battery-energy-storage-leaving-rolling-blackouts-behind.html",
+      "path": "posts/2025-10-25-california-invests-in-battery-energy-storage-leaving-rolling-blackouts-behind.html",
+      "date_iso": "2025-10-25T19:58:55+00:00",
+      "source": "https://www.latimes.com/environment/story/2025-10-17/california-made-it-through-another-summer-without-a-flex-alert",
+      "summary": "https://web.archive.org/web/20251025210426/https://www.latim... Comments URL: https://news.ycombinator.com/item?id=45706527 Points: 242 # Comments: 181"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45706518",
+      "title": "AI, Wikipedia, and uncorrected machine translations of vulnerable languages",
+      "slug": "2025-10-25-ai-wikipedia-and-uncorrected-machine-translations-of-vulnerable-languages.html",
+      "path": "posts/2025-10-25-ai-wikipedia-and-uncorrected-machine-translations-of-vulnerable-languages.html",
+      "date_iso": "2025-10-25T19:57:48+00:00",
+      "source": "https://www.technologyreview.com/2025/09/25/1124005/ai-wikipedia-vulnerable-languages-doom-spiral/",
+      "summary": "Article URL: https://www.technologyreview.com/2025/09/25/1124005/ai-wikipedia-vulnerable-languages-doom-spiral/ Comments URL: https://news.ycombinator.com/item?id=45706518 Points: 80 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45706487",
+      "title": "Show HN: Shadcn/UI theme editor – Design and share Shadcn themes",
+      "slug": "2025-10-25-show-hn-shadcn-ui-theme-editor-design-and-share-shadcn-themes.html",
+      "path": "posts/2025-10-25-show-hn-shadcn-ui-theme-editor-design-and-share-shadcn-themes.html",
+      "date_iso": "2025-10-25T19:51:24+00:00",
+      "source": "https://shadcnthemer.com",
+      "summary": "Hey, I built https://ShadcnThemer.com - a web app for creating and sharing themes for shadcn/ui, made with my some of my favorites, Next.js 15, Tailwind CSS 4, Drizzle ORM, and Supabase. The goal was to make it easy to visually design shadcn color themes, preview them live acros…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45706380",
+      "title": "The Journey Before main()",
+      "slug": "2025-10-25-the-journey-before-main.html",
+      "path": "posts/2025-10-25-the-journey-before-main.html",
+      "date_iso": "2025-10-25T19:33:22+00:00",
+      "source": "https://amit.prasad.me/blog/before-main",
+      "summary": "Article URL: https://amit.prasad.me/blog/before-main Comments URL: https://news.ycombinator.com/item?id=45706380 Points: 200 # Comments: 70"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/25/arts/music/korn-nu-metal-rock-y2k.html",
+      "title": "Y2K Kids Were the Last to Really Rage With No One Watching",
+      "slug": "2025-10-25-y2k-kids-were-the-last-to-really-rage-with-no-one-watching.html",
+      "path": "posts/2025-10-25-y2k-kids-were-the-last-to-really-rage-with-no-one-watching.html",
+      "date_iso": "2025-10-25T09:00:24+00:00",
+      "source": "https://www.nytimes.com/2025/10/25/arts/music/korn-nu-metal-rock-y2k.html",
+      "summary": "The angst of nu metal is being discovered by Gen Z, but with digital eyes always looming, the ephemeral catharsis of collectively going mad is a thing of the past."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45701825",
       "title": "Euro cops take down cybercrime network with 49M fake accounts",
       "slug": "2025-10-25-euro-cops-take-down-cybercrime-network-with-49m-fake-accounts.html",
