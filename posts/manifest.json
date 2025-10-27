@@ -1,6 +1,159 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45717564",
+      "title": "Diphtheria, a once vanquished killer of children, is resurgent",
+      "slug": "2025-10-27-diphtheria-a-once-vanquished-killer-of-children-is-resurgent.html",
+      "path": "posts/2025-10-27-diphtheria-a-once-vanquished-killer-of-children-is-resurgent.html",
+      "date_iso": "2025-10-27T05:01:37+00:00",
+      "source": "https://www.nytimes.com/2025/10/27/health/diptheria-somalia-vaccines.html",
+      "summary": "Article URL: https://www.nytimes.com/2025/10/27/health/diptheria-somalia-vaccines.html Comments URL: https://news.ycombinator.com/item?id=45717564 Points: 30 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45716109",
+      "title": "How I turned Zig into my favorite language to write network programs in",
+      "slug": "2025-10-27-how-i-turned-zig-into-my-favorite-language-to-write-network-programs-in.html",
+      "path": "posts/2025-10-27-how-i-turned-zig-into-my-favorite-language-to-write-network-programs-in.html",
+      "date_iso": "2025-10-27T00:01:17+00:00",
+      "source": "https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html",
+      "summary": "Article URL: https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html Comments URL: https://news.ycombinator.com/item?id=45716109 Points: 151 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45715873",
+      "title": "Are-we-fast-yet implementations in Oberon, C++, C, Pascal, Micron and Luon",
+      "slug": "2025-10-26-are-we-fast-yet-implementations-in-oberon-c-c-pascal-micron-and-luon.html",
+      "path": "posts/2025-10-26-are-we-fast-yet-implementations-in-oberon-c-c-pascal-micron-and-luon.html",
+      "date_iso": "2025-10-26T23:08:09+00:00",
+      "source": "https://github.com/rochus-keller/Are-we-fast-yet",
+      "summary": "Article URL: https://github.com/rochus-keller/Are-we-fast-yet Comments URL: https://news.ycombinator.com/item?id=45715873 Points: 55 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45715837",
+      "title": "Microsoft 365 Copilot – Arbitrary Data Exfiltration via Mermaid Diagrams",
+      "slug": "2025-10-26-microsoft-365-copilot-arbitrary-data-exfiltration-via-mermaid-diagrams.html",
+      "path": "posts/2025-10-26-microsoft-365-copilot-arbitrary-data-exfiltration-via-mermaid-diagrams.html",
+      "date_iso": "2025-10-26T22:58:31+00:00",
+      "source": "https://www.adamlogue.com/microsoft-365-copilot-arbitrary-data-exfiltration-via-mermaid-diagrams-fixed/",
+      "summary": "https://web.archive.org/web/20251023095538/https://www.adaml... Comments URL: https://news.ycombinator.com/item?id=45715837 Points: 172 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45715752",
+      "title": "Show HN: Helium Browser for Android with extensions support, based on Vanadium",
+      "slug": "2025-10-26-show-hn-helium-browser-for-android-with-extensions-support-based-on-vanadium.html",
+      "path": "posts/2025-10-26-show-hn-helium-browser-for-android-with-extensions-support-based-on-vanadium.html",
+      "date_iso": "2025-10-26T22:41:02+00:00",
+      "source": "https://github.com/jqssun/android-helium-browser",
+      "summary": "Been working on an experimental Chromium-based browser that brings 2 major features to your phone/tablet: 1. desktop-style extensions: natively install any extensions (like uBO) from the chrome web store, just toggle \"desktop site\" in the menu first. 2. privacy/security hardenin…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45715726",
+      "title": "Poison, Poison Everywhere",
+      "slug": "2025-10-26-poison-poison-everywhere.html",
+      "path": "posts/2025-10-26-poison-poison-everywhere.html",
+      "date_iso": "2025-10-26T22:36:34+00:00",
+      "source": "https://loeber.substack.com/p/29-poison-poison-everywhere",
+      "summary": "Article URL: https://loeber.substack.com/p/29-poison-poison-everywhere Comments URL: https://news.ycombinator.com/item?id=45715726 Points: 178 # Comments: 81"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/26/technology/cal-state-ai-amazon-openai.html",
+      "title": "Cal State Invited Tech Companies to Remake Learning With A.I.",
+      "slug": "2025-10-26-cal-state-invited-tech-companies-to-remake-learning-with-a-i.html",
+      "path": "posts/2025-10-26-cal-state-invited-tech-companies-to-remake-learning-with-a-i.html",
+      "date_iso": "2025-10-26T21:32:04+00:00",
+      "source": "https://www.nytimes.com/2025/10/26/technology/cal-state-ai-amazon-openai.html",
+      "summary": "Participants of the California State University AI Camp 2025 at California Polytechnic State University campus."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45715204",
+      "title": "We Saved $500k per Year by Rolling Our Own \"S3\"",
+      "slug": "2025-10-26-we-saved-500k-per-year-by-rolling-our-own-s3.html",
+      "path": "posts/2025-10-26-we-saved-500k-per-year-by-rolling-our-own-s3.html",
+      "date_iso": "2025-10-26T21:05:09+00:00",
+      "source": "https://engineering.nanit.com/how-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143",
+      "summary": "Article URL: https://engineering.nanit.com/how-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143 Comments URL: https://news.ycombinator.com/item?id=45715204 Points: 155 # Comments: 123"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45715055",
+      "title": "Show HN: MyraOS – My 32-bit operating system in C and ASM (Hack Club project)",
+      "slug": "2025-10-26-show-hn-myraos-my-32-bit-operating-system-in-c-and-asm-hack-club-project.html",
+      "path": "posts/2025-10-26-show-hn-myraos-my-32-bit-operating-system-in-c-and-asm-hack-club-project.html",
+      "date_iso": "2025-10-26T20:43:40+00:00",
+      "source": "https://github.com/dvir-biton/MyraOS",
+      "summary": "Hi HN, I’m Dvir, a young developer. Last year, I got rejected after a job interview because I lacked some CPU knowledge. After that, I decided to deepen my understanding in the low level world and learn how things work under the hood. I decided to try and create an OS in C and A…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45713959",
+      "title": "A definition of AGI",
+      "slug": "2025-10-26-a-definition-of-agi.html",
+      "path": "posts/2025-10-26-a-definition-of-agi.html",
+      "date_iso": "2025-10-26T18:09:37+00:00",
+      "source": "https://arxiv.org/abs/2510.18212",
+      "summary": "Article URL: https://arxiv.org/abs/2510.18212 Comments URL: https://news.ycombinator.com/item?id=45713959 Points: 199 # Comments: 318"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45713738",
+      "title": "Alzheimer's disrupts circadian rhythms of plaque-clearing brain cells",
+      "slug": "2025-10-26-alzheimer-s-disrupts-circadian-rhythms-of-plaque-clearing-brain-cells.html",
+      "path": "posts/2025-10-26-alzheimer-s-disrupts-circadian-rhythms-of-plaque-clearing-brain-cells.html",
+      "date_iso": "2025-10-26T17:40:06+00:00",
+      "source": "https://medicine.washu.edu/news/alzheimers-disrupts-circadian-rhythms-of-plaque-clearing-brain-cells/",
+      "summary": "Article URL: https://medicine.washu.edu/news/alzheimers-disrupts-circadian-rhythms-of-plaque-clearing-brain-cells/ Comments URL: https://news.ycombinator.com/item?id=45713738 Points: 181 # Comments: 30"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45713367",
+      "title": "Books by People – Defending Organic Literature in an AI World",
+      "slug": "2025-10-26-books-by-people-defending-organic-literature-in-an-ai-world.html",
+      "path": "posts/2025-10-26-books-by-people-defending-organic-literature-in-an-ai-world.html",
+      "date_iso": "2025-10-26T16:57:44+00:00",
+      "source": "https://booksbypeople.org/",
+      "summary": "Article URL: https://booksbypeople.org/ Comments URL: https://news.ycombinator.com/item?id=45713367 Points: 73 # Comments: 70"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45713359",
+      "title": "Ken Thompson recalls Unix's rowdy, lock-picking origins",
+      "slug": "2025-10-26-ken-thompson-recalls-unix-s-rowdy-lock-picking-origins.html",
+      "path": "posts/2025-10-26-ken-thompson-recalls-unix-s-rowdy-lock-picking-origins.html",
+      "date_iso": "2025-10-26T16:57:12+00:00",
+      "source": "https://thenewstack.io/ken-thompson-recalls-unixs-rowdy-lock-picking-origins/",
+      "summary": "https://computerhistory.org/blog/a-computing-legend-speaks/ The full 4-1/2 hours: https://www.youtube.com/watch?v=OmVHkL0IWk4 Comments URL: https://news.ycombinator.com/item?id=45713359 Points: 138 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45713253",
+      "title": "Making the Electron Microscope",
+      "slug": "2025-10-26-making-the-electron-microscope.html",
+      "path": "posts/2025-10-26-making-the-electron-microscope.html",
+      "date_iso": "2025-10-26T16:46:22+00:00",
+      "source": "https://www.asimov.press/p/electron-microscope",
+      "summary": "Article URL: https://www.asimov.press/p/electron-microscope Comments URL: https://news.ycombinator.com/item?id=45713253 Points: 71 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45711094",
+      "title": "Feed the bots",
+      "slug": "2025-10-26-feed-the-bots.html",
+      "path": "posts/2025-10-26-feed-the-bots.html",
+      "date_iso": "2025-10-26T12:09:02+00:00",
+      "source": "https://maurycyz.com/misc/the_cost_of_trash/",
+      "summary": "https://maurycyz.com/projects/trap_bots/ Comments URL: https://news.ycombinator.com/item?id=45711094 Points: 185 # Comments: 141"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45710721",
+      "title": "You already have a Git server",
+      "slug": "2025-10-26-you-already-have-a-git-server.html",
+      "path": "posts/2025-10-26-you-already-have-a-git-server.html",
+      "date_iso": "2025-10-26T10:53:37+00:00",
+      "source": "https://maurycyz.com/misc/easy_git/",
+      "summary": "Article URL: https://maurycyz.com/misc/easy_git/ Comments URL: https://news.ycombinator.com/item?id=45710721 Points: 475 # Comments: 345"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45710065",
+      "title": "Asbestosis",
+      "slug": "2025-10-26-asbestosis.html",
+      "path": "posts/2025-10-26-asbestosis.html",
+      "date_iso": "2025-10-26T08:34:38+00:00",
+      "source": "https://diamondgeezer.blogspot.com/2025/10/asbestosis.html",
+      "summary": "Article URL: https://diamondgeezer.blogspot.com/2025/10/asbestosis.html Comments URL: https://news.ycombinator.com/item?id=45710065 Points: 243 # Comments: 183"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45709698",
       "title": "Bitmovin (YC S15) Is Hiring Engineering ICs and Managers in Europe",
       "slug": "2025-10-26-bitmovin-yc-s15-is-hiring-engineering-ics-and-managers-in-europe.html",
@@ -568,6 +721,24 @@
       "summary": "Changpeng Zhao, the co-founder and former chief executive of Binance at the Token 2049 event in Dubai in April."
     },
     {
+      "id": "https://news.ycombinator.com/item?id=45684414",
+      "title": "Tamper-Sensing Meshes Using Low-Cost, Embedded Time-Domain Reflectometry",
+      "slug": "2025-10-23-tamper-sensing-meshes-using-low-cost-embedded-time-domain-reflectometry.html",
+      "path": "posts/2025-10-23-tamper-sensing-meshes-using-low-cost-embedded-time-domain-reflectometry.html",
+      "date_iso": "2025-10-23T17:21:41+00:00",
+      "source": "https://jaseg.de/blog/paper-sampling-mesh-monitor/",
+      "summary": "Article URL: https://jaseg.de/blog/paper-sampling-mesh-monitor/ Comments URL: https://news.ycombinator.com/item?id=45684414 Points: 7 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45684253",
+      "title": "A bug that taught me more about PyTorch than years of using it",
+      "slug": "2025-10-23-a-bug-that-taught-me-more-about-pytorch-than-years-of-using-it.html",
+      "path": "posts/2025-10-23-a-bug-that-taught-me-more-about-pytorch-than-years-of-using-it.html",
+      "date_iso": "2025-10-23T17:06:35+00:00",
+      "source": "https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/",
+      "summary": "Article URL: https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/ Comments URL: https://news.ycombinator.com/item?id=45684253 Points: 373 # Comments: 72"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45684236",
       "title": "OpenAI acquires Sky.app",
       "slug": "2025-10-23-openai-acquires-sky-app.html",
@@ -593,6 +764,15 @@
       "date_iso": "2025-10-23T16:36:05+00:00",
       "source": "https://arxiv.org/abs/2510.15061",
       "summary": "Article URL: https://arxiv.org/abs/2510.15061 Comments URL: https://news.ycombinator.com/item?id=45683897 Points: 99 # Comments: 97"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45683536",
+      "title": "Sphere Computer – The Innovative 1970s Computer Company Everyone Forgot",
+      "slug": "2025-10-23-sphere-computer-the-innovative-1970s-computer-company-everyone-forgot.html",
+      "path": "posts/2025-10-23-sphere-computer-the-innovative-1970s-computer-company-everyone-forgot.html",
+      "date_iso": "2025-10-23T16:09:27+00:00",
+      "source": "https://sphere.computer/",
+      "summary": "Article URL: https://sphere.computer/ Comments URL: https://news.ycombinator.com/item?id=45683536 Points: 48 # Comments: 3"
     },
     {
       "id": "https://news.ycombinator.com/item?id=45682164",
