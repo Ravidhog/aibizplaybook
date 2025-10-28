@@ -1,6 +1,222 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45729467",
+      "title": "Picture gallery: Amiga prototype \"Lorraine\" at the Amiga 40 event",
+      "slug": "2025-10-28-picture-gallery-amiga-prototype-lorraine-at-the-amiga-40-event.html",
+      "path": "posts/2025-10-28-picture-gallery-amiga-prototype-lorraine-at-the-amiga-40-event.html",
+      "date_iso": "2025-10-28T05:28:55+00:00",
+      "source": "https://www.amiga-news.de/en/news/AN-2025-10-00110-EN.html",
+      "summary": "Article URL: https://www.amiga-news.de/en/news/AN-2025-10-00110-EN.html Comments URL: https://news.ycombinator.com/item?id=45729467 Points: 13 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45729457",
+      "title": "Show HN: Ordered – A sorted collection library for Zig",
+      "slug": "2025-10-28-show-hn-ordered-a-sorted-collection-library-for-zig.html",
+      "path": "posts/2025-10-28-show-hn-ordered-a-sorted-collection-library-for-zig.html",
+      "date_iso": "2025-10-28T05:26:38+00:00",
+      "source": "https://news.ycombinator.com/item?id=45729457",
+      "summary": "I made an early version of a sorted collection library for Zig. Sorted collections are data structures that maintain the data in sorted order. Examples of these data structures are `java.util.TreeMap` in Java and `std::map` in C++. These data structures are mainly used for fast…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45729437",
+      "title": "I built the same app 10 times: Evaluating frameworks for mobile performance",
+      "slug": "2025-10-28-i-built-the-same-app-10-times-evaluating-frameworks-for-mobile-performance.html",
+      "path": "posts/2025-10-28-i-built-the-same-app-10-times-evaluating-frameworks-for-mobile-performance.html",
+      "date_iso": "2025-10-28T05:22:57+00:00",
+      "source": "https://www.lorenstew.art/blog/10-kanban-boards/",
+      "summary": "Article URL: https://www.lorenstew.art/blog/10-kanban-boards/ Comments URL: https://news.ycombinator.com/item?id=45729437 Points: 47 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45728975",
+      "title": "Complete Digitization of Leonardo da Vinci's Codex Atlanticus",
+      "slug": "2025-10-28-complete-digitization-of-leonardo-da-vinci-s-codex-atlanticus.html",
+      "path": "posts/2025-10-28-complete-digitization-of-leonardo-da-vinci-s-codex-atlanticus.html",
+      "date_iso": "2025-10-28T03:32:09+00:00",
+      "source": "https://www.openculture.com/2025/10/digitization-of-leonardo-da-vincis-codex-atlanticus.html",
+      "summary": "Article URL: https://www.openculture.com/2025/10/digitization-of-leonardo-da-vincis-codex-atlanticus.html Comments URL: https://news.ycombinator.com/item?id=45728975 Points: 32 # Comments: 3"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/27/technology/grokipedia-launch-elon-musk.html",
+      "title": "Elon Musk Challenges Wikipedia With His Own A.I. Encyclopedia",
+      "slug": "2025-10-28-elon-musk-challenges-wikipedia-with-his-own-a-i-encyclopedia.html",
+      "path": "posts/2025-10-28-elon-musk-challenges-wikipedia-with-his-own-a-i-encyclopedia.html",
+      "date_iso": "2025-10-28T01:12:21+00:00",
+      "source": "https://www.nytimes.com/2025/10/27/technology/grokipedia-launch-elon-musk.html",
+      "summary": "Elon Musk wrote that his new site, Grokipedia, would “purge out the propaganda” of Wikipedia."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45727664",
+      "title": "AI can code, but it can't build software",
+      "slug": "2025-10-27-ai-can-code-but-it-can-t-build-software.html",
+      "path": "posts/2025-10-27-ai-can-code-but-it-can-t-build-software.html",
+      "date_iso": "2025-10-27T23:41:32+00:00",
+      "source": "https://bytesauna.com/post/coding-vs-software-engineering",
+      "summary": "Article URL: https://bytesauna.com/post/coding-vs-software-engineering Comments URL: https://news.ycombinator.com/item?id=45727664 Points: 206 # Comments: 115"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45727557",
+      "title": "Iroh-blobs",
+      "slug": "2025-10-27-iroh-blobs.html",
+      "path": "posts/2025-10-27-iroh-blobs.html",
+      "date_iso": "2025-10-27T23:28:13+00:00",
+      "source": "https://www.iroh.computer/blog/iroh-blobs-0-95-new-features",
+      "summary": "Article URL: https://www.iroh.computer/blog/iroh-blobs-0-95-new-features Comments URL: https://news.ycombinator.com/item?id=45727557 Points: 78 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45727137",
+      "title": "Are these real CVEs? VulDB entries for dnsmasq rely on replacing config files",
+      "slug": "2025-10-27-are-these-real-cves-vuldb-entries-for-dnsmasq-rely-on-replacing-config-files.html",
+      "path": "posts/2025-10-27-are-these-real-cves-vuldb-entries-for-dnsmasq-rely-on-replacing-config-files.html",
+      "date_iso": "2025-10-27T22:35:00+00:00",
+      "source": "https://seclists.org/oss-sec/2025/q4/79",
+      "summary": "Article URL: https://seclists.org/oss-sec/2025/q4/79 Comments URL: https://news.ycombinator.com/item?id=45727137 Points: 48 # Comments: 38"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45727060",
+      "title": "OpenAI says over a million people talk to ChatGPT about suicide weekly",
+      "slug": "2025-10-27-openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly.html",
+      "path": "posts/2025-10-27-openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly.html",
+      "date_iso": "2025-10-27T22:26:30+00:00",
+      "source": "https://techcrunch.com/2025/10/27/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly/",
+      "summary": "Article URL: https://techcrunch.com/2025/10/27/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly/ Comments URL: https://news.ycombinator.com/item?id=45727060 Points: 172 # Comments: 188"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/27/technology/amazon-layoffs.html",
+      "title": "Amazon Braces for Major Cuts to Its White-Collar Work Force",
+      "slug": "2025-10-27-amazon-braces-for-major-cuts-to-its-white-collar-work-force.html",
+      "path": "posts/2025-10-27-amazon-braces-for-major-cuts-to-its-white-collar-work-force.html",
+      "date_iso": "2025-10-27T22:04:19+00:00",
+      "source": "https://www.nytimes.com/2025/10/27/technology/amazon-layoffs.html",
+      "summary": "Amazon is looking to cut billions of dollars in its operating expenses"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45726192",
+      "title": "Easy RISC-V",
+      "slug": "2025-10-27-easy-risc-v.html",
+      "path": "posts/2025-10-27-easy-risc-v.html",
+      "date_iso": "2025-10-27T20:57:12+00:00",
+      "source": "https://dramforever.github.io/easyriscv/",
+      "summary": "Article URL: https://dramforever.github.io/easyriscv/ Comments URL: https://news.ycombinator.com/item?id=45726192 Points: 251 # Comments: 43"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/27/technology/qualcomm-ai-chips.html",
+      "title": "Qualcomm Unveils New Line of Chips to Join the A.I. Boom",
+      "slug": "2025-10-27-qualcomm-unveils-new-line-of-chips-to-join-the-a-i-boom.html",
+      "path": "posts/2025-10-27-qualcomm-unveils-new-line-of-chips-to-join-the-a-i-boom.html",
+      "date_iso": "2025-10-27T20:26:31+00:00",
+      "source": "https://www.nytimes.com/2025/10/27/technology/qualcomm-ai-chips.html",
+      "summary": "Qualcomm’s chief executive, Cristiano Amon, has laid out several efforts to diversity the company’s business beyond smartphone chips."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45725009",
+      "title": "Study finds growing social circles may fuel polarization",
+      "slug": "2025-10-27-study-finds-growing-social-circles-may-fuel-polarization.html",
+      "path": "posts/2025-10-27-study-finds-growing-social-circles-may-fuel-polarization.html",
+      "date_iso": "2025-10-27T19:06:34+00:00",
+      "source": "https://phys.org/news/2025-10-friends-division-social-circles-fuel.html",
+      "summary": "Article URL: https://phys.org/news/2025-10-friends-division-social-circles-fuel.html Comments URL: https://news.ycombinator.com/item?id=45725009 Points: 140 # Comments: 140"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45724913",
+      "title": "Creating an all-weather driver",
+      "slug": "2025-10-27-creating-an-all-weather-driver.html",
+      "path": "posts/2025-10-27-creating-an-all-weather-driver.html",
+      "date_iso": "2025-10-27T18:57:57+00:00",
+      "source": "https://waymo.com/blog/2025/10/creating-an-all-weather-driver",
+      "summary": "Article URL: https://waymo.com/blog/2025/10/creating-an-all-weather-driver Comments URL: https://news.ycombinator.com/item?id=45724913 Points: 85 # Comments: 68"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45723699",
+      "title": "MCP-Scanner – Scan MCP Servers for vulnerabilities",
+      "slug": "2025-10-27-mcp-scanner-scan-mcp-servers-for-vulnerabilities.html",
+      "path": "posts/2025-10-27-mcp-scanner-scan-mcp-servers-for-vulnerabilities.html",
+      "date_iso": "2025-10-27T17:18:39+00:00",
+      "source": "https://github.com/cisco-ai-defense/mcp-scanner",
+      "summary": "Article URL: https://github.com/cisco-ai-defense/mcp-scanner Comments URL: https://news.ycombinator.com/item?id=45723699 Points: 131 # Comments: 36"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45723686",
+      "title": "The new calculus of AI-based coding",
+      "slug": "2025-10-27-the-new-calculus-of-ai-based-coding.html",
+      "path": "posts/2025-10-27-the-new-calculus-of-ai-based-coding.html",
+      "date_iso": "2025-10-27T17:17:38+00:00",
+      "source": "https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html",
+      "summary": "Article URL: https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html Comments URL: https://news.ycombinator.com/item?id=45723686 Points: 106 # Comments: 101"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45723646",
+      "title": "Show HN: Dlog – Journaling and AI coach that learns what drives wellbeing (Mac)",
+      "slug": "2025-10-27-show-hn-dlog-journaling-and-ai-coach-that-learns-what-drives-wellbeing-mac.html",
+      "path": "posts/2025-10-27-show-hn-dlog-journaling-and-ai-coach-that-learns-what-drives-wellbeing-mac.html",
+      "date_iso": "2025-10-27T17:14:34+00:00",
+      "source": "https://dlog.pro/",
+      "summary": "Hi HN! I’m Johan. I built Dlog, a journaling app with an AI coach that tracks how your personality, daily experiences, and well-being connect over time. It’s based on my PhD research in entrepreneurial well-being. Edit: here's a video demo so you can see it before downloading: h…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45723554",
+      "title": "Avoid 2:00 and 3:00 am cron jobs (2013)",
+      "slug": "2025-10-27-avoid-2-00-and-3-00-am-cron-jobs-2013.html",
+      "path": "posts/2025-10-27-avoid-2-00-and-3-00-am-cron-jobs-2013.html",
+      "date_iso": "2025-10-27T17:08:33+00:00",
+      "source": "https://www.endpointdev.com/blog/2013/04/avoid-200-and-300-am-cron-jobs/",
+      "summary": "Article URL: https://www.endpointdev.com/blog/2013/04/avoid-200-and-300-am-cron-jobs/ Comments URL: https://news.ycombinator.com/item?id=45723554 Points: 285 # Comments: 298"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45723359",
+      "title": "Why Busy Beaver hunters fear the Antihydra",
+      "slug": "2025-10-27-why-busy-beaver-hunters-fear-the-antihydra.html",
+      "path": "posts/2025-10-27-why-busy-beaver-hunters-fear-the-antihydra.html",
+      "date_iso": "2025-10-27T16:56:04+00:00",
+      "source": "https://benbrubaker.com/why-busy-beaver-hunters-fear-the-antihydra/",
+      "summary": "Article URL: https://benbrubaker.com/why-busy-beaver-hunters-fear-the-antihydra/ Comments URL: https://news.ycombinator.com/item?id=45723359 Points: 190 # Comments: 46"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45723159",
+      "title": "JetKVM – Control any computer remotely",
+      "slug": "2025-10-27-jetkvm-control-any-computer-remotely.html",
+      "path": "posts/2025-10-27-jetkvm-control-any-computer-remotely.html",
+      "date_iso": "2025-10-27T16:44:17+00:00",
+      "source": "https://jetkvm.com/",
+      "summary": "Available for retail purchase: https://jetkvm.com/products Comments URL: https://news.ycombinator.com/item?id=45723159 Points: 319 # Comments: 158"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45722931",
+      "title": "Fnox, a secret manager that pairs well with mise",
+      "slug": "2025-10-27-fnox-a-secret-manager-that-pairs-well-with-mise.html",
+      "path": "posts/2025-10-27-fnox-a-secret-manager-that-pairs-well-with-mise.html",
+      "date_iso": "2025-10-27T16:29:38+00:00",
+      "source": "https://github.com/jdx/mise/discussions/6779",
+      "summary": "Article URL: https://github.com/jdx/mise/discussions/6779 Comments URL: https://news.ycombinator.com/item?id=45722931 Points: 141 # Comments: 24"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45722826",
+      "title": "Show HN: JSON Query",
+      "slug": "2025-10-27-show-hn-json-query.html",
+      "path": "posts/2025-10-27-show-hn-json-query.html",
+      "date_iso": "2025-10-27T16:22:52+00:00",
+      "source": "https://jsonquerylang.org/",
+      "summary": "I'm working on a tool that will probably involve querying JSON documents and I'm asking myself how to expose that functionality to my users. I like the power of `jq` and the fact that LLMs are proficient at it, but I find it right out impossible to come up with the right `jq` in…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45722639",
+      "title": "Claude for Excel",
+      "slug": "2025-10-27-claude-for-excel.html",
+      "path": "posts/2025-10-27-claude-for-excel.html",
+      "date_iso": "2025-10-27T16:09:22+00:00",
+      "source": "https://www.claude.com/claude-for-excel",
+      "summary": "Article URL: https://www.claude.com/claude-for-excel Comments URL: https://news.ycombinator.com/item?id=45722639 Points: 527 # Comments: 366"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/27/technology/saudi-arabia-ai-exporter.html",
+      "title": "Saudi Arabia, Rich With Oil, Wants to Be Known as the A.I. Exporter",
+      "slug": "2025-10-27-saudi-arabia-rich-with-oil-wants-to-be-known-as-the-a-i-exporter.html",
+      "path": "posts/2025-10-27-saudi-arabia-rich-with-oil-wants-to-be-known-as-the-a-i-exporter.html",
+      "date_iso": "2025-10-27T10:23:35+00:00",
+      "source": "https://www.nytimes.com/2025/10/27/technology/saudi-arabia-ai-exporter.html",
+      "summary": "The kingdom is pouring money into data centers and working with U.S. and Chinese tech giants, landing its A.I. ambitions in the middle of a geopolitical tussle for tech power."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45717564",
       "title": "Diphtheria, a once vanquished killer of children, is resurgent",
       "slug": "2025-10-27-diphtheria-a-once-vanquished-killer-of-children-is-resurgent.html",
