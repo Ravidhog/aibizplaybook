@@ -1,6 +1,213 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45742907",
+      "title": "Who needs Graphviz when you can build it yourself?",
+      "slug": "2025-10-29-who-needs-graphviz-when-you-can-build-it-yourself.html",
+      "path": "posts/2025-10-29-who-needs-graphviz-when-you-can-build-it-yourself.html",
+      "date_iso": "2025-10-29T05:17:49+00:00",
+      "source": "https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html",
+      "summary": "Article URL: https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html Comments URL: https://news.ycombinator.com/item?id=45742907 Points: 17 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45742616",
+      "title": "Wacl – A Tcl Distribution for WebAssembly",
+      "slug": "2025-10-29-wacl-a-tcl-distribution-for-webassembly.html",
+      "path": "posts/2025-10-29-wacl-a-tcl-distribution-for-webassembly.html",
+      "date_iso": "2025-10-29T04:25:24+00:00",
+      "source": "https://github.com/ecky-l/wacl",
+      "summary": "Article URL: https://github.com/ecky-l/wacl Comments URL: https://news.ycombinator.com/item?id=45742616 Points: 19 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45742488",
+      "title": "Keep Android Open",
+      "slug": "2025-10-29-keep-android-open.html",
+      "path": "posts/2025-10-29-keep-android-open.html",
+      "date_iso": "2025-10-29T04:03:41+00:00",
+      "source": "http://keepandroidopen.org/",
+      "summary": "Article URL: http://keepandroidopen.org/ Comments URL: https://news.ycombinator.com/item?id=45742488 Points: 371 # Comments: 61"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45742446",
+      "title": "uBlock Origin Lite Apple App Store",
+      "slug": "2025-10-29-ublock-origin-lite-apple-app-store.html",
+      "path": "posts/2025-10-29-ublock-origin-lite-apple-app-store.html",
+      "date_iso": "2025-10-29T03:57:06+00:00",
+      "source": "https://apps.apple.com/in/app/ublock-origin-lite/id6745342698",
+      "summary": "Article URL: https://apps.apple.com/in/app/ublock-origin-lite/id6745342698 Comments URL: https://news.ycombinator.com/item?id=45742446 Points: 78 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45742419",
+      "title": "Tips for stroke-surviving software engineers",
+      "slug": "2025-10-29-tips-for-stroke-surviving-software-engineers.html",
+      "path": "posts/2025-10-29-tips-for-stroke-surviving-software-engineers.html",
+      "date_iso": "2025-10-29T03:51:56+00:00",
+      "source": "https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/",
+      "summary": "Article URL: https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/ Comments URL: https://news.ycombinator.com/item?id=45742419 Points: 94 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45741391",
+      "title": "Project Shadowglass",
+      "slug": "2025-10-29-project-shadowglass.html",
+      "path": "posts/2025-10-29-project-shadowglass.html",
+      "date_iso": "2025-10-29T01:06:32+00:00",
+      "source": "https://shadowglassgame.com",
+      "summary": "Article URL: https://shadowglassgame.com Comments URL: https://news.ycombinator.com/item?id=45741391 Points: 65 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45740214",
+      "title": "Keeping the Internet fast and secure: introducing Merkle Tree Certificates",
+      "slug": "2025-10-28-keeping-the-internet-fast-and-secure-introducing-merkle-tree-certificates.html",
+      "path": "posts/2025-10-28-keeping-the-internet-fast-and-secure-introducing-merkle-tree-certificates.html",
+      "date_iso": "2025-10-28T22:39:24+00:00",
+      "source": "https://blog.cloudflare.com/bootstrap-mtc/",
+      "summary": "Article URL: https://blog.cloudflare.com/bootstrap-mtc/ Comments URL: https://news.ycombinator.com/item?id=45740214 Points: 116 # Comments: 38"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45739499",
+      "title": "Tinkering is a way to acquire good taste",
+      "slug": "2025-10-28-tinkering-is-a-way-to-acquire-good-taste.html",
+      "path": "posts/2025-10-28-tinkering-is-a-way-to-acquire-good-taste.html",
+      "date_iso": "2025-10-28T21:31:50+00:00",
+      "source": "https://seated.ro/blog/tinkering-a-lost-art",
+      "summary": "Article URL: https://seated.ro/blog/tinkering-a-lost-art Comments URL: https://news.ycombinator.com/item?id=45739499 Points: 246 # Comments: 178"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45739080",
+      "title": "Generative AI Image Editing Showdown",
+      "slug": "2025-10-28-generative-ai-image-editing-showdown.html",
+      "path": "posts/2025-10-28-generative-ai-image-editing-showdown.html",
+      "date_iso": "2025-10-28T20:58:22+00:00",
+      "source": "https://genai-showdown.specr.net/image-editing",
+      "summary": "Article URL: https://genai-showdown.specr.net/image-editing Comments URL: https://news.ycombinator.com/item?id=45739080 Points: 224 # Comments: 47"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45738247",
+      "title": "Boring is what we wanted",
+      "slug": "2025-10-28-boring-is-what-we-wanted.html",
+      "path": "posts/2025-10-28-boring-is-what-we-wanted.html",
+      "date_iso": "2025-10-28T19:57:16+00:00",
+      "source": "https://512pixels.net/2025/10/boring-is-what-we-wanted/",
+      "summary": "Article URL: https://512pixels.net/2025/10/boring-is-what-we-wanted/ Comments URL: https://news.ycombinator.com/item?id=45738247 Points: 279 # Comments: 155"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45737941",
+      "title": "Why do some radio towers blink?",
+      "slug": "2025-10-28-why-do-some-radio-towers-blink.html",
+      "path": "posts/2025-10-28-why-do-some-radio-towers-blink.html",
+      "date_iso": "2025-10-28T19:38:53+00:00",
+      "source": "https://www.jeffgeerling.com/blog/2025/why-do-some-radio-towers-blink",
+      "summary": "Article URL: https://www.jeffgeerling.com/blog/2025/why-do-some-radio-towers-blink Comments URL: https://news.ycombinator.com/item?id=45737941 Points: 133 # Comments: 93"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45737338",
+      "title": "Samsung makes ads on smart fridges official with upcoming software update",
+      "slug": "2025-10-28-samsung-makes-ads-on-smart-fridges-official-with-upcoming-software-update.html",
+      "path": "posts/2025-10-28-samsung-makes-ads-on-smart-fridges-official-with-upcoming-software-update.html",
+      "date_iso": "2025-10-28T19:02:48+00:00",
+      "source": "https://arstechnica.com/gadgets/2025/10/samsung-makes-ads-on-3499-smart-fridges-official-with-upcoming-software-update/",
+      "summary": "Article URL: https://arstechnica.com/gadgets/2025/10/samsung-makes-ads-on-3499-smart-fridges-official-with-upcoming-software-update/ Comments URL: https://news.ycombinator.com/item?id=45737338 Points: 513 # Comments: 399"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/28/technology/openai-restructure-for-profit-company.html",
+      "title": "OpenAI Restructures as For-Profit Company",
+      "slug": "2025-10-28-openai-restructures-as-for-profit-company.html",
+      "path": "posts/2025-10-28-openai-restructures-as-for-profit-company.html",
+      "date_iso": "2025-10-28T18:21:43+00:00",
+      "source": "https://www.nytimes.com/2025/10/28/technology/openai-restructure-for-profit-company.html",
+      "summary": "Sam Altman, the chief executive of OpenAI."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/28/business/energy-environment/trump-nuclear-westinghouse-deal.html",
+      "title": "Trump Administration Backs Plan for New Nuclear Plants",
+      "slug": "2025-10-28-trump-administration-backs-plan-for-new-nuclear-plants.html",
+      "path": "posts/2025-10-28-trump-administration-backs-plan-for-new-nuclear-plants.html",
+      "date_iso": "2025-10-28T18:16:09+00:00",
+      "source": "https://www.nytimes.com/2025/10/28/business/energy-environment/trump-nuclear-westinghouse-deal.html",
+      "summary": "The new projects would include a Westinghouse reactor, like those used in the recent construction of two units at the Alvin W. Vogtle Electric Generating Plant in Waynesboro, Ga."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45736608",
+      "title": "Mapping the off-target effects of every FDA-approved drug in existence",
+      "slug": "2025-10-28-mapping-the-off-target-effects-of-every-fda-approved-drug-in-existence.html",
+      "path": "posts/2025-10-28-mapping-the-off-target-effects-of-every-fda-approved-drug-in-existence.html",
+      "date_iso": "2025-10-28T18:12:10+00:00",
+      "source": "https://www.owlposting.com/p/mapping-the-off-target-effects-of",
+      "summary": "Article URL: https://www.owlposting.com/p/mapping-the-off-target-effects-of Comments URL: https://news.ycombinator.com/item?id=45736608 Points: 134 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45736499",
+      "title": "HTTPS by default",
+      "slug": "2025-10-28-https-by-default.html",
+      "path": "posts/2025-10-28-https-by-default.html",
+      "date_iso": "2025-10-28T18:04:00+00:00",
+      "source": "https://security.googleblog.com/2025/10/https-by-default.html",
+      "summary": "Article URL: https://security.googleblog.com/2025/10/https-by-default.html Comments URL: https://news.ycombinator.com/item?id=45736499 Points: 169 # Comments: 155"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45736479",
+      "title": "What we talk about when we talk about sideloading",
+      "slug": "2025-10-28-what-we-talk-about-when-we-talk-about-sideloading.html",
+      "path": "posts/2025-10-28-what-we-talk-about-when-we-talk-about-sideloading.html",
+      "date_iso": "2025-10-28T18:02:36+00:00",
+      "source": "https://f-droid.org/2025/10/28/sideloading.html",
+      "summary": "Article URL: https://f-droid.org/2025/10/28/sideloading.html Comments URL: https://news.ycombinator.com/item?id=45736479 Points: 979 # Comments: 435"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45735877",
+      "title": "Fil-C: A memory-safe C implementation",
+      "slug": "2025-10-28-fil-c-a-memory-safe-c-implementation.html",
+      "path": "posts/2025-10-28-fil-c-a-memory-safe-c-implementation.html",
+      "date_iso": "2025-10-28T17:25:04+00:00",
+      "source": "https://lwn.net/SubscriberLink/1042938/658ade3768dd4758/",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1042938/658ade3768dd4758/ Comments URL: https://news.ycombinator.com/item?id=45735877 Points: 183 # Comments: 57"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45735264",
+      "title": "I've been loving Claude Code on the web",
+      "slug": "2025-10-28-i-ve-been-loving-claude-code-on-the-web.html",
+      "path": "posts/2025-10-28-i-ve-been-loving-claude-code-on-the-web.html",
+      "date_iso": "2025-10-28T16:46:57+00:00",
+      "source": "https://ben.page/claude-code-web",
+      "summary": "Article URL: https://ben.page/claude-code-web Comments URL: https://news.ycombinator.com/item?id=45735264 Points: 121 # Comments: 92"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45734620",
+      "title": "The decline of deviance",
+      "slug": "2025-10-28-the-decline-of-deviance.html",
+      "path": "posts/2025-10-28-the-decline-of-deviance.html",
+      "date_iso": "2025-10-28T16:01:00+00:00",
+      "source": "https://www.experimental-history.com/p/the-decline-of-deviance",
+      "summary": "Article URL: https://www.experimental-history.com/p/the-decline-of-deviance Comments URL: https://news.ycombinator.com/item?id=45734620 Points: 145 # Comments: 127"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45734582",
+      "title": "Using AI to negotiate a $195k hospital bill down to $33k",
+      "slug": "2025-10-28-using-ai-to-negotiate-a-195k-hospital-bill-down-to-33k.html",
+      "path": "posts/2025-10-28-using-ai-to-negotiate-a-195k-hospital-bill-down-to-33k.html",
+      "date_iso": "2025-10-28T15:58:58+00:00",
+      "source": "https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw",
+      "summary": "Article URL: https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw Comments URL: https://news.ycombinator.com/item?id=45734582 Points: 903 # Comments: 795"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45734486",
+      "title": "Nvidia takes $1B stake in Nokia",
+      "slug": "2025-10-28-nvidia-takes-1b-stake-in-nokia.html",
+      "path": "posts/2025-10-28-nvidia-takes-1b-stake-in-nokia.html",
+      "date_iso": "2025-10-28T15:53:52+00:00",
+      "source": "https://www.cnbc.com/2025/10/28/nvidia-nokia-ai.html",
+      "summary": "Article URL: https://www.cnbc.com/2025/10/28/nvidia-nokia-ai.html Comments URL: https://news.ycombinator.com/item?id=45734486 Points: 186 # Comments: 114"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/28/technology/can-a-start-up-make-computer-chips-cheaper-than-the-industrys-giants.html",
+      "title": "Can a Start-Up Make Computer Chips Cheaper Than the Industry’s Giants?",
+      "slug": "2025-10-28-can-a-start-up-make-computer-chips-cheaper-than-the-industry-s-giants.html",
+      "path": "posts/2025-10-28-can-a-start-up-make-computer-chips-cheaper-than-the-industry-s-giants.html",
+      "date_iso": "2025-10-28T13:19:13+00:00",
+      "source": "https://www.nytimes.com/2025/10/28/technology/can-a-start-up-make-computer-chips-cheaper-than-the-industrys-giants.html",
+      "summary": "Technicians preparing a silicon wafer for test printing at Substrate’s site in San Francisco."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45729467",
       "title": "Picture gallery: Amiga prototype \"Lorraine\" at the Amiga 40 event",
       "slug": "2025-10-28-picture-gallery-amiga-prototype-lorraine-at-the-amiga-40-event.html",
