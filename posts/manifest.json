@@ -1,6 +1,249 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45756445",
+      "title": "Carlo Rovelli’s radical perspective on reality",
+      "slug": "2025-10-30-carlo-rovelli-s-radical-perspective-on-reality.html",
+      "path": "posts/2025-10-30-carlo-rovelli-s-radical-perspective-on-reality.html",
+      "date_iso": "2025-10-30T04:29:45+00:00",
+      "source": "https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/",
+      "summary": "Article URL: https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/ Comments URL: https://news.ycombinator.com/item?id=45756445 Points: 23 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45755911",
+      "title": "One year with Next.js App Router and why we're moving on",
+      "slug": "2025-10-30-one-year-with-next-js-app-router-and-why-we-re-moving-on.html",
+      "path": "posts/2025-10-30-one-year-with-next-js-app-router-and-why-we-re-moving-on.html",
+      "date_iso": "2025-10-30T02:48:21+00:00",
+      "source": "https://paperclover.net/blog/webdev/one-year-next-app-router",
+      "summary": "Article URL: https://paperclover.net/blog/webdev/one-year-next-app-router Comments URL: https://news.ycombinator.com/item?id=45755911 Points: 50 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45755821",
+      "title": "Hello-World iOS App in Assembly",
+      "slug": "2025-10-30-hello-world-ios-app-in-assembly.html",
+      "path": "posts/2025-10-30-hello-world-ios-app-in-assembly.html",
+      "date_iso": "2025-10-30T02:37:35+00:00",
+      "source": "https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31",
+      "summary": "Article URL: https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31 Comments URL: https://news.ycombinator.com/item?id=45755821 Points: 45 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45755788",
+      "title": "IRCd service (2024)",
+      "slug": "2025-10-30-ircd-service-2024.html",
+      "path": "posts/2025-10-30-ircd-service-2024.html",
+      "date_iso": "2025-10-30T02:31:43+00:00",
+      "source": "https://example.fi/blog/ircd.html",
+      "summary": "Article URL: https://example.fi/blog/ircd.html Comments URL: https://news.ycombinator.com/item?id=45755788 Points: 51 # Comments: 11"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/29/technology/alphabet-google-earnings.html",
+      "title": "Alphabet Revenue Jumps 16% With Strong Cloud Sales",
+      "slug": "2025-10-30-alphabet-revenue-jumps-16-with-strong-cloud-sales.html",
+      "path": "posts/2025-10-30-alphabet-revenue-jumps-16-with-strong-cloud-sales.html",
+      "date_iso": "2025-10-30T00:18:30+00:00",
+      "source": "https://www.nytimes.com/2025/10/29/technology/alphabet-google-earnings.html",
+      "summary": "Alphabet’s sales and profit for the quarter beat Wall Street analysts’ expectations."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45754660",
+      "title": "OS/2 Warp, PowerPC Edition (2011)",
+      "slug": "2025-10-29-os-2-warp-powerpc-edition-2011.html",
+      "path": "posts/2025-10-29-os-2-warp-powerpc-edition-2011.html",
+      "date_iso": "2025-10-29T23:52:09+00:00",
+      "source": "https://www.os2museum.com/wp/os2-history/os2-warp-powerpc-edition/",
+      "summary": "Article URL: https://www.os2museum.com/wp/os2-history/os2-warp-powerpc-edition/ Comments URL: https://news.ycombinator.com/item?id=45754660 Points: 48 # Comments: 27"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45754509",
+      "title": "Crunchyroll is destroying its subtitles",
+      "slug": "2025-10-29-crunchyroll-is-destroying-its-subtitles.html",
+      "path": "posts/2025-10-29-crunchyroll-is-destroying-its-subtitles.html",
+      "date_iso": "2025-10-29T23:31:24+00:00",
+      "source": "https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/",
+      "summary": "Article URL: https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/ Comments URL: https://news.ycombinator.com/item?id=45754509 Points: 266 # Comments: 84"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/29/business/microsoft-quarterly-earnings.html",
+      "title": "Microsoft Increases Investments Amid A.I. Race",
+      "slug": "2025-10-29-microsoft-increases-investments-amid-a-i-race.html",
+      "path": "posts/2025-10-29-microsoft-increases-investments-amid-a-i-race.html",
+      "date_iso": "2025-10-29T23:21:58+00:00",
+      "source": "https://www.nytimes.com/2025/10/29/business/microsoft-quarterly-earnings.html",
+      "summary": "Microsoft has said the demand for its cloud computing services outpaces its available data centers."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45754439",
+      "title": "Raspberry Pi Pico Bit-Bangs 100 Mbit/S Ethernet",
+      "slug": "2025-10-29-raspberry-pi-pico-bit-bangs-100-mbit-s-ethernet.html",
+      "path": "posts/2025-10-29-raspberry-pi-pico-bit-bangs-100-mbit-s-ethernet.html",
+      "date_iso": "2025-10-29T23:21:51+00:00",
+      "source": "https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet",
+      "summary": "Article URL: https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet Comments URL: https://news.ycombinator.com/item?id=45754439 Points: 121 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45754390",
+      "title": "A century of reforestation helped keep the eastern US cool (2024)",
+      "slug": "2025-10-29-a-century-of-reforestation-helped-keep-the-eastern-us-cool-2024.html",
+      "path": "posts/2025-10-29-a-century-of-reforestation-helped-keep-the-eastern-us-cool-2024.html",
+      "date_iso": "2025-10-29T23:17:02+00:00",
+      "source": "https://news.agu.org/press-release/a-century-of-reforestation-helped-keep-the-eastern-us-cool/",
+      "summary": "Article URL: https://news.agu.org/press-release/a-century-of-reforestation-helped-keep-the-eastern-us-cool/ Comments URL: https://news.ycombinator.com/item?id=45754390 Points: 114 # Comments: 14"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/29/technology/meta-spending-ai.html",
+      "title": "Meta Raises Its Spending Forecast on A.I. to Above $70 Billion",
+      "slug": "2025-10-29-meta-raises-its-spending-forecast-on-a-i-to-above-70-billion.html",
+      "path": "posts/2025-10-29-meta-raises-its-spending-forecast-on-a-i-to-above-70-billion.html",
+      "date_iso": "2025-10-29T22:19:06+00:00",
+      "source": "https://www.nytimes.com/2025/10/29/technology/meta-spending-ai.html",
+      "summary": "Meta’s chief executive, Mark Zuckerberg, at an event in September showcasing new products. Meta’s core business of online advertising has provided the fuel for its spending on artificial intelligence."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/29/technology/nvidia-value-market-ai.html",
+      "title": "Nvidia Is First Company to Top $5 Trillion in Market Value Amid AI Boom",
+      "slug": "2025-10-29-nvidia-is-first-company-to-top-5-trillion-in-market-value-amid-ai-boom.html",
+      "path": "posts/2025-10-29-nvidia-is-first-company-to-top-5-trillion-in-market-value-amid-ai-boom.html",
+      "date_iso": "2025-10-29T22:12:40+00:00",
+      "source": "https://www.nytimes.com/2025/10/29/technology/nvidia-value-market-ai.html",
+      "summary": "Nvidia hit $4 trillion in value just four months ago."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45753222",
+      "title": "How the U.S. National Science Foundation enabled Software-Defined Networking",
+      "slug": "2025-10-29-how-the-u-s-national-science-foundation-enabled-software-defined-networking.html",
+      "path": "posts/2025-10-29-how-the-u-s-national-science-foundation-enabled-software-defined-networking.html",
+      "date_iso": "2025-10-29T21:22:50+00:00",
+      "source": "https://cacm.acm.org/federal-funding-of-academic-research/how-the-u-s-national-science-foundation-enabled-software-defined-networking/",
+      "summary": "Article URL: https://cacm.acm.org/federal-funding-of-academic-research/how-the-u-s-national-science-foundation-enabled-software-defined-networking/ Comments URL: https://news.ycombinator.com/item?id=45753222 Points: 73 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45751995",
+      "title": "How to Obsessively Tune WezTerm",
+      "slug": "2025-10-29-how-to-obsessively-tune-wezterm.html",
+      "path": "posts/2025-10-29-how-to-obsessively-tune-wezterm.html",
+      "date_iso": "2025-10-29T19:39:57+00:00",
+      "source": "https://rashil2000.me/blogs/tune-wezterm",
+      "summary": "Article URL: https://rashil2000.me/blogs/tune-wezterm Comments URL: https://news.ycombinator.com/item?id=45751995 Points: 87 # Comments: 51"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/29/business/general-motors-electric-vehicles-layoff.html",
+      "title": "G.M. Will Cut 1,750 Jobs in Electric Vehicle Business",
+      "slug": "2025-10-29-g-m-will-cut-1-750-jobs-in-electric-vehicle-business.html",
+      "path": "posts/2025-10-29-g-m-will-cut-1-750-jobs-in-electric-vehicle-business.html",
+      "date_iso": "2025-10-29T19:16:31+00:00",
+      "source": "https://www.nytimes.com/2025/10/29/business/general-motors-electric-vehicles-layoff.html",
+      "summary": "Electric GMC Hummers on the assembly line in 2021 at General Motors’ Factory Zero plant in Detroit."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45751400",
+      "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
+      "slug": "2025-10-29-uv-is-the-best-thing-to-happen-to-the-python-ecosystem-in-a-decade.html",
+      "path": "posts/2025-10-29-uv-is-the-best-thing-to-happen-to-the-python-ecosystem-in-a-decade.html",
+      "date_iso": "2025-10-29T18:57:29+00:00",
+      "source": "https://emily.space/posts/251023-uv",
+      "summary": "Article URL: https://emily.space/posts/251023-uv Comments URL: https://news.ycombinator.com/item?id=45751400 Points: 1488 # Comments: 809"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45750995",
+      "title": "Extropic is building thermodynamic computing hardware",
+      "slug": "2025-10-29-extropic-is-building-thermodynamic-computing-hardware.html",
+      "path": "posts/2025-10-29-extropic-is-building-thermodynamic-computing-hardware.html",
+      "date_iso": "2025-10-29T18:25:01+00:00",
+      "source": "https://extropic.ai/",
+      "summary": "Article URL: https://extropic.ai/ Comments URL: https://news.ycombinator.com/item?id=45750995 Points: 120 # Comments: 84"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45750954",
+      "title": "Dithering – Part 1",
+      "slug": "2025-10-29-dithering-part-1.html",
+      "path": "posts/2025-10-29-dithering-part-1.html",
+      "date_iso": "2025-10-29T18:21:35+00:00",
+      "source": "https://visualrambling.space/dithering-part-1/",
+      "summary": "Article URL: https://visualrambling.space/dithering-part-1/ Comments URL: https://news.ycombinator.com/item?id=45750954 Points: 282 # Comments: 61"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45750875",
+      "title": "The Internet runs on free and open source software and so does the DNS",
+      "slug": "2025-10-29-the-internet-runs-on-free-and-open-source-software-and-so-does-the-dns.html",
+      "path": "posts/2025-10-29-the-internet-runs-on-free-and-open-source-software-and-so-does-the-dns.html",
+      "date_iso": "2025-10-29T18:16:07+00:00",
+      "source": "https://www.icann.org/en/blogs/details/the-internet-runs-on-free-and-open-source-softwareand-so-does-the-dns-23-10-2025-en",
+      "summary": "Report: The Domain Name System Runs on Free and Open Source Software (FOSS) [pdf] https://itp.cdn.icann.org/en/files/security-and-stability-ad... Comments URL: https://news.ycombinator.com/item?id=45750875 Points: 136 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45750425",
+      "title": "OpenAI’s promise to stay in California helped clear the path for its IPO",
+      "slug": "2025-10-29-openai-s-promise-to-stay-in-california-helped-clear-the-path-for-its-ipo.html",
+      "path": "posts/2025-10-29-openai-s-promise-to-stay-in-california-helped-clear-the-path-for-its-ipo.html",
+      "date_iso": "2025-10-29T17:44:34+00:00",
+      "source": "https://www.wsj.com/tech/ai/openais-promise-to-stay-in-california-helped-clear-the-path-for-its-ipo-3af1c31c",
+      "summary": "https://archive.ph/NCZhi Comments URL: https://news.ycombinator.com/item?id=45750425 Points: 182 # Comments: 241"
+    },
+    {
+      "id": "https://www.nytimes.com/video/technology/100000010483638/48-hours-without-ai.html",
+      "title": "48 Hours Without A.I.",
+      "slug": "2025-10-29-48-hours-without-a-i.html",
+      "path": "posts/2025-10-29-48-hours-without-a-i.html",
+      "date_iso": "2025-10-29T17:21:59+00:00",
+      "source": "https://www.nytimes.com/video/technology/100000010483638/48-hours-without-ai.html",
+      "summary": "A.J. Jacobs went 48 hours without interacting with artificial intelligence. The experiment revealed just how embedded artificial intelligence already is in our daily lives."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45749161",
+      "title": "AOL to be sold to Bending Spoons for $1.5B",
+      "slug": "2025-10-29-aol-to-be-sold-to-bending-spoons-for-1-5b.html",
+      "path": "posts/2025-10-29-aol-to-be-sold-to-bending-spoons-for-1-5b.html",
+      "date_iso": "2025-10-29T16:28:56+00:00",
+      "source": "https://www.axios.com/2025/10/29/aol-bending-spoons-deal",
+      "summary": "Article URL: https://www.axios.com/2025/10/29/aol-bending-spoons-deal Comments URL: https://news.ycombinator.com/item?id=45749161 Points: 222 # Comments: 189"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45749017",
+      "title": "Tailscale Peer Relays",
+      "slug": "2025-10-29-tailscale-peer-relays.html",
+      "path": "posts/2025-10-29-tailscale-peer-relays.html",
+      "date_iso": "2025-10-29T16:21:36+00:00",
+      "source": "https://tailscale.com/blog/peer-relays-beta",
+      "summary": "Article URL: https://tailscale.com/blog/peer-relays-beta Comments URL: https://news.ycombinator.com/item?id=45749017 Points: 289 # Comments: 84"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45748879",
+      "title": "Minecraft removing obfuscation in Java Edition",
+      "slug": "2025-10-29-minecraft-removing-obfuscation-in-java-edition.html",
+      "path": "posts/2025-10-29-minecraft-removing-obfuscation-in-java-edition.html",
+      "date_iso": "2025-10-29T16:12:56+00:00",
+      "source": "https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition",
+      "summary": "Article URL: https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition Comments URL: https://news.ycombinator.com/item?id=45748879 Points: 675 # Comments: 243"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45748725",
+      "title": "Composer: Building a fast frontier model with RL",
+      "slug": "2025-10-29-composer-building-a-fast-frontier-model-with-rl.html",
+      "path": "posts/2025-10-29-composer-building-a-fast-frontier-model-with-rl.html",
+      "date_iso": "2025-10-29T16:04:33+00:00",
+      "source": "https://cursor.com/blog/composer",
+      "summary": "Article URL: https://cursor.com/blog/composer Comments URL: https://news.ycombinator.com/item?id=45748725 Points: 187 # Comments: 142"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45748661",
+      "title": "Tell HN: Azure outage",
+      "slug": "2025-10-29-tell-hn-azure-outage.html",
+      "path": "posts/2025-10-29-tell-hn-azure-outage.html",
+      "date_iso": "2025-10-29T16:01:18+00:00",
+      "source": "https://news.ycombinator.com/item?id=45748661",
+      "summary": "Azure is down for us, we can't even access the azure portal. Are other experiencing this? Our services are located in Canada/Central and US-East 2 https://downdetector.ca/status/windows-azure/ https://azure.status.microsoft/en-gb/status Comments URL: https://news.ycombinator.com…"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/29/technology/characterai-underage-users.html",
+      "title": "Character.AI to Ban Children Under 18 From Using Its Chatbots",
+      "slug": "2025-10-29-character-ai-to-ban-children-under-18-from-using-its-chatbots.html",
+      "path": "posts/2025-10-29-character-ai-to-ban-children-under-18-from-using-its-chatbots.html",
+      "date_iso": "2025-10-29T13:16:54+00:00",
+      "source": "https://www.nytimes.com/2025/10/29/technology/characterai-underage-users.html",
+      "summary": "A founder of Character.AI, Daniel De Freitas, demonstrating the app in 2022. The company said people under 18 would be barred from using its chatbots starting next month."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45742907",
       "title": "Who needs Graphviz when you can build it yourself?",
       "slug": "2025-10-29-who-needs-graphviz-when-you-can-build-it-yourself.html",
