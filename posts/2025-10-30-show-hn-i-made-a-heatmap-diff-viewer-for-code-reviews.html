@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: I made a heatmap diff viewer for code reviews</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: I made a heatmap diff viewer for code reviews</h1>
+    <p><small>Published: 2025-10-30T14:21:58+00:00</small></p>
+  </header>
+
+  <main>
+    <p>0github.com is a pull request viewer that color-codes every diff line/token by how much human attention it probably needs. Unlike PR-review bots, we try to flag not just by "is it a bug?" but by "is it worth a second look?" (examples: hard-coded secret, weird crypto mode, gnarly logic, ugly code).<p>To try it, replace github.com with 0github.com in any pull-request URL. Under the hood, we split the PR into individual files, and for each file, we ask an LLM to annotate each line with a data structure that we parse into a colored heatmap.<p>Examples:<p><a href="https://0github.com/manaflow-ai/cmux/pull/666" rel="nofollow">https://0github.com/manaflow-ai/cmux/pull/666</a><p><a href="https://0github.com/stack-auth/stack-auth/pull/988" rel="nofollow">https://0github.com/stack-auth/stack-auth/pull/988</a><p><a href="https://0github.com/tinygrad/tinygrad/pull/12995" rel="nofollow">https://0github.com/tinygrad/tinygrad/pull/12995</a><p><a href="https://0github.com/simonw/datasette/pull/2548" rel="nofollow">https://0github.com/simonw/datasette/pull/2548</a><p>Notice how all the example links have a 0 prepended before github.com. This navigates you to our custom diff viewer where we handle the same URL path parameters as github.com. Darker yellows indicate that an area might require more investigation. Hover on the highlights to see the LLM's explanation. There's also a slider on the top left to adjust the "should review" threshold.<p>Repo (MIT license): <a href="https://github.com/manaflow-ai/cmux" rel="nofollow">https://github.com/manaflow-ai/cmux</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45760321">https://news.ycombinator.com/item?id=45760321</a></p>
+<p>Points: 201</p>
+<p># Comments: 59</p>
+    <p><a href="https://0github.com" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

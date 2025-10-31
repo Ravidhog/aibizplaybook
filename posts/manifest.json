@@ -1,6 +1,168 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45768482",
+      "title": "ANTML: Anthropic’s Markup Language",
+      "slug": "2025-10-31-antml-anthropic-s-markup-language.html",
+      "path": "posts/2025-10-31-antml-anthropic-s-markup-language.html",
+      "date_iso": "2025-10-31T04:37:42+00:00",
+      "source": "https://karashiiro.leaflet.pub/3m4gf7geefs2l",
+      "summary": "Article URL: https://karashiiro.leaflet.pub/3m4gf7geefs2l Comments URL: https://news.ycombinator.com/item?id=45768482 Points: 32 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45767916",
+      "title": "AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process",
+      "slug": "2025-10-31-amd-could-enter-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process.html",
+      "path": "posts/2025-10-31-amd-could-enter-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process.html",
+      "date_iso": "2025-10-31T03:07:48+00:00",
+      "source": "https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/",
+      "summary": "Article URL: https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/ Comments URL: https://news.ycombinator.com/item?id=45767916 Points: 67 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45767325",
+      "title": "ICE and the Smartphone Panopticon",
+      "slug": "2025-10-31-ice-and-the-smartphone-panopticon.html",
+      "path": "posts/2025-10-31-ice-and-the-smartphone-panopticon.html",
+      "date_iso": "2025-10-31T01:13:56+00:00",
+      "source": "https://www.newyorker.com/culture/infinite-scroll/ice-and-the-smartphone-panopticon",
+      "summary": "Article URL: https://www.newyorker.com/culture/infinite-scroll/ice-and-the-smartphone-panopticon Comments URL: https://news.ycombinator.com/item?id=45767325 Points: 148 # Comments: 67"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45767257",
+      "title": "Roadmap for Improving the Type Checker",
+      "slug": "2025-10-31-roadmap-for-improving-the-type-checker.html",
+      "path": "posts/2025-10-31-roadmap-for-improving-the-type-checker.html",
+      "date_iso": "2025-10-31T01:00:45+00:00",
+      "source": "https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952",
+      "summary": "Article URL: https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952 Comments URL: https://news.ycombinator.com/item?id=45767257 Points: 36 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45767162",
+      "title": "Show HN: Quibbler – A critic for your coding agent that learns what you want",
+      "slug": "2025-10-31-show-hn-quibbler-a-critic-for-your-coding-agent-that-learns-what-you-want.html",
+      "path": "posts/2025-10-31-show-hn-quibbler-a-critic-for-your-coding-agent-that-learns-what-you-want.html",
+      "date_iso": "2025-10-31T00:43:57+00:00",
+      "source": "https://github.com/fulcrumresearch/quibbler",
+      "summary": "Article URL: https://github.com/fulcrumresearch/quibbler Comments URL: https://news.ycombinator.com/item?id=45767162 Points: 39 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45766937",
+      "title": "Kimi Linear: An Expressive, Efficient Attention Architecture",
+      "slug": "2025-10-31-kimi-linear-an-expressive-efficient-attention-architecture.html",
+      "path": "posts/2025-10-31-kimi-linear-an-expressive-efficient-attention-architecture.html",
+      "date_iso": "2025-10-31T00:07:36+00:00",
+      "source": "https://github.com/MoonshotAI/Kimi-Linear",
+      "summary": "Article URL: https://github.com/MoonshotAI/Kimi-Linear Comments URL: https://news.ycombinator.com/item?id=45766937 Points: 114 # Comments: 3"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/30/business/apple-earnings.html",
+      "title": "Apple’s iPhones Fuel Record Sales and Profit",
+      "slug": "2025-10-30-apple-s-iphones-fuel-record-sales-and-profit.html",
+      "path": "posts/2025-10-30-apple-s-iphones-fuel-record-sales-and-profit.html",
+      "date_iso": "2025-10-30T23:46:55+00:00",
+      "source": "https://www.nytimes.com/2025/10/30/business/apple-earnings.html",
+      "summary": "In September, Apple introduced its newest iPhones with a changed external design."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/30/business/amazon-earnings.html",
+      "title": "Amazon’s Profit Is Up 38% on Strong Performance",
+      "slug": "2025-10-30-amazon-s-profit-is-up-38-on-strong-performance.html",
+      "path": "posts/2025-10-30-amazon-s-profit-is-up-38-on-strong-performance.html",
+      "date_iso": "2025-10-30T22:03:50+00:00",
+      "source": "https://www.nytimes.com/2025/10/30/business/amazon-earnings.html",
+      "summary": "Amazon’s cloud computing complex in New Carlisle, Ind. The company reported that sales for that division were up 20 percent from a year earlier."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45765787",
+      "title": "Phone numbers for use in TV shows, films and creative works",
+      "slug": "2025-10-30-phone-numbers-for-use-in-tv-shows-films-and-creative-works.html",
+      "path": "posts/2025-10-30-phone-numbers-for-use-in-tv-shows-films-and-creative-works.html",
+      "date_iso": "2025-10-30T21:49:11+00:00",
+      "source": "https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works",
+      "summary": "Article URL: https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works Comments URL: https://news.ycombinator.com/item?id=45765787 Points: 152 # Comments: 62"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45765664",
+      "title": "Denmark reportedly withdraws Chat Control proposal following controversy",
+      "slug": "2025-10-30-denmark-reportedly-withdraws-chat-control-proposal-following-controversy.html",
+      "path": "posts/2025-10-30-denmark-reportedly-withdraws-chat-control-proposal-following-controversy.html",
+      "date_iso": "2025-10-30T21:35:42+00:00",
+      "source": "https://therecord.media/demark-reportedly-withdraws-chat-control-proposal",
+      "summary": "Article URL: https://therecord.media/demark-reportedly-withdraws-chat-control-proposal Comments URL: https://news.ycombinator.com/item?id=45765664 Points: 285 # Comments: 85"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45763877",
+      "title": "Minecraft HDL, an HDL for Redstone",
+      "slug": "2025-10-30-minecraft-hdl-an-hdl-for-redstone.html",
+      "path": "posts/2025-10-30-minecraft-hdl-an-hdl-for-redstone.html",
+      "date_iso": "2025-10-30T18:59:02+00:00",
+      "source": "https://github.com/itsfrank/MinecraftHDL",
+      "summary": "Article URL: https://github.com/itsfrank/MinecraftHDL Comments URL: https://news.ycombinator.com/item?id=45763877 Points: 141 # Comments: 17"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/30/business/volkswagen-tariffs-chip-shortages.html",
+      "title": "Volkswagen, Hit by Tariffs, Reports $1.5 Billion Loss and Warns of Chip Shortage",
+      "slug": "2025-10-30-volkswagen-hit-by-tariffs-reports-1-5-billion-loss-and-warns-of-chip-shortage.html",
+      "path": "posts/2025-10-30-volkswagen-hit-by-tariffs-reports-1-5-billion-loss-and-warns-of-chip-shortage.html",
+      "date_iso": "2025-10-30T18:12:38+00:00",
+      "source": "https://www.nytimes.com/2025/10/30/business/volkswagen-tariffs-chip-shortages.html",
+      "summary": "A production line at the Volkswagen electric car factory in Zwickau, Germany."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45762259",
+      "title": "How the cochlea computes (2024)",
+      "slug": "2025-10-30-how-the-cochlea-computes-2024.html",
+      "path": "posts/2025-10-30-how-the-cochlea-computes-2024.html",
+      "date_iso": "2025-10-30T17:01:20+00:00",
+      "source": "https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform",
+      "summary": "Article URL: https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform Comments URL: https://news.ycombinator.com/item?id=45762259 Points: 407 # Comments: 131"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45762012",
+      "title": "Launch HN: Propolis (YC X25) – Browser agents that QA your web app autonomously",
+      "slug": "2025-10-30-launch-hn-propolis-yc-x25-browser-agents-that-qa-your-web-app-autonomously.html",
+      "path": "posts/2025-10-30-launch-hn-propolis-yc-x25-browser-agents-that-qa-your-web-app-autonomously.html",
+      "date_iso": "2025-10-30T16:40:02+00:00",
+      "source": "https://app.propolis.tech/#/launch",
+      "summary": "Hi HN, we're Marc and Matt, and we're building Propolis (app.propolis.tech/#/launch). We use browser agents to simulate users in order to report bugs and write e2e tests. Today, you can launch 10s-100s of agents that collaboratively explore a website and report back on pain poin…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45761445",
+      "title": "Affinity Studio now free",
+      "slug": "2025-10-30-affinity-studio-now-free.html",
+      "path": "posts/2025-10-30-affinity-studio-now-free.html",
+      "date_iso": "2025-10-30T15:54:38+00:00",
+      "source": "https://www.affinity.studio/get-affinity",
+      "summary": "https://www.affinity.studio/ Comments URL: https://news.ycombinator.com/item?id=45761445 Points: 939 # Comments: 623"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45761027",
+      "title": "PlanetScale Offering $5 Databases",
+      "slug": "2025-10-30-planetscale-offering-5-databases.html",
+      "path": "posts/2025-10-30-planetscale-offering-5-databases.html",
+      "date_iso": "2025-10-30T15:20:37+00:00",
+      "source": "https://planetscale.com/blog/5-dollar-planetscale",
+      "summary": "Article URL: https://planetscale.com/blog/5-dollar-planetscale Comments URL: https://news.ycombinator.com/item?id=45761027 Points: 198 # Comments: 111"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45760878",
+      "title": "Free software scares normal people",
+      "slug": "2025-10-30-free-software-scares-normal-people.html",
+      "path": "posts/2025-10-30-free-software-scares-normal-people.html",
+      "date_iso": "2025-10-30T15:07:15+00:00",
+      "source": "https://danieldelaney.net/normal/",
+      "summary": "Article URL: https://danieldelaney.net/normal/ Comments URL: https://news.ycombinator.com/item?id=45760878 Points: 595 # Comments: 366"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45760321",
+      "title": "Show HN: I made a heatmap diff viewer for code reviews",
+      "slug": "2025-10-30-show-hn-i-made-a-heatmap-diff-viewer-for-code-reviews.html",
+      "path": "posts/2025-10-30-show-hn-i-made-a-heatmap-diff-viewer-for-code-reviews.html",
+      "date_iso": "2025-10-30T14:21:58+00:00",
+      "source": "https://0github.com",
+      "summary": "0github.com is a pull request viewer that color-codes every diff line/token by how much human attention it probably needs. Unlike PR-review bots, we try to flag not just by \"is it a bug?\" but by \"is it worth a second look?\" (examples: hard-coded secret, weird crypto mode, gnarly…"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45756445",
       "title": "Carlo Rovelli’s radical perspective on reality",
       "slug": "2025-10-30-carlo-rovelli-s-radical-perspective-on-reality.html",
@@ -35,6 +197,15 @@
       "date_iso": "2025-10-30T02:31:43+00:00",
       "source": "https://example.fi/blog/ircd.html",
       "summary": "Article URL: https://example.fi/blog/ircd.html Comments URL: https://news.ycombinator.com/item?id=45755788 Points: 51 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45755027",
+      "title": "NPM flooded with malicious packages downloaded more than 86k times",
+      "slug": "2025-10-30-npm-flooded-with-malicious-packages-downloaded-more-than-86k-times.html",
+      "path": "posts/2025-10-30-npm-flooded-with-malicious-packages-downloaded-more-than-86k-times.html",
+      "date_iso": "2025-10-30T00:37:33+00:00",
+      "source": "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/",
+      "summary": "Article URL: https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/ Comments URL: https://news.ycombinator.com/item?id=45755027 Points: 232 # Comments: 160"
     },
     {
       "id": "https://www.nytimes.com/2025/10/29/technology/alphabet-google-earnings.html",
@@ -235,6 +406,15 @@
       "summary": "Azure is down for us, we can't even access the azure portal. Are other experiencing this? Our services are located in Canada/Central and US-East 2 https://downdetector.ca/status/windows-azure/ https://azure.status.microsoft/en-gb/status Comments URL: https://news.ycombinator.com…"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=45746482",
+      "title": "Israel demanded Google and Amazon use secret 'wink' to sidestep legal orders",
+      "slug": "2025-10-29-israel-demanded-google-and-amazon-use-secret-wink-to-sidestep-legal-orders.html",
+      "path": "posts/2025-10-29-israel-demanded-google-and-amazon-use-secret-wink-to-sidestep-legal-orders.html",
+      "date_iso": "2025-10-29T13:20:03+00:00",
+      "source": "https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code Comments URL: https://news.ycombinator.com/item?id=45746482 Points: 817 # Comments: 323"
+    },
+    {
       "id": "https://www.nytimes.com/2025/10/29/technology/characterai-underage-users.html",
       "title": "Character.AI to Ban Children Under 18 From Using Its Chatbots",
       "slug": "2025-10-29-character-ai-to-ban-children-under-18-from-using-its-chatbots.html",
@@ -242,6 +422,33 @@
       "date_iso": "2025-10-29T13:16:54+00:00",
       "source": "https://www.nytimes.com/2025/10/29/technology/characterai-underage-users.html",
       "summary": "A founder of Character.AI, Daniel De Freitas, demonstrating the app in 2022. The company said people under 18 would be barred from using its chatbots starting next month."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45746020",
+      "title": "Zig's New Async I/O",
+      "slug": "2025-10-29-zig-s-new-async-i-o.html",
+      "path": "posts/2025-10-29-zig-s-new-async-i-o.html",
+      "date_iso": "2025-10-29T12:35:12+00:00",
+      "source": "https://andrewkelley.me/post/zig-new-async-io-text-version.html",
+      "summary": "https://www.youtube.com/watch?v=mdOxIc0HM04 Comments URL: https://news.ycombinator.com/item?id=45746020 Points: 286 # Comments: 103"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45743232",
+      "title": "Show HN: Front End Fuzzy and Substring and Prefix Search",
+      "slug": "2025-10-29-show-hn-front-end-fuzzy-and-substring-and-prefix-search.html",
+      "path": "posts/2025-10-29-show-hn-front-end-fuzzy-and-substring-and-prefix-search.html",
+      "date_iso": "2025-10-29T06:12:46+00:00",
+      "source": "https://github.com/m31coding/fuzzy-search",
+      "summary": "Hey everyone, I have updated my fuzzy search library for the frontend. It now supports substring and prefix search, on top of fuzzy matching. It's fast, accurate, multilingual and has zero dependencies. GitHub: https://github.com/m31coding/fuzzy-search Live demo: https://www.m31…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45742957",
+      "title": "Jack Kerouac, Malcolm Cowley, and the difficult birth of On the Road",
+      "slug": "2025-10-29-jack-kerouac-malcolm-cowley-and-the-difficult-birth-of-on-the-road.html",
+      "path": "posts/2025-10-29-jack-kerouac-malcolm-cowley-and-the-difficult-birth-of-on-the-road.html",
+      "date_iso": "2025-10-29T05:27:42+00:00",
+      "source": "https://theamericanscholar.org/scrolling-through/",
+      "summary": "Article URL: https://theamericanscholar.org/scrolling-through/ Comments URL: https://news.ycombinator.com/item?id=45742957 Points: 43 # Comments: 19"
     },
     {
       "id": "https://news.ycombinator.com/item?id=45742907",
