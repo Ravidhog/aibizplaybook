@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Futurelock: A subtle risk in async Rust</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Futurelock: A subtle risk in async Rust</h1>
+    <p><small>Published: 2025-10-31T16:49:26+00:00</small></p>
+  </header>
+
+  <main>
+    <p>This RFD describes our distillation of a really gnarly issue that we hit in the Oxide control plane.[0]  Not unlike our discovery of the async cancellation issue[1][2][3], this is larger than the issue itself -- and worse, the program that hits futurelock is correct from the programmer's point of view.  Fortunately, the surface area here is smaller than that of async cancellation and the conditions required to hit it can be relatively easily mitigated.  Still, this is a pretty deep issue -- and something that took some very seasoned Rust hands quite a while to find.<p>[0] <a href="https://github.com/oxidecomputer/omicron/issues/9259" rel="nofollow">https://github.com/oxidecomputer/omicron/issues/9259</a><p>[1] <a href="https://rfd.shared.oxide.computer/rfd/397" rel="nofollow">https://rfd.shared.oxide.computer/rfd/397</a><p>[2] <a href="https://rfd.shared.oxide.computer/rfd/400" rel="nofollow">https://rfd.shared.oxide.computer/rfd/400</a><p>[3] <a href="https://www.youtube.com/watch?v=zrv5Cy1R7r4" rel="nofollow">https://www.youtube.com/watch?v=zrv5Cy1R7r4</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45774086">https://news.ycombinator.com/item?id=45774086</a></p>
+<p>Points: 308</p>
+<p># Comments: 143</p>
+    <p><a href="https://rfd.shared.oxide.computer/rfd/0609" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

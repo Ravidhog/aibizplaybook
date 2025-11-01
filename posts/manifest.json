@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45779261",
+      "title": "Intent to Deprecate and Remove XSLT",
+      "slug": "2025-11-01-intent-to-deprecate-and-remove-xslt.html",
+      "path": "posts/2025-11-01-intent-to-deprecate-and-remove-xslt.html",
+      "date_iso": "2025-11-01T04:31:52+00:00",
+      "source": "https://groups.google.com/a/chromium.org/g/blink-dev/c/CxL4gYZeSJA/m/yNs4EsD5AQAJ",
+      "summary": "Article URL: https://groups.google.com/a/chromium.org/g/blink-dev/c/CxL4gYZeSJA/m/yNs4EsD5AQAJ Comments URL: https://news.ycombinator.com/item?id=45779261 Points: 33 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45778984",
+      "title": "The profitable startup",
+      "slug": "2025-11-01-the-profitable-startup.html",
+      "path": "posts/2025-11-01-the-profitable-startup.html",
+      "date_iso": "2025-11-01T03:18:04+00:00",
+      "source": "https://linear.app/now/the-profitable-startup",
+      "summary": "Article URL: https://linear.app/now/the-profitable-startup Comments URL: https://news.ycombinator.com/item?id=45778984 Points: 78 # Comments: 24"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45778566",
+      "title": "Fungus: The Befunge CPU (2015)",
+      "slug": "2025-11-01-fungus-the-befunge-cpu-2015.html",
+      "path": "posts/2025-11-01-fungus-the-befunge-cpu-2015.html",
+      "date_iso": "2025-11-01T01:38:24+00:00",
+      "source": "https://www.bedroomlan.org/hardware/fungus/",
+      "summary": "Article URL: https://www.bedroomlan.org/hardware/fungus/ Comments URL: https://news.ycombinator.com/item?id=45778566 Points: 12 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45777810",
+      "title": "Show HN: Strange Attractors",
+      "slug": "2025-10-31-show-hn-strange-attractors.html",
+      "path": "posts/2025-10-31-show-hn-strange-attractors.html",
+      "date_iso": "2025-10-31T23:23:59+00:00",
+      "source": "https://blog.shashanktomar.com/posts/strange-attractors",
+      "summary": "I went down the rabbit hole on a side project and ended up building this: Strange Attractors( https://blog.shashanktomar.com/posts/strange-attractors ). It’s built with three.js. Working on it reminded me of the little \"maths for fun\" exercises I used to do while learning progra…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45777683",
+      "title": "Photographing the rare brown hyena stalking a diamond mining ghost town",
+      "slug": "2025-10-31-photographing-the-rare-brown-hyena-stalking-a-diamond-mining-ghost-town.html",
+      "path": "posts/2025-10-31-photographing-the-rare-brown-hyena-stalking-a-diamond-mining-ghost-town.html",
+      "date_iso": "2025-10-31T23:03:56+00:00",
+      "source": "https://www.bbc.com/future/article/20251014-the-rare-hyena-stalking-a-diamond-mining-ghost-town",
+      "summary": "Article URL: https://www.bbc.com/future/article/20251014-the-rare-hyena-stalking-a-diamond-mining-ghost-town Comments URL: https://news.ycombinator.com/item?id=45777683 Points: 25 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45777682",
+      "title": "S.A.R.C.A.S.M: Slightly Annoying Rubik's Cube Automatic Solving Machine",
+      "slug": "2025-10-31-s-a-r-c-a-s-m-slightly-annoying-rubik-s-cube-automatic-solving-machine.html",
+      "path": "posts/2025-10-31-s-a-r-c-a-s-m-slightly-annoying-rubik-s-cube-automatic-solving-machine.html",
+      "date_iso": "2025-10-31T23:03:18+00:00",
+      "source": "https://github.com/vindar/SARCASM",
+      "summary": "Article URL: https://github.com/vindar/SARCASM Comments URL: https://news.ycombinator.com/item?id=45777682 Points: 121 # Comments: 24"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/31/business/media/artificial-intelligence-death-threats.html",
+      "title": "A.I. Is Making Death Threats Way More Realistic",
+      "slug": "2025-10-31-a-i-is-making-death-threats-way-more-realistic.html",
+      "path": "posts/2025-10-31-a-i-is-making-death-threats-way-more-realistic.html",
+      "date_iso": "2025-10-31T22:12:56+00:00",
+      "source": "https://www.nytimes.com/2025/10/31/business/media/artificial-intelligence-death-threats.html",
+      "summary": "Caitlin Roper, a member of Collective Shout, an Australian activist group, was recently threatened online with violent A.I.-generated images depicting herself."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45776269",
+      "title": "A theoretical way to circumvent Android developer verification",
+      "slug": "2025-10-31-a-theoretical-way-to-circumvent-android-developer-verification.html",
+      "path": "posts/2025-10-31-a-theoretical-way-to-circumvent-android-developer-verification.html",
+      "date_iso": "2025-10-31T20:20:42+00:00",
+      "source": "https://enaix.github.io/2025/10/30/developer-verification.html",
+      "summary": "Article URL: https://enaix.github.io/2025/10/30/developer-verification.html Comments URL: https://news.ycombinator.com/item?id=45776269 Points: 115 # Comments: 82"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45774640",
+      "title": "Addiction Markets",
+      "slug": "2025-10-31-addiction-markets.html",
+      "path": "posts/2025-10-31-addiction-markets.html",
+      "date_iso": "2025-10-31T17:42:55+00:00",
+      "source": "https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate",
+      "summary": "Article URL: https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate Comments URL: https://news.ycombinator.com/item?id=45774640 Points: 235 # Comments: 223"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45774571",
+      "title": "Use DuckDB-WASM to query TB of data in browser",
+      "slug": "2025-10-31-use-duckdb-wasm-to-query-tb-of-data-in-browser.html",
+      "path": "posts/2025-10-31-use-duckdb-wasm-to-query-tb-of-data-in-browser.html",
+      "date_iso": "2025-10-31T17:37:15+00:00",
+      "source": "https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/",
+      "summary": "Article URL: https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/ Comments URL: https://news.ycombinator.com/item?id=45774571 Points: 169 # Comments: 43"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45774086",
+      "title": "Futurelock: A subtle risk in async Rust",
+      "slug": "2025-10-31-futurelock-a-subtle-risk-in-async-rust.html",
+      "path": "posts/2025-10-31-futurelock-a-subtle-risk-in-async-rust.html",
+      "date_iso": "2025-10-31T16:49:26+00:00",
+      "source": "https://rfd.shared.oxide.computer/rfd/0609",
+      "summary": "This RFD describes our distillation of a really gnarly issue that we hit in the Oxide control plane.[0] Not unlike our discovery of the async cancellation issue[1][2][3], this is larger than the issue itself -- and worse, the program that hits futurelock is correct from the prog…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45773347",
+      "title": "AI scrapers request commented scripts",
+      "slug": "2025-10-31-ai-scrapers-request-commented-scripts.html",
+      "path": "posts/2025-10-31-ai-scrapers-request-commented-scripts.html",
+      "date_iso": "2025-10-31T15:44:19+00:00",
+      "source": "https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/",
+      "summary": "Article URL: https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/ Comments URL: https://news.ycombinator.com/item?id=45773347 Points: 200 # Comments: 155"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45772347",
+      "title": "Nix Derivation Madness",
+      "slug": "2025-10-31-nix-derivation-madness.html",
+      "path": "posts/2025-10-31-nix-derivation-madness.html",
+      "date_iso": "2025-10-31T14:28:35+00:00",
+      "source": "https://fzakaria.com/2025/10/29/nix-derivation-madness",
+      "summary": "Article URL: https://fzakaria.com/2025/10/29/nix-derivation-madness Comments URL: https://news.ycombinator.com/item?id=45772347 Points: 162 # Comments: 57"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/31/technology/ai-spending-accelerating.html",
+      "title": "A.I. Spending Is Accelerating Among Tech’s Biggest Companies",
+      "slug": "2025-10-31-a-i-spending-is-accelerating-among-tech-s-biggest-companies.html",
+      "path": "posts/2025-10-31-a-i-spending-is-accelerating-among-tech-s-biggest-companies.html",
+      "date_iso": "2025-10-31T14:25:19+00:00",
+      "source": "https://www.nytimes.com/2025/10/31/technology/ai-spending-accelerating.html",
+      "summary": "Google is among several big technology companies increasing their spending on data centers."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45771796",
+      "title": "Sustainable memristors from shiitake mycelium for high-frequency bioelectronics",
+      "slug": "2025-10-31-sustainable-memristors-from-shiitake-mycelium-for-high-frequency-bioelectronics.html",
+      "path": "posts/2025-10-31-sustainable-memristors-from-shiitake-mycelium-for-high-frequency-bioelectronics.html",
+      "date_iso": "2025-10-31T13:32:08+00:00",
+      "source": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328965",
+      "summary": "Article URL: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328965 Comments URL: https://news.ycombinator.com/item?id=45771796 Points: 119 # Comments: 55"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45771019",
+      "title": "Perfetto: Swiss army knife for Linux client tracing",
+      "slug": "2025-10-31-perfetto-swiss-army-knife-for-linux-client-tracing.html",
+      "path": "posts/2025-10-31-perfetto-swiss-army-knife-for-linux-client-tracing.html",
+      "date_iso": "2025-10-31T11:54:00+00:00",
+      "source": "https://lalitm.com/perfetto-swiss-army-knife/",
+      "summary": "Article URL: https://lalitm.com/perfetto-swiss-army-knife/ Comments URL: https://news.ycombinator.com/item?id=45771019 Points: 117 # Comments: 15"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/31/business/nvidia-samsung-hyundai-chicken-korea.html",
+      "title": "Nvidia, Samsung and Hyundai C.E.O.s Meet in Seoul Ahead of Business Deal Announcement",
+      "slug": "2025-10-31-nvidia-samsung-and-hyundai-c-e-o-s-meet-in-seoul-ahead-of-business-deal-announcement.html",
+      "path": "posts/2025-10-31-nvidia-samsung-and-hyundai-c-e-o-s-meet-in-seoul-ahead-of-business-deal-announcement.html",
+      "date_iso": "2025-10-31T11:46:16+00:00",
+      "source": "https://www.nytimes.com/2025/10/31/business/nvidia-samsung-hyundai-chicken-korea.html",
+      "summary": "The leaders of Nvidia, Samsung and Hyundai hung out over fried chicken and beer at a modest restaurant in Seoul on Thursday night."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45770875",
+      "title": "The cryptography behind electronic passports",
+      "slug": "2025-10-31-the-cryptography-behind-electronic-passports.html",
+      "path": "posts/2025-10-31-the-cryptography-behind-electronic-passports.html",
+      "date_iso": "2025-10-31T11:33:41+00:00",
+      "source": "https://blog.trailofbits.com/2025/10/31/the-cryptography-behind-electronic-passports/",
+      "summary": "Article URL: https://blog.trailofbits.com/2025/10/31/the-cryptography-behind-electronic-passports/ Comments URL: https://news.ycombinator.com/item?id=45770875 Points: 157 # Comments: 95"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/10/31/podcasts/characterais-teen-chatbot-crackdown-elon-musk-groks-wikipedia-48-hours-without-ai.html",
+      "title": "Character.AI’s Teen Chatbot Crackdown + Elon Musk Groks Wikipedia + 48 Hours Without A.I.",
+      "slug": "2025-10-31-character-ai-s-teen-chatbot-crackdown-elon-musk-groks-wikipedia-48-hours-without-a-i.html",
+      "path": "posts/2025-10-31-character-ai-s-teen-chatbot-crackdown-elon-musk-groks-wikipedia-48-hours-without-a-i.html",
+      "date_iso": "2025-10-31T11:00:06+00:00",
+      "source": "https://www.nytimes.com/2025/10/31/podcasts/characterais-teen-chatbot-crackdown-elon-musk-groks-wikipedia-48-hours-without-ai.html",
+      "summary": "“We are living through a dramatic contraction in the access that teenagers have to technology online.”"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45770304",
+      "title": "My Impressions of the MacBook Pro M4",
+      "slug": "2025-10-31-my-impressions-of-the-macbook-pro-m4.html",
+      "path": "posts/2025-10-31-my-impressions-of-the-macbook-pro-m4.html",
+      "date_iso": "2025-10-31T10:13:40+00:00",
+      "source": "https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/",
+      "summary": "Article URL: https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/ Comments URL: https://news.ycombinator.com/item?id=45770304 Points: 166 # Comments: 227"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45768482",
       "title": "ANTML: Anthropic’s Markup Language",
       "slug": "2025-10-31-antml-anthropic-s-markup-language.html",
@@ -64,6 +244,15 @@
       "summary": "In September, Apple introduced its newest iPhones with a changed external design."
     },
     {
+      "id": "https://news.ycombinator.com/item?id=45766501",
+      "title": "Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking",
+      "slug": "2025-10-30-leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking.html",
+      "path": "posts/2025-10-30-leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking.html",
+      "date_iso": "2025-10-30T23:12:10+00:00",
+      "source": "https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/",
+      "summary": "Article URL: https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/ Comments URL: https://news.ycombinator.com/item?id=45766501 Points: 254 # Comments: 161"
+    },
+    {
       "id": "https://www.nytimes.com/2025/10/30/business/amazon-earnings.html",
       "title": "Amazon’s Profit Is Up 38% on Strong Performance",
       "slug": "2025-10-30-amazon-s-profit-is-up-38-on-strong-performance.html",
@@ -91,6 +280,15 @@
       "summary": "Article URL: https://therecord.media/demark-reportedly-withdraws-chat-control-proposal Comments URL: https://news.ycombinator.com/item?id=45765664 Points: 285 # Comments: 85"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=45764986",
+      "title": "Apple reports fourth quarter results",
+      "slug": "2025-10-30-apple-reports-fourth-quarter-results.html",
+      "path": "posts/2025-10-30-apple-reports-fourth-quarter-results.html",
+      "date_iso": "2025-10-30T20:34:02+00:00",
+      "source": "https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/",
+      "summary": "Article URL: https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/ Comments URL: https://news.ycombinator.com/item?id=45764986 Points: 148 # Comments: 213"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45763877",
       "title": "Minecraft HDL, an HDL for Redstone",
       "slug": "2025-10-30-minecraft-hdl-an-hdl-for-redstone.html",
@@ -98,6 +296,15 @@
       "date_iso": "2025-10-30T18:59:02+00:00",
       "source": "https://github.com/itsfrank/MinecraftHDL",
       "summary": "Article URL: https://github.com/itsfrank/MinecraftHDL Comments URL: https://news.ycombinator.com/item?id=45763877 Points: 141 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45763359",
+      "title": "How We Found 7 TiB of Memory Just Sitting Around",
+      "slug": "2025-10-30-how-we-found-7-tib-of-memory-just-sitting-around.html",
+      "path": "posts/2025-10-30-how-we-found-7-tib-of-memory-just-sitting-around.html",
+      "date_iso": "2025-10-30T18:25:05+00:00",
+      "source": "https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around",
+      "summary": "Article URL: https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around Comments URL: https://news.ycombinator.com/item?id=45763359 Points: 134 # Comments: 33"
     },
     {
       "id": "https://www.nytimes.com/2025/10/30/business/volkswagen-tariffs-chip-shortages.html",
@@ -116,6 +323,15 @@
       "date_iso": "2025-10-30T17:01:20+00:00",
       "source": "https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform",
       "summary": "Article URL: https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform Comments URL: https://news.ycombinator.com/item?id=45762259 Points: 407 # Comments: 131"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45762064",
+      "title": "Signs of introspection in large language models",
+      "slug": "2025-10-30-signs-of-introspection-in-large-language-models.html",
+      "path": "posts/2025-10-30-signs-of-introspection-in-large-language-models.html",
+      "date_iso": "2025-10-30T16:45:06+00:00",
+      "source": "https://www.anthropic.com/research/introspection",
+      "summary": "Article URL: https://www.anthropic.com/research/introspection Comments URL: https://news.ycombinator.com/item?id=45762064 Points: 126 # Comments: 71"
     },
     {
       "id": "https://news.ycombinator.com/item?id=45762012",
