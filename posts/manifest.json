@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45788202",
+      "title": "CLI to manage your SQL database schemas and migrations",
+      "slug": "2025-11-02-cli-to-manage-your-sql-database-schemas-and-migrations.html",
+      "path": "posts/2025-11-02-cli-to-manage-your-sql-database-schemas-and-migrations.html",
+      "date_iso": "2025-11-02T06:23:24+00:00",
+      "source": "https://github.com/gh-PonyM/shed",
+      "summary": "Article URL: https://github.com/gh-PonyM/shed Comments URL: https://news.ycombinator.com/item?id=45788202 Points: 7 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45788042",
+      "title": "Meta readies $25B bond sale as soaring AI costs trigger stock sell-off",
+      "slug": "2025-11-02-meta-readies-25b-bond-sale-as-soaring-ai-costs-trigger-stock-sell-off.html",
+      "path": "posts/2025-11-02-meta-readies-25b-bond-sale-as-soaring-ai-costs-trigger-stock-sell-off.html",
+      "date_iso": "2025-11-02T05:33:00+00:00",
+      "source": "https://www.ft.com/content/120d2321-8382-4d74-ab48-f9ecb483c2a9",
+      "summary": "Article URL: https://www.ft.com/content/120d2321-8382-4d74-ab48-f9ecb483c2a9 Comments URL: https://news.ycombinator.com/item?id=45788042 Points: 51 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45788040",
+      "title": "Notes by djb on using Fil-C (2025)",
+      "slug": "2025-11-02-notes-by-djb-on-using-fil-c-2025.html",
+      "path": "posts/2025-11-02-notes-by-djb-on-using-fil-c-2025.html",
+      "date_iso": "2025-11-02T05:32:02+00:00",
+      "source": "https://cr.yp.to/2025/fil-c.html",
+      "summary": "Article URL: https://cr.yp.to/2025/fil-c.html Comments URL: https://news.ycombinator.com/item?id=45788040 Points: 7 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45787993",
+      "title": "Yes, you should understand backprop (2016)",
+      "slug": "2025-11-02-yes-you-should-understand-backprop-2016.html",
+      "path": "posts/2025-11-02-yes-you-should-understand-backprop-2016.html",
+      "date_iso": "2025-11-02T05:20:12+00:00",
+      "source": "https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b",
+      "summary": "Article URL: https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b Comments URL: https://news.ycombinator.com/item?id=45787993 Points: 26 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45787842",
+      "title": "LM8560, the eternal chip from the 1980 years",
+      "slug": "2025-11-02-lm8560-the-eternal-chip-from-the-1980-years.html",
+      "path": "posts/2025-11-02-lm8560-the-eternal-chip-from-the-1980-years.html",
+      "date_iso": "2025-11-02T04:27:31+00:00",
+      "source": "https://www.tycospages.com/other-themes/lm8560-the-eternal-chip-from-the-1980-years/",
+      "summary": "Article URL: https://www.tycospages.com/other-themes/lm8560-the-eternal-chip-from-the-1980-years/ Comments URL: https://news.ycombinator.com/item?id=45787842 Points: 14 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45787775",
+      "title": "You Don't Need Anubis",
+      "slug": "2025-11-02-you-don-t-need-anubis.html",
+      "path": "posts/2025-11-02-you-don-t-need-anubis.html",
+      "date_iso": "2025-11-02T04:03:53+00:00",
+      "source": "https://fxgn.dev/blog/anubis/",
+      "summary": "Article URL: https://fxgn.dev/blog/anubis/ Comments URL: https://news.ycombinator.com/item?id=45787775 Points: 70 # Comments: 45"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45787571",
+      "title": "Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust",
+      "slug": "2025-11-02-crossfire-high-performance-lockless-spsc-mpsc-mpmc-channels-for-rust.html",
+      "path": "posts/2025-11-02-crossfire-high-performance-lockless-spsc-mpsc-mpmc-channels-for-rust.html",
+      "date_iso": "2025-11-02T03:07:15+00:00",
+      "source": "https://github.com/frostyplanet/crossfire-rs",
+      "summary": "Article URL: https://github.com/frostyplanet/crossfire-rs Comments URL: https://news.ycombinator.com/item?id=45787571 Points: 43 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45787036",
+      "title": "A Few Words About Async",
+      "slug": "2025-11-02-a-few-words-about-async.html",
+      "path": "posts/2025-11-02-a-few-words-about-async.html",
+      "date_iso": "2025-11-02T01:10:44+00:00",
+      "source": "https://yoric.github.io/post/quite-a-few-words-about-async/",
+      "summary": "Article URL: https://yoric.github.io/post/quite-a-few-words-about-async/ Comments URL: https://news.ycombinator.com/item?id=45787036 Points: 32 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45786962",
+      "title": "Linux and Windows: A tale of Kerberos, SSSD, DFS, and black magic",
+      "slug": "2025-11-02-linux-and-windows-a-tale-of-kerberos-sssd-dfs-and-black-magic.html",
+      "path": "posts/2025-11-02-linux-and-windows-a-tale-of-kerberos-sssd-dfs-and-black-magic.html",
+      "date_iso": "2025-11-02T00:54:13+00:00",
+      "source": "http://www.draeath.net/blog/it/2018/03/13/DFSwithKRB/",
+      "summary": "Article URL: http://www.draeath.net/blog/it/2018/03/13/DFSwithKRB/ Comments URL: https://news.ycombinator.com/item?id=45786962 Points: 15 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45786914",
+      "title": "Anonymous credentials: rate-limit bots and agents without compromising privacy",
+      "slug": "2025-11-02-anonymous-credentials-rate-limit-bots-and-agents-without-compromising-privacy.html",
+      "path": "posts/2025-11-02-anonymous-credentials-rate-limit-bots-and-agents-without-compromising-privacy.html",
+      "date_iso": "2025-11-02T00:45:13+00:00",
+      "source": "https://blog.cloudflare.com/private-rate-limiting/",
+      "summary": "Article URL: https://blog.cloudflare.com/private-rate-limiting/ Comments URL: https://news.ycombinator.com/item?id=45786914 Points: 57 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45786738",
+      "title": "How I use every Claude Code feature",
+      "slug": "2025-11-02-how-i-use-every-claude-code-feature.html",
+      "path": "posts/2025-11-02-how-i-use-every-claude-code-feature.html",
+      "date_iso": "2025-11-02T00:13:27+00:00",
+      "source": "https://blog.sshh.io/p/how-i-use-every-claude-code-feature",
+      "summary": "Article URL: https://blog.sshh.io/p/how-i-use-every-claude-code-feature Comments URL: https://news.ycombinator.com/item?id=45786738 Points: 185 # Comments: 53"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45786324",
+      "title": "Pomelli",
+      "slug": "2025-11-01-pomelli.html",
+      "path": "posts/2025-11-01-pomelli.html",
+      "date_iso": "2025-11-01T23:09:25+00:00",
+      "source": "https://blog.google/technology/google-labs/pomelli/",
+      "summary": "https://labs.google.com/pomelli/about/ Comments URL: https://news.ycombinator.com/item?id=45786324 Points: 152 # Comments: 42"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45785858",
+      "title": "Visopsys: OS maintained by a single developer since 1997",
+      "slug": "2025-11-01-visopsys-os-maintained-by-a-single-developer-since-1997.html",
+      "path": "posts/2025-11-01-visopsys-os-maintained-by-a-single-developer-since-1997.html",
+      "date_iso": "2025-11-01T22:07:49+00:00",
+      "source": "https://visopsys.org/",
+      "summary": "Article URL: https://visopsys.org/ Comments URL: https://news.ycombinator.com/item?id=45785858 Points: 281 # Comments: 50"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45785840",
+      "title": "SailfishOS: A Linux-based European alternative to dominant mobile OSes",
+      "slug": "2025-11-01-sailfishos-a-linux-based-european-alternative-to-dominant-mobile-oses.html",
+      "path": "posts/2025-11-01-sailfishos-a-linux-based-european-alternative-to-dominant-mobile-oses.html",
+      "date_iso": "2025-11-01T22:05:00+00:00",
+      "source": "https://sailfishos.org/info/",
+      "summary": "Article URL: https://sailfishos.org/info/ Comments URL: https://news.ycombinator.com/item?id=45785840 Points: 226 # Comments: 95"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45784729",
+      "title": "From 400 Mbps to 1.7 Gbps: A WiFi 7 Debugging Journey",
+      "slug": "2025-11-01-from-400-mbps-to-1-7-gbps-a-wifi-7-debugging-journey.html",
+      "path": "posts/2025-11-01-from-400-mbps-to-1-7-gbps-a-wifi-7-debugging-journey.html",
+      "date_iso": "2025-11-01T19:50:03+00:00",
+      "source": "https://blog.tymscar.com/posts/wifi7speedhunt/",
+      "summary": "Article URL: https://blog.tymscar.com/posts/wifi7speedhunt/ Comments URL: https://news.ycombinator.com/item?id=45784729 Points: 86 # Comments: 69"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45784596",
+      "title": "Beginner-friendly, unofficial documentation for Helix text editor",
+      "slug": "2025-11-01-beginner-friendly-unofficial-documentation-for-helix-text-editor.html",
+      "path": "posts/2025-11-01-beginner-friendly-unofficial-documentation-for-helix-text-editor.html",
+      "date_iso": "2025-11-01T19:33:48+00:00",
+      "source": "https://helix-editor.vercel.app/start-here/basics/",
+      "summary": "Article URL: https://helix-editor.vercel.app/start-here/basics/ Comments URL: https://news.ycombinator.com/item?id=45784596 Points: 120 # Comments: 38"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45784179",
+      "title": "Claude Code can debug low-level cryptography",
+      "slug": "2025-11-01-claude-code-can-debug-low-level-cryptography.html",
+      "path": "posts/2025-11-01-claude-code-can-debug-low-level-cryptography.html",
+      "date_iso": "2025-11-01T18:41:56+00:00",
+      "source": "https://words.filippo.io/claude-debugging/",
+      "summary": "Article URL: https://words.filippo.io/claude-debugging/ Comments URL: https://news.ycombinator.com/item?id=45784179 Points: 290 # Comments: 137"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45783640",
+      "title": "Show HN: Why write code if the LLM can just do the thing? (web app experiment)",
+      "slug": "2025-11-01-show-hn-why-write-code-if-the-llm-can-just-do-the-thing-web-app-experiment.html",
+      "path": "posts/2025-11-01-show-hn-why-write-code-if-the-llm-can-just-do-the-thing-web-app-experiment.html",
+      "date_iso": "2025-11-01T17:45:18+00:00",
+      "source": "https://github.com/samrolken/nokode",
+      "summary": "I spent a few hours last weekend testing whether AI can replace code by executing directly. Built a contact manager where every HTTP request goes to an LLM with three tools: database (SQLite), webResponse (HTML/JSON/JS), and updateMemory (feedback). No routes, no controllers, no…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45782981",
+      "title": "GHC now runs in the browser",
+      "slug": "2025-11-01-ghc-now-runs-in-the-browser.html",
+      "path": "posts/2025-11-01-ghc-now-runs-in-the-browser.html",
+      "date_iso": "2025-11-01T16:29:23+00:00",
+      "source": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
+      "summary": "Article URL: https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169 Comments URL: https://news.ycombinator.com/item?id=45782981 Points: 290 # Comments: 85"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45782136",
+      "title": "Updated practice for review articles and position papers in ArXiv CS category",
+      "slug": "2025-11-01-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category.html",
+      "path": "posts/2025-11-01-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category.html",
+      "date_iso": "2025-11-01T14:58:05+00:00",
+      "source": "https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/",
+      "summary": "Article URL: https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/ Comments URL: https://news.ycombinator.com/item?id=45782136 Points: 435 # Comments: 200"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45779261",
       "title": "Intent to Deprecate and Remove XSLT",
       "slug": "2025-11-01-intent-to-deprecate-and-remove-xslt.html",
