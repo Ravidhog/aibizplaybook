@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45796421",
+      "title": "First recording of a dying human brain shows waves similar to memory flashbacks",
+      "slug": "2025-11-03-first-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks.html",
+      "path": "posts/2025-11-03-first-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks.html",
+      "date_iso": "2025-11-03T06:39:13+00:00",
+      "source": "https://louisville.edu/medicine/news/first-ever-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks",
+      "summary": "Article URL: https://louisville.edu/medicine/news/first-ever-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks Comments URL: https://news.ycombinator.com/item?id=45796421 Points: 7 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45795511",
+      "title": "Oxy is Cloudflare's Rust-based next generation proxy framework (2023)",
+      "slug": "2025-11-03-oxy-is-cloudflare-s-rust-based-next-generation-proxy-framework-2023.html",
+      "path": "posts/2025-11-03-oxy-is-cloudflare-s-rust-based-next-generation-proxy-framework-2023.html",
+      "date_iso": "2025-11-03T03:13:46+00:00",
+      "source": "https://blog.cloudflare.com/introducing-oxy/",
+      "summary": "Article URL: https://blog.cloudflare.com/introducing-oxy/ Comments URL: https://news.ycombinator.com/item?id=45795511 Points: 56 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45795186",
+      "title": "Syllabi – Open-source agentic AI with tools, RAG, and multi-channel deploy",
+      "slug": "2025-11-03-syllabi-open-source-agentic-ai-with-tools-rag-and-multi-channel-deploy.html",
+      "path": "posts/2025-11-03-syllabi-open-source-agentic-ai-with-tools-rag-and-multi-channel-deploy.html",
+      "date_iso": "2025-11-03T01:59:07+00:00",
+      "source": "https://www.syllabi-ai.com/",
+      "summary": "Article URL: https://www.syllabi-ai.com/ Comments URL: https://news.ycombinator.com/item?id=45795186 Points: 20 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45795036",
+      "title": "Simple trick to increase coverage: Lying to users about signal strength",
+      "slug": "2025-11-03-simple-trick-to-increase-coverage-lying-to-users-about-signal-strength.html",
+      "path": "posts/2025-11-03-simple-trick-to-increase-coverage-lying-to-users-about-signal-strength.html",
+      "date_iso": "2025-11-03T01:27:48+00:00",
+      "source": "https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/",
+      "summary": "Article URL: https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/ Comments URL: https://news.ycombinator.com/item?id=45795036 Points: 225 # Comments: 80"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45794245",
+      "title": "New prompt injection papers: Agents rule of two and the attacker moves second",
+      "slug": "2025-11-02-new-prompt-injection-papers-agents-rule-of-two-and-the-attacker-moves-second.html",
+      "path": "posts/2025-11-02-new-prompt-injection-papers-agents-rule-of-two-and-the-attacker-moves-second.html",
+      "date_iso": "2025-11-02T23:11:22+00:00",
+      "source": "https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/",
+      "summary": "Article URL: https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/ Comments URL: https://news.ycombinator.com/item?id=45794245 Points: 29 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45794032",
+      "title": "Facts about throwing good parties",
+      "slug": "2025-11-02-facts-about-throwing-good-parties.html",
+      "path": "posts/2025-11-02-facts-about-throwing-good-parties.html",
+      "date_iso": "2025-11-02T22:32:42+00:00",
+      "source": "https://www.atvbt.com/21-facts-about-throwing-good-parties/",
+      "summary": "Article URL: https://www.atvbt.com/21-facts-about-throwing-good-parties/ Comments URL: https://news.ycombinator.com/item?id=45794032 Points: 474 # Comments: 166"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45793652",
+      "title": "FurtherAI (Series A – A16Z, YC) Is Hiring Across Software and AI",
+      "slug": "2025-11-02-furtherai-series-a-a16z-yc-is-hiring-across-software-and-ai.html",
+      "path": "posts/2025-11-02-furtherai-series-a-a16z-yc-is-hiring-across-software-and-ai.html",
+      "date_iso": "2025-11-02T21:35:02+00:00",
+      "source": "https://news.ycombinator.com/item?id=45793652",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=45793652 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45793466",
+      "title": "Paris had a moving sidewalk in 1900, and a Thomas Edison film captured it (2020)",
+      "slug": "2025-11-02-paris-had-a-moving-sidewalk-in-1900-and-a-thomas-edison-film-captured-it-2020.html",
+      "path": "posts/2025-11-02-paris-had-a-moving-sidewalk-in-1900-and-a-thomas-edison-film-captured-it-2020.html",
+      "date_iso": "2025-11-02T21:08:15+00:00",
+      "source": "https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html",
+      "summary": "Article URL: https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html Comments URL: https://news.ycombinator.com/item?id=45793466 Points: 250 # Comments: 112"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45793244",
+      "title": "Alleged Jabber Zeus Coder 'MrICQ' in U.S. Custody",
+      "slug": "2025-11-02-alleged-jabber-zeus-coder-mricq-in-u-s-custody.html",
+      "path": "posts/2025-11-02-alleged-jabber-zeus-coder-mricq-in-u-s-custody.html",
+      "date_iso": "2025-11-02T20:40:54+00:00",
+      "source": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/",
+      "summary": "Article URL: https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/ Comments URL: https://news.ycombinator.com/item?id=45793244 Points: 121 # Comments: 31"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45792579",
+      "title": "Lisp: Notes on its Past and Future (1980)",
+      "slug": "2025-11-02-lisp-notes-on-its-past-and-future-1980.html",
+      "path": "posts/2025-11-02-lisp-notes-on-its-past-and-future-1980.html",
+      "date_iso": "2025-11-02T19:05:32+00:00",
+      "source": "https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html",
+      "summary": "Article URL: https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html Comments URL: https://news.ycombinator.com/item?id=45792579 Points: 154 # Comments: 78"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45792373",
+      "title": "Reproducing the AWS Outage Race Condition with a Model Checker",
+      "slug": "2025-11-02-reproducing-the-aws-outage-race-condition-with-a-model-checker.html",
+      "path": "posts/2025-11-02-reproducing-the-aws-outage-race-condition-with-a-model-checker.html",
+      "date_iso": "2025-11-02T18:37:38+00:00",
+      "source": "https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/",
+      "summary": "Article URL: https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/ Comments URL: https://news.ycombinator.com/item?id=45792373 Points: 109 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45792209",
+      "title": "Anti-cybercrime laws are being weaponized to repress journalism",
+      "slug": "2025-11-02-anti-cybercrime-laws-are-being-weaponized-to-repress-journalism.html",
+      "path": "posts/2025-11-02-anti-cybercrime-laws-are-being-weaponized-to-repress-journalism.html",
+      "date_iso": "2025-11-02T18:12:49+00:00",
+      "source": "https://www.cjr.org/analysis/nigeria-pakistan-jordan-cybercrime-laws-journalism.php",
+      "summary": "Article URL: https://www.cjr.org/analysis/nigeria-pakistan-jordan-cybercrime-laws-journalism.php Comments URL: https://news.ycombinator.com/item?id=45792209 Points: 285 # Comments: 86"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45792166",
+      "title": "Is Your Bluetooth Chip Leaking Secrets via RF Signals?",
+      "slug": "2025-11-02-is-your-bluetooth-chip-leaking-secrets-via-rf-signals.html",
+      "path": "posts/2025-11-02-is-your-bluetooth-chip-leaking-secrets-via-rf-signals.html",
+      "date_iso": "2025-11-02T18:06:15+00:00",
+      "source": "https://www.semanticscholar.org/paper/Is-Your-Bluetooth-Chip-Leaking-Secrets-via-RF-Ji-Dubrova/c1d3ceb47ea6f9cc4f29929e2f97d36862a260a2",
+      "summary": "Article URL: https://www.semanticscholar.org/paper/Is-Your-Bluetooth-Chip-Leaking-Secrets-via-RF-Ji-Dubrova/c1d3ceb47ea6f9cc4f29929e2f97d36862a260a2 Comments URL: https://news.ycombinator.com/item?id=45792166 Points: 97 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45790827",
+      "title": "Why don't you use dependent types?",
+      "slug": "2025-11-02-why-don-t-you-use-dependent-types.html",
+      "path": "posts/2025-11-02-why-don-t-you-use-dependent-types.html",
+      "date_iso": "2025-11-02T15:06:36+00:00",
+      "source": "https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html",
+      "summary": "Article URL: https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html Comments URL: https://news.ycombinator.com/item?id=45790827 Points: 212 # Comments: 74"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45790293",
+      "title": "Writing FreeDOS Programs in C",
+      "slug": "2025-11-02-writing-freedos-programs-in-c.html",
+      "path": "posts/2025-11-02-writing-freedos-programs-in-c.html",
+      "date_iso": "2025-11-02T13:43:08+00:00",
+      "source": "https://www.freedos.org/books/cprogramming/",
+      "summary": "Article URL: https://www.freedos.org/books/cprogramming/ Comments URL: https://news.ycombinator.com/item?id=45790293 Points: 106 # Comments: 54"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/02/world/asia/xi-jinping-china-south-korea-spying.html",
+      "title": "That Time Xi Jinping Joked About Espionage",
+      "slug": "2025-11-02-that-time-xi-jinping-joked-about-espionage.html",
+      "path": "posts/2025-11-02-that-time-xi-jinping-joked-about-espionage.html",
+      "date_iso": "2025-11-02T13:15:45+00:00",
+      "source": "https://www.nytimes.com/2025/11/02/world/asia/xi-jinping-china-south-korea-spying.html",
+      "summary": "Xi Jinping, China’s top leader, giving two cellphones to President Lee Jae Myung of South Korea in Gyeongju, South Korea, on Saturday."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45790015",
+      "title": "X.org Security Advisory: multiple security issues X.Org X server and Xwayland",
+      "slug": "2025-11-02-x-org-security-advisory-multiple-security-issues-x-org-x-server-and-xwayland.html",
+      "path": "posts/2025-11-02-x-org-security-advisory-multiple-security-issues-x-org-x-server-and-xwayland.html",
+      "date_iso": "2025-11-02T13:07:31+00:00",
+      "source": "https://lists.x.org/archives/xorg-announce/2025-October/003635.html",
+      "summary": "Article URL: https://lists.x.org/archives/xorg-announce/2025-October/003635.html Comments URL: https://news.ycombinator.com/item?id=45790015 Points: 162 # Comments: 122"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45789602",
+      "title": "Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch",
+      "slug": "2025-11-02-tongyi-deepresearch-open-source-30b-moe-model-that-rivals-openai-deepresearch.html",
+      "path": "posts/2025-11-02-tongyi-deepresearch-open-source-30b-moe-model-that-rivals-openai-deepresearch.html",
+      "date_iso": "2025-11-02T11:43:26+00:00",
+      "source": "https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/",
+      "summary": "Article URL: https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/ Comments URL: https://news.ycombinator.com/item?id=45789602 Points: 283 # Comments: 110"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45789474",
+      "title": "URLs are state containers",
+      "slug": "2025-11-02-urls-are-state-containers.html",
+      "path": "posts/2025-11-02-urls-are-state-containers.html",
+      "date_iso": "2025-11-02T11:12:58+00:00",
+      "source": "https://alfy.blog/2025/10/31/your-url-is-your-state.html",
+      "summary": "Article URL: https://alfy.blog/2025/10/31/your-url-is-your-state.html Comments URL: https://news.ycombinator.com/item?id=45789474 Points: 374 # Comments: 160"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45789424",
+      "title": "Using FreeBSD to make self-hosting fun again",
+      "slug": "2025-11-02-using-freebsd-to-make-self-hosting-fun-again.html",
+      "path": "posts/2025-11-02-using-freebsd-to-make-self-hosting-fun-again.html",
+      "date_iso": "2025-11-02T11:01:23+00:00",
+      "source": "https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/",
+      "summary": "Article URL: https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/ Comments URL: https://news.ycombinator.com/item?id=45789424 Points: 272 # Comments: 81"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45788202",
       "title": "CLI to manage your SQL database schemas and migrations",
       "slug": "2025-11-02-cli-to-manage-your-sql-database-schemas-and-migrations.html",
