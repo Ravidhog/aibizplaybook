@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45807775",
+      "title": "Tell HN: X is opening any tweet link in a webview whether you press it or not",
+      "slug": "2025-11-04-tell-hn-x-is-opening-any-tweet-link-in-a-webview-whether-you-press-it-or-not.html",
+      "path": "posts/2025-11-04-tell-hn-x-is-opening-any-tweet-link-in-a-webview-whether-you-press-it-or-not.html",
+      "date_iso": "2025-11-04T05:53:02+00:00",
+      "source": "https://news.ycombinator.com/item?id=45807775",
+      "summary": "Just saw the CEO of Substack celebrating traffic from X/Twitter shooting up thinking they stopped suppressing tweets with links[0]. Actually, this traffic is because now any time you open a tweet with a link, the in-app webview loads in the background, and displays when you pres…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45807542",
+      "title": "Why AC is cheap, but AC repair is a luxury",
+      "slug": "2025-11-04-why-ac-is-cheap-but-ac-repair-is-a-luxury.html",
+      "path": "posts/2025-11-04-why-ac-is-cheap-but-ac-repair-is-a-luxury.html",
+      "date_iso": "2025-11-04T04:53:46+00:00",
+      "source": "https://a16z.substack.com/p/why-ac-is-cheap-but-ac-repair-is",
+      "summary": "Article URL: https://a16z.substack.com/p/why-ac-is-cheap-but-ac-repair-is Comments URL: https://news.ycombinator.com/item?id=45807542 Points: 82 # Comments: 79"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45807502",
+      "title": "Show HN: MyTimers.app offline-first PWA with no build step and zero dependencies",
+      "slug": "2025-11-04-show-hn-mytimers-app-offline-first-pwa-with-no-build-step-and-zero-dependencies.html",
+      "path": "posts/2025-11-04-show-hn-mytimers-app-offline-first-pwa-with-no-build-step-and-zero-dependencies.html",
+      "date_iso": "2025-11-04T04:46:47+00:00",
+      "source": "https://mytimers.app/",
+      "summary": "Hello, For quite some time, I've been unsatisfied with the built-in timers on both Android and iOS; especially for workouts, when I needed to set up a configurable number of series with rest periods in between. That's when I started thinking about building something myself. It w…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45807018",
+      "title": "An individual can change an organization",
+      "slug": "2025-11-04-an-individual-can-change-an-organization.html",
+      "path": "posts/2025-11-04-an-individual-can-change-an-organization.html",
+      "date_iso": "2025-11-04T02:58:40+00:00",
+      "source": "https://notes.eatonphil.com/2025-11-03-an-individual-can-change-an-organization.html",
+      "summary": "Article URL: https://notes.eatonphil.com/2025-11-03-an-individual-can-change-an-organization.html Comments URL: https://news.ycombinator.com/item?id=45807018 Points: 75 # Comments: 27"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45806903",
+      "title": "My Truck Desk",
+      "slug": "2025-11-04-my-truck-desk.html",
+      "path": "posts/2025-11-04-my-truck-desk.html",
+      "date_iso": "2025-11-04T02:37:01+00:00",
+      "source": "https://www.theparisreview.org/blog/2025/10/29/truck-desk/",
+      "summary": "Article URL: https://www.theparisreview.org/blog/2025/10/29/truck-desk/ Comments URL: https://news.ycombinator.com/item?id=45806903 Points: 45 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45806348",
+      "title": "When stick figures fought",
+      "slug": "2025-11-04-when-stick-figures-fought.html",
+      "path": "posts/2025-11-04-when-stick-figures-fought.html",
+      "date_iso": "2025-11-04T00:48:56+00:00",
+      "source": "https://animationobsessive.substack.com/p/when-stick-figures-fought",
+      "summary": "Article URL: https://animationobsessive.substack.com/p/when-stick-figures-fought Comments URL: https://news.ycombinator.com/item?id=45806348 Points: 111 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45806263",
+      "title": "You can't cURL a Border",
+      "slug": "2025-11-04-you-can-t-curl-a-border.html",
+      "path": "posts/2025-11-04-you-can-t-curl-a-border.html",
+      "date_iso": "2025-11-04T00:37:14+00:00",
+      "source": "https://drobinin.com/posts/you-cant-curl-a-border/",
+      "summary": "Article URL: https://drobinin.com/posts/you-cant-curl-a-border/ Comments URL: https://news.ycombinator.com/item?id=45806263 Points: 5 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45805900",
+      "title": "Things you can do with diodes",
+      "slug": "2025-11-03-things-you-can-do-with-diodes.html",
+      "path": "posts/2025-11-03-things-you-can-do-with-diodes.html",
+      "date_iso": "2025-11-03T23:49:03+00:00",
+      "source": "https://lcamtuf.substack.com/p/things-you-can-do-with-diodes",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/things-you-can-do-with-diodes Comments URL: https://news.ycombinator.com/item?id=45805900 Points: 193 # Comments: 59"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45805539",
+      "title": "A friendly tour of process memory on Linux",
+      "slug": "2025-11-03-a-friendly-tour-of-process-memory-on-linux.html",
+      "path": "posts/2025-11-03-a-friendly-tour-of-process-memory-on-linux.html",
+      "date_iso": "2025-11-03T23:04:22+00:00",
+      "source": "https://www.0xkato.xyz/linux-process-memory/",
+      "summary": "Article URL: https://www.0xkato.xyz/linux-process-memory/ Comments URL: https://news.ycombinator.com/item?id=45805539 Points: 126 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45805514",
+      "title": "Linkers (2007)",
+      "slug": "2025-11-03-linkers-2007.html",
+      "path": "posts/2025-11-03-linkers-2007.html",
+      "date_iso": "2025-11-03T23:01:08+00:00",
+      "source": "https://www.airs.com/blog/archives/38",
+      "summary": "Article URL: https://www.airs.com/blog/archives/38 Comments URL: https://news.ycombinator.com/item?id=45805514 Points: 62 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45805458",
+      "title": "Guideline has been acquired by Gusto",
+      "slug": "2025-11-03-guideline-has-been-acquired-by-gusto.html",
+      "path": "posts/2025-11-03-guideline-has-been-acquired-by-gusto.html",
+      "date_iso": "2025-11-03T22:54:20+00:00",
+      "source": "https://help.guideline.com/en/articles/12694322-guideline-has-joined-gusto-faqs-about-our-recent-acquisition",
+      "summary": "Article URL: https://help.guideline.com/en/articles/12694322-guideline-has-joined-gusto-faqs-about-our-recent-acquisition Comments URL: https://news.ycombinator.com/item?id=45805458 Points: 102 # Comments: 91"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45804377",
+      "title": "AI's Dial-Up Era",
+      "slug": "2025-11-03-ai-s-dial-up-era.html",
+      "path": "posts/2025-11-03-ai-s-dial-up-era.html",
+      "date_iso": "2025-11-03T21:01:09+00:00",
+      "source": "https://www.wreflection.com/p/ai-dial-up-era",
+      "summary": "Article URL: https://www.wreflection.com/p/ai-dial-up-era Comments URL: https://news.ycombinator.com/item?id=45804377 Points: 262 # Comments: 201"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45804122",
+      "title": "The Mack Super Pumper was a locomotive engined fire fighter (2018)",
+      "slug": "2025-11-03-the-mack-super-pumper-was-a-locomotive-engined-fire-fighter-2018.html",
+      "path": "posts/2025-11-03-the-mack-super-pumper-was-a-locomotive-engined-fire-fighter-2018.html",
+      "date_iso": "2025-11-03T20:37:34+00:00",
+      "source": "https://bangshift.com/bangshiftxl/mack-super-pumper-system-locomotive-engine-powered-pumper-extinguish-hell-often/",
+      "summary": "Article URL: https://bangshift.com/bangshiftxl/mack-super-pumper-system-locomotive-engine-powered-pumper-extinguish-hell-often/ Comments URL: https://news.ycombinator.com/item?id=45804122 Points: 122 # Comments: 93"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/03/technology/openai-amazon-cloud-computing.html",
+      "title": "OpenAI Signs $38 Billion Cloud Computing Deal With Amazon",
+      "slug": "2025-11-03-openai-signs-38-billion-cloud-computing-deal-with-amazon.html",
+      "path": "posts/2025-11-03-openai-signs-38-billion-cloud-computing-deal-with-amazon.html",
+      "date_iso": "2025-11-03T19:07:24+00:00",
+      "source": "https://www.nytimes.com/2025/11/03/technology/openai-amazon-cloud-computing.html",
+      "summary": "Sam Altman, the chief executive of OpenAI, at the White House in September."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45802459",
+      "title": "Gallery of wonderful drawings our little thermal printer received",
+      "slug": "2025-11-03-gallery-of-wonderful-drawings-our-little-thermal-printer-received.html",
+      "path": "posts/2025-11-03-gallery-of-wonderful-drawings-our-little-thermal-printer-received.html",
+      "date_iso": "2025-11-03T18:27:32+00:00",
+      "source": "https://guestbook.goodenough.us",
+      "summary": "Article URL: https://guestbook.goodenough.us Comments URL: https://news.ycombinator.com/item?id=45802459 Points: 96 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45802029",
+      "title": "The Case That A.I. Is Thinking",
+      "slug": "2025-11-03-the-case-that-a-i-is-thinking.html",
+      "path": "posts/2025-11-03-the-case-that-a-i-is-thinking.html",
+      "date_iso": "2025-11-03T17:55:10+00:00",
+      "source": "https://www.newyorker.com/magazine/2025/11/10/the-case-that-ai-is-thinking",
+      "summary": "https://archive.ph/fPLJH Comments URL: https://news.ycombinator.com/item?id=45802029 Points: 151 # Comments: 445"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/03/technology/facebook-dating-surprise-hit.html",
+      "title": "Facebook Dating Has Become a Surprise Hit for the Social Network",
+      "slug": "2025-11-03-facebook-dating-has-become-a-surprise-hit-for-the-social-network.html",
+      "path": "posts/2025-11-03-facebook-dating-has-become-a-surprise-hit-for-the-social-network.html",
+      "date_iso": "2025-11-03T17:51:05+00:00",
+      "source": "https://www.nytimes.com/2025/11/03/technology/facebook-dating-surprise-hit.html",
+      "summary": "Facebook Dating is used by a slice of the app’s 3 billion users."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45800777",
+      "title": "Learning to read Arthur Whitney's C to become smart (2024)",
+      "slug": "2025-11-03-learning-to-read-arthur-whitney-s-c-to-become-smart-2024.html",
+      "path": "posts/2025-11-03-learning-to-read-arthur-whitney-s-c-to-become-smart-2024.html",
+      "date_iso": "2025-11-03T16:23:11+00:00",
+      "source": "https://needleful.net/blog/2024/01/arthur_whitney.html",
+      "summary": "Article URL: https://needleful.net/blog/2024/01/arthur_whitney.html Comments URL: https://news.ycombinator.com/item?id=45800777 Points: 273 # Comments: 102"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45800465",
+      "title": "Ask HN: Who is hiring? (November 2025)",
+      "slug": "2025-11-03-ask-hn-who-is-hiring-november-2025.html",
+      "path": "posts/2025-11-03-ask-hn-who-is-hiring-november-2025.html",
+      "date_iso": "2025-11-03T16:00:00+00:00",
+      "source": "https://news.ycombinator.com/item?id=45800465",
+      "summary": "Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option. Please only post if you personally are part of the hiring company—no recruiting firms or job boards. One post per comp…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45800464",
+      "title": "Ask HN: Who wants to be hired? (November 2025)",
+      "slug": "2025-11-03-ask-hn-who-wants-to-be-hired-november-2025.html",
+      "path": "posts/2025-11-03-ask-hn-who-wants-to-be-hired-november-2025.html",
+      "date_iso": "2025-11-03T16:00:00+00:00",
+      "source": "https://news.ycombinator.com/item?id=45800464",
+      "summary": "Share your information if you are looking for work. Please use this format: Location: Remote: Willing to relocate: Technologies: Résumé/CV: Email: Please only post if you are personally looking for work. Agencies, recruiters, job boards, and so on, are off topic here. Readers: p…"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/03/business/elon-musk-tesla-pay-vote.html",
+      "title": "Control of Tesla Is at Stake in Vote on Elon Musk’s Pay Plan",
+      "slug": "2025-11-03-control-of-tesla-is-at-stake-in-vote-on-elon-musk-s-pay-plan.html",
+      "path": "posts/2025-11-03-control-of-tesla-is-at-stake-in-vote-on-elon-musk-s-pay-plan.html",
+      "date_iso": "2025-11-03T15:44:33+00:00",
+      "source": "https://www.nytimes.com/2025/11/03/business/elon-musk-tesla-pay-vote.html",
+      "summary": "Elon Musk and his critics agree on one thing: The compensation fight is about how much influence he has over Tesla."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/03/technology/ai-dating-apps.html",
+      "title": "How A.I. Is Transforming Dating Apps",
+      "slug": "2025-11-03-how-a-i-is-transforming-dating-apps.html",
+      "path": "posts/2025-11-03-how-a-i-is-transforming-dating-apps.html",
+      "date_iso": "2025-11-03T15:20:51+00:00",
+      "source": "https://www.nytimes.com/2025/11/03/technology/ai-dating-apps.html",
+      "summary": "Meet your artificial intelligence matchmakers. These A.I. tools are changing dating apps, so users don’t have to swipe through an endless scroll of profiles."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45799478",
+      "title": "State of Terminal Emulators in 2025: The Errant Champions",
+      "slug": "2025-11-03-state-of-terminal-emulators-in-2025-the-errant-champions.html",
+      "path": "posts/2025-11-03-state-of-terminal-emulators-in-2025-the-errant-champions.html",
+      "date_iso": "2025-11-03T14:40:51+00:00",
+      "source": "https://www.jeffquast.com/post/state-of-terminal-emulation-2025/",
+      "summary": "Article URL: https://www.jeffquast.com/post/state-of-terminal-emulation-2025/ Comments URL: https://news.ycombinator.com/item?id=45799478 Points: 199 # Comments: 176"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45798881",
+      "title": "Skyfall-GS – Synthesizing Immersive 3D Urban Scenes from Satellite Imagery",
+      "slug": "2025-11-03-skyfall-gs-synthesizing-immersive-3d-urban-scenes-from-satellite-imagery.html",
+      "path": "posts/2025-11-03-skyfall-gs-synthesizing-immersive-3d-urban-scenes-from-satellite-imagery.html",
+      "date_iso": "2025-11-03T13:46:19+00:00",
+      "source": "https://skyfall-gs.jayinnn.dev/",
+      "summary": "Article URL: https://skyfall-gs.jayinnn.dev/ Comments URL: https://news.ycombinator.com/item?id=45798881 Points: 122 # Comments: 31"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/03/magazine/friend-wearable-ai-companion.html",
+      "title": "Everyone Hates ‘Friend,’ the A.I. Necklace. But the A.I. Isn’t the Problem.",
+      "slug": "2025-11-03-everyone-hates-friend-the-a-i-necklace-but-the-a-i-isn-t-the-problem.html",
+      "path": "posts/2025-11-03-everyone-hates-friend-the-a-i-necklace-but-the-a-i-isn-t-the-problem.html",
+      "date_iso": "2025-11-03T10:01:26+00:00",
+      "source": "https://www.nytimes.com/2025/11/03/magazine/friend-wearable-ai-companion.html",
+      "summary": "A wearable companion is a brilliant idea — in theory."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45796421",
       "title": "First recording of a dying human brain shows waves similar to memory flashbacks",
       "slug": "2025-11-03-first-recording-of-a-dying-human-brain-shows-waves-similar-to-memory-flashbacks.html",
