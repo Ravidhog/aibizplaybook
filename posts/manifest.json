@@ -1,6 +1,213 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45818973",
+      "title": "Epic vs. Google settlement: Opening up Android",
+      "slug": "2025-11-05-epic-vs-google-settlement-opening-up-android.html",
+      "path": "posts/2025-11-05-epic-vs-google-settlement-opening-up-android.html",
+      "date_iso": "2025-11-05T04:12:53+00:00",
+      "source": "https://twitter.com/TimSweeneyEpic/status/1985920786545123613",
+      "summary": "Article URL: https://twitter.com/TimSweeneyEpic/status/1985920786545123613 Comments URL: https://news.ycombinator.com/item?id=45818973 Points: 58 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45818562",
+      "title": "Hypothesis: Property-Based Testing for Python",
+      "slug": "2025-11-05-hypothesis-property-based-testing-for-python.html",
+      "path": "posts/2025-11-05-hypothesis-property-based-testing-for-python.html",
+      "date_iso": "2025-11-05T03:15:37+00:00",
+      "source": "https://hypothesis.readthedocs.io/en/latest/",
+      "summary": "Article URL: https://hypothesis.readthedocs.io/en/latest/ Comments URL: https://news.ycombinator.com/item?id=45818562 Points: 67 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45818499",
+      "title": "Preventing Kubernetes from Pulling the Pause Image from the Internet",
+      "slug": "2025-11-05-preventing-kubernetes-from-pulling-the-pause-image-from-the-internet.html",
+      "path": "posts/2025-11-05-preventing-kubernetes-from-pulling-the-pause-image-from-the-internet.html",
+      "date_iso": "2025-11-05T03:04:58+00:00",
+      "source": "https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-the-pause-image-from-the-internet/",
+      "summary": "Article URL: https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-the-pause-image-from-the-internet/ Comments URL: https://news.ycombinator.com/item?id=45818499 Points: 19 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45818483",
+      "title": "What Happened to Piracy? Copyright Enforcement Fades as AI Giants Rise",
+      "slug": "2025-11-05-what-happened-to-piracy-copyright-enforcement-fades-as-ai-giants-rise.html",
+      "path": "posts/2025-11-05-what-happened-to-piracy-copyright-enforcement-fades-as-ai-giants-rise.html",
+      "date_iso": "2025-11-05T03:01:59+00:00",
+      "source": "https://www.leefang.com/p/what-happened-to-piracy-copyright",
+      "summary": "Article URL: https://www.leefang.com/p/what-happened-to-piracy-copyright Comments URL: https://news.ycombinator.com/item?id=45818483 Points: 61 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45818471",
+      "title": "The Microsoft SoftCard for the Apple II: Getting two processors to share memory",
+      "slug": "2025-11-05-the-microsoft-softcard-for-the-apple-ii-getting-two-processors-to-share-memory.html",
+      "path": "posts/2025-11-05-the-microsoft-softcard-for-the-apple-ii-getting-two-processors-to-share-memory.html",
+      "date_iso": "2025-11-05T02:58:25+00:00",
+      "source": "https://devblogs.microsoft.com/oldnewthing/20251104-00/?p=111758",
+      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20251104-00/?p=111758 Comments URL: https://news.ycombinator.com/item?id=45818471 Points: 10 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45818421",
+      "title": "Zohran Mamdani wins the New York mayoral race",
+      "slug": "2025-11-05-zohran-mamdani-wins-the-new-york-mayoral-race.html",
+      "path": "posts/2025-11-05-zohran-mamdani-wins-the-new-york-mayoral-race.html",
+      "date_iso": "2025-11-05T02:50:06+00:00",
+      "source": "https://www.nbcnews.com/politics/elections/new-york-city-mayor-election-winner-2025-race-rcna238909",
+      "summary": "Article URL: https://www.nbcnews.com/politics/elections/new-york-city-mayor-election-winner-2025-race-rcna238909 Comments URL: https://news.ycombinator.com/item?id=45818421 Points: 500 # Comments: 519"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45818319",
+      "title": "Direct File won't happen in 2026, IRS tells states",
+      "slug": "2025-11-05-direct-file-won-t-happen-in-2026-irs-tells-states.html",
+      "path": "posts/2025-11-05-direct-file-won-t-happen-in-2026-irs-tells-states.html",
+      "date_iso": "2025-11-05T02:30:38+00:00",
+      "source": "https://www.nextgov.com/digital-government/2025/11/direct-file-wont-happen-2026-irs-tells-states/409309/",
+      "summary": "Article URL: https://www.nextgov.com/digital-government/2025/11/direct-file-wont-happen-2026-irs-tells-states/409309/ Comments URL: https://news.ycombinator.com/item?id=45818319 Points: 169 # Comments: 82"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45818282",
+      "title": "GM Deprecating In-Car App Store for Models as Recent as 2020",
+      "slug": "2025-11-05-gm-deprecating-in-car-app-store-for-models-as-recent-as-2020.html",
+      "path": "posts/2025-11-05-gm-deprecating-in-car-app-store-for-models-as-recent-as-2020.html",
+      "date_iso": "2025-11-05T02:24:20+00:00",
+      "source": "https://gmauthority.com/blog/2025/11/these-gm-vehicles-can-no-longer-download-apps-through-their-infotainment-system/",
+      "summary": "Article URL: https://gmauthority.com/blog/2025/11/these-gm-vehicles-can-no-longer-download-apps-through-their-infotainment-system/ Comments URL: https://news.ycombinator.com/item?id=45818282 Points: 63 # Comments: 45"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45818123",
+      "title": "Munich's surfers left stunned after famed river wave vanishes",
+      "slug": "2025-11-05-munich-s-surfers-left-stunned-after-famed-river-wave-vanishes.html",
+      "path": "posts/2025-11-05-munich-s-surfers-left-stunned-after-famed-river-wave-vanishes.html",
+      "date_iso": "2025-11-05T01:51:27+00:00",
+      "source": "https://www.theguardian.com/world/2025/nov/04/munichs-surfers-left-stunned-after-famed-river-wave-vanishes",
+      "summary": "Article URL: https://www.theguardian.com/world/2025/nov/04/munichs-surfers-left-stunned-after-famed-river-wave-vanishes Comments URL: https://news.ycombinator.com/item?id=45818123 Points: 81 # Comments: 21"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/04/technology/ibm-layoffs-ai.html",
+      "title": "IBM to Cut Thousands of Workers Amid A.I. Boom",
+      "slug": "2025-11-04-ibm-to-cut-thousands-of-workers-amid-a-i-boom.html",
+      "path": "posts/2025-11-04-ibm-to-cut-thousands-of-workers-amid-a-i-boom.html",
+      "date_iso": "2025-11-04T23:57:31+00:00",
+      "source": "https://www.nytimes.com/2025/11/04/technology/ibm-layoffs-ai.html",
+      "summary": "For years, IBM has periodically laid off some workers and added others, a process it has called “work force rebalancing.”"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45817167",
+      "title": "Uncle Sam wants to scan your iris and collect your DNA, citizen or not",
+      "slug": "2025-11-04-uncle-sam-wants-to-scan-your-iris-and-collect-your-dna-citizen-or-not.html",
+      "path": "posts/2025-11-04-uncle-sam-wants-to-scan-your-iris-and-collect-your-dna-citizen-or-not.html",
+      "date_iso": "2025-11-04T23:35:27+00:00",
+      "source": "https://www.theregister.com/2025/11/04/dhs_wants_to_collect_biometric_data/",
+      "summary": "Article URL: https://www.theregister.com/2025/11/04/dhs_wants_to_collect_biometric_data/ Comments URL: https://news.ycombinator.com/item?id=45817167 Points: 223 # Comments: 124"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45817114",
+      "title": "Bluetui – A TUI for managing Bluetooth on Linux",
+      "slug": "2025-11-04-bluetui-a-tui-for-managing-bluetooth-on-linux.html",
+      "path": "posts/2025-11-04-bluetui-a-tui-for-managing-bluetooth-on-linux.html",
+      "date_iso": "2025-11-04T23:29:31+00:00",
+      "source": "https://github.com/pythops/bluetui",
+      "summary": "Article URL: https://github.com/pythops/bluetui Comments URL: https://news.ycombinator.com/item?id=45817114 Points: 97 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45816968",
+      "title": "Google Removed 749M Anna's Archive URLs from Its Search Results",
+      "slug": "2025-11-04-google-removed-749m-anna-s-archive-urls-from-its-search-results.html",
+      "path": "posts/2025-11-04-google-removed-749m-anna-s-archive-urls-from-its-search-results.html",
+      "date_iso": "2025-11-04T23:11:20+00:00",
+      "source": "https://torrentfreak.com/google-removed-749-million-annas-archive-urls-from-its-search-results/",
+      "summary": "Article URL: https://torrentfreak.com/google-removed-749-million-annas-archive-urls-from-its-search-results/ Comments URL: https://news.ycombinator.com/item?id=45816968 Points: 189 # Comments: 81"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45816879",
+      "title": "Patching 68K Software – SimpleText",
+      "slug": "2025-11-04-patching-68k-software-simpletext.html",
+      "path": "posts/2025-11-04-patching-68k-software-simpletext.html",
+      "date_iso": "2025-11-04T22:59:22+00:00",
+      "source": "https://tinkerdifferent.com/threads/patching-68k-software-simpletext.4793/",
+      "summary": "Article URL: https://tinkerdifferent.com/threads/patching-68k-software-simpletext.4793/ Comments URL: https://news.ycombinator.com/item?id=45816879 Points: 81 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45816853",
+      "title": "Mr Tiff",
+      "slug": "2025-11-04-mr-tiff.html",
+      "path": "posts/2025-11-04-mr-tiff.html",
+      "date_iso": "2025-11-04T22:57:12+00:00",
+      "source": "https://inventingthefuture.ghost.io/mr-tiff/",
+      "summary": "Article URL: https://inventingthefuture.ghost.io/mr-tiff/ Comments URL: https://news.ycombinator.com/item?id=45816853 Points: 444 # Comments: 58"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45816673",
+      "title": "Grayskull: A tiny computer vision library in C for embedded systems, etc.",
+      "slug": "2025-11-04-grayskull-a-tiny-computer-vision-library-in-c-for-embedded-systems-etc.html",
+      "path": "posts/2025-11-04-grayskull-a-tiny-computer-vision-library-in-c-for-embedded-systems-etc.html",
+      "date_iso": "2025-11-04T22:35:58+00:00",
+      "source": "https://github.com/zserge/grayskull",
+      "summary": "Article URL: https://github.com/zserge/grayskull Comments URL: https://news.ycombinator.com/item?id=45816673 Points: 69 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45816041",
+      "title": "I took all my projects off the cloud, saving thousands of dollars",
+      "slug": "2025-11-04-i-took-all-my-projects-off-the-cloud-saving-thousands-of-dollars.html",
+      "path": "posts/2025-11-04-i-took-all-my-projects-off-the-cloud-saving-thousands-of-dollars.html",
+      "date_iso": "2025-11-04T21:22:15+00:00",
+      "source": "https://rameerez.com/send-this-article-to-your-friend-who-still-thinks-the-cloud-is-a-good-idea/",
+      "summary": "Article URL: https://rameerez.com/send-this-article-to-your-friend-who-still-thinks-the-cloud-is-a-good-idea/ Comments URL: https://news.ycombinator.com/item?id=45816041 Points: 210 # Comments: 197"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45813767",
+      "title": "Codemaps: Understand Code, Before You Vibe It",
+      "slug": "2025-11-04-codemaps-understand-code-before-you-vibe-it.html",
+      "path": "posts/2025-11-04-codemaps-understand-code-before-you-vibe-it.html",
+      "date_iso": "2025-11-04T17:47:09+00:00",
+      "source": "https://cognition.ai/blog/codemaps",
+      "summary": "Article URL: https://cognition.ai/blog/codemaps Comments URL: https://news.ycombinator.com/item?id=45813767 Points: 231 # Comments: 81"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/04/business/right-wing-chatbots-gab-arya-chatgpt-gemini.html",
+      "title": "Right-Wing Chatbots Turbocharge America’s Political and Cultural Wars",
+      "slug": "2025-11-04-right-wing-chatbots-turbocharge-america-s-political-and-cultural-wars.html",
+      "path": "posts/2025-11-04-right-wing-chatbots-turbocharge-america-s-political-and-cultural-wars.html",
+      "date_iso": "2025-11-04T17:24:20+00:00",
+      "source": "https://www.nytimes.com/2025/11/04/business/right-wing-chatbots-gab-arya-chatgpt-gemini.html",
+      "summary": "Grok’s prompt page displayed on a phone."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/04/science/letters-to-the-editor-ai-chatbots.html",
+      "title": "The Editor Got a Letter From ‘Dr. B.S.’ So Did a Lot of Other Editors.",
+      "slug": "2025-11-04-the-editor-got-a-letter-from-dr-b-s-so-did-a-lot-of-other-editors.html",
+      "path": "posts/2025-11-04-the-editor-got-a-letter-from-dr-b-s-so-did-a-lot-of-other-editors.html",
+      "date_iso": "2025-11-04T17:18:06+00:00",
+      "source": "https://www.nytimes.com/2025/11/04/science/letters-to-the-editor-ai-chatbots.html",
+      "summary": "A research scientist who published a paper in a scientific journal about controlling mosquito-borne malaria infections was asked to rebut a letter to the editor sent by a scientist who had suddenly become improbably prolific starting in 2025."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45813310",
+      "title": "Launch HN: Plexe (YC X25) – Build production-grade ML models from prompts",
+      "slug": "2025-11-04-launch-hn-plexe-yc-x25-build-production-grade-ml-models-from-prompts.html",
+      "path": "posts/2025-11-04-launch-hn-plexe-yc-x25-build-production-grade-ml-models-from-prompts.html",
+      "date_iso": "2025-11-04T17:07:47+00:00",
+      "source": "https://www.plexe.ai/",
+      "summary": "Hey HN! We're Vaibhav and Marcello, founders of Plexe ( https://www.plexe.ai ). We create production-ready ML models from natural language descriptions. Tell Plexe what ML problem you want to solve, point it at your data, and it handles the entire pipeline from feature engineeri…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45812606",
+      "title": "Pg_lake: Postgres with Iceberg and data lake access",
+      "slug": "2025-11-04-pg-lake-postgres-with-iceberg-and-data-lake-access.html",
+      "path": "posts/2025-11-04-pg-lake-postgres-with-iceberg-and-data-lake-access.html",
+      "date_iso": "2025-11-04T16:12:27+00:00",
+      "source": "https://github.com/Snowflake-Labs/pg_lake",
+      "summary": "Article URL: https://github.com/Snowflake-Labs/pg_lake Comments URL: https://news.ycombinator.com/item?id=45812606 Points: 310 # Comments: 90"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45812024",
+      "title": "This Day in 1988, the Morris worm infected 10% of the Internet within 24 hours",
+      "slug": "2025-11-04-this-day-in-1988-the-morris-worm-infected-10-of-the-internet-within-24-hours.html",
+      "path": "posts/2025-11-04-this-day-in-1988-the-morris-worm-infected-10-of-the-internet-within-24-hours.html",
+      "date_iso": "2025-11-04T15:23:14+00:00",
+      "source": "https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours Comments URL: https://news.ycombinator.com/item?id=45812024 Poi…"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45807775",
       "title": "Tell HN: X is opening any tweet link in a webview whether you press it or not",
       "slug": "2025-11-04-tell-hn-x-is-opening-any-tweet-link-in-a-webview-whether-you-press-it-or-not.html",
