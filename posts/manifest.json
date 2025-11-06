@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2025/11/06/business/elon-musk-tesla-trillion-dollar.html",
+      "title": "Would Elon Musk Work Harder for $1 Trillion Than $1 Billion?",
+      "slug": "2025-11-06-would-elon-musk-work-harder-for-1-trillion-than-1-billion.html",
+      "path": "posts/2025-11-06-would-elon-musk-work-harder-for-1-trillion-than-1-billion.html",
+      "date_iso": "2025-11-06T05:00:05+00:00",
+      "source": "https://www.nytimes.com/2025/11/06/business/elon-musk-tesla-trillion-dollar.html",
+      "summary": "Elon Musk, Tesla’s chief executive, has said he is more interested in power than money."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45831541",
+      "title": "I may have found a way to spot U.S. at-sea strikes before they're announced",
+      "slug": "2025-11-06-i-may-have-found-a-way-to-spot-u-s-at-sea-strikes-before-they-re-announced.html",
+      "path": "posts/2025-11-06-i-may-have-found-a-way-to-spot-u-s-at-sea-strikes-before-they-re-announced.html",
+      "date_iso": "2025-11-06T04:37:45+00:00",
+      "source": "https://old.reddit.com/r/OSINT/comments/1opjjyv/i_may_have_found_a_way_to_spot_us_atsea_strikes/",
+      "summary": "Article URL: https://old.reddit.com/r/OSINT/comments/1opjjyv/i_may_have_found_a_way_to_spot_us_atsea_strikes/ Comments URL: https://news.ycombinator.com/item?id=45831541 Points: 98 # Comments: 56"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45830829",
+      "title": "Ratatui – App Showcase",
+      "slug": "2025-11-06-ratatui-app-showcase.html",
+      "path": "posts/2025-11-06-ratatui-app-showcase.html",
+      "date_iso": "2025-11-06T02:50:31+00:00",
+      "source": "https://ratatui.rs/showcase/apps/",
+      "summary": "Article URL: https://ratatui.rs/showcase/apps/ Comments URL: https://news.ycombinator.com/item?id=45830829 Points: 140 # Comments: 57"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45830808",
+      "title": "Brain-IT: Image Reconstruction from fMRI via Brain-Interaction Transformer",
+      "slug": "2025-11-06-brain-it-image-reconstruction-from-fmri-via-brain-interaction-transformer.html",
+      "path": "posts/2025-11-06-brain-it-image-reconstruction-from-fmri-via-brain-interaction-transformer.html",
+      "date_iso": "2025-11-06T02:46:23+00:00",
+      "source": "https://AmitZalcher.github.io/Brain-IT/",
+      "summary": "Article URL: https://AmitZalcher.github.io/Brain-IT/ Comments URL: https://news.ycombinator.com/item?id=45830808 Points: 20 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45830770",
+      "title": "End of Japanese community",
+      "slug": "2025-11-06-end-of-japanese-community.html",
+      "path": "posts/2025-11-06-end-of-japanese-community.html",
+      "date_iso": "2025-11-06T02:38:53+00:00",
+      "source": "https://support.mozilla.org/en-US/forums/contributors/717446",
+      "summary": "Article URL: https://support.mozilla.org/en-US/forums/contributors/717446 Comments URL: https://news.ycombinator.com/item?id=45830770 Points: 402 # Comments: 228"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45830223",
+      "title": "Recursive macros in C, demystified (once the ugly crying stops)",
+      "slug": "2025-11-06-recursive-macros-in-c-demystified-once-the-ugly-crying-stops.html",
+      "path": "posts/2025-11-06-recursive-macros-in-c-demystified-once-the-ugly-crying-stops.html",
+      "date_iso": "2025-11-06T01:09:18+00:00",
+      "source": "https://h4x0r.org/big-mac-ro-attack/",
+      "summary": "Article URL: https://h4x0r.org/big-mac-ro-attack/ Comments URL: https://news.ycombinator.com/item?id=45830223 Points: 61 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45829210",
+      "title": "The Basic Laws of Human Stupidity (1987) [pdf]",
+      "slug": "2025-11-05-the-basic-laws-of-human-stupidity-1987-pdf.html",
+      "path": "posts/2025-11-05-the-basic-laws-of-human-stupidity-1987-pdf.html",
+      "date_iso": "2025-11-05T22:58:38+00:00",
+      "source": "https://gandalf.fee.urv.cat/professors/AntonioQuesada/Curs1920/Cipolla_laws.pdf",
+      "summary": "Article URL: https://gandalf.fee.urv.cat/professors/AntonioQuesada/Curs1920/Cipolla_laws.pdf Comments URL: https://news.ycombinator.com/item?id=45829210 Points: 68 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45827661",
+      "title": "A Lost IBM PC/at Model? Analyzing a Newfound Old Bios",
+      "slug": "2025-11-05-a-lost-ibm-pc-at-model-analyzing-a-newfound-old-bios.html",
+      "path": "posts/2025-11-05-a-lost-ibm-pc-at-model-analyzing-a-newfound-old-bios.html",
+      "date_iso": "2025-11-05T20:40:39+00:00",
+      "source": "https://int10h.org/blog/2025/11/lost-ibm-at-model-bios-analysis/",
+      "summary": "Article URL: https://int10h.org/blog/2025/11/lost-ibm-at-model-bios-analysis/ Comments URL: https://news.ycombinator.com/item?id=45827661 Points: 77 # Comments: 13"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/05/business/us-china-chips-automakers.html",
+      "title": "How Trade Tensions Sent Automakers Scrambling for Chips",
+      "slug": "2025-11-05-how-trade-tensions-sent-automakers-scrambling-for-chips.html",
+      "path": "posts/2025-11-05-how-trade-tensions-sent-automakers-scrambling-for-chips.html",
+      "date_iso": "2025-11-05T20:14:48+00:00",
+      "source": "https://www.nytimes.com/2025/11/05/business/us-china-chips-automakers.html",
+      "summary": "Mercedes-Benz’s headquarters in Stuttgart, Germany. Mercedes, Stellantis and Nissan have formed task forces to keep production running and secure alternative chip supplies."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45827190",
+      "title": "Solarpunk is happening in Africa",
+      "slug": "2025-11-05-solarpunk-is-happening-in-africa.html",
+      "path": "posts/2025-11-05-solarpunk-is-happening-in-africa.html",
+      "date_iso": "2025-11-05T20:00:40+00:00",
+      "source": "https://climatedrift.substack.com/p/why-solarpunk-is-already-happening",
+      "summary": "Article URL: https://climatedrift.substack.com/p/why-solarpunk-is-already-happening Comments URL: https://news.ycombinator.com/item?id=45827190 Points: 713 # Comments: 342"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45826995",
+      "title": "New gel restores dental enamel and could revolutionise tooth repair",
+      "slug": "2025-11-05-new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair.html",
+      "path": "posts/2025-11-05-new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair.html",
+      "date_iso": "2025-11-05T19:44:49+00:00",
+      "source": "https://www.nottingham.ac.uk/news/new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair",
+      "summary": "Study: https://www.nature.com/articles/s41467-025-64982-y Comments URL: https://news.ycombinator.com/item?id=45826995 Points: 443 # Comments: 175"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45826348",
+      "title": "The state of SIMD in Rust in 2025",
+      "slug": "2025-11-05-the-state-of-simd-in-rust-in-2025.html",
+      "path": "posts/2025-11-05-the-state-of-simd-in-rust-in-2025.html",
+      "date_iso": "2025-11-05T18:45:57+00:00",
+      "source": "https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d",
+      "summary": "Article URL: https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d Comments URL: https://news.ycombinator.com/item?id=45826348 Points: 184 # Comments: 96"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45826266",
+      "title": "Dillo, a multi-platform graphical web browser",
+      "slug": "2025-11-05-dillo-a-multi-platform-graphical-web-browser.html",
+      "path": "posts/2025-11-05-dillo-a-multi-platform-graphical-web-browser.html",
+      "date_iso": "2025-11-05T18:40:32+00:00",
+      "source": "https://github.com/dillo-browser/dillo",
+      "summary": "Article URL: https://github.com/dillo-browser/dillo Comments URL: https://news.ycombinator.com/item?id=45826266 Points: 292 # Comments: 95"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45825965",
+      "title": "ChatGPT terms disallow its use in providing legal and medical advice to others",
+      "slug": "2025-11-05-chatgpt-terms-disallow-its-use-in-providing-legal-and-medical-advice-to-others.html",
+      "path": "posts/2025-11-05-chatgpt-terms-disallow-its-use-in-providing-legal-and-medical-advice-to-others.html",
+      "date_iso": "2025-11-05T18:11:16+00:00",
+      "source": "https://www.ctvnews.ca/sci-tech/article/openai-updates-policies-so-chatgpt-wont-provide-medical-or-legal-advice/",
+      "summary": "Article URL: https://www.ctvnews.ca/sci-tech/article/openai-updates-policies-so-chatgpt-wont-provide-medical-or-legal-advice/ Comments URL: https://news.ycombinator.com/item?id=45825965 Points: 275 # Comments: 259"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45824864",
+      "title": "Why aren't smart people happier?",
+      "slug": "2025-11-05-why-aren-t-smart-people-happier.html",
+      "path": "posts/2025-11-05-why-aren-t-smart-people-happier.html",
+      "date_iso": "2025-11-05T16:32:43+00:00",
+      "source": "https://www.theseedsofscience.pub/p/why-arent-smart-people-happier",
+      "summary": "Article URL: https://www.theseedsofscience.pub/p/why-arent-smart-people-happier Comments URL: https://news.ycombinator.com/item?id=45824864 Points: 286 # Comments: 373"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45823831",
+      "title": "Ruby and Its Neighbors: Smalltalk",
+      "slug": "2025-11-05-ruby-and-its-neighbors-smalltalk.html",
+      "path": "posts/2025-11-05-ruby-and-its-neighbors-smalltalk.html",
+      "date_iso": "2025-11-05T15:24:35+00:00",
+      "source": "https://noelrappin.com/blog/2025/11/ruby-and-its-neighbors-smalltalk/",
+      "summary": "Article URL: https://noelrappin.com/blog/2025/11/ruby-and-its-neighbors-smalltalk/ Comments URL: https://news.ycombinator.com/item?id=45823831 Points: 188 # Comments: 101"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45823186",
+      "title": "Carice TC2 – A non-digital electric car",
+      "slug": "2025-11-05-carice-tc2-a-non-digital-electric-car.html",
+      "path": "posts/2025-11-05-carice-tc2-a-non-digital-electric-car.html",
+      "date_iso": "2025-11-05T14:25:36+00:00",
+      "source": "https://www.caricecars.com/",
+      "summary": "Article URL: https://www.caricecars.com/ Comments URL: https://news.ycombinator.com/item?id=45823186 Points: 212 # Comments: 156"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45823141",
+      "title": "The shadows lurking in the equations",
+      "slug": "2025-11-05-the-shadows-lurking-in-the-equations.html",
+      "path": "posts/2025-11-05-the-shadows-lurking-in-the-equations.html",
+      "date_iso": "2025-11-05T14:21:13+00:00",
+      "source": "https://gods.art/articles/equation_shadows.html",
+      "summary": "Article URL: https://gods.art/articles/equation_shadows.html Comments URL: https://news.ycombinator.com/item?id=45823141 Points: 267 # Comments: 84"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45822559",
+      "title": "Radiant Computer",
+      "slug": "2025-11-05-radiant-computer.html",
+      "path": "posts/2025-11-05-radiant-computer.html",
+      "date_iso": "2025-11-05T13:22:35+00:00",
+      "source": "https://radiant.computer",
+      "summary": "Article URL: https://radiant.computer Comments URL: https://news.ycombinator.com/item?id=45822559 Points: 189 # Comments: 136"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45822539",
+      "title": "NY school phone ban has made lunch loud again",
+      "slug": "2025-11-05-ny-school-phone-ban-has-made-lunch-loud-again.html",
+      "path": "posts/2025-11-05-ny-school-phone-ban-has-made-lunch-loud-again.html",
+      "date_iso": "2025-11-05T13:20:16+00:00",
+      "source": "https://gothamist.com/news/ny-smartphone-ban-has-made-lunch-loud-again",
+      "summary": "Article URL: https://gothamist.com/news/ny-smartphone-ban-has-made-lunch-loud-again Comments URL: https://news.ycombinator.com/item?id=45822539 Points: 273 # Comments: 199"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/05/magazine/ai-tech-industry-sora-science-fiction.html",
+      "title": "Why Does So Much New Technology Feel Inspired by Dystopian Sci-Fi Movies?",
+      "slug": "2025-11-05-why-does-so-much-new-technology-feel-inspired-by-dystopian-sci-fi-movies.html",
+      "path": "posts/2025-11-05-why-does-so-much-new-technology-feel-inspired-by-dystopian-sci-fi-movies.html",
+      "date_iso": "2025-11-05T10:01:21+00:00",
+      "source": "https://www.nytimes.com/2025/11/05/magazine/ai-tech-industry-sora-science-fiction.html",
+      "summary": "The industry keeps echoing ideas from bleak satires and cyberpunk stories as if they were exciting possibilities, not grim warnings."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45818973",
       "title": "Epic vs. Google settlement: Opening up Android",
       "slug": "2025-11-05-epic-vs-google-settlement-opening-up-android.html",
@@ -154,6 +343,15 @@
       "summary": "Article URL: https://rameerez.com/send-this-article-to-your-friend-who-still-thinks-the-cloud-is-a-good-idea/ Comments URL: https://news.ycombinator.com/item?id=45816041 Points: 210 # Comments: 197"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=45815419",
+      "title": "I was right about dishwasher pods and now I can prove it [video]",
+      "slug": "2025-11-04-i-was-right-about-dishwasher-pods-and-now-i-can-prove-it-video.html",
+      "path": "posts/2025-11-04-i-was-right-about-dishwasher-pods-and-now-i-can-prove-it-video.html",
+      "date_iso": "2025-11-04T20:16:45+00:00",
+      "source": "https://www.youtube.com/watch?v=DAX2_mPr9W8",
+      "summary": "Article URL: https://www.youtube.com/watch?v=DAX2_mPr9W8 Comments URL: https://news.ycombinator.com/item?id=45815419 Points: 376 # Comments: 265"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45813767",
       "title": "Codemaps: Understand Code, Before You Vibe It",
       "slug": "2025-11-04-codemaps-understand-code-before-you-vibe-it.html",
@@ -188,6 +386,15 @@
       "date_iso": "2025-11-04T17:07:47+00:00",
       "source": "https://www.plexe.ai/",
       "summary": "Hey HN! We're Vaibhav and Marcello, founders of Plexe ( https://www.plexe.ai ). We create production-ready ML models from natural language descriptions. Tell Plexe what ML problem you want to solve, point it at your data, and it handles the entire pipeline from feature engineeri…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45812756",
+      "title": "An eBPF Loophole: Using XDP for Egress Traffic",
+      "slug": "2025-11-04-an-ebpf-loophole-using-xdp-for-egress-traffic.html",
+      "path": "posts/2025-11-04-an-ebpf-loophole-using-xdp-for-egress-traffic.html",
+      "date_iso": "2025-11-04T16:26:09+00:00",
+      "source": "https://loopholelabs.io/blog/xdp-for-egress-traffic",
+      "summary": "Article URL: https://loopholelabs.io/blog/xdp-for-egress-traffic Comments URL: https://news.ycombinator.com/item?id=45812756 Points: 220 # Comments: 70"
     },
     {
       "id": "https://news.ycombinator.com/item?id=45812606",
