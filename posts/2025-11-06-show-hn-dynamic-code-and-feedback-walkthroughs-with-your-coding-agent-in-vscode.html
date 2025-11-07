@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Dynamic code and feedback walkthroughs with your coding Agent in VSCode</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Dynamic code and feedback walkthroughs with your coding Agent in VSCode</h1>
+    <p><small>Published: 2025-11-06T16:35:53+00:00</small></p>
+  </header>
+
+  <main>
+    <p>I've been programming since I'm 6 and I don't want to quit. Since Agents came into existence I've been increasingly building more of the random ideas.<p><i>BUT, like many</i> I kept getting stuck and frustrated where I wanted to make changes with the Agent that I <i>knew</i> I could've made without it but I had *no clue* how things worked.<p>I created Intraview to help me build and maintain a mental model of what I was building (or had vibed) so I could use my knowledge to either fix it myself, or provide more directed instruction. It grew into something that's transformed my workflow in a pleasant way.<p>Intraview is a VS Code extension that allows you to create:
+  - Dynamic code tours built by your existing Agent 
+  - Storage and sharing of tours (it's a file) 
+  - Batch Feedback/commenting inline in IDE in-tour and without (it's also a file)<p>Here's a video walkthrough for the show vs tell crowd where I jump in a random (<i>Plotly JS</i>) open source repo and build a tour to get started: <a href="https://www.youtube.com/watch?v=ROBvFlG6vtY" rel="nofollow">https://www.youtube.com/watch?v=ROBvFlG6vtY</a><p>Talking tech design, this is very different than most because the whole App is cloudless. Not server less, there's no external APIs (outside basic usage telemetry).<p><pre><code>  - basic TypeScript app, JS/CSS/HTML
+  - Localhost MCP server inside VS Code (one per workspace open)
+ </code></pre>
+Three of the biggest challenges I faced was:<p><pre><code>  - re-considering the user experience given there's no database 
+  - trying to build a reasonable experience to manage MCP connection across so many different setups.
+  - testing the many forks, Agents and themes because I wanted to make it look native (I'll probably reverse course here in future iterations)
+</code></pre>
+What I'm curious about is, where do you see the value:<p><pre><code>  - New project/developer onboarding 
+  - PR reviews 
+  - Keeping up with Agentic code 
+  - Perf reviews (for EM), you could build a tour biggest contributions by a GitHub handle
+  - Planning alignment and review with your Agent
+</code></pre>
+You can see the extension page in VS Code with these custom links <i>(Note: this redirects and requires permission to open VS Code, won't actually install, takes another click)</i><p><pre><code>  - for VS Code: https://intraview.ai/install?app=vscode
+  - for Cursor: https://intraview.ai/install?app=cursor
+</code></pre>
+Once it's installed and you confirm MCP is connected to your local server, just ask your Agent:<p><pre><code>  - Create an Intraview the onboarding for this app..
+  - Let's use Intraview to gather my feedback on [whatever you created]. Break down steps such that I can provide good granular feedback.
+</code></pre>
+Looking forward to your feedback and discussion.<p>And because this is HN. A relevant quotable from PG.<p><pre><code>  “Your code is your understanding 
+  of the problem you’re exploring. 
+  So it’s only when you have your code 
+  in your head that you really understand
+   the problem.” 
+  
+  — Paul Graham</code></pre></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45837067">https://news.ycombinator.com/item?id=45837067</a></p>
+<p>Points: 30</p>
+<p># Comments: 1</p>
+    <p><a href="https://www.intraview.ai/hn-demo" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

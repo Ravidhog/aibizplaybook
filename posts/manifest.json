@@ -1,6 +1,258 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45844151",
+      "title": "Photoroom (YC S20) Is Hiring a Senior AI Front End Engineer in Paris",
+      "slug": "2025-11-07-photoroom-yc-s20-is-hiring-a-senior-ai-front-end-engineer-in-paris.html",
+      "path": "posts/2025-11-07-photoroom-yc-s20-is-hiring-a-senior-ai-front-end-engineer-in-paris.html",
+      "date_iso": "2025-11-07T07:00:02+00:00",
+      "source": "https://jobs.ashbyhq.com/photoroom/7644fc7d-7840-406d-a1b1-b9d2d7ffa9b8",
+      "summary": "Article URL: https://jobs.ashbyhq.com/photoroom/7644fc7d-7840-406d-a1b1-b9d2d7ffa9b8 Comments URL: https://news.ycombinator.com/item?id=45844151 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45843948",
+      "title": "Leaving Meta and PyTorch",
+      "slug": "2025-11-07-leaving-meta-and-pytorch.html",
+      "path": "posts/2025-11-07-leaving-meta-and-pytorch.html",
+      "date_iso": "2025-11-07T06:14:50+00:00",
+      "source": "https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html",
+      "summary": "Article URL: https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html Comments URL: https://news.ycombinator.com/item?id=45843948 Points: 66 # Comments: 7"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/06/technology/chatgpt-lawsuit-suicides-delusions.html",
+      "title": "Lawsuits Blame ChatGPT for Suicides and Harmful Delusions",
+      "slug": "2025-11-07-lawsuits-blame-chatgpt-for-suicides-and-harmful-delusions.html",
+      "path": "posts/2025-11-07-lawsuits-blame-chatgpt-for-suicides-and-harmful-delusions.html",
+      "date_iso": "2025-11-07T04:43:46+00:00",
+      "source": "https://www.nytimes.com/2025/11/06/technology/chatgpt-lawsuit-suicides-delusions.html",
+      "summary": "Over three weeks of conversations with ChatGPT, Allan Brooks fell into a delusion. He is now suing OpenAI."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45843220",
+      "title": "Dead Framework Theory",
+      "slug": "2025-11-07-dead-framework-theory.html",
+      "path": "posts/2025-11-07-dead-framework-theory.html",
+      "date_iso": "2025-11-07T03:17:19+00:00",
+      "source": "https://aifoc.us/dead-framework-theory/",
+      "summary": "Article URL: https://aifoc.us/dead-framework-theory/ Comments URL: https://news.ycombinator.com/item?id=45843220 Points: 28 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45843146",
+      "title": "A Fond Farewell from Farmers' Almanac",
+      "slug": "2025-11-07-a-fond-farewell-from-farmers-almanac.html",
+      "path": "posts/2025-11-07-a-fond-farewell-from-farmers-almanac.html",
+      "date_iso": "2025-11-07T03:01:32+00:00",
+      "source": "https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac",
+      "summary": "Article URL: https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac Comments URL: https://news.ycombinator.com/item?id=45843146 Points: 162 # Comments: 57"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45843120",
+      "title": "A prvalue is not a temporary",
+      "slug": "2025-11-07-a-prvalue-is-not-a-temporary.html",
+      "path": "posts/2025-11-07-a-prvalue-is-not-a-temporary.html",
+      "date_iso": "2025-11-07T02:57:02+00:00",
+      "source": "https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/",
+      "summary": "Article URL: https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/ Comments URL: https://news.ycombinator.com/item?id=45843120 Points: 19 # Comments: 49"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45842777",
+      "title": "HTML Slides with notes",
+      "slug": "2025-11-07-html-slides-with-notes.html",
+      "path": "posts/2025-11-07-html-slides-with-notes.html",
+      "date_iso": "2025-11-07T01:57:02+00:00",
+      "source": "https://nbd.neocities.org/slidepresentation/Slide%20presentation%20about%20slides",
+      "summary": "Article URL: https://nbd.neocities.org/slidepresentation/Slide%20presentation%20about%20slides Comments URL: https://news.ycombinator.com/item?id=45842777 Points: 24 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45842494",
+      "title": "A Note on Fil-C",
+      "slug": "2025-11-07-a-note-on-fil-c.html",
+      "path": "posts/2025-11-07-a-note-on-fil-c.html",
+      "date_iso": "2025-11-07T00:59:58+00:00",
+      "source": "https://graydon2.dreamwidth.org/320265.html",
+      "summary": "Article URL: https://graydon2.dreamwidth.org/320265.html Comments URL: https://news.ycombinator.com/item?id=45842494 Points: 127 # Comments: 36"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/06/business/elon-musk-tesla-pay-vote.html",
+      "title": "Elon Musk Wins $1 Trillion Tesla Pay Package",
+      "slug": "2025-11-07-elon-musk-wins-1-trillion-tesla-pay-package.html",
+      "path": "posts/2025-11-07-elon-musk-wins-1-trillion-tesla-pay-package.html",
+      "date_iso": "2025-11-07T00:56:08+00:00",
+      "source": "https://www.nytimes.com/2025/11/06/business/elon-musk-tesla-pay-vote.html",
+      "summary": "Elon Musk, Tesla’s chief executive, had threatened to leave the company if shareholders rejected the pay plan."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45842263",
+      "title": "Scientists find ways to boost memory in aging brains",
+      "slug": "2025-11-07-scientists-find-ways-to-boost-memory-in-aging-brains.html",
+      "path": "posts/2025-11-07-scientists-find-ways-to-boost-memory-in-aging-brains.html",
+      "date_iso": "2025-11-07T00:22:53+00:00",
+      "source": "https://news.vt.edu/articles/2025/10/cals-jarome-improving-memory.html",
+      "summary": "Article URL: https://news.vt.edu/articles/2025/10/cals-jarome-improving-memory.html Comments URL: https://news.ycombinator.com/item?id=45842263 Points: 127 # Comments: 38"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45841262",
+      "title": "Game design is simple",
+      "slug": "2025-11-06-game-design-is-simple.html",
+      "path": "posts/2025-11-06-game-design-is-simple.html",
+      "date_iso": "2025-11-06T22:24:23+00:00",
+      "source": "https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/",
+      "summary": "Article URL: https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/ Comments URL: https://news.ycombinator.com/item?id=45841262 Points: 225 # Comments: 66"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/06/technology/openai-finances-debt-data-centers.html",
+      "title": "OpenAI Races to Quell Concerns Over Its Finances",
+      "slug": "2025-11-06-openai-races-to-quell-concerns-over-its-finances.html",
+      "path": "posts/2025-11-06-openai-races-to-quell-concerns-over-its-finances.html",
+      "date_iso": "2025-11-06T21:52:33+00:00",
+      "source": "https://www.nytimes.com/2025/11/06/technology/openai-finances-debt-data-centers.html",
+      "summary": "Sarah Friar, OpenAI’s chief financial officer."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45840200",
+      "title": "Analysis indicates that the universe’s expansion is not accelerating",
+      "slug": "2025-11-06-analysis-indicates-that-the-universe-s-expansion-is-not-accelerating.html",
+      "path": "posts/2025-11-06-analysis-indicates-that-the-universe-s-expansion-is-not-accelerating.html",
+      "date_iso": "2025-11-06T20:45:39+00:00",
+      "source": "https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding",
+      "summary": "Article URL: https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding Comments URL: https://news.ycombinator.com/item?id=45840200 Points: 145 # Comments: 132"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45840088",
+      "title": "You should write an agent",
+      "slug": "2025-11-06-you-should-write-an-agent.html",
+      "path": "posts/2025-11-06-you-should-write-an-agent.html",
+      "date_iso": "2025-11-06T20:37:06+00:00",
+      "source": "https://fly.io/blog/everyone-write-an-agent/",
+      "summary": "Article URL: https://fly.io/blog/everyone-write-an-agent/ Comments URL: https://news.ycombinator.com/item?id=45840088 Points: 580 # Comments: 248"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/06/technology/online-television-shutdown-blame.html",
+      "title": "Government Shutdown Blame Game Plays Out Online and on TV",
+      "slug": "2025-11-06-government-shutdown-blame-game-plays-out-online-and-on-tv.html",
+      "path": "posts/2025-11-06-government-shutdown-blame-game-plays-out-online-and-on-tv.html",
+      "date_iso": "2025-11-06T20:29:19+00:00",
+      "source": "https://www.nytimes.com/2025/11/06/technology/online-television-shutdown-blame.html",
+      "summary": "Dueling explanations are fighting for space online and on television as part of an increasingly partisan and siloed information environment."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45839901",
+      "title": "Two billion email addresses were exposed",
+      "slug": "2025-11-06-two-billion-email-addresses-were-exposed.html",
+      "path": "posts/2025-11-06-two-billion-email-addresses-were-exposed.html",
+      "date_iso": "2025-11-06T20:20:23+00:00",
+      "source": "https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/",
+      "summary": "Article URL: https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/ Comments URL: https://news.ycombinator.com/item?id=45839901 Points: 416 # Comments: 283"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/06/technology/zuckerberg-chan-initiative-biohub.html",
+      "title": "Mark Zuckerberg and Priscilla Chan Restructure Their Philanthropy",
+      "slug": "2025-11-06-mark-zuckerberg-and-priscilla-chan-restructure-their-philanthropy.html",
+      "path": "posts/2025-11-06-mark-zuckerberg-and-priscilla-chan-restructure-their-philanthropy.html",
+      "date_iso": "2025-11-06T19:07:09+00:00",
+      "source": "https://www.nytimes.com/2025/11/06/technology/zuckerberg-chan-initiative-biohub.html",
+      "summary": "Mark Zuckerberg, right, and his wife, Priscilla Chan, co-founders and co-chief executives of the Chan Zuckerberg Initiative, during an event at the Biohub Imaging Institute in Redwood City, Calif., on Wednesday."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45838564",
+      "title": "LLMs encode how difficult problems are",
+      "slug": "2025-11-06-llms-encode-how-difficult-problems-are.html",
+      "path": "posts/2025-11-06-llms-encode-how-difficult-problems-are.html",
+      "date_iso": "2025-11-06T18:29:03+00:00",
+      "source": "https://arxiv.org/abs/2510.18147",
+      "summary": "Article URL: https://arxiv.org/abs/2510.18147 Comments URL: https://news.ycombinator.com/item?id=45838564 Points: 127 # Comments: 26"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/06/technology/ai-therapy-chatbots-ash.html",
+      "title": "Are A.I. Therapy Chatbots Safe to Use?",
+      "slug": "2025-11-06-are-a-i-therapy-chatbots-safe-to-use.html",
+      "path": "posts/2025-11-06-are-a-i-therapy-chatbots-safe-to-use.html",
+      "date_iso": "2025-11-06T18:20:02+00:00",
+      "source": "https://www.nytimes.com/2025/11/06/technology/ai-therapy-chatbots-ash.html",
+      "summary": "Brittany Bucicchia began using an A.I. therapy chatbot after dealing with mental health struggles."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45837871",
+      "title": "Swift on FreeBSD Preview",
+      "slug": "2025-11-06-swift-on-freebsd-preview.html",
+      "path": "posts/2025-11-06-swift-on-freebsd-preview.html",
+      "date_iso": "2025-11-06T17:37:49+00:00",
+      "source": "https://forums.swift.org/t/swift-on-freebsd-preview/83064",
+      "summary": "Article URL: https://forums.swift.org/t/swift-on-freebsd-preview/83064 Comments URL: https://news.ycombinator.com/item?id=45837871 Points: 198 # Comments: 120"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45837067",
+      "title": "Show HN: Dynamic code and feedback walkthroughs with your coding Agent in VSCode",
+      "slug": "2025-11-06-show-hn-dynamic-code-and-feedback-walkthroughs-with-your-coding-agent-in-vscode.html",
+      "path": "posts/2025-11-06-show-hn-dynamic-code-and-feedback-walkthroughs-with-your-coding-agent-in-vscode.html",
+      "date_iso": "2025-11-06T16:35:53+00:00",
+      "source": "https://www.intraview.ai/hn-demo",
+      "summary": "I've been programming since I'm 6 and I don't want to quit. Since Agents came into existence I've been increasingly building more of the random ideas. BUT, like many I kept getting stuck and frustrated where I wanted to make changes with the Agent that I knew I could've made wit…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45836826",
+      "title": "FBI tries to unmask owner of archive.is",
+      "slug": "2025-11-06-fbi-tries-to-unmask-owner-of-archive-is.html",
+      "path": "posts/2025-11-06-fbi-tries-to-unmask-owner-of-archive-is.html",
+      "date_iso": "2025-11-06T16:18:18+00:00",
+      "source": "https://www.heise.de/en/news/Archive-today-FBI-Demands-Data-from-Provider-Tucows-11066346.html",
+      "summary": "Article URL: https://www.heise.de/en/news/Archive-today-FBI-Demands-Data-from-Provider-Tucows-11066346.html Comments URL: https://news.ycombinator.com/item?id=45836826 Points: 818 # Comments: 408"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/06/technology/personaltech/ai-social-media-brain-rot.html",
+      "title": "How A.I. and Social Media Contribute to ‘Brain Rot’",
+      "slug": "2025-11-06-how-a-i-and-social-media-contribute-to-brain-rot.html",
+      "path": "posts/2025-11-06-how-a-i-and-social-media-contribute-to-brain-rot.html",
+      "date_iso": "2025-11-06T15:15:31+00:00",
+      "source": "https://www.nytimes.com/2025/11/06/technology/personaltech/ai-social-media-brain-rot.html",
+      "summary": "A.I. search tools, chatbots and social media are associated with lower cognitive performance, studies say. What to do?"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45836070",
+      "title": "Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model",
+      "slug": "2025-11-06-kimi-k2-thinking-a-sota-open-source-trillion-parameter-reasoning-model.html",
+      "path": "posts/2025-11-06-kimi-k2-thinking-a-sota-open-source-trillion-parameter-reasoning-model.html",
+      "date_iso": "2025-11-06T15:06:06+00:00",
+      "source": "https://moonshotai.github.io/Kimi-K2/thinking.html",
+      "summary": "Article URL: https://moonshotai.github.io/Kimi-K2/thinking.html Comments URL: https://news.ycombinator.com/item?id=45836070 Points: 702 # Comments: 288"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45835931",
+      "title": "Auraphone: A simple app to collect people's info at events",
+      "slug": "2025-11-06-auraphone-a-simple-app-to-collect-people-s-info-at-events.html",
+      "path": "posts/2025-11-06-auraphone-a-simple-app-to-collect-people-s-info-at-events.html",
+      "date_iso": "2025-11-06T14:54:16+00:00",
+      "source": "https://andrewarrow.dev/2025/11/simple-app-collect-peoples-info-at-events/",
+      "summary": "Article URL: https://andrewarrow.dev/2025/11/simple-app-collect-peoples-info-at-events/ Comments URL: https://news.ycombinator.com/item?id=45835931 Points: 47 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45835083",
+      "title": "I analyzed the lineups at the most popular nightclubs",
+      "slug": "2025-11-06-i-analyzed-the-lineups-at-the-most-popular-nightclubs.html",
+      "path": "posts/2025-11-06-i-analyzed-the-lineups-at-the-most-popular-nightclubs.html",
+      "date_iso": "2025-11-06T13:37:07+00:00",
+      "source": "https://dev.karltryggvason.com/how-i-analyzed-the-lineups-at-the-worlds-most-popular-nightclubs/",
+      "summary": "Article URL: https://dev.karltryggvason.com/how-i-analyzed-the-lineups-at-the-worlds-most-popular-nightclubs/ Comments URL: https://news.ycombinator.com/item?id=45835083 Points: 150 # Comments: 71"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45834254",
+      "title": "Eating stinging nettles",
+      "slug": "2025-11-06-eating-stinging-nettles.html",
+      "path": "posts/2025-11-06-eating-stinging-nettles.html",
+      "date_iso": "2025-11-06T11:57:01+00:00",
+      "source": "https://rachel.blog/2018/04/29/eating-stinging-nettles/",
+      "summary": "Article URL: https://rachel.blog/2018/04/29/eating-stinging-nettles/ Comments URL: https://news.ycombinator.com/item?id=45834254 Points: 197 # Comments: 179"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/06/science/alan-turing-patterns-boxfish.html",
+      "title": "Where You See a Fancy Fish, Engineers See Alan Turing’s Math",
+      "slug": "2025-11-06-where-you-see-a-fancy-fish-engineers-see-alan-turing-s-math.html",
+      "path": "posts/2025-11-06-where-you-see-a-fancy-fish-engineers-see-alan-turing-s-math.html",
+      "date_iso": "2025-11-06T10:02:17+00:00",
+      "source": "https://www.nytimes.com/2025/11/06/science/alan-turing-patterns-boxfish.html",
+      "summary": "A male ornate boxfish with distinctive, complex patterns of stripes and hexagons on its scales."
+    },
+    {
       "id": "https://www.nytimes.com/2025/11/06/business/elon-musk-tesla-trillion-dollar.html",
       "title": "Would Elon Musk Work Harder for $1 Trillion Than $1 Billion?",
       "slug": "2025-11-06-would-elon-musk-work-harder-for-1-trillion-than-1-billion.html",
