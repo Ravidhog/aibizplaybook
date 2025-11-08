@@ -1,6 +1,222 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2025/11/07/business/media/ai-news-media.html",
+      "title": "Is A.I. a Journalist or Just a Newsroom Tool?",
+      "slug": "2025-11-08-is-a-i-a-journalist-or-just-a-newsroom-tool.html",
+      "path": "posts/2025-11-08-is-a-i-a-journalist-or-just-a-newsroom-tool.html",
+      "date_iso": "2025-11-08T05:46:02+00:00",
+      "source": "https://www.nytimes.com/2025/11/07/business/media/ai-news-media.html",
+      "summary": "The Denver Post newsroom in 1974. In the decades since, the digital revolution has remade the news business, and A.I. has the potential to transform it entirely."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45853995",
+      "title": "Oddest ChatGPT leaks yet: Cringey chat logs found in Google Analytics tool",
+      "slug": "2025-11-08-oddest-chatgpt-leaks-yet-cringey-chat-logs-found-in-google-analytics-tool.html",
+      "path": "posts/2025-11-08-oddest-chatgpt-leaks-yet-cringey-chat-logs-found-in-google-analytics-tool.html",
+      "date_iso": "2025-11-08T03:54:30+00:00",
+      "source": "https://arstechnica.com/tech-policy/2025/11/oddest-chatgpt-leaks-yet-cringey-chat-logs-found-in-google-analytics-tool/",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2025/11/oddest-chatgpt-leaks-yet-cringey-chat-logs-found-in-google-analytics-tool/ Comments URL: https://news.ycombinator.com/item?id=45853995 Points: 45 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45853536",
+      "title": "Local First Htmx",
+      "slug": "2025-11-08-local-first-htmx.html",
+      "path": "posts/2025-11-08-local-first-htmx.html",
+      "date_iso": "2025-11-08T02:27:48+00:00",
+      "source": "https://elijahm.com/posts/local_first_htmx/",
+      "summary": "Article URL: https://elijahm.com/posts/local_first_htmx/ Comments URL: https://news.ycombinator.com/item?id=45853536 Points: 15 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45853204",
+      "title": "Running a 68060 CPU in Quadra 650",
+      "slug": "2025-11-08-running-a-68060-cpu-in-quadra-650.html",
+      "path": "posts/2025-11-08-running-a-68060-cpu-in-quadra-650.html",
+      "date_iso": "2025-11-08T01:18:12+00:00",
+      "source": "https://github.com/ZigZagJoe/Macintosh-Q650-68060",
+      "summary": "Article URL: https://github.com/ZigZagJoe/Macintosh-Q650-68060 Comments URL: https://news.ycombinator.com/item?id=45853204 Points: 27 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45852974",
+      "title": "Mullvad: Shutting down our search proxy Leta",
+      "slug": "2025-11-08-mullvad-shutting-down-our-search-proxy-leta.html",
+      "path": "posts/2025-11-08-mullvad-shutting-down-our-search-proxy-leta.html",
+      "date_iso": "2025-11-08T00:37:36+00:00",
+      "source": "https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta",
+      "summary": "Article URL: https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta Comments URL: https://news.ycombinator.com/item?id=45852974 Points: 105 # Comments: 57"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45852895",
+      "title": "Immutable Software Deploys Using ZFS Jails on FreeBSD",
+      "slug": "2025-11-08-immutable-software-deploys-using-zfs-jails-on-freebsd.html",
+      "path": "posts/2025-11-08-immutable-software-deploys-using-zfs-jails-on-freebsd.html",
+      "date_iso": "2025-11-08T00:21:45+00:00",
+      "source": "https://conradresearch.com/articles/immutable-software-deploy-zfs-jails",
+      "summary": "Article URL: https://conradresearch.com/articles/immutable-software-deploy-zfs-jails Comments URL: https://news.ycombinator.com/item?id=45852895 Points: 54 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45852854",
+      "title": "Snapchat open-sources Valdi a cross-platform UI framework",
+      "slug": "2025-11-08-snapchat-open-sources-valdi-a-cross-platform-ui-framework.html",
+      "path": "posts/2025-11-08-snapchat-open-sources-valdi-a-cross-platform-ui-framework.html",
+      "date_iso": "2025-11-08T00:14:50+00:00",
+      "source": "https://github.com/Snapchat/Valdi",
+      "summary": "Article URL: https://github.com/Snapchat/Valdi Comments URL: https://news.ycombinator.com/item?id=45852854 Points: 195 # Comments: 45"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45852751",
+      "title": "Cerebras Code now supports GLM 4.6 at 1000 tokens/sec",
+      "slug": "2025-11-08-cerebras-code-now-supports-glm-4-6-at-1000-tokens-sec.html",
+      "path": "posts/2025-11-08-cerebras-code-now-supports-glm-4-6-at-1000-tokens-sec.html",
+      "date_iso": "2025-11-08T00:00:27+00:00",
+      "source": "https://www.cerebras.ai/code",
+      "summary": "Article URL: https://www.cerebras.ai/code Comments URL: https://news.ycombinator.com/item?id=45852751 Points: 67 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45852642",
+      "title": "Analysis of Hedy Lamarr's Contribution to Spread-Spectrum Communication",
+      "slug": "2025-11-07-analysis-of-hedy-lamarr-s-contribution-to-spread-spectrum-communication.html",
+      "path": "posts/2025-11-07-analysis-of-hedy-lamarr-s-contribution-to-spread-spectrum-communication.html",
+      "date_iso": "2025-11-07T23:42:01+00:00",
+      "source": "https://researchers.one/articles/24.01.00001v4",
+      "summary": "Article URL: https://researchers.one/articles/24.01.00001v4 Comments URL: https://news.ycombinator.com/item?id=45852642 Points: 52 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45852328",
+      "title": "Why is Zig so cool?",
+      "slug": "2025-11-07-why-is-zig-so-cool.html",
+      "path": "posts/2025-11-07-why-is-zig-so-cool.html",
+      "date_iso": "2025-11-07T23:04:39+00:00",
+      "source": "https://nilostolte.github.io/tech/articles/ZigCool.html",
+      "summary": "Article URL: https://nilostolte.github.io/tech/articles/ZigCool.html Comments URL: https://news.ycombinator.com/item?id=45852328 Points: 269 # Comments: 145"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45852029",
+      "title": "How a devboard works (and how to make your own)",
+      "slug": "2025-11-07-how-a-devboard-works-and-how-to-make-your-own.html",
+      "path": "posts/2025-11-07-how-a-devboard-works-and-how-to-make-your-own.html",
+      "date_iso": "2025-11-07T22:35:28+00:00",
+      "source": "https://kaipereira.com/journal/build-a-devboard",
+      "summary": "Article URL: https://kaipereira.com/journal/build-a-devboard Comments URL: https://news.ycombinator.com/item?id=45852029 Points: 63 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45851786",
+      "title": "Using the Web Monetization API for fun and profit",
+      "slug": "2025-11-07-using-the-web-monetization-api-for-fun-and-profit.html",
+      "path": "posts/2025-11-07-using-the-web-monetization-api-for-fun-and-profit.html",
+      "date_iso": "2025-11-07T22:13:37+00:00",
+      "source": "https://blog.tomayac.com/2025/11/07/using-the-web-monetization-api-for-fun-and-profit/",
+      "summary": "Article URL: https://blog.tomayac.com/2025/11/07/using-the-web-monetization-api-for-fun-and-profit/ Comments URL: https://news.ycombinator.com/item?id=45851786 Points: 48 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45851495",
+      "title": "Becoming a Compiler Engineer",
+      "slug": "2025-11-07-becoming-a-compiler-engineer.html",
+      "path": "posts/2025-11-07-becoming-a-compiler-engineer.html",
+      "date_iso": "2025-11-07T21:45:03+00:00",
+      "source": "https://rona.substack.com/p/becoming-a-compiler-engineer",
+      "summary": "Article URL: https://rona.substack.com/p/becoming-a-compiler-engineer Comments URL: https://news.ycombinator.com/item?id=45851495 Points: 184 # Comments: 80"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45850963",
+      "title": "YouTube Removes Windows 11 Bypass Tutorials, Claims 'Risk of Physical Harm'",
+      "slug": "2025-11-07-youtube-removes-windows-11-bypass-tutorials-claims-risk-of-physical-harm.html",
+      "path": "posts/2025-11-07-youtube-removes-windows-11-bypass-tutorials-claims-risk-of-physical-harm.html",
+      "date_iso": "2025-11-07T20:50:40+00:00",
+      "source": "https://news.itsfoss.com/youtube-removes-windows-11-bypass-tutorials/",
+      "summary": "Article URL: https://news.itsfoss.com/youtube-removes-windows-11-bypass-tutorials/ Comments URL: https://news.ycombinator.com/item?id=45850963 Points: 546 # Comments: 192"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45850751",
+      "title": "VLC's Jean-Baptiste Kempf Receives the European SFS Award 2025",
+      "slug": "2025-11-07-vlc-s-jean-baptiste-kempf-receives-the-european-sfs-award-2025.html",
+      "path": "posts/2025-11-07-vlc-s-jean-baptiste-kempf-receives-the-european-sfs-award-2025.html",
+      "date_iso": "2025-11-07T20:31:36+00:00",
+      "source": "https://fsfe.org/news/2025/news-20251107-01.en.html",
+      "summary": "Article URL: https://fsfe.org/news/2025/news-20251107-01.en.html Comments URL: https://news.ycombinator.com/item?id=45850751 Points: 295 # Comments: 52"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45850671",
+      "title": "Ribir: Non-intrusive GUI framework for Rust/WASM",
+      "slug": "2025-11-07-ribir-non-intrusive-gui-framework-for-rust-wasm.html",
+      "path": "posts/2025-11-07-ribir-non-intrusive-gui-framework-for-rust-wasm.html",
+      "date_iso": "2025-11-07T20:26:26+00:00",
+      "source": "https://github.com/RibirX/Ribir",
+      "summary": "Article URL: https://github.com/RibirX/Ribir Comments URL: https://news.ycombinator.com/item?id=45850671 Points: 55 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45850382",
+      "title": "How did I get here?",
+      "slug": "2025-11-07-how-did-i-get-here.html",
+      "path": "posts/2025-11-07-how-did-i-get-here.html",
+      "date_iso": "2025-11-07T20:01:09+00:00",
+      "source": "https://how-did-i-get-here.net/",
+      "summary": "Article URL: https://how-did-i-get-here.net/ Comments URL: https://news.ycombinator.com/item?id=45850382 Points: 194 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45850069",
+      "title": "James Watson has died",
+      "slug": "2025-11-07-james-watson-has-died.html",
+      "path": "posts/2025-11-07-james-watson-has-died.html",
+      "date_iso": "2025-11-07T19:30:18+00:00",
+      "source": "https://www.nytimes.com/2025/11/07/science/james-watson-dead.html",
+      "summary": "https://archive.ph/KaTaT Comments URL: https://news.ycombinator.com/item?id=45850069 Points: 285 # Comments: 158"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/07/business/china-nexperia-autos-chips.html",
+      "title": "China Resumes Some Chip Exports, Easing Fears of a Global Crunch",
+      "slug": "2025-11-07-china-resumes-some-chip-exports-easing-fears-of-a-global-crunch.html",
+      "path": "posts/2025-11-07-china-resumes-some-chip-exports-easing-fears-of-a-global-crunch.html",
+      "date_iso": "2025-11-07T19:00:32+00:00",
+      "source": "https://www.nytimes.com/2025/11/07/business/china-nexperia-autos-chips.html",
+      "summary": "A Volkswagen assembly line. The company had warned last week that the shortages caused by the lack of chips could lead it to limit production."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/07/business/lawyers-ai-vigilantes.html",
+      "title": "Vigilante Lawyers Expose the Rising Tide of A.I. Slop in Court Filings",
+      "slug": "2025-11-07-vigilante-lawyers-expose-the-rising-tide-of-a-i-slop-in-court-filings.html",
+      "path": "posts/2025-11-07-vigilante-lawyers-expose-the-rising-tide-of-a-i-slop-in-court-filings.html",
+      "date_iso": "2025-11-07T18:51:35+00:00",
+      "source": "https://www.nytimes.com/2025/11/07/business/lawyers-ai-vigilantes.html",
+      "summary": "More lawyers are using artificial intelligence to write legal briefs. Some colleagues are publicizing the A.I.-generated errors."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45849528",
+      "title": "Ruby Solved My Problem",
+      "slug": "2025-11-07-ruby-solved-my-problem.html",
+      "path": "posts/2025-11-07-ruby-solved-my-problem.html",
+      "date_iso": "2025-11-07T18:45:35+00:00",
+      "source": "https://newsletter.masilotti.com/p/ruby-already-solved-my-problem",
+      "summary": "Article URL: https://newsletter.masilotti.com/p/ruby-already-solved-my-problem Comments URL: https://news.ycombinator.com/item?id=45849528 Points: 211 # Comments: 78"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45849342",
+      "title": "Myna: Monospace typeface designed for symbol-heavy programming languages",
+      "slug": "2025-11-07-myna-monospace-typeface-designed-for-symbol-heavy-programming-languages.html",
+      "path": "posts/2025-11-07-myna-monospace-typeface-designed-for-symbol-heavy-programming-languages.html",
+      "date_iso": "2025-11-07T18:27:36+00:00",
+      "source": "https://github.com/sayyadirfanali/Myna",
+      "summary": "Article URL: https://github.com/sayyadirfanali/Myna Comments URL: https://news.ycombinator.com/item?id=45849342 Points: 244 # Comments: 105"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45848468",
+      "title": "Angel Investors, a Field Guide",
+      "slug": "2025-11-07-angel-investors-a-field-guide.html",
+      "path": "posts/2025-11-07-angel-investors-a-field-guide.html",
+      "date_iso": "2025-11-07T17:03:30+00:00",
+      "source": "https://www.jeanyang.com/posts/angel-investors-a-field-guide/",
+      "summary": "Article URL: https://www.jeanyang.com/posts/angel-investors-a-field-guide/ Comments URL: https://news.ycombinator.com/item?id=45848468 Points: 128 # Comments: 27"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/07/podcasts/hardfork-neo-humanoid-robot.html",
+      "title": "We Met NEO, the Viral Humanoid Robot + HatGPT",
+      "slug": "2025-11-07-we-met-neo-the-viral-humanoid-robot-hatgpt.html",
+      "path": "posts/2025-11-07-we-met-neo-the-viral-humanoid-robot-hatgpt.html",
+      "date_iso": "2025-11-07T12:00:07+00:00",
+      "source": "https://www.nytimes.com/2025/11/07/podcasts/hardfork-neo-humanoid-robot.html",
+      "summary": "People have been waiting for a robot to do their chores since they watched “The Jetsons.” Can the company behind NEO finally make it happen?"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45844151",
       "title": "Photoroom (YC S20) Is Hiring a Senior AI Front End Engineer in Paris",
       "slug": "2025-11-07-photoroom-yc-s20-is-hiring-a-senior-ai-front-end-engineer-in-paris.html",
