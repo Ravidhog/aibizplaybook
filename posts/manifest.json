@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45863057",
+      "title": "Under 40s Declining Memory",
+      "slug": "2025-11-09-under-40s-declining-memory.html",
+      "path": "posts/2025-11-09-under-40s-declining-memory.html",
+      "date_iso": "2025-11-09T05:05:20+00:00",
+      "source": "https://onepercentrule.substack.com/p/under-40s-declining-memory",
+      "summary": "Article URL: https://onepercentrule.substack.com/p/under-40s-declining-memory Comments URL: https://news.ycombinator.com/item?id=45863057 Points: 4 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45863024",
+      "title": "Forth – is it still relevant?",
+      "slug": "2025-11-09-forth-is-it-still-relevant.html",
+      "path": "posts/2025-11-09-forth-is-it-still-relevant.html",
+      "date_iso": "2025-11-09T04:59:19+00:00",
+      "source": "https://github.com/chochain/eforth",
+      "summary": "Article URL: https://github.com/chochain/eforth Comments URL: https://news.ycombinator.com/item?id=45863024 Points: 7 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45862967",
+      "title": "Runc breaks pods when CPU requests aren't multiples of 10",
+      "slug": "2025-11-09-runc-breaks-pods-when-cpu-requests-aren-t-multiples-of-10.html",
+      "path": "posts/2025-11-09-runc-breaks-pods-when-cpu-requests-aren-t-multiples-of-10.html",
+      "date_iso": "2025-11-09T04:47:27+00:00",
+      "source": "https://github.com/opencontainers/runc/issues/4982",
+      "summary": "Article URL: https://github.com/opencontainers/runc/issues/4982 Comments URL: https://news.ycombinator.com/item?id=45862967 Points: 5 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45862802",
+      "title": "Reverse engineering Codex CLI to get GPT-5-Codex-Mini to draw me a pelican",
+      "slug": "2025-11-09-reverse-engineering-codex-cli-to-get-gpt-5-codex-mini-to-draw-me-a-pelican.html",
+      "path": "posts/2025-11-09-reverse-engineering-codex-cli-to-get-gpt-5-codex-mini-to-draw-me-a-pelican.html",
+      "date_iso": "2025-11-09T04:02:47+00:00",
+      "source": "https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/",
+      "summary": "Article URL: https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/ Comments URL: https://news.ycombinator.com/item?id=45862802 Points: 31 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45862591",
+      "title": "Syntax and Semantics of Programming Languages (1995)",
+      "slug": "2025-11-09-syntax-and-semantics-of-programming-languages-1995.html",
+      "path": "posts/2025-11-09-syntax-and-semantics-of-programming-languages-1995.html",
+      "date_iso": "2025-11-09T03:15:33+00:00",
+      "source": "https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/",
+      "summary": "Article URL: https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/ Comments URL: https://news.ycombinator.com/item?id=45862591 Points: 23 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45862500",
+      "title": "Show HN: Geofenced chat communities anyone can create",
+      "slug": "2025-11-09-show-hn-geofenced-chat-communities-anyone-can-create.html",
+      "path": "posts/2025-11-09-show-hn-geofenced-chat-communities-anyone-can-create.html",
+      "date_iso": "2025-11-09T02:59:58+00:00",
+      "source": "https://vicinity.social/",
+      "summary": "Hi HN I built a location-based chatroom with Discord-like servers. This started as a portfolio project to learn WebSockets but has spiraled into something else entirely. How it works. There are two features right now: Drop - Single chatrooms that can only be seen within a specif…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45862470",
+      "title": "Tabloid: The Clickbait Headline Programming Language",
+      "slug": "2025-11-09-tabloid-the-clickbait-headline-programming-language.html",
+      "path": "posts/2025-11-09-tabloid-the-clickbait-headline-programming-language.html",
+      "date_iso": "2025-11-09T02:53:45+00:00",
+      "source": "https://tabloid.vercel.app/",
+      "summary": "Article URL: https://tabloid.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=45862470 Points: 151 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45862071",
+      "title": "IRIX Introduction",
+      "slug": "2025-11-09-irix-introduction.html",
+      "path": "posts/2025-11-09-irix-introduction.html",
+      "date_iso": "2025-11-09T01:33:43+00:00",
+      "source": "http://www.sgistuff.net/software/irixintro/index.html",
+      "summary": "Article URL: http://www.sgistuff.net/software/irixintro/index.html Comments URL: https://news.ycombinator.com/item?id=45862071 Points: 16 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45861984",
+      "title": "How Airbus Took Off",
+      "slug": "2025-11-09-how-airbus-took-off.html",
+      "path": "posts/2025-11-09-how-airbus-took-off.html",
+      "date_iso": "2025-11-09T01:19:00+00:00",
+      "source": "https://worksinprogress.co/issue/how-airbus-took-off/",
+      "summary": "Article URL: https://worksinprogress.co/issue/how-airbus-took-off/ Comments URL: https://news.ycombinator.com/item?id=45861984 Points: 26 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45861933",
+      "title": "He Chunhui's Tiny386 Turns an ESP32-S3 into a Fully-Functional 386-Powered PC",
+      "slug": "2025-11-09-he-chunhui-s-tiny386-turns-an-esp32-s3-into-a-fully-functional-386-powered-pc.html",
+      "path": "posts/2025-11-09-he-chunhui-s-tiny386-turns-an-esp32-s3-into-a-fully-functional-386-powered-pc.html",
+      "date_iso": "2025-11-09T01:08:50+00:00",
+      "source": "https://www.hackster.io/news/he-chunhui-s-tiny386-turns-the-humble-esp32-s3-into-a-fully-functional-386-powered-desktop-pc-5454cf6e36a1",
+      "summary": "Article URL: https://www.hackster.io/news/he-chunhui-s-tiny386-turns-the-humble-esp32-s3-into-a-fully-functional-386-powered-desktop-pc-5454cf6e36a1 Comments URL: https://news.ycombinator.com/item?id=45861933 Points: 71 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45861829",
+      "title": "Judge denies request to exempt Flock footage from Public Records Act",
+      "slug": "2025-11-09-judge-denies-request-to-exempt-flock-footage-from-public-records-act.html",
+      "path": "posts/2025-11-09-judge-denies-request-to-exempt-flock-footage-from-public-records-act.html",
+      "date_iso": "2025-11-09T00:53:07+00:00",
+      "source": "https://www.goskagit.com/news/local_news/court-denies-request-that-it-find-flock-safety-camera-data-is-exempt-from-public-records/article_f1edd028-d242-479c-ada8-f2dfca73a1b1.html",
+      "summary": "Article URL: https://www.goskagit.com/news/local_news/court-denies-request-that-it-find-flock-safety-camera-data-is-exempt-from-public-records/article_f1edd028-d242-479c-ada8-f2dfca73a1b1.html Comments URL: https://news.ycombinator.com/item?id=45861829 Points: 116 # Comments: 31"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45861411",
+      "title": "Humanity's Endgame",
+      "slug": "2025-11-08-humanity-s-endgame.html",
+      "path": "posts/2025-11-08-humanity-s-endgame.html",
+      "date_iso": "2025-11-08T23:58:08+00:00",
+      "source": "https://www.noemamag.com/humanitys-endgame/",
+      "summary": "Article URL: https://www.noemamag.com/humanitys-endgame/ Comments URL: https://news.ycombinator.com/item?id=45861411 Points: 30 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45860843",
+      "title": "Ironclad – formally verified, real-time capable, Unix-like OS kernel",
+      "slug": "2025-11-08-ironclad-formally-verified-real-time-capable-unix-like-os-kernel.html",
+      "path": "posts/2025-11-08-ironclad-formally-verified-real-time-capable-unix-like-os-kernel.html",
+      "date_iso": "2025-11-08T23:03:10+00:00",
+      "source": "https://ironclad-os.org/",
+      "summary": "Article URL: https://ironclad-os.org/ Comments URL: https://news.ycombinator.com/item?id=45860843 Points: 202 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45860654",
+      "title": "IP blocking the UK is not enough to comply with the Online Safety Act",
+      "slug": "2025-11-08-ip-blocking-the-uk-is-not-enough-to-comply-with-the-online-safety-act.html",
+      "path": "posts/2025-11-08-ip-blocking-the-uk-is-not-enough-to-comply-with-the-online-safety-act.html",
+      "date_iso": "2025-11-08T22:33:56+00:00",
+      "source": "https://prestonbyrne.com/2025/11/06/the-ofcom-files-part-2-ip-blocking-the-uk-is-not-enough-to-comply-with-the-online-safety-act/",
+      "summary": "Article URL: https://prestonbyrne.com/2025/11/06/the-ofcom-files-part-2-ip-blocking-the-uk-is-not-enough-to-comply-with-the-online-safety-act/ Comments URL: https://news.ycombinator.com/item?id=45860654 Points: 235 # Comments: 290"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45860638",
+      "title": "Debugging BeagleBoard USB boot with a sniffer: fixing omap_loader on modern PCs",
+      "slug": "2025-11-08-debugging-beagleboard-usb-boot-with-a-sniffer-fixing-omap-loader-on-modern-pcs.html",
+      "path": "posts/2025-11-08-debugging-beagleboard-usb-boot-with-a-sniffer-fixing-omap-loader-on-modern-pcs.html",
+      "date_iso": "2025-11-08T22:30:58+00:00",
+      "source": "https://www.downtowndougbrown.com/2025/11/debugging-beagleboard-usb-boot-with-a-sniffer-fixing-omap_loader-on-modern-pcs/",
+      "summary": "Article URL: https://www.downtowndougbrown.com/2025/11/debugging-beagleboard-usb-boot-with-a-sniffer-fixing-omap_loader-on-modern-pcs/ Comments URL: https://news.ycombinator.com/item?id=45860638 Points: 65 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45859471",
+      "title": "Largest cargo sailboat completes first Atlantic crossing",
+      "slug": "2025-11-08-largest-cargo-sailboat-completes-first-atlantic-crossing.html",
+      "path": "posts/2025-11-08-largest-cargo-sailboat-completes-first-atlantic-crossing.html",
+      "date_iso": "2025-11-08T19:57:52+00:00",
+      "source": "https://www.marineinsight.com/shipping-news/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing/",
+      "summary": "Article URL: https://www.marineinsight.com/shipping-news/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing/ Comments URL: https://news.ycombinator.com/item?id=45859471 Points: 196 # Comments: 119"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45859243",
+      "title": "Avería: The Average Font (2011)",
+      "slug": "2025-11-08-aver-a-the-average-font-2011.html",
+      "path": "posts/2025-11-08-aver-a-the-average-font-2011.html",
+      "date_iso": "2025-11-08T19:29:44+00:00",
+      "source": "http://iotic.com/averia/",
+      "summary": "Article URL: http://iotic.com/averia/ Comments URL: https://news.ycombinator.com/item?id=45859243 Points: 150 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45858945",
+      "title": "WriterdeckOS",
+      "slug": "2025-11-08-writerdeckos.html",
+      "path": "posts/2025-11-08-writerdeckos.html",
+      "date_iso": "2025-11-08T18:49:47+00:00",
+      "source": "https://writerdeckos.com",
+      "summary": "Article URL: https://writerdeckos.com Comments URL: https://news.ycombinator.com/item?id=45858945 Points: 163 # Comments: 88"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45858905",
+      "title": "Marko – A declarative, HTML‑based language",
+      "slug": "2025-11-08-marko-a-declarative-html-based-language.html",
+      "path": "posts/2025-11-08-marko-a-declarative-html-based-language.html",
+      "date_iso": "2025-11-08T18:43:55+00:00",
+      "source": "https://markojs.com/",
+      "summary": "Article URL: https://markojs.com/ Comments URL: https://news.ycombinator.com/item?id=45858905 Points: 254 # Comments: 123"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45857988",
+      "title": "Opencloud – An alternative to Nextcloud written in Go",
+      "slug": "2025-11-08-opencloud-an-alternative-to-nextcloud-written-in-go.html",
+      "path": "posts/2025-11-08-opencloud-an-alternative-to-nextcloud-written-in-go.html",
+      "date_iso": "2025-11-08T16:40:12+00:00",
+      "source": "https://github.com/opencloud-eu/opencloud",
+      "summary": "Article URL: https://github.com/opencloud-eu/opencloud Comments URL: https://news.ycombinator.com/item?id=45857988 Points: 85 # Comments: 21"
+    },
+    {
       "id": "https://www.nytimes.com/2025/11/07/business/media/ai-news-media.html",
       "title": "Is A.I. a Journalist or Just a Newsroom Tool?",
       "slug": "2025-11-08-is-a-i-a-journalist-or-just-a-newsroom-tool.html",
