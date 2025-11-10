@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45871531",
+      "title": "LLM policy?",
+      "slug": "2025-11-10-llm-policy.html",
+      "path": "posts/2025-11-10-llm-policy.html",
+      "date_iso": "2025-11-10T02:10:59+00:00",
+      "source": "https://github.com/opencontainers/runc/issues/4990",
+      "summary": "Article URL: https://github.com/opencontainers/runc/issues/4990 Comments URL: https://news.ycombinator.com/item?id=45871531 Points: 145 # Comments: 84"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45870925",
+      "title": "Show HN: DroidDock – A sleek macOS app for browsing Android device files via ADB",
+      "slug": "2025-11-10-show-hn-droiddock-a-sleek-macos-app-for-browsing-android-device-files-via-adb.html",
+      "path": "posts/2025-11-10-show-hn-droiddock-a-sleek-macos-app-for-browsing-android-device-files-via-adb.html",
+      "date_iso": "2025-11-10T00:51:33+00:00",
+      "source": "https://rajivm1991.github.io/DroidDock/",
+      "summary": "Hi HN, I’m Rajiv, a software engineer turned Math teacher living in the mountains, where I like to slow down life while still building useful software. I recently built DroidDock, a lightweight and modern macOS desktop app that lets you browse and manage files on your Android de…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45870863",
+      "title": "Work after work: Notes from an unemployed new grad watching the job market break",
+      "slug": "2025-11-10-work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break.html",
+      "path": "posts/2025-11-10-work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break.html",
+      "date_iso": "2025-11-10T00:43:59+00:00",
+      "source": "https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/",
+      "summary": "Article URL: https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/ Comments URL: https://news.ycombinator.com/item?id=45870863 Points: 310 # Comments: 257"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/09/science/blue-origin-new-glenn-launch.html",
+      "title": "Blue Origin Scrubs Launch of NASA’s ESCAPADE Mission to Mars",
+      "slug": "2025-11-10-blue-origin-scrubs-launch-of-nasa-s-escapade-mission-to-mars.html",
+      "path": "posts/2025-11-10-blue-origin-scrubs-launch-of-nasa-s-escapade-mission-to-mars.html",
+      "date_iso": "2025-11-10T00:32:27+00:00",
+      "source": "https://www.nytimes.com/2025/11/09/science/blue-origin-new-glenn-launch.html",
+      "summary": "The Blue Origin New Glenn rocket seen at the Cape Canaveral Space Force Station in Cape Canaveral, Fla., on Sunday."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45870675",
+      "title": "Sued by Nintendo",
+      "slug": "2025-11-10-sued-by-nintendo.html",
+      "path": "posts/2025-11-10-sued-by-nintendo.html",
+      "date_iso": "2025-11-10T00:13:11+00:00",
+      "source": "https://www.suedbynintendo.com/",
+      "summary": "Article URL: https://www.suedbynintendo.com/ Comments URL: https://news.ycombinator.com/item?id=45870675 Points: 138 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45869587",
+      "title": "Metabolic and cellular differences between sedentary and active individuals",
+      "slug": "2025-11-09-metabolic-and-cellular-differences-between-sedentary-and-active-individuals.html",
+      "path": "posts/2025-11-09-metabolic-and-cellular-differences-between-sedentary-and-active-individuals.html",
+      "date_iso": "2025-11-09T21:56:29+00:00",
+      "source": "https://howardluksmd.substack.com/p/if-youre-not-active-youre-sick-you",
+      "summary": "Study: https://www.biorxiv.org/content/10.1101/2024.08.19.608601v1.... Comments URL: https://news.ycombinator.com/item?id=45869587 Points: 124 # Comments: 104"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45869146",
+      "title": "Ask HN: What Are You Working On? (Nov 2025)",
+      "slug": "2025-11-09-ask-hn-what-are-you-working-on-nov-2025.html",
+      "path": "posts/2025-11-09-ask-hn-what-are-you-working-on-nov-2025.html",
+      "date_iso": "2025-11-09T21:02:33+00:00",
+      "source": "https://news.ycombinator.com/item?id=45869146",
+      "summary": "What are you working on? Any new ideas that you're thinking about? Comments URL: https://news.ycombinator.com/item?id=45869146 Points: 212 # Comments: 595"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45868533",
+      "title": "The Computer Church – Pennsylvania Computer and Technology Museum",
+      "slug": "2025-11-09-the-computer-church-pennsylvania-computer-and-technology-museum.html",
+      "path": "posts/2025-11-09-the-computer-church-pennsylvania-computer-and-technology-museum.html",
+      "date_iso": "2025-11-09T19:47:49+00:00",
+      "source": "https://www.thecomputerchurch.org/",
+      "summary": "https://web.archive.org/web/20251109210435/https://www.theco... Comments URL: https://news.ycombinator.com/item?id=45868533 Points: 47 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45868259",
+      "title": "The Sega Master System",
+      "slug": "2025-11-09-the-sega-master-system.html",
+      "path": "posts/2025-11-09-the-sega-master-system.html",
+      "date_iso": "2025-11-09T19:15:21+00:00",
+      "source": "https://bumbershootsoft.wordpress.com/2025/11/08/the-sega-master-system/",
+      "summary": "Article URL: https://bumbershootsoft.wordpress.com/2025/11/08/the-sega-master-system/ Comments URL: https://news.ycombinator.com/item?id=45868259 Points: 83 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45867717",
+      "title": "Drilling down on Uncle Sam's proposed TP-Link ban",
+      "slug": "2025-11-09-drilling-down-on-uncle-sam-s-proposed-tp-link-ban.html",
+      "path": "posts/2025-11-09-drilling-down-on-uncle-sam-s-proposed-tp-link-ban.html",
+      "date_iso": "2025-11-09T18:17:44+00:00",
+      "source": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
+      "summary": "Article URL: https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/ Comments URL: https://news.ycombinator.com/item?id=45867717 Points: 178 # Comments: 189"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45866772",
+      "title": "Bumble Berry Pi – A Cheap DIY Raspberry Pi Handheld Cyberdeck",
+      "slug": "2025-11-09-bumble-berry-pi-a-cheap-diy-raspberry-pi-handheld-cyberdeck.html",
+      "path": "posts/2025-11-09-bumble-berry-pi-a-cheap-diy-raspberry-pi-handheld-cyberdeck.html",
+      "date_iso": "2025-11-09T16:34:44+00:00",
+      "source": "https://github.com/samcervantes/bumble-berry-pi",
+      "summary": "Article URL: https://github.com/samcervantes/bumble-berry-pi Comments URL: https://news.ycombinator.com/item?id=45866772 Points: 127 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45866697",
+      "title": "Marble Fountain",
+      "slug": "2025-11-09-marble-fountain.html",
+      "path": "posts/2025-11-09-marble-fountain.html",
+      "date_iso": "2025-11-09T16:26:09+00:00",
+      "source": "https://willmorrison.net/posts/marble-fountain/",
+      "summary": "Article URL: https://willmorrison.net/posts/marble-fountain/ Comments URL: https://news.ycombinator.com/item?id=45866697 Points: 633 # Comments: 74"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45866572",
+      "title": "The Principles of Diffusion Models",
+      "slug": "2025-11-09-the-principles-of-diffusion-models.html",
+      "path": "posts/2025-11-09-the-principles-of-diffusion-models.html",
+      "date_iso": "2025-11-09T16:10:23+00:00",
+      "source": "https://arxiv.org/abs/2510.21890",
+      "summary": "Article URL: https://arxiv.org/abs/2510.21890 Comments URL: https://news.ycombinator.com/item?id=45866572 Points: 170 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45866224",
+      "title": "The Manuscripts of Edsger W. Dijkstra",
+      "slug": "2025-11-09-the-manuscripts-of-edsger-w-dijkstra.html",
+      "path": "posts/2025-11-09-the-manuscripts-of-edsger-w-dijkstra.html",
+      "date_iso": "2025-11-09T15:27:42+00:00",
+      "source": "https://www.cs.utexas.edu/~EWD/",
+      "summary": "Article URL: https://www.cs.utexas.edu/~EWD/ Comments URL: https://news.ycombinator.com/item?id=45866224 Points: 208 # Comments: 81"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45865546",
+      "title": "Show HN: Pipeflow-PHP – Automate anything with pipelines even non-devs can edit",
+      "slug": "2025-11-09-show-hn-pipeflow-php-automate-anything-with-pipelines-even-non-devs-can-edit.html",
+      "path": "posts/2025-11-09-show-hn-pipeflow-php-automate-anything-with-pipelines-even-non-devs-can-edit.html",
+      "date_iso": "2025-11-09T13:40:43+00:00",
+      "source": "https://github.com/marcosiino/pipeflow-php",
+      "summary": "Hello everyone, I’ve been building [Pipeflow-php]( https://github.com/marcosiino/pipeflow-php ), a PHP pipeline engine to automate anything — from content generation to backend and business logic workflows — using core modular stages and custom implemented stages (that can do an…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45865289",
+      "title": "Montana becomes first state to enshrine 'right to compute' into law",
+      "slug": "2025-11-09-montana-becomes-first-state-to-enshrine-right-to-compute-into-law.html",
+      "path": "posts/2025-11-09-montana-becomes-first-state-to-enshrine-right-to-compute-into-law.html",
+      "date_iso": "2025-11-09T13:03:36+00:00",
+      "source": "https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/",
+      "summary": "Article URL: https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/ Comments URL: https://news.ycombinator.com/item?id=45865289 Points: 416 # Comments: 212"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45865189",
+      "title": "Zensical – A modern static site generator built by the Material for MkDocs team",
+      "slug": "2025-11-09-zensical-a-modern-static-site-generator-built-by-the-material-for-mkdocs-team.html",
+      "path": "posts/2025-11-09-zensical-a-modern-static-site-generator-built-by-the-material-for-mkdocs-team.html",
+      "date_iso": "2025-11-09T12:50:07+00:00",
+      "source": "https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/",
+      "summary": "Article URL: https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/ Comments URL: https://news.ycombinator.com/item?id=45865189 Points: 134 # Comments: 47"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45865159",
+      "title": "Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology",
+      "slug": "2025-11-09-reviving-classic-unix-games-a-20-year-journey-through-software-archaeology.html",
+      "path": "posts/2025-11-09-reviving-classic-unix-games-a-20-year-journey-through-software-archaeology.html",
+      "date_iso": "2025-11-09T12:44:35+00:00",
+      "source": "https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/",
+      "summary": "Article URL: https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/ Comments URL: https://news.ycombinator.com/item?id=45865159 Points: 145 # Comments: 56"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45865049",
+      "title": "Visualize FastAPI endpoints with FastAPI-Voyager",
+      "slug": "2025-11-09-visualize-fastapi-endpoints-with-fastapi-voyager.html",
+      "path": "posts/2025-11-09-visualize-fastapi-endpoints-with-fastapi-voyager.html",
+      "date_iso": "2025-11-09T12:24:50+00:00",
+      "source": "https://www.newsyeah.fun/voyager/",
+      "summary": "Article URL: https://www.newsyeah.fun/voyager/ Comments URL: https://news.ycombinator.com/item?id=45865049 Points: 117 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45864341",
+      "title": "Itiner-e: the Google Maps of Roman Roads",
+      "slug": "2025-11-09-itiner-e-the-google-maps-of-roman-roads.html",
+      "path": "posts/2025-11-09-itiner-e-the-google-maps-of-roman-roads.html",
+      "date_iso": "2025-11-09T09:46:04+00:00",
+      "source": "https://itiner-e.org/",
+      "summary": "Article URL: https://itiner-e.org/ Comments URL: https://news.ycombinator.com/item?id=45864341 Points: 66 # Comments: 8"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45863057",
       "title": "Under 40s Declining Memory",
       "slug": "2025-11-09-under-40s-declining-memory.html",
@@ -782,6 +962,15 @@
       "date_iso": "2025-11-05T16:32:43+00:00",
       "source": "https://www.theseedsofscience.pub/p/why-arent-smart-people-happier",
       "summary": "Article URL: https://www.theseedsofscience.pub/p/why-arent-smart-people-happier Comments URL: https://news.ycombinator.com/item?id=45824864 Points: 286 # Comments: 373"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45824417",
+      "title": "Why we love horror stories",
+      "slug": "2025-11-05-why-we-love-horror-stories.html",
+      "path": "posts/2025-11-05-why-we-love-horror-stories.html",
+      "date_iso": "2025-11-05T16:02:57+00:00",
+      "source": "https://nautil.us/why-we-love-horror-stories-1245342/",
+      "summary": "Article URL: https://nautil.us/why-we-love-horror-stories-1245342/ Comments URL: https://news.ycombinator.com/item?id=45824417 Points: 12 # Comments: 7"
     },
     {
       "id": "https://news.ycombinator.com/item?id=45823831",
