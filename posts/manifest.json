@@ -1,6 +1,177 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45884169",
+      "title": "AI documentation you can talk to, for every repo",
+      "slug": "2025-11-11-ai-documentation-you-can-talk-to-for-every-repo.html",
+      "path": "posts/2025-11-11-ai-documentation-you-can-talk-to-for-every-repo.html",
+      "date_iso": "2025-11-11T04:38:24+00:00",
+      "source": "https://deepwiki.com/",
+      "summary": "Article URL: https://deepwiki.com/ Comments URL: https://news.ycombinator.com/item?id=45884169 Points: 44 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45883995",
+      "title": "Hiring a developer as a small indie studio in 2025",
+      "slug": "2025-11-11-hiring-a-developer-as-a-small-indie-studio-in-2025.html",
+      "path": "posts/2025-11-11-hiring-a-developer-as-a-small-indie-studio-in-2025.html",
+      "date_iso": "2025-11-11T04:04:24+00:00",
+      "source": "https://www.ballardgames.com/tales/hiring-dev-2025/",
+      "summary": "Article URL: https://www.ballardgames.com/tales/hiring-dev-2025/ Comments URL: https://news.ycombinator.com/item?id=45883995 Points: 33 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45883788",
+      "title": "The 'Toy Story' You Remember",
+      "slug": "2025-11-11-the-toy-story-you-remember.html",
+      "path": "posts/2025-11-11-the-toy-story-you-remember.html",
+      "date_iso": "2025-11-11T03:17:43+00:00",
+      "source": "https://animationobsessive.substack.com/p/the-toy-story-you-remember",
+      "summary": "Article URL: https://animationobsessive.substack.com/p/the-toy-story-you-remember Comments URL: https://news.ycombinator.com/item?id=45883788 Points: 315 # Comments: 63"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45883124",
+      "title": "I hate screenshots of text",
+      "slug": "2025-11-11-i-hate-screenshots-of-text.html",
+      "path": "posts/2025-11-11-i-hate-screenshots-of-text.html",
+      "date_iso": "2025-11-11T01:36:47+00:00",
+      "source": "https://parkscomputing.com/page/i-hate-screenshots-of-text",
+      "summary": "Article URL: https://parkscomputing.com/page/i-hate-screenshots-of-text Comments URL: https://news.ycombinator.com/item?id=45883124 Points: 236 # Comments: 154"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45882837",
+      "title": "Warren Buffett's final shareholder letter [pdf]",
+      "slug": "2025-11-11-warren-buffett-s-final-shareholder-letter-pdf.html",
+      "path": "posts/2025-11-11-warren-buffett-s-final-shareholder-letter-pdf.html",
+      "date_iso": "2025-11-11T00:51:44+00:00",
+      "source": "https://berkshirehathaway.com/news/nov1025.pdf",
+      "summary": "Article URL: https://berkshirehathaway.com/news/nov1025.pdf Comments URL: https://news.ycombinator.com/item?id=45882837 Points: 223 # Comments: 78"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45881568",
+      "title": "High-performance 2D graphics rendering on the CPU using sparse strips [pdf]",
+      "slug": "2025-11-10-high-performance-2d-graphics-rendering-on-the-cpu-using-sparse-strips-pdf.html",
+      "path": "posts/2025-11-10-high-performance-2d-graphics-rendering-on-the-cpu-using-sparse-strips-pdf.html",
+      "date_iso": "2025-11-10T22:05:16+00:00",
+      "source": "https://github.com/LaurenzV/master-thesis/blob/main/main.pdf",
+      "summary": "Article URL: https://github.com/LaurenzV/master-thesis/blob/main/main.pdf Comments URL: https://news.ycombinator.com/item?id=45881568 Points: 199 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45881404",
+      "title": "Linux in a Pixel Shader – A RISC-V Emulator for VRChat",
+      "slug": "2025-11-10-linux-in-a-pixel-shader-a-risc-v-emulator-for-vrchat.html",
+      "path": "posts/2025-11-10-linux-in-a-pixel-shader-a-risc-v-emulator-for-vrchat.html",
+      "date_iso": "2025-11-10T21:50:03+00:00",
+      "source": "https://blog.pimaker.at/texts/rvc1/",
+      "summary": "Article URL: https://blog.pimaker.at/texts/rvc1/ Comments URL: https://news.ycombinator.com/item?id=45881404 Points: 54 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45880939",
+      "title": "Spatial intelligence is AI’s next frontier",
+      "slug": "2025-11-10-spatial-intelligence-is-ai-s-next-frontier.html",
+      "path": "posts/2025-11-10-spatial-intelligence-is-ai-s-next-frontier.html",
+      "date_iso": "2025-11-10T21:07:02+00:00",
+      "source": "https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence",
+      "summary": "Article URL: https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence Comments URL: https://news.ycombinator.com/item?id=45880939 Points: 170 # Comments: 81"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45879793",
+      "title": "Using Generative AI in Content Production",
+      "slug": "2025-11-10-using-generative-ai-in-content-production.html",
+      "path": "posts/2025-11-10-using-generative-ai-in-content-production.html",
+      "date_iso": "2025-11-10T19:28:07+00:00",
+      "source": "https://partnerhelp.netflixstudios.com/hc/en-us/articles/43393929218323-Using-Generative-AI-in-Content-Production",
+      "summary": "Article URL: https://partnerhelp.netflixstudios.com/hc/en-us/articles/43393929218323-Using-Generative-AI-in-Content-Production Comments URL: https://news.ycombinator.com/item?id=45879793 Points: 121 # Comments: 81"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45879012",
+      "title": "Memory Safety for Skeptics",
+      "slug": "2025-11-10-memory-safety-for-skeptics.html",
+      "path": "posts/2025-11-10-memory-safety-for-skeptics.html",
+      "date_iso": "2025-11-10T18:23:10+00:00",
+      "source": "https://queue.acm.org/detail.cfm?id=3773095",
+      "summary": "Article URL: https://queue.acm.org/detail.cfm?id=3773095 Comments URL: https://news.ycombinator.com/item?id=45879012 Points: 71 # Comments: 97"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45878826",
+      "title": "Omnilingual ASR: Advancing automatic speech recognition for 1600 languages",
+      "slug": "2025-11-10-omnilingual-asr-advancing-automatic-speech-recognition-for-1600-languages.html",
+      "path": "posts/2025-11-10-omnilingual-asr-advancing-automatic-speech-recognition-for-1600-languages.html",
+      "date_iso": "2025-11-10T18:10:12+00:00",
+      "source": "https://ai.meta.com/blog/omnilingual-asr-advancing-automatic-speech-recognition/?_fb_noscript=1",
+      "summary": "HF Demo: https://huggingface.co/spaces/facebook/omniasr-transcription... GitHub: https://github.com/facebookresearch/omnilingual-asr Comments URL: https://news.ycombinator.com/item?id=45878826 Points: 110 # Comments: 28"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45878578",
+      "title": "The lazy Git UI you didn't know you need",
+      "slug": "2025-11-10-the-lazy-git-ui-you-didn-t-know-you-need.html",
+      "path": "posts/2025-11-10-the-lazy-git-ui-you-didn-t-know-you-need.html",
+      "date_iso": "2025-11-10T17:50:21+00:00",
+      "source": "https://www.bwplotka.dev/2025/lazygit/",
+      "summary": "Article URL: https://www.bwplotka.dev/2025/lazygit/ Comments URL: https://news.ycombinator.com/item?id=45878578 Points: 302 # Comments: 122"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45877517",
+      "title": "Launch HN: Hypercubic (YC F25) – AI for COBOL and Mainframes",
+      "slug": "2025-11-10-launch-hn-hypercubic-yc-f25-ai-for-cobol-and-mainframes.html",
+      "path": "posts/2025-11-10-launch-hn-hypercubic-yc-f25-ai-for-cobol-and-mainframes.html",
+      "date_iso": "2025-11-10T16:23:24+00:00",
+      "source": "https://news.ycombinator.com/item?id=45877517",
+      "summary": "Hi HN, we’re Sai and Aayush and we’re building Hypercubic ( https://www.hypercubic.ai/ )! Hypercubic is an AI platform that helps Fortune 500 companies understand, preserve, and modernize their mainframe systems. These are the systems that run COBOL from the 1960s that still qui…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45877257",
+      "title": "Unexpected things that are people",
+      "slug": "2025-11-10-unexpected-things-that-are-people.html",
+      "path": "posts/2025-11-10-unexpected-things-that-are-people.html",
+      "date_iso": "2025-11-10T16:05:46+00:00",
+      "source": "https://bengoldhaber.substack.com/p/unexpected-things-that-are-people",
+      "summary": "Article URL: https://bengoldhaber.substack.com/p/unexpected-things-that-are-people Comments URL: https://news.ycombinator.com/item?id=45877257 Points: 532 # Comments: 254"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45876598",
+      "title": "Time to start de-Appling",
+      "slug": "2025-11-10-time-to-start-de-appling.html",
+      "path": "posts/2025-11-10-time-to-start-de-appling.html",
+      "date_iso": "2025-11-10T14:57:26+00:00",
+      "source": "https://heatherburns.tech/2025/11/10/time-to-start-de-appling/",
+      "summary": "Article URL: https://heatherburns.tech/2025/11/10/time-to-start-de-appling/ Comments URL: https://news.ycombinator.com/item?id=45876598 Points: 399 # Comments: 270"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45876308",
+      "title": "Head in the Zed Cloud",
+      "slug": "2025-11-10-head-in-the-zed-cloud.html",
+      "path": "posts/2025-11-10-head-in-the-zed-cloud.html",
+      "date_iso": "2025-11-10T14:23:17+00:00",
+      "source": "https://maxdeviant.com/posts/2025/head-in-the-zed-cloud/",
+      "summary": "Article URL: https://maxdeviant.com/posts/2025/head-in-the-zed-cloud/ Comments URL: https://news.ycombinator.com/item?id=45876308 Points: 85 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45874987",
+      "title": "Vibe Code Warning – A personal casestudy",
+      "slug": "2025-11-10-vibe-code-warning-a-personal-casestudy.html",
+      "path": "posts/2025-11-10-vibe-code-warning-a-personal-casestudy.html",
+      "date_iso": "2025-11-10T11:45:15+00:00",
+      "source": "https://github.com/jackdoe/pico2-swd-riscv",
+      "summary": "Article URL: https://github.com/jackdoe/pico2-swd-riscv Comments URL: https://news.ycombinator.com/item?id=45874987 Points: 279 # Comments: 206"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/10/technology/ai-data-centers-debt-risks.html",
+      "title": "Why Debt Funding Is Ratcheting Up the Risks of the A.I. Boom",
+      "slug": "2025-11-10-why-debt-funding-is-ratcheting-up-the-risks-of-the-a-i-boom.html",
+      "path": "posts/2025-11-10-why-debt-funding-is-ratcheting-up-the-risks-of-the-a-i-boom.html",
+      "date_iso": "2025-11-10T10:00:20+00:00",
+      "source": "https://www.nytimes.com/2025/11/10/technology/ai-data-centers-debt-risks.html",
+      "summary": "OpenAI is involved in a massive data center project in Abilene, Texas."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45873625",
+      "title": "The Linux Kernel Looks to “Bite the Bullet” in Enabling Microsoft C Extensions",
+      "slug": "2025-11-10-the-linux-kernel-looks-to-bite-the-bullet-in-enabling-microsoft-c-extensions.html",
+      "path": "posts/2025-11-10-the-linux-kernel-looks-to-bite-the-bullet-in-enabling-microsoft-c-extensions.html",
+      "date_iso": "2025-11-10T08:09:31+00:00",
+      "source": "https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext",
+      "summary": "Article URL: https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext Comments URL: https://news.ycombinator.com/item?id=45873625 Points: 96 # Comments: 65"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45871531",
       "title": "LLM policy?",
       "slug": "2025-11-10-llm-policy.html",
@@ -80,6 +251,15 @@
       "date_iso": "2025-11-09T19:15:21+00:00",
       "source": "https://bumbershootsoft.wordpress.com/2025/11/08/the-sega-master-system/",
       "summary": "Article URL: https://bumbershootsoft.wordpress.com/2025/11/08/the-sega-master-system/ Comments URL: https://news.ycombinator.com/item?id=45868259 Points: 83 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45867828",
+      "title": "Writing your own BEAM",
+      "slug": "2025-11-09-writing-your-own-beam.html",
+      "path": "posts/2025-11-09-writing-your-own-beam.html",
+      "date_iso": "2025-11-09T18:29:43+00:00",
+      "source": "https://martin.janiczek.cz/2025/11/09/writing-your-own-beam.html",
+      "summary": "Article URL: https://martin.janiczek.cz/2025/11/09/writing-your-own-beam.html Comments URL: https://news.ycombinator.com/item?id=45867828 Points: 190 # Comments: 51"
     },
     {
       "id": "https://news.ycombinator.com/item?id=45867717",
