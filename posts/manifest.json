@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45896733",
+      "title": "Problems with C++ exceptions",
+      "slug": "2025-11-12-problems-with-c-exceptions.html",
+      "path": "posts/2025-11-12-problems-with-c-exceptions.html",
+      "date_iso": "2025-11-12T05:44:10+00:00",
+      "source": "https://marler8997.github.io/blog/bjarne-fix-your-language/",
+      "summary": "Article URL: https://marler8997.github.io/blog/bjarne-fix-your-language/ Comments URL: https://news.ycombinator.com/item?id=45896733 Points: 46 # Comments: 30"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45896707",
+      "title": "Hard drives on backorder for two years as AI data centers trigger HDD shortage",
+      "slug": "2025-11-12-hard-drives-on-backorder-for-two-years-as-ai-data-centers-trigger-hdd-shortage.html",
+      "path": "posts/2025-11-12-hard-drives-on-backorder-for-two-years-as-ai-data-centers-trigger-hdd-shortage.html",
+      "date_iso": "2025-11-12T05:36:41+00:00",
+      "source": "https://www.tomshardware.com/pc-components/hdds/ai-triggers-hard-drive-shortage-amidst-dram-squeeze-enterprise-hard-drives-on-backorder-by-2-years-as-hyperscalers-switch-to-qlc-ssds",
+      "summary": "Article URL: https://www.tomshardware.com/pc-components/hdds/ai-triggers-hard-drive-shortage-amidst-dram-squeeze-enterprise-hard-drives-on-backorder-by-2-years-as-hyperscalers-switch-to-qlc-ssds Comments URL: https://news.ycombinator.com/item?id=45896707 Points: 16 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45896130",
+      "title": "Perkeep – Personal storage system for life",
+      "slug": "2025-11-12-perkeep-personal-storage-system-for-life.html",
+      "path": "posts/2025-11-12-perkeep-personal-storage-system-for-life.html",
+      "date_iso": "2025-11-12T03:34:32+00:00",
+      "source": "https://perkeep.org/",
+      "summary": "Article URL: https://perkeep.org/ Comments URL: https://news.ycombinator.com/item?id=45896130 Points: 119 # Comments: 27"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45894588",
+      "title": "Why Nietzsche matters in the age of artificial intelligence",
+      "slug": "2025-11-11-why-nietzsche-matters-in-the-age-of-artificial-intelligence.html",
+      "path": "posts/2025-11-11-why-nietzsche-matters-in-the-age-of-artificial-intelligence.html",
+      "date_iso": "2025-11-11T23:59:49+00:00",
+      "source": "https://cacm.acm.org/blogcacm/why-nietzsche-matters-in-the-age-of-artificial-intelligence/",
+      "summary": "Article URL: https://cacm.acm.org/blogcacm/why-nietzsche-matters-in-the-age-of-artificial-intelligence/ Comments URL: https://news.ycombinator.com/item?id=45894588 Points: 85 # Comments: 54"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45893986",
+      "title": ".NET MAUI is coming to Linux and the browser",
+      "slug": "2025-11-11-net-maui-is-coming-to-linux-and-the-browser.html",
+      "path": "posts/2025-11-11-net-maui-is-coming-to-linux-and-the-browser.html",
+      "date_iso": "2025-11-11T22:50:32+00:00",
+      "source": "https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia",
+      "summary": "Article URL: https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia Comments URL: https://news.ycombinator.com/item?id=45893986 Points: 165 # Comments: 129"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45893795",
+      "title": "Four strange places to see London's Roman Wall",
+      "slug": "2025-11-11-four-strange-places-to-see-london-s-roman-wall.html",
+      "path": "posts/2025-11-11-four-strange-places-to-see-london-s-roman-wall.html",
+      "date_iso": "2025-11-11T22:31:41+00:00",
+      "source": "https://diamondgeezer.blogspot.com/2025/11/odd-places-to-see-londons-roman-wall.html",
+      "summary": "Article URL: https://diamondgeezer.blogspot.com/2025/11/odd-places-to-see-londons-roman-wall.html Comments URL: https://news.ycombinator.com/item?id=45893795 Points: 125 # Comments: 33"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45893646",
+      "title": "Heroku Support for .NET 10",
+      "slug": "2025-11-11-heroku-support-for-net-10.html",
+      "path": "posts/2025-11-11-heroku-support-for-net-10.html",
+      "date_iso": "2025-11-11T22:18:17+00:00",
+      "source": "https://www.heroku.com/blog/support-for-dotnet-10-lts-what-developers-need-know/",
+      "summary": "Article URL: https://www.heroku.com/blog/support-for-dotnet-10-lts-what-developers-need-know/ Comments URL: https://news.ycombinator.com/item?id=45893646 Points: 63 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45893095",
+      "title": "I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours",
+      "slug": "2025-11-11-i-didn-t-reverse-engineer-the-protocol-for-my-blood-pressure-monitor-in-24-hours.html",
+      "path": "posts/2025-11-11-i-didn-t-reverse-engineer-the-protocol-for-my-blood-pressure-monitor-in-24-hours.html",
+      "date_iso": "2025-11-11T21:25:19+00:00",
+      "source": "https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/",
+      "summary": "Article URL: https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/ Comments URL: https://news.ycombinator.com/item?id=45893095 Points: 186 # Comments: 74"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45893004",
+      "title": "X5.1 solar flare, G4 geomagnetic storm watch",
+      "slug": "2025-11-11-x5-1-solar-flare-g4-geomagnetic-storm-watch.html",
+      "path": "posts/2025-11-11-x5-1-solar-flare-g4-geomagnetic-storm-watch.html",
+      "date_iso": "2025-11-11T21:18:26+00:00",
+      "source": "https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html",
+      "summary": "Article URL: https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html Comments URL: https://news.ycombinator.com/item?id=45893004 Points: 283 # Comments: 81"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45892773",
+      "title": "Meticulous (YC S21) is hiring to redefine software dev",
+      "slug": "2025-11-11-meticulous-yc-s21-is-hiring-to-redefine-software-dev.html",
+      "path": "posts/2025-11-11-meticulous-yc-s21-is-hiring-to-redefine-software-dev.html",
+      "date_iso": "2025-11-11T21:00:35+00:00",
+      "source": "https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e",
+      "summary": "Article URL: https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e Comments URL: https://news.ycombinator.com/item?id=45892773 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45892394",
+      "title": "Collaboration sucks",
+      "slug": "2025-11-11-collaboration-sucks.html",
+      "path": "posts/2025-11-11-collaboration-sucks.html",
+      "date_iso": "2025-11-11T20:27:38+00:00",
+      "source": "https://newsletter.posthog.com/p/collaboration-sucks",
+      "summary": "Article URL: https://newsletter.posthog.com/p/collaboration-sucks Comments URL: https://news.ycombinator.com/item?id=45892394 Points: 373 # Comments: 205"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45892191",
+      "title": "The terminal of the future",
+      "slug": "2025-11-11-the-terminal-of-the-future.html",
+      "path": "posts/2025-11-11-the-terminal-of-the-future.html",
+      "date_iso": "2025-11-11T20:11:33+00:00",
+      "source": "https://jyn.dev/the-terminal-of-the-future",
+      "summary": "Article URL: https://jyn.dev/the-terminal-of-the-future Comments URL: https://news.ycombinator.com/item?id=45892191 Points: 172 # Comments: 85"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45891968",
+      "title": "Adk-go: code-first Go toolkit for building, evaluating, and deploying AI agents",
+      "slug": "2025-11-11-adk-go-code-first-go-toolkit-for-building-evaluating-and-deploying-ai-agents.html",
+      "path": "posts/2025-11-11-adk-go-code-first-go-toolkit-for-building-evaluating-and-deploying-ai-agents.html",
+      "date_iso": "2025-11-11T19:52:55+00:00",
+      "source": "https://github.com/google/adk-go",
+      "summary": "Article URL: https://github.com/google/adk-go Comments URL: https://news.ycombinator.com/item?id=45891968 Points: 64 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45891907",
+      "title": "A modern 35mm film scanner for home",
+      "slug": "2025-11-11-a-modern-35mm-film-scanner-for-home.html",
+      "path": "posts/2025-11-11-a-modern-35mm-film-scanner-for-home.html",
+      "date_iso": "2025-11-11T19:48:19+00:00",
+      "source": "https://www.soke.engineering/",
+      "summary": "Article URL: https://www.soke.engineering/ Comments URL: https://news.ycombinator.com/item?id=45891907 Points: 179 # Comments: 132"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45891868",
+      "title": "A catalog of side effects",
+      "slug": "2025-11-11-a-catalog-of-side-effects.html",
+      "path": "posts/2025-11-11-a-catalog-of-side-effects.html",
+      "date_iso": "2025-11-11T19:44:49+00:00",
+      "source": "https://bernsteinbear.com/blog/compiler-effects/",
+      "summary": "Article URL: https://bernsteinbear.com/blog/compiler-effects/ Comments URL: https://news.ycombinator.com/item?id=45891868 Points: 92 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45891817",
+      "title": "Agentic pelican on a bicycle",
+      "slug": "2025-11-11-agentic-pelican-on-a-bicycle.html",
+      "path": "posts/2025-11-11-agentic-pelican-on-a-bicycle.html",
+      "date_iso": "2025-11-11T19:40:15+00:00",
+      "source": "https://www.robert-glaser.de/agentic-pelican-on-a-bicycle/",
+      "summary": "Article URL: https://www.robert-glaser.de/agentic-pelican-on-a-bicycle/ Comments URL: https://news.ycombinator.com/item?id=45891817 Points: 70 # Comments: 50"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45891016",
+      "title": "FFmpeg to Google: Fund us or stop sending bugs",
+      "slug": "2025-11-11-ffmpeg-to-google-fund-us-or-stop-sending-bugs.html",
+      "path": "posts/2025-11-11-ffmpeg-to-google-fund-us-or-stop-sending-bugs.html",
+      "date_iso": "2025-11-11T18:32:11+00:00",
+      "source": "https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/",
+      "summary": "Article URL: https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/ Comments URL: https://news.ycombinator.com/item?id=45891016 Points: 767 # Comments: 563"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45890726",
+      "title": "Terminal Latency on Windows (2024)",
+      "slug": "2025-11-11-terminal-latency-on-windows-2024.html",
+      "path": "posts/2025-11-11-terminal-latency-on-windows-2024.html",
+      "date_iso": "2025-11-11T18:07:51+00:00",
+      "source": "https://chadaustin.me/2024/02/windows-terminal-latency/",
+      "summary": "Article URL: https://chadaustin.me/2024/02/windows-terminal-latency/ Comments URL: https://news.ycombinator.com/item?id=45890726 Points: 98 # Comments: 77"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45890186",
+      "title": "We ran over 600 image generations to compare AI image models",
+      "slug": "2025-11-11-we-ran-over-600-image-generations-to-compare-ai-image-models.html",
+      "path": "posts/2025-11-11-we-ran-over-600-image-generations-to-compare-ai-image-models.html",
+      "date_iso": "2025-11-11T17:26:54+00:00",
+      "source": "https://latenitesoft.com/blog/evaluating-frontier-ai-image-generation-models/",
+      "summary": "Article URL: https://latenitesoft.com/blog/evaluating-frontier-ai-image-generation-models/ Comments URL: https://news.ycombinator.com/item?id=45890186 Points: 135 # Comments: 83"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/11/business/dealbook/softbank-nvidia-divest.html",
+      "title": "SoftBank Sells $5.8 Billion Stake in Nvidia to Pay for OpenAI Deals",
+      "slug": "2025-11-11-softbank-sells-5-8-billion-stake-in-nvidia-to-pay-for-openai-deals.html",
+      "path": "posts/2025-11-11-softbank-sells-5-8-billion-stake-in-nvidia-to-pay-for-openai-deals.html",
+      "date_iso": "2025-11-11T16:40:31+00:00",
+      "source": "https://www.nytimes.com/2025/11/11/business/dealbook/softbank-nvidia-divest.html",
+      "summary": "Masayoshi Son, the founder and chief executive of SoftBank, has bet big on artificial intelligence."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45887957",
+      "title": "Pikaday: A friendly guide to front-end date pickers",
+      "slug": "2025-11-11-pikaday-a-friendly-guide-to-front-end-date-pickers.html",
+      "path": "posts/2025-11-11-pikaday-a-friendly-guide-to-front-end-date-pickers.html",
+      "date_iso": "2025-11-11T14:58:47+00:00",
+      "source": "https://pikaday.dbushell.com",
+      "summary": "Article URL: https://pikaday.dbushell.com Comments URL: https://news.ycombinator.com/item?id=45887957 Points: 189 # Comments: 77"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45884169",
       "title": "AI documentation you can talk to, for every repo",
       "slug": "2025-11-11-ai-documentation-you-can-talk-to-for-every-repo.html",
