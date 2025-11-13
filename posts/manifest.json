@@ -1,6 +1,240 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45910625",
+      "title": "CollectWise (YC F24) Is Hiring",
+      "slug": "2025-11-13-collectwise-yc-f24-is-hiring.html",
+      "path": "posts/2025-11-13-collectwise-yc-f24-is-hiring.html",
+      "date_iso": "2025-11-13T04:26:56+00:00",
+      "source": "https://www.ycombinator.com/companies/collectwise/jobs/tv3ufcc-forward-deployed-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/collectwise/jobs/tv3ufcc-forward-deployed-engineer Comments URL: https://news.ycombinator.com/item?id=45910625 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45910622",
+      "title": "Robert Moses's unfinished business should be Mamdani's priority",
+      "slug": "2025-11-13-robert-moses-s-unfinished-business-should-be-mamdani-s-priority.html",
+      "path": "posts/2025-11-13-robert-moses-s-unfinished-business-should-be-mamdani-s-priority.html",
+      "date_iso": "2025-11-13T04:26:23+00:00",
+      "source": "https://www.eatingpolicy.com/p/robert-mosess-unfinished-business",
+      "summary": "Article URL: https://www.eatingpolicy.com/p/robert-mosess-unfinished-business Comments URL: https://news.ycombinator.com/item?id=45910622 Points: 10 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45910381",
+      "title": "Android 16 QPR1 is being pushed to the Android Open Source Project",
+      "slug": "2025-11-13-android-16-qpr1-is-being-pushed-to-the-android-open-source-project.html",
+      "path": "posts/2025-11-13-android-16-qpr1-is-being-pushed-to-the-android-open-source-project.html",
+      "date_iso": "2025-11-13T03:49:23+00:00",
+      "source": "https://grapheneos.social/@GrapheneOS/115533432439509433",
+      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/115533432439509433 Comments URL: https://news.ycombinator.com/item?id=45910381 Points: 66 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45910347",
+      "title": "Meta replaces WhatsApp for Windows with web wrapper that uses 1 GB RAM when idle",
+      "slug": "2025-11-13-meta-replaces-whatsapp-for-windows-with-web-wrapper-that-uses-1-gb-ram-when-idle.html",
+      "path": "posts/2025-11-13-meta-replaces-whatsapp-for-windows-with-web-wrapper-that-uses-1-gb-ram-when-idle.html",
+      "date_iso": "2025-11-13T03:44:37+00:00",
+      "source": "https://www.windowslatest.com/2025/11/12/meta-just-killed-native-whatsapp-on-windows-11-now-it-opens-webview-uses-1gb-ram-all-the-time/",
+      "summary": "Article URL: https://www.windowslatest.com/2025/11/12/meta-just-killed-native-whatsapp-on-windows-11-now-it-opens-webview-uses-1gb-ram-all-the-time/ Comments URL: https://news.ycombinator.com/item?id=45910347 Points: 101 # Comments: 27"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45910305",
+      "title": "Bitcoin's big secret: How cryptocurrency became law enforcement's secret weapon",
+      "slug": "2025-11-13-bitcoin-s-big-secret-how-cryptocurrency-became-law-enforcement-s-secret-weapon.html",
+      "path": "posts/2025-11-13-bitcoin-s-big-secret-how-cryptocurrency-became-law-enforcement-s-secret-weapon.html",
+      "date_iso": "2025-11-13T03:39:56+00:00",
+      "source": "https://bitwarden.com/blog/how-cryptocurrency-became-law-enforcements-secret-weapon/",
+      "summary": "Article URL: https://bitwarden.com/blog/how-cryptocurrency-became-law-enforcements-secret-weapon/ Comments URL: https://news.ycombinator.com/item?id=45910305 Points: 84 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45910257",
+      "title": "Large integer precision error in Bash command output rendering",
+      "slug": "2025-11-13-large-integer-precision-error-in-bash-command-output-rendering.html",
+      "path": "posts/2025-11-13-large-integer-precision-error-in-bash-command-output-rendering.html",
+      "date_iso": "2025-11-13T03:34:02+00:00",
+      "source": "https://github.com/anthropics/claude-code/issues/11506",
+      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/11506 Comments URL: https://news.ycombinator.com/item?id=45910257 Points: 24 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45910244",
+      "title": "On USB HID, Keyboard LEDs, and device emulation (2024)",
+      "slug": "2025-11-13-on-usb-hid-keyboard-leds-and-device-emulation-2024.html",
+      "path": "posts/2025-11-13-on-usb-hid-keyboard-leds-and-device-emulation-2024.html",
+      "date_iso": "2025-11-13T03:32:24+00:00",
+      "source": "https://epsilon537.github.io/boxlambda/usb-hid/",
+      "summary": "Article URL: https://epsilon537.github.io/boxlambda/usb-hid/ Comments URL: https://news.ycombinator.com/item?id=45910244 Points: 15 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45910009",
+      "title": "A Commentary on the Sixth Edition Unix Operating System",
+      "slug": "2025-11-13-a-commentary-on-the-sixth-edition-unix-operating-system.html",
+      "path": "posts/2025-11-13-a-commentary-on-the-sixth-edition-unix-operating-system.html",
+      "date_iso": "2025-11-13T03:01:47+00:00",
+      "source": "https://warsus.github.io/lions-/",
+      "summary": "Article URL: https://warsus.github.io/lions-/ Comments URL: https://news.ycombinator.com/item?id=45910009 Points: 16 # Comments: 2"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/12/science/northern-lights-solar-satellites.html",
+      "title": "Northern Lights Are Beautiful, but for Satellites They’re Risky",
+      "slug": "2025-11-13-northern-lights-are-beautiful-but-for-satellites-they-re-risky.html",
+      "path": "posts/2025-11-13-northern-lights-are-beautiful-but-for-satellites-they-re-risky.html",
+      "date_iso": "2025-11-13T01:53:35+00:00",
+      "source": "https://www.nytimes.com/2025/11/12/science/northern-lights-solar-satellites.html",
+      "summary": "At least one space launch has been put on hold, as satellite operators and rocket companies manage the effects of the current geomagnetic storm hitting Earth."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45909059",
+      "title": "Human Fovea Detector",
+      "slug": "2025-11-13-human-fovea-detector.html",
+      "path": "posts/2025-11-13-human-fovea-detector.html",
+      "date_iso": "2025-11-13T00:48:45+00:00",
+      "source": "https://www.shadertoy.com/view/4dsXzM",
+      "summary": "Article URL: https://www.shadertoy.com/view/4dsXzM Comments URL: https://news.ycombinator.com/item?id=45909059 Points: 117 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45908938",
+      "title": "Google will allow users to sideload Android apps without verification",
+      "slug": "2025-11-13-google-will-allow-users-to-sideload-android-apps-without-verification.html",
+      "path": "posts/2025-11-13-google-will-allow-users-to-sideload-android-apps-without-verification.html",
+      "date_iso": "2025-11-13T00:33:25+00:00",
+      "source": "https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html",
+      "summary": "Article URL: https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html Comments URL: https://news.ycombinator.com/item?id=45908938 Points: 646 # Comments: 256"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45908464",
+      "title": "Valve is about to win the console generation",
+      "slug": "2025-11-12-valve-is-about-to-win-the-console-generation.html",
+      "path": "posts/2025-11-12-valve-is-about-to-win-the-console-generation.html",
+      "date_iso": "2025-11-12T23:35:41+00:00",
+      "source": "https://xeiaso.net/blog/2025/valve-is-about-to-win-the-console-generation/",
+      "summary": "Article URL: https://xeiaso.net/blog/2025/valve-is-about-to-win-the-console-generation/ Comments URL: https://news.ycombinator.com/item?id=45908464 Points: 176 # Comments: 154"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/12/technology/ai-robot-russia-falls.html",
+      "title": "Russian Humanoid Robot Falls on Its Face in Hyped Debut",
+      "slug": "2025-11-12-russian-humanoid-robot-falls-on-its-face-in-hyped-debut.html",
+      "path": "posts/2025-11-12-russian-humanoid-robot-falls-on-its-face-in-hyped-debut.html",
+      "date_iso": "2025-11-12T23:20:33+00:00",
+      "source": "https://www.nytimes.com/2025/11/12/technology/ai-robot-russia-falls.html",
+      "summary": "The first Russian anthropomorphic robot ‘AIDOL’ falls during their unveiling in Moscow, Russia, on Tuesday."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45907541",
+      "title": "Marble: A Multimodal World Model",
+      "slug": "2025-11-12-marble-a-multimodal-world-model.html",
+      "path": "posts/2025-11-12-marble-a-multimodal-world-model.html",
+      "date_iso": "2025-11-12T22:11:14+00:00",
+      "source": "https://www.worldlabs.ai/blog/marble-world-model",
+      "summary": "Article URL: https://www.worldlabs.ai/blog/marble-world-model Comments URL: https://news.ycombinator.com/item?id=45907541 Points: 172 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45907259",
+      "title": "Homebrew no longer allows bypassing Gatekeeper for unsigned/unnotarized software",
+      "slug": "2025-11-12-homebrew-no-longer-allows-bypassing-gatekeeper-for-unsigned-unnotarized-software.html",
+      "path": "posts/2025-11-12-homebrew-no-longer-allows-bypassing-gatekeeper-for-unsigned-unnotarized-software.html",
+      "date_iso": "2025-11-12T21:50:14+00:00",
+      "source": "https://github.com/Homebrew/brew/issues/20755",
+      "summary": "Article URL: https://github.com/Homebrew/brew/issues/20755 Comments URL: https://news.ycombinator.com/item?id=45907259 Points: 193 # Comments: 159"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45905408",
+      "title": "GLP-1 drugs linked to lower death rates in colon cancer patients",
+      "slug": "2025-11-12-glp-1-drugs-linked-to-lower-death-rates-in-colon-cancer-patients.html",
+      "path": "posts/2025-11-12-glp-1-drugs-linked-to-lower-death-rates-in-colon-cancer-patients.html",
+      "date_iso": "2025-11-12T19:50:32+00:00",
+      "source": "https://today.ucsd.edu/story/glp-1-drugs-linked-to-dramatically-lower-death-rates-in-colon-cancer-patients",
+      "summary": "Article URL: https://today.ucsd.edu/story/glp-1-drugs-linked-to-dramatically-lower-death-rates-in-colon-cancer-patients Comments URL: https://news.ycombinator.com/item?id=45905408 Points: 114 # Comments: 106"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/12/science/brain-implants-technology-disability.html",
+      "title": "At the Cybathlon, May the Best Brain-Computer Interface Win",
+      "slug": "2025-11-12-at-the-cybathlon-may-the-best-brain-computer-interface-win.html",
+      "path": "posts/2025-11-12-at-the-cybathlon-may-the-best-brain-computer-interface-win.html",
+      "date_iso": "2025-11-12T19:50:15+00:00",
+      "source": "https://www.nytimes.com/2025/11/12/science/brain-implants-technology-disability.html",
+      "summary": "Mr. Collumb training at the University of Bath."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45904551",
+      "title": "GPT-5.1: A smarter, more conversational ChatGPT",
+      "slug": "2025-11-12-gpt-5-1-a-smarter-more-conversational-chatgpt.html",
+      "path": "posts/2025-11-12-gpt-5-1-a-smarter-more-conversational-chatgpt.html",
+      "date_iso": "2025-11-12T19:05:41+00:00",
+      "source": "https://openai.com/index/gpt-5-1/",
+      "summary": "Article URL: https://openai.com/index/gpt-5-1/ Comments URL: https://news.ycombinator.com/item?id=45904551 Points: 292 # Comments: 312"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/12/business/europe-rare-earths.html",
+      "title": "Solvay of Belgium Creates Rare Earths Deals With U.S.",
+      "slug": "2025-11-12-solvay-of-belgium-creates-rare-earths-deals-with-u-s.html",
+      "path": "posts/2025-11-12-solvay-of-belgium-creates-rare-earths-deals-with-u-s.html",
+      "date_iso": "2025-11-12T18:53:36+00:00",
+      "source": "https://www.nytimes.com/2025/11/12/business/europe-rare-earths.html",
+      "summary": "Solvay’s rare earths processing plant in La Rochelle, France. The company signed two deals to send rare earths to the United States."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45903995",
+      "title": "How Tube Amplifiers Work",
+      "slug": "2025-11-12-how-tube-amplifiers-work.html",
+      "path": "posts/2025-11-12-how-tube-amplifiers-work.html",
+      "date_iso": "2025-11-12T18:35:59+00:00",
+      "source": "https://robrobinette.com/How_Amps_Work.htm",
+      "summary": "Article URL: https://robrobinette.com/How_Amps_Work.htm Comments URL: https://news.ycombinator.com/item?id=45903995 Points: 95 # Comments: 51"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45903404",
+      "title": "Steam Machine",
+      "slug": "2025-11-12-steam-machine.html",
+      "path": "posts/2025-11-12-steam-machine.html",
+      "date_iso": "2025-11-12T17:59:43+00:00",
+      "source": "https://store.steampowered.com/sale/steammachine",
+      "summary": "Article URL: https://store.steampowered.com/sale/steammachine Comments URL: https://news.ycombinator.com/item?id=45903404 Points: 1712 # Comments: 839"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45903325",
+      "title": "Steam Frame",
+      "slug": "2025-11-12-steam-frame.html",
+      "path": "posts/2025-11-12-steam-frame.html",
+      "date_iso": "2025-11-12T17:54:58+00:00",
+      "source": "https://store.steampowered.com/sale/steamframe",
+      "summary": "Article URL: https://store.steampowered.com/sale/steamframe Comments URL: https://news.ycombinator.com/item?id=45903325 Points: 1239 # Comments: 476"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45903161",
+      "title": "Launch HN: JSX Tool (YC F25) – A Browser Dev-Panel IDE for React",
+      "slug": "2025-11-12-launch-hn-jsx-tool-yc-f25-a-browser-dev-panel-ide-for-react.html",
+      "path": "posts/2025-11-12-launch-hn-jsx-tool-yc-f25-a-browser-dev-panel-ide-for-react.html",
+      "date_iso": "2025-11-12T17:43:42+00:00",
+      "source": "https://news.ycombinator.com/item?id=45903161",
+      "summary": "Hi HN, We’re Jamie & Dan, building JSX Tool ( https://jsxtool.com ) a new inspector/dev panel IDE that allows you to navigate to any line of your React project’s JSX with just a click and a command click to explore your render stack. Demo video: https://www.youtube.com/watch?v=J…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45902898",
+      "title": "Project Euler",
+      "slug": "2025-11-12-project-euler.html",
+      "path": "posts/2025-11-12-project-euler.html",
+      "date_iso": "2025-11-12T17:24:54+00:00",
+      "source": "https://projecteuler.net",
+      "summary": "Article URL: https://projecteuler.net Comments URL: https://news.ycombinator.com/item?id=45902898 Points: 401 # Comments: 98"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/12/business/un-climate-corporate-executives.html",
+      "title": "Missing at U.N.’s Climate Meeting: American Executives",
+      "slug": "2025-11-12-missing-at-u-n-s-climate-meeting-american-executives.html",
+      "path": "posts/2025-11-12-missing-at-u-n-s-climate-meeting-american-executives.html",
+      "date_iso": "2025-11-12T10:02:03+00:00",
+      "source": "https://www.nytimes.com/2025/11/12/business/un-climate-corporate-executives.html",
+      "summary": "Officials from around the world are attending the U.N. climate summit in Belém, Brazil, this week, but U.S. government and business leaders are not among them."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/12/business/media/ai-defamation-libel-slander.html",
+      "title": "Who Pays When A.I. Is Wrong?",
+      "slug": "2025-11-12-who-pays-when-a-i-is-wrong.html",
+      "path": "posts/2025-11-12-who-pays-when-a-i-is-wrong.html",
+      "date_iso": "2025-11-12T10:01:56+00:00",
+      "source": "https://www.nytimes.com/2025/11/12/business/media/ai-defamation-libel-slander.html",
+      "summary": "Wolf River Electric sued Google when A.I.-generated search results fabricated a lawsuit against the company. Its executives include, from left, Luka Bozek, Vladimir Marchenko and Justin Nielsen."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45896733",
       "title": "Problems with C++ exceptions",
       "slug": "2025-11-12-problems-with-c-exceptions.html",
