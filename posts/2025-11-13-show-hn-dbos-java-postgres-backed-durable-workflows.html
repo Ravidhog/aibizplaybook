@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: DBOS Java – Postgres-Backed Durable Workflows</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: DBOS Java – Postgres-Backed Durable Workflows</h1>
+    <p><small>Published: 2025-11-13T20:33:43+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hi HN - I’m Peter, here with Harry (devhawk), and we’re building DBOS Java, an open-source Java library for durable workflows, backed by Postgres.<p><a href="https://github.com/dbos-inc/dbos-transact-java" rel="nofollow">https://github.com/dbos-inc/dbos-transact-java</a><p>Essentially, DBOS helps you write long-lived, reliable code that can survive failures, restarts, and crashes without losing state or duplicating work. As your workflows run, it checkpoints each step they take in a Postgres database. When a process stops (fails, restarts, or crashes), your program can recover from those checkpoints to restore its exact state and continue from where it left off, as if nothing happened.<p>In practice, this makes it easier to build reliable systems for use cases like AI agents, payments, data synchronization, or anything that takes hours, days, or weeks to complete. Rather than bolting on ad-hoc retry logic and database checkpoints, durable workflows give you one consistent model for ensuring your programs can recover from any failure from exactly where they left off.<p>This library contains all you need to add durable workflows to your program: there's no separate service or orchestrator or any external dependencies except Postgres. Because it's just a library, you can incrementally add it to your projects, and it works out of the box with frameworks like Spring. And because it's built on Postgres, it natively supports all the tooling you're familiar with (backups, GUIs, CLI tools) and works with any Postgres provider.<p>If you want to try it out, check out the quickstart:<p><a href="https://docs.dbos.dev/quickstart?language=java" rel="nofollow">https://docs.dbos.dev/quickstart?language=java</a><p>We'd love to hear what you think! We’ll be in the comments for the rest of the day to answer any questions.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45920156">https://news.ycombinator.com/item?id=45920156</a></p>
+<p>Points: 72</p>
+<p># Comments: 37</p>
+    <p><a href="https://github.com/dbos-inc/dbos-transact-java" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45924345",
+      "title": "Hooked on Sonics: Experimenting with Sound in 19th-Century Popular Science",
+      "slug": "2025-11-14-hooked-on-sonics-experimenting-with-sound-in-19th-century-popular-science.html",
+      "path": "posts/2025-11-14-hooked-on-sonics-experimenting-with-sound-in-19th-century-popular-science.html",
+      "date_iso": "2025-11-14T06:13:09+00:00",
+      "source": "https://publicdomainreview.org/essay/science-of-sound/",
+      "summary": "Article URL: https://publicdomainreview.org/essay/science-of-sound/ Comments URL: https://news.ycombinator.com/item?id=45924345 Points: 6 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45922850",
+      "title": "How to Get a North Korea / Antarctica VPS",
+      "slug": "2025-11-14-how-to-get-a-north-korea-antarctica-vps.html",
+      "path": "posts/2025-11-14-how-to-get-a-north-korea-antarctica-vps.html",
+      "date_iso": "2025-11-14T01:30:50+00:00",
+      "source": "https://blog.lyc8503.net/en/post/asn-5-worldwide-servers/",
+      "summary": "Article URL: https://blog.lyc8503.net/en/post/asn-5-worldwide-servers/ Comments URL: https://news.ycombinator.com/item?id=45922850 Points: 67 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45922420",
+      "title": "What Happened with the CIA and The Paris Review?",
+      "slug": "2025-11-14-what-happened-with-the-cia-and-the-paris-review.html",
+      "path": "posts/2025-11-14-what-happened-with-the-cia-and-the-paris-review.html",
+      "date_iso": "2025-11-14T00:18:23+00:00",
+      "source": "https://www.theparisreview.org/blog/2025/11/11/what-really-happened-with-the-cia-and-the-paris-review-a-conversation-with-lance-richardson/",
+      "summary": "Article URL: https://www.theparisreview.org/blog/2025/11/11/what-really-happened-with-the-cia-and-the-paris-review-a-conversation-with-lance-richardson/ Comments URL: https://news.ycombinator.com/item?id=45922420 Points: 18 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45921431",
+      "title": "Kubernetes Ingress Nginx is retiring",
+      "slug": "2025-11-13-kubernetes-ingress-nginx-is-retiring.html",
+      "path": "posts/2025-11-13-kubernetes-ingress-nginx-is-retiring.html",
+      "date_iso": "2025-11-13T22:20:57+00:00",
+      "source": "https://www.kubernetes.dev/blog/2025/11/12/ingress-nginx-retirement/",
+      "summary": "Article URL: https://www.kubernetes.dev/blog/2025/11/12/ingress-nginx-retirement/ Comments URL: https://news.ycombinator.com/item?id=45921431 Points: 108 # Comments: 54"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45920881",
+      "title": "650GB of Data (Delta Lake on S3). Polars vs. DuckDB vs. Daft vs. Spark",
+      "slug": "2025-11-13-650gb-of-data-delta-lake-on-s3-polars-vs-duckdb-vs-daft-vs-spark.html",
+      "path": "posts/2025-11-13-650gb-of-data-delta-lake-on-s3-polars-vs-duckdb-vs-daft-vs-spark.html",
+      "date_iso": "2025-11-13T21:33:26+00:00",
+      "source": "https://dataengineeringcentral.substack.com/p/650gb-of-data-delta-lake-on-s3-polars",
+      "summary": "Article URL: https://dataengineeringcentral.substack.com/p/650gb-of-data-delta-lake-on-s3-polars Comments URL: https://news.ycombinator.com/item?id=45920881 Points: 157 # Comments: 43"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45920748",
+      "title": "Blue Origin lands New Glenn rocket booster on second try",
+      "slug": "2025-11-13-blue-origin-lands-new-glenn-rocket-booster-on-second-try.html",
+      "path": "posts/2025-11-13-blue-origin-lands-new-glenn-rocket-booster-on-second-try.html",
+      "date_iso": "2025-11-13T21:24:25+00:00",
+      "source": "https://techcrunch.com/2025/11/13/blue-origin-lands-new-glenn-rocket-booster-on-second-try/",
+      "summary": "Article URL: https://techcrunch.com/2025/11/13/blue-origin-lands-new-glenn-rocket-booster-on-second-try/ Comments URL: https://news.ycombinator.com/item?id=45920748 Points: 320 # Comments: 165"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45920677",
+      "title": "OpenMANET Wi-Fi HaLow open-source project for Raspberry Pi–based MANET radios",
+      "slug": "2025-11-13-openmanet-wi-fi-halow-open-source-project-for-raspberry-pi-based-manet-radios.html",
+      "path": "posts/2025-11-13-openmanet-wi-fi-halow-open-source-project-for-raspberry-pi-based-manet-radios.html",
+      "date_iso": "2025-11-13T21:18:14+00:00",
+      "source": "https://openmanet.net/",
+      "summary": "Article URL: https://openmanet.net/ Comments URL: https://news.ycombinator.com/item?id=45920677 Points: 103 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45920468",
+      "title": "Piramidal (YC W24) Hiring: Front End Engineer",
+      "slug": "2025-11-13-piramidal-yc-w24-hiring-front-end-engineer.html",
+      "path": "posts/2025-11-13-piramidal-yc-w24-hiring-front-end-engineer.html",
+      "date_iso": "2025-11-13T21:00:27+00:00",
+      "source": "https://www.ycombinator.com/companies/piramidal/jobs/i9yNX5s-front-end-engineer-user-interface",
+      "summary": "Article URL: https://www.ycombinator.com/companies/piramidal/jobs/i9yNX5s-front-end-engineer-user-interface Comments URL: https://news.ycombinator.com/item?id=45920468 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45920156",
+      "title": "Show HN: DBOS Java – Postgres-Backed Durable Workflows",
+      "slug": "2025-11-13-show-hn-dbos-java-postgres-backed-durable-workflows.html",
+      "path": "posts/2025-11-13-show-hn-dbos-java-postgres-backed-durable-workflows.html",
+      "date_iso": "2025-11-13T20:33:43+00:00",
+      "source": "https://github.com/dbos-inc/dbos-transact-java",
+      "summary": "Hi HN - I’m Peter, here with Harry (devhawk), and we’re building DBOS Java, an open-source Java library for durable workflows, backed by Postgres. https://github.com/dbos-inc/dbos-transact-java Essentially, DBOS helps you write long-lived, reliable code that can survive failures…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45919067",
+      "title": "SlopStop: Community-driven AI slop detection in Kagi Search",
+      "slug": "2025-11-13-slopstop-community-driven-ai-slop-detection-in-kagi-search.html",
+      "path": "posts/2025-11-13-slopstop-community-driven-ai-slop-detection-in-kagi-search.html",
+      "date_iso": "2025-11-13T19:03:26+00:00",
+      "source": "https://blog.kagi.com/slopstop",
+      "summary": "Article URL: https://blog.kagi.com/slopstop Comments URL: https://news.ycombinator.com/item?id=45919067 Points: 401 # Comments: 185"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45918638",
+      "title": "Disrupting the first reported AI-orchestrated cyber espionage campaign",
+      "slug": "2025-11-13-disrupting-the-first-reported-ai-orchestrated-cyber-espionage-campaign.html",
+      "path": "posts/2025-11-13-disrupting-the-first-reported-ai-orchestrated-cyber-espionage-campaign.html",
+      "date_iso": "2025-11-13T18:34:12+00:00",
+      "source": "https://www.anthropic.com/news/disrupting-AI-espionage",
+      "summary": "Article URL: https://www.anthropic.com/news/disrupting-AI-espionage Comments URL: https://news.ycombinator.com/item?id=45918638 Points: 229 # Comments: 151"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45918331",
+      "title": "The Eggstraordinary Fortress",
+      "slug": "2025-11-13-the-eggstraordinary-fortress.html",
+      "path": "posts/2025-11-13-the-eggstraordinary-fortress.html",
+      "date_iso": "2025-11-13T18:10:29+00:00",
+      "source": "https://ahmed1011001.github.io/Notes/stories/eggstrodinary.html",
+      "summary": "Article URL: https://ahmed1011001.github.io/Notes/stories/eggstrodinary.html Comments URL: https://news.ycombinator.com/item?id=45918331 Points: 59 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45917875",
+      "title": "Nano Banana can be prompt engineered for nuanced AI image generation",
+      "slug": "2025-11-13-nano-banana-can-be-prompt-engineered-for-nuanced-ai-image-generation.html",
+      "path": "posts/2025-11-13-nano-banana-can-be-prompt-engineered-for-nuanced-ai-image-generation.html",
+      "date_iso": "2025-11-13T17:39:13+00:00",
+      "source": "https://minimaxir.com/2025/11/nano-banana-prompts/",
+      "summary": "Article URL: https://minimaxir.com/2025/11/nano-banana-prompts/ Comments URL: https://news.ycombinator.com/item?id=45917875 Points: 615 # Comments: 157"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45916525",
+      "title": "Launch HN: Tweeks (YC W25) – Browser extension to deshittify the web",
+      "slug": "2025-11-13-launch-hn-tweeks-yc-w25-browser-extension-to-deshittify-the-web.html",
+      "path": "posts/2025-11-13-launch-hn-tweeks-yc-w25-browser-extension-to-deshittify-the-web.html",
+      "date_iso": "2025-11-13T16:03:04+00:00",
+      "source": "https://www.tweeks.io/onboarding",
+      "summary": "Hey HN! We’re Jason & Matt and we’re building Tweeks ( https://tweeks.io ), a browser extension that lets you modify any website in your browser to add functionality, filter/highlight, re-theme, reorganize, de-clutter, etc. If you’ve used Violentmonkey/Tampermonkey, Tweeks is li…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45916196",
+      "title": "Zed is our office",
+      "slug": "2025-11-13-zed-is-our-office.html",
+      "path": "posts/2025-11-13-zed-is-our-office.html",
+      "date_iso": "2025-11-13T15:41:26+00:00",
+      "source": "https://zed.dev/blog/zed-is-our-office",
+      "summary": "Article URL: https://zed.dev/blog/zed-is-our-office Comments URL: https://news.ycombinator.com/item?id=45916196 Points: 530 # Comments: 268"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45916037",
+      "title": "SIMA 2: An agent that plays, reasons, and learns with you in virtual 3D worlds",
+      "slug": "2025-11-13-sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds.html",
+      "path": "posts/2025-11-13-sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds.html",
+      "date_iso": "2025-11-13T15:29:38+00:00",
+      "source": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/",
+      "summary": "Article URL: https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/ Comments URL: https://news.ycombinator.com/item?id=45916037 Points: 190 # Comments: 77"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45914815",
+      "title": "Heartbeats in Distributed Systems",
+      "slug": "2025-11-13-heartbeats-in-distributed-systems.html",
+      "path": "posts/2025-11-13-heartbeats-in-distributed-systems.html",
+      "date_iso": "2025-11-13T13:43:50+00:00",
+      "source": "https://arpitbhayani.me/blogs/heartbeats-in-distributed-systems/",
+      "summary": "Article URL: https://arpitbhayani.me/blogs/heartbeats-in-distributed-systems/ Comments URL: https://news.ycombinator.com/item?id=45914815 Points: 130 # Comments: 44"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45914761",
+      "title": "Blender Lab",
+      "slug": "2025-11-13-blender-lab.html",
+      "path": "posts/2025-11-13-blender-lab.html",
+      "date_iso": "2025-11-13T13:38:47+00:00",
+      "source": "https://www.blender.org/news/introducing-blender-lab/",
+      "summary": "Article URL: https://www.blender.org/news/introducing-blender-lab/ Comments URL: https://news.ycombinator.com/item?id=45914761 Points: 226 # Comments: 45"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/13/arts/design/art-influencers-apps-galleries-smartphone.html",
+      "title": "5 Apps That Will Make You Love Art Galleries",
+      "slug": "2025-11-13-5-apps-that-will-make-you-love-art-galleries.html",
+      "path": "posts/2025-11-13-5-apps-that-will-make-you-love-art-galleries.html",
+      "date_iso": "2025-11-13T12:00:11+00:00",
+      "source": "https://www.nytimes.com/2025/11/13/arts/design/art-influencers-apps-galleries-smartphone.html",
+      "summary": "Craving an art fix but don’t know where to start? These new art influencers can help newbies and players navigate openings, events and listings."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/13/business/luxury-electric-vehicles.html",
+      "title": "The Luxury Electric Vehicle Is in Trouble",
+      "slug": "2025-11-13-the-luxury-electric-vehicle-is-in-trouble.html",
+      "path": "posts/2025-11-13-the-luxury-electric-vehicle-is-in-trouble.html",
+      "date_iso": "2025-11-13T10:01:55+00:00",
+      "source": "https://www.nytimes.com/2025/11/13/business/luxury-electric-vehicles.html",
+      "summary": "Ford Motor has stopped making its F-150 Lightning electric pickup truck, which starts at $55,000, and won’t say when or whether production will restart."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45912698",
+      "title": "Checkout.com hacked, refuses ransom payment, donates to security labs",
+      "slug": "2025-11-13-checkout-com-hacked-refuses-ransom-payment-donates-to-security-labs.html",
+      "path": "posts/2025-11-13-checkout-com-hacked-refuses-ransom-payment-donates-to-security-labs.html",
+      "date_iso": "2025-11-13T09:23:30+00:00",
+      "source": "https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion",
+      "summary": "Article URL: https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion Comments URL: https://news.ycombinator.com/item?id=45912698 Points: 576 # Comments: 254"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45910625",
       "title": "CollectWise (YC F24) Is Hiring",
       "slug": "2025-11-13-collectwise-yc-f24-is-hiring.html",
