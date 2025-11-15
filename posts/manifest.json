@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45935342",
+      "title": "So, you want to design your own language?",
+      "slug": "2025-11-15-so-you-want-to-design-your-own-language.html",
+      "path": "posts/2025-11-15-so-you-want-to-design-your-own-language.html",
+      "date_iso": "2025-11-15T05:44:43+00:00",
+      "source": "https://cs.lmu.edu/~ray/notes/languagedesignnotes/",
+      "summary": "Article URL: https://cs.lmu.edu/~ray/notes/languagedesignnotes/ Comments URL: https://news.ycombinator.com/item?id=45935342 Points: 20 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45934940",
+      "title": "I can't recommend Grafana anymore",
+      "slug": "2025-11-15-i-can-t-recommend-grafana-anymore.html",
+      "path": "posts/2025-11-15-i-can-t-recommend-grafana-anymore.html",
+      "date_iso": "2025-11-15T03:58:01+00:00",
+      "source": "https://henrikgerdes.me/blog/2025-11-grafana-mess/",
+      "summary": "Article URL: https://henrikgerdes.me/blog/2025-11-grafana-mess/ Comments URL: https://news.ycombinator.com/item?id=45934940 Points: 125 # Comments: 42"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45934481",
+      "title": "A structural regular expression engine for Rust",
+      "slug": "2025-11-15-a-structural-regular-expression-engine-for-rust.html",
+      "path": "posts/2025-11-15-a-structural-regular-expression-engine-for-rust.html",
+      "date_iso": "2025-11-15T02:17:31+00:00",
+      "source": "https://www.sminez.dev/match-it-again-sam/",
+      "summary": "Article URL: https://www.sminez.dev/match-it-again-sam/ Comments URL: https://news.ycombinator.com/item?id=45934481 Points: 7 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45934447",
+      "title": "AI note-taking startup Fireflies was really two guys typing notes by hand",
+      "slug": "2025-11-15-ai-note-taking-startup-fireflies-was-really-two-guys-typing-notes-by-hand.html",
+      "path": "posts/2025-11-15-ai-note-taking-startup-fireflies-was-really-two-guys-typing-notes-by-hand.html",
+      "date_iso": "2025-11-15T02:11:43+00:00",
+      "source": "https://www.pcgamer.com/software/ai/usd1-billion-ai-company-co-founder-admits-that-its-usd100-a-month-transcription-service-was-originally-two-guys-surviving-on-pizza-and-typing-out-notes-by-hand/",
+      "summary": "Article URL: https://www.pcgamer.com/software/ai/usd1-billion-ai-company-co-founder-admits-that-its-usd100-a-month-transcription-service-was-originally-two-guys-surviving-on-pizza-and-typing-out-notes-by-hand/ Comments URL: https://news.ycombinator.com/item?id=45934447 Points: 7…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45934416",
+      "title": "AMD GPUs Go Brrr",
+      "slug": "2025-11-15-amd-gpus-go-brrr.html",
+      "path": "posts/2025-11-15-amd-gpus-go-brrr.html",
+      "date_iso": "2025-11-15T02:06:16+00:00",
+      "source": "https://hazyresearch.stanford.edu/blog/2025-11-09-amd-brr",
+      "summary": "Article URL: https://hazyresearch.stanford.edu/blog/2025-11-09-amd-brr Comments URL: https://news.ycombinator.com/item?id=45934416 Points: 37 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45933497",
+      "title": "No Leak, No Problem – Bypassing ASLR with a ROP Chain to Gain RCE",
+      "slug": "2025-11-14-no-leak-no-problem-bypassing-aslr-with-a-rop-chain-to-gain-rce.html",
+      "path": "posts/2025-11-14-no-leak-no-problem-bypassing-aslr-with-a-rop-chain-to-gain-rce.html",
+      "date_iso": "2025-11-14T23:39:36+00:00",
+      "source": "https://modzero.com/en/blog/no-leak-no-problem/",
+      "summary": "Article URL: https://modzero.com/en/blog/no-leak-no-problem/ Comments URL: https://news.ycombinator.com/item?id=45933497 Points: 57 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45932962",
+      "title": "Go's Sweet 16",
+      "slug": "2025-11-14-go-s-sweet-16.html",
+      "path": "posts/2025-11-14-go-s-sweet-16.html",
+      "date_iso": "2025-11-14T22:33:15+00:00",
+      "source": "https://go.dev/blog/16years",
+      "summary": "Article URL: https://go.dev/blog/16years Comments URL: https://news.ycombinator.com/item?id=45932962 Points: 142 # Comments: 76"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45932798",
+      "title": "SSL Configuration Generator",
+      "slug": "2025-11-14-ssl-configuration-generator.html",
+      "path": "posts/2025-11-14-ssl-configuration-generator.html",
+      "date_iso": "2025-11-14T22:15:04+00:00",
+      "source": "https://ssl-config.mozilla.org/",
+      "summary": "Article URL: https://ssl-config.mozilla.org/ Comments URL: https://news.ycombinator.com/item?id=45932798 Points: 137 # Comments: 38"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45932131",
+      "title": "Mentra (YC W25) Is Hiring: Head of Growth to Make Smart Glasses Mainstream",
+      "slug": "2025-11-14-mentra-yc-w25-is-hiring-head-of-growth-to-make-smart-glasses-mainstream.html",
+      "path": "posts/2025-11-14-mentra-yc-w25-is-hiring-head-of-growth-to-make-smart-glasses-mainstream.html",
+      "date_iso": "2025-11-14T21:00:25+00:00",
+      "source": "https://www.ycombinator.com/companies/mentra/jobs/2YbQCRw-make-smart-glasses-mainstream-head-of-growth",
+      "summary": "Article URL: https://www.ycombinator.com/companies/mentra/jobs/2YbQCRw-make-smart-glasses-mainstream-head-of-growth Comments URL: https://news.ycombinator.com/item?id=45932131 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45931403",
+      "title": "All praise to the lunch ladies",
+      "slug": "2025-11-14-all-praise-to-the-lunch-ladies.html",
+      "path": "posts/2025-11-14-all-praise-to-the-lunch-ladies.html",
+      "date_iso": "2025-11-14T19:54:58+00:00",
+      "source": "https://bittersoutherner.com/issue-no-12/all-praise-to-the-lunch-ladies",
+      "summary": "Article URL: https://bittersoutherner.com/issue-no-12/all-praise-to-the-lunch-ladies Comments URL: https://news.ycombinator.com/item?id=45931403 Points: 166 # Comments: 92"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/14/technology/progressive-newspaper-stranger-seattle.html",
+      "title": "How Seattle’s The Stranger Became a Progressive Kingmaker",
+      "slug": "2025-11-14-how-seattle-s-the-stranger-became-a-progressive-kingmaker.html",
+      "path": "posts/2025-11-14-how-seattle-s-the-stranger-became-a-progressive-kingmaker.html",
+      "date_iso": "2025-11-14T19:46:22+00:00",
+      "source": "https://www.nytimes.com/2025/11/14/technology/progressive-newspaper-stranger-seattle.html",
+      "summary": "The Stranger newspaper plays a big role in Seattle’s progressive politics."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45930598",
+      "title": "Structured outputs on the Claude Developer Platform",
+      "slug": "2025-11-14-structured-outputs-on-the-claude-developer-platform.html",
+      "path": "posts/2025-11-14-structured-outputs-on-the-claude-developer-platform.html",
+      "date_iso": "2025-11-14T19:04:23+00:00",
+      "source": "https://www.claude.com/blog/structured-outputs-on-the-claude-developer-platform",
+      "summary": "Article URL: https://www.claude.com/blog/structured-outputs-on-the-claude-developer-platform Comments URL: https://news.ycombinator.com/item?id=45930598 Points: 127 # Comments: 57"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45930284",
+      "title": "Minisforum Stuffs Entire Arm Homelab in the MS-R1",
+      "slug": "2025-11-14-minisforum-stuffs-entire-arm-homelab-in-the-ms-r1.html",
+      "path": "posts/2025-11-14-minisforum-stuffs-entire-arm-homelab-in-the-ms-r1.html",
+      "date_iso": "2025-11-14T18:42:55+00:00",
+      "source": "https://www.jeffgeerling.com/blog/2025/minisforum-stuffs-entire-arm-homelab-ms-r1",
+      "summary": "Article URL: https://www.jeffgeerling.com/blog/2025/minisforum-stuffs-entire-arm-homelab-ms-r1 Comments URL: https://news.ycombinator.com/item?id=45930284 Points: 78 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45930151",
+      "title": "AI World Clocks",
+      "slug": "2025-11-14-ai-world-clocks.html",
+      "path": "posts/2025-11-14-ai-world-clocks.html",
+      "date_iso": "2025-11-14T18:35:22+00:00",
+      "source": "https://clocks.brianmoore.com/",
+      "summary": "\"Every minute, a new clock is rendered by nine different AI models.\" Comments URL: https://news.ycombinator.com/item?id=45930151 Points: 930 # Comments: 296"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45929921",
+      "title": "A race condition in Aurora RDS",
+      "slug": "2025-11-14-a-race-condition-in-aurora-rds.html",
+      "path": "posts/2025-11-14-a-race-condition-in-aurora-rds.html",
+      "date_iso": "2025-11-14T18:20:08+00:00",
+      "source": "https://hightouch.com/blog/uncovering-a-race-condition-in-aurora-rds",
+      "summary": "Article URL: https://hightouch.com/blog/uncovering-a-race-condition-in-aurora-rds Comments URL: https://news.ycombinator.com/item?id=45929921 Points: 212 # Comments: 68"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/14/travel/digital-identification-travel.html",
+      "title": "What’s a Digital Passport and How Does It Work?",
+      "slug": "2025-11-14-what-s-a-digital-passport-and-how-does-it-work.html",
+      "path": "posts/2025-11-14-what-s-a-digital-passport-and-how-does-it-work.html",
+      "date_iso": "2025-11-14T17:57:17+00:00",
+      "source": "https://www.nytimes.com/2025/11/14/travel/digital-identification-travel.html",
+      "summary": "Using digital identification while traveling has become increasingly common. Both Apple and Google have introduced versions of digital passports, which can be used at many airports around the country."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45929511",
+      "title": "The disguised return of EU Chat Control",
+      "slug": "2025-11-14-the-disguised-return-of-eu-chat-control.html",
+      "path": "posts/2025-11-14-the-disguised-return-of-eu-chat-control.html",
+      "date_iso": "2025-11-14T17:54:07+00:00",
+      "source": "https://reclaimthenet.org/the-disguised-return-of-the-eus-private-message-scanning-plot",
+      "summary": "https://www.patrick-breyer.de/en/chat-control-2-0-through-th... Comments URL: https://news.ycombinator.com/item?id=45929511 Points: 594 # Comments: 249"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/14/science/nasa-mars-escapade.html",
+      "title": "Almost Everything About NASA’s ESCAPADE Mission to Mars Is Unusual",
+      "slug": "2025-11-14-almost-everything-about-nasa-s-escapade-mission-to-mars-is-unusual.html",
+      "path": "posts/2025-11-14-almost-everything-about-nasa-s-escapade-mission-to-mars-is-unusual.html",
+      "date_iso": "2025-11-14T17:13:07+00:00",
+      "source": "https://www.nytimes.com/2025/11/14/science/nasa-mars-escapade.html",
+      "summary": "The ESCAPADE mission, which launched to space on a Blue Origin rocket on Thursday, breaks the mold of how planetary science missions typically come together."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45928912",
+      "title": "Being poor vs. being broke",
+      "slug": "2025-11-14-being-poor-vs-being-broke.html",
+      "path": "posts/2025-11-14-being-poor-vs-being-broke.html",
+      "date_iso": "2025-11-14T17:08:15+00:00",
+      "source": "https://blog.ctms.me/posts/2025-11-14-being-poor-or-being-broke/",
+      "summary": "Article URL: https://blog.ctms.me/posts/2025-11-14-being-poor-or-being-broke/ Comments URL: https://news.ycombinator.com/item?id=45928912 Points: 461 # Comments: 538"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45928709",
+      "title": "Manganese is Lyme disease's double-edge sword",
+      "slug": "2025-11-14-manganese-is-lyme-disease-s-double-edge-sword.html",
+      "path": "posts/2025-11-14-manganese-is-lyme-disease-s-double-edge-sword.html",
+      "date_iso": "2025-11-14T16:51:03+00:00",
+      "source": "https://news.northwestern.edu/stories/2025/11/manganese-is-lyme-diseases-double-edge-sword",
+      "summary": "Article URL: https://news.northwestern.edu/stories/2025/11/manganese-is-lyme-diseases-double-edge-sword Comments URL: https://news.ycombinator.com/item?id=45928709 Points: 136 # Comments: 76"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45928492",
+      "title": "'No One Lives Forever' turns 25 and you still can't buy it legitimately",
+      "slug": "2025-11-14-no-one-lives-forever-turns-25-and-you-still-can-t-buy-it-legitimately.html",
+      "path": "posts/2025-11-14-no-one-lives-forever-turns-25-and-you-still-can-t-buy-it-legitimately.html",
+      "date_iso": "2025-11-14T16:31:26+00:00",
+      "source": "https://www.techdirt.com/2025/11/13/no-one-lives-forever-turns-25-you-still-cant-buy-it-legitimately/",
+      "summary": "Article URL: https://www.techdirt.com/2025/11/13/no-one-lives-forever-turns-25-you-still-cant-buy-it-legitimately/ Comments URL: https://news.ycombinator.com/item?id=45928492 Points: 221 # Comments: 108"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/14/style/iphone-pocket-apple-issey-miyake.html",
+      "title": "Apple’s iPhone Pocket by Issey Miyake Is Confusing by Design",
+      "slug": "2025-11-14-apple-s-iphone-pocket-by-issey-miyake-is-confusing-by-design.html",
+      "path": "posts/2025-11-14-apple-s-iphone-pocket-by-issey-miyake-is-confusing-by-design.html",
+      "date_iso": "2025-11-14T13:30:06+00:00",
+      "source": "https://www.nytimes.com/2025/11/14/style/iphone-pocket-apple-issey-miyake.html",
+      "summary": "Decades after their founders connected, Apple and Issey Miyake released a collection of phone pouches that have some people baffled. They hope it will inspire creativity."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45926224",
+      "title": "Winamp clone in Swift for macOS",
+      "slug": "2025-11-14-winamp-clone-in-swift-for-macos.html",
+      "path": "posts/2025-11-14-winamp-clone-in-swift-for-macos.html",
+      "date_iso": "2025-11-14T12:44:07+00:00",
+      "source": "https://github.com/mgreenwood1001/winamp",
+      "summary": "Article URL: https://github.com/mgreenwood1001/winamp Comments URL: https://news.ycombinator.com/item?id=45926224 Points: 212 # Comments: 133"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/14/podcasts/hardfork-data-center-space.html",
+      "title": "Data Centers in Space + A.I. Policy on the Right + A Gemini History Mystery",
+      "slug": "2025-11-14-data-centers-in-space-a-i-policy-on-the-right-a-gemini-history-mystery.html",
+      "path": "posts/2025-11-14-data-centers-in-space-a-i-policy-on-the-right-a-gemini-history-mystery.html",
+      "date_iso": "2025-11-14T12:00:03+00:00",
+      "source": "https://www.nytimes.com/2025/11/14/podcasts/hardfork-data-center-space.html",
+      "summary": "“As you may have noticed, it is not easy to build data centers here on Earth.”"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45924483",
+      "title": "Lawmakers want to ban VPNs and have no idea what they're doing",
+      "slug": "2025-11-14-lawmakers-want-to-ban-vpns-and-have-no-idea-what-they-re-doing.html",
+      "path": "posts/2025-11-14-lawmakers-want-to-ban-vpns-and-have-no-idea-what-they-re-doing.html",
+      "date_iso": "2025-11-14T06:39:13+00:00",
+      "source": "https://www.eff.org/deeplinks/2025/11/lawmakers-want-ban-vpns-and-they-have-no-idea-what-theyre-doing",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2025/11/lawmakers-want-ban-vpns-and-they-have-no-idea-what-theyre-doing Comments URL: https://news.ycombinator.com/item?id=45924483 Points: 137 # Comments: 78"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45924345",
       "title": "Hooked on Sonics: Experimenting with Sound in 19th-Century Popular Science",
       "slug": "2025-11-14-hooked-on-sonics-experimenting-with-sound-in-19th-century-popular-science.html",
