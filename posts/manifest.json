@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45942462",
+      "title": "$5 PlanetScale is live",
+      "slug": "2025-11-16-5-planetscale-is-live.html",
+      "path": "posts/2025-11-16-5-planetscale-is-live.html",
+      "date_iso": "2025-11-16T03:14:19+00:00",
+      "source": "https://planetscale.com/blog/5-dollar-planetscale-is-here",
+      "summary": "Article URL: https://planetscale.com/blog/5-dollar-planetscale-is-here Comments URL: https://news.ycombinator.com/item?id=45942462 Points: 12 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45941835",
+      "title": "IDEmacs: A Visual Studio Code clone for Emacs",
+      "slug": "2025-11-16-idemacs-a-visual-studio-code-clone-for-emacs.html",
+      "path": "posts/2025-11-16-idemacs-a-visual-studio-code-clone-for-emacs.html",
+      "date_iso": "2025-11-16T00:56:31+00:00",
+      "source": "https://codeberg.org/IDEmacs/IDEmacs",
+      "summary": "Article URL: https://codeberg.org/IDEmacs/IDEmacs Comments URL: https://news.ycombinator.com/item?id=45941835 Points: 151 # Comments: 28"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45941596",
+      "title": "AirPods libreated from Apple's ecosystem",
+      "slug": "2025-11-16-airpods-libreated-from-apple-s-ecosystem.html",
+      "path": "posts/2025-11-16-airpods-libreated-from-apple-s-ecosystem.html",
+      "date_iso": "2025-11-16T00:01:25+00:00",
+      "source": "https://github.com/kavishdevar/librepods",
+      "summary": "Article URL: https://github.com/kavishdevar/librepods Comments URL: https://news.ycombinator.com/item?id=45941596 Points: 496 # Comments: 119"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45941563",
+      "title": "When UPS charged me a $684 tariff on $355 of vintage computer parts",
+      "slug": "2025-11-15-when-ups-charged-me-a-684-tariff-on-355-of-vintage-computer-parts.html",
+      "path": "posts/2025-11-15-when-ups-charged-me-a-684-tariff-on-355-of-vintage-computer-parts.html",
+      "date_iso": "2025-11-15T23:55:19+00:00",
+      "source": "http://oldvcr.blogspot.com/2025/11/when-ups-charged-me-684-tariff-on-355.html",
+      "summary": "Article URL: http://oldvcr.blogspot.com/2025/11/when-ups-charged-me-684-tariff-on-355.html Comments URL: https://news.ycombinator.com/item?id=45941563 Points: 181 # Comments: 154"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45941443",
+      "title": "The inconceivable types of Rust: How to make self-borrows safe (2024)",
+      "slug": "2025-11-15-the-inconceivable-types-of-rust-how-to-make-self-borrows-safe-2024.html",
+      "path": "posts/2025-11-15-the-inconceivable-types-of-rust-how-to-make-self-borrows-safe-2024.html",
+      "date_iso": "2025-11-15T23:31:39+00:00",
+      "source": "https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html",
+      "summary": "Article URL: https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html Comments URL: https://news.ycombinator.com/item?id=45941443 Points: 61 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45941441",
+      "title": "Blocking LLM crawlers without JavaScript",
+      "slug": "2025-11-15-blocking-llm-crawlers-without-javascript.html",
+      "path": "posts/2025-11-15-blocking-llm-crawlers-without-javascript.html",
+      "date_iso": "2025-11-15T23:30:04+00:00",
+      "source": "https://www.owl.is/blogg/blocking-crawlers-without-javascript/",
+      "summary": "Article URL: https://www.owl.is/blogg/blocking-crawlers-without-javascript/ Comments URL: https://news.ycombinator.com/item?id=45941441 Points: 105 # Comments: 44"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45941025",
+      "title": "libwifi: an 802.11 frame parsing and generation library written in C",
+      "slug": "2025-11-15-libwifi-an-802-11-frame-parsing-and-generation-library-written-in-c.html",
+      "path": "posts/2025-11-15-libwifi-an-802-11-frame-parsing-and-generation-library-written-in-c.html",
+      "date_iso": "2025-11-15T22:16:33+00:00",
+      "source": "https://libwifi.so/",
+      "summary": "Article URL: https://libwifi.so/ Comments URL: https://news.ycombinator.com/item?id=45941025 Points: 90 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45940706",
+      "title": "AsciiMath",
+      "slug": "2025-11-15-asciimath.html",
+      "path": "posts/2025-11-15-asciimath.html",
+      "date_iso": "2025-11-15T21:22:57+00:00",
+      "source": "https://asciimath.org/",
+      "summary": "Article URL: https://asciimath.org/ Comments URL: https://news.ycombinator.com/item?id=45940706 Points: 71 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45940681",
+      "title": "Report: Tim Cook could step down as Apple CEO 'as soon as next year'",
+      "slug": "2025-11-15-report-tim-cook-could-step-down-as-apple-ceo-as-soon-as-next-year.html",
+      "path": "posts/2025-11-15-report-tim-cook-could-step-down-as-apple-ceo-as-soon-as-next-year.html",
+      "date_iso": "2025-11-15T21:18:55+00:00",
+      "source": "https://9to5mac.com/2025/11/14/tim-cook-step-down-as-apple-ceo-as-soon-as-next-year-report/",
+      "summary": "Article URL: https://9to5mac.com/2025/11/14/tim-cook-step-down-as-apple-ceo-as-soon-as-next-year-report/ Comments URL: https://news.ycombinator.com/item?id=45940681 Points: 133 # Comments: 265"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45939938",
+      "title": "Archimedes – A Python toolkit for hardware engineering",
+      "slug": "2025-11-15-archimedes-a-python-toolkit-for-hardware-engineering.html",
+      "path": "posts/2025-11-15-archimedes-a-python-toolkit-for-hardware-engineering.html",
+      "date_iso": "2025-11-15T19:29:32+00:00",
+      "source": "https://pinetreelabs.github.io/archimedes/blog/2025/introduction.html",
+      "summary": "Article URL: https://pinetreelabs.github.io/archimedes/blog/2025/introduction.html Comments URL: https://news.ycombinator.com/item?id=45939938 Points: 69 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45939798",
+      "title": "Nevada Governor's office covered up Boring Co safety violations",
+      "slug": "2025-11-15-nevada-governor-s-office-covered-up-boring-co-safety-violations.html",
+      "path": "posts/2025-11-15-nevada-governor-s-office-covered-up-boring-co-safety-violations.html",
+      "date_iso": "2025-11-15T19:10:31+00:00",
+      "source": "https://fortune.com/2025/11/12/elon-musk-boring-company-tunnels-injuries-osha-citations-fines-rescinded-nevada-governor-office-documents-altered/",
+      "summary": "Article URL: https://fortune.com/2025/11/12/elon-musk-boring-company-tunnels-injuries-osha-citations-fines-rescinded-nevada-governor-office-documents-altered/ Comments URL: https://news.ycombinator.com/item?id=45939798 Points: 249 # Comments: 43"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45939569",
+      "title": "The computer poetry of J. M. Coetzee's early programming career (2017)",
+      "slug": "2025-11-15-the-computer-poetry-of-j-m-coetzee-s-early-programming-career-2017.html",
+      "path": "posts/2025-11-15-the-computer-poetry-of-j-m-coetzee-s-early-programming-career-2017.html",
+      "date_iso": "2025-11-15T18:44:05+00:00",
+      "source": "https://sites.utexas.edu/ransomcentermagazine/2017/06/28/the-computer-poetry-of-j-m-coetzees-early-programming-career/",
+      "summary": "Article URL: https://sites.utexas.edu/ransomcentermagazine/2017/06/28/the-computer-poetry-of-j-m-coetzees-early-programming-career/ Comments URL: https://news.ycombinator.com/item?id=45939569 Points: 53 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45939550",
+      "title": "Transgenerational Epigenetic Inheritance: the story of learned avoidance",
+      "slug": "2025-11-15-transgenerational-epigenetic-inheritance-the-story-of-learned-avoidance.html",
+      "path": "posts/2025-11-15-transgenerational-epigenetic-inheritance-the-story-of-learned-avoidance.html",
+      "date_iso": "2025-11-15T18:40:55+00:00",
+      "source": "https://elifesciences.org/articles/109427",
+      "summary": "Article URL: https://elifesciences.org/articles/109427 Comments URL: https://news.ycombinator.com/item?id=45939550 Points: 138 # Comments: 80"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45939431",
+      "title": "Things that aren't doing the thing",
+      "slug": "2025-11-15-things-that-aren-t-doing-the-thing.html",
+      "path": "posts/2025-11-15-things-that-aren-t-doing-the-thing.html",
+      "date_iso": "2025-11-15T18:24:58+00:00",
+      "source": "https://strangestloop.io/essays/things-that-arent-doing-the-thing",
+      "summary": "Article URL: https://strangestloop.io/essays/things-that-arent-doing-the-thing Comments URL: https://news.ycombinator.com/item?id=45939431 Points: 205 # Comments: 109"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45938427",
+      "title": "Mag Wealth (2024)",
+      "slug": "2025-11-15-mag-wealth-2024.html",
+      "path": "posts/2025-11-15-mag-wealth-2024.html",
+      "date_iso": "2025-11-15T16:16:42+00:00",
+      "source": "https://saul.pw/mag/wealth/",
+      "summary": "Article URL: https://saul.pw/mag/wealth/ Comments URL: https://news.ycombinator.com/item?id=45938427 Points: 137 # Comments: 157"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45938027",
+      "title": "Weighting an average to minimize variance",
+      "slug": "2025-11-15-weighting-an-average-to-minimize-variance.html",
+      "path": "posts/2025-11-15-weighting-an-average-to-minimize-variance.html",
+      "date_iso": "2025-11-15T15:25:08+00:00",
+      "source": "https://www.johndcook.com/blog/2025/11/12/minimum-variance/",
+      "summary": "Article URL: https://www.johndcook.com/blog/2025/11/12/minimum-variance/ Comments URL: https://news.ycombinator.com/item?id=45938027 Points: 84 # Comments: 43"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45937989",
+      "title": "Linux on the Fujitsu Lifebook U729",
+      "slug": "2025-11-15-linux-on-the-fujitsu-lifebook-u729.html",
+      "path": "posts/2025-11-15-linux-on-the-fujitsu-lifebook-u729.html",
+      "date_iso": "2025-11-15T15:19:20+00:00",
+      "source": "https://borretti.me/article/linux-on-the-fujitsu-lifebook-u729",
+      "summary": "Article URL: https://borretti.me/article/linux-on-the-fujitsu-lifebook-u729 Comments URL: https://news.ycombinator.com/item?id=45937989 Points: 180 # Comments: 127"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45936460",
+      "title": "Our investigation into the suspicious pressure on Archive.today",
+      "slug": "2025-11-15-our-investigation-into-the-suspicious-pressure-on-archive-today.html",
+      "path": "posts/2025-11-15-our-investigation-into-the-suspicious-pressure-on-archive-today.html",
+      "date_iso": "2025-11-15T10:30:52+00:00",
+      "source": "https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html",
+      "summary": "Article URL: https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html Comments URL: https://news.ycombinator.com/item?id=45936460 Points: 1478 # Comments: 379"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45935970",
+      "title": "EyesOff: How I built a screen contact detection model",
+      "slug": "2025-11-15-eyesoff-how-i-built-a-screen-contact-detection-model.html",
+      "path": "posts/2025-11-15-eyesoff-how-i-built-a-screen-contact-detection-model.html",
+      "date_iso": "2025-11-15T08:42:33+00:00",
+      "source": "https://ym2132.github.io/building_EyesOff_part2_model_training",
+      "summary": "Article URL: https://ym2132.github.io/building_EyesOff_part2_model_training Comments URL: https://news.ycombinator.com/item?id=45935970 Points: 18 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45935503",
+      "title": "TCP, the workhorse of the internet",
+      "slug": "2025-11-15-tcp-the-workhorse-of-the-internet.html",
+      "path": "posts/2025-11-15-tcp-the-workhorse-of-the-internet.html",
+      "date_iso": "2025-11-15T06:37:50+00:00",
+      "source": "https://cefboud.com/posts/tcp-deep-dive-internals/",
+      "summary": "Article URL: https://cefboud.com/posts/tcp-deep-dive-internals/ Comments URL: https://news.ycombinator.com/item?id=45935503 Points: 299 # Comments: 142"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45935342",
       "title": "So, you want to design your own language?",
       "slug": "2025-11-15-so-you-want-to-design-your-own-language.html",
