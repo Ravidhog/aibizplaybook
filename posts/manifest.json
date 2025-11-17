@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2025/11/17/technology/fraudsters-cryptocurrency-atms.html",
+      "title": "How Fraudsters Use Cryptocurrency A.T.M.s to Target Victims",
+      "slug": "2025-11-17-how-fraudsters-use-cryptocurrency-a-t-m-s-to-target-victims.html",
+      "path": "posts/2025-11-17-how-fraudsters-use-cryptocurrency-a-t-m-s-to-target-victims.html",
+      "date_iso": "2025-11-17T05:01:20+00:00",
+      "source": "https://www.nytimes.com/2025/11/17/technology/fraudsters-cryptocurrency-atms.html",
+      "summary": "A Bitcoin A.T.M. in a convenience store in Miami. Crypto A.T.M. operators are in at least 28,000 locations, according to Treasury Department data."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/17/technology/crypto-exchanges-dirty-money.html",
+      "title": "The Crypto Industry’s $28 Billion in ‘Dirty Money’",
+      "slug": "2025-11-17-the-crypto-industry-s-28-billion-in-dirty-money.html",
+      "path": "posts/2025-11-17-the-crypto-industry-s-28-billion-in-dirty-money.html",
+      "date_iso": "2025-11-17T05:01:12+00:00",
+      "source": "https://www.nytimes.com/2025/11/17/technology/crypto-exchanges-dirty-money.html",
+      "summary": "As President Trump has championed crypto and the industry has gone mainstream, funds from scammers and other criminal groups have flowed onto major crypto exchanges."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45950720",
+      "title": "Building a Simple Search Engine That Works",
+      "slug": "2025-11-17-building-a-simple-search-engine-that-works.html",
+      "path": "posts/2025-11-17-building-a-simple-search-engine-that-works.html",
+      "date_iso": "2025-11-17T03:52:50+00:00",
+      "source": "https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works",
+      "summary": "Article URL: https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works Comments URL: https://news.ycombinator.com/item?id=45950720 Points: 25 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45950553",
+      "title": "Mixing Is the Heartbeat of Deep Lakes. At Crater Lake, It's Slowing Down",
+      "slug": "2025-11-17-mixing-is-the-heartbeat-of-deep-lakes-at-crater-lake-it-s-slowing-down.html",
+      "path": "posts/2025-11-17-mixing-is-the-heartbeat-of-deep-lakes-at-crater-lake-it-s-slowing-down.html",
+      "date_iso": "2025-11-17T03:09:58+00:00",
+      "source": "https://www.quantamagazine.org/mixing-is-the-heartbeat-of-deep-lakes-at-crater-lake-its-slowing-down-20251114/",
+      "summary": "Article URL: https://www.quantamagazine.org/mixing-is-the-heartbeat-of-deep-lakes-at-crater-lake-its-slowing-down-20251114/ Comments URL: https://news.ycombinator.com/item?id=45950553 Points: 10 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45950408",
+      "title": "People are using iPad OS features on their iPhones",
+      "slug": "2025-11-17-people-are-using-ipad-os-features-on-their-iphones.html",
+      "path": "posts/2025-11-17-people-are-using-ipad-os-features-on-their-iphones.html",
+      "date_iso": "2025-11-17T02:39:28+00:00",
+      "source": "https://idevicecentral.com/ios-customization/how-to-enable-ipad-features-like-multitasking-stage-manager-on-iphone-via-mobilegestalt/",
+      "summary": "Article URL: https://idevicecentral.com/ios-customization/how-to-enable-ipad-features-like-multitasking-stage-manager-on-iphone-via-mobilegestalt/ Comments URL: https://news.ycombinator.com/item?id=45950408 Points: 27 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45950396",
+      "title": "A 1961 Relay Computer Running in the Browser",
+      "slug": "2025-11-17-a-1961-relay-computer-running-in-the-browser.html",
+      "path": "posts/2025-11-17-a-1961-relay-computer-running-in-the-browser.html",
+      "date_iso": "2025-11-17T02:36:18+00:00",
+      "source": "https://minivac.greg.technology/",
+      "summary": "Article URL: https://minivac.greg.technology/ Comments URL: https://news.ycombinator.com/item?id=45950396 Points: 45 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45949655",
+      "title": "A new chapter begins for EV batteries with the expiry of key LFP patents",
+      "slug": "2025-11-16-a-new-chapter-begins-for-ev-batteries-with-the-expiry-of-key-lfp-patents.html",
+      "path": "posts/2025-11-16-a-new-chapter-begins-for-ev-batteries-with-the-expiry-of-key-lfp-patents.html",
+      "date_iso": "2025-11-16T23:58:21+00:00",
+      "source": "https://www.shoosmiths.com/insights/articles/a-new-chapter-begins-for-ev-batteries-with-the-expiry-of-key-lfp-patents",
+      "summary": "Article URL: https://www.shoosmiths.com/insights/articles/a-new-chapter-begins-for-ev-batteries-with-the-expiry-of-key-lfp-patents Comments URL: https://news.ycombinator.com/item?id=45949655 Points: 97 # Comments: 61"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45949352",
+      "title": "PicoIDE – An open IDE/ATAPI drive emulator",
+      "slug": "2025-11-16-picoide-an-open-ide-atapi-drive-emulator.html",
+      "path": "posts/2025-11-16-picoide-an-open-ide-atapi-drive-emulator.html",
+      "date_iso": "2025-11-16T23:19:24+00:00",
+      "source": "https://picoide.com/",
+      "summary": "Article URL: https://picoide.com/ Comments URL: https://news.ycombinator.com/item?id=45949352 Points: 86 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45949326",
+      "title": "Britney Spears' Guide to Semiconductor Physics (2000)",
+      "slug": "2025-11-16-britney-spears-guide-to-semiconductor-physics-2000.html",
+      "path": "posts/2025-11-16-britney-spears-guide-to-semiconductor-physics-2000.html",
+      "date_iso": "2025-11-16T23:15:20+00:00",
+      "source": "https://britneyspears.ac/lasers.htm",
+      "summary": "Article URL: https://britneyspears.ac/lasers.htm Comments URL: https://news.ycombinator.com/item?id=45949326 Points: 194 # Comments: 61"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45949102",
+      "title": "Why your mock breaks later",
+      "slug": "2025-11-16-why-your-mock-breaks-later.html",
+      "path": "posts/2025-11-16-why-your-mock-breaks-later.html",
+      "date_iso": "2025-11-16T22:36:56+00:00",
+      "source": "https://nedbatchelder.com/blog/202511/why_your_mock_breaks_later.html",
+      "summary": "Article URL: https://nedbatchelder.com/blog/202511/why_your_mock_breaks_later.html Comments URL: https://news.ycombinator.com/item?id=45949102 Points: 28 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45948792",
+      "title": "Neuroscientists track the neural activity underlying an “aha”",
+      "slug": "2025-11-16-neuroscientists-track-the-neural-activity-underlying-an-aha.html",
+      "path": "posts/2025-11-16-neuroscientists-track-the-neural-activity-underlying-an-aha.html",
+      "date_iso": "2025-11-16T21:57:13+00:00",
+      "source": "https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/",
+      "summary": "Article URL: https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/ Comments URL: https://news.ycombinator.com/item?id=45948792 Points: 94 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45948254",
+      "title": "The Pragmatic Programmer: 20th Anniversary Edition (2023)",
+      "slug": "2025-11-16-the-pragmatic-programmer-20th-anniversary-edition-2023.html",
+      "path": "posts/2025-11-16-the-pragmatic-programmer-20th-anniversary-edition-2023.html",
+      "date_iso": "2025-11-16T20:46:30+00:00",
+      "source": "https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html",
+      "summary": "Article URL: https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html Comments URL: https://news.ycombinator.com/item?id=45948254 Points: 114 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45948058",
+      "title": "I have recordings proving Coinbase knew about breach months before disclosure",
+      "slug": "2025-11-16-i-have-recordings-proving-coinbase-knew-about-breach-months-before-disclosure.html",
+      "path": "posts/2025-11-16-i-have-recordings-proving-coinbase-knew-about-breach-months-before-disclosure.html",
+      "date_iso": "2025-11-16T20:18:10+00:00",
+      "source": "https://jonathanclark.com/posts/coinbase-breach-timeline.html",
+      "summary": "Article URL: https://jonathanclark.com/posts/coinbase-breach-timeline.html Comments URL: https://news.ycombinator.com/item?id=45948058 Points: 450 # Comments: 137"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45947822",
+      "title": "Linux mode setting, from the comfort of OCaml",
+      "slug": "2025-11-16-linux-mode-setting-from-the-comfort-of-ocaml.html",
+      "path": "posts/2025-11-16-linux-mode-setting-from-the-comfort-of-ocaml.html",
+      "date_iso": "2025-11-16T19:45:36+00:00",
+      "source": "https://roscidus.com/blog/blog/2025/11/16/libdrm-ocaml/",
+      "summary": "Article URL: https://roscidus.com/blog/blog/2025/11/16/libdrm-ocaml/ Comments URL: https://news.ycombinator.com/item?id=45947822 Points: 59 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45947810",
+      "title": "Open-source Zig book",
+      "slug": "2025-11-16-open-source-zig-book.html",
+      "path": "posts/2025-11-16-open-source-zig-book.html",
+      "date_iso": "2025-11-16T19:44:27+00:00",
+      "source": "https://www.zigbook.net",
+      "summary": "Article URL: https://www.zigbook.net Comments URL: https://news.ycombinator.com/item?id=45947810 Points: 506 # Comments: 197"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45947770",
+      "title": "Supercookie: Browser Fingerprinting via Favicon (2021)",
+      "slug": "2025-11-16-supercookie-browser-fingerprinting-via-favicon-2021.html",
+      "path": "posts/2025-11-16-supercookie-browser-fingerprinting-via-favicon-2021.html",
+      "date_iso": "2025-11-16T19:39:52+00:00",
+      "source": "https://github.com/jonasstrehle/supercookie",
+      "summary": "Article URL: https://github.com/jonasstrehle/supercookie Comments URL: https://news.ycombinator.com/item?id=45947770 Points: 283 # Comments: 58"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45947761",
+      "title": "Dark Pattern Games",
+      "slug": "2025-11-16-dark-pattern-games.html",
+      "path": "posts/2025-11-16-dark-pattern-games.html",
+      "date_iso": "2025-11-16T19:38:49+00:00",
+      "source": "https://www.darkpattern.games",
+      "summary": "Article URL: https://www.darkpattern.games Comments URL: https://news.ycombinator.com/item?id=45947761 Points: 201 # Comments: 80"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45947639",
+      "title": "The fate of \"small\" open source",
+      "slug": "2025-11-16-the-fate-of-small-open-source.html",
+      "path": "posts/2025-11-16-the-fate-of-small-open-source.html",
+      "date_iso": "2025-11-16T19:21:13+00:00",
+      "source": "https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/",
+      "summary": "Article URL: https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/ Comments URL: https://news.ycombinator.com/item?id=45947639 Points: 184 # Comments: 126"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45947301",
+      "title": "Z3 API in Python: From Sudoku to N-Queens in Under 20 Lines",
+      "slug": "2025-11-16-z3-api-in-python-from-sudoku-to-n-queens-in-under-20-lines.html",
+      "path": "posts/2025-11-16-z3-api-in-python-from-sudoku-to-n-queens-in-under-20-lines.html",
+      "date_iso": "2025-11-16T18:38:37+00:00",
+      "source": "https://ericpony.github.io/z3py-tutorial/guide-examples.htm",
+      "summary": "Article URL: https://ericpony.github.io/z3py-tutorial/guide-examples.htm Comments URL: https://news.ycombinator.com/item?id=45947301 Points: 111 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45946865",
+      "title": "I finally understand Cloudflare Zero Trust tunnels",
+      "slug": "2025-11-16-i-finally-understand-cloudflare-zero-trust-tunnels.html",
+      "path": "posts/2025-11-16-i-finally-understand-cloudflare-zero-trust-tunnels.html",
+      "date_iso": "2025-11-16T17:39:43+00:00",
+      "source": "https://david.coffee/cloudflare-zero-trust-tunnels",
+      "summary": "Article URL: https://david.coffee/cloudflare-zero-trust-tunnels Comments URL: https://news.ycombinator.com/item?id=45946865 Points: 175 # Comments: 56"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45945784",
+      "title": "FPGA Based IBM-PC-XT",
+      "slug": "2025-11-16-fpga-based-ibm-pc-xt.html",
+      "path": "posts/2025-11-16-fpga-based-ibm-pc-xt.html",
+      "date_iso": "2025-11-16T15:26:24+00:00",
+      "source": "https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/",
+      "summary": "Article URL: https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/ Comments URL: https://news.ycombinator.com/item?id=45945784 Points: 161 # Comments: 33"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45945587",
+      "title": "Heretic: Automatic censorship removal for language models",
+      "slug": "2025-11-16-heretic-automatic-censorship-removal-for-language-models.html",
+      "path": "posts/2025-11-16-heretic-automatic-censorship-removal-for-language-models.html",
+      "date_iso": "2025-11-16T15:00:24+00:00",
+      "source": "https://github.com/p-e-w/heretic",
+      "summary": "Article URL: https://github.com/p-e-w/heretic Comments URL: https://news.ycombinator.com/item?id=45945587 Points: 490 # Comments: 200"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45942462",
       "title": "$5 PlanetScale is live",
       "slug": "2025-11-16-5-planetscale-is-live.html",
