@@ -1,6 +1,213 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45962178",
+      "title": "Langfuse (YC W23) Hiring OSS Support Engineers in Berlin and SF",
+      "slug": "2025-11-18-langfuse-yc-w23-hiring-oss-support-engineers-in-berlin-and-sf.html",
+      "path": "posts/2025-11-18-langfuse-yc-w23-hiring-oss-support-engineers-in-berlin-and-sf.html",
+      "date_iso": "2025-11-18T07:00:50+00:00",
+      "source": "https://jobs.ashbyhq.com/langfuse/5ff18d4d-9066-4c67-8ecc-ffc0e295fee6",
+      "summary": "Article URL: https://jobs.ashbyhq.com/langfuse/5ff18d4d-9066-4c67-8ecc-ffc0e295fee6 Comments URL: https://news.ycombinator.com/item?id=45962178 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45961481",
+      "title": "The surprising benefits of giving up",
+      "slug": "2025-11-18-the-surprising-benefits-of-giving-up.html",
+      "path": "posts/2025-11-18-the-surprising-benefits-of-giving-up.html",
+      "date_iso": "2025-11-18T04:44:21+00:00",
+      "source": "https://nautil.us/the-surprising-benefits-of-giving-up-1248362/",
+      "summary": "Article URL: https://nautil.us/the-surprising-benefits-of-giving-up-1248362/ Comments URL: https://news.ycombinator.com/item?id=45961481 Points: 36 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45960922",
+      "title": "LeJEPA",
+      "slug": "2025-11-18-lejepa.html",
+      "path": "posts/2025-11-18-lejepa.html",
+      "date_iso": "2025-11-18T02:58:31+00:00",
+      "source": "https://arxiv.org/abs/2511.08544",
+      "summary": "Article URL: https://arxiv.org/abs/2511.08544 Comments URL: https://news.ycombinator.com/item?id=45960922 Points: 25 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45960893",
+      "title": "Core Devices keeps stealing our work",
+      "slug": "2025-11-18-core-devices-keeps-stealing-our-work.html",
+      "path": "posts/2025-11-18-core-devices-keeps-stealing-our-work.html",
+      "date_iso": "2025-11-18T02:53:28+00:00",
+      "source": "https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html",
+      "summary": "Article URL: https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html Comments URL: https://news.ycombinator.com/item?id=45960893 Points: 390 # Comments: 77"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45960852",
+      "title": "Unofficial \"Tier 4\" Rust Target for older Windows versions",
+      "slug": "2025-11-18-unofficial-tier-4-rust-target-for-older-windows-versions.html",
+      "path": "posts/2025-11-18-unofficial-tier-4-rust-target-for-older-windows-versions.html",
+      "date_iso": "2025-11-18T02:46:50+00:00",
+      "source": "https://github.com/rust9x/rust",
+      "summary": "Article URL: https://github.com/rust9x/rust Comments URL: https://news.ycombinator.com/item?id=45960852 Points: 49 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45960368",
+      "title": "Rebecca Heineman has died",
+      "slug": "2025-11-18-rebecca-heineman-has-died.html",
+      "path": "posts/2025-11-18-rebecca-heineman-has-died.html",
+      "date_iso": "2025-11-18T01:25:54+00:00",
+      "source": "https://www.pcgamer.com/gaming-industry/legendary-game-designer-programmer-space-invaders-champion-and-lgbtq-trailblazer-rebecca-heineman-has-died/",
+      "summary": "Article URL: https://www.pcgamer.com/gaming-industry/legendary-game-designer-programmer-space-invaders-champion-and-lgbtq-trailblazer-rebecca-heineman-has-died/ Comments URL: https://news.ycombinator.com/item?id=45960368 Points: 291 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45959795",
+      "title": "Windows 11 adds AI agent that runs in background with access to personal folders",
+      "slug": "2025-11-17-windows-11-adds-ai-agent-that-runs-in-background-with-access-to-personal-folders.html",
+      "path": "posts/2025-11-17-windows-11-adds-ai-agent-that-runs-in-background-with-access-to-personal-folders.html",
+      "date_iso": "2025-11-17T23:47:27+00:00",
+      "source": "https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/",
+      "summary": "Article URL: https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/ Comments URL: https://news.ycombinator.com/item?id=45959795 Points: 296 # Comments: 181"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45959780",
+      "title": "Show HN: Parqeye – A CLI tool to visualize and inspect Parquet files",
+      "slug": "2025-11-17-show-hn-parqeye-a-cli-tool-to-visualize-and-inspect-parquet-files.html",
+      "path": "posts/2025-11-17-show-hn-parqeye-a-cli-tool-to-visualize-and-inspect-parquet-files.html",
+      "date_iso": "2025-11-17T23:45:42+00:00",
+      "source": "https://github.com/kaushiksrini/parqeye",
+      "summary": "I built a Rust-based CLI/terminal UI for inspecting Parquet files—data, metadata, and row-group-level structure—right from the terminal. If someone sent me a Parquet file, I used to open DuckDB or Polars just to see what was inside. Now I can do it with one command. Repo: https:…"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/17/science/monarch-butterfly-migration-tracking-sensor.html",
+      "title": "We Can Now Track Individual Monarch Butterflies. It’s a Revelation.",
+      "slug": "2025-11-17-we-can-now-track-individual-monarch-butterflies-it-s-a-revelation.html",
+      "path": "posts/2025-11-17-we-can-now-track-individual-monarch-butterflies-it-s-a-revelation.html",
+      "date_iso": "2025-11-17T22:23:21+00:00",
+      "source": "https://www.nytimes.com/2025/11/17/science/monarch-butterfly-migration-tracking-sensor.html",
+      "summary": "Scientists used tiny new sensors to follow the insects on journeys that take thousands of miles to their winter colonies in Mexico."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45958717",
+      "title": "Run ancient UNIX on modern hardware",
+      "slug": "2025-11-17-run-ancient-unix-on-modern-hardware.html",
+      "path": "posts/2025-11-17-run-ancient-unix-on-modern-hardware.html",
+      "date_iso": "2025-11-17T21:46:06+00:00",
+      "source": "https://github.com/felipenlunkes/run-ancient-unix",
+      "summary": "Article URL: https://github.com/felipenlunkes/run-ancient-unix Comments URL: https://news.ycombinator.com/item?id=45958717 Points: 79 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45957629",
+      "title": "Compiling Ruby to machine language",
+      "slug": "2025-11-17-compiling-ruby-to-machine-language.html",
+      "path": "posts/2025-11-17-compiling-ruby-to-machine-language.html",
+      "date_iso": "2025-11-17T20:04:49+00:00",
+      "source": "https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language",
+      "summary": "Article URL: https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language Comments URL: https://news.ycombinator.com/item?id=45957629 Points: 232 # Comments: 38"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/17/technology/bezos-project-prometheus.html",
+      "title": "Jeff Bezos Creates A.I. Start-Up Where He Will Be Co-Chief Executive",
+      "slug": "2025-11-17-jeff-bezos-creates-a-i-start-up-where-he-will-be-co-chief-executive.html",
+      "path": "posts/2025-11-17-jeff-bezos-creates-a-i-start-up-where-he-will-be-co-chief-executive.html",
+      "date_iso": "2025-11-17T19:03:53+00:00",
+      "source": "https://www.nytimes.com/2025/11/17/technology/bezos-project-prometheus.html",
+      "summary": "The new artificial intelligence project partly financed by Jeff Bezos is entering an increasingly crowded market."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45955900",
+      "title": "Azure hit by 15 Tbps DDoS attack using 500k IP addresses",
+      "slug": "2025-11-17-azure-hit-by-15-tbps-ddos-attack-using-500k-ip-addresses.html",
+      "path": "posts/2025-11-17-azure-hit-by-15-tbps-ddos-attack-using-500k-ip-addresses.html",
+      "date_iso": "2025-11-17T17:39:15+00:00",
+      "source": "https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/",
+      "summary": "https://techcommunity.microsoft.com/blog/azureinfrastructure... Comments URL: https://news.ycombinator.com/item?id=45955900 Points: 318 # Comments: 215"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45955889",
+      "title": "A new book about the origins of Effective Altruism",
+      "slug": "2025-11-17-a-new-book-about-the-origins-of-effective-altruism.html",
+      "path": "posts/2025-11-17-a-new-book-about-the-origins-of-effective-altruism.html",
+      "date_iso": "2025-11-17T17:37:42+00:00",
+      "source": "https://newrepublic.com/article/202433/happened-effective-altruism",
+      "summary": "Article URL: https://newrepublic.com/article/202433/happened-effective-altruism Comments URL: https://news.ycombinator.com/item?id=45955889 Points: 79 # Comments: 104"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45955565",
+      "title": "How when AWS was down, we were not",
+      "slug": "2025-11-17-how-when-aws-was-down-we-were-not.html",
+      "path": "posts/2025-11-17-how-when-aws-was-down-we-were-not.html",
+      "date_iso": "2025-11-17T17:07:17+00:00",
+      "source": "https://authress.io/knowledge-base/articles/2025/11/01/how-we-prevent-aws-downtime-impacts",
+      "summary": "Article URL: https://authress.io/knowledge-base/articles/2025/11/01/how-we-prevent-aws-downtime-impacts Comments URL: https://news.ycombinator.com/item?id=45955565 Points: 144 # Comments: 52"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45954640",
+      "title": "Project Gemini",
+      "slug": "2025-11-17-project-gemini.html",
+      "path": "posts/2025-11-17-project-gemini.html",
+      "date_iso": "2025-11-17T15:50:04+00:00",
+      "source": "https://geminiprotocol.net/",
+      "summary": "Article URL: https://geminiprotocol.net/ Comments URL: https://news.ycombinator.com/item?id=45954640 Points: 256 # Comments: 144"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45954638",
+      "title": "How to escape the Linux networking stack",
+      "slug": "2025-11-17-how-to-escape-the-linux-networking-stack.html",
+      "path": "posts/2025-11-17-how-to-escape-the-linux-networking-stack.html",
+      "date_iso": "2025-11-17T15:49:38+00:00",
+      "source": "https://blog.cloudflare.com/so-long-and-thanks-for-all-the-fish-how-to-escape-the-linux-networking-stack/",
+      "summary": "Article URL: https://blog.cloudflare.com/so-long-and-thanks-for-all-the-fish-how-to-escape-the-linux-networking-stack/ Comments URL: https://news.ycombinator.com/item?id=45954638 Points: 122 # Comments: 34"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/17/technology/europe-big-tech.html",
+      "title": "Europe Begins Rethinking Its Crackdown on Big Tech",
+      "slug": "2025-11-17-europe-begins-rethinking-its-crackdown-on-big-tech.html",
+      "path": "posts/2025-11-17-europe-begins-rethinking-its-crackdown-on-big-tech.html",
+      "date_iso": "2025-11-17T15:49:31+00:00",
+      "source": "https://www.nytimes.com/2025/11/17/technology/europe-big-tech.html",
+      "summary": "European policymakers are crafting changes to scale back and simplify landmark rules for A.I. and data privacy, in a shift from an aggressive regulatory period."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45954210",
+      "title": "WeatherNext 2: Our most advanced weather forecasting model",
+      "slug": "2025-11-17-weathernext-2-our-most-advanced-weather-forecasting-model.html",
+      "path": "posts/2025-11-17-weathernext-2-our-most-advanced-weather-forecasting-model.html",
+      "date_iso": "2025-11-17T15:04:26+00:00",
+      "source": "https://blog.google/technology/google-deepmind/weathernext-2/",
+      "summary": "Article URL: https://blog.google/technology/google-deepmind/weathernext-2/ Comments URL: https://news.ycombinator.com/item?id=45954210 Points: 242 # Comments: 108"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45954140",
+      "title": "Aldous Huxley predicts Adderall and champions alternative therapies",
+      "slug": "2025-11-17-aldous-huxley-predicts-adderall-and-champions-alternative-therapies.html",
+      "path": "posts/2025-11-17-aldous-huxley-predicts-adderall-and-champions-alternative-therapies.html",
+      "date_iso": "2025-11-17T14:57:33+00:00",
+      "source": "https://angadh.com/inkhaven-7",
+      "summary": "Audio: https://www.youtube.com/watch?v=ld2E9LWIYJk&amp;list=PLhQ_EZYXXS... Transcript: https://www.organism.earth/library/document/realizing-human-... Comments URL: https://news.ycombinator.com/item?id=45954140 Points: 90 # Comments: 99"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45953977",
+      "title": "Show HN: ESPectre – Motion detection based on Wi-Fi spectre analysis",
+      "slug": "2025-11-17-show-hn-espectre-motion-detection-based-on-wi-fi-spectre-analysis.html",
+      "path": "posts/2025-11-17-show-hn-espectre-motion-detection-based-on-wi-fi-spectre-analysis.html",
+      "date_iso": "2025-11-17T14:40:54+00:00",
+      "source": "https://github.com/francescopace/espectre",
+      "summary": "Hi everyone, I'm the author of ESPectre. This is an open-source (GPLv3) project that uses Wi-Fi signal analysis to detect motion using CSI data, and it has already garnered almost 2,000 stars in two weeks. Key technical details: - The system does NOT use Machine Learning, it rel…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45953883",
+      "title": "Jeff Bezos creates A.I. startup where he will be co-chief executive",
+      "slug": "2025-11-17-jeff-bezos-creates-a-i-startup-where-he-will-be-co-chief-executive.html",
+      "path": "posts/2025-11-17-jeff-bezos-creates-a-i-startup-where-he-will-be-co-chief-executive.html",
+      "date_iso": "2025-11-17T14:31:21+00:00",
+      "source": "https://www.nytimes.com/2025/11/17/technology/bezos-project-prometheus.html",
+      "summary": "https://archive.ph/K1sNB Comments URL: https://news.ycombinator.com/item?id=45953883 Points: 113 # Comments: 102"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45953452",
+      "title": "FreeMDU: Open-source Miele appliance diagnostic tools",
+      "slug": "2025-11-17-freemdu-open-source-miele-appliance-diagnostic-tools.html",
+      "path": "posts/2025-11-17-freemdu-open-source-miele-appliance-diagnostic-tools.html",
+      "date_iso": "2025-11-17T13:40:40+00:00",
+      "source": "https://github.com/medusalix/FreeMDU",
+      "summary": "Article URL: https://github.com/medusalix/FreeMDU Comments URL: https://news.ycombinator.com/item?id=45953452 Points: 274 # Comments: 74"
+    },
+    {
       "id": "https://www.nytimes.com/2025/11/17/technology/fraudsters-cryptocurrency-atms.html",
       "title": "How Fraudsters Use Cryptocurrency A.T.M.s to Target Victims",
       "slug": "2025-11-17-how-fraudsters-use-cryptocurrency-a-t-m-s-to-target-victims.html",
