@@ -1,6 +1,276 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2025/11/19/technology/europe-tsmc-chips.html",
+      "title": "Europe’s Chip Dreams Confront Business Realities",
+      "slug": "2025-11-19-europe-s-chip-dreams-confront-business-realities.html",
+      "path": "posts/2025-11-19-europe-s-chip-dreams-confront-business-realities.html",
+      "date_iso": "2025-11-19T05:00:05+00:00",
+      "source": "https://www.nytimes.com/2025/11/19/technology/europe-tsmc-chips.html",
+      "summary": "TSMC is teaming up with European chipmakers to build a factory near Dresden, Germany, as Europe’s need to make its own chips has grown more pressing."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/19/technology/ai-research-chinese-talent.html",
+      "title": "In the A.I. Race, Chinese Talent Still Drives American Research",
+      "slug": "2025-11-19-in-the-a-i-race-chinese-talent-still-drives-american-research.html",
+      "path": "posts/2025-11-19-in-the-a-i-race-chinese-talent-still-drives-american-research.html",
+      "date_iso": "2025-11-19T05:00:04+00:00",
+      "source": "https://www.nytimes.com/2025/11/19/technology/ai-research-chinese-talent.html",
+      "summary": "New research shows just how important Chinese engineering talent still is to Silicon Valley companies."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/18/climate/electic-vehicle-chargers-north-dakota.html",
+      "title": "Driving an E.V. Across North Dakota? Thank the Standing Rock Tribe.",
+      "slug": "2025-11-19-driving-an-e-v-across-north-dakota-thank-the-standing-rock-tribe.html",
+      "path": "posts/2025-11-19-driving-an-e-v-across-north-dakota-thank-the-standing-rock-tribe.html",
+      "date_iso": "2025-11-19T02:20:32+00:00",
+      "source": "https://www.nytimes.com/2025/11/18/climate/electic-vehicle-chargers-north-dakota.html",
+      "summary": "A tribally owned network of chargers will soon be complete, connecting reservations and bridging a gap in the Midwest."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/18/technology/meta-ruling-silicon-valley-start-ups.html",
+      "title": "Meta’s Victory Opens the Way for Silicon Valley to Go Deal Shopping",
+      "slug": "2025-11-19-meta-s-victory-opens-the-way-for-silicon-valley-to-go-deal-shopping.html",
+      "path": "posts/2025-11-19-meta-s-victory-opens-the-way-for-silicon-valley-to-go-deal-shopping.html",
+      "date_iso": "2025-11-19T02:08:32+00:00",
+      "source": "https://www.nytimes.com/2025/11/18/technology/meta-ruling-silicon-valley-start-ups.html",
+      "summary": "Mark Zuckerberg, Meta’s chief executive, in September. On Tuesday, a federal judge found Meta had not violated antitrust law by buying Instagram and WhatsApp when they were tiny start-ups."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45975006",
+      "title": "DOE gives Microsoft partner $1B loan to restart Three Mile Island reactor",
+      "slug": "2025-11-19-doe-gives-microsoft-partner-1b-loan-to-restart-three-mile-island-reactor.html",
+      "path": "posts/2025-11-19-doe-gives-microsoft-partner-1b-loan-to-restart-three-mile-island-reactor.html",
+      "date_iso": "2025-11-19T02:02:10+00:00",
+      "source": "https://techcrunch.com/2025/11/18/trump-doe-gives-microsoft-partner-1b-loan-to-restart-three-mile-island-reactor/",
+      "summary": "Article URL: https://techcrunch.com/2025/11/18/trump-doe-gives-microsoft-partner-1b-loan-to-restart-three-mile-island-reactor/ Comments URL: https://news.ycombinator.com/item?id=45975006 Points: 75 # Comments: 45"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45974869",
+      "title": "I just want working RCS messaging",
+      "slug": "2025-11-19-i-just-want-working-rcs-messaging.html",
+      "path": "posts/2025-11-19-i-just-want-working-rcs-messaging.html",
+      "date_iso": "2025-11-19T01:41:33+00:00",
+      "source": "https://wt.gd/i-just-want-my-rcs-messaging-to-work",
+      "summary": "Article URL: https://wt.gd/i-just-want-my-rcs-messaging-to-work Comments URL: https://news.ycombinator.com/item?id=45974869 Points: 71 # Comments: 38"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45974681",
+      "title": "Strace-macOS: A clone of the strace command for macOS",
+      "slug": "2025-11-19-strace-macos-a-clone-of-the-strace-command-for-macos.html",
+      "path": "posts/2025-11-19-strace-macos-a-clone-of-the-strace-command-for-macos.html",
+      "date_iso": "2025-11-19T01:18:02+00:00",
+      "source": "https://github.com/Mic92/strace-macos",
+      "summary": "Article URL: https://github.com/Mic92/strace-macos Comments URL: https://news.ycombinator.com/item?id=45974681 Points: 12 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/18/technology/meta-google-antitrust-tech.html",
+      "title": "How TikTok Helped Meta Land an Antitrust Victory",
+      "slug": "2025-11-19-how-tiktok-helped-meta-land-an-antitrust-victory.html",
+      "path": "posts/2025-11-19-how-tiktok-helped-meta-land-an-antitrust-victory.html",
+      "date_iso": "2025-11-19T00:53:29+00:00",
+      "source": "https://www.nytimes.com/2025/11/18/technology/meta-google-antitrust-tech.html",
+      "summary": "The Washington headquarters of the Federal Trade Commission, which sued Meta five years ago."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45974012",
+      "title": "I made a down detector for down detector",
+      "slug": "2025-11-19-i-made-a-down-detector-for-down-detector.html",
+      "path": "posts/2025-11-19-i-made-a-down-detector-for-down-detector.html",
+      "date_iso": "2025-11-19T00:05:28+00:00",
+      "source": "https://downdetectorsdowndetector.com",
+      "summary": "Article URL: https://downdetectorsdowndetector.com Comments URL: https://news.ycombinator.com/item?id=45974012 Points: 37 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45973955",
+      "title": "Lucent 7 R/E 5ESS Telephone Switch Rescue (2024)",
+      "slug": "2025-11-18-lucent-7-r-e-5ess-telephone-switch-rescue-2024.html",
+      "path": "posts/2025-11-18-lucent-7-r-e-5ess-telephone-switch-rescue-2024.html",
+      "date_iso": "2025-11-18T23:59:14+00:00",
+      "source": "http://kev009.com/wp/2024/07/Lucent-5ESS-Rescue/",
+      "summary": "Article URL: http://kev009.com/wp/2024/07/Lucent-5ESS-Rescue/ Comments URL: https://news.ycombinator.com/item?id=45973955 Points: 41 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45973709",
+      "title": "Cloudflare outage on November 18, 2025 post mortem",
+      "slug": "2025-11-18-cloudflare-outage-on-november-18-2025-post-mortem.html",
+      "path": "posts/2025-11-18-cloudflare-outage-on-november-18-2025-post-mortem.html",
+      "date_iso": "2025-11-18T23:31:22+00:00",
+      "source": "https://blog.cloudflare.com/18-november-2025-outage/",
+      "summary": "Related: Cloudflare Global Network experiencing issues - https://news.ycombinator.com/item?id=45963780 - Nov 2025 (1580 comments) Comments URL: https://news.ycombinator.com/item?id=45973709 Points: 787 # Comments: 441"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45973573",
+      "title": "Rebecca Heineman – from homelessness to porting Doom (2022)",
+      "slug": "2025-11-18-rebecca-heineman-from-homelessness-to-porting-doom-2022.html",
+      "path": "posts/2025-11-18-rebecca-heineman-from-homelessness-to-porting-doom-2022.html",
+      "date_iso": "2025-11-18T23:13:35+00:00",
+      "source": "https://corecursive.com/doomed-to-fail-with-burger-becky/",
+      "summary": "Related: Rebecca Heineman has died - https://news.ycombinator.com/item?id=45960368 Comments URL: https://news.ycombinator.com/item?id=45973573 Points: 182 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45972519",
+      "title": "Blender 5.0",
+      "slug": "2025-11-18-blender-5-0.html",
+      "path": "posts/2025-11-18-blender-5-0.html",
+      "date_iso": "2025-11-18T21:39:18+00:00",
+      "source": "https://www.blender.org/download/releases/5-0/",
+      "summary": "Article URL: https://www.blender.org/download/releases/5-0/ Comments URL: https://news.ycombinator.com/item?id=45972519 Points: 671 # Comments: 197"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45972390",
+      "title": "Bild AI (YC W25) is hiring – Make housing affordable",
+      "slug": "2025-11-18-bild-ai-yc-w25-is-hiring-make-housing-affordable.html",
+      "path": "posts/2025-11-18-bild-ai-yc-w25-is-hiring-make-housing-affordable.html",
+      "date_iso": "2025-11-18T21:29:37+00:00",
+      "source": "https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai",
+      "summary": "Article URL: https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai Comments URL: https://news.ycombinator.com/item?id=45972390 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45971726",
+      "title": "GitHub: Git operation failures",
+      "slug": "2025-11-18-github-git-operation-failures.html",
+      "path": "posts/2025-11-18-github-git-operation-failures.html",
+      "date_iso": "2025-11-18T20:40:46+00:00",
+      "source": "https://www.githubstatus.com/incidents/5q7nmlxz30sk",
+      "summary": "Article URL: https://www.githubstatus.com/incidents/5q7nmlxz30sk Comments URL: https://news.ycombinator.com/item?id=45971726 Points: 352 # Comments: 290"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/18/technology/meta-antitrust-monopoly-ruling.html",
+      "title": "Meta Did Not Violate the Law When It Bought Instagram and WhatsApp, a Judge Rules",
+      "slug": "2025-11-18-meta-did-not-violate-the-law-when-it-bought-instagram-and-whatsapp-a-judge-rules.html",
+      "path": "posts/2025-11-18-meta-did-not-violate-the-law-when-it-bought-instagram-and-whatsapp-a-judge-rules.html",
+      "date_iso": "2025-11-18T20:39:24+00:00",
+      "source": "https://www.nytimes.com/2025/11/18/technology/meta-antitrust-monopoly-ruling.html",
+      "summary": "Meta has defended itself by saying that it faces plenty of competition from rivals, including TikTok and YouTube, and that it benefited the nascent apps with bountiful resources."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45970391",
+      "title": "OrthoRoute – GPU-accelerated autorouting for KiCad",
+      "slug": "2025-11-18-orthoroute-gpu-accelerated-autorouting-for-kicad.html",
+      "path": "posts/2025-11-18-orthoroute-gpu-accelerated-autorouting-for-kicad.html",
+      "date_iso": "2025-11-18T18:54:54+00:00",
+      "source": "https://bbenchoff.github.io/pages/OrthoRoute.html",
+      "summary": "Article URL: https://bbenchoff.github.io/pages/OrthoRoute.html Comments URL: https://news.ycombinator.com/item?id=45970391 Points: 148 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45970338",
+      "title": "Show HN: RowboatX – open-source Claude Code for everyday automations",
+      "slug": "2025-11-18-show-hn-rowboatx-open-source-claude-code-for-everyday-automations.html",
+      "path": "posts/2025-11-18-show-hn-rowboatx-open-source-claude-code-for-everyday-automations.html",
+      "date_iso": "2025-11-18T18:50:00+00:00",
+      "source": "https://github.com/rowboatlabs/rowboat",
+      "summary": "Claude Code is great, but it’s focused on coding. The missing piece is a native way to build and run custom background agents for non-code tasks. We built RowboatX as a CLI tool modeled after Claude Code that lets you do that. It uses the file system and unix tools to create and…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45969909",
+      "title": "I am stepping down as the CEO of Mastodon",
+      "slug": "2025-11-18-i-am-stepping-down-as-the-ceo-of-mastodon.html",
+      "path": "posts/2025-11-18-i-am-stepping-down-as-the-ceo-of-mastodon.html",
+      "date_iso": "2025-11-18T18:13:30+00:00",
+      "source": "https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/",
+      "summary": "Article URL: https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/ Comments URL: https://news.ycombinator.com/item?id=45969909 Points: 437 # Comments: 296"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45969250",
+      "title": "Pebble, Rebble, and a path forward",
+      "slug": "2025-11-18-pebble-rebble-and-a-path-forward.html",
+      "path": "posts/2025-11-18-pebble-rebble-and-a-path-forward.html",
+      "date_iso": "2025-11-18T17:24:27+00:00",
+      "source": "https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/",
+      "summary": "Article URL: https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/ Comments URL: https://news.ycombinator.com/item?id=45969250 Points: 377 # Comments: 180"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/18/technology/google-gemini-3.html",
+      "title": "Google Unveils Gemini 3, With Improved Coding and Search Abilities",
+      "slug": "2025-11-18-google-unveils-gemini-3-with-improved-coding-and-search-abilities.html",
+      "path": "posts/2025-11-18-google-unveils-gemini-3-with-improved-coding-and-search-abilities.html",
+      "date_iso": "2025-11-18T16:29:36+00:00",
+      "source": "https://www.nytimes.com/2025/11/18/technology/google-gemini-3.html",
+      "summary": "Google said the information produced by Gemini 3 was 72 percent accurate."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45968362",
+      "title": "Solving a million-step LLM task with zero errors",
+      "slug": "2025-11-18-solving-a-million-step-llm-task-with-zero-errors.html",
+      "path": "posts/2025-11-18-solving-a-million-step-llm-task-with-zero-errors.html",
+      "date_iso": "2025-11-18T16:26:28+00:00",
+      "source": "https://arxiv.org/abs/2511.09030",
+      "summary": "Article URL: https://arxiv.org/abs/2511.09030 Comments URL: https://news.ycombinator.com/item?id=45968362 Points: 173 # Comments: 52"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45968121",
+      "title": "The code and open-source tools I used to produce a science fiction anthology",
+      "slug": "2025-11-18-the-code-and-open-source-tools-i-used-to-produce-a-science-fiction-anthology.html",
+      "path": "posts/2025-11-18-the-code-and-open-source-tools-i-used-to-produce-a-science-fiction-anthology.html",
+      "date_iso": "2025-11-18T16:10:34+00:00",
+      "source": "https://compellingsciencefiction.com/posts/the-code-and-open-source-tools-i-used-to-produce-a-science-fiction-anthology.html",
+      "summary": "Related: Think Weirder: The Year's Best SciFi Ideas - https://news.ycombinator.com/item?id=45785154 - Nov 2025 (75 comments) Comments URL: https://news.ycombinator.com/item?id=45968121 Points: 129 # Comments: 14"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/18/podcasts/hardfork-gemini-3.html",
+      "title": "Google’s Gemini 3 Is Here: A Special Early Look",
+      "slug": "2025-11-18-google-s-gemini-3-is-here-a-special-early-look.html",
+      "path": "posts/2025-11-18-google-s-gemini-3-is-here-a-special-early-look.html",
+      "date_iso": "2025-11-18T16:03:59+00:00",
+      "source": "https://www.nytimes.com/2025/11/18/podcasts/hardfork-gemini-3.html",
+      "summary": "Maybe more than other model releases, this one seems to have the attention of Google’s competitors. Will it put the company at the top of the A.I. leaderboard?"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45967814",
+      "title": "Google Antigravity",
+      "slug": "2025-11-18-google-antigravity.html",
+      "path": "posts/2025-11-18-google-antigravity.html",
+      "date_iso": "2025-11-18T15:47:38+00:00",
+      "source": "https://antigravity.google/",
+      "summary": "https://antigravity.google/blog/introducing-google-antigravi... https://www.youtube.com/watch?v=nTOVIGsqCuY Comments URL: https://news.ycombinator.com/item?id=45967814 Points: 831 # Comments: 814"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45967211",
+      "title": "Gemini 3",
+      "slug": "2025-11-18-gemini-3.html",
+      "path": "posts/2025-11-18-gemini-3.html",
+      "date_iso": "2025-11-18T15:09:38+00:00",
+      "source": "https://blog.google/products/gemini/gemini-3/",
+      "summary": "https://blog.google/technology/developers/gemini-3-developer... https://aistudio.google.com/prompts/new_chat?model=gemini-3-... Comments URL: https://news.ycombinator.com/item?id=45967211 Points: 1341 # Comments: 841"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45967079",
+      "title": "Show HN: Browser-based interactive 3D Three-Body problem simulator",
+      "slug": "2025-11-18-show-hn-browser-based-interactive-3d-three-body-problem-simulator.html",
+      "path": "posts/2025-11-18-show-hn-browser-based-interactive-3d-three-body-problem-simulator.html",
+      "date_iso": "2025-11-18T15:00:36+00:00",
+      "source": "https://trisolarchaos.com/?pr=O_8(0.6)&n=3&s=5.0&so=0.00&im=rk4&dt=1.00e-4&rt=1.0e-6&at=1.0e-8&bs=0.15&sf=0&sv=0&cm=free&kt=1&st=1&tl=1500&cp=2.5208,1.5125,2.5208&ct=0.0000,0.0000,0.1670",
+      "summary": "Features include: - Several preset periodic orbits: the classic Figure-8, plus newly discovered 3D solutions from Li and Liao's recent database of 10,000+ orbits (https://arxiv.org/html/2508.08568v1) - Full 3D camera controls (rotate/pan/zoom) with body-following mode - Force an…"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/18/movies/documentary-filmmaking-ai-trust.html",
+      "title": "A.I. Video Is Threatening Our Ability to Trust Documentaries",
+      "slug": "2025-11-18-a-i-video-is-threatening-our-ability-to-trust-documentaries.html",
+      "path": "posts/2025-11-18-a-i-video-is-threatening-our-ability-to-trust-documentaries.html",
+      "date_iso": "2025-11-18T14:34:14+00:00",
+      "source": "https://www.nytimes.com/2025/11/18/movies/documentary-filmmaking-ai-trust.html",
+      "summary": "A combination of technological developments and market forces is undermining the trust between viewer and filmmaker. What’s at stake is history itself."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45966435",
+      "title": "Short Little Difficult Books",
+      "slug": "2025-11-18-short-little-difficult-books.html",
+      "path": "posts/2025-11-18-short-little-difficult-books.html",
+      "date_iso": "2025-11-18T14:23:18+00:00",
+      "source": "https://countercraft.substack.com/p/short-little-difficult-books",
+      "summary": "Article URL: https://countercraft.substack.com/p/short-little-difficult-books Comments URL: https://news.ycombinator.com/item?id=45966435 Points: 166 # Comments: 94"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/18/technology/personaltech/zoox-driverless-taxis-san-francisco.html",
+      "title": "Self-Driving Taxis Are Catching On. Are You Ready?",
+      "slug": "2025-11-18-self-driving-taxis-are-catching-on-are-you-ready.html",
+      "path": "posts/2025-11-18-self-driving-taxis-are-catching-on-are-you-ready.html",
+      "date_iso": "2025-11-18T14:00:15+00:00",
+      "source": "https://www.nytimes.com/2025/11/18/technology/personaltech/zoox-driverless-taxis-san-francisco.html",
+      "summary": "A Zoox driverless vehicle on a San Francisco street."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45962178",
       "title": "Langfuse (YC W23) Hiring OSS Support Engineers in Berlin and SF",
       "slug": "2025-11-18-langfuse-yc-w23-hiring-oss-support-engineers-in-berlin-and-sf.html",

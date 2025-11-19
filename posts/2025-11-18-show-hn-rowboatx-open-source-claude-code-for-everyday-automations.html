@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: RowboatX – open-source Claude Code for everyday automations</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: RowboatX – open-source Claude Code for everyday automations</h1>
+    <p><small>Published: 2025-11-18T18:50:00+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Claude Code is great, but it’s focused on coding. The missing piece is a native way to build and run custom background agents for non-code tasks. We built RowboatX as a CLI tool modeled after Claude Code that lets you do that. It uses the file system and unix tools to create and monitor background agents for everyday tasks, connect them to any MCP server for tools, and reason over their outputs.<p>Because RowboatX runs locally with shell access, the agents can install tools, execute code, and automate anything you could do in a terminal with your explicit permission. It works with any compatible LLM, including open-source ones.<p>Our repo is <a href="https://github.com/rowboatlabs/rowboat" rel="nofollow">https://github.com/rowboatlabs/rowboat</a>, and there’s a demo video here: <a href="https://youtu.be/cyPBinQzicY" rel="nofollow">https://youtu.be/cyPBinQzicY</a><p>For example, you can connect RowboatX to the ElevenLabs MCP server and create a background workflow that produces a NotebookLM-style podcast every day from recent AI-agent papers on arXiv. Or you can connect it to Google Calendar and Exa Search to research meeting attendees and generate briefs before each event.<p>You can try these with: `npx @rowboatlabs/rowboatx`<p>We combined three simple ideas:<p>1. File system as state: Each agent’s instruction, memory, logs, and data are just files on disk, grepable, diffable, and local. For instance, you can just run: grep -rl '"agent":""' ~/.rowboat/runs to list every run for a particular workflow.<p>2. The supervisor agent: A Claude Code style agent that can create and run background agents. It predominantly uses Unix commands to monitor, update, and schedule agents. LLMs handle Unix tools better than backend APIs [1][2], so we leaned into that. It can also probe any MCP server and attach the tools to the agents.<p>3. Human-in-the-loop: Each background agent can emit a human_request message when needed (e.g. drafting a tricky email or installing a tool) that pauses execution and waits for input before continuing. The supervisor coordinates this.<p>I started my career over a decade ago building spam detection models at Twitter, spending a lot of my time in the terminal with Unix commands for data analysis [0] and Vowpal Wabbit for modeling. When Claude Code came along, it felt familiar and amazing to work with. But trying to use it beyond code always felt a bit forced. We built RowboatX to bring that same workflow to everyday tasks. It is Apache-2.0 licensed and easily extendable.<p>While there are many agent builders, running on the user's terminal enables unique use cases like computer and browser automation that cloud-based tools can't match. This power requires careful safety design. We implemented command-level allow/deny lists, with containerization coming next. We’ve tried to design for safety from day one, but we’d love to hear the community’s perspective on what additional safeguards or approaches you’d consider important here.<p>We’re excited to share RowboatX with everyone here. We’d love to hear your thoughts and welcome contributions!<p>—<p>[0] <a href="https://web.stanford.edu/class/cs124/kwc-unix-for-poets.pdf" rel="nofollow">https://web.stanford.edu/class/cs124/kwc-unix-for-poets.pdf</a>
+[1] <a href="https://arxiv.org/pdf/2405.06807" rel="nofollow">https://arxiv.org/pdf/2405.06807</a>
+[2] <a href="https://arxiv.org/pdf/2501.10132" rel="nofollow">https://arxiv.org/pdf/2501.10132</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45970338">https://news.ycombinator.com/item?id=45970338</a></p>
+<p>Points: 79</p>
+<p># Comments: 16</p>
+    <p><a href="https://github.com/rowboatlabs/rowboat" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
