@@ -1,6 +1,249 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=45989469",
+      "title": "PHP 8.5 gets released today, here's what's new",
+      "slug": "2025-11-20-php-8-5-gets-released-today-here-s-what-s-new.html",
+      "path": "posts/2025-11-20-php-8-5-gets-released-today-here-s-what-s-new.html",
+      "date_iso": "2025-11-20T06:07:01+00:00",
+      "source": "https://stitcher.io/blog/new-in-php-85",
+      "summary": "Article URL: https://stitcher.io/blog/new-in-php-85 Comments URL: https://news.ycombinator.com/item?id=45989469 Points: 21 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45989394",
+      "title": "Show HN: An A2A-compatible, open-source framework for multi-agent networks",
+      "slug": "2025-11-20-show-hn-an-a2a-compatible-open-source-framework-for-multi-agent-networks.html",
+      "path": "posts/2025-11-20-show-hn-an-a2a-compatible-open-source-framework-for-multi-agent-networks.html",
+      "date_iso": "2025-11-20T05:52:43+00:00",
+      "source": "https://github.com/openagents-org/openagents",
+      "summary": "Article URL: https://github.com/openagents-org/openagents Comments URL: https://news.ycombinator.com/item?id=45989394 Points: 26 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45989329",
+      "title": "Basalt Woven Textile – MaterialDistrict",
+      "slug": "2025-11-20-basalt-woven-textile-materialdistrict.html",
+      "path": "posts/2025-11-20-basalt-woven-textile-materialdistrict.html",
+      "date_iso": "2025-11-20T05:41:06+00:00",
+      "source": "https://materialdistrict.com/material/basalt-woven-textile/",
+      "summary": "Article URL: https://materialdistrict.com/material/basalt-woven-textile/ Comments URL: https://news.ycombinator.com/item?id=45989329 Points: 18 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45989186",
+      "title": "#!magic, details about the shebang/hash-bang mechanism on various Unix flavours",
+      "slug": "2025-11-20-magic-details-about-the-shebang-hash-bang-mechanism-on-various-unix-flavours.html",
+      "path": "posts/2025-11-20-magic-details-about-the-shebang-hash-bang-mechanism-on-various-unix-flavours.html",
+      "date_iso": "2025-11-20T05:07:53+00:00",
+      "source": "https://www.in-ulm.de/%7Emascheck/various/shebang/",
+      "summary": "Article URL: https://www.in-ulm.de/%7Emascheck/various/shebang/ Comments URL: https://news.ycombinator.com/item?id=45989186 Points: 11 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45987179",
+      "title": "Verifying your Matrix devices is becoming mandatory",
+      "slug": "2025-11-20-verifying-your-matrix-devices-is-becoming-mandatory.html",
+      "path": "posts/2025-11-20-verifying-your-matrix-devices-is-becoming-mandatory.html",
+      "date_iso": "2025-11-20T00:22:03+00:00",
+      "source": "https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/",
+      "summary": "Article URL: https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/ Comments URL: https://news.ycombinator.com/item?id=45987179 Points: 123 # Comments: 106"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/19/technology/nvidia-earnings.html",
+      "title": "Nvidia Earnings Show Profit Jumped 65% to $31.9 Billion",
+      "slug": "2025-11-20-nvidia-earnings-show-profit-jumped-65-to-31-9-billion.html",
+      "path": "posts/2025-11-20-nvidia-earnings-show-profit-jumped-65-to-31-9-billion.html",
+      "date_iso": "2025-11-20T00:01:33+00:00",
+      "source": "https://www.nytimes.com/2025/11/19/technology/nvidia-earnings.html",
+      "summary": "Jensen Huang, the chief executive of Nvidia, made a bet on chips for artificial intelligence that has turned his company into a Silicon Valley giant."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/19/technology/yann-lecun-ai-scientist-meta.html",
+      "title": "Yann LeCun, a Pioneering A.I. Scientist, Leaves Meta",
+      "slug": "2025-11-19-yann-lecun-a-pioneering-a-i-scientist-leaves-meta.html",
+      "path": "posts/2025-11-19-yann-lecun-a-pioneering-a-i-scientist-leaves-meta.html",
+      "date_iso": "2025-11-19T23:35:50+00:00",
+      "source": "https://www.nytimes.com/2025/11/19/technology/yann-lecun-ai-scientist-meta.html",
+      "summary": "Despite Meta’s efforts to reach A.I. “superintelligence,” Yann LeCun has said that large language models will never be smart enough to be considered superintelligent."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/19/technology/saudi-arabia-elon-musk-xai.html",
+      "title": "Saudi Arabia Backs Elon Musk’s xAI With Data Center Deal",
+      "slug": "2025-11-19-saudi-arabia-backs-elon-musk-s-xai-with-data-center-deal.html",
+      "path": "posts/2025-11-19-saudi-arabia-backs-elon-musk-s-xai-with-data-center-deal.html",
+      "date_iso": "2025-11-19T22:02:37+00:00",
+      "source": "https://www.nytimes.com/2025/11/19/technology/saudi-arabia-elon-musk-xai.html",
+      "summary": "Elon Musk and Crown Prince Mohammed bin Salman of Saudi Arabia in Washington on Wednesday. The deal between xAI and the Saudi-backed company Humain is set to be xAI’s biggest data center outside the United States."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45985890",
+      "title": "The patent office is about to make bad patents untouchable",
+      "slug": "2025-11-19-the-patent-office-is-about-to-make-bad-patents-untouchable.html",
+      "path": "posts/2025-11-19-the-patent-office-is-about-to-make-bad-patents-untouchable.html",
+      "date_iso": "2025-11-19T22:00:28+00:00",
+      "source": "https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable Comments URL: https://news.ycombinator.com/item?id=45985890 Points: 387 # Comments: 44"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45985867",
+      "title": "Precise geolocation via Wi-Fi Positioning System",
+      "slug": "2025-11-19-precise-geolocation-via-wi-fi-positioning-system.html",
+      "path": "posts/2025-11-19-precise-geolocation-via-wi-fi-positioning-system.html",
+      "date_iso": "2025-11-19T21:58:47+00:00",
+      "source": "https://www.amoses.dev/blog/wifi-location/",
+      "summary": "Article URL: https://www.amoses.dev/blog/wifi-location/ Comments URL: https://news.ycombinator.com/item?id=45985867 Points: 153 # Comments: 66"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45985506",
+      "title": "Gaming on Linux has never been more approachable",
+      "slug": "2025-11-19-gaming-on-linux-has-never-been-more-approachable.html",
+      "path": "posts/2025-11-19-gaming-on-linux-has-never-been-more-approachable.html",
+      "date_iso": "2025-11-19T21:30:02+00:00",
+      "source": "https://www.theverge.com/tech/823337/switching-linux-gaming-desktop-cachyos",
+      "summary": "Article URL: https://www.theverge.com/tech/823337/switching-linux-gaming-desktop-cachyos Comments URL: https://news.ycombinator.com/item?id=45985506 Points: 339 # Comments: 241"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45985196",
+      "title": "How Slide Rules Work",
+      "slug": "2025-11-19-how-slide-rules-work.html",
+      "path": "posts/2025-11-19-how-slide-rules-work.html",
+      "date_iso": "2025-11-19T21:07:05+00:00",
+      "source": "https://amenzwa.github.io/stem/ComputingHistory/HowSlideRulesWork/",
+      "summary": "Article URL: https://amenzwa.github.io/stem/ComputingHistory/HowSlideRulesWork/ Comments URL: https://news.ycombinator.com/item?id=45985196 Points: 94 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45985036",
+      "title": "Researchers discover security vulnerability in WhatsApp",
+      "slug": "2025-11-19-researchers-discover-security-vulnerability-in-whatsapp.html",
+      "path": "posts/2025-11-19-researchers-discover-security-vulnerability-in-whatsapp.html",
+      "date_iso": "2025-11-19T20:55:30+00:00",
+      "source": "https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp",
+      "summary": "Article URL: https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp Comments URL: https://news.ycombinator.com/item?id=45985036 Points: 195 # Comments: 64"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45984659",
+      "title": "Loose wire leads to blackout, contact with Francis Scott Key bridge",
+      "slug": "2025-11-19-loose-wire-leads-to-blackout-contact-with-francis-scott-key-bridge.html",
+      "path": "posts/2025-11-19-loose-wire-leads-to-blackout-contact-with-francis-scott-key-bridge.html",
+      "date_iso": "2025-11-19T20:26:43+00:00",
+      "source": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx",
+      "summary": "Article URL: https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx Comments URL: https://news.ycombinator.com/item?id=45984659 Points: 314 # Comments: 122"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/19/technology/larry-summers-resigns-from-openais-board.html",
+      "title": "Larry Summers Resigns From OpenAI’s Board",
+      "slug": "2025-11-19-larry-summers-resigns-from-openai-s-board.html",
+      "path": "posts/2025-11-19-larry-summers-resigns-from-openai-s-board.html",
+      "date_iso": "2025-11-19T19:57:35+00:00",
+      "source": "https://www.nytimes.com/2025/11/19/technology/larry-summers-resigns-from-openais-board.html",
+      "summary": "Larry Summers’ exit from OpenAI is part of the widening fallout of those who were in the orbit of Jeffrey Epstein."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45984282",
+      "title": "Robert Louis Stevenson's Art of Living (and Dying)",
+      "slug": "2025-11-19-robert-louis-stevenson-s-art-of-living-and-dying.html",
+      "path": "posts/2025-11-19-robert-louis-stevenson-s-art-of-living-and-dying.html",
+      "date_iso": "2025-11-19T19:55:49+00:00",
+      "source": "https://lithub.com/robert-louis-stevensons-art-of-living-and-dying/",
+      "summary": "Article URL: https://lithub.com/robert-louis-stevensons-art-of-living-and-dying/ Comments URL: https://news.ycombinator.com/item?id=45984282 Points: 18 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45984133",
+      "title": "The lost cause of the Lisp machines",
+      "slug": "2025-11-19-the-lost-cause-of-the-lisp-machines.html",
+      "path": "posts/2025-11-19-the-lost-cause-of-the-lisp-machines.html",
+      "date_iso": "2025-11-19T19:44:07+00:00",
+      "source": "https://www.tfeb.org/fragments/2025/11/18/the-lost-cause-of-the-lisp-machines/",
+      "summary": "Article URL: https://www.tfeb.org/fragments/2025/11/18/the-lost-cause-of-the-lisp-machines/ Comments URL: https://news.ycombinator.com/item?id=45984133 Points: 34 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45984112",
+      "title": "Measuring political bias in Claude",
+      "slug": "2025-11-19-measuring-political-bias-in-claude.html",
+      "path": "posts/2025-11-19-measuring-political-bias-in-claude.html",
+      "date_iso": "2025-11-19T19:42:38+00:00",
+      "source": "https://www.anthropic.com/news/political-even-handedness",
+      "summary": "Article URL: https://www.anthropic.com/news/political-even-handedness Comments URL: https://news.ycombinator.com/item?id=45984112 Points: 66 # Comments: 95"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45983700",
+      "title": "AI is a front for consolidation of resources and power",
+      "slug": "2025-11-19-ai-is-a-front-for-consolidation-of-resources-and-power.html",
+      "path": "posts/2025-11-19-ai-is-a-front-for-consolidation-of-resources-and-power.html",
+      "date_iso": "2025-11-19T19:09:27+00:00",
+      "source": "https://www.chrbutler.com/what-ai-is-really-for",
+      "summary": "Article URL: https://www.chrbutler.com/what-ai-is-really-for Comments URL: https://news.ycombinator.com/item?id=45983700 Points: 242 # Comments: 172"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45982649",
+      "title": "Building more with GPT-5.1-Codex-Max",
+      "slug": "2025-11-19-building-more-with-gpt-5-1-codex-max.html",
+      "path": "posts/2025-11-19-building-more-with-gpt-5-1-codex-max.html",
+      "date_iso": "2025-11-19T18:01:59+00:00",
+      "source": "https://openai.com/index/gpt-5-1-codex-max/",
+      "summary": "Article URL: https://openai.com/index/gpt-5-1-codex-max/ Comments URL: https://news.ycombinator.com/item?id=45982649 Points: 393 # Comments: 224"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45982162",
+      "title": "Static Web Hosting on the Intel N150: FreeBSD, SmartOS, NetBSD, OpenBSD and Linu",
+      "slug": "2025-11-19-static-web-hosting-on-the-intel-n150-freebsd-smartos-netbsd-openbsd-and-linu.html",
+      "path": "posts/2025-11-19-static-web-hosting-on-the-intel-n150-freebsd-smartos-netbsd-openbsd-and-linu.html",
+      "date_iso": "2025-11-19T17:22:46+00:00",
+      "source": "https://it-notes.dragas.net/2025/11/19/static-web-hosting-intel-n150-freebsd-smartos-netbsd-openbsd-linux/",
+      "summary": "Article URL: https://it-notes.dragas.net/2025/11/19/static-web-hosting-intel-n150-freebsd-smartos-netbsd-openbsd-linux/ Comments URL: https://news.ycombinator.com/item?id=45982162 Points: 149 # Comments: 51"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45982073",
+      "title": "Meta Segment Anything Model 3",
+      "slug": "2025-11-19-meta-segment-anything-model-3.html",
+      "path": "posts/2025-11-19-meta-segment-anything-model-3.html",
+      "date_iso": "2025-11-19T17:14:51+00:00",
+      "source": "https://ai.meta.com/sam3/",
+      "summary": "Article URL: https://ai.meta.com/sam3/ Comments URL: https://news.ycombinator.com/item?id=45982073 Points: 410 # Comments: 86"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45980760",
+      "title": "Launch HN: Mosaic (YC W25) – Agentic Video Editing",
+      "slug": "2025-11-19-launch-hn-mosaic-yc-w25-agentic-video-editing.html",
+      "path": "posts/2025-11-19-launch-hn-mosaic-yc-w25-agentic-video-editing.html",
+      "date_iso": "2025-11-19T15:28:04+00:00",
+      "source": "https://mosaic.so",
+      "summary": "Hey HN! We’re Adish & Kyle from Mosaic ( https://edit.mosaic.so , https://docs.mosaic.so/ , https://mosaic.so ). Mosaic lets you create and run your own multimodal video editing agents in a node-based canvas. It’s different from traditional video editing tools in two ways: (1) t…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45980117",
+      "title": "Europe is scaling back GDPR and relaxing AI laws",
+      "slug": "2025-11-19-europe-is-scaling-back-gdpr-and-relaxing-ai-laws.html",
+      "path": "posts/2025-11-19-europe-is-scaling-back-gdpr-and-relaxing-ai-laws.html",
+      "date_iso": "2025-11-19T14:41:30+00:00",
+      "source": "https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes",
+      "summary": "Article URL: https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes Comments URL: https://news.ycombinator.com/item?id=45980117 Points: 650 # Comments: 662"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/19/technology/trump-nvidia-jensen-huang.html",
+      "title": "How Trump and Nvidia’s C.E.O. Became Partners on the International Stage",
+      "slug": "2025-11-19-how-trump-and-nvidia-s-c-e-o-became-partners-on-the-international-stage.html",
+      "path": "posts/2025-11-19-how-trump-and-nvidia-s-c-e-o-became-partners-on-the-international-stage.html",
+      "date_iso": "2025-11-19T14:17:10+00:00",
+      "source": "https://www.nytimes.com/2025/11/19/technology/trump-nvidia-jensen-huang.html",
+      "summary": "In April, Jensen Huang, chief executive of Nvidia, announced at a White House news conference that Nvidia and its suppliers would invest $500 billion in U.S. manufacturing."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/19/business/nexperia-netherlands-china-chips.html",
+      "title": "Netherlands Hands Back Control of Chinese-Owned Chipmaker Nexperia",
+      "slug": "2025-11-19-netherlands-hands-back-control-of-chinese-owned-chipmaker-nexperia.html",
+      "path": "posts/2025-11-19-netherlands-hands-back-control-of-chinese-owned-chipmaker-nexperia.html",
+      "date_iso": "2025-11-19T14:10:28+00:00",
+      "source": "https://www.nytimes.com/2025/11/19/business/nexperia-netherlands-china-chips.html",
+      "summary": "The headquarters of Nexperia, a Dutch chipmaker owned by the Chinese company Wingtech."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/19/us/nuclear-power-three-mile-island.html",
+      "title": "Trump Administration Gives Three Mile Island Nuclear Project $1 Billion Loan",
+      "slug": "2025-11-19-trump-administration-gives-three-mile-island-nuclear-project-1-billion-loan.html",
+      "path": "posts/2025-11-19-trump-administration-gives-three-mile-island-nuclear-project-1-billion-loan.html",
+      "date_iso": "2025-11-19T10:50:41+00:00",
+      "source": "https://www.nytimes.com/2025/11/19/us/nuclear-power-three-mile-island.html",
+      "summary": "Constellation’s nuclear power plant, called the Crane Clean Energy Center, on Three Mile Island near Middletown, Pa. earlier this year."
+    },
+    {
       "id": "https://www.nytimes.com/2025/11/19/technology/europe-tsmc-chips.html",
       "title": "Europe’s Chip Dreams Confront Business Realities",
       "slug": "2025-11-19-europe-s-chip-dreams-confront-business-realities.html",
