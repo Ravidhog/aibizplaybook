@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46001738",
+      "title": "While Eyes Are on Takaichi, Taiwan's Lai Is Quietly Redefining the Status Quo",
+      "slug": "2025-11-21-while-eyes-are-on-takaichi-taiwan-s-lai-is-quietly-redefining-the-status-quo.html",
+      "path": "posts/2025-11-21-while-eyes-are-on-takaichi-taiwan-s-lai-is-quietly-redefining-the-status-quo.html",
+      "date_iso": "2025-11-21T06:19:20+00:00",
+      "source": "https://jonathancc.substack.com/p/while-eyes-are-on-takaichi-taiwans",
+      "summary": "Article URL: https://jonathancc.substack.com/p/while-eyes-are-on-takaichi-taiwans Comments URL: https://news.ycombinator.com/item?id=46001738 Points: 5 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46000303",
+      "title": "Measuring Latency (2015)",
+      "slug": "2025-11-21-measuring-latency-2015.html",
+      "path": "posts/2025-11-21-measuring-latency-2015.html",
+      "date_iso": "2025-11-21T01:50:24+00:00",
+      "source": "https://bravenewgeek.com/everything-you-know-about-latency-is-wrong/",
+      "summary": "https://archive.md/D8E5W Comments URL: https://news.ycombinator.com/item?id=46000303 Points: 19 # Comments: 8"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/20/technology/ai-stock-boom-nvidia.html",
+      "title": "The A.I. Boom Has Found Another Gear. Why Can’t People Shake Their Worries?",
+      "slug": "2025-11-21-the-a-i-boom-has-found-another-gear-why-can-t-people-shake-their-worries.html",
+      "path": "posts/2025-11-21-the-a-i-boom-has-found-another-gear-why-can-t-people-shake-their-worries.html",
+      "date_iso": "2025-11-21T01:34:50+00:00",
+      "source": "https://www.nytimes.com/2025/11/20/technology/ai-stock-boom-nvidia.html",
+      "summary": "OpenAI’s Stargate data center complex in Abilene, Texas."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45999872",
+      "title": "Why top firms fire good workers",
+      "slug": "2025-11-21-why-top-firms-fire-good-workers.html",
+      "path": "posts/2025-11-21-why-top-firms-fire-good-workers.html",
+      "date_iso": "2025-11-21T00:36:01+00:00",
+      "source": "https://www.rochester.edu/newscenter/employee-turnover-why-top-firms-churn-good-workers-681832/",
+      "summary": "Article URL: https://www.rochester.edu/newscenter/employee-turnover-why-top-firms-churn-good-workers-681832/ Comments URL: https://news.ycombinator.com/item?id=45999872 Points: 104 # Comments: 111"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45999038",
+      "title": "Over-regulation is doubling the cost",
+      "slug": "2025-11-20-over-regulation-is-doubling-the-cost.html",
+      "path": "posts/2025-11-20-over-regulation-is-doubling-the-cost.html",
+      "date_iso": "2025-11-20T22:58:06+00:00",
+      "source": "https://rein.pk/over-regulation-is-doubling-the-cost",
+      "summary": "Article URL: https://rein.pk/over-regulation-is-doubling-the-cost Comments URL: https://news.ycombinator.com/item?id=45999038 Points: 146 # Comments: 215"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45998047",
+      "title": "GitHut – Programming Languages and GitHub (2014)",
+      "slug": "2025-11-20-githut-programming-languages-and-github-2014.html",
+      "path": "posts/2025-11-20-githut-programming-languages-and-github-2014.html",
+      "date_iso": "2025-11-20T21:33:37+00:00",
+      "source": "https://githut.info/",
+      "summary": "Article URL: https://githut.info/ Comments URL: https://news.ycombinator.com/item?id=45998047 Points: 65 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45997914",
+      "title": "New Glenn Update",
+      "slug": "2025-11-20-new-glenn-update.html",
+      "path": "posts/2025-11-20-new-glenn-update.html",
+      "date_iso": "2025-11-20T21:21:08+00:00",
+      "source": "https://www.blueorigin.com/news/new-glenn-upgraded-engines-subcooled-components-drive-enhanced-performance",
+      "summary": "Article URL: https://www.blueorigin.com/news/new-glenn-upgraded-engines-subcooled-components-drive-enhanced-performance Comments URL: https://news.ycombinator.com/item?id=45997914 Points: 148 # Comments: 74"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45997212",
+      "title": "New OS aims to provide (some) compatibility with macOS",
+      "slug": "2025-11-20-new-os-aims-to-provide-some-compatibility-with-macos.html",
+      "path": "posts/2025-11-20-new-os-aims-to-provide-some-compatibility-with-macos.html",
+      "date_iso": "2025-11-20T20:24:42+00:00",
+      "source": "https://github.com/ravynsoft/ravynos",
+      "summary": "Article URL: https://github.com/ravynsoft/ravynos Comments URL: https://news.ycombinator.com/item?id=45997212 Points: 193 # Comments: 85"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45996860",
+      "title": "CBP is monitoring US drivers and detaining those with suspicious travel patterns",
+      "slug": "2025-11-20-cbp-is-monitoring-us-drivers-and-detaining-those-with-suspicious-travel-patterns.html",
+      "path": "posts/2025-11-20-cbp-is-monitoring-us-drivers-and-detaining-those-with-suspicious-travel-patterns.html",
+      "date_iso": "2025-11-20T19:52:55+00:00",
+      "source": "https://apnews.com/article/immigration-border-patrol-surveillance-drivers-ice-trump-9f5d05469ce8c629d6fecf32d32098cd",
+      "summary": "Article URL: https://apnews.com/article/immigration-border-patrol-surveillance-drivers-ice-trump-9f5d05469ce8c629d6fecf32d32098cd Comments URL: https://news.ycombinator.com/item?id=45996860 Points: 657 # Comments: 719"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45996585",
+      "title": "Data-at-Rest Encryption in DuckDB",
+      "slug": "2025-11-20-data-at-rest-encryption-in-duckdb.html",
+      "path": "posts/2025-11-20-data-at-rest-encryption-in-duckdb.html",
+      "date_iso": "2025-11-20T19:26:12+00:00",
+      "source": "https://duckdb.org/2025/11/19/encryption-in-duckdb",
+      "summary": "Article URL: https://duckdb.org/2025/11/19/encryption-in-duckdb Comments URL: https://news.ycombinator.com/item?id=45996585 Points: 159 # Comments: 16"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/20/technology/trump-ai-memes.html",
+      "title": "Trump Elevates Once-Fringe Meme Makers to the Mainstream",
+      "slug": "2025-11-20-trump-elevates-once-fringe-meme-makers-to-the-mainstream.html",
+      "path": "posts/2025-11-20-trump-elevates-once-fringe-meme-makers-to-the-mainstream.html",
+      "date_iso": "2025-11-20T18:40:55+00:00",
+      "source": "https://www.nytimes.com/2025/11/20/technology/trump-ai-memes.html",
+      "summary": "Right-wing users have tapped A.I. tools to promote President Trump’s agenda. He took notice."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45995913",
+      "title": "Show HN: Search London StreetView panoramas by text",
+      "slug": "2025-11-20-show-hn-search-london-streetview-panoramas-by-text.html",
+      "path": "posts/2025-11-20-show-hn-search-london-streetview-panoramas-by-text.html",
+      "date_iso": "2025-11-20T18:27:51+00:00",
+      "source": "https://london.publicinsights.uk",
+      "summary": "Inspired by All Text in NYC ( https://alltext.nyc ) by Yufeng Zhang I thought I would replicate something similar for London. A searchable tool that lets you explore text captured across Google Street View imagery in London; shop signs, posters, graffiti, van numbers etc Comment…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45995834",
+      "title": "NTSB Preliminary Report – UPS Boeing MD-11F Crash [pdf]",
+      "slug": "2025-11-20-ntsb-preliminary-report-ups-boeing-md-11f-crash-pdf.html",
+      "path": "posts/2025-11-20-ntsb-preliminary-report-ups-boeing-md-11f-crash-pdf.html",
+      "date_iso": "2025-11-20T18:20:59+00:00",
+      "source": "https://www.ntsb.gov/Documents/Prelimiary%20Report%20DCA26MA024.pdf",
+      "summary": "Article URL: https://www.ntsb.gov/Documents/Prelimiary%20Report%20DCA26MA024.pdf Comments URL: https://news.ycombinator.com/item?id=45995834 Points: 165 # Comments: 167"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45995816",
+      "title": "The Lions Operating System",
+      "slug": "2025-11-20-the-lions-operating-system.html",
+      "path": "posts/2025-11-20-the-lions-operating-system.html",
+      "date_iso": "2025-11-20T18:19:31+00:00",
+      "source": "https://lionsos.org",
+      "summary": "Article URL: https://lionsos.org Comments URL: https://news.ycombinator.com/item?id=45995816 Points: 144 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45995740",
+      "title": "Microsoft makes Zork open-source",
+      "slug": "2025-11-20-microsoft-makes-zork-open-source.html",
+      "path": "posts/2025-11-20-microsoft-makes-zork-open-source.html",
+      "date_iso": "2025-11-20T18:13:39+00:00",
+      "source": "https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source",
+      "summary": "Article URL: https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source Comments URL: https://news.ycombinator.com/item?id=45995740 Points: 527 # Comments: 210"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45995394",
+      "title": "Launch HN: Poly (YC S22) – Cursor for Files",
+      "slug": "2025-11-20-launch-hn-poly-yc-s22-cursor-for-files.html",
+      "path": "posts/2025-11-20-launch-hn-poly-yc-s22-cursor-for-files.html",
+      "date_iso": "2025-11-20T17:47:06+00:00",
+      "source": "https://news.ycombinator.com/item?id=45995394",
+      "summary": "Hello world, this is Abhay from Poly ( https://poly.app ). We’re building an app to replace Finder/File Explorer with something more intelligent and searchable. Think of it like Dropbox + NotebookLM + Perplexity for terabytes of your files. Here’s a quick demo: https://www.youtu…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45994854",
+      "title": "Android and iPhone users can now share files, starting with the Pixel 10",
+      "slug": "2025-11-20-android-and-iphone-users-can-now-share-files-starting-with-the-pixel-10.html",
+      "path": "posts/2025-11-20-android-and-iphone-users-can-now-share-files-starting-with-the-pixel-10.html",
+      "date_iso": "2025-11-20T17:04:34+00:00",
+      "source": "https://blog.google/products/android/quick-share-airdrop/",
+      "summary": "Article URL: https://blog.google/products/android/quick-share-airdrop/ Comments URL: https://news.ycombinator.com/item?id=45994854 Points: 599 # Comments: 343"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/20/technology/national-laboratories-ai-supercomputers.html",
+      "title": "To Meld A.I. With Supercomputers, National Labs Are Picking Up the Pace",
+      "slug": "2025-11-20-to-meld-a-i-with-supercomputers-national-labs-are-picking-up-the-pace.html",
+      "path": "posts/2025-11-20-to-meld-a-i-with-supercomputers-national-labs-are-picking-up-the-pace.html",
+      "date_iso": "2025-11-20T16:01:51+00:00",
+      "source": "https://www.nytimes.com/2025/11/20/technology/national-laboratories-ai-supercomputers.html",
+      "summary": "The Aurora supercomputer at Argonne National Laboratory in Lemont, Ill."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45993296",
+      "title": "Nano Banana Pro",
+      "slug": "2025-11-20-nano-banana-pro.html",
+      "path": "posts/2025-11-20-nano-banana-pro.html",
+      "date_iso": "2025-11-20T15:04:23+00:00",
+      "source": "https://blog.google/technology/ai/nano-banana-pro/",
+      "summary": "Article URL: https://blog.google/technology/ai/nano-banana-pro/ Comments URL: https://news.ycombinator.com/item?id=45993296 Points: 987 # Comments: 574"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45991738",
+      "title": "Adversarial poetry as a universal single-turn jailbreak mechanism in LLMs",
+      "slug": "2025-11-20-adversarial-poetry-as-a-universal-single-turn-jailbreak-mechanism-in-llms.html",
+      "path": "posts/2025-11-20-adversarial-poetry-as-a-universal-single-turn-jailbreak-mechanism-in-llms.html",
+      "date_iso": "2025-11-20T12:01:26+00:00",
+      "source": "https://arxiv.org/abs/2511.15304",
+      "summary": "Article URL: https://arxiv.org/abs/2511.15304 Comments URL: https://news.ycombinator.com/item?id=45991738 Points: 263 # Comments: 141"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/20/us/politics/howard-lutnick-family-ai.html",
+      "title": "Family Affair: Commerce Secretary’s Sons Cash In on A.I. Frenzy",
+      "slug": "2025-11-20-family-affair-commerce-secretary-s-sons-cash-in-on-a-i-frenzy.html",
+      "path": "posts/2025-11-20-family-affair-commerce-secretary-s-sons-cash-in-on-a-i-frenzy.html",
+      "date_iso": "2025-11-20T10:00:45+00:00",
+      "source": "https://www.nytimes.com/2025/11/20/us/politics/howard-lutnick-family-ai.html",
+      "summary": "A mammoth data center is rising in Amarillo, Texas. Firms controlled by the Lutnick family have helped finance it, banking millions in fees in the process."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45990934",
+      "title": "Interactive World History Atlas Since 3000 BC",
+      "slug": "2025-11-20-interactive-world-history-atlas-since-3000-bc.html",
+      "path": "posts/2025-11-20-interactive-world-history-atlas-since-3000-bc.html",
+      "date_iso": "2025-11-20T09:52:11+00:00",
+      "source": "http://geacron.com/home-en/",
+      "summary": "Article URL: http://geacron.com/home-en/ Comments URL: https://news.ycombinator.com/item?id=45990934 Points: 307 # Comments: 131"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=45989469",
       "title": "PHP 8.5 gets released today, here's what's new",
       "slug": "2025-11-20-php-8-5-gets-released-today-here-s-what-s-new.html",
@@ -127,6 +325,15 @@
       "summary": "Article URL: https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx Comments URL: https://news.ycombinator.com/item?id=45984659 Points: 314 # Comments: 122"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=45984461",
+      "title": "Show HN: F32 – An Extremely Small ESP32 Board",
+      "slug": "2025-11-19-show-hn-f32-an-extremely-small-esp32-board.html",
+      "path": "posts/2025-11-19-show-hn-f32-an-extremely-small-esp32-board.html",
+      "date_iso": "2025-11-19T20:09:30+00:00",
+      "source": "https://github.com/PegorK/f32",
+      "summary": "As part of a little research and also some fun I decided to try my hand at seeing how small of an ESP32 board I can make with functioning WiFi. Comments URL: https://news.ycombinator.com/item?id=45984461 Points: 221 # Comments: 36"
+    },
+    {
       "id": "https://www.nytimes.com/2025/11/19/technology/larry-summers-resigns-from-openais-board.html",
       "title": "Larry Summers Resigns From OpenAI’s Board",
       "slug": "2025-11-19-larry-summers-resigns-from-openai-s-board.html",
@@ -242,6 +449,15 @@
       "date_iso": "2025-11-19T10:50:41+00:00",
       "source": "https://www.nytimes.com/2025/11/19/us/nuclear-power-three-mile-island.html",
       "summary": "Constellation’s nuclear power plant, called the Crane Clean Energy Center, on Three Mile Island near Middletown, Pa. earlier this year."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=45976693",
+      "title": "Free interactive tool that shows you how PCIe lanes work on motherboards",
+      "slug": "2025-11-19-free-interactive-tool-that-shows-you-how-pcie-lanes-work-on-motherboards.html",
+      "path": "posts/2025-11-19-free-interactive-tool-that-shows-you-how-pcie-lanes-work-on-motherboards.html",
+      "date_iso": "2025-11-19T07:13:00+00:00",
+      "source": "https://mobomaps.com",
+      "summary": "Article URL: https://mobomaps.com Comments URL: https://news.ycombinator.com/item?id=45976693 Points: 182 # Comments: 33"
     },
     {
       "id": "https://www.nytimes.com/2025/11/19/technology/europe-tsmc-chips.html",
