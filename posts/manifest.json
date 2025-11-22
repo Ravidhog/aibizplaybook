@@ -1,6 +1,213 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46012328",
+      "title": "Superman copy found in mum's attic is most valuable comic ever at $9.12M",
+      "slug": "2025-11-22-superman-copy-found-in-mum-s-attic-is-most-valuable-comic-ever-at-9-12m.html",
+      "path": "posts/2025-11-22-superman-copy-found-in-mum-s-attic-is-most-valuable-comic-ever-at-9-12m.html",
+      "date_iso": "2025-11-22T05:21:53+00:00",
+      "source": "https://www.bbc.com/news/articles/c8e9rp0knj6o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c8e9rp0knj6o Comments URL: https://news.ycombinator.com/item?id=46012328 Points: 101 # Comments: 28"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46011978",
+      "title": "Moss Survives 9 Months in Space Vacuum",
+      "slug": "2025-11-22-moss-survives-9-months-in-space-vacuum.html",
+      "path": "posts/2025-11-22-moss-survives-9-months-in-space-vacuum.html",
+      "date_iso": "2025-11-22T03:57:29+00:00",
+      "source": "https://scienceclock.com/moss-survives-9-months-in-space-vacuum/",
+      "summary": "Article URL: https://scienceclock.com/moss-survives-9-months-in-space-vacuum/ Comments URL: https://news.ycombinator.com/item?id=46011978 Points: 50 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46011351",
+      "title": "Infinibay LXD Container",
+      "slug": "2025-11-22-infinibay-lxd-container.html",
+      "path": "posts/2025-11-22-infinibay-lxd-container.html",
+      "date_iso": "2025-11-22T01:54:45+00:00",
+      "source": "https://github.com/Infinibay/lxd",
+      "summary": "Article URL: https://github.com/Infinibay/lxd Comments URL: https://news.ycombinator.com/item?id=46011351 Points: 15 # Comments: 1"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/21/world/cryptography-group-lost-election-results.html",
+      "title": "Cryptology Group Held an Election, but Can’t Decrypt the Results",
+      "slug": "2025-11-22-cryptology-group-held-an-election-but-can-t-decrypt-the-results.html",
+      "path": "posts/2025-11-22-cryptology-group-held-an-election-but-can-t-decrypt-the-results.html",
+      "date_iso": "2025-11-22T01:52:09+00:00",
+      "source": "https://www.nytimes.com/2025/11/21/world/cryptography-group-lost-election-results.html",
+      "summary": "A global group of researchers was unable to read the vote tally, after an official lost one of three secret code keys needed to unlock a hyper-secure election system."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/21/podcasts/hardfork-roblox-child-safety.html",
+      "title": "We Asked Roblox’s C.E.O. About Child Safety. It Got Tense.",
+      "slug": "2025-11-22-we-asked-roblox-s-c-e-o-about-child-safety-it-got-tense.html",
+      "path": "posts/2025-11-22-we-asked-roblox-s-c-e-o-about-child-safety-it-got-tense.html",
+      "date_iso": "2025-11-22T00:37:44+00:00",
+      "source": "https://www.nytimes.com/2025/11/21/podcasts/hardfork-roblox-child-safety.html",
+      "summary": "This week the company announced that it would require users to undergo an A.I.-powered age estimation process in order to chat with others on the platform. Will this change reassure parents?"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46010806",
+      "title": "Sharper MRI scans may be on horizon thanks to new physics-based model",
+      "slug": "2025-11-22-sharper-mri-scans-may-be-on-horizon-thanks-to-new-physics-based-model.html",
+      "path": "posts/2025-11-22-sharper-mri-scans-may-be-on-horizon-thanks-to-new-physics-based-model.html",
+      "date_iso": "2025-11-22T00:30:26+00:00",
+      "source": "https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model",
+      "summary": "Article URL: https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model Comments URL: https://news.ycombinator.com/item?id=46010806 Points: 53 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46010329",
+      "title": "How I learned Vulkan and wrote a small game engine with it (2024)",
+      "slug": "2025-11-21-how-i-learned-vulkan-and-wrote-a-small-game-engine-with-it-2024.html",
+      "path": "posts/2025-11-21-how-i-learned-vulkan-and-wrote-a-small-game-engine-with-it-2024.html",
+      "date_iso": "2025-11-21T23:28:40+00:00",
+      "source": "https://edw.is/learning-vulkan/",
+      "summary": "Article URL: https://edw.is/learning-vulkan/ Comments URL: https://news.ycombinator.com/item?id=46010329 Points: 63 # Comments: 31"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46010173",
+      "title": "3D printing with unconventional vase mode",
+      "slug": "2025-11-21-3d-printing-with-unconventional-vase-mode.html",
+      "path": "posts/2025-11-21-3d-printing-with-unconventional-vase-mode.html",
+      "date_iso": "2025-11-21T23:10:17+00:00",
+      "source": "https://vorpal.se/posts/2025/jun/23/3d-printing-with-unconventional-vase-mode/",
+      "summary": "Article URL: https://vorpal.se/posts/2025/jun/23/3d-printing-with-unconventional-vase-mode/ Comments URL: https://news.ycombinator.com/item?id=46010173 Points: 37 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46009894",
+      "title": "Personal blogs are back, should niche blogs be next?",
+      "slug": "2025-11-21-personal-blogs-are-back-should-niche-blogs-be-next.html",
+      "path": "posts/2025-11-21-personal-blogs-are-back-should-niche-blogs-be-next.html",
+      "date_iso": "2025-11-21T22:40:28+00:00",
+      "source": "https://disassociated.com/personal-blogs-back-niche-blogs-next/",
+      "summary": "Article URL: https://disassociated.com/personal-blogs-back-niche-blogs-next/ Comments URL: https://news.ycombinator.com/item?id=46009894 Points: 235 # Comments: 150"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46009660",
+      "title": "Is Matrix Multiplication Ugly?",
+      "slug": "2025-11-21-is-matrix-multiplication-ugly.html",
+      "path": "posts/2025-11-21-is-matrix-multiplication-ugly.html",
+      "date_iso": "2025-11-21T22:17:11+00:00",
+      "source": "https://mathenchant.wordpress.com/2025/11/21/is-matrix-multiplication-ugly/",
+      "summary": "Article URL: https://mathenchant.wordpress.com/2025/11/21/is-matrix-multiplication-ugly/ Comments URL: https://news.ycombinator.com/item?id=46009660 Points: 81 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46009591",
+      "title": "LAPD helicopter tracker with real-time operating costs",
+      "slug": "2025-11-21-lapd-helicopter-tracker-with-real-time-operating-costs.html",
+      "path": "posts/2025-11-21-lapd-helicopter-tracker-with-real-time-operating-costs.html",
+      "date_iso": "2025-11-21T22:11:07+00:00",
+      "source": "https://lapdhelicoptertracker.com/",
+      "summary": "Article URL: https://lapdhelicoptertracker.com/ Comments URL: https://news.ycombinator.com/item?id=46009591 Points: 136 # Comments: 158"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46009056",
+      "title": "Arduino Terms of Service and Privacy Policy update: setting the record straight",
+      "slug": "2025-11-21-arduino-terms-of-service-and-privacy-policy-update-setting-the-record-straight.html",
+      "path": "posts/2025-11-21-arduino-terms-of-service-and-privacy-policy-update-setting-the-record-straight.html",
+      "date_iso": "2025-11-21T21:13:11+00:00",
+      "source": "https://blog.arduino.cc/2025/11/21/the-arduino-terms-of-service-and-privacy-policy-update-setting-the-record-straight/",
+      "summary": "Article URL: https://blog.arduino.cc/2025/11/21/the-arduino-terms-of-service-and-privacy-policy-update-setting-the-record-straight/ Comments URL: https://news.ycombinator.com/item?id=46009056 Points: 47 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46008769",
+      "title": "Pixar: The Early Days A never-before-seen 1996 interview",
+      "slug": "2025-11-21-pixar-the-early-days-a-never-before-seen-1996-interview.html",
+      "path": "posts/2025-11-21-pixar-the-early-days-a-never-before-seen-1996-interview.html",
+      "date_iso": "2025-11-21T20:45:06+00:00",
+      "source": "https://stevejobsarchive.com/stories/pixar-early-days",
+      "summary": "Article URL: https://stevejobsarchive.com/stories/pixar-early-days Comments URL: https://news.ycombinator.com/item?id=46008769 Points: 104 # Comments: 8"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/21/technology/google-ad-tech-closing.html",
+      "title": "The Fate of Google’s Ad Tech Monopoly Is Now in a Judge’s Hands",
+      "slug": "2025-11-21-the-fate-of-google-s-ad-tech-monopoly-is-now-in-a-judge-s-hands.html",
+      "path": "posts/2025-11-21-the-fate-of-google-s-ad-tech-monopoly-is-now-in-a-judge-s-hands.html",
+      "date_iso": "2025-11-21T20:43:22+00:00",
+      "source": "https://www.nytimes.com/2025/11/21/technology/google-ad-tech-closing.html",
+      "summary": "Judge Brinkema’s decision could restructure Google’s business as the company races to develop better artificial intelligence than its rivals and successfully weave the technology into its suite of products."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46008156",
+      "title": "Discontinuation of ARM Notebook with Snapdragon X Elite SoC",
+      "slug": "2025-11-21-discontinuation-of-arm-notebook-with-snapdragon-x-elite-soc.html",
+      "path": "posts/2025-11-21-discontinuation-of-arm-notebook-with-snapdragon-x-elite-soc.html",
+      "date_iso": "2025-11-21T19:46:34+00:00",
+      "source": "https://www.tuxedocomputers.com/en/Discontinuation-of-ARM-notebooks-with-Snapdragon-X-Elite-SoC.tuxedo",
+      "summary": "Article URL: https://www.tuxedocomputers.com/en/Discontinuation-of-ARM-notebooks-with-Snapdragon-X-Elite-SoC.tuxedo Comments URL: https://news.ycombinator.com/item?id=46008156 Points: 115 # Comments: 36"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46006616",
+      "title": "Helping Valve to power up Steam devices",
+      "slug": "2025-11-21-helping-valve-to-power-up-steam-devices.html",
+      "path": "posts/2025-11-21-helping-valve-to-power-up-steam-devices.html",
+      "date_iso": "2025-11-21T17:29:59+00:00",
+      "source": "https://www.igalia.com/2025/11/helpingvalve.html",
+      "summary": "Article URL: https://www.igalia.com/2025/11/helpingvalve.html Comments URL: https://news.ycombinator.com/item?id=46006616 Points: 538 # Comments: 159"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46006598",
+      "title": "Solving Fizz Buzz with Cosines",
+      "slug": "2025-11-21-solving-fizz-buzz-with-cosines.html",
+      "path": "posts/2025-11-21-solving-fizz-buzz-with-cosines.html",
+      "date_iso": "2025-11-21T17:28:25+00:00",
+      "source": "https://susam.net/fizz-buzz-with-cosines.html",
+      "summary": "Article URL: https://susam.net/fizz-buzz-with-cosines.html Comments URL: https://news.ycombinator.com/item?id=46006598 Points: 145 # Comments: 38"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46006082",
+      "title": "You can make PS2 games in JavaScript",
+      "slug": "2025-11-21-you-can-make-ps2-games-in-javascript.html",
+      "path": "posts/2025-11-21-you-can-make-ps2-games-in-javascript.html",
+      "date_iso": "2025-11-21T16:42:19+00:00",
+      "source": "https://jslegenddev.substack.com/p/you-can-now-make-ps2-games-in-javascript",
+      "summary": "Article URL: https://jslegenddev.substack.com/p/you-can-now-make-ps2-games-in-javascript Comments URL: https://news.ycombinator.com/item?id=46006082 Points: 256 # Comments: 60"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46006016",
+      "title": "Show HN: Wealthfolio 2.0- Open source investment tracker. Now Mobile and Docker",
+      "slug": "2025-11-21-show-hn-wealthfolio-2-0-open-source-investment-tracker-now-mobile-and-docker.html",
+      "path": "posts/2025-11-21-show-hn-wealthfolio-2-0-open-source-investment-tracker-now-mobile-and-docker.html",
+      "date_iso": "2025-11-21T16:34:52+00:00",
+      "source": "https://wealthfolio.app/?v=2.0",
+      "summary": "Hi HN, creator of Wealthfolio here. A year ago, I posted the first version. Since then, the app has matured significantly with two major updates: 1. Multi-platform Support: Now available on Mobile (iOS), Desktop (macOS, Windows, Linux), and as a Self-hosted Docker image. (Androi…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46005388",
+      "title": "Make product worse, get money",
+      "slug": "2025-11-21-make-product-worse-get-money.html",
+      "path": "posts/2025-11-21-make-product-worse-get-money.html",
+      "date_iso": "2025-11-21T15:23:20+00:00",
+      "source": "https://dynomight.net/worse/",
+      "summary": "Article URL: https://dynomight.net/worse/ Comments URL: https://news.ycombinator.com/item?id=46005388 Points: 84 # Comments: 82"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46005349",
+      "title": "XBMC 4.0 for the Original Xbox",
+      "slug": "2025-11-21-xbmc-4-0-for-the-original-xbox.html",
+      "path": "posts/2025-11-21-xbmc-4-0-for-the-original-xbox.html",
+      "date_iso": "2025-11-21T15:18:05+00:00",
+      "source": "https://www.xbox-scene.info/articles/announcing-xbmc-40-for-the-original-xbox-r64/",
+      "summary": "Article URL: https://www.xbox-scene.info/articles/announcing-xbmc-40-for-the-original-xbox-r64/ Comments URL: https://news.ycombinator.com/item?id=46005349 Points: 145 # Comments: 76"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46005111",
+      "title": "We should all be using dependency cooldowns",
+      "slug": "2025-11-21-we-should-all-be-using-dependency-cooldowns.html",
+      "path": "posts/2025-11-21-we-should-all-be-using-dependency-cooldowns.html",
+      "date_iso": "2025-11-21T14:50:36+00:00",
+      "source": "https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns",
+      "summary": "Article URL: https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns Comments URL: https://news.ycombinator.com/item?id=46005111 Points: 325 # Comments: 205"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46004293",
+      "title": "Making a Small RPG",
+      "slug": "2025-11-21-making-a-small-rpg.html",
+      "path": "posts/2025-11-21-making-a-small-rpg.html",
+      "date_iso": "2025-11-21T13:23:16+00:00",
+      "source": "https://jslegenddev.substack.com/p/making-a-small-rpg",
+      "summary": "Article URL: https://jslegenddev.substack.com/p/making-a-small-rpg Comments URL: https://news.ycombinator.com/item?id=46004293 Points: 187 # Comments: 33"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46001738",
       "title": "While Eyes Are on Takaichi, Taiwan's Lai Is Quietly Redefining the Status Quo",
       "slug": "2025-11-21-while-eyes-are-on-takaichi-taiwan-s-lai-is-quietly-redefining-the-status-quo.html",
