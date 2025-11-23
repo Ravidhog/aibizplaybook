@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46021179",
+      "title": "Google Revisits JPEG XL in Chromium After Earlier Removal",
+      "slug": "2025-11-23-google-revisits-jpeg-xl-in-chromium-after-earlier-removal.html",
+      "path": "posts/2025-11-23-google-revisits-jpeg-xl-in-chromium-after-earlier-removal.html",
+      "date_iso": "2025-11-23T06:05:51+00:00",
+      "source": "https://windowsreport.com/google-revisits-jpeg-xl-in-chromium-after-earlier-removal/",
+      "summary": "Article URL: https://windowsreport.com/google-revisits-jpeg-xl-in-chromium-after-earlier-removal/ Comments URL: https://news.ycombinator.com/item?id=46021179 Points: 20 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46020596",
+      "title": "A cryptography research body held an election and they can't decrypt the results",
+      "slug": "2025-11-23-a-cryptography-research-body-held-an-election-and-they-can-t-decrypt-the-results.html",
+      "path": "posts/2025-11-23-a-cryptography-research-body-held-an-election-and-they-can-t-decrypt-the-results.html",
+      "date_iso": "2025-11-23T03:47:17+00:00",
+      "source": "https://www.nytimes.com/2025/11/21/world/cryptography-group-lost-election-results.html",
+      "summary": "https://archive.is/NOnfx Comments URL: https://news.ycombinator.com/item?id=46020596 Points: 45 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46020543",
+      "title": "Unusual circuits in the Intel 386's standard cell logic",
+      "slug": "2025-11-23-unusual-circuits-in-the-intel-386-s-standard-cell-logic.html",
+      "path": "posts/2025-11-23-unusual-circuits-in-the-intel-386-s-standard-cell-logic.html",
+      "date_iso": "2025-11-23T03:33:42+00:00",
+      "source": "https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html",
+      "summary": "Article URL: https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html Comments URL: https://news.ycombinator.com/item?id=46020543 Points: 61 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46020151",
+      "title": "GCC SC approves inclusion of Algol 68 Front End",
+      "slug": "2025-11-23-gcc-sc-approves-inclusion-of-algol-68-front-end.html",
+      "path": "posts/2025-11-23-gcc-sc-approves-inclusion-of-algol-68-front-end.html",
+      "date_iso": "2025-11-23T02:18:03+00:00",
+      "source": "https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html",
+      "summary": "Article URL: https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html Comments URL: https://news.ycombinator.com/item?id=46020151 Points: 91 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46020096",
+      "title": "An Economy of AI Agents",
+      "slug": "2025-11-23-an-economy-of-ai-agents.html",
+      "path": "posts/2025-11-23-an-economy-of-ai-agents.html",
+      "date_iso": "2025-11-23T02:08:00+00:00",
+      "source": "https://arxiv.org/abs/2509.01063",
+      "summary": "Article URL: https://arxiv.org/abs/2509.01063 Comments URL: https://news.ycombinator.com/item?id=46020096 Points: 49 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46019817",
+      "title": "Meta buried 'causal' evidence of social media harm, US court filings allege",
+      "slug": "2025-11-23-meta-buried-causal-evidence-of-social-media-harm-us-court-filings-allege.html",
+      "path": "posts/2025-11-23-meta-buried-causal-evidence-of-social-media-harm-us-court-filings-allege.html",
+      "date_iso": "2025-11-23T01:09:47+00:00",
+      "source": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-buried-causal-evidence-social-media-harm-us-court-filings-allege-2025-11-23/",
+      "summary": "Article URL: https://www.reuters.com/sustainability/boards-policy-regulation/meta-buried-causal-evidence-social-media-harm-us-court-filings-allege-2025-11-23/ Comments URL: https://news.ycombinator.com/item?id=46019817 Points: 232 # Comments: 79"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46019685",
+      "title": "A monopoly ISP refuses to fix upstream infrastructure",
+      "slug": "2025-11-23-a-monopoly-isp-refuses-to-fix-upstream-infrastructure.html",
+      "path": "posts/2025-11-23-a-monopoly-isp-refuses-to-fix-upstream-infrastructure.html",
+      "date_iso": "2025-11-23T00:46:53+00:00",
+      "source": "https://sacbear.com/xfinity-wont-fix-internet/",
+      "summary": "Article URL: https://sacbear.com/xfinity-wont-fix-internet/ Comments URL: https://news.ycombinator.com/item?id=46019685 Points: 178 # Comments: 66"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46019636",
+      "title": "NTSB report: Decryption of images from the Titan submersible camera [pdf] (2024)",
+      "slug": "2025-11-23-ntsb-report-decryption-of-images-from-the-titan-submersible-camera-pdf-2024.html",
+      "path": "posts/2025-11-23-ntsb-report-decryption-of-images-from-the-titan-submersible-camera-pdf-2024.html",
+      "date_iso": "2025-11-23T00:35:27+00:00",
+      "source": "https://data.ntsb.gov/Docket/Document/docBLOB?ID=18741602&FileExtension=pdf&FileName=Underwater%20Camera%20-%20Specialist%27s%20Factual%20Report-Rel.pdf",
+      "summary": "Article URL: https://data.ntsb.gov/Docket/Document/docBLOB?ID=18741602&amp;FileExtension=pdf&amp;FileName=Underwater%20Camera%20-%20Specialist%27s%20Factual%20Report-Rel.pdf Comments URL: https://news.ycombinator.com/item?id=46019636 Points: 97 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46019168",
+      "title": "How to Spot a Counterfeit Lithium-Ion Battery",
+      "slug": "2025-11-22-how-to-spot-a-counterfeit-lithium-ion-battery.html",
+      "path": "posts/2025-11-22-how-to-spot-a-counterfeit-lithium-ion-battery.html",
+      "date_iso": "2025-11-22T23:08:57+00:00",
+      "source": "https://spectrum.ieee.org/counterfeit-lithium-ion-batteries",
+      "summary": "Article URL: https://spectrum.ieee.org/counterfeit-lithium-ion-batteries Comments URL: https://news.ycombinator.com/item?id=46019168 Points: 64 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46018664",
+      "title": "Windows ARM64 Internals: Deconstructing Pointer Authentication",
+      "slug": "2025-11-22-windows-arm64-internals-deconstructing-pointer-authentication.html",
+      "path": "posts/2025-11-22-windows-arm64-internals-deconstructing-pointer-authentication.html",
+      "date_iso": "2025-11-22T22:03:29+00:00",
+      "source": "https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing-pointer-authentication",
+      "summary": "Article URL: https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing-pointer-authentication Comments URL: https://news.ycombinator.com/item?id=46018664 Points: 57 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46018380",
+      "title": "WorldGen – Text to Immersive 3D Worlds",
+      "slug": "2025-11-22-worldgen-text-to-immersive-3d-worlds.html",
+      "path": "posts/2025-11-22-worldgen-text-to-immersive-3d-worlds.html",
+      "date_iso": "2025-11-22T21:20:24+00:00",
+      "source": "https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/",
+      "summary": "Article URL: https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/ Comments URL: https://news.ycombinator.com/item?id=46018380 Points: 186 # Comments: 59"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/22/us/folotoy-ai-bear-suspended-explicit-advice.html",
+      "title": "A.I. Toy Bear Speaks of Sex, Knives and Pills, Consumer Group Warns",
+      "slug": "2025-11-22-a-i-toy-bear-speaks-of-sex-knives-and-pills-consumer-group-warns.html",
+      "path": "posts/2025-11-22-a-i-toy-bear-speaks-of-sex-knives-and-pills-consumer-group-warns.html",
+      "date_iso": "2025-11-22T21:10:46+00:00",
+      "source": "https://www.nytimes.com/2025/11/22/us/folotoy-ai-bear-suspended-explicit-advice.html",
+      "summary": "A screen shot of the FoloToy website, advertising its A.I.-enabled stuffed bear, named Kumma."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46018165",
+      "title": "Show HN: Build the habit of writing meaningful commit messages",
+      "slug": "2025-11-22-show-hn-build-the-habit-of-writing-meaningful-commit-messages.html",
+      "path": "posts/2025-11-22-show-hn-build-the-habit-of-writing-meaningful-commit-messages.html",
+      "date_iso": "2025-11-22T20:54:35+00:00",
+      "source": "https://github.com/arpxspace/smartcommit",
+      "summary": "Too often I find myself being lazy with commit messages. But I don't want AI to write them for me... only i truly know why i wrote the code i did. So why don't i get AI to help me get that into words from my head? That's what i built: smartcommit asks you questions about your ch…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46018158",
+      "title": "A Reverse Engineer's Anatomy of the macOS Boot Chain and Security Architecture",
+      "slug": "2025-11-22-a-reverse-engineer-s-anatomy-of-the-macos-boot-chain-and-security-architecture.html",
+      "path": "posts/2025-11-22-a-reverse-engineer-s-anatomy-of-the-macos-boot-chain-and-security-architecture.html",
+      "date_iso": "2025-11-22T20:54:02+00:00",
+      "source": "https://stack.int.mov/a-reverse-engineers-anatomy-of-the-macos-boot-chain-security-architecture/",
+      "summary": "Article URL: https://stack.int.mov/a-reverse-engineers-anatomy-of-the-macos-boot-chain-security-architecture/ Comments URL: https://news.ycombinator.com/item?id=46018158 Points: 97 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46017782",
+      "title": "Markdown is holding you back",
+      "slug": "2025-11-22-markdown-is-holding-you-back.html",
+      "path": "posts/2025-11-22-markdown-is-holding-you-back.html",
+      "date_iso": "2025-11-22T20:03:14+00:00",
+      "source": "https://newsletter.bphogan.com/archive/issue-45-markdown-is-holding-you-back/",
+      "summary": "Article URL: https://newsletter.bphogan.com/archive/issue-45-markdown-is-holding-you-back/ Comments URL: https://news.ycombinator.com/item?id=46017782 Points: 86 # Comments: 60"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46017175",
+      "title": "Show HN: Forty.News – Daily news, but on a 40-year delay",
+      "slug": "2025-11-22-show-hn-forty-news-daily-news-but-on-a-40-year-delay.html",
+      "path": "posts/2025-11-22-show-hn-forty-news-daily-news-but-on-a-40-year-delay.html",
+      "date_iso": "2025-11-22T18:47:08+00:00",
+      "source": "https://forty.news",
+      "summary": "This started as a reaction to a conversational trope. Despite being a tranquil place, even conversations at my yoga studio often start with, \"Can you believe what's going on right now?\" with that angry/scared undertone. I'm a news avoider, so I usually feel some smug self-satisf…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46016639",
+      "title": "China reaches energy milestone by \"breeding\" uranium from thorium",
+      "slug": "2025-11-22-china-reaches-energy-milestone-by-breeding-uranium-from-thorium.html",
+      "path": "posts/2025-11-22-china-reaches-energy-milestone-by-breeding-uranium-from-thorium.html",
+      "date_iso": "2025-11-22T17:49:27+00:00",
+      "source": "https://www.scmp.com/news/china/science/article/3331312/china-reaches-energy-independence-milestone-breeding-uranium-thorium",
+      "summary": "https://archive.is/DQpXM https://www.stdaily.com/web/English/2025-11/17/content_43298... Comments URL: https://news.ycombinator.com/item?id=46016639 Points: 255 # Comments: 196"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46016613",
+      "title": "The realities of being a pop star",
+      "slug": "2025-11-22-the-realities-of-being-a-pop-star.html",
+      "path": "posts/2025-11-22-the-realities-of-being-a-pop-star.html",
+      "date_iso": "2025-11-22T17:47:23+00:00",
+      "source": "https://itscharlibb.substack.com/p/the-realities-of-being-a-pop-star",
+      "summary": "Article URL: https://itscharlibb.substack.com/p/the-realities-of-being-a-pop-star Comments URL: https://news.ycombinator.com/item?id=46016613 Points: 183 # Comments: 96"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46016249",
+      "title": "The privacy nightmare of browser fingerprinting",
+      "slug": "2025-11-22-the-privacy-nightmare-of-browser-fingerprinting.html",
+      "path": "posts/2025-11-22-the-privacy-nightmare-of-browser-fingerprinting.html",
+      "date_iso": "2025-11-22T17:08:36+00:00",
+      "source": "https://kevinboone.me/fingerprinting.html",
+      "summary": "Article URL: https://kevinboone.me/fingerprinting.html Comments URL: https://news.ycombinator.com/item?id=46016249 Points: 509 # Comments: 311"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46013935",
+      "title": "Agent design is still hard",
+      "slug": "2025-11-22-agent-design-is-still-hard.html",
+      "path": "posts/2025-11-22-agent-design-is-still-hard.html",
+      "date_iso": "2025-11-22T11:27:24+00:00",
+      "source": "https://lucumr.pocoo.org/2025/11/21/agents-are-hard/",
+      "summary": "Article URL: https://lucumr.pocoo.org/2025/11/21/agents-are-hard/ Comments URL: https://news.ycombinator.com/item?id=46013935 Points: 373 # Comments: 216"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46012328",
       "title": "Superman copy found in mum's attic is most valuable comic ever at $9.12M",
       "slug": "2025-11-22-superman-copy-found-in-mum-s-attic-is-most-valuable-comic-ever-at-9-12m.html",
@@ -125,6 +305,15 @@
       "date_iso": "2025-11-21T20:43:22+00:00",
       "source": "https://www.nytimes.com/2025/11/21/technology/google-ad-tech-closing.html",
       "summary": "Judge Brinkema’s decision could restructure Google’s business as the company races to develop better artificial intelligence than its rivals and successfully weave the technology into its suite of products."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46008332",
+      "title": "We Induced Smells With Ultrasound",
+      "slug": "2025-11-21-we-induced-smells-with-ultrasound.html",
+      "path": "posts/2025-11-21-we-induced-smells-with-ultrasound.html",
+      "date_iso": "2025-11-21T20:02:45+00:00",
+      "source": "https://writetobrain.com/olfactory",
+      "summary": "Article URL: https://writetobrain.com/olfactory Comments URL: https://news.ycombinator.com/item?id=46008332 Points: 398 # Comments: 102"
     },
     {
       "id": "https://news.ycombinator.com/item?id=46008156",
