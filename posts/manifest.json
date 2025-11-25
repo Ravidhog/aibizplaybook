@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46042946",
+      "title": "Most Stable Raspberry Pi? 81% Better NTP with Thermal Management",
+      "slug": "2025-11-25-most-stable-raspberry-pi-81-better-ntp-with-thermal-management.html",
+      "path": "posts/2025-11-25-most-stable-raspberry-pi-81-better-ntp-with-thermal-management.html",
+      "date_iso": "2025-11-25T06:35:59+00:00",
+      "source": "https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/",
+      "summary": "Article URL: https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/ Comments URL: https://news.ycombinator.com/item?id=46042946 Points: 6 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46042928",
+      "title": "Human brains are preconfigured with instructions for understanding the world",
+      "slug": "2025-11-25-human-brains-are-preconfigured-with-instructions-for-understanding-the-world.html",
+      "path": "posts/2025-11-25-human-brains-are-preconfigured-with-instructions-for-understanding-the-world.html",
+      "date_iso": "2025-11-25T06:31:31+00:00",
+      "source": "https://news.ucsc.edu/2025/11/sharf-preconfigured-brain/",
+      "summary": "Article URL: https://news.ucsc.edu/2025/11/sharf-preconfigured-brain/ Comments URL: https://news.ycombinator.com/item?id=46042928 Points: 17 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46042800",
+      "title": "Why I (Still) Love Linux ?",
+      "slug": "2025-11-25-why-i-still-love-linux.html",
+      "path": "posts/2025-11-25-why-i-still-love-linux.html",
+      "date_iso": "2025-11-25T06:07:34+00:00",
+      "source": "https://it-notes.dragas.net/2025/11/24/why-i-still-love-linux/",
+      "summary": "Article URL: https://it-notes.dragas.net/2025/11/24/why-i-still-love-linux/ Comments URL: https://news.ycombinator.com/item?id=46042800 Points: 4 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46042655",
+      "title": "Windows GUI – Good, Bad and Pretty Ugly (2023)",
+      "slug": "2025-11-25-windows-gui-good-bad-and-pretty-ugly-2023.html",
+      "path": "posts/2025-11-25-windows-gui-good-bad-and-pretty-ugly-2023.html",
+      "date_iso": "2025-11-25T05:33:44+00:00",
+      "source": "https://creolened.com/windows-gui-good-bad-and-pretty-ugly-ranked/",
+      "summary": "Article URL: https://creolened.com/windows-gui-good-bad-and-pretty-ugly-ranked/ Comments URL: https://news.ycombinator.com/item?id=46042655 Points: 21 # Comments: 19"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/24/technology/realpage-doj-settlement.html",
+      "title": "RealPage Agrees to Settle Federal Rent-Collusion Case",
+      "slug": "2025-11-25-realpage-agrees-to-settle-federal-rent-collusion-case.html",
+      "path": "posts/2025-11-25-realpage-agrees-to-settle-federal-rent-collusion-case.html",
+      "date_iso": "2025-11-25T00:39:53+00:00",
+      "source": "https://www.nytimes.com/2025/11/24/technology/realpage-doj-settlement.html",
+      "summary": "“With the rise of algorithmic and artificial intelligence tools, we will remain at the forefront of vigorous antitrust enforcement,” said Gail Slater, the head of the Justice Department’s antitrust division."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/24/business/automakers-rare-earth-minerals-magnets.html",
+      "title": "An Auto Holy Grail: Motors That Don’t Rely on Chinese Rare Earths",
+      "slug": "2025-11-24-an-auto-holy-grail-motors-that-don-t-rely-on-chinese-rare-earths.html",
+      "path": "posts/2025-11-24-an-auto-holy-grail-motors-that-don-t-rely-on-chinese-rare-earths.html",
+      "date_iso": "2025-11-24T20:39:03+00:00",
+      "source": "https://www.nytimes.com/2025/11/24/business/automakers-rare-earth-minerals-magnets.html",
+      "summary": "Weary of being captive to geopolitics, car companies are looking for ways to replace powerful rare-earth magnets in electric motors."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46038143",
+      "title": "PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage",
+      "slug": "2025-11-24-ps5-now-costs-less-than-64gb-of-ddr5-memory-ram-jumps-to-600-due-to-shortage.html",
+      "path": "posts/2025-11-24-ps5-now-costs-less-than-64gb-of-ddr5-memory-ram-jumps-to-600-due-to-shortage.html",
+      "date_iso": "2025-11-24T19:29:12+00:00",
+      "source": "https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026",
+      "summary": "Article URL: https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026 Comments URL: https://news.ycombinator.com/ite…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46038099",
+      "title": "Unpowered SSDs slowly lose data",
+      "slug": "2025-11-24-unpowered-ssds-slowly-lose-data.html",
+      "path": "posts/2025-11-24-unpowered-ssds-slowly-lose-data.html",
+      "date_iso": "2025-11-24T19:25:25+00:00",
+      "source": "https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/",
+      "summary": "Article URL: https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/ Comments URL: https://news.ycombinator.com/item?id=46038099 Points: 365 # Comments: 159"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46038047",
+      "title": "Claude Advanced Tool Use",
+      "slug": "2025-11-24-claude-advanced-tool-use.html",
+      "path": "posts/2025-11-24-claude-advanced-tool-use.html",
+      "date_iso": "2025-11-24T19:21:35+00:00",
+      "source": "https://www.anthropic.com/engineering/advanced-tool-use",
+      "summary": "Article URL: https://www.anthropic.com/engineering/advanced-tool-use Comments URL: https://news.ycombinator.com/item?id=46038047 Points: 454 # Comments: 171"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46037637",
+      "title": "Claude Opus 4.5",
+      "slug": "2025-11-24-claude-opus-4-5.html",
+      "path": "posts/2025-11-24-claude-opus-4-5.html",
+      "date_iso": "2025-11-24T18:53:05+00:00",
+      "source": "https://www.anthropic.com/news/claude-opus-4-5",
+      "summary": "https://platform.claude.com/docs/en/about-claude/models/what... Comments URL: https://news.ycombinator.com/item?id=46037637 Points: 883 # Comments: 400"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46037626",
+      "title": "Pebble Watch software is now 100% open source",
+      "slug": "2025-11-24-pebble-watch-software-is-now-100-open-source.html",
+      "path": "posts/2025-11-24-pebble-watch-software-is-now-100-open-source.html",
+      "date_iso": "2025-11-24T18:52:12+00:00",
+      "source": "https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source",
+      "summary": "Article URL: https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source Comments URL: https://news.ycombinator.com/item?id=46037626 Points: 858 # Comments: 137"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46037591",
+      "title": "Google's new 'Aluminium OS' project brings Android to PC",
+      "slug": "2025-11-24-google-s-new-aluminium-os-project-brings-android-to-pc.html",
+      "path": "posts/2025-11-24-google-s-new-aluminium-os-project-brings-android-to-pc.html",
+      "date_iso": "2025-11-24T18:49:47+00:00",
+      "source": "https://www.androidauthority.com/aluminium-os-android-for-pcs-3619092/",
+      "summary": "Article URL: https://www.androidauthority.com/aluminium-os-android-for-pcs-3619092/ Comments URL: https://news.ycombinator.com/item?id=46037591 Points: 101 # Comments: 121"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46037343",
+      "title": "The Bitter Lesson of LLM Extensions",
+      "slug": "2025-11-24-the-bitter-lesson-of-llm-extensions.html",
+      "path": "posts/2025-11-24-the-bitter-lesson-of-llm-extensions.html",
+      "date_iso": "2025-11-24T18:32:27+00:00",
+      "source": "https://www.sawyerhood.com/blog/llm-extension",
+      "summary": "Article URL: https://www.sawyerhood.com/blog/llm-extension Comments URL: https://news.ycombinator.com/item?id=46037343 Points: 105 # Comments: 53"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46036908",
+      "title": "Show HN: I built an interactive HN Simulator",
+      "slug": "2025-11-24-show-hn-i-built-an-interactive-hn-simulator.html",
+      "path": "posts/2025-11-24-show-hn-i-built-an-interactive-hn-simulator.html",
+      "date_iso": "2025-11-24T17:52:43+00:00",
+      "source": "https://news.ysimulator.run/news",
+      "summary": "Hey HN! Just for fun, I built an interactive Hacker News Simulator. You can submit text posts and links, just like the real HN. But on HN Simulator, all of the comments are generated by LLMs + generate instantly. The best way to use it (IMHO) is to submit a text post or a curl-a…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46036895",
+      "title": "Cool-retro-term: terminal emulator which mimics look and feel of CRTs",
+      "slug": "2025-11-24-cool-retro-term-terminal-emulator-which-mimics-look-and-feel-of-crts.html",
+      "path": "posts/2025-11-24-cool-retro-term-terminal-emulator-which-mimics-look-and-feel-of-crts.html",
+      "date_iso": "2025-11-24T17:52:01+00:00",
+      "source": "https://github.com/Swordfish90/cool-retro-term",
+      "summary": "Article URL: https://github.com/Swordfish90/cool-retro-term Comments URL: https://news.ycombinator.com/item?id=46036895 Points: 209 # Comments: 80"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46036878",
+      "title": "Implications of AI to schools",
+      "slug": "2025-11-24-implications-of-ai-to-schools.html",
+      "path": "posts/2025-11-24-implications-of-ai-to-schools.html",
+      "date_iso": "2025-11-24T17:51:02+00:00",
+      "source": "https://twitter.com/karpathy/status/1993010584175141038",
+      "summary": "https://xcancel.com/karpathy/status/1993010584175141038 Comments URL: https://news.ycombinator.com/item?id=46036878 Points: 176 # Comments: 184"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/24/us/politics/x-twitter-location-maga-controversy.html",
+      "title": "X Displays Users’ Locations, Fueling Scrutiny Over Political Accounts",
+      "slug": "2025-11-24-x-displays-users-locations-fueling-scrutiny-over-political-accounts.html",
+      "path": "posts/2025-11-24-x-displays-users-locations-fueling-scrutiny-over-political-accounts.html",
+      "date_iso": "2025-11-24T16:36:44+00:00",
+      "source": "https://www.nytimes.com/2025/11/24/us/politics/x-twitter-location-maga-controversy.html",
+      "summary": "X announced that it had begun listing additional information about an account’s origin on Saturday."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46033330",
+      "title": "Chrome Jpegxl Issue Reopened",
+      "slug": "2025-11-24-chrome-jpegxl-issue-reopened.html",
+      "path": "posts/2025-11-24-chrome-jpegxl-issue-reopened.html",
+      "date_iso": "2025-11-24T12:23:02+00:00",
+      "source": "https://issues.chromium.org/issues/40168998",
+      "summary": "Article URL: https://issues.chromium.org/issues/40168998 Comments URL: https://news.ycombinator.com/item?id=46033330 Points: 233 # Comments: 86"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46032539",
+      "title": "Shai-Hulud Returns: Over 300 NPM Packages Infected",
+      "slug": "2025-11-24-shai-hulud-returns-over-300-npm-packages-infected.html",
+      "path": "posts/2025-11-24-shai-hulud-returns-over-300-npm-packages-infected.html",
+      "date_iso": "2025-11-24T10:40:22+00:00",
+      "source": "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24",
+      "summary": "https://www.aikido.dev/blog/shai-hulud-strikes-again-hitting-zapier-ensdomains Comments URL: https://news.ycombinator.com/item?id=46032539 Points: 913 # Comments: 709"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46032148",
+      "title": "Fifty Shades of OOP",
+      "slug": "2025-11-24-fifty-shades-of-oop.html",
+      "path": "posts/2025-11-24-fifty-shades-of-oop.html",
+      "date_iso": "2025-11-24T09:40:32+00:00",
+      "source": "https://lesleylai.info/en/fifty_shades_of_oop/",
+      "summary": "Article URL: https://lesleylai.info/en/fifty_shades_of_oop/ Comments URL: https://news.ycombinator.com/item?id=46032148 Points: 83 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46031220",
+      "title": "Build a Compiler in Five Projects",
+      "slug": "2025-11-24-build-a-compiler-in-five-projects.html",
+      "path": "posts/2025-11-24-build-a-compiler-in-five-projects.html",
+      "date_iso": "2025-11-24T07:14:55+00:00",
+      "source": "https://kmicinski.com/functional-programming/2025/11/23/build-a-language/",
+      "summary": "Article URL: https://kmicinski.com/functional-programming/2025/11/23/build-a-language/ Comments URL: https://news.ycombinator.com/item?id=46031220 Points: 87 # Comments: 10"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46031025",
       "title": "Git 3.0 will use main as the default branch",
       "slug": "2025-11-24-git-3-0-will-use-main-as-the-default-branch.html",
@@ -8,6 +197,15 @@
       "date_iso": "2025-11-24T06:37:20+00:00",
       "source": "https://thoughtbot.com/blog/git-3-0-will-use-main-as-the-default-branch",
       "summary": "Article URL: https://thoughtbot.com/blog/git-3-0-will-use-main-as-the-default-branch Comments URL: https://news.ycombinator.com/item?id=46031025 Points: 6 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46030799",
+      "title": "What OpenAI did when ChatGPT users lost touch with reality",
+      "slug": "2025-11-24-what-openai-did-when-chatgpt-users-lost-touch-with-reality.html",
+      "path": "posts/2025-11-24-what-openai-did-when-chatgpt-users-lost-touch-with-reality.html",
+      "date_iso": "2025-11-24T05:58:08+00:00",
+      "source": "https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html",
+      "summary": "Article URL: https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html Comments URL: https://news.ycombinator.com/item?id=46030799 Points: 169 # Comments: 208"
     },
     {
       "id": "https://news.ycombinator.com/item?id=46030750",
@@ -242,6 +440,15 @@
       "date_iso": "2025-11-23T02:08:00+00:00",
       "source": "https://arxiv.org/abs/2509.01063",
       "summary": "Article URL: https://arxiv.org/abs/2509.01063 Comments URL: https://news.ycombinator.com/item?id=46020096 Points: 49 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46019898",
+      "title": "Three Years from GPT-3 to Gemini 3",
+      "slug": "2025-11-23-three-years-from-gpt-3-to-gemini-3.html",
+      "path": "posts/2025-11-23-three-years-from-gpt-3-to-gemini-3.html",
+      "date_iso": "2025-11-23T01:25:17+00:00",
+      "source": "https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini",
+      "summary": "Article URL: https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini Comments URL: https://news.ycombinator.com/item?id=46019898 Points: 251 # Comments: 162"
     },
     {
       "id": "https://news.ycombinator.com/item?id=46019817",
