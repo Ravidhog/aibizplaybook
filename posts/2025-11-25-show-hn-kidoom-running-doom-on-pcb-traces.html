@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: KiDoom – Running DOOM on PCB Traces</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: KiDoom – Running DOOM on PCB Traces</h1>
+    <p><small>Published: 2025-11-25T22:13:35+00:00</small></p>
+  </header>
+
+  <main>
+    <p>I got DOOM running in KiCad by rendering it with PCB traces and footprints instead of pixels.<p>Walls are rendered as PCB_TRACK traces, and entities (enemies, items, player) are actual component footprints - SOT-23 for small items, SOIC-8 for decorations, QFP-64 for enemies and the player.<p>How I did it:<p>Started by patching DOOM's source code to extract vector data directly from the engine. Instead of trying to render 64,000 pixels (which would be impossibly slow), I grab the geometry DOOM already calculates internally - the drawsegs[] array for walls and vissprites[] for entities.<p>Added a field to the vissprite_t structure to capture entity types (MT_SHOTGUY, MT_PLAYER, etc.) during R_ProjectSprite(). This lets me map 150+ entity types to appropriate footprint categories.<p>The DOOM engine sends this vector data over a Unix socket to a Python plugin running in KiCad. The plugin pre-allocates pools of traces and footprints at startup, then just updates their positions each frame instead of creating/destroying objects. Calls pcbnew.Refresh() to update the display.<p>Runs at 10-25 FPS depending on hardware. The bottleneck is KiCad's refresh, not DOOM or the data transfer.<p>Also renders to an SDL window (for actual gameplay) and a Python wireframe window (for debugging), so you get three views running simultaneously.<p>Follow-up: ScopeDoom<p>After getting the wireframe renderer working, I wanted to push it somewhere more physical. Oscilloscopes in X-Y mode are vector displays - feed X coordinates to one channel, Y to the other. I didn't have a function generator, so I used my MacBook's headphone jack instead.<p>The sound card is just a dual-channel DAC at 44.1kHz. Wired 3.5mm jack → 1kΩ resistors → scope CH1 (X) and CH2 (Y). Reused the same vector extraction from KiDoom, but the Python script converts coordinates to ±1V range and streams them as audio samples.<p>Each wall becomes a wireframe box, the scope traces along each line. With ~7,000 points per frame at 44.1kHz, refresh rate is about 6 Hz - slow enough to be a slideshow, but level geometry is clearly recognizable. A 96kHz audio interface or analog scope would improve it significantly (digital scopes do sample-and-hold instead of continuous beam tracing).<p>Links:<p>KiDoom GitHub: <a href="https://github.com/MichaelAyles/KiDoom" rel="nofollow">https://github.com/MichaelAyles/KiDoom</a>, writeup: <a href="https://www.mikeayles.com/#kidoom" rel="nofollow">https://www.mikeayles.com/#kidoom</a><p>ScopeDoom GitHub: <a href="https://github.com/MichaelAyles/ScopeDoom" rel="nofollow">https://github.com/MichaelAyles/ScopeDoom</a>, writeup: <a href="https://www.mikeayles.com/#scopedoom" rel="nofollow">https://www.mikeayles.com/#scopedoom</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46051449">https://news.ycombinator.com/item?id=46051449</a></p>
+<p>Points: 178</p>
+<p># Comments: 19</p>
+    <p><a href="https://www.mikeayles.com/#kidoom" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

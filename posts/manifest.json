@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46053566",
+      "title": "Space Truckin' – The Nostromo (2012)",
+      "slug": "2025-11-26-space-truckin-the-nostromo-2012.html",
+      "path": "posts/2025-11-26-space-truckin-the-nostromo-2012.html",
+      "date_iso": "2025-11-26T02:31:41+00:00",
+      "source": "https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/",
+      "summary": "Article URL: https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/ Comments URL: https://news.ycombinator.com/item?id=46053566 Points: 61 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46053385",
+      "title": "Show HN: A WordPress plugin that rewrites image URLs for near-zero-cost delivery",
+      "slug": "2025-11-26-show-hn-a-wordpress-plugin-that-rewrites-image-urls-for-near-zero-cost-delivery.html",
+      "path": "posts/2025-11-26-show-hn-a-wordpress-plugin-that-rewrites-image-urls-for-near-zero-cost-delivery.html",
+      "date_iso": "2025-11-26T02:05:36+00:00",
+      "source": "https://wordpress.org/plugins/bandwidth-saver/",
+      "summary": "Hi HN, I built a WordPress plugin called Bandwidth Saver. It takes the images your site already has and serves them through Cloudflare R2 and Workers, which means zero egress fees and extremely low storage cost. The goal is to make image delivery fast and cheap without adding an…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46053262",
+      "title": "BebboSSH: SSH2 implementation for Amiga systems (68000, GPLv3)",
+      "slug": "2025-11-26-bebbossh-ssh2-implementation-for-amiga-systems-68000-gplv3.html",
+      "path": "posts/2025-11-26-bebbossh-ssh2-implementation-for-amiga-systems-68000-gplv3.html",
+      "date_iso": "2025-11-26T01:51:26+00:00",
+      "source": "https://franke.ms/git/bebbo/bebbossh",
+      "summary": "Article URL: https://franke.ms/git/bebbo/bebbossh Comments URL: https://news.ycombinator.com/item?id=46053262 Points: 20 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46053017",
+      "title": "Space: 1999 – Special Effects Techniques",
+      "slug": "2025-11-26-space-1999-special-effects-techniques.html",
+      "path": "posts/2025-11-26-space-1999-special-effects-techniques.html",
+      "date_iso": "2025-11-26T01:19:17+00:00",
+      "source": "https://catacombs.space1999.net/main/pguide/upsfx.html",
+      "summary": "Article URL: https://catacombs.space1999.net/main/pguide/upsfx.html Comments URL: https://news.ycombinator.com/item?id=46053017 Points: 29 # Comments: 5"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/25/us/politics/ai-super-pac-anthropic.html",
+      "title": "Fears About A.I. Prompt Talks of Super PACs to Rein In the Industry",
+      "slug": "2025-11-26-fears-about-a-i-prompt-talks-of-super-pacs-to-rein-in-the-industry.html",
+      "path": "posts/2025-11-26-fears-about-a-i-prompt-talks-of-super-pacs-to-rein-in-the-industry.html",
+      "date_iso": "2025-11-26T00:49:43+00:00",
+      "source": "https://www.nytimes.com/2025/11/25/us/politics/ai-super-pac-anthropic.html",
+      "summary": "Jack Clark, a co-founder of Anthropic, an A.I. company that favors more guardrails for the technology. Some of the company’s employees have discussed how to become more involved in political advocacy."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46052685",
+      "title": "CS234: Reinforcement Learning Winter 2025",
+      "slug": "2025-11-26-cs234-reinforcement-learning-winter-2025.html",
+      "path": "posts/2025-11-26-cs234-reinforcement-learning-winter-2025.html",
+      "date_iso": "2025-11-26T00:33:29+00:00",
+      "source": "https://web.stanford.edu/class/cs234/",
+      "summary": "Article URL: https://web.stanford.edu/class/cs234/ Comments URL: https://news.ycombinator.com/item?id=46052685 Points: 68 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46051724",
+      "title": "Notes on the Troubleshooting and Repair of Computer and Video Monitors",
+      "slug": "2025-11-25-notes-on-the-troubleshooting-and-repair-of-computer-and-video-monitors.html",
+      "path": "posts/2025-11-25-notes-on-the-troubleshooting-and-repair-of-computer-and-video-monitors.html",
+      "date_iso": "2025-11-25T22:40:52+00:00",
+      "source": "https://www.repairfaq.org/sam/monfaq.htm",
+      "summary": "Article URL: https://www.repairfaq.org/sam/monfaq.htm Comments URL: https://news.ycombinator.com/item?id=46051724 Points: 34 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46051691",
+      "title": "Reinventing how .NET builds and ships (again)",
+      "slug": "2025-11-25-reinventing-how-net-builds-and-ships-again.html",
+      "path": "posts/2025-11-25-reinventing-how-net-builds-and-ships-again.html",
+      "date_iso": "2025-11-25T22:37:48+00:00",
+      "source": "https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/",
+      "summary": "Article URL: https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/ Comments URL: https://news.ycombinator.com/item?id=46051691 Points: 148 # Comments: 55"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46051449",
+      "title": "Show HN: KiDoom – Running DOOM on PCB Traces",
+      "slug": "2025-11-25-show-hn-kidoom-running-doom-on-pcb-traces.html",
+      "path": "posts/2025-11-25-show-hn-kidoom-running-doom-on-pcb-traces.html",
+      "date_iso": "2025-11-25T22:13:35+00:00",
+      "source": "https://www.mikeayles.com/#kidoom",
+      "summary": "I got DOOM running in KiCad by rendering it with PCB traces and footprints instead of pixels. Walls are rendered as PCB_TRACK traces, and entities (enemies, items, player) are actual component footprints - SOT-23 for small items, SOIC-8 for decorations, QFP-64 for enemies and th…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46051340",
+      "title": "Someone at YouTube Needs Glasses: The Prophecy Has Been Fulfilled",
+      "slug": "2025-11-25-someone-at-youtube-needs-glasses-the-prophecy-has-been-fulfilled.html",
+      "path": "posts/2025-11-25-someone-at-youtube-needs-glasses-the-prophecy-has-been-fulfilled.html",
+      "date_iso": "2025-11-25T22:04:31+00:00",
+      "source": "https://jayd.ml/2025/11/10/someone-at-youtube-needs-glasses-prophecy-fulfilled.html",
+      "summary": "Related: Someone at YouTube needs glasses - https://news.ycombinator.com/item?id=43846487 - April 2025 (694 comments) Comments URL: https://news.ycombinator.com/item?id=46051340 Points: 494 # Comments: 360"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46049932",
+      "title": "A new bridge links the math of infinity to computer science",
+      "slug": "2025-11-25-a-new-bridge-links-the-math-of-infinity-to-computer-science.html",
+      "path": "posts/2025-11-25-a-new-bridge-links-the-math-of-infinity-to-computer-science.html",
+      "date_iso": "2025-11-25T19:53:20+00:00",
+      "source": "https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/",
+      "summary": "Article URL: https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/ Comments URL: https://news.ycombinator.com/item?id=46049932 Points: 163 # Comments: 57"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46049835",
+      "title": "The Bughouse Effect",
+      "slug": "2025-11-25-the-bughouse-effect.html",
+      "path": "posts/2025-11-25-the-bughouse-effect.html",
+      "date_iso": "2025-11-25T19:43:42+00:00",
+      "source": "https://tsvibt.blogspot.com/2025/11/the-bughouse-effect.html",
+      "summary": "Article URL: https://tsvibt.blogspot.com/2025/11/the-bughouse-effect.html Comments URL: https://news.ycombinator.com/item?id=46049835 Points: 27 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46048996",
+      "title": "Google Antigravity exfiltrates data via indirect prompt injection attack",
+      "slug": "2025-11-25-google-antigravity-exfiltrates-data-via-indirect-prompt-injection-attack.html",
+      "path": "posts/2025-11-25-google-antigravity-exfiltrates-data-via-indirect-prompt-injection-attack.html",
+      "date_iso": "2025-11-25T18:31:16+00:00",
+      "source": "https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data",
+      "summary": "Article URL: https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data Comments URL: https://news.ycombinator.com/item?id=46048996 Points: 626 # Comments: 170"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46048252",
+      "title": "Show HN: We built an open source, zero webhooks payment processor",
+      "slug": "2025-11-25-show-hn-we-built-an-open-source-zero-webhooks-payment-processor.html",
+      "path": "posts/2025-11-25-show-hn-we-built-an-open-source-zero-webhooks-payment-processor.html",
+      "date_iso": "2025-11-25T17:33:50+00:00",
+      "source": "https://github.com/flowglad/flowglad",
+      "summary": "Hi HN! For the past bit we’ve been building Flowglad ( https://flowglad.com ) and can now feel it’s just gotten good enough to share with you all: Repo: https://github.com/flowglad/flowglad Demo video: https://www.youtube.com/watch?v=G6H0c1Cd2kU Flowglad is a payment processor t…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46048125",
+      "title": "Ilya Sutskever: We're moving from the age of scaling to the age of research",
+      "slug": "2025-11-25-ilya-sutskever-we-re-moving-from-the-age-of-scaling-to-the-age-of-research.html",
+      "path": "posts/2025-11-25-ilya-sutskever-we-re-moving-from-the-age-of-scaling-to-the-age-of-research.html",
+      "date_iso": "2025-11-25T17:21:52+00:00",
+      "source": "https://www.dwarkesh.com/p/ilya-sutskever-2",
+      "summary": "Article URL: https://www.dwarkesh.com/p/ilya-sutskever-2 Comments URL: https://news.ycombinator.com/item?id=46048125 Points: 264 # Comments: 214"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46047958",
+      "title": "Unifying our mobile and desktop domains",
+      "slug": "2025-11-25-unifying-our-mobile-and-desktop-domains.html",
+      "path": "posts/2025-11-25-unifying-our-mobile-and-desktop-domains.html",
+      "date_iso": "2025-11-25T17:07:06+00:00",
+      "source": "https://techblog.wikimedia.org/2025/11/21/unifying-mobile-and-desktop-domains/",
+      "summary": "Article URL: https://techblog.wikimedia.org/2025/11/21/unifying-mobile-and-desktop-domains/ Comments URL: https://news.ycombinator.com/item?id=46047958 Points: 131 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46047580",
+      "title": "Python is not a great language for data science",
+      "slug": "2025-11-25-python-is-not-a-great-language-for-data-science.html",
+      "path": "posts/2025-11-25-python-is-not-a-great-language-for-data-science.html",
+      "date_iso": "2025-11-25T16:38:57+00:00",
+      "source": "https://blog.genesmindsmachines.com/p/python-is-not-a-great-language-for",
+      "summary": "Article URL: https://blog.genesmindsmachines.com/p/python-is-not-a-great-language-for Comments URL: https://news.ycombinator.com/item?id=46047580 Points: 189 # Comments: 189"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46047053",
+      "title": "New layouts with CSS Subgrid",
+      "slug": "2025-11-25-new-layouts-with-css-subgrid.html",
+      "path": "posts/2025-11-25-new-layouts-with-css-subgrid.html",
+      "date_iso": "2025-11-25T15:57:54+00:00",
+      "source": "https://www.joshwcomeau.com/css/subgrid/",
+      "summary": "Article URL: https://www.joshwcomeau.com/css/subgrid/ Comments URL: https://news.ycombinator.com/item?id=46047053 Points: 151 # Comments: 36"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46046916",
+      "title": "FLUX.2: Frontier Visual Intelligence",
+      "slug": "2025-11-25-flux-2-frontier-visual-intelligence.html",
+      "path": "posts/2025-11-25-flux-2-frontier-visual-intelligence.html",
+      "date_iso": "2025-11-25T15:47:14+00:00",
+      "source": "https://bfl.ai/blog/flux-2",
+      "summary": "Article URL: https://bfl.ai/blog/flux-2 Comments URL: https://news.ycombinator.com/item?id=46046916 Points: 279 # Comments: 82"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46045987",
+      "title": "Launch HN: Onyx (YC W24) – Open-source chat UI",
+      "slug": "2025-11-25-launch-hn-onyx-yc-w24-open-source-chat-ui.html",
+      "path": "posts/2025-11-25-launch-hn-onyx-yc-w24-open-source-chat-ui.html",
+      "date_iso": "2025-11-25T14:20:30+00:00",
+      "source": "https://news.ycombinator.com/item?id=46045987",
+      "summary": "Hey HN, Chris and Yuhong here from Onyx ( https://github.com/onyx-dot-app/onyx ). We’re building an open-source chat that works with any LLM (proprietary + open weight) and gives these LLMs the tools they need to be useful (RAG, web search, MCP, deep research, memory, etc.). Dem…"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/25/magazine/ai-higher-education-students-teachers.html",
+      "title": "I’m a Professor. A.I. Has Changed My Classroom, but Not for the Worse.",
+      "slug": "2025-11-25-i-m-a-professor-a-i-has-changed-my-classroom-but-not-for-the-worse.html",
+      "path": "posts/2025-11-25-i-m-a-professor-a-i-has-changed-my-classroom-but-not-for-the-worse.html",
+      "date_iso": "2025-11-25T13:50:38+00:00",
+      "source": "https://www.nytimes.com/2025/11/25/magazine/ai-higher-education-students-teachers.html",
+      "summary": "My students’ easy access to chatbots forced me to make humanities instruction even more human."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46045385",
+      "title": "Constant-time support coming to LLVM: Protecting cryptographic code",
+      "slug": "2025-11-25-constant-time-support-coming-to-llvm-protecting-cryptographic-code.html",
+      "path": "posts/2025-11-25-constant-time-support-coming-to-llvm-protecting-cryptographic-code.html",
+      "date_iso": "2025-11-25T13:02:06+00:00",
+      "source": "https://blog.trailofbits.com/2025/11/25/constant-time-support-coming-to-llvm-protecting-cryptographic-code-at-the-compiler-level/",
+      "summary": "https://archive.is/tIXt7 Comments URL: https://news.ycombinator.com/item?id=46045385 Points: 65 # Comments: 23"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/25/podcasts/hardfork-the-interview-jimmy-wales.html",
+      "title": "The Interview: How Wikipedia Is Responding to the Culture Wars",
+      "slug": "2025-11-25-the-interview-how-wikipedia-is-responding-to-the-culture-wars.html",
+      "path": "posts/2025-11-25-the-interview-how-wikipedia-is-responding-to-the-culture-wars.html",
+      "date_iso": "2025-11-25T12:00:10+00:00",
+      "source": "https://www.nytimes.com/2025/11/25/podcasts/hardfork-the-interview-jimmy-wales.html",
+      "summary": "Attacks against the site are piling up. Its co-founder says, Trust the process."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/25/travel/what-is-agentic-ai-book-flights.html",
+      "title": "What Is Agentic A.I., and Would You Trust It to Book a Flight?",
+      "slug": "2025-11-25-what-is-agentic-a-i-and-would-you-trust-it-to-book-a-flight.html",
+      "path": "posts/2025-11-25-what-is-agentic-a-i-and-would-you-trust-it-to-book-a-flight.html",
+      "date_iso": "2025-11-25T10:02:34+00:00",
+      "source": "https://www.nytimes.com/2025/11/25/travel/what-is-agentic-ai-book-flights.html",
+      "summary": "New A.I. tools could soon have the power to monitor prices and book without any action from travelers, using their credit card numbers."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/25/technology/chatgpt-holiday-shopping.html",
+      "title": "A.I. Can Do More of Your Shopping This Holiday Season",
+      "slug": "2025-11-25-a-i-can-do-more-of-your-shopping-this-holiday-season.html",
+      "path": "posts/2025-11-25-a-i-can-do-more-of-your-shopping-this-holiday-season.html",
+      "date_iso": "2025-11-25T10:01:58+00:00",
+      "source": "https://www.nytimes.com/2025/11/25/technology/chatgpt-holiday-shopping.html",
+      "summary": "New tools and features from retailers and tech companies use artificial intelligence to help people find gifts and make decisions about their shopping lists."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46042946",
       "title": "Most Stable Raspberry Pi? 81% Better NTP with Thermal Management",
       "slug": "2025-11-25-most-stable-raspberry-pi-81-better-ntp-with-thermal-management.html",

@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: A WordPress plugin that rewrites image URLs for near-zero-cost delivery</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: A WordPress plugin that rewrites image URLs for near-zero-cost delivery</h1>
+    <p><small>Published: 2025-11-26T02:05:36+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hi HN,<p>I built a WordPress plugin called Bandwidth Saver. It takes the images your site already has and serves them through Cloudflare R2 and Workers, which means zero egress fees and extremely low storage cost. The goal is to make image delivery fast and cheap without adding any of the complexity of traditional optimization plugins.<p>The idea is simple. WordPress keeps generating images normally. The plugin rewrites the URLs on the frontend so images are served from a Cloudflare Worker. On the first request, the Worker fetches the original image and stores it in R2. After that, Cloudflare’s edge serves the image from its global cache with no egress charges. There’s no need to preload or sync anything, and if something fails, the original image loads. That’s the entire system.<p>I built this because most image CDN plugins try to do everything: compression, resizing, AI transforms, asset management, custom dashboards, and monthly fees. That’s useful for some users, but it’s unnecessary for most sites that just want their existing media to load faster without breaking the bank. Bandwidth Saver focuses only on delivery, not transformations. It’s intentionally minimal.<p>There are two ways to use it. The plugin is completely free if you want to run your own Cloudflare Worker. I included the Worker code and the steps needed to deploy it. If you don’t want to deal with any Cloudflare setup, there’s a managed option for $2.99 per month that uses my Worker and my R2 bucket. I’m trying to keep it accessible while also covering operational costs.<p>The plugin works with any theme or builder and doesn’t modify the database. It only rewrites URLs on output. WordPress remains the system of record for all media. R2 simply becomes a cheap, durable cache layer backed by Cloudflare’s edge.<p>I’m especially interested in feedback about the approach. Does the fetch-on-first-request model make sense? Is the pricing fair for a plugin of this scope? Should I prioritize allowing users to connect their own R2 buckets or the managed service? And for those with experience in edge compute or CDNs, I would love thoughts on how to improve the Worker or the rewrite strategy.<p>Thanks for reading, happy to answer any questions.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46053385">https://news.ycombinator.com/item?id=46053385</a></p>
+<p>Points: 46</p>
+<p># Comments: 27</p>
+    <p><a href="https://wordpress.org/plugins/bandwidth-saver/" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
