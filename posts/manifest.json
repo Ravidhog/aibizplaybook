@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46066126",
+      "title": "Principles of Vasocomputation",
+      "slug": "2025-11-27-principles-of-vasocomputation.html",
+      "path": "posts/2025-11-27-principles-of-vasocomputation.html",
+      "date_iso": "2025-11-27T05:51:21+00:00",
+      "source": "https://opentheory.net/2023/07/principles-of-vasocomputation-a-unification-of-buddhist-phenomenology-active-inference-and-physical-reflex-part-i/",
+      "summary": "Article URL: https://opentheory.net/2023/07/principles-of-vasocomputation-a-unification-of-buddhist-phenomenology-active-inference-and-physical-reflex-part-i/ Comments URL: https://news.ycombinator.com/item?id=46066126 Points: 3 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46065997",
+      "title": "Show HN: Era – Open-source local sandbox for AI agents",
+      "slug": "2025-11-27-show-hn-era-open-source-local-sandbox-for-ai-agents.html",
+      "path": "posts/2025-11-27-show-hn-era-open-source-local-sandbox-for-ai-agents.html",
+      "date_iso": "2025-11-27T05:28:50+00:00",
+      "source": "https://github.com/BinSquare/ERA",
+      "summary": "Just watched this video by ThePrimeagen ( https://www.youtube.com/watch?v=efwDZw7l2Nk ) about attackers jailbreaking Claude to run cyber attacks. The core issue: AI agents need isolation. We built ERA to fix this – local microVM-based sandboxing for AI-generated code with hardwa…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46065959",
+      "title": "Evaluating Uniform Memory Access Mode on AMD's Turin",
+      "slug": "2025-11-27-evaluating-uniform-memory-access-mode-on-amd-s-turin.html",
+      "path": "posts/2025-11-27-evaluating-uniform-memory-access-mode-on-amd-s-turin.html",
+      "date_iso": "2025-11-27T05:22:28+00:00",
+      "source": "https://chipsandcheese.com/p/evaluating-uniform-memory-access",
+      "summary": "Article URL: https://chipsandcheese.com/p/evaluating-uniform-memory-access Comments URL: https://news.ycombinator.com/item?id=46065959 Points: 3 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46065817",
+      "title": "Music eases surgery and speeds recovery, study finds",
+      "slug": "2025-11-27-music-eases-surgery-and-speeds-recovery-study-finds.html",
+      "path": "posts/2025-11-27-music-eases-surgery-and-speeds-recovery-study-finds.html",
+      "date_iso": "2025-11-27T04:55:57+00:00",
+      "source": "https://www.bbc.com/news/articles/c231dv9zpz3o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c231dv9zpz3o Comments URL: https://news.ycombinator.com/item?id=46065817 Points: 20 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46065698",
+      "title": "Coq: The World's Best Macro Assembler? [pdf] [2013]",
+      "slug": "2025-11-27-coq-the-world-s-best-macro-assembler-pdf-2013.html",
+      "path": "posts/2025-11-27-coq-the-world-s-best-macro-assembler-pdf-2013.html",
+      "date_iso": "2025-11-27T04:34:56+00:00",
+      "source": "https://nickbenton.name/coqasm.pdf",
+      "summary": "Article URL: https://nickbenton.name/coqasm.pdf Comments URL: https://news.ycombinator.com/item?id=46065698 Points: 39 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46065034",
+      "title": "DIY NAS: 2026 Edition",
+      "slug": "2025-11-27-diy-nas-2026-edition.html",
+      "path": "posts/2025-11-27-diy-nas-2026-edition.html",
+      "date_iso": "2025-11-27T02:54:23+00:00",
+      "source": "https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html",
+      "summary": "Article URL: https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html Comments URL: https://news.ycombinator.com/item?id=46065034 Points: 110 # Comments: 38"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46064757",
+      "title": "Penpot: The Open-Source Figma",
+      "slug": "2025-11-27-penpot-the-open-source-figma.html",
+      "path": "posts/2025-11-27-penpot-the-open-source-figma.html",
+      "date_iso": "2025-11-27T02:14:36+00:00",
+      "source": "https://github.com/penpot/penpot",
+      "summary": "Article URL: https://github.com/penpot/penpot Comments URL: https://news.ycombinator.com/item?id=46064757 Points: 159 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46064680",
+      "title": "Functional Data Structures and Algorithms: a Proof Assistant Approach",
+      "slug": "2025-11-27-functional-data-structures-and-algorithms-a-proof-assistant-approach.html",
+      "path": "posts/2025-11-27-functional-data-structures-and-algorithms-a-proof-assistant-approach.html",
+      "date_iso": "2025-11-27T02:04:57+00:00",
+      "source": "https://fdsa-book.net/",
+      "summary": "Article URL: https://fdsa-book.net/ Comments URL: https://news.ycombinator.com/item?id=46064680 Points: 31 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46064571",
+      "title": "Migrating the main Zig repository from GitHub to Codeberg",
+      "slug": "2025-11-27-migrating-the-main-zig-repository-from-github-to-codeberg.html",
+      "path": "posts/2025-11-27-migrating-the-main-zig-repository-from-github-to-codeberg.html",
+      "date_iso": "2025-11-27T01:49:00+00:00",
+      "source": "https://ziglang.org/news/migrating-from-github-to-codeberg/",
+      "summary": "Article URL: https://ziglang.org/news/migrating-from-github-to-codeberg/ Comments URL: https://news.ycombinator.com/item?id=46064571 Points: 456 # Comments: 312"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46064367",
+      "title": "Bonsai_term: A library for building dynamic terminal apps by Jane Street",
+      "slug": "2025-11-27-bonsai-term-a-library-for-building-dynamic-terminal-apps-by-jane-street.html",
+      "path": "posts/2025-11-27-bonsai-term-a-library-for-building-dynamic-terminal-apps-by-jane-street.html",
+      "date_iso": "2025-11-27T01:20:33+00:00",
+      "source": "https://github.com/janestreet/bonsai_term",
+      "summary": "Article URL: https://github.com/janestreet/bonsai_term Comments URL: https://news.ycombinator.com/item?id=46064367 Points: 20 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46064065",
+      "title": "DSP 101 Part 1: An Introductory Course in DSP System Design",
+      "slug": "2025-11-27-dsp-101-part-1-an-introductory-course-in-dsp-system-design.html",
+      "path": "posts/2025-11-27-dsp-101-part-1-an-introductory-course-in-dsp-system-design.html",
+      "date_iso": "2025-11-27T00:42:13+00:00",
+      "source": "https://www.analog.com/en/resources/analog-dialogue/articles/dsp-101-part-1.html",
+      "summary": "Article URL: https://www.analog.com/en/resources/analog-dialogue/articles/dsp-101-part-1.html Comments URL: https://news.ycombinator.com/item?id=46064065 Points: 31 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46063450",
+      "title": "C100 Developer Terminal",
+      "slug": "2025-11-26-c100-developer-terminal.html",
+      "path": "posts/2025-11-26-c100-developer-terminal.html",
+      "date_iso": "2025-11-26T23:22:24+00:00",
+      "source": "https://caligra.com/",
+      "summary": "Article URL: https://caligra.com/ Comments URL: https://news.ycombinator.com/item?id=46063450 Points: 62 # Comments: 58"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46063272",
+      "title": "Running Unsupported iOS on Deprecated Devices",
+      "slug": "2025-11-26-running-unsupported-ios-on-deprecated-devices.html",
+      "path": "posts/2025-11-26-running-unsupported-ios-on-deprecated-devices.html",
+      "date_iso": "2025-11-26T22:57:56+00:00",
+      "source": "https://nyansatan.github.io/run-unsupported-ios/",
+      "summary": "Article URL: https://nyansatan.github.io/run-unsupported-ios/ Comments URL: https://news.ycombinator.com/item?id=46063272 Points: 122 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46063072",
+      "title": "Bring bathroom doors back to hotels",
+      "slug": "2025-11-26-bring-bathroom-doors-back-to-hotels.html",
+      "path": "posts/2025-11-26-bring-bathroom-doors-back-to-hotels.html",
+      "date_iso": "2025-11-26T22:26:36+00:00",
+      "source": "https://bringbackdoors.com/",
+      "summary": "Article URL: https://bringbackdoors.com/ Comments URL: https://news.ycombinator.com/item?id=46063072 Points: 582 # Comments: 452"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46062504",
+      "title": "The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop",
+      "slug": "2025-11-26-the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop.html",
+      "path": "posts/2025-11-26-the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop.html",
+      "date_iso": "2025-11-26T21:25:36+00:00",
+      "source": "https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/",
+      "summary": "Article URL: https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/ Comments URL: https://news.ycombinator.com/item?id=46062504 Points: 394 # Comments: 178"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/26/technology/personaltech/david-lerner-dead.html",
+      "title": "David Lerner, a Mr. Fix-it of Apple Computers, Dies at 72",
+      "slug": "2025-11-26-david-lerner-a-mr-fix-it-of-apple-computers-dies-at-72.html",
+      "path": "posts/2025-11-26-david-lerner-a-mr-fix-it-of-apple-computers-dies-at-72.html",
+      "date_iso": "2025-11-26T21:22:35+00:00",
+      "source": "https://www.nytimes.com/2025/11/26/technology/personaltech/david-lerner-dead.html",
+      "summary": "David Lerner, in suspenders, with Dick Demenus at Tekserve in 2002. The service outlet was featured on “Sex and the City” and was the setting of Tamara Shopsin’s 2021 novel “LaserWriter II.”"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46061682",
+      "title": "S&box is now an open source game engine",
+      "slug": "2025-11-26-s-box-is-now-an-open-source-game-engine.html",
+      "path": "posts/2025-11-26-s-box-is-now-an-open-source-game-engine.html",
+      "date_iso": "2025-11-26T19:58:27+00:00",
+      "source": "https://sbox.game/news/update-25-11-26",
+      "summary": "Article URL: https://sbox.game/news/update-25-11-26 Comments URL: https://news.ycombinator.com/item?id=46061682 Points: 281 # Comments: 93"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46061239",
+      "title": "Alan.app – Add a Border to macOS Active Window",
+      "slug": "2025-11-26-alan-app-add-a-border-to-macos-active-window.html",
+      "path": "posts/2025-11-26-alan-app-add-a-border-to-macos-active-window.html",
+      "date_iso": "2025-11-26T19:12:40+00:00",
+      "source": "https://tyler.io/2025/11/alan/",
+      "summary": "Article URL: https://tyler.io/2025/11/alan/ Comments URL: https://news.ycombinator.com/item?id=46061239 Points: 114 # Comments: 67"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46061208",
+      "title": "Fara-7B: An efficient agentic model for computer use",
+      "slug": "2025-11-26-fara-7b-an-efficient-agentic-model-for-computer-use.html",
+      "path": "posts/2025-11-26-fara-7b-an-efficient-agentic-model-for-computer-use.html",
+      "date_iso": "2025-11-26T19:10:24+00:00",
+      "source": "https://github.com/microsoft/fara",
+      "summary": "Article URL: https://github.com/microsoft/fara Comments URL: https://news.ycombinator.com/item?id=46061208 Points: 111 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46060508",
+      "title": "Gemini CLI Tips and Tricks for Agentic Coding",
+      "slug": "2025-11-26-gemini-cli-tips-and-tricks-for-agentic-coding.html",
+      "path": "posts/2025-11-26-gemini-cli-tips-and-tricks-for-agentic-coding.html",
+      "date_iso": "2025-11-26T18:08:02+00:00",
+      "source": "https://github.com/addyosmani/gemini-cli-tips",
+      "summary": "Article URL: https://github.com/addyosmani/gemini-cli-tips Comments URL: https://news.ycombinator.com/item?id=46060508 Points: 242 # Comments: 84"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46057488",
+      "title": "Voyager 1 is about to reach one light-day from Earth",
+      "slug": "2025-11-26-voyager-1-is-about-to-reach-one-light-day-from-earth.html",
+      "path": "posts/2025-11-26-voyager-1-is-about-to-reach-one-light-day-from-earth.html",
+      "date_iso": "2025-11-26T14:02:46+00:00",
+      "source": "https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/",
+      "summary": "Article URL: https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/ Comments URL: https://news.ycombinator.com/item?id=46057488 Points: 867 # Comments: 305"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/26/technology/personaltech/iphone-google-pixel-smartphone-camera-settings.html",
+      "title": "Take Command of Your Powerful New Smartphone Camera",
+      "slug": "2025-11-26-take-command-of-your-powerful-new-smartphone-camera.html",
+      "path": "posts/2025-11-26-take-command-of-your-powerful-new-smartphone-camera.html",
+      "date_iso": "2025-11-26T14:00:12+00:00",
+      "source": "https://www.nytimes.com/2025/11/26/technology/personaltech/iphone-google-pixel-smartphone-camera-settings.html",
+      "summary": "On iPhone models that include the Camera Control button on the lower-right side, you can scroll through a menu of options for various settings with your thumb and even take the photo with one hand by pressing the button."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46053566",
       "title": "Space Truckin' – The Nostromo (2012)",
       "slug": "2025-11-26-space-truckin-the-nostromo-2012.html",
