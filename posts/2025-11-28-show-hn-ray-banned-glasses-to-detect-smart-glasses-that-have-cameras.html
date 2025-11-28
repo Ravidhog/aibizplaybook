@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Ray-BANNED, Glasses to detect smart-glasses that have cameras</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Ray-BANNED, Glasses to detect smart-glasses that have cameras</h1>
+    <p><small>Published: 2025-11-28T05:52:38+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hi! Recently smart-glasses with cameras like the Meta Ray-bans seem to be getting more popular. As does some people's desire to remove/cover up the recording indicator LED. I wanted to see if there's a way to detect when people are recording with these types of glasses, so a little bit ago I started working this project. I've hit a little bit of a wall though so I'm very much open to ideas!<p>I've written a bunch more on the link (+photos are there), but essentially this uses 2 fingerprinting approaches: 
+- retro-reflectivity of the camera sensor by looking at IR reflections. mixed results here.
+- wireless traffic (primarily BLE, also looking into BTC and wifi)<p>For the latter, I'm currently just using an ESP32, and I can consistently detect when the Meta Raybans are 1) pairing, 2) first powered on, 3) (less consistently) when they're taken out of the charging case. When they do detect something, it plays a little jingle next to your ear.<p>Ideally I want to be able to detect them when they're in use, and not just at boot. I've come across the nRF52840, which seems like it can follow directed BLE traffic beyond the initial broadcast, but from my understanding it would still need to catch the first CONNECT_REQ event regardless. On the bluetooth classic side of things, all the hardware looks really expensive! Any ideas are appreciated. Thanks!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46075882">https://news.ycombinator.com/item?id=46075882</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
+    <p><a href="https://github.com/NullPxl/banrays" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

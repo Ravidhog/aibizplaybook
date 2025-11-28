@@ -1,6 +1,168 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46076150",
+      "title": "GrapheneOS Moving Out of France",
+      "slug": "2025-11-28-grapheneos-moving-out-of-france.html",
+      "path": "posts/2025-11-28-grapheneos-moving-out-of-france.html",
+      "date_iso": "2025-11-28T06:43:13+00:00",
+      "source": "https://xcancel.com/GrapheneOS/status/1993035936800584103",
+      "summary": "Article URL: https://xcancel.com/GrapheneOS/status/1993035936800584103 Comments URL: https://news.ycombinator.com/item?id=46076150 Points: 9 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46075882",
+      "title": "Show HN: Ray-BANNED, Glasses to detect smart-glasses that have cameras",
+      "slug": "2025-11-28-show-hn-ray-banned-glasses-to-detect-smart-glasses-that-have-cameras.html",
+      "path": "posts/2025-11-28-show-hn-ray-banned-glasses-to-detect-smart-glasses-that-have-cameras.html",
+      "date_iso": "2025-11-28T05:52:38+00:00",
+      "source": "https://github.com/NullPxl/banrays",
+      "summary": "Hi! Recently smart-glasses with cameras like the Meta Ray-bans seem to be getting more popular. As does some people's desire to remove/cover up the recording indicator LED. I wanted to see if there's a way to detect when people are recording with these types of glasses, so a lit…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46075628",
+      "title": "TigerStyle: Coding philosophy focused on safety, performance, dev experience",
+      "slug": "2025-11-28-tigerstyle-coding-philosophy-focused-on-safety-performance-dev-experience.html",
+      "path": "posts/2025-11-28-tigerstyle-coding-philosophy-focused-on-safety-performance-dev-experience.html",
+      "date_iso": "2025-11-28T04:53:07+00:00",
+      "source": "https://tigerstyle.dev/",
+      "summary": "Article URL: https://tigerstyle.dev/ Comments URL: https://news.ycombinator.com/item?id=46075628 Points: 37 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46075462",
+      "title": "Migrating to Positron, a next-generation data science IDE for Python and R",
+      "slug": "2025-11-28-migrating-to-positron-a-next-generation-data-science-ide-for-python-and-r.html",
+      "path": "posts/2025-11-28-migrating-to-positron-a-next-generation-data-science-ide-for-python-and-r.html",
+      "date_iso": "2025-11-28T04:15:34+00:00",
+      "source": "https://posit.co/blog/positron-migration-guides",
+      "summary": "Article URL: https://posit.co/blog/positron-migration-guides Comments URL: https://news.ycombinator.com/item?id=46075462 Points: 16 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46075320",
+      "title": "Pocketbase – open-source realtime back end in 1 file",
+      "slug": "2025-11-28-pocketbase-open-source-realtime-back-end-in-1-file.html",
+      "path": "posts/2025-11-28-pocketbase-open-source-realtime-back-end-in-1-file.html",
+      "date_iso": "2025-11-28T03:45:04+00:00",
+      "source": "https://pocketbase.io/",
+      "summary": "Article URL: https://pocketbase.io/ Comments URL: https://news.ycombinator.com/item?id=46075320 Points: 113 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46075305",
+      "title": "China's BEV Trucks and the End of Diesel's Dominance",
+      "slug": "2025-11-28-china-s-bev-trucks-and-the-end-of-diesel-s-dominance.html",
+      "path": "posts/2025-11-28-china-s-bev-trucks-and-the-end-of-diesel-s-dominance.html",
+      "date_iso": "2025-11-28T03:40:52+00:00",
+      "source": "https://cleantechnica.com/2025/11/26/chinas-bev-trucks-and-the-end-of-diesels-dominance/",
+      "summary": "Article URL: https://cleantechnica.com/2025/11/26/chinas-bev-trucks-and-the-end-of-diesels-dominance/ Comments URL: https://news.ycombinator.com/item?id=46075305 Points: 86 # Comments: 53"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46074362",
+      "title": "How Charles M Schulz created Charlie Brown and Snoopy (2024)",
+      "slug": "2025-11-28-how-charles-m-schulz-created-charlie-brown-and-snoopy-2024.html",
+      "path": "posts/2025-11-28-how-charles-m-schulz-created-charlie-brown-and-snoopy-2024.html",
+      "date_iso": "2025-11-28T00:10:38+00:00",
+      "source": "https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy",
+      "summary": "Article URL: https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy Comments URL: https://news.ycombinator.com/item?id=46074362 Points: 118 # Comments: 43"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46074286",
+      "title": "Bird flu viruses are resistant to fever, making them a major threat to humans",
+      "slug": "2025-11-27-bird-flu-viruses-are-resistant-to-fever-making-them-a-major-threat-to-humans.html",
+      "path": "posts/2025-11-27-bird-flu-viruses-are-resistant-to-fever-making-them-a-major-threat-to-humans.html",
+      "date_iso": "2025-11-27T23:57:57+00:00",
+      "source": "https://medicalxpress.com/news/2025-11-bird-flu-viruses-resistant-fever.html",
+      "summary": "Article URL: https://medicalxpress.com/news/2025-11-bird-flu-viruses-resistant-fever.html Comments URL: https://news.ycombinator.com/item?id=46074286 Points: 113 # Comments: 86"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46074183",
+      "title": "ML-KEM Mythbusting",
+      "slug": "2025-11-27-ml-kem-mythbusting.html",
+      "path": "posts/2025-11-27-ml-kem-mythbusting.html",
+      "date_iso": "2025-11-27T23:42:00+00:00",
+      "source": "https://keymaterial.net/2025/11/27/ml-kem-mythbusting/",
+      "summary": "Article URL: https://keymaterial.net/2025/11/27/ml-kem-mythbusting/ Comments URL: https://news.ycombinator.com/item?id=46074183 Points: 22 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46074111",
+      "title": "Vsora Jotunn-8 5nm European inference chip",
+      "slug": "2025-11-27-vsora-jotunn-8-5nm-european-inference-chip.html",
+      "path": "posts/2025-11-27-vsora-jotunn-8-5nm-european-inference-chip.html",
+      "date_iso": "2025-11-27T23:30:11+00:00",
+      "source": "https://vsora.com/products/jotunn-8/",
+      "summary": "Article URL: https://vsora.com/products/jotunn-8/ Comments URL: https://news.ycombinator.com/item?id=46074111 Points: 70 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46073855",
+      "title": "250MWh 'Sand Battery' to start construction in Finland",
+      "slug": "2025-11-27-250mwh-sand-battery-to-start-construction-in-finland.html",
+      "path": "posts/2025-11-27-250mwh-sand-battery-to-start-construction-in-finland.html",
+      "date_iso": "2025-11-27T22:48:44+00:00",
+      "source": "https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/",
+      "summary": "Article URL: https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/ Comments URL: https://news.ycombinator.com/item?id=46073855 Points: 224 # Comments: 125"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46073817",
+      "title": "A programmer-friendly I/O abstraction over io_uring and kqueue (2022)",
+      "slug": "2025-11-27-a-programmer-friendly-i-o-abstraction-over-io-uring-and-kqueue-2022.html",
+      "path": "posts/2025-11-27-a-programmer-friendly-i-o-abstraction-over-io-uring-and-kqueue-2022.html",
+      "date_iso": "2025-11-27T22:41:06+00:00",
+      "source": "https://tigerbeetle.com/blog/2022-11-23-a-friendly-abstraction-over-iouring-and-kqueue/",
+      "summary": "Article URL: https://tigerbeetle.com/blog/2022-11-23-a-friendly-abstraction-over-iouring-and-kqueue/ Comments URL: https://news.ycombinator.com/item?id=46073817 Points: 63 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46073033",
+      "title": "Underrated reasons to be thankful V",
+      "slug": "2025-11-27-underrated-reasons-to-be-thankful-v.html",
+      "path": "posts/2025-11-27-underrated-reasons-to-be-thankful-v.html",
+      "date_iso": "2025-11-27T20:37:51+00:00",
+      "source": "https://dynomight.net/thanks-5/",
+      "summary": "Article URL: https://dynomight.net/thanks-5/ Comments URL: https://news.ycombinator.com/item?id=46073033 Points: 177 # Comments: 77"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46072786",
+      "title": "DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning [pdf]",
+      "slug": "2025-11-27-deepseekmath-v2-towards-self-verifiable-mathematical-reasoning-pdf.html",
+      "path": "posts/2025-11-27-deepseekmath-v2-towards-self-verifiable-mathematical-reasoning-pdf.html",
+      "date_iso": "2025-11-27T20:03:25+00:00",
+      "source": "https://github.com/deepseek-ai/DeepSeek-Math-V2/blob/main/DeepSeekMath_V2.pdf",
+      "summary": "Article URL: https://github.com/deepseek-ai/DeepSeek-Math-V2/blob/main/DeepSeekMath_V2.pdf Comments URL: https://news.ycombinator.com/item?id=46072786 Points: 180 # Comments: 36"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46070668",
+      "title": "Same-day upstream Linux support for Snapdragon 8 Elite Gen 5",
+      "slug": "2025-11-27-same-day-upstream-linux-support-for-snapdragon-8-elite-gen-5.html",
+      "path": "posts/2025-11-27-same-day-upstream-linux-support-for-snapdragon-8-elite-gen-5.html",
+      "date_iso": "2025-11-27T16:19:03+00:00",
+      "source": "https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support",
+      "summary": "Article URL: https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support Comments URL: https://news.ycombinator.com/item?id=46070668 Points: 386 # Comments: 186"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46070203",
+      "title": "GitLab discovers widespread NPM supply chain attack",
+      "slug": "2025-11-27-gitlab-discovers-widespread-npm-supply-chain-attack.html",
+      "path": "posts/2025-11-27-gitlab-discovers-widespread-npm-supply-chain-attack.html",
+      "date_iso": "2025-11-27T15:36:56+00:00",
+      "source": "https://about.gitlab.com/blog/gitlab-discovers-widespread-npm-supply-chain-attack/",
+      "summary": "Article URL: https://about.gitlab.com/blog/gitlab-discovers-widespread-npm-supply-chain-attack/ Comments URL: https://news.ycombinator.com/item?id=46070203 Points: 109 # Comments: 44"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46069048",
+      "title": "TPUs vs. GPUs and why Google is positioned to win AI race in the long term",
+      "slug": "2025-11-27-tpus-vs-gpus-and-why-google-is-positioned-to-win-ai-race-in-the-long-term.html",
+      "path": "posts/2025-11-27-tpus-vs-gpus-and-why-google-is-positioned-to-win-ai-race-in-the-long-term.html",
+      "date_iso": "2025-11-27T13:28:34+00:00",
+      "source": "https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference",
+      "summary": "Article URL: https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference Comments URL: https://news.ycombinator.com/item?id=46069048 Points: 344 # Comments: 247"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/27/technology/writer-silicon-valley-criticism.html",
+      "title": "The Writer Who Dared Criticize Silicon Valley",
+      "slug": "2025-11-27-the-writer-who-dared-criticize-silicon-valley.html",
+      "path": "posts/2025-11-27-the-writer-who-dared-criticize-silicon-valley.html",
+      "date_iso": "2025-11-27T13:10:22+00:00",
+      "source": "https://www.nytimes.com/2025/11/27/technology/writer-silicon-valley-criticism.html",
+      "summary": "Paulina Borsook in Berkeley, Calif. Her 1999 book, “Cyberselfish,” was largely ignored and written off as overly skeptical of Silicon Valley at the time."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46066126",
       "title": "Principles of Vasocomputation",
       "slug": "2025-11-27-principles-of-vasocomputation.html",
@@ -26,6 +188,15 @@
       "date_iso": "2025-11-27T05:22:28+00:00",
       "source": "https://chipsandcheese.com/p/evaluating-uniform-memory-access",
       "summary": "Article URL: https://chipsandcheese.com/p/evaluating-uniform-memory-access Comments URL: https://news.ycombinator.com/item?id=46065959 Points: 3 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46065955",
+      "title": "Tell HN: Happy Thanksgiving",
+      "slug": "2025-11-27-tell-hn-happy-thanksgiving.html",
+      "path": "posts/2025-11-27-tell-hn-happy-thanksgiving.html",
+      "date_iso": "2025-11-27T05:21:16+00:00",
+      "source": "https://news.ycombinator.com/item?id=46065955",
+      "summary": "I’ve been a part of this community for fifteen years. Despite the yearly bemoaning of HN’s quality compared to its mythical past, I’ve found that it’s the one community that has remained steadfast as a source of knowledge, cattiness, and good discussion. Thank you @dang and @tom…"
     },
     {
       "id": "https://news.ycombinator.com/item?id=46065817",
@@ -179,6 +350,15 @@
       "date_iso": "2025-11-26T18:08:02+00:00",
       "source": "https://github.com/addyosmani/gemini-cli-tips",
       "summary": "Article URL: https://github.com/addyosmani/gemini-cli-tips Comments URL: https://news.ycombinator.com/item?id=46060508 Points: 242 # Comments: 84"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46058471",
+      "title": "Feedback doesn't scale",
+      "slug": "2025-11-26-feedback-doesn-t-scale.html",
+      "path": "posts/2025-11-26-feedback-doesn-t-scale.html",
+      "date_iso": "2025-11-26T15:40:14+00:00",
+      "source": "https://another.rodeo/feedback/",
+      "summary": "Article URL: https://another.rodeo/feedback/ Comments URL: https://news.ycombinator.com/item?id=46058471 Points: 148 # Comments: 55"
     },
     {
       "id": "https://news.ycombinator.com/item?id=46057488",
