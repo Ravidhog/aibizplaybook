@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46085344",
+      "title": "The 'S&P 493' reveals a different U.S. economy",
+      "slug": "2025-11-29-the-s-p-493-reveals-a-different-u-s-economy.html",
+      "path": "posts/2025-11-29-the-s-p-493-reveals-a-different-u-s-economy.html",
+      "date_iso": "2025-11-29T05:22:13+00:00",
+      "source": "https://www.msn.com/en-us/money/markets/the-s-p-493-reveals-a-very-different-us-economy/ar-AA1R1VUJ",
+      "summary": "Article URL: https://www.msn.com/en-us/money/markets/the-s-p-493-reveals-a-very-different-us-economy/ar-AA1R1VUJ Comments URL: https://news.ycombinator.com/item?id=46085344 Points: 23 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46084956",
+      "title": "System 7 natively boots on the Mac mini G4",
+      "slug": "2025-11-29-system-7-natively-boots-on-the-mac-mini-g4.html",
+      "path": "posts/2025-11-29-system-7-natively-boots-on-the-mac-mini-g4.html",
+      "date_iso": "2025-11-29T03:26:01+00:00",
+      "source": "https://macos9lives.com/smforum/index.php?topic=7711.0",
+      "summary": "Article URL: https://macos9lives.com/smforum/index.php?topic=7711.0 Comments URL: https://news.ycombinator.com/item?id=46084956 Points: 114 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46084937",
+      "title": "Neato vacuum robots to stop working",
+      "slug": "2025-11-29-neato-vacuum-robots-to-stop-working.html",
+      "path": "posts/2025-11-29-neato-vacuum-robots-to-stop-working.html",
+      "date_iso": "2025-11-29T03:21:47+00:00",
+      "source": "https://support.neatorobotics.com/support/solutions/articles/204000073686-announcement-6th-oct-2025",
+      "summary": "Article URL: https://support.neatorobotics.com/support/solutions/articles/204000073686-announcement-6th-oct-2025 Comments URL: https://news.ycombinator.com/item?id=46084937 Points: 25 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46084535",
+      "title": "Every mathematician has only a few tricks (2020)",
+      "slug": "2025-11-29-every-mathematician-has-only-a-few-tricks-2020.html",
+      "path": "posts/2025-11-29-every-mathematician-has-only-a-few-tricks-2020.html",
+      "date_iso": "2025-11-29T01:37:42+00:00",
+      "source": "https://mathoverflow.net/questions/363119/every-mathematician-has-only-a-few-tricks",
+      "summary": "Article URL: https://mathoverflow.net/questions/363119/every-mathematician-has-only-a-few-tricks Comments URL: https://news.ycombinator.com/item?id=46084535 Points: 59 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46084122",
+      "title": "A triangle whose interior angles sum to zero",
+      "slug": "2025-11-29-a-triangle-whose-interior-angles-sum-to-zero.html",
+      "path": "posts/2025-11-29-a-triangle-whose-interior-angles-sum-to-zero.html",
+      "date_iso": "2025-11-29T00:26:42+00:00",
+      "source": "https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/",
+      "summary": "Article URL: https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/ Comments URL: https://news.ycombinator.com/item?id=46084122 Points: 83 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46083375",
+      "title": "Fabric Project",
+      "slug": "2025-11-28-fabric-project.html",
+      "path": "posts/2025-11-28-fabric-project.html",
+      "date_iso": "2025-11-28T22:32:03+00:00",
+      "source": "https://github.com/Fabric-Project/Fabric",
+      "summary": "Article URL: https://github.com/Fabric-Project/Fabric Comments URL: https://news.ycombinator.com/item?id=46083375 Points: 44 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46083303",
+      "title": "Confessions of a Software Developer: No More Self-Censorship",
+      "slug": "2025-11-28-confessions-of-a-software-developer-no-more-self-censorship.html",
+      "path": "posts/2025-11-28-confessions-of-a-software-developer-no-more-self-censorship.html",
+      "date_iso": "2025-11-28T22:21:25+00:00",
+      "source": "https://kerrick.blog/articles/2025/confessions-of-a-software-developer-no-more-self-censorship/",
+      "summary": "Article URL: https://kerrick.blog/articles/2025/confessions-of-a-software-developer-no-more-self-censorship/ Comments URL: https://news.ycombinator.com/item?id=46083303 Points: 166 # Comments: 159"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46083051",
+      "title": "A first look at Django's new background tasks",
+      "slug": "2025-11-28-a-first-look-at-django-s-new-background-tasks.html",
+      "path": "posts/2025-11-28-a-first-look-at-django-s-new-background-tasks.html",
+      "date_iso": "2025-11-28T21:46:07+00:00",
+      "source": "https://roam.be/notes/2025/a-first-look-at-djangos-new-background-tasks/",
+      "summary": "Article URL: https://roam.be/notes/2025/a-first-look-at-djangos-new-background-tasks/ Comments URL: https://news.ycombinator.com/item?id=46083051 Points: 93 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46083004",
+      "title": "Airbus A320 – intense solar radiation may corrupt data critical for flight",
+      "slug": "2025-11-28-airbus-a320-intense-solar-radiation-may-corrupt-data-critical-for-flight.html",
+      "path": "posts/2025-11-28-airbus-a320-intense-solar-radiation-may-corrupt-data-critical-for-flight.html",
+      "date_iso": "2025-11-28T21:40:21+00:00",
+      "source": "https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action",
+      "summary": "Article URL: https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action Comments URL: https://news.ycombinator.com/item?id=46083004 Points: 231 # Comments: 43"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46082825",
+      "title": "Flight disruption warning as Airbus requests modifications to 6k planes",
+      "slug": "2025-11-28-flight-disruption-warning-as-airbus-requests-modifications-to-6k-planes.html",
+      "path": "posts/2025-11-28-flight-disruption-warning-as-airbus-requests-modifications-to-6k-planes.html",
+      "date_iso": "2025-11-28T21:16:46+00:00",
+      "source": "https://www.bbc.com/news/live/cvg4y6g74ert",
+      "summary": "Article URL: https://www.bbc.com/news/live/cvg4y6g74ert Comments URL: https://news.ycombinator.com/item?id=46082825 Points: 196 # Comments: 85"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46082291",
+      "title": "Electron vs. Tauri",
+      "slug": "2025-11-28-electron-vs-tauri.html",
+      "path": "posts/2025-11-28-electron-vs-tauri.html",
+      "date_iso": "2025-11-28T20:06:30+00:00",
+      "source": "https://www.dolthub.com/blog/2025-11-13-electron-vs-tauri/",
+      "summary": "Article URL: https://www.dolthub.com/blog/2025-11-13-electron-vs-tauri/ Comments URL: https://news.ycombinator.com/item?id=46082291 Points: 51 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46082223",
+      "title": "How good engineers write bad code at big companies",
+      "slug": "2025-11-28-how-good-engineers-write-bad-code-at-big-companies.html",
+      "path": "posts/2025-11-28-how-good-engineers-write-bad-code-at-big-companies.html",
+      "date_iso": "2025-11-28T19:59:32+00:00",
+      "source": "https://www.seangoedecke.com/bad-code-at-big-companies/",
+      "summary": "Article URL: https://www.seangoedecke.com/bad-code-at-big-companies/ Comments URL: https://news.ycombinator.com/item?id=46082223 Points: 293 # Comments: 198"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46082204",
+      "title": "The original ABC language, Python's predecessor (1991)",
+      "slug": "2025-11-28-the-original-abc-language-python-s-predecessor-1991.html",
+      "path": "posts/2025-11-28-the-original-abc-language-python-s-predecessor-1991.html",
+      "date_iso": "2025-11-28T19:58:13+00:00",
+      "source": "https://github.com/gvanrossum/abc-unix",
+      "summary": "Article URL: https://github.com/gvanrossum/abc-unix Comments URL: https://news.ycombinator.com/item?id=46082204 Points: 96 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46081704",
+      "title": "Effective harnesses for long-running agents",
+      "slug": "2025-11-28-effective-harnesses-for-long-running-agents.html",
+      "path": "posts/2025-11-28-effective-harnesses-for-long-running-agents.html",
+      "date_iso": "2025-11-28T19:05:16+00:00",
+      "source": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents",
+      "summary": "Article URL: https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents Comments URL: https://news.ycombinator.com/item?id=46081704 Points: 94 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46081188",
+      "title": "Imgur geo-blocked the UK, so I geo-unblocked my network",
+      "slug": "2025-11-28-imgur-geo-blocked-the-uk-so-i-geo-unblocked-my-network.html",
+      "path": "posts/2025-11-28-imgur-geo-blocked-the-uk-so-i-geo-unblocked-my-network.html",
+      "date_iso": "2025-11-28T18:15:50+00:00",
+      "source": "https://blog.tymscar.com/posts/imgurukproxy/",
+      "summary": "Article URL: https://blog.tymscar.com/posts/imgurukproxy/ Comments URL: https://news.ycombinator.com/item?id=46081188 Points: 344 # Comments: 114"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46081053",
+      "title": "28M Hacker News comments as vector embedding search dataset",
+      "slug": "2025-11-28-28m-hacker-news-comments-as-vector-embedding-search-dataset.html",
+      "path": "posts/2025-11-28-28m-hacker-news-comments-as-vector-embedding-search-dataset.html",
+      "date_iso": "2025-11-28T18:02:04+00:00",
+      "source": "https://clickhouse.com/docs/getting-started/example-datasets/hackernews-vector-search-dataset",
+      "summary": "Article URL: https://clickhouse.com/docs/getting-started/example-datasets/hackernews-vector-search-dataset Comments URL: https://news.ycombinator.com/item?id=46081053 Points: 367 # Comments: 145"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46080916",
+      "title": "Molly: An Improved Signal App",
+      "slug": "2025-11-28-molly-an-improved-signal-app.html",
+      "path": "posts/2025-11-28-molly-an-improved-signal-app.html",
+      "date_iso": "2025-11-28T17:48:25+00:00",
+      "source": "https://molly.im/",
+      "summary": "Article URL: https://molly.im/ Comments URL: https://news.ycombinator.com/item?id=46080916 Points: 298 # Comments: 160"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46080769",
+      "title": "JSON Schema Demystified: Dialects, Vocabularies and Metaschemas",
+      "slug": "2025-11-28-json-schema-demystified-dialects-vocabularies-and-metaschemas.html",
+      "path": "posts/2025-11-28-json-schema-demystified-dialects-vocabularies-and-metaschemas.html",
+      "date_iso": "2025-11-28T17:34:26+00:00",
+      "source": "https://www.iankduncan.com/engineering/2025-11-24-json-schema-demystified/",
+      "summary": "Article URL: https://www.iankduncan.com/engineering/2025-11-24-json-schema-demystified/ Comments URL: https://news.ycombinator.com/item?id=46080769 Points: 65 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46080364",
+      "title": "So you wanna build a local RAG?",
+      "slug": "2025-11-28-so-you-wanna-build-a-local-rag.html",
+      "path": "posts/2025-11-28-so-you-wanna-build-a-local-rag.html",
+      "date_iso": "2025-11-28T16:54:56+00:00",
+      "source": "https://blog.yakkomajuri.com/blog/local-rag",
+      "summary": "Article URL: https://blog.yakkomajuri.com/blog/local-rag Comments URL: https://news.ycombinator.com/item?id=46080364 Points: 257 # Comments: 51"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46080289",
+      "title": "Airloom – 3D Flight Tracker",
+      "slug": "2025-11-28-airloom-3d-flight-tracker.html",
+      "path": "posts/2025-11-28-airloom-3d-flight-tracker.html",
+      "date_iso": "2025-11-28T16:49:12+00:00",
+      "source": "https://objectiveunclear.com/airloom.html",
+      "summary": "Article URL: https://objectiveunclear.com/airloom.html Comments URL: https://news.ycombinator.com/item?id=46080289 Points: 202 # Comments: 65"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/11/28/podcasts/hardfork-iconic-technologies-2025.html",
+      "title": "Hard Fork’s 50 Most Iconic Technologies of 2025",
+      "slug": "2025-11-28-hard-fork-s-50-most-iconic-technologies-of-2025.html",
+      "path": "posts/2025-11-28-hard-fork-s-50-most-iconic-technologies-of-2025.html",
+      "date_iso": "2025-11-28T12:00:03+00:00",
+      "source": "https://www.nytimes.com/2025/11/28/podcasts/hardfork-iconic-technologies-2025.html",
+      "summary": "“You can’t tell the story of 2025 without these icons.”"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46076150",
       "title": "GrapheneOS Moving Out of France",
       "slug": "2025-11-28-grapheneos-moving-out-of-france.html",
