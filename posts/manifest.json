@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46094478",
+      "title": "Jiga (YC W21) Is Hiring Product Designer",
+      "slug": "2025-11-30-jiga-yc-w21-is-hiring-product-designer.html",
+      "path": "posts/2025-11-30-jiga-yc-w21-is-hiring-product-designer.html",
+      "date_iso": "2025-11-30T07:00:40+00:00",
+      "source": "https://www.ycombinator.com/companies/jiga/jobs/Cco7vyK-product-designer-remote-europe",
+      "summary": "Article URL: https://www.ycombinator.com/companies/jiga/jobs/Cco7vyK-product-designer-remote-europe Comments URL: https://news.ycombinator.com/item?id=46094478 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46094465",
+      "title": "The Copenhagen Trap: How the West made passivity the only safe strategy",
+      "slug": "2025-11-30-the-copenhagen-trap-how-the-west-made-passivity-the-only-safe-strategy.html",
+      "path": "posts/2025-11-30-the-copenhagen-trap-how-the-west-made-passivity-the-only-safe-strategy.html",
+      "date_iso": "2025-11-30T06:57:36+00:00",
+      "source": "https://aliveness.kunnas.com/articles/copenhagen-trap",
+      "summary": "Article URL: https://aliveness.kunnas.com/articles/copenhagen-trap Comments URL: https://news.ycombinator.com/item?id=46094465 Points: 3 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46093518",
+      "title": "Zigbook Is Plagiarizing the Zigtools Playground",
+      "slug": "2025-11-30-zigbook-is-plagiarizing-the-zigtools-playground.html",
+      "path": "posts/2025-11-30-zigbook-is-plagiarizing-the-zigtools-playground.html",
+      "date_iso": "2025-11-30T03:54:51+00:00",
+      "source": "https://zigtools.org/blog/zigbook-plagiarizing-playground/",
+      "summary": "Article URL: https://zigtools.org/blog/zigbook-plagiarizing-playground/ Comments URL: https://news.ycombinator.com/item?id=46093518 Points: 103 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46093473",
+      "title": "Show HN: Boing",
+      "slug": "2025-11-30-show-hn-boing.html",
+      "path": "posts/2025-11-30-show-hn-boing.html",
+      "date_iso": "2025-11-30T03:46:35+00:00",
+      "source": "https://boing.greg.technology/",
+      "summary": "Article URL: https://boing.greg.technology/ Comments URL: https://news.ycombinator.com/item?id=46093473 Points: 160 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46092630",
+      "title": "Stopping bad guys from using my open source project (feedback wanted)",
+      "slug": "2025-11-30-stopping-bad-guys-from-using-my-open-source-project-feedback-wanted.html",
+      "path": "posts/2025-11-30-stopping-bad-guys-from-using-my-open-source-project-feedback-wanted.html",
+      "date_iso": "2025-11-30T01:25:43+00:00",
+      "source": "https://evanhahn.com/stopping-bad-guys-from-using-my-open-source-project/",
+      "summary": "Article URL: https://evanhahn.com/stopping-bad-guys-from-using-my-open-source-project/ Comments URL: https://news.ycombinator.com/item?id=46092630 Points: 64 # Comments: 105"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46092558",
+      "title": "Meshtastic",
+      "slug": "2025-11-30-meshtastic.html",
+      "path": "posts/2025-11-30-meshtastic.html",
+      "date_iso": "2025-11-30T01:15:59+00:00",
+      "source": "https://meshtastic.org/",
+      "summary": "Article URL: https://meshtastic.org/ Comments URL: https://news.ycombinator.com/item?id=46092558 Points: 105 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46092478",
+      "title": "A new Little Prince museum has opened its doors in Switzerland",
+      "slug": "2025-11-30-a-new-little-prince-museum-has-opened-its-doors-in-switzerland.html",
+      "path": "posts/2025-11-30-a-new-little-prince-museum-has-opened-its-doors-in-switzerland.html",
+      "date_iso": "2025-11-30T01:03:44+00:00",
+      "source": "https://www.lepetitprince.com/en/events-around-the-world/a-new-little-prince-museum-has-opened-its-doors-in-switzerland/",
+      "summary": "Article URL: https://www.lepetitprince.com/en/events-around-the-world/a-new-little-prince-museum-has-opened-its-doors-in-switzerland/ Comments URL: https://news.ycombinator.com/item?id=46092478 Points: 41 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46092000",
+      "title": "Scala",
+      "slug": "2025-11-29-scala.html",
+      "path": "posts/2025-11-29-scala.html",
+      "date_iso": "2025-11-29T23:51:21+00:00",
+      "source": "https://www.huygens-fokker.org/scala/",
+      "summary": "Article URL: https://www.huygens-fokker.org/scala/ Comments URL: https://news.ycombinator.com/item?id=46092000 Points: 53 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46091591",
+      "title": "Americans no longer see four-year college degrees as worth the cost",
+      "slug": "2025-11-29-americans-no-longer-see-four-year-college-degrees-as-worth-the-cost.html",
+      "path": "posts/2025-11-29-americans-no-longer-see-four-year-college-degrees-as-worth-the-cost.html",
+      "date_iso": "2025-11-29T22:56:14+00:00",
+      "source": "https://www.nbcnews.com/politics/politics-news/poll-dramatic-shift-americans-no-longer-see-four-year-college-degrees-rcna243672",
+      "summary": "Article URL: https://www.nbcnews.com/politics/politics-news/poll-dramatic-shift-americans-no-longer-see-four-year-college-degrees-rcna243672 Comments URL: https://news.ycombinator.com/item?id=46091591 Points: 191 # Comments: 271"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46091362",
+      "title": "Bazzite: The next generation of Linux gaming",
+      "slug": "2025-11-29-bazzite-the-next-generation-of-linux-gaming.html",
+      "path": "posts/2025-11-29-bazzite-the-next-generation-of-linux-gaming.html",
+      "date_iso": "2025-11-29T22:22:24+00:00",
+      "source": "https://bazzite.gg/",
+      "summary": "Article URL: https://bazzite.gg/ Comments URL: https://news.ycombinator.com/item?id=46091362 Points: 346 # Comments: 220"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46090969",
+      "title": "Landlock-Ing Linux",
+      "slug": "2025-11-29-landlock-ing-linux.html",
+      "path": "posts/2025-11-29-landlock-ing-linux.html",
+      "date_iso": "2025-11-29T21:30:53+00:00",
+      "source": "https://blog.prizrak.me/post/landlock/",
+      "summary": "Article URL: https://blog.prizrak.me/post/landlock/ Comments URL: https://news.ycombinator.com/item?id=46090969 Points: 170 # Comments: 59"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46090619",
+      "title": "Show HN: Nano PDF – A CLI Tool to Edit PDFs with Gemini's Nano Banana",
+      "slug": "2025-11-29-show-hn-nano-pdf-a-cli-tool-to-edit-pdfs-with-gemini-s-nano-banana.html",
+      "path": "posts/2025-11-29-show-hn-nano-pdf-a-cli-tool-to-edit-pdfs-with-gemini-s-nano-banana.html",
+      "date_iso": "2025-11-29T20:44:24+00:00",
+      "source": "https://github.com/gavrielc/Nano-PDF",
+      "summary": "The new Gemini 3 Pro Image model (aka Nano Banana) is incredible at generating slides, so I thought it would be fun to build a CLI tool that lets you edit PDF presentations using plain English. The tool converts the page you want to edit into an image, sends it to the model API…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46090433",
+      "title": "All it takes is for one to work out",
+      "slug": "2025-11-29-all-it-takes-is-for-one-to-work-out.html",
+      "path": "posts/2025-11-29-all-it-takes-is-for-one-to-work-out.html",
+      "date_iso": "2025-11-29T20:22:44+00:00",
+      "source": "https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/",
+      "summary": "Article URL: https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/ Comments URL: https://news.ycombinator.com/item?id=46090433 Points: 459 # Comments: 229"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46090294",
+      "title": "The Origins of Scala (2009)",
+      "slug": "2025-11-29-the-origins-of-scala-2009.html",
+      "path": "posts/2025-11-29-the-origins-of-scala-2009.html",
+      "date_iso": "2025-11-29T19:59:12+00:00",
+      "source": "https://www.artima.com/articles/the-origins-of-scala",
+      "summary": "Article URL: https://www.artima.com/articles/the-origins-of-scala Comments URL: https://news.ycombinator.com/item?id=46090294 Points: 66 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46090269",
+      "title": "Learning Feynman's Trick for Integrals",
+      "slug": "2025-11-29-learning-feynman-s-trick-for-integrals.html",
+      "path": "posts/2025-11-29-learning-feynman-s-trick-for-integrals.html",
+      "date_iso": "2025-11-29T19:55:17+00:00",
+      "source": "https://zackyzz.github.io/feynman.html",
+      "summary": "Article URL: https://zackyzz.github.io/feynman.html Comments URL: https://news.ycombinator.com/item?id=46090269 Points: 169 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46090172",
+      "title": "Be Like Clippy",
+      "slug": "2025-11-29-be-like-clippy.html",
+      "path": "posts/2025-11-29-be-like-clippy.html",
+      "date_iso": "2025-11-29T19:41:55+00:00",
+      "source": "https://be-clippy.com/",
+      "summary": "Article URL: https://be-clippy.com/ Comments URL: https://news.ycombinator.com/item?id=46090172 Points: 262 # Comments: 167"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46089394",
+      "title": "Zero knowlege proof of compositeness",
+      "slug": "2025-11-29-zero-knowlege-proof-of-compositeness.html",
+      "path": "posts/2025-11-29-zero-knowlege-proof-of-compositeness.html",
+      "date_iso": "2025-11-29T17:53:57+00:00",
+      "source": "https://www.johndcook.com/blog/2025/11/29/zkp-composite/",
+      "summary": "Article URL: https://www.johndcook.com/blog/2025/11/29/zkp-composite/ Comments URL: https://news.ycombinator.com/item?id=46089394 Points: 101 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46088379",
+      "title": "Testing shows automotive glassbreakers can't break modern automotive glass",
+      "slug": "2025-11-29-testing-shows-automotive-glassbreakers-can-t-break-modern-automotive-glass.html",
+      "path": "posts/2025-11-29-testing-shows-automotive-glassbreakers-can-t-break-modern-automotive-glass.html",
+      "date_iso": "2025-11-29T15:43:58+00:00",
+      "source": "https://www.core77.com/posts/138925/Testing-Shows-Automotive-Glassbreakers-Cant-Break-Modern-Automotive-Glass",
+      "summary": "Article URL: https://www.core77.com/posts/138925/Testing-Shows-Automotive-Glassbreakers-Cant-Break-Modern-Automotive-Glass Comments URL: https://news.ycombinator.com/item?id=46088379 Points: 109 # Comments: 117"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46087616",
+      "title": "Datacenters in space aren't going to work",
+      "slug": "2025-11-29-datacenters-in-space-aren-t-going-to-work.html",
+      "path": "posts/2025-11-29-datacenters-in-space-aren-t-going-to-work.html",
+      "date_iso": "2025-11-29T14:05:53+00:00",
+      "source": "https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/",
+      "summary": "Article URL: https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/ Comments URL: https://news.ycombinator.com/item?id=46087616 Points: 231 # Comments: 201"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46086771",
+      "title": "Leak confirms OpenAI is preparing ads on ChatGPT for public roll out",
+      "slug": "2025-11-29-leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out.html",
+      "path": "posts/2025-11-29-leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out.html",
+      "date_iso": "2025-11-29T11:31:58+00:00",
+      "source": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/",
+      "summary": "https://x.com/btibor91/status/1994714152636690834 https://xcancel.com/btibor91/status/1994714152636690834 Comments URL: https://news.ycombinator.com/item?id=46086771 Points: 616 # Comments: 557"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46085344",
       "title": "The 'S&P 493' reveals a different U.S. economy",
       "slug": "2025-11-29-the-s-p-493-reveals-a-different-u-s-economy.html",
