@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46117900",
+      "title": "Frequently Asked Unicycling Questions",
+      "slug": "2025-12-02-frequently-asked-unicycling-questions.html",
+      "path": "posts/2025-12-02-frequently-asked-unicycling-questions.html",
+      "date_iso": "2025-12-02T05:27:18+00:00",
+      "source": "https://vale.rocks/posts/unicycle-faq",
+      "summary": "Article URL: https://vale.rocks/posts/unicycle-faq Comments URL: https://news.ycombinator.com/item?id=46117900 Points: 18 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46117126",
+      "title": "Decreasing Certificate Lifetimes to 45 Days",
+      "slug": "2025-12-02-decreasing-certificate-lifetimes-to-45-days.html",
+      "path": "posts/2025-12-02-decreasing-certificate-lifetimes-to-45-days.html",
+      "date_iso": "2025-12-02T03:24:44+00:00",
+      "source": "https://letsencrypt.org/2025/12/02/from-90-to-45.html",
+      "summary": "Article URL: https://letsencrypt.org/2025/12/02/from-90-to-45.html Comments URL: https://news.ycombinator.com/item?id=46117126 Points: 65 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46117112",
+      "title": "What will enter the public domain in 2026?",
+      "slug": "2025-12-02-what-will-enter-the-public-domain-in-2026.html",
+      "path": "posts/2025-12-02-what-will-enter-the-public-domain-in-2026.html",
+      "date_iso": "2025-12-02T03:23:10+00:00",
+      "source": "https://publicdomainreview.org/features/entering-the-public-domain/2026/",
+      "summary": "Article URL: https://publicdomainreview.org/features/entering-the-public-domain/2026/ Comments URL: https://news.ycombinator.com/item?id=46117112 Points: 169 # Comments: 46"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46116724",
+      "title": "Reverse math shows why hard problems are hard",
+      "slug": "2025-12-02-reverse-math-shows-why-hard-problems-are-hard.html",
+      "path": "posts/2025-12-02-reverse-math-shows-why-hard-problems-are-hard.html",
+      "date_iso": "2025-12-02T02:35:47+00:00",
+      "source": "https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/",
+      "summary": "Article URL: https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/ Comments URL: https://news.ycombinator.com/item?id=46116724 Points: 66 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46116179",
+      "title": "Notes on Bhutan",
+      "slug": "2025-12-02-notes-on-bhutan.html",
+      "path": "posts/2025-12-02-notes-on-bhutan.html",
+      "date_iso": "2025-12-02T01:30:15+00:00",
+      "source": "https://apropos.substack.com/p/notes-on-bhutan",
+      "summary": "Article URL: https://apropos.substack.com/p/notes-on-bhutan Comments URL: https://news.ycombinator.com/item?id=46116179 Points: 22 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46115682",
+      "title": "Arcee Trinity Mini: US-Trained Moe Model",
+      "slug": "2025-12-02-arcee-trinity-mini-us-trained-moe-model.html",
+      "path": "posts/2025-12-02-arcee-trinity-mini-us-trained-moe-model.html",
+      "date_iso": "2025-12-02T00:31:01+00:00",
+      "source": "https://www.arcee.ai/blog/the-trinity-manifesto?src=hn",
+      "summary": "Article URL: https://www.arcee.ai/blog/the-trinity-manifesto?src=hn Comments URL: https://news.ycombinator.com/item?id=46115682 Points: 51 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46115214",
+      "title": "AI agents find $4.6M in blockchain smart contract exploits",
+      "slug": "2025-12-01-ai-agents-find-4-6m-in-blockchain-smart-contract-exploits.html",
+      "path": "posts/2025-12-01-ai-agents-find-4-6m-in-blockchain-smart-contract-exploits.html",
+      "date_iso": "2025-12-01T23:44:51+00:00",
+      "source": "https://red.anthropic.com/2025/smart-contracts/",
+      "summary": "Article URL: https://red.anthropic.com/2025/smart-contracts/ Comments URL: https://news.ycombinator.com/item?id=46115214 Points: 161 # Comments: 81"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46114599",
+      "title": "Last Week on My Mac: Losing confidence",
+      "slug": "2025-12-01-last-week-on-my-mac-losing-confidence.html",
+      "path": "posts/2025-12-01-last-week-on-my-mac-losing-confidence.html",
+      "date_iso": "2025-12-01T22:56:16+00:00",
+      "source": "https://eclecticlight.co/2025/11/30/last-week-on-my-mac-losing-confidence/",
+      "summary": "Article URL: https://eclecticlight.co/2025/11/30/last-week-on-my-mac-losing-confidence/ Comments URL: https://news.ycombinator.com/item?id=46114599 Points: 370 # Comments: 199"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46114122",
+      "title": "John Giannandrea to retire from Apple",
+      "slug": "2025-12-01-john-giannandrea-to-retire-from-apple.html",
+      "path": "posts/2025-12-01-john-giannandrea-to-retire-from-apple.html",
+      "date_iso": "2025-12-01T22:20:33+00:00",
+      "source": "https://www.apple.com/newsroom/2025/12/john-giannandrea-to-retire-from-apple/",
+      "summary": "Additional reporting: https://www.macrumors.com/2025/12/01/apple-ai-chief-retiring... Comments URL: https://news.ycombinator.com/item?id=46114122 Points: 88 # Comments: 298"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46113092",
+      "title": "Instagram chief orders staff back to the office five days a week in 2026",
+      "slug": "2025-12-01-instagram-chief-orders-staff-back-to-the-office-five-days-a-week-in-2026.html",
+      "path": "posts/2025-12-01-instagram-chief-orders-staff-back-to-the-office-five-days-a-week-in-2026.html",
+      "date_iso": "2025-12-01T20:55:56+00:00",
+      "source": "https://www.businessinsider.com/instagram-chief-adam-mosseri-announces-five-day-office-return-2025-12",
+      "summary": "Article URL: https://www.businessinsider.com/instagram-chief-adam-mosseri-announces-five-day-office-return-2025-12 Comments URL: https://news.ycombinator.com/item?id=46113092 Points: 212 # Comments: 239"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46111469",
+      "title": "Why I stopped using JSON for my APIs",
+      "slug": "2025-12-01-why-i-stopped-using-json-for-my-apis.html",
+      "path": "posts/2025-12-01-why-i-stopped-using-json-for-my-apis.html",
+      "date_iso": "2025-12-01T18:58:50+00:00",
+      "source": "https://aloisdeniel.com/blog/better-than-json",
+      "summary": "Article URL: https://aloisdeniel.com/blog/better-than-json Comments URL: https://news.ycombinator.com/item?id=46111469 Points: 111 # Comments: 125"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46111120",
+      "title": "Durin is a library for reading and writing the Dwarf debugging format",
+      "slug": "2025-12-01-durin-is-a-library-for-reading-and-writing-the-dwarf-debugging-format.html",
+      "path": "posts/2025-12-01-durin-is-a-library-for-reading-and-writing-the-dwarf-debugging-format.html",
+      "date_iso": "2025-12-01T18:35:01+00:00",
+      "source": "https://github.com/tmcgilchrist/durin",
+      "summary": "Article URL: https://github.com/tmcgilchrist/durin Comments URL: https://news.ycombinator.com/item?id=46111120 Points: 65 # Comments: 16"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/01/technology/college-computer-science-ai-boom.html",
+      "title": "College Students Choosing A.I. Majors Over Computer Science",
+      "slug": "2025-12-01-college-students-choosing-a-i-majors-over-computer-science.html",
+      "path": "posts/2025-12-01-college-students-choosing-a-i-majors-over-computer-science.html",
+      "date_iso": "2025-12-01T18:23:33+00:00",
+      "source": "https://www.nytimes.com/2025/12/01/technology/college-computer-science-ai-boom.html",
+      "summary": "At M.I.T., a new program called “artificial intelligence and decision-making” is now the second-most-popular undergraduate major."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46110842",
+      "title": "Ghostty compiled to WASM with xterm.js API compatibility",
+      "slug": "2025-12-01-ghostty-compiled-to-wasm-with-xterm-js-api-compatibility.html",
+      "path": "posts/2025-12-01-ghostty-compiled-to-wasm-with-xterm-js-api-compatibility.html",
+      "date_iso": "2025-12-01T18:17:02+00:00",
+      "source": "https://github.com/coder/ghostty-web",
+      "summary": "Article URL: https://github.com/coder/ghostty-web Comments URL: https://news.ycombinator.com/item?id=46110842 Points: 302 # Comments: 92"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46108941",
+      "title": "Ask HN: Who is hiring? (December 2025)",
+      "slug": "2025-12-01-ask-hn-who-is-hiring-december-2025.html",
+      "path": "posts/2025-12-01-ask-hn-who-is-hiring-december-2025.html",
+      "date_iso": "2025-12-01T16:01:26+00:00",
+      "source": "https://news.ycombinator.com/item?id=46108941",
+      "summary": "Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option. Please only post if you personally are part of the hiring company—no recruiting firms or job boards. One post per comp…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46108940",
+      "title": "Ask HN: Who wants to be hired? (December 2025)",
+      "slug": "2025-12-01-ask-hn-who-wants-to-be-hired-december-2025.html",
+      "path": "posts/2025-12-01-ask-hn-who-wants-to-be-hired-december-2025.html",
+      "date_iso": "2025-12-01T16:01:26+00:00",
+      "source": "https://news.ycombinator.com/item?id=46108940",
+      "summary": "Share your information if you are looking for work. Please use this format: Location: Remote: Willing to relocate: Technologies: Résumé/CV: Email: Please only post if you are personally looking for work. Agencies, recruiters, job boards, and so on, are off topic here. Readers: p…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46108780",
+      "title": "DeepSeek-v3.2: Pushing the frontier of open large language models [pdf]",
+      "slug": "2025-12-01-deepseek-v3-2-pushing-the-frontier-of-open-large-language-models-pdf.html",
+      "path": "posts/2025-12-01-deepseek-v3-2-pushing-the-frontier-of-open-large-language-models-pdf.html",
+      "date_iso": "2025-12-01T15:48:03+00:00",
+      "source": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf",
+      "summary": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2 https://api-docs.deepseek.com/news/news251201 Comments URL: https://news.ycombinator.com/item?id=46108780 Points: 708 # Comments: 347"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46108563",
+      "title": "Google unkills JPEG XL?",
+      "slug": "2025-12-01-google-unkills-jpeg-xl.html",
+      "path": "posts/2025-12-01-google-unkills-jpeg-xl.html",
+      "date_iso": "2025-12-01T15:28:49+00:00",
+      "source": "https://tonisagrista.com/blog/2025/google-unkills-jpegxl/",
+      "summary": "Article URL: https://tonisagrista.com/blog/2025/google-unkills-jpegxl/ Comments URL: https://news.ycombinator.com/item?id=46108563 Points: 294 # Comments: 220"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46108437",
+      "title": "Google, Nvidia, and OpenAI",
+      "slug": "2025-12-01-google-nvidia-and-openai.html",
+      "path": "posts/2025-12-01-google-nvidia-and-openai.html",
+      "date_iso": "2025-12-01T15:18:42+00:00",
+      "source": "https://stratechery.com/2025/google-nvidia-and-openai/",
+      "summary": "Article URL: https://stratechery.com/2025/google-nvidia-and-openai/ Comments URL: https://news.ycombinator.com/item?id=46108437 Points: 174 # Comments: 148"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46107658",
+      "title": "The Penicillin Myth",
+      "slug": "2025-12-01-the-penicillin-myth.html",
+      "path": "posts/2025-12-01-the-penicillin-myth.html",
+      "date_iso": "2025-12-01T14:13:06+00:00",
+      "source": "https://www.asimov.press/p/penicillin-myth",
+      "summary": "Article URL: https://www.asimov.press/p/penicillin-myth Comments URL: https://news.ycombinator.com/item?id=46107658 Points: 160 # Comments: 80"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46107282",
+      "title": "Cartographers have been hiding illustrations inside Switzerland’s maps (2020)",
+      "slug": "2025-12-01-cartographers-have-been-hiding-illustrations-inside-switzerland-s-maps-2020.html",
+      "path": "posts/2025-12-01-cartographers-have-been-hiding-illustrations-inside-switzerland-s-maps-2020.html",
+      "date_iso": "2025-12-01T13:41:15+00:00",
+      "source": "https://eyeondesign.aiga.org/for-decades-cartographers-have-been-hiding-covert-illustrations-inside-of-switzerlands-official-maps/",
+      "summary": "Article URL: https://eyeondesign.aiga.org/for-decades-cartographers-have-been-hiding-covert-illustrations-inside-of-switzerlands-official-maps/ Comments URL: https://news.ycombinator.com/item?id=46107282 Points: 292 # Comments: 55"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46103945",
       "title": "Show HN: CurioQuest – A simple web trivia/fun facts game",
       "slug": "2025-12-01-show-hn-curioquest-a-simple-web-trivia-fun-facts-game.html",
