@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46130798",
+      "title": "AI Is Breaking the Moral Foundation of Modern Society",
+      "slug": "2025-12-03-ai-is-breaking-the-moral-foundation-of-modern-society.html",
+      "path": "posts/2025-12-03-ai-is-breaking-the-moral-foundation-of-modern-society.html",
+      "date_iso": "2025-12-03T06:10:22+00:00",
+      "source": "https://eyeofthesquid.com/ai-is-breaking-the-moral-foundation-of-modern-society-a145d471694f",
+      "summary": "Article URL: https://eyeofthesquid.com/ai-is-breaking-the-moral-foundation-of-modern-society-a145d471694f Comments URL: https://news.ycombinator.com/item?id=46130798 Points: 46 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46130784",
+      "title": "Quad9 DOH HTTP/1.1 Retirement, December 15, 2025",
+      "slug": "2025-12-03-quad9-doh-http-1-1-retirement-december-15-2025.html",
+      "path": "posts/2025-12-03-quad9-doh-http-1-1-retirement-december-15-2025.html",
+      "date_iso": "2025-12-03T06:07:22+00:00",
+      "source": "https://quad9.net/news/blog/doh-http-1-1-retirement/",
+      "summary": "Article URL: https://quad9.net/news/blog/doh-http-1-1-retirement/ Comments URL: https://news.ycombinator.com/item?id=46130784 Points: 15 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46130506",
+      "title": "Sending DMARC reports is somewhat hazardous",
+      "slug": "2025-12-03-sending-dmarc-reports-is-somewhat-hazardous.html",
+      "path": "posts/2025-12-03-sending-dmarc-reports-is-somewhat-hazardous.html",
+      "date_iso": "2025-12-03T05:05:34+00:00",
+      "source": "https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCSendingReportsProblems",
+      "summary": "Article URL: https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCSendingReportsProblems Comments URL: https://news.ycombinator.com/item?id=46130506 Points: 21 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46130335",
+      "title": "Interview with RollerCoaster Tycoon's Creator, Chris Sawyer (2024)",
+      "slug": "2025-12-03-interview-with-rollercoaster-tycoon-s-creator-chris-sawyer-2024.html",
+      "path": "posts/2025-12-03-interview-with-rollercoaster-tycoon-s-creator-chris-sawyer-2024.html",
+      "date_iso": "2025-12-03T04:32:16+00:00",
+      "source": "https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13",
+      "summary": "Article URL: https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13 Comments URL: https://news.ycombinator.com/item?id=46130335 Points: 22 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46130233",
+      "title": "Understanding ECDSA",
+      "slug": "2025-12-03-understanding-ecdsa.html",
+      "path": "posts/2025-12-03-understanding-ecdsa.html",
+      "date_iso": "2025-12-03T04:13:41+00:00",
+      "source": "https://avidthinker.github.io/2025/11/28/understanding-ecdsa/",
+      "summary": "This article is basically an exercise in understanding ECDSA (Elliptic Curve Digital Signature Algorithm) from scratch. All I assume is some basic math and a willingness to pick up a bit of abstract math along the way. I try to explain everything as intuitively as possible, but,…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46130187",
+      "title": "Japanese game devs face font dilemma as license increases from $380 to $20k",
+      "slug": "2025-12-03-japanese-game-devs-face-font-dilemma-as-license-increases-from-380-to-20k.html",
+      "path": "posts/2025-12-03-japanese-game-devs-face-font-dilemma-as-license-increases-from-380-to-20k.html",
+      "date_iso": "2025-12-03T04:03:56+00:00",
+      "source": "https://www.gamesindustry.biz/japanese-devs-face-font-licensing-dilemma-as-leading-provider-increases-annual-plan-price-from-380-to-20000",
+      "summary": "Article URL: https://www.gamesindustry.biz/japanese-devs-face-font-licensing-dilemma-as-leading-provider-increases-annual-plan-price-from-380-to-20000 Comments URL: https://news.ycombinator.com/item?id=46130187 Points: 142 # Comments: 53"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46129476",
+      "title": "Kohler Can Access Pictures from \"End-to-End Encrypted\" Toilet Camera",
+      "slug": "2025-12-03-kohler-can-access-pictures-from-end-to-end-encrypted-toilet-camera.html",
+      "path": "posts/2025-12-03-kohler-can-access-pictures-from-end-to-end-encrypted-toilet-camera.html",
+      "date_iso": "2025-12-03T02:06:25+00:00",
+      "source": "https://varlogsimon.leaflet.pub/3m6zrw6k2bs2p?interactionDrawer=quotes",
+      "summary": "Article URL: https://varlogsimon.leaflet.pub/3m6zrw6k2bs2p?interactionDrawer=quotes Comments URL: https://news.ycombinator.com/item?id=46129476 Points: 139 # Comments: 125"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46128286",
+      "title": "DOOM could have had PC Speaker Music",
+      "slug": "2025-12-02-doom-could-have-had-pc-speaker-music.html",
+      "path": "posts/2025-12-02-doom-could-have-had-pc-speaker-music.html",
+      "date_iso": "2025-12-02T23:19:07+00:00",
+      "source": "https://lenowo.org/viewtopic.php?t=45",
+      "summary": "Article URL: https://lenowo.org/viewtopic.php?t=45 Comments URL: https://news.ycombinator.com/item?id=46128286 Points: 75 # Comments: 48"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46126822",
+      "title": "Delty (YC X25) Is Hiring",
+      "slug": "2025-12-02-delty-yc-x25-is-hiring.html",
+      "path": "posts/2025-12-02-delty-yc-x25-is-hiring.html",
+      "date_iso": "2025-12-02T21:00:59+00:00",
+      "source": "https://www.ycombinator.com/companies/delty/jobs/aPWMaiq-full-stack-software-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/delty/jobs/aPWMaiq-full-stack-software-engineer Comments URL: https://news.ycombinator.com/item?id=46126822 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46126217",
+      "title": "Paged Out",
+      "slug": "2025-12-02-paged-out.html",
+      "path": "posts/2025-12-02-paged-out.html",
+      "date_iso": "2025-12-02T20:14:20+00:00",
+      "source": "https://pagedout.institute",
+      "summary": "Article URL: https://pagedout.institute Comments URL: https://news.ycombinator.com/item?id=46126217 Points: 349 # Comments: 33"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46126141",
+      "title": "Free static site generator for small restaurants and cafes",
+      "slug": "2025-12-02-free-static-site-generator-for-small-restaurants-and-cafes.html",
+      "path": "posts/2025-12-02-free-static-site-generator-for-small-restaurants-and-cafes.html",
+      "date_iso": "2025-12-02T20:08:55+00:00",
+      "source": "https://lite.localcafe.org/",
+      "summary": "Article URL: https://lite.localcafe.org/ Comments URL: https://news.ycombinator.com/item?id=46126141 Points: 117 # Comments: 73"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46125155",
+      "title": "Amazon launches Trainium3",
+      "slug": "2025-12-02-amazon-launches-trainium3.html",
+      "path": "posts/2025-12-02-amazon-launches-trainium3.html",
+      "date_iso": "2025-12-02T19:04:31+00:00",
+      "source": "https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/",
+      "summary": "Article URL: https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/ Comments URL: https://news.ycombinator.com/item?id=46125155 Points: 163 # Comments: 65"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46124324",
+      "title": "IBM CEO says there is 'no way' spending on AI data centers will pay off",
+      "slug": "2025-12-02-ibm-ceo-says-there-is-no-way-spending-on-ai-data-centers-will-pay-off.html",
+      "path": "posts/2025-12-02-ibm-ceo-says-there-is-no-way-spending-on-ai-data-centers-will-pay-off.html",
+      "date_iso": "2025-12-02T18:10:23+00:00",
+      "source": "https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12",
+      "summary": "Article URL: https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12 Comments URL: https://news.ycombinator.com/item?id=46124324 Points: 416 # Comments: 496"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46124267",
+      "title": "Anthropic acquires Bun",
+      "slug": "2025-12-02-anthropic-acquires-bun.html",
+      "path": "posts/2025-12-02-anthropic-acquires-bun.html",
+      "date_iso": "2025-12-02T18:05:44+00:00",
+      "source": "https://bun.com/blog/bun-joins-anthropic",
+      "summary": "Article URL: https://bun.com/blog/bun-joins-anthropic Comments URL: https://news.ycombinator.com/item?id=46124267 Points: 1670 # Comments: 791"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46124205",
+      "title": "100k TPS over a billion rows: the unreasonable effectiveness of SQLite",
+      "slug": "2025-12-02-100k-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html",
+      "path": "posts/2025-12-02-100k-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html",
+      "date_iso": "2025-12-02T17:59:53+00:00",
+      "source": "https://andersmurphy.com/2025/12/02/100000-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html",
+      "summary": "Article URL: https://andersmurphy.com/2025/12/02/100000-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html Comments URL: https://news.ycombinator.com/item?id=46124205 Points: 336 # Comments: 122"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46124179",
+      "title": "School cell phone bans and student achievement",
+      "slug": "2025-12-02-school-cell-phone-bans-and-student-achievement.html",
+      "path": "posts/2025-12-02-school-cell-phone-bans-and-student-achievement.html",
+      "date_iso": "2025-12-02T17:58:11+00:00",
+      "source": "https://www.nber.org/digest/202512/school-cell-phone-bans-and-student-achievement",
+      "summary": "Article URL: https://www.nber.org/digest/202512/school-cell-phone-bans-and-student-achievement Comments URL: https://news.ycombinator.com/item?id=46124179 Points: 129 # Comments: 129"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46121870",
+      "title": "OpenAI declares 'code red' as Google catches up in AI race",
+      "slug": "2025-12-02-openai-declares-code-red-as-google-catches-up-in-ai-race.html",
+      "path": "posts/2025-12-02-openai-declares-code-red-as-google-catches-up-in-ai-race.html",
+      "date_iso": "2025-12-02T15:00:16+00:00",
+      "source": "https://www.theverge.com/news/836212/openai-code-red-chatgpt",
+      "summary": "Article URL: https://www.theverge.com/news/836212/openai-code-red-chatgpt Comments URL: https://news.ycombinator.com/item?id=46121870 Points: 590 # Comments: 654"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/02/business/beta-eve-embraer-electric-planes.html",
+      "title": "Beta Will Sell Motors to Another Electric Aircraft Company",
+      "slug": "2025-12-02-beta-will-sell-motors-to-another-electric-aircraft-company.html",
+      "path": "posts/2025-12-02-beta-will-sell-motors-to-another-electric-aircraft-company.html",
+      "date_iso": "2025-12-02T14:44:00+00:00",
+      "source": "https://www.nytimes.com/2025/12/02/business/beta-eve-embraer-electric-planes.html",
+      "summary": "An electric aircraft made by Beta Technologies, a start-up based in Vermont."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46121539",
+      "title": "Zig's new plan for asynchronous programs",
+      "slug": "2025-12-02-zig-s-new-plan-for-asynchronous-programs.html",
+      "path": "posts/2025-12-02-zig-s-new-plan-for-asynchronous-programs.html",
+      "date_iso": "2025-12-02T14:31:16+00:00",
+      "source": "https://lwn.net/SubscriberLink/1046084/4c048ee008e1c70e/",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1046084/4c048ee008e1c70e/ Comments URL: https://news.ycombinator.com/item?id=46121539 Points: 264 # Comments: 199"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46120611",
+      "title": "Python Data Science Handbook",
+      "slug": "2025-12-02-python-data-science-handbook.html",
+      "path": "posts/2025-12-02-python-data-science-handbook.html",
+      "date_iso": "2025-12-02T12:38:28+00:00",
+      "source": "https://jakevdp.github.io/PythonDataScienceHandbook/",
+      "summary": "Article URL: https://jakevdp.github.io/PythonDataScienceHandbook/ Comments URL: https://news.ycombinator.com/item?id=46120611 Points: 260 # Comments: 47"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46120181",
+      "title": "Addressing the adding situation",
+      "slug": "2025-12-02-addressing-the-adding-situation.html",
+      "path": "posts/2025-12-02-addressing-the-adding-situation.html",
+      "date_iso": "2025-12-02T11:30:29+00:00",
+      "source": "https://xania.org/202512/02-adding-integers",
+      "summary": "Article URL: https://xania.org/202512/02-adding-integers Comments URL: https://news.ycombinator.com/item?id=46120181 Points: 254 # Comments: 91"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/02/technology/artificial-intelligence-amazon-gmail.html",
+      "title": "Silicon Valley Builds Amazon and Gmail Copycats to Train A.I. Agents",
+      "slug": "2025-12-02-silicon-valley-builds-amazon-and-gmail-copycats-to-train-a-i-agents.html",
+      "path": "posts/2025-12-02-silicon-valley-builds-amazon-and-gmail-copycats-to-train-a-i-agents.html",
+      "date_iso": "2025-12-02T10:00:37+00:00",
+      "source": "https://www.nytimes.com/2025/12/02/technology/artificial-intelligence-amazon-gmail.html",
+      "summary": "Several new start-ups are building replicas of sites so A.I. can learn to use the internet and maybe replace white-collar workers."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46117900",
       "title": "Frequently Asked Unicycling Questions",
       "slug": "2025-12-02-frequently-asked-unicycling-questions.html",
@@ -35,6 +233,15 @@
       "date_iso": "2025-12-02T02:35:47+00:00",
       "source": "https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/",
       "summary": "Article URL: https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/ Comments URL: https://news.ycombinator.com/item?id=46116724 Points: 66 # Comments: 9"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/01/business/apple-ai-john-giannandrea-siri.html",
+      "title": "Apple’s A.I. Chief, John Giannandrea, Is Retiring",
+      "slug": "2025-12-02-apple-s-a-i-chief-john-giannandrea-is-retiring.html",
+      "path": "posts/2025-12-02-apple-s-a-i-chief-john-giannandrea-is-retiring.html",
+      "date_iso": "2025-12-02T02:15:06+00:00",
+      "source": "https://www.nytimes.com/2025/12/01/business/apple-ai-john-giannandrea-siri.html",
+      "summary": "Steve Jennings/Getty Images for TechCrunch"
     },
     {
       "id": "https://news.ycombinator.com/item?id=46116179",
