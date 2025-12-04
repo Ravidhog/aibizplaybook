@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: I built a dashboard to compare mortgage rates across 120 credit unions</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: I built a dashboard to compare mortgage rates across 120 credit unions</h1>
+    <p><small>Published: 2025-12-03T20:35:27+00:00</small></p>
+  </header>
+
+  <main>
+    <p>When I bought my home, the big bank I'd been using for years quoted me 7% APR. A local credit union was offering 5.5% for the exact same mortgage.<p>I was surprised until I learned that mortgages are basically standardized products – the government buys almost all of them (see Bits About Money: <a href="https://www.bitsaboutmoney.com/archive/mortgages-are-a-manufactured-product/" rel="nofollow">https://www.bitsaboutmoney.com/archive/mortgages-are-a-manuf...</a>). So what's the price difference paying for? A recent Bloomberg Odd Lots episode makes the case that it's largely advertising and marketing (<a href="https://www.bloomberg.com/news/audio/2025-11-28/odd-lots-this-is-why-credit-card-rates-are-so-high-podcast" rel="nofollow">https://www.bloomberg.com/news/audio/2025-11-28/odd-lots-thi...</a>). Credit unions are non-profits without big marketing budgets, so they can pass those savings on, but a lot of people don't know about them.<p>I built this dashboard to make it easier to shop around. I pull public rates from 120+ credit union websites and compares against the weekly FRED national benchmark.<p>Features:<p>- Filter by loan type (30Y/15Y/etc.), eligibility (the hardest part tbh), and rate type
+- Payment calculator with refi mode (CUs can be a bit slower than big lenders, but that makes them great for refi)
+- Links to each CU's rates page and eligibility requirements
+- Toggle to show/hide statistical outliers<p>At the time of writing, the average CU rate is 5.91% vs. 6.23% national average. about $37k difference in total interest on a $500k loan. I actually used seaborn to visualize the rate spread against the four big banks: <a href="https://www.reddit.com/r/dataisbeautiful/comments/1pcj9t7/oc_the_high_cost_of_big_banks_i_tracked_daily/" rel="nofollow">https://www.reddit.com/r/dataisbeautiful/comments/1pcj9t7/oc...</a><p>Stack: Python for the data/backend, Svelte/SvelteKit for the frontend. No signup, no ads, no referral fees.<p>Happy to answer questions about the methodology or add CUs people suggest.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46139761">https://news.ycombinator.com/item?id=46139761</a></p>
+<p>Points: 228</p>
+<p># Comments: 73</p>
+    <p><a href="https://finfam.app/blog/credit-union-mortgages" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46144613",
+      "title": "Saturn (YC S24) Is Hiring Senior AI Engineer",
+      "slug": "2025-12-04-saturn-yc-s24-is-hiring-senior-ai-engineer.html",
+      "path": "posts/2025-12-04-saturn-yc-s24-is-hiring-senior-ai-engineer.html",
+      "date_iso": "2025-12-04T07:00:51+00:00",
+      "source": "https://www.ycombinator.com/companies/saturn/jobs/R9s9o5f-senior-ai-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/saturn/jobs/R9s9o5f-senior-ai-engineer Comments URL: https://news.ycombinator.com/item?id=46144613 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46144275",
+      "title": "Uncloud - Tool for deploying containerised apps across servers without k8s",
+      "slug": "2025-12-04-uncloud-tool-for-deploying-containerised-apps-across-servers-without-k8s.html",
+      "path": "posts/2025-12-04-uncloud-tool-for-deploying-containerised-apps-across-servers-without-k8s.html",
+      "date_iso": "2025-12-04T06:02:23+00:00",
+      "source": "https://uncloud.run/",
+      "summary": "Article URL: https://uncloud.run/ Comments URL: https://news.ycombinator.com/item?id=46144275 Points: 6 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46144199",
+      "title": "Mirror_bridge – C++ reflection for generating Python/JS/Lua bindings",
+      "slug": "2025-12-04-mirror-bridge-c-reflection-for-generating-python-js-lua-bindings.html",
+      "path": "posts/2025-12-04-mirror-bridge-c-reflection-for-generating-python-js-lua-bindings.html",
+      "date_iso": "2025-12-04T05:47:31+00:00",
+      "source": "https://chico.dev/Mirror-Bridge/",
+      "summary": "Article URL: https://chico.dev/Mirror-Bridge/ Comments URL: https://news.ycombinator.com/item?id=46144199 Points: 5 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46144113",
+      "title": "Show HN: A Minimal Monthly Task Planner (printable, offline, no signup)",
+      "slug": "2025-12-04-show-hn-a-minimal-monthly-task-planner-printable-offline-no-signup.html",
+      "path": "posts/2025-12-04-show-hn-a-minimal-monthly-task-planner-printable-offline-no-signup.html",
+      "date_iso": "2025-12-04T05:29:51+00:00",
+      "source": "https://printcalendar.top/",
+      "summary": "Hi HN, I built a tiny tool because I couldn’t find a clean, distraction-free monthly planner that: 1. shows a clean monthly task view 2. doesn’t require an account 3. doesn’t sync or store anything online 4. works offline 5. is printable 6. and keeps a minimal, distraction-free…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46143622",
+      "title": "The rapid growth of data centres is delaying new homes in London",
+      "slug": "2025-12-04-the-rapid-growth-of-data-centres-is-delaying-new-homes-in-london.html",
+      "path": "posts/2025-12-04-the-rapid-growth-of-data-centres-is-delaying-new-homes-in-london.html",
+      "date_iso": "2025-12-04T03:51:09+00:00",
+      "source": "https://www.bbc.com/news/articles/c0mpr1mvwj3o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c0mpr1mvwj3o Comments URL: https://news.ycombinator.com/item?id=46143622 Points: 81 # Comments: 30"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46143618",
+      "title": "Euler Conjecture and CDC 6600",
+      "slug": "2025-12-04-euler-conjecture-and-cdc-6600.html",
+      "path": "posts/2025-12-04-euler-conjecture-and-cdc-6600.html",
+      "date_iso": "2025-12-04T03:50:36+00:00",
+      "source": "https://fortran-lang.discourse.group/t/euler-conjecture-and-cdc-6600/10501",
+      "summary": "Article URL: https://fortran-lang.discourse.group/t/euler-conjecture-and-cdc-6600/10501 Comments URL: https://news.ycombinator.com/item?id=46143618 Points: 25 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46142866",
+      "title": "Why WinQuake exists and how it works",
+      "slug": "2025-12-04-why-winquake-exists-and-how-it-works.html",
+      "path": "posts/2025-12-04-why-winquake-exists-and-how-it-works.html",
+      "date_iso": "2025-12-04T01:58:15+00:00",
+      "source": "https://fabiensanglard.net/winquake/index.html",
+      "summary": "Article URL: https://fabiensanglard.net/winquake/index.html Comments URL: https://news.ycombinator.com/item?id=46142866 Points: 35 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46142100",
+      "title": "Average DRAM price in USD over last 18 months",
+      "slug": "2025-12-04-average-dram-price-in-usd-over-last-18-months.html",
+      "path": "posts/2025-12-04-average-dram-price-in-usd-over-last-18-months.html",
+      "date_iso": "2025-12-04T00:08:26+00:00",
+      "source": "https://pcpartpicker.com/trends/price/memory/",
+      "summary": "Article URL: https://pcpartpicker.com/trends/price/memory/ Comments URL: https://news.ycombinator.com/item?id=46142100 Points: 209 # Comments: 125"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46142000",
+      "title": "Kea DHCP: Modern, open source DHCPv4 and DHCPv6 server",
+      "slug": "2025-12-03-kea-dhcp-modern-open-source-dhcpv4-and-dhcpv6-server.html",
+      "path": "posts/2025-12-03-kea-dhcp-modern-open-source-dhcpv4-and-dhcpv6-server.html",
+      "date_iso": "2025-12-03T23:58:04+00:00",
+      "source": "https://www.isc.org/kea/",
+      "summary": "Article URL: https://www.isc.org/kea/ Comments URL: https://news.ycombinator.com/item?id=46142000 Points: 75 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46141745",
+      "title": "Acme, a brief history of one of the protocols which has changed the Internet",
+      "slug": "2025-12-03-acme-a-brief-history-of-one-of-the-protocols-which-has-changed-the-internet.html",
+      "path": "posts/2025-12-03-acme-a-brief-history-of-one-of-the-protocols-which-has-changed-the-internet.html",
+      "date_iso": "2025-12-03T23:28:34+00:00",
+      "source": "https://blog.brocas.org/2025/12/01/ACME-a-brief-history-of-one-of-the-protocols-which-has-changed-the-Internet-Security/",
+      "summary": "Article URL: https://blog.brocas.org/2025/12/01/ACME-a-brief-history-of-one-of-the-protocols-which-has-changed-the-Internet-Security/ Comments URL: https://news.ycombinator.com/item?id=46141745 Points: 96 # Comments: 38"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46140244",
+      "title": "8086 Microcode Browser",
+      "slug": "2025-12-03-8086-microcode-browser.html",
+      "path": "posts/2025-12-03-8086-microcode-browser.html",
+      "date_iso": "2025-12-03T21:16:11+00:00",
+      "source": "https://nand2mario.github.io/posts/2025/8086_microcode_browser/",
+      "summary": "Article URL: https://nand2mario.github.io/posts/2025/8086_microcode_browser/ Comments URL: https://news.ycombinator.com/item?id=46140244 Points: 91 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46139761",
+      "title": "Show HN: I built a dashboard to compare mortgage rates across 120 credit unions",
+      "slug": "2025-12-03-show-hn-i-built-a-dashboard-to-compare-mortgage-rates-across-120-credit-unions.html",
+      "path": "posts/2025-12-03-show-hn-i-built-a-dashboard-to-compare-mortgage-rates-across-120-credit-unions.html",
+      "date_iso": "2025-12-03T20:35:27+00:00",
+      "source": "https://finfam.app/blog/credit-union-mortgages",
+      "summary": "When I bought my home, the big bank I'd been using for years quoted me 7% APR. A local credit union was offering 5.5% for the exact same mortgage. I was surprised until I learned that mortgages are basically standardized products – the government buys almost all of them (see Bit…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46138952",
+      "title": "Everyone in Seattle hates AI",
+      "slug": "2025-12-03-everyone-in-seattle-hates-ai.html",
+      "path": "posts/2025-12-03-everyone-in-seattle-hates-ai.html",
+      "date_iso": "2025-12-03T19:37:25+00:00",
+      "source": "https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html",
+      "summary": "Article URL: https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html Comments URL: https://news.ycombinator.com/item?id=46138952 Points: 737 # Comments: 740"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46138632",
+      "title": "Lie groups are crucial to some of the most fundamental theories in physics",
+      "slug": "2025-12-03-lie-groups-are-crucial-to-some-of-the-most-fundamental-theories-in-physics.html",
+      "path": "posts/2025-12-03-lie-groups-are-crucial-to-some-of-the-most-fundamental-theories-in-physics.html",
+      "date_iso": "2025-12-03T19:12:40+00:00",
+      "source": "https://www.quantamagazine.org/what-are-lie-groups-20251203/",
+      "summary": "Article URL: https://www.quantamagazine.org/what-are-lie-groups-20251203/ Comments URL: https://news.ycombinator.com/item?id=46138632 Points: 121 # Comments: 43"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46138238",
+      "title": "Ghostty is now non-profit",
+      "slug": "2025-12-03-ghostty-is-now-non-profit.html",
+      "path": "posts/2025-12-03-ghostty-is-now-non-profit.html",
+      "date_iso": "2025-12-03T18:40:06+00:00",
+      "source": "https://mitchellh.com/writing/ghostty-non-profit",
+      "summary": "Article URL: https://mitchellh.com/writing/ghostty-non-profit Comments URL: https://news.ycombinator.com/item?id=46138238 Points: 988 # Comments: 200"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46137783",
+      "title": "Micron Announces Exit from Crucial Consumer Business",
+      "slug": "2025-12-03-micron-announces-exit-from-crucial-consumer-business.html",
+      "path": "posts/2025-12-03-micron-announces-exit-from-crucial-consumer-business.html",
+      "date_iso": "2025-12-03T18:04:32+00:00",
+      "source": "https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business",
+      "summary": "Article URL: https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business Comments URL: https://news.ycombinator.com/item?id=46137783 Points: 499 # Comments: 243"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46137548",
+      "title": "Launch HN: Phind 3 (YC S22) – Every answer is a mini-app",
+      "slug": "2025-12-03-launch-hn-phind-3-yc-s22-every-answer-is-a-mini-app.html",
+      "path": "posts/2025-12-03-launch-hn-phind-3-yc-s22-every-answer-is-a-mini-app.html",
+      "date_iso": "2025-12-03T17:47:15+00:00",
+      "source": "https://news.ycombinator.com/item?id=46137548",
+      "summary": "Hi HN, We are launching Phind 3 ( https://www.phind.com ), an AI answer engine that instantly builds a complete mini-app to answer and visualize your questions in an interactive way. A Phind mini-app appears as a beautiful, interactive webpage — with images, charts, diagrams, ma…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46137514",
+      "title": "Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files",
+      "slug": "2025-12-03-reverse-engineering-a-1b-legal-ai-tool-exposed-100k-confidential-files.html",
+      "path": "posts/2025-12-03-reverse-engineering-a-1b-legal-ai-tool-exposed-100k-confidential-files.html",
+      "date_iso": "2025-12-03T17:44:33+00:00",
+      "source": "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k",
+      "summary": "Article URL: https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k Comments URL: https://news.ycombinator.com/item?id=46137514 Points: 612 # Comments: 191"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46137253",
+      "title": "1D Conway's Life glider found, 3.7B cells long",
+      "slug": "2025-12-03-1d-conway-s-life-glider-found-3-7b-cells-long.html",
+      "path": "posts/2025-12-03-1d-conway-s-life-glider-found-3-7b-cells-long.html",
+      "date_iso": "2025-12-03T17:24:49+00:00",
+      "source": "https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136",
+      "summary": "Article URL: https://conwaylife.com/forums/viewtopic.php?&amp;p=222136#p222136 Comments URL: https://news.ycombinator.com/item?id=46137253 Points: 409 # Comments: 140"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46136026",
+      "title": "RCE Vulnerability in React and Next.js",
+      "slug": "2025-12-03-rce-vulnerability-in-react-and-next-js.html",
+      "path": "posts/2025-12-03-rce-vulnerability-in-react-and-next-js.html",
+      "date_iso": "2025-12-03T16:00:23+00:00",
+      "source": "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp",
+      "summary": "Article URL: https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp Comments URL: https://news.ycombinator.com/item?id=46136026 Points: 476 # Comments: 162"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html",
+      "title": "Bitcoin’s Predicted Sky-High Prices Have Not Panned Out",
+      "slug": "2025-12-03-bitcoin-s-predicted-sky-high-prices-have-not-panned-out.html",
+      "path": "posts/2025-12-03-bitcoin-s-predicted-sky-high-prices-have-not-panned-out.html",
+      "date_iso": "2025-12-03T15:56:28+00:00",
+      "source": "https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html",
+      "summary": "Bitcoin has plunged more than 30 percent and Ether is down around 40 percent in recent months, as gains from President Trump’s pro-crypto policies evaporated."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46130798",
       "title": "AI Is Breaking the Moral Foundation of Modern Society",
       "slug": "2025-12-03-ai-is-breaking-the-moral-foundation-of-modern-society.html",
