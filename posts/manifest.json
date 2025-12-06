@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46171311",
+      "title": "Infracost (YC W21) is hiring Sr Node Eng to make $600B/yr cloud spend proactive",
+      "slug": "2025-12-06-infracost-yc-w21-is-hiring-sr-node-eng-to-make-600b-yr-cloud-spend-proactive.html",
+      "path": "posts/2025-12-06-infracost-yc-w21-is-hiring-sr-node-eng-to-make-600b-yr-cloud-spend-proactive.html",
+      "date_iso": "2025-12-06T07:00:14+00:00",
+      "source": "https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-product-engineer-node-js",
+      "summary": "Article URL: https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-product-engineer-node-js Comments URL: https://news.ycombinator.com/item?id=46171311 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46170402",
+      "title": "Nook Browser",
+      "slug": "2025-12-06-nook-browser.html",
+      "path": "posts/2025-12-06-nook-browser.html",
+      "date_iso": "2025-12-06T03:32:56+00:00",
+      "source": "https://browsewithnook.com",
+      "summary": "Article URL: https://browsewithnook.com Comments URL: https://news.ycombinator.com/item?id=46170402 Points: 57 # Comments: 36"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46170332",
+      "title": "Albert Michelson's Harmonic Analyzer (2014) [pdf]",
+      "slug": "2025-12-06-albert-michelson-s-harmonic-analyzer-2014-pdf.html",
+      "path": "posts/2025-12-06-albert-michelson-s-harmonic-analyzer-2014-pdf.html",
+      "date_iso": "2025-12-06T03:21:46+00:00",
+      "source": "https://engineerguy.com/fourier/pdfs/albert-michelsons-harmonic-analyzer.pdf",
+      "summary": "Article URL: https://engineerguy.com/fourier/pdfs/albert-michelsons-harmonic-analyzer.pdf Comments URL: https://news.ycombinator.com/item?id=46170332 Points: 17 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46170309",
+      "title": "PalmOS on FisherPrice Pixter Toy",
+      "slug": "2025-12-06-palmos-on-fisherprice-pixter-toy.html",
+      "path": "posts/2025-12-06-palmos-on-fisherprice-pixter-toy.html",
+      "date_iso": "2025-12-06T03:17:44+00:00",
+      "source": "https://dmitry.gr/?r=05.Projects&proj=27.%20rePalm#pixter",
+      "summary": "Article URL: https://dmitry.gr/?r=05.Projects&amp;proj=27.%20rePalm#pixter Comments URL: https://news.ycombinator.com/item?id=46170309 Points: 38 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46170302",
+      "title": "Have I been Flocked? – Check if your license plate is being watched",
+      "slug": "2025-12-06-have-i-been-flocked-check-if-your-license-plate-is-being-watched.html",
+      "path": "posts/2025-12-06-have-i-been-flocked-check-if-your-license-plate-is-being-watched.html",
+      "date_iso": "2025-12-06T03:16:35+00:00",
+      "source": "https://haveibeenflocked.com/",
+      "summary": "Article URL: https://haveibeenflocked.com/ Comments URL: https://news.ycombinator.com/item?id=46170302 Points: 88 # Comments: 42"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46169554",
+      "title": "YouTube caught making AI-edits to videos and adding misleading AI summaries",
+      "slug": "2025-12-06-youtube-caught-making-ai-edits-to-videos-and-adding-misleading-ai-summaries.html",
+      "path": "posts/2025-12-06-youtube-caught-making-ai-edits-to-videos-and-adding-misleading-ai-summaries.html",
+      "date_iso": "2025-12-06T01:15:48+00:00",
+      "source": "https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg",
+      "summary": "Article URL: https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg Comments URL: https://news.ycombinator.com/item?id=46169554 Points: 221 # Comments: 130"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46169330",
+      "title": "Extra Instructions Of The 65XX Series CPU (1996)",
+      "slug": "2025-12-06-extra-instructions-of-the-65xx-series-cpu-1996.html",
+      "path": "posts/2025-12-06-extra-instructions-of-the-65xx-series-cpu-1996.html",
+      "date_iso": "2025-12-06T00:38:50+00:00",
+      "source": "http://www.ffd2.com/fridge/docs/6502-NMOS.extra.opcodes",
+      "summary": "Article URL: http://www.ffd2.com/fridge/docs/6502-NMOS.extra.opcodes Comments URL: https://news.ycombinator.com/item?id=46169330 Points: 41 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46168057",
+      "title": "Adenosine on the common path of rapid antidepressant action: The coffee paradox",
+      "slug": "2025-12-05-adenosine-on-the-common-path-of-rapid-antidepressant-action-the-coffee-paradox.html",
+      "path": "posts/2025-12-05-adenosine-on-the-common-path-of-rapid-antidepressant-action-the-coffee-paradox.html",
+      "date_iso": "2025-12-05T22:10:50+00:00",
+      "source": "https://genomicpress.kglmeridian.com/view/journals/brainmed/aop/article-10.61373-bm025c.0134/article-10.61373-bm025c.0134.xml",
+      "summary": "Article URL: https://genomicpress.kglmeridian.com/view/journals/brainmed/aop/article-10.61373-bm025c.0134/article-10.61373-bm025c.0134.xml Comments URL: https://news.ycombinator.com/item?id=46168057 Points: 117 # Comments: 56"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/05/business/warner-brothers-discovery-netflix.html",
+      "title": "Netflix to Buy Warner Bros in $83 Billion Deal",
+      "slug": "2025-12-05-netflix-to-buy-warner-bros-in-83-billion-deal.html",
+      "path": "posts/2025-12-05-netflix-to-buy-warner-bros-in-83-billion-deal.html",
+      "date_iso": "2025-12-05T21:56:47+00:00",
+      "source": "https://www.nytimes.com/2025/12/05/business/warner-brothers-discovery-netflix.html",
+      "summary": "Netflix has never tried an acquisition even remotely close to this size."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46167621",
+      "title": "Frank Gehry has died",
+      "slug": "2025-12-05-frank-gehry-has-died.html",
+      "path": "posts/2025-12-05-frank-gehry-has-died.html",
+      "date_iso": "2025-12-05T21:31:40+00:00",
+      "source": "https://www.bbc.co.uk/news/articles/c5y2p22z9gno",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/c5y2p22z9gno Comments URL: https://news.ycombinator.com/item?id=46167621 Points: 160 # Comments: 56"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46167552",
+      "title": "Leaving Intel",
+      "slug": "2025-12-05-leaving-intel.html",
+      "path": "posts/2025-12-05-leaving-intel.html",
+      "date_iso": "2025-12-05T21:27:04+00:00",
+      "source": "https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html",
+      "summary": "Article URL: https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html Comments URL: https://news.ycombinator.com/item?id=46167552 Points: 187 # Comments: 89"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46167500",
+      "title": "Perpetual futures, explained",
+      "slug": "2025-12-05-perpetual-futures-explained.html",
+      "path": "posts/2025-12-05-perpetual-futures-explained.html",
+      "date_iso": "2025-12-05T21:23:03+00:00",
+      "source": "https://www.bitsaboutmoney.com/archive/perpetual-futures-explained/",
+      "summary": "Article URL: https://www.bitsaboutmoney.com/archive/perpetual-futures-explained/ Comments URL: https://news.ycombinator.com/item?id=46167500 Points: 85 # Comments: 43"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46167349",
+      "title": "The missing standard library for multithreading in JavaScript",
+      "slug": "2025-12-05-the-missing-standard-library-for-multithreading-in-javascript.html",
+      "path": "posts/2025-12-05-the-missing-standard-library-for-multithreading-in-javascript.html",
+      "date_iso": "2025-12-05T21:09:11+00:00",
+      "source": "https://github.com/W4G1/multithreading",
+      "summary": "Article URL: https://github.com/W4G1/multithreading Comments URL: https://news.ycombinator.com/item?id=46167349 Points: 61 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46166708",
+      "title": "Fizz Buzz in CSS",
+      "slug": "2025-12-05-fizz-buzz-in-css.html",
+      "path": "posts/2025-12-05-fizz-buzz-in-css.html",
+      "date_iso": "2025-12-05T20:18:22+00:00",
+      "source": "https://susam.net/fizz-buzz-in-css.html",
+      "summary": "Article URL: https://susam.net/fizz-buzz-in-css.html Comments URL: https://news.ycombinator.com/item?id=46166708 Points: 83 # Comments: 20"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/05/technology/eu-elon-musk-x-140-million-fine.html",
+      "title": "EU Hits Elon Musk’s X With $140 Million Fine",
+      "slug": "2025-12-05-eu-hits-elon-musk-s-x-with-140-million-fine.html",
+      "path": "posts/2025-12-05-eu-hits-elon-musk-s-x-with-140-million-fine.html",
+      "date_iso": "2025-12-05T18:57:54+00:00",
+      "source": "https://www.nytimes.com/2025/12/05/technology/eu-elon-musk-x-140-million-fine.html",
+      "summary": "The fine on Friday could be the first of several that Elon Musk’s X faces in the European Union."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46163609",
+      "title": "Patterns for Defensive Programming in Rust",
+      "slug": "2025-12-05-patterns-for-defensive-programming-in-rust.html",
+      "path": "posts/2025-12-05-patterns-for-defensive-programming-in-rust.html",
+      "date_iso": "2025-12-05T16:34:25+00:00",
+      "source": "https://corrode.dev/blog/defensive-programming/",
+      "summary": "Article URL: https://corrode.dev/blog/defensive-programming/ Comments URL: https://news.ycombinator.com/item?id=46163609 Points: 243 # Comments: 51"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46163308",
+      "title": "Gemini 3 Pro: the frontier of vision AI",
+      "slug": "2025-12-05-gemini-3-pro-the-frontier-of-vision-ai.html",
+      "path": "posts/2025-12-05-gemini-3-pro-the-frontier-of-vision-ai.html",
+      "date_iso": "2025-12-05T16:15:10+00:00",
+      "source": "https://blog.google/technology/developers/gemini-3-pro-vision/",
+      "summary": "Article URL: https://blog.google/technology/developers/gemini-3-pro-vision/ Comments URL: https://news.ycombinator.com/item?id=46163308 Points: 416 # Comments: 212"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/05/technology/new-york-times-perplexity-ai-lawsuit.html",
+      "title": "New York Times Sues A.I. Start-Up Perplexity Over Use of Copyrighted Work",
+      "slug": "2025-12-05-new-york-times-sues-a-i-start-up-perplexity-over-use-of-copyrighted-work.html",
+      "path": "posts/2025-12-05-new-york-times-sues-a-i-start-up-perplexity-over-use-of-copyrighted-work.html",
+      "date_iso": "2025-12-05T16:10:35+00:00",
+      "source": "https://www.nytimes.com/2025/12/05/technology/new-york-times-perplexity-ai-lawsuit.html",
+      "summary": "The A.I. start-up Perplexity, led by Aravind Srinivas, has also been sued by Dow Jones, the owner of The Wall Street Journal."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46163121",
+      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+      "slug": "2025-12-05-i-m-peter-roberts-immigration-attorney-who-does-work-for-yc-and-startups-ama.html",
+      "path": "posts/2025-12-05-i-m-peter-roberts-immigration-attorney-who-does-work-for-yc-and-startups-ama.html",
+      "date_iso": "2025-12-05T16:04:20+00:00",
+      "source": "https://news.ycombinator.com/item?id=46163121",
+      "summary": "As usual, there are countless immigration topics and I'll be guided by whatever you're concerned with. Please remember that I can't provide legal advice on specific cases for obvious liability reasons because I won't have access to all the facts. Please stick to a factual discus…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46162656",
+      "title": "Cloudflare outage on December 5, 2025",
+      "slug": "2025-12-05-cloudflare-outage-on-december-5-2025.html",
+      "path": "posts/2025-12-05-cloudflare-outage-on-december-5-2025.html",
+      "date_iso": "2025-12-05T15:35:43+00:00",
+      "source": "https://blog.cloudflare.com/5-december-2025-outage/",
+      "summary": "Article URL: https://blog.cloudflare.com/5-december-2025-outage/ Comments URL: https://news.ycombinator.com/item?id=46162656 Points: 610 # Comments: 456"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/05/business/energy-environment/battery-prices-electric-grids.html",
+      "title": "How Batteries Got Cheaper and Made the Electric Grid More Reliable",
+      "slug": "2025-12-05-how-batteries-got-cheaper-and-made-the-electric-grid-more-reliable.html",
+      "path": "posts/2025-12-05-how-batteries-got-cheaper-and-made-the-electric-grid-more-reliable.html",
+      "date_iso": "2025-12-05T15:24:57+00:00",
+      "source": "https://www.nytimes.com/2025/12/05/business/energy-environment/battery-prices-electric-grids.html",
+      "summary": "Employees working on battery units at the solar project, which is owned by AES, a Virginia company that holds utilities and power plants across the world."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46160773",
+      "title": "Most technical problems are people problems",
+      "slug": "2025-12-05-most-technical-problems-are-people-problems.html",
+      "path": "posts/2025-12-05-most-technical-problems-are-people-problems.html",
+      "date_iso": "2025-12-05T13:07:59+00:00",
+      "source": "https://blog.joeschrag.com/2023/11/most-technical-problems-are-really.html",
+      "summary": "Article URL: https://blog.joeschrag.com/2023/11/most-technical-problems-are-really.html Comments URL: https://news.ycombinator.com/item?id=46160773 Points: 373 # Comments: 280"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46160698",
+      "title": "Making RSS More Fun",
+      "slug": "2025-12-05-making-rss-more-fun.html",
+      "path": "posts/2025-12-05-making-rss-more-fun.html",
+      "date_iso": "2025-12-05T13:00:28+00:00",
+      "source": "https://matduggan.com/making-rss-more-fun/",
+      "summary": "Article URL: https://matduggan.com/making-rss-more-fun/ Comments URL: https://news.ycombinator.com/item?id=46160698 Points: 199 # Comments: 95"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46160315",
+      "title": "Netflix to Acquire Warner Bros",
+      "slug": "2025-12-05-netflix-to-acquire-warner-bros.html",
+      "path": "posts/2025-12-05-netflix-to-acquire-warner-bros.html",
+      "date_iso": "2025-12-05T12:21:19+00:00",
+      "source": "https://about.netflix.com/en/news/netflix-to-acquire-warner-bros",
+      "summary": "Article URL: https://about.netflix.com/en/news/netflix-to-acquire-warner-bros Comments URL: https://news.ycombinator.com/item?id=46160315 Points: 1548 # Comments: 1179"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/05/podcasts/hardfork-openai-code-red.html",
+      "title": "OpenAI Calls a ‘Code Red’ + Which Model Should I Use? + The Hard Fork Review of Slop",
+      "slug": "2025-12-05-openai-calls-a-code-red-which-model-should-i-use-the-hard-fork-review-of-slop.html",
+      "path": "posts/2025-12-05-openai-calls-a-code-red-which-model-should-i-use-the-hard-fork-review-of-slop.html",
+      "date_iso": "2025-12-05T12:00:07+00:00",
+      "source": "https://www.nytimes.com/2025/12/05/podcasts/hardfork-openai-code-red.html",
+      "summary": "“For OpenAI to realize its ambitions, it is not going to be enough for them to make a model that is as good as Gemini 3. They need to be able to leapfrog it again.”"
+    },
+    {
       "id": "https://www.nytimes.com/2025/12/04/technology/rebecca-heineman-dead.html",
       "title": "Rebecca Heineman, Transgender Video Game Pioneer, Dies at 62",
       "slug": "2025-12-05-rebecca-heineman-transgender-video-game-pioneer-dies-at-62.html",
