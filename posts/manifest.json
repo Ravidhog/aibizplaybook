@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46178892",
+      "title": "Discovering the indieweb with calm tech",
+      "slug": "2025-12-07-discovering-the-indieweb-with-calm-tech.html",
+      "path": "posts/2025-12-07-discovering-the-indieweb-with-calm-tech.html",
+      "date_iso": "2025-12-07T03:26:01+00:00",
+      "source": "https://alexsci.com/blog/calm-tech-discover/",
+      "summary": "Article URL: https://alexsci.com/blog/calm-tech-discover/ Comments URL: https://news.ycombinator.com/item?id=46178892 Points: 32 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46178789",
+      "title": "Z2 – Lithographically fabricated IC in a garage fab",
+      "slug": "2025-12-07-z2-lithographically-fabricated-ic-in-a-garage-fab.html",
+      "path": "posts/2025-12-07-z2-lithographically-fabricated-ic-in-a-garage-fab.html",
+      "date_iso": "2025-12-07T03:03:09+00:00",
+      "source": "https://sam.zeloof.xyz/second-ic/",
+      "summary": "Article URL: https://sam.zeloof.xyz/second-ic/ Comments URL: https://news.ycombinator.com/item?id=46178789 Points: 108 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46178464",
+      "title": "Oblast: A better Blasto game for the Commodore 64",
+      "slug": "2025-12-07-oblast-a-better-blasto-game-for-the-commodore-64.html",
+      "path": "posts/2025-12-07-oblast-a-better-blasto-game-for-the-commodore-64.html",
+      "date_iso": "2025-12-07T01:47:23+00:00",
+      "source": "http://oldvcr.blogspot.com/2025/12/oblast-better-blasto-game-for-commodore.html",
+      "summary": "Article URL: http://oldvcr.blogspot.com/2025/12/oblast-better-blasto-game-for-commodore.html Comments URL: https://news.ycombinator.com/item?id=46178464 Points: 17 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46178442",
+      "title": "Eurydice: a Rust to C compiler (yes)",
+      "slug": "2025-12-07-eurydice-a-rust-to-c-compiler-yes.html",
+      "path": "posts/2025-12-07-eurydice-a-rust-to-c-compiler-yes.html",
+      "date_iso": "2025-12-07T01:41:33+00:00",
+      "source": "https://jonathan.protzenko.fr/2025/10/28/eurydice.html",
+      "summary": "Article URL: https://jonathan.protzenko.fr/2025/10/28/eurydice.html Comments URL: https://news.ycombinator.com/item?id=46178442 Points: 64 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46178347",
+      "title": "Using LLMs at Oxide",
+      "slug": "2025-12-07-using-llms-at-oxide.html",
+      "path": "posts/2025-12-07-using-llms-at-oxide.html",
+      "date_iso": "2025-12-07T01:17:40+00:00",
+      "source": "https://rfd.shared.oxide.computer/rfd/0576",
+      "summary": "Article URL: https://rfd.shared.oxide.computer/rfd/0576 Comments URL: https://news.ycombinator.com/item?id=46178347 Points: 272 # Comments: 115"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46178108",
+      "title": "Trains cancelled over fake bridge collapse image",
+      "slug": "2025-12-07-trains-cancelled-over-fake-bridge-collapse-image.html",
+      "path": "posts/2025-12-07-trains-cancelled-over-fake-bridge-collapse-image.html",
+      "date_iso": "2025-12-07T00:37:15+00:00",
+      "source": "https://www.bbc.com/news/articles/cwygqqll9k2o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cwygqqll9k2o Comments URL: https://news.ycombinator.com/item?id=46178108 Points: 142 # Comments: 103"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/06/technology/instagram-repost-button-accidental.html",
+      "title": "It’s Not Just You. Users Struggle With the Instagram Repost Button.",
+      "slug": "2025-12-07-it-s-not-just-you-users-struggle-with-the-instagram-repost-button.html",
+      "path": "posts/2025-12-07-it-s-not-just-you-users-struggle-with-the-instagram-repost-button.html",
+      "date_iso": "2025-12-07T00:36:45+00:00",
+      "source": "https://www.nytimes.com/2025/12/06/technology/instagram-repost-button-accidental.html",
+      "summary": "The new repost button can be easy to hit when you intend to share privately or view comments instead."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46177737",
+      "title": "Show HN: FuseCells – a handcrafted logic puzzle game with 2,500 levels",
+      "slug": "2025-12-06-show-hn-fusecells-a-handcrafted-logic-puzzle-game-with-2-500-levels.html",
+      "path": "posts/2025-12-06-show-hn-fusecells-a-handcrafted-logic-puzzle-game-with-2-500-levels.html",
+      "date_iso": "2025-12-06T23:51:08+00:00",
+      "source": "https://apps.apple.com/us/app/fusecells-logic-grid-puzzle/id6754704139",
+      "summary": "Hi everyone, I built FuseCells, a minimalistic logic puzzle game where every level is handcrafted (no procedural generation). It started as a personal challenge to design a clean rule-set and scale it to thousands of puzzles without losing difficulty balance. What’s unique: • 2,…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46177645",
+      "title": "Kilauea erupts, destroying webcam [video]",
+      "slug": "2025-12-06-kilauea-erupts-destroying-webcam-video.html",
+      "path": "posts/2025-12-06-kilauea-erupts-destroying-webcam-video.html",
+      "date_iso": "2025-12-06T23:39:02+00:00",
+      "source": "https://www.youtube.com/watch?v=TK2N99BDw7A",
+      "summary": "Article URL: https://www.youtube.com/watch?v=TK2N99BDw7A Comments URL: https://news.ycombinator.com/item?id=46177645 Points: 266 # Comments: 60"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46177418",
+      "title": "Saving Japan's exceptionally rare 'snow monsters'",
+      "slug": "2025-12-06-saving-japan-s-exceptionally-rare-snow-monsters.html",
+      "path": "posts/2025-12-06-saving-japan-s-exceptionally-rare-snow-monsters.html",
+      "date_iso": "2025-12-06T23:06:53+00:00",
+      "source": "https://www.bbc.com/future/article/20251203-japans-disappearing-snow-monsters",
+      "summary": "Article URL: https://www.bbc.com/future/article/20251203-japans-disappearing-snow-monsters Comments URL: https://news.ycombinator.com/item?id=46177418 Points: 64 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46177132",
+      "title": "United States Antarctic Program Field Manual (2024) [pdf]",
+      "slug": "2025-12-06-united-states-antarctic-program-field-manual-2024-pdf.html",
+      "path": "posts/2025-12-06-united-states-antarctic-program-field-manual-2024-pdf.html",
+      "date_iso": "2025-12-06T22:26:26+00:00",
+      "source": "https://www.usap.gov/usapgov/travelAndDeployment/documents/Continental-Field-Manual-2024.pdf",
+      "summary": "Article URL: https://www.usap.gov/usapgov/travelAndDeployment/documents/Continental-Field-Manual-2024.pdf Comments URL: https://news.ycombinator.com/item?id=46177132 Points: 83 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46176905",
+      "title": "Screenshots from developers: 2002 vs. 2015 (2015)",
+      "slug": "2025-12-06-screenshots-from-developers-2002-vs-2015-2015.html",
+      "path": "posts/2025-12-06-screenshots-from-developers-2002-vs-2015-2015.html",
+      "date_iso": "2025-12-06T21:55:09+00:00",
+      "source": "https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/",
+      "summary": "Article URL: https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/ Comments URL: https://news.ycombinator.com/item?id=46176905 Points: 244 # Comments: 90"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46176893",
+      "title": "The past was not that cute",
+      "slug": "2025-12-06-the-past-was-not-that-cute.html",
+      "path": "posts/2025-12-06-the-past-was-not-that-cute.html",
+      "date_iso": "2025-12-06T21:53:35+00:00",
+      "source": "https://juliawise.net/the-past-was-not-that-cute/",
+      "summary": "Article URL: https://juliawise.net/the-past-was-not-that-cute/ Comments URL: https://news.ycombinator.com/item?id=46176893 Points: 124 # Comments: 154"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46176766",
+      "title": "Coffee linked to slower biological ageing among those with severe mental illness",
+      "slug": "2025-12-06-coffee-linked-to-slower-biological-ageing-among-those-with-severe-mental-illness.html",
+      "path": "posts/2025-12-06-coffee-linked-to-slower-biological-ageing-among-those-with-severe-mental-illness.html",
+      "date_iso": "2025-12-06T21:33:03+00:00",
+      "source": "https://www.kcl.ac.uk/news/coffee-linked-to-slower-biological-ageing-among-those-with-severe-mental-illness-up-to-a-limit",
+      "summary": "Article URL: https://www.kcl.ac.uk/news/coffee-linked-to-slower-biological-ageing-among-those-with-severe-mental-illness-up-to-a-limit Comments URL: https://news.ycombinator.com/item?id=46176766 Points: 134 # Comments: 75"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46176289",
+      "title": "Zebra-Llama – Towards efficient hybrid models",
+      "slug": "2025-12-06-zebra-llama-towards-efficient-hybrid-models.html",
+      "path": "posts/2025-12-06-zebra-llama-towards-efficient-hybrid-models.html",
+      "date_iso": "2025-12-06T20:15:54+00:00",
+      "source": "https://arxiv.org/abs/2505.17272",
+      "summary": "Article URL: https://arxiv.org/abs/2505.17272 Comments URL: https://news.ycombinator.com/item?id=46176289 Points: 93 # Comments: 44"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46175826",
+      "title": "OMSCS Open Courseware",
+      "slug": "2025-12-06-omscs-open-courseware.html",
+      "path": "posts/2025-12-06-omscs-open-courseware.html",
+      "date_iso": "2025-12-06T19:14:35+00:00",
+      "source": "https://sites.gatech.edu/omscsopencourseware/",
+      "summary": "Article URL: https://sites.gatech.edu/omscsopencourseware/ Comments URL: https://news.ycombinator.com/item?id=46175826 Points: 169 # Comments: 67"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46175112",
+      "title": "Perl's decline was cultural",
+      "slug": "2025-12-06-perl-s-decline-was-cultural.html",
+      "path": "posts/2025-12-06-perl-s-decline-was-cultural.html",
+      "date_iso": "2025-12-06T17:42:07+00:00",
+      "source": "https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical",
+      "summary": "Article URL: https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical Comments URL: https://news.ycombinator.com/item?id=46175112 Points: 229 # Comments: 284"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46173825",
+      "title": "HTML as an Accessible Format for Papers (2023)",
+      "slug": "2025-12-06-html-as-an-accessible-format-for-papers-2023.html",
+      "path": "posts/2025-12-06-html-as-an-accessible-format-for-papers-2023.html",
+      "date_iso": "2025-12-06T14:59:52+00:00",
+      "source": "https://info.arxiv.org/about/accessible_HTML.html",
+      "summary": "Article URL: https://info.arxiv.org/about/accessible_HTML.html Comments URL: https://news.ycombinator.com/item?id=46173825 Points: 228 # Comments: 111"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46173547",
+      "title": "Tiny Core Linux: a 23 MB Linux distro with graphical desktop",
+      "slug": "2025-12-06-tiny-core-linux-a-23-mb-linux-distro-with-graphical-desktop.html",
+      "path": "posts/2025-12-06-tiny-core-linux-a-23-mb-linux-distro-with-graphical-desktop.html",
+      "date_iso": "2025-12-06T14:18:42+00:00",
+      "source": "http://www.tinycorelinux.net/",
+      "summary": "Article URL: http://www.tinycorelinux.net/ Comments URL: https://news.ycombinator.com/item?id=46173547 Points: 410 # Comments: 183"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46173407",
+      "title": "GrapheneOS is the only Android OS providing full security patches",
+      "slug": "2025-12-06-grapheneos-is-the-only-android-os-providing-full-security-patches.html",
+      "path": "posts/2025-12-06-grapheneos-is-the-only-android-os-providing-full-security-patches.html",
+      "date_iso": "2025-12-06T13:58:31+00:00",
+      "source": "https://grapheneos.social/@GrapheneOS/115647408229616018",
+      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/115647408229616018 Comments URL: https://news.ycombinator.com/item?id=46173407 Points: 555 # Comments: 248"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46172443",
+      "title": "Autism's confusing cousins",
+      "slug": "2025-12-06-autism-s-confusing-cousins.html",
+      "path": "posts/2025-12-06-autism-s-confusing-cousins.html",
+      "date_iso": "2025-12-06T11:18:40+00:00",
+      "source": "https://www.psychiatrymargins.com/p/autisms-confusing-cousins",
+      "summary": "Article URL: https://www.psychiatrymargins.com/p/autisms-confusing-cousins Comments URL: https://news.ycombinator.com/item?id=46172443 Points: 258 # Comments: 260"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46171311",
       "title": "Infracost (YC W21) is hiring Sr Node Eng to make $600B/yr cloud spend proactive",
       "slug": "2025-12-06-infracost-yc-w21-is-hiring-sr-node-eng-to-make-600b-yr-cloud-spend-proactive.html",
