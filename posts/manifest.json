@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46189258",
+      "title": "Truemetrics (YC S23) Is Hiring",
+      "slug": "2025-12-08-truemetrics-yc-s23-is-hiring.html",
+      "path": "posts/2025-12-08-truemetrics-yc-s23-is-hiring.html",
+      "date_iso": "2025-12-08T07:00:33+00:00",
+      "source": "https://www.ycombinator.com/companies/truemetrics/jobs/1EHTSyT-python-software-engineer-analystics-and-algorithms",
+      "summary": "Article URL: https://www.ycombinator.com/companies/truemetrics/jobs/1EHTSyT-python-software-engineer-analystics-and-algorithms Comments URL: https://news.ycombinator.com/item?id=46189258 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46188451",
+      "title": "Palantir Could Be the Most Overvalued Company That Ever Existed",
+      "slug": "2025-12-08-palantir-could-be-the-most-overvalued-company-that-ever-existed.html",
+      "path": "posts/2025-12-08-palantir-could-be-the-most-overvalued-company-that-ever-existed.html",
+      "date_iso": "2025-12-08T04:45:20+00:00",
+      "source": "https://247wallst.com/investing/2025/11/25/palantir-could-be-the-most-overvalued-company-that-ever-existed/",
+      "summary": "Article URL: https://247wallst.com/investing/2025/11/25/palantir-could-be-the-most-overvalued-company-that-ever-existed/ Comments URL: https://news.ycombinator.com/item?id=46188451 Points: 30 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46187387",
+      "title": "Damn Small Linux",
+      "slug": "2025-12-08-damn-small-linux.html",
+      "path": "posts/2025-12-08-damn-small-linux.html",
+      "date_iso": "2025-12-08T01:47:11+00:00",
+      "source": "https://www.damnsmalllinux.org/",
+      "summary": "Article URL: https://www.damnsmalllinux.org/ Comments URL: https://news.ycombinator.com/item?id=46187387 Points: 53 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46186917",
+      "title": "Show HN: Cdecl-dump - represent C declarations visually",
+      "slug": "2025-12-08-show-hn-cdecl-dump-represent-c-declarations-visually.html",
+      "path": "posts/2025-12-08-show-hn-cdecl-dump-represent-c-declarations-visually.html",
+      "date_iso": "2025-12-08T00:26:04+00:00",
+      "source": "https://github.com/bbu/cdecl-dump",
+      "summary": "A small tool that parses C declarations and outputs a simple visual representation at each stage, as it encounters arrays, pointers or functions. The program uses a table-driven lexer and a hand-written, shift-reduce parser. No external dependencies apart from the standard libra…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46185957",
+      "title": "Bag of words, have mercy on us",
+      "slug": "2025-12-07-bag-of-words-have-mercy-on-us.html",
+      "path": "posts/2025-12-07-bag-of-words-have-mercy-on-us.html",
+      "date_iso": "2025-12-07T22:31:22+00:00",
+      "source": "https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us",
+      "summary": "Article URL: https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us Comments URL: https://news.ycombinator.com/item?id=46185957 Points: 147 # Comments: 142"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46185816",
+      "title": "How I block all online ads",
+      "slug": "2025-12-07-how-i-block-all-online-ads.html",
+      "path": "posts/2025-12-07-how-i-block-all-online-ads.html",
+      "date_iso": "2025-12-07T22:18:59+00:00",
+      "source": "https://troubled.engineer/posts/no-ads/",
+      "summary": "Article URL: https://troubled.engineer/posts/no-ads/ Comments URL: https://news.ycombinator.com/item?id=46185816 Points: 161 # Comments: 129"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46185576",
+      "title": "Mechanical power generation using Earth's ambient radiation",
+      "slug": "2025-12-07-mechanical-power-generation-using-earth-s-ambient-radiation.html",
+      "path": "posts/2025-12-07-mechanical-power-generation-using-earth-s-ambient-radiation.html",
+      "date_iso": "2025-12-07T21:55:01+00:00",
+      "source": "https://www.science.org/doi/10.1126/sciadv.adw6833",
+      "summary": "Article URL: https://www.science.org/doi/10.1126/sciadv.adw6833 Comments URL: https://news.ycombinator.com/item?id=46185576 Points: 105 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46184229",
+      "title": "Estimates are difficult for developers and product owners",
+      "slug": "2025-12-07-estimates-are-difficult-for-developers-and-product-owners.html",
+      "path": "posts/2025-12-07-estimates-are-difficult-for-developers-and-product-owners.html",
+      "date_iso": "2025-12-07T19:17:17+00:00",
+      "source": "https://thorsell.io/2025/12/07/estimates.html",
+      "summary": "Article URL: https://thorsell.io/2025/12/07/estimates.html Comments URL: https://news.ycombinator.com/item?id=46184229 Points: 190 # Comments: 197"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/07/technology/how-a-cryptocurrency-helps-criminals-launder-money-and-evade-sanctions.html",
+      "title": "How Stablecoins Can Help Criminals Launder Money and Evade Sanctions",
+      "slug": "2025-12-07-how-stablecoins-can-help-criminals-launder-money-and-evade-sanctions.html",
+      "path": "posts/2025-12-07-how-stablecoins-can-help-criminals-launder-money-and-evade-sanctions.html",
+      "date_iso": "2025-12-07T18:07:29+00:00",
+      "source": "https://www.nytimes.com/2025/12/07/technology/how-a-cryptocurrency-helps-criminals-launder-money-and-evade-sanctions.html",
+      "summary": "Through layers of intermediaries, stablecoins can be moved, swapped and mixed into pools of other funds in ways that are difficult to trace, experts say."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46183657",
+      "title": "The C++ standard for the F-35 Fighter Jet [video]",
+      "slug": "2025-12-07-the-c-standard-for-the-f-35-fighter-jet-video.html",
+      "path": "posts/2025-12-07-the-c-standard-for-the-f-35-fighter-jet-video.html",
+      "date_iso": "2025-12-07T18:07:06+00:00",
+      "source": "https://www.youtube.com/watch?v=Gv4sDL9Ljww",
+      "summary": "PDF: https://www.stroustrup.com/JSF-AV-rules.pdf Comments URL: https://news.ycombinator.com/item?id=46183657 Points: 237 # Comments: 242"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46183294",
+      "title": "I failed to recreate the 1996 Space Jam website with Claude",
+      "slug": "2025-12-07-i-failed-to-recreate-the-1996-space-jam-website-with-claude.html",
+      "path": "posts/2025-12-07-i-failed-to-recreate-the-1996-space-jam-website-with-claude.html",
+      "date_iso": "2025-12-07T17:18:54+00:00",
+      "source": "https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/",
+      "summary": "Article URL: https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/ Comments URL: https://news.ycombinator.com/item?id=46183294 Points: 407 # Comments: 336"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46182202",
+      "title": "Scala 3 slowed us down?",
+      "slug": "2025-12-07-scala-3-slowed-us-down.html",
+      "path": "posts/2025-12-07-scala-3-slowed-us-down.html",
+      "date_iso": "2025-12-07T15:08:17+00:00",
+      "source": "https://kmaliszewski9.github.io/scala/2025/12/07/scala3-slowdown.html",
+      "summary": "Article URL: https://kmaliszewski9.github.io/scala/2025/12/07/scala3-slowdown.html Comments URL: https://news.ycombinator.com/item?id=46182202 Points: 209 # Comments: 129"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46182031",
+      "title": "Nested Learning: A new ML paradigm for continual learning",
+      "slug": "2025-12-07-nested-learning-a-new-ml-paradigm-for-continual-learning.html",
+      "path": "posts/2025-12-07-nested-learning-a-new-ml-paradigm-for-continual-learning.html",
+      "date_iso": "2025-12-07T14:47:02+00:00",
+      "source": "https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/",
+      "summary": "Article URL: https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/ Comments URL: https://news.ycombinator.com/item?id=46182031 Points: 109 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46181962",
+      "title": "Dollar-stores overcharge customers while promising low prices",
+      "slug": "2025-12-07-dollar-stores-overcharge-customers-while-promising-low-prices.html",
+      "path": "posts/2025-12-07-dollar-stores-overcharge-customers-while-promising-low-prices.html",
+      "date_iso": "2025-12-07T14:37:21+00:00",
+      "source": "https://www.theguardian.com/us-news/2025/dec/03/customers-pay-more-rising-dollar-store-costs",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2025/dec/03/customers-pay-more-rising-dollar-store-costs Comments URL: https://news.ycombinator.com/item?id=46181962 Points: 357 # Comments: 491"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46181491",
+      "title": "The state of Schleswig-Holstein is consistently relying on open source",
+      "slug": "2025-12-07-the-state-of-schleswig-holstein-is-consistently-relying-on-open-source.html",
+      "path": "posts/2025-12-07-the-state-of-schleswig-holstein-is-consistently-relying-on-open-source.html",
+      "date_iso": "2025-12-07T13:21:24+00:00",
+      "source": "https://www.heise.de/en/news/Goodbye-Microsoft-Schleswig-Holstein-relies-on-Open-Source-and-saves-millions-11105459.html",
+      "summary": "Article URL: https://www.heise.de/en/news/Goodbye-Microsoft-Schleswig-Holstein-relies-on-Open-Source-and-saves-millions-11105459.html Comments URL: https://news.ycombinator.com/item?id=46181491 Points: 543 # Comments: 248"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46181371",
+      "title": "I wasted years of my life in crypto",
+      "slug": "2025-12-07-i-wasted-years-of-my-life-in-crypto.html",
+      "path": "posts/2025-12-07-i-wasted-years-of-my-life-in-crypto.html",
+      "date_iso": "2025-12-07T12:57:59+00:00",
+      "source": "https://twitter.com/kenchangh/status/1994854381267947640",
+      "summary": "https://archive.is/jEJAj Comments URL: https://news.ycombinator.com/item?id=46181371 Points: 146 # Comments: 215"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46181268",
+      "title": "The Anatomy of a macOS App",
+      "slug": "2025-12-07-the-anatomy-of-a-macos-app.html",
+      "path": "posts/2025-12-07-the-anatomy-of-a-macos-app.html",
+      "date_iso": "2025-12-07T12:31:53+00:00",
+      "source": "https://eclecticlight.co/2025/12/04/the-anatomy-of-a-macos-app/",
+      "summary": "Article URL: https://eclecticlight.co/2025/12/04/the-anatomy-of-a-macos-app/ Comments URL: https://news.ycombinator.com/item?id=46181268 Points: 221 # Comments: 61"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46181231",
+      "title": "Google Titans architecture, helping AI have long-term memory",
+      "slug": "2025-12-07-google-titans-architecture-helping-ai-have-long-term-memory.html",
+      "path": "posts/2025-12-07-google-titans-architecture-helping-ai-have-long-term-memory.html",
+      "date_iso": "2025-12-07T12:23:45+00:00",
+      "source": "https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/",
+      "summary": "Article URL: https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/ Comments URL: https://news.ycombinator.com/item?id=46181231 Points: 465 # Comments: 153"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46181076",
+      "title": "Java Hello World, LLVM Edition",
+      "slug": "2025-12-07-java-hello-world-llvm-edition.html",
+      "path": "posts/2025-12-07-java-hello-world-llvm-edition.html",
+      "date_iso": "2025-12-07T11:51:02+00:00",
+      "source": "https://www.javaadvent.com/2025/12/java-hello-world-llvm-edition.html",
+      "summary": "Article URL: https://www.javaadvent.com/2025/12/java-hello-world-llvm-edition.html Comments URL: https://news.ycombinator.com/item?id=46181076 Points: 175 # Comments: 68"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/07/style/wedding-planning-reddit.html",
+      "title": "I Let Reddit Choose My Wedding Dress — and They Got It Right",
+      "slug": "2025-12-07-i-let-reddit-choose-my-wedding-dress-and-they-got-it-right.html",
+      "path": "posts/2025-12-07-i-let-reddit-choose-my-wedding-dress-and-they-got-it-right.html",
+      "date_iso": "2025-12-07T10:01:47+00:00",
+      "source": "https://www.nytimes.com/2025/12/07/style/wedding-planning-reddit.html",
+      "summary": "Sometimes it’s easier to talk to strangers, which might explain why the platform has become an increasingly popular resource for wedding planning."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46178892",
       "title": "Discovering the indieweb with calm tech",
       "slug": "2025-12-07-discovering-the-indieweb-with-calm-tech.html",
@@ -134,6 +314,15 @@
       "date_iso": "2025-12-06T20:15:54+00:00",
       "source": "https://arxiv.org/abs/2505.17272",
       "summary": "Article URL: https://arxiv.org/abs/2505.17272 Comments URL: https://news.ycombinator.com/item?id=46176289 Points: 93 # Comments: 44"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46176169",
+      "title": "CATL expects oceanic electric ships in 3 years",
+      "slug": "2025-12-06-catl-expects-oceanic-electric-ships-in-3-years.html",
+      "path": "posts/2025-12-06-catl-expects-oceanic-electric-ships-in-3-years.html",
+      "date_iso": "2025-12-06T20:00:17+00:00",
+      "source": "https://cleantechnica.com/2025/12/05/catl-expects-oceanic-electric-ships-in-3-years/",
+      "summary": "Article URL: https://cleantechnica.com/2025/12/05/catl-expects-oceanic-electric-ships-in-3-years/ Comments URL: https://news.ycombinator.com/item?id=46176169 Points: 102 # Comments: 102"
     },
     {
       "id": "https://news.ycombinator.com/item?id=46175826",
@@ -314,6 +503,15 @@
       "date_iso": "2025-12-05T20:18:22+00:00",
       "source": "https://susam.net/fizz-buzz-in-css.html",
       "summary": "Article URL: https://susam.net/fizz-buzz-in-css.html Comments URL: https://news.ycombinator.com/item?id=46166708 Points: 83 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46166161",
+      "title": "A two-person method to simulate die rolls (2023)",
+      "slug": "2025-12-05-a-two-person-method-to-simulate-die-rolls-2023.html",
+      "path": "posts/2025-12-05-a-two-person-method-to-simulate-die-rolls-2023.html",
+      "date_iso": "2025-12-05T19:32:17+00:00",
+      "source": "https://blog.42yeah.is/algorithm/2023/08/05/two-person-die.html",
+      "summary": "Article URL: https://blog.42yeah.is/algorithm/2023/08/05/two-person-die.html Comments URL: https://news.ycombinator.com/item?id=46166161 Points: 60 # Comments: 34"
     },
     {
       "id": "https://www.nytimes.com/2025/12/05/technology/eu-elon-musk-x-140-million-fine.html",
