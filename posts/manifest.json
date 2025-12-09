@@ -1,6 +1,240 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46201381",
+      "title": "Modern Walkmans",
+      "slug": "2025-12-09-modern-walkmans.html",
+      "path": "posts/2025-12-09-modern-walkmans.html",
+      "date_iso": "2025-12-09T04:57:53+00:00",
+      "source": "https://walkman.land/modern",
+      "summary": "Article URL: https://walkman.land/modern Comments URL: https://news.ycombinator.com/item?id=46201381 Points: 90 # Comments: 54"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/08/theater/marjorie-prime-review-june-squibb.html",
+      "title": "‘Marjorie Prime’ Review: A.I. Gave Her Back Her Husband. Was It Worth It?",
+      "slug": "2025-12-09-marjorie-prime-review-a-i-gave-her-back-her-husband-was-it-worth-it.html",
+      "path": "posts/2025-12-09-marjorie-prime-review-a-i-gave-her-back-her-husband-was-it-worth-it.html",
+      "date_iso": "2025-12-09T03:13:48+00:00",
+      "source": "https://www.nytimes.com/2025/12/08/theater/marjorie-prime-review-june-squibb.html",
+      "summary": "June Squibb, right, plays the titular character of “Marjorie Prime,” with Christopher Lowell as an A.I. replica of her deceased husband as he was in his 30s."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/08/technology/ftc-andrew-ferguson-regulator.html",
+      "title": "Who Is Andrew Ferguson, the FTC Chairman Who Tilted the Agency to Trump?",
+      "slug": "2025-12-09-who-is-andrew-ferguson-the-ftc-chairman-who-tilted-the-agency-to-trump.html",
+      "path": "posts/2025-12-09-who-is-andrew-ferguson-the-ftc-chairman-who-tilted-the-agency-to-trump.html",
+      "date_iso": "2025-12-09T00:54:41+00:00",
+      "source": "https://www.nytimes.com/2025/12/08/technology/ftc-andrew-ferguson-regulator.html",
+      "summary": "Andrew Ferguson, the chairman of the Federal Trade Commission, during a House Appropriations Subcommittee on Financial Services and General Government hearing in May."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46199950",
+      "title": "The Lost Machine Automats and Self-Service Cafeterias of NYC (2023)",
+      "slug": "2025-12-09-the-lost-machine-automats-and-self-service-cafeterias-of-nyc-2023.html",
+      "path": "posts/2025-12-09-the-lost-machine-automats-and-self-service-cafeterias-of-nyc-2023.html",
+      "date_iso": "2025-12-09T00:51:31+00:00",
+      "source": "https://www.untappedcities.com/automats-cafeterias-nyc/",
+      "summary": "Article URL: https://www.untappedcities.com/automats-cafeterias-nyc/ Comments URL: https://news.ycombinator.com/item?id=46199950 Points: 64 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46199935",
+      "title": "Scientific and Technical Amateur Radio",
+      "slug": "2025-12-09-scientific-and-technical-amateur-radio.html",
+      "path": "posts/2025-12-09-scientific-and-technical-amateur-radio.html",
+      "date_iso": "2025-12-09T00:50:32+00:00",
+      "source": "https://destevez.net/",
+      "summary": "Article URL: https://destevez.net/ Comments URL: https://news.ycombinator.com/item?id=46199935 Points: 43 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46199723",
+      "title": "Horses: AI progress is steady. Human equivalence is sudden",
+      "slug": "2025-12-09-horses-ai-progress-is-steady-human-equivalence-is-sudden.html",
+      "path": "posts/2025-12-09-horses-ai-progress-is-steady-human-equivalence-is-sudden.html",
+      "date_iso": "2025-12-09T00:26:35+00:00",
+      "source": "https://andyljones.com/posts/horses.html",
+      "summary": "Article URL: https://andyljones.com/posts/horses.html Comments URL: https://news.ycombinator.com/item?id=46199723 Points: 304 # Comments: 212"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46199623",
+      "title": "The universal weight subspace hypothesis",
+      "slug": "2025-12-09-the-universal-weight-subspace-hypothesis.html",
+      "path": "posts/2025-12-09-the-universal-weight-subspace-hypothesis.html",
+      "date_iso": "2025-12-09T00:16:46+00:00",
+      "source": "https://arxiv.org/abs/2512.05117",
+      "summary": "Article URL: https://arxiv.org/abs/2512.05117 Comments URL: https://news.ycombinator.com/item?id=46199623 Points: 226 # Comments: 81"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46199530",
+      "title": "Manual: Spaces",
+      "slug": "2025-12-09-manual-spaces.html",
+      "path": "posts/2025-12-09-manual-spaces.html",
+      "date_iso": "2025-12-09T00:07:42+00:00",
+      "source": "https://type.today/en/journal/spaces",
+      "summary": "Article URL: https://type.today/en/journal/spaces Comments URL: https://news.ycombinator.com/item?id=46199530 Points: 16 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46199411",
+      "title": "Kroger acknowledges that its bet on robotics went too far",
+      "slug": "2025-12-08-kroger-acknowledges-that-its-bet-on-robotics-went-too-far.html",
+      "path": "posts/2025-12-08-kroger-acknowledges-that-its-bet-on-robotics-went-too-far.html",
+      "date_iso": "2025-12-08T23:53:52+00:00",
+      "source": "https://www.grocerydive.com/news/kroger-ocado-close-automated-fulfillment-centers-robotics-grocery-ecommerce/805931/",
+      "summary": "Article URL: https://www.grocerydive.com/news/kroger-ocado-close-automated-fulfillment-centers-robotics-grocery-ecommerce/805931/ Comments URL: https://news.ycombinator.com/item?id=46199411 Points: 129 # Comments: 113"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/08/business/apple-iceblock-lawsuit.html",
+      "title": "App That Tracks ICE Raids Sues U.S., Saying Officials Pressured Apple to Remove It",
+      "slug": "2025-12-08-app-that-tracks-ice-raids-sues-u-s-saying-officials-pressured-apple-to-remove-it.html",
+      "path": "posts/2025-12-08-app-that-tracks-ice-raids-sues-u-s-saying-officials-pressured-apple-to-remove-it.html",
+      "date_iso": "2025-12-08T22:32:37+00:00",
+      "source": "https://www.nytimes.com/2025/12/08/business/apple-iceblock-lawsuit.html",
+      "summary": "A street raid by Immigration and Customs Enforcement agents and other federal law enforcement officers along Canal Street in New York in October."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/08/business/trump-nvidia-chips-china.html",
+      "title": "Trump Clears Sale of More Powerful Nvidia A.I. Chips to China",
+      "slug": "2025-12-08-trump-clears-sale-of-more-powerful-nvidia-a-i-chips-to-china.html",
+      "path": "posts/2025-12-08-trump-clears-sale-of-more-powerful-nvidia-a-i-chips-to-china.html",
+      "date_iso": "2025-12-08T22:30:02+00:00",
+      "source": "https://www.nytimes.com/2025/12/08/business/trump-nvidia-chips-china.html",
+      "summary": "The Trump administration wants to encourage Chinese companies to use Nvidia’s H200 chip while limiting sales of the company’s newest chips, known as Blackwell."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46198430",
+      "title": "Show HN: I built a system for active note-taking in regular meetings like 1-1s",
+      "slug": "2025-12-08-show-hn-i-built-a-system-for-active-note-taking-in-regular-meetings-like-1-1s.html",
+      "path": "posts/2025-12-08-show-hn-i-built-a-system-for-active-note-taking-in-regular-meetings-like-1-1s.html",
+      "date_iso": "2025-12-08T22:21:26+00:00",
+      "source": "https://withdocket.com",
+      "summary": "Hey HN! Like most here regular meetings have always been a big part of my work. Over the years I've learned the value of active note taking in these meetings. Meaning: not minutes, not transcriptions or AI summaries, but me using my brain to actively pull out the key points in s…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46196688",
+      "title": "Icons in Menus Everywhere – Send Help",
+      "slug": "2025-12-08-icons-in-menus-everywhere-send-help.html",
+      "path": "posts/2025-12-08-icons-in-menus-everywhere-send-help.html",
+      "date_iso": "2025-12-08T19:44:00+00:00",
+      "source": "https://blog.jim-nielsen.com/2025/icons-in-menus/",
+      "summary": "Article URL: https://blog.jim-nielsen.com/2025/icons-in-menus/ Comments URL: https://news.ycombinator.com/item?id=46196688 Points: 391 # Comments: 153"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46196308",
+      "title": "Trials avoid high risk patients and underestimate drug harms",
+      "slug": "2025-12-08-trials-avoid-high-risk-patients-and-underestimate-drug-harms.html",
+      "path": "posts/2025-12-08-trials-avoid-high-risk-patients-and-underestimate-drug-harms.html",
+      "date_iso": "2025-12-08T19:07:59+00:00",
+      "source": "https://www.nber.org/papers/w34534",
+      "summary": "Article URL: https://www.nber.org/papers/w34534 Comments URL: https://news.ycombinator.com/item?id=46196308 Points: 101 # Comments: 35"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/08/technology/ai-slop-sora-social-media.html",
+      "title": "A.I. Videos Have Flooded Social Media. No One Was Ready.",
+      "slug": "2025-12-08-a-i-videos-have-flooded-social-media-no-one-was-ready.html",
+      "path": "posts/2025-12-08-a-i-videos-have-flooded-social-media-no-one-was-ready.html",
+      "date_iso": "2025-12-08T19:03:40+00:00",
+      "source": "https://www.nytimes.com/2025/12/08/technology/ai-slop-sora-social-media.html",
+      "summary": "Apps like OpenAI’s Sora are fooling millions of users into thinking A.I. videos are real, even when they include warning labels."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46196228",
+      "title": "Has the cost of building software dropped 90%?",
+      "slug": "2025-12-08-has-the-cost-of-building-software-dropped-90.html",
+      "path": "posts/2025-12-08-has-the-cost-of-building-software-dropped-90.html",
+      "date_iso": "2025-12-08T19:00:48+00:00",
+      "source": "https://martinalderson.com/posts/has-the-cost-of-software-just-dropped-90-percent/",
+      "summary": "Article URL: https://martinalderson.com/posts/has-the-cost-of-software-just-dropped-90-percent/ Comments URL: https://news.ycombinator.com/item?id=46196228 Points: 242 # Comments: 381"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46196105",
+      "title": "Jepsen: NATS 2.12.1",
+      "slug": "2025-12-08-jepsen-nats-2-12-1.html",
+      "path": "posts/2025-12-08-jepsen-nats-2-12-1.html",
+      "date_iso": "2025-12-08T18:51:03+00:00",
+      "source": "https://jepsen.io/analyses/nats-2.12.1",
+      "summary": "Article URL: https://jepsen.io/analyses/nats-2.12.1 Comments URL: https://news.ycombinator.com/item?id=46196105 Points: 337 # Comments: 118"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46195198",
+      "title": "AI should only run as fast as we can catch up",
+      "slug": "2025-12-08-ai-should-only-run-as-fast-as-we-can-catch-up.html",
+      "path": "posts/2025-12-08-ai-should-only-run-as-fast-as-we-can-catch-up.html",
+      "date_iso": "2025-12-08T17:38:34+00:00",
+      "source": "https://higashi.blog/2025/12/07/ai-verification/",
+      "summary": "Article URL: https://higashi.blog/2025/12/07/ai-verification/ Comments URL: https://news.ycombinator.com/item?id=46195198 Points: 142 # Comments: 129"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46194828",
+      "title": "Launch HN: Nia (YC S25) – Give better context to coding agents",
+      "slug": "2025-12-08-launch-hn-nia-yc-s25-give-better-context-to-coding-agents.html",
+      "path": "posts/2025-12-08-launch-hn-nia-yc-s25-give-better-context-to-coding-agents.html",
+      "date_iso": "2025-12-08T17:10:14+00:00",
+      "source": "https://www.trynia.ai/",
+      "summary": "Hi HN, I am Arlan and I am building Nia ( https://trynia.ai ), a context layer for AI coding agents. Nia lets tools like Cursor, Claude Code, and other MCP clients index and query real codebases and documentation so they stop hallucinating against outdated or wrong sources, with…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46194477",
+      "title": "A series of tricks and techniques I learned doing tiny GLSL demos",
+      "slug": "2025-12-08-a-series-of-tricks-and-techniques-i-learned-doing-tiny-glsl-demos.html",
+      "path": "posts/2025-12-08-a-series-of-tricks-and-techniques-i-learned-doing-tiny-glsl-demos.html",
+      "date_iso": "2025-12-08T16:44:42+00:00",
+      "source": "https://blog.pkh.me/p/48-a-series-of-tricks-and-techniques-i-learned-doing-tiny-glsl-demos.html",
+      "summary": "Article URL: https://blog.pkh.me/p/48-a-series-of-tricks-and-techniques-i-learned-doing-tiny-glsl-demos.html Comments URL: https://news.ycombinator.com/item?id=46194477 Points: 161 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46194384",
+      "title": "Hunting for North Korean Fiber Optic Cables",
+      "slug": "2025-12-08-hunting-for-north-korean-fiber-optic-cables.html",
+      "path": "posts/2025-12-08-hunting-for-north-korean-fiber-optic-cables.html",
+      "date_iso": "2025-12-08T16:38:08+00:00",
+      "source": "https://nkinternet.com/2025/12/08/hunting-for-north-korean-fiber-optic-cables/",
+      "summary": "Article URL: https://nkinternet.com/2025/12/08/hunting-for-north-korean-fiber-optic-cables/ Comments URL: https://news.ycombinator.com/item?id=46194384 Points: 245 # Comments: 76"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46194337",
+      "title": "Let's put Tailscale on a jailbroken Kindle",
+      "slug": "2025-12-08-let-s-put-tailscale-on-a-jailbroken-kindle.html",
+      "path": "posts/2025-12-08-let-s-put-tailscale-on-a-jailbroken-kindle.html",
+      "date_iso": "2025-12-08T16:34:08+00:00",
+      "source": "https://tailscale.com/blog/tailscale-jailbroken-kindle",
+      "summary": "Article URL: https://tailscale.com/blog/tailscale-jailbroken-kindle Comments URL: https://news.ycombinator.com/item?id=46194337 Points: 262 # Comments: 64"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46193931",
+      "title": "AMD GPU Debugger",
+      "slug": "2025-12-08-amd-gpu-debugger.html",
+      "path": "posts/2025-12-08-amd-gpu-debugger.html",
+      "date_iso": "2025-12-08T16:06:14+00:00",
+      "source": "https://thegeeko.me/blog/amd-gpu-debugging/",
+      "summary": "Article URL: https://thegeeko.me/blog/amd-gpu-debugging/ Comments URL: https://news.ycombinator.com/item?id=46193931 Points: 230 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46192846",
+      "title": "Strong earthquake hits northern Japan, tsunami warning issued",
+      "slug": "2025-12-08-strong-earthquake-hits-northern-japan-tsunami-warning-issued.html",
+      "path": "posts/2025-12-08-strong-earthquake-hits-northern-japan-tsunami-warning-issued.html",
+      "date_iso": "2025-12-08T14:50:48+00:00",
+      "source": "https://www3.nhk.or.jp/nhkworld/en/news/20251209_02/",
+      "summary": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eve... https://www3.nhk.or.jp/nhkworld/en/news/weather-disaster/tsu... https://earthquake.usgs.gov/earthquakes/map/?currentFeatureI... https://www.tsunami.gov/?p=PHEB/2025/12/08/25342050/2/WEPA40 Comments URL: https://news…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46192459",
+      "title": "Paramount launches hostile bid for Warner Bros",
+      "slug": "2025-12-08-paramount-launches-hostile-bid-for-warner-bros.html",
+      "path": "posts/2025-12-08-paramount-launches-hostile-bid-for-warner-bros.html",
+      "date_iso": "2025-12-08T14:16:34+00:00",
+      "source": "https://www.cnbc.com/2025/12/08/paramount-skydance-hostile-bid-wbd-netflix.html",
+      "summary": "Previously: Netflix to Acquire Warner Bros - https://news.ycombinator.com/item?id=46160315 (1333 comments) Comments URL: https://news.ycombinator.com/item?id=46192459 Points: 293 # Comments: 291"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/08/travel/facial-recoginition-flights-airports-orlando.html",
+      "title": "New Facial-Recognition Tech Could Let You Keep Your Passport in Your Pocket at the Airport",
+      "slug": "2025-12-08-new-facial-recognition-tech-could-let-you-keep-your-passport-in-your-pocket-at-the-airport.html",
+      "path": "posts/2025-12-08-new-facial-recognition-tech-could-let-you-keep-your-passport-in-your-pocket-at-the-airport.html",
+      "date_iso": "2025-12-08T10:03:05+00:00",
+      "source": "https://www.nytimes.com/2025/12/08/travel/facial-recoginition-flights-airports-orlando.html",
+      "summary": "Biometric technology made by iProov is part of three identity-confirmation pilot programs at Orlando International Airport."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46189258",
       "title": "Truemetrics (YC S23) Is Hiring",
       "slug": "2025-12-08-truemetrics-yc-s23-is-hiring.html",
