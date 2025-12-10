@@ -1,6 +1,258 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46214693",
+      "title": "Revisiting \"Let's Build a Compiler\"",
+      "slug": "2025-12-10-revisiting-let-s-build-a-compiler.html",
+      "path": "posts/2025-12-10-revisiting-let-s-build-a-compiler.html",
+      "date_iso": "2025-12-10T06:22:19+00:00",
+      "source": "https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/",
+      "summary": "Article URL: https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/ Comments URL: https://news.ycombinator.com/item?id=46214693 Points: 6 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/10/world/asia/dutch-nexperia-zhang-ceo.html",
+      "title": "Chip Company Plotted to Send Technology to China, Ex-C.E.O. Says",
+      "slug": "2025-12-10-chip-company-plotted-to-send-technology-to-china-ex-c-e-o-says.html",
+      "path": "posts/2025-12-10-chip-company-plotted-to-send-technology-to-china-ex-c-e-o-says.html",
+      "date_iso": "2025-12-10T05:00:08+00:00",
+      "source": "https://www.nytimes.com/2025/12/10/world/asia/dutch-nexperia-zhang-ceo.html",
+      "summary": "On a production line of the Dutch semiconductor company Nexperia in Hamburg, Germany, last year. Dutch officials seized the company in September."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46214091",
+      "title": "Dependable C",
+      "slug": "2025-12-10-dependable-c.html",
+      "path": "posts/2025-12-10-dependable-c.html",
+      "date_iso": "2025-12-10T04:29:30+00:00",
+      "source": "https://dependablec.org/",
+      "summary": "Article URL: https://dependablec.org/ Comments URL: https://news.ycombinator.com/item?id=46214091 Points: 23 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46213709",
+      "title": "'Source available' is not open source (and that's okay)",
+      "slug": "2025-12-10-source-available-is-not-open-source-and-that-s-okay.html",
+      "path": "posts/2025-12-10-source-available-is-not-open-source-and-that-s-okay.html",
+      "date_iso": "2025-12-10T03:33:14+00:00",
+      "source": "https://dri.es/source-available-is-not-open-source-and-that-is-okay",
+      "summary": "Article URL: https://dri.es/source-available-is-not-open-source-and-that-is-okay Comments URL: https://news.ycombinator.com/item?id=46213709 Points: 63 # Comments: 50"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46213585",
+      "title": "The end of the kernel Rust experiment",
+      "slug": "2025-12-10-the-end-of-the-kernel-rust-experiment.html",
+      "path": "posts/2025-12-10-the-end-of-the-kernel-rust-experiment.html",
+      "date_iso": "2025-12-10T03:15:24+00:00",
+      "source": "https://lwn.net/Articles/1049831/",
+      "summary": "Article URL: https://lwn.net/Articles/1049831/ Comments URL: https://news.ycombinator.com/item?id=46213585 Points: 289 # Comments: 129"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46213273",
+      "title": "Show all your application error using Cloudflare Error Page",
+      "slug": "2025-12-10-show-all-your-application-error-using-cloudflare-error-page.html",
+      "path": "posts/2025-12-10-show-all-your-application-error-using-cloudflare-error-page.html",
+      "date_iso": "2025-12-10T02:18:07+00:00",
+      "source": "https://github.com/donlon/cloudflare-error-page",
+      "summary": "Article URL: https://github.com/donlon/cloudflare-error-page Comments URL: https://news.ycombinator.com/item?id=46213273 Points: 19 # Comments: 5"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/09/business/china-gains-trump-nvidia-chips.html",
+      "title": "Trump Eases Limits on Nvidia Exports to China at ‘Critical Moment’",
+      "slug": "2025-12-10-trump-eases-limits-on-nvidia-exports-to-china-at-critical-moment.html",
+      "path": "posts/2025-12-10-trump-eases-limits-on-nvidia-exports-to-china-at-critical-moment.html",
+      "date_iso": "2025-12-10T01:51:04+00:00",
+      "source": "https://www.nytimes.com/2025/12/09/business/china-gains-trump-nvidia-chips.html",
+      "summary": "Nvidia has argued that blocking access to its chips has only spurred Chinese companies to improve faster."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/09/us/politics/trump-nvidia-ai-chips-china.html",
+      "title": "Trump’s Nvidia Chip Deal Reverses Decades of Technology Restrictions",
+      "slug": "2025-12-10-trump-s-nvidia-chip-deal-reverses-decades-of-technology-restrictions.html",
+      "path": "posts/2025-12-10-trump-s-nvidia-chip-deal-reverses-decades-of-technology-restrictions.html",
+      "date_iso": "2025-12-10T01:21:15+00:00",
+      "source": "https://www.nytimes.com/2025/12/09/us/politics/trump-nvidia-ai-chips-china.html",
+      "summary": "President Trump with Jensen Huang, the chief executive of Nvidia, at the White House in April."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46211861",
+      "title": "OpenEvolve: Teaching LLMs to Discover Algorithms Through Evolution",
+      "slug": "2025-12-09-openevolve-teaching-llms-to-discover-algorithms-through-evolution.html",
+      "path": "posts/2025-12-09-openevolve-teaching-llms-to-discover-algorithms-through-evolution.html",
+      "date_iso": "2025-12-09T22:54:33+00:00",
+      "source": "https://algorithmicsuperintelligence.ai/blog/openevolve-overview/index.html",
+      "summary": "Article URL: https://algorithmicsuperintelligence.ai/blog/openevolve-overview/index.html Comments URL: https://news.ycombinator.com/item?id=46211861 Points: 35 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46211802",
+      "title": "Linux CVEs, more than you ever wanted to know",
+      "slug": "2025-12-09-linux-cves-more-than-you-ever-wanted-to-know.html",
+      "path": "posts/2025-12-09-linux-cves-more-than-you-ever-wanted-to-know.html",
+      "date_iso": "2025-12-09T22:47:36+00:00",
+      "source": "http://www.kroah.com/log/blog/2025/12/08/linux-cves-more-than-you-ever-wanted-to-know/",
+      "summary": "Article URL: http://www.kroah.com/log/blog/2025/12/08/linux-cves-more-than-you-ever-wanted-to-know/ Comments URL: https://news.ycombinator.com/item?id=46211802 Points: 47 # Comments: 28"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46210806",
+      "title": "Qt, Linux and everything: Debugging Qt WebAssembly",
+      "slug": "2025-12-09-qt-linux-and-everything-debugging-qt-webassembly.html",
+      "path": "posts/2025-12-09-qt-linux-and-everything-debugging-qt-webassembly.html",
+      "date_iso": "2025-12-09T21:19:37+00:00",
+      "source": "http://qtandeverything.blogspot.com/2025/12/debugging-qt-webassembly-dwarf.html",
+      "summary": "Article URL: http://qtandeverything.blogspot.com/2025/12/debugging-qt-webassembly-dwarf.html Comments URL: https://news.ycombinator.com/item?id=46210806 Points: 58 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46210240",
+      "title": "Django: what’s new in 6.0",
+      "slug": "2025-12-09-django-what-s-new-in-6-0.html",
+      "path": "posts/2025-12-09-django-what-s-new-in-6-0.html",
+      "date_iso": "2025-12-09T20:33:14+00:00",
+      "source": "https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/",
+      "summary": "Article URL: https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/ Comments URL: https://news.ycombinator.com/item?id=46210240 Points: 228 # Comments: 53"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/09/well/family/tik-tok-you-tube-teen-use-pew-study.html",
+      "title": "Some Teens Are on Social Media ‘Almost Constantly,’ Survey Says",
+      "slug": "2025-12-09-some-teens-are-on-social-media-almost-constantly-survey-says.html",
+      "path": "posts/2025-12-09-some-teens-are-on-social-media-almost-constantly-survey-says.html",
+      "date_iso": "2025-12-09T20:06:31+00:00",
+      "source": "https://www.nytimes.com/2025/12/09/well/family/tik-tok-you-tube-teen-use-pew-study.html",
+      "summary": "The new Pew report also found that two-thirds of teens said they had used an A.I. chatbot."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46209846",
+      "title": "Agentic AI Foundation",
+      "slug": "2025-12-09-agentic-ai-foundation.html",
+      "path": "posts/2025-12-09-agentic-ai-foundation.html",
+      "date_iso": "2025-12-09T20:00:39+00:00",
+      "source": "https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation",
+      "summary": "Article URL: https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation Comments URL: https://news.ycombinator.com/item?id=46209846 Points: 97 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46208962",
+      "title": "10 Years of Let's Encrypt",
+      "slug": "2025-12-09-10-years-of-let-s-encrypt.html",
+      "path": "posts/2025-12-09-10-years-of-let-s-encrypt.html",
+      "date_iso": "2025-12-09T18:54:55+00:00",
+      "source": "https://letsencrypt.org/2025/12/09/10-years",
+      "summary": "Article URL: https://letsencrypt.org/2025/12/09/10-years Comments URL: https://news.ycombinator.com/item?id=46208962 Points: 592 # Comments: 252"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/09/arts/design/waymo-cars-artists.html",
+      "title": "How Art Is Driving Waymo’s Feel-Good Branding",
+      "slug": "2025-12-09-how-art-is-driving-waymo-s-feel-good-branding.html",
+      "path": "posts/2025-12-09-how-art-is-driving-waymo-s-feel-good-branding.html",
+      "date_iso": "2025-12-09T18:45:03+00:00",
+      "source": "https://www.nytimes.com/2025/12/09/arts/design/waymo-cars-artists.html",
+      "summary": "A Waymo self-driving car in Los Angeles wrapped with art by Tommii Lim. His cartoon cat is a stand-in for the target Waymo customer, who enjoys kicking back and relinquishing control of the wheel."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46208773",
+      "title": "So you want to speak at software conferences?",
+      "slug": "2025-12-09-so-you-want-to-speak-at-software-conferences.html",
+      "path": "posts/2025-12-09-so-you-want-to-speak-at-software-conferences.html",
+      "date_iso": "2025-12-09T18:42:27+00:00",
+      "source": "https://dylanbeattie.net/2025/12/08/so-you-want-to-speak-at-software-conferences.html",
+      "summary": "Article URL: https://dylanbeattie.net/2025/12/08/so-you-want-to-speak-at-software-conferences.html Comments URL: https://news.ycombinator.com/item?id=46208773 Points: 153 # Comments: 72"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46208409",
+      "title": "The stack circuitry of the Intel 8087 floating point chip, reverse-engineered",
+      "slug": "2025-12-09-the-stack-circuitry-of-the-intel-8087-floating-point-chip-reverse-engineered.html",
+      "path": "posts/2025-12-09-the-stack-circuitry-of-the-intel-8087-floating-point-chip-reverse-engineered.html",
+      "date_iso": "2025-12-09T18:16:44+00:00",
+      "source": "https://www.righto.com/2025/12/8087-stack-circuitry.html",
+      "summary": "Article URL: https://www.righto.com/2025/12/8087-stack-circuitry.html Comments URL: https://news.ycombinator.com/item?id=46208409 Points: 97 # Comments: 47"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46207505",
+      "title": "If you're going to vibe code, why not do it in C?",
+      "slug": "2025-12-09-if-you-re-going-to-vibe-code-why-not-do-it-in-c.html",
+      "path": "posts/2025-12-09-if-you-re-going-to-vibe-code-why-not-do-it-in-c.html",
+      "date_iso": "2025-12-09T17:11:09+00:00",
+      "source": "https://stephenramsay.net/posts/vibe-coding.html",
+      "summary": "Article URL: https://stephenramsay.net/posts/vibe-coding.html Comments URL: https://news.ycombinator.com/item?id=46207505 Points: 417 # Comments: 426"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46207464",
+      "title": "PeerTube is recognized as a digital public good by Digital Public Goods Alliance",
+      "slug": "2025-12-09-peertube-is-recognized-as-a-digital-public-good-by-digital-public-goods-alliance.html",
+      "path": "posts/2025-12-09-peertube-is-recognized-as-a-digital-public-good-by-digital-public-goods-alliance.html",
+      "date_iso": "2025-12-09T17:08:37+00:00",
+      "source": "https://www.digitalpublicgoods.net/r/peertube",
+      "summary": "Article URL: https://www.digitalpublicgoods.net/r/peertube Comments URL: https://news.ycombinator.com/item?id=46207464 Points: 483 # Comments: 81"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46207425",
+      "title": "Donating the Model Context Protocol and establishing the Agentic AI Foundation",
+      "slug": "2025-12-09-donating-the-model-context-protocol-and-establishing-the-agentic-ai-foundation.html",
+      "path": "posts/2025-12-09-donating-the-model-context-protocol-and-establishing-the-agentic-ai-foundation.html",
+      "date_iso": "2025-12-09T17:05:42+00:00",
+      "source": "https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation",
+      "summary": "Article URL: https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation Comments URL: https://news.ycombinator.com/item?id=46207425 Points: 199 # Comments: 96"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/09/technology/ai-boom-unlike-dot-com-boom.html",
+      "title": "Why the A.I. Boom Is Unlike the Dot-Com Boom",
+      "slug": "2025-12-09-why-the-a-i-boom-is-unlike-the-dot-com-boom.html",
+      "path": "posts/2025-12-09-why-the-a-i-boom-is-unlike-the-dot-com-boom.html",
+      "date_iso": "2025-12-09T16:31:38+00:00",
+      "source": "https://www.nytimes.com/2025/12/09/technology/ai-boom-unlike-dot-com-boom.html",
+      "summary": "Ben Horowitz, a major A.I. venture capitalist, in 2019. “The clearest sign that we are not actually in a bubble is the fact that everyone is talking about a bubble,” he said."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46206531",
+      "title": "Handsdown one of the coolest 3D websites",
+      "slug": "2025-12-09-handsdown-one-of-the-coolest-3d-websites.html",
+      "path": "posts/2025-12-09-handsdown-one-of-the-coolest-3d-websites.html",
+      "date_iso": "2025-12-09T16:06:58+00:00",
+      "source": "https://bruno-simon.com/",
+      "summary": "Article URL: https://bruno-simon.com/ Comments URL: https://news.ycombinator.com/item?id=46206531 Points: 514 # Comments: 123"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46206277",
+      "title": "A supersonic engine core makes the perfect power turbine",
+      "slug": "2025-12-09-a-supersonic-engine-core-makes-the-perfect-power-turbine.html",
+      "path": "posts/2025-12-09-a-supersonic-engine-core-makes-the-perfect-power-turbine.html",
+      "date_iso": "2025-12-09T15:51:32+00:00",
+      "source": "https://boomsupersonic.com/flyby/ai-needs-more-power-than-the-grid-can-deliver-supersonic-tech-can-fix-that",
+      "summary": "Article URL: https://boomsupersonic.com/flyby/ai-needs-more-power-than-the-grid-can-deliver-supersonic-tech-can-fix-that Comments URL: https://news.ycombinator.com/item?id=46206277 Points: 93 # Comments: 149"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46205661",
+      "title": "Pebble Index 01 – External memory for your brain",
+      "slug": "2025-12-09-pebble-index-01-external-memory-for-your-brain.html",
+      "path": "posts/2025-12-09-pebble-index-01-external-memory-for-your-brain.html",
+      "date_iso": "2025-12-09T15:03:09+00:00",
+      "source": "https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain",
+      "summary": "Article URL: https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain Comments URL: https://news.ycombinator.com/item?id=46205661 Points: 464 # Comments: 446"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46205632",
+      "title": "Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now",
+      "slug": "2025-12-09-show-hn-gemini-pro-3-hallucinates-the-hn-front-page-10-years-from-now.html",
+      "path": "posts/2025-12-09-show-hn-gemini-pro-3-hallucinates-the-hn-front-page-10-years-from-now.html",
+      "date_iso": "2025-12-09T15:00:38+00:00",
+      "source": "https://dosaygo-studio.github.io/hn-front-page-2035/news",
+      "summary": "Article URL: https://dosaygo-studio.github.io/hn-front-page-2035/news Comments URL: https://news.ycombinator.com/item?id=46205632 Points: 2361 # Comments: 730"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/09/arts/television/youtube-alans-universe.html",
+      "title": "‘Alan’s Universe’ Shows What It Might Look Like to Win at YouTube",
+      "slug": "2025-12-09-alan-s-universe-shows-what-it-might-look-like-to-win-at-youtube.html",
+      "path": "posts/2025-12-09-alan-s-universe-shows-what-it-might-look-like-to-win-at-youtube.html",
+      "date_iso": "2025-12-09T10:00:17+00:00",
+      "source": "https://www.nytimes.com/2025/12/09/arts/television/youtube-alans-universe.html",
+      "summary": "As Gen Alpha’s attention drifts from TV and movies, video creators like Alan Chikin Chow are eager to fill the void."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/09/science/archaeology-roman-empire-roads.html",
+      "title": "All 187,460 Miles of Road That Led to Rome, Mapped",
+      "slug": "2025-12-09-all-187-460-miles-of-road-that-led-to-rome-mapped.html",
+      "path": "posts/2025-12-09-all-187-460-miles-of-road-that-led-to-rome-mapped.html",
+      "date_iso": "2025-12-09T08:00:10+00:00",
+      "source": "https://www.nytimes.com/2025/12/09/science/archaeology-roman-empire-roads.html",
+      "summary": "A digital atlas of ancient Rome’s highways and byways reveals a road network that was more extensive than thought."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46201381",
       "title": "Modern Walkmans",
       "slug": "2025-12-09-modern-walkmans.html",
