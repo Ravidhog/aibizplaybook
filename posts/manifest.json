@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46227619",
+      "title": "Incomplete list of mistakes in the design of CSS",
+      "slug": "2025-12-11-incomplete-list-of-mistakes-in-the-design-of-css.html",
+      "path": "posts/2025-12-11-incomplete-list-of-mistakes-in-the-design-of-css.html",
+      "date_iso": "2025-12-11T04:20:52+00:00",
+      "source": "https://wiki.csswg.org/ideas/mistakes",
+      "summary": "Article URL: https://wiki.csswg.org/ideas/mistakes Comments URL: https://news.ycombinator.com/item?id=46227619 Points: 52 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46226483",
+      "title": "Patterns.dev",
+      "slug": "2025-12-11-patterns-dev.html",
+      "path": "posts/2025-12-11-patterns-dev.html",
+      "date_iso": "2025-12-11T01:18:55+00:00",
+      "source": "https://www.patterns.dev/",
+      "summary": "Article URL: https://www.patterns.dev/ Comments URL: https://news.ycombinator.com/item?id=46226483 Points: 161 # Comments: 36"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46224311",
+      "title": "When would you ever want bubblesort? (2023)",
+      "slug": "2025-12-10-when-would-you-ever-want-bubblesort-2023.html",
+      "path": "posts/2025-12-10-when-would-you-ever-want-bubblesort-2023.html",
+      "date_iso": "2025-12-10T21:45:11+00:00",
+      "source": "https://buttondown.com/hillelwayne/archive/when-would-you-ever-want-bubblesort/",
+      "summary": "Article URL: https://buttondown.com/hillelwayne/archive/when-would-you-ever-want-bubblesort/ Comments URL: https://news.ycombinator.com/item?id=46224311 Points: 83 # Comments: 59"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46223311",
+      "title": "Getting a Gemini API key is an exercise in frustration",
+      "slug": "2025-12-10-getting-a-gemini-api-key-is-an-exercise-in-frustration.html",
+      "path": "posts/2025-12-10-getting-a-gemini-api-key-is-an-exercise-in-frustration.html",
+      "date_iso": "2025-12-10T20:29:12+00:00",
+      "source": "https://ankursethi.com/blog/gemini-api-key-frustration/",
+      "summary": "Article URL: https://ankursethi.com/blog/gemini-api-key-frustration/ Comments URL: https://news.ycombinator.com/item?id=46223311 Points: 430 # Comments: 175"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/10/technology/warner-bros-deal-justice-department-gail-slater.html",
+      "title": "Trump’s Interest in Warner Bros. Deal Weighs On Justice Department",
+      "slug": "2025-12-10-trump-s-interest-in-warner-bros-deal-weighs-on-justice-department.html",
+      "path": "posts/2025-12-10-trump-s-interest-in-warner-bros-deal-weighs-on-justice-department.html",
+      "date_iso": "2025-12-10T19:20:37+00:00",
+      "source": "https://www.nytimes.com/2025/12/10/technology/warner-bros-deal-justice-department-gail-slater.html",
+      "summary": "Gail Slater is in charge of the Department of Justice’s antitrust division, which is expected to handle the government’s review of a Warner Bros. deal."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46222165",
+      "title": "The future of Terraform CDK",
+      "slug": "2025-12-10-the-future-of-terraform-cdk.html",
+      "path": "posts/2025-12-10-the-future-of-terraform-cdk.html",
+      "date_iso": "2025-12-10T19:14:03+00:00",
+      "source": "https://github.com/hashicorp/terraform-cdk",
+      "summary": "Article URL: https://github.com/hashicorp/terraform-cdk Comments URL: https://news.ycombinator.com/item?id=46222165 Points: 101 # Comments: 106"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46221925",
+      "title": "Super Mario 64 for the PS1",
+      "slug": "2025-12-10-super-mario-64-for-the-ps1.html",
+      "path": "posts/2025-12-10-super-mario-64-for-the-ps1.html",
+      "date_iso": "2025-12-10T18:58:55+00:00",
+      "source": "https://github.com/malucard/sm64-psx",
+      "summary": "Article URL: https://github.com/malucard/sm64-psx Comments URL: https://news.ycombinator.com/item?id=46221925 Points: 209 # Comments: 81"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46221594",
+      "title": "Terrain Diffusion: A Diffusion-Based Successor to Perlin Noise",
+      "slug": "2025-12-10-terrain-diffusion-a-diffusion-based-successor-to-perlin-noise.html",
+      "path": "posts/2025-12-10-terrain-diffusion-a-diffusion-based-successor-to-perlin-noise.html",
+      "date_iso": "2025-12-10T18:37:27+00:00",
+      "source": "https://arxiv.org/abs/2512.08309",
+      "summary": "Article URL: https://arxiv.org/abs/2512.08309 Comments URL: https://news.ycombinator.com/item?id=46221594 Points: 120 # Comments: 33"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46220794",
+      "title": "Show HN: Automated license plate reader coverage in the USA",
+      "slug": "2025-12-10-show-hn-automated-license-plate-reader-coverage-in-the-usa.html",
+      "path": "posts/2025-12-10-show-hn-automated-license-plate-reader-coverage-in-the-usa.html",
+      "date_iso": "2025-12-10T17:42:30+00:00",
+      "source": "https://alpranalysis.com",
+      "summary": "Built this over the last few days, based on a Rust codebase that parses the latest ALPR reports from OpenStreetMaps, calculates navigation statistics from every tagged residential building to nearby amenities, and tests each route for intersection with those ALPR cameras (Flock…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46220640",
+      "title": "Is it a bubble?",
+      "slug": "2025-12-10-is-it-a-bubble.html",
+      "path": "posts/2025-12-10-is-it-a-bubble.html",
+      "date_iso": "2025-12-10T17:30:43+00:00",
+      "source": "https://www.oaktreecapital.com/insights/memo/is-it-a-bubble",
+      "summary": "Article URL: https://www.oaktreecapital.com/insights/memo/is-it-a-bubble Comments URL: https://news.ycombinator.com/item?id=46220640 Points: 202 # Comments: 303"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46220540",
+      "title": "Auto-grading decade-old Hacker News discussions with hindsight",
+      "slug": "2025-12-10-auto-grading-decade-old-hacker-news-discussions-with-hindsight.html",
+      "path": "posts/2025-12-10-auto-grading-decade-old-hacker-news-discussions-with-hindsight.html",
+      "date_iso": "2025-12-10T17:23:53+00:00",
+      "source": "https://karpathy.bearblog.dev/auto-grade-hn/",
+      "summary": "Related from yesterday: Show HN: Gemini Pro 3 imagines the HN front page 10 years from now - https://news.ycombinator.com/item?id=46205632 Comments URL: https://news.ycombinator.com/item?id=46220540 Points: 407 # Comments: 186"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46220488",
+      "title": "Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux",
+      "slug": "2025-12-10-valve-hdmi-forum-continues-to-block-hdmi-2-1-for-linux.html",
+      "path": "posts/2025-12-10-valve-hdmi-forum-continues-to-block-hdmi-2-1-for-linux.html",
+      "date_iso": "2025-12-10T17:20:06+00:00",
+      "source": "https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html",
+      "summary": "Article URL: https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html Comments URL: https://news.ycombinator.com/item?id=46220488 Points: 631 # Comments: 344"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46219538",
+      "title": "Qwen3-Omni-Flash-2025-12-01：a next-generation native multimodal large model",
+      "slug": "2025-12-10-qwen3-omni-flash-2025-12-01-a-next-generation-native-multimodal-large-model.html",
+      "path": "posts/2025-12-10-qwen3-omni-flash-2025-12-01-a-next-generation-native-multimodal-large-model.html",
+      "date_iso": "2025-12-10T16:13:38+00:00",
+      "source": "https://qwen.ai/blog?id=qwen3-omni-flash-20251201",
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen3-omni-flash-20251201 Comments URL: https://news.ycombinator.com/item?id=46219538 Points: 245 # Comments: 89"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46219386",
+      "title": "Launch HN: InspectMind (YC W24) – AI agent for reviewing construction drawings",
+      "slug": "2025-12-10-launch-hn-inspectmind-yc-w24-ai-agent-for-reviewing-construction-drawings.html",
+      "path": "posts/2025-12-10-launch-hn-inspectmind-yc-w24-ai-agent-for-reviewing-construction-drawings.html",
+      "date_iso": "2025-12-10T16:05:03+00:00",
+      "source": "https://news.ycombinator.com/item?id=46219386",
+      "summary": "Hi HN, we're Aakash and Shuangling of InspectMind ( https://www.inspectmind.ai/ ), an AI “plan checker” that finds issues in construction drawings, details, and specs. Construction drawings quietly go out with lots of errors: dimension conflicts, co-ordination gaps, material mis…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46219346",
+      "title": "Size of Life",
+      "slug": "2025-12-10-size-of-life.html",
+      "path": "posts/2025-12-10-size-of-life.html",
+      "date_iso": "2025-12-10T16:02:57+00:00",
+      "source": "https://neal.fun/size-of-life/",
+      "summary": "Article URL: https://neal.fun/size-of-life/ Comments URL: https://news.ycombinator.com/item?id=46219346 Points: 1732 # Comments: 202"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46218782",
+      "title": "RoboCrop: Teaching robots how to pick tomatoes",
+      "slug": "2025-12-10-robocrop-teaching-robots-how-to-pick-tomatoes.html",
+      "path": "posts/2025-12-10-robocrop-teaching-robots-how-to-pick-tomatoes.html",
+      "date_iso": "2025-12-10T15:29:14+00:00",
+      "source": "https://phys.org/news/2025-12-robocrop-robots-tomatoes.html",
+      "summary": "Article URL: https://phys.org/news/2025-12-robocrop-robots-tomatoes.html Comments URL: https://news.ycombinator.com/item?id=46218782 Points: 84 # Comments: 38"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/10/technology/meta-ai-tbd-lab-friction.html",
+      "title": "Meta’s New A.I. Superstars Are Chafing Against the Rest of the Company",
+      "slug": "2025-12-10-meta-s-new-a-i-superstars-are-chafing-against-the-rest-of-the-company.html",
+      "path": "posts/2025-12-10-meta-s-new-a-i-superstars-are-chafing-against-the-rest-of-the-company.html",
+      "date_iso": "2025-12-10T15:16:23+00:00",
+      "source": "https://www.nytimes.com/2025/12/10/technology/meta-ai-tbd-lab-friction.html",
+      "summary": "An us-versus-them mentality has emerged between Meta’s top artificial intelligence team and longtime lieutenants to Mark Zuckerberg."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/10/business/taiwan-tsmc-trade-secrets.html",
+      "title": "Taiwan Invokes National Security Law to Protect TSMC Trade Secrets",
+      "slug": "2025-12-10-taiwan-invokes-national-security-law-to-protect-tsmc-trade-secrets.html",
+      "path": "posts/2025-12-10-taiwan-invokes-national-security-law-to-protect-tsmc-trade-secrets.html",
+      "date_iso": "2025-12-10T15:08:28+00:00",
+      "source": "https://www.nytimes.com/2025/12/10/business/taiwan-tsmc-trade-secrets.html",
+      "summary": "The authorities in Taiwan are taking a stronger hand in protecting the prized technology of the chip maker TSMC."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46218101",
+      "title": "Show HN: Wirebrowser – A JavaScript debugger with breakpoint-driven heap search",
+      "slug": "2025-12-10-show-hn-wirebrowser-a-javascript-debugger-with-breakpoint-driven-heap-search.html",
+      "path": "posts/2025-12-10-show-hn-wirebrowser-a-javascript-debugger-with-breakpoint-driven-heap-search.html",
+      "date_iso": "2025-12-10T14:30:43+00:00",
+      "source": "https://github.com/fcavallarin/wirebrowser",
+      "summary": "Hi HN! I'm building a JavaScript debugger called Wirebrowser. It combines network inspection, request rewriting, heap snapshots, and live object search. The main experimental feature is BDHS (Breakpoint-Driven Heap Search): it hooks into the JavaScript debugger and automatically…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46216446",
+      "title": "Common Lisp, ASDF, and Quicklisp: packaging explained",
+      "slug": "2025-12-10-common-lisp-asdf-and-quicklisp-packaging-explained.html",
+      "path": "posts/2025-12-10-common-lisp-asdf-and-quicklisp-packaging-explained.html",
+      "date_iso": "2025-12-10T11:10:58+00:00",
+      "source": "https://cdegroot.com/programming/commonlisp/2025/11/26/cl-ql-asdf.html",
+      "summary": "Article URL: https://cdegroot.com/programming/commonlisp/2025/11/26/cl-ql-asdf.html Comments URL: https://news.ycombinator.com/item?id=46216446 Points: 73 # Comments: 15"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/10/science/nobel-prize-immigrants-science.html",
+      "title": "Trump Administration Rules Threaten Nobel Prizes Won by Immigrants",
+      "slug": "2025-12-10-trump-administration-rules-threaten-nobel-prizes-won-by-immigrants.html",
+      "path": "posts/2025-12-10-trump-administration-rules-threaten-nobel-prizes-won-by-immigrants.html",
+      "date_iso": "2025-12-10T10:03:40+00:00",
+      "source": "https://www.nytimes.com/2025/12/10/science/nobel-prize-immigrants-science.html",
+      "summary": "As three immigrants claim Nobel Prizes in science for the United States this year, experts warn that immigration crackdowns could undo American innovation."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/10/technology/lip-bu-tan-intel-ceo-investor.html",
+      "title": "Does the Job of C.E.O. or Private Investor Come First? Intel’s Chief Is Juggling That Question.",
+      "slug": "2025-12-10-does-the-job-of-c-e-o-or-private-investor-come-first-intel-s-chief-is-juggling-that-question.html",
+      "path": "posts/2025-12-10-does-the-job-of-c-e-o-or-private-investor-come-first-intel-s-chief-is-juggling-that-question.html",
+      "date_iso": "2025-12-10T10:03:15+00:00",
+      "source": "https://www.nytimes.com/2025/12/10/technology/lip-bu-tan-intel-ceo-investor.html",
+      "summary": "Lip-Bu Tan, the chief executive of Intel, has led a venture capital firm since 1987."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46214693",
       "title": "Revisiting \"Let's Build a Compiler\"",
       "slug": "2025-12-10-revisiting-let-s-build-a-compiler.html",
@@ -71,6 +269,15 @@
       "date_iso": "2025-12-10T01:21:15+00:00",
       "source": "https://www.nytimes.com/2025/12/09/us/politics/trump-nvidia-ai-chips-china.html",
       "summary": "President Trump with Jensen Huang, the chief executive of Nvidia, at the White House in April."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46212438",
+      "title": "Rubio stages font coup: Times New Roman ousts Calibri",
+      "slug": "2025-12-10-rubio-stages-font-coup-times-new-roman-ousts-calibri.html",
+      "path": "posts/2025-12-10-rubio-stages-font-coup-times-new-roman-ousts-calibri.html",
+      "date_iso": "2025-12-10T00:08:34+00:00",
+      "source": "https://www.reuters.com/world/us/rubio-stages-font-coup-times-new-roman-ousts-calibri-2025-12-09/",
+      "summary": "https://archive.md/x0Sxc Comments URL: https://news.ycombinator.com/item?id=46212438 Points: 232 # Comments: 370"
     },
     {
       "id": "https://news.ycombinator.com/item?id=46211861",
@@ -163,6 +370,15 @@
       "summary": "Article URL: https://www.righto.com/2025/12/8087-stack-circuitry.html Comments URL: https://news.ycombinator.com/item?id=46208409 Points: 97 # Comments: 47"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=46208348",
+      "title": "Australia begins enforcing world-first teen social media ban",
+      "slug": "2025-12-09-australia-begins-enforcing-world-first-teen-social-media-ban.html",
+      "path": "posts/2025-12-09-australia-begins-enforcing-world-first-teen-social-media-ban.html",
+      "date_iso": "2025-12-09T18:12:29+00:00",
+      "source": "https://www.reuters.com/legal/litigation/australia-social-media-ban-takes-effect-world-first-2025-12-09/",
+      "summary": "https://archive.md/i0VxX https://www.bbc.com/news/live/cwy54q80gy9t https://www.nytimes.com/2025/12/09/world/asia/australia-soci... ( https://archive.ph/Ba2JR ) Comments URL: https://news.ycombinator.com/item?id=46208348 Points: 684 # Comments: 1083"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46207505",
       "title": "If you're going to vibe code, why not do it in C?",
       "slug": "2025-12-09-if-you-re-going-to-vibe-code-why-not-do-it-in-c.html",
@@ -233,6 +449,15 @@
       "date_iso": "2025-12-09T15:00:38+00:00",
       "source": "https://dosaygo-studio.github.io/hn-front-page-2035/news",
       "summary": "Article URL: https://dosaygo-studio.github.io/hn-front-page-2035/news Comments URL: https://news.ycombinator.com/item?id=46205632 Points: 2361 # Comments: 730"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46203343",
+      "title": "How Google Maps allocates survival across London's restaurants",
+      "slug": "2025-12-09-how-google-maps-allocates-survival-across-london-s-restaurants.html",
+      "path": "posts/2025-12-09-how-google-maps-allocates-survival-across-london-s-restaurants.html",
+      "date_iso": "2025-12-09T10:20:02+00:00",
+      "source": "https://laurenleek.substack.com/p/how-google-maps-quietly-allocates",
+      "summary": "Article URL: https://laurenleek.substack.com/p/how-google-maps-quietly-allocates Comments URL: https://news.ycombinator.com/item?id=46203343 Points: 201 # Comments: 98"
     },
     {
       "id": "https://www.nytimes.com/2025/12/09/arts/television/youtube-alans-universe.html",
