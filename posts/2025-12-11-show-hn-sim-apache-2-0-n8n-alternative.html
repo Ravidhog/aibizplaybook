@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Sim – Apache-2.0 n8n alternative</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Sim – Apache-2.0 n8n alternative</h1>
+    <p><small>Published: 2025-12-11T17:20:11+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hey HN, Waleed here. We're building Sim (<a href="https://sim.ai/">https://sim.ai/</a>), an open-source visual editor to build agentic workflows. Repo here: <a href="https://github.com/simstudioai/sim/" rel="nofollow">https://github.com/simstudioai/sim/</a>. Docs here: <a href="https://docs.sim.ai">https://docs.sim.ai</a>.<p>You can run Sim locally using Docker, with no execution limits or other restrictions.<p>We started building Sim almost a year ago after repeatedly troubleshooting why our agents failed in production. Code-first frameworks felt hard to debug because of implicit control flow, and workflow platforms added more overhead than they removed. We wanted granular control and easy observability without piecing everything together ourselves.<p>We launched Sim [1][2] as a drag-and-drop canvas around 6 months ago. Since then, we've added:<p>- 138 blocks: Slack, GitHub, Linear, Notion, Supabase, SSH, TTS, SFTP, MongoDB, S3, Pinecone, ...<p>- Tool calling with granular control: forced, auto<p>- Agent memory: conversation memory with sliding window support (by last n messages or tokens)<p>- Trace spans: detailed logging and observability for nested workflows and tool calling<p>- Native RAG: upload documents, we chunk, embed with pgvector, and expose vector search to agents<p>- Workflow deployment versioning with rollbacks<p>- MCP support, Human-in-the-loop block<p>- Copilot to build workflows using natural language (just shipped a new version that also acts as a superagent and can call into any of your connected services directly, not just build workflows)<p>Under the hood, the workflow is a DAG with concurrent execution by default. Nodes run as soon as their dependencies (upstream blocks) are satisfied. Loops (for, forEach, while, do-while) and parallel fan-out/join are also first-class primitives.<p>Agent blocks are pass-through to the provider. You pick your model (OpenAI, Anthropic, Gemini, Ollama, vLLM), and and we pass through prompts, tools, and response format directly to the provider API. We normalize response shapes for block interoperability, but we're not adding layers that obscure what's happening.<p>We're currently working on our own MCP server and the ability to deploy workflows as MCP servers. Would love to hear your thoughts and where we should take it next :)<p>[1] <a href="https://news.ycombinator.com/item?id=43823096">https://news.ycombinator.com/item?id=43823096</a><p>[2] <a href="https://news.ycombinator.com/item?id=44052766">https://news.ycombinator.com/item?id=44052766</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46234186">https://news.ycombinator.com/item?id=46234186</a></p>
+<p>Points: 181</p>
+<p># Comments: 38</p>
+    <p><a href="https://github.com/simstudioai/sim" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

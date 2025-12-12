@@ -1,6 +1,258 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2025/12/12/world/asia/nvidia-china-trump-security-japan.html",
+      "title": "China Is Getting Much of What It Wants From the U.S., Including Chips",
+      "slug": "2025-12-12-china-is-getting-much-of-what-it-wants-from-the-u-s-including-chips.html",
+      "path": "posts/2025-12-12-china-is-getting-much-of-what-it-wants-from-the-u-s-including-chips.html",
+      "date_iso": "2025-12-12T05:01:06+00:00",
+      "source": "https://www.nytimes.com/2025/12/12/world/asia/nvidia-china-trump-security-japan.html",
+      "summary": "President Trump and Xi Jinping, China’s leader, after their meeting in Busan, South Korea, in October. Mr. Trump’s latest moves extended the conciliatory posture he struck at this summit."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html",
+      "title": "Trump Moves to Stop States From Regulating AI With a New Executive Order",
+      "slug": "2025-12-12-trump-moves-to-stop-states-from-regulating-ai-with-a-new-executive-order.html",
+      "path": "posts/2025-12-12-trump-moves-to-stop-states-from-regulating-ai-with-a-new-executive-order.html",
+      "date_iso": "2025-12-12T04:56:05+00:00",
+      "source": "https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html",
+      "summary": "President Trump, who has said it’s important for America to dominate in the race to develop A.I., has said that the various state A.I. laws have created a confusing patchwork of regulations."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46239895",
+      "title": "Cadmium Zinc Telluride: The wonder material powering a medical 'revolution'",
+      "slug": "2025-12-12-cadmium-zinc-telluride-the-wonder-material-powering-a-medical-revolution.html",
+      "path": "posts/2025-12-12-cadmium-zinc-telluride-the-wonder-material-powering-a-medical-revolution.html",
+      "date_iso": "2025-12-12T01:41:15+00:00",
+      "source": "https://www.bbc.com/news/articles/c24l223d9n7o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c24l223d9n7o Comments URL: https://news.ycombinator.com/item?id=46239895 Points: 34 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46239752",
+      "title": "Google De-Indexed My Bear Blog and I Don't Know Why",
+      "slug": "2025-12-12-google-de-indexed-my-bear-blog-and-i-don-t-know-why.html",
+      "path": "posts/2025-12-12-google-de-indexed-my-bear-blog-and-i-don-t-know-why.html",
+      "date_iso": "2025-12-12T01:20:05+00:00",
+      "source": "https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/",
+      "summary": "Article URL: https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/ Comments URL: https://news.ycombinator.com/item?id=46239752 Points: 48 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46239673",
+      "title": "Notes on Gamma",
+      "slug": "2025-12-12-notes-on-gamma.html",
+      "path": "posts/2025-12-12-notes-on-gamma.html",
+      "date_iso": "2025-12-12T01:05:30+00:00",
+      "source": "https://poniesandlight.co.uk/reflect/gamma/",
+      "summary": "Article URL: https://poniesandlight.co.uk/reflect/gamma/ Comments URL: https://news.ycombinator.com/item?id=46239673 Points: 15 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46239629",
+      "title": "CRISPR fungus: Protein-packed, sustainable, and tastes like meat",
+      "slug": "2025-12-12-crispr-fungus-protein-packed-sustainable-and-tastes-like-meat.html",
+      "path": "posts/2025-12-12-crispr-fungus-protein-packed-sustainable-and-tastes-like-meat.html",
+      "date_iso": "2025-12-12T00:59:46+00:00",
+      "source": "https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607",
+      "summary": "Article URL: https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607 Comments URL: https://news.ycombinator.com/item?id=46239629 Points: 72 # Comments: 26"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/11/technology/openai-google-ai-technology-gap.html",
+      "title": "Can OpenAI Respond After Google Closes the A.I. Technology Gap?",
+      "slug": "2025-12-12-can-openai-respond-after-google-closes-the-a-i-technology-gap.html",
+      "path": "posts/2025-12-12-can-openai-respond-after-google-closes-the-a-i-technology-gap.html",
+      "date_iso": "2025-12-12T00:52:41+00:00",
+      "source": "https://www.nytimes.com/2025/12/11/technology/openai-google-ai-technology-gap.html",
+      "summary": "OpenAI’s newest technology comes after Google claimed it had topped its young competitor."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46239372",
+      "title": "Stoolap: High-performance embedded SQL database in pure Rust",
+      "slug": "2025-12-12-stoolap-high-performance-embedded-sql-database-in-pure-rust.html",
+      "path": "posts/2025-12-12-stoolap-high-performance-embedded-sql-database-in-pure-rust.html",
+      "date_iso": "2025-12-12T00:28:24+00:00",
+      "source": "https://github.com/stoolap/stoolap",
+      "summary": "Article URL: https://github.com/stoolap/stoolap Comments URL: https://news.ycombinator.com/item?id=46239372 Points: 51 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46239188",
+      "title": "Laying out the 404 Media zine",
+      "slug": "2025-12-12-laying-out-the-404-media-zine.html",
+      "path": "posts/2025-12-12-laying-out-the-404-media-zine.html",
+      "date_iso": "2025-12-12T00:05:36+00:00",
+      "source": "https://tedium.co/2025/12/10/404-media-zine-linux-affinity/?",
+      "summary": "Article URL: https://tedium.co/2025/12/10/404-media-zine-linux-affinity/? Comments URL: https://news.ycombinator.com/item?id=46239188 Points: 50 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46239177",
+      "title": "Nokia N900 Necromancy",
+      "slug": "2025-12-12-nokia-n900-necromancy.html",
+      "path": "posts/2025-12-12-nokia-n900-necromancy.html",
+      "date_iso": "2025-12-12T00:04:29+00:00",
+      "source": "https://yaky.dev/2025-12-11-nokia-n900-necromancy/",
+      "summary": "Article URL: https://yaky.dev/2025-12-11-nokia-n900-necromancy/ Comments URL: https://news.ycombinator.com/item?id=46239177 Points: 208 # Comments: 59"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/11/technology/crypto-do-kwon-sentenced-prison.html",
+      "title": "Do Kwon, Crypto Entrepreneur Who Caused 2022 Crash, Sentenced to 15 Years",
+      "slug": "2025-12-11-do-kwon-crypto-entrepreneur-who-caused-2022-crash-sentenced-to-15-years.html",
+      "path": "posts/2025-12-11-do-kwon-crypto-entrepreneur-who-caused-2022-crash-sentenced-to-15-years.html",
+      "date_iso": "2025-12-11T22:54:51+00:00",
+      "source": "https://www.nytimes.com/2025/12/11/technology/crypto-do-kwon-sentenced-prison.html",
+      "summary": "Do Kwon, a crypto entrepreneur who went on the run after the crash of two virtual currencies that he created, was escorted by Montenegro police in 2024."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46237501",
+      "title": "Powder and stone, or, why medieval rulers loved castles",
+      "slug": "2025-12-11-powder-and-stone-or-why-medieval-rulers-loved-castles.html",
+      "path": "posts/2025-12-11-powder-and-stone-or-why-medieval-rulers-loved-castles.html",
+      "date_iso": "2025-12-11T21:35:52+00:00",
+      "source": "https://1517.substack.com/p/powder-and-stone-or-why-medieval",
+      "summary": "Article URL: https://1517.substack.com/p/powder-and-stone-or-why-medieval Comments URL: https://news.ycombinator.com/item?id=46237501 Points: 39 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46237081",
+      "title": "Almond (YC X25) Is Hiring SWEs and MechEs",
+      "slug": "2025-12-11-almond-yc-x25-is-hiring-swes-and-meches.html",
+      "path": "posts/2025-12-11-almond-yc-x25-is-hiring-swes-and-meches.html",
+      "date_iso": "2025-12-11T21:00:10+00:00",
+      "source": "https://www.ycombinator.com/companies/almond-2/jobs",
+      "summary": "Article URL: https://www.ycombinator.com/companies/almond-2/jobs Comments URL: https://news.ycombinator.com/item?id=46237081 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46236924",
+      "title": "Denial of service and source code exposure in React Server Components",
+      "slug": "2025-12-11-denial-of-service-and-source-code-exposure-in-react-server-components.html",
+      "path": "posts/2025-12-11-denial-of-service-and-source-code-exposure-in-react-server-components.html",
+      "date_iso": "2025-12-11T20:46:46+00:00",
+      "source": "https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components",
+      "summary": "See also: https://blog.cloudflare.com/react2shell-rsc-vulnerabilities-... , https://nextjs.org/blog/security-update-2025-12-11 Comments URL: https://news.ycombinator.com/item?id=46236924 Points: 266 # Comments: 159"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/11/business/media/disney-openai-sora-deal.html",
+      "title": "Disney Agrees to Bring Its Characters to OpenAI’s Sora Videos",
+      "slug": "2025-12-11-disney-agrees-to-bring-its-characters-to-openai-s-sora-videos.html",
+      "path": "posts/2025-12-11-disney-agrees-to-bring-its-characters-to-openai-s-sora-videos.html",
+      "date_iso": "2025-12-11T19:40:05+00:00",
+      "source": "https://www.nytimes.com/2025/12/11/business/media/disney-openai-sora-deal.html",
+      "summary": "Disney is the first major Hollywood company to license content to an A.I. platform."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46236037",
+      "title": "My productivity app is a never-ending .txt file (2020)",
+      "slug": "2025-12-11-my-productivity-app-is-a-never-ending-txt-file-2020.html",
+      "path": "posts/2025-12-11-my-productivity-app-is-a-never-ending-txt-file-2020.html",
+      "date_iso": "2025-12-11T19:30:58+00:00",
+      "source": "https://jeffhuang.com/productivity_text_file/",
+      "summary": "Article URL: https://jeffhuang.com/productivity_text_file/ Comments URL: https://news.ycombinator.com/item?id=46236037 Points: 210 # Comments: 140"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/11/business/ford-electric-vehicles-china.html",
+      "title": "Ford’s Car of the Future, Hatched in a Skunk Works Near Los Angeles",
+      "slug": "2025-12-11-ford-s-car-of-the-future-hatched-in-a-skunk-works-near-los-angeles.html",
+      "path": "posts/2025-12-11-ford-s-car-of-the-future-hatched-in-a-skunk-works-near-los-angeles.html",
+      "date_iso": "2025-12-11T19:25:54+00:00",
+      "source": "https://www.nytimes.com/2025/12/11/business/ford-electric-vehicles-china.html",
+      "summary": "Doug Field, Ford Motor Company’s chief of electric vehicles, digital and design."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46235959",
+      "title": "An SVG is all you need",
+      "slug": "2025-12-11-an-svg-is-all-you-need.html",
+      "path": "posts/2025-12-11-an-svg-is-all-you-need.html",
+      "date_iso": "2025-12-11T19:25:14+00:00",
+      "source": "https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html",
+      "summary": "Article URL: https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html Comments URL: https://news.ycombinator.com/item?id=46235959 Points: 208 # Comments: 83"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46234920",
+      "title": "Rivian Unveils Custom Silicon, R2 Lidar Roadmap, and Universal Hands Free",
+      "slug": "2025-12-11-rivian-unveils-custom-silicon-r2-lidar-roadmap-and-universal-hands-free.html",
+      "path": "posts/2025-12-11-rivian-unveils-custom-silicon-r2-lidar-roadmap-and-universal-hands-free.html",
+      "date_iso": "2025-12-11T18:17:19+00:00",
+      "source": "https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/",
+      "summary": "Article URL: https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/ Comments URL: https://news.ycombinator.com/item?id=46234920 Points: 292 # Comments: 365"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46234806",
+      "title": "Programmers and software developers lost the plot on naming their tools",
+      "slug": "2025-12-11-programmers-and-software-developers-lost-the-plot-on-naming-their-tools.html",
+      "path": "posts/2025-12-11-programmers-and-software-developers-lost-the-plot-on-naming-their-tools.html",
+      "date_iso": "2025-12-11T18:06:42+00:00",
+      "source": "https://larr.net/p/namings.html",
+      "summary": "Article URL: https://larr.net/p/namings.html Comments URL: https://news.ycombinator.com/item?id=46234806 Points: 238 # Comments: 336"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46234788",
+      "title": "GPT-5.2",
+      "slug": "2025-12-11-gpt-5-2.html",
+      "path": "posts/2025-12-11-gpt-5-2.html",
+      "date_iso": "2025-12-11T18:04:47+00:00",
+      "source": "https://openai.com/index/introducing-gpt-5-2/",
+      "summary": "https://platform.openai.com/docs/guides/latest-model System card: https://cdn.openai.com/pdf/3a4153c8-c748-4b71-8e31-aecbde944... Comments URL: https://news.ycombinator.com/item?id=46234788 Points: 923 # Comments: 764"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46234710",
+      "title": "Litestream VFS",
+      "slug": "2025-12-11-litestream-vfs.html",
+      "path": "posts/2025-12-11-litestream-vfs.html",
+      "date_iso": "2025-12-11T17:59:10+00:00",
+      "source": "https://fly.io/blog/litestream-vfs/",
+      "summary": "Article URL: https://fly.io/blog/litestream-vfs/ Comments URL: https://news.ycombinator.com/item?id=46234710 Points: 274 # Comments: 77"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/11/world/australia/social-media-ban-australia-europe-china-usa.html",
+      "title": "After Australia, Which Countries Could Be Next to Ban Social Media for Children",
+      "slug": "2025-12-11-after-australia-which-countries-could-be-next-to-ban-social-media-for-children.html",
+      "path": "posts/2025-12-11-after-australia-which-countries-could-be-next-to-ban-social-media-for-children.html",
+      "date_iso": "2025-12-11T17:54:26+00:00",
+      "source": "https://www.nytimes.com/2025/12/11/world/australia/social-media-ban-australia-europe-china-usa.html",
+      "summary": "Elementary school children in Denmark, which could become the first country in the European Union to impose an age limit on access to social media."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46234186",
+      "title": "Show HN: Sim – Apache-2.0 n8n alternative",
+      "slug": "2025-12-11-show-hn-sim-apache-2-0-n8n-alternative.html",
+      "path": "posts/2025-12-11-show-hn-sim-apache-2-0-n8n-alternative.html",
+      "date_iso": "2025-12-11T17:20:11+00:00",
+      "source": "https://github.com/simstudioai/sim",
+      "summary": "Hey HN, Waleed here. We're building Sim ( https://sim.ai/ ), an open-source visual editor to build agentic workflows. Repo here: https://github.com/simstudioai/sim/ . Docs here: https://docs.sim.ai . You can run Sim locally using Docker, with no execution limits or other restric…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46232528",
+      "title": "iPhone Typos? It's Not Just You – The iOS Keyboard Is Broken [video]",
+      "slug": "2025-12-11-iphone-typos-it-s-not-just-you-the-ios-keyboard-is-broken-video.html",
+      "path": "posts/2025-12-11-iphone-typos-it-s-not-just-you-the-ios-keyboard-is-broken-video.html",
+      "date_iso": "2025-12-11T15:25:43+00:00",
+      "source": "https://www.youtube.com/watch?v=hksVvXONrIo",
+      "summary": "Article URL: https://www.youtube.com/watch?v=hksVvXONrIo Comments URL: https://news.ycombinator.com/item?id=46232528 Points: 567 # Comments: 375"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46232434",
+      "title": "Launch HN: BrowserBook (YC F24) – IDE for deterministic browser automation",
+      "slug": "2025-12-11-launch-hn-browserbook-yc-f24-ide-for-deterministic-browser-automation.html",
+      "path": "posts/2025-12-11-launch-hn-browserbook-yc-f24-ide-for-deterministic-browser-automation.html",
+      "date_iso": "2025-12-11T15:18:51+00:00",
+      "source": "https://news.ycombinator.com/item?id=46232434",
+      "summary": "Hey HN! We’re Chris, Jorrie, and Evan of BrowserBook, an IDE for writing and debugging Playwright-based web automations. You can download it as a Mac app here: https://browserbook.com , and there’s a demo video at https://www.youtube.com/watch?v=ODGJBCNqGUI . Why we built this:…"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/11/arts/clair-obscur-expedition-33-sandfall.html",
+      "title": "How Clair Obscur: Expedition 33 Became a Gaming Tour de Force",
+      "slug": "2025-12-11-how-clair-obscur-expedition-33-became-a-gaming-tour-de-force.html",
+      "path": "posts/2025-12-11-how-clair-obscur-expedition-33-became-a-gaming-tour-de-force.html",
+      "date_iso": "2025-12-11T14:35:41+00:00",
+      "source": "https://www.nytimes.com/2025/12/11/arts/clair-obscur-expedition-33-sandfall.html",
+      "summary": "Without a blockbuster budget or much experience, the creators of Clair Obscur: Expedition 33 astounded the industry with an emotional narrative and old-school design."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46231709",
+      "title": "The architecture of “not bad”: Decoding the Chinese source code of the void",
+      "slug": "2025-12-11-the-architecture-of-not-bad-decoding-the-chinese-source-code-of-the-void.html",
+      "path": "posts/2025-12-11-the-architecture-of-not-bad-decoding-the-chinese-source-code-of-the-void.html",
+      "date_iso": "2025-12-11T14:21:14+00:00",
+      "source": "https://suggger.substack.com/p/the-architecture-of-not-bad-decoding",
+      "summary": "Article URL: https://suggger.substack.com/p/the-architecture-of-not-bad-decoding Comments URL: https://news.ycombinator.com/item?id=46231709 Points: 89 # Comments: 102"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46227619",
       "title": "Incomplete list of mistakes in the design of CSS",
       "slug": "2025-12-11-incomplete-list-of-mistakes-in-the-design-of-css.html",
