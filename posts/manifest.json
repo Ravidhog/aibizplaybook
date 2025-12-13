@@ -1,6 +1,222 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46252171",
+      "title": "Doxers Posing as Cops Are Tricking Big Tech Firms into Sharing People's Data",
+      "slug": "2025-12-13-doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-people-s-data.html",
+      "path": "posts/2025-12-13-doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-people-s-data.html",
+      "date_iso": "2025-12-13T05:06:59+00:00",
+      "source": "https://www.wired.com/story/doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-peoples-private-data/",
+      "summary": "Article URL: https://www.wired.com/story/doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-peoples-private-data/ Comments URL: https://news.ycombinator.com/item?id=46252171 Points: 30 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46252114",
+      "title": "Apple has locked my Apple ID, and I have no recourse. A plea for help",
+      "slug": "2025-12-13-apple-has-locked-my-apple-id-and-i-have-no-recourse-a-plea-for-help.html",
+      "path": "posts/2025-12-13-apple-has-locked-my-apple-id-and-i-have-no-recourse-a-plea-for-help.html",
+      "date_iso": "2025-12-13T04:55:59+00:00",
+      "source": "https://hey.paris/posts/appleid/",
+      "summary": "Article URL: https://hey.paris/posts/appleid/ Comments URL: https://news.ycombinator.com/item?id=46252114 Points: 252 # Comments: 102"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46251952",
+      "title": "Poor Johnny still won't encrypt",
+      "slug": "2025-12-13-poor-johnny-still-won-t-encrypt.html",
+      "path": "posts/2025-12-13-poor-johnny-still-won-t-encrypt.html",
+      "date_iso": "2025-12-13T04:21:24+00:00",
+      "source": "https://bfswa.substack.com/p/poor-johnny-still-wont-encrypt",
+      "summary": "Article URL: https://bfswa.substack.com/p/poor-johnny-still-wont-encrypt Comments URL: https://news.ycombinator.com/item?id=46251952 Points: 33 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46251684",
+      "title": "Google Removes Sci-Hub Domains from U.S. Search Results Due to Dated Court Order",
+      "slug": "2025-12-13-google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order.html",
+      "path": "posts/2025-12-13-google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order.html",
+      "date_iso": "2025-12-13T03:21:32+00:00",
+      "source": "https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/",
+      "summary": "Article URL: https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/ Comments URL: https://news.ycombinator.com/item?id=46251684 Points: 69 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46251667",
+      "title": "The Coming Need for Formal Specification",
+      "slug": "2025-12-13-the-coming-need-for-formal-specification.html",
+      "path": "posts/2025-12-13-the-coming-need-for-formal-specification.html",
+      "date_iso": "2025-12-13T03:17:18+00:00",
+      "source": "https://benjamincongdon.me/blog/2025/12/12/The-Coming-Need-for-Formal-Specification/",
+      "summary": "Article URL: https://benjamincongdon.me/blog/2025/12/12/The-Coming-Need-for-Formal-Specification/ Comments URL: https://news.ycombinator.com/item?id=46251667 Points: 14 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46251654",
+      "title": "Oliver sacks put himself into his case studies. What was the cost?",
+      "slug": "2025-12-13-oliver-sacks-put-himself-into-his-case-studies-what-was-the-cost.html",
+      "path": "posts/2025-12-13-oliver-sacks-put-himself-into-his-case-studies-what-was-the-cost.html",
+      "date_iso": "2025-12-13T03:12:47+00:00",
+      "source": "https://www.newyorker.com/magazine/2025/12/15/oliver-sacks-put-himself-into-his-case-studies-what-was-the-cost",
+      "summary": "https://archive.ph/0MFPK Comments URL: https://news.ycombinator.com/item?id=46251654 Points: 52 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46251582",
+      "title": "1300 Still Images from the Animated Films of Hayao Miyazaki's Studio Ghibli (2023)",
+      "slug": "2025-12-13-1300-still-images-from-the-animated-films-of-hayao-miyazaki-s-studio-ghibli-2023.html",
+      "path": "posts/2025-12-13-1300-still-images-from-the-animated-films-of-hayao-miyazaki-s-studio-ghibli-2023.html",
+      "date_iso": "2025-12-13T02:56:49+00:00",
+      "source": "https://www.ghibli.jp/info/013772/",
+      "summary": "Article URL: https://www.ghibli.jp/info/013772/ Comments URL: https://news.ycombinator.com/item?id=46251582 Points: 55 # Comments: 11"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/12/technology/elon-musk-spacex-ipo.html",
+      "title": "Elon Musk’s SpaceX Valued at $800 Billion, as It Prepares to Go Public",
+      "slug": "2025-12-13-elon-musk-s-spacex-valued-at-800-billion-as-it-prepares-to-go-public.html",
+      "path": "posts/2025-12-13-elon-musk-s-spacex-valued-at-800-billion-as-it-prepares-to-go-public.html",
+      "date_iso": "2025-12-13T00:55:55+00:00",
+      "source": "https://www.nytimes.com/2025/12/12/technology/elon-musk-spacex-ipo.html",
+      "summary": "The SpaceX launchpad in South Texas in June 2024. The company said in a letter to employees on Friday that it could go public in 2026."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46250862",
+      "title": "The Checkerboard",
+      "slug": "2025-12-13-the-checkerboard.html",
+      "path": "posts/2025-12-13-the-checkerboard.html",
+      "date_iso": "2025-12-13T00:50:47+00:00",
+      "source": "https://99percentinvisible.org/episode/650-the-checkerboard/",
+      "summary": "Article URL: https://99percentinvisible.org/episode/650-the-checkerboard/ Comments URL: https://news.ycombinator.com/item?id=46250862 Points: 39 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46250332",
+      "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
+      "slug": "2025-12-12-openai-are-quietly-adopting-skills-now-available-in-chatgpt-and-codex-cli.html",
+      "path": "posts/2025-12-12-openai-are-quietly-adopting-skills-now-available-in-chatgpt-and-codex-cli.html",
+      "date_iso": "2025-12-12T23:30:19+00:00",
+      "source": "https://simonwillison.net/2025/Dec/12/openai-skills/",
+      "summary": "Article URL: https://simonwillison.net/2025/Dec/12/openai-skills/ Comments URL: https://news.ycombinator.com/item?id=46250332 Points: 285 # Comments: 165"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46250309",
+      "title": "50 years of proof assistants",
+      "slug": "2025-12-12-50-years-of-proof-assistants.html",
+      "path": "posts/2025-12-12-50-years-of-proof-assistants.html",
+      "date_iso": "2025-12-12T23:26:26+00:00",
+      "source": "https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html",
+      "summary": "Article URL: https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html Comments URL: https://news.ycombinator.com/item?id=46250309 Points: 73 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46249538",
+      "title": "Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig",
+      "slug": "2025-12-12-show-hn-tiny-vm-sandbox-in-c-with-apps-in-rust-c-and-zig.html",
+      "path": "posts/2025-12-12-show-hn-tiny-vm-sandbox-in-c-with-apps-in-rust-c-and-zig.html",
+      "date_iso": "2025-12-12T22:02:14+00:00",
+      "source": "https://github.com/ringtailsoftware/uvm32",
+      "summary": "Article URL: https://github.com/ringtailsoftware/uvm32 Comments URL: https://news.ycombinator.com/item?id=46249538 Points: 111 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46249337",
+      "title": "Capsudo: Rethinking Sudo with Object Capabilities",
+      "slug": "2025-12-12-capsudo-rethinking-sudo-with-object-capabilities.html",
+      "path": "posts/2025-12-12-capsudo-rethinking-sudo-with-object-capabilities.html",
+      "date_iso": "2025-12-12T21:42:04+00:00",
+      "source": "https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html",
+      "summary": "Article URL: https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html Comments URL: https://news.ycombinator.com/item?id=46249337 Points: 58 # Comments: 33"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46248892",
+      "title": "Motion (YC W20) Is Hiring Senior Staff Front End Engineers",
+      "slug": "2025-12-12-motion-yc-w20-is-hiring-senior-staff-front-end-engineers.html",
+      "path": "posts/2025-12-12-motion-yc-w20-is-hiring-senior-staff-front-end-engineers.html",
+      "date_iso": "2025-12-12T21:00:54+00:00",
+      "source": "https://jobs.ashbyhq.com/motion/715d9646-27d4-44f6-9229-61eb0380ae39",
+      "summary": "Article URL: https://jobs.ashbyhq.com/motion/715d9646-27d4-44f6-9229-61eb0380ae39 Comments URL: https://news.ycombinator.com/item?id=46248892 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46248859",
+      "title": "GNU Unifont",
+      "slug": "2025-12-12-gnu-unifont.html",
+      "path": "posts/2025-12-12-gnu-unifont.html",
+      "date_iso": "2025-12-12T20:57:34+00:00",
+      "source": "https://unifoundry.com/unifont/index.html",
+      "summary": "Article URL: https://unifoundry.com/unifont/index.html Comments URL: https://news.ycombinator.com/item?id=46248859 Points: 188 # Comments: 53"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46248644",
+      "title": "macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt",
+      "slug": "2025-12-12-macos-26-2-enables-fast-ai-clusters-with-rdma-over-thunderbolt.html",
+      "path": "posts/2025-12-12-macos-26-2-enables-fast-ai-clusters-with-rdma-over-thunderbolt.html",
+      "date_iso": "2025-12-12T20:41:38+00:00",
+      "source": "https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt",
+      "summary": "Article URL: https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt Comments URL: https://news.ycombinator.com/item?id=46248644 Points: 356 # Comments: 194"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46248323",
+      "title": "Rats Play DOOM",
+      "slug": "2025-12-12-rats-play-doom.html",
+      "path": "posts/2025-12-12-rats-play-doom.html",
+      "date_iso": "2025-12-12T20:15:58+00:00",
+      "source": "https://ratsplaydoom.com/",
+      "summary": "Article URL: https://ratsplaydoom.com/ Comments URL: https://news.ycombinator.com/item?id=46248323 Points: 248 # Comments: 92"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/12/technology/elon-musk-europe.html",
+      "title": "Elon Musk Tests Europe’s Willingness to Enforce Its Online Laws",
+      "slug": "2025-12-12-elon-musk-tests-europe-s-willingness-to-enforce-its-online-laws.html",
+      "path": "posts/2025-12-12-elon-musk-tests-europe-s-willingness-to-enforce-its-online-laws.html",
+      "date_iso": "2025-12-12T19:39:14+00:00",
+      "source": "https://www.nytimes.com/2025/12/12/technology/elon-musk-europe.html",
+      "summary": "Elon Musk has grown increasingly confrontational toward Europe over the past year."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/12/business/energy-environment/trump-harold-hamm-oil-gas.html",
+      "title": "Harold Hamm, Oklahoma Oil Tycoon, Allies With Trump to Reshape U.S. Energy",
+      "slug": "2025-12-12-harold-hamm-oklahoma-oil-tycoon-allies-with-trump-to-reshape-u-s-energy.html",
+      "path": "posts/2025-12-12-harold-hamm-oklahoma-oil-tycoon-allies-with-trump-to-reshape-u-s-energy.html",
+      "date_iso": "2025-12-12T15:00:04+00:00",
+      "source": "https://www.nytimes.com/2025/12/12/business/energy-environment/trump-harold-hamm-oil-gas.html",
+      "summary": "Harold Hamm, an Oklahoma oil tycoon, has played a central role in reshaping energy policy by allying himself with President Trump."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46243655",
+      "title": "Sick of smart TVs? Here are your best options",
+      "slug": "2025-12-12-sick-of-smart-tvs-here-are-your-best-options.html",
+      "path": "posts/2025-12-12-sick-of-smart-tvs-here-are-your-best-options.html",
+      "date_iso": "2025-12-12T12:51:40+00:00",
+      "source": "https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/",
+      "summary": "Article URL: https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/ Comments URL: https://news.ycombinator.com/item?id=46243655 Points: 228 # Comments: 235"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/12/podcasts/hardfork-australia-water.html",
+      "title": "Australia Kicks Kids Off Social Media + Is the A.I. Water Issue Fake? + Hard Fork Wrapped",
+      "slug": "2025-12-12-australia-kicks-kids-off-social-media-is-the-a-i-water-issue-fake-hard-fork-wrapped.html",
+      "path": "posts/2025-12-12-australia-kicks-kids-off-social-media-is-the-a-i-water-issue-fake-hard-fork-wrapped.html",
+      "date_iso": "2025-12-12T12:00:08+00:00",
+      "source": "https://www.nytimes.com/2025/12/12/podcasts/hardfork-australia-water.html",
+      "summary": "“I’m told that Australian teens, in preparation for this ban, have been exchanging phone numbers with each other.”"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46242871",
+      "title": "Koralm Railway",
+      "slug": "2025-12-12-koralm-railway.html",
+      "path": "posts/2025-12-12-koralm-railway.html",
+      "date_iso": "2025-12-12T10:50:22+00:00",
+      "source": "https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway",
+      "summary": "Article URL: https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway Comments URL: https://news.ycombinator.com/item?id=46242871 Points: 295 # Comments: 173"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46242700",
+      "title": "Building small Docker images faster",
+      "slug": "2025-12-12-building-small-docker-images-faster.html",
+      "path": "posts/2025-12-12-building-small-docker-images-faster.html",
+      "date_iso": "2025-12-12T10:23:23+00:00",
+      "source": "https://sgt.hootr.club/blog/docker-protips/",
+      "summary": "Article URL: https://sgt.hootr.club/blog/docker-protips/ Comments URL: https://news.ycombinator.com/item?id=46242700 Points: 48 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46241368",
+      "title": "Freeing a Xiaomi humidifier from the cloud",
+      "slug": "2025-12-12-freeing-a-xiaomi-humidifier-from-the-cloud.html",
+      "path": "posts/2025-12-12-freeing-a-xiaomi-humidifier-from-the-cloud.html",
+      "date_iso": "2025-12-12T06:17:28+00:00",
+      "source": "https://0l.de/blog/2025/11/xiaomi-humidifier/",
+      "summary": "Article URL: https://0l.de/blog/2025/11/xiaomi-humidifier/ Comments URL: https://news.ycombinator.com/item?id=46241368 Points: 63 # Comments: 35"
+    },
+    {
       "id": "https://www.nytimes.com/2025/12/12/world/asia/nvidia-china-trump-security-japan.html",
       "title": "China Is Getting Much of What It Wants From the U.S., Including Chips",
       "slug": "2025-12-12-china-is-getting-much-of-what-it-wants-from-the-u-s-including-chips.html",
