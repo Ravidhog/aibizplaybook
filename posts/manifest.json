@@ -1,6 +1,159 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46260596",
+      "title": "Heavy metal is healing teens on the Blackfeet Nation",
+      "slug": "2025-12-14-heavy-metal-is-healing-teens-on-the-blackfeet-nation.html",
+      "path": "posts/2025-12-14-heavy-metal-is-healing-teens-on-the-blackfeet-nation.html",
+      "date_iso": "2025-12-14T03:46:51+00:00",
+      "source": "https://www.hcn.org/issues/57-11/heavy-metal-is-healing-teens-on-the-blackfeet-nation/",
+      "summary": "Article URL: https://www.hcn.org/issues/57-11/heavy-metal-is-healing-teens-on-the-blackfeet-nation/ Comments URL: https://news.ycombinator.com/item?id=46260596 Points: 38 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46260128",
+      "title": "Lean Theorem Prover Mathlib",
+      "slug": "2025-12-14-lean-theorem-prover-mathlib.html",
+      "path": "posts/2025-12-14-lean-theorem-prover-mathlib.html",
+      "date_iso": "2025-12-14T01:49:11+00:00",
+      "source": "https://github.com/leanprover-community/mathlib4",
+      "summary": "Article URL: https://github.com/leanprover-community/mathlib4 Comments URL: https://news.ycombinator.com/item?id=46260128 Points: 24 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46260106",
+      "title": "If a Meta AI model can read a brain-wide signal, why wouldn't the brain?",
+      "slug": "2025-12-14-if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldn-t-the-brain.html",
+      "path": "posts/2025-12-14-if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldn-t-the-brain.html",
+      "date_iso": "2025-12-14T01:43:33+00:00",
+      "source": "https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain",
+      "summary": "Article URL: https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain Comments URL: https://news.ycombinator.com/item?id=46260106 Points: 46 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46260039",
+      "title": "Therapeutic Use of Cannabis and Cannabinoids: A Review",
+      "slug": "2025-12-14-therapeutic-use-of-cannabis-and-cannabinoids-a-review.html",
+      "path": "posts/2025-12-14-therapeutic-use-of-cannabis-and-cannabinoids-a-review.html",
+      "date_iso": "2025-12-14T01:32:36+00:00",
+      "source": "https://jamanetwork.com/journals/jama/fullarticle/2842072?guestAccessKey=a368e622-e374-4a0c-8d3b-22a976500305",
+      "summary": "Article URL: https://jamanetwork.com/journals/jama/fullarticle/2842072?guestAccessKey=a368e622-e374-4a0c-8d3b-22a976500305 Comments URL: https://news.ycombinator.com/item?id=46260039 Points: 31 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46259970",
+      "title": "Free Software Awards Winners Announced: Andy Wingo, Alx Sa, Govdirectory",
+      "slug": "2025-12-14-free-software-awards-winners-announced-andy-wingo-alx-sa-govdirectory.html",
+      "path": "posts/2025-12-14-free-software-awards-winners-announced-andy-wingo-alx-sa-govdirectory.html",
+      "date_iso": "2025-12-14T01:19:50+00:00",
+      "source": "https://www.fsf.org/news/2024-free-software-awards-winners",
+      "summary": "Article URL: https://www.fsf.org/news/2024-free-software-awards-winners Comments URL: https://news.ycombinator.com/item?id=46259970 Points: 67 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46259914",
+      "title": "Awesome-Jj: Jujutsu Things",
+      "slug": "2025-12-14-awesome-jj-jujutsu-things.html",
+      "path": "posts/2025-12-14-awesome-jj-jujutsu-things.html",
+      "date_iso": "2025-12-14T01:10:11+00:00",
+      "source": "https://github.com/Necior/awesome-jj",
+      "summary": "Article URL: https://github.com/Necior/awesome-jj Comments URL: https://news.ycombinator.com/item?id=46259914 Points: 36 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46259702",
+      "title": "An Implementation of J",
+      "slug": "2025-12-14-an-implementation-of-j.html",
+      "path": "posts/2025-12-14-an-implementation-of-j.html",
+      "date_iso": "2025-12-14T00:34:56+00:00",
+      "source": "https://www.jsoftware.com/ioj/ioj.htm",
+      "summary": "Article URL: https://www.jsoftware.com/ioj/ioj.htm Comments URL: https://news.ycombinator.com/item?id=46259702 Points: 44 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46259334",
+      "title": "Closures as Win32 Window Procedures",
+      "slug": "2025-12-13-closures-as-win32-window-procedures.html",
+      "path": "posts/2025-12-13-closures-as-win32-window-procedures.html",
+      "date_iso": "2025-12-13T23:39:48+00:00",
+      "source": "https://nullprogram.com/blog/2025/12/12/",
+      "summary": "Article URL: https://nullprogram.com/blog/2025/12/12/ Comments URL: https://news.ycombinator.com/item?id=46259334 Points: 56 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46259064",
+      "title": "Linux Sandboxes and Fil-C",
+      "slug": "2025-12-13-linux-sandboxes-and-fil-c.html",
+      "path": "posts/2025-12-13-linux-sandboxes-and-fil-c.html",
+      "date_iso": "2025-12-13T22:58:29+00:00",
+      "source": "https://fil-c.org/seccomp",
+      "summary": "Article URL: https://fil-c.org/seccomp Comments URL: https://news.ycombinator.com/item?id=46259064 Points: 180 # Comments: 49"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46258163",
+      "title": "Recovering Anthony Bourdain's (really) lost Li.st's",
+      "slug": "2025-12-13-recovering-anthony-bourdain-s-really-lost-li-st-s.html",
+      "path": "posts/2025-12-13-recovering-anthony-bourdain-s-really-lost-li-st-s.html",
+      "date_iso": "2025-12-13T21:18:01+00:00",
+      "source": "https://sandyuraz.com/blogs/bourdain/",
+      "summary": "Article URL: https://sandyuraz.com/blogs/bourdain/ Comments URL: https://news.ycombinator.com/item?id=46258163 Points: 174 # Comments: 57"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46257714",
+      "title": "Why Twilio Segment moved from microservices back to a monolith",
+      "slug": "2025-12-13-why-twilio-segment-moved-from-microservices-back-to-a-monolith.html",
+      "path": "posts/2025-12-13-why-twilio-segment-moved-from-microservices-back-to-a-monolith.html",
+      "date_iso": "2025-12-13T20:30:34+00:00",
+      "source": "https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices",
+      "summary": "Article URL: https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices Comments URL: https://news.ycombinator.com/item?id=46257714 Points: 213 # Comments: 170"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46257607",
+      "title": "I fed 24 years of my blog posts to a Markov model",
+      "slug": "2025-12-13-i-fed-24-years-of-my-blog-posts-to-a-markov-model.html",
+      "path": "posts/2025-12-13-i-fed-24-years-of-my-blog-posts-to-a-markov-model.html",
+      "date_iso": "2025-12-13T20:19:53+00:00",
+      "source": "https://susam.net/fed-24-years-of-posts-to-markov-model.html",
+      "summary": "Article URL: https://susam.net/fed-24-years-of-posts-to-markov-model.html Comments URL: https://news.ycombinator.com/item?id=46257607 Points: 146 # Comments: 66"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46257599",
+      "title": "The Rise of Computer Games, Part I: Adventure",
+      "slug": "2025-12-13-the-rise-of-computer-games-part-i-adventure.html",
+      "path": "posts/2025-12-13-the-rise-of-computer-games-part-i-adventure.html",
+      "date_iso": "2025-12-13T20:19:10+00:00",
+      "source": "https://technicshistory.com/2025/12/13/the-rise-of-computer-games-part-i-adventure/",
+      "summary": "Article URL: https://technicshistory.com/2025/12/13/the-rise-of-computer-games-part-i-adventure/ Comments URL: https://news.ycombinator.com/item?id=46257599 Points: 74 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46257339",
+      "title": "VPN location claims don't match real traffic exits",
+      "slug": "2025-12-13-vpn-location-claims-don-t-match-real-traffic-exits.html",
+      "path": "posts/2025-12-13-vpn-location-claims-don-t-match-real-traffic-exits.html",
+      "date_iso": "2025-12-13T19:46:19+00:00",
+      "source": "https://ipinfo.io/blog/vpn-location-mismatch-report",
+      "summary": "Article URL: https://ipinfo.io/blog/vpn-location-mismatch-report Comments URL: https://news.ycombinator.com/item?id=46257339 Points: 330 # Comments: 193"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46256002",
+      "title": "EasyPost (YC S13) Is Hiring",
+      "slug": "2025-12-13-easypost-yc-s13-is-hiring.html",
+      "path": "posts/2025-12-13-easypost-yc-s13-is-hiring.html",
+      "date_iso": "2025-12-13T17:01:25+00:00",
+      "source": "https://www.easypost.com/careers",
+      "summary": "Article URL: https://www.easypost.com/careers Comments URL: https://news.ycombinator.com/item?id=46256002 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46255991",
+      "title": "I tried Gleam for Advent of Code",
+      "slug": "2025-12-13-i-tried-gleam-for-advent-of-code.html",
+      "path": "posts/2025-12-13-i-tried-gleam-for-advent-of-code.html",
+      "date_iso": "2025-12-13T17:00:14+00:00",
+      "source": "https://blog.tymscar.com/posts/gleamaoc2025/",
+      "summary": "Article URL: https://blog.tymscar.com/posts/gleamaoc2025/ Comments URL: https://news.ycombinator.com/item?id=46255991 Points: 260 # Comments: 147"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46255285",
+      "title": "Ask HN: How can I get better at using AI for programming?",
+      "slug": "2025-12-13-ask-hn-how-can-i-get-better-at-using-ai-for-programming.html",
+      "path": "posts/2025-12-13-ask-hn-how-can-i-get-better-at-using-ai-for-programming.html",
+      "date_iso": "2025-12-13T15:37:16+00:00",
+      "source": "https://news.ycombinator.com/item?id=46255285",
+      "summary": "I've been working on a personal project recently, rewriting an old jQuery + Django project into SvelteKit. The main work is translating the UI templates into idiomatic SvelteKit while maintaining the original styling. This includes things like using semantic HTML instead of div-…"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46252171",
       "title": "Doxers Posing as Cops Are Tricking Big Tech Firms into Sharing People's Data",
       "slug": "2025-12-13-doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-people-s-data.html",
@@ -359,6 +512,15 @@
       "date_iso": "2025-12-11T19:30:58+00:00",
       "source": "https://jeffhuang.com/productivity_text_file/",
       "summary": "Article URL: https://jeffhuang.com/productivity_text_file/ Comments URL: https://news.ycombinator.com/item?id=46236037 Points: 210 # Comments: 140"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46236001",
+      "title": "What is the nicest thing a stranger has ever done for you?",
+      "slug": "2025-12-11-what-is-the-nicest-thing-a-stranger-has-ever-done-for-you.html",
+      "path": "posts/2025-12-11-what-is-the-nicest-thing-a-stranger-has-ever-done-for-you.html",
+      "date_iso": "2025-12-11T19:28:40+00:00",
+      "source": "https://louplummer.lol/nice-stranger/",
+      "summary": "Article URL: https://louplummer.lol/nice-stranger/ Comments URL: https://news.ycombinator.com/item?id=46236001 Points: 358 # Comments: 257"
     },
     {
       "id": "https://www.nytimes.com/2025/12/11/business/ford-electric-vehicles-china.html",
