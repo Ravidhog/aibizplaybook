@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46270972",
+      "title": "Why proteins fold and how GPUs help us fold",
+      "slug": "2025-12-15-why-proteins-fold-and-how-gpus-help-us-fold.html",
+      "path": "posts/2025-12-15-why-proteins-fold-and-how-gpus-help-us-fold.html",
+      "date_iso": "2025-12-15T06:05:35+00:00",
+      "source": "https://aval.bearblog.dev/nvidiaproteins/",
+      "summary": "Article URL: https://aval.bearblog.dev/nvidiaproteins/ Comments URL: https://news.ycombinator.com/item?id=46270972 Points: 14 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46270877",
+      "title": "Nvidia-backed Starcloud trains first AI model in space, orbital data centers",
+      "slug": "2025-12-15-nvidia-backed-starcloud-trains-first-ai-model-in-space-orbital-data-centers.html",
+      "path": "posts/2025-12-15-nvidia-backed-starcloud-trains-first-ai-model-in-space-orbital-data-centers.html",
+      "date_iso": "2025-12-15T05:45:43+00:00",
+      "source": "https://www.cnbc.com/2025/12/10/nvidia-backed-starcloud-trains-first-ai-model-in-space-orbital-data-centers.html",
+      "summary": "Article URL: https://www.cnbc.com/2025/12/10/nvidia-backed-starcloud-trains-first-ai-model-in-space-orbital-data-centers.html Comments URL: https://news.ycombinator.com/item?id=46270877 Points: 10 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46270597",
+      "title": "SVG Fullstack Website",
+      "slug": "2025-12-15-svg-fullstack-website.html",
+      "path": "posts/2025-12-15-svg-fullstack-website.html",
+      "date_iso": "2025-12-15T04:46:49+00:00",
+      "source": "https://github.com/icitry/SVGWebsite",
+      "summary": "Article URL: https://github.com/icitry/SVGWebsite Comments URL: https://news.ycombinator.com/item?id=46270597 Points: 8 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46270415",
+      "title": "Read Something Wonderful",
+      "slug": "2025-12-15-read-something-wonderful.html",
+      "path": "posts/2025-12-15-read-something-wonderful.html",
+      "date_iso": "2025-12-15T04:15:21+00:00",
+      "source": "https://readsomethingwonderful.com/",
+      "summary": "Article URL: https://readsomethingwonderful.com/ Comments URL: https://news.ycombinator.com/item?id=46270415 Points: 77 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46270386",
+      "title": "The Whole App is a Blob",
+      "slug": "2025-12-15-the-whole-app-is-a-blob.html",
+      "path": "posts/2025-12-15-the-whole-app-is-a-blob.html",
+      "date_iso": "2025-12-15T04:09:51+00:00",
+      "source": "https://drobinin.com/posts/the-whole-app-is-a-blob/",
+      "summary": "Article URL: https://drobinin.com/posts/the-whole-app-is-a-blob/ Comments URL: https://news.ycombinator.com/item?id=46270386 Points: 41 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46270298",
+      "title": "Arborium: Tree-sitter code highlighting with Native and WASM targets",
+      "slug": "2025-12-15-arborium-tree-sitter-code-highlighting-with-native-and-wasm-targets.html",
+      "path": "posts/2025-12-15-arborium-tree-sitter-code-highlighting-with-native-and-wasm-targets.html",
+      "date_iso": "2025-12-15T03:57:46+00:00",
+      "source": "https://arborium.bearcove.eu/",
+      "summary": "Article URL: https://arborium.bearcove.eu/ Comments URL: https://news.ycombinator.com/item?id=46270298 Points: 49 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46270282",
+      "title": "Unscii",
+      "slug": "2025-12-15-unscii.html",
+      "path": "posts/2025-12-15-unscii.html",
+      "date_iso": "2025-12-15T03:55:07+00:00",
+      "source": "http://viznut.fi/unscii/",
+      "summary": "Article URL: http://viznut.fi/unscii/ Comments URL: https://news.ycombinator.com/item?id=46270282 Points: 22 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46270273",
+      "title": "Rob Reiner has died",
+      "slug": "2025-12-15-rob-reiner-has-died.html",
+      "path": "posts/2025-12-15-rob-reiner-has-died.html",
+      "date_iso": "2025-12-15T03:54:03+00:00",
+      "source": "https://www.hollywoodreporter.com/movies/movie-news/rob-reiner-dead-harry-met-sally-princess-bride-all-in-family-1236450387/",
+      "summary": "Article URL: https://www.hollywoodreporter.com/movies/movie-news/rob-reiner-dead-harry-met-sally-princess-bride-all-in-family-1236450387/ Comments URL: https://news.ycombinator.com/item?id=46270273 Points: 27 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46269991",
+      "title": "John Varley has died",
+      "slug": "2025-12-15-john-varley-has-died.html",
+      "path": "posts/2025-12-15-john-varley-has-died.html",
+      "date_iso": "2025-12-15T03:04:50+00:00",
+      "source": "http://floggingbabel.blogspot.com/2025/12/john-varley-1947-2025.html",
+      "summary": "Article URL: http://floggingbabel.blogspot.com/2025/12/john-varley-1947-2025.html Comments URL: https://news.ycombinator.com/item?id=46269991 Points: 40 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46269891",
+      "title": "SoundCloud just banned VPN access",
+      "slug": "2025-12-15-soundcloud-just-banned-vpn-access.html",
+      "path": "posts/2025-12-15-soundcloud-just-banned-vpn-access.html",
+      "date_iso": "2025-12-15T02:51:24+00:00",
+      "source": "https://old.reddit.com/r/SoundCloudMusic/comments/1pltd19/soundcloud_just_banned_vpn_access/",
+      "summary": "Article URL: https://old.reddit.com/r/SoundCloudMusic/comments/1pltd19/soundcloud_just_banned_vpn_access/ Comments URL: https://news.ycombinator.com/item?id=46269891 Points: 72 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46268869",
+      "title": "CapROS: Capability-Based Reliable Operating System",
+      "slug": "2025-12-15-capros-capability-based-reliable-operating-system.html",
+      "path": "posts/2025-12-15-capros-capability-based-reliable-operating-system.html",
+      "date_iso": "2025-12-15T00:39:31+00:00",
+      "source": "https://www.capros.org/",
+      "summary": "Article URL: https://www.capros.org/ Comments URL: https://news.ycombinator.com/item?id=46268869 Points: 71 # Comments: 27"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46268153",
+      "title": "DARPA GO: Generative Optogenetics",
+      "slug": "2025-12-14-darpa-go-generative-optogenetics.html",
+      "path": "posts/2025-12-14-darpa-go-generative-optogenetics.html",
+      "date_iso": "2025-12-14T23:13:39+00:00",
+      "source": "https://www.darpa.mil/research/programs/go",
+      "summary": "Article URL: https://www.darpa.mil/research/programs/go Comments URL: https://news.ycombinator.com/item?id=46268153 Points: 41 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46267947",
+      "title": "History of Declarative Programming",
+      "slug": "2025-12-14-history-of-declarative-programming.html",
+      "path": "posts/2025-12-14-history-of-declarative-programming.html",
+      "date_iso": "2025-12-14T22:46:01+00:00",
+      "source": "https://shenlanguage.org/TBoS/tbos_15.html",
+      "summary": "Article URL: https://shenlanguage.org/TBoS/tbos_15.html Comments URL: https://news.ycombinator.com/item?id=46267947 Points: 46 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46267385",
+      "title": "Elevated errors across many models",
+      "slug": "2025-12-14-elevated-errors-across-many-models.html",
+      "path": "posts/2025-12-14-elevated-errors-across-many-models.html",
+      "date_iso": "2025-12-14T21:53:13+00:00",
+      "source": "https://status.claude.com/incidents/9g6qpr72ttbr",
+      "summary": "Article URL: https://status.claude.com/incidents/9g6qpr72ttbr Comments URL: https://news.ycombinator.com/item?id=46267385 Points: 292 # Comments: 141"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46266875",
+      "title": "2002: Last.fm and Audioscrobbler Herald the Social Web",
+      "slug": "2025-12-14-2002-last-fm-and-audioscrobbler-herald-the-social-web.html",
+      "path": "posts/2025-12-14-2002-last-fm-and-audioscrobbler-herald-the-social-web.html",
+      "date_iso": "2025-12-14T21:05:13+00:00",
+      "source": "https://cybercultural.com/p/lastfm-audioscrobbler-2002/",
+      "summary": "Article URL: https://cybercultural.com/p/lastfm-audioscrobbler-2002/ Comments URL: https://news.ycombinator.com/item?id=46266875 Points: 187 # Comments: 108"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46266717",
+      "title": "The Problem of Teaching Physics in Latin America (1963)",
+      "slug": "2025-12-14-the-problem-of-teaching-physics-in-latin-america-1963.html",
+      "path": "posts/2025-12-14-the-problem-of-teaching-physics-in-latin-america-1963.html",
+      "date_iso": "2025-12-14T20:47:21+00:00",
+      "source": "https://calteches.library.caltech.edu/46/2/LatinAmerica.htm",
+      "summary": "Article URL: https://calteches.library.caltech.edu/46/2/LatinAmerica.htm Comments URL: https://news.ycombinator.com/item?id=46266717 Points: 26 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46266102",
+      "title": "JSDoc is TypeScript",
+      "slug": "2025-12-14-jsdoc-is-typescript.html",
+      "path": "posts/2025-12-14-jsdoc-is-typescript.html",
+      "date_iso": "2025-12-14T19:42:53+00:00",
+      "source": "https://culi.bearblog.dev/jsdoc-is-typescript/",
+      "summary": "Article URL: https://culi.bearblog.dev/jsdoc-is-typescript/ Comments URL: https://news.ycombinator.com/item?id=46266102 Points: 145 # Comments: 179"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46265362",
+      "title": "Adafruit: Arduino’s Rules Are ‘Incompatible With Open Source’",
+      "slug": "2025-12-14-adafruit-arduino-s-rules-are-incompatible-with-open-source.html",
+      "path": "posts/2025-12-14-adafruit-arduino-s-rules-are-incompatible-with-open-source.html",
+      "date_iso": "2025-12-14T18:18:34+00:00",
+      "source": "https://thenewstack.io/adafruit-arduinos-rules-are-incompatible-with-open-source/",
+      "summary": "Article URL: https://thenewstack.io/adafruit-arduinos-rules-are-incompatible-with-open-source/ Comments URL: https://news.ycombinator.com/item?id=46265362 Points: 105 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46265015",
+      "title": "The Typeframe PX-88 Portable Computing System",
+      "slug": "2025-12-14-the-typeframe-px-88-portable-computing-system.html",
+      "path": "posts/2025-12-14-the-typeframe-px-88-portable-computing-system.html",
+      "date_iso": "2025-12-14T17:43:39+00:00",
+      "source": "https://www.typeframe.net/",
+      "summary": "Article URL: https://www.typeframe.net/ Comments URL: https://news.ycombinator.com/item?id=46265015 Points: 107 # Comments: 33"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46264492",
+      "title": "Hashcards: A plain-text spaced repetition system",
+      "slug": "2025-12-14-hashcards-a-plain-text-spaced-repetition-system.html",
+      "path": "posts/2025-12-14-hashcards-a-plain-text-spaced-repetition-system.html",
+      "date_iso": "2025-12-14T16:55:29+00:00",
+      "source": "https://borretti.me/article/hashcards-plain-text-spaced-repetition",
+      "summary": "Article URL: https://borretti.me/article/hashcards-plain-text-spaced-repetition Comments URL: https://news.ycombinator.com/item?id=46264492 Points: 298 # Comments: 137"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46260596",
       "title": "Heavy metal is healing teens on the Blackfeet Nation",
       "slug": "2025-12-14-heavy-metal-is-healing-teens-on-the-blackfeet-nation.html",
