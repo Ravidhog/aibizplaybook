@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46285535",
+      "title": "A linear-time alternative for Dimensionality Reduction and fast visualisation",
+      "slug": "2025-12-16-a-linear-time-alternative-for-dimensionality-reduction-and-fast-visualisation.html",
+      "path": "posts/2025-12-16-a-linear-time-alternative-for-dimensionality-reduction-and-fast-visualisation.html",
+      "date_iso": "2025-12-16T06:47:09+00:00",
+      "source": "https://medium.com/@roman.f/a-linear-time-alternative-to-t-sne-for-dimensionality-reduction-and-fast-visualisation-5cd1a7219d6f",
+      "summary": "Article URL: https://medium.com/@roman.f/a-linear-time-alternative-to-t-sne-for-dimensionality-reduction-and-fast-visualisation-5cd1a7219d6f Comments URL: https://news.ycombinator.com/item?id=46285535 Points: 11 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46285448",
+      "title": "O'saasy License Agreement",
+      "slug": "2025-12-16-o-saasy-license-agreement.html",
+      "path": "posts/2025-12-16-o-saasy-license-agreement.html",
+      "date_iso": "2025-12-16T06:29:02+00:00",
+      "source": "https://osaasy.dev/",
+      "summary": "Article URL: https://osaasy.dev/ Comments URL: https://news.ycombinator.com/item?id=46285448 Points: 5 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46285376",
+      "title": "Children with cancer scammed out of millions fundraised for their treatment",
+      "slug": "2025-12-16-children-with-cancer-scammed-out-of-millions-fundraised-for-their-treatment.html",
+      "path": "posts/2025-12-16-children-with-cancer-scammed-out-of-millions-fundraised-for-their-treatment.html",
+      "date_iso": "2025-12-16T06:17:37+00:00",
+      "source": "https://www.bbc.com/news/articles/ckgz318y8elo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/ckgz318y8elo Comments URL: https://news.ycombinator.com/item?id=46285376 Points: 22 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46284897",
+      "title": "Erdős Problem #1026",
+      "slug": "2025-12-16-erd-s-problem-1026.html",
+      "path": "posts/2025-12-16-erd-s-problem-1026.html",
+      "date_iso": "2025-12-16T04:49:03+00:00",
+      "source": "https://terrytao.wordpress.com/2025/12/08/the-story-of-erdos-problem-126/",
+      "summary": "Article URL: https://terrytao.wordpress.com/2025/12/08/the-story-of-erdos-problem-126/ Comments URL: https://news.ycombinator.com/item?id=46284897 Points: 45 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46284658",
+      "title": "SHARP, an approach to photorealistic view synthesis from a single image",
+      "slug": "2025-12-16-sharp-an-approach-to-photorealistic-view-synthesis-from-a-single-image.html",
+      "path": "posts/2025-12-16-sharp-an-approach-to-photorealistic-view-synthesis-from-a-single-image.html",
+      "date_iso": "2025-12-16T04:06:51+00:00",
+      "source": "https://apple.github.io/ml-sharp/",
+      "summary": "Article URL: https://apple.github.io/ml-sharp/ Comments URL: https://news.ycombinator.com/item?id=46284658 Points: 212 # Comments: 43"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46284266",
+      "title": "8M users' AI conversations sold for profit by \"privacy\" extensions",
+      "slug": "2025-12-16-8m-users-ai-conversations-sold-for-profit-by-privacy-extensions.html",
+      "path": "posts/2025-12-16-8m-users-ai-conversations-sold-for-profit-by-privacy-extensions.html",
+      "date_iso": "2025-12-16T03:03:49+00:00",
+      "source": "https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection",
+      "summary": "Article URL: https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection Comments URL: https://news.ycombinator.com/item?id=46284266 Points: 345 # Comments: 115"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46283750",
+      "title": "Rollstack (YC W23) is hiring multiple software engineers (TypeScript) US/Canada",
+      "slug": "2025-12-16-rollstack-yc-w23-is-hiring-multiple-software-engineers-typescript-us-canada.html",
+      "path": "posts/2025-12-16-rollstack-yc-w23-is-hiring-multiple-software-engineers-typescript-us-canada.html",
+      "date_iso": "2025-12-16T01:51:50+00:00",
+      "source": "https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada",
+      "summary": "Article URL: https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada Comments URL: https://news.ycombinator.com/item?id=46283750 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46283016",
+      "title": "Quill OS: An open-source OS for Kobo's eReaders",
+      "slug": "2025-12-16-quill-os-an-open-source-os-for-kobo-s-ereaders.html",
+      "path": "posts/2025-12-16-quill-os-an-open-source-os-for-kobo-s-ereaders.html",
+      "date_iso": "2025-12-16T00:22:41+00:00",
+      "source": "https://quill-os.org/",
+      "summary": "Article URL: https://quill-os.org/ Comments URL: https://news.ycombinator.com/item?id=46283016 Points: 214 # Comments: 69"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46282984",
+      "title": "The Bob Dylan concert for just one person",
+      "slug": "2025-12-16-the-bob-dylan-concert-for-just-one-person.html",
+      "path": "posts/2025-12-16-the-bob-dylan-concert-for-just-one-person.html",
+      "date_iso": "2025-12-16T00:18:58+00:00",
+      "source": "https://www.flaggingdown.com/p/the-bob-dylan-concert-for-just-one",
+      "summary": "Article URL: https://www.flaggingdown.com/p/the-bob-dylan-concert-for-just-one Comments URL: https://news.ycombinator.com/item?id=46282984 Points: 70 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46282679",
+      "title": "Native vs. emulation: World of Warcraft game performance on Snapdragon X Elite",
+      "slug": "2025-12-15-native-vs-emulation-world-of-warcraft-game-performance-on-snapdragon-x-elite.html",
+      "path": "posts/2025-12-15-native-vs-emulation-world-of-warcraft-game-performance-on-snapdragon-x-elite.html",
+      "date_iso": "2025-12-15T23:47:37+00:00",
+      "source": "https://rkblog.dev/posts/pc-hardware/pc-on-arm/x86_versus_arm_native_game/",
+      "summary": "Article URL: https://rkblog.dev/posts/pc-hardware/pc-on-arm/x86_versus_arm_native_game/ Comments URL: https://news.ycombinator.com/item?id=46282679 Points: 56 # Comments: 16"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/15/business/ford-electric-vehicles-hybrids.html",
+      "title": "Ford Will Take $19.5 Billion Hit as It Rolls Back E.V. Plans",
+      "slug": "2025-12-15-ford-will-take-19-5-billion-hit-as-it-rolls-back-e-v-plans.html",
+      "path": "posts/2025-12-15-ford-will-take-19-5-billion-hit-as-it-rolls-back-e-v-plans.html",
+      "date_iso": "2025-12-15T23:10:15+00:00",
+      "source": "https://www.nytimes.com/2025/12/15/business/ford-electric-vehicles-hybrids.html",
+      "summary": "A Ford F-150 Lightning electric truck at the company’s plant in Dearborn, Mich., in 2022. The Lightning will no longer be a pure electric vehicle."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46281944",
+      "title": "JetBlue flight averts mid-air collision with US Air Force jet",
+      "slug": "2025-12-15-jetblue-flight-averts-mid-air-collision-with-us-air-force-jet.html",
+      "path": "posts/2025-12-15-jetblue-flight-averts-mid-air-collision-with-us-air-force-jet.html",
+      "date_iso": "2025-12-15T22:48:56+00:00",
+      "source": "https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/",
+      "summary": "https://archive.md/8dT86 Comments URL: https://news.ycombinator.com/item?id=46281944 Points: 195 # Comments: 98"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46281288",
+      "title": "Economics of Orbital vs. Terrestrial Data Centers",
+      "slug": "2025-12-15-economics-of-orbital-vs-terrestrial-data-centers.html",
+      "path": "posts/2025-12-15-economics-of-orbital-vs-terrestrial-data-centers.html",
+      "date_iso": "2025-12-15T21:56:03+00:00",
+      "source": "https://andrewmccalip.com/space-datacenters",
+      "summary": "Article URL: https://andrewmccalip.com/space-datacenters Comments URL: https://news.ycombinator.com/item?id=46281288 Points: 87 # Comments: 136"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46281182",
+      "title": "Ford kills the All-Electric F-150",
+      "slug": "2025-12-15-ford-kills-the-all-electric-f-150.html",
+      "path": "posts/2025-12-15-ford-kills-the-all-electric-f-150.html",
+      "date_iso": "2025-12-15T21:46:53+00:00",
+      "source": "https://www.wired.com/story/ford-kills-electric-f-150-lightning-for-hybrid/",
+      "summary": "Article URL: https://www.wired.com/story/ford-kills-electric-f-150-lightning-for-hybrid/ Comments URL: https://news.ycombinator.com/item?id=46281182 Points: 315 # Comments: 510"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46280887",
+      "title": "Secret Documents Show Pepsi and Walmart Colluded to Raise Food Prices",
+      "slug": "2025-12-15-secret-documents-show-pepsi-and-walmart-colluded-to-raise-food-prices.html",
+      "path": "posts/2025-12-15-secret-documents-show-pepsi-and-walmart-colluded-to-raise-food-prices.html",
+      "date_iso": "2025-12-15T21:24:06+00:00",
+      "source": "https://www.thebignewsletter.com/p/secret-documents-show-pepsi-and-walmart",
+      "summary": "Article URL: https://www.thebignewsletter.com/p/secret-documents-show-pepsi-and-walmart Comments URL: https://news.ycombinator.com/item?id=46280887 Points: 360 # Comments: 94"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46280775",
+      "title": "Canada's Carney called out for 'utilizing' British spelling",
+      "slug": "2025-12-15-canada-s-carney-called-out-for-utilizing-british-spelling.html",
+      "path": "posts/2025-12-15-canada-s-carney-called-out-for-utilizing-british-spelling.html",
+      "date_iso": "2025-12-15T21:15:53+00:00",
+      "source": "https://www.bbc.com/news/articles/cj69d89l8l5o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cj69d89l8l5o Comments URL: https://news.ycombinator.com/item?id=46280775 Points: 21 # Comments: 33"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html",
+      "title": "How Tech’s Biggest Companies Are Offloading the Risks of the A.I. Boom",
+      "slug": "2025-12-15-how-tech-s-biggest-companies-are-offloading-the-risks-of-the-a-i-boom.html",
+      "path": "posts/2025-12-15-how-tech-s-biggest-companies-are-offloading-the-risks-of-the-a-i-boom.html",
+      "date_iso": "2025-12-15T21:08:38+00:00",
+      "source": "https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html",
+      "summary": "Meta is investing billions in new data centers, like one being constructed in Eagle Mountain, Utah."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46280465",
+      "title": "A kernel bug froze my machine: Debugging an async-profiler deadlock",
+      "slug": "2025-12-15-a-kernel-bug-froze-my-machine-debugging-an-async-profiler-deadlock.html",
+      "path": "posts/2025-12-15-a-kernel-bug-froze-my-machine-debugging-an-async-profiler-deadlock.html",
+      "date_iso": "2025-12-15T20:52:35+00:00",
+      "source": "https://questdb.com/blog/async-profiler-kernel-bug/",
+      "summary": "Article URL: https://questdb.com/blog/async-profiler-kernel-bug/ Comments URL: https://news.ycombinator.com/item?id=46280465 Points: 82 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46279825",
+      "title": "The appropriate amount of effort is zero",
+      "slug": "2025-12-15-the-appropriate-amount-of-effort-is-zero.html",
+      "path": "posts/2025-12-15-the-appropriate-amount-of-effort-is-zero.html",
+      "date_iso": "2025-12-15T20:09:48+00:00",
+      "source": "https://expandingawareness.org/blog/the-appropriate-amount-of-effort-is-zero/",
+      "summary": "Article URL: https://expandingawareness.org/blog/the-appropriate-amount-of-effort-is-zero/ Comments URL: https://news.ycombinator.com/item?id=46279825 Points: 92 # Comments: 57"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46279187",
+      "title": "Umbrel – Personal Cloud",
+      "slug": "2025-12-15-umbrel-personal-cloud.html",
+      "path": "posts/2025-12-15-umbrel-personal-cloud.html",
+      "date_iso": "2025-12-15T19:27:08+00:00",
+      "source": "https://umbrel.com",
+      "summary": "Article URL: https://umbrel.com Comments URL: https://news.ycombinator.com/item?id=46279187 Points: 166 # Comments: 93"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/15/us/politics/trump-tech-workers.html",
+      "title": "Trump Administration Begins Program to Increase Government’s Tech Worker Ranks",
+      "slug": "2025-12-15-trump-administration-begins-program-to-increase-government-s-tech-worker-ranks.html",
+      "path": "posts/2025-12-15-trump-administration-begins-program-to-increase-government-s-tech-worker-ranks.html",
+      "date_iso": "2025-12-15T19:20:33+00:00",
+      "source": "https://www.nytimes.com/2025/12/15/us/politics/trump-tech-workers.html",
+      "summary": "Scott Kupor is the director of the Office of Personnel Management, which is leading the program."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/15/business/roomba-irobot-bankruptcy.html",
+      "title": "Roomba Maker iRobot Files for Bankruptcy, With Chinese Supplier Taking Control",
+      "slug": "2025-12-15-roomba-maker-irobot-files-for-bankruptcy-with-chinese-supplier-taking-control.html",
+      "path": "posts/2025-12-15-roomba-maker-irobot-files-for-bankruptcy-with-chinese-supplier-taking-control.html",
+      "date_iso": "2025-12-15T18:40:48+00:00",
+      "source": "https://www.nytimes.com/2025/12/15/business/roomba-irobot-bankruptcy.html",
+      "summary": "Roomba vacuums on display in California last year. The chief executive of iRobot said the company’s acquisition by its Chinese supplier would secure its “long-term future.”"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46278208",
+      "title": "Chafa: Terminal Graphics for the 21st Century",
+      "slug": "2025-12-15-chafa-terminal-graphics-for-the-21st-century.html",
+      "path": "posts/2025-12-15-chafa-terminal-graphics-for-the-21st-century.html",
+      "date_iso": "2025-12-15T18:16:34+00:00",
+      "source": "https://hpjansson.org/chafa/",
+      "summary": "Article URL: https://hpjansson.org/chafa/ Comments URL: https://news.ycombinator.com/item?id=46278208 Points: 135 # Comments: 24"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/15/technology/ai-venture-capital-big-funds.html",
+      "title": "In A.I. Boom, Venture Capital Firms Are Raising Loads More Money",
+      "slug": "2025-12-15-in-a-i-boom-venture-capital-firms-are-raising-loads-more-money.html",
+      "path": "posts/2025-12-15-in-a-i-boom-venture-capital-firms-are-raising-loads-more-money.html",
+      "date_iso": "2025-12-15T17:50:54+00:00",
+      "source": "https://www.nytimes.com/2025/12/15/technology/ai-venture-capital-big-funds.html",
+      "summary": "Lightspeed Venture Partners, a Silicon Valley venture firm, has amassed more than $9 billion to invest in artificial intelligence. That is its biggest haul."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46277090",
+      "title": "Cosmic-ray bath in a past supernova gives birth to Earth-like planets",
+      "slug": "2025-12-15-cosmic-ray-bath-in-a-past-supernova-gives-birth-to-earth-like-planets.html",
+      "path": "posts/2025-12-15-cosmic-ray-bath-in-a-past-supernova-gives-birth-to-earth-like-planets.html",
+      "date_iso": "2025-12-15T17:01:42+00:00",
+      "source": "https://www.science.org/doi/10.1126/sciadv.adx7892",
+      "summary": "Article URL: https://www.science.org/doi/10.1126/sciadv.adx7892 Comments URL: https://news.ycombinator.com/item?id=46277090 Points: 92 # Comments: 32"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46270972",
       "title": "Why proteins fold and how GPUs help us fold",
       "slug": "2025-12-15-why-proteins-fold-and-how-gpus-help-us-fold.html",
