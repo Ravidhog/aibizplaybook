@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: TheAuditor v2.0 – A “Flight Computer” for AI Coding Agents</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: TheAuditor v2.0 – A “Flight Computer” for AI Coding Agents</h1>
+    <p><small>Published: 2025-12-16T13:50:15+00:00</small></p>
+  </header>
+
+  <main>
+    <p>I’m a former Systems Architect (Cisco/VMware) turned builder in Thailand. TheAuditor v2.0 is a complete architectural rewrite (800+ commits) of the prototype I posted three months ago.<p>The "A-ha" moment for me didn't come from a success; it came from a massive failure. I was trying to use AI to refactor a complex schema change (a foundation change from "Products" to "ProductsVariants"), and due to the scope of it, it failed spectacularly. I realized two things:<p>* Context Collapse: The AI couldn't keep enough files in its context window to understand the full scope of the refactor, so it started hallucinating, "fixing" superficial issues. If I kept pressing it, it would literally panic and make up problems "so it could fix them," which only resulted in the situation going into a death spiral. That’s the villain origin story of this tool. :D
+* Stale Knowledge: It kept trying to implement Node 16 patterns in a Node 22 project, or defaulting to obsolete libraries (like glob v7 instead of v11) because its training data was stale.<p>I realized that AI agents are phenomenal at outputting working code, but they have zero understanding of it. They optimize for "making it run at any cost"—often by introducing security holes or technical debt just to bypass an error. This is a funny paradox because when "cornered/forced" to use cutting-edge versions, syntax, and best practices, it has zero issue executing or coding it. However, it’s so hilariously unaware of its surroundings that it will do anything else unless explicitly babysat.<p>I built v2 to be the "Sanity Check" that solves a lot of these issues, and it aims to continue solving more of the same and similar issues I face. Instead of letting the AI guess, TheAuditor indexes the entire codebase into a local SQLite Graph Database. This gives the AI a queryable map of reality, allowing it to verify dependencies and imports without needing to load "all" files into context.<p>A/B Demo: <a href="https://www.youtube.com/watch?v=512uqMaZlTg" rel="nofollow">https://www.youtube.com/watch?v=512uqMaZlTg</a>
+As seen in the demo video, instead of trying to read 10+ full files and/or grepping to make up for the hallucinations, it can now run "aud explain" and get 500 lines of deterministic "facts only" information. It gets just what it needs to see versus reading 10+ files, trying to keep them in context, finding what it was looking for, and trying to remember why it was looking to begin with.<p>I also learned that regex/string/heuristics don't scale at all and are painfully slow (hours vs minutes). I tried the regex-based rules/parsers approach, but they kept failing silently on complex files and suffered constant limitations (the worst offender was having to read all files per set of rules). I scrapped that approach and built a "Triple-Entry Fidelity" system. 
+Now, the tool acts like a ledger: the parser emits a manifest, the DB emits a receipt. If they don't match, the system crashes intentionally.<p>It’s no longer just a scanner; it’s a guardrail. In my daily workflow, I don't let the AI write a line of code until the AI (my choice just happens to be CC/Codex) has run a pre-investigation for whatever problem statement I'm facing at the moment. This ensures it's anchored in facts and not inference assumptions or, worse, hallucinations.<p>With that said, my tool isn't perfect. To support it all, I had to build a pseudo-compiler for Python/JS/TS, and that means preparing extractors for every framework, every syntax—everything, really. Sometimes I don't get it right, and sometimes I just won't have had enough time to build it out to support everything.<p>So, my recommendation is to integrate the tool WITH your AI agent of choice rather than seeing it as a tool for you, the human. I like to use the tool as a "confirm or deny," where the AI runs the tool, verifies in source code, and presents a pre-implementation audit. Based on that audit, I will create an "aud planning."<p>Some of the major milestones in v2.0<p>* Hybrid Taint: I extended the Oracle Labs IFDS research to track data flow across microservice boundaries (e.g., React fetch → Express middleware → Controller).<p>* Triple-Entry Fidelity: This works across every layer (Indexer -> Extractor -> Parser -> Storage). Every step has fidelity checks working in unison. If there is silent data loss anywhere in the pipeline, the tool crashes intentionally.<p>* Graph DB: Moved from file-based parsing to a SQLite Graph Database to handle complex relationships that regex missed.<p>* Scope: Added support for Rust, Go, Bash, AWS CDK, and Terraform (v1 was Python/JS only).<p>* Agent Capabilities: Added Planning and Refactor engines, allowing AI agents to not just scan code but safely plan and execute architectural changes</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46288453">https://news.ycombinator.com/item?id=46288453</a></p>
+<p>Points: 24</p>
+<p># Comments: 7</p>
+    <p><a href="https://github.com/TheAuditorTool/Auditor" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

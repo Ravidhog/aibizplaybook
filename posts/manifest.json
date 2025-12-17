@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46299022",
+      "title": "Subsets (YC S23) is hiring engineers in Copenhagen, Denmark",
+      "slug": "2025-12-17-subsets-yc-s23-is-hiring-engineers-in-copenhagen-denmark.html",
+      "path": "posts/2025-12-17-subsets-yc-s23-is-hiring-engineers-in-copenhagen-denmark.html",
+      "date_iso": "2025-12-17T07:00:16+00:00",
+      "source": "https://www.workatastartup.com/companies/subsets",
+      "summary": "Article URL: https://www.workatastartup.com/companies/subsets Comments URL: https://news.ycombinator.com/item?id=46299022 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46298385",
+      "title": "FTX insider Caroline Ellison has been moved out of prison",
+      "slug": "2025-12-17-ftx-insider-caroline-ellison-has-been-moved-out-of-prison.html",
+      "path": "posts/2025-12-17-ftx-insider-caroline-ellison-has-been-moved-out-of-prison.html",
+      "date_iso": "2025-12-17T04:48:24+00:00",
+      "source": "https://www.businessinsider.com/caroline-ellison-prison-release-ftx-sam-bankman-fried-2025-12",
+      "summary": "Article URL: https://www.businessinsider.com/caroline-ellison-prison-release-ftx-sam-bankman-fried-2025-12 Comments URL: https://news.ycombinator.com/item?id=46298385 Points: 38 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46298055",
+      "title": "A Guide to Magnetizing N48 Magnets in Ansys Maxwell",
+      "slug": "2025-12-17-a-guide-to-magnetizing-n48-magnets-in-ansys-maxwell.html",
+      "path": "posts/2025-12-17-a-guide-to-magnetizing-n48-magnets-in-ansys-maxwell.html",
+      "date_iso": "2025-12-17T03:55:59+00:00",
+      "source": "https://blog.ozeninc.com/resources/from-datasheet-to-demagnetization-a-guide-to-magnetizing-n48-magnets-in-ansys-maxwell",
+      "summary": "Article URL: https://blog.ozeninc.com/resources/from-datasheet-to-demagnetization-a-guide-to-magnetizing-n48-magnets-in-ansys-maxwell Comments URL: https://news.ycombinator.com/item?id=46298055 Points: 19 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46297127",
+      "title": "Introduction to Software Development Tooling (2024)",
+      "slug": "2025-12-17-introduction-to-software-development-tooling-2024.html",
+      "path": "posts/2025-12-17-introduction-to-software-development-tooling-2024.html",
+      "date_iso": "2025-12-17T01:26:14+00:00",
+      "source": "https://bernsteinbear.com/isdt/",
+      "summary": "Article URL: https://bernsteinbear.com/isdt/ Comments URL: https://news.ycombinator.com/item?id=46297127 Points: 60 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46296926",
+      "title": "Sei AI (YC W22) Is Hiring",
+      "slug": "2025-12-17-sei-ai-yc-w22-is-hiring.html",
+      "path": "posts/2025-12-17-sei-ai-yc-w22-is-hiring.html",
+      "date_iso": "2025-12-17T01:00:21+00:00",
+      "source": "https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-llm-engineer-mid-senior",
+      "summary": "Article URL: https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-llm-engineer-mid-senior Comments URL: https://news.ycombinator.com/item?id=46296926 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46296863",
+      "title": "Show HN: Learn Japanese contextually while browsing",
+      "slug": "2025-12-17-show-hn-learn-japanese-contextually-while-browsing.html",
+      "path": "posts/2025-12-17-show-hn-learn-japanese-contextually-while-browsing.html",
+      "date_iso": "2025-12-17T00:50:40+00:00",
+      "source": "https://lingoku.ai/learn-japanese",
+      "summary": "Hi HN, Just wanted to share a tool i've been working on to help with my own study routine. It’s a browser extension called Lingoku. The idea is simple: we spend hours browsing the web in English every day. This tool replaces some of the english words with Japanese vocabulary bas…"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/16/business/economy/us-eu-tech-penalties.html",
+      "title": "U.S. Threatens Penalties Against European Tech Firms Amid Regulatory Fight",
+      "slug": "2025-12-17-u-s-threatens-penalties-against-european-tech-firms-amid-regulatory-fight.html",
+      "path": "posts/2025-12-17-u-s-threatens-penalties-against-european-tech-firms-amid-regulatory-fight.html",
+      "date_iso": "2025-12-17T00:23:46+00:00",
+      "source": "https://www.nytimes.com/2025/12/16/business/economy/us-eu-tech-penalties.html",
+      "summary": "The Office of the United States Trade Representative, led by Jamieson Greer, said that the European Union had “persisted in a continuing course of discriminatory and harassing lawsuits, taxes, fines, and directives” against U.S. companies."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46295792",
+      "title": "Dafny: Verification-Aware Programming Language",
+      "slug": "2025-12-16-dafny-verification-aware-programming-language.html",
+      "path": "posts/2025-12-16-dafny-verification-aware-programming-language.html",
+      "date_iso": "2025-12-16T22:50:59+00:00",
+      "source": "https://dafny.org/",
+      "summary": "Article URL: https://dafny.org/ Comments URL: https://news.ycombinator.com/item?id=46295792 Points: 62 # Comments: 24"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46295771",
+      "title": "I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours",
+      "slug": "2025-12-16-i-ported-justhtml-from-python-to-javascript-with-codex-cli-and-gpt-5-2-in-hours.html",
+      "path": "posts/2025-12-16-i-ported-justhtml-from-python-to-javascript-with-codex-cli-and-gpt-5-2-in-hours.html",
+      "date_iso": "2025-12-16T22:48:56+00:00",
+      "source": "https://simonwillison.net/2025/Dec/15/porting-justhtml/",
+      "summary": "Article URL: https://simonwillison.net/2025/Dec/15/porting-justhtml/ Comments URL: https://news.ycombinator.com/item?id=46295771 Points: 138 # Comments: 81"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46295268",
+      "title": "No AI* Here – A Response to Mozilla's Next Chapter",
+      "slug": "2025-12-16-no-ai-here-a-response-to-mozilla-s-next-chapter.html",
+      "path": "posts/2025-12-16-no-ai-here-a-response-to-mozilla-s-next-chapter.html",
+      "date_iso": "2025-12-16T22:07:49+00:00",
+      "source": "https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/",
+      "summary": "Article URL: https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/ Comments URL: https://news.ycombinator.com/item?id=46295268 Points: 254 # Comments: 136"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46294592",
+      "title": "Chat-tails: Throwback terminal chat, built on Tailscale",
+      "slug": "2025-12-16-chat-tails-throwback-terminal-chat-built-on-tailscale.html",
+      "path": "posts/2025-12-16-chat-tails-throwback-terminal-chat-built-on-tailscale.html",
+      "date_iso": "2025-12-16T21:16:35+00:00",
+      "source": "https://tailscale.com/blog/chat-tails-terminal-chat",
+      "summary": "Article URL: https://tailscale.com/blog/chat-tails-terminal-chat Comments URL: https://news.ycombinator.com/item?id=46294592 Points: 78 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46294574",
+      "title": "AI will make formal verification go mainstream",
+      "slug": "2025-12-16-ai-will-make-formal-verification-go-mainstream.html",
+      "path": "posts/2025-12-16-ai-will-make-formal-verification-go-mainstream.html",
+      "date_iso": "2025-12-16T21:14:49+00:00",
+      "source": "https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html",
+      "summary": "Article URL: https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html Comments URL: https://news.ycombinator.com/item?id=46294574 Points: 523 # Comments: 255"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46294289",
+      "title": "Announcing the Beta release of ty",
+      "slug": "2025-12-16-announcing-the-beta-release-of-ty.html",
+      "path": "posts/2025-12-16-announcing-the-beta-release-of-ty.html",
+      "date_iso": "2025-12-16T20:52:45+00:00",
+      "source": "https://astral.sh/blog/ty",
+      "summary": "Article URL: https://astral.sh/blog/ty Comments URL: https://news.ycombinator.com/item?id=46294289 Points: 488 # Comments: 90"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46293062",
+      "title": "No Graphics API",
+      "slug": "2025-12-16-no-graphics-api.html",
+      "path": "posts/2025-12-16-no-graphics-api.html",
+      "date_iso": "2025-12-16T19:20:17+00:00",
+      "source": "https://www.sebastianaaltonen.com/blog/no-graphics-api",
+      "summary": "Article URL: https://www.sebastianaaltonen.com/blog/no-graphics-api Comments URL: https://news.ycombinator.com/item?id=46293062 Points: 553 # Comments: 101"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/16/business/energy-environment/senate-democrats-electricity-prices-data-centers.html",
+      "title": "Senators Investigate Role of A.I. Data Centers in Rising Electricity Costs",
+      "slug": "2025-12-16-senators-investigate-role-of-a-i-data-centers-in-rising-electricity-costs.html",
+      "path": "posts/2025-12-16-senators-investigate-role-of-a-i-data-centers-in-rising-electricity-costs.html",
+      "date_iso": "2025-12-16T18:57:29+00:00",
+      "source": "https://www.nytimes.com/2025/12/16/business/energy-environment/senate-democrats-electricity-prices-data-centers.html",
+      "summary": "The energy needs of data centers used for artificial intelligence are forcing utility companies to spend billions of dollars to upgrade the power grid, the lawmakers said."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46291941",
+      "title": "GPT Image 1.5",
+      "slug": "2025-12-16-gpt-image-1-5.html",
+      "path": "posts/2025-12-16-gpt-image-1-5.html",
+      "date_iso": "2025-12-16T18:07:07+00:00",
+      "source": "https://openai.com/index/new-chatgpt-images-is-here/",
+      "summary": "https://platform.openai.com/docs/models/gpt-image-1.5 Comments URL: https://news.ycombinator.com/item?id=46291941 Points: 404 # Comments: 190"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46291156",
+      "title": "Pricing Changes for GitHub Actions",
+      "slug": "2025-12-16-pricing-changes-for-github-actions.html",
+      "path": "posts/2025-12-16-pricing-changes-for-github-actions.html",
+      "date_iso": "2025-12-16T17:12:02+00:00",
+      "source": "https://resources.github.com/actions/2026-pricing-changes-for-github-actions/",
+      "summary": "Article URL: https://resources.github.com/actions/2026-pricing-changes-for-github-actions/ Comments URL: https://news.ycombinator.com/item?id=46291156 Points: 598 # Comments: 665"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46291011",
+      "title": "Artie (YC S23) Is Hiring Senior Enterprise AES",
+      "slug": "2025-12-16-artie-yc-s23-is-hiring-senior-enterprise-aes.html",
+      "path": "posts/2025-12-16-artie-yc-s23-is-hiring-senior-enterprise-aes.html",
+      "date_iso": "2025-12-16T17:00:57+00:00",
+      "source": "https://www.ycombinator.com/companies/artie/jobs/HyaHWUs-senior-enterprise-ae",
+      "summary": "Article URL: https://www.ycombinator.com/companies/artie/jobs/HyaHWUs-senior-enterprise-ae Comments URL: https://news.ycombinator.com/item?id=46291011 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46290916",
+      "title": "alpr.watch",
+      "slug": "2025-12-16-alpr-watch.html",
+      "path": "posts/2025-12-16-alpr-watch.html",
+      "date_iso": "2025-12-16T16:54:19+00:00",
+      "source": "https://alpr.watch/",
+      "summary": "Article URL: https://alpr.watch/ Comments URL: https://news.ycombinator.com/item?id=46290916 Points: 723 # Comments: 351"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46289918",
+      "title": "Writing a blatant Telegram clone using Qt, QML and Rust. And C++",
+      "slug": "2025-12-16-writing-a-blatant-telegram-clone-using-qt-qml-and-rust-and-c.html",
+      "path": "posts/2025-12-16-writing-a-blatant-telegram-clone-using-qt-qml-and-rust-and-c.html",
+      "date_iso": "2025-12-16T15:41:47+00:00",
+      "source": "https://kemble.net/blog/provoke/",
+      "summary": "Article URL: https://kemble.net/blog/provoke/ Comments URL: https://news.ycombinator.com/item?id=46289918 Points: 105 # Comments: 63"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46288491",
+      "title": "Mozilla appoints new CEO Anthony Enzor-Demeo",
+      "slug": "2025-12-16-mozilla-appoints-new-ceo-anthony-enzor-demeo.html",
+      "path": "posts/2025-12-16-mozilla-appoints-new-ceo-anthony-enzor-demeo.html",
+      "date_iso": "2025-12-16T13:53:14+00:00",
+      "source": "https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/",
+      "summary": "Article URL: https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/ Comments URL: https://news.ycombinator.com/item?id=46288491 Points: 477 # Comments: 730"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46288453",
+      "title": "Show HN: TheAuditor v2.0 – A “Flight Computer” for AI Coding Agents",
+      "slug": "2025-12-16-show-hn-theauditor-v2-0-a-flight-computer-for-ai-coding-agents.html",
+      "path": "posts/2025-12-16-show-hn-theauditor-v2-0-a-flight-computer-for-ai-coding-agents.html",
+      "date_iso": "2025-12-16T13:50:15+00:00",
+      "source": "https://github.com/TheAuditorTool/Auditor",
+      "summary": "I’m a former Systems Architect (Cisco/VMware) turned builder in Thailand. TheAuditor v2.0 is a complete architectural rewrite (800+ commits) of the prototype I posted three months ago. The \"A-ha\" moment for me didn't come from a success; it came from a massive failure. I was try…"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46285535",
       "title": "A linear-time alternative for Dimensionality Reduction and fast visualisation",
       "slug": "2025-12-16-a-linear-time-alternative-for-dimensionality-reduction-and-fast-visualisation.html",
