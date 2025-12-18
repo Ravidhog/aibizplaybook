@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46309571",
+      "title": "What Is an Elliptic Curve?",
+      "slug": "2025-12-18-what-is-an-elliptic-curve.html",
+      "path": "posts/2025-12-18-what-is-an-elliptic-curve.html",
+      "date_iso": "2025-12-18T06:40:29+00:00",
+      "source": "https://www.johndcook.com/blog/2019/02/21/what-is-an-elliptic-curve/",
+      "summary": "Article URL: https://www.johndcook.com/blog/2019/02/21/what-is-an-elliptic-curve/ Comments URL: https://news.ycombinator.com/item?id=46309571 Points: 4 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46309124",
+      "title": "More than half of researchers now use AI for peer review, often against guidance",
+      "slug": "2025-12-18-more-than-half-of-researchers-now-use-ai-for-peer-review-often-against-guidance.html",
+      "path": "posts/2025-12-18-more-than-half-of-researchers-now-use-ai-for-peer-review-often-against-guidance.html",
+      "date_iso": "2025-12-18T05:20:41+00:00",
+      "source": "https://www.nature.com/articles/d41586-025-04066-5",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-025-04066-5 Comments URL: https://news.ycombinator.com/item?id=46309124 Points: 24 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46309061",
+      "title": "'Ghost jobs' are on the rise – and so are calls to ban them",
+      "slug": "2025-12-18-ghost-jobs-are-on-the-rise-and-so-are-calls-to-ban-them.html",
+      "path": "posts/2025-12-18-ghost-jobs-are-on-the-rise-and-so-are-calls-to-ban-them.html",
+      "date_iso": "2025-12-18T05:06:33+00:00",
+      "source": "https://www.bbc.com/news/articles/clyzvpp8g3vo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/clyzvpp8g3vo Comments URL: https://news.ycombinator.com/item?id=46309061 Points: 21 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46308893",
+      "title": "Judge hints Vizio TV buyers may have rights to source code licensed under GPL",
+      "slug": "2025-12-18-judge-hints-vizio-tv-buyers-may-have-rights-to-source-code-licensed-under-gpl.html",
+      "path": "posts/2025-12-18-judge-hints-vizio-tv-buyers-may-have-rights-to-source-code-licensed-under-gpl.html",
+      "date_iso": "2025-12-18T04:27:53+00:00",
+      "source": "https://www.theregister.com/2025/12/05/vizio_gpl_source_code_ruling/",
+      "summary": "Article URL: https://www.theregister.com/2025/12/05/vizio_gpl_source_code_ruling/ Comments URL: https://news.ycombinator.com/item?id=46308893 Points: 36 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46307973",
+      "title": "Ask HN: Those making $500/month on side projects in 2025 – Show and tell",
+      "slug": "2025-12-18-ask-hn-those-making-500-month-on-side-projects-in-2025-show-and-tell.html",
+      "path": "posts/2025-12-18-ask-hn-those-making-500-month-on-side-projects-in-2025-show-and-tell.html",
+      "date_iso": "2025-12-18T01:36:54+00:00",
+      "source": "https://news.ycombinator.com/item?id=46307973",
+      "summary": "It's the time of the year again, so I'd be interested hear what new (and old) ideas have come up. Previously asked on: 2024 → https://news.ycombinator.com/item?id=42373343 2023 → https://news.ycombinator.com/item?id=38467691 2022 → https://news.ycombinator.com/item?id=34190421 2…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46307500",
+      "title": "TikTok unlawfully tracks shopping habits and use of dating apps?",
+      "slug": "2025-12-18-tiktok-unlawfully-tracks-shopping-habits-and-use-of-dating-apps.html",
+      "path": "posts/2025-12-18-tiktok-unlawfully-tracks-shopping-habits-and-use-of-dating-apps.html",
+      "date_iso": "2025-12-18T00:25:43+00:00",
+      "source": "https://noyb.eu/en/tiktok-unlawfully-tracks-your-shopping-habits-and-your-use-dating-apps",
+      "summary": "Article URL: https://noyb.eu/en/tiktok-unlawfully-tracks-your-shopping-habits-and-your-use-dating-apps Comments URL: https://news.ycombinator.com/item?id=46307500 Points: 165 # Comments: 82"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46307306",
+      "title": "Ask HN: Does anyone understand how Hacker News works?",
+      "slug": "2025-12-17-ask-hn-does-anyone-understand-how-hacker-news-works.html",
+      "path": "posts/2025-12-17-ask-hn-does-anyone-understand-how-hacker-news-works.html",
+      "date_iso": "2025-12-17T23:58:40+00:00",
+      "source": "https://news.ycombinator.com/item?id=46307306",
+      "summary": "When working on my projects and talking to investors, I often hear: “Just post it on Hacker News or Reddit and show that people love it.” What I find strange is that Hacker News feels oddly opaque. I’ve never met anyone who can clearly explain how it works in practice. Not just…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46306894",
+      "title": "Gut bacteria from amphibians and reptiles achieve tumor elimination in mice",
+      "slug": "2025-12-17-gut-bacteria-from-amphibians-and-reptiles-achieve-tumor-elimination-in-mice.html",
+      "path": "posts/2025-12-17-gut-bacteria-from-amphibians-and-reptiles-achieve-tumor-elimination-in-mice.html",
+      "date_iso": "2025-12-17T23:11:14+00:00",
+      "source": "https://www.jaist.ac.jp/english/whatsnew/press/2025/12/17-1.html",
+      "summary": "Article URL: https://www.jaist.ac.jp/english/whatsnew/press/2025/12/17-1.html Comments URL: https://news.ycombinator.com/item?id=46306894 Points: 319 # Comments: 69"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46306456",
+      "title": "Developers can now submit apps to ChatGPT",
+      "slug": "2025-12-17-developers-can-now-submit-apps-to-chatgpt.html",
+      "path": "posts/2025-12-17-developers-can-now-submit-apps-to-chatgpt.html",
+      "date_iso": "2025-12-17T22:27:29+00:00",
+      "source": "https://openai.com/index/developers-can-now-submit-apps-to-chatgpt/",
+      "summary": "Article URL: https://openai.com/index/developers-can-now-submit-apps-to-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=46306456 Points: 119 # Comments: 71"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46306371",
+      "title": "A look back: LANPAR, the first spreadsheet",
+      "slug": "2025-12-17-a-look-back-lanpar-the-first-spreadsheet.html",
+      "path": "posts/2025-12-17-a-look-back-lanpar-the-first-spreadsheet.html",
+      "date_iso": "2025-12-17T22:19:53+00:00",
+      "source": "https://technicallywewrite.com/2025/12/16/lanpar",
+      "summary": "Article URL: https://technicallywewrite.com/2025/12/16/lanpar Comments URL: https://news.ycombinator.com/item?id=46306371 Points: 28 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46305945",
+      "title": "Cloudflare Radar 2025 Year in Review",
+      "slug": "2025-12-17-cloudflare-radar-2025-year-in-review.html",
+      "path": "posts/2025-12-17-cloudflare-radar-2025-year-in-review.html",
+      "date_iso": "2025-12-17T21:44:22+00:00",
+      "source": "https://radar.cloudflare.com/year-in-review/2025",
+      "summary": "Article URL: https://radar.cloudflare.com/year-in-review/2025 Comments URL: https://news.ycombinator.com/item?id=46305945 Points: 75 # Comments: 30"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46305585",
+      "title": "I got hacked: My Hetzner server started mining Monero",
+      "slug": "2025-12-17-i-got-hacked-my-hetzner-server-started-mining-monero.html",
+      "path": "posts/2025-12-17-i-got-hacked-my-hetzner-server-started-mining-monero.html",
+      "date_iso": "2025-12-17T21:13:33+00:00",
+      "source": "https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/",
+      "summary": "Article URL: https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/ Comments URL: https://news.ycombinator.com/item?id=46305585 Points: 301 # Comments: 210"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46305428",
+      "title": "OBS Studio Gets a New Renderer",
+      "slug": "2025-12-17-obs-studio-gets-a-new-renderer.html",
+      "path": "posts/2025-12-17-obs-studio-gets-a-new-renderer.html",
+      "date_iso": "2025-12-17T20:59:29+00:00",
+      "source": "https://obsproject.com/blog/obs-studio-gets-a-new-renderer",
+      "summary": "Article URL: https://obsproject.com/blog/obs-studio-gets-a-new-renderer Comments URL: https://news.ycombinator.com/item?id=46305428 Points: 216 # Comments: 43"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46305321",
+      "title": "Inside PostHog: SSRF, ClickHouse SQL Escape and Default Postgres Creds to RCE",
+      "slug": "2025-12-17-inside-posthog-ssrf-clickhouse-sql-escape-and-default-postgres-creds-to-rce.html",
+      "path": "posts/2025-12-17-inside-posthog-ssrf-clickhouse-sql-escape-and-default-postgres-creds-to-rce.html",
+      "date_iso": "2025-12-17T20:50:13+00:00",
+      "source": "https://mdisec.com/inside-posthog-how-ssrf-a-clickhouse-sql-escaping-0day-and-default-postgresql-credentials-formed-an-rce-chain-zdi-25-099-zdi-25-097-zdi-25-096/",
+      "summary": "Article URL: https://mdisec.com/inside-posthog-how-ssrf-a-clickhouse-sql-escaping-0day-and-default-postgresql-credentials-formed-an-rce-chain-zdi-25-099-zdi-25-097-zdi-25-096/ Comments URL: https://news.ycombinator.com/item?id=46305321 Points: 88 # Comments: 25"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/17/technology/fcc-brendan-carr-senate-hearing.html",
+      "title": "Brendan Carr Says FCC ‘Isn’t Independent’ Amid Concerns of How Trump Might Use the Agency",
+      "slug": "2025-12-17-brendan-carr-says-fcc-isn-t-independent-amid-concerns-of-how-trump-might-use-the-agency.html",
+      "path": "posts/2025-12-17-brendan-carr-says-fcc-isn-t-independent-amid-concerns-of-how-trump-might-use-the-agency.html",
+      "date_iso": "2025-12-17T19:56:46+00:00",
+      "source": "https://www.nytimes.com/2025/12/17/technology/fcc-brendan-carr-senate-hearing.html",
+      "summary": "Brendan Carr, chairman of the Federal Communications Commission, at a Senate committee hearing on Wednesday."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46304413",
+      "title": "Show HN: High-Performance Wavelet Matrix for Python, Implemented in Rust",
+      "slug": "2025-12-17-show-hn-high-performance-wavelet-matrix-for-python-implemented-in-rust.html",
+      "path": "posts/2025-12-17-show-hn-high-performance-wavelet-matrix-for-python-implemented-in-rust.html",
+      "date_iso": "2025-12-17T19:35:56+00:00",
+      "source": "https://pypi.org/project/wavelet-matrix/",
+      "summary": "I built a Rust-powered Wavelet Matrix library for Python. There were surprisingly few practical Wavelet Matrix implementations available for Python, so I implemented one with a focus on performance, usability, and typed APIs. It supports fast rank/select, top-k, quantile, range…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46303277",
+      "title": "How SQLite is tested",
+      "slug": "2025-12-17-how-sqlite-is-tested.html",
+      "path": "posts/2025-12-17-how-sqlite-is-tested.html",
+      "date_iso": "2025-12-17T18:15:38+00:00",
+      "source": "https://sqlite.org/testing.html",
+      "summary": "Article URL: https://sqlite.org/testing.html Comments URL: https://news.ycombinator.com/item?id=46303277 Points: 270 # Comments: 73"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46302337",
+      "title": "A Safer Container Ecosystem with Docker: Free Docker Hardened Images",
+      "slug": "2025-12-17-a-safer-container-ecosystem-with-docker-free-docker-hardened-images.html",
+      "path": "posts/2025-12-17-a-safer-container-ecosystem-with-docker-free-docker-hardened-images.html",
+      "date_iso": "2025-12-17T17:13:03+00:00",
+      "source": "https://www.docker.com/blog/docker-hardened-images-for-every-developer/",
+      "summary": "Article URL: https://www.docker.com/blog/docker-hardened-images-for-every-developer/ Comments URL: https://news.ycombinator.com/item?id=46302337 Points: 305 # Comments: 66"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46302267",
+      "title": "AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'",
+      "slug": "2025-12-17-aws-ceo-says-replacing-junior-devs-with-ai-is-one-of-the-dumbest-ideas.html",
+      "path": "posts/2025-12-17-aws-ceo-says-replacing-junior-devs-with-ai-is-one-of-the-dumbest-ideas.html",
+      "date_iso": "2025-12-17T17:08:35+00:00",
+      "source": "https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers",
+      "summary": "Article URL: https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers Comments URL: https://news.ycombinator.com/item?id=46302267 Points: 874 # Comments: 458"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46302122",
+      "title": "Flick (YC F25) Is Hiring Founding Engineer to Build Figma for AI Filmmaking",
+      "slug": "2025-12-17-flick-yc-f25-is-hiring-founding-engineer-to-build-figma-for-ai-filmmaking.html",
+      "path": "posts/2025-12-17-flick-yc-f25-is-hiring-founding-engineer-to-build-figma-for-ai-filmmaking.html",
+      "date_iso": "2025-12-17T17:00:39+00:00",
+      "source": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-founding-frontend-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-founding-frontend-engineer Comments URL: https://news.ycombinator.com/item?id=46302122 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46301921",
+      "title": "Tell HN: HN was down",
+      "slug": "2025-12-17-tell-hn-hn-was-down.html",
+      "path": "posts/2025-12-17-tell-hn-hn-was-down.html",
+      "date_iso": "2025-12-17T16:48:18+00:00",
+      "source": "https://news.ycombinator.com/item?id=46301921",
+      "summary": "- HN errored on all authenticated requests with 502 Bad Gateway. It did still respond to a limited amount of unauthenticated requests with presumably cached pages, which did not get updated. The last post on /newest claimed \"0 minutes ago\", but was actually much older (1:32:57 P…"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/17/technology/trump-crypto-unleashed.html",
+      "title": "What Trump’s Embrace of Crypto Has Unleashed",
+      "slug": "2025-12-17-what-trump-s-embrace-of-crypto-has-unleashed.html",
+      "path": "posts/2025-12-17-what-trump-s-embrace-of-crypto-has-unleashed.html",
+      "date_iso": "2025-12-17T10:00:17+00:00",
+      "source": "https://www.nytimes.com/2025/12/17/technology/trump-crypto-unleashed.html",
+      "summary": "A boundary-pushing array of new crypto ventures have reached the stock market, enticing investors and leading to more risk taking."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46299022",
       "title": "Subsets (YC S23) is hiring engineers in Copenhagen, Denmark",
       "slug": "2025-12-17-subsets-yc-s23-is-hiring-engineers-in-copenhagen-denmark.html",
