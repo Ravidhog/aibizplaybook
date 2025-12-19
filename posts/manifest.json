@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46322732",
+      "title": "Making Google Sans Flex",
+      "slug": "2025-12-19-making-google-sans-flex.html",
+      "path": "posts/2025-12-19-making-google-sans-flex.html",
+      "date_iso": "2025-12-19T06:10:02+00:00",
+      "source": "https://design.google/library/google-sans-flex-font",
+      "summary": "Article URL: https://design.google/library/google-sans-flex-font Comments URL: https://news.ycombinator.com/item?id=46322732 Points: 4 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46322556",
+      "title": "2026 Apple introducing more ads to increase opportunity in search results",
+      "slug": "2025-12-19-2026-apple-introducing-more-ads-to-increase-opportunity-in-search-results.html",
+      "path": "posts/2025-12-19-2026-apple-introducing-more-ads-to-increase-opportunity-in-search-results.html",
+      "date_iso": "2025-12-19T05:38:25+00:00",
+      "source": "https://ads.apple.com/app-store/help/ad-placements/0082-search-results",
+      "summary": "Article URL: https://ads.apple.com/app-store/help/ad-placements/0082-search-results Comments URL: https://news.ycombinator.com/item?id=46322556 Points: 91 # Comments: 65"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46322540",
+      "title": "Getting bitten by Intel's poor naming scenes",
+      "slug": "2025-12-19-getting-bitten-by-intel-s-poor-naming-scenes.html",
+      "path": "posts/2025-12-19-getting-bitten-by-intel-s-poor-naming-scenes.html",
+      "date_iso": "2025-12-19T05:35:34+00:00",
+      "source": "https://lorendb.dev/posts/getting-bitten-by-poor-naming-schemes/",
+      "summary": "Article URL: https://lorendb.dev/posts/getting-bitten-by-poor-naming-schemes/ Comments URL: https://news.ycombinator.com/item?id=46322540 Points: 36 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46321982",
+      "title": "Reconstructed Commander Keen 1-3 Source Code",
+      "slug": "2025-12-19-reconstructed-commander-keen-1-3-source-code.html",
+      "path": "posts/2025-12-19-reconstructed-commander-keen-1-3-source-code.html",
+      "date_iso": "2025-12-19T03:26:52+00:00",
+      "source": "https://pckf.com/viewtopic.php?t=18248",
+      "summary": "Article URL: https://pckf.com/viewtopic.php?t=18248 Comments URL: https://news.ycombinator.com/item?id=46321982 Points: 41 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46321619",
+      "title": "Noclip.website – A digital museum of video game levels",
+      "slug": "2025-12-19-noclip-website-a-digital-museum-of-video-game-levels.html",
+      "path": "posts/2025-12-19-noclip-website-a-digital-museum-of-video-game-levels.html",
+      "date_iso": "2025-12-19T02:20:08+00:00",
+      "source": "https://noclip.website/",
+      "summary": "Article URL: https://noclip.website/ Comments URL: https://news.ycombinator.com/item?id=46321619 Points: 127 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46321350",
+      "title": "SMB Direct – SMB3 over RDMA – The Linux Kernel Documentation",
+      "slug": "2025-12-19-smb-direct-smb3-over-rdma-the-linux-kernel-documentation.html",
+      "path": "posts/2025-12-19-smb-direct-smb3-over-rdma-the-linux-kernel-documentation.html",
+      "date_iso": "2025-12-19T01:42:02+00:00",
+      "source": "https://docs.kernel.org/filesystems/smb/smbdirect.html",
+      "summary": "Article URL: https://docs.kernel.org/filesystems/smb/smbdirect.html Comments URL: https://news.ycombinator.com/item?id=46321350 Points: 17 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46320395",
+      "title": "Property-Based Testing Caught a Security Bug I Never Would Have Found",
+      "slug": "2025-12-18-property-based-testing-caught-a-security-bug-i-never-would-have-found.html",
+      "path": "posts/2025-12-18-property-based-testing-caught-a-security-bug-i-never-would-have-found.html",
+      "date_iso": "2025-12-18T23:40:46+00:00",
+      "source": "https://kiro.dev/blog/property-based-testing-fixed-security-bug/",
+      "summary": "Article URL: https://kiro.dev/blog/property-based-testing-fixed-security-bug/ Comments URL: https://news.ycombinator.com/item?id=46320395 Points: 4 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/18/business/energy-environment/factorial-electric-vehicle-battery-spac.html",
+      "title": "Massachusetts Battery Start-Up to List on Stock Exchange",
+      "slug": "2025-12-18-massachusetts-battery-start-up-to-list-on-stock-exchange.html",
+      "path": "posts/2025-12-18-massachusetts-battery-start-up-to-list-on-stock-exchange.html",
+      "date_iso": "2025-12-18T23:14:07+00:00",
+      "source": "https://www.nytimes.com/2025/12/18/business/energy-environment/factorial-electric-vehicle-battery-spac.html",
+      "summary": "Siyu Huang is the chief executive of Factorial."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46319946",
+      "title": "Great ideas in theoretical computer science",
+      "slug": "2025-12-18-great-ideas-in-theoretical-computer-science.html",
+      "path": "posts/2025-12-18-great-ideas-in-theoretical-computer-science.html",
+      "date_iso": "2025-12-18T22:52:06+00:00",
+      "source": "https://www.cs251.com/",
+      "summary": "Article URL: https://www.cs251.com/ Comments URL: https://news.ycombinator.com/item?id=46319946 Points: 86 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46319826",
+      "title": "History LLMs: Models trained exclusively on pre-1913 texts",
+      "slug": "2025-12-18-history-llms-models-trained-exclusively-on-pre-1913-texts.html",
+      "path": "posts/2025-12-18-history-llms-models-trained-exclusively-on-pre-1913-texts.html",
+      "date_iso": "2025-12-18T22:39:47+00:00",
+      "source": "https://github.com/DGoettlich/history-llms",
+      "summary": "Article URL: https://github.com/DGoettlich/history-llms Comments URL: https://news.ycombinator.com/item?id=46319826 Points: 397 # Comments: 145"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46319657",
+      "title": "1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5",
+      "slug": "2025-12-18-1-5-tb-of-vram-on-mac-studio-rdma-over-thunderbolt-5.html",
+      "path": "posts/2025-12-18-1-5-tb-of-vram-on-mac-studio-rdma-over-thunderbolt-5.html",
+      "date_iso": "2025-12-18T22:23:09+00:00",
+      "source": "https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5",
+      "summary": "Article URL: https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5 Comments URL: https://news.ycombinator.com/item?id=46319657 Points: 334 # Comments: 109"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46318852",
+      "title": "Two kinds of vibe coding",
+      "slug": "2025-12-18-two-kinds-of-vibe-coding.html",
+      "path": "posts/2025-12-18-two-kinds-of-vibe-coding.html",
+      "date_iso": "2025-12-18T21:16:25+00:00",
+      "source": "https://davidbau.com/archives/2025/12/16/vibe_coding.html",
+      "summary": "Article URL: https://davidbau.com/archives/2025/12/16/vibe_coding.html Comments URL: https://news.ycombinator.com/item?id=46318852 Points: 74 # Comments: 56"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46318676",
+      "title": "Delty (YC X25) Is Hiring an ML Engineer",
+      "slug": "2025-12-18-delty-yc-x25-is-hiring-an-ml-engineer.html",
+      "path": "posts/2025-12-18-delty-yc-x25-is-hiring-an-ml-engineer.html",
+      "date_iso": "2025-12-18T21:02:10+00:00",
+      "source": "https://www.ycombinator.com/companies/delty/jobs/MDeC49o-machine-learning-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/delty/jobs/MDeC49o-machine-learning-engineer Comments URL: https://news.ycombinator.com/item?id=46318676 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46318544",
+      "title": "Oliver Sacks put himself into his case studies – what was the cost?",
+      "slug": "2025-12-18-oliver-sacks-put-himself-into-his-case-studies-what-was-the-cost.html",
+      "path": "posts/2025-12-18-oliver-sacks-put-himself-into-his-case-studies-what-was-the-cost.html",
+      "date_iso": "2025-12-18T20:52:38+00:00",
+      "source": "https://www.newyorker.com/magazine/2025/12/15/oliver-sacks-put-himself-into-his-case-studies-what-was-the-cost",
+      "summary": "https://archive.ph/0MFPK Comments URL: https://news.ycombinator.com/item?id=46318544 Points: 39 # Comments: 72"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46317657",
+      "title": "T5Gemma 2: The next generation of encoder-decoder models",
+      "slug": "2025-12-18-t5gemma-2-the-next-generation-of-encoder-decoder-models.html",
+      "path": "posts/2025-12-18-t5gemma-2-the-next-generation-of-encoder-decoder-models.html",
+      "date_iso": "2025-12-18T19:48:15+00:00",
+      "source": "https://blog.google/technology/developers/t5gemma-2/",
+      "summary": "Article URL: https://blog.google/technology/developers/t5gemma-2/ Comments URL: https://news.ycombinator.com/item?id=46317657 Points: 126 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46317098",
+      "title": "We pwned X, Vercel, Cursor, and Discord through a supply-chain attack",
+      "slug": "2025-12-18-we-pwned-x-vercel-cursor-and-discord-through-a-supply-chain-attack.html",
+      "path": "posts/2025-12-18-we-pwned-x-vercel-cursor-and-discord-through-a-supply-chain-attack.html",
+      "date_iso": "2025-12-18T19:08:48+00:00",
+      "source": "https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28",
+      "summary": "Article URL: https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28 Comments URL: https://news.ycombinator.com/item?id=46317098 Points: 767 # Comments: 300"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46316907",
+      "title": "How China built its ‘Manhattan Project’ to rival the West in AI chips",
+      "slug": "2025-12-18-how-china-built-its-manhattan-project-to-rival-the-west-in-ai-chips.html",
+      "path": "posts/2025-12-18-how-china-built-its-manhattan-project-to-rival-the-west-in-ai-chips.html",
+      "date_iso": "2025-12-18T18:55:34+00:00",
+      "source": "https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/",
+      "summary": "Article URL: https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/ Comments URL: https://news.ycombinator.com/item?id=46316907 Points: 310 # Comments: 323"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46316409",
+      "title": "Firefox will have an option to disable all AI features",
+      "slug": "2025-12-18-firefox-will-have-an-option-to-disable-all-ai-features.html",
+      "path": "posts/2025-12-18-firefox-will-have-an-option-to-disable-all-ai-features.html",
+      "date_iso": "2025-12-18T18:18:30+00:00",
+      "source": "https://mastodon.social/@firefoxwebdevs/115740500373677782",
+      "summary": "Article URL: https://mastodon.social/@firefoxwebdevs/115740500373677782 Comments URL: https://news.ycombinator.com/item?id=46316409 Points: 381 # Comments: 321"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46316367",
+      "title": "GPT-5.2-Codex",
+      "slug": "2025-12-18-gpt-5-2-codex.html",
+      "path": "posts/2025-12-18-gpt-5-2-codex.html",
+      "date_iso": "2025-12-18T18:14:48+00:00",
+      "source": "https://openai.com/index/introducing-gpt-5-2-codex/",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-2-codex/ Comments URL: https://news.ycombinator.com/item?id=46316367 Points: 451 # Comments: 235"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46315414",
+      "title": "Skills for organizations, partners, the ecosystem",
+      "slug": "2025-12-18-skills-for-organizations-partners-the-ecosystem.html",
+      "path": "posts/2025-12-18-skills-for-organizations-partners-the-ecosystem.html",
+      "date_iso": "2025-12-18T17:04:32+00:00",
+      "source": "https://claude.com/blog/organization-skills-and-directory",
+      "summary": "Article URL: https://claude.com/blog/organization-skills-and-directory Comments URL: https://news.ycombinator.com/item?id=46315414 Points: 257 # Comments: 143"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46313991",
+      "title": "Beginning January 2026, all ACM publications will be made open access",
+      "slug": "2025-12-18-beginning-january-2026-all-acm-publications-will-be-made-open-access.html",
+      "path": "posts/2025-12-18-beginning-january-2026-all-acm-publications-will-be-made-open-access.html",
+      "date_iso": "2025-12-18T15:39:09+00:00",
+      "source": "https://dl.acm.org/openaccess",
+      "summary": "Article URL: https://dl.acm.org/openaccess Comments URL: https://news.ycombinator.com/item?id=46313991 Points: 1589 # Comments: 172"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/18/technology/elon-musk-daycare-school.html",
+      "title": "Sleep Cots and Graham Crackers at Elon Musk’s Child Care Program",
+      "slug": "2025-12-18-sleep-cots-and-graham-crackers-at-elon-musk-s-child-care-program.html",
+      "path": "posts/2025-12-18-sleep-cots-and-graham-crackers-at-elon-musk-s-child-care-program.html",
+      "date_iso": "2025-12-18T10:01:59+00:00",
+      "source": "https://www.nytimes.com/2025/12/18/technology/elon-musk-daycare-school.html",
+      "summary": "Mr. Musk has ambitions to remake education, but his latest effort to open an elementary school in Texas appears to have faltered."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46309571",
       "title": "What Is an Elliptic Curve?",
       "slug": "2025-12-18-what-is-an-elliptic-curve.html",
