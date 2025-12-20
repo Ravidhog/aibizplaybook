@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46333983",
+      "title": "Charles Proxy",
+      "slug": "2025-12-20-charles-proxy.html",
+      "path": "posts/2025-12-20-charles-proxy.html",
+      "date_iso": "2025-12-20T06:09:17+00:00",
+      "source": "https://www.charlesproxy.com/",
+      "summary": "Article URL: https://www.charlesproxy.com/ Comments URL: https://news.ycombinator.com/item?id=46333983 Points: 34 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46333959",
+      "title": "Data Bank – Nuforc – Latest UFO Sightings",
+      "slug": "2025-12-20-data-bank-nuforc-latest-ufo-sightings.html",
+      "path": "posts/2025-12-20-data-bank-nuforc-latest-ufo-sightings.html",
+      "date_iso": "2025-12-20T06:00:31+00:00",
+      "source": "https://nuforc.org/databank/",
+      "summary": "Article URL: https://nuforc.org/databank/ Comments URL: https://news.ycombinator.com/item?id=46333959 Points: 6 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46333734",
+      "title": "Android introduces $2-4 install fee and 10–20% cut for US external content links",
+      "slug": "2025-12-20-android-introduces-2-4-install-fee-and-10-20-cut-for-us-external-content-links.html",
+      "path": "posts/2025-12-20-android-introduces-2-4-install-fee-and-10-20-cut-for-us-external-content-links.html",
+      "date_iso": "2025-12-20T05:00:55+00:00",
+      "source": "https://support.google.com/googleplay/android-developer/answer/16470497?hl=en",
+      "summary": "Article URL: https://support.google.com/googleplay/android-developer/answer/16470497?hl=en Comments URL: https://news.ycombinator.com/item?id=46333734 Points: 87 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46332526",
+      "title": "Build Your Own React",
+      "slug": "2025-12-20-build-your-own-react.html",
+      "path": "posts/2025-12-20-build-your-own-react.html",
+      "date_iso": "2025-12-20T00:16:13+00:00",
+      "source": "https://pomb.us/build-your-own-react/",
+      "summary": "Article URL: https://pomb.us/build-your-own-react/ Comments URL: https://news.ycombinator.com/item?id=46332526 Points: 65 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46331586",
+      "title": "CSS Grid Lanes",
+      "slug": "2025-12-19-css-grid-lanes.html",
+      "path": "posts/2025-12-19-css-grid-lanes.html",
+      "date_iso": "2025-12-19T22:13:06+00:00",
+      "source": "https://webkit.org/blog/17660/introducing-css-grid-lanes/",
+      "summary": "Article URL: https://webkit.org/blog/17660/introducing-css-grid-lanes/ Comments URL: https://news.ycombinator.com/item?id=46331586 Points: 445 # Comments: 121"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46331216",
+      "title": "A better zip bomb (2019)",
+      "slug": "2025-12-19-a-better-zip-bomb-2019.html",
+      "path": "posts/2025-12-19-a-better-zip-bomb-2019.html",
+      "date_iso": "2025-12-19T21:34:10+00:00",
+      "source": "https://www.bamsoftware.com/hacks/zipbomb/",
+      "summary": "Article URL: https://www.bamsoftware.com/hacks/zipbomb/ Comments URL: https://news.ycombinator.com/item?id=46331216 Points: 120 # Comments: 45"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46330726",
+      "title": "LLM Year in Review",
+      "slug": "2025-12-19-llm-year-in-review.html",
+      "path": "posts/2025-12-19-llm-year-in-review.html",
+      "date_iso": "2025-12-19T20:49:20+00:00",
+      "source": "https://karpathy.bearblog.dev/year-in-review-2025/",
+      "summary": "Article URL: https://karpathy.bearblog.dev/year-in-review-2025/ Comments URL: https://news.ycombinator.com/item?id=46330726 Points: 151 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46330522",
+      "title": "The scariest boot loader code",
+      "slug": "2025-12-19-the-scariest-boot-loader-code.html",
+      "path": "posts/2025-12-19-the-scariest-boot-loader-code.html",
+      "date_iso": "2025-12-19T20:29:53+00:00",
+      "source": "http://miod.online.fr/software/openbsd/stories/boot_hppa.html",
+      "summary": "Article URL: http://miod.online.fr/software/openbsd/stories/boot_hppa.html Comments URL: https://news.ycombinator.com/item?id=46330522 Points: 51 # Comments: 4"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html",
+      "title": "Why Do A.I. Chatbots Use ‘I’?",
+      "slug": "2025-12-19-why-do-a-i-chatbots-use-i.html",
+      "path": "posts/2025-12-19-why-do-a-i-chatbots-use-i.html",
+      "date_iso": "2025-12-19T19:22:41+00:00",
+      "source": "https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html",
+      "summary": "A.I. chatbots have been designed to behave in a humanlike way. Some experts think that’s a terrible idea."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/19/business/energy-environment/trump-media-tae-merger-nuclear-fusion.html",
+      "title": "Trump Media Merger With Nuclear Fusion Firm Raises Ethics Questions",
+      "slug": "2025-12-19-trump-media-merger-with-nuclear-fusion-firm-raises-ethics-questions.html",
+      "path": "posts/2025-12-19-trump-media-merger-with-nuclear-fusion-firm-raises-ethics-questions.html",
+      "date_iso": "2025-12-19T19:03:03+00:00",
+      "source": "https://www.nytimes.com/2025/12/19/business/energy-environment/trump-media-tae-merger-nuclear-fusion.html",
+      "summary": "President Trump’s social media company said on Thursday that it had agreed to an all-stock merger with TAE Technologies, a fusion power company."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46329038",
+      "title": "TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy",
+      "slug": "2025-12-19-tp-link-tapo-c200-hardcoded-keys-buffer-overflows-and-privacy.html",
+      "path": "posts/2025-12-19-tp-link-tapo-c200-hardcoded-keys-buffer-overflows-and-privacy.html",
+      "date_iso": "2025-12-19T18:19:32+00:00",
+      "source": "https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/",
+      "summary": "Article URL: https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/ Comments URL: https://news.ycombinator.com/item?id=46329038 Points: 259 # Comments: 71"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46328992",
+      "title": "Reverse Engineering US Airline's PNR System and Accessing All Reservations",
+      "slug": "2025-12-19-reverse-engineering-us-airline-s-pnr-system-and-accessing-all-reservations.html",
+      "path": "posts/2025-12-19-reverse-engineering-us-airline-s-pnr-system-and-accessing-all-reservations.html",
+      "date_iso": "2025-12-19T18:15:17+00:00",
+      "source": "https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability",
+      "summary": "Article URL: https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability Comments URL: https://news.ycombinator.com/item?id=46328992 Points: 106 # Comments: 51"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46328274",
+      "title": "Performance Hints (2023)",
+      "slug": "2025-12-19-performance-hints-2023.html",
+      "path": "posts/2025-12-19-performance-hints-2023.html",
+      "date_iso": "2025-12-19T17:14:42+00:00",
+      "source": "https://abseil.io/fast/hints.html",
+      "summary": "Article URL: https://abseil.io/fast/hints.html Comments URL: https://news.ycombinator.com/item?id=46328274 Points: 81 # Comments: 31"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46327206",
+      "title": "Graphite is joining Cursor",
+      "slug": "2025-12-19-graphite-is-joining-cursor.html",
+      "path": "posts/2025-12-19-graphite-is-joining-cursor.html",
+      "date_iso": "2025-12-19T15:57:01+00:00",
+      "source": "https://cursor.com/blog/graphite",
+      "summary": "Graphite's announcement: https://graphite.com/blog/graphite-joins-cursor Comments URL: https://news.ycombinator.com/item?id=46327206 Points: 214 # Comments: 224"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46327133",
+      "title": "Believe the Checkbook",
+      "slug": "2025-12-19-believe-the-checkbook.html",
+      "path": "posts/2025-12-19-believe-the-checkbook.html",
+      "date_iso": "2025-12-19T15:51:30+00:00",
+      "source": "https://robertgreiner.com/believe-the-checkbook/",
+      "summary": "Article URL: https://robertgreiner.com/believe-the-checkbook/ Comments URL: https://news.ycombinator.com/item?id=46327133 Points: 142 # Comments: 60"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46326984",
+      "title": "Garage – An S3 object store so reliable you can run it outside datacenters",
+      "slug": "2025-12-19-garage-an-s3-object-store-so-reliable-you-can-run-it-outside-datacenters.html",
+      "path": "posts/2025-12-19-garage-an-s3-object-store-so-reliable-you-can-run-it-outside-datacenters.html",
+      "date_iso": "2025-12-19T15:40:03+00:00",
+      "source": "https://garagehq.deuxfleurs.fr/",
+      "summary": "Article URL: https://garagehq.deuxfleurs.fr/ Comments URL: https://news.ycombinator.com/item?id=46326984 Points: 534 # Comments: 115"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46326519",
+      "title": "The FreeBSD Foundation's Laptop Support and Usability Project",
+      "slug": "2025-12-19-the-freebsd-foundation-s-laptop-support-and-usability-project.html",
+      "path": "posts/2025-12-19-the-freebsd-foundation-s-laptop-support-and-usability-project.html",
+      "date_iso": "2025-12-19T14:56:05+00:00",
+      "source": "https://github.com/FreeBSDFoundation/proj-laptop",
+      "summary": "Article URL: https://github.com/FreeBSDFoundation/proj-laptop Comments URL: https://news.ycombinator.com/item?id=46326519 Points: 154 # Comments: 56"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/19/podcasts/hardfork-roomba-predictions-song.html",
+      "title": "Why Roomba Died + Tech Predictions for 2026 + A Hard Forkin’ Xmas Song",
+      "slug": "2025-12-19-why-roomba-died-tech-predictions-for-2026-a-hard-forkin-xmas-song.html",
+      "path": "posts/2025-12-19-why-roomba-died-tech-predictions-for-2026-a-hard-forkin-xmas-song.html",
+      "date_iso": "2025-12-19T12:00:07+00:00",
+      "source": "https://www.nytimes.com/2025/12/19/podcasts/hardfork-roomba-predictions-song.html",
+      "summary": "“We were roadkill,” says Colin Angle, former chief executive of iRobot, maker of the robot vacuum."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46324702",
+      "title": "8-bit Boléro",
+      "slug": "2025-12-19-8-bit-bol-ro.html",
+      "path": "posts/2025-12-19-8-bit-bol-ro.html",
+      "date_iso": "2025-12-19T11:38:54+00:00",
+      "source": "https://linusakesson.net/music/bolero/index.php",
+      "summary": "Article URL: https://linusakesson.net/music/bolero/index.php Comments URL: https://news.ycombinator.com/item?id=46324702 Points: 217 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46324543",
+      "title": "GotaTun – Mullvad's WireGuard Implementation in Rust",
+      "slug": "2025-12-19-gotatun-mullvad-s-wireguard-implementation-in-rust.html",
+      "path": "posts/2025-12-19-gotatun-mullvad-s-wireguard-implementation-in-rust.html",
+      "date_iso": "2025-12-19T11:16:23+00:00",
+      "source": "https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn",
+      "summary": "Article URL: https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn Comments URL: https://news.ycombinator.com/item?id=46324543 Points: 566 # Comments: 121"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46324078",
+      "title": "Amazon will allow ePub and PDF downloads for DRM-free eBooks",
+      "slug": "2025-12-19-amazon-will-allow-epub-and-pdf-downloads-for-drm-free-ebooks.html",
+      "path": "posts/2025-12-19-amazon-will-allow-epub-and-pdf-downloads-for-drm-free-ebooks.html",
+      "date_iso": "2025-12-19T10:03:38+00:00",
+      "source": "https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US",
+      "summary": "Article URL: https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US Comments URL: https://news.ycombinator.com/item?id=46324078 Points: 578 # Comments: 286"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46322732",
       "title": "Making Google Sans Flex",
       "slug": "2025-12-19-making-google-sans-flex.html",
@@ -28,6 +217,15 @@
       "summary": "Article URL: https://lorendb.dev/posts/getting-bitten-by-poor-naming-schemes/ Comments URL: https://news.ycombinator.com/item?id=46322540 Points: 36 # Comments: 12"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=46322391",
+      "title": "Rust's Block Pattern",
+      "slug": "2025-12-19-rust-s-block-pattern.html",
+      "path": "posts/2025-12-19-rust-s-block-pattern.html",
+      "date_iso": "2025-12-19T04:56:13+00:00",
+      "source": "https://notgull.net/block-pattern/",
+      "summary": "Article URL: https://notgull.net/block-pattern/ Comments URL: https://news.ycombinator.com/item?id=46322391 Points: 161 # Comments: 76"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46321982",
       "title": "Reconstructed Commander Keen 1-3 Source Code",
       "slug": "2025-12-19-reconstructed-commander-keen-1-3-source-code.html",
@@ -37,6 +235,15 @@
       "summary": "Article URL: https://pckf.com/viewtopic.php?t=18248 Comments URL: https://news.ycombinator.com/item?id=46321982 Points: 41 # Comments: 1"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=46321972",
+      "title": "Qwen-Image-Layered: transparency and layer aware open diffusion model",
+      "slug": "2025-12-19-qwen-image-layered-transparency-and-layer-aware-open-diffusion-model.html",
+      "path": "posts/2025-12-19-qwen-image-layered-transparency-and-layer-aware-open-diffusion-model.html",
+      "date_iso": "2025-12-19T03:24:26+00:00",
+      "source": "https://huggingface.co/papers/2512.15603",
+      "summary": "Article URL: https://huggingface.co/papers/2512.15603 Comments URL: https://news.ycombinator.com/item?id=46321972 Points: 91 # Comments: 16"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46321619",
       "title": "Noclip.website – A digital museum of video game levels",
       "slug": "2025-12-19-noclip-website-a-digital-museum-of-video-game-levels.html",
@@ -44,6 +251,15 @@
       "date_iso": "2025-12-19T02:20:08+00:00",
       "source": "https://noclip.website/",
       "summary": "Article URL: https://noclip.website/ Comments URL: https://news.ycombinator.com/item?id=46321619 Points: 127 # Comments: 17"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/18/business/media/tiktok-deal-agreements-us-investors.html",
+      "title": "TikTok Signs Agreements With Investors in Step Toward Avoiding a U.S. Ban",
+      "slug": "2025-12-19-tiktok-signs-agreements-with-investors-in-step-toward-avoiding-a-u-s-ban.html",
+      "path": "posts/2025-12-19-tiktok-signs-agreements-with-investors-in-step-toward-avoiding-a-u-s-ban.html",
+      "date_iso": "2025-12-19T02:02:36+00:00",
+      "source": "https://www.nytimes.com/2025/12/18/business/media/tiktok-deal-agreements-us-investors.html",
+      "summary": "Investment agreements bring TikTok, one of the country’s most popular social media apps, closer to resolving years of questions about its future."
     },
     {
       "id": "https://news.ycombinator.com/item?id=46321350",
