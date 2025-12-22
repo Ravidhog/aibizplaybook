@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Rust/WASM lighting data toolkit – parses legacy formats, generates SVGs</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Rust/WASM lighting data toolkit – parses legacy formats, generates SVGs</h1>
+    <p><small>Published: 2025-12-21T20:56:54+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hi HN, I'm Holger, a developer who worked in the lighting industry.<p>I built this to scratch my own itch and put it on crates.io and PyPI where nothing like it existed.<p>The old file formats (EULUMDAT from 1990, IES from 1991) still work fine for basic photometry. But the industry is moving toward spectral data – full wavelength distributions instead of just lumen values.<p>The new standards (TM-33, ATLA-S001) are barely supported by existing tools.<p>So this handles both: legacy formats for compatibility, spectral data for anyone who wants to work with the new standards.<p>Stack: Rust core, then UniFFI for bindings. One codebase compiles to WASM/Leptos, egui, SwiftUI, Jetpack Compose, PyO3.<p>At one point the generated Swift boilerplate got so large GitHub classified it as a Swift project. 3D viewer is Bevy, loaded on-demand.<p>Feedback welcome – especially on the SVG output and the 3D viewer.<p><a href="https://github.com/holg/eulumdat-rs" rel="nofollow">https://github.com/holg/eulumdat-rs</a> (MIT/Apache-2.0)</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46348344">https://news.ycombinator.com/item?id=46348344</a></p>
+<p>Points: 15</p>
+<p># Comments: 0</p>
+    <p><a href="https://eulumdat.icu" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

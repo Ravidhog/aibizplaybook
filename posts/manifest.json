@@ -1,6 +1,177 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46351345",
+      "title": "Cursed circuits #3: true mathematics",
+      "slug": "2025-12-22-cursed-circuits-3-true-mathematics.html",
+      "path": "posts/2025-12-22-cursed-circuits-3-true-mathematics.html",
+      "date_iso": "2025-12-22T04:34:36+00:00",
+      "source": "https://lcamtuf.substack.com/p/cursed-circuits-3-true-mathematics",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/cursed-circuits-3-true-mathematics Comments URL: https://news.ycombinator.com/item?id=46351345 Points: 10 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46350641",
+      "title": "Build Android apps using Rust and Iced",
+      "slug": "2025-12-22-build-android-apps-using-rust-and-iced.html",
+      "path": "posts/2025-12-22-build-android-apps-using-rust-and-iced.html",
+      "date_iso": "2025-12-22T02:14:32+00:00",
+      "source": "https://github.com/ibaryshnikov/android-iced-example",
+      "summary": "Some time ago I decided to try building an Android app using Rust. After a few weeks I got it working. There was a new iced release recently, so I've just updated the example to new iced and wgpu. I'd like to share my experience to attract more attention to Rust on Android. Firs…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46350477",
+      "title": "86Box v5.3",
+      "slug": "2025-12-22-86box-v5-3.html",
+      "path": "posts/2025-12-22-86box-v5-3.html",
+      "date_iso": "2025-12-22T01:43:40+00:00",
+      "source": "https://86box.net/2025/12/21/86box-v5-3.html",
+      "summary": "Article URL: https://86box.net/2025/12/21/86box-v5-3.html Comments URL: https://news.ycombinator.com/item?id=46350477 Points: 58 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46350075",
+      "title": "ONNX Runtime and CoreML May Silently Convert Your Model to FP16",
+      "slug": "2025-12-22-onnx-runtime-and-coreml-may-silently-convert-your-model-to-fp16.html",
+      "path": "posts/2025-12-22-onnx-runtime-and-coreml-may-silently-convert-your-model-to-fp16.html",
+      "date_iso": "2025-12-22T00:27:04+00:00",
+      "source": "https://ym2132.github.io/ONNX_MLProgram_NN_exploration",
+      "summary": "Article URL: https://ym2132.github.io/ONNX_MLProgram_NN_exploration Comments URL: https://news.ycombinator.com/item?id=46350075 Points: 58 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46348847",
+      "title": "Disney Imagineering Debuts Next-Generation Robotic Character, Olaf",
+      "slug": "2025-12-21-disney-imagineering-debuts-next-generation-robotic-character-olaf.html",
+      "path": "posts/2025-12-21-disney-imagineering-debuts-next-generation-robotic-character-olaf.html",
+      "date_iso": "2025-12-21T21:46:20+00:00",
+      "source": "https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/",
+      "summary": "Article URL: https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/ Comments URL: https://news.ycombinator.com/item?id=46348847 Points: 164 # Comments: 66"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46348344",
+      "title": "Show HN: Rust/WASM lighting data toolkit – parses legacy formats, generates SVGs",
+      "slug": "2025-12-21-show-hn-rust-wasm-lighting-data-toolkit-parses-legacy-formats-generates-svgs.html",
+      "path": "posts/2025-12-21-show-hn-rust-wasm-lighting-data-toolkit-parses-legacy-formats-generates-svgs.html",
+      "date_iso": "2025-12-21T20:56:54+00:00",
+      "source": "https://eulumdat.icu",
+      "summary": "Hi HN, I'm Holger, a developer who worked in the lighting industry. I built this to scratch my own itch and put it on crates.io and PyPI where nothing like it existed. The old file formats (EULUMDAT from 1990, IES from 1991) still work fine for basic photometry. But the industry…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46348329",
+      "title": "A guide to local coding models",
+      "slug": "2025-12-21-a-guide-to-local-coding-models.html",
+      "path": "posts/2025-12-21-a-guide-to-local-coding-models.html",
+      "date_iso": "2025-12-21T20:55:15+00:00",
+      "source": "https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude",
+      "summary": "Article URL: https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude Comments URL: https://news.ycombinator.com/item?id=46348329 Points: 358 # Comments: 182"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46347108",
+      "title": "I can't upgrade to Windows 11, now leave me alone",
+      "slug": "2025-12-21-i-can-t-upgrade-to-windows-11-now-leave-me-alone.html",
+      "path": "posts/2025-12-21-i-can-t-upgrade-to-windows-11-now-leave-me-alone.html",
+      "date_iso": "2025-12-21T18:43:20+00:00",
+      "source": "https://idiallo.com/byte-size/cant-update-to-windows-11-leave-me-alone",
+      "summary": "Article URL: https://idiallo.com/byte-size/cant-update-to-windows-11-leave-me-alone Comments URL: https://news.ycombinator.com/item?id=46347108 Points: 447 # Comments: 415"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46347080",
+      "title": "The Going Dark initiative or ProtectEU is a Chat Control 3.0 attempt",
+      "slug": "2025-12-21-the-going-dark-initiative-or-protecteu-is-a-chat-control-3-0-attempt.html",
+      "path": "posts/2025-12-21-the-going-dark-initiative-or-protecteu-is-a-chat-control-3-0-attempt.html",
+      "date_iso": "2025-12-21T18:39:46+00:00",
+      "source": "https://mastodon.online/@mullvadnet/115742530333573065",
+      "summary": "Article URL: https://mastodon.online/@mullvadnet/115742530333573065 Comments URL: https://news.ycombinator.com/item?id=46347080 Points: 519 # Comments: 170"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46346958",
+      "title": "You’re not burnt out, you’re existentially starving",
+      "slug": "2025-12-21-you-re-not-burnt-out-you-re-existentially-starving.html",
+      "path": "posts/2025-12-21-you-re-not-burnt-out-you-re-existentially-starving.html",
+      "date_iso": "2025-12-21T18:28:56+00:00",
+      "source": "https://neilthanedar.com/youre-not-burnt-out-youre-existentially-starving/",
+      "summary": "Article URL: https://neilthanedar.com/youre-not-burnt-out-youre-existentially-starving/ Comments URL: https://news.ycombinator.com/item?id=46346958 Points: 275 # Comments: 323"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46346214",
+      "title": "Autoland saves King Air, everyone reported safe",
+      "slug": "2025-12-21-autoland-saves-king-air-everyone-reported-safe.html",
+      "path": "posts/2025-12-21-autoland-saves-king-air-everyone-reported-safe.html",
+      "date_iso": "2025-12-21T16:57:57+00:00",
+      "source": "https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/",
+      "summary": "Article URL: https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/ Comments URL: https://news.ycombinator.com/item?id=46346214 Points: 208 # Comments: 120"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46345897",
+      "title": "Show HN: Books mentioned on Hacker News in 2025",
+      "slug": "2025-12-21-show-hn-books-mentioned-on-hacker-news-in-2025.html",
+      "path": "posts/2025-12-21-show-hn-books-mentioned-on-hacker-news-in-2025.html",
+      "date_iso": "2025-12-21T16:21:04+00:00",
+      "source": "https://hackernews-readings-613604506318.us-west1.run.app",
+      "summary": "Article URL: https://hackernews-readings-613604506318.us-west1.run.app Comments URL: https://news.ycombinator.com/item?id=46345897 Points: 407 # Comments: 152"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46345745",
+      "title": "Show HN: WalletWallet – create Apple passes from anything",
+      "slug": "2025-12-21-show-hn-walletwallet-create-apple-passes-from-anything.html",
+      "path": "posts/2025-12-21-show-hn-walletwallet-create-apple-passes-from-anything.html",
+      "date_iso": "2025-12-21T16:04:05+00:00",
+      "source": "https://walletwallet.alen.ro/",
+      "summary": "I got my Apple developer certificate and built a simple app to solve a problem I had. One shop I buy from doesn't have Apple Wallet passes. Since you need signed certificates to build these very simple things, I created a minimal app that signs them. It's available if you need i…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46345523",
+      "title": "E.W.Dijkstra Archive",
+      "slug": "2025-12-21-e-w-dijkstra-archive.html",
+      "path": "posts/2025-12-21-e-w-dijkstra-archive.html",
+      "date_iso": "2025-12-21T15:29:31+00:00",
+      "source": "https://www.cs.utexas.edu/~EWD/welcome.html",
+      "summary": "Article URL: https://www.cs.utexas.edu/~EWD/welcome.html Comments URL: https://news.ycombinator.com/item?id=46345523 Points: 132 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46345506",
+      "title": "CO2 batteries that store grid energy take off globally",
+      "slug": "2025-12-21-co2-batteries-that-store-grid-energy-take-off-globally.html",
+      "path": "posts/2025-12-21-co2-batteries-that-store-grid-energy-take-off-globally.html",
+      "date_iso": "2025-12-21T15:27:36+00:00",
+      "source": "https://spectrum.ieee.org/co2-battery-energy-storage",
+      "summary": "Article URL: https://spectrum.ieee.org/co2-battery-energy-storage Comments URL: https://news.ycombinator.com/item?id=46345506 Points: 211 # Comments: 173"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46345333",
+      "title": "Structured outputs create false confidence",
+      "slug": "2025-12-21-structured-outputs-create-false-confidence.html",
+      "path": "posts/2025-12-21-structured-outputs-create-false-confidence.html",
+      "date_iso": "2025-12-21T15:06:46+00:00",
+      "source": "https://boundaryml.com/blog/structured-outputs-create-false-confidence",
+      "summary": "Article URL: https://boundaryml.com/blog/structured-outputs-create-false-confidence Comments URL: https://news.ycombinator.com/item?id=46345333 Points: 132 # Comments: 60"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46344412",
+      "title": "Luke Howard’s essay on the modification of clouds (1865)",
+      "slug": "2025-12-21-luke-howard-s-essay-on-the-modification-of-clouds-1865.html",
+      "path": "posts/2025-12-21-luke-howard-s-essay-on-the-modification-of-clouds-1865.html",
+      "date_iso": "2025-12-21T12:38:25+00:00",
+      "source": "https://publicdomainreview.org/collection/essay-on-the-modification-of-clouds/",
+      "summary": "Article URL: https://publicdomainreview.org/collection/essay-on-the-modification-of-clouds/ Comments URL: https://news.ycombinator.com/item?id=46344412 Points: 8 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/21/business/american-airlines-operations-hub.html",
+      "title": "When Something Goes Wrong With Your Flight, These People Take Charge",
+      "slug": "2025-12-21-when-something-goes-wrong-with-your-flight-these-people-take-charge.html",
+      "path": "posts/2025-12-21-when-something-goes-wrong-with-your-flight-these-people-take-charge.html",
+      "date_iso": "2025-12-21T10:00:48+00:00",
+      "source": "https://www.nytimes.com/2025/12/21/business/american-airlines-operations-hub.html",
+      "summary": "Inside a tornado-hardened office in Texas, 1,700 American Airlines employees manage the carrier’s operations, responding to bad weather, plane trouble and ailing passengers."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46342859",
+      "title": "Ruby website redesigned",
+      "slug": "2025-12-21-ruby-website-redesigned.html",
+      "path": "posts/2025-12-21-ruby-website-redesigned.html",
+      "date_iso": "2025-12-21T07:06:48+00:00",
+      "source": "https://www.ruby-lang.org/en/",
+      "summary": "Article URL: https://www.ruby-lang.org/en/ Comments URL: https://news.ycombinator.com/item?id=46342859 Points: 390 # Comments: 158"
+    },
+    {
       "id": "https://www.nytimes.com/2025/12/20/us/san-francisco-electricity-out.html",
       "title": "Power Returns to Most of San Francisco After Widespread Outage",
       "slug": "2025-12-21-power-returns-to-most-of-san-francisco-after-widespread-outage.html",

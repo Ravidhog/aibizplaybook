@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Build Android apps using Rust and Iced</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Build Android apps using Rust and Iced</h1>
+    <p><small>Published: 2025-12-22T02:14:32+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Some time ago I decided to try building an Android app using Rust. After a few weeks I got it working. There was a new iced release recently, so I've just updated the example to new iced and wgpu. I'd like to share my experience to attract more attention to Rust on Android.<p>First things, I want to thank all the people who work on the foundational crates and tools such as:
+- <a href="https://github.com/rust-mobile/android-activity" rel="nofollow">https://github.com/rust-mobile/android-activity</a>
+- <a href="https://github.com/jni-rs/jni-rs" rel="nofollow">https://github.com/jni-rs/jni-rs</a>
+- <a href="https://github.com/gfx-rs/wgpu" rel="nofollow">https://github.com/gfx-rs/wgpu</a>
+- <a href="https://github.com/rust-windowing/winit" rel="nofollow">https://github.com/rust-windowing/winit</a>
+- and many others<p>When I started I had to learn what tools and examples already exist. Luckily, there's a good set of examples using both NativeActivity and GameActivity:
+<a href="https://github.com/rust-mobile/rust-android-examples" rel="nofollow">https://github.com/rust-mobile/rust-android-examples</a><p>The basic approach is that we take android-activity, winit and wgpu and that's it. On top of that you can find a few egui examples in the rust-android-examples repo.<p>Alright, so after I've got the basic examples running, I wanted to combine them with iced. Iced is a crossplatform gui library focusing on desktop and web. The mobile support is explicitly a non-goal, as far as I can tell at the moment of writing. Yet, there's an issue where some people posted their experiments. That's how I knew it was possible:
+<a href="https://github.com/iced-rs/iced/issues/302" rel="nofollow">https://github.com/iced-rs/iced/issues/302</a><p>There's a way to integrate iced in wgpu applications, so called integration example:
+<a href="https://github.com/iced-rs/iced/tree/0.14.0/examples/integration" rel="nofollow">https://github.com/iced-rs/iced/tree/0.14.0/examples/integra...</a><p>Above I mentioned that using winit and wgpu in combination with android-activity is enough to build the app. Putting together 1 + 1 I got 2: let's use iced integration example with android-activity. It was quite easy to compile with almost no errors. First issue I encountered is that there was no text rendered. I solved this by loading fonts the way it was shown here:
+<a href="https://github.com/pop-os/cosmic-text/issues/243#issue-2189977938" rel="nofollow">https://github.com/pop-os/cosmic-text/issues/243#issue-21899...</a><p>Then I patched a few widgets to add touch support. And that's it. My role here was to take all the prior work and combine it together in a way that there's a working example.<p>Some other ways of building Android apps using Rust:
+- xilem has an explicit goal to support mobile <a href="https://github.com/linebender/xilem" rel="nofollow">https://github.com/linebender/xilem</a>
+- egui supports mobile <a href="https://github.com/emilk/egui" rel="nofollow">https://github.com/emilk/egui</a>
+- game engines such as Fyrox and Bevy support mobile:
+  - <a href="https://github.com/FyroxEngine/Fyrox" rel="nofollow">https://github.com/FyroxEngine/Fyrox</a>
+  - <a href="https://github.com/bevyengine/bevy" rel="nofollow">https://github.com/bevyengine/bevy</a>
+- pretty much anything built on top of winit and wgpu<p>All of the above is related to building native apps using either NativeActivity or GameActivity. I'm leaving webview out of scope of current post.<p>What about iOS? As far as I know it should be similar or maybe simpler compared to Android. I haven't built it yet, but the next time I have a sizeable amount of free time, I'll try to make it work. The plan is the same: pick winit, wgpu, iced integration example, mix it together until it works. It'll require the same trick to load fonts, and maybe something else, but no visible blockers as of now.<p>Once again, thanks to all the people who made it possible and I wish you have a great time building mobile apps with Rust!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46350641">https://news.ycombinator.com/item?id=46350641</a></p>
+<p>Points: 47</p>
+<p># Comments: 9</p>
+    <p><a href="https://github.com/ibaryshnikov/android-iced-example" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
