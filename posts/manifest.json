@@ -1,6 +1,240 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46362655",
+      "title": "Show HN: CineCLI – Browse and torrent movies directly from your terminal",
+      "slug": "2025-12-23-show-hn-cinecli-browse-and-torrent-movies-directly-from-your-terminal.html",
+      "path": "posts/2025-12-23-show-hn-cinecli-browse-and-torrent-movies-directly-from-your-terminal.html",
+      "date_iso": "2025-12-23T05:17:50+00:00",
+      "source": "https://github.com/eyeblech/cinecli",
+      "summary": "Hi HN I built CineCLI — a cross-platform terminal app to browse movies, view details, and open torrents directly in your system torrent client. Features: - Search movies from the terminal - Rich UI with ratings, runtime, genres - Interactive & non-interactive modes - Magnet hand…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46362275",
+      "title": "FCC Updates Covered List to Include Foreign UAS and UAS Critical Components [pdf]",
+      "slug": "2025-12-23-fcc-updates-covered-list-to-include-foreign-uas-and-uas-critical-components-pdf.html",
+      "path": "posts/2025-12-23-fcc-updates-covered-list-to-include-foreign-uas-and-uas-critical-components-pdf.html",
+      "date_iso": "2025-12-23T03:57:02+00:00",
+      "source": "https://docs.fcc.gov/public/attachments/DOC-416839A1.pdf",
+      "summary": "Article URL: https://docs.fcc.gov/public/attachments/DOC-416839A1.pdf Comments URL: https://news.ycombinator.com/item?id=46362275 Points: 57 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46361510",
+      "title": "The Duodecimal Bulletin, Vol. 55, No. 1, Year 1209 [pdf]",
+      "slug": "2025-12-23-the-duodecimal-bulletin-vol-55-no-1-year-1209-pdf.html",
+      "path": "posts/2025-12-23-the-duodecimal-bulletin-vol-55-no-1-year-1209-pdf.html",
+      "date_iso": "2025-12-23T01:49:56+00:00",
+      "source": "https://dozenal.org/drupal/sites_bck/default/files/DuodecimalBulletinIssue551.pdf",
+      "summary": "Article URL: https://dozenal.org/drupal/sites_bck/default/files/DuodecimalBulletinIssue551.pdf Comments URL: https://news.ycombinator.com/item?id=46361510 Points: 20 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46361229",
+      "title": "Snitch – A friendlier ss/netstat",
+      "slug": "2025-12-23-snitch-a-friendlier-ss-netstat.html",
+      "path": "posts/2025-12-23-snitch-a-friendlier-ss-netstat.html",
+      "date_iso": "2025-12-23T01:03:57+00:00",
+      "source": "https://github.com/karol-broda/snitch",
+      "summary": "Article URL: https://github.com/karol-broda/snitch Comments URL: https://news.ycombinator.com/item?id=46361229 Points: 124 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46360465",
+      "title": "Satellites reveal heat leaking from largest US cryptocurrency mining center",
+      "slug": "2025-12-22-satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center.html",
+      "path": "posts/2025-12-22-satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center.html",
+      "date_iso": "2025-12-22T23:23:12+00:00",
+      "source": "https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center",
+      "summary": "Article URL: https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center Comments URL: https://news.ycombinator.com/item?id=46360465 Points: 114 # Comments: 99"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/22/science/atomic-clock-late-colorado.html",
+      "title": "Some of the World’s Atomic Clocks Were Off Last Week (by 5-Millionths of a Second)",
+      "slug": "2025-12-22-some-of-the-world-s-atomic-clocks-were-off-last-week-by-5-millionths-of-a-second.html",
+      "path": "posts/2025-12-22-some-of-the-world-s-atomic-clocks-were-off-last-week-by-5-millionths-of-a-second.html",
+      "date_iso": "2025-12-22T23:14:00+00:00",
+      "source": "https://www.nytimes.com/2025/12/22/science/atomic-clock-late-colorado.html",
+      "summary": "A cesium fountain clock at the National Institute of Standards and Technology in Boulder, Colo."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46359996",
+      "title": "Lotusbail npm package found to be harvesting WhatsApp messages and contacts",
+      "slug": "2025-12-22-lotusbail-npm-package-found-to-be-harvesting-whatsapp-messages-and-contacts.html",
+      "path": "posts/2025-12-22-lotusbail-npm-package-found-to-be-harvesting-whatsapp-messages-and-contacts.html",
+      "date_iso": "2025-12-22T22:35:45+00:00",
+      "source": "https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages",
+      "summary": "Article URL: https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages Comments URL: https://news.ycombinator.com/item?id=46359996 Points: 259 # Comments: 158"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46359683",
+      "title": "Tc – Theodore Calvin's language-agnostic testing framework",
+      "slug": "2025-12-22-tc-theodore-calvin-s-language-agnostic-testing-framework.html",
+      "path": "posts/2025-12-22-tc-theodore-calvin-s-language-agnostic-testing-framework.html",
+      "date_iso": "2025-12-22T22:03:07+00:00",
+      "source": "https://github.com/ahoward/tc",
+      "summary": "Article URL: https://github.com/ahoward/tc Comments URL: https://news.ycombinator.com/item?id=46359683 Points: 25 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46359120",
+      "title": "It's Always TCP_NODELAY",
+      "slug": "2025-12-22-it-s-always-tcp-nodelay.html",
+      "path": "posts/2025-12-22-it-s-always-tcp-nodelay.html",
+      "date_iso": "2025-12-22T21:09:59+00:00",
+      "source": "https://brooker.co.za/blog/2024/05/09/nagle.html",
+      "summary": "Article URL: https://brooker.co.za/blog/2024/05/09/nagle.html Comments URL: https://news.ycombinator.com/item?id=46359120 Points: 244 # Comments: 67"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/22/technology/google-intersect-data-centers.html",
+      "title": "Google Buys Data Center Company for $4.75 Billion",
+      "slug": "2025-12-22-google-buys-data-center-company-for-4-75-billion.html",
+      "path": "posts/2025-12-22-google-buys-data-center-company-for-4-75-billion.html",
+      "date_iso": "2025-12-22T21:07:32+00:00",
+      "source": "https://www.nytimes.com/2025/12/22/technology/google-intersect-data-centers.html",
+      "summary": "Google, led by Sundar Pichai, above, had already been working with Intersect to build data centers and invested in the company a year ago."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46358538",
+      "title": "In Pursuit of Clancy Sigal (2021)",
+      "slug": "2025-12-22-in-pursuit-of-clancy-sigal-2021.html",
+      "path": "posts/2025-12-22-in-pursuit-of-clancy-sigal-2021.html",
+      "date_iso": "2025-12-22T20:21:12+00:00",
+      "source": "https://yalereview.org/article/in-pursuit-of-clancy-sigal",
+      "summary": "Article URL: https://yalereview.org/article/in-pursuit-of-clancy-sigal Comments URL: https://news.ycombinator.com/item?id=46358538 Points: 16 # Comments: 5"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/22/technology/ai-boyfriend-chatgpt.html",
+      "title": "She Fell in Love With ChatGPT. Then She Ghosted It.",
+      "slug": "2025-12-22-she-fell-in-love-with-chatgpt-then-she-ghosted-it.html",
+      "path": "posts/2025-12-22-she-fell-in-love-with-chatgpt-then-she-ghosted-it.html",
+      "date_iso": "2025-12-22T20:16:03+00:00",
+      "source": "https://www.nytimes.com/2025/12/22/technology/ai-boyfriend-chatgpt.html",
+      "summary": "“How am I supposed to trust your advice now if you’re just going to say yes to everything?” Ayrin said of her chatbot-generated boyfriend after a software change."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46357945",
+      "title": "Ultrasound Cancer Treatment: Sound Waves Fight Tumors",
+      "slug": "2025-12-22-ultrasound-cancer-treatment-sound-waves-fight-tumors.html",
+      "path": "posts/2025-12-22-ultrasound-cancer-treatment-sound-waves-fight-tumors.html",
+      "date_iso": "2025-12-22T19:37:34+00:00",
+      "source": "https://spectrum.ieee.org/ultrasound-cancer-treatment",
+      "summary": "Article URL: https://spectrum.ieee.org/ultrasound-cancer-treatment Comments URL: https://news.ycombinator.com/item?id=46357945 Points: 234 # Comments: 65"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46357870",
+      "title": "The Garbage Collection Handbook",
+      "slug": "2025-12-22-the-garbage-collection-handbook.html",
+      "path": "posts/2025-12-22-the-garbage-collection-handbook.html",
+      "date_iso": "2025-12-22T19:30:18+00:00",
+      "source": "https://gchandbook.org/index.html",
+      "summary": "Article URL: https://gchandbook.org/index.html Comments URL: https://news.ycombinator.com/item?id=46357870 Points: 186 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46357675",
+      "title": "The Illustrated Transformer",
+      "slug": "2025-12-22-the-illustrated-transformer.html",
+      "path": "posts/2025-12-22-the-illustrated-transformer.html",
+      "date_iso": "2025-12-22T19:15:56+00:00",
+      "source": "https://jalammar.github.io/illustrated-transformer/",
+      "summary": "Article URL: https://jalammar.github.io/illustrated-transformer/ Comments URL: https://news.ycombinator.com/item?id=46357675 Points: 339 # Comments: 71"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46357458",
+      "title": "Universal Reasoning Model (53.8% pass 1 ARC1 and 16.0% ARC 2)",
+      "slug": "2025-12-22-universal-reasoning-model-53-8-pass-1-arc1-and-16-0-arc-2.html",
+      "path": "posts/2025-12-22-universal-reasoning-model-53-8-pass-1-arc1-and-16-0-arc-2.html",
+      "date_iso": "2025-12-22T18:59:22+00:00",
+      "source": "https://arxiv.org/abs/2512.14693",
+      "summary": "Article URL: https://arxiv.org/abs/2512.14693 Comments URL: https://news.ycombinator.com/item?id=46357458 Points: 89 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46357451",
+      "title": "Things I learnt about passkeys when building passkeybot",
+      "slug": "2025-12-22-things-i-learnt-about-passkeys-when-building-passkeybot.html",
+      "path": "posts/2025-12-22-things-i-learnt-about-passkeys-when-building-passkeybot.html",
+      "date_iso": "2025-12-22T18:58:45+00:00",
+      "source": "https://enzom.dev/b/passkeys/",
+      "summary": "Article URL: https://enzom.dev/b/passkeys/ Comments URL: https://news.ycombinator.com/item?id=46357451 Points: 131 # Comments: 78"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46357287",
+      "title": "GLM-4.7: Advancing the Coding Capability",
+      "slug": "2025-12-22-glm-4-7-advancing-the-coding-capability.html",
+      "path": "posts/2025-12-22-glm-4-7-advancing-the-coding-capability.html",
+      "date_iso": "2025-12-22T18:46:32+00:00",
+      "source": "https://z.ai/blog/glm-4.7",
+      "summary": "Article URL: https://z.ai/blog/glm-4.7 Comments URL: https://news.ycombinator.com/item?id=46357287 Points: 302 # Comments: 143"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46355949",
+      "title": "NIST was 5 μs off UTC after last week's power cut",
+      "slug": "2025-12-22-nist-was-5-s-off-utc-after-last-week-s-power-cut.html",
+      "path": "posts/2025-12-22-nist-was-5-s-off-utc-after-last-week-s-power-cut.html",
+      "date_iso": "2025-12-22T17:01:28+00:00",
+      "source": "https://www.jeffgeerling.com/blog/2025/nist-was-5-μs-utc-after-last-weeks-power-cut",
+      "summary": "Article URL: https://www.jeffgeerling.com/blog/2025/nist-was-5-μs-utc-after-last-weeks-power-cut Comments URL: https://news.ycombinator.com/item?id=46355949 Points: 244 # Comments: 107"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46355932",
+      "title": "Uplane (YC F25) Is Hiring Founding Engineers (Full-Stack and AI)",
+      "slug": "2025-12-22-uplane-yc-f25-is-hiring-founding-engineers-full-stack-and-ai.html",
+      "path": "posts/2025-12-22-uplane-yc-f25-is-hiring-founding-engineers-full-stack-and-ai.html",
+      "date_iso": "2025-12-22T17:00:34+00:00",
+      "source": "https://www.useparallel.com/uplane1/careers",
+      "summary": "Article URL: https://www.useparallel.com/uplane1/careers Comments URL: https://news.ycombinator.com/item?id=46355932 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/21/us/waymo-suspended-service-in-san-francisco-after-problems-during-power-outage.html",
+      "title": "Waymo Suspended Service in San Francisco After Its Cars Stalled During Power Outage",
+      "slug": "2025-12-22-waymo-suspended-service-in-san-francisco-after-its-cars-stalled-during-power-outage.html",
+      "path": "posts/2025-12-22-waymo-suspended-service-in-san-francisco-after-its-cars-stalled-during-power-outage.html",
+      "date_iso": "2025-12-22T16:47:49+00:00",
+      "source": "https://www.nytimes.com/2025/12/21/us/waymo-suspended-service-in-san-francisco-after-problems-during-power-outage.html",
+      "summary": "A Waymo driverless car was stalled at an intersection while not able to detect traffic lights after a major power outage in San Francisco on Saturday."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46355548",
+      "title": "Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves",
+      "slug": "2025-12-22-flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves.html",
+      "path": "posts/2025-12-22-flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves.html",
+      "date_iso": "2025-12-22T16:31:40+00:00",
+      "source": "https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/",
+      "summary": "Archive Link: https://archive.ph/IWMKe Also: https://www.youtube.com/watch?v=vU1-uiUlHTo – This Flock Camera Leak is like Netflix For Stalkers Comments URL: https://news.ycombinator.com/item?id=46355548 Points: 534 # Comments: 394"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46355165",
+      "title": "Claude Code gets native LSP support",
+      "slug": "2025-12-22-claude-code-gets-native-lsp-support.html",
+      "path": "posts/2025-12-22-claude-code-gets-native-lsp-support.html",
+      "date_iso": "2025-12-22T15:59:01+00:00",
+      "source": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "summary": "Article URL: https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md Comments URL: https://news.ycombinator.com/item?id=46355165 Points: 384 # Comments: 197"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46354970",
+      "title": "Scaling LLMs to Larger Codebases",
+      "slug": "2025-12-22-scaling-llms-to-larger-codebases.html",
+      "path": "posts/2025-12-22-scaling-llms-to-larger-codebases.html",
+      "date_iso": "2025-12-22T15:38:37+00:00",
+      "source": "https://blog.kierangill.xyz/oversight-and-guidance",
+      "summary": "Article URL: https://blog.kierangill.xyz/oversight-and-guidance Comments URL: https://news.ycombinator.com/item?id=46354970 Points: 242 # Comments: 94"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/22/travel/road-trip-driving-weather-safety-tips.html",
+      "title": "Driving Somewhere for the Holidays? Here’s How to Make Your Road Trip Safe.",
+      "slug": "2025-12-22-driving-somewhere-for-the-holidays-here-s-how-to-make-your-road-trip-safe.html",
+      "path": "posts/2025-12-22-driving-somewhere-for-the-holidays-here-s-how-to-make-your-road-trip-safe.html",
+      "date_iso": "2025-12-22T10:02:53+00:00",
+      "source": "https://www.nytimes.com/2025/12/22/travel/road-trip-driving-weather-safety-tips.html",
+      "summary": "Be sure you have the right equipment and apps for weather and traffic, and don’t forget to check those tires. Here are more tips for hitting the highway."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/22/business/uber-background-checks-sexual-assault.html",
+      "title": "Uber Cleared Violent Felons to Drive. Passengers Accused Them of Rape.",
+      "slug": "2025-12-22-uber-cleared-violent-felons-to-drive-passengers-accused-them-of-rape.html",
+      "path": "posts/2025-12-22-uber-cleared-violent-felons-to-drive-passengers-accused-them-of-rape.html",
+      "date_iso": "2025-12-22T10:00:26+00:00",
+      "source": "https://www.nytimes.com/2025/12/22/business/uber-background-checks-sexual-assault.html",
+      "summary": "The ride-hailing giant’s background check process was intended to speed drivers onto its network while keeping costs down, internal documents show."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46351345",
       "title": "Cursed circuits #3: true mathematics",
       "slug": "2025-12-22-cursed-circuits-3-true-mathematics.html",
