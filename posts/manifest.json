@@ -1,6 +1,240 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46372771",
+      "title": "Custom Cross Compiler with Nix",
+      "slug": "2025-12-24-custom-cross-compiler-with-nix.html",
+      "path": "posts/2025-12-24-custom-cross-compiler-with-nix.html",
+      "date_iso": "2025-12-24T05:31:45+00:00",
+      "source": "https://www.hobson.space/posts/nixcross/",
+      "summary": "Article URL: https://www.hobson.space/posts/nixcross/ Comments URL: https://news.ycombinator.com/item?id=46372771 Points: 3 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46372739",
+      "title": "Dutch Tesla Fleet Goes Bankrupt After Betting on Musk's Self-Driving Promises",
+      "slug": "2025-12-24-dutch-tesla-fleet-goes-bankrupt-after-betting-on-musk-s-self-driving-promises.html",
+      "path": "posts/2025-12-24-dutch-tesla-fleet-goes-bankrupt-after-betting-on-musk-s-self-driving-promises.html",
+      "date_iso": "2025-12-24T05:26:36+00:00",
+      "source": "https://guessingheadlights.com/dutch-tesla-fleet-goes-bust-after-betting-on-musks-self-driving-promises/",
+      "summary": "Article URL: https://guessingheadlights.com/dutch-tesla-fleet-goes-bust-after-betting-on-musks-self-driving-promises/ Comments URL: https://news.ycombinator.com/item?id=46372739 Points: 33 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46372153",
+      "title": "Don't Become the Machine",
+      "slug": "2025-12-24-don-t-become-the-machine.html",
+      "path": "posts/2025-12-24-don-t-become-the-machine.html",
+      "date_iso": "2025-12-24T03:34:31+00:00",
+      "source": "https://armeet.bearblog.dev/becoming-the-machine/",
+      "summary": "Article URL: https://armeet.bearblog.dev/becoming-the-machine/ Comments URL: https://news.ycombinator.com/item?id=46372153 Points: 31 # Comments: 8"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/23/technology/texas-app-age-law-blocked.html",
+      "title": "Texas Age-Verification Law for App Stores Is Blocked, a Win for Apple and Google",
+      "slug": "2025-12-24-texas-age-verification-law-for-app-stores-is-blocked-a-win-for-apple-and-google.html",
+      "path": "posts/2025-12-24-texas-age-verification-law-for-app-stores-is-blocked-a-win-for-apple-and-google.html",
+      "date_iso": "2025-12-24T03:02:32+00:00",
+      "source": "https://www.nytimes.com/2025/12/23/technology/texas-app-age-law-blocked.html",
+      "summary": "Texas’ App Store Accountability Act was set to take effect next month."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46371759",
+      "title": "Correspondence Between Don Knuth and Peter van Emde Boas on Priority Deques 1977 [pdf]",
+      "slug": "2025-12-24-correspondence-between-don-knuth-and-peter-van-emde-boas-on-priority-deques-1977-pdf.html",
+      "path": "posts/2025-12-24-correspondence-between-don-knuth-and-peter-van-emde-boas-on-priority-deques-1977-pdf.html",
+      "date_iso": "2025-12-24T02:21:42+00:00",
+      "source": "https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf",
+      "summary": "Article URL: https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf Comments URL: https://news.ycombinator.com/item?id=46371759 Points: 26 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46371743",
+      "title": "Show HN: Turn raw HTML into production-ready images for free",
+      "slug": "2025-12-24-show-hn-turn-raw-html-into-production-ready-images-for-free.html",
+      "path": "posts/2025-12-24-show-hn-turn-raw-html-into-production-ready-images-for-free.html",
+      "date_iso": "2025-12-24T02:18:38+00:00",
+      "source": "https://html2png.dev",
+      "summary": "Article URL: https://html2png.dev Comments URL: https://news.ycombinator.com/item?id=46371743 Points: 48 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46371730",
+      "title": "Autonomously navigating the real world: lessons from the PG&E outage",
+      "slug": "2025-12-24-autonomously-navigating-the-real-world-lessons-from-the-pg-e-outage.html",
+      "path": "posts/2025-12-24-autonomously-navigating-the-real-world-lessons-from-the-pg-e-outage.html",
+      "date_iso": "2025-12-24T02:16:01+00:00",
+      "source": "https://waymo.com/blog/2025/12/autonomously-navigating-the-real-world",
+      "summary": "Article URL: https://waymo.com/blog/2025/12/autonomously-navigating-the-real-world Comments URL: https://news.ycombinator.com/item?id=46371730 Points: 56 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46371705",
+      "title": "Could lockfiles just be SBOMs?",
+      "slug": "2025-12-24-could-lockfiles-just-be-sboms.html",
+      "path": "posts/2025-12-24-could-lockfiles-just-be-sboms.html",
+      "date_iso": "2025-12-24T02:10:34+00:00",
+      "source": "https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html",
+      "summary": "Article URL: https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html Comments URL: https://news.ycombinator.com/item?id=46371705 Points: 30 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46371673",
+      "title": "'Dracula's Chivito': Hubble reveals largest birthplace of planets ever observed",
+      "slug": "2025-12-24-dracula-s-chivito-hubble-reveals-largest-birthplace-of-planets-ever-observed.html",
+      "path": "posts/2025-12-24-dracula-s-chivito-hubble-reveals-largest-birthplace-of-planets-ever-observed.html",
+      "date_iso": "2025-12-24T02:01:49+00:00",
+      "source": "https://phys.org/news/2025-12-chaotic-dracula-chivito-hubble-reveals.html",
+      "summary": "Article URL: https://phys.org/news/2025-12-chaotic-dracula-chivito-hubble-reveals.html Comments URL: https://news.ycombinator.com/item?id=46371673 Points: 35 # Comments: 6"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/23/technology/trump-rubio-european-tech-disinformation-digital-services-act.html",
+      "title": "U.S. Bars 5 European Tech Regulators and Researchers",
+      "slug": "2025-12-24-u-s-bars-5-european-tech-regulators-and-researchers.html",
+      "path": "posts/2025-12-24-u-s-bars-5-european-tech-regulators-and-researchers.html",
+      "date_iso": "2025-12-24T01:34:50+00:00",
+      "source": "https://www.nytimes.com/2025/12/23/technology/trump-rubio-european-tech-disinformation-digital-services-act.html",
+      "summary": "Secretary of State Marco Rubio said in a statement that five Europeans “have led organized efforts to coerce American platforms to censor, demonetize and suppress American viewpoints they oppose.”"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46371429",
+      "title": "Open source USB to GPIB converter (for Test and Measurement instruments)",
+      "slug": "2025-12-24-open-source-usb-to-gpib-converter-for-test-and-measurement-instruments.html",
+      "path": "posts/2025-12-24-open-source-usb-to-gpib-converter-for-test-and-measurement-instruments.html",
+      "date_iso": "2025-12-24T01:21:58+00:00",
+      "source": "https://github.com/xyphro/UsbGpib",
+      "summary": "Article URL: https://github.com/xyphro/UsbGpib Comments URL: https://news.ycombinator.com/item?id=46371429 Points: 27 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46371423",
+      "title": "Nabokov's guide to foreigners learning Russian",
+      "slug": "2025-12-24-nabokov-s-guide-to-foreigners-learning-russian.html",
+      "path": "posts/2025-12-24-nabokov-s-guide-to-foreigners-learning-russian.html",
+      "date_iso": "2025-12-24T01:20:39+00:00",
+      "source": "https://twitter.com/haravayin_hogh/status/2003299405907247502",
+      "summary": "https://xcancel.com/haravayin_hogh/status/200329940590724750... Comments URL: https://news.ycombinator.com/item?id=46371423 Points: 58 # Comments: 81"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46371135",
+      "title": "Unifi Travel Router",
+      "slug": "2025-12-24-unifi-travel-router.html",
+      "path": "posts/2025-12-24-unifi-travel-router.html",
+      "date_iso": "2025-12-24T00:30:18+00:00",
+      "source": "https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router",
+      "summary": "Article URL: https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router Comments URL: https://news.ycombinator.com/item?id=46371135 Points: 204 # Comments: 144"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46370592",
+      "title": "Is Northern Virginia still the least reliable AWS region?",
+      "slug": "2025-12-23-is-northern-virginia-still-the-least-reliable-aws-region.html",
+      "path": "posts/2025-12-23-is-northern-virginia-still-the-least-reliable-aws-region.html",
+      "date_iso": "2025-12-23T23:12:03+00:00",
+      "source": "https://statusgator.com/blog/aws-least-reliable-region-in-2025/",
+      "summary": "Article URL: https://statusgator.com/blog/aws-least-reliable-region-in-2025/ Comments URL: https://news.ycombinator.com/item?id=46370592 Points: 87 # Comments: 56"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46370012",
+      "title": "Texas app store age verification law blocked by federal judge",
+      "slug": "2025-12-23-texas-app-store-age-verification-law-blocked-by-federal-judge.html",
+      "path": "posts/2025-12-23-texas-app-store-age-verification-law-blocked-by-federal-judge.html",
+      "date_iso": "2025-12-23T22:03:46+00:00",
+      "source": "https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/",
+      "summary": "Article URL: https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/ Comments URL: https://news.ycombinator.com/item?id=46370012 Points: 206 # Comments: 113"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46369923",
+      "title": "X-ray: a Python library for finding bad redactions in PDF documents",
+      "slug": "2025-12-23-x-ray-a-python-library-for-finding-bad-redactions-in-pdf-documents.html",
+      "path": "posts/2025-12-23-x-ray-a-python-library-for-finding-bad-redactions-in-pdf-documents.html",
+      "date_iso": "2025-12-23T21:54:30+00:00",
+      "source": "https://github.com/freelawproject/x-ray",
+      "summary": "Article URL: https://github.com/freelawproject/x-ray Comments URL: https://news.ycombinator.com/item?id=46369923 Points: 351 # Comments: 76"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46368946",
+      "title": "Some Epstein file redactions are being undone with hacks",
+      "slug": "2025-12-23-some-epstein-file-redactions-are-being-undone-with-hacks.html",
+      "path": "posts/2025-12-23-some-epstein-file-redactions-are-being-undone-with-hacks.html",
+      "date_iso": "2025-12-23T20:10:30+00:00",
+      "source": "https://www.theguardian.com/us-news/2025/dec/23/epstein-unredacted-files-social-media",
+      "summary": "Related: https://xcancel.com/vmfunc/status/2003292986650853825 https://old.reddit.com/r/law/comments/1ptlms6/some_epstein_f... https://krassencast.com/p/breaking-we-just-unredacted-the-ep... Comments URL: https://news.ycombinator.com/item?id=46368946 Points: 345 # Comments: 243"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46368616",
+      "title": "HTTP Caching, a Refresher",
+      "slug": "2025-12-23-http-caching-a-refresher.html",
+      "path": "posts/2025-12-23-http-caching-a-refresher.html",
+      "date_iso": "2025-12-23T19:41:39+00:00",
+      "source": "https://danburzo.ro/http-caching-refresher/",
+      "summary": "Article URL: https://danburzo.ro/http-caching-refresher/ Comments URL: https://news.ycombinator.com/item?id=46368616 Points: 97 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46368557",
+      "title": "Terrence Malick's Disciples",
+      "slug": "2025-12-23-terrence-malick-s-disciples.html",
+      "path": "posts/2025-12-23-terrence-malick-s-disciples.html",
+      "date_iso": "2025-12-23T19:35:20+00:00",
+      "source": "https://yalereview.org/article/bilge-ebiri-terrence-malick",
+      "summary": "Article URL: https://yalereview.org/article/bilge-ebiri-terrence-malick Comments URL: https://news.ycombinator.com/item?id=46368557 Points: 86 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46368300",
+      "title": "Help My c64 caught on fire",
+      "slug": "2025-12-23-help-my-c64-caught-on-fire.html",
+      "path": "posts/2025-12-23-help-my-c64-caught-on-fire.html",
+      "date_iso": "2025-12-23T19:09:45+00:00",
+      "source": "https://c0de517e.com/026_c64fire.htm",
+      "summary": "Article URL: https://c0de517e.com/026_c64fire.htm Comments URL: https://news.ycombinator.com/item?id=46368300 Points: 91 # Comments: 28"
+    },
+    {
+      "id": "https://www.nytimes.com/video/technology/100000010606632/how-much-water-does-the-ai-industry-use.html",
+      "title": "How Much Water Does the A.I. Industry Use?",
+      "slug": "2025-12-23-how-much-water-does-the-a-i-industry-use.html",
+      "path": "posts/2025-12-23-how-much-water-does-the-a-i-industry-use.html",
+      "date_iso": "2025-12-23T18:43:10+00:00",
+      "source": "https://www.nytimes.com/video/technology/100000010606632/how-much-water-does-the-ai-industry-use.html",
+      "summary": "Kevin Roose and Casey Newton, the hosts of “Hard Fork” at The New York Times, spoke with Andrew Marley, executive director for Effective Altruism DC, about how much water A.I. data centers use."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46367864",
+      "title": "Volvo Centum is Dalton Maag's new typeface for Volvo",
+      "slug": "2025-12-23-volvo-centum-is-dalton-maag-s-new-typeface-for-volvo.html",
+      "path": "posts/2025-12-23-volvo-centum-is-dalton-maag-s-new-typeface-for-volvo.html",
+      "date_iso": "2025-12-23T18:33:01+00:00",
+      "source": "https://www.wallpaper.com/design-interiors/corporate-design-branding/volvo-new-font-volvo-centum",
+      "summary": "Article URL: https://www.wallpaper.com/design-interiors/corporate-design-branding/volvo-new-font-volvo-centum Comments URL: https://news.ycombinator.com/item?id=46367864 Points: 79 # Comments: 67"
+    },
+    {
+      "id": "https://www.nytimes.com/video/technology/100000010606588/is-australias-social-media-ban-for-kids-a-good-idea.html",
+      "title": "Is Australia’s Social Media Ban for Kids a Good Idea?",
+      "slug": "2025-12-23-is-australia-s-social-media-ban-for-kids-a-good-idea.html",
+      "path": "posts/2025-12-23-is-australia-s-social-media-ban-for-kids-a-good-idea.html",
+      "date_iso": "2025-12-23T18:32:34+00:00",
+      "source": "https://www.nytimes.com/video/technology/100000010606588/is-australias-social-media-ban-for-kids-a-good-idea.html",
+      "summary": "On the “Hard Fork” podcast, the hosts Kevin Roose and Casey Newton discuss a new law in Australia barring kids under 16 from social media."
+    },
+    {
+      "id": "https://www.nytimes.com/video/technology/100000010606538/its-a-hard-forkin-christmas.html",
+      "title": "It’s a Hard Forkin’ Christmas!",
+      "slug": "2025-12-23-it-s-a-hard-forkin-christmas.html",
+      "path": "posts/2025-12-23-it-s-a-hard-forkin-christmas.html",
+      "date_iso": "2025-12-23T18:21:58+00:00",
+      "source": "https://www.nytimes.com/video/technology/100000010606538/its-a-hard-forkin-christmas.html",
+      "summary": "The “Hard Fork” co-hosts Kevin Roose and Casey Newton sing an original, tech-inspired rendition of “The Twelve Days of Christmas.”"
+    },
+    {
+      "id": "https://www.nytimes.com/video/technology/100000010606225/former-roomba-ceo-reminisces-on-2008s-viral-shark-cat-meme.html",
+      "title": "Former Roomba C.E.O. Reminisces on 2008’s Viral ‘Shark Cat’ Meme",
+      "slug": "2025-12-23-former-roomba-c-e-o-reminisces-on-2008-s-viral-shark-cat-meme.html",
+      "path": "posts/2025-12-23-former-roomba-c-e-o-reminisces-on-2008-s-viral-shark-cat-meme.html",
+      "date_iso": "2025-12-23T18:03:55+00:00",
+      "source": "https://www.nytimes.com/video/technology/100000010606225/former-roomba-ceo-reminisces-on-2008s-viral-shark-cat-meme.html",
+      "summary": "In conversation with Kevin Roose and Casey Newton on the “Hard Fork” podcast, the former Roomba C.E.O. Colin Angle shares how YouTube’s viral shark cat brought him joy in 2008."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46367475",
+      "title": "We replaced H.264 streaming with JPEG screenshots (and it worked better)",
+      "slug": "2025-12-23-we-replaced-h-264-streaming-with-jpeg-screenshots-and-it-worked-better.html",
+      "path": "posts/2025-12-23-we-replaced-h-264-streaming-with-jpeg-screenshots-and-it-worked-better.html",
+      "date_iso": "2025-12-23T18:00:31+00:00",
+      "source": "https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen",
+      "summary": "Article URL: https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen Comments URL: https://news.ycombinator.com/item?id=46367475 Points: 390 # Comments: 234"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46362655",
       "title": "Show HN: CineCLI – Browse and torrent movies directly from your terminal",
       "slug": "2025-12-23-show-hn-cinecli-browse-and-torrent-movies-directly-from-your-terminal.html",
