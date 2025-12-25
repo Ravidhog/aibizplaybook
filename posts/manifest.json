@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46382134",
+      "title": "Free Software Foundation receives historic private donations",
+      "slug": "2025-12-25-free-software-foundation-receives-historic-private-donations.html",
+      "path": "posts/2025-12-25-free-software-foundation-receives-historic-private-donations.html",
+      "date_iso": "2025-12-25T04:47:38+00:00",
+      "source": "https://www.fsf.org/news/free-software-foundation-receives-historic-private-donations",
+      "summary": "Article URL: https://www.fsf.org/news/free-software-foundation-receives-historic-private-donations Comments URL: https://news.ycombinator.com/item?id=46382134 Points: 23 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46382011",
+      "title": "Ruby 4.0.0 Released",
+      "slug": "2025-12-25-ruby-4-0-0-released.html",
+      "path": "posts/2025-12-25-ruby-4-0-0-released.html",
+      "date_iso": "2025-12-25T04:13:00+00:00",
+      "source": "https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/",
+      "summary": "Article URL: https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/ Comments URL: https://news.ycombinator.com/item?id=46382011 Points: 129 # Comments: 13"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/24/business/media/larry-david-ellison-warner-bros-discovery-cbs.html",
+      "title": "A Father and Son’s $108 Billion Hostile Bid for Warner Bros. Discovery",
+      "slug": "2025-12-25-a-father-and-son-s-108-billion-hostile-bid-for-warner-bros-discovery.html",
+      "path": "posts/2025-12-25-a-father-and-son-s-108-billion-hostile-bid-for-warner-bros-discovery.html",
+      "date_iso": "2025-12-25T01:08:16+00:00",
+      "source": "https://www.nytimes.com/2025/12/24/business/media/larry-david-ellison-warner-bros-discovery-cbs.html",
+      "summary": "Larry and David Ellison didn’t always have a close relationship. Now they’re one of the most intriguing partnerships in business."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46380953",
+      "title": "The Next-Gen Mainboard Designed with AmigaOS4 and MorphOS in Mind",
+      "slug": "2025-12-25-the-next-gen-mainboard-designed-with-amigaos4-and-morphos-in-mind.html",
+      "path": "posts/2025-12-25-the-next-gen-mainboard-designed-with-amigaos4-and-morphos-in-mind.html",
+      "date_iso": "2025-12-25T00:38:09+00:00",
+      "source": "https://mirari.vitasys.nl/our-story/",
+      "summary": "Article URL: https://mirari.vitasys.nl/our-story/ Comments URL: https://news.ycombinator.com/item?id=46380953 Points: 20 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46380758",
+      "title": "Who Watches the Waymos? I do [video]",
+      "slug": "2025-12-25-who-watches-the-waymos-i-do-video.html",
+      "path": "posts/2025-12-25-who-watches-the-waymos-i-do-video.html",
+      "date_iso": "2025-12-25T00:10:12+00:00",
+      "source": "https://www.youtube.com/watch?v=oYU2hAbx_Fc",
+      "summary": "https://x.com/fulligin/status/2003925653113184498 https://xcancel.com/fulligin/status/2003925653113184498 Comments URL: https://news.ycombinator.com/item?id=46380758 Points: 121 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46380475",
+      "title": "Microsoft please get your tab to autocomplete shit together",
+      "slug": "2025-12-24-microsoft-please-get-your-tab-to-autocomplete-shit-together.html",
+      "path": "posts/2025-12-24-microsoft-please-get-your-tab-to-autocomplete-shit-together.html",
+      "date_iso": "2025-12-24T23:33:15+00:00",
+      "source": "https://ivanca.github.io/programming/2025/11/26/microsoft-pls-get-your-tab-to-autocomplete-shit-together/",
+      "summary": "Article URL: https://ivanca.github.io/programming/2025/11/26/microsoft-pls-get-your-tab-to-autocomplete-shit-together/ Comments URL: https://news.ycombinator.com/item?id=46380475 Points: 167 # Comments: 97"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46380399",
+      "title": "Asterisk AI Voice Agent",
+      "slug": "2025-12-24-asterisk-ai-voice-agent.html",
+      "path": "posts/2025-12-24-asterisk-ai-voice-agent.html",
+      "date_iso": "2025-12-24T23:25:37+00:00",
+      "source": "https://github.com/hkjarral/Asterisk-AI-Voice-Agent",
+      "summary": "Article URL: https://github.com/hkjarral/Asterisk-AI-Voice-Agent Comments URL: https://news.ycombinator.com/item?id=46380399 Points: 86 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46380168",
+      "title": "Tell HN: Merry Christmas",
+      "slug": "2025-12-24-tell-hn-merry-christmas.html",
+      "path": "posts/2025-12-24-tell-hn-merry-christmas.html",
+      "date_iso": "2025-12-24T22:56:00+00:00",
+      "source": "https://news.ycombinator.com/item?id=46380168",
+      "summary": "Different cultures celebrate Christmas at different days and time zones are a thing. But it's Christmas here, so: Merry Christmas to everyone. I hope you get some rest and can spend time with people who are dear to you and get to focus on what's important rather than getting los…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46380075",
+      "title": "Phoenix: A modern X server written from scratch in Zig",
+      "slug": "2025-12-24-phoenix-a-modern-x-server-written-from-scratch-in-zig.html",
+      "path": "posts/2025-12-24-phoenix-a-modern-x-server-written-from-scratch-in-zig.html",
+      "date_iso": "2025-12-24T22:43:53+00:00",
+      "source": "https://git.dec05eba.com/phoenix/about/",
+      "summary": "Article URL: https://git.dec05eba.com/phoenix/about/ Comments URL: https://news.ycombinator.com/item?id=46380075 Points: 342 # Comments: 163"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46379677",
+      "title": "How I Left YouTube",
+      "slug": "2025-12-24-how-i-left-youtube.html",
+      "path": "posts/2025-12-24-how-i-left-youtube.html",
+      "date_iso": "2025-12-24T21:54:48+00:00",
+      "source": "https://zhach.news/how-i-left-youtube/",
+      "summary": "Article URL: https://zhach.news/how-i-left-youtube/ Comments URL: https://news.ycombinator.com/item?id=46379677 Points: 122 # Comments: 159"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46379183",
+      "title": "Nvidia buying AI chip startup Groq for about $20B in cash",
+      "slug": "2025-12-24-nvidia-buying-ai-chip-startup-groq-for-about-20b-in-cash.html",
+      "path": "posts/2025-12-24-nvidia-buying-ai-chip-startup-groq-for-about-20b-in-cash.html",
+      "date_iso": "2025-12-24T21:02:15+00:00",
+      "source": "https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html",
+      "summary": "https://groq.com/newsroom/groq-and-nvidia-enter-non-exclusiv... Comments URL: https://news.ycombinator.com/item?id=46379183 Points: 468 # Comments: 270"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46379173",
+      "title": "Keystone (YC S25) is hiring engineer #1 to automate coding",
+      "slug": "2025-12-24-keystone-yc-s25-is-hiring-engineer-1-to-automate-coding.html",
+      "path": "posts/2025-12-24-keystone-yc-s25-is-hiring-engineer-1-to-automate-coding.html",
+      "date_iso": "2025-12-24T21:01:05+00:00",
+      "source": "https://www.ycombinator.com/companies/keystone/jobs/J3t9XeM-founding-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/keystone/jobs/J3t9XeM-founding-engineer Comments URL: https://news.ycombinator.com/item?id=46379173 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46378554",
+      "title": "Show HN: Minimalist editor that lives in browser, stores everything in the URL",
+      "slug": "2025-12-24-show-hn-minimalist-editor-that-lives-in-browser-stores-everything-in-the-url.html",
+      "path": "posts/2025-12-24-show-hn-minimalist-editor-that-lives-in-browser-stores-everything-in-the-url.html",
+      "date_iso": "2025-12-24T19:42:25+00:00",
+      "source": "https://github.com/antonmedv/textarea",
+      "summary": "I wanted to see how far I could go building a notes app using only what modern browsers already provide – no frameworks, no storage APIs, no build step. What it does: Single HTML file, no deps, 111 loc Notes live in the URL hash (shareable links!) Auto-compressed with Compressio…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46377862",
+      "title": "Fabrice Bellard: Biography (2009) [pdf]",
+      "slug": "2025-12-24-fabrice-bellard-biography-2009-pdf.html",
+      "path": "posts/2025-12-24-fabrice-bellard-biography-2009-pdf.html",
+      "date_iso": "2025-12-24T18:17:47+00:00",
+      "source": "https://www.ipaidia.gr/wp-content/uploads/2020/12/117-2020-fabrice-bellard.pdf",
+      "summary": "Article URL: https://www.ipaidia.gr/wp-content/uploads/2020/12/117-2020-fabrice-bellard.pdf Comments URL: https://news.ycombinator.com/item?id=46377862 Points: 243 # Comments: 69"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46377597",
+      "title": "Show HN: Vibium – Browser automation for AI and humans, by Selenium's creator",
+      "slug": "2025-12-24-show-hn-vibium-browser-automation-for-ai-and-humans-by-selenium-s-creator.html",
+      "path": "posts/2025-12-24-show-hn-vibium-browser-automation-for-ai-and-humans-by-selenium-s-creator.html",
+      "date_iso": "2025-12-24T17:49:02+00:00",
+      "source": "https://github.com/VibiumDev/vibium",
+      "summary": "i started the selenium project 21 years ago. vibium is what i'd build if i started over today with ai agents in mind. go binary under the hood (handles browser, bidi, mcp) but devs never see it. just npm install vibium. python/java coming. for claude code: claude mcp add vibium…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46376652",
+      "title": "My 2026 Open Social Web Predictions",
+      "slug": "2025-12-24-my-2026-open-social-web-predictions.html",
+      "path": "posts/2025-12-24-my-2026-open-social-web-predictions.html",
+      "date_iso": "2025-12-24T15:59:23+00:00",
+      "source": "https://www.timothychambers.net/2025/12/23/my-open-social-web-predictions.html",
+      "summary": "https://www.timothychambers.net/2024/12/24/predictions-for-t... Comments URL: https://news.ycombinator.com/item?id=46376652 Points: 94 # Comments: 86"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/24/business/europe-us-online-censorship-free-speech.html",
+      "title": "They Seek to Curb Online Hate. The U.S. Accuses Them of Censorship.",
+      "slug": "2025-12-24-they-seek-to-curb-online-hate-the-u-s-accuses-them-of-censorship.html",
+      "path": "posts/2025-12-24-they-seek-to-curb-online-hate-the-u-s-accuses-them-of-censorship.html",
+      "date_iso": "2025-12-24T15:02:11+00:00",
+      "source": "https://www.nytimes.com/2025/12/24/business/europe-us-online-censorship-free-speech.html",
+      "summary": "Thierry Breton, a former European commissioner, was one of five Europeans that Secretary of State Marco Rubio called “radical activists.”"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46375174",
+      "title": "I'm returning my Framework 16",
+      "slug": "2025-12-24-i-m-returning-my-framework-16.html",
+      "path": "posts/2025-12-24-i-m-returning-my-framework-16.html",
+      "date_iso": "2025-12-24T12:55:19+00:00",
+      "source": "https://yorickpeterse.com/articles/im-returning-my-framework-16/",
+      "summary": "Article URL: https://yorickpeterse.com/articles/im-returning-my-framework-16/ Comments URL: https://news.ycombinator.com/item?id=46375174 Points: 201 # Comments: 323"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/24/us/politics/trump-artificial-intelligence-economy-risks.html",
+      "title": "Trump Administration Downplays A.I. Risks, Ignoring Economists’ Concerns",
+      "slug": "2025-12-24-trump-administration-downplays-a-i-risks-ignoring-economists-concerns.html",
+      "path": "posts/2025-12-24-trump-administration-downplays-a-i-risks-ignoring-economists-concerns.html",
+      "date_iso": "2025-12-24T10:02:31+00:00",
+      "source": "https://www.nytimes.com/2025/12/24/us/politics/trump-artificial-intelligence-economy-risks.html",
+      "summary": "OpenAI’s Stargate, the largest data center project in the United States, in Abilene, Texas."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/24/technology/personaltech/save-holiday-time-with-these-handy-smartphone-features.html",
+      "title": "Handy Phone Features Can Save You Holiday Time",
+      "slug": "2025-12-24-handy-phone-features-can-save-you-holiday-time.html",
+      "path": "posts/2025-12-24-handy-phone-features-can-save-you-holiday-time.html",
+      "date_iso": "2025-12-24T10:02:17+00:00",
+      "source": "https://www.nytimes.com/2025/12/24/technology/personaltech/save-holiday-time-with-these-handy-smartphone-features.html",
+      "summary": "To start a poll in Apple’s Messages app, open a group chat, tap the + sign so you can choose “Polls” (circled at left) and then enter your voting options and message. Participants can vote by tapping an option. If you have a large number of people voting, press and hold the poll…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46374018",
+      "title": "Google's year in review: areas with research breakthroughs in 2025",
+      "slug": "2025-12-24-google-s-year-in-review-areas-with-research-breakthroughs-in-2025.html",
+      "path": "posts/2025-12-24-google-s-year-in-review-areas-with-research-breakthroughs-in-2025.html",
+      "date_iso": "2025-12-24T09:30:58+00:00",
+      "source": "https://blog.google/technology/ai/2025-research-breakthroughs/",
+      "summary": "Article URL: https://blog.google/technology/ai/2025-research-breakthroughs/ Comments URL: https://news.ycombinator.com/item?id=46374018 Points: 196 # Comments: 144"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46372771",
       "title": "Custom Cross Compiler with Nix",
       "slug": "2025-12-24-custom-cross-compiler-with-nix.html",
@@ -235,6 +424,15 @@
       "summary": "Article URL: https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen Comments URL: https://news.ycombinator.com/item?id=46367475 Points: 390 # Comments: 234"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=46367224",
+      "title": "Fabrice Bellard Releases MicroQuickJS",
+      "slug": "2025-12-23-fabrice-bellard-releases-microquickjs.html",
+      "path": "posts/2025-12-23-fabrice-bellard-releases-microquickjs.html",
+      "date_iso": "2025-12-23T17:33:42+00:00",
+      "source": "https://github.com/bellard/mquickjs/blob/main/README.md",
+      "summary": "Article URL: https://github.com/bellard/mquickjs/blob/main/README.md Comments URL: https://news.ycombinator.com/item?id=46367224 Points: 1374 # Comments: 517"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46362655",
       "title": "Show HN: CineCLI – Browse and torrent movies directly from your terminal",
       "slug": "2025-12-23-show-hn-cinecli-browse-and-torrent-movies-directly-from-your-terminal.html",
@@ -467,6 +665,15 @@
       "date_iso": "2025-12-22T10:00:26+00:00",
       "source": "https://www.nytimes.com/2025/12/22/business/uber-background-checks-sexual-assault.html",
       "summary": "The ride-hailing giant’s background check process was intended to speed drivers onto its network while keeping costs down, internal documents show."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46351666",
+      "title": "CSRF protection without tokens or hidden form fields",
+      "slug": "2025-12-22-csrf-protection-without-tokens-or-hidden-form-fields.html",
+      "path": "posts/2025-12-22-csrf-protection-without-tokens-or-hidden-form-fields.html",
+      "date_iso": "2025-12-22T05:38:33+00:00",
+      "source": "https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields",
+      "summary": "Article URL: https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields Comments URL: https://news.ycombinator.com/item?id=46351666 Points: 155 # Comments: 52"
     },
     {
       "id": "https://news.ycombinator.com/item?id=46351345",
