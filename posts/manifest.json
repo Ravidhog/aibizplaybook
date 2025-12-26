@@ -1,6 +1,177 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46389444",
+      "title": "Rob Pike Goes Nuclear over GenAI",
+      "slug": "2025-12-26-rob-pike-goes-nuclear-over-genai.html",
+      "path": "posts/2025-12-26-rob-pike-goes-nuclear-over-genai.html",
+      "date_iso": "2025-12-26T05:27:05+00:00",
+      "source": "https://imgur.com/nUJCI3o",
+      "summary": "Article URL: https://imgur.com/nUJCI3o Comments URL: https://news.ycombinator.com/item?id=46389444 Points: 234 # Comments: 139"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46388907",
+      "title": "TurboDiffusion: 100–200× Acceleration for Video Diffusion Models",
+      "slug": "2025-12-26-turbodiffusion-100-200-acceleration-for-video-diffusion-models.html",
+      "path": "posts/2025-12-26-turbodiffusion-100-200-acceleration-for-video-diffusion-models.html",
+      "date_iso": "2025-12-26T03:19:49+00:00",
+      "source": "https://github.com/thu-ml/TurboDiffusion",
+      "summary": "Article URL: https://github.com/thu-ml/TurboDiffusion Comments URL: https://news.ycombinator.com/item?id=46388907 Points: 25 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46388700",
+      "title": "Ultimate-Linux: Userspace for Linux in Pure JavaScript",
+      "slug": "2025-12-26-ultimate-linux-userspace-for-linux-in-pure-javascript.html",
+      "path": "posts/2025-12-26-ultimate-linux-userspace-for-linux-in-pure-javascript.html",
+      "date_iso": "2025-12-26T02:32:29+00:00",
+      "source": "https://github.com/popovicu/ultimate-linux",
+      "summary": "Article URL: https://github.com/popovicu/ultimate-linux Comments URL: https://news.ycombinator.com/item?id=46388700 Points: 35 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46388213",
+      "title": "MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming",
+      "slug": "2025-12-26-minimax-m2-1-built-for-real-world-complex-tasks-multi-language-programming.html",
+      "path": "posts/2025-12-26-minimax-m2-1-built-for-real-world-complex-tasks-multi-language-programming.html",
+      "date_iso": "2025-12-26T01:02:53+00:00",
+      "source": "https://www.minimaxi.com/news/minimax-m21",
+      "summary": "Article URL: https://www.minimaxi.com/news/minimax-m21 Comments URL: https://news.ycombinator.com/item?id=46388213 Points: 100 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46388059",
+      "title": "When a driver challenges the kernel's assumptions",
+      "slug": "2025-12-26-when-a-driver-challenges-the-kernel-s-assumptions.html",
+      "path": "posts/2025-12-26-when-a-driver-challenges-the-kernel-s-assumptions.html",
+      "date_iso": "2025-12-26T00:32:15+00:00",
+      "source": "http://miod.online.fr/software/openbsd/stories/udl.html",
+      "summary": "Article URL: http://miod.online.fr/software/openbsd/stories/udl.html Comments URL: https://news.ycombinator.com/item?id=46388059 Points: 46 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46388040",
+      "title": "Seven Diabetes Patients Die Due to Undisclosed Bug in Abbott's Glucose Monitors",
+      "slug": "2025-12-26-seven-diabetes-patients-die-due-to-undisclosed-bug-in-abbott-s-glucose-monitors.html",
+      "path": "posts/2025-12-26-seven-diabetes-patients-die-due-to-undisclosed-bug-in-abbott-s-glucose-monitors.html",
+      "date_iso": "2025-12-26T00:29:40+00:00",
+      "source": "https://sfconservancy.org/blog/2025/dec/23/seven-abbott-freestyle-libre-cgm-patients-dead/",
+      "summary": "Article URL: https://sfconservancy.org/blog/2025/dec/23/seven-abbott-freestyle-libre-cgm-patients-dead/ Comments URL: https://news.ycombinator.com/item?id=46388040 Points: 193 # Comments: 67"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46387657",
+      "title": "Maybe the default settings are too high",
+      "slug": "2025-12-25-maybe-the-default-settings-are-too-high.html",
+      "path": "posts/2025-12-25-maybe-the-default-settings-are-too-high.html",
+      "date_iso": "2025-12-25T23:13:21+00:00",
+      "source": "https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/",
+      "summary": "Article URL: https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/ Comments URL: https://news.ycombinator.com/item?id=46387657 Points: 443 # Comments: 134"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46387192",
+      "title": "Google is 'gradually rolling out' option to change your gmail.com address",
+      "slug": "2025-12-25-google-is-gradually-rolling-out-option-to-change-your-gmail-com-address.html",
+      "path": "posts/2025-12-25-google-is-gradually-rolling-out-option-to-change-your-gmail-com-address.html",
+      "date_iso": "2025-12-25T21:36:48+00:00",
+      "source": "https://9to5google.com/2025/12/24/google-change-gmail-addresses/",
+      "summary": "Article URL: https://9to5google.com/2025/12/24/google-change-gmail-addresses/ Comments URL: https://news.ycombinator.com/item?id=46387192 Points: 184 # Comments: 149"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46386211",
+      "title": "Fahrplan – 39C3",
+      "slug": "2025-12-25-fahrplan-39c3.html",
+      "path": "posts/2025-12-25-fahrplan-39c3.html",
+      "date_iso": "2025-12-25T18:40:14+00:00",
+      "source": "https://fahrplan.events.ccc.de/congress/2025/fahrplan/",
+      "summary": "Article URL: https://fahrplan.events.ccc.de/congress/2025/fahrplan/ Comments URL: https://news.ycombinator.com/item?id=46386211 Points: 190 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46386009",
+      "title": "Critical vulnerability in LangChain – CVE-2025-68664",
+      "slug": "2025-12-25-critical-vulnerability-in-langchain-cve-2025-68664.html",
+      "path": "posts/2025-12-25-critical-vulnerability-in-langchain-cve-2025-68664.html",
+      "date_iso": "2025-12-25T18:06:44+00:00",
+      "source": "https://cyata.ai/blog/langgrinch-langchain-core-cve-2025-68664/",
+      "summary": "Article URL: https://cyata.ai/blog/langgrinch-langchain-core-cve-2025-68664/ Comments URL: https://news.ycombinator.com/item?id=46386009 Points: 94 # Comments: 61"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/25/technology/brown-university-shooting-disinformation-politicians.html",
+      "title": "Prominent Leaders Amplify Disinformation About Brown University Shooting",
+      "slug": "2025-12-25-prominent-leaders-amplify-disinformation-about-brown-university-shooting.html",
+      "path": "posts/2025-12-25-prominent-leaders-amplify-disinformation-about-brown-university-shooting.html",
+      "date_iso": "2025-12-25T17:05:52+00:00",
+      "source": "https://www.nytimes.com/2025/12/25/technology/brown-university-shooting-disinformation-politicians.html",
+      "summary": "A memorial outside the Van Wickle Gates on the Brown University campus, where a mass shooting killed two people."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46385600",
+      "title": "Clearspace (YC W23) Is Hiring a Founding Network Engineer (VPN and Proxy)",
+      "slug": "2025-12-25-clearspace-yc-w23-is-hiring-a-founding-network-engineer-vpn-and-proxy.html",
+      "path": "posts/2025-12-25-clearspace-yc-w23-is-hiring-a-founding-network-engineer-vpn-and-proxy.html",
+      "date_iso": "2025-12-25T17:01:29+00:00",
+      "source": "https://www.ycombinator.com/companies/clearspace/jobs/5LtM86I-founding-network-engineer-at-clearspace",
+      "summary": "Article URL: https://www.ycombinator.com/companies/clearspace/jobs/5LtM86I-founding-network-engineer-at-clearspace Comments URL: https://news.ycombinator.com/item?id=46385600 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46385308",
+      "title": "I sell onions on the Internet (2019)",
+      "slug": "2025-12-25-i-sell-onions-on-the-internet-2019.html",
+      "path": "posts/2025-12-25-i-sell-onions-on-the-internet-2019.html",
+      "date_iso": "2025-12-25T16:24:45+00:00",
+      "source": "https://www.deepsouthventures.com/i-sell-onions-on-the-internet/",
+      "summary": "Article URL: https://www.deepsouthventures.com/i-sell-onions-on-the-internet/ Comments URL: https://news.ycombinator.com/item?id=46385308 Points: 419 # Comments: 123"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46385197",
+      "title": "Ask HN: What skills do you want to develop or improve in 2026?",
+      "slug": "2025-12-25-ask-hn-what-skills-do-you-want-to-develop-or-improve-in-2026.html",
+      "path": "posts/2025-12-25-ask-hn-what-skills-do-you-want-to-develop-or-improve-in-2026.html",
+      "date_iso": "2025-12-25T16:08:57+00:00",
+      "source": "https://news.ycombinator.com/item?id=46385197",
+      "summary": "Thread for 2025: https://news.ycombinator.com/item?id=42509408 Thread for 2024: https://news.ycombinator.com/item?id=38782613 Thread for 2023: https://news.ycombinator.com/item?id=33873800 Here are mine: Technical skills: - Among my last year's goals was to take on VR dev, which…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46384919",
+      "title": "Alzheimer’s disease can be reversed in animal models? Study",
+      "slug": "2025-12-25-alzheimer-s-disease-can-be-reversed-in-animal-models-study.html",
+      "path": "posts/2025-12-25-alzheimer-s-disease-can-be-reversed-in-animal-models-study.html",
+      "date_iso": "2025-12-25T15:22:36+00:00",
+      "source": "https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models",
+      "summary": "Article URL: https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models Comments URL: https://news.ycombinator.com/item?id=46384919 Points: 449 # Comments: 110"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46384565",
+      "title": "Asahi Linux with Sway on the MacBook Air M2 (2024)",
+      "slug": "2025-12-25-asahi-linux-with-sway-on-the-macbook-air-m2-2024.html",
+      "path": "posts/2025-12-25-asahi-linux-with-sway-on-the-macbook-air-m2-2024.html",
+      "date_iso": "2025-12-25T14:20:29+00:00",
+      "source": "https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/",
+      "summary": "Article URL: https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/ Comments URL: https://news.ycombinator.com/item?id=46384565 Points: 222 # Comments: 208"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46384167",
+      "title": "Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster",
+      "slug": "2025-12-25-python-3-15-s-interpreter-for-windows-x86-64-should-hopefully-be-15-faster.html",
+      "path": "posts/2025-12-25-python-3-15-s-interpreter-for-windows-x86-64-should-hopefully-be-15-faster.html",
+      "date_iso": "2025-12-25T13:02:46+00:00",
+      "source": "https://fidget-spinner.github.io/posts/no-longer-sorry.html",
+      "summary": "Article URL: https://fidget-spinner.github.io/posts/no-longer-sorry.html Comments URL: https://news.ycombinator.com/item?id=46384167 Points: 355 # Comments: 114"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46383552",
+      "title": "We invited a man into our home at Christmas and he stayed with us for 45 years",
+      "slug": "2025-12-25-we-invited-a-man-into-our-home-at-christmas-and-he-stayed-with-us-for-45-years.html",
+      "path": "posts/2025-12-25-we-invited-a-man-into-our-home-at-christmas-and-he-stayed-with-us-for-45-years.html",
+      "date_iso": "2025-12-25T10:35:34+00:00",
+      "source": "https://www.bbc.co.uk/news/articles/cdxwllqz1l0o",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cdxwllqz1l0o Comments URL: https://news.ycombinator.com/item?id=46383552 Points: 1010 # Comments: 238"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/25/business/tesla-robotaxis-austin-waymo.html",
+      "title": "Tesla Robotaxis Are Big on Wall St. but Lagging on Roads",
+      "slug": "2025-12-25-tesla-robotaxis-are-big-on-wall-st-but-lagging-on-roads.html",
+      "path": "posts/2025-12-25-tesla-robotaxis-are-big-on-wall-st-but-lagging-on-roads.html",
+      "date_iso": "2025-12-25T10:01:42+00:00",
+      "source": "https://www.nytimes.com/2025/12/25/business/tesla-robotaxis-austin-waymo.html",
+      "summary": "Shares of Tesla have hit new highs on optimism about the company’s self-driving taxis. But experts say Tesla is far behind Waymo, which has a big head start."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46382134",
       "title": "Free Software Foundation receives historic private donations",
       "slug": "2025-12-25-free-software-foundation-receives-historic-private-donations.html",
@@ -107,6 +278,15 @@
       "date_iso": "2025-12-24T21:01:05+00:00",
       "source": "https://www.ycombinator.com/companies/keystone/jobs/J3t9XeM-founding-engineer",
       "summary": "Article URL: https://www.ycombinator.com/companies/keystone/jobs/J3t9XeM-founding-engineer Comments URL: https://news.ycombinator.com/item?id=46379173 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46379145",
+      "title": "Show HN: Lamp Carousel – DIY kinetic sculpture powered by lamp heat (2024)",
+      "slug": "2025-12-24-show-hn-lamp-carousel-diy-kinetic-sculpture-powered-by-lamp-heat-2024.html",
+      "path": "posts/2025-12-24-show-hn-lamp-carousel-diy-kinetic-sculpture-powered-by-lamp-heat-2024.html",
+      "date_iso": "2025-12-24T20:56:53+00:00",
+      "source": "https://evan.widloski.com/posts/spinners/",
+      "summary": "I wanted to share this fun craft activity for the holidays that I've been doing with my family over the last few years. I came up with these while cutting up some cans trying to make an aluminum version of paper spinners. There are a variety of shapes that work, but generally bi…"
     },
     {
       "id": "https://news.ycombinator.com/item?id=46378554",
