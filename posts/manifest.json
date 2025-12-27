@@ -1,6 +1,213 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46399576",
+      "title": "More Dynamic Cronjobs",
+      "slug": "2025-12-27-more-dynamic-cronjobs.html",
+      "path": "posts/2025-12-27-more-dynamic-cronjobs.html",
+      "date_iso": "2025-12-27T06:10:42+00:00",
+      "source": "https://george.mand.is/2025/09/more-dynamic-cronjobs/",
+      "summary": "Article URL: https://george.mand.is/2025/09/more-dynamic-cronjobs/ Comments URL: https://news.ycombinator.com/item?id=46399576 Points: 7 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46398752",
+      "title": "CEO of Health Care Software Company Sentenced for $1B Fraud Conspiracy",
+      "slug": "2025-12-27-ceo-of-health-care-software-company-sentenced-for-1b-fraud-conspiracy.html",
+      "path": "posts/2025-12-27-ceo-of-health-care-software-company-sentenced-for-1b-fraud-conspiracy.html",
+      "date_iso": "2025-12-27T03:14:56+00:00",
+      "source": "https://www.justice.gov/opa/pr/ceo-health-care-software-company-sentenced-1b-fraud-conspiracy",
+      "summary": "Article URL: https://www.justice.gov/opa/pr/ceo-health-care-software-company-sentenced-1b-fraud-conspiracy Comments URL: https://news.ycombinator.com/item?id=46398752 Points: 58 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46398201",
+      "title": "QNX Self-Hosted Developer Desktop",
+      "slug": "2025-12-27-qnx-self-hosted-developer-desktop.html",
+      "path": "posts/2025-12-27-qnx-self-hosted-developer-desktop.html",
+      "date_iso": "2025-12-27T01:16:53+00:00",
+      "source": "https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/",
+      "summary": "Article URL: https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/ Comments URL: https://news.ycombinator.com/item?id=46398201 Points: 107 # Comments: 57"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46397991",
+      "title": "Publishing your work increases your luck",
+      "slug": "2025-12-27-publishing-your-work-increases-your-luck.html",
+      "path": "posts/2025-12-27-publishing-your-work-increases-your-luck.html",
+      "date_iso": "2025-12-27T00:43:04+00:00",
+      "source": "https://github.com/readme/guides/publishing-your-work",
+      "summary": "Article URL: https://github.com/readme/guides/publishing-your-work Comments URL: https://news.ycombinator.com/item?id=46397991 Points: 75 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46397609",
+      "title": "Exe.dev",
+      "slug": "2025-12-26-exe-dev.html",
+      "path": "posts/2025-12-26-exe-dev.html",
+      "date_iso": "2025-12-26T23:42:46+00:00",
+      "source": "https://exe.dev/",
+      "summary": "https://blog.exe.dev/meet-exe.dev https://exe.dev/docs/how-exedev-works https://exe.dev/docs/pricing Comments URL: https://news.ycombinator.com/item?id=46397609 Points: 135 # Comments: 58"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46397379",
+      "title": "Always bet on text (2014)",
+      "slug": "2025-12-26-always-bet-on-text-2014.html",
+      "path": "posts/2025-12-26-always-bet-on-text-2014.html",
+      "date_iso": "2025-12-26T23:09:40+00:00",
+      "source": "https://graydon2.dreamwidth.org/193447.html",
+      "summary": "Article URL: https://graydon2.dreamwidth.org/193447.html Comments URL: https://news.ycombinator.com/item?id=46397379 Points: 178 # Comments: 79"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/26/technology/california-wealth-tax-page-thiel.html",
+      "title": "A Wealth Tax Floated in California Has Billionaires Thinking of Leaving",
+      "slug": "2025-12-26-a-wealth-tax-floated-in-california-has-billionaires-thinking-of-leaving.html",
+      "path": "posts/2025-12-26-a-wealth-tax-floated-in-california-has-billionaires-thinking-of-leaving.html",
+      "date_iso": "2025-12-26T22:23:55+00:00",
+      "source": "https://www.nytimes.com/2025/12/26/technology/california-wealth-tax-page-thiel.html",
+      "summary": "Peter Thiel, a tech venture capitalist, could face a tax bill of more than $1.2 billion if the proposed wealth tax is placed on the California ballot and approved by voters."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46395885",
+      "title": "Toys with the highest play-time and lowest clean-up-time",
+      "slug": "2025-12-26-toys-with-the-highest-play-time-and-lowest-clean-up-time.html",
+      "path": "posts/2025-12-26-toys-with-the-highest-play-time-and-lowest-clean-up-time.html",
+      "date_iso": "2025-12-26T20:28:53+00:00",
+      "source": "https://joannabregan.substack.com/p/toys-with-the-highest-play-time-and",
+      "summary": "Article URL: https://joannabregan.substack.com/p/toys-with-the-highest-play-time-and Comments URL: https://news.ycombinator.com/item?id=46395885 Points: 22 # Comments: 214"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46395871",
+      "title": "T-Ruby is Ruby with syntax for types",
+      "slug": "2025-12-26-t-ruby-is-ruby-with-syntax-for-types.html",
+      "path": "posts/2025-12-26-t-ruby-is-ruby-with-syntax-for-types.html",
+      "date_iso": "2025-12-26T20:27:50+00:00",
+      "source": "https://type-ruby.github.io/",
+      "summary": "Article URL: https://type-ruby.github.io/ Comments URL: https://news.ycombinator.com/item?id=46395871 Points: 105 # Comments: 60"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46395273",
+      "title": "Gaussian Splatting 3 Ways",
+      "slug": "2025-12-26-gaussian-splatting-3-ways.html",
+      "path": "posts/2025-12-26-gaussian-splatting-3-ways.html",
+      "date_iso": "2025-12-26T19:23:28+00:00",
+      "source": "https://github.com/NullandKale/NullSplats",
+      "summary": "Article URL: https://github.com/NullandKale/NullSplats Comments URL: https://news.ycombinator.com/item?id=46395273 Points: 64 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46395184",
+      "title": "My insulin pump controller uses the Linux kernel. It also violates the GPL",
+      "slug": "2025-12-26-my-insulin-pump-controller-uses-the-linux-kernel-it-also-violates-the-gpl.html",
+      "path": "posts/2025-12-26-my-insulin-pump-controller-uses-the-linux-kernel-it-also-violates-the-gpl.html",
+      "date_iso": "2025-12-26T19:13:22+00:00",
+      "source": "https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/",
+      "summary": "Article URL: https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/ Comments URL: https://news.ycombinator.com/item?id=46395184 Points: 392 # Comments: 166"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46395106",
+      "title": "How Lewis Carroll computed determinants (2023)",
+      "slug": "2025-12-26-how-lewis-carroll-computed-determinants-2023.html",
+      "path": "posts/2025-12-26-how-lewis-carroll-computed-determinants-2023.html",
+      "date_iso": "2025-12-26T19:03:32+00:00",
+      "source": "https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/",
+      "summary": "Article URL: https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/ Comments URL: https://news.ycombinator.com/item?id=46395106 Points: 168 # Comments: 43"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46395061",
+      "title": "Drawing with zero-width characters",
+      "slug": "2025-12-26-drawing-with-zero-width-characters.html",
+      "path": "posts/2025-12-26-drawing-with-zero-width-characters.html",
+      "date_iso": "2025-12-26T18:59:39+00:00",
+      "source": "https://zw.swerdlow.dev",
+      "summary": "Article URL: https://zw.swerdlow.dev Comments URL: https://news.ycombinator.com/item?id=46395061 Points: 94 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46394620",
+      "title": "MongoBleed",
+      "slug": "2025-12-26-mongobleed.html",
+      "path": "posts/2025-12-26-mongobleed.html",
+      "date_iso": "2025-12-26T18:17:00+00:00",
+      "source": "https://github.com/joe-desimone/mongobleed/blob/main/mongobleed.py",
+      "summary": "Article URL: https://github.com/joe-desimone/mongobleed/blob/main/mongobleed.py Comments URL: https://news.ycombinator.com/item?id=46394620 Points: 71 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46394327",
+      "title": "FFmpeg has issued a DMCA takedown on GitHub",
+      "slug": "2025-12-26-ffmpeg-has-issued-a-dmca-takedown-on-github.html",
+      "path": "posts/2025-12-26-ffmpeg-has-issued-a-dmca-takedown-on-github.html",
+      "date_iso": "2025-12-26T17:48:25+00:00",
+      "source": "https://twitter.com/FFmpeg/status/2004599109559496984",
+      "summary": "Article URL: https://twitter.com/FFmpeg/status/2004599109559496984 Comments URL: https://news.ycombinator.com/item?id=46394327 Points: 457 # Comments: 153"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46393992",
+      "title": "How uv got so fast",
+      "slug": "2025-12-26-how-uv-got-so-fast.html",
+      "path": "posts/2025-12-26-how-uv-got-so-fast.html",
+      "date_iso": "2025-12-26T17:13:07+00:00",
+      "source": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html",
+      "summary": "Article URL: https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html Comments URL: https://news.ycombinator.com/item?id=46393992 Points: 773 # Comments: 254"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46393936",
+      "title": "Experts explore new mushroom which causes fairytale-like hallucinations",
+      "slug": "2025-12-26-experts-explore-new-mushroom-which-causes-fairytale-like-hallucinations.html",
+      "path": "posts/2025-12-26-experts-explore-new-mushroom-which-causes-fairytale-like-hallucinations.html",
+      "date_iso": "2025-12-26T17:07:53+00:00",
+      "source": "https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations",
+      "summary": "Article URL: https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations Comments URL: https://news.ycombinator.com/item?id=46393936 Points: 354 # Comments: 178"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46392910",
+      "title": "Show HN: Witr – Explain why a process is running on your Linux system",
+      "slug": "2025-12-26-show-hn-witr-explain-why-a-process-is-running-on-your-linux-system.html",
+      "path": "posts/2025-12-26-show-hn-witr-explain-why-a-process-is-running-on-your-linux-system.html",
+      "date_iso": "2025-12-26T15:20:36+00:00",
+      "source": "https://github.com/pranshuparmar/witr",
+      "summary": "Hi HN, I built a small Linux CLI tool called witr (Why Is This Running?). The idea came from a situation most of us have hit: you log into a machine, see a process or port running, and immediately wonder why it exists, who started it, and what is keeping it alive right now. witr…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46392736",
+      "title": "Show HN: Xcc700: Self-hosting mini C compiler for ESP32 (Xtensa) in 700 lines",
+      "slug": "2025-12-26-show-hn-xcc700-self-hosting-mini-c-compiler-for-esp32-xtensa-in-700-lines.html",
+      "path": "posts/2025-12-26-show-hn-xcc700-self-hosting-mini-c-compiler-for-esp32-xtensa-in-700-lines.html",
+      "date_iso": "2025-12-26T15:07:01+00:00",
+      "source": "https://github.com/valdanylchuk/xcc700",
+      "summary": "Repo: https://github.com/valdanylchuk/xcc700 Hi Everyone! I just wrote my first compiler! - single pass, recursive descent, direct emission - generates REL ELF binaries, runnable using ESP-IDF elf_loader - very basic features only, just enough for self-hosting - treats the Xtens…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46391599",
+      "title": "LearnixOS",
+      "slug": "2025-12-26-learnixos.html",
+      "path": "posts/2025-12-26-learnixos.html",
+      "date_iso": "2025-12-26T12:59:56+00:00",
+      "source": "https://www.learnix-os.com",
+      "summary": "Article URL: https://www.learnix-os.com Comments URL: https://news.ycombinator.com/item?id=46391599 Points: 211 # Comments: 85"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46391572",
+      "title": "Ask HN: What did you read in 2025?",
+      "slug": "2025-12-26-ask-hn-what-did-you-read-in-2025.html",
+      "path": "posts/2025-12-26-ask-hn-what-did-you-read-in-2025.html",
+      "date_iso": "2025-12-26T12:55:16+00:00",
+      "source": "https://news.ycombinator.com/item?id=46391572",
+      "summary": "I mostly read newspapers and technical journals, but two books that I read that made an impression: \"The Changing World Order\" and \"The Gulag Archipelago\". Comments URL: https://news.ycombinator.com/item?id=46391572 Points: 208 # Comments: 291"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/26/podcasts/hardfork-ai-science.html",
+      "title": "Where Is All the A.I.-Driven Scientific Progress?",
+      "slug": "2025-12-26-where-is-all-the-a-i-driven-scientific-progress.html",
+      "path": "posts/2025-12-26-where-is-all-the-a-i-driven-scientific-progress.html",
+      "date_iso": "2025-12-26T12:00:05+00:00",
+      "source": "https://www.nytimes.com/2025/12/26/podcasts/hardfork-ai-science.html",
+      "summary": "A tech C.E.O. explains why A.I. probably won’t cure diseases anytime soon. Hint: You still need humans."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/26/travel/airpods-live-translation-japan.html",
+      "title": "How Well Does Apple’s Live Translation Work for Japanese? I Tested It in Tokyo.",
+      "slug": "2025-12-26-how-well-does-apple-s-live-translation-work-for-japanese-i-tested-it-in-tokyo.html",
+      "path": "posts/2025-12-26-how-well-does-apple-s-live-translation-work-for-japanese-i-tested-it-in-tokyo.html",
+      "date_iso": "2025-12-26T10:00:28+00:00",
+      "source": "https://www.nytimes.com/2025/12/26/travel/airpods-live-translation-japan.html",
+      "summary": "A non-Japanese-speaking first-time visitor used Apple’s new in-ear translation feature to connect with locals at bars, sushi classes and even a fire ritual."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46389444",
       "title": "Rob Pike Goes Nuclear over GenAI",
       "slug": "2025-12-26-rob-pike-goes-nuclear-over-genai.html",

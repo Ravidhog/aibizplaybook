@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Xcc700: Self-hosting mini C compiler for ESP32 (Xtensa) in 700 lines</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Xcc700: Self-hosting mini C compiler for ESP32 (Xtensa) in 700 lines</h1>
+    <p><small>Published: 2025-12-26T15:07:01+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Repo: <a href="https://github.com/valdanylchuk/xcc700" rel="nofollow">https://github.com/valdanylchuk/xcc700</a><p>Hi Everyone! I just wrote my first compiler!<p>- single pass, recursive descent, direct emission<p>- generates REL ELF binaries, runnable using ESP-IDF elf_loader<p>- very basic features only, just enough for self-hosting<p>- treats the Xtensa CPU as a stack machine for simplicity, no register allocation / window usage<p>- compilable on Mac, probably also Linux, can cross-compile for esp32 there<p>- wrote for fun / cyberdeck project<p>Sample output from esp32:<p><pre><code>    xcc700.elf xcc700.c -o /d/cc.elf
+    
+    [ xcc700 ] BUILD COMPLETED > OK
+    > IN  : 700 Lines / 7977 Tokens
+    > SYM : 69 Funcs / 91 Globals
+    > REL : 152 Literals / 1027 Patches
+    > MEM : 1041 B .rodata / 17120 B .bss
+    > OUT : 27735 B .text / 33300 B ELF
+    [ 40 ms ] >> 17500 Lines/sec <<
+</code></pre>
+My best hope is that some fork might grow into a unique nice language tailored to the esp32 platform. I think it is underrated in userland hobby projects.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46392736">https://news.ycombinator.com/item?id=46392736</a></p>
+<p>Points: 106</p>
+<p># Comments: 20</p>
+    <p><a href="https://github.com/valdanylchuk/xcc700" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
