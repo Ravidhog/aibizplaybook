@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Ez FFmpeg – Video editing in plain English</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Ez FFmpeg – Video editing in plain English</h1>
+    <p><small>Published: 2025-12-27T08:45:46+00:00</small></p>
+  </header>
+
+  <main>
+    <p>I built a CLI tool that lets you do common video/audio operations without remembering ffmpeg syntax.<p>Instead of:
+ffmpeg -i video.mp4 -vf "fps=15,scale=480:-1:flags=lanczos" -loop 0 output.gif<p>You write:
+  ff convert video.mp4 to gif<p>More examples:
+  ff compress video.mp4 to 10mb
+  ff trim video.mp4 from 0:30 to 1:00
+  ff extract audio from video.mp4
+  ff resize video.mp4 to 720p
+  ff speed up video.mp4 by 2x
+  ff reverse video.mp4<p>There are similar tools that use LLMs (wtffmpeg, llmpeg, ai-ffmpeg-cli), but they require API keys, cost money, and have latency.<p>Ez FFmpeg is different:
+  - No AI – just regex pattern matching
+  - Instant – no API calls
+  - Free – no tokens
+  - Offline – works without internet<p>It handles ~20 common operations that cover 90% of what developers actually do with ffmpeg. For edge cases, you still need ffmpeg directly.<p>Interactive mode (just type ff) shows media files in your current folder with typeahead search.<p>npm install -g ezff</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46400251">https://news.ycombinator.com/item?id=46400251</a></p>
+<p>Points: 358</p>
+<p># Comments: 177</p>
+    <p><a href="http://npmjs.com/package/ezff" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

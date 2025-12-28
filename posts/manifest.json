@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46408613",
+      "title": "Calendar",
+      "slug": "2025-12-28-calendar.html",
+      "path": "posts/2025-12-28-calendar.html",
+      "date_iso": "2025-12-28T05:02:39+00:00",
+      "source": "https://neatnik.net/calendar/?year=2026",
+      "summary": "Article URL: https://neatnik.net/calendar/?year=2026 Comments URL: https://news.ycombinator.com/item?id=46408613 Points: 145 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46408192",
+      "title": "Dialtone – AOL 3.0 Server",
+      "slug": "2025-12-28-dialtone-aol-3-0-server.html",
+      "path": "posts/2025-12-28-dialtone-aol-3-0-server.html",
+      "date_iso": "2025-12-28T03:40:43+00:00",
+      "source": "https://dialtone.live/",
+      "summary": "Article URL: https://dialtone.live/ Comments URL: https://news.ycombinator.com/item?id=46408192 Points: 22 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46407502",
+      "title": "Fathers’ choices may be packaged and passed down in sperm RNA",
+      "slug": "2025-12-28-fathers-choices-may-be-packaged-and-passed-down-in-sperm-rna.html",
+      "path": "posts/2025-12-28-fathers-choices-may-be-packaged-and-passed-down-in-sperm-rna.html",
+      "date_iso": "2025-12-28T01:33:10+00:00",
+      "source": "https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/",
+      "summary": "Article URL: https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/ Comments URL: https://news.ycombinator.com/item?id=46407502 Points: 140 # Comments: 72"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46407337",
+      "title": "Replacing JavaScript with Just HTML",
+      "slug": "2025-12-28-replacing-javascript-with-just-html.html",
+      "path": "posts/2025-12-28-replacing-javascript-with-just-html.html",
+      "date_iso": "2025-12-28T01:07:09+00:00",
+      "source": "https://www.htmhell.dev/adventcalendar/2025/27/",
+      "summary": "Article URL: https://www.htmhell.dev/adventcalendar/2025/27/ Comments URL: https://news.ycombinator.com/item?id=46407337 Points: 258 # Comments: 75"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46406901",
+      "title": "Functional programming and reliability: ADTs, safety, critical infrastructure",
+      "slug": "2025-12-28-functional-programming-and-reliability-adts-safety-critical-infrastructure.html",
+      "path": "posts/2025-12-28-functional-programming-and-reliability-adts-safety-critical-infrastructure.html",
+      "date_iso": "2025-12-28T00:05:52+00:00",
+      "source": "https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure",
+      "summary": "Article URL: https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure Comments URL: https://news.ycombinator.com/item?id=46406901 Points: 82 # Comments: 70"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46406213",
+      "title": "7- and 14-segment fonts \"DSEG\"",
+      "slug": "2025-12-27-7-and-14-segment-fonts-dseg.html",
+      "path": "posts/2025-12-27-7-and-14-segment-fonts-dseg.html",
+      "date_iso": "2025-12-27T22:49:53+00:00",
+      "source": "https://www.keshikan.net/fonts.html",
+      "summary": "Article URL: https://www.keshikan.net/fonts.html Comments URL: https://news.ycombinator.com/item?id=46406213 Points: 33 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46406129",
+      "title": "The Dangers of SSL Certificates",
+      "slug": "2025-12-27-the-dangers-of-ssl-certificates.html",
+      "path": "posts/2025-12-27-the-dangers-of-ssl-certificates.html",
+      "date_iso": "2025-12-27T22:41:22+00:00",
+      "source": "https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/",
+      "summary": "Article URL: https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/ Comments URL: https://news.ycombinator.com/item?id=46406129 Points: 42 # Comments: 53"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46406098",
+      "title": "Liberating Bluetooth on the ESP32",
+      "slug": "2025-12-27-liberating-bluetooth-on-the-esp32.html",
+      "path": "posts/2025-12-27-liberating-bluetooth-on-the-esp32.html",
+      "date_iso": "2025-12-27T22:37:58+00:00",
+      "source": "https://exquisite.tube/w/mEzF442Q4hUXnhQ8HmfZuq",
+      "summary": "Article URL: https://exquisite.tube/w/mEzF442Q4hUXnhQ8HmfZuq Comments URL: https://news.ycombinator.com/item?id=46406098 Points: 42 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46405866",
+      "title": "Public Domain Day 2026",
+      "slug": "2025-12-27-public-domain-day-2026.html",
+      "path": "posts/2025-12-27-public-domain-day-2026.html",
+      "date_iso": "2025-12-27T22:15:43+00:00",
+      "source": "https://web.law.duke.edu/cspd/publicdomainday/2026/",
+      "summary": "Article URL: https://web.law.duke.edu/cspd/publicdomainday/2026/ Comments URL: https://news.ycombinator.com/item?id=46405866 Points: 21 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46405309",
+      "title": "Say No to Palantir in the NHS",
+      "slug": "2025-12-27-say-no-to-palantir-in-the-nhs.html",
+      "path": "posts/2025-12-27-say-no-to-palantir-in-the-nhs.html",
+      "date_iso": "2025-12-27T21:15:35+00:00",
+      "source": "https://notopalantir.goodlawproject.org/email-to-target/stop-palantir-in-the-nhs/",
+      "summary": "Article URL: https://notopalantir.goodlawproject.org/email-to-target/stop-palantir-in-the-nhs/ Comments URL: https://news.ycombinator.com/item?id=46405309 Points: 183 # Comments: 44"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46404848",
+      "title": "How we lost communication to entertainment",
+      "slug": "2025-12-27-how-we-lost-communication-to-entertainment.html",
+      "path": "posts/2025-12-27-how-we-lost-communication-to-entertainment.html",
+      "date_iso": "2025-12-27T20:15:01+00:00",
+      "source": "https://ploum.net/2025-12-15-communication-entertainment.html",
+      "summary": "Article URL: https://ploum.net/2025-12-15-communication-entertainment.html Comments URL: https://news.ycombinator.com/item?id=46404848 Points: 372 # Comments: 189"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46404597",
+      "title": "Rainbow Six Siege hacked as players get billions of credits and random bans",
+      "slug": "2025-12-27-rainbow-six-siege-hacked-as-players-get-billions-of-credits-and-random-bans.html",
+      "path": "posts/2025-12-27-rainbow-six-siege-hacked-as-players-get-billions-of-credits-and-random-bans.html",
+      "date_iso": "2025-12-27T19:45:28+00:00",
+      "source": "https://www.shanethegamer.com/esports-news/rainbow-six-siege-hacked-global-server-outage/",
+      "summary": "Article URL: https://www.shanethegamer.com/esports-news/rainbow-six-siege-hacked-global-server-outage/ Comments URL: https://news.ycombinator.com/item?id=46404597 Points: 150 # Comments: 46"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46403992",
+      "title": "Toll roads are spreading in America",
+      "slug": "2025-12-27-toll-roads-are-spreading-in-america.html",
+      "path": "posts/2025-12-27-toll-roads-are-spreading-in-america.html",
+      "date_iso": "2025-12-27T18:31:27+00:00",
+      "source": "https://www.economist.com/united-states/2025/12/18/toll-roads-are-spreading-in-america",
+      "summary": "Article URL: https://www.economist.com/united-states/2025/12/18/toll-roads-are-spreading-in-america Comments URL: https://news.ycombinator.com/item?id=46403992 Points: 166 # Comments: 468"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46403915",
+      "title": "Windows 2 for the Apricot PC/Xi",
+      "slug": "2025-12-27-windows-2-for-the-apricot-pc-xi.html",
+      "path": "posts/2025-12-27-windows-2-for-the-apricot-pc-xi.html",
+      "date_iso": "2025-12-27T18:22:05+00:00",
+      "source": "https://www.ninakalinina.com/notes/win2apri/",
+      "summary": "Article URL: https://www.ninakalinina.com/notes/win2apri/ Comments URL: https://news.ycombinator.com/item?id=46403915 Points: 120 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46403559",
+      "title": "Nvidia's $20B antitrust loophole",
+      "slug": "2025-12-27-nvidia-s-20b-antitrust-loophole.html",
+      "path": "posts/2025-12-27-nvidia-s-20b-antitrust-loophole.html",
+      "date_iso": "2025-12-27T17:42:46+00:00",
+      "source": "https://ossa-ma.github.io/blog/groq",
+      "summary": "Article URL: https://ossa-ma.github.io/blog/groq Comments URL: https://news.ycombinator.com/item?id=46403559 Points: 413 # Comments: 129"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46403291",
+      "title": "Janet Jackson had the power to crash laptop computers (2022)",
+      "slug": "2025-12-27-janet-jackson-had-the-power-to-crash-laptop-computers-2022.html",
+      "path": "posts/2025-12-27-janet-jackson-had-the-power-to-crash-laptop-computers-2022.html",
+      "date_iso": "2025-12-27T17:16:08+00:00",
+      "source": "https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994",
+      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994 Comments URL: https://news.ycombinator.com/item?id=46403291 Points: 256 # Comments: 103"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46403200",
+      "title": "Gpg.fail",
+      "slug": "2025-12-27-gpg-fail.html",
+      "path": "posts/2025-12-27-gpg-fail.html",
+      "date_iso": "2025-12-27T17:05:50+00:00",
+      "source": "https://gpg.fail",
+      "summary": "Article URL: https://gpg.fail Comments URL: https://news.ycombinator.com/item?id=46403200 Points: 336 # Comments: 179"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46401612",
+      "title": "Floor796",
+      "slug": "2025-12-27-floor796.html",
+      "path": "posts/2025-12-27-floor796.html",
+      "date_iso": "2025-12-27T13:13:00+00:00",
+      "source": "https://floor796.com/",
+      "summary": "Article URL: https://floor796.com/ Comments URL: https://news.ycombinator.com/item?id=46401612 Points: 683 # Comments: 84"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46401499",
+      "title": "OrangePi 6 Plus Review",
+      "slug": "2025-12-27-orangepi-6-plus-review.html",
+      "path": "posts/2025-12-27-orangepi-6-plus-review.html",
+      "date_iso": "2025-12-27T12:51:15+00:00",
+      "source": "https://boilingsteam.com/orange-pi-6-plus-review/",
+      "summary": "Article URL: https://boilingsteam.com/orange-pi-6-plus-review/ Comments URL: https://news.ycombinator.com/item?id=46401499 Points: 159 # Comments: 136"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/27/business/electric-vehicles-poilitics-republicans-conservatives.html",
+      "title": "Before Electric Vehicles Became Political, There Was the Toyota Prius",
+      "slug": "2025-12-27-before-electric-vehicles-became-political-there-was-the-toyota-prius.html",
+      "path": "posts/2025-12-27-before-electric-vehicles-became-political-there-was-the-toyota-prius.html",
+      "date_iso": "2025-12-27T10:00:57+00:00",
+      "source": "https://www.nytimes.com/2025/12/27/business/electric-vehicles-poilitics-republicans-conservatives.html",
+      "summary": "The marketing for the Toyota Prius may have inadvertently started the culture war around hybrid and electric vehicles by characterizing them as a way to save the planet, some experts say."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/27/world/australia/australia-social-media-ban.html",
+      "title": "Worn Down by Worry, Parents Look Longingly at Australia’s Social Media Ban",
+      "slug": "2025-12-27-worn-down-by-worry-parents-look-longingly-at-australia-s-social-media-ban.html",
+      "path": "posts/2025-12-27-worn-down-by-worry-parents-look-longingly-at-australia-s-social-media-ban.html",
+      "date_iso": "2025-12-27T10:00:49+00:00",
+      "source": "https://www.nytimes.com/2025/12/27/world/australia/australia-social-media-ban.html",
+      "summary": "Students waiting for the bus in Sydney, Australia, in November. The country’s new law barring children from using social media has helped fuel emotional debate across the world."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46400251",
+      "title": "Show HN: Ez FFmpeg – Video editing in plain English",
+      "slug": "2025-12-27-show-hn-ez-ffmpeg-video-editing-in-plain-english.html",
+      "path": "posts/2025-12-27-show-hn-ez-ffmpeg-video-editing-in-plain-english.html",
+      "date_iso": "2025-12-27T08:45:46+00:00",
+      "source": "http://npmjs.com/package/ezff",
+      "summary": "I built a CLI tool that lets you do common video/audio operations without remembering ffmpeg syntax. Instead of: ffmpeg -i video.mp4 -vf \"fps=15,scale=480:-1:flags=lanczos\" -loop 0 output.gif You write: ff convert video.mp4 to gif More examples: ff compress video.mp4 to 10mb ff…"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46399576",
       "title": "More Dynamic Cronjobs",
       "slug": "2025-12-27-more-dynamic-cronjobs.html",
