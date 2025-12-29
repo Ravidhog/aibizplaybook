@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB</h1>
+    <p><small>Published: 2025-12-29T05:41:24+00:00</small></p>
+  </header>
+
+  <main>
+    <p>How small can a language model be while still doing something useful? I wanted to find out, and had some spare time over the holidays.<p>Z80-μLM is a character-level language model with 2-bit quantized weights ({-2,-1,0,+1}) that runs on a Z80 with 64KB RAM. The entire thing: inference, weights, chat UI, it all fits in a 40KB .COM file that you can run in a CP/M emulator and hopefully even real hardware!<p>It won't write your emails, but it can be trained to play a stripped down version of 20 Questions, and is sometimes able to maintain the illusion of having simple but terse conversations with a distinct personality.<p>--<p>The extreme constraints nerd-sniped me and forced interesting trade-offs: trigram hashing (typo-tolerant, loses word order), 16-bit integer math, and some careful massaging of the training data meant I could keep the examples 'interesting'.<p>The key was quantization-aware training that accurately models the inference code limitations. The training loop runs both float and integer-quantized forward passes in parallel, scoring the model on how well its knowledge survives quantization. The weights are progressively pushed toward the 2-bit grid using straight-through estimators, with overflow penalties matching the Z80's 16-bit accumulator limits. By the end of training, the model has already adapted to its constraints, so no post-hoc quantization collapse.<p>Eventually I ended up spending a few dollars on Claude API to generate 20 questions data (see examples/guess/GUESS.COM), I hope Anthropic won't send me a C&amp;D for distilling their model against the ToS ;P<p>But anyway, happy code-golf season everybody :)</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46417815">https://news.ycombinator.com/item?id=46417815</a></p>
+<p>Points: 17</p>
+<p># Comments: 2</p>
+    <p><a href="https://github.com/HarryR/z80ai" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

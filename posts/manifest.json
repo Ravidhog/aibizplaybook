@@ -1,6 +1,213 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46417844",
+      "title": "Staying ahead of censors in 2025",
+      "slug": "2025-12-29-staying-ahead-of-censors-in-2025.html",
+      "path": "posts/2025-12-29-staying-ahead-of-censors-in-2025.html",
+      "date_iso": "2025-12-29T05:47:40+00:00",
+      "source": "https://forum.torproject.org/t/staying-ahead-of-censors-in-2025-what-weve-learned-from-fighting-censorship-in-iran-and-russia/20898",
+      "summary": "Article URL: https://forum.torproject.org/t/staying-ahead-of-censors-in-2025-what-weve-learned-from-fighting-censorship-in-iran-and-russia/20898 Comments URL: https://news.ycombinator.com/item?id=46417844 Points: 40 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46417815",
+      "title": "Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB",
+      "slug": "2025-12-29-show-hn-z80-lm-a-conversational-ai-that-fits-in-40kb.html",
+      "path": "posts/2025-12-29-show-hn-z80-lm-a-conversational-ai-that-fits-in-40kb.html",
+      "date_iso": "2025-12-29T05:41:24+00:00",
+      "source": "https://github.com/HarryR/z80ai",
+      "summary": "How small can a language model be while still doing something useful? I wanted to find out, and had some spare time over the holidays. Z80-μLM is a character-level language model with 2-bit quantized weights ({-2,-1,0,+1}) that runs on a Z80 with 64KB RAM. The entire thing: infe…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46417791",
+      "title": "Binaries",
+      "slug": "2025-12-29-binaries.html",
+      "path": "posts/2025-12-29-binaries.html",
+      "date_iso": "2025-12-29T05:35:17+00:00",
+      "source": "https://fzakaria.com/2025/12/28/huge-binaries",
+      "summary": "Article URL: https://fzakaria.com/2025/12/28/huge-binaries Comments URL: https://news.ycombinator.com/item?id=46417791 Points: 7 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46417752",
+      "title": "Panoramas of Star Trek Sets",
+      "slug": "2025-12-29-panoramas-of-star-trek-sets.html",
+      "path": "posts/2025-12-29-panoramas-of-star-trek-sets.html",
+      "date_iso": "2025-12-29T05:26:43+00:00",
+      "source": "https://mijofr.github.io/st-panorama/",
+      "summary": "Article URL: https://mijofr.github.io/st-panorama/ Comments URL: https://news.ycombinator.com/item?id=46417752 Points: 15 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46417748",
+      "title": "Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs",
+      "slug": "2025-12-29-show-hn-my-not-for-profit-search-engine-with-no-ads-no-ai-all-ddg-bangs.html",
+      "path": "posts/2025-12-29-show-hn-my-not-for-profit-search-engine-with-no-ads-no-ai-all-ddg-bangs.html",
+      "date_iso": "2025-12-29T05:25:25+00:00",
+      "source": "https://nilch.org",
+      "summary": "I've been working on a little open source [1] search engine, nilch. I noticed that nearly all well known search engines, including the alternative ones, tend to be run by companies of various sizes with the goal to make money, so they either fill your results with ads or charge…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46417676",
+      "title": "My First Meshtastic Network",
+      "slug": "2025-12-29-my-first-meshtastic-network.html",
+      "path": "posts/2025-12-29-my-first-meshtastic-network.html",
+      "date_iso": "2025-12-29T05:12:58+00:00",
+      "source": "https://rickcarlino.com/notes/electronics/my-first-meshtastic-network.html",
+      "summary": "Article URL: https://rickcarlino.com/notes/electronics/my-first-meshtastic-network.html Comments URL: https://news.ycombinator.com/item?id=46417676 Points: 16 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46417252",
+      "title": "Why I think Valve’s retiring the Steam Deck LCD",
+      "slug": "2025-12-29-why-i-think-valve-s-retiring-the-steam-deck-lcd.html",
+      "path": "posts/2025-12-29-why-i-think-valve-s-retiring-the-steam-deck-lcd.html",
+      "date_iso": "2025-12-29T03:44:12+00:00",
+      "source": "https://gardinerbryant.com/why-valves-retiring-the-steam-deck-lcd/",
+      "summary": "Article URL: https://gardinerbryant.com/why-valves-retiring-the-steam-deck-lcd/ Comments URL: https://news.ycombinator.com/item?id=46417252 Points: 43 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46417227",
+      "title": "Fast GPU Interconnect over Radio",
+      "slug": "2025-12-29-fast-gpu-interconnect-over-radio.html",
+      "path": "posts/2025-12-29-fast-gpu-interconnect-over-radio.html",
+      "date_iso": "2025-12-29T03:39:42+00:00",
+      "source": "https://spectrum.ieee.org/rf-over-fiber",
+      "summary": "Article URL: https://spectrum.ieee.org/rf-over-fiber Comments URL: https://news.ycombinator.com/item?id=46417227 Points: 14 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46416945",
+      "title": "You can make up HTML tags",
+      "slug": "2025-12-29-you-can-make-up-html-tags.html",
+      "path": "posts/2025-12-29-you-can-make-up-html-tags.html",
+      "date_iso": "2025-12-29T02:47:44+00:00",
+      "source": "https://maurycyz.com/misc/make-up-tags/",
+      "summary": "Article URL: https://maurycyz.com/misc/make-up-tags/ Comments URL: https://news.ycombinator.com/item?id=46416945 Points: 164 # Comments: 66"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46415819",
+      "title": "Show HN: My app just won best iOS Japanese learning tool of 2025 award (blog)",
+      "slug": "2025-12-29-show-hn-my-app-just-won-best-ios-japanese-learning-tool-of-2025-award-blog.html",
+      "path": "posts/2025-12-29-show-hn-my-app-just-won-best-ios-japanese-learning-tool-of-2025-award-blog.html",
+      "date_iso": "2025-12-29T00:01:26+00:00",
+      "source": "https://skerritt.blog/best-japanese-learning-tools-2025-award-show/",
+      "summary": "Article URL: https://skerritt.blog/best-japanese-learning-tools-2025-award-show/ Comments URL: https://news.ycombinator.com/item?id=46415819 Points: 88 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46415570",
+      "title": "Fast CVVDP implementation in C",
+      "slug": "2025-12-28-fast-cvvdp-implementation-in-c.html",
+      "path": "posts/2025-12-28-fast-cvvdp-implementation-in-c.html",
+      "date_iso": "2025-12-28T23:30:10+00:00",
+      "source": "https://github.com/halidecx/fcvvdp",
+      "summary": "Article URL: https://github.com/halidecx/fcvvdp Comments URL: https://news.ycombinator.com/item?id=46415570 Points: 27 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46415522",
+      "title": "How to complain (2024)",
+      "slug": "2025-12-28-how-to-complain-2024.html",
+      "path": "posts/2025-12-28-how-to-complain-2024.html",
+      "date_iso": "2025-12-28T23:23:21+00:00",
+      "source": "https://outerproduct.net/trivial/2024-03-25_complain.html",
+      "summary": "Article URL: https://outerproduct.net/trivial/2024-03-25_complain.html Comments URL: https://news.ycombinator.com/item?id=46415522 Points: 48 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46415458",
+      "title": "Spherical Cow",
+      "slug": "2025-12-28-spherical-cow.html",
+      "path": "posts/2025-12-28-spherical-cow.html",
+      "date_iso": "2025-12-28T23:11:50+00:00",
+      "source": "https://lib.rs/crates/spherical-cow",
+      "summary": "Article URL: https://lib.rs/crates/spherical-cow Comments URL: https://news.ycombinator.com/item?id=46415458 Points: 82 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46415448",
+      "title": "Slaughtering Competition Problems with Quantifier Elimination (2021)",
+      "slug": "2025-12-28-slaughtering-competition-problems-with-quantifier-elimination-2021.html",
+      "path": "posts/2025-12-28-slaughtering-competition-problems-with-quantifier-elimination-2021.html",
+      "date_iso": "2025-12-28T23:10:13+00:00",
+      "source": "https://grossack.site/2021/12/22/qe-competition.html",
+      "summary": "Article URL: https://grossack.site/2021/12/22/qe-competition.html Comments URL: https://news.ycombinator.com/item?id=46415448 Points: 46 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46415426",
+      "title": "62 years in the making: NYC's newest water tunnel nears the finish line",
+      "slug": "2025-12-28-62-years-in-the-making-nyc-s-newest-water-tunnel-nears-the-finish-line.html",
+      "path": "posts/2025-12-28-62-years-in-the-making-nyc-s-newest-water-tunnel-nears-the-finish-line.html",
+      "date_iso": "2025-12-28T23:05:53+00:00",
+      "source": "https://ny1.com/nyc/all-boroughs/news/2025/11/09/water--dep--tunnels-",
+      "summary": "Article URL: https://ny1.com/nyc/all-boroughs/news/2025/11/09/water--dep--tunnels- Comments URL: https://news.ycombinator.com/item?id=46415426 Points: 112 # Comments: 67"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46415338",
+      "title": "As AI gobbles up chips, prices for devices may rise",
+      "slug": "2025-12-28-as-ai-gobbles-up-chips-prices-for-devices-may-rise.html",
+      "path": "posts/2025-12-28-as-ai-gobbles-up-chips-prices-for-devices-may-rise.html",
+      "date_iso": "2025-12-28T22:52:21+00:00",
+      "source": "https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram",
+      "summary": "Article URL: https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram Comments URL: https://news.ycombinator.com/item?id=46415338 Points: 116 # Comments: 122"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46415225",
+      "title": "What an unprocessed photo looks like",
+      "slug": "2025-12-28-what-an-unprocessed-photo-looks-like.html",
+      "path": "posts/2025-12-28-what-an-unprocessed-photo-looks-like.html",
+      "date_iso": "2025-12-28T22:35:02+00:00",
+      "source": "https://maurycyz.com/misc/raw_photo/",
+      "summary": "Article URL: https://maurycyz.com/misc/raw_photo/ Comments URL: https://news.ycombinator.com/item?id=46415225 Points: 1026 # Comments: 195"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46415129",
+      "title": "Researchers discover molecular difference in autistic brains",
+      "slug": "2025-12-28-researchers-discover-molecular-difference-in-autistic-brains.html",
+      "path": "posts/2025-12-28-researchers-discover-molecular-difference-in-autistic-brains.html",
+      "date_iso": "2025-12-28T22:23:33+00:00",
+      "source": "https://medicine.yale.edu/news-article/molecular-difference-in-autistic-brains/",
+      "summary": "Article URL: https://medicine.yale.edu/news-article/molecular-difference-in-autistic-brains/ Comments URL: https://news.ycombinator.com/item?id=46415129 Points: 102 # Comments: 60"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46414837",
+      "title": "Why I Disappeared – My week with minimal internet in a remote island chain",
+      "slug": "2025-12-28-why-i-disappeared-my-week-with-minimal-internet-in-a-remote-island-chain.html",
+      "path": "posts/2025-12-28-why-i-disappeared-my-week-with-minimal-internet-in-a-remote-island-chain.html",
+      "date_iso": "2025-12-28T21:45:44+00:00",
+      "source": "https://www.kenklippenstein.com/p/why-i-disappeared",
+      "summary": "Article URL: https://www.kenklippenstein.com/p/why-i-disappeared Comments URL: https://news.ycombinator.com/item?id=46414837 Points: 73 # Comments: 69"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46414819",
+      "title": "Unity's Mono problem: Why your C# code runs slower than it should",
+      "slug": "2025-12-28-unity-s-mono-problem-why-your-c-code-runs-slower-than-it-should.html",
+      "path": "posts/2025-12-28-unity-s-mono-problem-why-your-c-code-runs-slower-than-it-should.html",
+      "date_iso": "2025-12-28T21:41:42+00:00",
+      "source": "https://marekfiser.com/blog/mono-vs-dot-net-in-unity/",
+      "summary": "Article URL: https://marekfiser.com/blog/mono-vs-dot-net-in-unity/ Comments URL: https://news.ycombinator.com/item?id=46414819 Points: 163 # Comments: 76"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/28/technology/gmail-change-address-email.html",
+      "title": "Gmail to Let Users Change Their Addresses While Keeping Data",
+      "slug": "2025-12-28-gmail-to-let-users-change-their-addresses-while-keeping-data.html",
+      "path": "posts/2025-12-28-gmail-to-let-users-change-their-addresses-while-keeping-data.html",
+      "date_iso": "2025-12-28T18:47:26+00:00",
+      "source": "https://www.nytimes.com/2025/12/28/technology/gmail-change-address-email.html",
+      "summary": "Google has quietly started to roll out a way for users to change their Gmail addresses ending with @gmail.com, and keep all their emails."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/28/technology/tech-trump.html",
+      "title": "From A.I. to Chips, Big Tech Is Getting What It Wants From Trump",
+      "slug": "2025-12-28-from-a-i-to-chips-big-tech-is-getting-what-it-wants-from-trump.html",
+      "path": "posts/2025-12-28-from-a-i-to-chips-big-tech-is-getting-what-it-wants-from-trump.html",
+      "date_iso": "2025-12-28T10:01:54+00:00",
+      "source": "https://www.nytimes.com/2025/12/28/technology/tech-trump.html",
+      "summary": "The president has backed policies that allow the industry to grow unfettered. The mutually beneficial alliance is causing concern among some conservatives."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/28/science/eric-matthew-gilbertson-mountains.html",
+      "title": "Twins’ Peaks: The Gilbertson Brothers Want to Rewrite Your Country’s Map",
+      "slug": "2025-12-28-twins-peaks-the-gilbertson-brothers-want-to-rewrite-your-country-s-map.html",
+      "path": "posts/2025-12-28-twins-peaks-the-gilbertson-brothers-want-to-rewrite-your-country-s-map.html",
+      "date_iso": "2025-12-28T10:01:43+00:00",
+      "source": "https://www.nytimes.com/2025/12/28/science/eric-matthew-gilbertson-mountains.html",
+      "summary": "Two brothers, both mechanical engineers, are climbing many of the world’s tall peaks to prove they have been measured incorrectly."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46408613",
       "title": "Calendar",
       "slug": "2025-12-28-calendar.html",
