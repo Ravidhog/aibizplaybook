@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46428496",
+      "title": "Hacking Washing Machines [video]",
+      "slug": "2025-12-30-hacking-washing-machines-video.html",
+      "path": "posts/2025-12-30-hacking-washing-machines-video.html",
+      "date_iso": "2025-12-30T01:40:49+00:00",
+      "source": "https://media.ccc.de/v/39c3-hacking-washing-machines",
+      "summary": "Article URL: https://media.ccc.de/v/39c3-hacking-washing-machines Comments URL: https://news.ycombinator.com/item?id=46428496 Points: 75 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46428206",
+      "title": "100x (YC S22) Is Hiring a Front End Engineer",
+      "slug": "2025-12-30-100x-yc-s22-is-hiring-a-front-end-engineer.html",
+      "path": "posts/2025-12-30-100x-yc-s22-is-hiring-a-front-end-engineer.html",
+      "date_iso": "2025-12-30T01:00:03+00:00",
+      "source": "https://news.ycombinator.com/item?id=46428206",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=46428206 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46428154",
+      "title": "Outside, Dungeon, Town: Integrating the Three Places in Videogames (2024)",
+      "slug": "2025-12-30-outside-dungeon-town-integrating-the-three-places-in-videogames-2024.html",
+      "path": "posts/2025-12-30-outside-dungeon-town-integrating-the-three-places-in-videogames-2024.html",
+      "date_iso": "2025-12-30T00:54:34+00:00",
+      "source": "https://keithburgun.net/outside-dungeon-town-integrating-the-three-places-in-videogames/",
+      "summary": "Article URL: https://keithburgun.net/outside-dungeon-town-integrating-the-three-places-in-videogames/ Comments URL: https://news.ycombinator.com/item?id=46428154 Points: 57 # Comments: 24"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46427920",
+      "title": "MongoDB Server Security Update, December 2025",
+      "slug": "2025-12-30-mongodb-server-security-update-december-2025.html",
+      "path": "posts/2025-12-30-mongodb-server-security-update-december-2025.html",
+      "date_iso": "2025-12-30T00:23:47+00:00",
+      "source": "https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025",
+      "summary": "Article URL: https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025 Comments URL: https://news.ycombinator.com/item?id=46427920 Points: 65 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46427586",
+      "title": "Stranger Things creator says turn off \"garbage\" settings",
+      "slug": "2025-12-29-stranger-things-creator-says-turn-off-garbage-settings.html",
+      "path": "posts/2025-12-29-stranger-things-creator-says-turn-off-garbage-settings.html",
+      "date_iso": "2025-12-29T23:50:34+00:00",
+      "source": "https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/",
+      "summary": "Article URL: https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/ Comments URL: https://news.ycombinator.com/item?id=46427586 Points: 118 # Comments: 166"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46427582",
+      "title": "I migrated to an almost all-EU stack and saved 500€ per year",
+      "slug": "2025-12-29-i-migrated-to-an-almost-all-eu-stack-and-saved-500-per-year.html",
+      "path": "posts/2025-12-29-i-migrated-to-an-almost-all-eu-stack-and-saved-500-per-year.html",
+      "date_iso": "2025-12-29T23:50:06+00:00",
+      "source": "https://www.zeitgeistofbytes.com/p/bye-bye-big-tech-how-i-migrated-to",
+      "summary": "Article URL: https://www.zeitgeistofbytes.com/p/bye-bye-big-tech-how-i-migrated-to Comments URL: https://news.ycombinator.com/item?id=46427582 Points: 116 # Comments: 71"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46427376",
+      "title": "Parsing Advances",
+      "slug": "2025-12-29-parsing-advances.html",
+      "path": "posts/2025-12-29-parsing-advances.html",
+      "date_iso": "2025-12-29T23:29:35+00:00",
+      "source": "https://matklad.github.io/2025/12/28/parsing-advances.html",
+      "summary": "Article URL: https://matklad.github.io/2025/12/28/parsing-advances.html Comments URL: https://news.ycombinator.com/item?id=46427376 Points: 72 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46427181",
+      "title": "Geology of the Gulf of the Farallones National Marine Sanctuary",
+      "slug": "2025-12-29-geology-of-the-gulf-of-the-farallones-national-marine-sanctuary.html",
+      "path": "posts/2025-12-29-geology-of-the-gulf-of-the-farallones-national-marine-sanctuary.html",
+      "date_iso": "2025-12-29T23:12:00+00:00",
+      "source": "https://pubs.usgs.gov/fs/farallones/",
+      "summary": "Article URL: https://pubs.usgs.gov/fs/farallones/ Comments URL: https://news.ycombinator.com/item?id=46427181 Points: 46 # Comments: 12"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html",
+      "title": "The New Billionaires of the A.I. Boom",
+      "slug": "2025-12-29-the-new-billionaires-of-the-a-i-boom.html",
+      "path": "posts/2025-12-29-the-new-billionaires-of-the-a-i-boom.html",
+      "date_iso": "2025-12-29T22:53:31+00:00",
+      "source": "https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html",
+      "summary": "Just like past tech booms, the latest frenzy has produced a group of billionaires — at least on paper — from smaller start-ups."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46426624",
+      "title": "Show HN: Stop Claude Code from forgetting everything",
+      "slug": "2025-12-29-show-hn-stop-claude-code-from-forgetting-everything.html",
+      "path": "posts/2025-12-29-show-hn-stop-claude-code-from-forgetting-everything.html",
+      "date_iso": "2025-12-29T22:30:25+00:00",
+      "source": "https://github.com/mutable-state-inc/ensue-skill",
+      "summary": "I got tired of Claude Code forgetting all my context every time I open a new session: set-up decisions, how I like my margins, decision history. etc. We built a shared memory layer you can drop in as a Claude Code Skill. It’s basically a tiny memory DB with recall that remembers…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46426534",
+      "title": "ManusAI Joins Meta",
+      "slug": "2025-12-29-manusai-joins-meta.html",
+      "path": "posts/2025-12-29-manusai-joins-meta.html",
+      "date_iso": "2025-12-29T22:24:22+00:00",
+      "source": "https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation",
+      "summary": "Article URL: https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation Comments URL: https://news.ycombinator.com/item?id=46426534 Points: 190 # Comments: 106"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46425198",
+      "title": "Google is dead. Where do we go now?",
+      "slug": "2025-12-29-google-is-dead-where-do-we-go-now.html",
+      "path": "posts/2025-12-29-google-is-dead-where-do-we-go-now.html",
+      "date_iso": "2025-12-29T20:29:26+00:00",
+      "source": "https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/",
+      "summary": "Article URL: https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/ Comments URL: https://news.ycombinator.com/item?id=46425198 Points: 687 # Comments: 596"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46424460",
+      "title": "When someone says they hate your product",
+      "slug": "2025-12-29-when-someone-says-they-hate-your-product.html",
+      "path": "posts/2025-12-29-when-someone-says-they-hate-your-product.html",
+      "date_iso": "2025-12-29T19:30:40+00:00",
+      "source": "https://www.getflack.com/p/responding-to-negative-feedback",
+      "summary": "Article URL: https://www.getflack.com/p/responding-to-negative-feedback Comments URL: https://news.ycombinator.com/item?id=46424460 Points: 131 # Comments: 95"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46424233",
+      "title": "The future of software development is software developers",
+      "slug": "2025-12-29-the-future-of-software-development-is-software-developers.html",
+      "path": "posts/2025-12-29-the-future-of-software-development-is-software-developers.html",
+      "date_iso": "2025-12-29T19:14:17+00:00",
+      "source": "https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/",
+      "summary": "Article URL: https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/ Comments URL: https://news.ycombinator.com/item?id=46424233 Points: 138 # Comments: 113"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46424200",
+      "title": "AI is forcing us to write good code",
+      "slug": "2025-12-29-ai-is-forcing-us-to-write-good-code.html",
+      "path": "posts/2025-12-29-ai-is-forcing-us-to-write-good-code.html",
+      "date_iso": "2025-12-29T19:11:26+00:00",
+      "source": "https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code",
+      "summary": "Article URL: https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code Comments URL: https://news.ycombinator.com/item?id=46424200 Points: 146 # Comments: 107"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46423521",
+      "title": "A production bug that made me care about undefined behavior",
+      "slug": "2025-12-29-a-production-bug-that-made-me-care-about-undefined-behavior.html",
+      "path": "posts/2025-12-29-a-production-bug-that-made-me-care-about-undefined-behavior.html",
+      "date_iso": "2025-12-29T18:17:29+00:00",
+      "source": "https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html",
+      "summary": "Article URL: https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html Comments URL: https://news.ycombinator.com/item?id=46423521 Points: 130 # Comments: 75"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46423290",
+      "title": "Tesla's 4680 battery supply chain collapses as partner writes down deal by 99%",
+      "slug": "2025-12-29-tesla-s-4680-battery-supply-chain-collapses-as-partner-writes-down-deal-by-99.html",
+      "path": "posts/2025-12-29-tesla-s-4680-battery-supply-chain-collapses-as-partner-writes-down-deal-by-99.html",
+      "date_iso": "2025-12-29T17:57:03+00:00",
+      "source": "https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/",
+      "summary": "Article URL: https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/ Comments URL: https://news.ycombinator.com/item?id=46423290 Points: 372 # Comments: 398"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46422412",
+      "title": "GOG is getting acquired by its original co-founder",
+      "slug": "2025-12-29-gog-is-getting-acquired-by-its-original-co-founder.html",
+      "path": "posts/2025-12-29-gog-is-getting-acquired-by-its-original-co-founder.html",
+      "date_iso": "2025-12-29T16:43:14+00:00",
+      "source": "https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/",
+      "summary": "Article URL: https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/ Comments URL: https://news.ycombinator.com/item?id=46422412 Points: 606 # Comments: 349"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46422009",
+      "title": "Static Allocation with Zig",
+      "slug": "2025-12-29-static-allocation-with-zig.html",
+      "path": "posts/2025-12-29-static-allocation-with-zig.html",
+      "date_iso": "2025-12-29T16:07:27+00:00",
+      "source": "https://nickmonad.blog/2025/static-allocation-with-zig-kv/",
+      "summary": "Article URL: https://nickmonad.blog/2025/static-allocation-with-zig-kv/ Comments URL: https://news.ycombinator.com/item?id=46422009 Points: 184 # Comments: 89"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46419970",
+      "title": "Kidnapped by Deutsche Bahn",
+      "slug": "2025-12-29-kidnapped-by-deutsche-bahn.html",
+      "path": "posts/2025-12-29-kidnapped-by-deutsche-bahn.html",
+      "date_iso": "2025-12-29T12:24:00+00:00",
+      "source": "https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/",
+      "summary": "Article URL: https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/ Comments URL: https://news.ycombinator.com/item?id=46419970 Points: 991 # Comments: 877"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46419968",
+      "title": "Linux DAW: Help Linux musicians to quickly and easily find the tools they need",
+      "slug": "2025-12-29-linux-daw-help-linux-musicians-to-quickly-and-easily-find-the-tools-they-need.html",
+      "path": "posts/2025-12-29-linux-daw-help-linux-musicians-to-quickly-and-easily-find-the-tools-they-need.html",
+      "date_iso": "2025-12-29T12:23:49+00:00",
+      "source": "https://linuxdaw.org/",
+      "summary": "Article URL: https://linuxdaw.org/ Comments URL: https://news.ycombinator.com/item?id=46419968 Points: 224 # Comments: 103"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/29/business/energy-environment/rare-earth-processing-phoenix-tailings.html",
+      "title": "Meet a U.S. Start-Up Trying to Break China’s Rare-Earth Monopoly",
+      "slug": "2025-12-29-meet-a-u-s-start-up-trying-to-break-china-s-rare-earth-monopoly.html",
+      "path": "posts/2025-12-29-meet-a-u-s-start-up-trying-to-break-china-s-rare-earth-monopoly.html",
+      "date_iso": "2025-12-29T10:00:24+00:00",
+      "source": "https://www.nytimes.com/2025/12/29/business/energy-environment/rare-earth-processing-phoenix-tailings.html",
+      "summary": "Phoenix Tailings runs a metal-making plant in Exeter, N.H."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46417844",
       "title": "Staying ahead of censors in 2025",
       "slug": "2025-12-29-staying-ahead-of-censors-in-2025.html",
