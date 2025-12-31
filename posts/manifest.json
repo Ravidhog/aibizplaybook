@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46441068",
+      "title": "Google Opal",
+      "slug": "2025-12-31-google-opal.html",
+      "path": "posts/2025-12-31-google-opal.html",
+      "date_iso": "2025-12-31T03:49:58+00:00",
+      "source": "https://opal.google/landing/",
+      "summary": "Article URL: https://opal.google/landing/ Comments URL: https://news.ycombinator.com/item?id=46441068 Points: 84 # Comments: 42"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46440833",
+      "title": "LLVM AI tool policy: human in the loop",
+      "slug": "2025-12-31-llvm-ai-tool-policy-human-in-the-loop.html",
+      "path": "posts/2025-12-31-llvm-ai-tool-policy-human-in-the-loop.html",
+      "date_iso": "2025-12-31T03:06:07+00:00",
+      "source": "https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159",
+      "summary": "Article URL: https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159 Comments URL: https://news.ycombinator.com/item?id=46440833 Points: 175 # Comments: 80"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46440695",
+      "title": "L1TF Reloaded",
+      "slug": "2025-12-31-l1tf-reloaded.html",
+      "path": "posts/2025-12-31-l1tf-reloaded.html",
+      "date_iso": "2025-12-31T02:33:50+00:00",
+      "source": "https://github.com/ThijsRay/l1tf_reloaded",
+      "summary": "Article URL: https://github.com/ThijsRay/l1tf_reloaded Comments URL: https://news.ycombinator.com/item?id=46440695 Points: 20 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46440510",
+      "title": "Readings in Database Systems (5th Edition)",
+      "slug": "2025-12-31-readings-in-database-systems-5th-edition.html",
+      "path": "posts/2025-12-31-readings-in-database-systems-5th-edition.html",
+      "date_iso": "2025-12-31T02:01:53+00:00",
+      "source": "http://www.redbook.io/",
+      "summary": "Article URL: http://www.redbook.io/ Comments URL: https://news.ycombinator.com/item?id=46440510 Points: 69 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46438522",
+      "title": "Honey's Dieselgate: Detecting and tricking testers",
+      "slug": "2025-12-30-honey-s-dieselgate-detecting-and-tricking-testers.html",
+      "path": "posts/2025-12-30-honey-s-dieselgate-detecting-and-tricking-testers.html",
+      "date_iso": "2025-12-30T21:59:35+00:00",
+      "source": "https://vptdigital.com/blog/honey-detecting-testers/",
+      "summary": "Article URL: https://vptdigital.com/blog/honey-detecting-testers/ Comments URL: https://news.ycombinator.com/item?id=46438522 Points: 187 # Comments: 57"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46438390",
+      "title": "OpenAI's cash burn will be one of the big bubble questions of 2026",
+      "slug": "2025-12-30-openai-s-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026.html",
+      "path": "posts/2025-12-30-openai-s-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026.html",
+      "date_iso": "2025-12-30T21:44:07+00:00",
+      "source": "https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026",
+      "summary": "Article URL: https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026 Comments URL: https://news.ycombinator.com/item?id=46438390 Points: 304 # Comments: 413"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46437876",
+      "title": "Sabotaging Bitcoin",
+      "slug": "2025-12-30-sabotaging-bitcoin.html",
+      "path": "posts/2025-12-30-sabotaging-bitcoin.html",
+      "date_iso": "2025-12-30T20:53:59+00:00",
+      "source": "https://blog.dshr.org/2025/12/sabotaging-bitcoin.html",
+      "summary": "Article URL: https://blog.dshr.org/2025/12/sabotaging-bitcoin.html Comments URL: https://news.ycombinator.com/item?id=46437876 Points: 132 # Comments: 83"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46437391",
+      "title": "Professional software developers don't vibe, they control",
+      "slug": "2025-12-30-professional-software-developers-don-t-vibe-they-control.html",
+      "path": "posts/2025-12-30-professional-software-developers-don-t-vibe-they-control.html",
+      "date_iso": "2025-12-30T20:06:46+00:00",
+      "source": "https://arxiv.org/abs/2512.14012",
+      "summary": "Article URL: https://arxiv.org/abs/2512.14012 Comments URL: https://news.ycombinator.com/item?id=46437391 Points: 156 # Comments: 181"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46437288",
+      "title": "Zpdf: PDF text extraction in Zig",
+      "slug": "2025-12-30-zpdf-pdf-text-extraction-in-zig.html",
+      "path": "posts/2025-12-30-zpdf-pdf-text-extraction-in-zig.html",
+      "date_iso": "2025-12-30T19:57:10+00:00",
+      "source": "https://github.com/Lulzx/zpdf",
+      "summary": "Article URL: https://github.com/Lulzx/zpdf Comments URL: https://news.ycombinator.com/item?id=46437288 Points: 168 # Comments: 57"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46436889",
+      "title": "FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service",
+      "slug": "2025-12-30-fedimeteo-a-4-freebsd-vps-became-a-global-weather-service.html",
+      "path": "posts/2025-12-30-fedimeteo-a-4-freebsd-vps-became-a-global-weather-service.html",
+      "date_iso": "2025-12-30T19:21:48+00:00",
+      "source": "https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/",
+      "summary": "Article URL: https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/ Comments URL: https://news.ycombinator.com/item?id=46436889 Points: 269 # Comments: 66"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46436828",
+      "title": "Escaping containment: A security analysis of FreeBSD jails [video]",
+      "slug": "2025-12-30-escaping-containment-a-security-analysis-of-freebsd-jails-video.html",
+      "path": "posts/2025-12-30-escaping-containment-a-security-analysis-of-freebsd-jails-video.html",
+      "date_iso": "2025-12-30T19:15:05+00:00",
+      "source": "https://media.ccc.de/v/39c3-escaping-containment-a-security-analysis-of-freebsd-jails",
+      "summary": "Article URL: https://media.ccc.de/v/39c3-escaping-containment-a-security-analysis-of-freebsd-jails Comments URL: https://news.ycombinator.com/item?id=46436828 Points: 81 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46436409",
+      "title": "A faster heart for F-Droid",
+      "slug": "2025-12-30-a-faster-heart-for-f-droid.html",
+      "path": "posts/2025-12-30-a-faster-heart-for-f-droid.html",
+      "date_iso": "2025-12-30T18:36:37+00:00",
+      "source": "https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html",
+      "summary": "Article URL: https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html Comments URL: https://news.ycombinator.com/item?id=46436409 Points: 355 # Comments: 154"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46436127",
+      "title": "Electrolysis can solve one of our biggest contamination problems",
+      "slug": "2025-12-30-electrolysis-can-solve-one-of-our-biggest-contamination-problems.html",
+      "path": "posts/2025-12-30-electrolysis-can-solve-one-of-our-biggest-contamination-problems.html",
+      "date_iso": "2025-12-30T18:08:32+00:00",
+      "source": "https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html",
+      "summary": "Article URL: https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html Comments URL: https://news.ycombinator.com/item?id=46436127 Points: 145 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46435614",
+      "title": "A Vulnerability in Libsodium",
+      "slug": "2025-12-30-a-vulnerability-in-libsodium.html",
+      "path": "posts/2025-12-30-a-vulnerability-in-libsodium.html",
+      "date_iso": "2025-12-30T17:24:57+00:00",
+      "source": "https://00f.net/2025/12/30/libsodium-vulnerability/",
+      "summary": "Article URL: https://00f.net/2025/12/30/libsodium-vulnerability/ Comments URL: https://news.ycombinator.com/item?id=46435614 Points: 254 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46435418",
+      "title": "Toro: Deploy Applications as Unikernels",
+      "slug": "2025-12-30-toro-deploy-applications-as-unikernels.html",
+      "path": "posts/2025-12-30-toro-deploy-applications-as-unikernels.html",
+      "date_iso": "2025-12-30T17:09:57+00:00",
+      "source": "https://github.com/torokernel/torokernel",
+      "summary": "Article URL: https://github.com/torokernel/torokernel Comments URL: https://news.ycombinator.com/item?id=46435418 Points: 128 # Comments: 108"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46435308",
+      "title": "Show HN: 22 GB of Hacker News in SQLite",
+      "slug": "2025-12-30-show-hn-22-gb-of-hacker-news-in-sqlite.html",
+      "path": "posts/2025-12-30-show-hn-22-gb-of-hacker-news-in-sqlite.html",
+      "date_iso": "2025-12-30T17:01:59+00:00",
+      "source": "https://hackerbook.dosaygo.com",
+      "summary": "Community, All the HN belong to you. This is an archive of hacker news that fits in your browser. When I made HN Made of Primes I realized I could probably do this offline sqlite/wasm thing with the whole GBs of archive. The whole dataset. So I tried it, and this is it. Have Hac…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46433661",
+      "title": "Hive (YC S14) Is Hiring a Staff Software Engineer (Data Systems)",
+      "slug": "2025-12-30-hive-yc-s14-is-hiring-a-staff-software-engineer-data-systems.html",
+      "path": "posts/2025-12-30-hive-yc-s14-is-hiring-a-staff-software-engineer-data-systems.html",
+      "date_iso": "2025-12-30T14:31:34+00:00",
+      "source": "https://jobs.ashbyhq.com/hive.co/cb0dc490-0e32-4734-8d91-8b56a31ed497",
+      "summary": "Article URL: https://jobs.ashbyhq.com/hive.co/cb0dc490-0e32-4734-8d91-8b56a31ed497 Comments URL: https://news.ycombinator.com/item?id=46433661 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46433029",
+      "title": "No strcpy either",
+      "slug": "2025-12-30-no-strcpy-either.html",
+      "path": "posts/2025-12-30-no-strcpy-either.html",
+      "date_iso": "2025-12-30T13:14:40+00:00",
+      "source": "https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/",
+      "summary": "Article URL: https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/ Comments URL: https://news.ycombinator.com/item?id=46433029 Points: 186 # Comments: 104"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46432999",
+      "title": "The British empire's resilient subsea telegraph network",
+      "slug": "2025-12-30-the-british-empire-s-resilient-subsea-telegraph-network.html",
+      "path": "posts/2025-12-30-the-british-empire-s-resilient-subsea-telegraph-network.html",
+      "date_iso": "2025-12-30T13:10:56+00:00",
+      "source": "https://subseacables.blogspot.com/2025/12/the-british-empires-resilient-subsea.html",
+      "summary": "Article URL: https://subseacables.blogspot.com/2025/12/the-british-empires-resilient-subsea.html Comments URL: https://news.ycombinator.com/item?id=46432999 Points: 187 # Comments: 46"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46432916",
+      "title": "Approachable Swift Concurrency",
+      "slug": "2025-12-30-approachable-swift-concurrency.html",
+      "path": "posts/2025-12-30-approachable-swift-concurrency.html",
+      "date_iso": "2025-12-30T13:01:51+00:00",
+      "source": "https://fuckingapproachableswiftconcurrency.com/en/",
+      "summary": "Article URL: https://fuckingapproachableswiftconcurrency.com/en/ Comments URL: https://news.ycombinator.com/item?id=46432916 Points: 164 # Comments: 82"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/30/podcasts/hardfork-wirecutter-ai.html",
+      "title": "The Wirecutter Show: Tips for Using A.I. Smartly With Kevin Roose",
+      "slug": "2025-12-30-the-wirecutter-show-tips-for-using-a-i-smartly-with-kevin-roose.html",
+      "path": "posts/2025-12-30-the-wirecutter-show-tips-for-using-a-i-smartly-with-kevin-roose.html",
+      "date_iso": "2025-12-30T12:00:05+00:00",
+      "source": "https://www.nytimes.com/2025/12/30/podcasts/hardfork-wirecutter-ai.html",
+      "summary": "If you’ve ever wondered what chatbots are good for and how best to use them, this episode is for you."
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/30/technology/personaltech/tech-jargon-ai.html",
+      "title": "Decoding the A.I.-Driven Tech Lingo From 2025",
+      "slug": "2025-12-30-decoding-the-a-i-driven-tech-lingo-from-2025.html",
+      "path": "posts/2025-12-30-decoding-the-a-i-driven-tech-lingo-from-2025.html",
+      "date_iso": "2025-12-30T10:02:10+00:00",
+      "source": "https://www.nytimes.com/2025/12/30/technology/personaltech/tech-jargon-ai.html",
+      "summary": "Here’s a cheat sheet for decoding this year’s A.I.-driven tech lingo, from RAG to superintelligence."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46428496",
       "title": "Hacking Washing Machines [video]",
       "slug": "2025-12-30-hacking-washing-machines-video.html",
@@ -62,6 +260,15 @@
       "date_iso": "2025-12-29T23:29:35+00:00",
       "source": "https://matklad.github.io/2025/12/28/parsing-advances.html",
       "summary": "Article URL: https://matklad.github.io/2025/12/28/parsing-advances.html Comments URL: https://news.ycombinator.com/item?id=46427376 Points: 72 # Comments: 5"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/29/business/louis-v-gerstner-dead.html",
+      "title": "Louis V. Gerstner, Who Revived a Faltering IBM in the ’90s, Dies at 83",
+      "slug": "2025-12-29-louis-v-gerstner-who-revived-a-faltering-ibm-in-the-90s-dies-at-83.html",
+      "path": "posts/2025-12-29-louis-v-gerstner-who-revived-a-faltering-ibm-in-the-90s-dies-at-83.html",
+      "date_iso": "2025-12-29T23:20:24+00:00",
+      "source": "https://www.nytimes.com/2025/12/29/business/louis-v-gerstner-dead.html",
+      "summary": "Louis V. Gerstner Jr. in his office at IBM’s headquarters in Armonk, N.Y., in 2001. He was with Dr. Yvette Burton, a technology consultant."
     },
     {
       "id": "https://news.ycombinator.com/item?id=46427181",
