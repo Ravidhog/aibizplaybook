@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46451124",
+      "title": "Flow5 released to open source",
+      "slug": "2026-01-01-flow5-released-to-open-source.html",
+      "path": "posts/2026-01-01-flow5-released-to-open-source.html",
+      "date_iso": "2026-01-01T03:47:20+00:00",
+      "source": "https://flow5.tech/docs/releasenotes.html",
+      "summary": "Article URL: https://flow5.tech/docs/releasenotes.html Comments URL: https://news.ycombinator.com/item?id=46451124 Points: 42 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46450731",
+      "title": "Pixar's True Story",
+      "slug": "2026-01-01-pixar-s-true-story.html",
+      "path": "posts/2026-01-01-pixar-s-true-story.html",
+      "date_iso": "2026-01-01T02:35:40+00:00",
+      "source": "https://computerhistory.org/blog/pixars-true-story/",
+      "summary": "Article URL: https://computerhistory.org/blog/pixars-true-story/ Comments URL: https://news.ycombinator.com/item?id=46450731 Points: 31 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46450122",
+      "title": "GoGoGrandparent (YC S16) Is Hiring Tech Leads",
+      "slug": "2026-01-01-gogograndparent-yc-s16-is-hiring-tech-leads.html",
+      "path": "posts/2026-01-01-gogograndparent-yc-s16-is-hiring-tech-leads.html",
+      "date_iso": "2026-01-01T01:01:22+00:00",
+      "source": "https://www.ycombinator.com/companies/gogograndparent/jobs/w2jGKM7-gogograndparent-yc-s16-is-hiring-tech-leads",
+      "summary": "Article URL: https://www.ycombinator.com/companies/gogograndparent/jobs/w2jGKM7-gogograndparent-yc-s16-is-hiring-tech-leads Comments URL: https://news.ycombinator.com/item?id=46450122 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46449812",
+      "title": "Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring",
+      "slug": "2026-01-01-show-hn-bustermq-thread-per-core-nats-server-in-zig-with-io-uring.html",
+      "path": "posts/2026-01-01-show-hn-bustermq-thread-per-core-nats-server-in-zig-with-io-uring.html",
+      "date_iso": "2026-01-01T00:18:43+00:00",
+      "source": "https://bustermq.sh/",
+      "summary": "Article URL: https://bustermq.sh/ Comments URL: https://news.ycombinator.com/item?id=46449812 Points: 67 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46449694",
+      "title": "The Delete Act",
+      "slug": "2026-01-01-the-delete-act.html",
+      "path": "posts/2026-01-01-the-delete-act.html",
+      "date_iso": "2026-01-01T00:02:14+00:00",
+      "source": "https://privacy.ca.gov/drop/about-drop-and-the-delete-act/",
+      "summary": "Article URL: https://privacy.ca.gov/drop/about-drop-and-the-delete-act/ Comments URL: https://news.ycombinator.com/item?id=46449694 Points: 153 # Comments: 65"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46449643",
+      "title": "2025: The Year in LLMs",
+      "slug": "2025-12-31-2025-the-year-in-llms.html",
+      "path": "posts/2025-12-31-2025-the-year-in-llms.html",
+      "date_iso": "2025-12-31T23:54:46+00:00",
+      "source": "https://simonwillison.net/2025/Dec/31/the-year-in-llms/",
+      "summary": "Article URL: https://simonwillison.net/2025/Dec/31/the-year-in-llms/ Comments URL: https://news.ycombinator.com/item?id=46449643 Points: 368 # Comments: 196"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46448998",
+      "title": "Resistance training load does not determine hypertrophy",
+      "slug": "2025-12-31-resistance-training-load-does-not-determine-hypertrophy.html",
+      "path": "posts/2025-12-31-resistance-training-load-does-not-determine-hypertrophy.html",
+      "date_iso": "2025-12-31T22:25:58+00:00",
+      "source": "https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP289684",
+      "summary": "Article URL: https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP289684 Comments URL: https://news.ycombinator.com/item?id=46448998 Points: 110 # Comments: 108"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46448894",
+      "title": "Scientists unlock brain's natural clean-up system for new treatments for stroke",
+      "slug": "2025-12-31-scientists-unlock-brain-s-natural-clean-up-system-for-new-treatments-for-stroke.html",
+      "path": "posts/2025-12-31-scientists-unlock-brain-s-natural-clean-up-system-for-new-treatments-for-stroke.html",
+      "date_iso": "2025-12-31T22:11:33+00:00",
+      "source": "https://www.monash.edu/pharm/about/news/news-listing/latest/scientists-unlock-brains-natural-clean-up-system-to-develop-new-treatments-for-stroke-and-other-neurological-diseases",
+      "summary": "Article URL: https://www.monash.edu/pharm/about/news/news-listing/latest/scientists-unlock-brains-natural-clean-up-system-to-develop-new-treatments-for-stroke-and-other-neurological-diseases Comments URL: https://news.ycombinator.com/item?id=46448894 Points: 139 # Comments: 30"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46448705",
+      "title": "Warren Buffett steps down as Berkshire Hathaway CEO after six decades",
+      "slug": "2025-12-31-warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades.html",
+      "path": "posts/2025-12-31-warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades.html",
+      "date_iso": "2025-12-31T21:44:42+00:00",
+      "source": "https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades",
+      "summary": "Article URL: https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades Comments URL: https://news.ycombinator.com/item?id=46448705 Points: 519 # Comments: 356"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46447827",
+      "title": "All-optical synthesis chip for large-scale intelligent semantic vision",
+      "slug": "2025-12-31-all-optical-synthesis-chip-for-large-scale-intelligent-semantic-vision.html",
+      "path": "posts/2025-12-31-all-optical-synthesis-chip-for-large-scale-intelligent-semantic-vision.html",
+      "date_iso": "2025-12-31T20:14:31+00:00",
+      "source": "https://www.science.org/doi/10.1126/science.adv7434",
+      "summary": "Article URL: https://www.science.org/doi/10.1126/science.adv7434 Comments URL: https://news.ycombinator.com/item?id=46447827 Points: 68 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46447202",
+      "title": "PyPI in 2025: A Year in Review",
+      "slug": "2025-12-31-pypi-in-2025-a-year-in-review.html",
+      "path": "posts/2025-12-31-pypi-in-2025-a-year-in-review.html",
+      "date_iso": "2025-12-31T19:08:39+00:00",
+      "source": "https://blog.pypi.org/posts/2025-12-31-pypi-2025-in-review/",
+      "summary": "Article URL: https://blog.pypi.org/posts/2025-12-31-pypi-2025-in-review/ Comments URL: https://news.ycombinator.com/item?id=46447202 Points: 62 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46446938",
+      "title": "On privacy and control",
+      "slug": "2025-12-31-on-privacy-and-control.html",
+      "path": "posts/2025-12-31-on-privacy-and-control.html",
+      "date_iso": "2025-12-31T18:39:40+00:00",
+      "source": "https://toidiu.com/blog/2025-12-25-privacy-and-control/",
+      "summary": "Article URL: https://toidiu.com/blog/2025-12-25-privacy-and-control/ Comments URL: https://news.ycombinator.com/item?id=46446938 Points: 160 # Comments: 90"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46446815",
+      "title": "I canceled my book deal",
+      "slug": "2025-12-31-i-canceled-my-book-deal.html",
+      "path": "posts/2025-12-31-i-canceled-my-book-deal.html",
+      "date_iso": "2025-12-31T18:26:32+00:00",
+      "source": "https://austinhenley.com/blog/canceledbookdeal.html",
+      "summary": "Article URL: https://austinhenley.com/blog/canceledbookdeal.html Comments URL: https://news.ycombinator.com/item?id=46446815 Points: 426 # Comments: 253"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46446366",
+      "title": "Web Browsers have stopped blocking pop-ups",
+      "slug": "2025-12-31-web-browsers-have-stopped-blocking-pop-ups.html",
+      "path": "posts/2025-12-31-web-browsers-have-stopped-blocking-pop-ups.html",
+      "date_iso": "2025-12-31T17:42:20+00:00",
+      "source": "https://www.smokingonabike.com/2025/12/31/web-browsers-have-stopped-blocking-pop-ups/",
+      "summary": "Article URL: https://www.smokingonabike.com/2025/12/31/web-browsers-have-stopped-blocking-pop-ups/ Comments URL: https://news.ycombinator.com/item?id=46446366 Points: 129 # Comments: 96"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46445905",
+      "title": "SigNoz (YC W21, open source observability platform) is hiring across roles",
+      "slug": "2025-12-31-signoz-yc-w21-open-source-observability-platform-is-hiring-across-roles.html",
+      "path": "posts/2025-12-31-signoz-yc-w21-open-source-observability-platform-is-hiring-across-roles.html",
+      "date_iso": "2025-12-31T17:00:40+00:00",
+      "source": "https://signoz.io/careers",
+      "summary": "Article URL: https://signoz.io/careers Comments URL: https://news.ycombinator.com/item?id=46445905 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/31/magazine/ukraine-ai-drones-war-russia.html",
+      "title": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia",
+      "slug": "2025-12-31-in-ukraine-an-arsenal-of-killer-a-i-drones-is-being-born-in-war-against-russia.html",
+      "path": "posts/2025-12-31-in-ukraine-an-arsenal-of-killer-a-i-drones-is-being-born-in-war-against-russia.html",
+      "date_iso": "2025-12-31T17:00:12+00:00",
+      "source": "https://www.nytimes.com/2025/12/31/magazine/ukraine-ai-drones-war-russia.html",
+      "summary": "Bumblebee attack drones at a combat testing range outside Kharkiv, Ukraine."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46445195",
+      "title": "Scaffolding to Superhuman: How Curriculum Learning Solved 2048 and Tetris",
+      "slug": "2025-12-31-scaffolding-to-superhuman-how-curriculum-learning-solved-2048-and-tetris.html",
+      "path": "posts/2025-12-31-scaffolding-to-superhuman-how-curriculum-learning-solved-2048-and-tetris.html",
+      "date_iso": "2025-12-31T15:52:51+00:00",
+      "source": "https://kywch.github.io/blog/2025/12/curriculum-learning-2048-tetris/",
+      "summary": "Article URL: https://kywch.github.io/blog/2025/12/curriculum-learning-2048-tetris/ Comments URL: https://news.ycombinator.com/item?id=46445195 Points: 126 # Comments: 30"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46445131",
+      "title": "The compiler is your best friend",
+      "slug": "2025-12-31-the-compiler-is-your-best-friend.html",
+      "path": "posts/2025-12-31-the-compiler-is-your-best-friend.html",
+      "date_iso": "2025-12-31T15:46:34+00:00",
+      "source": "https://blog.daniel-beskin.com/2025-12-22-the-compiler-is-your-best-friend-stop-lying-to-it",
+      "summary": "Article URL: https://blog.daniel-beskin.com/2025-12-22-the-compiler-is-your-best-friend-stop-lying-to-it Comments URL: https://news.ycombinator.com/item?id=46445131 Points: 153 # Comments: 105"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46444249",
+      "title": "Iron Beam: Israel's first operational anti drone laser system",
+      "slug": "2025-12-31-iron-beam-israel-s-first-operational-anti-drone-laser-system.html",
+      "path": "posts/2025-12-31-iron-beam-israel-s-first-operational-anti-drone-laser-system.html",
+      "date_iso": "2025-12-31T14:19:21+00:00",
+      "source": "https://mod.gov.il/en/press-releases/press-room/israel-mod-and-rafael-deliver-first-operational-high-power-laser-system-iron-beam-to-the-idf",
+      "summary": "Article URL: https://mod.gov.il/en/press-releases/press-room/israel-mod-and-rafael-deliver-first-operational-high-power-laser-system-iron-beam-to-the-idf Comments URL: https://news.ycombinator.com/item?id=46444249 Points: 123 # Comments: 222"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46443988",
+      "title": "When square pixels aren't square",
+      "slug": "2025-12-31-when-square-pixels-aren-t-square.html",
+      "path": "posts/2025-12-31-when-square-pixels-aren-t-square.html",
+      "date_iso": "2025-12-31T13:44:41+00:00",
+      "source": "https://alexwlchan.net/2025/square-pixels/",
+      "summary": "Article URL: https://alexwlchan.net/2025/square-pixels/ Comments URL: https://news.ycombinator.com/item?id=46443988 Points: 122 # Comments: 57"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46443744",
+      "title": "Tell HN: Happy New Year",
+      "slug": "2025-12-31-tell-hn-happy-new-year.html",
+      "path": "posts/2025-12-31-tell-hn-happy-new-year.html",
+      "date_iso": "2025-12-31T13:02:48+00:00",
+      "source": "https://news.ycombinator.com/item?id=46443744",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=46443744 Points: 299 # Comments: 166"
+    },
+    {
+      "id": "https://www.nytimes.com/2025/12/31/travel/airport-border-phone-search.html",
+      "title": "Phone Searches at U.S. Borders: What Travelers Need to Know",
+      "slug": "2025-12-31-phone-searches-at-u-s-borders-what-travelers-need-to-know.html",
+      "path": "posts/2025-12-31-phone-searches-at-u-s-borders-what-travelers-need-to-know.html",
+      "date_iso": "2025-12-31T10:00:22+00:00",
+      "source": "https://www.nytimes.com/2025/12/31/travel/airport-border-phone-search.html",
+      "summary": "Customs agents have broad authority to search the electronic devices of travelers entering and leaving the U.S. Here are tips for keeping your data safe."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46441068",
       "title": "Google Opal",
       "slug": "2025-12-31-google-opal.html",
