@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46461778",
+      "title": "Real Biological Clock Is You're Going to Die",
+      "slug": "2026-01-02-real-biological-clock-is-you-re-going-to-die.html",
+      "path": "posts/2026-01-02-real-biological-clock-is-you-re-going-to-die.html",
+      "date_iso": "2026-01-02T05:39:13+00:00",
+      "source": "https://hmmdaily.com/2018/10/18/your-real-biological-clock-is-youre-going-to-die/",
+      "summary": "Article URL: https://hmmdaily.com/2018/10/18/your-real-biological-clock-is-youre-going-to-die/ Comments URL: https://news.ycombinator.com/item?id=46461778 Points: 27 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46461563",
+      "title": "I'm a developer for a major food delivery app",
+      "slug": "2026-01-02-i-m-a-developer-for-a-major-food-delivery-app.html",
+      "path": "posts/2026-01-02-i-m-a-developer-for-a-major-food-delivery-app.html",
+      "date_iso": "2026-01-02T04:57:25+00:00",
+      "source": "https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/",
+      "summary": "Article URL: https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/ Comments URL: https://news.ycombinator.com/item?id=46461563 Points: 192 # Comments: 93"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46460676",
+      "title": "Marmot – A distributed SQLite server with MySQL wire compatible interface",
+      "slug": "2026-01-02-marmot-a-distributed-sqlite-server-with-mysql-wire-compatible-interface.html",
+      "path": "posts/2026-01-02-marmot-a-distributed-sqlite-server-with-mysql-wire-compatible-interface.html",
+      "date_iso": "2026-01-02T02:21:57+00:00",
+      "source": "https://github.com/maxpert/marmot",
+      "summary": "Article URL: https://github.com/maxpert/marmot Comments URL: https://news.ycombinator.com/item?id=46460676 Points: 73 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46460440",
+      "title": "Happy Public Domain Day 2026",
+      "slug": "2026-01-02-happy-public-domain-day-2026.html",
+      "path": "posts/2026-01-02-happy-public-domain-day-2026.html",
+      "date_iso": "2026-01-02T01:42:16+00:00",
+      "source": "https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/",
+      "summary": "Article URL: https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/ Comments URL: https://news.ycombinator.com/item?id=46460440 Points: 200 # Comments: 36"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46460394",
+      "title": "Extensibility: The \"100% Lisp\" Fallacy",
+      "slug": "2026-01-02-extensibility-the-100-lisp-fallacy.html",
+      "path": "posts/2026-01-02-extensibility-the-100-lisp-fallacy.html",
+      "date_iso": "2026-01-02T01:36:25+00:00",
+      "source": "https://kyo.iroiro.party/en/posts/100-percent-lisp/",
+      "summary": "Article URL: https://kyo.iroiro.party/en/posts/100-percent-lisp/ Comments URL: https://news.ycombinator.com/item?id=46460394 Points: 43 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46460319",
+      "title": "Why users cannot create Issues directly",
+      "slug": "2026-01-02-why-users-cannot-create-issues-directly.html",
+      "path": "posts/2026-01-02-why-users-cannot-create-issues-directly.html",
+      "date_iso": "2026-01-02T01:24:51+00:00",
+      "source": "https://github.com/ghostty-org/ghostty/issues/3558",
+      "summary": "Article URL: https://github.com/ghostty-org/ghostty/issues/3558 Comments URL: https://news.ycombinator.com/item?id=46460319 Points: 194 # Comments: 72"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46458624",
+      "title": "WebAssembly as a Python Extension Platform",
+      "slug": "2026-01-01-webassembly-as-a-python-extension-platform.html",
+      "path": "posts/2026-01-01-webassembly-as-a-python-extension-platform.html",
+      "date_iso": "2026-01-01T22:09:16+00:00",
+      "source": "https://nullprogram.com/blog/2026/01/01/",
+      "summary": "Article URL: https://nullprogram.com/blog/2026/01/01/ Comments URL: https://news.ycombinator.com/item?id=46458624 Points: 72 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46458302",
+      "title": "Can Bundler be as fast as uv?",
+      "slug": "2026-01-01-can-bundler-be-as-fast-as-uv.html",
+      "path": "posts/2026-01-01-can-bundler-be-as-fast-as-uv.html",
+      "date_iso": "2026-01-01T21:37:10+00:00",
+      "source": "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/",
+      "summary": "Article URL: https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/ Comments URL: https://news.ycombinator.com/item?id=46458302 Points: 221 # Comments: 73"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46458165",
+      "title": "Straussian Memes",
+      "slug": "2026-01-01-straussian-memes.html",
+      "path": "posts/2026-01-01-straussian-memes.html",
+      "date_iso": "2026-01-01T21:24:39+00:00",
+      "source": "https://www.lesswrong.com/posts/CAwnnKoFdcQucq4hG/straussian-memes-a-lens-on-techniques-for-mass-persuasion",
+      "summary": "Article URL: https://www.lesswrong.com/posts/CAwnnKoFdcQucq4hG/straussian-memes-a-lens-on-techniques-for-mass-persuasion Comments URL: https://news.ycombinator.com/item?id=46458165 Points: 36 # Comments: 36"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46457784",
+      "title": "A website to destroy all websites",
+      "slug": "2026-01-01-a-website-to-destroy-all-websites.html",
+      "path": "posts/2026-01-01-a-website-to-destroy-all-websites.html",
+      "date_iso": "2026-01-01T20:36:46+00:00",
+      "source": "https://henry.codes/writing/a-website-to-destroy-all-websites/",
+      "summary": "Article URL: https://henry.codes/writing/a-website-to-destroy-all-websites/ Comments URL: https://news.ycombinator.com/item?id=46457784 Points: 467 # Comments: 258"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46457770",
+      "title": "Linux is good now",
+      "slug": "2026-01-01-linux-is-good-now.html",
+      "path": "posts/2026-01-01-linux-is-good-now.html",
+      "date_iso": "2026-01-01T20:35:11+00:00",
+      "source": "https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/",
+      "summary": "Article URL: https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/ Comments URL: https://news.ycombinator.com/item?id=46457770 Points: 660 # Comments:…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46457027",
+      "title": "Dell's version of the DGX Spark fixes pain points",
+      "slug": "2026-01-01-dell-s-version-of-the-dgx-spark-fixes-pain-points.html",
+      "path": "posts/2026-01-01-dell-s-version-of-the-dgx-spark-fixes-pain-points.html",
+      "date_iso": "2026-01-01T19:11:53+00:00",
+      "source": "https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points",
+      "summary": "Article URL: https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points Comments URL: https://news.ycombinator.com/item?id=46457027 Points: 124 # Comments: 62"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46456797",
+      "title": "Finland detains ship and its crew after critical undersea cable damaged",
+      "slug": "2026-01-01-finland-detains-ship-and-its-crew-after-critical-undersea-cable-damaged.html",
+      "path": "posts/2026-01-01-finland-detains-ship-and-its-crew-after-critical-undersea-cable-damaged.html",
+      "date_iso": "2026-01-01T18:46:07+00:00",
+      "source": "https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl",
+      "summary": "Article URL: https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl Comments URL: https://news.ycombinator.com/item?id=46456797 Points: 382 # Comments: 360"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46455872",
+      "title": "Cameras and Lenses (2020)",
+      "slug": "2026-01-01-cameras-and-lenses-2020.html",
+      "path": "posts/2026-01-01-cameras-and-lenses-2020.html",
+      "date_iso": "2026-01-01T17:18:01+00:00",
+      "source": "https://ciechanow.ski/cameras-and-lenses/",
+      "summary": "Article URL: https://ciechanow.ski/cameras-and-lenses/ Comments URL: https://news.ycombinator.com/item?id=46455872 Points: 399 # Comments: 49"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46454977",
+      "title": "BYD Sells 4.6M Vehicles in 2025, Meets Revised Sales Goal",
+      "slug": "2026-01-01-byd-sells-4-6m-vehicles-in-2025-meets-revised-sales-goal.html",
+      "path": "posts/2026-01-01-byd-sells-4-6m-vehicles-in-2025-meets-revised-sales-goal.html",
+      "date_iso": "2026-01-01T15:49:42+00:00",
+      "source": "https://www.bloomberg.com/news/articles/2026-01-01/byd-sells-4-6-million-vehicles-in-2025-meets-revised-sales-goal",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-01-01/byd-sells-4-6-million-vehicles-in-2025-meets-revised-sales-goal Comments URL: https://news.ycombinator.com/item?id=46454977 Points: 225 # Comments: 355"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46454944",
+      "title": "50% of U.S. vinyl buyers don't own a record player",
+      "slug": "2026-01-01-50-of-u-s-vinyl-buyers-don-t-own-a-record-player.html",
+      "path": "posts/2026-01-01-50-of-u-s-vinyl-buyers-don-t-own-a-record-player.html",
+      "date_iso": "2026-01-01T15:45:25+00:00",
+      "source": "https://lightcapai.medium.com/the-great-return-from-digital-abundance-to-analog-meaning-cfda9e428752",
+      "summary": "Article URL: https://lightcapai.medium.com/the-great-return-from-digital-abundance-to-analog-meaning-cfda9e428752 Comments URL: https://news.ycombinator.com/item?id=46454944 Points: 172 # Comments: 183"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46454693",
+      "title": "Show HN: OpenWorkers – Self-hosted Cloudflare workers in Rust",
+      "slug": "2026-01-01-show-hn-openworkers-self-hosted-cloudflare-workers-in-rust.html",
+      "path": "posts/2026-01-01-show-hn-openworkers-self-hosted-cloudflare-workers-in-rust.html",
+      "date_iso": "2026-01-01T15:09:06+00:00",
+      "source": "https://openworkers.com/introducing-openworkers",
+      "summary": "I've been working on this for some time now, starting with vm2, then deno-core for 2 years, and recently rewrote it on rusty_v8 with Claude's help. OpenWorkers lets you run untrusted JS in V8 isolates on your own infrastructure. Same DX as Cloudflare Workers, no vendor lock-in.…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46454470",
+      "title": "Python numbers every programmer should know",
+      "slug": "2026-01-01-python-numbers-every-programmer-should-know.html",
+      "path": "posts/2026-01-01-python-numbers-every-programmer-should-know.html",
+      "date_iso": "2026-01-01T14:39:23+00:00",
+      "source": "https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/",
+      "summary": "Article URL: https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/ Comments URL: https://news.ycombinator.com/item?id=46454470 Points: 325 # Comments: 139"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46454413",
+      "title": "2025 Letter",
+      "slug": "2026-01-01-2025-letter.html",
+      "path": "posts/2026-01-01-2025-letter.html",
+      "date_iso": "2026-01-01T14:32:12+00:00",
+      "source": "https://danwang.co/2025-letter/",
+      "summary": "Article URL: https://danwang.co/2025-letter/ Comments URL: https://news.ycombinator.com/item?id=46454413 Points: 299 # Comments: 206"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46453204",
+      "title": "Bluetooth Headphone Jacking: A Key to Your Phone [video]",
+      "slug": "2026-01-01-bluetooth-headphone-jacking-a-key-to-your-phone-video.html",
+      "path": "posts/2026-01-01-bluetooth-headphone-jacking-a-key-to-your-phone-video.html",
+      "date_iso": "2026-01-01T11:17:18+00:00",
+      "source": "https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone",
+      "summary": "Article URL: https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone Comments URL: https://news.ycombinator.com/item?id=46453204 Points: 465 # Comments: 171"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html",
+      "title": "Even the Sky May Not Be the Limit for A.I. Data Centers",
+      "slug": "2026-01-01-even-the-sky-may-not-be-the-limit-for-a-i-data-centers.html",
+      "path": "posts/2026-01-01-even-the-sky-may-not-be-the-limit-for-a-i-data-centers.html",
+      "date_iso": "2026-01-01T10:00:32+00:00",
+      "source": "https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html",
+      "summary": "Some tech leaders are concerned that the artificial intelligence race will exhaust available land and energy. The solution might lie in orbit."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46451124",
       "title": "Flow5 released to open source",
       "slug": "2026-01-01-flow5-released-to-open-source.html",
