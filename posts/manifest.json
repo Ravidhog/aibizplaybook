@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46485130",
+      "title": "Learning to Play Tic-Tac-Toe with Jax",
+      "slug": "2026-01-04-learning-to-play-tic-tac-toe-with-jax.html",
+      "path": "posts/2026-01-04-learning-to-play-tic-tac-toe-with-jax.html",
+      "date_iso": "2026-01-04T05:09:47+00:00",
+      "source": "https://joe-antognini.github.io/ml/jax-tic-tac-toe",
+      "summary": "Article URL: https://joe-antognini.github.io/ml/jax-tic-tac-toe Comments URL: https://news.ycombinator.com/item?id=46485130 Points: 8 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46485101",
+      "title": "Corundum – open-source FPGA-based NIC and platform for in-network compute",
+      "slug": "2026-01-04-corundum-open-source-fpga-based-nic-and-platform-for-in-network-compute.html",
+      "path": "posts/2026-01-04-corundum-open-source-fpga-based-nic-and-platform-for-in-network-compute.html",
+      "date_iso": "2026-01-04T05:04:29+00:00",
+      "source": "https://github.com/corundum/corundum",
+      "summary": "Article URL: https://github.com/corundum/corundum Comments URL: https://news.ycombinator.com/item?id=46485101 Points: 9 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46485090",
+      "title": "Neural Networks: Zero to Hero",
+      "slug": "2026-01-04-neural-networks-zero-to-hero.html",
+      "path": "posts/2026-01-04-neural-networks-zero-to-hero.html",
+      "date_iso": "2026-01-04T05:02:16+00:00",
+      "source": "https://karpathy.ai/zero-to-hero.html",
+      "summary": "Article URL: https://karpathy.ai/zero-to-hero.html Comments URL: https://news.ycombinator.com/item?id=46485090 Points: 95 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46484933",
+      "title": "Show HN: Claude Reflect – Auto-turn Claude corrections into project config",
+      "slug": "2026-01-04-show-hn-claude-reflect-auto-turn-claude-corrections-into-project-config.html",
+      "path": "posts/2026-01-04-show-hn-claude-reflect-auto-turn-claude-corrections-into-project-config.html",
+      "date_iso": "2026-01-04T04:31:11+00:00",
+      "source": "https://github.com/BayramAnnakov/claude-reflect",
+      "summary": "Article URL: https://github.com/BayramAnnakov/claude-reflect Comments URL: https://news.ycombinator.com/item?id=46484933 Points: 8 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46484882",
+      "title": "Show HN: Krowdovi – Video-based indoor navigation on a DePIN creator economy",
+      "slug": "2026-01-04-show-hn-krowdovi-video-based-indoor-navigation-on-a-depin-creator-economy.html",
+      "path": "posts/2026-01-04-show-hn-krowdovi-video-based-indoor-navigation-on-a-depin-creator-economy.html",
+      "date_iso": "2026-01-04T04:23:13+00:00",
+      "source": "https://github.com/daftpixie/krowdovi",
+      "summary": "What is this? Krowdovi is an open-source platform that lets anyone with a smartphone record first-person navigation videos of indoor spaces - hospitals, airports, malls, universities - and earn tokens for helping others find their way around. It's built on Solana using a burn-an…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46484662",
+      "title": "Gershwin-desktop: OS X-like Desktop Environment based on GNUStep",
+      "slug": "2026-01-04-gershwin-desktop-os-x-like-desktop-environment-based-on-gnustep.html",
+      "path": "posts/2026-01-04-gershwin-desktop-os-x-like-desktop-environment-based-on-gnustep.html",
+      "date_iso": "2026-01-04T03:44:23+00:00",
+      "source": "https://github.com/gershwin-desktop/gershwin-desktop",
+      "summary": "Article URL: https://github.com/gershwin-desktop/gershwin-desktop Comments URL: https://news.ycombinator.com/item?id=46484662 Points: 7 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46484104",
+      "title": "How Thomas Mann Wrote the Magic Mountain",
+      "slug": "2026-01-04-how-thomas-mann-wrote-the-magic-mountain.html",
+      "path": "posts/2026-01-04-how-thomas-mann-wrote-the-magic-mountain.html",
+      "date_iso": "2026-01-04T02:13:23+00:00",
+      "source": "https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain",
+      "summary": "Article URL: https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain Comments URL: https://news.ycombinator.com/item?id=46484104 Points: 42 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46483811",
+      "title": "Developing a BLAS Library for the AMD AI Engine [pdf]",
+      "slug": "2026-01-04-developing-a-blas-library-for-the-amd-ai-engine-pdf.html",
+      "path": "posts/2026-01-04-developing-a-blas-library-for-the-amd-ai-engine-pdf.html",
+      "date_iso": "2026-01-04T01:26:39+00:00",
+      "source": "https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf",
+      "summary": "Article URL: https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf Comments URL: https://news.ycombinator.com/item?id=46483811 Points: 30 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46483776",
+      "title": "MyTorch – Minimalist autograd in 450 lines of Python",
+      "slug": "2026-01-04-mytorch-minimalist-autograd-in-450-lines-of-python.html",
+      "path": "posts/2026-01-04-mytorch-minimalist-autograd-in-450-lines-of-python.html",
+      "date_iso": "2026-01-04T01:21:56+00:00",
+      "source": "https://github.com/obround/mytorch",
+      "summary": "Article URL: https://github.com/obround/mytorch Comments URL: https://news.ycombinator.com/item?id=46483776 Points: 59 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46483729",
+      "title": "The Great Gatsby is the most misunderstood novel (2021)",
+      "slug": "2026-01-04-the-great-gatsby-is-the-most-misunderstood-novel-2021.html",
+      "path": "posts/2026-01-04-the-great-gatsby-is-the-most-misunderstood-novel-2021.html",
+      "date_iso": "2026-01-04T01:15:15+00:00",
+      "source": "https://www.bbc.com/culture/article/20210209-the-worlds-most-misunderstood-novel",
+      "summary": "Article URL: https://www.bbc.com/culture/article/20210209-the-worlds-most-misunderstood-novel Comments URL: https://news.ycombinator.com/item?id=46483729 Points: 46 # Comments: 60"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46483531",
+      "title": "Corroded: Illegal Rust",
+      "slug": "2026-01-04-corroded-illegal-rust.html",
+      "path": "posts/2026-01-04-corroded-illegal-rust.html",
+      "date_iso": "2026-01-04T00:45:54+00:00",
+      "source": "https://github.com/buyukakyuz/corroded",
+      "summary": "Article URL: https://github.com/buyukakyuz/corroded Comments URL: https://news.ycombinator.com/item?id=46483531 Points: 63 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46483432",
+      "title": "KDE onboarding is good now",
+      "slug": "2026-01-04-kde-onboarding-is-good-now.html",
+      "path": "posts/2026-01-04-kde-onboarding-is-good-now.html",
+      "date_iso": "2026-01-04T00:31:42+00:00",
+      "source": "https://rabbitictranslator.com/kde-onboarding/",
+      "summary": "Article URL: https://rabbitictranslator.com/kde-onboarding/ Comments URL: https://news.ycombinator.com/item?id=46483432 Points: 70 # Comments: 33"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46483299",
+      "title": "Worst Case Optimal Joins: Graph-Join Correspondence",
+      "slug": "2026-01-04-worst-case-optimal-joins-graph-join-correspondence.html",
+      "path": "posts/2026-01-04-worst-case-optimal-joins-graph-join-correspondence.html",
+      "date_iso": "2026-01-04T00:15:01+00:00",
+      "source": "https://finnvolkel.com/wcoj-graph-join-correspondence",
+      "summary": "Article URL: https://finnvolkel.com/wcoj-graph-join-correspondence Comments URL: https://news.ycombinator.com/item?id=46483299 Points: 17 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46483023",
+      "title": "Swift on Android: Full Native App Development Now Possible",
+      "slug": "2026-01-03-swift-on-android-full-native-app-development-now-possible.html",
+      "path": "posts/2026-01-03-swift-on-android-full-native-app-development-now-possible.html",
+      "date_iso": "2026-01-03T23:39:12+00:00",
+      "source": "https://docs.swifdroid.com/app/",
+      "summary": "Article URL: https://docs.swifdroid.com/app/ Comments URL: https://news.ycombinator.com/item?id=46483023 Points: 180 # Comments: 97"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46482877",
+      "title": "The suck is why we're here",
+      "slug": "2026-01-03-the-suck-is-why-we-re-here.html",
+      "path": "posts/2026-01-03-the-suck-is-why-we-re-here.html",
+      "date_iso": "2026-01-03T23:24:41+00:00",
+      "source": "https://nik.art/the-suck-is-why-were-here/",
+      "summary": "Article URL: https://nik.art/the-suck-is-why-were-here/ Comments URL: https://news.ycombinator.com/item?id=46482877 Points: 222 # Comments: 103"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46482777",
+      "title": "China DRAM Maker CXMT Targets $4.2B IPO as It Takes on Samsung, SK Hynix, Micron",
+      "slug": "2026-01-03-china-dram-maker-cxmt-targets-4-2b-ipo-as-it-takes-on-samsung-sk-hynix-micron.html",
+      "path": "posts/2026-01-03-china-dram-maker-cxmt-targets-4-2b-ipo-as-it-takes-on-samsung-sk-hynix-micron.html",
+      "date_iso": "2026-01-03T23:14:29+00:00",
+      "source": "https://www.ic-pcb.com/chinas-leading-dram-maker-cxmt-targets-42-billion-ipo-as-it-takes-on-samsung-sk-hynix-and-micron.html",
+      "summary": "Article URL: https://www.ic-pcb.com/chinas-leading-dram-maker-cxmt-targets-42-billion-ipo-as-it-takes-on-samsung-sk-hynix-and-micron.html Comments URL: https://news.ycombinator.com/item?id=46482777 Points: 158 # Comments: 65"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46482642",
+      "title": "The Riven Diffs – Seeing Riven (1997) Differently",
+      "slug": "2026-01-03-the-riven-diffs-seeing-riven-1997-differently.html",
+      "path": "posts/2026-01-03-the-riven-diffs-seeing-riven-1997-differently.html",
+      "date_iso": "2026-01-03T23:01:57+00:00",
+      "source": "https://glthr.com/the-riven-diffs-1",
+      "summary": "Article URL: https://glthr.com/the-riven-diffs-1 Comments URL: https://news.ycombinator.com/item?id=46482642 Points: 64 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46482437",
+      "title": "Advanced Rail Energy Storage of North America",
+      "slug": "2026-01-03-advanced-rail-energy-storage-of-north-america.html",
+      "path": "posts/2026-01-03-advanced-rail-energy-storage-of-north-america.html",
+      "date_iso": "2026-01-03T22:35:11+00:00",
+      "source": "https://aresnorthamerica.com/",
+      "summary": "Article URL: https://aresnorthamerica.com/ Comments URL: https://news.ycombinator.com/item?id=46482437 Points: 31 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46482345",
+      "title": "Total monthly number of StackOverflow questions over time",
+      "slug": "2026-01-03-total-monthly-number-of-stackoverflow-questions-over-time.html",
+      "path": "posts/2026-01-03-total-monthly-number-of-stackoverflow-questions-over-time.html",
+      "date_iso": "2026-01-03T22:23:34+00:00",
+      "source": "https://data.stackexchange.com/stackoverflow/query/1926661#graph",
+      "summary": "Article URL: https://data.stackexchange.com/stackoverflow/query/1926661#graph Comments URL: https://news.ycombinator.com/item?id=46482345 Points: 925 # Comments: 489"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46482107",
+      "title": "Take One Small Step",
+      "slug": "2026-01-03-take-one-small-step.html",
+      "path": "posts/2026-01-03-take-one-small-step.html",
+      "date_iso": "2026-01-03T21:58:30+00:00",
+      "source": "https://thinkhuman.com/take-one-small-step/",
+      "summary": "Article URL: https://thinkhuman.com/take-one-small-step/ Comments URL: https://news.ycombinator.com/item?id=46482107 Points: 76 # Comments: 18"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46473399",
       "title": "Multiple explosions in Venezuela's capital Caracas",
       "slug": "2026-01-03-multiple-explosions-in-venezuela-s-capital-caracas.html",

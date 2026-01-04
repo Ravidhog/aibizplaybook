@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Krowdovi – Video-based indoor navigation on a DePIN creator economy</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Krowdovi – Video-based indoor navigation on a DePIN creator economy</h1>
+    <p><small>Published: 2026-01-04T04:23:13+00:00</small></p>
+  </header>
+
+  <main>
+    <p>What is this?<p>Krowdovi is an open-source platform that lets anyone with a smartphone record first-person navigation videos of indoor spaces - hospitals, airports, malls, universities - and earn tokens for helping others find their way around. It's built on Solana using a burn-and-mint DePIN model.The project addresses two problems:<p>Indoor navigation is still broken. 30% of first-time hospital visitors get lost or arrive late to appointments, costing large hospitals $200K-$500K annually in staff time. Existing solutions like Google Live View require pre-captured Street View data (which barely exists indoors), and enterprise tools charge $10K-$50K/year per venue.<p>Videographers are losing work to generative AI. Tools like Sora can generate synthetic video, but they can't walk through your hospital's actual layout or film your venue's real routes. There's an economic opportunity for creators to own location-based visual content that AI can't replicate.<p>How it works<p>For users: Scan a QR code at a venue entrance, watch a first-person video showing the route from where you are to your destination, with overlay graphics and multi-language support.<p>For creators: Record navigation videos on your phone, upload to the platform, earn reputation tiers (Bronze → Diamond) based on quality and views, get paid when users burn $FIND tokens to unlock your routes.<p>Token mechanics: Users burn $FIND tokens to mint "credits" that unlock videos. 75% of burned tokens are permanently removed from circulation, 25% goes to a remint pool that rewards creators. The smart contract on Solana handles burn-and-mint logic, reputation tracking, and distribution.<p>Everything is MIT licensed - fork it, the code is yours.<p>Why I built this<p>I care deeply about making the world accessible for all. If this gets forked someone executes fantastically to make the world a more accessible place for people who have visual or mobility impairments - sweet!<p>Technical stack<p>Smart Contracts: Rust/Anchor on Solana (burn-and-mint engine, reputation tiers, treasury management)
+Backend: Node.js/Express + Prisma/PostgreSQL (venue metadata, video uploads, JWT auth)<p>Frontend: Next.js 14 (Creator Studio, overlay tooling, wallet integration via @solana/wallet-adapter-react)<p>Designed to be hostable on Railway/Vercel with minimal devops. 
+The smart contract is on devnet - needs a security audit before mainnet, but you can test token burns/mints now.<p>Current limitations<p>What works: Smart contract deployed on devnet, full-stack app ready to deploy, video upload workflow, wallet authentication.<p>What doesn't: No real content yet (I need to film 10-20 venues), no mainnet token launch (waiting on security audit + demand validation), quality verification is manual, no mobile app (web-only).<p>Next steps: Deep soulful reflection on anti-gaming, moderation, ZK proofs<p>Try it yourself!<p>GitHub repo has setup instructions. You'll need Solana CLI, Node.js + pnpm, and a Solana wallet for devnet testing.Interested in forking for a different vertical, contributing code, testing by filming routes, or discussing token economics? I'm around to discuss in the comments.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46484882">https://news.ycombinator.com/item?id=46484882</a></p>
+<p>Points: 4</p>
+<p># Comments: 5</p>
+    <p><a href="https://github.com/daftpixie/krowdovi" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
