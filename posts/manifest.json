@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46495560",
+      "title": "ICE Is Using Facial-Recognition Technology to Quickly Arrest People",
+      "slug": "2026-01-05-ice-is-using-facial-recognition-technology-to-quickly-arrest-people.html",
+      "path": "posts/2026-01-05-ice-is-using-facial-recognition-technology-to-quickly-arrest-people.html",
+      "date_iso": "2026-01-05T05:16:37+00:00",
+      "source": "https://www.wsj.com/politics/policy/ice-facial-recognition-app-mobile-fortify-dfdd00bf",
+      "summary": "Article URL: https://www.wsj.com/politics/policy/ice-facial-recognition-app-mobile-fortify-dfdd00bf Comments URL: https://news.ycombinator.com/item?id=46495560 Points: 41 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46495539",
+      "title": "Building a Rust-style static analyzer for C++ with AI",
+      "slug": "2026-01-05-building-a-rust-style-static-analyzer-for-c-with-ai.html",
+      "path": "posts/2026-01-05-building-a-rust-style-static-analyzer-for-c-with-ai.html",
+      "date_iso": "2026-01-05T05:11:59+00:00",
+      "source": "http://mpaxos.com/blog/rusty-cpp.html",
+      "summary": "Article URL: http://mpaxos.com/blog/rusty-cpp.html Comments URL: https://news.ycombinator.com/item?id=46495539 Points: 26 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46495220",
+      "title": "California residents can now request all data brokers delete personal info",
+      "slug": "2026-01-05-california-residents-can-now-request-all-data-brokers-delete-personal-info.html",
+      "path": "posts/2026-01-05-california-residents-can-now-request-all-data-brokers-delete-personal-info.html",
+      "date_iso": "2026-01-05T04:00:38+00:00",
+      "source": "https://consumer.drop.privacy.ca.gov/",
+      "summary": "Article URL: https://consumer.drop.privacy.ca.gov/ Comments URL: https://news.ycombinator.com/item?id=46495220 Points: 188 # Comments: 45"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46494734",
+      "title": "During Helene, I just wanted a plain text website",
+      "slug": "2026-01-05-during-helene-i-just-wanted-a-plain-text-website.html",
+      "path": "posts/2026-01-05-during-helene-i-just-wanted-a-plain-text-website.html",
+      "date_iso": "2026-01-05T02:36:20+00:00",
+      "source": "https://sparkbox.com/foundry/helene_and_mobile_web_performance",
+      "summary": "Article URL: https://sparkbox.com/foundry/helene_and_mobile_web_performance Comments URL: https://news.ycombinator.com/item?id=46494734 Points: 132 # Comments: 71"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46494061",
+      "title": "NeXTSTEP on Pa-RISC",
+      "slug": "2026-01-05-nextstep-on-pa-risc.html",
+      "path": "posts/2026-01-05-nextstep-on-pa-risc.html",
+      "date_iso": "2026-01-05T00:48:44+00:00",
+      "source": "https://www.openpa.net/nextstep_pa-risc.html",
+      "summary": "Article URL: https://www.openpa.net/nextstep_pa-risc.html Comments URL: https://news.ycombinator.com/item?id=46494061 Points: 17 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46493623",
+      "title": "Millennium Challenge: A corrupted military exercise and its legacy (2015)",
+      "slug": "2026-01-04-millennium-challenge-a-corrupted-military-exercise-and-its-legacy-2015.html",
+      "path": "posts/2026-01-04-millennium-challenge-a-corrupted-military-exercise-and-its-legacy-2015.html",
+      "date_iso": "2026-01-04T23:43:48+00:00",
+      "source": "https://warontherocks.com/2015/11/millennium-challenge-the-real-story-of-a-corrupted-military-exercise-and-its-legacy/",
+      "summary": "Article URL: https://warontherocks.com/2015/11/millennium-challenge-the-real-story-of-a-corrupted-military-exercise-and-its-legacy/ Comments URL: https://news.ycombinator.com/item?id=46493623 Points: 32 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46492601",
+      "title": "Show HN: An LLM-Powered PCB Schematic Checker (Major Update)",
+      "slug": "2026-01-04-show-hn-an-llm-powered-pcb-schematic-checker-major-update.html",
+      "path": "posts/2026-01-04-show-hn-an-llm-powered-pcb-schematic-checker-major-update.html",
+      "date_iso": "2026-01-04T21:43:26+00:00",
+      "source": "https://traceformer.io/",
+      "summary": "Traceformer.io is a web application that ingests KiCad projects or Altium netlists along with relevant datasheets, enabling LLM-based schematic review. The system is designed to identify datasheet-driven schematic issues that traditional ERC tools can't detect. Since our first l…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46492063",
+      "title": "Eurostar AI vulnerability: When a chatbot goes off the rails",
+      "slug": "2026-01-04-eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails.html",
+      "path": "posts/2026-01-04-eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails.html",
+      "date_iso": "2026-01-04T20:52:52+00:00",
+      "source": "https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/",
+      "summary": "Article URL: https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/ Comments URL: https://news.ycombinator.com/item?id=46492063 Points: 119 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46491821",
+      "title": "Why does a least squares fit appear to have a bias when applied to simple data?",
+      "slug": "2026-01-04-why-does-a-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple-data.html",
+      "path": "posts/2026-01-04-why-does-a-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple-data.html",
+      "date_iso": "2026-01-04T20:25:30+00:00",
+      "source": "https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple",
+      "summary": "Article URL: https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple Comments URL: https://news.ycombinator.com/item?id=46491821 Points: 216 # Comments: 52"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46491749",
+      "title": "Show HN: Terminal UI for AWS",
+      "slug": "2026-01-04-show-hn-terminal-ui-for-aws.html",
+      "path": "posts/2026-01-04-show-hn-terminal-ui-for-aws.html",
+      "date_iso": "2026-01-04T20:17:22+00:00",
+      "source": "https://github.com/huseyinbabal/taws",
+      "summary": "Article URL: https://github.com/huseyinbabal/taws Comments URL: https://news.ycombinator.com/item?id=46491749 Points: 266 # Comments: 127"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46491486",
+      "title": "Claude Code On-the-Go",
+      "slug": "2026-01-04-claude-code-on-the-go.html",
+      "path": "posts/2026-01-04-claude-code-on-the-go.html",
+      "date_iso": "2026-01-04T19:48:20+00:00",
+      "source": "https://granda.org/en/2026/01/02/claude-code-on-the-go/",
+      "summary": "Article URL: https://granda.org/en/2026/01/02/claude-code-on-the-go/ Comments URL: https://news.ycombinator.com/item?id=46491486 Points: 289 # Comments: 184"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46491244",
+      "title": "Agentic Patterns",
+      "slug": "2026-01-04-agentic-patterns.html",
+      "path": "posts/2026-01-04-agentic-patterns.html",
+      "date_iso": "2026-01-04T19:24:47+00:00",
+      "source": "https://github.com/nibzard/awesome-agentic-patterns",
+      "summary": "Article URL: https://github.com/nibzard/awesome-agentic-patterns Comments URL: https://news.ycombinator.com/item?id=46491244 Points: 106 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46490323",
+      "title": "Ripple, a puzzle game about 2nd and 3rd order effects",
+      "slug": "2026-01-04-ripple-a-puzzle-game-about-2nd-and-3rd-order-effects.html",
+      "path": "posts/2026-01-04-ripple-a-puzzle-game-about-2nd-and-3rd-order-effects.html",
+      "date_iso": "2026-01-04T17:50:04+00:00",
+      "source": "https://ripplegame.app/",
+      "summary": "Article URL: https://ripplegame.app/ Comments URL: https://news.ycombinator.com/item?id=46490323 Points: 110 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46489830",
+      "title": "Trellis AI (YC W24) is hiring engineers to build AI agents for healthcare access",
+      "slug": "2026-01-04-trellis-ai-yc-w24-is-hiring-engineers-to-build-ai-agents-for-healthcare-access.html",
+      "path": "posts/2026-01-04-trellis-ai-yc-w24-is-hiring-engineers-to-build-ai-agents-for-healthcare-access.html",
+      "date_iso": "2026-01-04T17:01:43+00:00",
+      "source": "https://www.ycombinator.com/companies/trellis-ai/jobs/ngvfeaq-member-of-technical-staff-full-time",
+      "summary": "Article URL: https://www.ycombinator.com/companies/trellis-ai/jobs/ngvfeaq-member-of-technical-staff-full-time Comments URL: https://news.ycombinator.com/item?id=46489830 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46488819",
+      "title": "Lessons from 14 years at Google",
+      "slug": "2026-01-04-lessons-from-14-years-at-google.html",
+      "path": "posts/2026-01-04-lessons-from-14-years-at-google.html",
+      "date_iso": "2026-01-04T15:23:54+00:00",
+      "source": "https://addyosmani.com/blog/21-lessons/",
+      "summary": "Article URL: https://addyosmani.com/blog/21-lessons/ Comments URL: https://news.ycombinator.com/item?id=46488819 Points: 1093 # Comments: 476"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46488711",
+      "title": "Anti-aging injection regrows knee cartilage and prevents arthritis",
+      "slug": "2026-01-04-anti-aging-injection-regrows-knee-cartilage-and-prevents-arthritis.html",
+      "path": "posts/2026-01-04-anti-aging-injection-regrows-knee-cartilage-and-prevents-arthritis.html",
+      "date_iso": "2026-01-04T15:13:18+00:00",
+      "source": "https://scitechdaily.com/anti-aging-injection-regrows-knee-cartilage-and-prevents-arthritis/",
+      "summary": "https://www.science.org/doi/10.1126/science.adx6649 https://www.science.org/action/downloadSupplement?doi=10.112... Comments URL: https://news.ycombinator.com/item?id=46488711 Points: 282 # Comments: 104"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46488654",
+      "title": "Show HN: An interactive guide to how browsers work",
+      "slug": "2026-01-04-show-hn-an-interactive-guide-to-how-browsers-work.html",
+      "path": "posts/2026-01-04-show-hn-an-interactive-guide-to-how-browsers-work.html",
+      "date_iso": "2026-01-04T15:08:02+00:00",
+      "source": "https://howbrowserswork.com/",
+      "summary": "Article URL: https://howbrowserswork.com/ Comments URL: https://news.ycombinator.com/item?id=46488654 Points: 216 # Comments: 31"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46488576",
+      "title": "Web development is fun again",
+      "slug": "2026-01-04-web-development-is-fun-again.html",
+      "path": "posts/2026-01-04-web-development-is-fun-again.html",
+      "date_iso": "2026-01-04T15:00:18+00:00",
+      "source": "https://ma.ttias.be/web-development-is-fun-again/",
+      "summary": "Article URL: https://ma.ttias.be/web-development-is-fun-again/ Comments URL: https://news.ycombinator.com/item?id=46488576 Points: 358 # Comments: 434"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46488355",
+      "title": "The unbearable joy of sitting alone in a café",
+      "slug": "2026-01-04-the-unbearable-joy-of-sitting-alone-in-a-caf.html",
+      "path": "posts/2026-01-04-the-unbearable-joy-of-sitting-alone-in-a-caf.html",
+      "date_iso": "2026-01-04T14:37:58+00:00",
+      "source": "https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/",
+      "summary": "Article URL: https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/ Comments URL: https://news.ycombinator.com/item?id=46488355 Points: 550 # Comments: 333"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46488278",
+      "title": "Street Fighter II, the World Warrier (2021)",
+      "slug": "2026-01-04-street-fighter-ii-the-world-warrier-2021.html",
+      "path": "posts/2026-01-04-street-fighter-ii-the-world-warrier-2021.html",
+      "date_iso": "2026-01-04T14:30:29+00:00",
+      "source": "https://fabiensanglard.net/sf2_warrier/",
+      "summary": "Article URL: https://fabiensanglard.net/sf2_warrier/ Comments URL: https://news.ycombinator.com/item?id=46488278 Points: 350 # Comments: 59"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46485130",
       "title": "Learning to Play Tic-Tac-Toe with Jax",
       "slug": "2026-01-04-learning-to-play-tic-tac-toe-with-jax.html",
