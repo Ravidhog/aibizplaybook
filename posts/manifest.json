@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46523029",
+      "title": "Bill to Eliminate H-1B Visa Program Introduced in Congress",
+      "slug": "2026-01-07-bill-to-eliminate-h-1b-visa-program-introduced-in-congress.html",
+      "path": "posts/2026-01-07-bill-to-eliminate-h-1b-visa-program-introduced-in-congress.html",
+      "date_iso": "2026-01-07T05:44:54+00:00",
+      "source": "https://www.newsweek.com/eliminate-h1b-visa-program-congress-bill-marjorie-taylor-greene-11312655",
+      "summary": "Article URL: https://www.newsweek.com/eliminate-h1b-visa-program-congress-bill-marjorie-taylor-greene-11312655 Comments URL: https://news.ycombinator.com/item?id=46523029 Points: 41 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46522308",
+      "title": "On the slow death of scaling",
+      "slug": "2026-01-07-on-the-slow-death-of-scaling.html",
+      "path": "posts/2026-01-07-on-the-slow-death-of-scaling.html",
+      "date_iso": "2026-01-07T03:48:05+00:00",
+      "source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662",
+      "summary": "pdf: https://download.ssrn.com/2026/1/6/5877662.pdf?response-cont... Comments URL: https://news.ycombinator.com/item?id=46522308 Points: 47 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46521860",
+      "title": "Microsoft probably killed my Snapdragon Dev Kit",
+      "slug": "2026-01-07-microsoft-probably-killed-my-snapdragon-dev-kit.html",
+      "path": "posts/2026-01-07-microsoft-probably-killed-my-snapdragon-dev-kit.html",
+      "date_iso": "2026-01-07T02:37:09+00:00",
+      "source": "https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/",
+      "summary": "Article URL: https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/ Comments URL: https://news.ycombinator.com/item?id=46521860 Points: 131 # Comments: 75"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46521084",
+      "title": "PassSeeds – hijacking Passkeys to unlock new cryptographic use cases",
+      "slug": "2026-01-07-passseeds-hijacking-passkeys-to-unlock-new-cryptographic-use-cases.html",
+      "path": "posts/2026-01-07-passseeds-hijacking-passkeys-to-unlock-new-cryptographic-use-cases.html",
+      "date_iso": "2026-01-07T00:50:58+00:00",
+      "source": "https://backalleycoder.com/posts/passseeds-an-experiment-in-hijacking-passkeys-to-unlock-cryptographic-use-cases/",
+      "summary": "Article URL: https://backalleycoder.com/posts/passseeds-an-experiment-in-hijacking-passkeys-to-unlock-cryptographic-use-cases/ Comments URL: https://news.ycombinator.com/item?id=46521084 Points: 40 # Comments: 31"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46521029",
+      "title": "We recreated Steve Jobs's 1975 Atari horoscope program",
+      "slug": "2026-01-07-we-recreated-steve-jobs-s-1975-atari-horoscope-program.html",
+      "path": "posts/2026-01-07-we-recreated-steve-jobs-s-1975-atari-horoscope-program.html",
+      "date_iso": "2026-01-07T00:44:43+00:00",
+      "source": "https://blog.adafruit.com/2026/01/06/we-recreated-steve-jobss-1975-atari-horoscope-program-and-you-can-run-it/",
+      "summary": "Article URL: https://blog.adafruit.com/2026/01/06/we-recreated-steve-jobss-1975-atari-horoscope-program-and-you-can-run-it/ Comments URL: https://news.ycombinator.com/item?id=46521029 Points: 48 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46520935",
+      "title": "Electronic nose for indoor mold detection and identification",
+      "slug": "2026-01-07-electronic-nose-for-indoor-mold-detection-and-identification.html",
+      "path": "posts/2026-01-07-electronic-nose-for-indoor-mold-detection-and-identification.html",
+      "date_iso": "2026-01-07T00:31:01+00:00",
+      "source": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124",
+      "summary": "Article URL: https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124 Comments URL: https://news.ycombinator.com/item?id=46520935 Points: 81 # Comments: 42"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46520926",
+      "title": "Show HN: SMTP Tunnel – A SOCKS5 proxy disguised as email traffic to bypass DPI",
+      "slug": "2026-01-07-show-hn-smtp-tunnel-a-socks5-proxy-disguised-as-email-traffic-to-bypass-dpi.html",
+      "path": "posts/2026-01-07-show-hn-smtp-tunnel-a-socks5-proxy-disguised-as-email-traffic-to-bypass-dpi.html",
+      "date_iso": "2026-01-07T00:30:09+00:00",
+      "source": "https://github.com/x011/smtp-tunnel-proxy",
+      "summary": "A fast SOCKS5 proxy that tunnels your traffic through what looks like normal SMTP email, bypassing Deep Packet Inspection firewalls. How it works: - Client runs a local SOCKS5 proxy (127.0.0.1:1080) - Traffic is sent to server disguised as SMTP (EHLO, STARTTLS, AUTH) - DPI sees…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/06/business/energy-environment/kairos-small-modular-nuclear-power.html",
+      "title": "Optimism About Nuclear Energy Is Rising Again. Will It Last?",
+      "slug": "2026-01-06-optimism-about-nuclear-energy-is-rising-again-will-it-last.html",
+      "path": "posts/2026-01-06-optimism-about-nuclear-energy-is-rising-again-will-it-last.html",
+      "date_iso": "2026-01-06T22:17:14+00:00",
+      "source": "https://www.nytimes.com/2026/01/06/business/energy-environment/kairos-small-modular-nuclear-power.html",
+      "summary": "Kairos Power, which is developing a new kind of nuclear reactor, makes many of its parts at a facility in Albuquerque, N.M."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46519326",
+      "title": "CES 2026: Taking the Lids Off AMD's Venice and MI400 SoCs",
+      "slug": "2026-01-06-ces-2026-taking-the-lids-off-amd-s-venice-and-mi400-socs.html",
+      "path": "posts/2026-01-06-ces-2026-taking-the-lids-off-amd-s-venice-and-mi400-socs.html",
+      "date_iso": "2026-01-06T21:46:04+00:00",
+      "source": "https://chipsandcheese.com/p/ces-2026-taking-the-lids-off-amds",
+      "summary": "Article URL: https://chipsandcheese.com/p/ces-2026-taking-the-lids-off-amds Comments URL: https://news.ycombinator.com/item?id=46519326 Points: 93 # Comments: 54"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46519303",
+      "title": "Laylo (YC S20) – Head of Growth (Organic and Partners and Loops and AI) – Remote US",
+      "slug": "2026-01-06-laylo-yc-s20-head-of-growth-organic-and-partners-and-loops-and-ai-remote-us.html",
+      "path": "posts/2026-01-06-laylo-yc-s20-head-of-growth-organic-and-partners-and-loops-and-ai-remote-us.html",
+      "date_iso": "2026-01-06T21:44:37+00:00",
+      "source": "https://www.ycombinator.com/companies/laylo/jobs/ZtLHRXe-head-of-growth",
+      "summary": "Article URL: https://www.ycombinator.com/companies/laylo/jobs/ZtLHRXe-head-of-growth Comments URL: https://news.ycombinator.com/item?id=46519303 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/06/technology/xai-elon-musk-funding.html",
+      "title": "Elon Musk’s xAI Raises $20 Billion",
+      "slug": "2026-01-06-elon-musk-s-xai-raises-20-billion.html",
+      "path": "posts/2026-01-06-elon-musk-s-xai-raises-20-billion.html",
+      "date_iso": "2026-01-06T21:43:54+00:00",
+      "source": "https://www.nytimes.com/2026/01/06/technology/xai-elon-musk-funding.html",
+      "summary": "Elon Musk founded xAI in 2023."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46518996",
+      "title": "Comparing AI agents to cybersecurity professionals in real-world pen testing",
+      "slug": "2026-01-06-comparing-ai-agents-to-cybersecurity-professionals-in-real-world-pen-testing.html",
+      "path": "posts/2026-01-06-comparing-ai-agents-to-cybersecurity-professionals-in-real-world-pen-testing.html",
+      "date_iso": "2026-01-06T21:23:07+00:00",
+      "source": "https://arxiv.org/abs/2512.09882",
+      "summary": "WSJ writeup (\"AI Hackers Are Coming Dangerously Close to Beating Humans\"): https://www.wsj.com/tech/ai/ai-hackers-are-coming-dangerousl... , https://archive.ph/L4gh3 Comments URL: https://news.ycombinator.com/item?id=46518996 Points: 89 # Comments: 57"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46518804",
+      "title": "Oral microbiome sequencing after taking probiotics",
+      "slug": "2026-01-06-oral-microbiome-sequencing-after-taking-probiotics.html",
+      "path": "posts/2026-01-06-oral-microbiome-sequencing-after-taking-probiotics.html",
+      "date_iso": "2026-01-06T21:10:47+00:00",
+      "source": "https://blog.booleanbiotech.com/oral-microbiome-biogaia",
+      "summary": "Article URL: https://blog.booleanbiotech.com/oral-microbiome-biogaia Comments URL: https://news.ycombinator.com/item?id=46518804 Points: 123 # Comments: 54"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46518573",
+      "title": "A 30B Qwen model walks into a Raspberry Pi and runs in real time",
+      "slug": "2026-01-06-a-30b-qwen-model-walks-into-a-raspberry-pi-and-runs-in-real-time.html",
+      "path": "posts/2026-01-06-a-30b-qwen-model-walks-into-a-raspberry-pi-and-runs-in-real-time.html",
+      "date_iso": "2026-01-06T20:55:01+00:00",
+      "source": "https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/",
+      "summary": "Article URL: https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/ Comments URL: https://news.ycombinator.com/item?id=46518573 Points: 201 # Comments: 55"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46518129",
+      "title": "Calling All Hackers: How money works (2024)",
+      "slug": "2026-01-06-calling-all-hackers-how-money-works-2024.html",
+      "path": "posts/2026-01-06-calling-all-hackers-how-money-works-2024.html",
+      "date_iso": "2026-01-06T20:24:45+00:00",
+      "source": "https://phrack.org/issues/71/17",
+      "summary": "Article URL: https://phrack.org/issues/71/17 Comments URL: https://news.ycombinator.com/item?id=46518129 Points: 216 # Comments: 135"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46517458",
+      "title": "Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone",
+      "slug": "2026-01-06-stop-doom-scrolling-start-doom-coding-build-via-the-terminal-from-your-phone.html",
+      "path": "posts/2026-01-06-stop-doom-scrolling-start-doom-coding-build-via-the-terminal-from-your-phone.html",
+      "date_iso": "2026-01-06T19:38:32+00:00",
+      "source": "https://github.com/rberg27/doom-coding",
+      "summary": "I used Tailscale, an old laptop, Claude Code, and Termius to code from my phone anywhere I have Internet connection. Great for parties where you rather be home tinkering. Comments URL: https://news.ycombinator.com/item?id=46517458 Points: 382 # Comments: 259"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46517319",
+      "title": "High-Performance DBMSs with io_uring: When and How to use it",
+      "slug": "2026-01-06-high-performance-dbmss-with-io-uring-when-and-how-to-use-it.html",
+      "path": "posts/2026-01-06-high-performance-dbmss-with-io-uring-when-and-how-to-use-it.html",
+      "date_iso": "2026-01-06T19:29:15+00:00",
+      "source": "https://arxiv.org/abs/2512.04859",
+      "summary": "Article URL: https://arxiv.org/abs/2512.04859 Comments URL: https://news.ycombinator.com/item?id=46517319 Points: 118 # Comments: 24"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46516137",
+      "title": "Passing of Joe Mancuso",
+      "slug": "2026-01-06-passing-of-joe-mancuso.html",
+      "path": "posts/2026-01-06-passing-of-joe-mancuso.html",
+      "date_iso": "2026-01-06T18:11:51+00:00",
+      "source": "https://github.com/MasoniteFramework/masonite/discussions/853",
+      "summary": "Article URL: https://github.com/MasoniteFramework/masonite/discussions/853 Comments URL: https://news.ycombinator.com/item?id=46516137 Points: 160 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46515948",
+      "title": "Locating a Photo of a Vehicle in 30 Seconds with GeoSpy",
+      "slug": "2026-01-06-locating-a-photo-of-a-vehicle-in-30-seconds-with-geospy.html",
+      "path": "posts/2026-01-06-locating-a-photo-of-a-vehicle-in-30-seconds-with-geospy.html",
+      "date_iso": "2026-01-06T18:00:27+00:00",
+      "source": "https://geospy.ai/blog/locating-a-photo-of-a-vehicle-in-30-seconds-with-geospy",
+      "summary": "Article URL: https://geospy.ai/blog/locating-a-photo-of-a-vehicle-in-30-seconds-with-geospy Comments URL: https://news.ycombinator.com/item?id=46515948 Points: 113 # Comments: 99"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46515777",
+      "title": "Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery",
+      "slug": "2026-01-06-launch-hn-tamarind-bio-yc-w24-ai-inference-provider-for-drug-discovery.html",
+      "path": "posts/2026-01-06-launch-hn-tamarind-bio-yc-w24-ai-inference-provider-for-drug-discovery.html",
+      "date_iso": "2026-01-06T17:49:56+00:00",
+      "source": "https://news.ycombinator.com/item?id=46515777",
+      "summary": "Hi HN, we're Deniz and Sherry from Tamarind Bio ( https://www.tamarind.bio ). Tamarind is an inference provider for AI drug discovery, serving models like AlphaFold. Biopharma companies use our library of leading open-source models to design new medicines computationally. Here’s…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46515696",
+      "title": "Opus 4.5 is not the normal AI agent experience that I have had thus far",
+      "slug": "2026-01-06-opus-4-5-is-not-the-normal-ai-agent-experience-that-i-have-had-thus-far.html",
+      "path": "posts/2026-01-06-opus-4-5-is-not-the-normal-ai-agent-experience-that-i-have-had-thus-far.html",
+      "date_iso": "2026-01-06T17:45:37+00:00",
+      "source": "https://burkeholland.github.io/posts/opus-4-5-change-everything/",
+      "summary": "Article URL: https://burkeholland.github.io/posts/opus-4-5-change-everything/ Comments URL: https://news.ycombinator.com/item?id=46515696 Points: 477 # Comments: 652"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46514677",
+      "title": "Vietnam bans unskippable ads",
+      "slug": "2026-01-06-vietnam-bans-unskippable-ads.html",
+      "path": "posts/2026-01-06-vietnam-bans-unskippable-ads.html",
+      "date_iso": "2026-01-06T16:45:42+00:00",
+      "source": "https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds",
+      "summary": "Article URL: https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds Comments URL: https://news.ycombinator.com/item?id=46514677 Points: 1237 # Comments: 648"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46509211",
       "title": "enclose.horse",
       "slug": "2026-01-06-enclose-horse.html",

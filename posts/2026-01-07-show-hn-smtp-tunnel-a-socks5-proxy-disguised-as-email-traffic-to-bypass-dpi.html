@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: SMTP Tunnel – A SOCKS5 proxy disguised as email traffic to bypass DPI</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: SMTP Tunnel – A SOCKS5 proxy disguised as email traffic to bypass DPI</h1>
+    <p><small>Published: 2026-01-07T00:30:09+00:00</small></p>
+  </header>
+
+  <main>
+    <p>A fast SOCKS5 proxy that tunnels your traffic through what looks like normal SMTP email, bypassing Deep Packet Inspection firewalls.<p>How it works:
+- Client runs a local SOCKS5 proxy (127.0.0.1:1080)
+- Traffic is sent to server disguised as SMTP (EHLO, STARTTLS, AUTH)
+- DPI sees legitimate email session, not a VPN/proxy<p>Features:
+- One-liner install on any Linux VPS
+- Multi-user with per-user secrets and IP whitelists
+- Auto-generated client packages (just double-click to run)
+- Auto-reconnect on connection loss
+- Works with any app that supports SOCKS5<p>Tech: Python/asyncio, TLS 1.2+, HMAC-SHA256 auth<p>GitHub: <a href="https://github.com/x011/smtp-tunnel-proxy" rel="nofollow">https://github.com/x011/smtp-tunnel-proxy</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46520926">https://news.ycombinator.com/item?id=46520926</a></p>
+<p>Points: 26</p>
+<p># Comments: 17</p>
+    <p><a href="https://github.com/x011/smtp-tunnel-proxy" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
