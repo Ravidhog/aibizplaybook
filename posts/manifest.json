@@ -1,6 +1,213 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46538001",
+      "title": "A closer look at a BGP anomaly in Venezuela",
+      "slug": "2026-01-08-a-closer-look-at-a-bgp-anomaly-in-venezuela.html",
+      "path": "posts/2026-01-08-a-closer-look-at-a-bgp-anomaly-in-venezuela.html",
+      "date_iso": "2026-01-08T06:46:26+00:00",
+      "source": "https://blog.cloudflare.com/bgp-route-leak-venezuela/",
+      "summary": "Article URL: https://blog.cloudflare.com/bgp-route-leak-venezuela/ Comments URL: https://news.ycombinator.com/item?id=46538001 Points: 25 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46537983",
+      "title": "AI misses nearly one-third of breast cancers, study finds",
+      "slug": "2026-01-08-ai-misses-nearly-one-third-of-breast-cancers-study-finds.html",
+      "path": "posts/2026-01-08-ai-misses-nearly-one-third-of-breast-cancers-study-finds.html",
+      "date_iso": "2026-01-08T06:43:07+00:00",
+      "source": "https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/",
+      "summary": "Article URL: https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/ Comments URL: https://news.ycombinator.com/item?id=46537983 Points: 20 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46537489",
+      "title": "Project Patchouli: Open-source electromagnetic drawing tablet hardware",
+      "slug": "2026-01-08-project-patchouli-open-source-electromagnetic-drawing-tablet-hardware.html",
+      "path": "posts/2026-01-08-project-patchouli-open-source-electromagnetic-drawing-tablet-hardware.html",
+      "date_iso": "2026-01-08T05:20:05+00:00",
+      "source": "https://patchouli.readthedocs.io/en/latest/",
+      "summary": "Article URL: https://patchouli.readthedocs.io/en/latest/ Comments URL: https://news.ycombinator.com/item?id=46537489 Points: 70 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46537459",
+      "title": "Show HN: Lean4 proof that SSOT requires definition-time hooks and introspection",
+      "slug": "2026-01-08-show-hn-lean4-proof-that-ssot-requires-definition-time-hooks-and-introspection.html",
+      "path": "posts/2026-01-08-show-hn-lean4-proof-that-ssot-requires-definition-time-hooks-and-introspection.html",
+      "date_iso": "2026-01-08T05:15:41+00:00",
+      "source": "https://zenodo.org/records/18177320",
+      "summary": "I formalized the Single Source of Truth (SSOT) principle in Lean 4 (~2.1k LOC, zero sorry) and proved two core results: Structural SSOT is achievable only when a language provides definition-time hooks and runtime introspection. Macros/codegen (before definition) and reflection…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46537295",
+      "title": "Why we're taking legal action against SerpApi's unlawful scraping",
+      "slug": "2026-01-08-why-we-re-taking-legal-action-against-serpapi-s-unlawful-scraping.html",
+      "path": "posts/2026-01-08-why-we-re-taking-legal-action-against-serpapi-s-unlawful-scraping.html",
+      "date_iso": "2026-01-08T04:46:56+00:00",
+      "source": "https://blog.google/innovation-and-ai/technology/safety-security/serpapi-lawsuit/",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/safety-security/serpapi-lawsuit/ Comments URL: https://news.ycombinator.com/item?id=46537295 Points: 13 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46537095",
+      "title": "Go.sum is not a lockfile",
+      "slug": "2026-01-08-go-sum-is-not-a-lockfile.html",
+      "path": "posts/2026-01-08-go-sum-is-not-a-lockfile.html",
+      "date_iso": "2026-01-08T04:10:34+00:00",
+      "source": "https://words.filippo.io/gosum/",
+      "summary": "Article URL: https://words.filippo.io/gosum/ Comments URL: https://news.ycombinator.com/item?id=46537095 Points: 37 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46536866",
+      "title": "Open Infrastructure Map",
+      "slug": "2026-01-08-open-infrastructure-map.html",
+      "path": "posts/2026-01-08-open-infrastructure-map.html",
+      "date_iso": "2026-01-08T03:31:12+00:00",
+      "source": "https://openinframap.org",
+      "summary": "Article URL: https://openinframap.org Comments URL: https://news.ycombinator.com/item?id=46536866 Points: 83 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46536848",
+      "title": "Chase to become new issuer of Apple Card",
+      "slug": "2026-01-08-chase-to-become-new-issuer-of-apple-card.html",
+      "path": "posts/2026-01-08-chase-to-become-new-issuer-of-apple-card.html",
+      "date_iso": "2026-01-08T03:29:11+00:00",
+      "source": "https://www.jpmorganchase.com/ir/news/2026/chase-to-become-new-issuer-of-apple-card",
+      "summary": "Article URL: https://www.jpmorganchase.com/ir/news/2026/chase-to-become-new-issuer-of-apple-card Comments URL: https://news.ycombinator.com/item?id=46536848 Points: 99 # Comments: 97"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46536340",
+      "title": "Kernel bugs hide for 2 years on average. Some hide for 20",
+      "slug": "2026-01-08-kernel-bugs-hide-for-2-years-on-average-some-hide-for-20.html",
+      "path": "posts/2026-01-08-kernel-bugs-hide-for-2-years-on-average-some-hide-for-20.html",
+      "date_iso": "2026-01-08T02:18:09+00:00",
+      "source": "https://pebblebed.com/blog/kernel-bugs",
+      "summary": "Article URL: https://pebblebed.com/blog/kernel-bugs Comments URL: https://news.ycombinator.com/item?id=46536340 Points: 123 # Comments: 43"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46535540",
+      "title": "Musashi: Motorola 680x0 emulator written in C",
+      "slug": "2026-01-08-musashi-motorola-680x0-emulator-written-in-c.html",
+      "path": "posts/2026-01-08-musashi-motorola-680x0-emulator-written-in-c.html",
+      "date_iso": "2026-01-08T00:51:20+00:00",
+      "source": "https://github.com/kstenerud/Musashi",
+      "summary": "Article URL: https://github.com/kstenerud/Musashi Comments URL: https://news.ycombinator.com/item?id=46535540 Points: 54 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46535515",
+      "title": "The virtual AmigaOS runtime (a.k.a. Wine for Amiga:)",
+      "slug": "2026-01-08-the-virtual-amigaos-runtime-a-k-a-wine-for-amiga.html",
+      "path": "posts/2026-01-08-the-virtual-amigaos-runtime-a-k-a-wine-for-amiga.html",
+      "date_iso": "2026-01-08T00:48:17+00:00",
+      "source": "https://github.com/cnvogelg/amitools/blob/main/docs/vamos.md",
+      "summary": "Article URL: https://github.com/cnvogelg/amitools/blob/main/docs/vamos.md Comments URL: https://news.ycombinator.com/item?id=46535515 Points: 46 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46534777",
+      "title": "Play Aardwolf MUD",
+      "slug": "2026-01-07-play-aardwolf-mud.html",
+      "path": "posts/2026-01-07-play-aardwolf-mud.html",
+      "date_iso": "2026-01-07T23:31:05+00:00",
+      "source": "https://www.aardwolf.com/",
+      "summary": "Article URL: https://www.aardwolf.com/ Comments URL: https://news.ycombinator.com/item?id=46534777 Points: 116 # Comments: 53"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/07/technology/google-characterai-teenager-lawsuit.html",
+      "title": "Google and Character.AI to Settle Lawsuit Over Teenager’s Death",
+      "slug": "2026-01-07-google-and-character-ai-to-settle-lawsuit-over-teenager-s-death.html",
+      "path": "posts/2026-01-07-google-and-character-ai-to-settle-lawsuit-over-teenager-s-death.html",
+      "date_iso": "2026-01-07T23:22:13+00:00",
+      "source": "https://www.nytimes.com/2026/01/07/technology/google-characterai-teenager-lawsuit.html",
+      "summary": "Megan L. Garcia holds her phone with an image of her son Sewell Setzer III, who killed himself after conversing with an A.I. chatbot from the company Character.AI."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/07/technology/anthropic-funding-valuation.html",
+      "title": "Anthropic Said to Be in Talks to Raise Funding at a $350 Billion Valuation",
+      "slug": "2026-01-07-anthropic-said-to-be-in-talks-to-raise-funding-at-a-350-billion-valuation.html",
+      "path": "posts/2026-01-07-anthropic-said-to-be-in-talks-to-raise-funding-at-a-350-billion-valuation.html",
+      "date_iso": "2026-01-07T21:02:05+00:00",
+      "source": "https://www.nytimes.com/2026/01/07/technology/anthropic-funding-valuation.html",
+      "summary": "Dario Amodei founded Anthropic in 2021 with his sister, Daniela Amodei. A funding round in September valued the company at $183 billion."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46532075",
+      "title": "Claude Code CLI was broken",
+      "slug": "2026-01-07-claude-code-cli-was-broken.html",
+      "path": "posts/2026-01-07-claude-code-cli-was-broken.html",
+      "date_iso": "2026-01-07T20:25:51+00:00",
+      "source": "https://github.com/anthropics/claude-code/issues/16673",
+      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/16673 Comments URL: https://news.ycombinator.com/item?id=46532075 Points: 107 # Comments: 94"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46531925",
+      "title": "Tailscale state file encryption no longer enabled by default",
+      "slug": "2026-01-07-tailscale-state-file-encryption-no-longer-enabled-by-default.html",
+      "path": "posts/2026-01-07-tailscale-state-file-encryption-no-longer-enabled-by-default.html",
+      "date_iso": "2026-01-07T20:16:50+00:00",
+      "source": "https://tailscale.com/changelog",
+      "summary": "Article URL: https://tailscale.com/changelog Comments URL: https://news.ycombinator.com/item?id=46531925 Points: 272 # Comments: 107"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46531565",
+      "title": "Notion AI: Unpatched data exfiltration",
+      "slug": "2026-01-07-notion-ai-unpatched-data-exfiltration.html",
+      "path": "posts/2026-01-07-notion-ai-unpatched-data-exfiltration.html",
+      "date_iso": "2026-01-07T19:49:54+00:00",
+      "source": "https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration",
+      "summary": "Article URL: https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration Comments URL: https://news.ycombinator.com/item?id=46531565 Points: 150 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46531280",
+      "title": "ChatGPT Health",
+      "slug": "2026-01-07-chatgpt-health.html",
+      "path": "posts/2026-01-07-chatgpt-health.html",
+      "date_iso": "2026-01-07T19:29:39+00:00",
+      "source": "https://openai.com/index/introducing-chatgpt-health/",
+      "summary": "Article URL: https://openai.com/index/introducing-chatgpt-health/ Comments URL: https://news.ycombinator.com/item?id=46531280 Points: 214 # Comments: 242"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46531068",
+      "title": "US will ban Wall Street investors from buying single-family homes",
+      "slug": "2026-01-07-us-will-ban-wall-street-investors-from-buying-single-family-homes.html",
+      "path": "posts/2026-01-07-us-will-ban-wall-street-investors-from-buying-single-family-homes.html",
+      "date_iso": "2026-01-07T19:13:19+00:00",
+      "source": "https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/",
+      "summary": "Article URL: https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/ Comments URL: https://news.ycombinator.com/item?id=46531068 Points: 775 # Comments: 834"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46530832",
+      "title": "Show HN: I visualized the entire history of Citi Bike in the browser",
+      "slug": "2026-01-07-show-hn-i-visualized-the-entire-history-of-citi-bike-in-the-browser.html",
+      "path": "posts/2026-01-07-show-hn-i-visualized-the-entire-history-of-citi-bike-in-the-browser.html",
+      "date_iso": "2026-01-07T18:57:18+00:00",
+      "source": "https://bikemap.nyc/",
+      "summary": "Each moving arrow represents one real bike ride out of 291 million, and if you've ever taken a Citi Bike before, you are included in this massive visualization! You can search for your ride using Cmd + K and your Citi Bike receipt, which should give you the time of your ride and…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46530448",
+      "title": "NPM to implement staged publishing after turbulent shift off classic tokens",
+      "slug": "2026-01-07-npm-to-implement-staged-publishing-after-turbulent-shift-off-classic-tokens.html",
+      "path": "posts/2026-01-07-npm-to-implement-staged-publishing-after-turbulent-shift-off-classic-tokens.html",
+      "date_iso": "2026-01-07T18:31:19+00:00",
+      "source": "https://socket.dev/blog/npm-to-implement-staged-publishing",
+      "summary": "Article URL: https://socket.dev/blog/npm-to-implement-staged-publishing Comments URL: https://news.ycombinator.com/item?id=46530448 Points: 160 # Comments: 47"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/07/us/politics/ro-khanna-california-wealth-tax.html",
+      "title": "California Tech Executives Plot Against Rep. Ro Khanna Over Support of Wealth Tax",
+      "slug": "2026-01-07-california-tech-executives-plot-against-rep-ro-khanna-over-support-of-wealth-tax.html",
+      "path": "posts/2026-01-07-california-tech-executives-plot-against-rep-ro-khanna-over-support-of-wealth-tax.html",
+      "date_iso": "2026-01-07T18:19:53+00:00",
+      "source": "https://www.nytimes.com/2026/01/07/us/politics/ro-khanna-california-wealth-tax.html",
+      "summary": "Representative Ro Khanna of California has publicly defended a proposed ballot measure for a wealth tax in California that has angered some of the state’s richest executives."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46529237",
+      "title": "Eat Real Food",
+      "slug": "2026-01-07-eat-real-food.html",
+      "path": "posts/2026-01-07-eat-real-food.html",
+      "date_iso": "2026-01-07T17:22:09+00:00",
+      "source": "https://realfood.gov",
+      "summary": "Article URL: https://realfood.gov Comments URL: https://news.ycombinator.com/item?id=46529237 Points: 742 # Comments: 1030"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46523029",
       "title": "Bill to Eliminate H-1B Visa Program Introduced in Congress",
       "slug": "2026-01-07-bill-to-eliminate-h-1b-visa-program-introduced-in-congress.html",
