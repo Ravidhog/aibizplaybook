@@ -1,6 +1,240 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46550777",
+      "title": "Do not mistake a resilient global economy for populist success",
+      "slug": "2026-01-09-do-not-mistake-a-resilient-global-economy-for-populist-success.html",
+      "path": "posts/2026-01-09-do-not-mistake-a-resilient-global-economy-for-populist-success.html",
+      "date_iso": "2026-01-09T06:43:27+00:00",
+      "source": "https://www.economist.com/leaders/2026/01/08/do-not-mistake-a-resilient-global-economy-for-populist-success",
+      "summary": "Article URL: https://www.economist.com/leaders/2026/01/08/do-not-mistake-a-resilient-global-economy-for-populist-success Comments URL: https://news.ycombinator.com/item?id=46550777 Points: 40 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46550231",
+      "title": "The No Fakes Act Has a \"Fingerprinting\" Trap That Kills Open Source",
+      "slug": "2026-01-09-the-no-fakes-act-has-a-fingerprinting-trap-that-kills-open-source.html",
+      "path": "posts/2026-01-09-the-no-fakes-act-has-a-fingerprinting-trap-that-kills-open-source.html",
+      "date_iso": "2026-01-09T05:01:24+00:00",
+      "source": "https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/",
+      "summary": "Article URL: https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/ Comments URL: https://news.ycombinator.com/item?id=46550231 Points: 95 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46549823",
+      "title": "Anthropic blocks third-party use of Claude Code subscriptions",
+      "slug": "2026-01-09-anthropic-blocks-third-party-use-of-claude-code-subscriptions.html",
+      "path": "posts/2026-01-09-anthropic-blocks-third-party-use-of-claude-code-subscriptions.html",
+      "date_iso": "2026-01-09T03:44:35+00:00",
+      "source": "https://github.com/anomalyco/opencode/issues/7410",
+      "summary": "Article URL: https://github.com/anomalyco/opencode/issues/7410 Comments URL: https://news.ycombinator.com/item?id=46549823 Points: 257 # Comments: 178"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46549444",
+      "title": "Show HN: Executable Markdown files with Unix pipes",
+      "slug": "2026-01-09-show-hn-executable-markdown-files-with-unix-pipes.html",
+      "path": "posts/2026-01-09-show-hn-executable-markdown-files-with-unix-pipes.html",
+      "date_iso": "2026-01-09T02:29:12+00:00",
+      "source": "https://news.ycombinator.com/item?id=46549444",
+      "summary": "I wanted to run markdown files like shell scripts. So I built an open source tool that lets you use a shebang to pipe them through Claude Code with full stdin/stdout support. task.md: #!/usr/bin/env claude-run Analyze this codebase and summarize the architecture. Then: chmod +x…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46549105",
+      "title": "Logistics Is Dying; Or – Dude, Where's My Mail?",
+      "slug": "2026-01-09-logistics-is-dying-or-dude-where-s-my-mail.html",
+      "path": "posts/2026-01-09-logistics-is-dying-or-dude-where-s-my-mail.html",
+      "date_iso": "2026-01-09T01:39:52+00:00",
+      "source": "https://lagomor.ph/2026/01/logistics-is-dying-or-dude-wheres-my-mail/",
+      "summary": "Article URL: https://lagomor.ph/2026/01/logistics-is-dying-or-dude-wheres-my-mail/ Comments URL: https://news.ycombinator.com/item?id=46549105 Points: 36 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46548940",
+      "title": "Why I left iNaturalist",
+      "slug": "2026-01-09-why-i-left-inaturalist.html",
+      "path": "posts/2026-01-09-why-i-left-inaturalist.html",
+      "date_iso": "2026-01-09T01:17:51+00:00",
+      "source": "https://kueda.net/blog/2026/01/06/why-i-left-inat/",
+      "summary": "Article URL: https://kueda.net/blog/2026/01/06/why-i-left-inat/ Comments URL: https://news.ycombinator.com/item?id=46548940 Points: 156 # Comments: 68"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46547740",
+      "title": "Embassy: Modern embedded framework, using Rust and async",
+      "slug": "2026-01-08-embassy-modern-embedded-framework-using-rust-and-async.html",
+      "path": "posts/2026-01-08-embassy-modern-embedded-framework-using-rust-and-async.html",
+      "date_iso": "2026-01-08T23:00:45+00:00",
+      "source": "https://github.com/embassy-rs/embassy",
+      "summary": "Article URL: https://github.com/embassy-rs/embassy Comments URL: https://news.ycombinator.com/item?id=46547740 Points: 166 # Comments: 63"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46547345",
+      "title": "Flint Confirms Biodegradable Paper Batteries Are Now in Production",
+      "slug": "2026-01-08-flint-confirms-biodegradable-paper-batteries-are-now-in-production.html",
+      "path": "posts/2026-01-08-flint-confirms-biodegradable-paper-batteries-are-now-in-production.html",
+      "date_iso": "2026-01-08T22:24:50+00:00",
+      "source": "https://audioxpress.com/news/flint-confirms-biodegradable-paper-batteries-are-now-in-production",
+      "summary": "Article URL: https://audioxpress.com/news/flint-confirms-biodegradable-paper-batteries-are-now-in-production Comments URL: https://news.ycombinator.com/item?id=46547345 Points: 42 # Comments: 5"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/08/nyregion/nj-school-cellphone-ban-phil-murphy.html",
+      "title": "New Jersey Is Latest State to Ban Student Phones in Schools",
+      "slug": "2026-01-08-new-jersey-is-latest-state-to-ban-student-phones-in-schools.html",
+      "path": "posts/2026-01-08-new-jersey-is-latest-state-to-ban-student-phones-in-schools.html",
+      "date_iso": "2026-01-08T22:11:49+00:00",
+      "source": "https://www.nytimes.com/2026/01/08/nyregion/nj-school-cellphone-ban-phil-murphy.html",
+      "summary": "Gov. Philip D. Murphy of New Jersey speaking at the state house in October. “I wish this ban had been in place a long time ago,” he said on Thursday of the school phone ban."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46546614",
+      "title": "Richard D. James aka Aphex Twin speaks to Tatsuya Takahashi (2017)",
+      "slug": "2026-01-08-richard-d-james-aka-aphex-twin-speaks-to-tatsuya-takahashi-2017.html",
+      "path": "posts/2026-01-08-richard-d-james-aka-aphex-twin-speaks-to-tatsuya-takahashi-2017.html",
+      "date_iso": "2026-01-08T21:17:26+00:00",
+      "source": "https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/",
+      "summary": "Article URL: https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/ Comments URL: https://news.ycombinator.com/item?id=46546614 Points: 146 # Comments: 42"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/08/business/general-motors-electric-vehicles-writedown.html",
+      "title": "G.M. Books a $7.1 Billion Loss as It Scales Back E.V. Ambitions",
+      "slug": "2026-01-08-g-m-books-a-7-1-billion-loss-as-it-scales-back-e-v-ambitions.html",
+      "path": "posts/2026-01-08-g-m-books-a-7-1-billion-loss-as-it-scales-back-e-v-ambitions.html",
+      "date_iso": "2026-01-08T21:05:47+00:00",
+      "source": "https://www.nytimes.com/2026/01/08/business/general-motors-electric-vehicles-writedown.html",
+      "summary": "Battery assembly at a General Motors facility in Spring Hill, Tenn. Electric cars have become more difficult to sell since the elimination of federal tax credits last year."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46546413",
+      "title": "Mux (YC W16) is hiring a platform engineer that cares about (internal) DX",
+      "slug": "2026-01-08-mux-yc-w16-is-hiring-a-platform-engineer-that-cares-about-internal-dx.html",
+      "path": "posts/2026-01-08-mux-yc-w16-is-hiring-a-platform-engineer-that-cares-about-internal-dx.html",
+      "date_iso": "2026-01-08T21:01:36+00:00",
+      "source": "https://www.mux.com/jobs",
+      "summary": "Article URL: https://www.mux.com/jobs Comments URL: https://news.ycombinator.com/item?id=46546413 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46546349",
+      "title": "Show HN: A geofence-based social network app 6 years in development",
+      "slug": "2026-01-08-show-hn-a-geofence-based-social-network-app-6-years-in-development.html",
+      "path": "posts/2026-01-08-show-hn-a-geofence-based-social-network-app-6-years-in-development.html",
+      "date_iso": "2026-01-08T20:56:32+00:00",
+      "source": "https://www.localvideoapp.com",
+      "summary": "My name is Adrian. I'm a Software Engineer and I spent 6 years developing a perimeter-based geofence-based social media app. What it does: - Allows you to load a custom perimeter anywhere on the geographic map (180° E and W longitude and 90° N and S latitude), to cover area any…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46546113",
+      "title": "Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU",
+      "slug": "2026-01-08-sopro-tts-a-169m-model-with-zero-shot-voice-cloning-that-runs-on-the-cpu.html",
+      "path": "posts/2026-01-08-sopro-tts-a-169m-model-with-zero-shot-voice-cloning-that-runs-on-the-cpu.html",
+      "date_iso": "2026-01-08T20:37:07+00:00",
+      "source": "https://github.com/samuel-vitorino/sopro",
+      "summary": "Article URL: https://github.com/samuel-vitorino/sopro Comments URL: https://news.ycombinator.com/item?id=46546113 Points: 207 # Comments: 82"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46545620",
+      "title": "How to Code Claude Code in 200 Lines of Code",
+      "slug": "2026-01-08-how-to-code-claude-code-in-200-lines-of-code.html",
+      "path": "posts/2026-01-08-how-to-code-claude-code-in-200-lines-of-code.html",
+      "date_iso": "2026-01-08T19:54:26+00:00",
+      "source": "https://www.mihaileric.com/The-Emperor-Has-No-Clothes/",
+      "summary": "Article URL: https://www.mihaileric.com/The-Emperor-Has-No-Clothes/ Comments URL: https://news.ycombinator.com/item?id=46545620 Points: 443 # Comments: 172"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46545077",
+      "title": "Google AI Studio is now sponsoring Tailwind CSS",
+      "slug": "2026-01-08-google-ai-studio-is-now-sponsoring-tailwind-css.html",
+      "path": "posts/2026-01-08-google-ai-studio-is-now-sponsoring-tailwind-css.html",
+      "date_iso": "2026-01-08T19:09:23+00:00",
+      "source": "https://twitter.com/OfficialLoganK/status/2009339263251566902",
+      "summary": "Related: Creators of Tailwind laid off 75% of their engineering team - https://news.ycombinator.com/item?id=46527950 - Jan 2026 (810 comments) Comments URL: https://news.ycombinator.com/item?id=46545077 Points: 601 # Comments: 199"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46544981",
+      "title": "The Unreasonable Effectiveness of the Fourier Transform",
+      "slug": "2026-01-08-the-unreasonable-effectiveness-of-the-fourier-transform.html",
+      "path": "posts/2026-01-08-the-unreasonable-effectiveness-of-the-fourier-transform.html",
+      "date_iso": "2026-01-08T19:00:28+00:00",
+      "source": "https://joshuawise.com/resources/ofdm/",
+      "summary": "Article URL: https://joshuawise.com/resources/ofdm/ Comments URL: https://news.ycombinator.com/item?id=46544981 Points: 203 # Comments: 90"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/08/business/meta-manus-china-ai.html",
+      "title": "China Is Investigating Meta’s Acquisition of the AI Start-Ip Manus",
+      "slug": "2026-01-08-china-is-investigating-meta-s-acquisition-of-the-ai-start-ip-manus.html",
+      "path": "posts/2026-01-08-china-is-investigating-meta-s-acquisition-of-the-ai-start-ip-manus.html",
+      "date_iso": "2026-01-08T18:56:53+00:00",
+      "source": "https://www.nytimes.com/2026/01/08/business/meta-manus-china-ai.html",
+      "summary": "Meta’s deal for Manus last month capped a year of extravagant spending by the American company on elite artificial intelligence researchers."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46544610",
+      "title": "Fixing a Buffer Overflow in Unix v4 Like It's 1973",
+      "slug": "2026-01-08-fixing-a-buffer-overflow-in-unix-v4-like-it-s-1973.html",
+      "path": "posts/2026-01-08-fixing-a-buffer-overflow-in-unix-v4-like-it-s-1973.html",
+      "date_iso": "2026-01-08T18:29:47+00:00",
+      "source": "https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/",
+      "summary": "Article URL: https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/ Comments URL: https://news.ycombinator.com/item?id=46544610 Points: 108 # Comments: 33"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46544524",
+      "title": "Show HN: macOS menu bar app to track Claude usage in real time",
+      "slug": "2026-01-08-show-hn-macos-menu-bar-app-to-track-claude-usage-in-real-time.html",
+      "path": "posts/2026-01-08-show-hn-macos-menu-bar-app-to-track-claude-usage-in-real-time.html",
+      "date_iso": "2026-01-08T18:24:17+00:00",
+      "source": "https://github.com/richhickson/claudecodeusage",
+      "summary": "I built a macOS menu bar app to track Claude usage in real time via API after hitting limits mid-flow too often. Signed and notarised by Apple. Open source. https://github.com/richhickson/claudecodeusage https://x.com/richhickson Comments URL: https://news.ycombinator.com/item?i…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46544276",
+      "title": "He was called a 'terrorist sympathizer.' Now his AI company is valued at $3B",
+      "slug": "2026-01-08-he-was-called-a-terrorist-sympathizer-now-his-ai-company-is-valued-at-3b.html",
+      "path": "posts/2026-01-08-he-was-called-a-terrorist-sympathizer-now-his-ai-company-is-valued-at-3b.html",
+      "date_iso": "2026-01-08T18:05:02+00:00",
+      "source": "https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/",
+      "summary": "Article URL: https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/ Comments URL: https://news.ycombinator.com/item?id=46544276 Points: 154 # Comments: 176"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46543403",
+      "title": "Tamarind Bio (YC W24) Is Hiring Infrastructure Engineers",
+      "slug": "2026-01-08-tamarind-bio-yc-w24-is-hiring-infrastructure-engineers.html",
+      "path": "posts/2026-01-08-tamarind-bio-yc-w24-is-hiring-infrastructure-engineers.html",
+      "date_iso": "2026-01-08T17:01:00+00:00",
+      "source": "https://www.ycombinator.com/companies/tamarind-bio/jobs/HPRZAz3-infrastructure-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/tamarind-bio/jobs/HPRZAz3-infrastructure-engineer Comments URL: https://news.ycombinator.com/item?id=46543403 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/08/technology/apple-ceo-tim-cook-john-ternus.html",
+      "title": "Apple’s John Ternus Could Be Tim Cook’s Successor as CEO",
+      "slug": "2026-01-08-apple-s-john-ternus-could-be-tim-cook-s-successor-as-ceo.html",
+      "path": "posts/2026-01-08-apple-s-john-ternus-could-be-tim-cook-s-successor-as-ceo.html",
+      "date_iso": "2026-01-08T16:36:21+00:00",
+      "source": "https://www.nytimes.com/2026/01/08/technology/apple-ceo-tim-cook-john-ternus.html",
+      "summary": "John Ternus, a low-profile but influential executive at Apple, could be next in line to replace the company’s longtime chief executive, Tim Cook, if he steps aside."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46542761",
+      "title": "Digital Red Queen: Adversarial Program Evolution in Core War with LLMs",
+      "slug": "2026-01-08-digital-red-queen-adversarial-program-evolution-in-core-war-with-llms.html",
+      "path": "posts/2026-01-08-digital-red-queen-adversarial-program-evolution-in-core-war-with-llms.html",
+      "date_iso": "2026-01-08T16:16:43+00:00",
+      "source": "https://sakana.ai/drq/",
+      "summary": "Article URL: https://sakana.ai/drq/ Comments URL: https://news.ycombinator.com/item?id=46542761 Points: 114 # Comments: 14"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/08/technology/personaltech/2026-tech-trends.html",
+      "title": "The Tech That Will Invade Our Lives in 2026",
+      "slug": "2026-01-08-the-tech-that-will-invade-our-lives-in-2026.html",
+      "path": "posts/2026-01-08-the-tech-that-will-invade-our-lives-in-2026.html",
+      "date_iso": "2026-01-08T10:03:51+00:00",
+      "source": "https://www.nytimes.com/2026/01/08/technology/personaltech/2026-tech-trends.html",
+      "summary": "From talking computers to self-driving cars, here are the trends to watch."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/08/theater/moliere-ai-sorbonne-the-astrologer.html",
+      "title": "Can A.I. Match Molière’s Wit? These Researchers Think So.",
+      "slug": "2026-01-08-can-a-i-match-moli-re-s-wit-these-researchers-think-so.html",
+      "path": "posts/2026-01-08-can-a-i-match-moli-re-s-wit-these-researchers-think-so.html",
+      "date_iso": "2026-01-08T10:02:48+00:00",
+      "source": "https://www.nytimes.com/2026/01/08/theater/moliere-ai-sorbonne-the-astrologer.html",
+      "summary": "Actors from the Théâtre Molière Sorbonne rehearsing a scene from “The Astrologer, or False Omens.”"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46538001",
       "title": "A closer look at a BGP anomaly in Venezuela",
       "slug": "2026-01-08-a-closer-look-at-a-bgp-anomaly-in-venezuela.html",

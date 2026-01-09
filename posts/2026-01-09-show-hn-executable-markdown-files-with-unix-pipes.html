@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Executable Markdown files with Unix pipes</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Executable Markdown files with Unix pipes</h1>
+    <p><small>Published: 2026-01-09T02:29:12+00:00</small></p>
+  </header>
+
+  <main>
+    <p>I wanted to run markdown files like shell scripts. So I built an open source tool that lets you use a shebang to pipe them through Claude Code with full stdin/stdout support.<p>task.md:<p><pre><code>    #!/usr/bin/env claude-run
+
+    Analyze this codebase and summarize the architecture.
+</code></pre>
+Then:<p><pre><code>    chmod +x task.md
+
+    ./task.md
+</code></pre>
+These aren't just prompts. Claude Code has tool use, so a markdown file can run shell commands, write scripts, read files, make API calls. The prompt orchestrates everything.<p>A script that runs your tests and reports results (`run_tests.md`):<p><pre><code>    #!/usr/bin/env claude-run --permission-mode bypassPermissions
+
+    Run ./test/run_tests.sh and summarize what passed and failed.
+</code></pre>
+Because stdin/stdout work like any Unix program, you can chain them:<p><pre><code>    cat data.json | ./analyze.md > results.txt
+
+    git log -10 | ./summarize.md
+
+    ./generate.md | ./review.md > final.txt
+</code></pre>
+Or mix them with traditional shell scripts:<p><pre><code>    for f in logs/\*.txt; do
+
+        cat "$f" | ./analyze.md >> summary.txt
+
+    done
+</code></pre>
+This replaced a lot of Python glue code for us. Tasks that needed LLM orchestration libraries are now markdown files composed with standard Unix tools. Composable as building blocks, runnable as cron jobs, etc.<p>One thing we didn't expect is that these are more auditable (and shareable) than shell scripts. Install scripts like `curl -fsSL <a href="https://bun.com/install" rel="nofollow">https://bun.com/install</a> | bash` could become:<p><pre><code>    `curl -fsSL https://bun.com/install.md | claude-run`
+</code></pre>
+Where install.md says something like "Detect my OS and architecture, download the right binary from GitHub releases, extract to ~/.local/bin, update my shell config." A normal human can actually read and verify that.<p>The (really cool) executable markdown idea and auditability examples are from Pete Koomen (@koomen on X). As Pete says: "Markdown feels increasingly important in a way I'm not sure most people have wrapped their heads around yet."<p>We implemented it and added Unix pipe semantics. Currently works with Claude Code - hoping to support other AI coding tools too. You can also route scripts through different cloud providers (AWS Bedrock, etc.) if you want separate billing for automated jobs.<p>GitHub: <a href="https://github.com/andisearch/claude-switcher" rel="nofollow">https://github.com/andisearch/claude-switcher</a><p>What workflows would you use this for?</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46549444">https://news.ycombinator.com/item?id=46549444</a></p>
+<p>Points: 42</p>
+<p># Comments: 35</p>
+    <p><a href="https://news.ycombinator.com/item?id=46549444" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
