@@ -1,6 +1,222 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/01/10/business/volkswagen-tariffs-trump.html",
+      "title": "Volkswagen Suffers More Than Rivals From Auto Industry Woes",
+      "slug": "2026-01-10-volkswagen-suffers-more-than-rivals-from-auto-industry-woes.html",
+      "path": "posts/2026-01-10-volkswagen-suffers-more-than-rivals-from-auto-industry-woes.html",
+      "date_iso": "2026-01-10T05:00:04+00:00",
+      "source": "https://www.nytimes.com/2026/01/10/business/volkswagen-tariffs-trump.html",
+      "summary": "Electric vehicles at a Volkswagen plant in Dresden, Germany. The company is an extreme example of how difficult it has been for foreign automakers to cope in the U.S. car market."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46562790",
+      "title": "Oh My Zsh adds bloat",
+      "slug": "2026-01-10-oh-my-zsh-adds-bloat.html",
+      "path": "posts/2026-01-10-oh-my-zsh-adds-bloat.html",
+      "date_iso": "2026-01-10T04:35:32+00:00",
+      "source": "https://rushter.com/blog/zsh-shell/",
+      "summary": "Article URL: https://rushter.com/blog/zsh-shell/ Comments URL: https://news.ycombinator.com/item?id=46562790 Points: 109 # Comments: 94"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46562583",
+      "title": "OLED, Not for Me",
+      "slug": "2026-01-10-oled-not-for-me.html",
+      "path": "posts/2026-01-10-oled-not-for-me.html",
+      "date_iso": "2026-01-10T03:52:48+00:00",
+      "source": "https://nuxx.net/blog/2026/01/09/oled-not-for-me/",
+      "summary": "Article URL: https://nuxx.net/blog/2026/01/09/oled-not-for-me/ Comments URL: https://news.ycombinator.com/item?id=46562583 Points: 62 # Comments: 59"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46562301",
+      "title": "Maine's black market for baby eels",
+      "slug": "2026-01-10-maine-s-black-market-for-baby-eels.html",
+      "path": "posts/2026-01-10-maine-s-black-market-for-baby-eels.html",
+      "date_iso": "2026-01-10T02:56:50+00:00",
+      "source": "https://www.pressherald.com/2025/09/09/maines-black-market-for-baby-eels-is-spawning-a-crime-thriller-subgenre/",
+      "summary": "Article URL: https://www.pressherald.com/2025/09/09/maines-black-market-for-baby-eels-is-spawning-a-crime-thriller-subgenre/ Comments URL: https://news.ycombinator.com/item?id=46562301 Points: 22 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46560445",
+      "title": "“Erdos problem #728 was solved more or less autonomously by AI”",
+      "slug": "2026-01-09-erdos-problem-728-was-solved-more-or-less-autonomously-by-ai.html",
+      "path": "posts/2026-01-09-erdos-problem-728-was-solved-more-or-less-autonomously-by-ai.html",
+      "date_iso": "2026-01-09T22:39:15+00:00",
+      "source": "https://mathstodon.xyz/@tao/115855840223258103",
+      "summary": "Article URL: https://mathstodon.xyz/@tao/115855840223258103 Comments URL: https://news.ycombinator.com/item?id=46560445 Points: 372 # Comments: 220"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46560217",
+      "title": "Start your meetings at 5 minutes past",
+      "slug": "2026-01-09-start-your-meetings-at-5-minutes-past.html",
+      "path": "posts/2026-01-09-start-your-meetings-at-5-minutes-past.html",
+      "date_iso": "2026-01-09T22:19:03+00:00",
+      "source": "https://philipotoole.com/start-your-meetings-at-5-minutes-past/",
+      "summary": "Article URL: https://philipotoole.com/start-your-meetings-at-5-minutes-past/ Comments URL: https://news.ycombinator.com/item?id=46560217 Points: 84 # Comments: 75"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46559599",
+      "title": "Sigmund Freud's Begonia",
+      "slug": "2026-01-09-sigmund-freud-s-begonia.html",
+      "path": "posts/2026-01-09-sigmund-freud-s-begonia.html",
+      "date_iso": "2026-01-09T21:27:10+00:00",
+      "source": "https://observer.co.uk/news/first-person/article/emma-freud-sigmund-freuds-begonia",
+      "summary": "Article URL: https://observer.co.uk/news/first-person/article/emma-freud-sigmund-freuds-begonia Comments URL: https://news.ycombinator.com/item?id=46559599 Points: 18 # Comments: 3"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html",
+      "title": "Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage",
+      "slug": "2026-01-09-grok-elon-musk-s-a-i-is-generating-sexualized-images-of-real-people-fueling-outrage.html",
+      "path": "posts/2026-01-09-grok-elon-musk-s-a-i-is-generating-sexualized-images-of-real-people-fueling-outrage.html",
+      "date_iso": "2026-01-09T20:48:03+00:00",
+      "source": "https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html",
+      "summary": "Grok’s prompt page is displayed on a phone."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46558148",
+      "title": "RTX 5090 and Raspberry Pi: Can it game?",
+      "slug": "2026-01-09-rtx-5090-and-raspberry-pi-can-it-game.html",
+      "path": "posts/2026-01-09-rtx-5090-and-raspberry-pi-can-it-game.html",
+      "date_iso": "2026-01-09T19:33:47+00:00",
+      "source": "https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/",
+      "summary": "Article URL: https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/ Comments URL: https://news.ycombinator.com/item?id=46558148 Points: 205 # Comments: 77"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46557879",
+      "title": "Show HN: Rocket Launch and Orbit Simulator",
+      "slug": "2026-01-09-show-hn-rocket-launch-and-orbit-simulator.html",
+      "path": "posts/2026-01-09-show-hn-rocket-launch-and-orbit-simulator.html",
+      "date_iso": "2026-01-09T19:15:21+00:00",
+      "source": "https://www.donutthejedi.com/",
+      "summary": "I (17y/o) have been developing a rocket launch simulation that allows the user to explore what it's like launching a rocket from earth and putting it into orbit. This idea originally started as an educational simulation but as i've gone more down the rabbit hole the more i've wa…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46557489",
+      "title": "JavaScript Demos in 140 Characters",
+      "slug": "2026-01-09-javascript-demos-in-140-characters.html",
+      "path": "posts/2026-01-09-javascript-demos-in-140-characters.html",
+      "date_iso": "2026-01-09T18:48:30+00:00",
+      "source": "https://beta.dwitter.net",
+      "summary": "Article URL: https://beta.dwitter.net Comments URL: https://news.ycombinator.com/item?id=46557489 Points: 233 # Comments: 49"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46557057",
+      "title": "My article on why AI is great (or terrible) or how to use it",
+      "slug": "2026-01-09-my-article-on-why-ai-is-great-or-terrible-or-how-to-use-it.html",
+      "path": "posts/2026-01-09-my-article-on-why-ai-is-great-or-terrible-or-how-to-use-it.html",
+      "date_iso": "2026-01-09T18:17:24+00:00",
+      "source": "https://matthewrocklin.com/ai-zealotry/",
+      "summary": "Article URL: https://matthewrocklin.com/ai-zealotry/ Comments URL: https://news.ycombinator.com/item?id=46557057 Points: 104 # Comments: 149"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46557029",
+      "title": "Show HN: Scroll Wikipedia like TikTok",
+      "slug": "2026-01-09-show-hn-scroll-wikipedia-like-tiktok.html",
+      "path": "posts/2026-01-09-show-hn-scroll-wikipedia-like-tiktok.html",
+      "date_iso": "2026-01-09T18:15:16+00:00",
+      "source": "https://quack.sdan.io",
+      "summary": "Hey - I've been playing with LLMs since GPT-2 and recently experimented with fully generative UIs where the HTML/Canvas are generated just-in-time. Every post on the feed( on slop/duck/storytime) you see is streamed and generated just-in-time with HTML and into a Canvas with Gem…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46556822",
+      "title": "Replit (YC W18) Is Hiring",
+      "slug": "2026-01-09-replit-yc-w18-is-hiring.html",
+      "path": "posts/2026-01-09-replit-yc-w18-is-hiring.html",
+      "date_iso": "2026-01-09T18:00:56+00:00",
+      "source": "https://jobs.ashbyhq.com/replit",
+      "summary": "Article URL: https://jobs.ashbyhq.com/replit Comments URL: https://news.ycombinator.com/item?id=46556822 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46556695",
+      "title": "How Markdown took over the world",
+      "slug": "2026-01-09-how-markdown-took-over-the-world.html",
+      "path": "posts/2026-01-09-how-markdown-took-over-the-world.html",
+      "date_iso": "2026-01-09T17:52:20+00:00",
+      "source": "https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/",
+      "summary": "Article URL: https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/ Comments URL: https://news.ycombinator.com/item?id=46556695 Points: 226 # Comments: 171"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/09/science/eric-schmidt-telescopes-google-space.html",
+      "title": "Google’s Ex-CEO Backs Start-Up Approach to Big Telescopes for Space and Astronomy",
+      "slug": "2026-01-09-google-s-ex-ceo-backs-start-up-approach-to-big-telescopes-for-space-and-astronomy.html",
+      "path": "posts/2026-01-09-google-s-ex-ceo-backs-start-up-approach-to-big-telescopes-for-space-and-astronomy.html",
+      "date_iso": "2026-01-09T17:29:32+00:00",
+      "source": "https://www.nytimes.com/2026/01/09/science/eric-schmidt-telescopes-google-space.html",
+      "summary": "Eric and Wendy Schmidt are backing a start-up-like approach to building a giant space telescope and powerful ground observatories."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46556210",
+      "title": "Show HN: I made a memory game to teach you to play piano by ear",
+      "slug": "2026-01-09-show-hn-i-made-a-memory-game-to-teach-you-to-play-piano-by-ear.html",
+      "path": "posts/2026-01-09-show-hn-i-made-a-memory-game-to-teach-you-to-play-piano-by-ear.html",
+      "date_iso": "2026-01-09T17:17:28+00:00",
+      "source": "https://lend-me-your-ears.specr.net",
+      "summary": "Article URL: https://lend-me-your-ears.specr.net Comments URL: https://news.ycombinator.com/item?id=46556210 Points: 454 # Comments: 162"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46555977",
+      "title": "IcePanel (YC W23) is hiring full-stack engineers in Vancouver",
+      "slug": "2026-01-09-icepanel-yc-w23-is-hiring-full-stack-engineers-in-vancouver.html",
+      "path": "posts/2026-01-09-icepanel-yc-w23-is-hiring-full-stack-engineers-in-vancouver.html",
+      "date_iso": "2026-01-09T17:01:02+00:00",
+      "source": "https://forms.icepanel.io/careers/senior-product-engineer",
+      "summary": "Article URL: https://forms.icepanel.io/careers/senior-product-engineer Comments URL: https://news.ycombinator.com/item?id=46555977 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46555807",
+      "title": "Flock Hardcoded the Password for America's Surveillance Infrastructure 53 Times",
+      "slug": "2026-01-09-flock-hardcoded-the-password-for-america-s-surveillance-infrastructure-53-times.html",
+      "path": "posts/2026-01-09-flock-hardcoded-the-password-for-america-s-surveillance-infrastructure-53-times.html",
+      "date_iso": "2026-01-09T16:49:59+00:00",
+      "source": "https://nexanet.ai/blog/53-times-flocksafety-hardcoded-the-password-for-americas-surveillance-infrastructure",
+      "summary": "Article URL: https://nexanet.ai/blog/53-times-flocksafety-hardcoded-the-password-for-americas-surveillance-infrastructure Comments URL: https://news.ycombinator.com/item?id=46555807 Points: 406 # Comments: 136"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/09/podcasts/hardfork-grok-crisis-claude-code.html",
+      "title": "Grok’s Undressing Scandal + Claude Code Capers + Casey Busts a Reddit Hoax",
+      "slug": "2026-01-09-grok-s-undressing-scandal-claude-code-capers-casey-busts-a-reddit-hoax.html",
+      "path": "posts/2026-01-09-grok-s-undressing-scandal-claude-code-capers-casey-busts-a-reddit-hoax.html",
+      "date_iso": "2026-01-09T16:47:29+00:00",
+      "source": "https://www.nytimes.com/2026/01/09/podcasts/hardfork-grok-crisis-claude-code.html",
+      "summary": "“This is a story about how a tool can be used to try to affect politics and in particular to minimize women, denigrate them and push them out of the conversation.”"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46555760",
+      "title": "Cloudflare CEO on the Italy fines",
+      "slug": "2026-01-09-cloudflare-ceo-on-the-italy-fines.html",
+      "path": "posts/2026-01-09-cloudflare-ceo-on-the-italy-fines.html",
+      "date_iso": "2026-01-09T16:46:48+00:00",
+      "source": "https://twitter.com/eastdakota/status/2009654937303896492",
+      "summary": "https://xcancel.com/eastdakota/status/2009654937303896492 https://torrentfreak.com/italy-fines-cloudflare-e14-million-... Comments URL: https://news.ycombinator.com/item?id=46555760 Points: 478 # Comments: 677"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/09/technology/google-founders-california-wealth-tax.html",
+      "title": "Google Co-Founders Sergey Brin and Larry Page Reduce Ties to California",
+      "slug": "2026-01-09-google-co-founders-sergey-brin-and-larry-page-reduce-ties-to-california.html",
+      "path": "posts/2026-01-09-google-co-founders-sergey-brin-and-larry-page-reduce-ties-to-california.html",
+      "date_iso": "2026-01-09T16:26:13+00:00",
+      "source": "https://www.nytimes.com/2026/01/09/technology/google-founders-california-wealth-tax.html",
+      "summary": "Sergey Brin is joining his Google co-founder, Larry Page, in reducing ties to the state where they built their fortunes."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46554652",
+      "title": "How to store a chess position in 26 bytes (2022)",
+      "slug": "2026-01-09-how-to-store-a-chess-position-in-26-bytes-2022.html",
+      "path": "posts/2026-01-09-how-to-store-a-chess-position-in-26-bytes-2022.html",
+      "date_iso": "2026-01-09T15:07:17+00:00",
+      "source": "https://ezzeriesa.notion.site/How-to-store-a-chess-position-in-26-bytes-using-bit-level-magic-df1fdb5364eb42fdac11eb23b25e9605",
+      "summary": "Article URL: https://ezzeriesa.notion.site/How-to-store-a-chess-position-in-26-bytes-using-bit-level-magic-df1fdb5364eb42fdac11eb23b25e9605 Comments URL: https://news.ycombinator.com/item?id=46554652 Points: 91 # Comments: 78"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46553343",
+      "title": "Kagi releases alpha version of Orion for Linux",
+      "slug": "2026-01-09-kagi-releases-alpha-version-of-orion-for-linux.html",
+      "path": "posts/2026-01-09-kagi-releases-alpha-version-of-orion-for-linux.html",
+      "date_iso": "2026-01-09T12:54:48+00:00",
+      "source": "https://help.kagi.com/orion/misc/linux-status.html",
+      "summary": "Article URL: https://help.kagi.com/orion/misc/linux-status.html Comments URL: https://news.ycombinator.com/item?id=46553343 Points: 373 # Comments: 260"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46550777",
       "title": "Do not mistake a resilient global economy for populist success",
       "slug": "2026-01-09-do-not-mistake-a-resilient-global-economy-for-populist-success.html",
@@ -53,6 +269,15 @@
       "date_iso": "2026-01-09T01:17:51+00:00",
       "source": "https://kueda.net/blog/2026/01/06/why-i-left-inat/",
       "summary": "Article URL: https://kueda.net/blog/2026/01/06/why-i-left-inat/ Comments URL: https://news.ycombinator.com/item?id=46548940 Points: 156 # Comments: 68"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46547962",
+      "title": "Scientists discover oldest poison, on 60k-year-old arrows",
+      "slug": "2026-01-08-scientists-discover-oldest-poison-on-60k-year-old-arrows.html",
+      "path": "posts/2026-01-08-scientists-discover-oldest-poison-on-60k-year-old-arrows.html",
+      "date_iso": "2026-01-08T23:24:30+00:00",
+      "source": "https://www.nytimes.com/2026/01/07/science/poison-arrows-south-africa.html",
+      "summary": "https://archive.ph/qGfbk Comments URL: https://news.ycombinator.com/item?id=46547962 Points: 112 # Comments: 37"
     },
     {
       "id": "https://news.ycombinator.com/item?id=46547740",
