@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: I used Claude Code to discover connections between 100 books</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: I used Claude Code to discover connections between 100 books</h1>
+    <p><small>Published: 2026-01-10T16:56:55+00:00</small></p>
+  </header>
+
+  <main>
+    <p>I think LLMs are overused to summarise and underused to help us read deeper.<p>I built a system for Claude Code to browse 100 non-fiction books and find interesting connections between them.<p>I started out with a pipeline in stages, chaining together LLM calls to build up a context of the library. 
+I was mainly getting back the insight that I was baking into the prompts, and the results weren't particularly surprising.<p>On a whim, I gave CC access to my debug CLI tools and found that it wiped the floor with that approach. 
+It gave actually interesting results and required very little orchestration in comparison.<p>One of my favourite trail of excerpts goes from Jobs’ reality distortion field to Theranos’ fake demos, to Thiel on startup cults, to Hoffer on mass movement charlatans (<a href="https://trails.pieterma.es/trail/useful-lies/" rel="nofollow">https://trails.pieterma.es/trail/useful-lies/</a>).
+A fun tendency is that Claude kept getting distracted by topics of secrecy, conspiracy, and hidden systems - as if the task itself summoned a Foucault’s Pendulum mindset.<p>Details:<p>* The books are picked from HN’s favourites (which I collected before: <a href="https://hnbooks.pieterma.es/" rel="nofollow">https://hnbooks.pieterma.es/</a>).<p>* Chunks are indexed by topic using Gemini Flash Lite. The whole library cost about £10.<p>* Topics are organised into a tree structure using recursive Leiden partitioning and LLM labels. This gives a high-level sense of the themes.<p>* There are several ways to browse. The most useful are embedding similarity, topic tree siblings, and topics cooccurring within a chunk window.<p>* Everything is stored in SQLite and manipulated using a set of CLI tools.<p>I wrote more about the process here: <a href="https://pieterma.es/syntopic-reading-claude/" rel="nofollow">https://pieterma.es/syntopic-reading-claude/</a><p>I’m curious if this way of reading resonates for anyone else - LLM-mediated or not.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46567400">https://news.ycombinator.com/item?id=46567400</a></p>
+<p>Points: 298</p>
+<p># Comments: 86</p>
+    <p><a href="https://trails.pieterma.es/" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

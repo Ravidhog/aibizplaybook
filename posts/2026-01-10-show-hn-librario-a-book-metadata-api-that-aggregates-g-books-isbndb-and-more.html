@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more</h1>
+    <p><small>Published: 2026-01-10T23:45:25+00:00</small></p>
+  </header>
+
+  <main>
+    <p><i>TLDR:</i> Librario is a book metadata API that aggregates data from Google Books, ISBNDB, and Hardcover into a single response, solving the problem of no single source having complete book information. It's currently pre-alpha, AGPL-licensed, and available to try now[0].<p>My wife and I have a personal library with around 1,800 books. I started working on a library management tool for us, but I quickly realized I needed a source of data for book information, and none of the solutions available provided all the data I needed. One might provide the series, the other might provide genres, and another might provide a good cover, but none provided everything.<p>So I started working on Librario, a book metadata aggregation API written in Go. It fetches information about books from multiple sources (Google Books, ISBNDB, Hardcover. Working on Goodreads and Anna's Archive next.), merges everything, and saves it all to a PostgreSQL database for future lookups. The idea is that the database gets stronger over time as more books are queried.<p>You can see an example response here[1], or try it yourself:<p><pre><code>  curl -s -H 'Authorization: Bearer librario_ARbmrp1fjBpDywzhvrQcByA4sZ9pn7D5HEk0kmS34eqRcaujyt0enCZ' \
+  'https://api.librario.dev/v1/book/9781328879943' | jq .
+  </code></pre>
+This is pre-alpha and runs on a small VPS, so keep that in mind. I never hit the limits in the third-party services, so depending on how this post goes, I’ll or will not find out if the code handles that well.<p>The merger is the heart of the service, and figuring out how to combine conflicting data from different sources was the hardest part. In the end I decided to use field-specific strategies which are quite naive, but work for now.<p>Each extractor has a priority, and results are sorted by that priority before merging. But priority alone isn't enough, so different fields need different treatment.<p>For example:<p>- Titles use a scoring system. I penalize titles containing parentheses or brackets because sources sometimes shove subtitles into the main title field. Overly long titles (80+ chars) also get penalized since they often contain edition information or other metadata that belongs elsewhere.<p>- Covers collect all candidate URLs, then a separate fetcher downloads and scores them by dimensions and quality. The best one gets stored locally and served from the server.<p>For most other fields (publisher, language, page count), I just take the first non-empty value by priority. Simple, but it works.<p>Recently added a caching layer[2] which sped things up nicely. I considered migrating from <i>net/http</i> to <i>fiber</i> at some point[3], but decided against it. Going outside the standard library felt wrong, and the migration didn't provide much in the end.<p>The database layer is being rewritten before v1.0[4]. I'll be honest: the original schema was written by AI, and while I tried to guide it in the right direction with SQLC[5] and good documentation, database design isn't my strong suit and I couldn't confidently vouch for the code. Rather than ship something I don't fully understand, I hired the developers from SourceHut[6] to rewrite it properly.<p>I've got a 5-month-old and we're still adjusting to their schedule, so development is slow. I've mentioned this project in a few HN threads before[7], so I’m pretty happy to finally have something people can try.<p>Code is AGPL and on SourceHut[8].<p>Feedback and patches[9] are very welcome :)<p>[0]: <a href="https://sr.ht/~pagina394/librario/" rel="nofollow">https://sr.ht/~pagina394/librario/</a><p>[1]: <a href="https://paste.sr.ht/~jamesponddotco/a6c3b1130133f384cffd25b33a8ab1bc3392093c" rel="nofollow">https://paste.sr.ht/~jamesponddotco/a6c3b1130133f384cffd25b3...</a><p>[2]: <a href="https://todo.sr.ht/~pagina394/librario/16" rel="nofollow">https://todo.sr.ht/~pagina394/librario/16</a><p>[3]: <a href="https://todo.sr.ht/~pagina394/librario/13" rel="nofollow">https://todo.sr.ht/~pagina394/librario/13</a><p>[4]: <a href="https://todo.sr.ht/~pagina394/librario/14" rel="nofollow">https://todo.sr.ht/~pagina394/librario/14</a><p>[5]: <a href="https://sqlc.dev" rel="nofollow">https://sqlc.dev</a><p>[6]: <a href="https://sourcehut.org/consultancy/" rel="nofollow">https://sourcehut.org/consultancy/</a><p>[7]: <a href="https://news.ycombinator.com/item?id=45419234">https://news.ycombinator.com/item?id=45419234</a><p>[8]: <a href="https://sr.ht/~pagina394/librario/" rel="nofollow">https://sr.ht/~pagina394/librario/</a><p>[9]: <a href="https://git.sr.ht/~pagina394/librario/tree/trunk/item/CONTRIBUTING.md" rel="nofollow">https://git.sr.ht/~pagina394/librario/tree/trunk/item/CONTRI...</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46571149">https://news.ycombinator.com/item?id=46571149</a></p>
+<p>Points: 92</p>
+<p># Comments: 29</p>
+    <p><a href="https://news.ycombinator.com/item?id=46571149" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

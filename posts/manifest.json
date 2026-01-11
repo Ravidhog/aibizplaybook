@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46573001",
+      "title": "The Concise TypeScript Book",
+      "slug": "2026-01-11-the-concise-typescript-book.html",
+      "path": "posts/2026-01-11-the-concise-typescript-book.html",
+      "date_iso": "2026-01-11T05:42:03+00:00",
+      "source": "https://github.com/gibbok/typescript-book",
+      "summary": "Article URL: https://github.com/gibbok/typescript-book Comments URL: https://news.ycombinator.com/item?id=46573001 Points: 21 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46572821",
+      "title": "I build products to get \"unplugged\" from the internet",
+      "slug": "2026-01-11-i-build-products-to-get-unplugged-from-the-internet.html",
+      "path": "posts/2026-01-11-i-build-products-to-get-unplugged-from-the-internet.html",
+      "date_iso": "2026-01-11T05:01:19+00:00",
+      "source": "https://getunplugged.io/I-build-products-to-get-unplugged",
+      "summary": "Article URL: https://getunplugged.io/I-build-products-to-get-unplugged Comments URL: https://news.ycombinator.com/item?id=46572821 Points: 4 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46572769",
+      "title": "'The answer cannot be nothing': The battle over Canada's mystery brain disease",
+      "slug": "2026-01-11-the-answer-cannot-be-nothing-the-battle-over-canada-s-mystery-brain-disease.html",
+      "path": "posts/2026-01-11-the-answer-cannot-be-nothing-the-battle-over-canada-s-mystery-brain-disease.html",
+      "date_iso": "2026-01-11T04:45:27+00:00",
+      "source": "https://www.bbc.com/news/articles/c623r47d67lo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c623r47d67lo Comments URL: https://news.ycombinator.com/item?id=46572769 Points: 88 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46572723",
+      "title": "Ripple: The Elegant TypeScript UI Framework",
+      "slug": "2026-01-11-ripple-the-elegant-typescript-ui-framework.html",
+      "path": "posts/2026-01-11-ripple-the-elegant-typescript-ui-framework.html",
+      "date_iso": "2026-01-11T04:32:47+00:00",
+      "source": "https://jsdev.space/meet-ripple/",
+      "summary": "Article URL: https://jsdev.space/meet-ripple/ Comments URL: https://news.ycombinator.com/item?id=46572723 Points: 8 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46572679",
+      "title": "My Home Fibre Network Disintegrated",
+      "slug": "2026-01-11-my-home-fibre-network-disintegrated.html",
+      "path": "posts/2026-01-11-my-home-fibre-network-disintegrated.html",
+      "date_iso": "2026-01-11T04:19:04+00:00",
+      "source": "https://alienchow.dev/post/fibre_disintegration/",
+      "summary": "Article URL: https://alienchow.dev/post/fibre_disintegration/ Comments URL: https://news.ycombinator.com/item?id=46572679 Points: 97 # Comments: 65"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46572593",
+      "title": "Show HN: PrintReadyBook",
+      "slug": "2026-01-11-show-hn-printreadybook.html",
+      "path": "posts/2026-01-11-show-hn-printreadybook.html",
+      "date_iso": "2026-01-11T03:56:19+00:00",
+      "source": "https://printreadybook.com/",
+      "summary": "AI generates complete novels with cover art, ready for print Text: I built a tool that generates complete, print-ready books from a single concept. Enter your idea, pick a genre and length, and you get: Full manuscript PDF (formatted for print with title page, copyright, chapter…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46572392",
+      "title": "Workers at Redmond SpaceX lab exposed to toxic chemicals",
+      "slug": "2026-01-11-workers-at-redmond-spacex-lab-exposed-to-toxic-chemicals.html",
+      "path": "posts/2026-01-11-workers-at-redmond-spacex-lab-exposed-to-toxic-chemicals.html",
+      "date_iso": "2026-01-11T03:15:14+00:00",
+      "source": "https://www.fox13seattle.com/video/fmc-w1ga4pk97gxq0hj5",
+      "summary": "Article URL: https://www.fox13seattle.com/video/fmc-w1ga4pk97gxq0hj5 Comments URL: https://news.ycombinator.com/item?id=46572392 Points: 75 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46572304",
+      "title": "Show HN: VAM Seek – 2D video navigation grid, 15KB, zero server load",
+      "slug": "2026-01-11-show-hn-vam-seek-2d-video-navigation-grid-15kb-zero-server-load.html",
+      "path": "posts/2026-01-11-show-hn-vam-seek-2d-video-navigation-grid-15kb-zero-server-load.html",
+      "date_iso": "2026-01-11T02:57:34+00:00",
+      "source": "https://github.com/unhaya/vam-seek",
+      "summary": "Hi HN! I built VAM Seek because I was frustrated with 1D seek bars – you never know where you're going until you get there. VAM Seek renders a 2D thumbnail grid next to your video. Click any cell to jump. All frame extraction happens client-side via canvas – no server processing…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46572060",
+      "title": "A Year of Work on the Arch Linux Package Management (ALPM) Project",
+      "slug": "2026-01-11-a-year-of-work-on-the-arch-linux-package-management-alpm-project.html",
+      "path": "posts/2026-01-11-a-year-of-work-on-the-arch-linux-package-management-alpm-project.html",
+      "date_iso": "2026-01-11T02:08:14+00:00",
+      "source": "https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/",
+      "summary": "Article URL: https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/ Comments URL: https://news.ycombinator.com/item?id=46572060 Points: 38 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46572032",
+      "title": "Sisyphus Now Lives in Oh My Claude",
+      "slug": "2026-01-11-sisyphus-now-lives-in-oh-my-claude.html",
+      "path": "posts/2026-01-11-sisyphus-now-lives-in-oh-my-claude.html",
+      "date_iso": "2026-01-11T02:00:45+00:00",
+      "source": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
+      "summary": "Article URL: https://github.com/Yeachan-Heo/oh-my-claude-sisyphus Comments URL: https://news.ycombinator.com/item?id=46572032 Points: 17 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46571980",
+      "title": "Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering",
+      "slug": "2026-01-11-show-hn-ferrite-markdown-editor-in-rust-with-native-mermaid-diagram-rendering.html",
+      "path": "posts/2026-01-11-show-hn-ferrite-markdown-editor-in-rust-with-native-mermaid-diagram-rendering.html",
+      "date_iso": "2026-01-11T01:50:01+00:00",
+      "source": "https://github.com/OlaProeis/Ferrite",
+      "summary": "Ferrite: Fast Markdown/Text/Code editor in Rust with native Mermaid diagrams Built a Markdown editor using Rust + egui. v0.2.1 just dropped with major Mermaid improvements: → Native Mermaid diagrams - Flowcharts, sequence, state, ER, git graphs - pure Rust, no JS → Split view -…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46571760",
+      "title": "Kodbox: Open-source cloud desktop with multi-storage fusion and web IDE",
+      "slug": "2026-01-11-kodbox-open-source-cloud-desktop-with-multi-storage-fusion-and-web-ide.html",
+      "path": "posts/2026-01-11-kodbox-open-source-cloud-desktop-with-multi-storage-fusion-and-web-ide.html",
+      "date_iso": "2026-01-11T01:12:51+00:00",
+      "source": "https://github.com/kalcaddle/kodbox",
+      "summary": "Article URL: https://github.com/kalcaddle/kodbox Comments URL: https://news.ycombinator.com/item?id=46571760 Points: 15 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46571149",
+      "title": "Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more",
+      "slug": "2026-01-10-show-hn-librario-a-book-metadata-api-that-aggregates-g-books-isbndb-and-more.html",
+      "path": "posts/2026-01-10-show-hn-librario-a-book-metadata-api-that-aggregates-g-books-isbndb-and-more.html",
+      "date_iso": "2026-01-10T23:45:25+00:00",
+      "source": "https://news.ycombinator.com/item?id=46571149",
+      "summary": "TLDR: Librario is a book metadata API that aggregates data from Google Books, ISBNDB, and Hardcover into a single response, solving the problem of no single source having complete book information. It's currently pre-alpha, AGPL-licensed, and available to try now[0]. My wife and…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/10/technology/stewart-cheifet-dead.html",
+      "title": "Stewart Cheifet, Host of TV’s ‘Computer Chronicles,’ Dies at 87",
+      "slug": "2026-01-10-stewart-cheifet-host-of-tv-s-computer-chronicles-dies-at-87.html",
+      "path": "posts/2026-01-10-stewart-cheifet-host-of-tv-s-computer-chronicles-dies-at-87.html",
+      "date_iso": "2026-01-10T21:32:48+00:00",
+      "source": "https://www.nytimes.com/2026/01/10/technology/stewart-cheifet-dead.html",
+      "summary": "He spent two decades hosting the PBS series, during the formative years of personal computing. It was seen in more than 300 cities at its peak."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46569312",
+      "title": "Overdose deaths are falling in America because of a 'supply shock': study",
+      "slug": "2026-01-10-overdose-deaths-are-falling-in-america-because-of-a-supply-shock-study.html",
+      "path": "posts/2026-01-10-overdose-deaths-are-falling-in-america-because-of-a-supply-shock-study.html",
+      "date_iso": "2026-01-10T19:54:49+00:00",
+      "source": "https://www.economist.com/united-states/2026/01/08/why-overdose-deaths-are-falling-in-america",
+      "summary": "Article URL: https://www.economist.com/united-states/2026/01/08/why-overdose-deaths-are-falling-in-america Comments URL: https://news.ycombinator.com/item?id=46569312 Points: 114 # Comments: 80"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46569225",
+      "title": "Code Is Clay",
+      "slug": "2026-01-10-code-is-clay.html",
+      "path": "posts/2026-01-10-code-is-clay.html",
+      "date_iso": "2026-01-10T19:43:57+00:00",
+      "source": "https://campedersen.com/code-is-clay",
+      "summary": "Article URL: https://campedersen.com/code-is-clay Comments URL: https://news.ycombinator.com/item?id=46569225 Points: 56 # Comments: 28"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46569061",
+      "title": "Show HN: Play poker with LLMs, or watch them play against each other",
+      "slug": "2026-01-10-show-hn-play-poker-with-llms-or-watch-them-play-against-each-other.html",
+      "path": "posts/2026-01-10-show-hn-play-poker-with-llms-or-watch-them-play-against-each-other.html",
+      "date_iso": "2026-01-10T19:27:39+00:00",
+      "source": "https://llmholdem.com/",
+      "summary": "I was curious to see how some of the latest models behaved and played no limit texas holdem. I built this website which allows you to: Spectate: Watch different models play against each other. Play: Create your own table and play hands against the agents directly. Comments URL:…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46568794",
+      "title": "Finding and fixing Ghostty's largest memory leak",
+      "slug": "2026-01-10-finding-and-fixing-ghostty-s-largest-memory-leak.html",
+      "path": "posts/2026-01-10-finding-and-fixing-ghostty-s-largest-memory-leak.html",
+      "date_iso": "2026-01-10T18:58:37+00:00",
+      "source": "https://mitchellh.com/writing/ghostty-memory-leak-fix",
+      "summary": "Article URL: https://mitchellh.com/writing/ghostty-memory-leak-fix Comments URL: https://news.ycombinator.com/item?id=46568794 Points: 373 # Comments: 75"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46568662",
+      "title": "Rats caught on camera hunting flying bats (2025)",
+      "slug": "2026-01-10-rats-caught-on-camera-hunting-flying-bats-2025.html",
+      "path": "posts/2026-01-10-rats-caught-on-camera-hunting-flying-bats-2025.html",
+      "date_iso": "2026-01-10T18:44:46+00:00",
+      "source": "https://scienceclock.com/rats-caught-on-camera-hunting-flying-bats-for-the-first-time/",
+      "summary": "Article URL: https://scienceclock.com/rats-caught-on-camera-hunting-flying-bats-for-the-first-time/ Comments URL: https://news.ycombinator.com/item?id=46568662 Points: 83 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46567458",
+      "title": "UpCodes (YC S17) is hiring PMs, SWEs to automate construction compliance",
+      "slug": "2026-01-10-upcodes-yc-s17-is-hiring-pms-swes-to-automate-construction-compliance.html",
+      "path": "posts/2026-01-10-upcodes-yc-s17-is-hiring-pms-swes-to-automate-construction-compliance.html",
+      "date_iso": "2026-01-10T17:01:49+00:00",
+      "source": "https://up.codes/careers?utm_source=HN",
+      "summary": "Article URL: https://up.codes/careers?utm_source=HN Comments URL: https://news.ycombinator.com/item?id=46567458 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46567400",
+      "title": "Show HN: I used Claude Code to discover connections between 100 books",
+      "slug": "2026-01-10-show-hn-i-used-claude-code-to-discover-connections-between-100-books.html",
+      "path": "posts/2026-01-10-show-hn-i-used-claude-code-to-discover-connections-between-100-books.html",
+      "date_iso": "2026-01-10T16:56:55+00:00",
+      "source": "https://trails.pieterma.es/",
+      "summary": "I think LLMs are overused to summarise and underused to help us read deeper. I built a system for Claude Code to browse 100 non-fiction books and find interesting connections between them. I started out with a pipeline in stages, chaining together LLM calls to build up a context…"
+    },
+    {
       "id": "https://www.nytimes.com/2026/01/10/business/volkswagen-tariffs-trump.html",
       "title": "Volkswagen Suffers More Than Rivals From Auto Industry Woes",
       "slug": "2026-01-10-volkswagen-suffers-more-than-rivals-from-auto-industry-woes.html",
