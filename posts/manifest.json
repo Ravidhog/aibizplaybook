@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46584173",
+      "title": "Xfce is great",
+      "slug": "2026-01-12-xfce-is-great.html",
+      "path": "posts/2026-01-12-xfce-is-great.html",
+      "date_iso": "2026-01-12T04:39:26+00:00",
+      "source": "https://rubenerd.com/xfce-is-great/",
+      "summary": "Article URL: https://rubenerd.com/xfce-is-great/ Comments URL: https://news.ycombinator.com/item?id=46584173 Points: 127 # Comments: 72"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46583581",
+      "title": "Show HN: An LLM-optimized programming language",
+      "slug": "2026-01-12-show-hn-an-llm-optimized-programming-language.html",
+      "path": "posts/2026-01-12-show-hn-an-llm-optimized-programming-language.html",
+      "date_iso": "2026-01-12T03:11:49+00:00",
+      "source": "https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md",
+      "summary": "Article URL: https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md Comments URL: https://news.ycombinator.com/item?id=46583581 Points: 23 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46583464",
+      "title": "Himalayas bare and rocky after reduced winter snowfall, scientists warn",
+      "slug": "2026-01-12-himalayas-bare-and-rocky-after-reduced-winter-snowfall-scientists-warn.html",
+      "path": "posts/2026-01-12-himalayas-bare-and-rocky-after-reduced-winter-snowfall-scientists-warn.html",
+      "date_iso": "2026-01-12T02:58:01+00:00",
+      "source": "https://www.bbc.com/news/articles/clyndv7zd20o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/clyndv7zd20o Comments URL: https://news.ycombinator.com/item?id=46583464 Points: 62 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46582762",
+      "title": "Uncrossy",
+      "slug": "2026-01-12-uncrossy.html",
+      "path": "posts/2026-01-12-uncrossy.html",
+      "date_iso": "2026-01-12T01:39:32+00:00",
+      "source": "https://uncrossy.com/",
+      "summary": "Article URL: https://uncrossy.com/ Comments URL: https://news.ycombinator.com/item?id=46582762 Points: 39 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46582728",
+      "title": "Which programming languages are most token-efficient?",
+      "slug": "2026-01-12-which-programming-languages-are-most-token-efficient.html",
+      "path": "posts/2026-01-12-which-programming-languages-are-most-token-efficient.html",
+      "date_iso": "2026-01-12T01:36:26+00:00",
+      "source": "https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/",
+      "summary": "Article URL: https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/ Comments URL: https://news.ycombinator.com/item?id=46582728 Points: 81 # Comments: 49"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46582033",
+      "title": "Gadget Exposed a Spy Camera [video]",
+      "slug": "2026-01-12-gadget-exposed-a-spy-camera-video.html",
+      "path": "posts/2026-01-12-gadget-exposed-a-spy-camera-video.html",
+      "date_iso": "2026-01-12T00:15:36+00:00",
+      "source": "https://www.youtube.com/watch?v=1reman2waLs",
+      "summary": "Article URL: https://www.youtube.com/watch?v=1reman2waLs Comments URL: https://news.ycombinator.com/item?id=46582033 Points: 28 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46580946",
+      "title": "I'd tell you a UDP joke…",
+      "slug": "2026-01-11-i-d-tell-you-a-udp-joke.html",
+      "path": "posts/2026-01-11-i-d-tell-you-a-udp-joke.html",
+      "date_iso": "2026-01-11T22:20:17+00:00",
+      "source": "https://www.codepuns.com/post/805294580859879424/i-would-tell-you-a-udp-joke-but-you-might-not-get",
+      "summary": "Article URL: https://www.codepuns.com/post/805294580859879424/i-would-tell-you-a-udp-joke-but-you-might-not-get Comments URL: https://news.ycombinator.com/item?id=46580946 Points: 145 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46580864",
+      "title": "This game is a single 13 KiB file that runs on Windows, Linux and in the Browser",
+      "slug": "2026-01-11-this-game-is-a-single-13-kib-file-that-runs-on-windows-linux-and-in-the-browser.html",
+      "path": "posts/2026-01-11-this-game-is-a-single-13-kib-file-that-runs-on-windows-linux-and-in-the-browser.html",
+      "date_iso": "2026-01-11T22:14:35+00:00",
+      "source": "https://iczelia.net/posts/snake-polyglot/",
+      "summary": "Article URL: https://iczelia.net/posts/snake-polyglot/ Comments URL: https://news.ycombinator.com/item?id=46580864 Points: 159 # Comments: 49"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46580703",
+      "title": "The next two years of software engineering",
+      "slug": "2026-01-11-the-next-two-years-of-software-engineering.html",
+      "path": "posts/2026-01-11-the-next-two-years-of-software-engineering.html",
+      "date_iso": "2026-01-11T22:00:24+00:00",
+      "source": "https://addyosmani.com/blog/next-two-years/",
+      "summary": "Article URL: https://addyosmani.com/blog/next-two-years/ Comments URL: https://news.ycombinator.com/item?id=46580703 Points: 99 # Comments: 58"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46580652",
+      "title": "Show HN: Engineering Schizophrenia: Trusting yourself through Byzantine faults",
+      "slug": "2026-01-11-show-hn-engineering-schizophrenia-trusting-yourself-through-byzantine-faults.html",
+      "path": "posts/2026-01-11-show-hn-engineering-schizophrenia-trusting-yourself-through-byzantine-faults.html",
+      "date_iso": "2026-01-11T21:55:34+00:00",
+      "source": "https://news.ycombinator.com/item?id=46580652",
+      "summary": "Hi HN! My name's Robert Escriva. I got my PhD from Cornell's Computer Science department back in 2017. And three years ago I had a psychotic episode that irreversibly shook up my world. Since then I've been applying a skill I learned in grad school---namely, debugging distribute…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46580326",
+      "title": "CLI agents make self-hosting on a home server easier and fun",
+      "slug": "2026-01-11-cli-agents-make-self-hosting-on-a-home-server-easier-and-fun.html",
+      "path": "posts/2026-01-11-cli-agents-make-self-hosting-on-a-home-server-easier-and-fun.html",
+      "date_iso": "2026-01-11T21:29:57+00:00",
+      "source": "https://fulghum.io/self-hosting",
+      "summary": "Article URL: https://fulghum.io/self-hosting Comments URL: https://news.ycombinator.com/item?id=46580326 Points: 449 # Comments: 285"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46580136",
+      "title": "FUSE is All You Need – Giving agents access to anything via filesystems",
+      "slug": "2026-01-11-fuse-is-all-you-need-giving-agents-access-to-anything-via-filesystems.html",
+      "path": "posts/2026-01-11-fuse-is-all-you-need-giving-agents-access-to-anything-via-filesystems.html",
+      "date_iso": "2026-01-11T21:12:45+00:00",
+      "source": "https://jakobemmerling.de/posts/fuse-is-all-you-need/",
+      "summary": "Article URL: https://jakobemmerling.de/posts/fuse-is-all-you-need/ Comments URL: https://news.ycombinator.com/item?id=46580136 Points: 108 # Comments: 49"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46579927",
+      "title": "BYD's cheapest electric cars to have Lidar self-driving tech",
+      "slug": "2026-01-11-byd-s-cheapest-electric-cars-to-have-lidar-self-driving-tech.html",
+      "path": "posts/2026-01-11-byd-s-cheapest-electric-cars-to-have-lidar-self-driving-tech.html",
+      "date_iso": "2026-01-11T20:52:44+00:00",
+      "source": "https://thedriven.io/2026/01/11/byds-cheapest-electric-cars-to-have-lidar-self-driving-tech/",
+      "summary": "Article URL: https://thedriven.io/2026/01/11/byds-cheapest-electric-cars-to-have-lidar-self-driving-tech/ Comments URL: https://news.ycombinator.com/item?id=46579927 Points: 172 # Comments: 219"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46579864",
+      "title": "The struggle of resizing windows on macOS Tahoe",
+      "slug": "2026-01-11-the-struggle-of-resizing-windows-on-macos-tahoe.html",
+      "path": "posts/2026-01-11-the-struggle-of-resizing-windows-on-macos-tahoe.html",
+      "date_iso": "2026-01-11T20:47:55+00:00",
+      "source": "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/",
+      "summary": "Article URL: https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/ Comments URL: https://news.ycombinator.com/item?id=46579864 Points: 1388 # Comments: 575"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46579374",
+      "title": "Sampling at negative temperature",
+      "slug": "2026-01-11-sampling-at-negative-temperature.html",
+      "path": "posts/2026-01-11-sampling-at-negative-temperature.html",
+      "date_iso": "2026-01-11T20:01:14+00:00",
+      "source": "https://cavendishlabs.org/blog/negative-temperature/",
+      "summary": "Article URL: https://cavendishlabs.org/blog/negative-temperature/ Comments URL: https://news.ycombinator.com/item?id=46579374 Points: 143 # Comments: 44"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46578921",
+      "title": "iCloud Photos Downloader",
+      "slug": "2026-01-11-icloud-photos-downloader.html",
+      "path": "posts/2026-01-11-icloud-photos-downloader.html",
+      "date_iso": "2026-01-11T19:23:58+00:00",
+      "source": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
+      "summary": "Article URL: https://github.com/icloud-photos-downloader/icloud_photos_downloader Comments URL: https://news.ycombinator.com/item?id=46578921 Points: 401 # Comments: 184"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46578867",
+      "title": "Erich von Däniken has died",
+      "slug": "2026-01-11-erich-von-d-niken-has-died.html",
+      "path": "posts/2026-01-11-erich-von-d-niken-has-died.html",
+      "date_iso": "2026-01-11T19:18:47+00:00",
+      "source": "https://daniken.com/en/startseite-english/",
+      "summary": "https://x.com/vonDaeniken/status/2010314306894828023 Comments URL: https://news.ycombinator.com/item?id=46578867 Points: 65 # Comments: 97"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46577464",
+      "title": "Poison Fountain",
+      "slug": "2026-01-11-poison-fountain.html",
+      "path": "posts/2026-01-11-poison-fountain.html",
+      "date_iso": "2026-01-11T17:05:52+00:00",
+      "source": "https://rnsaffn.com/poison3/",
+      "summary": "https://www.theregister.com/2026/01/11/industry_insiders_see... https://www.anthropic.com/research/small-samples-poison A small number of samples can poison LLMs of any size - https://news.ycombinator.com/item?id=45529587 - Oct 2025 (439 comments) Comments URL: https://news.ycom…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46577242",
+      "title": "Ask HN: What are you working on? (January 2026)",
+      "slug": "2026-01-11-ask-hn-what-are-you-working-on-january-2026.html",
+      "path": "posts/2026-01-11-ask-hn-what-are-you-working-on-january-2026.html",
+      "date_iso": "2026-01-11T16:43:06+00:00",
+      "source": "https://news.ycombinator.com/item?id=46577242",
+      "summary": "What are you working on? Any new ideas that you're thinking about? Comments URL: https://news.ycombinator.com/item?id=46577242 Points: 174 # Comments: 561"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46574276",
+      "title": "Don't fall into the anti-AI hype",
+      "slug": "2026-01-11-don-t-fall-into-the-anti-ai-hype.html",
+      "path": "posts/2026-01-11-don-t-fall-into-the-anti-ai-hype.html",
+      "date_iso": "2026-01-11T10:26:18+00:00",
+      "source": "https://antirez.com/news/158",
+      "summary": "Article URL: https://antirez.com/news/158 Comments URL: https://news.ycombinator.com/item?id=46574276 Points: 853 # Comments: 1040"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46573001",
       "title": "The Concise TypeScript Book",
       "slug": "2026-01-11-the-concise-typescript-book.html",
