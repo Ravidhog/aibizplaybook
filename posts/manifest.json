@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46597518",
+      "title": "Text-Based Web Browsers",
+      "slug": "2026-01-13-text-based-web-browsers.html",
+      "path": "posts/2026-01-13-text-based-web-browsers.html",
+      "date_iso": "2026-01-13T05:16:10+00:00",
+      "source": "https://cssence.com/2026/text-based-web-browsers/",
+      "summary": "Article URL: https://cssence.com/2026/text-based-web-browsers/ Comments URL: https://news.ycombinator.com/item?id=46597518 Points: 15 # Comments: 5"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/12/business/economy/trump-taiwan-deal.html",
+      "title": "Trump Administration Nears Trade Deal With Taiwan",
+      "slug": "2026-01-13-trump-administration-nears-trade-deal-with-taiwan.html",
+      "path": "posts/2026-01-13-trump-administration-nears-trade-deal-with-taiwan.html",
+      "date_iso": "2026-01-13T03:42:47+00:00",
+      "source": "https://www.nytimes.com/2026/01/12/business/economy/trump-taiwan-deal.html",
+      "summary": "A Taiwan Semiconductor Manufacturing Corporation facility under construction in Phoenix. As part of the trade deal, the company would commit to building more semiconductor facilities in Arizona."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46597023",
+      "title": "Provenance Is the New Version Control",
+      "slug": "2026-01-13-provenance-is-the-new-version-control.html",
+      "path": "posts/2026-01-13-provenance-is-the-new-version-control.html",
+      "date_iso": "2026-01-13T03:26:23+00:00",
+      "source": "https://aicoding.leaflet.pub/3mcbiyal7jc2y",
+      "summary": "Article URL: https://aicoding.leaflet.pub/3mcbiyal7jc2y Comments URL: https://news.ycombinator.com/item?id=46597023 Points: 27 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46595419",
+      "title": "Google removes AI health summaries after investigation finds dangerous flaws",
+      "slug": "2026-01-12-google-removes-ai-health-summaries-after-investigation-finds-dangerous-flaws.html",
+      "path": "posts/2026-01-12-google-removes-ai-health-summaries-after-investigation-finds-dangerous-flaws.html",
+      "date_iso": "2026-01-12T23:05:04+00:00",
+      "source": "https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/ Comments URL: https://news.ycombinator.com/item?id=46595419 Points: 148 # Comments: 87"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/12/technology/meta-layoffs-reality-labs.html",
+      "title": "Meta Plans to Cut 10% to 15% of Employees in Reality Labs Business",
+      "slug": "2026-01-12-meta-plans-to-cut-10-to-15-of-employees-in-reality-labs-business.html",
+      "path": "posts/2026-01-12-meta-plans-to-cut-10-to-15-of-employees-in-reality-labs-business.html",
+      "date_iso": "2026-01-12T22:35:16+00:00",
+      "source": "https://www.nytimes.com/2026/01/12/technology/meta-layoffs-reality-labs.html",
+      "summary": "Michael Abrash, chief scientist of Reality Labs, during a presentation for Meta last year."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46595130",
+      "title": "F2 (YC S25) Is Hiring",
+      "slug": "2026-01-12-f2-yc-s25-is-hiring.html",
+      "path": "posts/2026-01-12-f2-yc-s25-is-hiring.html",
+      "date_iso": "2026-01-12T22:30:33+00:00",
+      "source": "https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer Comments URL: https://news.ycombinator.com/item?id=46595130 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/12/world/europe/grok-ai-images-x-elon-musk-uk.html",
+      "title": "Elon Musk’s X Under UK Investigation Over Grok’s Sexualized A.I. Images",
+      "slug": "2026-01-12-elon-musk-s-x-under-uk-investigation-over-grok-s-sexualized-a-i-images.html",
+      "path": "posts/2026-01-12-elon-musk-s-x-under-uk-investigation-over-grok-s-sexualized-a-i-images.html",
+      "date_iso": "2026-01-12T22:25:24+00:00",
+      "source": "https://www.nytimes.com/2026/01/12/world/europe/grok-ai-images-x-elon-musk-uk.html",
+      "summary": "Grok’s prompt page on a phone. In recent weeks, the chatbot has posted sexualized photos of real people, including children, in response to user prompts."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/12/technology/apple-google-ai-partnership.html",
+      "title": "Apple Teams Up With Google for A.I. in Its Products",
+      "slug": "2026-01-12-apple-teams-up-with-google-for-a-i-in-its-products.html",
+      "path": "posts/2026-01-12-apple-teams-up-with-google-for-a-i-in-its-products.html",
+      "date_iso": "2026-01-12T21:23:30+00:00",
+      "source": "https://www.nytimes.com/2026/01/12/technology/apple-google-ai-partnership.html",
+      "summary": "New versions of Apple’s Apple Intelligence models will be based on Google’s Gemini A.I. models and its cloud computing services."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46593802",
+      "title": "Fabrice Bellard's TS Zip (2024)",
+      "slug": "2026-01-12-fabrice-bellard-s-ts-zip-2024.html",
+      "path": "posts/2026-01-12-fabrice-bellard-s-ts-zip-2024.html",
+      "date_iso": "2026-01-12T20:26:47+00:00",
+      "source": "https://www.bellard.org/ts_zip/",
+      "summary": "Article URL: https://www.bellard.org/ts_zip/ Comments URL: https://news.ycombinator.com/item?id=46593802 Points: 139 # Comments: 56"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46593395",
+      "title": "The chess bot on Delta Air Lines will destroy you (2024) [video]",
+      "slug": "2026-01-12-the-chess-bot-on-delta-air-lines-will-destroy-you-2024-video.html",
+      "path": "posts/2026-01-12-the-chess-bot-on-delta-air-lines-will-destroy-you-2024-video.html",
+      "date_iso": "2026-01-12T19:57:37+00:00",
+      "source": "https://www.youtube.com/watch?v=c0mLhHDcY3I",
+      "summary": "Article URL: https://www.youtube.com/watch?v=c0mLhHDcY3I Comments URL: https://news.ycombinator.com/item?id=46593395 Points: 209 # Comments: 163"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46593022",
+      "title": "Cowork: Claude Code for the rest of your work",
+      "slug": "2026-01-12-cowork-claude-code-for-the-rest-of-your-work.html",
+      "path": "posts/2026-01-12-cowork-claude-code-for-the-rest-of-your-work.html",
+      "date_iso": "2026-01-12T19:27:19+00:00",
+      "source": "https://claude.com/blog/cowork-research-preview",
+      "summary": "Article URL: https://claude.com/blog/cowork-research-preview Comments URL: https://news.ycombinator.com/item?id=46593022 Points: 858 # Comments: 393"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46592461",
+      "title": "Clearspace (YC W23) Is Hiring an Applied Researcher (ML)",
+      "slug": "2026-01-12-clearspace-yc-w23-is-hiring-an-applied-researcher-ml.html",
+      "path": "posts/2026-01-12-clearspace-yc-w23-is-hiring-an-applied-researcher-ml.html",
+      "date_iso": "2026-01-12T18:41:47+00:00",
+      "source": "https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace",
+      "summary": "Article URL: https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace Comments URL: https://news.ycombinator.com/item?id=46592461 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46592376",
+      "title": "Show HN: Fall asleep by watching JavaScript load",
+      "slug": "2026-01-12-show-hn-fall-asleep-by-watching-javascript-load.html",
+      "path": "posts/2026-01-12-show-hn-fall-asleep-by-watching-javascript-load.html",
+      "date_iso": "2026-01-12T18:36:12+00:00",
+      "source": "https://github.com/sarusso/bedtime",
+      "summary": "Article URL: https://github.com/sarusso/bedtime Comments URL: https://news.ycombinator.com/item?id=46592376 Points: 62 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46592344",
+      "title": "Show HN: Yolobox – Run AI coding agents with full sudo without nuking home dir",
+      "slug": "2026-01-12-show-hn-yolobox-run-ai-coding-agents-with-full-sudo-without-nuking-home-dir.html",
+      "path": "posts/2026-01-12-show-hn-yolobox-run-ai-coding-agents-with-full-sudo-without-nuking-home-dir.html",
+      "date_iso": "2026-01-12T18:34:02+00:00",
+      "source": "https://github.com/finbarr/yolobox",
+      "summary": "Article URL: https://github.com/finbarr/yolobox Comments URL: https://news.ycombinator.com/item?id=46592344 Points: 76 # Comments: 59"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46591708",
+      "title": "Postal Arbitrage",
+      "slug": "2026-01-12-postal-arbitrage.html",
+      "path": "posts/2026-01-12-postal-arbitrage.html",
+      "date_iso": "2026-01-12T17:41:50+00:00",
+      "source": "https://walzr.com/postal-arbitrage",
+      "summary": "Article URL: https://walzr.com/postal-arbitrage Comments URL: https://news.ycombinator.com/item?id=46591708 Points: 358 # Comments: 182"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46591402",
+      "title": "Message Queues: A Simple Guide with Analogies (2024)",
+      "slug": "2026-01-12-message-queues-a-simple-guide-with-analogies-2024.html",
+      "path": "posts/2026-01-12-message-queues-a-simple-guide-with-analogies-2024.html",
+      "date_iso": "2026-01-12T17:17:09+00:00",
+      "source": "https://www.cloudamqp.com/blog/message-queues-exaplined-with-analogies.html",
+      "summary": "Article URL: https://www.cloudamqp.com/blog/message-queues-exaplined-with-analogies.html Comments URL: https://news.ycombinator.com/item?id=46591402 Points: 93 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46591170",
+      "title": "Carma (YC W24 clients, A in 6mo) Eng hiring: Replace $500B human fleet ops with AI",
+      "slug": "2026-01-12-carma-yc-w24-clients-a-in-6mo-eng-hiring-replace-500b-human-fleet-ops-with-ai.html",
+      "path": "posts/2026-01-12-carma-yc-w24-clients-a-in-6mo-eng-hiring-replace-500b-human-fleet-ops-with-ai.html",
+      "date_iso": "2026-01-12T17:00:48+00:00",
+      "source": "https://news.ycombinator.com/item?id=46591170",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=46591170 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46591100",
+      "title": "Show HN: AI in SolidWorks",
+      "slug": "2026-01-12-show-hn-ai-in-solidworks.html",
+      "path": "posts/2026-01-12-show-hn-ai-in-solidworks.html",
+      "date_iso": "2026-01-12T16:56:17+00:00",
+      "source": "https://www.trylad.com",
+      "summary": "Hey HN! We’re Will and Jorge, and we’ve built LAD (Language-Aided Design), a SolidWorks add-in that uses LLMs to create sketches, features, assemblies, and macros from conversational inputs ( https://www.trylad.com/ ). We come from software engineering backgrounds where tools li…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46590280",
+      "title": "TimeCapsuleLLM: LLM trained only on data from 1800-1875",
+      "slug": "2026-01-12-timecapsulellm-llm-trained-only-on-data-from-1800-1875.html",
+      "path": "posts/2026-01-12-timecapsulellm-llm-trained-only-on-data-from-1800-1875.html",
+      "date_iso": "2026-01-12T16:04:27+00:00",
+      "source": "https://github.com/haykgrigo3/TimeCapsuleLLM",
+      "summary": "Article URL: https://github.com/haykgrigo3/TimeCapsuleLLM Comments URL: https://news.ycombinator.com/item?id=46590280 Points: 564 # Comments: 228"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46589675",
+      "title": "Apple picks Gemini to power Siri",
+      "slug": "2026-01-12-apple-picks-gemini-to-power-siri.html",
+      "path": "posts/2026-01-12-apple-picks-gemini-to-power-siri.html",
+      "date_iso": "2026-01-12T15:22:21+00:00",
+      "source": "https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html Comments URL: https://news.ycombinator.com/item?id=46589675 Points: 788 # Comments: 464"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46589658",
+      "title": "Date is out, Temporal is in",
+      "slug": "2026-01-12-date-is-out-temporal-is-in.html",
+      "path": "posts/2026-01-12-date-is-out-temporal-is-in.html",
+      "date_iso": "2026-01-12T15:20:36+00:00",
+      "source": "https://piccalil.li/blog/date-is-out-and-temporal-is-in/",
+      "summary": "Article URL: https://piccalil.li/blog/date-is-out-and-temporal-is-in/ Comments URL: https://news.ycombinator.com/item?id=46589658 Points: 355 # Comments: 136"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46588905",
+      "title": "Show HN: Agent-of-empires: OpenCode and Claude Code session manager",
+      "slug": "2026-01-12-show-hn-agent-of-empires-opencode-and-claude-code-session-manager.html",
+      "path": "posts/2026-01-12-show-hn-agent-of-empires-opencode-and-claude-code-session-manager.html",
+      "date_iso": "2026-01-12T14:23:07+00:00",
+      "source": "https://github.com/njbrake/agent-of-empires",
+      "summary": "Hi! I’m Nathan: an ML Engineer at Mozilla.ai: I built agent-of-empires (aoe): a CLI application to help you manage all of your running Claude Code/Opencode sessions and know when they are waiting for you. - Written in rust and relies on tmux for security and reliability - Monito…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46588837",
+      "title": "LLVM: The bad parts",
+      "slug": "2026-01-12-llvm-the-bad-parts.html",
+      "path": "posts/2026-01-12-llvm-the-bad-parts.html",
+      "date_iso": "2026-01-12T14:18:13+00:00",
+      "source": "https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html",
+      "summary": "Article URL: https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html Comments URL: https://news.ycombinator.com/item?id=46588837 Points: 320 # Comments: 60"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46588132",
+      "title": "Windows 8 Desktop Environment for Linux",
+      "slug": "2026-01-12-windows-8-desktop-environment-for-linux.html",
+      "path": "posts/2026-01-12-windows-8-desktop-environment-for-linux.html",
+      "date_iso": "2026-01-12T13:22:44+00:00",
+      "source": "https://github.com/er-bharat/Win8DE",
+      "summary": "Article URL: https://github.com/er-bharat/Win8DE Comments URL: https://news.ycombinator.com/item?id=46588132 Points: 176 # Comments: 160"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/12/theater/ark-ian-mckellen-shed.html",
+      "title": "Follow Ian McKellen Into the Mixed Reality Future in ‘An Ark’",
+      "slug": "2026-01-12-follow-ian-mckellen-into-the-mixed-reality-future-in-an-ark.html",
+      "path": "posts/2026-01-12-follow-ian-mckellen-into-the-mixed-reality-future-in-an-ark.html",
+      "date_iso": "2026-01-12T10:02:11+00:00",
+      "source": "https://www.nytimes.com/2026/01/12/theater/ark-ian-mckellen-shed.html",
+      "summary": "Audiences can embark on a very different type of theatrical experience in a new play at the Shed, blending the physical world with digital content."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46584173",
       "title": "Xfce is great",
       "slug": "2026-01-12-xfce-is-great.html",

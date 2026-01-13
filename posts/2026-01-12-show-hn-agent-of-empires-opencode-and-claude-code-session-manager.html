@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Agent-of-empires: OpenCode and Claude Code session manager</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Agent-of-empires: OpenCode and Claude Code session manager</h1>
+    <p><small>Published: 2026-01-12T14:23:07+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hi! I’m Nathan: an ML Engineer at Mozilla.ai: I built agent-of-empires (aoe): a CLI application to help you manage all of your running Claude Code/Opencode sessions and know when they are waiting for you.<p>- Written in rust and relies on tmux for security and reliability
+- Monitors state of cli sessions to tell you when an agent is running vs idle vs waiting for your input
+- Manage sessions by naming them, grouping them, configuring profiles for various settings<p>I'm passionate about getting self-hosted open-weight LLMs to be valid options to compete with proprietary closed models. One roadblock for me is that although tools like opencode allow you to connect to Local LLMs (Ollama, lm studio, etc), they generally run muuuuuch slower than models hosted by Anthropic and OpenAI. I would start a coding agent on a task, but then while I was sitting waiting for that task to complete, I would start opening new terminal windows to start multitasking. Pretty soon, I was spending a lot of time toggling between terminal windows to see which one needed me: like help in adding a clarification, approving a new command, or giving it a new task.<p>That’s why I build agent-of-empires (“aoe”). With aoe, I can launch a bunch of opencode and Claude Code sessions and quickly see their status or toggle between them, which helps me avoid having a lot of terminal windows open, or having to manually attach and detach from tmux sessions myself. It’s helping me give local LLMs a fair try, because them being slower is now much less of a bottleneck.<p>You can give it an install with<p>curl -fsSL <a href="https://raw.githubusercontent.com/njbrake/agent-of-empires/main/scripts/install.sh" rel="nofollow">https://raw.githubusercontent.com/njbrake/agent-of-empires/m...</a>  | bash<p>Or brew install njbrake/aoe/aoe<p>And then launch by simply entering the command `aoe`.<p>I’m interested in what you think as well as what features you think would be useful to add!<p>I am planning to add some further features around sandboxing (with docker) as well as support for intuitive git worktrees and am curious if there are any opinions about what should or shouldn’t be in it.<p>I decided against MCP management or generic terminal usage, to help keep the tool focused on parts of agentic coding that I haven’t found a usable solution for.<p>I hit the character limit on this post which prevented me from including a view of the output, but the readme on the github link has a screenshot showing what it looks like.<p>Thanks!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46588905">https://news.ycombinator.com/item?id=46588905</a></p>
+<p>Points: 85</p>
+<p># Comments: 24</p>
+    <p><a href="https://github.com/njbrake/agent-of-empires" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
