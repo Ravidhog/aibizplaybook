@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46664771",
+      "title": "The relentless rule of my fitness tracker",
+      "slug": "2026-01-18-the-relentless-rule-of-my-fitness-tracker.html",
+      "path": "posts/2026-01-18-the-relentless-rule-of-my-fitness-tracker.html",
+      "date_iso": "2026-01-18T04:26:29+00:00",
+      "source": "https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/",
+      "summary": "Article URL: https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/ Comments URL: https://news.ycombinator.com/item?id=46664771 Points: 12 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46664755",
+      "title": "jQuery 4.0.0 Released",
+      "slug": "2026-01-18-jquery-4-0-0-released.html",
+      "path": "posts/2026-01-18-jquery-4-0-0-released.html",
+      "date_iso": "2026-01-18T04:23:28+00:00",
+      "source": "https://blog.jquery.com/2026/01/17/jquery-4-0-0/",
+      "summary": "Article URL: https://blog.jquery.com/2026/01/17/jquery-4-0-0/ Comments URL: https://news.ycombinator.com/item?id=46664755 Points: 117 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46664646",
+      "title": "U.S. Court Order Against Anna's Archive Spells More Trouble for the Site",
+      "slug": "2026-01-18-u-s-court-order-against-anna-s-archive-spells-more-trouble-for-the-site.html",
+      "path": "posts/2026-01-18-u-s-court-order-against-anna-s-archive-spells-more-trouble-for-the-site.html",
+      "date_iso": "2026-01-18T03:52:10+00:00",
+      "source": "https://torrentfreak.com/u-s-court-order-against-annas-archive-spells-more-trouble-for-the-site/",
+      "summary": "Article URL: https://torrentfreak.com/u-s-court-order-against-annas-archive-spells-more-trouble-for-the-site/ Comments URL: https://news.ycombinator.com/item?id=46664646 Points: 44 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46664638",
+      "title": "Lopado­temacho­selacho­galeo­kranio­leipsano­drim­hypo­trimmato­silphio­karab",
+      "slug": "2026-01-18-lopado-temacho-selacho-galeo-kranio-leipsano-drim-hypo-trimmato-silphio-karab.html",
+      "path": "posts/2026-01-18-lopado-temacho-selacho-galeo-kranio-leipsano-drim-hypo-trimmato-silphio-karab.html",
+      "date_iso": "2026-01-18T03:49:29+00:00",
+      "source": "https://en.wikipedia.org/wiki/Lopado%C2%ADtemacho%C2%ADselacho%C2%ADgaleo%C2%ADkranio%C2%ADleipsano%C2%ADdrim%C2%ADhypo%C2%ADtrimmato%C2%ADsilphio%C2%ADkarabo%C2%ADmelito%C2%ADkatakechy%C2%ADmeno%C2%ADkichl%C2%ADepi%C2%ADkossypho%C2%ADphatto%C2%ADperister%C2%ADalektryon%C2%ADopte%C2%ADkephallio%C2%ADkigklo%C2%ADpeleio%C2%ADlagoio%C2%ADsiraio%C2%ADbaphe%C2%ADtragano%C2%ADpterygon",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Lopado%C2%ADtemacho%C2%ADselacho%C2%ADgaleo%C2%ADkranio%C2%ADleipsano%C2%ADdrim%C2%ADhypo%C2%ADtrimmato%C2%ADsilphio%C2%ADkarabo%C2%ADmelito%C2%ADkatakechy%C2%ADmeno%C2%ADkichl%C2%ADepi%C2%ADkossypho%C2%ADphatto%C2%ADperister%C2%ADalekt…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46664631",
+      "title": "Erdos 281 solved with ChatGPT 5.2 Pro",
+      "slug": "2026-01-18-erdos-281-solved-with-chatgpt-5-2-pro.html",
+      "path": "posts/2026-01-18-erdos-281-solved-with-chatgpt-5-2-pro.html",
+      "date_iso": "2026-01-18T03:48:03+00:00",
+      "source": "https://twitter.com/neelsomani/status/2012695714187325745",
+      "summary": "Article URL: https://twitter.com/neelsomani/status/2012695714187325745 Comments URL: https://news.ycombinator.com/item?id=46664631 Points: 141 # Comments: 92"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46664540",
+      "title": "How scientists are using Claude to accelerate research and discovery",
+      "slug": "2026-01-18-how-scientists-are-using-claude-to-accelerate-research-and-discovery.html",
+      "path": "posts/2026-01-18-how-scientists-are-using-claude-to-accelerate-research-and-discovery.html",
+      "date_iso": "2026-01-18T03:22:52+00:00",
+      "source": "https://www.anthropic.com/news/accelerating-scientific-research",
+      "summary": "Article URL: https://www.anthropic.com/news/accelerating-scientific-research Comments URL: https://news.ycombinator.com/item?id=46664540 Points: 55 # Comments: 33"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46664195",
+      "title": "Profession by Isaac Asimov",
+      "slug": "2026-01-18-profession-by-isaac-asimov.html",
+      "path": "posts/2026-01-18-profession-by-isaac-asimov.html",
+      "date_iso": "2026-01-18T02:17:25+00:00",
+      "source": "https://www.abelard.org/asimov.php",
+      "summary": "Article URL: https://www.abelard.org/asimov.php Comments URL: https://news.ycombinator.com/item?id=46664195 Points: 32 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46664079",
+      "title": "Dark Mode vs. Light Mode: Which Is Better?",
+      "slug": "2026-01-18-dark-mode-vs-light-mode-which-is-better.html",
+      "path": "posts/2026-01-18-dark-mode-vs-light-mode-which-is-better.html",
+      "date_iso": "2026-01-18T01:55:34+00:00",
+      "source": "https://www.nngroup.com/articles/dark-mode/",
+      "summary": "Article URL: https://www.nngroup.com/articles/dark-mode/ Comments URL: https://news.ycombinator.com/item?id=46664079 Points: 30 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46663686",
+      "title": "The life of a playboy publisher who shaped 20th-century literature",
+      "slug": "2026-01-18-the-life-of-a-playboy-publisher-who-shaped-20th-century-literature.html",
+      "path": "posts/2026-01-18-the-life-of-a-playboy-publisher-who-shaped-20th-century-literature.html",
+      "date_iso": "2026-01-18T00:41:51+00:00",
+      "source": "https://www.washingtonpost.com/books/2026/01/09/bennett-cerf-biography-nothing-random-feldman-book-review/",
+      "summary": "Article URL: https://www.washingtonpost.com/books/2026/01/09/bennett-cerf-biography-nothing-random-feldman-book-review/ Comments URL: https://news.ycombinator.com/item?id=46663686 Points: 7 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46663507",
+      "title": "Computer Systems Security 6.566 / Spring 2024",
+      "slug": "2026-01-18-computer-systems-security-6-566-spring-2024.html",
+      "path": "posts/2026-01-18-computer-systems-security-6-566-spring-2024.html",
+      "date_iso": "2026-01-18T00:09:43+00:00",
+      "source": "https://css.csail.mit.edu/6.858/2024/",
+      "summary": "Article URL: https://css.csail.mit.edu/6.858/2024/ Comments URL: https://news.ycombinator.com/item?id=46663507 Points: 69 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46663467",
+      "title": "IRISC: An ARMv7 assembly interpreter and computer architecture simulator",
+      "slug": "2026-01-18-irisc-an-armv7-assembly-interpreter-and-computer-architecture-simulator.html",
+      "path": "posts/2026-01-18-irisc-an-armv7-assembly-interpreter-and-computer-architecture-simulator.html",
+      "date_iso": "2026-01-18T00:05:02+00:00",
+      "source": "https://polysoftit.co.uk/irisc-web/",
+      "summary": "Article URL: https://polysoftit.co.uk/irisc-web/ Comments URL: https://news.ycombinator.com/item?id=46663467 Points: 29 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46663338",
+      "title": "If you put Apple icons in reverse it looks like someone getting good at design",
+      "slug": "2026-01-17-if-you-put-apple-icons-in-reverse-it-looks-like-someone-getting-good-at-design.html",
+      "path": "posts/2026-01-17-if-you-put-apple-icons-in-reverse-it-looks-like-someone-getting-good-at-design.html",
+      "date_iso": "2026-01-17T23:47:16+00:00",
+      "source": "https://mastodon.social/@heliographe_studio/115890819509545391",
+      "summary": "Article URL: https://mastodon.social/@heliographe_studio/115890819509545391 Comments URL: https://news.ycombinator.com/item?id=46663338 Points: 402 # Comments: 170"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46663268",
+      "title": "No knives, only cook knives",
+      "slug": "2026-01-17-no-knives-only-cook-knives.html",
+      "path": "posts/2026-01-17-no-knives-only-cook-knives.html",
+      "date_iso": "2026-01-17T23:38:21+00:00",
+      "source": "https://kellykozakandjoshdonald.substack.com/p/no-knives-only-cook-knives",
+      "summary": "Article URL: https://kellykozakandjoshdonald.substack.com/p/no-knives-only-cook-knives Comments URL: https://news.ycombinator.com/item?id=46663268 Points: 35 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46662662",
+      "title": "Light Mode InFFFFFFlation",
+      "slug": "2026-01-17-light-mode-infffffflation.html",
+      "path": "posts/2026-01-17-light-mode-infffffflation.html",
+      "date_iso": "2026-01-17T22:19:25+00:00",
+      "source": "https://willhbr.net/2025/10/20/light-mode-infffffflation/",
+      "summary": "Article URL: https://willhbr.net/2025/10/20/light-mode-infffffflation/ Comments URL: https://news.ycombinator.com/item?id=46662662 Points: 184 # Comments: 134"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46662399",
+      "title": "Show HN: Speed Miners – A tiny RTS resource mini-game",
+      "slug": "2026-01-17-show-hn-speed-miners-a-tiny-rts-resource-mini-game.html",
+      "path": "posts/2026-01-17-show-hn-speed-miners-a-tiny-rts-resource-mini-game.html",
+      "date_iso": "2026-01-17T21:40:53+00:00",
+      "source": "https://speedminers.fun/",
+      "summary": "I've always loved RTS games and wanted to make a game similar for a long time. I thought I'd just try and build a mini / puzzle game around the resource gathering aspects of an RTS. Objective: You have a base at the center and you need to mine and \"refine\" all of the resources o…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46662078",
+      "title": "Show HN: ChunkHound, a local-first tool for understanding large codebases",
+      "slug": "2026-01-17-show-hn-chunkhound-a-local-first-tool-for-understanding-large-codebases.html",
+      "path": "posts/2026-01-17-show-hn-chunkhound-a-local-first-tool-for-understanding-large-codebases.html",
+      "date_iso": "2026-01-17T21:03:52+00:00",
+      "source": "https://github.com/chunkhound/chunkhound",
+      "summary": "ChunkHound’s goal is simple: local-first codebase intelligence that helps you pull deep, core-dev-level insights on demand, generate always-up-to-date docs, and scale from small repos to enterprise monorepos — while staying free + open source and provider-agnostic (VoyageAI / Op…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46661897",
+      "title": "Kip: A programming language based on grammatical cases of Turkish",
+      "slug": "2026-01-17-kip-a-programming-language-based-on-grammatical-cases-of-turkish.html",
+      "path": "posts/2026-01-17-kip-a-programming-language-based-on-grammatical-cases-of-turkish.html",
+      "date_iso": "2026-01-17T20:44:52+00:00",
+      "source": "https://github.com/kip-dili/kip",
+      "summary": "Article URL: https://github.com/kip-dili/kip Comments URL: https://news.ycombinator.com/item?id=46661897 Points: 165 # Comments: 50"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46660543",
+      "title": "Raising money fucked me up",
+      "slug": "2026-01-17-raising-money-fucked-me-up.html",
+      "path": "posts/2026-01-17-raising-money-fucked-me-up.html",
+      "date_iso": "2026-01-17T18:29:00+00:00",
+      "source": "https://blog.yakkomajuri.com/blog/raising-money-fucked-me-up",
+      "summary": "Article URL: https://blog.yakkomajuri.com/blog/raising-money-fucked-me-up Comments URL: https://news.ycombinator.com/item?id=46660543 Points: 214 # Comments: 71"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46659550",
+      "title": "An Elizabethan mansion's secrets for staying warm",
+      "slug": "2026-01-17-an-elizabethan-mansion-s-secrets-for-staying-warm.html",
+      "path": "posts/2026-01-17-an-elizabethan-mansion-s-secrets-for-staying-warm.html",
+      "date_iso": "2026-01-17T16:53:24+00:00",
+      "source": "https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm Comments URL: https://news.ycombinator.com/item?id=46659550 Points: 131 # Comments: 148"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46658345",
+      "title": "The recurring dream of replacing developers",
+      "slug": "2026-01-17-the-recurring-dream-of-replacing-developers.html",
+      "path": "posts/2026-01-17-the-recurring-dream-of-replacing-developers.html",
+      "date_iso": "2026-01-17T14:31:33+00:00",
+      "source": "https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html",
+      "summary": "Article URL: https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html Comments URL: https://news.ycombinator.com/item?id=46658345 Points: 391 # Comments: 310"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46654749",
       "title": "Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC",
       "slug": "2026-01-17-drone-hacking-part-1-dumping-firmware-and-bruteforcing-ecc.html",
