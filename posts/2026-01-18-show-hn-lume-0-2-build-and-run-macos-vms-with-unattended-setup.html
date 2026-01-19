@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Lume 0.2 – Build and Run macOS VMs with unattended setup</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Lume 0.2 – Build and Run macOS VMs with unattended setup</h1>
+    <p><small>Published: 2026-01-18T17:53:21+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hey HN, Lume is an open-source CLI for running macOS and Linux VMs on Apple Silicon. Since launch (<a href="https://news.ycombinator.com/item?id=42908061">https://news.ycombinator.com/item?id=42908061</a>), we've been using it to run AI agents in isolated macOS environments. We needed VMs that could set themselves up, so we built that.<p>Here's what's new in 0.2:<p>*Unattended Setup* – Go from IPSW to a fully configured VM without touching the keyboard. We built a VNC + OCR system that clicks through macOS Setup Assistant automatically. No more manual setup before pushing to a registry:<p><pre><code>  lume create my-vm --os macos --ipsw latest --unattended tahoe
+</code></pre>
+You can write custom YAML configs to set up any macOS version your way.<p>*HTTP API + Daemon* – A REST API on port 7777 that runs as a background service. Your scripts and CI pipelines can manage VMs that persist even if your terminal closes:<p><pre><code>  curl -X POST localhost:7777/lume/vms/my-vm/run -d '{"noDisplay": true}'
+</code></pre>
+*MCP Server* – Native integration with Claude Desktop and AI coding agents. Claude can create, run, and execute commands in VMs directly:<p><pre><code>  # Add to Claude Desktop config
+  "lume": { "command": "lume", "args": ["serve", "--mcp"] }
+    
+  # Then just ask: "Create a sandbox VM and run my tests"
+</code></pre>
+*Multi-location Storage* – macOS disk space is always tight, so from user feedback we added support for external drives. Add an SSD, move VMs between locations:<p><pre><code>  lume config storage add external-ssd /Volumes/ExternalSSD/lume
+  lume clone my-vm backup --source-storage default --dest-storage external-ssd
+</code></pre>
+*Registry Support* – Pull and push VM images from GHCR or GCS. Create a golden image once, share it across your team.<p>We're seeing people use Lume for:
+- Running Claude Code in an isolated VM (your host stays clean, reset mistakes by cloning)
+- CI/CD pipelines for Apple platform apps
+- Automated UI testing across macOS versions
+- Disposable sandboxes for security research<p>To get started:<p><pre><code>  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/trycua/cua/main/libs/lume/scripts/install.sh)"
+
+  lume create sandbox --os macos --ipsw latest --unattended tahoe
+  lume run sandbox --shared-dir ~/my-project
+</code></pre>
+Lume is MIT licensed and Apple Silicon only (M1/M2/M3/M4) since it uses Apple's native Virtualization Framework directly—no emulation.<p>Lume runs on EC2 Mac instances and Scaleway if you need cloud infrastructure. We're also working on a managed cloud offering for teams that need macOS compute on demand—if you're interested, reach out.<p>We're actively developing this as part of Cua (<a href="https://github.com/trycua/cua" rel="nofollow">https://github.com/trycua/cua</a>), our Computer Use Agent SDK. We'd love your feedback, bug reports, or feature ideas.<p>GitHub: <a href="https://github.com/trycua/cua" rel="nofollow">https://github.com/trycua/cua</a>
+Docs: <a href="https://cua.ai/docs/lume">https://cua.ai/docs/lume</a><p>We'll be here to answer questions!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46670181">https://news.ycombinator.com/item?id=46670181</a></p>
+<p>Points: 118</p>
+<p># Comments: 32</p>
+    <p><a href="https://cua.ai/docs/lume/guide/getting-started/introduction" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

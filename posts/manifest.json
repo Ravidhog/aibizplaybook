@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46675236",
+      "title": "Show HN: Intent Layer: A context engineering skill for AI agents",
+      "slug": "2026-01-19-show-hn-intent-layer-a-context-engineering-skill-for-ai-agents.html",
+      "path": "posts/2026-01-19-show-hn-intent-layer-a-context-engineering-skill-for-ai-agents.html",
+      "date_iso": "2026-01-19T05:04:40+00:00",
+      "source": "https://www.railly.dev/blog/intent-layer/",
+      "summary": "Article URL: https://www.railly.dev/blog/intent-layer/ Comments URL: https://news.ycombinator.com/item?id=46675236 Points: 6 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46675231",
+      "title": "Show HN: Pdfwithlove – PDF tools that run 100% locally (no uploads, no back end)",
+      "slug": "2026-01-19-show-hn-pdfwithlove-pdf-tools-that-run-100-locally-no-uploads-no-back-end.html",
+      "path": "posts/2026-01-19-show-hn-pdfwithlove-pdf-tools-that-run-100-locally-no-uploads-no-back-end.html",
+      "date_iso": "2026-01-19T05:04:07+00:00",
+      "source": "https://pdfwithlove.netlify.app",
+      "summary": "Most PDF web tools make millions by uploading documents that never needed to leave your computer. pdfwithlove does the opposite: 1. 100% local processing 2. No uploads, no backend, no tracking Features include merge/split/edit/compress PDFs, watermarks & signatures, and image/HT…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46675092",
+      "title": "Show HN: AWS-doctor – A terminal-based AWS health check and cost optimizer in Go",
+      "slug": "2026-01-19-show-hn-aws-doctor-a-terminal-based-aws-health-check-and-cost-optimizer-in-go.html",
+      "path": "posts/2026-01-19-show-hn-aws-doctor-a-terminal-based-aws-health-check-and-cost-optimizer-in-go.html",
+      "date_iso": "2026-01-19T04:35:05+00:00",
+      "source": "https://github.com/elC0mpa/aws-doctor",
+      "summary": "Article URL: https://github.com/elC0mpa/aws-doctor Comments URL: https://news.ycombinator.com/item?id=46675092 Points: 10 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46674424",
+      "title": "All your OpenCodes belong to us",
+      "slug": "2026-01-19-all-your-opencodes-belong-to-us.html",
+      "path": "posts/2026-01-19-all-your-opencodes-belong-to-us.html",
+      "date_iso": "2026-01-19T02:28:21+00:00",
+      "source": "https://johncodes.com/archive/2026/01-18-all-your-opencodes/",
+      "summary": "Article URL: https://johncodes.com/archive/2026/01-18-all-your-opencodes/ Comments URL: https://news.ycombinator.com/item?id=46674424 Points: 33 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46674416",
+      "title": "The Code-Only Agent",
+      "slug": "2026-01-19-the-code-only-agent.html",
+      "path": "posts/2026-01-19-the-code-only-agent.html",
+      "date_iso": "2026-01-19T02:27:07+00:00",
+      "source": "https://rijnard.com/blog/the-code-only-agent",
+      "summary": "Article URL: https://rijnard.com/blog/the-code-only-agent Comments URL: https://news.ycombinator.com/item?id=46674416 Points: 43 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46673809",
+      "title": "Show HN: I quit coding years ago. AI brought me back",
+      "slug": "2026-01-19-show-hn-i-quit-coding-years-ago-ai-brought-me-back.html",
+      "path": "posts/2026-01-19-show-hn-i-quit-coding-years-ago-ai-brought-me-back.html",
+      "date_iso": "2026-01-19T00:50:20+00:00",
+      "source": "https://calquio.com/finance/compound-interest",
+      "summary": "Quick background: I used to code. Studied it in school, wrote some projects, but eventually convinced myself I wasn't cut out for it. Too slow, too many bugs, imposter syndrome — the usual story. So I pivoted, ended up as an investment associate at an early-stage angel fund, and…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46673453",
+      "title": "High-speed train collision in Spain kills at least 21",
+      "slug": "2026-01-18-high-speed-train-collision-in-spain-kills-at-least-21.html",
+      "path": "posts/2026-01-18-high-speed-train-collision-in-spain-kills-at-least-21.html",
+      "date_iso": "2026-01-18T23:54:43+00:00",
+      "source": "https://www.bbc.com/news/articles/cedw6ylpynyo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cedw6ylpynyo Comments URL: https://news.ycombinator.com/item?id=46673453 Points: 79 # Comments: 52"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46672181",
+      "title": "Show HN: Beats, a web-based drum machine",
+      "slug": "2026-01-18-show-hn-beats-a-web-based-drum-machine.html",
+      "path": "posts/2026-01-18-show-hn-beats-a-web-based-drum-machine.html",
+      "date_iso": "2026-01-18T21:10:08+00:00",
+      "source": "https://beats.lasagna.pizza",
+      "summary": "Hello all! I've been an avid fan of Pocket Operators by Teenage Engineering since I found out about them. I even own an EP-133 K.O. II today, which I love. A couple of months ago, Reddit user andiam03 shared a Google Sheet with some drum patterns [1]. I thought it was a very coo…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46672150",
+      "title": "Police Invested Millions in Shadowy Phone-Tracking Software Won't Say How Used",
+      "slug": "2026-01-18-police-invested-millions-in-shadowy-phone-tracking-software-won-t-say-how-used.html",
+      "path": "posts/2026-01-18-police-invested-millions-in-shadowy-phone-tracking-software-won-t-say-how-used.html",
+      "date_iso": "2026-01-18T21:05:14+00:00",
+      "source": "https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/",
+      "summary": "Article URL: https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/ Comments URL: https://news.ycombinator.com/item?id=46672150 Points: 295 # Comments: 85"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46671952",
+      "title": "Show HN: Dock – Slack minus the bloat, tax, and 90-day memory loss",
+      "slug": "2026-01-18-show-hn-dock-slack-minus-the-bloat-tax-and-90-day-memory-loss.html",
+      "path": "posts/2026-01-18-show-hn-dock-slack-minus-the-bloat-tax-and-90-day-memory-loss.html",
+      "date_iso": "2026-01-18T20:42:49+00:00",
+      "source": "https://getdock.io/",
+      "summary": "Hey HN – I built Dock after years of team chat frustrations as a founder. Free forever for teams up to 5. Unlimited search, unlimited history. No \"upgrade to see messages older than 90 days\" nonsense. Built for teams who work both async and sync/real-time when it matters. runs o…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46671731",
+      "title": "Dead Internet Theory",
+      "slug": "2026-01-18-dead-internet-theory.html",
+      "path": "posts/2026-01-18-dead-internet-theory.html",
+      "date_iso": "2026-01-18T20:19:07+00:00",
+      "source": "https://kudmitry.com/articles/dead-internet-theory/",
+      "summary": "Article URL: https://kudmitry.com/articles/dead-internet-theory/ Comments URL: https://news.ycombinator.com/item?id=46671731 Points: 224 # Comments: 272"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46670279",
+      "title": "Flux 2 Klein pure C inference",
+      "slug": "2026-01-18-flux-2-klein-pure-c-inference.html",
+      "path": "posts/2026-01-18-flux-2-klein-pure-c-inference.html",
+      "date_iso": "2026-01-18T18:01:58+00:00",
+      "source": "https://github.com/antirez/flux2.c",
+      "summary": "Article URL: https://github.com/antirez/flux2.c Comments URL: https://news.ycombinator.com/item?id=46670279 Points: 302 # Comments: 113"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46670181",
+      "title": "Show HN: Lume 0.2 – Build and Run macOS VMs with unattended setup",
+      "slug": "2026-01-18-show-hn-lume-0-2-build-and-run-macos-vms-with-unattended-setup.html",
+      "path": "posts/2026-01-18-show-hn-lume-0-2-build-and-run-macos-vms-with-unattended-setup.html",
+      "date_iso": "2026-01-18T17:53:21+00:00",
+      "source": "https://cua.ai/docs/lume/guide/getting-started/introduction",
+      "summary": "Hey HN, Lume is an open-source CLI for running macOS and Linux VMs on Apple Silicon. Since launch ( https://news.ycombinator.com/item?id=42908061 ), we've been using it to run AI agents in isolated macOS environments. We needed VMs that could set themselves up, so we built that.…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46670024",
+      "title": "Gaussian Splatting – A$AP Rocky \"Helicopter\" music video",
+      "slug": "2026-01-18-gaussian-splatting-a-ap-rocky-helicopter-music-video.html",
+      "path": "posts/2026-01-18-gaussian-splatting-a-ap-rocky-helicopter-music-video.html",
+      "date_iso": "2026-01-18T17:40:55+00:00",
+      "source": "https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting",
+      "summary": "https://www.youtube.com/watch?v=g1-46Nu3HxQ Comments URL: https://news.ycombinator.com/item?id=46670024 Points: 572 # Comments: 175"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46669663",
+      "title": "Sins of the Children",
+      "slug": "2026-01-18-sins-of-the-children.html",
+      "path": "posts/2026-01-18-sins-of-the-children.html",
+      "date_iso": "2026-01-18T17:08:58+00:00",
+      "source": "https://asteriskmag.com/issues/07/sins-of-the-children",
+      "summary": "Article URL: https://asteriskmag.com/issues/07/sins-of-the-children Comments URL: https://news.ycombinator.com/item?id=46669663 Points: 137 # Comments: 67"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46668021",
+      "title": "Predicting OpenAI's ad strategy",
+      "slug": "2026-01-18-predicting-openai-s-ad-strategy.html",
+      "path": "posts/2026-01-18-predicting-openai-s-ad-strategy.html",
+      "date_iso": "2026-01-18T14:25:49+00:00",
+      "source": "https://ossa-ma.github.io/blog/openads",
+      "summary": "Article URL: https://ossa-ma.github.io/blog/openads Comments URL: https://news.ycombinator.com/item?id=46668021 Points: 527 # Comments: 458"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46667101",
+      "title": "Keystone (YC S25) Is Hiring",
+      "slug": "2026-01-18-keystone-yc-s25-is-hiring.html",
+      "path": "posts/2026-01-18-keystone-yc-s25-is-hiring.html",
+      "date_iso": "2026-01-18T12:00:10+00:00",
+      "source": "https://news.ycombinator.com/item?id=46667101",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=46667101 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46666288",
+      "title": "A free and open-source rootkit for Linux",
+      "slug": "2026-01-18-a-free-and-open-source-rootkit-for-linux.html",
+      "path": "posts/2026-01-18-a-free-and-open-source-rootkit-for-linux.html",
+      "date_iso": "2026-01-18T09:36:25+00:00",
+      "source": "https://lwn.net/SubscriberLink/1053099/19c2e8180aeb0438/",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1053099/19c2e8180aeb0438/ Comments URL: https://news.ycombinator.com/item?id=46666288 Points: 190 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46666085",
+      "title": "Command-line Tools can be 235x Faster than your Hadoop Cluster (2014)",
+      "slug": "2026-01-18-command-line-tools-can-be-235x-faster-than-your-hadoop-cluster-2014.html",
+      "path": "posts/2026-01-18-command-line-tools-can-be-235x-faster-than-your-hadoop-cluster-2014.html",
+      "date_iso": "2026-01-18T08:58:40+00:00",
+      "source": "https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html",
+      "summary": "Article URL: https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html Comments URL: https://news.ycombinator.com/item?id=46666085 Points: 348 # Comments: 229"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46665839",
+      "title": "A Social Filesystem",
+      "slug": "2026-01-18-a-social-filesystem.html",
+      "path": "posts/2026-01-18-a-social-filesystem.html",
+      "date_iso": "2026-01-18T08:18:36+00:00",
+      "source": "https://overreacted.io/a-social-filesystem/",
+      "summary": "Article URL: https://overreacted.io/a-social-filesystem/ Comments URL: https://news.ycombinator.com/item?id=46665839 Points: 359 # Comments: 155"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46664771",
       "title": "The relentless rule of my fitness tracker",
       "slug": "2026-01-18-the-relentless-rule-of-my-fitness-tracker.html",
