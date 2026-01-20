@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46688173",
+      "title": "X For You Feed Algorithm",
+      "slug": "2026-01-20-x-for-you-feed-algorithm.html",
+      "path": "posts/2026-01-20-x-for-you-feed-algorithm.html",
+      "date_iso": "2026-01-20T05:16:14+00:00",
+      "source": "https://github.com/xai-org/x-algorithm",
+      "summary": "https://x.com/XEng/status/2013471689087086804 Comments URL: https://news.ycombinator.com/item?id=46688173 Points: 77 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46688122",
+      "title": "Chatbot Psychosis",
+      "slug": "2026-01-20-chatbot-psychosis.html",
+      "path": "posts/2026-01-20-chatbot-psychosis.html",
+      "date_iso": "2026-01-20T05:08:57+00:00",
+      "source": "https://en.wikipedia.org/wiki/Chatbot_psychosis",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Chatbot_psychosis Comments URL: https://news.ycombinator.com/item?id=46688122 Points: 31 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46687705",
+      "title": "x86 prefixes and escape opcodes flowchart",
+      "slug": "2026-01-20-x86-prefixes-and-escape-opcodes-flowchart.html",
+      "path": "posts/2026-01-20-x86-prefixes-and-escape-opcodes-flowchart.html",
+      "date_iso": "2026-01-20T03:47:21+00:00",
+      "source": "https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html",
+      "summary": "Article URL: https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html Comments URL: https://news.ycombinator.com/item?id=46687705 Points: 20 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46687588",
+      "title": "F-16 Falcon Strike",
+      "slug": "2026-01-20-f-16-falcon-strike.html",
+      "path": "posts/2026-01-20-f-16-falcon-strike.html",
+      "date_iso": "2026-01-20T03:26:25+00:00",
+      "source": "https://webchrono.pl/F16FalconStrike/index.html",
+      "summary": "Article URL: https://webchrono.pl/F16FalconStrike/index.html Comments URL: https://news.ycombinator.com/item?id=46687588 Points: 91 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46687504",
+      "title": "Show HN: Artificial Ivy in the Browser",
+      "slug": "2026-01-20-show-hn-artificial-ivy-in-the-browser.html",
+      "path": "posts/2026-01-20-show-hn-artificial-ivy-in-the-browser.html",
+      "date_iso": "2026-01-20T03:14:47+00:00",
+      "source": "https://da.nmcardle.com/grow",
+      "summary": "This is just a goofy thing I cooked up over the weekend. It's kind of like a screensaver, but with more reading and sliders. (It's not terribly efficient, so expect phone batteries to take a hit!) Comments URL: https://news.ycombinator.com/item?id=46687504 Points: 43 # Comments:…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46686745",
+      "title": "Legal Structures for Latin American Startups (2021)",
+      "slug": "2026-01-20-legal-structures-for-latin-american-startups-2021.html",
+      "path": "posts/2026-01-20-legal-structures-for-latin-american-startups-2021.html",
+      "date_iso": "2026-01-20T01:21:35+00:00",
+      "source": "https://latamlist.com/legal-structures-for-latin-american-startups/",
+      "summary": "Article URL: https://latamlist.com/legal-structures-for-latin-american-startups/ Comments URL: https://news.ycombinator.com/item?id=46686745 Points: 22 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46686655",
+      "title": "Nova Launcher added Facebook and Google Ads tracking",
+      "slug": "2026-01-20-nova-launcher-added-facebook-and-google-ads-tracking.html",
+      "path": "posts/2026-01-20-nova-launcher-added-facebook-and-google-ads-tracking.html",
+      "date_iso": "2026-01-20T01:03:52+00:00",
+      "source": "https://lemdro.id/post/lemdro.id/35049920",
+      "summary": "Article URL: https://lemdro.id/post/lemdro.id/35049920 Comments URL: https://news.ycombinator.com/item?id=46686655 Points: 189 # Comments: 88"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46686640",
+      "title": "Porsche sold more electrified cars in Europe in 2025 than pure gas-powered cars",
+      "slug": "2026-01-20-porsche-sold-more-electrified-cars-in-europe-in-2025-than-pure-gas-powered-cars.html",
+      "path": "posts/2026-01-20-porsche-sold-more-electrified-cars-in-europe-in-2025-than-pure-gas-powered-cars.html",
+      "date_iso": "2026-01-20T01:01:36+00:00",
+      "source": "https://newsroom.porsche.com/en/2026/company/porsche-deliveries-2025-41516.html",
+      "summary": "Article URL: https://newsroom.porsche.com/en/2026/company/porsche-deliveries-2025-41516.html Comments URL: https://news.ycombinator.com/item?id=46686640 Points: 249 # Comments: 273"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46686418",
+      "title": "Scaling long-running autonomous coding",
+      "slug": "2026-01-20-scaling-long-running-autonomous-coding.html",
+      "path": "posts/2026-01-20-scaling-long-running-autonomous-coding.html",
+      "date_iso": "2026-01-20T00:23:01+00:00",
+      "source": "https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/",
+      "summary": "Related: Scaling long-running autonomous coding - https://news.ycombinator.com/item?id=46624541 - Jan 2026 (187 comments) Comments URL: https://news.ycombinator.com/item?id=46686418 Points: 76 # Comments: 27"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46686273",
+      "title": "Reticulum, a secure and anonymous mesh networking stack",
+      "slug": "2026-01-19-reticulum-a-secure-and-anonymous-mesh-networking-stack.html",
+      "path": "posts/2026-01-19-reticulum-a-secure-and-anonymous-mesh-networking-stack.html",
+      "date_iso": "2026-01-19T23:59:54+00:00",
+      "source": "https://github.com/markqvist/Reticulum",
+      "summary": "Article URL: https://github.com/markqvist/Reticulum Comments URL: https://news.ycombinator.com/item?id=46686273 Points: 149 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46686131",
+      "title": "3D printing my laptop ergonomic setup",
+      "slug": "2026-01-19-3d-printing-my-laptop-ergonomic-setup.html",
+      "path": "posts/2026-01-19-3d-printing-my-laptop-ergonomic-setup.html",
+      "date_iso": "2026-01-19T23:39:57+00:00",
+      "source": "https://www.ntietz.com/blog/3d-printing-my-laptop-ergonomic-setup/",
+      "summary": "Article URL: https://www.ntietz.com/blog/3d-printing-my-laptop-ergonomic-setup/ Comments URL: https://news.ycombinator.com/item?id=46686131 Points: 35 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46684958",
+      "title": "Nanolang: A tiny experimental language designed to be targeted by coding LLMs",
+      "slug": "2026-01-19-nanolang-a-tiny-experimental-language-designed-to-be-targeted-by-coding-llms.html",
+      "path": "posts/2026-01-19-nanolang-a-tiny-experimental-language-designed-to-be-targeted-by-coding-llms.html",
+      "date_iso": "2026-01-19T21:48:07+00:00",
+      "source": "https://github.com/jordanhubbard/nanolang",
+      "summary": "Article URL: https://github.com/jordanhubbard/nanolang Comments URL: https://news.ycombinator.com/item?id=46684958 Points: 133 # Comments: 90"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46684862",
+      "title": "Use Social Media Mindfully",
+      "slug": "2026-01-19-use-social-media-mindfully.html",
+      "path": "posts/2026-01-19-use-social-media-mindfully.html",
+      "date_iso": "2026-01-19T21:39:44+00:00",
+      "source": "https://danielleheberling.xyz/blog/mindful-social-media/",
+      "summary": "Article URL: https://danielleheberling.xyz/blog/mindful-social-media/ Comments URL: https://news.ycombinator.com/item?id=46684862 Points: 66 # Comments: 38"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46684815",
+      "title": "Targeted Bets: An alternative approach to the job hunt",
+      "slug": "2026-01-19-targeted-bets-an-alternative-approach-to-the-job-hunt.html",
+      "path": "posts/2026-01-19-targeted-bets-an-alternative-approach-to-the-job-hunt.html",
+      "date_iso": "2026-01-19T21:35:31+00:00",
+      "source": "https://www.seanmuirhead.com/blog/targeted-bets",
+      "summary": "Article URL: https://www.seanmuirhead.com/blog/targeted-bets Comments URL: https://news.ycombinator.com/item?id=46684815 Points: 53 # Comments: 62"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46684708",
+      "title": "The assistant axis: situating and stabilizing the character of LLMs",
+      "slug": "2026-01-19-the-assistant-axis-situating-and-stabilizing-the-character-of-llms.html",
+      "path": "posts/2026-01-19-the-assistant-axis-situating-and-stabilizing-the-character-of-llms.html",
+      "date_iso": "2026-01-19T21:25:16+00:00",
+      "source": "https://www.anthropic.com/research/assistant-axis",
+      "summary": "Article URL: https://www.anthropic.com/research/assistant-axis Comments URL: https://news.ycombinator.com/item?id=46684708 Points: 80 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46684056",
+      "title": "Level S4 solar radiation event",
+      "slug": "2026-01-19-level-s4-solar-radiation-event.html",
+      "path": "posts/2026-01-19-level-s4-solar-radiation-event.html",
+      "date_iso": "2026-01-19T20:26:19+00:00",
+      "source": "https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026",
+      "summary": "https://www.swpc.noaa.gov/products/goes-proton-flux Comments URL: https://news.ycombinator.com/item?id=46684056 Points: 376 # Comments: 126"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46682518",
+      "title": "Notes on Apple's Nano Texture (2025)",
+      "slug": "2026-01-19-notes-on-apple-s-nano-texture-2025.html",
+      "path": "posts/2026-01-19-notes-on-apple-s-nano-texture-2025.html",
+      "date_iso": "2026-01-19T18:15:48+00:00",
+      "source": "https://jon.bo/posts/nano-texture/",
+      "summary": "Article URL: https://jon.bo/posts/nano-texture/ Comments URL: https://news.ycombinator.com/item?id=46682518 Points: 174 # Comments: 95"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46682115",
+      "title": "Show HN: An interactive physics simulator with 1000’s of balls, in your terminal",
+      "slug": "2026-01-19-show-hn-an-interactive-physics-simulator-with-1000-s-of-balls-in-your-terminal.html",
+      "path": "posts/2026-01-19-show-hn-an-interactive-physics-simulator-with-1000-s-of-balls-in-your-terminal.html",
+      "date_iso": "2026-01-19T17:47:38+00:00",
+      "source": "https://github.com/minimaxir/ballin",
+      "summary": "Article URL: https://github.com/minimaxir/ballin Comments URL: https://news.ycombinator.com/item?id=46682115 Points: 55 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46681611",
+      "title": "What came first: the CNAME or the A record?",
+      "slug": "2026-01-19-what-came-first-the-cname-or-the-a-record.html",
+      "path": "posts/2026-01-19-what-came-first-the-cname-or-the-a-record.html",
+      "date_iso": "2026-01-19T17:13:59+00:00",
+      "source": "https://blog.cloudflare.com/cname-a-record-order-dns-standards/",
+      "summary": "Article URL: https://blog.cloudflare.com/cname-a-record-order-dns-standards/ Comments URL: https://news.ycombinator.com/item?id=46681611 Points: 335 # Comments: 117"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/19/us/politics/elon-musk-nate-morris-kentucky-senate-mitch-mcconnell.html",
+      "title": "Elon Musk Spends $10 Million to Help Nate Morris in Kentucky Senate Race",
+      "slug": "2026-01-19-elon-musk-spends-10-million-to-help-nate-morris-in-kentucky-senate-race.html",
+      "path": "posts/2026-01-19-elon-musk-spends-10-million-to-help-nate-morris-in-kentucky-senate-race.html",
+      "date_iso": "2026-01-19T16:50:36+00:00",
+      "source": "https://www.nytimes.com/2026/01/19/us/politics/elon-musk-nate-morris-kentucky-senate-mitch-mcconnell.html",
+      "summary": "Elon Musk at the Kennedy Center in November. After his falling out with President Trump last year, he has inched back toward the Republican fold."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46680974",
+      "title": "Apple testing new App Store design that blurs the line between ads and results",
+      "slug": "2026-01-19-apple-testing-new-app-store-design-that-blurs-the-line-between-ads-and-results.html",
+      "path": "posts/2026-01-19-apple-testing-new-app-store-design-that-blurs-the-line-between-ads-and-results.html",
+      "date_iso": "2026-01-19T16:36:11+00:00",
+      "source": "https://9to5mac.com/2026/01/16/iphone-apple-app-store-search-results-ads-new-design/",
+      "summary": "Article URL: https://9to5mac.com/2026/01/16/iphone-apple-app-store-search-results-ads-new-design/ Comments URL: https://news.ycombinator.com/item?id=46680974 Points: 317 # Comments: 234"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/19/technology/polymarket-kalshi-prediction-markets.html",
+      "title": "The Rise of Prediction Markets",
+      "slug": "2026-01-19-the-rise-of-prediction-markets.html",
+      "path": "posts/2026-01-19-the-rise-of-prediction-markets.html",
+      "date_iso": "2026-01-19T10:01:04+00:00",
+      "source": "https://www.nytimes.com/2026/01/19/technology/polymarket-kalshi-prediction-markets.html",
+      "summary": "Billions of dollars are trading hands on sites like Polymarket and Kalshi, where people bet on everything from Taylor Swift’s wedding date to election outcomes."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46675236",
       "title": "Show HN: Intent Layer: A context engineering skill for AI agents",
       "slug": "2026-01-19-show-hn-intent-layer-a-context-engineering-skill-for-ai-agents.html",
