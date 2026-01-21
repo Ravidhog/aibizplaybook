@@ -1,6 +1,222 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46702045",
+      "title": "Infracost (YC W21) Is Hiring Sr Back End Eng (Node.js+SQL) to Shift FinOps Left",
+      "slug": "2026-01-21-infracost-yc-w21-is-hiring-sr-back-end-eng-node-js-sql-to-shift-finops-left.html",
+      "path": "posts/2026-01-21-infracost-yc-w21-is-hiring-sr-back-end-eng-node-js-sql-to-shift-finops-left.html",
+      "date_iso": "2026-01-21T07:00:23+00:00",
+      "source": "https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-backend-engineer-node-js-sql",
+      "summary": "Article URL: https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-backend-engineer-node-js-sql Comments URL: https://news.ycombinator.com/item?id=46702045 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46701733",
+      "title": "Curl removes bug bounties because of AI slop",
+      "slug": "2026-01-21-curl-removes-bug-bounties-because-of-ai-slop.html",
+      "path": "posts/2026-01-21-curl-removes-bug-bounties-because-of-ai-slop.html",
+      "date_iso": "2026-01-21T06:07:03+00:00",
+      "source": "https://etn.se/index.php/nyheter/72808-curl-removes-bug-bounties.html",
+      "summary": "Article URL: https://etn.se/index.php/nyheter/72808-curl-removes-bug-bounties.html Comments URL: https://news.ycombinator.com/item?id=46701733 Points: 86 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46701114",
+      "title": "Libbbf: Bound Book Format, A high-performance container for comics and manga",
+      "slug": "2026-01-21-libbbf-bound-book-format-a-high-performance-container-for-comics-and-manga.html",
+      "path": "posts/2026-01-21-libbbf-bound-book-format-a-high-performance-container-for-comics-and-manga.html",
+      "date_iso": "2026-01-21T04:27:08+00:00",
+      "source": "https://github.com/ef1500/libbbf",
+      "summary": "Article URL: https://github.com/ef1500/libbbf Comments URL: https://news.ycombinator.com/item?id=46701114 Points: 37 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46700809",
+      "title": "Disaster planning for regular folks (2015)",
+      "slug": "2026-01-21-disaster-planning-for-regular-folks-2015.html",
+      "path": "posts/2026-01-21-disaster-planning-for-regular-folks-2015.html",
+      "date_iso": "2026-01-21T03:38:57+00:00",
+      "source": "https://lcamtuf.coredump.cx/prep/index-old.shtml",
+      "summary": "Article URL: https://lcamtuf.coredump.cx/prep/index-old.shtml Comments URL: https://news.ycombinator.com/item?id=46700809 Points: 96 # Comments: 56"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46700594",
+      "title": "Anthropic's original take home assignment open sourced",
+      "slug": "2026-01-21-anthropic-s-original-take-home-assignment-open-sourced.html",
+      "path": "posts/2026-01-21-anthropic-s-original-take-home-assignment-open-sourced.html",
+      "date_iso": "2026-01-21T02:54:32+00:00",
+      "source": "https://github.com/anthropics/original_performance_takehome",
+      "summary": "Article URL: https://github.com/anthropics/original_performance_takehome Comments URL: https://news.ycombinator.com/item?id=46700594 Points: 194 # Comments: 69"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46699597",
+      "title": "Who owns Rudolph's nose?",
+      "slug": "2026-01-21-who-owns-rudolph-s-nose.html",
+      "path": "posts/2026-01-21-who-owns-rudolph-s-nose.html",
+      "date_iso": "2026-01-21T00:21:13+00:00",
+      "source": "https://creativelawcenter.com/copyright-rudolph-reindeer/",
+      "summary": "Article URL: https://creativelawcenter.com/copyright-rudolph-reindeer/ Comments URL: https://news.ycombinator.com/item?id=46699597 Points: 34 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46698684",
+      "title": "Show HN: Parallel Agentic Search on the Twitter Algorithm",
+      "slug": "2026-01-20-show-hn-parallel-agentic-search-on-the-twitter-algorithm.html",
+      "path": "posts/2026-01-20-show-hn-parallel-agentic-search-on-the-twitter-algorithm.html",
+      "date_iso": "2026-01-20T22:42:55+00:00",
+      "source": "https://www.morphllm.com/playground/na/warpgrep?repo=xai-org%2Fx-algorithm",
+      "summary": "Article URL: https://www.morphllm.com/playground/na/warpgrep?repo=xai-org%2Fx-algorithm Comments URL: https://news.ycombinator.com/item?id=46698684 Points: 8 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46698660",
+      "title": "California is free of drought for the first time in 25 years",
+      "slug": "2026-01-20-california-is-free-of-drought-for-the-first-time-in-25-years.html",
+      "path": "posts/2026-01-20-california-is-free-of-drought-for-the-first-time-in-25-years.html",
+      "date_iso": "2026-01-20T22:39:26+00:00",
+      "source": "https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years",
+      "summary": "Article URL: https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years Comments URL: https://news.ycombinator.com/item?id=46698660 Points: 345 # Comments: 174"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46698623",
+      "title": "Lunar Radio Telescope to Unlock Cosmic Mysteries",
+      "slug": "2026-01-20-lunar-radio-telescope-to-unlock-cosmic-mysteries.html",
+      "path": "posts/2026-01-20-lunar-radio-telescope-to-unlock-cosmic-mysteries.html",
+      "date_iso": "2026-01-20T22:36:23+00:00",
+      "source": "https://spectrum.ieee.org/lunar-radio-telescope",
+      "summary": "Article URL: https://spectrum.ieee.org/lunar-radio-telescope Comments URL: https://news.ycombinator.com/item?id=46698623 Points: 36 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46698469",
+      "title": "Provably unmasking malicious behavior through execution traces",
+      "slug": "2026-01-20-provably-unmasking-malicious-behavior-through-execution-traces.html",
+      "path": "posts/2026-01-20-provably-unmasking-malicious-behavior-through-execution-traces.html",
+      "date_iso": "2026-01-20T22:18:53+00:00",
+      "source": "https://arxiv.org/abs/2512.13821",
+      "summary": "Article URL: https://arxiv.org/abs/2512.13821 Comments URL: https://news.ycombinator.com/item?id=46698469 Points: 37 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46698370",
+      "title": "Which AI Lies Best? A game theory classic designed by John Nash",
+      "slug": "2026-01-20-which-ai-lies-best-a-game-theory-classic-designed-by-john-nash.html",
+      "path": "posts/2026-01-20-which-ai-lies-best-a-game-theory-classic-designed-by-john-nash.html",
+      "date_iso": "2026-01-20T22:09:49+00:00",
+      "source": "https://so-long-sucker.vercel.app/",
+      "summary": "Article URL: https://so-long-sucker.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=46698370 Points: 104 # Comments: 49"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/20/technology/snap-social-media-addiction-lawsuit.html",
+      "title": "Snap Settles Lawsuit on Social Media Addiction, Avoiding a Landmark Trial",
+      "slug": "2026-01-20-snap-settles-lawsuit-on-social-media-addiction-avoiding-a-landmark-trial.html",
+      "path": "posts/2026-01-20-snap-settles-lawsuit-on-social-media-addiction-avoiding-a-landmark-trial.html",
+      "date_iso": "2026-01-20T22:01:44+00:00",
+      "source": "https://www.nytimes.com/2026/01/20/technology/snap-social-media-addiction-lawsuit.html",
+      "summary": "Evan Spiegel, the Snap chief executive, in Washington in 2024 to attend a hearing. He was expected to testify in the trial."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46698061",
+      "title": "The challenges of soft delete",
+      "slug": "2026-01-20-the-challenges-of-soft-delete.html",
+      "path": "posts/2026-01-20-the-challenges-of-soft-delete.html",
+      "date_iso": "2026-01-20T21:36:34+00:00",
+      "source": "https://atlas9.dev/blog/soft-delete.html",
+      "summary": "Article URL: https://atlas9.dev/blog/soft-delete.html Comments URL: https://news.ycombinator.com/item?id=46698061 Points: 129 # Comments: 76"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46697908",
+      "title": "Show HN: Agent Skills Leaderboard",
+      "slug": "2026-01-20-show-hn-agent-skills-leaderboard.html",
+      "path": "posts/2026-01-20-show-hn-agent-skills-leaderboard.html",
+      "date_iso": "2026-01-20T21:22:19+00:00",
+      "source": "https://skills.sh",
+      "summary": "Article URL: https://skills.sh Comments URL: https://news.ycombinator.com/item?id=46697908 Points: 71 # Comments: 26"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/20/technology/ftc-meta-antitrust-appeal.html",
+      "title": "F.T.C. Appeals Loss in Meta Antitrust Case",
+      "slug": "2026-01-20-f-t-c-appeals-loss-in-meta-antitrust-case.html",
+      "path": "posts/2026-01-20-f-t-c-appeals-loss-in-meta-antitrust-case.html",
+      "date_iso": "2026-01-20T21:20:49+00:00",
+      "source": "https://www.nytimes.com/2026/01/20/technology/ftc-meta-antitrust-appeal.html",
+      "summary": "The Federal Trade Commission argued that Meta had bought Instagram and WhatsApp to get rid of the threat posed by young competitors."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46697240",
+      "title": "SWE-gen: Scaling SWE-bench task generation",
+      "slug": "2026-01-20-swe-gen-scaling-swe-bench-task-generation.html",
+      "path": "posts/2026-01-20-swe-gen-scaling-swe-bench-task-generation.html",
+      "date_iso": "2026-01-20T20:20:30+00:00",
+      "source": "https://github.com/abundant-ai/SWE-gen",
+      "summary": "Article URL: https://github.com/abundant-ai/SWE-gen Comments URL: https://news.ycombinator.com/item?id=46697240 Points: 4 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46696699",
+      "title": "Our approach to age prediction",
+      "slug": "2026-01-20-our-approach-to-age-prediction.html",
+      "path": "posts/2026-01-20-our-approach-to-age-prediction.html",
+      "date_iso": "2026-01-20T19:34:48+00:00",
+      "source": "https://openai.com/index/our-approach-to-age-prediction/",
+      "summary": "Article URL: https://openai.com/index/our-approach-to-age-prediction/ Comments URL: https://news.ycombinator.com/item?id=46696699 Points: 90 # Comments: 157"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46696357",
+      "title": "Instabridge has acquired Nova Launcher",
+      "slug": "2026-01-20-instabridge-has-acquired-nova-launcher.html",
+      "path": "posts/2026-01-20-instabridge-has-acquired-nova-launcher.html",
+      "date_iso": "2026-01-20T19:06:56+00:00",
+      "source": "https://novalauncher.com/nova-is-here-to-stay",
+      "summary": "Article URL: https://novalauncher.com/nova-is-here-to-stay Comments URL: https://news.ycombinator.com/item?id=46696357 Points: 183 # Comments: 118"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46696303",
+      "title": "IPv6 is not insecure because it lacks a NAT",
+      "slug": "2026-01-20-ipv6-is-not-insecure-because-it-lacks-a-nat.html",
+      "path": "posts/2026-01-20-ipv6-is-not-insecure-because-it-lacks-a-nat.html",
+      "date_iso": "2026-01-20T19:03:38+00:00",
+      "source": "https://www.johnmaguire.me/blog/ipv6-is-not-insecure-because-it-lacks-nat/",
+      "summary": "Article URL: https://www.johnmaguire.me/blog/ipv6-is-not-insecure-because-it-lacks-nat/ Comments URL: https://news.ycombinator.com/item?id=46696303 Points: 128 # Comments: 186"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46696276",
+      "title": "Maintenance: Of Everything, Part One",
+      "slug": "2026-01-20-maintenance-of-everything-part-one.html",
+      "path": "posts/2026-01-20-maintenance-of-everything-part-one.html",
+      "date_iso": "2026-01-20T19:01:30+00:00",
+      "source": "https://press.stripe.com/maintenance-part-one",
+      "summary": "Article URL: https://press.stripe.com/maintenance-part-one Comments URL: https://news.ycombinator.com/item?id=46696276 Points: 98 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46695628",
+      "title": "A 26,000-year astronomical monument hidden in plain sight (2019)",
+      "slug": "2026-01-20-a-26-000-year-astronomical-monument-hidden-in-plain-sight-2019.html",
+      "path": "posts/2026-01-20-a-26-000-year-astronomical-monument-hidden-in-plain-sight-2019.html",
+      "date_iso": "2026-01-20T18:16:09+00:00",
+      "source": "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/",
+      "summary": "Article URL: https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/ Comments URL: https://news.ycombinator.com/item?id=46695628 Points: 441 # Comments: 90"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46694124",
+      "title": "The Unix Pipe Card Game",
+      "slug": "2026-01-20-the-unix-pipe-card-game.html",
+      "path": "posts/2026-01-20-the-unix-pipe-card-game.html",
+      "date_iso": "2026-01-20T16:48:59+00:00",
+      "source": "https://punkx.org/unix-pipe-game/",
+      "summary": "Article URL: https://punkx.org/unix-pipe-game/ Comments URL: https://news.ycombinator.com/item?id=46694124 Points: 210 # Comments: 66"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/20/science/robot-hand-thing-addams-family.html",
+      "title": "Thing-Like Robotic Hand Makes Life Resemble ‘The Addams Family’",
+      "slug": "2026-01-20-thing-like-robotic-hand-makes-life-resemble-the-addams-family.html",
+      "path": "posts/2026-01-20-thing-like-robotic-hand-makes-life-resemble-the-addams-family.html",
+      "date_iso": "2026-01-20T16:00:17+00:00",
+      "source": "https://www.nytimes.com/2026/01/20/science/robot-hand-thing-addams-family.html",
+      "summary": "The very capable robotic picker-upper can grasp things on both sides and roam around freely."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/20/technology/humans-ai-anthropic-xai.html",
+      "title": "An A.I. Start-Up Says It Wants to Empower Workers, Not Replace Them",
+      "slug": "2026-01-20-an-a-i-start-up-says-it-wants-to-empower-workers-not-replace-them.html",
+      "path": "posts/2026-01-20-an-a-i-start-up-says-it-wants-to-empower-workers-not-replace-them.html",
+      "date_iso": "2026-01-20T12:00:05+00:00",
+      "source": "https://www.nytimes.com/2026/01/20/technology/humans-ai-anthropic-xai.html",
+      "summary": "Founders of the A.I. start-up Humans& aims to focus on how A.I. can support human workers rather than replace them. From left, Georges Harik, Andi Peng, Noah Goodman, Eric Zelikman and Yuchen He."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46688173",
       "title": "X For You Feed Algorithm",
       "slug": "2026-01-20-x-for-you-feed-algorithm.html",
