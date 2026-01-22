@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46715600",
+      "title": "Doctors in Brazil using tilapia fish skin to treat burn victims",
+      "slug": "2026-01-22-doctors-in-brazil-using-tilapia-fish-skin-to-treat-burn-victims.html",
+      "path": "posts/2026-01-22-doctors-in-brazil-using-tilapia-fish-skin-to-treat-burn-victims.html",
+      "date_iso": "2026-01-22T05:15:46+00:00",
+      "source": "https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims",
+      "summary": "Article URL: https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims Comments URL: https://news.ycombinator.com/item?id=46715600 Points: 33 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46714916",
+      "title": "Show HN: High speed graphics rendering research with tinygrad/tinyJIT",
+      "slug": "2026-01-22-show-hn-high-speed-graphics-rendering-research-with-tinygrad-tinyjit.html",
+      "path": "posts/2026-01-22-show-hn-high-speed-graphics-rendering-research-with-tinygrad-tinyjit.html",
+      "date_iso": "2026-01-22T03:26:38+00:00",
+      "source": "https://github.com/quantbagel/gtinygrad",
+      "summary": "I saw a tweet that tinygrad is so good that you could make a graphics library that wraps tg. So I’ve been hacking on a gtinygrad, and honestly it convinced me it could be used for legit research. The JIT + tensor model ends up being a really nice way to express light transport a…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46713929",
+      "title": "Significant US farm losses persist, despite federal assistance",
+      "slug": "2026-01-22-significant-us-farm-losses-persist-despite-federal-assistance.html",
+      "path": "posts/2026-01-22-significant-us-farm-losses-persist-despite-federal-assistance.html",
+      "date_iso": "2026-01-22T01:11:36+00:00",
+      "source": "https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance",
+      "summary": "Article URL: https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance Comments URL: https://news.ycombinator.com/item?id=46713929 Points: 133 # Comments: 137"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46713526",
+      "title": "Threat actors expand abuse of Microsoft Visual Studio Code",
+      "slug": "2026-01-22-threat-actors-expand-abuse-of-microsoft-visual-studio-code.html",
+      "path": "posts/2026-01-22-threat-actors-expand-abuse-of-microsoft-visual-studio-code.html",
+      "date_iso": "2026-01-22T00:12:00+00:00",
+      "source": "https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/",
+      "summary": "Article URL: https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/ Comments URL: https://news.ycombinator.com/item?id=46713526 Points: 130 # Comments: 81"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46713444",
+      "title": "From stealth blackout to whitelisting: Inside the Iranian shutdown",
+      "slug": "2026-01-22-from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown.html",
+      "path": "posts/2026-01-22-from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown.html",
+      "date_iso": "2026-01-22T00:00:36+00:00",
+      "source": "https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/",
+      "summary": "Article URL: https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/ Comments URL: https://news.ycombinator.com/item?id=46713444 Points: 69 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46713387",
+      "title": "Lix – universal version control system for binary files",
+      "slug": "2026-01-21-lix-universal-version-control-system-for-binary-files.html",
+      "path": "posts/2026-01-21-lix-universal-version-control-system-for-binary-files.html",
+      "date_iso": "2026-01-21T23:55:06+00:00",
+      "source": "https://lix.dev/blog/introducing-lix/",
+      "summary": "Article URL: https://lix.dev/blog/introducing-lix/ Comments URL: https://news.ycombinator.com/item?id=46713387 Points: 35 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46713106",
+      "title": "Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete",
+      "slug": "2026-01-21-show-hn-sweep-open-weights-1-5b-model-for-next-edit-autocomplete.html",
+      "path": "posts/2026-01-21-show-hn-sweep-open-weights-1-5b-model-for-next-edit-autocomplete.html",
+      "date_iso": "2026-01-21T23:22:40+00:00",
+      "source": "https://huggingface.co/sweepai/sweep-next-edit-1.5B",
+      "summary": "Hey HN, we trained and open-sourced a 1.5B model that predicts your next edits, similar to Cursor. You can download the weights here ( https://huggingface.co/sweepai/sweep-next-edit-1.5b ) or try it in our JetBrains plugin ( https://plugins.jetbrains.com/plugin/26860-sweep-ai-au…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46712815",
+      "title": "Convert potentially dangerous PDFs to safe PDFs",
+      "slug": "2026-01-21-convert-potentially-dangerous-pdfs-to-safe-pdfs.html",
+      "path": "posts/2026-01-21-convert-potentially-dangerous-pdfs-to-safe-pdfs.html",
+      "date_iso": "2026-01-21T22:54:04+00:00",
+      "source": "https://github.com/freedomofpress/dangerzone",
+      "summary": "Article URL: https://github.com/freedomofpress/dangerzone Comments URL: https://news.ycombinator.com/item?id=46712815 Points: 144 # Comments: 48"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46712678",
+      "title": "Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant",
+      "slug": "2026-01-21-your-brain-on-chatgpt-accumulation-of-cognitive-debt-when-using-an-ai-assistant.html",
+      "path": "posts/2026-01-21-your-brain-on-chatgpt-accumulation-of-cognitive-debt-when-using-an-ai-assistant.html",
+      "date_iso": "2026-01-21T22:41:45+00:00",
+      "source": "https://www.media.mit.edu/publications/your-brain-on-chatgpt/",
+      "summary": "Article URL: https://www.media.mit.edu/publications/your-brain-on-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=46712678 Points: 86 # Comments: 81"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46711792",
+      "title": "Jerry (YC S17) Is Hiring",
+      "slug": "2026-01-21-jerry-yc-s17-is-hiring.html",
+      "path": "posts/2026-01-21-jerry-yc-s17-is-hiring.html",
+      "date_iso": "2026-01-21T21:26:18+00:00",
+      "source": "https://www.ycombinator.com/companies/jerry-inc/jobs/QaoK3rw-software-engineer-core-automation-marketplace",
+      "summary": "Article URL: https://www.ycombinator.com/companies/jerry-inc/jobs/QaoK3rw-software-engineer-core-automation-marketplace Comments URL: https://news.ycombinator.com/item?id=46711792 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46711574",
+      "title": "eBay explicitly bans AI \"buy for me\" agents in user agreement update",
+      "slug": "2026-01-21-ebay-explicitly-bans-ai-buy-for-me-agents-in-user-agreement-update.html",
+      "path": "posts/2026-01-21-ebay-explicitly-bans-ai-buy-for-me-agents-in-user-agreement-update.html",
+      "date_iso": "2026-01-21T21:07:47+00:00",
+      "source": "https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/",
+      "summary": "Article URL: https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/ Comments URL: https://news.ycombinator.com/item?id=46711574 Points: 94 # Comments: 90"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46709543",
+      "title": "Show HN: Rails UI",
+      "slug": "2026-01-21-show-hn-rails-ui.html",
+      "path": "posts/2026-01-21-show-hn-rails-ui.html",
+      "date_iso": "2026-01-21T18:31:19+00:00",
+      "source": "https://railsui.com/",
+      "summary": "Article URL: https://railsui.com/ Comments URL: https://news.ycombinator.com/item?id=46709543 Points: 153 # Comments: 83"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46708678",
+      "title": "Waiting for dawn in search: Search index, Google rulings and impact on Kagi",
+      "slug": "2026-01-21-waiting-for-dawn-in-search-search-index-google-rulings-and-impact-on-kagi.html",
+      "path": "posts/2026-01-21-waiting-for-dawn-in-search-search-index-google-rulings-and-impact-on-kagi.html",
+      "date_iso": "2026-01-21T17:28:03+00:00",
+      "source": "https://blog.kagi.com/waiting-dawn-search",
+      "summary": "Article URL: https://blog.kagi.com/waiting-dawn-search Comments URL: https://news.ycombinator.com/item?id=46708678 Points: 276 # Comments: 158"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46708601",
+      "title": "TrustTunnel: AdGuard VPN protocol goes open-source",
+      "slug": "2026-01-21-trusttunnel-adguard-vpn-protocol-goes-open-source.html",
+      "path": "posts/2026-01-21-trusttunnel-adguard-vpn-protocol-goes-open-source.html",
+      "date_iso": "2026-01-21T17:21:26+00:00",
+      "source": "https://adguard-vpn.com/en/blog/adguard-vpn-protocol-goes-open-source-meet-trusttunnel.html",
+      "summary": "Article URL: https://adguard-vpn.com/en/blog/adguard-vpn-protocol-goes-open-source-meet-trusttunnel.html Comments URL: https://news.ycombinator.com/item?id=46708601 Points: 116 # Comments: 35"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46708315",
+      "title": "Autonomous (YC F25) is hiring – AI-native financial advisor at 0% advisory fees",
+      "slug": "2026-01-21-autonomous-yc-f25-is-hiring-ai-native-financial-advisor-at-0-advisory-fees.html",
+      "path": "posts/2026-01-21-autonomous-yc-f25-is-hiring-ai-native-financial-advisor-at-0-advisory-fees.html",
+      "date_iso": "2026-01-21T17:00:54+00:00",
+      "source": "https://atg.science/",
+      "summary": "Article URL: https://atg.science/ Comments URL: https://news.ycombinator.com/item?id=46708315 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46708032",
+      "title": "JPEG XL Test Page",
+      "slug": "2026-01-21-jpeg-xl-test-page.html",
+      "path": "posts/2026-01-21-jpeg-xl-test-page.html",
+      "date_iso": "2026-01-21T16:38:26+00:00",
+      "source": "https://tildeweb.nl/~michiel/jxl/",
+      "summary": "Article URL: https://tildeweb.nl/~michiel/jxl/ Comments URL: https://news.ycombinator.com/item?id=46708032 Points: 181 # Comments: 118"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46707572",
+      "title": "Claude's new constitution",
+      "slug": "2026-01-21-claude-s-new-constitution.html",
+      "path": "posts/2026-01-21-claude-s-new-constitution.html",
+      "date_iso": "2026-01-21T16:04:49+00:00",
+      "source": "https://www.anthropic.com/news/claude-new-constitution",
+      "summary": "https://www.anthropic.com/constitution Comments URL: https://news.ycombinator.com/item?id=46707572 Points: 413 # Comments: 400"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/21/travel/facial-recognition-airports.html",
+      "title": "At Check-In, Your Face Is Increasingly Your ID",
+      "slug": "2026-01-21-at-check-in-your-face-is-increasingly-your-id.html",
+      "path": "posts/2026-01-21-at-check-in-your-face-is-increasingly-your-id.html",
+      "date_iso": "2026-01-21T15:47:45+00:00",
+      "source": "https://www.nytimes.com/2026/01/21/travel/facial-recognition-airports.html",
+      "summary": "Facial recognition at security and immigration checkpoints and gates could ease airport hassles, even as the technology raises privacy concerns."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46706906",
+      "title": "Skip is now free and open source",
+      "slug": "2026-01-21-skip-is-now-free-and-open-source.html",
+      "path": "posts/2026-01-21-skip-is-now-free-and-open-source.html",
+      "date_iso": "2026-01-21T15:20:53+00:00",
+      "source": "https://skip.dev/blog/skip-is-free/",
+      "summary": "Article URL: https://skip.dev/blog/skip-is-free/ Comments URL: https://news.ycombinator.com/item?id=46706906 Points: 371 # Comments: 165"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46706528",
+      "title": "Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)",
+      "slug": "2026-01-21-show-hn-chartgpu-webgpu-powered-charting-library-1m-points-at-60fps.html",
+      "path": "posts/2026-01-21-show-hn-chartgpu-webgpu-powered-charting-library-1m-points-at-60fps.html",
+      "date_iso": "2026-01-21T14:54:56+00:00",
+      "source": "https://github.com/ChartGPU/ChartGPU",
+      "summary": "Creator here. I built ChartGPU because I kept hitting the same wall: charting libraries that claim to be \"fast\" but choke past 100K data points. The core insight: Canvas2D is fundamentally CPU-bound. Even WebGL chart libraries still do most computation on the CPU. So I moved eve…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46705676",
+      "title": "Tell HN: 2 years building a kids audio app as a solo dev – lessons learned",
+      "slug": "2026-01-21-tell-hn-2-years-building-a-kids-audio-app-as-a-solo-dev-lessons-learned.html",
+      "path": "posts/2026-01-21-tell-hn-2-years-building-a-kids-audio-app-as-a-solo-dev-lessons-learned.html",
+      "date_iso": "2026-01-21T13:49:07+00:00",
+      "source": "https://news.ycombinator.com/item?id=46705676",
+      "summary": "Hi, I started Muky in April 2024. Classic side project that got out of hand. We have two kids - the younger one is happy with the Toniebox, but our older one outgrew it. She started asking for specific songs, audiobooks that aren't available as figurines, and \"the music from tha…"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46702045",
       "title": "Infracost (YC W21) Is Hiring Sr Back End Eng (Node.js+SQL) to Shift FinOps Left",
       "slug": "2026-01-21-infracost-yc-w21-is-hiring-sr-back-end-eng-node-js-sql-to-shift-finops-left.html",

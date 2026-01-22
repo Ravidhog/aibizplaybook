@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)</h1>
+    <p><small>Published: 2026-01-21T14:54:56+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Creator here. I built ChartGPU because I kept hitting the same wall: charting libraries that claim to be "fast" but choke past 100K data points.<p>The core insight: Canvas2D is fundamentally CPU-bound. Even WebGL chart libraries still do most computation on the CPU. So I moved everything to the GPU via WebGPU:<p>- LTTB downsampling runs as a compute shader
+- Hit-testing for tooltips/hover is GPU-accelerated
+- Rendering uses instanced draws (one draw call per series)<p>The result: 1M points at 60fps with smooth zoom/pan.<p>Live demo: <a href="https://chartgpu.github.io/ChartGPU/examples/million-points/" rel="nofollow">https://chartgpu.github.io/ChartGPU/examples/million-points/</a><p>Currently supports line, area, bar, scatter, pie, and candlestick charts. MIT licensed, available on npm: `npm install chartgpu`<p>Happy to answer questions about WebGPU internals or architecture decisions.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46706528">https://news.ycombinator.com/item?id=46706528</a></p>
+<p>Points: 564</p>
+<p># Comments: 162</p>
+    <p><a href="https://github.com/ChartGPU/ChartGPU" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

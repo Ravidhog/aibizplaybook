@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete</h1>
+    <p><small>Published: 2026-01-21T23:22:40+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hey HN, we trained and open-sourced a 1.5B model that predicts your next edits, similar to Cursor. You can download the weights here (<a href="https://huggingface.co/sweepai/sweep-next-edit-1.5b" rel="nofollow">https://huggingface.co/sweepai/sweep-next-edit-1.5b</a>) or try it in our JetBrains plugin (<a href="https://plugins.jetbrains.com/plugin/26860-sweep-ai-autocomplete--coding-agent" rel="nofollow">https://plugins.jetbrains.com/plugin/26860-sweep-ai-autocomp...</a>).<p>Next-edit autocomplete differs from standard autocomplete by using your recent edits as context when predicting completions. The model is small enough to run locally while outperforming models 4x its size on both speed and accuracy.<p>We tested against Mercury (Inception), Zeta (Zed), and Instinct (Continue) across five benchmarks: next-edit above/below cursor, tab-to-jump for distant changes, standard FIM, and noisiness. We found exact-match accuracy correlates best with real usability because code is fairly precise and the solution space is small.<p>Prompt format turned out to matter more than we expected. We ran a genetic algorithm over 30+ diff formats and found simple `original`/`updated` blocks beat unified diffs. The verbose format is just easier for smaller models to understand.<p>Training was SFT on ~100k examples from permissively-licensed repos (4hrs on 8xH100), then RL for 2000 steps with tree-sitter parse checking and size regularization. The RL step fixes edge cases SFT can’t like, generating code that doesn’t parse or overly verbose outputs.<p>We're open-sourcing the weights so the community can build fast, privacy-preserving autocomplete for any editor. If you're building for VSCode, Neovim, or something else, we'd love to see what you make with it!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46713106">https://news.ycombinator.com/item?id=46713106</a></p>
+<p>Points: 152</p>
+<p># Comments: 22</p>
+    <p><a href="https://huggingface.co/sweepai/sweep-next-edit-1.5B" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
