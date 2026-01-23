@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: BrowserOS – "Claude Cowork" in the browser</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: BrowserOS – "Claude Cowork" in the browser</h1>
+    <p><small>Published: 2026-01-22T16:30:58+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hey HN! We're Nithin and Nikhil, twin brothers building BrowserOS (YC S24). We're an open-source, privacy-first alternative to the AI browsers from big labs.<p>The big differentiator: on BrowserOS you can use local LLMs or BYOK and run the agent entirely on the client side, so your company/sensitive data stays on your machine!<p>Today we're launching filesystem access... just like Claude Cowork, our browser agent can read files, write files, run shell commands! But honestly, we didn't plan for this. It turns out the privacy decision we made 9 months ago accidentally positioned us for this moment.<p>The architectural bet we made 9 months ago: Unlike other AI browsers (ChatGPT Atlas, Perplexity Comet) where the agent loop runs server-side, we decided early on to run our agent entirely on your machine (client side).<p>But building everything on the client side wasn't smooth. We initially built our agent loop inside a Chrome extension. But we kept hitting walls -- service worker being single thread JS; not having access to NodeJS libraries. So we made the hard decision 2 months ago to throw away everything and start from scratch.<p>In the new architecture, our agent loop sits in a standalone binary that we ship alongside our Chromium. And we use gemini-cli for the agent loop with some tweaks! We wrote a neat adapter to translate between Gemini format and Vercel AI SDK format. You can look at our entire codebase here: <a href="https://git.new/browseros-agent" rel="nofollow">https://git.new/browseros-agent</a><p>How we give browser access to filesystem: When Claude Cowork launched, we realized something: because Atlas and Comet run their agent loop server-side, there's no good way for their agent to access your files without uploading them to the server first. But our agent was already local. Adding filesystem access meant just... opening the door (with your permissions ofc). Our agent can now read and write files just like Claude Code.<p>What you can actually do today:<p>a) Organize files in my desktop folder <a href="https://youtu.be/NOZ7xjto6Uc" rel="nofollow">https://youtu.be/NOZ7xjto6Uc</a><p>b) Open top 5 HN links, extract the details and write summary into a HTML file <a href="https://youtu.be/uXvqs_TCmMQ" rel="nofollow">https://youtu.be/uXvqs_TCmMQ</a><p>--- Where we are now
+If you haven't tried us since the last Show HN (<a href="https://news.ycombinator.com/item?id=44523409">https://news.ycombinator.com/item?id=44523409</a>), give us another shot. The new architecture unlocked a ton of new features, and we've grown to 8.5K GitHub stars and 100K+ downloads:<p>c) You can now build more reliable workflows using n8n-like graph <a href="https://youtu.be/H_bFfWIevSY" rel="nofollow">https://youtu.be/H_bFfWIevSY</a><p>d) You can also use BrowserOS as an MCP server in Cursor or Claude Code <a href="https://youtu.be/5nevh00lckM" rel="nofollow">https://youtu.be/5nevh00lckM</a><p>We are very bullish on browser being the right platform for a Claude Cowork like agent. Browser is the most commonly used app by knowledge workers (emails, docs, spreadsheets, research, etc). And even Anthropic recognizes this -- for Claude Cowork, they have janky integration with browser via a chrome extension. But owning the entire stack allows us to build differentiated features that wouldn't be possible otherwise. Ex:  Browser ACLs.<p>Agents can do dumb or destructive things, so we're adding browser-level guardrails (think IAM for agents): "role(agent): can never click buy" or "role(agent): read-only access on my bank's homepage."<p>Curious to hear your take on this and the overall thesis.<p>We’ll be in the comments. Thanks for reading!<p>GitHub: <a href="https://github.com/browseros-ai/BrowserOS" rel="nofollow">https://github.com/browseros-ai/BrowserOS</a><p>Download: <a href="https://browseros.com">https://browseros.com</a> (available for Mac, Windows, Linux!)</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46721474">https://news.ycombinator.com/item?id=46721474</a></p>
+<p>Points: 56</p>
+<p># Comments: 24</p>
+    <p><a href="https://github.com/browseros-ai/BrowserOS" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
