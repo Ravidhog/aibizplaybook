@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46741643",
+      "title": "Telli (YC F24) is hiring ambitious people (eng, design, growth)[on-site, Berlin]",
+      "slug": "2026-01-24-telli-yc-f24-is-hiring-ambitious-people-eng-design-growth-on-site-berlin.html",
+      "path": "posts/2026-01-24-telli-yc-f24-is-hiring-ambitious-people-eng-design-growth-on-site-berlin.html",
+      "date_iso": "2026-01-24T07:01:13+00:00",
+      "source": "https://careers.telli.com/",
+      "summary": "Article URL: https://careers.telli.com/ Comments URL: https://news.ycombinator.com/item?id=46741643 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46740644",
+      "title": "SEC obtains final consent judgments against former FTX and Alameda executives",
+      "slug": "2026-01-24-sec-obtains-final-consent-judgments-against-former-ftx-and-alameda-executives.html",
+      "path": "posts/2026-01-24-sec-obtains-final-consent-judgments-against-former-ftx-and-alameda-executives.html",
+      "date_iso": "2026-01-24T02:59:42+00:00",
+      "source": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450",
+      "summary": "Article URL: https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450 Comments URL: https://news.ycombinator.com/item?id=46740644 Points: 91 # Comments: 62"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46740029",
+      "title": "Comma openpilot – Open source driver-assistance",
+      "slug": "2026-01-24-comma-openpilot-open-source-driver-assistance.html",
+      "path": "posts/2026-01-24-comma-openpilot-open-source-driver-assistance.html",
+      "date_iso": "2026-01-24T01:00:50+00:00",
+      "source": "https://comma.ai",
+      "summary": "Article URL: https://comma.ai Comments URL: https://news.ycombinator.com/item?id=46740029 Points: 234 # Comments: 127"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46740028",
+      "title": "Noora Health (YC W14) Is Hiring AI/ML Engineer",
+      "slug": "2026-01-24-noora-health-yc-w14-is-hiring-ai-ml-engineer.html",
+      "path": "posts/2026-01-24-noora-health-yc-w14-is-hiring-ai-ml-engineer.html",
+      "date_iso": "2026-01-24T01:00:48+00:00",
+      "source": "https://www.ycombinator.com/companies/noora-health/jobs/2B4RxLG-ai-ml-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/noora-health/jobs/2B4RxLG-ai-ml-engineer Comments URL: https://news.ycombinator.com/item?id=46740028 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/23/technology/claude-code.html",
+      "title": "Five Ways People Are Using Claude Code",
+      "slug": "2026-01-24-five-ways-people-are-using-claude-code.html",
+      "path": "posts/2026-01-24-five-ways-people-are-using-claude-code.html",
+      "date_iso": "2026-01-24T00:40:42+00:00",
+      "source": "https://www.nytimes.com/2026/01/23/technology/claude-code.html",
+      "summary": "Dario Amodei, chief executive of Anthropic, at the Code With Claude developer conference in San Francisco last year."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46738853",
+      "title": "Wilson Lin on FastRender: a browser built by parallel agents",
+      "slug": "2026-01-23-wilson-lin-on-fastrender-a-browser-built-by-parallel-agents.html",
+      "path": "posts/2026-01-23-wilson-lin-on-fastrender-a-browser-built-by-parallel-agents.html",
+      "date_iso": "2026-01-23T22:28:01+00:00",
+      "source": "https://simonwillison.net/2026/Jan/23/fastrender/",
+      "summary": "Article URL: https://simonwillison.net/2026/Jan/23/fastrender/ Comments URL: https://news.ycombinator.com/item?id=46738853 Points: 41 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46737957",
+      "title": "Mental Models (2018)",
+      "slug": "2026-01-23-mental-models-2018.html",
+      "path": "posts/2026-01-23-mental-models-2018.html",
+      "date_iso": "2026-01-23T21:08:55+00:00",
+      "source": "https://fs.blog/mental-models/",
+      "summary": "Article URL: https://fs.blog/mental-models/ Comments URL: https://news.ycombinator.com/item?id=46737957 Points: 75 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46737870",
+      "title": "TrueVault (YC W14) is hiring a Growth Lead to test different growth channels",
+      "slug": "2026-01-23-truevault-yc-w14-is-hiring-a-growth-lead-to-test-different-growth-channels.html",
+      "path": "posts/2026-01-23-truevault-yc-w14-is-hiring-a-growth-lead-to-test-different-growth-channels.html",
+      "date_iso": "2026-01-23T21:01:34+00:00",
+      "source": "https://www.ycombinator.com/companies/truevault/jobs/njvSGDj-growth-lead",
+      "summary": "Article URL: https://www.ycombinator.com/companies/truevault/jobs/njvSGDj-growth-lead Comments URL: https://news.ycombinator.com/item?id=46737870 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46737630",
+      "title": "Unrolling the Codex agent loop",
+      "slug": "2026-01-23-unrolling-the-codex-agent-loop.html",
+      "path": "posts/2026-01-23-unrolling-the-codex-agent-loop.html",
+      "date_iso": "2026-01-23T20:42:36+00:00",
+      "source": "https://openai.com/index/unrolling-the-codex-agent-loop/",
+      "summary": "Article URL: https://openai.com/index/unrolling-the-codex-agent-loop/ Comments URL: https://news.ycombinator.com/item?id=46737630 Points: 288 # Comments: 138"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46737447",
+      "title": "Banned C++ features in Chromium",
+      "slug": "2026-01-23-banned-c-features-in-chromium.html",
+      "path": "posts/2026-01-23-banned-c-features-in-chromium.html",
+      "date_iso": "2026-01-23T20:27:58+00:00",
+      "source": "https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/c++-features.md",
+      "summary": "Article URL: https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/c++-features.md Comments URL: https://news.ycombinator.com/item?id=46737447 Points: 143 # Comments: 117"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46735644",
+      "title": "New YC homepage",
+      "slug": "2026-01-23-new-yc-homepage.html",
+      "path": "posts/2026-01-23-new-yc-homepage.html",
+      "date_iso": "2026-01-23T18:08:11+00:00",
+      "source": "https://www.ycombinator.com/",
+      "summary": "Article URL: https://www.ycombinator.com/ Comments URL: https://news.ycombinator.com/item?id=46735644 Points: 230 # Comments: 114"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46735545",
+      "title": "Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops",
+      "slug": "2026-01-23-microsoft-gave-fbi-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops.html",
+      "path": "posts/2026-01-23-microsoft-gave-fbi-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops.html",
+      "date_iso": "2026-01-23T17:58:56+00:00",
+      "source": "https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/",
+      "summary": "Article URL: https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/ Comments URL: https://news.ycombinator.com/item?id=46735545 Points: 773 # Comments: 508"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46735511",
+      "title": "Proof of Corn",
+      "slug": "2026-01-23-proof-of-corn.html",
+      "path": "posts/2026-01-23-proof-of-corn.html",
+      "date_iso": "2026-01-23T17:56:31+00:00",
+      "source": "https://proofofcorn.com/",
+      "summary": "Article URL: https://proofofcorn.com/ Comments URL: https://news.ycombinator.com/item?id=46735511 Points: 350 # Comments: 254"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46735489",
+      "title": "Route leak incident on January 22, 2026",
+      "slug": "2026-01-23-route-leak-incident-on-january-22-2026.html",
+      "path": "posts/2026-01-23-route-leak-incident-on-january-22-2026.html",
+      "date_iso": "2026-01-23T17:54:45+00:00",
+      "source": "https://blog.cloudflare.com/route-leak-incident-january-22-2026/",
+      "summary": "Article URL: https://blog.cloudflare.com/route-leak-incident-january-22-2026/ Comments URL: https://news.ycombinator.com/item?id=46735489 Points: 138 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46735179",
+      "title": "Killing the ISP Appliance: An eBPF/XDP Approach to Distributed BNG",
+      "slug": "2026-01-23-killing-the-isp-appliance-an-ebpf-xdp-approach-to-distributed-bng.html",
+      "path": "posts/2026-01-23-killing-the-isp-appliance-an-ebpf-xdp-approach-to-distributed-bng.html",
+      "date_iso": "2026-01-23T17:29:53+00:00",
+      "source": "https://markgascoyne.co.uk/posts/ebpf-bng/",
+      "summary": "Article URL: https://markgascoyne.co.uk/posts/ebpf-bng/ Comments URL: https://news.ycombinator.com/item?id=46735179 Points: 77 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46735139",
+      "title": "Nobody likes lag: How to make low-latency dev sandboxes",
+      "slug": "2026-01-23-nobody-likes-lag-how-to-make-low-latency-dev-sandboxes.html",
+      "path": "posts/2026-01-23-nobody-likes-lag-how-to-make-low-latency-dev-sandboxes.html",
+      "date_iso": "2026-01-23T17:26:57+00:00",
+      "source": "https://www.compyle.ai/blog/nobody-likes-lag/",
+      "summary": "Article URL: https://www.compyle.ai/blog/nobody-likes-lag/ Comments URL: https://news.ycombinator.com/item?id=46735139 Points: 76 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46735133",
+      "title": "Notes on the Intel 8086 processor's arithmetic-logic unit",
+      "slug": "2026-01-23-notes-on-the-intel-8086-processor-s-arithmetic-logic-unit.html",
+      "path": "posts/2026-01-23-notes-on-the-intel-8086-processor-s-arithmetic-logic-unit.html",
+      "date_iso": "2026-01-23T17:26:27+00:00",
+      "source": "https://www.righto.com/2026/01/notes-on-intel-8086-processors.html",
+      "summary": "Article URL: https://www.righto.com/2026/01/notes-on-intel-8086-processors.html Comments URL: https://news.ycombinator.com/item?id=46735133 Points: 90 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46734302",
+      "title": "Gas Town's agent patterns, design bottlenecks, and vibecoding at scale",
+      "slug": "2026-01-23-gas-town-s-agent-patterns-design-bottlenecks-and-vibecoding-at-scale.html",
+      "path": "posts/2026-01-23-gas-town-s-agent-patterns-design-bottlenecks-and-vibecoding-at-scale.html",
+      "date_iso": "2026-01-23T16:19:18+00:00",
+      "source": "https://maggieappleton.com/gastown",
+      "summary": "Article URL: https://maggieappleton.com/gastown Comments URL: https://news.ycombinator.com/item?id=46734302 Points: 304 # Comments: 315"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46733624",
+      "title": "The tech monoculture is finally breaking",
+      "slug": "2026-01-23-the-tech-monoculture-is-finally-breaking.html",
+      "path": "posts/2026-01-23-the-tech-monoculture-is-finally-breaking.html",
+      "date_iso": "2026-01-23T15:26:33+00:00",
+      "source": "http://www.jasonwillems.com/technology/2025/12/17/Tech-Is-Fun-Again/",
+      "summary": "Article URL: http://www.jasonwillems.com/technology/2025/12/17/Tech-Is-Fun-Again/ Comments URL: https://news.ycombinator.com/item?id=46733624 Points: 168 # Comments: 215"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46733301",
+      "title": "Waypoint-1: Real-Time Interactive Video Diffusion from Overworld",
+      "slug": "2026-01-23-waypoint-1-real-time-interactive-video-diffusion-from-overworld.html",
+      "path": "posts/2026-01-23-waypoint-1-real-time-interactive-video-diffusion-from-overworld.html",
+      "date_iso": "2026-01-23T15:03:01+00:00",
+      "source": "https://huggingface.co/blog/waypoint-1",
+      "summary": "Article URL: https://huggingface.co/blog/waypoint-1 Comments URL: https://news.ycombinator.com/item?id=46733301 Points: 69 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46732967",
+      "title": "KORG phase8 – Acoustic Synthesizer",
+      "slug": "2026-01-23-korg-phase8-acoustic-synthesizer.html",
+      "path": "posts/2026-01-23-korg-phase8-acoustic-synthesizer.html",
+      "date_iso": "2026-01-23T14:34:46+00:00",
+      "source": "https://www.korg.com/us/products/dj/phase8/",
+      "summary": "Article URL: https://www.korg.com/us/products/dj/phase8/ Comments URL: https://news.ycombinator.com/item?id=46732967 Points: 222 # Comments: 96"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/23/podcasts/hardfork-chatgpt-ads-claude-constitution.html",
+      "title": "Will ChatGPT Ads Change OpenAI? + Amanda Askell Explains Claude’s New Constitution",
+      "slug": "2026-01-23-will-chatgpt-ads-change-openai-amanda-askell-explains-claude-s-new-constitution.html",
+      "path": "posts/2026-01-23-will-chatgpt-ads-change-openai-amanda-askell-explains-claude-s-new-constitution.html",
+      "date_iso": "2026-01-23T12:00:03+00:00",
+      "source": "https://www.nytimes.com/2026/01/23/podcasts/hardfork-chatgpt-ads-claude-constitution.html",
+      "summary": "“The question is not are these first couple of ads that we’re seeing from OpenAI going to be good or not? It’s whether two or three years from now, ChatGPT is being steered toward ad-friendly topics.”"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46729368",
       "title": "Proton Spam and the AI Consent Problem",
       "slug": "2026-01-23-proton-spam-and-the-ai-consent-problem.html",
@@ -26,6 +224,24 @@
       "date_iso": "2026-01-23T03:52:06+00:00",
       "source": "https://philipotoole.com/why-talking-to-llms-has-improved-my-thinking/",
       "summary": "Article URL: https://philipotoole.com/why-talking-to-llms-has-improved-my-thinking/ Comments URL: https://news.ycombinator.com/item?id=46728197 Points: 86 # Comments: 70"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/22/business/media/tiktok-sold-app-content-algorithm.html",
+      "title": "Will I Have to Download a New TikTok App? And Other Big Questions About The Deal.",
+      "slug": "2026-01-23-will-i-have-to-download-a-new-tiktok-app-and-other-big-questions-about-the-deal.html",
+      "path": "posts/2026-01-23-will-i-have-to-download-a-new-tiktok-app-and-other-big-questions-about-the-deal.html",
+      "date_iso": "2026-01-23T03:36:54+00:00",
+      "source": "https://www.nytimes.com/2026/01/22/business/media/tiktok-sold-app-content-algorithm.html",
+      "summary": "It is unclear how much, if anything, will change for TikTok’s 200 million American users."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/22/business/media/tiktok-investors-oracle-mgx-silver-lake-bytedance.html",
+      "title": "Here’s Who Just Bought TikTok",
+      "slug": "2026-01-23-here-s-who-just-bought-tiktok.html",
+      "path": "posts/2026-01-23-here-s-who-just-bought-tiktok.html",
+      "date_iso": "2026-01-23T03:32:40+00:00",
+      "source": "https://www.nytimes.com/2026/01/22/business/media/tiktok-investors-oracle-mgx-silver-lake-bytedance.html",
+      "summary": "Several big companies and investment firms are part of the new American TikTok. Many have ties to one another and President Trump."
     },
     {
       "id": "https://www.nytimes.com/2026/01/22/technology/tiktok-deal-oracle-bytedance-china-us.html",
