@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46750852",
+      "title": "Palantir has no place in UK public services",
+      "slug": "2026-01-25-palantir-has-no-place-in-uk-public-services.html",
+      "path": "posts/2026-01-25-palantir-has-no-place-in-uk-public-services.html",
+      "date_iso": "2026-01-25T04:53:29+00:00",
+      "source": "https://www.opendemocracy.net/en/zarah-sutlana-palantir-no-place-uk-public-services-ministry-of-defence/",
+      "summary": "Article URL: https://www.opendemocracy.net/en/zarah-sutlana-palantir-no-place-uk-public-services-ministry-of-defence/ Comments URL: https://news.ycombinator.com/item?id=46750852 Points: 157 # Comments: 36"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46750485",
+      "title": "The Responsibility of Intellectuals (1967)",
+      "slug": "2026-01-25-the-responsibility-of-intellectuals-1967.html",
+      "path": "posts/2026-01-25-the-responsibility-of-intellectuals-1967.html",
+      "date_iso": "2026-01-25T03:44:28+00:00",
+      "source": "https://www.nybooks.com/articles/1967/02/23/a-special-supplement-the-responsibility-of-intelle/",
+      "summary": "Article URL: https://www.nybooks.com/articles/1967/02/23/a-special-supplement-the-responsibility-of-intelle/ Comments URL: https://news.ycombinator.com/item?id=46750485 Points: 45 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46750470",
+      "title": "Alex Honnold completes Taipei 101 skyscraper climb without ropes or safety net",
+      "slug": "2026-01-25-alex-honnold-completes-taipei-101-skyscraper-climb-without-ropes-or-safety-net.html",
+      "path": "posts/2026-01-25-alex-honnold-completes-taipei-101-skyscraper-climb-without-ropes-or-safety-net.html",
+      "date_iso": "2026-01-25T03:41:46+00:00",
+      "source": "https://www.cnn.com/sport/live-news/taiwan-alex-honnold-climb-taipei-101-01-25-26-intl-hnk",
+      "summary": "Article URL: https://www.cnn.com/sport/live-news/taiwan-alex-honnold-climb-taipei-101-01-25-26-intl-hnk Comments URL: https://news.ycombinator.com/item?id=46750470 Points: 89 # Comments: 64"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46750437",
+      "title": "Show HN: VM-curator – a TUI alternative to libvirt and virt-manager",
+      "slug": "2026-01-25-show-hn-vm-curator-a-tui-alternative-to-libvirt-and-virt-manager.html",
+      "path": "posts/2026-01-25-show-hn-vm-curator-a-tui-alternative-to-libvirt-and-virt-manager.html",
+      "date_iso": "2026-01-25T03:36:38+00:00",
+      "source": "https://github.com/mroboff/vm-curator",
+      "summary": "I've long wanted to harness QEMU/KVM for my desktop virtual machines, but I'm befuddled by virt-manager's lack of support for working NVIDIA 3D acceleration, dogmatic embrace of ugly XML, and the puzzling UI decision of having to click what seems like 15 buttons to attach an ISO…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46750425",
+      "title": "nvidia-smi hangs indefinitely after ~66 days",
+      "slug": "2026-01-25-nvidia-smi-hangs-indefinitely-after-66-days.html",
+      "path": "posts/2026-01-25-nvidia-smi-hangs-indefinitely-after-66-days.html",
+      "date_iso": "2026-01-25T03:33:20+00:00",
+      "source": "https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971",
+      "summary": "Article URL: https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971 Comments URL: https://news.ycombinator.com/item?id=46750425 Points: 135 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46750358",
+      "title": "Second Win11 emergency out of band update to address disastrous Patch Tuesday",
+      "slug": "2026-01-25-second-win11-emergency-out-of-band-update-to-address-disastrous-patch-tuesday.html",
+      "path": "posts/2026-01-25-second-win11-emergency-out-of-band-update-to-address-disastrous-patch-tuesday.html",
+      "date_iso": "2026-01-25T03:17:43+00:00",
+      "source": "https://www.windowscentral.com/microsoft/windows-11/windows-11-second-emergency-out-of-band-update-kb5078127-released-address-outlook-bugs",
+      "summary": "Article URL: https://www.windowscentral.com/microsoft/windows-11/windows-11-second-emergency-out-of-band-update-kb5078127-released-address-outlook-bugs Comments URL: https://news.ycombinator.com/item?id=46750358 Points: 94 # Comments: 38"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46750214",
+      "title": "David Patterson: Challenges and Research Directions for LLM Inference Hardware",
+      "slug": "2026-01-25-david-patterson-challenges-and-research-directions-for-llm-inference-hardware.html",
+      "path": "posts/2026-01-25-david-patterson-challenges-and-research-directions-for-llm-inference-hardware.html",
+      "date_iso": "2026-01-25T02:48:36+00:00",
+      "source": "https://arxiv.org/abs/2601.05047",
+      "summary": "Article URL: https://arxiv.org/abs/2601.05047 Comments URL: https://news.ycombinator.com/item?id=46750214 Points: 35 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46750024",
+      "title": "Vortex Support in DuckDB",
+      "slug": "2026-01-25-vortex-support-in-duckdb.html",
+      "path": "posts/2026-01-25-vortex-support-in-duckdb.html",
+      "date_iso": "2026-01-25T02:18:47+00:00",
+      "source": "https://duckdb.org/2026/01/23/duckdb-vortex-extension",
+      "summary": "Article URL: https://duckdb.org/2026/01/23/duckdb-vortex-extension Comments URL: https://news.ycombinator.com/item?id=46750024 Points: 14 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46749671",
+      "title": "Two Weeks Until Tapeout",
+      "slug": "2026-01-25-two-weeks-until-tapeout.html",
+      "path": "posts/2026-01-25-two-weeks-until-tapeout.html",
+      "date_iso": "2026-01-25T01:25:37+00:00",
+      "source": "https://essenceia.github.io/projects/two_weeks_until_tapeout/",
+      "summary": "Article URL: https://essenceia.github.io/projects/two_weeks_until_tapeout/ Comments URL: https://news.ycombinator.com/item?id=46749671 Points: 78 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46749198",
+      "title": "Adoption of EVs tied to real-world reductions in air pollution: study",
+      "slug": "2026-01-25-adoption-of-evs-tied-to-real-world-reductions-in-air-pollution-study.html",
+      "path": "posts/2026-01-25-adoption-of-evs-tied-to-real-world-reductions-in-air-pollution-study.html",
+      "date_iso": "2026-01-25T00:14:40+00:00",
+      "source": "https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/",
+      "summary": "Article URL: https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/ Comments URL: https://news.ycombinator.com/item?id=46749198 Points: 277 # Comments: 226"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46749053",
+      "title": "We X-Rayed a Suspicious FTDI USB Cable",
+      "slug": "2026-01-24-we-x-rayed-a-suspicious-ftdi-usb-cable.html",
+      "path": "posts/2026-01-24-we-x-rayed-a-suspicious-ftdi-usb-cable.html",
+      "date_iso": "2026-01-24T23:55:10+00:00",
+      "source": "https://eclypsium.com/blog/xray-counterfeit-usb-cable/",
+      "summary": "Article URL: https://eclypsium.com/blog/xray-counterfeit-usb-cable/ Comments URL: https://news.ycombinator.com/item?id=46749053 Points: 122 # Comments: 47"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/24/business/general-motors-ford-canada-china.html",
+      "title": "U.S. Automakers’ Foreign Troubles Now Extend to Canada",
+      "slug": "2026-01-24-u-s-automakers-foreign-troubles-now-extend-to-canada.html",
+      "path": "posts/2026-01-24-u-s-automakers-foreign-troubles-now-extend-to-canada.html",
+      "date_iso": "2026-01-24T22:27:59+00:00",
+      "source": "https://www.nytimes.com/2026/01/24/business/general-motors-ford-canada-china.html",
+      "summary": "Canada could serve as an important test market for Chinese automakers, like Geely, which is producing vehicles at a plant in Hangzhou, China."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46747827",
+      "title": "Poland's energy grid was targeted by never-before-seen wiper malware",
+      "slug": "2026-01-24-poland-s-energy-grid-was-targeted-by-never-before-seen-wiper-malware.html",
+      "path": "posts/2026-01-24-poland-s-energy-grid-was-targeted-by-never-before-seen-wiper-malware.html",
+      "date_iso": "2026-01-24T21:24:13+00:00",
+      "source": "https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/",
+      "summary": "Article URL: https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/ Comments URL: https://news.ycombinator.com/item?id=46747827 Points: 191 # Comments: 68"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46747625",
+      "title": "First Design Engineer Hire – Build Games at Gym Class (YC W22)",
+      "slug": "2026-01-24-first-design-engineer-hire-build-games-at-gym-class-yc-w22.html",
+      "path": "posts/2026-01-24-first-design-engineer-hire-build-games-at-gym-class-yc-w22.html",
+      "date_iso": "2026-01-24T21:01:02+00:00",
+      "source": "https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-design-engineer-senior-staff-principal",
+      "summary": "Article URL: https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-design-engineer-senior-staff-principal Comments URL: https://news.ycombinator.com/item?id=46747625 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46747366",
+      "title": "I added a Bluesky comment section to my blog",
+      "slug": "2026-01-24-i-added-a-bluesky-comment-section-to-my-blog.html",
+      "path": "posts/2026-01-24-i-added-a-bluesky-comment-section-to-my-blog.html",
+      "date_iso": "2026-01-24T20:33:40+00:00",
+      "source": "https://micahcantor.com/blog/bluesky-comment-section.html",
+      "summary": "Article URL: https://micahcantor.com/blog/bluesky-comment-section.html Comments URL: https://news.ycombinator.com/item?id=46747366 Points: 245 # Comments: 87"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46747119",
+      "title": "Postmortem: Our first VLEO satellite mission (with imagery and flight data)",
+      "slug": "2026-01-24-postmortem-our-first-vleo-satellite-mission-with-imagery-and-flight-data.html",
+      "path": "posts/2026-01-24-postmortem-our-first-vleo-satellite-mission-with-imagery-and-flight-data.html",
+      "date_iso": "2026-01-24T20:03:39+00:00",
+      "source": "https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next",
+      "summary": "Article URL: https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next Comments URL: https://news.ycombinator.com/item?id=46747119 Points: 160 # Comments: 52"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46746681",
+      "title": "Agent orchestration for the timid",
+      "slug": "2026-01-24-agent-orchestration-for-the-timid.html",
+      "path": "posts/2026-01-24-agent-orchestration-for-the-timid.html",
+      "date_iso": "2026-01-24T19:25:53+00:00",
+      "source": "https://substack.com/inbox/post/185649875",
+      "summary": "Article URL: https://substack.com/inbox/post/185649875 Comments URL: https://news.ycombinator.com/item?id=46746681 Points: 91 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46746476",
+      "title": "BirdyChat becomes first European chat app that is interoperable with WhatsApp",
+      "slug": "2026-01-24-birdychat-becomes-first-european-chat-app-that-is-interoperable-with-whatsapp.html",
+      "path": "posts/2026-01-24-birdychat-becomes-first-european-chat-app-that-is-interoperable-with-whatsapp.html",
+      "date_iso": "2026-01-24T19:04:08+00:00",
+      "source": "https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp",
+      "summary": "Article URL: https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp Comments URL: https://news.ycombinator.com/item?id=46746476 Points: 488 # Comments: 295"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46746266",
+      "title": "Understanding Rust Closures",
+      "slug": "2026-01-24-understanding-rust-closures.html",
+      "path": "posts/2026-01-24-understanding-rust-closures.html",
+      "date_iso": "2026-01-24T18:42:13+00:00",
+      "source": "https://antoine.vandecreme.net/blog/rust-closures/",
+      "summary": "Article URL: https://antoine.vandecreme.net/blog/rust-closures/ Comments URL: https://news.ycombinator.com/item?id=46746266 Points: 47 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46745922",
+      "title": "Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison",
+      "slug": "2026-01-24-raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison.html",
+      "path": "posts/2026-01-24-raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison.html",
+      "date_iso": "2026-01-24T18:06:00+00:00",
+      "source": "https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/",
+      "summary": "Article URL: https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/ Comments URL: https://news.ycombinator.com/item?id=46745922 Points: 156 # Comments: 80"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/24/business/energy-environment/storm-power-outages.html",
+      "title": "Why the Power May Not Go Out Until After the Storm Has Passed",
+      "slug": "2026-01-24-why-the-power-may-not-go-out-until-after-the-storm-has-passed.html",
+      "path": "posts/2026-01-24-why-the-power-may-not-go-out-until-after-the-storm-has-passed.html",
+      "date_iso": "2026-01-24T17:31:03+00:00",
+      "source": "https://www.nytimes.com/2026/01/24/business/energy-environment/storm-power-outages.html",
+      "summary": "As snow and ice accumulate on tree branches and power lines, it can cause them to snap and damage electrical equipment."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46745224",
+      "title": "Metriport (YC S22) is hiring a security eng to harden healthcare data infra",
+      "slug": "2026-01-24-metriport-yc-s22-is-hiring-a-security-eng-to-harden-healthcare-data-infra.html",
+      "path": "posts/2026-01-24-metriport-yc-s22-is-hiring-a-security-eng-to-harden-healthcare-data-infra.html",
+      "date_iso": "2026-01-24T17:00:07+00:00",
+      "source": "https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer Comments URL: https://news.ycombinator.com/item?id=46745224 Points: 0 # Comments: 0"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46741643",
       "title": "Telli (YC F24) is hiring ambitious people (eng, design, growth)[on-site, Berlin]",
       "slug": "2026-01-24-telli-yc-f24-is-hiring-ambitious-people-eng-design-growth-on-site-berlin.html",
@@ -44,6 +242,15 @@
       "date_iso": "2026-01-24T00:40:42+00:00",
       "source": "https://www.nytimes.com/2026/01/23/technology/claude-code.html",
       "summary": "Dario Amodei, chief executive of Anthropic, at the Code With Claude developer conference in San Francisco last year."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/23/us/politics/sec-crypto-winklevoss.html",
+      "title": "S.E.C. Drops Case Against Cryptocurrency Firm Founded by Winklevoss Twins",
+      "slug": "2026-01-23-s-e-c-drops-case-against-cryptocurrency-firm-founded-by-winklevoss-twins.html",
+      "path": "posts/2026-01-23-s-e-c-drops-case-against-cryptocurrency-firm-founded-by-winklevoss-twins.html",
+      "date_iso": "2026-01-23T23:35:26+00:00",
+      "source": "https://www.nytimes.com/2026/01/23/us/politics/sec-crypto-winklevoss.html",
+      "summary": "Cameron and Tyler Winklevoss at a digital assets summit at the White House last March."
     },
     {
       "id": "https://news.ycombinator.com/item?id=46738853",
