@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46762150",
+      "title": "The browser is the sandbox",
+      "slug": "2026-01-26-the-browser-is-the-sandbox.html",
+      "path": "posts/2026-01-26-the-browser-is-the-sandbox.html",
+      "date_iso": "2026-01-26T05:23:01+00:00",
+      "source": "https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/",
+      "summary": "Article URL: https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/ Comments URL: https://news.ycombinator.com/item?id=46762150 Points: 40 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46761822",
+      "title": "Iran's internet blackout may become permanent, with access for elites only",
+      "slug": "2026-01-26-iran-s-internet-blackout-may-become-permanent-with-access-for-elites-only.html",
+      "path": "posts/2026-01-26-iran-s-internet-blackout-may-become-permanent-with-access-for-elites-only.html",
+      "date_iso": "2026-01-26T04:18:19+00:00",
+      "source": "https://restofworld.org/2026/iran-blackout-tiered-internet/",
+      "summary": "Article URL: https://restofworld.org/2026/iran-blackout-tiered-internet/ Comments URL: https://news.ycombinator.com/item?id=46761822 Points: 156 # Comments: 64"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46761614",
+      "title": "Environmentalists worry Google behind bid to control Oregon town's water",
+      "slug": "2026-01-26-environmentalists-worry-google-behind-bid-to-control-oregon-town-s-water.html",
+      "path": "posts/2026-01-26-environmentalists-worry-google-behind-bid-to-control-oregon-town-s-water.html",
+      "date_iso": "2026-01-26T03:40:06+00:00",
+      "source": "https://www.sfgate.com/national-parks/article/mount-hood-water-google-21307223.php",
+      "summary": "Article URL: https://www.sfgate.com/national-parks/article/mount-hood-water-google-21307223.php Comments URL: https://news.ycombinator.com/item?id=46761614 Points: 64 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46761239",
+      "title": "You can just port things to Cloudflare Workers",
+      "slug": "2026-01-26-you-can-just-port-things-to-cloudflare-workers.html",
+      "path": "posts/2026-01-26-you-can-just-port-things-to-cloudflare-workers.html",
+      "date_iso": "2026-01-26T02:41:32+00:00",
+      "source": "https://sigh.dev/posts/you-can-just-port-things-to-cloudflare-workers/",
+      "summary": "Article URL: https://sigh.dev/posts/you-can-just-port-things-to-cloudflare-workers/ Comments URL: https://news.ycombinator.com/item?id=46761239 Points: 11 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46760998",
+      "title": "Video Games as Art",
+      "slug": "2026-01-26-video-games-as-art.html",
+      "path": "posts/2026-01-26-video-games-as-art.html",
+      "date_iso": "2026-01-26T02:07:34+00:00",
+      "source": "https://gwern.net/video-game-art",
+      "summary": "Article URL: https://gwern.net/video-game-art Comments URL: https://news.ycombinator.com/item?id=46760998 Points: 33 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46760927",
+      "title": "Show HN: SF Microclimates",
+      "slug": "2026-01-26-show-hn-sf-microclimates.html",
+      "path": "posts/2026-01-26-show-hn-sf-microclimates.html",
+      "date_iso": "2026-01-26T02:01:04+00:00",
+      "source": "https://github.com/solo-founders/sf-microclimates",
+      "summary": "https://microclimates.solofounders.com/ Comments URL: https://news.ycombinator.com/item?id=46760927 Points: 10 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46760099",
+      "title": "Scientists identify brain waves that define the limits of 'you'",
+      "slug": "2026-01-26-scientists-identify-brain-waves-that-define-the-limits-of-you.html",
+      "path": "posts/2026-01-26-scientists-identify-brain-waves-that-define-the-limits-of-you.html",
+      "date_iso": "2026-01-26T00:10:42+00:00",
+      "source": "https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you",
+      "summary": "Original paper: https://www.nature.com/articles/s41467-025-67657-w Comments URL: https://news.ycombinator.com/item?id=46760099 Points: 151 # Comments: 28"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46759850",
+      "title": "Show HN: A desktop app that blocks work when you bite your nails",
+      "slug": "2026-01-25-show-hn-a-desktop-app-that-blocks-work-when-you-bite-your-nails.html",
+      "path": "posts/2026-01-25-show-hn-a-desktop-app-that-blocks-work-when-you-bite-your-nails.html",
+      "date_iso": "2026-01-25T23:38:55+00:00",
+      "source": "https://github.com/cacoos/trackhands",
+      "summary": "Saw this repo: https://github.com/tldev/posturr and wanted to share my solution to avoid nail biting :) Comments URL: https://news.ycombinator.com/item?id=46759850 Points: 12 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46759387",
+      "title": "Ask HN: DDD was a great debugger – what would a modern equivalent look like?",
+      "slug": "2026-01-25-ask-hn-ddd-was-a-great-debugger-what-would-a-modern-equivalent-look-like.html",
+      "path": "posts/2026-01-25-ask-hn-ddd-was-a-great-debugger-what-would-a-modern-equivalent-look-like.html",
+      "date_iso": "2026-01-25T22:47:55+00:00",
+      "source": "https://news.ycombinator.com/item?id=46759387",
+      "summary": "I’ve always thought that DDD was a surprisingly good debugger for its time. It made program execution feel visible: stacks, data, and control flow were all there at once. You could really “see” what the program was doing. At the same time, it’s clearly a product of a different e…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46759352",
+      "title": "Case study: Creative math – How AI fakes proofs",
+      "slug": "2026-01-25-case-study-creative-math-how-ai-fakes-proofs.html",
+      "path": "posts/2026-01-25-case-study-creative-math-how-ai-fakes-proofs.html",
+      "date_iso": "2026-01-25T22:44:50+00:00",
+      "source": "https://tomaszmachnik.pl/case-study-math-en.html",
+      "summary": "Article URL: https://tomaszmachnik.pl/case-study-math-en.html Comments URL: https://news.ycombinator.com/item?id=46759352 Points: 77 # Comments: 48"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46759063",
+      "title": "The future of software engineering is SRE",
+      "slug": "2026-01-25-the-future-of-software-engineering-is-sre.html",
+      "path": "posts/2026-01-25-the-future-of-software-engineering-is-sre.html",
+      "date_iso": "2026-01-25T22:18:38+00:00",
+      "source": "https://swizec.com/blog/the-future-of-software-engineering-is-sre/",
+      "summary": "Article URL: https://swizec.com/blog/the-future-of-software-engineering-is-sre/ Comments URL: https://news.ycombinator.com/item?id=46759063 Points: 84 # Comments: 33"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46758450",
+      "title": "The '3.5% rule': How a small minority can change the world (2019)",
+      "slug": "2026-01-25-the-3-5-rule-how-a-small-minority-can-change-the-world-2019.html",
+      "path": "posts/2026-01-25-the-3-5-rule-how-a-small-minority-can-change-the-world-2019.html",
+      "date_iso": "2026-01-25T21:27:11+00:00",
+      "source": "https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world",
+      "summary": "Article URL: https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world Comments URL: https://news.ycombinator.com/item?id=46758450 Points: 268 # Comments: 185"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46757944",
+      "title": "Oneplus phone update introduces hardware anti-rollback",
+      "slug": "2026-01-25-oneplus-phone-update-introduces-hardware-anti-rollback.html",
+      "path": "posts/2026-01-25-oneplus-phone-update-introduces-hardware-anti-rollback.html",
+      "date_iso": "2026-01-25T20:39:25+00:00",
+      "source": "https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback",
+      "summary": "Article URL: https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback Comments URL: https://news.ycombinator.com/item?id=46757944 Points: 395 # Comments: 235"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46757162",
+      "title": "Spanish track was fractured before high-speed train disaster, report finds",
+      "slug": "2026-01-25-spanish-track-was-fractured-before-high-speed-train-disaster-report-finds.html",
+      "path": "posts/2026-01-25-spanish-track-was-fractured-before-high-speed-train-disaster-report-finds.html",
+      "date_iso": "2026-01-25T19:12:50+00:00",
+      "source": "https://www.bbc.com/news/articles/c1m77dmxlvlo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c1m77dmxlvlo Comments URL: https://news.ycombinator.com/item?id=46757162 Points: 186 # Comments: 155"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46757067",
+      "title": "First, make me care",
+      "slug": "2026-01-25-first-make-me-care.html",
+      "path": "posts/2026-01-25-first-make-me-care.html",
+      "date_iso": "2026-01-25T19:03:40+00:00",
+      "source": "https://gwern.net/blog/2026/make-me-care",
+      "summary": "Article URL: https://gwern.net/blog/2026/make-me-care Comments URL: https://news.ycombinator.com/item?id=46757067 Points: 534 # Comments: 155"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46756427",
+      "title": "Show HN: An interactive map of US lighthouses and navigational aids",
+      "slug": "2026-01-25-show-hn-an-interactive-map-of-us-lighthouses-and-navigational-aids.html",
+      "path": "posts/2026-01-25-show-hn-an-interactive-map-of-us-lighthouses-and-navigational-aids.html",
+      "date_iso": "2026-01-25T18:06:26+00:00",
+      "source": "https://www.lighthouses.app/",
+      "summary": "This is an interactive map of US navigational aids and lighthouses, which indicates their location, color, characteristic and any remarks the Coast Guard has attached. I was sick at home with the flu this weekend, and went on a bit of a Wikipedia deep dive about active American…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46756117",
+      "title": "ICE using Palantir tool that feeds on Medicaid data",
+      "slug": "2026-01-25-ice-using-palantir-tool-that-feeds-on-medicaid-data.html",
+      "path": "posts/2026-01-25-ice-using-palantir-tool-that-feeds-on-medicaid-data.html",
+      "date_iso": "2026-01-25T17:36:19+00:00",
+      "source": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data Comments URL: https://news.ycombinator.com/item?id=46756117 Points: 1125 # Comments: 676"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46755115",
+      "title": "Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems",
+      "slug": "2026-01-25-using-postgresql-as-a-dead-letter-queue-for-event-driven-systems.html",
+      "path": "posts/2026-01-25-using-postgresql-as-a-dead-letter-queue-for-event-driven-systems.html",
+      "date_iso": "2026-01-25T15:51:03+00:00",
+      "source": "https://www.diljitpr.net/blog-post-postgresql-dlq",
+      "summary": "Article URL: https://www.diljitpr.net/blog-post-postgresql-dlq Comments URL: https://news.ycombinator.com/item?id=46755115 Points: 197 # Comments: 60"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46754944",
+      "title": "A macOS app that blurs your screen when you slouch",
+      "slug": "2026-01-25-a-macos-app-that-blurs-your-screen-when-you-slouch.html",
+      "path": "posts/2026-01-25-a-macos-app-that-blurs-your-screen-when-you-slouch.html",
+      "date_iso": "2026-01-25T15:34:51+00:00",
+      "source": "https://github.com/tldev/posturr",
+      "summary": "Article URL: https://github.com/tldev/posturr Comments URL: https://news.ycombinator.com/item?id=46754944 Points: 562 # Comments: 179"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46754522",
+      "title": "Bitwise conversion of doubles using only FP multiplication and addition (2020)",
+      "slug": "2026-01-25-bitwise-conversion-of-doubles-using-only-fp-multiplication-and-addition-2020.html",
+      "path": "posts/2026-01-25-bitwise-conversion-of-doubles-using-only-fp-multiplication-and-addition-2020.html",
+      "date_iso": "2026-01-25T14:55:03+00:00",
+      "source": "https://dougallj.wordpress.com/2020/05/10/bitwise-conversion-of-doubles-using-only-floating-point-multiplication-and-addition/",
+      "summary": "Article URL: https://dougallj.wordpress.com/2020/05/10/bitwise-conversion-of-doubles-using-only-floating-point-multiplication-and-addition/ Comments URL: https://news.ycombinator.com/item?id=46754522 Points: 34 # Comments: 3"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46750852",
       "title": "Palantir has no place in UK public services",
       "slug": "2026-01-25-palantir-has-no-place-in-uk-public-services.html",
