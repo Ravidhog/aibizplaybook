@@ -1,6 +1,249 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46775961",
+      "title": "Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model",
+      "slug": "2026-01-27-kimi-released-kimi-k2-5-open-source-visual-sota-agentic-model.html",
+      "path": "posts/2026-01-27-kimi-released-kimi-k2-5-open-source-visual-sota-agentic-model.html",
+      "date_iso": "2026-01-27T05:42:27+00:00",
+      "source": "https://www.kimi.com/blog/kimi-k2-5.html",
+      "summary": "Article URL: https://www.kimi.com/blog/kimi-k2-5.html Comments URL: https://news.ycombinator.com/item?id=46775961 Points: 47 # Comments: 11"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/technology/what-to-know-about-the-social-media-addiction-trials.html",
+      "title": "The Social Media Addiction Trials: What to Know",
+      "slug": "2026-01-27-the-social-media-addiction-trials-what-to-know.html",
+      "path": "posts/2026-01-27-the-social-media-addiction-trials-what-to-know.html",
+      "date_iso": "2026-01-27T05:00:07+00:00",
+      "source": "https://www.nytimes.com/2026/01/27/technology/what-to-know-about-the-social-media-addiction-trials.html",
+      "summary": "The lawsuits will for the first time put social media companies on the spot for creating harmful products, exposing them to new kinds of liability."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/technology/social-media-addiction-trial.html",
+      "title": "Social Media Giants Face Landmark Legal Tests on Child Safety",
+      "slug": "2026-01-27-social-media-giants-face-landmark-legal-tests-on-child-safety.html",
+      "path": "posts/2026-01-27-social-media-giants-face-landmark-legal-tests-on-child-safety.html",
+      "date_iso": "2026-01-27T05:00:06+00:00",
+      "source": "https://www.nytimes.com/2026/01/27/technology/social-media-addiction-trial.html",
+      "summary": "Jury selection is expected to start Tuesday for the first trial in a series of lawsuits that target social media companies with a strategy that had success against tobacco giants."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46775135",
+      "title": "A list of fun destinations for telnet",
+      "slug": "2026-01-27-a-list-of-fun-destinations-for-telnet.html",
+      "path": "posts/2026-01-27-a-list-of-fun-destinations-for-telnet.html",
+      "date_iso": "2026-01-27T03:24:13+00:00",
+      "source": "https://telnet.org/htm/places.htm",
+      "summary": "Article URL: https://telnet.org/htm/places.htm Comments URL: https://news.ycombinator.com/item?id=46775135 Points: 30 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46774108",
+      "title": "iPhone 5s Gets New Software Update 13 Years After Launch",
+      "slug": "2026-01-27-iphone-5s-gets-new-software-update-13-years-after-launch.html",
+      "path": "posts/2026-01-27-iphone-5s-gets-new-software-update-13-years-after-launch.html",
+      "date_iso": "2026-01-27T01:04:54+00:00",
+      "source": "https://www.macrumors.com/2026/01/26/iphone-5s-software-update/",
+      "summary": "Article URL: https://www.macrumors.com/2026/01/26/iphone-5s-software-update/ Comments URL: https://news.ycombinator.com/item?id=46774108 Points: 116 # Comments: 35"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46772495",
+      "title": "I let ChatGPT analyze a decade of my Apple Watch data, then I called my doctor",
+      "slug": "2026-01-26-i-let-chatgpt-analyze-a-decade-of-my-apple-watch-data-then-i-called-my-doctor.html",
+      "path": "posts/2026-01-26-i-let-chatgpt-analyze-a-decade-of-my-apple-watch-data-then-i-called-my-doctor.html",
+      "date_iso": "2026-01-26T22:29:54+00:00",
+      "source": "https://www.msn.com/en-us/news/technology/i-let-chatgpt-analyze-a-decade-of-my-apple-watch-data-then-i-called-my-doctor/ar-AA1UZxip",
+      "summary": "Article URL: https://www.msn.com/en-us/news/technology/i-let-chatgpt-analyze-a-decade-of-my-apple-watch-data-then-i-called-my-doctor/ar-AA1UZxip Comments URL: https://news.ycombinator.com/item?id=46772495 Points: 63 # Comments: 78"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/technology/ice-minnesota-protests-tech.html",
+      "title": "As Tech Chiefs Woo Trump, Silicon Valley Seethes Over Minneapolis Shootings",
+      "slug": "2026-01-26-as-tech-chiefs-woo-trump-silicon-valley-seethes-over-minneapolis-shootings.html",
+      "path": "posts/2026-01-26-as-tech-chiefs-woo-trump-silicon-valley-seethes-over-minneapolis-shootings.html",
+      "date_iso": "2026-01-26T21:53:50+00:00",
+      "source": "https://www.nytimes.com/2026/01/26/technology/ice-minnesota-protests-tech.html",
+      "summary": "Federal agents confronting protesters in Minneapolis last week."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46771599",
+      "title": "People who know the formula for WD-40",
+      "slug": "2026-01-26-people-who-know-the-formula-for-wd-40.html",
+      "path": "posts/2026-01-26-people-who-know-the-formula-for-wd-40.html",
+      "date_iso": "2026-01-26T21:11:53+00:00",
+      "source": "https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54",
+      "summary": "Gift link: https://www.wsj.com/business/the-secret-society-of-people-wh... Comments URL: https://news.ycombinator.com/item?id=46771599 Points: 132 # Comments: 208"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46770274",
+      "title": "Dithering – Part 2: The Ordered Dithering",
+      "slug": "2026-01-26-dithering-part-2-the-ordered-dithering.html",
+      "path": "posts/2026-01-26-dithering-part-2-the-ordered-dithering.html",
+      "date_iso": "2026-01-26T19:23:54+00:00",
+      "source": "https://visualrambling.space/dithering-part-2/",
+      "summary": "Article URL: https://visualrambling.space/dithering-part-2/ Comments URL: https://news.ycombinator.com/item?id=46770274 Points: 171 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46770221",
+      "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
+      "slug": "2026-01-26-chatgpt-containers-can-now-run-bash-pip-npm-install-packages-and-download-files.html",
+      "path": "posts/2026-01-26-chatgpt-containers-can-now-run-bash-pip-npm-install-packages-and-download-files.html",
+      "date_iso": "2026-01-26T19:19:40+00:00",
+      "source": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
+      "summary": "Article URL: https://simonwillison.net/2026/Jan/26/chatgpt-containers/ Comments URL: https://news.ycombinator.com/item?id=46770221 Points: 279 # Comments: 215"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46769752",
+      "title": "Show HN: TetrisBench – Gemini Flash reaches 66% win rate on Tetris against Opus",
+      "slug": "2026-01-26-show-hn-tetrisbench-gemini-flash-reaches-66-win-rate-on-tetris-against-opus.html",
+      "path": "posts/2026-01-26-show-hn-tetrisbench-gemini-flash-reaches-66-win-rate-on-tetris-against-opus.html",
+      "date_iso": "2026-01-26T18:42:40+00:00",
+      "source": "https://tetrisbench.com/tetrisbench/",
+      "summary": "Article URL: https://tetrisbench.com/tetrisbench/ Comments URL: https://news.ycombinator.com/item?id=46769752 Points: 89 # Comments: 36"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46769188",
+      "title": "AI code and software craft",
+      "slug": "2026-01-26-ai-code-and-software-craft.html",
+      "path": "posts/2026-01-26-ai-code-and-software-craft.html",
+      "date_iso": "2026-01-26T18:04:15+00:00",
+      "source": "https://alexwennerberg.com/blog/2026-01-25-slop.html",
+      "summary": "Article URL: https://alexwennerberg.com/blog/2026-01-25-slop.html Comments URL: https://news.ycombinator.com/item?id=46769188 Points: 135 # Comments: 78"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46769051",
+      "title": "Fedora Asahi Remix is now working on Apple M3",
+      "slug": "2026-01-26-fedora-asahi-remix-is-now-working-on-apple-m3.html",
+      "path": "posts/2026-01-26-fedora-asahi-remix-is-now-working-on-apple-m3.html",
+      "date_iso": "2026-01-26T17:54:20+00:00",
+      "source": "https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o",
+      "summary": "Article URL: https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o Comments URL: https://news.ycombinator.com/item?id=46769051 Points: 488 # Comments: 177"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46768909",
+      "title": "JuiceSSH – Give me my pro features back",
+      "slug": "2026-01-26-juicessh-give-me-my-pro-features-back.html",
+      "path": "posts/2026-01-26-juicessh-give-me-my-pro-features-back.html",
+      "date_iso": "2026-01-26T17:46:38+00:00",
+      "source": "https://nproject.io/blog/juicessh-give-me-back-my-pro-features/",
+      "summary": "Article URL: https://nproject.io/blog/juicessh-give-me-back-my-pro-features/ Comments URL: https://news.ycombinator.com/item?id=46768909 Points: 271 # Comments: 126"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46768257",
+      "title": "The Adolescence of Technology",
+      "slug": "2026-01-26-the-adolescence-of-technology.html",
+      "path": "posts/2026-01-26-the-adolescence-of-technology.html",
+      "date_iso": "2026-01-26T17:07:24+00:00",
+      "source": "https://www.darioamodei.com/essay/the-adolescence-of-technology",
+      "summary": "Article URL: https://www.darioamodei.com/essay/the-adolescence-of-technology Comments URL: https://news.ycombinator.com/item?id=46768257 Points: 175 # Comments: 121"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46767668",
+      "title": "France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.",
+      "slug": "2026-01-26-france-aiming-to-replace-zoom-google-meet-microsoft-teams-etc.html",
+      "path": "posts/2026-01-26-france-aiming-to-replace-zoom-google-meet-microsoft-teams-etc.html",
+      "date_iso": "2026-01-26T16:27:46+00:00",
+      "source": "https://twitter.com/lellouchenico/status/2015775970330882319",
+      "summary": "Article URL: https://twitter.com/lellouchenico/status/2015775970330882319 Comments URL: https://news.ycombinator.com/item?id=46767668 Points: 655 # Comments: 519"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46767440",
+      "title": "RIP Low-Code 2014-2025",
+      "slug": "2026-01-26-rip-low-code-2014-2025.html",
+      "path": "posts/2026-01-26-rip-low-code-2014-2025.html",
+      "date_iso": "2026-01-26T16:11:28+00:00",
+      "source": "https://www.zackliscio.com/posts/rip-low-code-2014-2025/",
+      "summary": "Article URL: https://www.zackliscio.com/posts/rip-low-code-2014-2025/ Comments URL: https://news.ycombinator.com/item?id=46767440 Points: 196 # Comments: 86"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46766961",
+      "title": "There is an AI code review bubble",
+      "slug": "2026-01-26-there-is-an-ai-code-review-bubble.html",
+      "path": "posts/2026-01-26-there-is-an-ai-code-review-bubble.html",
+      "date_iso": "2026-01-26T15:38:50+00:00",
+      "source": "https://www.greptile.com/blog/ai-code-review-bubble",
+      "summary": "Article URL: https://www.greptile.com/blog/ai-code-review-bubble Comments URL: https://news.ycombinator.com/item?id=46766961 Points: 230 # Comments: 157"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/business/media/brooklyn-beckham-victoria-feud-ai-videos-dancing.html",
+      "title": "New Videos of the Beckham Feud Are Fake. Nobody Seems to Care.",
+      "slug": "2026-01-26-new-videos-of-the-beckham-feud-are-fake-nobody-seems-to-care.html",
+      "path": "posts/2026-01-26-new-videos-of-the-beckham-feud-are-fake-nobody-seems-to-care.html",
+      "date_iso": "2026-01-26T15:32:53+00:00",
+      "source": "https://www.nytimes.com/2026/01/26/business/media/brooklyn-beckham-victoria-feud-ai-videos-dancing.html",
+      "summary": "Brooklyn Beckham, center, the eldest son of David Beckham, left, and Victoria Beckham, right, openly criticized his famous parents last week."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46766741",
+      "title": "Qwen3-Max-Thinking",
+      "slug": "2026-01-26-qwen3-max-thinking.html",
+      "path": "posts/2026-01-26-qwen3-max-thinking.html",
+      "date_iso": "2026-01-26T15:23:00+00:00",
+      "source": "https://qwen.ai/blog?id=qwen3-max-thinking",
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen3-max-thinking Comments URL: https://news.ycombinator.com/item?id=46766741 Points: 444 # Comments: 397"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46766526",
+      "title": "Windows 11's Patch Tuesday nightmare gets worse",
+      "slug": "2026-01-26-windows-11-s-patch-tuesday-nightmare-gets-worse.html",
+      "path": "posts/2026-01-26-windows-11-s-patch-tuesday-nightmare-gets-worse.html",
+      "date_iso": "2026-01-26T15:07:37+00:00",
+      "source": "https://www.windowscentral.com/microsoft/windows-11/windows-11s-botched-patch-tuesday-update-nightmare-continues-as-microsoft-confirms-some-pcs-might-fail-to-boot",
+      "summary": "Article URL: https://www.windowscentral.com/microsoft/windows-11/windows-11s-botched-patch-tuesday-update-nightmare-continues-as-microsoft-confirms-some-pcs-might-fail-to-boot Comments URL: https://news.ycombinator.com/item?id=46766526 Points: 243 # Comments: 170"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46766188",
+      "title": "Television is 100 years old today",
+      "slug": "2026-01-26-television-is-100-years-old-today.html",
+      "path": "posts/2026-01-26-television-is-100-years-old-today.html",
+      "date_iso": "2026-01-26T14:41:04+00:00",
+      "source": "https://diamondgeezer.blogspot.com/2026/01/tv100.html",
+      "summary": "Article URL: https://diamondgeezer.blogspot.com/2026/01/tv100.html Comments URL: https://news.ycombinator.com/item?id=46766188 Points: 572 # Comments: 202"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/business/european-union-x-grok-ai-images-musk.html",
+      "title": "Elon Musk’s X Faces EU Inquiry Over Sexualized AI Images Generated by Grok",
+      "slug": "2026-01-26-elon-musk-s-x-faces-eu-inquiry-over-sexualized-ai-images-generated-by-grok.html",
+      "path": "posts/2026-01-26-elon-musk-s-x-faces-eu-inquiry-over-sexualized-ai-images-generated-by-grok.html",
+      "date_iso": "2026-01-26T14:16:42+00:00",
+      "source": "https://www.nytimes.com/2026/01/26/business/european-union-x-grok-ai-images-musk.html",
+      "summary": "The investigation is likely to escalate a confrontation between Europe and the United States over the regulation of online content."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46765819",
+      "title": "Apple introduces new AirTag with longer range and improved findability",
+      "slug": "2026-01-26-apple-introduces-new-airtag-with-longer-range-and-improved-findability.html",
+      "path": "posts/2026-01-26-apple-introduces-new-airtag-with-longer-range-and-improved-findability.html",
+      "date_iso": "2026-01-26T14:10:25+00:00",
+      "source": "https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/ Comments URL: https://news.ycombinator.com/item?id=46765819 Points: 380 # Comments: 479"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46765694",
+      "title": "Porting 100k lines from TypeScript to Rust using Claude Code in a month",
+      "slug": "2026-01-26-porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html",
+      "path": "posts/2026-01-26-porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html",
+      "date_iso": "2026-01-26T13:58:27+00:00",
+      "source": "https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html",
+      "summary": "Article URL: https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html Comments URL: https://news.ycombinator.com/item?id=46765694 Points: 187 # Comments: 123"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/technology/recursive-ai-ricursive.html",
+      "title": "Silicon Valley Wants to Build A.I. That Can Improve A.I. on Its Own",
+      "slug": "2026-01-26-silicon-valley-wants-to-build-a-i-that-can-improve-a-i-on-its-own.html",
+      "path": "posts/2026-01-26-silicon-valley-wants-to-build-a-i-that-can-improve-a-i-on-its-own.html",
+      "date_iso": "2026-01-26T10:02:25+00:00",
+      "source": "https://www.nytimes.com/2026/01/26/technology/recursive-ai-ricursive.html",
+      "summary": "Anna Goldie and Azalia Mirhoseini, the founders of Ricursive Intelligence, at the start-up’s offices in Palo Alto, Calif."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/26/technology/an-ai-pioneer-warns-the-tech-herd-is-marching-into-a-dead-end.html",
+      "title": "Yann LeCun, an A.I. Pioneer, Warns the Tech ‘Herd’ Could Hit a Dead End",
+      "slug": "2026-01-26-yann-lecun-an-a-i-pioneer-warns-the-tech-herd-could-hit-a-dead-end.html",
+      "path": "posts/2026-01-26-yann-lecun-an-a-i-pioneer-warns-the-tech-herd-could-hit-a-dead-end.html",
+      "date_iso": "2026-01-26T10:01:00+00:00",
+      "source": "https://www.nytimes.com/2026/01/26/technology/an-ai-pioneer-warns-the-tech-herd-is-marching-into-a-dead-end.html",
+      "summary": "Yann LeCun’s early research paved the way for many of today’s A.I. systems."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46762150",
       "title": "The browser is the sandbox",
       "slug": "2026-01-26-the-browser-is-the-sandbox.html",
