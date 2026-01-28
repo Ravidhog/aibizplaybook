@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46791496",
+      "title": "Moltbot Security Guide: Protect Your VPS from Hackers and Vulnerabilities",
+      "slug": "2026-01-28-moltbot-security-guide-protect-your-vps-from-hackers-and-vulnerabilities.html",
+      "path": "posts/2026-01-28-moltbot-security-guide-protect-your-vps-from-hackers-and-vulnerabilities.html",
+      "date_iso": "2026-01-28T05:40:38+00:00",
+      "source": "https://veerhost.com/moltbot-security-guide/",
+      "summary": "Article URL: https://veerhost.com/moltbot-security-guide/ Comments URL: https://news.ycombinator.com/item?id=46791496 Points: 13 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46789961",
+      "title": "Super Monkey Ball ported to a website",
+      "slug": "2026-01-28-super-monkey-ball-ported-to-a-website.html",
+      "path": "posts/2026-01-28-super-monkey-ball-ported-to-a-website.html",
+      "date_iso": "2026-01-28T01:44:25+00:00",
+      "source": "https://monkeyball-online.pages.dev/",
+      "summary": "Article URL: https://monkeyball-online.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=46789961 Points: 230 # Comments: 66"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46789913",
+      "title": "AISLE’s autonomous analyzer found all CVEs in the January OpenSSL release",
+      "slug": "2026-01-28-aisle-s-autonomous-analyzer-found-all-cves-in-the-january-openssl-release.html",
+      "path": "posts/2026-01-28-aisle-s-autonomous-analyzer-found-all-cves-in-the-january-openssl-release.html",
+      "date_iso": "2026-01-28T01:38:15+00:00",
+      "source": "https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities",
+      "summary": "Article URL: https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities Comments URL: https://news.ycombinator.com/item?id=46789913 Points: 146 # Comments: 95"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/technology/microsoft-water-ai-data-centers.html",
+      "title": "Microsoft Pledged to Save Water. In the A.I. Era, It Expects Water Use to Soar.",
+      "slug": "2026-01-27-microsoft-pledged-to-save-water-in-the-a-i-era-it-expects-water-use-to-soar.html",
+      "path": "posts/2026-01-27-microsoft-pledged-to-save-water-in-the-a-i-era-it-expects-water-use-to-soar.html",
+      "date_iso": "2026-01-27T23:30:19+00:00",
+      "source": "https://www.nytimes.com/2026/01/27/technology/microsoft-water-ai-data-centers.html",
+      "summary": "Driven by the artificial intelligence frenzy, Microsoft is internally projecting that water use at its data centers will more than double by 2030 from 2020, including in places that face shortages."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46788384",
+      "title": "Notes on starting to use Django",
+      "slug": "2026-01-27-notes-on-starting-to-use-django.html",
+      "path": "posts/2026-01-27-notes-on-starting-to-use-django.html",
+      "date_iso": "2026-01-27T22:58:30+00:00",
+      "source": "https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/",
+      "summary": "Article URL: https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/ Comments URL: https://news.ycombinator.com/item?id=46788384 Points: 61 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46787521",
+      "title": "Thief of $90M in seized U.S.-controlled crypto is gov't contractor's son",
+      "slug": "2026-01-27-thief-of-90m-in-seized-u-s-controlled-crypto-is-gov-t-contractor-s-son.html",
+      "path": "posts/2026-01-27-thief-of-90m-in-seized-u-s-controlled-crypto-is-gov-t-contractor-s-son.html",
+      "date_iso": "2026-01-27T21:54:29+00:00",
+      "source": "https://www.web3isgoinggreat.com/single/lick-theft",
+      "summary": "Article URL: https://www.web3isgoinggreat.com/single/lick-theft Comments URL: https://news.ycombinator.com/item?id=46787521 Points: 299 # Comments: 61"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/technology/meta-data-center-ads.html",
+      "title": "Meta Campaigns to Change Opinions on Data Centers",
+      "slug": "2026-01-27-meta-campaigns-to-change-opinions-on-data-centers.html",
+      "path": "posts/2026-01-27-meta-campaigns-to-change-opinions-on-data-centers.html",
+      "date_iso": "2026-01-27T21:23:06+00:00",
+      "source": "https://www.nytimes.com/2026/01/27/technology/meta-data-center-ads.html",
+      "summary": "The tech giant has spent more than $6 million on TV ads in state capitals and Washington, with the message that data centers create jobs."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46786618",
+      "title": "Show HN: I wrapped the Zorks with an LLM",
+      "slug": "2026-01-27-show-hn-i-wrapped-the-zorks-with-an-llm.html",
+      "path": "posts/2026-01-27-show-hn-i-wrapped-the-zorks-with-an-llm.html",
+      "date_iso": "2026-01-27T20:59:49+00:00",
+      "source": "https://infocom.tambo.co/",
+      "summary": "I grew up on the Infocom games and when microsoft actually open-sourced Zork 1/2/3 I really wanted to figure out how to use LLMs to let you type whatever you want, I always found the amount language that the games \"understood\" to be so limiting - even if it was pretty state of t…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46786196",
+      "title": "Parametric CAD in Rust",
+      "slug": "2026-01-27-parametric-cad-in-rust.html",
+      "path": "posts/2026-01-27-parametric-cad-in-rust.html",
+      "date_iso": "2026-01-27T20:36:14+00:00",
+      "source": "https://campedersen.com/vcad",
+      "summary": "Article URL: https://campedersen.com/vcad Comments URL: https://news.ycombinator.com/item?id=46786196 Points: 134 # Comments: 82"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46786183",
+      "title": "Time Station Emulator",
+      "slug": "2026-01-27-time-station-emulator.html",
+      "path": "posts/2026-01-27-time-station-emulator.html",
+      "date_iso": "2026-01-27T20:35:34+00:00",
+      "source": "https://github.com/kangtastic/timestation",
+      "summary": "Article URL: https://github.com/kangtastic/timestation Comments URL: https://news.ycombinator.com/item?id=46786183 Points: 149 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46785598",
+      "title": "How many chess games are possible?",
+      "slug": "2026-01-27-how-many-chess-games-are-possible.html",
+      "path": "posts/2026-01-27-how-many-chess-games-are-possible.html",
+      "date_iso": "2026-01-27T19:59:47+00:00",
+      "source": "https://win-vector.com/2026/01/27/how-many-chess-games-are-possible/",
+      "summary": "Article URL: https://win-vector.com/2026/01/27/how-many-chess-games-are-possible/ Comments URL: https://news.ycombinator.com/item?id=46785598 Points: 59 # Comments: 25"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/us/politics/pentagon-computer-warfare.html",
+      "title": "How Computer Warfare Is Becoming Part of the Pentagon’s Arsenal",
+      "slug": "2026-01-27-how-computer-warfare-is-becoming-part-of-the-pentagon-s-arsenal.html",
+      "path": "posts/2026-01-27-how-computer-warfare-is-becoming-part-of-the-pentagon-s-arsenal.html",
+      "date_iso": "2026-01-27T19:50:22+00:00",
+      "source": "https://www.nytimes.com/2026/01/27/us/politics/pentagon-computer-warfare.html",
+      "summary": "The United States took power off-line in Caracas, Venezuela, to help military forces capture former President Nicolás Maduro this month."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46784977",
+      "title": "Try text scaling support in Chrome Canary",
+      "slug": "2026-01-27-try-text-scaling-support-in-chrome-canary.html",
+      "path": "posts/2026-01-27-try-text-scaling-support-in-chrome-canary.html",
+      "date_iso": "2026-01-27T19:20:24+00:00",
+      "source": "https://www.joshtumath.uk/posts/2026-01-27-try-text-scaling-support-in-chrome-canary/",
+      "summary": "Article URL: https://www.joshtumath.uk/posts/2026-01-27-try-text-scaling-support-in-chrome-canary/ Comments URL: https://news.ycombinator.com/item?id=46784977 Points: 94 # Comments: 28"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/technology/tiktok-settlement-social-media-addiction-lawsuit.html",
+      "title": "TikTok Settles Social Media Addiction Lawsuit Ahead of a Landmark Trial",
+      "slug": "2026-01-27-tiktok-settles-social-media-addiction-lawsuit-ahead-of-a-landmark-trial.html",
+      "path": "posts/2026-01-27-tiktok-settles-social-media-addiction-lawsuit-ahead-of-a-landmark-trial.html",
+      "date_iso": "2026-01-27T19:17:48+00:00",
+      "source": "https://www.nytimes.com/2026/01/27/technology/tiktok-settlement-social-media-addiction-lawsuit.html",
+      "summary": "TikTok’s offices in Culver City, California."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46784572",
+      "title": "Lennart Poettering, Christian Brauner founded a new company",
+      "slug": "2026-01-27-lennart-poettering-christian-brauner-founded-a-new-company.html",
+      "path": "posts/2026-01-27-lennart-poettering-christian-brauner-founded-a-new-company.html",
+      "date_iso": "2026-01-27T18:57:15+00:00",
+      "source": "https://amutable.com/about",
+      "summary": "Article URL: https://amutable.com/about Comments URL: https://news.ycombinator.com/item?id=46784572 Points: 278 # Comments: 369"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46784491",
+      "title": "Hypercubic (YC F25) Is Hiring a Founding SWE and COBOL Engineer",
+      "slug": "2026-01-27-hypercubic-yc-f25-is-hiring-a-founding-swe-and-cobol-engineer.html",
+      "path": "posts/2026-01-27-hypercubic-yc-f25-is-hiring-a-founding-swe-and-cobol-engineer.html",
+      "date_iso": "2026-01-27T18:50:50+00:00",
+      "source": "https://www.ycombinator.com/companies/hypercubic/jobs",
+      "summary": "Article URL: https://www.ycombinator.com/companies/hypercubic/jobs Comments URL: https://news.ycombinator.com/item?id=46784491 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46783752",
+      "title": "Prism",
+      "slug": "2026-01-27-prism.html",
+      "path": "posts/2026-01-27-prism.html",
+      "date_iso": "2026-01-27T18:03:10+00:00",
+      "source": "https://openai.com/index/introducing-prism",
+      "summary": "Article URL: https://openai.com/index/introducing-prism Comments URL: https://news.ycombinator.com/item?id=46783752 Points: 596 # Comments: 325"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46783600",
+      "title": "Show HN: LemonSlice – Upgrade your voice agents to real-time video",
+      "slug": "2026-01-27-show-hn-lemonslice-upgrade-your-voice-agents-to-real-time-video.html",
+      "path": "posts/2026-01-27-show-hn-lemonslice-upgrade-your-voice-agents-to-real-time-video.html",
+      "date_iso": "2026-01-27T17:55:15+00:00",
+      "source": "https://news.ycombinator.com/item?id=46783600",
+      "summary": "Hey HN, we're the co-founders of LemonSlice (try our HN playground here: https://lemonslice.com/hn ). We train interactive avatar video models. Our API lets you upload a photo and immediately jump into a FaceTime-style call with that character. Here's a demo: https://www.loom.co…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46783254",
+      "title": "FBI is investigating Minnesota Signal chats tracking ICE",
+      "slug": "2026-01-27-fbi-is-investigating-minnesota-signal-chats-tracking-ice.html",
+      "path": "posts/2026-01-27-fbi-is-investigating-minnesota-signal-chats-tracking-ice.html",
+      "date_iso": "2026-01-27T17:32:05+00:00",
+      "source": "https://www.nbcnews.com/tech/internet/fbi-investigating-minnesota-signal-minneapolis-group-ice-patel-kash-rcna256041",
+      "summary": "Article URL: https://www.nbcnews.com/tech/internet/fbi-investigating-minnesota-signal-minneapolis-group-ice-patel-kash-rcna256041 Comments URL: https://news.ycombinator.com/item?id=46783254 Points: 693 # Comments: 862"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46783017",
+      "title": "AI2: Open Coding Agents",
+      "slug": "2026-01-27-ai2-open-coding-agents.html",
+      "path": "posts/2026-01-27-ai2-open-coding-agents.html",
+      "date_iso": "2026-01-27T17:17:54+00:00",
+      "source": "https://allenai.org/blog/open-coding-agents",
+      "summary": "Article URL: https://allenai.org/blog/open-coding-agents Comments URL: https://news.ycombinator.com/item?id=46783017 Points: 171 # Comments: 24"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46782930",
+      "title": "SoundCloud Data Breach Now on HaveIBeenPwned",
+      "slug": "2026-01-27-soundcloud-data-breach-now-on-haveibeenpwned.html",
+      "path": "posts/2026-01-27-soundcloud-data-breach-now-on-haveibeenpwned.html",
+      "date_iso": "2026-01-27T17:11:39+00:00",
+      "source": "https://haveibeenpwned.com/Breach/SoundCloud",
+      "summary": "Article URL: https://haveibeenpwned.com/Breach/SoundCloud Comments URL: https://news.ycombinator.com/item?id=46782930 Points: 167 # Comments: 90"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46782763",
+      "title": "Artie (YC S23) Is Hiring a Founding Recruiter",
+      "slug": "2026-01-27-artie-yc-s23-is-hiring-a-founding-recruiter.html",
+      "path": "posts/2026-01-27-artie-yc-s23-is-hiring-a-founding-recruiter.html",
+      "date_iso": "2026-01-27T17:01:37+00:00",
+      "source": "https://www.ycombinator.com/companies/artie/jobs/MX163y2-founding-recruiter",
+      "summary": "Article URL: https://www.ycombinator.com/companies/artie/jobs/MX163y2-founding-recruiter Comments URL: https://news.ycombinator.com/item?id=46782763 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46782662",
+      "title": "OpenSSL: Stack buffer overflow in CMS AuthEnvelopedData parsing",
+      "slug": "2026-01-27-openssl-stack-buffer-overflow-in-cms-authenvelopeddata-parsing.html",
+      "path": "posts/2026-01-27-openssl-stack-buffer-overflow-in-cms-authenvelopeddata-parsing.html",
+      "date_iso": "2026-01-27T16:56:23+00:00",
+      "source": "https://openssl-library.org/news/vulnerabilities/#CVE-2025-15467",
+      "summary": "Article URL: https://openssl-library.org/news/vulnerabilities/#CVE-2025-15467 Comments URL: https://news.ycombinator.com/item?id=46782662 Points: 88 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46781530",
+      "title": "430k-year-old well-preserved wooden tools are the oldest ever found",
+      "slug": "2026-01-27-430k-year-old-well-preserved-wooden-tools-are-the-oldest-ever-found.html",
+      "path": "posts/2026-01-27-430k-year-old-well-preserved-wooden-tools-are-the-oldest-ever-found.html",
+      "date_iso": "2026-01-27T15:46:29+00:00",
+      "source": "https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html",
+      "summary": "https://archive.ph/mHlUT https://apnews.com/article/oldest-wooden-tools-marathousa-1-... https://archaeologymag.com/2026/01/430000-year-old-wooden-to... Comments URL: https://news.ycombinator.com/item?id=46781530 Points: 394 # Comments: 213"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/27/business/general-motors-earnings.html",
+      "title": "G.M. Shares Rise as Investors Are Encouraged by 2026 Prospects",
+      "slug": "2026-01-27-g-m-shares-rise-as-investors-are-encouraged-by-2026-prospects.html",
+      "path": "posts/2026-01-27-g-m-shares-rise-as-investors-are-encouraged-by-2026-prospects.html",
+      "date_iso": "2026-01-27T15:22:39+00:00",
+      "source": "https://www.nytimes.com/2026/01/27/business/general-motors-earnings.html",
+      "summary": "A General Motors factory in Spring Hill, Tenn. G.M. said on Tuesday it planned to introduce a more advanced version of its Super Cruise driver assistance system in 2028."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46775961",
       "title": "Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model",
       "slug": "2026-01-27-kimi-released-kimi-k2-5-open-source-visual-sota-agentic-model.html",
