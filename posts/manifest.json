@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46806505",
+      "title": "Generative Music with the Muse",
+      "slug": "2026-01-29-generative-music-with-the-muse.html",
+      "path": "posts/2026-01-29-generative-music-with-the-muse.html",
+      "date_iso": "2026-01-29T06:24:18+00:00",
+      "source": "https://computerhistory.org/blog/generative-music-with-the-muse/",
+      "summary": "Article URL: https://computerhistory.org/blog/generative-music-with-the-muse/ Comments URL: https://news.ycombinator.com/item?id=46806505 Points: 11 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46805665",
+      "title": "We can't send mail farther than 500 miles (2002)",
+      "slug": "2026-01-29-we-can-t-send-mail-farther-than-500-miles-2002.html",
+      "path": "posts/2026-01-29-we-can-t-send-mail-farther-than-500-miles-2002.html",
+      "date_iso": "2026-01-29T03:58:33+00:00",
+      "source": "https://web.mit.edu/jemorris/humor/500-miles",
+      "summary": "See also https://ibiblio.org/harris/500milemail-faq.html Comments URL: https://news.ycombinator.com/item?id=46805665 Points: 249 # Comments: 27"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46805557",
+      "title": "Putting Gemini to Work in Chrome",
+      "slug": "2026-01-29-putting-gemini-to-work-in-chrome.html",
+      "path": "posts/2026-01-29-putting-gemini-to-work-in-chrome.html",
+      "date_iso": "2026-01-29T03:43:52+00:00",
+      "source": "https://blog.google/products-and-platforms/products/chrome/gemini-3-auto-browse/",
+      "summary": "Article URL: https://blog.google/products-and-platforms/products/chrome/gemini-3-auto-browse/ Comments URL: https://news.ycombinator.com/item?id=46805557 Points: 20 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46805439",
+      "title": "Questom (YC F25) is hiring an engineer",
+      "slug": "2026-01-29-questom-yc-f25-is-hiring-an-engineer.html",
+      "path": "posts/2026-01-29-questom-yc-f25-is-hiring-an-engineer.html",
+      "date_iso": "2026-01-29T03:29:53+00:00",
+      "source": "https://www.ycombinator.com/companies/questom/jobs/UBebsyO-founding-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/questom/jobs/UBebsyO-founding-engineer Comments URL: https://news.ycombinator.com/item?id=46805439 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46805243",
+      "title": "DECwindows Motif",
+      "slug": "2026-01-29-decwindows-motif.html",
+      "path": "posts/2026-01-29-decwindows-motif.html",
+      "date_iso": "2026-01-29T03:04:40+00:00",
+      "source": "https://products.vmssoftware.com/decwindowsmotif",
+      "summary": "Article URL: https://products.vmssoftware.com/decwindowsmotif Comments URL: https://news.ycombinator.com/item?id=46805243 Points: 24 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46804854",
+      "title": "Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105",
+      "slug": "2026-01-29-maine-s-lobster-lady-who-fished-for-nearly-a-century-dies-aged-105.html",
+      "path": "posts/2026-01-29-maine-s-lobster-lady-who-fished-for-nearly-a-century-dies-aged-105.html",
+      "date_iso": "2026-01-29T02:11:42+00:00",
+      "source": "https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105 Comments URL: https://news.ycombinator.com/item?id=46804854 Points: 110 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46804828",
+      "title": "Render Mermaid diagrams as SVGs or ASCII art",
+      "slug": "2026-01-29-render-mermaid-diagrams-as-svgs-or-ascii-art.html",
+      "path": "posts/2026-01-29-render-mermaid-diagrams-as-svgs-or-ascii-art.html",
+      "date_iso": "2026-01-29T02:08:40+00:00",
+      "source": "https://github.com/lukilabs/beautiful-mermaid",
+      "summary": "Article URL: https://github.com/lukilabs/beautiful-mermaid Comments URL: https://news.ycombinator.com/item?id=46804828 Points: 170 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46804396",
+      "title": "Show HN: Shelvy Books",
+      "slug": "2026-01-29-show-hn-shelvy-books.html",
+      "path": "posts/2026-01-29-show-hn-shelvy-books.html",
+      "date_iso": "2026-01-29T01:16:41+00:00",
+      "source": "https://shelvybooks.com",
+      "summary": "Hey HN! I built a little side project I wanted to share. Shelvy is a free, visual bookshelf app where you can organize books you're reading, want to read, or have finished. Sign in to save your own collection. Not monetized, no ads, no tracking beyond basic auth. Just a fun week…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/technology/microsoft-earnings-ai-expenditures.html",
+      "title": "Microsoft Continues to Spend Big on A.I. While Profit Jumps 60%",
+      "slug": "2026-01-29-microsoft-continues-to-spend-big-on-a-i-while-profit-jumps-60.html",
+      "path": "posts/2026-01-29-microsoft-continues-to-spend-big-on-a-i-while-profit-jumps-60.html",
+      "date_iso": "2026-01-29T00:51:21+00:00",
+      "source": "https://www.nytimes.com/2026/01/28/technology/microsoft-earnings-ai-expenditures.html",
+      "summary": "Microsoft continues to spend billions on building out its data center capacity as the demand for A.I. computing power outweighs its available supply."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/business/tesla-earnings-electric-vehicles.html",
+      "title": "Tesla Profit Slumps, but Investors May Not Care",
+      "slug": "2026-01-29-tesla-profit-slumps-but-investors-may-not-care.html",
+      "path": "posts/2026-01-29-tesla-profit-slumps-but-investors-may-not-care.html",
+      "date_iso": "2026-01-29T00:41:23+00:00",
+      "source": "https://www.nytimes.com/2026/01/28/business/tesla-earnings-electric-vehicles.html",
+      "summary": "Falling car sales have taken a toll on Tesla’s net profit. The company announced Wednesday that it would stop producing its S and X model cars within months."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/technology/meta-earnings-ai-spending.html",
+      "title": "Meta Forecasts Spending of at Least $115 Billion This Year",
+      "slug": "2026-01-28-meta-forecasts-spending-of-at-least-115-billion-this-year.html",
+      "path": "posts/2026-01-28-meta-forecasts-spending-of-at-least-115-billion-this-year.html",
+      "date_iso": "2026-01-28T23:24:22+00:00",
+      "source": "https://www.nytimes.com/2026/01/28/technology/meta-earnings-ai-spending.html",
+      "summary": "Meta’s Eagle Mountain Data Center in Utah. The bulk of Meta’s new A.I. spending will be on infrastructure like data centers."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46803119",
+      "title": "UK Government’s ‘AI Skills Hub’ was delivered by PwC for £4.1M",
+      "slug": "2026-01-28-uk-government-s-ai-skills-hub-was-delivered-by-pwc-for-4-1m.html",
+      "path": "posts/2026-01-28-uk-government-s-ai-skills-hub-was-delivered-by-pwc-for-4-1m.html",
+      "date_iso": "2026-01-28T23:16:12+00:00",
+      "source": "https://mahadk.com/posts/ai-skills-hub",
+      "summary": "Article URL: https://mahadk.com/posts/ai-skills-hub Comments URL: https://news.ycombinator.com/item?id=46803119 Points: 326 # Comments: 97"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46802867",
+      "title": "Tesla ending Models S and X production",
+      "slug": "2026-01-28-tesla-ending-models-s-and-x-production.html",
+      "path": "posts/2026-01-28-tesla-ending-models-s-and-x-production.html",
+      "date_iso": "2026-01-28T22:53:54+00:00",
+      "source": "https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html Comments URL: https://news.ycombinator.com/item?id=46802867 Points: 244 # Comments: 390"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46802210",
+      "title": "Bf-Tree: modern read-write-optimized concurrent larger-than-memory range index",
+      "slug": "2026-01-28-bf-tree-modern-read-write-optimized-concurrent-larger-than-memory-range-index.html",
+      "path": "posts/2026-01-28-bf-tree-modern-read-write-optimized-concurrent-larger-than-memory-range-index.html",
+      "date_iso": "2026-01-28T22:05:05+00:00",
+      "source": "https://github.com/microsoft/bf-tree",
+      "summary": "Article URL: https://github.com/microsoft/bf-tree Comments URL: https://news.ycombinator.com/item?id=46802210 Points: 72 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46802067",
+      "title": "Somebody used spoofed ADSB signals to raster the meme of JD Vance",
+      "slug": "2026-01-28-somebody-used-spoofed-adsb-signals-to-raster-the-meme-of-jd-vance.html",
+      "path": "posts/2026-01-28-somebody-used-spoofed-adsb-signals-to-raster-the-meme-of-jd-vance.html",
+      "date_iso": "2026-01-28T21:50:47+00:00",
+      "source": "https://alecmuffett.com/article/143548",
+      "summary": "https://archive.ph/VrEtg https://globe.adsbexchange.com/?icao=adfdf9&amp;lat=26.678&amp;lon=-... Comments URL: https://news.ycombinator.com/item?id=46802067 Points: 468 # Comments: 115"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/technology/amazon-corporate-layoffs.html",
+      "title": "Amazon to Cut 16,000 Jobs in Latest Round of Layoffs",
+      "slug": "2026-01-28-amazon-to-cut-16-000-jobs-in-latest-round-of-layoffs.html",
+      "path": "posts/2026-01-28-amazon-to-cut-16-000-jobs-in-latest-round-of-layoffs.html",
+      "date_iso": "2026-01-28T19:00:41+00:00",
+      "source": "https://www.nytimes.com/2026/01/28/technology/amazon-corporate-layoffs.html",
+      "summary": "Amazon’s headquarters campus in Seattle."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46799898",
+      "title": "Show HN: A MitM proxy to see what your LLM tools are sending",
+      "slug": "2026-01-28-show-hn-a-mitm-proxy-to-see-what-your-llm-tools-are-sending.html",
+      "path": "posts/2026-01-28-show-hn-a-mitm-proxy-to-see-what-your-llm-tools-are-sending.html",
+      "date_iso": "2026-01-28T18:52:24+00:00",
+      "source": "https://github.com/jmuncor/sherlock",
+      "summary": "I built this out of curiosity about what Claude Code was actually sending to the API. Turns out, watching your tokens tick up in real-time is oddly satisfying. Sherlock sits between your LLM tools and the API, showing you every request with a live dashboard, and auto-saved copie…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46799477",
+      "title": "LM Studio 0.4",
+      "slug": "2026-01-28-lm-studio-0-4.html",
+      "path": "posts/2026-01-28-lm-studio-0-4.html",
+      "date_iso": "2026-01-28T18:23:14+00:00",
+      "source": "https://lmstudio.ai/blog/0.4.0",
+      "summary": "Article URL: https://lmstudio.ai/blog/0.4.0 Comments URL: https://news.ycombinator.com/item?id=46799477 Points: 130 # Comments: 71"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46798994",
+      "title": "Computer History Museum Launches Digital Portal to Its Collection",
+      "slug": "2026-01-28-computer-history-museum-launches-digital-portal-to-its-collection.html",
+      "path": "posts/2026-01-28-computer-history-museum-launches-digital-portal-to-its-collection.html",
+      "date_iso": "2026-01-28T17:54:54+00:00",
+      "source": "https://computerhistory.org/press-releases/computer-history-museum-launches-digital-portal-to-its-vast-collection/",
+      "summary": "Article URL: https://computerhistory.org/press-releases/computer-history-museum-launches-digital-portal-to-its-vast-collection/ Comments URL: https://news.ycombinator.com/item?id=46798994 Points: 142 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46798402",
+      "title": "Mousefood – Build embedded terminal UIs for microcontrollers",
+      "slug": "2026-01-28-mousefood-build-embedded-terminal-uis-for-microcontrollers.html",
+      "path": "posts/2026-01-28-mousefood-build-embedded-terminal-uis-for-microcontrollers.html",
+      "date_iso": "2026-01-28T17:20:31+00:00",
+      "source": "https://github.com/ratatui/mousefood",
+      "summary": "Article URL: https://github.com/ratatui/mousefood Comments URL: https://news.ycombinator.com/item?id=46798402 Points: 199 # Comments: 43"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46797868",
+      "title": "Spinning around: Please don’t – Common problems with spin locks",
+      "slug": "2026-01-28-spinning-around-please-don-t-common-problems-with-spin-locks.html",
+      "path": "posts/2026-01-28-spinning-around-please-don-t-common-problems-with-spin-locks.html",
+      "date_iso": "2026-01-28T16:48:59+00:00",
+      "source": "https://www.siliceum.com/en/blog/post/spinning-around/",
+      "summary": "Article URL: https://www.siliceum.com/en/blog/post/spinning-around/ Comments URL: https://news.ycombinator.com/item?id=46797868 Points: 108 # Comments: 42"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46797594",
+      "title": "Oban, the job processing framework from Elixir, has come to Python",
+      "slug": "2026-01-28-oban-the-job-processing-framework-from-elixir-has-come-to-python.html",
+      "path": "posts/2026-01-28-oban-the-job-processing-framework-from-elixir-has-come-to-python.html",
+      "date_iso": "2026-01-28T16:32:00+00:00",
+      "source": "https://www.dimamik.com/posts/oban_py/",
+      "summary": "Article URL: https://www.dimamik.com/posts/oban_py/ Comments URL: https://news.ycombinator.com/item?id=46797594 Points: 216 # Comments: 89"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/28/science/alphagenome-ai-deepmind-genetics.html",
+      "title": "With AlphaGenome, Researchers Are Using A.I. to Decode the Human Blueprint",
+      "slug": "2026-01-28-with-alphagenome-researchers-are-using-a-i-to-decode-the-human-blueprint.html",
+      "path": "posts/2026-01-28-with-alphagenome-researchers-are-using-a-i-to-decode-the-human-blueprint.html",
+      "date_iso": "2026-01-28T16:00:26+00:00",
+      "source": "https://www.nytimes.com/2026/01/28/science/alphagenome-ai-deepmind-genetics.html",
+      "summary": "DNA electrophoresis in a lab. Scientists at Google DeepMind have trained their A.I on a vast wealth of molecular data, enabling it to make predictions about thousands of genes."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46795908",
+      "title": "Airfoil (2024)",
+      "slug": "2026-01-28-airfoil-2024.html",
+      "path": "posts/2026-01-28-airfoil-2024.html",
+      "date_iso": "2026-01-28T14:32:30+00:00",
+      "source": "https://ciechanow.ski/airfoil/",
+      "summary": "Article URL: https://ciechanow.ski/airfoil/ Comments URL: https://news.ycombinator.com/item?id=46795908 Points: 420 # Comments: 51"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46795582",
+      "title": "When Every Network is 192.168.1.x",
+      "slug": "2026-01-28-when-every-network-is-192-168-1-x.html",
+      "path": "posts/2026-01-28-when-every-network-is-192-168-1-x.html",
+      "date_iso": "2026-01-28T14:06:39+00:00",
+      "source": "https://netrinos.com/blog/conflicting-subnets",
+      "summary": "Article URL: https://netrinos.com/blog/conflicting-subnets Comments URL: https://news.ycombinator.com/item?id=46795582 Points: 104 # Comments: 83"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46791496",
       "title": "Moltbot Security Guide: Protect Your VPS from Hackers and Vulnerabilities",
       "slug": "2026-01-28-moltbot-security-guide-protect-your-vps-from-hackers-and-vulnerabilities.html",
