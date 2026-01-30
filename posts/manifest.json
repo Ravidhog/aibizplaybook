@@ -1,6 +1,222 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46821326",
+      "title": "Photoroom (YC S20) Is Hiring a Head of Cross-Platform (Rust) in Paris",
+      "slug": "2026-01-30-photoroom-yc-s20-is-hiring-a-head-of-cross-platform-rust-in-paris.html",
+      "path": "posts/2026-01-30-photoroom-yc-s20-is-hiring-a-head-of-cross-platform-rust-in-paris.html",
+      "date_iso": "2026-01-30T07:00:08+00:00",
+      "source": "https://jobs.ashbyhq.com/photoroom/dc994a7c-e104-46e1-81c3-b88d635398b9",
+      "summary": "Article URL: https://jobs.ashbyhq.com/photoroom/dc994a7c-e104-46e1-81c3-b88d635398b9 Comments URL: https://news.ycombinator.com/item?id=46821326 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46820783",
+      "title": "OpenClaw – Moltbot Renamed Again",
+      "slug": "2026-01-30-openclaw-moltbot-renamed-again.html",
+      "path": "posts/2026-01-30-openclaw-moltbot-renamed-again.html",
+      "date_iso": "2026-01-30T05:14:48+00:00",
+      "source": "https://openclaw.ai/blog/introducing-openclaw",
+      "summary": "Article URL: https://openclaw.ai/blog/introducing-openclaw Comments URL: https://news.ycombinator.com/item?id=46820783 Points: 12 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46820468",
+      "title": "The Dank Case for Scrolling Window Managers",
+      "slug": "2026-01-30-the-dank-case-for-scrolling-window-managers.html",
+      "path": "posts/2026-01-30-the-dank-case-for-scrolling-window-managers.html",
+      "date_iso": "2026-01-30T04:17:38+00:00",
+      "source": "https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/",
+      "summary": "Article URL: https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/ Comments URL: https://news.ycombinator.com/item?id=46820468 Points: 54 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46820360",
+      "title": "Moltbook",
+      "slug": "2026-01-30-moltbook.html",
+      "path": "posts/2026-01-30-moltbook.html",
+      "date_iso": "2026-01-30T03:55:34+00:00",
+      "source": "https://www.moltbook.com/",
+      "summary": "Article URL: https://www.moltbook.com/ Comments URL: https://news.ycombinator.com/item?id=46820360 Points: 201 # Comments: 88"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46820113",
+      "title": "Stargaze: SpaceX's Space Situational Awareness System",
+      "slug": "2026-01-30-stargaze-spacex-s-space-situational-awareness-system.html",
+      "path": "posts/2026-01-30-stargaze-spacex-s-space-situational-awareness-system.html",
+      "date_iso": "2026-01-30T03:11:43+00:00",
+      "source": "https://starlink.com/updates/stargaze",
+      "summary": "Article URL: https://starlink.com/updates/stargaze Comments URL: https://news.ycombinator.com/item?id=46820113 Points: 56 # Comments: 12"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/technology/apple-iphone-sales-quarterly-report.html",
+      "title": "Apple Reports Record iPhone Sales Amid Holiday Bump",
+      "slug": "2026-01-30-apple-reports-record-iphone-sales-amid-holiday-bump.html",
+      "path": "posts/2026-01-30-apple-reports-record-iphone-sales-amid-holiday-bump.html",
+      "date_iso": "2026-01-30T02:32:02+00:00",
+      "source": "https://www.nytimes.com/2026/01/29/technology/apple-iphone-sales-quarterly-report.html",
+      "summary": "Apple has achieved record sales in its most important business, the iPhone, even though it has lagged other tech giants in the A.I. race."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46819809",
+      "title": "Two days of oatmeal reduce cholesterol level",
+      "slug": "2026-01-30-two-days-of-oatmeal-reduce-cholesterol-level.html",
+      "path": "posts/2026-01-30-two-days-of-oatmeal-reduce-cholesterol-level.html",
+      "date_iso": "2026-01-30T02:16:21+00:00",
+      "source": "https://www.uni-bonn.de/en/news/017-2026",
+      "summary": "Article URL: https://www.uni-bonn.de/en/news/017-2026 Comments URL: https://news.ycombinator.com/item?id=46819809 Points: 92 # Comments: 66"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46817963",
+      "title": "Employers, please use postmarked letters for job applications (2025)",
+      "slug": "2026-01-29-employers-please-use-postmarked-letters-for-job-applications-2025.html",
+      "path": "posts/2026-01-29-employers-please-use-postmarked-letters-for-job-applications-2025.html",
+      "date_iso": "2026-01-29T22:49:40+00:00",
+      "source": "https://soapstone.mradford.com/employers-use-letters-for-job-applications/",
+      "summary": "Article URL: https://soapstone.mradford.com/employers-use-letters-for-job-applications/ Comments URL: https://news.ycombinator.com/item?id=46817963 Points: 57 # Comments: 69"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46817813",
+      "title": "Grid: Free, local-first, browser-based 3D printing/CNC/laser slicer",
+      "slug": "2026-01-29-grid-free-local-first-browser-based-3d-printing-cnc-laser-slicer.html",
+      "path": "posts/2026-01-29-grid-free-local-first-browser-based-3d-printing-cnc-laser-slicer.html",
+      "date_iso": "2026-01-29T22:38:57+00:00",
+      "source": "https://grid.space/stem/",
+      "summary": "Article URL: https://grid.space/stem/ Comments URL: https://news.ycombinator.com/item?id=46817813 Points: 260 # Comments: 83"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46817764",
+      "title": "Cutting Up Curved Things",
+      "slug": "2026-01-29-cutting-up-curved-things.html",
+      "path": "posts/2026-01-29-cutting-up-curved-things.html",
+      "date_iso": "2026-01-29T22:34:54+00:00",
+      "source": "https://campedersen.com/tessellation",
+      "summary": "Article URL: https://campedersen.com/tessellation Comments URL: https://news.ycombinator.com/item?id=46817764 Points: 42 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46817452",
+      "title": "Backseat Software",
+      "slug": "2026-01-29-backseat-software.html",
+      "path": "posts/2026-01-29-backseat-software.html",
+      "date_iso": "2026-01-29T22:10:07+00:00",
+      "source": "https://blog.mikeswanson.com/backseat-software/",
+      "summary": "Article URL: https://blog.mikeswanson.com/backseat-software/ Comments URL: https://news.ycombinator.com/item?id=46817452 Points: 72 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46816539",
+      "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+      "slug": "2026-01-29-retiring-gpt-4o-gpt-4-1-gpt-4-1-mini-and-openai-o4-mini-in-chatgpt.html",
+      "path": "posts/2026-01-29-retiring-gpt-4o-gpt-4-1-gpt-4-1-mini-and-openai-o4-mini-in-chatgpt.html",
+      "date_iso": "2026-01-29T21:02:31+00:00",
+      "source": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
+      "summary": "Article URL: https://openai.com/index/retiring-gpt-4o-and-older-models/ Comments URL: https://news.ycombinator.com/item?id=46816539 Points: 155 # Comments: 230"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/technology/openai-in-talks-to-raise-as-much-as-100-billion.html",
+      "title": "OpenAI in Talks to Raise as Much as $100 Billion",
+      "slug": "2026-01-29-openai-in-talks-to-raise-as-much-as-100-billion.html",
+      "path": "posts/2026-01-29-openai-in-talks-to-raise-as-much-as-100-billion.html",
+      "date_iso": "2026-01-29T20:53:15+00:00",
+      "source": "https://www.nytimes.com/2026/01/29/technology/openai-in-talks-to-raise-as-much-as-100-billion.html",
+      "summary": "OpenAI’s San Francisco offices."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46816357",
+      "title": "The WiFi only works when it's raining (2024)",
+      "slug": "2026-01-29-the-wifi-only-works-when-it-s-raining-2024.html",
+      "path": "posts/2026-01-29-the-wifi-only-works-when-it-s-raining-2024.html",
+      "date_iso": "2026-01-29T20:47:36+00:00",
+      "source": "https://predr.ag/blog/wifi-only-works-when-its-raining/",
+      "summary": "Article URL: https://predr.ag/blog/wifi-only-works-when-its-raining/ Comments URL: https://news.ycombinator.com/item?id=46816357 Points: 160 # Comments: 54"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46815297",
+      "title": "Flameshot",
+      "slug": "2026-01-29-flameshot.html",
+      "path": "posts/2026-01-29-flameshot.html",
+      "date_iso": "2026-01-29T19:30:35+00:00",
+      "source": "https://github.com/flameshot-org/flameshot",
+      "summary": "Article URL: https://github.com/flameshot-org/flameshot Comments URL: https://news.ycombinator.com/item?id=46815297 Points: 170 # Comments: 62"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46814743",
+      "title": "PlayStation 2 Recompilation Project Is Absolutely Incredible",
+      "slug": "2026-01-29-playstation-2-recompilation-project-is-absolutely-incredible.html",
+      "path": "posts/2026-01-29-playstation-2-recompilation-project-is-absolutely-incredible.html",
+      "date_iso": "2026-01-29T18:55:38+00:00",
+      "source": "https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/",
+      "summary": "Article URL: https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/ Comments URL: https://news.ycombinator.com/item?id=46814743 Points: 385 # Comments: 175"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46814569",
+      "title": "My Mom and Dr. DeepSeek (2025)",
+      "slug": "2026-01-29-my-mom-and-dr-deepseek-2025.html",
+      "path": "posts/2026-01-29-my-mom-and-dr-deepseek-2025.html",
+      "date_iso": "2026-01-29T18:45:27+00:00",
+      "source": "https://restofworld.org/2025/ai-chatbot-china-sick/",
+      "summary": "Article URL: https://restofworld.org/2025/ai-chatbot-china-sick/ Comments URL: https://news.ycombinator.com/item?id=46814569 Points: 168 # Comments: 92"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46812933",
+      "title": "Project Genie: Experimenting with infinite, interactive worlds",
+      "slug": "2026-01-29-project-genie-experimenting-with-infinite-interactive-worlds.html",
+      "path": "posts/2026-01-29-project-genie-experimenting-with-infinite-interactive-worlds.html",
+      "date_iso": "2026-01-29T17:02:39+00:00",
+      "source": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/ Comments URL: https://news.ycombinator.com/item?id=46812933 Points: 552 # Comments: 262"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46812892",
+      "title": "Reflex (YC W23) Senior Software Engineer Infra",
+      "slug": "2026-01-29-reflex-yc-w23-senior-software-engineer-infra.html",
+      "path": "posts/2026-01-29-reflex-yc-w23-senior-software-engineer-infra.html",
+      "date_iso": "2026-01-29T17:00:42+00:00",
+      "source": "https://www.ycombinator.com/companies/reflex/jobs/Jcwrz7A-lead-software-engineer-infra",
+      "summary": "Article URL: https://www.ycombinator.com/companies/reflex/jobs/Jcwrz7A-lead-software-engineer-infra Comments URL: https://news.ycombinator.com/item?id=46812892 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46812608",
+      "title": "Launch HN: AgentMail (YC S25) – An API that gives agents their own email inboxes",
+      "slug": "2026-01-29-launch-hn-agentmail-yc-s25-an-api-that-gives-agents-their-own-email-inboxes.html",
+      "path": "posts/2026-01-29-launch-hn-agentmail-yc-s25-an-api-that-gives-agents-their-own-email-inboxes.html",
+      "date_iso": "2026-01-29T16:42:33+00:00",
+      "source": "https://news.ycombinator.com/item?id=46812608",
+      "summary": "Hey HN, we're Haakam, Michael, and Adi. We're building AgentMail ( https://agentmail.to ), the email inbox API for agents. We’re not talking about AI for your email, this is email for your AI. Email is an optimal interface for long-running agents. It’s multithreaded and asynchro…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/technology/ai-memory-chips-pc-smartphone.html",
+      "title": "How the A.I. Boom Could Push Up the Price of Your Next PC",
+      "slug": "2026-01-29-how-the-a-i-boom-could-push-up-the-price-of-your-next-pc.html",
+      "path": "posts/2026-01-29-how-the-a-i-boom-could-push-up-the-price-of-your-next-pc.html",
+      "date_iso": "2026-01-29T16:13:37+00:00",
+      "source": "https://www.nytimes.com/2026/01/29/technology/ai-memory-chips-pc-smartphone.html",
+      "summary": "A.I. companies are buying up memory chips, causing the prices of those components — which are also used in laptops and smartphones — to soar."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/01/29/technology/amazon-google-nvidia-chips-competition.html",
+      "title": "Amazon and Google Eat Into Nvidia’s A.I. Chip Supremacy",
+      "slug": "2026-01-29-amazon-and-google-eat-into-nvidia-s-a-i-chip-supremacy.html",
+      "path": "posts/2026-01-29-amazon-and-google-eat-into-nvidia-s-a-i-chip-supremacy.html",
+      "date_iso": "2026-01-29T16:12:58+00:00",
+      "source": "https://www.nytimes.com/2026/01/29/technology/amazon-google-nvidia-chips-competition.html",
+      "summary": "Google’s chips for artificial intelligence are increasingly being used by companies other than Google."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46811664",
+      "title": "Is the RAM shortage killing small VPS hosts?",
+      "slug": "2026-01-29-is-the-ram-shortage-killing-small-vps-hosts.html",
+      "path": "posts/2026-01-29-is-the-ram-shortage-killing-small-vps-hosts.html",
+      "date_iso": "2026-01-29T15:42:57+00:00",
+      "source": "https://www.fourplex.net/2026/01/29/is-the-ram-shortage-killing-small-vps-hosts/",
+      "summary": "Article URL: https://www.fourplex.net/2026/01/29/is-the-ram-shortage-killing-small-vps-hosts/ Comments URL: https://news.ycombinator.com/item?id=46811664 Points: 156 # Comments: 192"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46810401",
+      "title": "Waymo robotaxi hits a child near an elementary school in Santa Monica",
+      "slug": "2026-01-29-waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica.html",
+      "path": "posts/2026-01-29-waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica.html",
+      "date_iso": "2026-01-29T14:08:56+00:00",
+      "source": "https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/",
+      "summary": "Article URL: https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/ Comments URL: https://news.ycombinator.com/item?id=46810401 Points: 419 # Comments: 668"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46806505",
       "title": "Generative Music with the Muse",
       "slug": "2026-01-29-generative-music-with-the-muse.html",
