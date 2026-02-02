@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46852660",
+      "title": "Leaked Chats Expose the Daily Life of a Scam Compound's Enslaved Workforce",
+      "slug": "2026-02-02-leaked-chats-expose-the-daily-life-of-a-scam-compound-s-enslaved-workforce.html",
+      "path": "posts/2026-02-02-leaked-chats-expose-the-daily-life-of-a-scam-compound-s-enslaved-workforce.html",
+      "date_iso": "2026-02-02T05:10:59+00:00",
+      "source": "https://www.wired.com/story/the-red-bull-leaks/",
+      "summary": "Article URL: https://www.wired.com/story/the-red-bull-leaks/ Comments URL: https://news.ycombinator.com/item?id=46852660 Points: 50 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46852096",
+      "title": "Apple's MacBook Pro DFU port documentation is wrong",
+      "slug": "2026-02-02-apple-s-macbook-pro-dfu-port-documentation-is-wrong.html",
+      "path": "posts/2026-02-02-apple-s-macbook-pro-dfu-port-documentation-is-wrong.html",
+      "date_iso": "2026-02-02T03:29:55+00:00",
+      "source": "https://lapcatsoftware.com/articles/2026/2/1.html",
+      "summary": "Article URL: https://lapcatsoftware.com/articles/2026/2/1.html Comments URL: https://news.ycombinator.com/item?id=46852096 Points: 59 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46851922",
+      "title": "Building a Telegram Bot with Cloudflare Workers, Durable Objects and Grammy",
+      "slug": "2026-02-02-building-a-telegram-bot-with-cloudflare-workers-durable-objects-and-grammy.html",
+      "path": "posts/2026-02-02-building-a-telegram-bot-with-cloudflare-workers-durable-objects-and-grammy.html",
+      "date_iso": "2026-02-02T03:02:55+00:00",
+      "source": "https://flashblaze.xyz/posts/cloudflare-workers-durable-objects-telegram-bot/",
+      "summary": "Article URL: https://flashblaze.xyz/posts/cloudflare-workers-durable-objects-telegram-bot/ Comments URL: https://news.ycombinator.com/item?id=46851922 Points: 14 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46851548",
+      "title": "Notepad++ hijacked by state-sponsored actors",
+      "slug": "2026-02-02-notepad-hijacked-by-state-sponsored-actors.html",
+      "path": "posts/2026-02-02-notepad-hijacked-by-state-sponsored-actors.html",
+      "date_iso": "2026-02-02T01:59:56+00:00",
+      "source": "https://notepad-plus-plus.org/news/hijacked-incident-info-update/",
+      "summary": "Article URL: https://notepad-plus-plus.org/news/hijacked-incident-info-update/ Comments URL: https://news.ycombinator.com/item?id=46851548 Points: 596 # Comments: 315"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46851192",
+      "title": "Actors: A Model of Concurrent Computation [pdf] (1985)",
+      "slug": "2026-02-02-actors-a-model-of-concurrent-computation-pdf-1985.html",
+      "path": "posts/2026-02-02-actors-a-model-of-concurrent-computation-pdf-1985.html",
+      "date_iso": "2026-02-02T01:11:15+00:00",
+      "source": "https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf",
+      "summary": "Article URL: https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf Comments URL: https://news.ycombinator.com/item?id=46851192 Points: 60 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46850803",
+      "title": "Show HN: Wikipedia as a doomscrollable social media feed",
+      "slug": "2026-02-02-show-hn-wikipedia-as-a-doomscrollable-social-media-feed.html",
+      "path": "posts/2026-02-02-show-hn-wikipedia-as-a-doomscrollable-social-media-feed.html",
+      "date_iso": "2026-02-02T00:12:19+00:00",
+      "source": "https://xikipedia.org",
+      "summary": "Article URL: https://xikipedia.org Comments URL: https://news.ycombinator.com/item?id=46850803 Points: 122 # Comments: 50"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46850709",
+      "title": "Time Machine-style Backups with rsync (2018)",
+      "slug": "2026-02-02-time-machine-style-backups-with-rsync-2018.html",
+      "path": "posts/2026-02-02-time-machine-style-backups-with-rsync-2018.html",
+      "date_iso": "2026-02-02T00:00:07+00:00",
+      "source": "https://samuelhewitt.com/blog/2018-06-05-time-machine-style-backups-with-rsync",
+      "summary": "Article URL: https://samuelhewitt.com/blog/2018-06-05-time-machine-style-backups-with-rsync Comments URL: https://news.ycombinator.com/item?id=46850709 Points: 65 # Comments: 24"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46850588",
+      "title": "Two kinds of AI users are emerging",
+      "slug": "2026-02-01-two-kinds-of-ai-users-are-emerging.html",
+      "path": "posts/2026-02-01-two-kinds-of-ai-users-are-emerging.html",
+      "date_iso": "2026-02-01T23:45:18+00:00",
+      "source": "https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/",
+      "summary": "Article URL: https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/ Comments URL: https://news.ycombinator.com/item?id=46850588 Points: 137 # Comments: 124"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46850205",
+      "title": "Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation",
+      "slug": "2026-02-01-show-hn-nanoclaw-clawdbot-in-500-lines-of-ts-with-apple-container-isolation.html",
+      "path": "posts/2026-02-01-show-hn-nanoclaw-clawdbot-in-500-lines-of-ts-with-apple-container-isolation.html",
+      "date_iso": "2026-02-01T22:49:22+00:00",
+      "source": "https://github.com/gavrielc/nanoclaw",
+      "summary": "I’ve been running Clawdbot for the last couple weeks and have genuinely found it useful but running it scares the crap out of me. OpenClaw has 52+ modules and runs agents with near-unlimited permissions in a single Node process. NanoClaw is ~500 lines of core code, agents run in…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46849926",
+      "title": "Treasures found on HS2 route stored in secret warehouse",
+      "slug": "2026-02-01-treasures-found-on-hs2-route-stored-in-secret-warehouse.html",
+      "path": "posts/2026-02-01-treasures-found-on-hs2-route-stored-in-secret-warehouse.html",
+      "date_iso": "2026-02-01T22:14:39+00:00",
+      "source": "https://www.bbc.com/news/articles/c93v21q5xdvo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c93v21q5xdvo Comments URL: https://news.ycombinator.com/item?id=46849926 Points: 50 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46849567",
+      "title": "Defeating a 40-year-old copy protection dongle",
+      "slug": "2026-02-01-defeating-a-40-year-old-copy-protection-dongle.html",
+      "path": "posts/2026-02-01-defeating-a-40-year-old-copy-protection-dongle.html",
+      "date_iso": "2026-02-01T21:30:51+00:00",
+      "source": "https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle",
+      "summary": "Article URL: https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle Comments URL: https://news.ycombinator.com/item?id=46849567 Points: 435 # Comments: 124"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46849258",
+      "title": "My iPhone 16 Pro Max produces garbage output when running MLX LLMs",
+      "slug": "2026-02-01-my-iphone-16-pro-max-produces-garbage-output-when-running-mlx-llms.html",
+      "path": "posts/2026-02-01-my-iphone-16-pro-max-produces-garbage-output-when-running-mlx-llms.html",
+      "date_iso": "2026-02-01T20:51:56+00:00",
+      "source": "https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/",
+      "summary": "Article URL: https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/ Comments URL: https://news.ycombinator.com/item?id=46849258 Points: 249 # Comments: 119"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46849154",
+      "title": "Building Your Own Efficient uint128 in C++",
+      "slug": "2026-02-01-building-your-own-efficient-uint128-in-c.html",
+      "path": "posts/2026-02-01-building-your-own-efficient-uint128-in-c.html",
+      "date_iso": "2026-02-01T20:40:45+00:00",
+      "source": "https://solidean.com/blog/2026/building-your-own-u128/",
+      "summary": "Article URL: https://solidean.com/blog/2026/building-your-own-u128/ Comments URL: https://news.ycombinator.com/item?id=46849154 Points: 60 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46848260",
+      "title": "Clearspace (YC W23) Is Hiring an Applied Researcher (ML)",
+      "slug": "2026-02-01-clearspace-yc-w23-is-hiring-an-applied-researcher-ml.html",
+      "path": "posts/2026-02-01-clearspace-yc-w23-is-hiring-an-applied-researcher-ml.html",
+      "date_iso": "2026-02-01T18:41:54+00:00",
+      "source": "https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace",
+      "summary": "Article URL: https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace Comments URL: https://news.ycombinator.com/item?id=46848260 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46848231",
+      "title": "Ian's Shoelace Site",
+      "slug": "2026-02-01-ian-s-shoelace-site.html",
+      "path": "posts/2026-02-01-ian-s-shoelace-site.html",
+      "date_iso": "2026-02-01T18:38:04+00:00",
+      "source": "https://www.fieggen.com/shoelace/",
+      "summary": "Article URL: https://www.fieggen.com/shoelace/ Comments URL: https://news.ycombinator.com/item?id=46848231 Points: 112 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46847958",
+      "title": "Towards a science of scaling agent systems: When and why agent systems work",
+      "slug": "2026-02-01-towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work.html",
+      "path": "posts/2026-02-01-towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work.html",
+      "date_iso": "2026-02-01T18:00:30+00:00",
+      "source": "https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/",
+      "summary": "Article URL: https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/ Comments URL: https://news.ycombinator.com/item?id=46847958 Points: 76 # Comments: 24"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46847924",
+      "title": "A Crisis comes to Wordle: Reusing old words",
+      "slug": "2026-02-01-a-crisis-comes-to-wordle-reusing-old-words.html",
+      "path": "posts/2026-02-01-a-crisis-comes-to-wordle-reusing-old-words.html",
+      "date_iso": "2026-02-01T17:54:55+00:00",
+      "source": "https://forkingmad.blog/wordle-crisis/",
+      "summary": "Article URL: https://forkingmad.blog/wordle-crisis/ Comments URL: https://news.ycombinator.com/item?id=46847924 Points: 82 # Comments: 89"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46847780",
+      "title": "Apple I Advertisement (1976)",
+      "slug": "2026-02-01-apple-i-advertisement-1976.html",
+      "path": "posts/2026-02-01-apple-i-advertisement-1976.html",
+      "date_iso": "2026-02-01T17:36:57+00:00",
+      "source": "http://apple1.chez.com/Apple1project/Gallery/Gallery.htm",
+      "summary": "https://computerhistory.org/wp-content/uploads/2019/10/Apple... Comments URL: https://news.ycombinator.com/item?id=46847780 Points: 218 # Comments: 126"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46846252",
+      "title": "Adventure Game Studio: OSS software for creating adventure games",
+      "slug": "2026-02-01-adventure-game-studio-oss-software-for-creating-adventure-games.html",
+      "path": "posts/2026-02-01-adventure-game-studio-oss-software-for-creating-adventure-games.html",
+      "date_iso": "2026-02-01T13:56:56+00:00",
+      "source": "https://www.adventuregamestudio.co.uk/",
+      "summary": "Article URL: https://www.adventuregamestudio.co.uk/ Comments URL: https://news.ycombinator.com/item?id=46846252 Points: 302 # Comments: 56"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46845244",
+      "title": "Amiga Unix (Amix)",
+      "slug": "2026-02-01-amiga-unix-amix.html",
+      "path": "posts/2026-02-01-amiga-unix-amix.html",
+      "date_iso": "2026-02-01T10:57:20+00:00",
+      "source": "https://www.amigaunix.com/doku.php/home",
+      "summary": "Article URL: https://www.amigaunix.com/doku.php/home Comments URL: https://news.ycombinator.com/item?id=46845244 Points: 120 # Comments: 51"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46843037",
       "title": "Apple-1 Computer Prototype Board #0 sold for $2.75M",
       "slug": "2026-02-01-apple-1-computer-prototype-board-0-sold-for-2-75m.html",
