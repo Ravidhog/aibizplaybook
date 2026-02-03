@@ -1,6 +1,213 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46866544",
+      "title": "Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition",
+      "slug": "2026-02-03-floppinux-an-embedded-linux-on-a-single-floppy-2025-edition.html",
+      "path": "posts/2026-02-03-floppinux-an-embedded-linux-on-a-single-floppy-2025-edition.html",
+      "date_iso": "2026-02-03T04:33:25+00:00",
+      "source": "https://krzysztofjankowski.com/floppinux/floppinux-2025.html",
+      "summary": "Article URL: https://krzysztofjankowski.com/floppinux/floppinux-2025.html Comments URL: https://news.ycombinator.com/item?id=46866544 Points: 74 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46866481",
+      "title": "Coding assistants are solving the wrong problem",
+      "slug": "2026-02-03-coding-assistants-are-solving-the-wrong-problem.html",
+      "path": "posts/2026-02-03-coding-assistants-are-solving-the-wrong-problem.html",
+      "date_iso": "2026-02-03T04:25:35+00:00",
+      "source": "https://www.bicameral-ai.com/blog/introducing-bicameral",
+      "summary": "Article URL: https://www.bicameral-ai.com/blog/introducing-bicameral Comments URL: https://news.ycombinator.com/item?id=46866481 Points: 65 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46866385",
+      "title": "Frog 'saunas' could help endangered species beat a deadly fungus (2024)",
+      "slug": "2026-02-03-frog-saunas-could-help-endangered-species-beat-a-deadly-fungus-2024.html",
+      "path": "posts/2026-02-03-frog-saunas-could-help-endangered-species-beat-a-deadly-fungus-2024.html",
+      "date_iso": "2026-02-03T04:12:16+00:00",
+      "source": "https://www.science.org/content/article/frog-saunas-could-help-endangered-species-beat-deadly-fungus",
+      "summary": "Article URL: https://www.science.org/content/article/frog-saunas-could-help-endangered-species-beat-deadly-fungus Comments URL: https://news.ycombinator.com/item?id=46866385 Points: 7 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46866165",
+      "title": "Ask HN: Anyone else struggle with how to learn coding in the AI era?",
+      "slug": "2026-02-03-ask-hn-anyone-else-struggle-with-how-to-learn-coding-in-the-ai-era.html",
+      "path": "posts/2026-02-03-ask-hn-anyone-else-struggle-with-how-to-learn-coding-in-the-ai-era.html",
+      "date_iso": "2026-02-03T03:39:12+00:00",
+      "source": "https://news.ycombinator.com/item?id=46866165",
+      "summary": "I'm someone who got into building/programming in early 2025, when vibe coding tools became more usable. Since then, I'd like to think that I have developed a lot as a programmer, but I still have this deep sense of imposter syndrome / worry that AI is too much of a crutch and I'…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46866149",
+      "title": "Ask HN: Where do all the web devs talk?",
+      "slug": "2026-02-03-ask-hn-where-do-all-the-web-devs-talk.html",
+      "path": "posts/2026-02-03-ask-hn-where-do-all-the-web-devs-talk.html",
+      "date_iso": "2026-02-03T03:37:36+00:00",
+      "source": "https://news.ycombinator.com/item?id=46866149",
+      "summary": "I've been using Twitter / X for a good decade now, and while I've found it's a great place to connect with native app dev communities (I'm well connected with the React Native scene), I really struggle to connect with any web devs. There are a few big names like Adam Wathan who…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/02/technology/spacex-xai-deal.html",
+      "title": "Elon Musk Merges SpaceX With His A.I. Start-Up xAI",
+      "slug": "2026-02-03-elon-musk-merges-spacex-with-his-a-i-start-up-xai.html",
+      "path": "posts/2026-02-03-elon-musk-merges-spacex-with-his-a-i-start-up-xai.html",
+      "date_iso": "2026-02-03T02:22:02+00:00",
+      "source": "https://www.nytimes.com/2026/02/02/technology/spacex-xai-deal.html",
+      "summary": "SpaceX’s rocket facility in Boca Chica, Texas."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46864498",
+      "title": "How does misalignment scale with model intelligence and task complexity?",
+      "slug": "2026-02-03-how-does-misalignment-scale-with-model-intelligence-and-task-complexity.html",
+      "path": "posts/2026-02-03-how-does-misalignment-scale-with-model-intelligence-and-task-complexity.html",
+      "date_iso": "2026-02-03T00:28:06+00:00",
+      "source": "https://alignment.anthropic.com/2026/hot-mess-of-ai/",
+      "summary": "Article URL: https://alignment.anthropic.com/2026/hot-mess-of-ai/ Comments URL: https://news.ycombinator.com/item?id=46864498 Points: 168 # Comments: 45"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/02/business/waymo-funding-growth.html",
+      "title": "Waymo Raises $16 Billion to Fuel Global Ambitions",
+      "slug": "2026-02-03-waymo-raises-16-billion-to-fuel-global-ambitions.html",
+      "path": "posts/2026-02-03-waymo-raises-16-billion-to-fuel-global-ambitions.html",
+      "date_iso": "2026-02-03T00:21:34+00:00",
+      "source": "https://www.nytimes.com/2026/02/02/business/waymo-funding-growth.html",
+      "summary": "Waymo, Alphabet’s driverless car outfit, said it was now valued at $126 billion."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46863357",
+      "title": "Julia",
+      "slug": "2026-02-02-julia.html",
+      "path": "posts/2026-02-02-julia.html",
+      "date_iso": "2026-02-02T22:57:59+00:00",
+      "source": "https://borretti.me/fiction/julia",
+      "summary": "Article URL: https://borretti.me/fiction/julia Comments URL: https://news.ycombinator.com/item?id=46863357 Points: 98 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46863162",
+      "title": "The TSA's New $45 Fee to Fly Without ID Is Illegal",
+      "slug": "2026-02-02-the-tsa-s-new-45-fee-to-fly-without-id-is-illegal.html",
+      "path": "posts/2026-02-02-the-tsa-s-new-45-fee-to-fly-without-id-is-illegal.html",
+      "date_iso": "2026-02-02T22:48:10+00:00",
+      "source": "https://www.frommers.com/tips/airfare/the-tsa-new-45-fee-to-fly-without-id-is-illegal-says-regulatory-expert/",
+      "summary": "Article URL: https://www.frommers.com/tips/airfare/the-tsa-new-45-fee-to-fly-without-id-is-illegal-says-regulatory-expert/ Comments URL: https://news.ycombinator.com/item?id=46863162 Points: 365 # Comments: 406"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46863112",
+      "title": "Court orders restart of all US offshore wind power construction",
+      "slug": "2026-02-02-court-orders-restart-of-all-us-offshore-wind-power-construction.html",
+      "path": "posts/2026-02-02-court-orders-restart-of-all-us-offshore-wind-power-construction.html",
+      "date_iso": "2026-02-02T22:45:04+00:00",
+      "source": "https://arstechnica.com/science/2026/02/court-orders-restart-of-all-us-offshore-wind-construction/",
+      "summary": "Article URL: https://arstechnica.com/science/2026/02/court-orders-restart-of-all-us-offshore-wind-construction/ Comments URL: https://news.ycombinator.com/item?id=46863112 Points: 330 # Comments: 193"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46862170",
+      "title": "xAI joins SpaceX",
+      "slug": "2026-02-02-xai-joins-spacex.html",
+      "path": "posts/2026-02-02-xai-joins-spacex.html",
+      "date_iso": "2026-02-02T21:51:22+00:00",
+      "source": "https://www.spacex.com/updates#xai-joins-spacex",
+      "summary": "Article URL: https://www.spacex.com/updates#xai-joins-spacex Comments URL: https://news.ycombinator.com/item?id=46862170 Points: 647 # Comments: 1406"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46861842",
+      "title": "GitHub experience various partial-outages/degradations",
+      "slug": "2026-02-02-github-experience-various-partial-outages-degradations.html",
+      "path": "posts/2026-02-02-github-experience-various-partial-outages-degradations.html",
+      "date_iso": "2026-02-02T21:28:16+00:00",
+      "source": "https://www.githubstatus.com?todayis=2026-02-02",
+      "summary": "Article URL: https://www.githubstatus.com?todayis=2026-02-02 Comments URL: https://news.ycombinator.com/item?id=46861842 Points: 196 # Comments: 62"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46861313",
+      "title": "Anki ownership transferred to AnkiHub",
+      "slug": "2026-02-02-anki-ownership-transferred-to-ankihub.html",
+      "path": "posts/2026-02-02-anki-ownership-transferred-to-ankihub.html",
+      "date_iso": "2026-02-02T20:48:55+00:00",
+      "source": "https://forums.ankiweb.net/t/ankis-growing-up/68610",
+      "summary": "Article URL: https://forums.ankiweb.net/t/ankis-growing-up/68610 Comments URL: https://news.ycombinator.com/item?id=46861313 Points: 339 # Comments: 86"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/02/technology/moltbook-ai-social-media.html",
+      "title": "A Social Network for A.I. Bots Only. No Humans Allowed.",
+      "slug": "2026-02-02-a-social-network-for-a-i-bots-only-no-humans-allowed.html",
+      "path": "posts/2026-02-02-a-social-network-for-a-i-bots-only-no-humans-allowed.html",
+      "date_iso": "2026-02-02T19:47:54+00:00",
+      "source": "https://www.nytimes.com/2026/02/02/technology/moltbook-ai-social-media.html",
+      "summary": "Just two days after the social network Moltbook was launched, more than 10,000 “Moltbots” were chatting with one another on the site."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46859054",
+      "title": "The Codex App",
+      "slug": "2026-02-02-the-codex-app.html",
+      "path": "posts/2026-02-02-the-codex-app.html",
+      "date_iso": "2026-02-02T18:02:48+00:00",
+      "source": "https://openai.com/index/introducing-the-codex-app/",
+      "summary": "Article URL: https://openai.com/index/introducing-the-codex-app/ Comments URL: https://news.ycombinator.com/item?id=46859054 Points: 629 # Comments: 444"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46858829",
+      "title": "Linux From Scratch ends SysVinit support",
+      "slug": "2026-02-02-linux-from-scratch-ends-sysvinit-support.html",
+      "path": "posts/2026-02-02-linux-from-scratch-ends-sysvinit-support.html",
+      "date_iso": "2026-02-02T17:45:27+00:00",
+      "source": "https://lists.linuxfromscratch.org/sympa/arc/lfs-announce/2026-02/msg00000.html",
+      "summary": "Article URL: https://lists.linuxfromscratch.org/sympa/arc/lfs-announce/2026-02/msg00000.html Comments URL: https://news.ycombinator.com/item?id=46858829 Points: 141 # Comments: 183"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46858622",
+      "title": "Zig Libc",
+      "slug": "2026-02-02-zig-libc.html",
+      "path": "posts/2026-02-02-zig-libc.html",
+      "date_iso": "2026-02-02T17:28:19+00:00",
+      "source": "https://ziglang.org/devlog/2026/#2026-01-31",
+      "summary": "Article URL: https://ziglang.org/devlog/2026/#2026-01-31 Comments URL: https://news.ycombinator.com/item?id=46858622 Points: 221 # Comments: 97"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46858577",
+      "title": "Todd C. Miller – Sudo maintainer for over 30 years",
+      "slug": "2026-02-02-todd-c-miller-sudo-maintainer-for-over-30-years.html",
+      "path": "posts/2026-02-02-todd-c-miller-sudo-maintainer-for-over-30-years.html",
+      "date_iso": "2026-02-02T17:25:26+00:00",
+      "source": "https://www.millert.dev/",
+      "summary": "Article URL: https://www.millert.dev/ Comments URL: https://news.ycombinator.com/item?id=46858577 Points: 390 # Comments: 202"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46857615",
+      "title": "Hacking Moltbook",
+      "slug": "2026-02-02-hacking-moltbook.html",
+      "path": "posts/2026-02-02-hacking-moltbook.html",
+      "date_iso": "2026-02-02T16:08:36+00:00",
+      "source": "https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys",
+      "summary": "https://www.reuters.com/legal/litigation/moltbook-social-med... Comments URL: https://news.ycombinator.com/item?id=46857615 Points: 301 # Comments: 169"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46857488",
+      "title": "Ask HN: Who is hiring? (February 2026)",
+      "slug": "2026-02-02-ask-hn-who-is-hiring-february-2026.html",
+      "path": "posts/2026-02-02-ask-hn-who-is-hiring-february-2026.html",
+      "date_iso": "2026-02-02T16:01:30+00:00",
+      "source": "https://news.ycombinator.com/item?id=46857488",
+      "summary": "Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option. Please only post if you personally are part of the hiring company—no recruiting firms or job boards. One post per comp…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46855447",
+      "title": "Nano-vLLM: How a vLLM-style inference engine works",
+      "slug": "2026-02-02-nano-vllm-how-a-vllm-style-inference-engine-works.html",
+      "path": "posts/2026-02-02-nano-vllm-how-a-vllm-style-inference-engine-works.html",
+      "date_iso": "2026-02-02T12:52:35+00:00",
+      "source": "https://neutree.ai/blog/nano-vllm-part-1",
+      "summary": "Article URL: https://neutree.ai/blog/nano-vllm-part-1 Comments URL: https://news.ycombinator.com/item?id=46855447 Points: 238 # Comments: 24"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/02/business/china-ai-regulations.html",
+      "title": "Move Fast, but Obey the Rules: China’s Vision for Dominating A.I.",
+      "slug": "2026-02-02-move-fast-but-obey-the-rules-china-s-vision-for-dominating-a-i.html",
+      "path": "posts/2026-02-02-move-fast-but-obey-the-rules-china-s-vision-for-dominating-a-i.html",
+      "date_iso": "2026-02-02T07:30:51+00:00",
+      "source": "https://www.nytimes.com/2026/02/02/business/china-ai-regulations.html",
+      "summary": "Executives at Zhipu AI, one of China’s most promising A.I. start-ups, alongside others, at a launch event at the Hong Kong Stock Exchange last month."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46852660",
       "title": "Leaked Chats Expose the Daily Life of a Scam Compound's Enslaved Workforce",
       "slug": "2026-02-02-leaked-chats-expose-the-daily-life-of-a-scam-compound-s-enslaved-workforce.html",
@@ -134,6 +341,15 @@
       "date_iso": "2026-02-01T18:38:04+00:00",
       "source": "https://www.fieggen.com/shoelace/",
       "summary": "Article URL: https://www.fieggen.com/shoelace/ Comments URL: https://news.ycombinator.com/item?id=46848231 Points: 112 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46848060",
+      "title": "Pretty soon, heat pumps will be able to store and distribute heat as needed",
+      "slug": "2026-02-01-pretty-soon-heat-pumps-will-be-able-to-store-and-distribute-heat-as-needed.html",
+      "path": "posts/2026-02-01-pretty-soon-heat-pumps-will-be-able-to-store-and-distribute-heat-as-needed.html",
+      "date_iso": "2026-02-01T18:15:40+00:00",
+      "source": "https://www.sintef.no/en/latest-news/2026/pretty-soon-heat-pumps-will-be-able-to-store-and-distribute-heat-as-needed/",
+      "summary": "Article URL: https://www.sintef.no/en/latest-news/2026/pretty-soon-heat-pumps-will-be-able-to-store-and-distribute-heat-as-needed/ Comments URL: https://news.ycombinator.com/item?id=46848060 Points: 182 # Comments: 153"
     },
     {
       "id": "https://news.ycombinator.com/item?id=46847958",
