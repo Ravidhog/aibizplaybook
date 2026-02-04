@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46882184",
+      "title": "The full history of Windows widgets, from 1997 to today",
+      "slug": "2026-02-04-the-full-history-of-windows-widgets-from-1997-to-today.html",
+      "path": "posts/2026-02-04-the-full-history-of-windows-widgets-from-1997-to-today.html",
+      "date_iso": "2026-02-04T06:22:58+00:00",
+      "source": "https://xakpc.dev/windows-widgets/history/",
+      "summary": "Article URL: https://xakpc.dev/windows-widgets/history/ Comments URL: https://news.ycombinator.com/item?id=46882184 Points: 19 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46881568",
+      "title": "Petition for Recognition of Work on Open-Source as Volunteering in Germany",
+      "slug": "2026-02-04-petition-for-recognition-of-work-on-open-source-as-volunteering-in-germany.html",
+      "path": "posts/2026-02-04-petition-for-recognition-of-work-on-open-source-as-volunteering-in-germany.html",
+      "date_iso": "2026-02-04T04:46:15+00:00",
+      "source": "https://www.openpetition.de/petition/online/recognition-of-work-on-open-source-as-volunteering-in-germany",
+      "summary": "Article URL: https://www.openpetition.de/petition/online/recognition-of-work-on-open-source-as-volunteering-in-germany Comments URL: https://news.ycombinator.com/item?id=46881568 Points: 159 # Comments: 24"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46881264",
+      "title": "I miss thinking hard",
+      "slug": "2026-02-04-i-miss-thinking-hard.html",
+      "path": "posts/2026-02-04-i-miss-thinking-hard.html",
+      "date_iso": "2026-02-04T03:54:11+00:00",
+      "source": "https://www.jernesto.com/articles/thinking_hard",
+      "summary": "Article URL: https://www.jernesto.com/articles/thinking_hard Comments URL: https://news.ycombinator.com/item?id=46881264 Points: 315 # Comments: 175"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/03/business/media/netflix-sarandos-warner-senate-hearing.html",
+      "title": "Netflix Leader Pushes Warner Deal Before Skeptical Lawmakers",
+      "slug": "2026-02-03-netflix-leader-pushes-warner-deal-before-skeptical-lawmakers.html",
+      "path": "posts/2026-02-03-netflix-leader-pushes-warner-deal-before-skeptical-lawmakers.html",
+      "date_iso": "2026-02-03T23:47:39+00:00",
+      "source": "https://www.nytimes.com/2026/02/03/business/media/netflix-sarandos-warner-senate-hearing.html",
+      "summary": "Ted Sarandos, left, a co-chief executive of Netflix, told a Senate subcommittee on Tuesday that “we’ll keep growing the American entertainment industry.”"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46878338",
+      "title": "Notepad++ supply chain attack breakdown",
+      "slug": "2026-02-03-notepad-supply-chain-attack-breakdown.html",
+      "path": "posts/2026-02-03-notepad-supply-chain-attack-breakdown.html",
+      "date_iso": "2026-02-03T22:35:27+00:00",
+      "source": "https://securelist.com/notepad-supply-chain-attack/118708/",
+      "summary": "Article URL: https://securelist.com/notepad-supply-chain-attack/118708/ Comments URL: https://news.ycombinator.com/item?id=46878338 Points: 264 # Comments: 121"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46877403",
+      "title": "FlashAttention-T: Towards Tensorized Attention",
+      "slug": "2026-02-03-flashattention-t-towards-tensorized-attention.html",
+      "path": "posts/2026-02-03-flashattention-t-towards-tensorized-attention.html",
+      "date_iso": "2026-02-03T21:15:48+00:00",
+      "source": "https://dl.acm.org/doi/10.1145/3774934.3786425",
+      "summary": "Article URL: https://dl.acm.org/doi/10.1145/3774934.3786425 Comments URL: https://news.ycombinator.com/item?id=46877403 Points: 91 # Comments: 50"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/03/world/europe/spain-social-media-ban-under-16.html",
+      "title": "Spain Aims to Ban Social Media for Children Under 16",
+      "slug": "2026-02-03-spain-aims-to-ban-social-media-for-children-under-16.html",
+      "path": "posts/2026-02-03-spain-aims-to-ban-social-media-for-children-under-16.html",
+      "date_iso": "2026-02-03T21:15:35+00:00",
+      "source": "https://www.nytimes.com/2026/02/03/world/europe/spain-social-media-ban-under-16.html",
+      "summary": "A child playing on a phone in Barcelona in 2024. Prime Minister Pedro Sánchez of Spain said the social media ban would be part of a series of measures pushed by his government."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/03/technology/trump-statue-don-colossus.html",
+      "title": "‘Don Colossus,’ a Golden Statue of President Trump, Waits for Its Home",
+      "slug": "2026-02-03-don-colossus-a-golden-statue-of-president-trump-waits-for-its-home.html",
+      "path": "posts/2026-02-03-don-colossus-a-golden-statue-of-president-trump-waits-for-its-home.html",
+      "date_iso": "2026-02-03T20:53:42+00:00",
+      "source": "https://www.nytimes.com/2026/02/03/technology/trump-statue-don-colossus.html",
+      "summary": "A group of cryptocurrency investors backing a memecoin hopes the statue will soon be installed at one of Mr. Trump’s golf courses in Florida."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46876105",
+      "title": "Data centers in space makes no sense",
+      "slug": "2026-02-03-data-centers-in-space-makes-no-sense.html",
+      "path": "posts/2026-02-03-data-centers-in-space-makes-no-sense.html",
+      "date_iso": "2026-02-03T19:37:30+00:00",
+      "source": "https://civai.org/blog/space-data-centers",
+      "summary": "Article URL: https://civai.org/blog/space-data-centers Comments URL: https://news.ycombinator.com/item?id=46876105 Points: 492 # Comments: 596"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46875228",
+      "title": "AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines",
+      "slug": "2026-02-03-alisql-alibaba-s-open-source-mysql-with-vector-and-duckdb-engines.html",
+      "path": "posts/2026-02-03-alisql-alibaba-s-open-source-mysql-with-vector-and-duckdb-engines.html",
+      "date_iso": "2026-02-03T18:40:18+00:00",
+      "source": "https://github.com/alibaba/AliSQL",
+      "summary": "Article URL: https://github.com/alibaba/AliSQL Comments URL: https://news.ycombinator.com/item?id=46875228 Points: 189 # Comments: 24"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46875033",
+      "title": "Y Combinator will let founders receive funds in stablecoins",
+      "slug": "2026-02-03-y-combinator-will-let-founders-receive-funds-in-stablecoins.html",
+      "path": "posts/2026-02-03-y-combinator-will-let-founders-receive-funds-in-stablecoins.html",
+      "date_iso": "2026-02-03T18:28:48+00:00",
+      "source": "https://fortune.com/2026/02/03/famed-startup-incubator-y-combinator-to-let-founders-receive-funds-in-stablecoins/",
+      "summary": "Article URL: https://fortune.com/2026/02/03/famed-startup-incubator-y-combinator-to-let-founders-receive-funds-in-stablecoins/ Comments URL: https://news.ycombinator.com/item?id=46875033 Points: 118 # Comments: 171"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46874619",
+      "title": "Xcode 26.3 – Developers can leverage coding agents directly in Xcode",
+      "slug": "2026-02-03-xcode-26-3-developers-can-leverage-coding-agents-directly-in-xcode.html",
+      "path": "posts/2026-02-03-xcode-26-3-developers-can-leverage-coding-agents-directly-in-xcode.html",
+      "date_iso": "2026-02-03T18:04:08+00:00",
+      "source": "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/ Comments URL: https://news.ycombinator.com/item?id=46874619 Points: 294 # Comments: 239"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46874097",
+      "title": "Deno Sandbox",
+      "slug": "2026-02-03-deno-sandbox.html",
+      "path": "posts/2026-02-03-deno-sandbox.html",
+      "date_iso": "2026-02-03T17:33:20+00:00",
+      "source": "https://deno.com/blog/introducing-deno-sandbox",
+      "summary": "Article URL: https://deno.com/blog/introducing-deno-sandbox Comments URL: https://news.ycombinator.com/item?id=46874097 Points: 398 # Comments: 129"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46873574",
+      "title": "221 Cannon is Not For Sale",
+      "slug": "2026-02-03-221-cannon-is-not-for-sale.html",
+      "path": "posts/2026-02-03-221-cannon-is-not-for-sale.html",
+      "date_iso": "2026-02-03T16:56:06+00:00",
+      "source": "https://fredbenenson.com/blog/2026/02/03/221-cannon-is-not-for-sale/",
+      "summary": "Article URL: https://fredbenenson.com/blog/2026/02/03/221-cannon-is-not-for-sale/ Comments URL: https://news.ycombinator.com/item?id=46873574 Points: 227 # Comments: 173"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46873539",
+      "title": "1 kilobyte is precisely 1000 bytes?",
+      "slug": "2026-02-03-1-kilobyte-is-precisely-1000-bytes.html",
+      "path": "posts/2026-02-03-1-kilobyte-is-precisely-1000-bytes.html",
+      "date_iso": "2026-02-03T16:53:50+00:00",
+      "source": "https://waspdev.com/articles/2026-01-11/kilobyte-is-1000-bytes",
+      "summary": "Article URL: https://waspdev.com/articles/2026-01-11/kilobyte-is-1000-bytes Comments URL: https://news.ycombinator.com/item?id=46873539 Points: 94 # Comments: 292"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46873294",
+      "title": "France dumps Zoom and Teams as Europe seeks digital autonomy from the US",
+      "slug": "2026-02-03-france-dumps-zoom-and-teams-as-europe-seeks-digital-autonomy-from-the-us.html",
+      "path": "posts/2026-02-03-france-dumps-zoom-and-teams-as-europe-seeks-digital-autonomy-from-the-us.html",
+      "date_iso": "2026-02-03T16:39:18+00:00",
+      "source": "https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060",
+      "summary": "Article URL: https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060 Comments URL: https://news.ycombinator.com/item?id=46873294 Points: 908 # Comments: 478"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46873138",
+      "title": "Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust",
+      "slug": "2026-02-03-prek-a-better-faster-drop-in-pre-commit-replacement-engineered-in-rust.html",
+      "path": "posts/2026-02-03-prek-a-better-faster-drop-in-pre-commit-replacement-engineered-in-rust.html",
+      "date_iso": "2026-02-03T16:29:34+00:00",
+      "source": "https://github.com/j178/prek",
+      "summary": "Article URL: https://github.com/j178/prek Comments URL: https://news.ycombinator.com/item?id=46873138 Points: 230 # Comments: 101"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46872706",
+      "title": "Qwen3-Coder-Next",
+      "slug": "2026-02-03-qwen3-coder-next.html",
+      "path": "posts/2026-02-03-qwen3-coder-next.html",
+      "date_iso": "2026-02-03T16:01:50+00:00",
+      "source": "https://qwen.ai/blog?id=qwen3-coder-next",
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen3-coder-next Comments URL: https://news.ycombinator.com/item?id=46872706 Points: 635 # Comments: 383"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46872540",
+      "title": "New York’s budget bill would require “blocking technology” on all 3D printers",
+      "slug": "2026-02-03-new-york-s-budget-bill-would-require-blocking-technology-on-all-3d-printers.html",
+      "path": "posts/2026-02-03-new-york-s-budget-bill-would-require-blocking-technology-on-all-3d-printers.html",
+      "date_iso": "2026-02-03T15:51:42+00:00",
+      "source": "https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/",
+      "summary": "Article URL: https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/ Comments URL: https://news.ycombinator.com/item?id=46872540 Points: 368 # Comments: 418"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/03/technology/minneapolis-ai-disinformation-misinformation-truth.html",
+      "title": "Chaos in Minneapolis Exposes an Internet at War With Truth",
+      "slug": "2026-02-03-chaos-in-minneapolis-exposes-an-internet-at-war-with-truth.html",
+      "path": "posts/2026-02-03-chaos-in-minneapolis-exposes-an-internet-at-war-with-truth.html",
+      "date_iso": "2026-02-03T14:19:53+00:00",
+      "source": "https://www.nytimes.com/2026/02/03/technology/minneapolis-ai-disinformation-misinformation-truth.html",
+      "summary": "Candles and flowers at the spot where federal agents shot and killed Alex Pretti during operations in Minneapolis."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46871173",
+      "title": "Agent Skills",
+      "slug": "2026-02-03-agent-skills.html",
+      "path": "posts/2026-02-03-agent-skills.html",
+      "date_iso": "2026-02-03T14:09:54+00:00",
+      "source": "https://agentskills.io/home",
+      "summary": "Article URL: https://agentskills.io/home Comments URL: https://news.ycombinator.com/item?id=46871173 Points: 442 # Comments: 222"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46870015",
+      "title": "Bunny Database",
+      "slug": "2026-02-03-bunny-database.html",
+      "path": "posts/2026-02-03-bunny-database.html",
+      "date_iso": "2026-02-03T12:13:44+00:00",
+      "source": "https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/",
+      "summary": "Article URL: https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/ Comments URL: https://news.ycombinator.com/item?id=46870015 Points: 279 # Comments: 112"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46869901",
+      "title": "Emerge Career (YC S22) is hiring a product designer",
+      "slug": "2026-02-03-emerge-career-yc-s22-is-hiring-a-product-designer.html",
+      "path": "posts/2026-02-03-emerge-career-yc-s22-is-hiring-a-product-designer.html",
+      "date_iso": "2026-02-03T12:00:23+00:00",
+      "source": "https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer Comments URL: https://news.ycombinator.com/item?id=46869901 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/03/business/energy-environment/siemens-energy-ai-power-demand.html",
+      "title": "Siemens Energy Bets $1 Billion That A.I. Power Demand Will Last",
+      "slug": "2026-02-03-siemens-energy-bets-1-billion-that-a-i-power-demand-will-last.html",
+      "path": "posts/2026-02-03-siemens-energy-bets-1-billion-that-a-i-power-demand-will-last.html",
+      "date_iso": "2026-02-03T11:00:16+00:00",
+      "source": "https://www.nytimes.com/2026/02/03/business/energy-environment/siemens-energy-ai-power-demand.html",
+      "summary": "A Siemens Energy factory in Berlin in 2017. The company is one of the world’s biggest manufacturers of gas turbines."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46868998",
+      "title": "X offices raided in France as UK opens fresh investigation into Grok",
+      "slug": "2026-02-03-x-offices-raided-in-france-as-uk-opens-fresh-investigation-into-grok.html",
+      "path": "posts/2026-02-03-x-offices-raided-in-france-as-uk-opens-fresh-investigation-into-grok.html",
+      "date_iso": "2026-02-03T10:08:52+00:00",
+      "source": "https://www.bbc.com/news/articles/ce3ex92557jo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/ce3ex92557jo Comments URL: https://news.ycombinator.com/item?id=46868998 Points: 313 # Comments: 513"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46866544",
       "title": "Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition",
       "slug": "2026-02-03-floppinux-an-embedded-linux-on-a-single-floppy-2025-edition.html",
@@ -53,6 +278,15 @@
       "date_iso": "2026-02-03T02:22:02+00:00",
       "source": "https://www.nytimes.com/2026/02/02/technology/spacex-xai-deal.html",
       "summary": "SpaceX’s rocket facility in Boca Chica, Texas."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/02/business/trump-critical-minerals-stockpile.html",
+      "title": "Trump Unveils $12 Billion Critical Minerals Stockpile",
+      "slug": "2026-02-03-trump-unveils-12-billion-critical-minerals-stockpile.html",
+      "path": "posts/2026-02-03-trump-unveils-12-billion-critical-minerals-stockpile.html",
+      "date_iso": "2026-02-03T00:57:15+00:00",
+      "source": "https://www.nytimes.com/2026/02/02/business/trump-critical-minerals-stockpile.html",
+      "summary": "A rare earth mine in Mountain Pass, Calif. The United States is working to develop its own supply chain for critical minerals."
     },
     {
       "id": "https://news.ycombinator.com/item?id=46864498",
