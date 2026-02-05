@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46896146",
+      "title": "Don't rent the cloud, own instead",
+      "slug": "2026-02-05-don-t-rent-the-cloud-own-instead.html",
+      "path": "posts/2026-02-05-don-t-rent-the-cloud-own-instead.html",
+      "date_iso": "2026-02-05T05:50:01+00:00",
+      "source": "https://blog.comma.ai/datacenter/",
+      "summary": "Article URL: https://blog.comma.ai/datacenter/ Comments URL: https://news.ycombinator.com/item?id=46896146 Points: 93 # Comments: 28"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46895972",
+      "title": "When internal hostnames are leaked to the clown",
+      "slug": "2026-02-05-when-internal-hostnames-are-leaked-to-the-clown.html",
+      "path": "posts/2026-02-05-when-internal-hostnames-are-leaked-to-the-clown.html",
+      "date_iso": "2026-02-05T05:22:36+00:00",
+      "source": "https://rachelbythebay.com/w/2026/02/03/badnas/",
+      "summary": "Article URL: https://rachelbythebay.com/w/2026/02/03/badnas/ Comments URL: https://news.ycombinator.com/item?id=46895972 Points: 120 # Comments: 55"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46895950",
+      "title": "Study: Older Cannabis Users Have Larger Brains, Better Cognition",
+      "slug": "2026-02-05-study-older-cannabis-users-have-larger-brains-better-cognition.html",
+      "path": "posts/2026-02-05-study-older-cannabis-users-have-larger-brains-better-cognition.html",
+      "date_iso": "2026-02-05T05:18:42+00:00",
+      "source": "https://news.cuanschutz.edu/news-stories/study-finds-cannabis-usage-in-middle-aged-and-older-adults-associated-with-larger-brain-volume-better-cognitive-function",
+      "summary": "Article URL: https://news.cuanschutz.edu/news-stories/study-finds-cannabis-usage-in-middle-aged-and-older-adults-associated-with-larger-brain-volume-better-cognitive-function Comments URL: https://news.ycombinator.com/item?id=46895950 Points: 4 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46895860",
+      "title": "ICE seeks industry input on ad tech location data for investigative use",
+      "slug": "2026-02-05-ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use.html",
+      "path": "posts/2026-02-05-ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use.html",
+      "date_iso": "2026-02-05T05:02:01+00:00",
+      "source": "https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use",
+      "summary": "Article URL: https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use Comments URL: https://news.ycombinator.com/item?id=46895860 Points: 150 # Comments: 67"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46895388",
+      "title": "A few CPU hardware bugs",
+      "slug": "2026-02-05-a-few-cpu-hardware-bugs.html",
+      "path": "posts/2026-02-05-a-few-cpu-hardware-bugs.html",
+      "date_iso": "2026-02-05T03:39:43+00:00",
+      "source": "https://www.taricorp.net/2026/a-few-cpu-bugs/",
+      "summary": "Article URL: https://www.taricorp.net/2026/a-few-cpu-bugs/ Comments URL: https://news.ycombinator.com/item?id=46895388 Points: 33 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46895381",
+      "title": "Wirth's Revenge",
+      "slug": "2026-02-05-wirth-s-revenge.html",
+      "path": "posts/2026-02-05-wirth-s-revenge.html",
+      "date_iso": "2026-02-05T03:38:26+00:00",
+      "source": "https://jmoiron.net/blog/wirths-revenge/",
+      "summary": "Article URL: https://jmoiron.net/blog/wirths-revenge/ Comments URL: https://news.ycombinator.com/item?id=46895381 Points: 20 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46895144",
+      "title": "A tale of two flows: Metaflow and Kubeflow",
+      "slug": "2026-02-05-a-tale-of-two-flows-metaflow-and-kubeflow.html",
+      "path": "posts/2026-02-05-a-tale-of-two-flows-metaflow-and-kubeflow.html",
+      "date_iso": "2026-02-05T03:06:32+00:00",
+      "source": "https://blog.kubeflow.org/metaflow/",
+      "summary": "Article URL: https://blog.kubeflow.org/metaflow/ Comments URL: https://news.ycombinator.com/item?id=46895144 Points: 14 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46894815",
+      "title": "Child prodigies rarely become elite performers",
+      "slug": "2026-02-05-child-prodigies-rarely-become-elite-performers.html",
+      "path": "posts/2026-02-05-child-prodigies-rarely-become-elite-performers.html",
+      "date_iso": "2026-02-05T02:17:08+00:00",
+      "source": "https://www.economist.com/science-and-technology/2026/01/14/why-child-prodigies-rarely-become-elite-performers",
+      "summary": "https://archive.md/dhAJl Comments URL: https://news.ycombinator.com/item?id=46894815 Points: 105 # Comments: 83"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46893970",
+      "title": "OpenClaw is what Apple intelligence should have been",
+      "slug": "2026-02-05-openclaw-is-what-apple-intelligence-should-have-been.html",
+      "path": "posts/2026-02-05-openclaw-is-what-apple-intelligence-should-have-been.html",
+      "date_iso": "2026-02-05T00:28:06+00:00",
+      "source": "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been",
+      "summary": "Article URL: https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been Comments URL: https://news.ycombinator.com/item?id=46893970 Points: 283 # Comments: 249"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46893411",
+      "title": "Why more companies are recognizing the benefits of keeping older employees",
+      "slug": "2026-02-04-why-more-companies-are-recognizing-the-benefits-of-keeping-older-employees.html",
+      "path": "posts/2026-02-04-why-more-companies-are-recognizing-the-benefits-of-keeping-older-employees.html",
+      "date_iso": "2026-02-04T23:26:23+00:00",
+      "source": "https://longevity.stanford.edu/why-more-companies-are-recognizing-the-benefits-of-keeping-older-employees/",
+      "summary": "Article URL: https://longevity.stanford.edu/why-more-companies-are-recognizing-the-benefits-of-keeping-older-employees/ Comments URL: https://news.ycombinator.com/item?id=46893411 Points: 109 # Comments: 39"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/04/world/europe/social-media-free-speech.html",
+      "title": "France’s Raid on X Escalates Trans-Atlantic Showdown Over Social Media",
+      "slug": "2026-02-04-france-s-raid-on-x-escalates-trans-atlantic-showdown-over-social-media.html",
+      "path": "posts/2026-02-04-france-s-raid-on-x-escalates-trans-atlantic-showdown-over-social-media.html",
+      "date_iso": "2026-02-04T23:08:40+00:00",
+      "source": "https://www.nytimes.com/2026/02/04/world/europe/social-media-free-speech.html",
+      "summary": "A poster in London featuring an image of Elon Musk, calling for X users to delete their accounts."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46889703",
+      "title": "Claude Code for Infrastructure",
+      "slug": "2026-02-04-claude-code-for-infrastructure.html",
+      "path": "posts/2026-02-04-claude-code-for-infrastructure.html",
+      "date_iso": "2026-02-04T18:34:08+00:00",
+      "source": "https://www.fluid.sh/",
+      "summary": "Article URL: https://www.fluid.sh/ Comments URL: https://news.ycombinator.com/item?id=46889703 Points: 201 # Comments: 147"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46889008",
+      "title": "The Great Unwind",
+      "slug": "2026-02-04-the-great-unwind.html",
+      "path": "posts/2026-02-04-the-great-unwind.html",
+      "date_iso": "2026-02-04T17:49:26+00:00",
+      "source": "https://occupywallst.com/yen",
+      "summary": "Article URL: https://occupywallst.com/yen Comments URL: https://news.ycombinator.com/item?id=46889008 Points: 245 # Comments: 212"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46888795",
+      "title": "Building a 24-bit arcade CRT display adapter from scratch",
+      "slug": "2026-02-04-building-a-24-bit-arcade-crt-display-adapter-from-scratch.html",
+      "path": "posts/2026-02-04-building-a-24-bit-arcade-crt-display-adapter-from-scratch.html",
+      "date_iso": "2026-02-04T17:35:05+00:00",
+      "source": "https://www.scd31.com/posts/building-an-arcade-display-adapter",
+      "summary": "Article URL: https://www.scd31.com/posts/building-an-arcade-display-adapter Comments URL: https://news.ycombinator.com/item?id=46888795 Points: 152 # Comments: 43"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46888441",
+      "title": "AI is killing B2B SaaS",
+      "slug": "2026-02-04-ai-is-killing-b2b-saas.html",
+      "path": "posts/2026-02-04-ai-is-killing-b2b-saas.html",
+      "date_iso": "2026-02-04T17:09:28+00:00",
+      "source": "https://nmn.gl/blog/ai-killing-b2b-saas",
+      "summary": "Article URL: https://nmn.gl/blog/ai-killing-b2b-saas Comments URL: https://news.ycombinator.com/item?id=46888441 Points: 319 # Comments: 496"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46888331",
+      "title": "Converge (YC S23) Is Hiring Product Engineers (NYC, In-Person)",
+      "slug": "2026-02-04-converge-yc-s23-is-hiring-product-engineers-nyc-in-person.html",
+      "path": "posts/2026-02-04-converge-yc-s23-is-hiring-product-engineers-nyc-in-person.html",
+      "date_iso": "2026-02-04T17:01:14+00:00",
+      "source": "https://www.runconverge.com/careers/product-engineer",
+      "summary": "Article URL: https://www.runconverge.com/careers/product-engineer Comments URL: https://news.ycombinator.com/item?id=46888331 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46888142",
+      "title": "RS-SDK: Drive RuneScape with Claude Code",
+      "slug": "2026-02-04-rs-sdk-drive-runescape-with-claude-code.html",
+      "path": "posts/2026-02-04-rs-sdk-drive-runescape-with-claude-code.html",
+      "date_iso": "2026-02-04T16:47:26+00:00",
+      "source": "https://github.com/MaxBittker/rs-sdk",
+      "summary": "Article URL: https://github.com/MaxBittker/rs-sdk Comments URL: https://news.ycombinator.com/item?id=46888142 Points: 108 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46887893",
+      "title": "Postgres Postmaster does not scale",
+      "slug": "2026-02-04-postgres-postmaster-does-not-scale.html",
+      "path": "posts/2026-02-04-postgres-postmaster-does-not-scale.html",
+      "date_iso": "2026-02-04T16:30:51+00:00",
+      "source": "https://www.recall.ai/blog/postgres-postmaster-does-not-scale",
+      "summary": "Article URL: https://www.recall.ai/blog/postgres-postmaster-does-not-scale Comments URL: https://news.ycombinator.com/item?id=46887893 Points: 81 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46887564",
+      "title": "Microsoft's Copilot chatbot is running into problems",
+      "slug": "2026-02-04-microsoft-s-copilot-chatbot-is-running-into-problems.html",
+      "path": "posts/2026-02-04-microsoft-s-copilot-chatbot-is-running-into-problems.html",
+      "date_iso": "2026-02-04T16:08:55+00:00",
+      "source": "https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28",
+      "summary": "Gift link: https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is... Comments URL: https://news.ycombinator.com/item?id=46887564 Points: 196 # Comments: 215"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46886735",
+      "title": "Voxtral Transcribe 2",
+      "slug": "2026-02-04-voxtral-transcribe-2.html",
+      "path": "posts/2026-02-04-voxtral-transcribe-2.html",
+      "date_iso": "2026-02-04T15:08:17+00:00",
+      "source": "https://mistral.ai/news/voxtral-transcribe-2",
+      "summary": "Article URL: https://mistral.ai/news/voxtral-transcribe-2 Comments URL: https://news.ycombinator.com/item?id=46886735 Points: 860 # Comments: 211"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46886440",
+      "title": "A case study in PDF forensics: The Epstein PDFs",
+      "slug": "2026-02-04-a-case-study-in-pdf-forensics-the-epstein-pdfs.html",
+      "path": "posts/2026-02-04-a-case-study-in-pdf-forensics-the-epstein-pdfs.html",
+      "date_iso": "2026-02-04T14:46:46+00:00",
+      "source": "https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/",
+      "summary": "Article URL: https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/ Comments URL: https://news.ycombinator.com/item?id=46886440 Points: 283 # Comments: 156"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/04/podcasts/moltbook-mania-explained.html",
+      "title": "Moltbook Mania Explained",
+      "slug": "2026-02-04-moltbook-mania-explained.html",
+      "path": "posts/2026-02-04-moltbook-mania-explained.html",
+      "date_iso": "2026-02-04T12:00:06+00:00",
+      "source": "https://www.nytimes.com/2026/02/04/podcasts/moltbook-mania-explained.html",
+      "summary": "Is this the year the internet changes forever?"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46882184",
       "title": "The full history of Windows widgets, from 1997 to today",
       "slug": "2026-02-04-the-full-history-of-windows-widgets-from-1997-to-today.html",
