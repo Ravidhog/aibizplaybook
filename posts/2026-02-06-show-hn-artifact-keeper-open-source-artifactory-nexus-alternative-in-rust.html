@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Artifact Keeper – Open-Source Artifactory/Nexus Alternative in Rust</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Artifact Keeper – Open-Source Artifactory/Nexus Alternative in Rust</h1>
+    <p><small>Published: 2026-02-06T04:12:59+00:00</small></p>
+  </header>
+
+  <main>
+    <p>I'm a software engineer who keeps getting pulled into DevOps no matter how hard I try to escape it. I recently moved into a Lead DevOps Engineer role writing tooling to automate a lot of the pain away. On my own time outside of work, I built Artifact Keeper — a self-hosted artifact registry that supports 45+ package formats. Security scanning, SSO, replication, WASM plugins — it's all in the MIT-licensed release. No enterprise tier. No feature gates. No surprise invoices.<p>Your package managers — pip, npm, docker, cargo, helm, go, all of them — talk directly to it using their native protocols. Security scanning with Trivy, Grype, and OpenSCAP is built in, with a policy engine that can quarantine bad artifacts before they hit your builds. And if you need a format it doesn't support yet, there's a WASM plugin system so you can add your own without forking the backend.<p>Why I built it:<p>Part of what pulled me into computers in the first place was open source. I grew up poor in New Orleans, and the only hardware I had access to in the early 2000s were some Compaq Pentium IIs my dad brought home after his work was tossing them out. I put Linux on them, and it ran circles around Windows 2000 and Millennium on that low-end hardware. That experience taught me that the best software is software that's open for everyone to see, use, and that actually runs well on whatever you've got.<p>Fast forward to today, and I see the same pattern everywhere: GitLab, JFrog, Harbor, and others ship a limited "community" edition and then hide the features teams actually need behind some paywall. I get it — paychecks have to come from somewhere. But I wanted to prove that a fully-featured artifact registry could exist as genuinely open-source software. Every feature. No exceptions.<p>The specific features came from real pain points. Artifactory's search is painfully slow — that's why I integrated Meilisearch. Security scanning that doesn't require a separate enterprise license was another big one. And I wanted replication that didn't need a central coordinator — so I built a peer mesh where any node can replicate to any other node. I haven't deployed this at work yet — right now I'm running it at home for my personal projects — but I'd love to see it tested at scale, and that's a big part of why I'm sharing it here.<p>The AI story (I'm going to be honest about this):<p>I built this in about three weeks using Claude Code. I know a lot of you will say this is probably vibe coding garbage — but if that's the case, it's an impressive pile of vibe coding garbage. Go look at the codebase. The backend is ~80% Rust with 429 unit tests, 33 PostgreSQL migrations, a layered architecture, and a full CI/CD pipeline with E2E tests, stress testing, and failure injection.<p>AI didn't make the design decisions for me. I still had to design the WASM plugin system, figure out how the scanning engines complement each other, and architect the mesh replication. Years of domain knowledge drove the design — AI just let me build it way faster. I'm floored at what these tools make possible for a tinkerer and security nerd like me.<p>Tech stack: Rust on Axum, PostgreSQL 16, Meilisearch, Trivy + Grype + OpenSCAP, Wasmtime WASM plugins (hot-reloadable), mesh replication with chunked transfers. Frontend is Next.js 15 plus native Swift (iOS/macOS) and Kotlin (Android) apps. OpenAPI 3.1 spec with auto-generated TypeScript and Rust SDKs.<p>Try it:<p><pre><code>  git clone https://github.com/artifact-keeper/artifact-keeper.git
+  cd artifact-keeper
+  docker compose up -d
+</code></pre>
+Then visit http://localhost:30080<p>Live demo: <a href="https://demo.artifactkeeper.com" rel="nofollow">https://demo.artifactkeeper.com</a>
+Docs: <a href="https://artifactkeeper.com/docs/" rel="nofollow">https://artifactkeeper.com/docs/</a><p>I'd love any feedback — what you think of the approach, what you'd want to see, what you hate about Artifactory or Nexus that you wish someone would just fix. It doesn't have to be a PR. Open an issue, start a discussion, or just tell me here.<p><a href="https://github.com/artifact-keeper" rel="nofollow">https://github.com/artifact-keeper</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46909037">https://news.ycombinator.com/item?id=46909037</a></p>
+<p>Points: 27</p>
+<p># Comments: 6</p>
+    <p><a href="https://github.com/artifact-keeper" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

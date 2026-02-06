@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Local task classifier and dispatcher on RTX 3080</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Local task classifier and dispatcher on RTX 3080</h1>
+    <p><small>Published: 2026-02-05T23:31:01+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hi HN, I am shubham a 3d artist who learned coding in college as an I.T.  graduate know logics but not an expert as i just wanna try my hands on to ai<p>So i built Resilient Workflow Sentinel this is offline ai agent which classify urgency (Low,Medium and HIgh) and dispatches to the candidates based on availability 
+Well i want an offline system like a person can trust with its sensitive data to stay completely locally<p>Did use ai to code for speeding and cutting labor.<p>Its works on RTX 3080 system (this is an basic affordable setup not heavy ai machinery) which i want it to make it reliable without heavy upgrade
+This is full system doesn't require ollama(I am not against it)<p>I see in companies tickets are raised on jira and slack. Currently people or manager (self) have to sort those things either manually read one by one or send them to the cloud. But the issue is you can't send everything like there is a lot of sensitive data out there which they do not trust and makes it harder and manual sorting through thousands is likely a nightmare.<p>But then just imagine u get all the task classified like its urgency and distribution u can selectively see which task is urgent and needs immediate attention and last of all information doesn't leave your building totally secure
+Also Api sending is not the only issue u are paying per token cost for task for each may be monthly 100$ to 1000$ which can like save hassle for startup a lot or companies as well<p>There was several biases like positional bias also json out put bias also have issues in attention 
+At start i tried just prompting things like Chain of thoughts,RISE(evaluate negative first), given negative examples,Positive examples, somewhere it was struggling with commonsense issue so examples for that (Later changed the approach)<p>Well prompting did give the output and worked well but took too much time to process for single task like 70 to 90secs for a task<p>Then i tried batching and the biases got worst like it got stronger it always use to like favour alice also more prompts are like ignored and more<p>For json output i used constrain so model can only generate json and if fails there is a as well parser i used when i implemented prompting only<p>This reduce time from 90sec to nearly 15 to 30secs per task
+I used steering vector to correct the attention i seen issues happening<p>Stack:
+Language: Python 3.10
+Model: qwen2.5-7b-instruct
+Libraries: Pytorch, Hugging Face Transformers (No Langchain, No Ollama)
+API: Fast API
+UI: NiceGUI
+Hardware: Ryzen 5, 16Gb ram RTX 3080<p>Implementation:<p>Quantization: Load model in nf4 quantization so models like 7b can fit on vram of 10gb which is on rtx 3080 also my hardware<p>Steering Vectors: Standard prompting wasn't enough. I need to block or direct certain things on a certain layer of llm to make it reliable.<p>Json Constraints: Used constraint to make model strictly give json and also stop from over explanation this happens at logits level where token are blocked which are not required etc<p>github : <a href="https://github.com/resilientworkflowsentinel/resilient-workflow-sentinel" rel="nofollow">https://github.com/resilientworkflowsentinel/resilient-workf...</a><p>Youtube: <a href="https://youtu.be/tky3eURLzWo" rel="nofollow">https://youtu.be/tky3eURLzWo</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46906967">https://news.ycombinator.com/item?id=46906967</a></p>
+<p>Points: 20</p>
+<p># Comments: 0</p>
+    <p><a href="https://github.com/resilientworkflowsentinel/resilient-workflow-sentinel" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

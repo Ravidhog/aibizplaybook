@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46909468",
+      "title": "Things Unix can do atomically (2010)",
+      "slug": "2026-02-06-things-unix-can-do-atomically-2010.html",
+      "path": "posts/2026-02-06-things-unix-can-do-atomically-2010.html",
+      "date_iso": "2026-02-06T05:29:55+00:00",
+      "source": "https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html",
+      "summary": "Article URL: https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html Comments URL: https://news.ycombinator.com/item?id=46909468 Points: 48 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46909439",
+      "title": "Systems Thinking",
+      "slug": "2026-02-06-systems-thinking.html",
+      "path": "posts/2026-02-06-systems-thinking.html",
+      "date_iso": "2026-02-06T05:24:36+00:00",
+      "source": "http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html",
+      "summary": "Article URL: http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html Comments URL: https://news.ycombinator.com/item?id=46909439 Points: 46 # Comments: 17"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/04/business/google-earnings-ai.html",
+      "title": "Google Plans to Double Spending Amid A.I. Race",
+      "slug": "2026-02-06-google-plans-to-double-spending-amid-a-i-race.html",
+      "path": "posts/2026-02-06-google-plans-to-double-spending-amid-a-i-race.html",
+      "date_iso": "2026-02-06T04:33:17+00:00",
+      "source": "https://www.nytimes.com/2026/02/04/business/google-earnings-ai.html",
+      "summary": "A Google ad in Times Square."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46909122",
+      "title": "Generative Pen-Trained Transformer",
+      "slug": "2026-02-06-generative-pen-trained-transformer.html",
+      "path": "posts/2026-02-06-generative-pen-trained-transformer.html",
+      "date_iso": "2026-02-06T04:28:08+00:00",
+      "source": "https://theodore.net/projects/Polargraph/",
+      "summary": "Article URL: https://theodore.net/projects/Polargraph/ Comments URL: https://news.ycombinator.com/item?id=46909122 Points: 6 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46909037",
+      "title": "Show HN: Artifact Keeper – Open-Source Artifactory/Nexus Alternative in Rust",
+      "slug": "2026-02-06-show-hn-artifact-keeper-open-source-artifactory-nexus-alternative-in-rust.html",
+      "path": "posts/2026-02-06-show-hn-artifact-keeper-open-source-artifactory-nexus-alternative-in-rust.html",
+      "date_iso": "2026-02-06T04:12:59+00:00",
+      "source": "https://github.com/artifact-keeper",
+      "summary": "I'm a software engineer who keeps getting pulled into DevOps no matter how hard I try to escape it. I recently moved into a Lead DevOps Engineer role writing tooling to automate a lot of the pain away. On my own time outside of work, I built Artifact Keeper — a self-hosted artif…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46908700",
+      "title": "Waiting for Postgres 19: Better planner hints with path generation strategies [video]",
+      "slug": "2026-02-06-waiting-for-postgres-19-better-planner-hints-with-path-generation-strategies-video.html",
+      "path": "posts/2026-02-06-waiting-for-postgres-19-better-planner-hints-with-path-generation-strategies-video.html",
+      "date_iso": "2026-02-06T03:25:51+00:00",
+      "source": "https://www.youtube.com/watch?v=QLb3nhIy2Lc",
+      "summary": "Article URL: https://www.youtube.com/watch?v=QLb3nhIy2Lc Comments URL: https://news.ycombinator.com/item?id=46908700 Points: 24 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46908671",
+      "title": "I reversed Tower of Fantasy's anti-cheat driver: a BYOVD toolkit never loaded",
+      "slug": "2026-02-06-i-reversed-tower-of-fantasy-s-anti-cheat-driver-a-byovd-toolkit-never-loaded.html",
+      "path": "posts/2026-02-06-i-reversed-tower-of-fantasy-s-anti-cheat-driver-a-byovd-toolkit-never-loaded.html",
+      "date_iso": "2026-02-06T03:22:29+00:00",
+      "source": "https://vespalec.com/blog/tower-of-flaws/",
+      "summary": "Article URL: https://vespalec.com/blog/tower-of-flaws/ Comments URL: https://news.ycombinator.com/item?id=46908671 Points: 42 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46908491",
+      "title": "GitHub Actions is slowly killing engineering teams",
+      "slug": "2026-02-06-github-actions-is-slowly-killing-engineering-teams.html",
+      "path": "posts/2026-02-06-github-actions-is-slowly-killing-engineering-teams.html",
+      "date_iso": "2026-02-06T02:58:31+00:00",
+      "source": "https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/",
+      "summary": "Article URL: https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/ Comments URL: https://news.ycombinator.com/item?id=46908491 Points: 180 # Comments: 77"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/05/world/europe/starlink-blocks-russian-troops-access.html",
+      "title": "At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops",
+      "slug": "2026-02-06-at-ukraine-s-request-starlink-denies-internet-access-to-russian-troops.html",
+      "path": "posts/2026-02-06-at-ukraine-s-request-starlink-denies-internet-access-to-russian-troops.html",
+      "date_iso": "2026-02-06T00:00:51+00:00",
+      "source": "https://www.nytimes.com/2026/02/05/world/europe/starlink-blocks-russian-troops-access.html",
+      "summary": "A Ukrainian soldier preparing a Starlink satellite internet system in the Donetsk region in 2024. Russians have been evading export restrictions to smuggle in Starlink devices and send them to the front."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/05/technology/amazon-200-billion-ai.html",
+      "title": "Amazon’s $200 Billion Spending Plan Raises Stakes in A.I. Race",
+      "slug": "2026-02-05-amazon-s-200-billion-spending-plan-raises-stakes-in-a-i-race.html",
+      "path": "posts/2026-02-05-amazon-s-200-billion-spending-plan-raises-stakes-in-a-i-race.html",
+      "date_iso": "2026-02-05T23:51:01+00:00",
+      "source": "https://www.nytimes.com/2026/02/05/technology/amazon-200-billion-ai.html",
+      "summary": "Amazon is looking to increase automation, like at its operation in Shreveport, La."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/05/technology/bitcoin-price-drop-crypto-market.html",
+      "title": "Bitcoin Drops to Lowest Price Since Trump Was Elected as Crypto Faces Slump",
+      "slug": "2026-02-05-bitcoin-drops-to-lowest-price-since-trump-was-elected-as-crypto-faces-slump.html",
+      "path": "posts/2026-02-05-bitcoin-drops-to-lowest-price-since-trump-was-elected-as-crypto-faces-slump.html",
+      "date_iso": "2026-02-05T23:46:58+00:00",
+      "source": "https://www.nytimes.com/2026/02/05/technology/bitcoin-price-drop-crypto-market.html",
+      "summary": "The price of Bitcoin is now lower than when President Trump was elected in 2024, raising concerns of a new “crypto winter\" in the industry."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46906967",
+      "title": "Show HN: Local task classifier and dispatcher on RTX 3080",
+      "slug": "2026-02-05-show-hn-local-task-classifier-and-dispatcher-on-rtx-3080.html",
+      "path": "posts/2026-02-05-show-hn-local-task-classifier-and-dispatcher-on-rtx-3080.html",
+      "date_iso": "2026-02-05T23:31:01+00:00",
+      "source": "https://github.com/resilientworkflowsentinel/resilient-workflow-sentinel",
+      "summary": "Hi HN, I am shubham a 3d artist who learned coding in college as an I.T. graduate know logics but not an expert as i just wanna try my hands on to ai So i built Resilient Workflow Sentinel this is offline ai agent which classify urgency (Low,Medium and HIgh) and dispatches to th…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46906947",
+      "title": "The RCE that AMD won't fix",
+      "slug": "2026-02-05-the-rce-that-amd-won-t-fix.html",
+      "path": "posts/2026-02-05-the-rce-that-amd-won-t-fix.html",
+      "date_iso": "2026-02-05T23:29:18+00:00",
+      "source": "https://mrbruh.com/amd/",
+      "summary": "Article URL: https://mrbruh.com/amd/ Comments URL: https://news.ycombinator.com/item?id=46906947 Points: 155 # Comments: 64"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46905896",
+      "title": "What if writing tests was a joyful experience? (2023)",
+      "slug": "2026-02-05-what-if-writing-tests-was-a-joyful-experience-2023.html",
+      "path": "posts/2026-02-05-what-if-writing-tests-was-a-joyful-experience-2023.html",
+      "date_iso": "2026-02-05T21:51:51+00:00",
+      "source": "https://blog.janestreet.com/the-joy-of-expect-tests/",
+      "summary": "Article URL: https://blog.janestreet.com/the-joy-of-expect-tests/ Comments URL: https://news.ycombinator.com/item?id=46905896 Points: 57 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46905761",
+      "title": "Review of 1984 by Isaac Asimov (1980)",
+      "slug": "2026-02-05-review-of-1984-by-isaac-asimov-1980.html",
+      "path": "posts/2026-02-05-review-of-1984-by-isaac-asimov-1980.html",
+      "date_iso": "2026-02-05T21:39:57+00:00",
+      "source": "https://www.newworker.org/ncptrory/1984.htm",
+      "summary": "Article URL: https://www.newworker.org/ncptrory/1984.htm Comments URL: https://news.ycombinator.com/item?id=46905761 Points: 136 # Comments: 66"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46904569",
+      "title": "Claude Opus 4.6 extra usage promo",
+      "slug": "2026-02-05-claude-opus-4-6-extra-usage-promo.html",
+      "path": "posts/2026-02-05-claude-opus-4-6-extra-usage-promo.html",
+      "date_iso": "2026-02-05T20:15:48+00:00",
+      "source": "https://support.claude.com/en/articles/13613973-claude-opus-4-6-extra-usage-promo",
+      "summary": "Article URL: https://support.claude.com/en/articles/13613973-claude-opus-4-6-extra-usage-promo Comments URL: https://news.ycombinator.com/item?id=46904569 Points: 150 # Comments: 46"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46904361",
+      "title": "LinkedIn checks for 2953 browser extensions",
+      "slug": "2026-02-05-linkedin-checks-for-2953-browser-extensions.html",
+      "path": "posts/2026-02-05-linkedin-checks-for-2953-browser-extensions.html",
+      "date_iso": "2026-02-05T20:00:39+00:00",
+      "source": "https://github.com/mdp/linkedin-extension-fingerprinting",
+      "summary": "Article URL: https://github.com/mdp/linkedin-extension-fingerprinting Comments URL: https://news.ycombinator.com/item?id=46904361 Points: 372 # Comments: 181"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46903929",
+      "title": "The time I didn't meet Jeffrey Epstein",
+      "slug": "2026-02-05-the-time-i-didn-t-meet-jeffrey-epstein.html",
+      "path": "posts/2026-02-05-the-time-i-didn-t-meet-jeffrey-epstein.html",
+      "date_iso": "2026-02-05T19:29:41+00:00",
+      "source": "https://scottaaronson.blog/?p=9534",
+      "summary": "Article URL: https://scottaaronson.blog/?p=9534 Comments URL: https://news.ycombinator.com/item?id=46903929 Points: 135 # Comments: 123"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46903616",
+      "title": "We tasked Opus 4.6 using agent teams to build a C Compiler",
+      "slug": "2026-02-05-we-tasked-opus-4-6-using-agent-teams-to-build-a-c-compiler.html",
+      "path": "posts/2026-02-05-we-tasked-opus-4-6-using-agent-teams-to-build-a-c-compiler.html",
+      "date_iso": "2026-02-05T19:07:51+00:00",
+      "source": "https://www.anthropic.com/engineering/building-c-compiler",
+      "summary": "Article URL: https://www.anthropic.com/engineering/building-c-compiler Comments URL: https://news.ycombinator.com/item?id=46903616 Points: 497 # Comments: 461"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46903558",
+      "title": "My AI Adoption Journey",
+      "slug": "2026-02-05-my-ai-adoption-journey.html",
+      "path": "posts/2026-02-05-my-ai-adoption-journey.html",
+      "date_iso": "2026-02-05T19:04:40+00:00",
+      "source": "https://mitchellh.com/writing/my-ai-adoption-journey",
+      "summary": "Article URL: https://mitchellh.com/writing/my-ai-adoption-journey Comments URL: https://news.ycombinator.com/item?id=46903558 Points: 528 # Comments: 163"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46902638",
+      "title": "GPT-5.3-Codex",
+      "slug": "2026-02-05-gpt-5-3-codex.html",
+      "path": "posts/2026-02-05-gpt-5-3-codex.html",
+      "date_iso": "2026-02-05T18:08:08+00:00",
+      "source": "https://openai.com/index/introducing-gpt-5-3-codex/",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-3-codex/ Comments URL: https://news.ycombinator.com/item?id=46902638 Points: 1238 # Comments: 470"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46902368",
+      "title": "Orchestrate teams of Claude Code sessions",
+      "slug": "2026-02-05-orchestrate-teams-of-claude-code-sessions.html",
+      "path": "posts/2026-02-05-orchestrate-teams-of-claude-code-sessions.html",
+      "date_iso": "2026-02-05T17:49:54+00:00",
+      "source": "https://code.claude.com/docs/en/agent-teams",
+      "summary": "Article URL: https://code.claude.com/docs/en/agent-teams Comments URL: https://news.ycombinator.com/item?id=46902368 Points: 342 # Comments: 192"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46902223",
+      "title": "Claude Opus 4.6",
+      "slug": "2026-02-05-claude-opus-4-6.html",
+      "path": "posts/2026-02-05-claude-opus-4-6.html",
+      "date_iso": "2026-02-05T17:38:53+00:00",
+      "source": "https://www.anthropic.com/news/claude-opus-4-6",
+      "summary": "Article URL: https://www.anthropic.com/news/claude-opus-4-6 Comments URL: https://news.ycombinator.com/item?id=46902223 Points: 1849 # Comments: 772"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/05/business/epstein-investments-palantir-coinbase-thiel.html",
+      "title": "Files Reveal Epstein’s Money Mingled with Silicon Valley’s Tech Start-Ups",
+      "slug": "2026-02-05-files-reveal-epstein-s-money-mingled-with-silicon-valley-s-tech-start-ups.html",
+      "path": "posts/2026-02-05-files-reveal-epstein-s-money-mingled-with-silicon-valley-s-tech-start-ups.html",
+      "date_iso": "2026-02-05T17:07:34+00:00",
+      "source": "https://www.nytimes.com/2026/02/05/business/epstein-investments-palantir-coinbase-thiel.html",
+      "summary": "Last week’s disclosures of Jeffrey Epstein’s communications offer insight into how he made his money as an investor after his 2008 conviction."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46901768",
+      "title": "Maihem (YC W24): hiring senior robotics perception engineer (London, on-site)",
+      "slug": "2026-02-05-maihem-yc-w24-hiring-senior-robotics-perception-engineer-london-on-site.html",
+      "path": "posts/2026-02-05-maihem-yc-w24-hiring-senior-robotics-perception-engineer-london-on-site.html",
+      "date_iso": "2026-02-05T17:00:07+00:00",
+      "source": "https://jobs.ashbyhq.com/maihem/8da3fa8b-5544-45de-a99e-888021519758",
+      "summary": "Article URL: https://jobs.ashbyhq.com/maihem/8da3fa8b-5544-45de-a99e-888021519758 Comments URL: https://news.ycombinator.com/item?id=46901768 Points: 0 # Comments: 0"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46896146",
       "title": "Don't rent the cloud, own instead",
       "slug": "2026-02-05-don-t-rent-the-cloud-own-instead.html",
