@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46921491",
+      "title": "Zlob.h 100% POSIX and glibc compatible globbing lib that is faste and better",
+      "slug": "2026-02-07-zlob-h-100-posix-and-glibc-compatible-globbing-lib-that-is-faste-and-better.html",
+      "path": "posts/2026-02-07-zlob-h-100-posix-and-glibc-compatible-globbing-lib-that-is-faste-and-better.html",
+      "date_iso": "2026-02-07T05:07:39+00:00",
+      "source": "https://github.com/dmtrKovalenko/zlob",
+      "summary": "Article URL: https://github.com/dmtrKovalenko/zlob Comments URL: https://news.ycombinator.com/item?id=46921491 Points: 5 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46920773",
+      "title": "Female Asian Elephant Calf Born at the Smithsonian National Zoo",
+      "slug": "2026-02-07-female-asian-elephant-calf-born-at-the-smithsonian-national-zoo.html",
+      "path": "posts/2026-02-07-female-asian-elephant-calf-born-at-the-smithsonian-national-zoo.html",
+      "date_iso": "2026-02-07T02:35:49+00:00",
+      "source": "https://www.si.edu/newsdesk/releases/female-asian-elephant-calf-born-smithsonians-national-zoo-and-conservation?user_id=66c4bf745d78644b3aa57b08&utm_medium=email&utm_placement=newsletter&utm_source=join1440",
+      "summary": "Article URL: https://www.si.edu/newsdesk/releases/female-asian-elephant-calf-born-smithsonians-national-zoo-and-conservation?user_id=66c4bf745d78644b3aa57b08&amp;utm_medium=email&amp;utm_placement=newsletter&amp;utm_source=join1440 Comments URL: https://news.ycombinator.com/item…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46920487",
+      "title": "Why I Joined OpenAI",
+      "slug": "2026-02-07-why-i-joined-openai.html",
+      "path": "posts/2026-02-07-why-i-joined-openai.html",
+      "date_iso": "2026-02-07T01:45:04+00:00",
+      "source": "https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html",
+      "summary": "Article URL: https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html Comments URL: https://news.ycombinator.com/item?id=46920487 Points: 92 # Comments: 75"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46920273",
+      "title": "WebView performance significantly slower than PWA",
+      "slug": "2026-02-07-webview-performance-significantly-slower-than-pwa.html",
+      "path": "posts/2026-02-07-webview-performance-significantly-slower-than-pwa.html",
+      "date_iso": "2026-02-07T01:10:00+00:00",
+      "source": "https://issues.chromium.org/issues/40817676",
+      "summary": "Article URL: https://issues.chromium.org/issues/40817676 Comments URL: https://news.ycombinator.com/item?id=46920273 Points: 18 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46920248",
+      "title": "I'm going to cure my girlfriend's brain tumor",
+      "slug": "2026-02-07-i-m-going-to-cure-my-girlfriend-s-brain-tumor.html",
+      "path": "posts/2026-02-07-i-m-going-to-cure-my-girlfriend-s-brain-tumor.html",
+      "date_iso": "2026-02-07T01:05:59+00:00",
+      "source": "https://andrewjrod.substack.com/p/im-going-to-cure-my-girlfriends-brain",
+      "summary": "Article URL: https://andrewjrod.substack.com/p/im-going-to-cure-my-girlfriends-brain Comments URL: https://news.ycombinator.com/item?id=46920248 Points: 109 # Comments: 56"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46919824",
+      "title": "Introducing the Developer Knowledge API and MCP Server",
+      "slug": "2026-02-06-introducing-the-developer-knowledge-api-and-mcp-server.html",
+      "path": "posts/2026-02-06-introducing-the-developer-knowledge-api-and-mcp-server.html",
+      "date_iso": "2026-02-06T23:58:53+00:00",
+      "source": "https://developers.googleblog.com/introducing-the-developer-knowledge-api-and-mcp-server/",
+      "summary": "Article URL: https://developers.googleblog.com/introducing-the-developer-knowledge-api-and-mcp-server/ Comments URL: https://news.ycombinator.com/item?id=46919824 Points: 38 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46918824",
+      "title": "Show HN: R3forth, a ColorForth-inspired language with a tiny VM",
+      "slug": "2026-02-06-show-hn-r3forth-a-colorforth-inspired-language-with-a-tiny-vm.html",
+      "path": "posts/2026-02-06-show-hn-r3forth-a-colorforth-inspired-language-with-a-tiny-vm.html",
+      "date_iso": "2026-02-06T22:10:13+00:00",
+      "source": "https://github.com/phreda4/r3",
+      "summary": "Article URL: https://github.com/phreda4/r3 Comments URL: https://news.ycombinator.com/item?id=46918824 Points: 62 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46918612",
+      "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
+      "slug": "2026-02-06-openciv3-open-source-cross-platform-reimagining-of-civilization-iii.html",
+      "path": "posts/2026-02-06-openciv3-open-source-cross-platform-reimagining-of-civilization-iii.html",
+      "date_iso": "2026-02-06T21:51:23+00:00",
+      "source": "https://openciv3.org/",
+      "summary": "Article URL: https://openciv3.org/ Comments URL: https://news.ycombinator.com/item?id=46918612 Points: 533 # Comments: 149"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46918429",
+      "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
+      "slug": "2026-02-06-show-hn-look-ma-no-linux-shell-app-installer-vi-cc-on-esp32-s3-breezybox.html",
+      "path": "posts/2026-02-06-show-hn-look-ma-no-linux-shell-app-installer-vi-cc-on-esp32-s3-breezybox.html",
+      "date_iso": "2026-02-06T21:33:11+00:00",
+      "source": "https://github.com/valdanylchuk/breezydemo",
+      "summary": "Example repo: https://github.com/valdanylchuk/breezydemo The underlying ESP-IDF component: https://github.com/valdanylchuk/breezybox It is something like Raspberry Pi, but without the overhead of a full server-grade OS. It captures a lot of the old school DOS era coding experien…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/06/business/stellantis-writedown-electric-vehicles.html",
+      "title": "Stellantis’s Shift Away From Electric Cars Will Cost It $26 Billion",
+      "slug": "2026-02-06-stellantis-s-shift-away-from-electric-cars-will-cost-it-26-billion.html",
+      "path": "posts/2026-02-06-stellantis-s-shift-away-from-electric-cars-will-cost-it-26-billion.html",
+      "date_iso": "2026-02-06T21:18:09+00:00",
+      "source": "https://www.nytimes.com/2026/02/06/business/stellantis-writedown-electric-vehicles.html",
+      "summary": "Stellantis, which was created after the 2021 merger of Fiat Chrysler and Peugeot, is pulling back from its plans to offer many more electric models."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46918254",
+      "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
+      "slug": "2026-02-06-monty-a-minimal-secure-python-interpreter-written-in-rust-for-use-by-ai.html",
+      "path": "posts/2026-02-06-monty-a-minimal-secure-python-interpreter-written-in-rust-for-use-by-ai.html",
+      "date_iso": "2026-02-06T21:16:36+00:00",
+      "source": "https://github.com/pydantic/monty",
+      "summary": "Article URL: https://github.com/pydantic/monty Comments URL: https://news.ycombinator.com/item?id=46918254 Points: 183 # Comments: 81"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/06/business/ai-stock-market-anthropic-openai.html",
+      "title": "Fear of AI Replacing Software Makers Hits Stocks. Here’s What to Know.",
+      "slug": "2026-02-06-fear-of-ai-replacing-software-makers-hits-stocks-here-s-what-to-know.html",
+      "path": "posts/2026-02-06-fear-of-ai-replacing-software-makers-hits-stocks-here-s-what-to-know.html",
+      "date_iso": "2026-02-06T20:11:04+00:00",
+      "source": "https://www.nytimes.com/2026/02/06/business/ai-stock-market-anthropic-openai.html",
+      "summary": "The prospect of disruptions from artificial intelligence has hung over the economy for years. But this week advances in software tools precipitated a sell-off on Wall Street."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46917033",
+      "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
+      "slug": "2026-02-06-show-hn-i-spent-4-years-building-a-ui-design-tool-with-only-the-features-i-use.html",
+      "path": "posts/2026-02-06-show-hn-i-spent-4-years-building-a-ui-design-tool-with-only-the-features-i-use.html",
+      "date_iso": "2026-02-06T19:27:37+00:00",
+      "source": "https://vecti.com",
+      "summary": "Hello everyone! I'm a solo developer who's been doing UI/UX work since 2007. Over the years, I watched design tools evolve from lightweight products into bloated feature-heavy platforms. I kept finding myself using a small amount of the features while the rest just mostly got in…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html",
+      "title": "Europe Accuses TikTok of ‘Addictive Design’ and Pushes for Change",
+      "slug": "2026-02-06-europe-accuses-tiktok-of-addictive-design-and-pushes-for-change.html",
+      "path": "posts/2026-02-06-europe-accuses-tiktok-of-addictive-design-and-pushes-for-change.html",
+      "date_iso": "2026-02-06T19:08:37+00:00",
+      "source": "https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html",
+      "summary": "TikTok and other social media companies are under mounting pressure globally for hooking young users."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/06/business/google-employees-protest.html",
+      "title": "Google Workers Demand End to Cloud Services for Immigration Agencies",
+      "slug": "2026-02-06-google-workers-demand-end-to-cloud-services-for-immigration-agencies.html",
+      "path": "posts/2026-02-06-google-workers-demand-end-to-cloud-services-for-immigration-agencies.html",
+      "date_iso": "2026-02-06T18:52:26+00:00",
+      "source": "https://www.nytimes.com/2026/02/06/business/google-employees-protest.html",
+      "summary": "Federal agents leaving the area where Renee Good was killed in Minneapolis."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46916609",
+      "title": "Show HN: If you lose your memory, how to regain access to your computer?",
+      "slug": "2026-02-06-show-hn-if-you-lose-your-memory-how-to-regain-access-to-your-computer.html",
+      "path": "posts/2026-02-06-show-hn-if-you-lose-your-memory-how-to-regain-access-to-your-computer.html",
+      "date_iso": "2026-02-06T18:51:58+00:00",
+      "source": "https://eljojo.github.io/rememory/",
+      "summary": "Due to bike-induced concussions, I've been worried for a while about losing my memory and not being able to log back in. I combined shamir secret sharing (hashicorp vault's implementation) with age-encryption, and packaged it using WASM for a neat in-browser offline UX. The idea…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46916586",
+      "title": "How to effectively write quality code with AI",
+      "slug": "2026-02-06-how-to-effectively-write-quality-code-with-ai.html",
+      "path": "posts/2026-02-06-how-to-effectively-write-quality-code-with-ai.html",
+      "date_iso": "2026-02-06T18:49:59+00:00",
+      "source": "https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/",
+      "summary": "Article URL: https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/ Comments URL: https://news.ycombinator.com/item?id=46916586 Points: 221 # Comments: 162"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46915102",
+      "title": "I spent 5 years in DevOps – Solutions engineering gave me what I was missing",
+      "slug": "2026-02-06-i-spent-5-years-in-devops-solutions-engineering-gave-me-what-i-was-missing.html",
+      "path": "posts/2026-02-06-i-spent-5-years-in-devops-solutions-engineering-gave-me-what-i-was-missing.html",
+      "date_iso": "2026-02-06T16:45:47+00:00",
+      "source": "https://infisical.com/blog/devops-to-solutions-engineering",
+      "summary": "Article URL: https://infisical.com/blog/devops-to-solutions-engineering Comments URL: https://news.ycombinator.com/item?id=46915102 Points: 127 # Comments: 55"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46914785",
+      "title": "The Waymo World Model",
+      "slug": "2026-02-06-the-waymo-world-model.html",
+      "path": "posts/2026-02-06-the-waymo-world-model.html",
+      "date_iso": "2026-02-06T16:20:42+00:00",
+      "source": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
+      "summary": "Article URL: https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation Comments URL: https://news.ycombinator.com/item?id=46914785 Points: 863 # Comments: 520"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46914159",
+      "title": "Sheldon Brown's Bicycle Technical Info",
+      "slug": "2026-02-06-sheldon-brown-s-bicycle-technical-info.html",
+      "path": "posts/2026-02-06-sheldon-brown-s-bicycle-technical-info.html",
+      "date_iso": "2026-02-06T15:40:42+00:00",
+      "source": "https://www.sheldonbrown.com/",
+      "summary": "Article URL: https://www.sheldonbrown.com/ Comments URL: https://news.ycombinator.com/item?id=46914159 Points: 341 # Comments: 90"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46913903",
+      "title": "An Update on Heroku",
+      "slug": "2026-02-06-an-update-on-heroku.html",
+      "path": "posts/2026-02-06-an-update-on-heroku.html",
+      "date_iso": "2026-02-06T15:20:23+00:00",
+      "source": "https://www.heroku.com/blog/an-update-on-heroku/",
+      "summary": "Article URL: https://www.heroku.com/blog/an-update-on-heroku/ Comments URL: https://news.ycombinator.com/item?id=46913903 Points: 376 # Comments: 252"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46913793",
+      "title": "Microsoft open-sources LiteBox, a security-focused library OS",
+      "slug": "2026-02-06-microsoft-open-sources-litebox-a-security-focused-library-os.html",
+      "path": "posts/2026-02-06-microsoft-open-sources-litebox-a-security-focused-library-os.html",
+      "date_iso": "2026-02-06T15:13:04+00:00",
+      "source": "https://github.com/microsoft/litebox",
+      "summary": "Article URL: https://github.com/microsoft/litebox Comments URL: https://news.ycombinator.com/item?id=46913793 Points: 344 # Comments: 168"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46912843",
+      "title": "FORTH? Really!?",
+      "slug": "2026-02-06-forth-really.html",
+      "path": "posts/2026-02-06-forth-really.html",
+      "date_iso": "2026-02-06T13:54:09+00:00",
+      "source": "https://rescrv.net/w/2026/02/06/associative",
+      "summary": "Article URL: https://rescrv.net/w/2026/02/06/associative Comments URL: https://news.ycombinator.com/item?id=46912843 Points: 55 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46912800",
+      "title": "Hackers (1995) Animated Experience",
+      "slug": "2026-02-06-hackers-1995-animated-experience.html",
+      "path": "posts/2026-02-06-hackers-1995-animated-experience.html",
+      "date_iso": "2026-02-06T13:49:55+00:00",
+      "source": "https://hackers-1995.vercel.app/",
+      "summary": "Article URL: https://hackers-1995.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=46912800 Points: 436 # Comments: 226"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/06/podcasts/hardfork-musk-merger-genie.html",
+      "title": "Elon Musk’s Mega-Merger + We Test Google’s Project Genie + What’s Next for Moltbook Creator",
+      "slug": "2026-02-06-elon-musk-s-mega-merger-we-test-google-s-project-genie-what-s-next-for-moltbook-creator.html",
+      "path": "posts/2026-02-06-elon-musk-s-mega-merger-we-test-google-s-project-genie-what-s-next-for-moltbook-creator.html",
+      "date_iso": "2026-02-06T12:00:03+00:00",
+      "source": "https://www.nytimes.com/2026/02/06/podcasts/hardfork-musk-merger-genie.html",
+      "summary": "“A very valuable and profitable company in SpaceX has acquired a cash furnace named xAI.”"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46909468",
       "title": "Things Unix can do atomically (2010)",
       "slug": "2026-02-06-things-unix-can-do-atomically-2010.html",
@@ -17,6 +242,15 @@
       "date_iso": "2026-02-06T05:24:36+00:00",
       "source": "http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html",
       "summary": "Article URL: http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html Comments URL: https://news.ycombinator.com/item?id=46909439 Points: 46 # Comments: 17"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/06/business/the-taj-story-conspiracy-taj-mahal-hindu.html",
+      "title": "An Indian Film Embraces a Taj Majal Conspiracy Theory",
+      "slug": "2026-02-06-an-indian-film-embraces-a-taj-majal-conspiracy-theory.html",
+      "path": "posts/2026-02-06-an-indian-film-embraces-a-taj-majal-conspiracy-theory.html",
+      "date_iso": "2026-02-06T05:01:11+00:00",
+      "source": "https://www.nytimes.com/2026/02/06/business/the-taj-story-conspiracy-taj-mahal-hindu.html",
+      "summary": "The internet and a new film have breathed life into old conspiracy theories about one of the world’s most famous landmarks."
     },
     {
       "id": "https://www.nytimes.com/2026/02/04/business/google-earnings-ai.html",
