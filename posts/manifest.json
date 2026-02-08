@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46931805",
+      "title": "OpenClaw Is Changing My Life",
+      "slug": "2026-02-08-openclaw-is-changing-my-life.html",
+      "path": "posts/2026-02-08-openclaw-is-changing-my-life.html",
+      "date_iso": "2026-02-08T06:21:27+00:00",
+      "source": "https://reorx.com/blog/openclaw-is-changing-my-life/",
+      "summary": "Article URL: https://reorx.com/blog/openclaw-is-changing-my-life/ Comments URL: https://news.ycombinator.com/item?id=46931805 Points: 8 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46931595",
+      "title": "LineageOS 23.2",
+      "slug": "2026-02-08-lineageos-23-2.html",
+      "path": "posts/2026-02-08-lineageos-23-2.html",
+      "date_iso": "2026-02-08T05:33:15+00:00",
+      "source": "https://lineageos.org/Changelog-31/",
+      "summary": "Article URL: https://lineageos.org/Changelog-31/ Comments URL: https://news.ycombinator.com/item?id=46931595 Points: 6 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46931347",
+      "title": "Substack confirms data breach affects users’ email addresses and phone numbers",
+      "slug": "2026-02-08-substack-confirms-data-breach-affects-users-email-addresses-and-phone-numbers.html",
+      "path": "posts/2026-02-08-substack-confirms-data-breach-affects-users-email-addresses-and-phone-numbers.html",
+      "date_iso": "2026-02-08T04:34:50+00:00",
+      "source": "https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/",
+      "summary": "Article URL: https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/ Comments URL: https://news.ycombinator.com/item?id=46931347 Points: 32 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46930961",
+      "title": "Vouch",
+      "slug": "2026-02-08-vouch.html",
+      "path": "posts/2026-02-08-vouch.html",
+      "date_iso": "2026-02-08T03:09:28+00:00",
+      "source": "https://twitter.com/mitchellh/status/2020252149117313349",
+      "summary": "Article URL: https://twitter.com/mitchellh/status/2020252149117313349 Comments URL: https://news.ycombinator.com/item?id=46930961 Points: 81 # Comments: 22"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/07/technology/washington-post-will-lewis.html",
+      "title": "Washington Post C.E.O. Will Lewis Steps Down After Stormy Tenure",
+      "slug": "2026-02-08-washington-post-c-e-o-will-lewis-steps-down-after-stormy-tenure.html",
+      "path": "posts/2026-02-08-washington-post-c-e-o-will-lewis-steps-down-after-stormy-tenure.html",
+      "date_iso": "2026-02-08T02:06:07+00:00",
+      "source": "https://www.nytimes.com/2026/02/07/technology/washington-post-will-lewis.html",
+      "summary": "Will Lewis, the chief executive and publisher of The Washington Post, has stepped down, the company announced Saturday."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46930565",
+      "title": "Haskell for all: Beyond agentic coding",
+      "slug": "2026-02-08-haskell-for-all-beyond-agentic-coding.html",
+      "path": "posts/2026-02-08-haskell-for-all-beyond-agentic-coding.html",
+      "date_iso": "2026-02-08T01:55:09+00:00",
+      "source": "https://haskellforall.com/2026/02/beyond-agentic-coding",
+      "summary": "Article URL: https://haskellforall.com/2026/02/beyond-agentic-coding Comments URL: https://news.ycombinator.com/item?id=46930565 Points: 80 # Comments: 19"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/07/technology/elon-musk-spacex-xai.html",
+      "title": "After Merging xAI and SpaceX, Elon Musk Hopes He Can Win Over Wall Street",
+      "slug": "2026-02-08-after-merging-xai-and-spacex-elon-musk-hopes-he-can-win-over-wall-street.html",
+      "path": "posts/2026-02-08-after-merging-xai-and-spacex-elon-musk-hopes-he-can-win-over-wall-street.html",
+      "date_iso": "2026-02-08T01:27:03+00:00",
+      "source": "https://www.nytimes.com/2026/02/07/technology/elon-musk-spacex-xai.html",
+      "summary": "SpaceX’s launchpad near Brownsville, Texas. In addition to rockets and satellites, Elon Musk’s company now includes artificial intelligence and social media businesses."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46930391",
+      "title": "Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory",
+      "slug": "2026-02-08-show-hn-localgpt-a-local-first-ai-assistant-in-rust-with-persistent-memory.html",
+      "path": "posts/2026-02-08-show-hn-localgpt-a-local-first-ai-assistant-in-rust-with-persistent-memory.html",
+      "date_iso": "2026-02-08T01:26:38+00:00",
+      "source": "https://github.com/localgpt-app/localgpt",
+      "summary": "I built LocalGPT over 4 nights as a Rust reimagining of the OpenClaw assistant pattern (markdown-based persistent memory, autonomous heartbeat tasks, skills system). It compiles to a single ~27MB binary — no Node.js, Docker, or Python required. Key features: - Persistent memory…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46928810",
+      "title": "FDA intends to take action against non-FDA-approved GLP-1 drugs",
+      "slug": "2026-02-07-fda-intends-to-take-action-against-non-fda-approved-glp-1-drugs.html",
+      "path": "posts/2026-02-07-fda-intends-to-take-action-against-non-fda-approved-glp-1-drugs.html",
+      "date_iso": "2026-02-07T22:25:03+00:00",
+      "source": "https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs",
+      "summary": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs Comments URL: https://news.ycombinator.com/item?id=46928810 Points: 116 # Comments: 243"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46926576",
+      "title": "Brookhaven Lab's RHIC concludes 25-year run with final collisions",
+      "slug": "2026-02-07-brookhaven-lab-s-rhic-concludes-25-year-run-with-final-collisions.html",
+      "path": "posts/2026-02-07-brookhaven-lab-s-rhic-concludes-25-year-run-with-final-collisions.html",
+      "date_iso": "2026-02-07T19:07:27+00:00",
+      "source": "https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/",
+      "summary": "Article URL: https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/ Comments URL: https://news.ycombinator.com/item?id=46926576 Points: 76 # Comments: 60"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46926043",
+      "title": "Speed up responses with fast mode",
+      "slug": "2026-02-07-speed-up-responses-with-fast-mode.html",
+      "path": "posts/2026-02-07-speed-up-responses-with-fast-mode.html",
+      "date_iso": "2026-02-07T18:08:23+00:00",
+      "source": "https://code.claude.com/docs/en/fast-mode",
+      "summary": "Article URL: https://code.claude.com/docs/en/fast-mode Comments URL: https://news.ycombinator.com/item?id=46926043 Points: 172 # Comments: 165"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46925811",
+      "title": "Show HN: I saw this cool navigation reveal, so I made a simple HTML+CSS version",
+      "slug": "2026-02-07-show-hn-i-saw-this-cool-navigation-reveal-so-i-made-a-simple-html-css-version.html",
+      "path": "posts/2026-02-07-show-hn-i-saw-this-cool-navigation-reveal-so-i-made-a-simple-html-css-version.html",
+      "date_iso": "2026-02-07T17:45:27+00:00",
+      "source": "https://github.com/Momciloo/fun-with-clip-path",
+      "summary": "Two clip-paths, over the navigation: - The first clip-path is a circle (top-left corner) - The second clip-path is a polygon, that acts like a ray (hardcoded, can be improved) The original work by Iventions Events https://iventions.com/ uses JavaScript, but I found CSS-only appr…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46925741",
+      "title": "SectorC: A C Compiler in 512 bytes (2023)",
+      "slug": "2026-02-07-sectorc-a-c-compiler-in-512-bytes-2023.html",
+      "path": "posts/2026-02-07-sectorc-a-c-compiler-in-512-bytes-2023.html",
+      "date_iso": "2026-02-07T17:39:53+00:00",
+      "source": "https://xorvoid.com/sectorc.html",
+      "summary": "Article URL: https://xorvoid.com/sectorc.html Comments URL: https://news.ycombinator.com/item?id=46925741 Points: 270 # Comments: 51"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/07/science/mathematics-ai-proof-hairer.html",
+      "title": "These Mathematicians Are Trying to Educate A.I.",
+      "slug": "2026-02-07-these-mathematicians-are-trying-to-educate-a-i.html",
+      "path": "posts/2026-02-07-these-mathematicians-are-trying-to-educate-a-i.html",
+      "date_iso": "2026-02-07T17:08:56+00:00",
+      "source": "https://www.nytimes.com/2026/02/07/science/mathematics-ai-proof-hairer.html",
+      "summary": "Martin Hairer, a mathematician at the Swiss Federal Technology Institute of Lausanne. He splits his time between there and the Imperial College London."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46924790",
+      "title": "Al Lowe on model trains, funny deaths and working with Disney",
+      "slug": "2026-02-07-al-lowe-on-model-trains-funny-deaths-and-working-with-disney.html",
+      "path": "posts/2026-02-07-al-lowe-on-model-trains-funny-deaths-and-working-with-disney.html",
+      "date_iso": "2026-02-07T15:52:42+00:00",
+      "source": "https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/",
+      "summary": "Article URL: https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/ Comments URL: https://news.ycombinator.com/item?id=46924790 Points: 109 # Comments: 24"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46924591",
+      "title": "First Proof",
+      "slug": "2026-02-07-first-proof.html",
+      "path": "posts/2026-02-07-first-proof.html",
+      "date_iso": "2026-02-07T15:25:49+00:00",
+      "source": "https://arxiv.org/abs/2602.05192",
+      "summary": "Article URL: https://arxiv.org/abs/2602.05192 Comments URL: https://news.ycombinator.com/item?id=46924591 Points: 139 # Comments: 81"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46924426",
+      "title": "Software factories and the agentic moment",
+      "slug": "2026-02-07-software-factories-and-the-agentic-moment.html",
+      "path": "posts/2026-02-07-software-factories-and-the-agentic-moment.html",
+      "date_iso": "2026-02-07T15:05:56+00:00",
+      "source": "https://factory.strongdm.ai/",
+      "summary": "See also https://simonwillison.net/2026/Feb/7/software-factory/ Comments URL: https://news.ycombinator.com/item?id=46924426 Points: 209 # Comments: 360"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46924264",
+      "title": "Stories from 25 Years of Software Development",
+      "slug": "2026-02-07-stories-from-25-years-of-software-development.html",
+      "path": "posts/2026-02-07-stories-from-25-years-of-software-development.html",
+      "date_iso": "2026-02-07T14:42:16+00:00",
+      "source": "https://susam.net/twenty-five-years-of-computing.html",
+      "summary": "Article URL: https://susam.net/twenty-five-years-of-computing.html Comments URL: https://news.ycombinator.com/item?id=46924264 Points: 177 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46923254",
+      "title": "Hoot: Scheme on WebAssembly",
+      "slug": "2026-02-07-hoot-scheme-on-webassembly.html",
+      "path": "posts/2026-02-07-hoot-scheme-on-webassembly.html",
+      "date_iso": "2026-02-07T12:18:20+00:00",
+      "source": "https://www.spritely.institute/hoot/",
+      "summary": "Article URL: https://www.spritely.institute/hoot/ Comments URL: https://news.ycombinator.com/item?id=46923254 Points: 184 # Comments: 35"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46922969",
+      "title": "The AI boom is causing shortages everywhere else",
+      "slug": "2026-02-07-the-ai-boom-is-causing-shortages-everywhere-else.html",
+      "path": "posts/2026-02-07-the-ai-boom-is-causing-shortages-everywhere-else.html",
+      "date_iso": "2026-02-07T11:21:29+00:00",
+      "source": "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/",
+      "summary": "Article URL: https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/ Comments URL: https://news.ycombinator.com/item?id=46922969 Points: 316 # Comments: 514"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46922049",
+      "title": "Vocal Guide – belt sing without killing yourself",
+      "slug": "2026-02-07-vocal-guide-belt-sing-without-killing-yourself.html",
+      "path": "posts/2026-02-07-vocal-guide-belt-sing-without-killing-yourself.html",
+      "date_iso": "2026-02-07T07:37:03+00:00",
+      "source": "https://jesperordrup.github.io/vocal-guide/",
+      "summary": "Article URL: https://jesperordrup.github.io/vocal-guide/ Comments URL: https://news.ycombinator.com/item?id=46922049 Points: 331 # Comments: 99"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46921491",
       "title": "Zlob.h 100% POSIX and glibc compatible globbing lib that is faste and better",
       "slug": "2026-02-07-zlob-h-100-posix-and-glibc-compatible-globbing-lib-that-is-faste-and-better.html",
