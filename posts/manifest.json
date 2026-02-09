@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46941882",
+      "title": "Nobody knows how the whole system works",
+      "slug": "2026-02-09-nobody-knows-how-the-whole-system-works.html",
+      "path": "posts/2026-02-09-nobody-knows-how-the-whole-system-works.html",
+      "date_iso": "2026-02-09T05:28:15+00:00",
+      "source": "https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/",
+      "summary": "Article URL: https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/ Comments URL: https://news.ycombinator.com/item?id=46941882 Points: 23 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46941850",
+      "title": "A tough labor market for white-collar workers has turned recruiting upside down",
+      "slug": "2026-02-09-a-tough-labor-market-for-white-collar-workers-has-turned-recruiting-upside-down.html",
+      "path": "posts/2026-02-09-a-tough-labor-market-for-white-collar-workers-has-turned-recruiting-upside-down.html",
+      "date_iso": "2026-02-09T05:23:37+00:00",
+      "source": "https://www.wsj.com/lifestyle/careers/job-hunters-are-so-desperate-that-theyre-paying-to-get-recruited-44891ac2",
+      "summary": "Article URL: https://www.wsj.com/lifestyle/careers/job-hunters-are-so-desperate-that-theyre-paying-to-get-recruited-44891ac2 Comments URL: https://news.ycombinator.com/item?id=46941850 Points: 29 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46941640",
+      "title": "TSMC to make advanced AI semiconductors in Japan",
+      "slug": "2026-02-09-tsmc-to-make-advanced-ai-semiconductors-in-japan.html",
+      "path": "posts/2026-02-09-tsmc-to-make-advanced-ai-semiconductors-in-japan.html",
+      "date_iso": "2026-02-09T04:38:14+00:00",
+      "source": "https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5",
+      "summary": "Article URL: https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5 Comments URL: https://news.ycombinator.com/item?id=46941640 Points: 94 # Comments: 50"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46941603",
+      "title": "Claude’s C Compiler vs. GCC",
+      "slug": "2026-02-09-claude-s-c-compiler-vs-gcc.html",
+      "path": "posts/2026-02-09-claude-s-c-compiler-vs-gcc.html",
+      "date_iso": "2026-02-09T04:30:38+00:00",
+      "source": "https://harshanu.space/en/tech/ccc-vs-gcc/",
+      "summary": "Article URL: https://harshanu.space/en/tech/ccc-vs-gcc/ Comments URL: https://news.ycombinator.com/item?id=46941603 Points: 167 # Comments: 112"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46939685",
+      "title": "Every book recommended on the Odd Lots Discord",
+      "slug": "2026-02-08-every-book-recommended-on-the-odd-lots-discord.html",
+      "path": "posts/2026-02-08-every-book-recommended-on-the-odd-lots-discord.html",
+      "date_iso": "2026-02-08T23:27:59+00:00",
+      "source": "https://odd-lots-books.netlify.app/",
+      "summary": "Article URL: https://odd-lots-books.netlify.app/ Comments URL: https://news.ycombinator.com/item?id=46939685 Points: 80 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46939593",
+      "title": "AI makes the easy part easier and the hard part harder",
+      "slug": "2026-02-08-ai-makes-the-easy-part-easier-and-the-hard-part-harder.html",
+      "path": "posts/2026-02-08-ai-makes-the-easy-part-easier-and-the-hard-part-harder.html",
+      "date_iso": "2026-02-08T23:13:34+00:00",
+      "source": "https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder",
+      "summary": "Article URL: https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder Comments URL: https://news.ycombinator.com/item?id=46939593 Points: 260 # Comments: 202"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46939312",
+      "title": "Show HN: A custom font that displays Cistercian numerals using ligatures",
+      "slug": "2026-02-08-show-hn-a-custom-font-that-displays-cistercian-numerals-using-ligatures.html",
+      "path": "posts/2026-02-08-show-hn-a-custom-font-that-displays-cistercian-numerals-using-ligatures.html",
+      "date_iso": "2026-02-08T22:39:46+00:00",
+      "source": "https://bobbiec.github.io/cistercian-font.html",
+      "summary": "Article URL: https://bobbiec.github.io/cistercian-font.html Comments URL: https://news.ycombinator.com/item?id=46939312 Points: 70 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46939298",
+      "title": "Toma (YC W24) Is Hiring Founding Engineers",
+      "slug": "2026-02-08-toma-yc-w24-is-hiring-founding-engineers.html",
+      "path": "posts/2026-02-08-toma-yc-w24-is-hiring-founding-engineers.html",
+      "date_iso": "2026-02-08T22:38:14+00:00",
+      "source": "https://www.ycombinator.com/companies/toma/jobs/oONUnCf-founding-engineer-ai-products",
+      "summary": "Article URL: https://www.ycombinator.com/companies/toma/jobs/oONUnCf-founding-engineer-ai-products Comments URL: https://news.ycombinator.com/item?id=46939298 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46939187",
+      "title": "Reverse Engineering the Prom for the SGI O2",
+      "slug": "2026-02-08-reverse-engineering-the-prom-for-the-sgi-o2.html",
+      "path": "posts/2026-02-08-reverse-engineering-the-prom-for-the-sgi-o2.html",
+      "date_iso": "2026-02-08T22:25:25+00:00",
+      "source": "https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/",
+      "summary": "Article URL: https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/ Comments URL: https://news.ycombinator.com/item?id=46939187 Points: 84 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46938903",
+      "title": "Shifts in U.S. Social Media Use, 2020–2024: Decline, Fragmentation, Polarization (2025)",
+      "slug": "2026-02-08-shifts-in-u-s-social-media-use-2020-2024-decline-fragmentation-polarization-2025.html",
+      "path": "posts/2026-02-08-shifts-in-u-s-social-media-use-2020-2024-decline-fragmentation-polarization-2025.html",
+      "date_iso": "2026-02-08T21:52:28+00:00",
+      "source": "https://arxiv.org/abs/2510.25417",
+      "summary": "Article URL: https://arxiv.org/abs/2510.25417 Comments URL: https://news.ycombinator.com/item?id=46938903 Points: 177 # Comments: 159"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46938511",
+      "title": "Art of Roads in Games",
+      "slug": "2026-02-08-art-of-roads-in-games.html",
+      "path": "posts/2026-02-08-art-of-roads-in-games.html",
+      "date_iso": "2026-02-08T21:05:24+00:00",
+      "source": "https://sandboxspirit.com/blog/art-of-roads-in-games/",
+      "summary": "Article URL: https://sandboxspirit.com/blog/art-of-roads-in-games/ Comments URL: https://news.ycombinator.com/item?id=46938511 Points: 203 # Comments: 62"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46938398",
+      "title": "More Mac malware from Google search",
+      "slug": "2026-02-08-more-mac-malware-from-google-search.html",
+      "path": "posts/2026-02-08-more-mac-malware-from-google-search.html",
+      "date_iso": "2026-02-08T20:52:55+00:00",
+      "source": "https://eclecticlight.co/2026/01/30/more-malware-from-google-search/",
+      "summary": "Article URL: https://eclecticlight.co/2026/01/30/more-malware-from-google-search/ Comments URL: https://news.ycombinator.com/item?id=46938398 Points: 162 # Comments: 107"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46938369",
+      "title": "Show HN: I recreated Yahoo",
+      "slug": "2026-02-08-show-hn-i-recreated-yahoo.html",
+      "path": "posts/2026-02-08-show-hn-i-recreated-yahoo.html",
+      "date_iso": "2026-02-08T20:49:51+00:00",
+      "source": "https://retrochat-4.emergent.host/login",
+      "summary": "i recreated Yahoo! Chat with cams in im's and in main chat rooms .. world wide rooms all with voice and cams no make your own user rooms but its working great i can give you a preview just go register and then i will grant access within 5 hours ... plan to go public in a month C…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46938280",
+      "title": "Apple XNU: Clutch Scheduler",
+      "slug": "2026-02-08-apple-xnu-clutch-scheduler.html",
+      "path": "posts/2026-02-08-apple-xnu-clutch-scheduler.html",
+      "date_iso": "2026-02-08T20:38:55+00:00",
+      "source": "https://github.com/apple-oss-distributions/xnu/blob/main/doc/scheduler/sched_clutch_edge.md",
+      "summary": "Article URL: https://github.com/apple-oss-distributions/xnu/blob/main/doc/scheduler/sched_clutch_edge.md Comments URL: https://news.ycombinator.com/item?id=46938280 Points: 130 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46938241",
+      "title": "A GTA modder has got the 1997 original working on modern PCs and Steam Deck",
+      "slug": "2026-02-08-a-gta-modder-has-got-the-1997-original-working-on-modern-pcs-and-steam-deck.html",
+      "path": "posts/2026-02-08-a-gta-modder-has-got-the-1997-original-working-on-modern-pcs-and-steam-deck.html",
+      "date_iso": "2026-02-08T20:34:51+00:00",
+      "source": "https://gtaforums.com/topic/986492-grand-theft-auto-ready2play-full-game-windows-version/",
+      "summary": "Article URL: https://gtaforums.com/topic/986492-grand-theft-auto-ready2play-full-game-windows-version/ Comments URL: https://news.ycombinator.com/item?id=46938241 Points: 177 # Comments: 82"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46937696",
+      "title": "Ask HN: What are you working on? (February 2026)",
+      "slug": "2026-02-08-ask-hn-what-are-you-working-on-february-2026.html",
+      "path": "posts/2026-02-08-ask-hn-what-are-you-working-on-february-2026.html",
+      "date_iso": "2026-02-08T19:35:55+00:00",
+      "source": "https://news.ycombinator.com/item?id=46937696",
+      "summary": "What are you working on? Any new ideas that you're thinking about? Comments URL: https://news.ycombinator.com/item?id=46937696 Points: 133 # Comments: 399"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46937012",
+      "title": "Roundcube Webmail: SVG feImage bypasses image blocking to track email opens",
+      "slug": "2026-02-08-roundcube-webmail-svg-feimage-bypasses-image-blocking-to-track-email-opens.html",
+      "path": "posts/2026-02-08-roundcube-webmail-svg-feimage-bypasses-image-blocking-to-track-email-opens.html",
+      "date_iso": "2026-02-08T18:24:26+00:00",
+      "source": "https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/",
+      "summary": "Article URL: https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/ Comments URL: https://news.ycombinator.com/item?id=46937012 Points: 130 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46936920",
+      "title": "Experts Have World Models. LLMs Have Word Models",
+      "slug": "2026-02-08-experts-have-world-models-llms-have-word-models.html",
+      "path": "posts/2026-02-08-experts-have-world-models-llms-have-word-models.html",
+      "date_iso": "2026-02-08T18:13:48+00:00",
+      "source": "https://www.latent.space/p/adversarial-reasoning",
+      "summary": "Article URL: https://www.latent.space/p/adversarial-reasoning Comments URL: https://news.ycombinator.com/item?id=46936920 Points: 75 # Comments: 89"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46936828",
+      "title": "The Little Bool of Doom (2025)",
+      "slug": "2026-02-08-the-little-bool-of-doom-2025.html",
+      "path": "posts/2026-02-08-the-little-bool-of-doom-2025.html",
+      "date_iso": "2026-02-08T18:02:50+00:00",
+      "source": "https://blog.svgames.pl/article/the-little-bool-of-doom",
+      "summary": "Article URL: https://blog.svgames.pl/article/the-little-bool-of-doom Comments URL: https://news.ycombinator.com/item?id=46936828 Points: 94 # Comments: 33"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46936237",
+      "title": "Show HN: I created a Mars colony RPG based on Kim Stanley Robinson’s Mars books",
+      "slug": "2026-02-08-show-hn-i-created-a-mars-colony-rpg-based-on-kim-stanley-robinson-s-mars-books.html",
+      "path": "posts/2026-02-08-show-hn-i-created-a-mars-colony-rpg-based-on-kim-stanley-robinson-s-mars-books.html",
+      "date_iso": "2026-02-08T17:08:30+00:00",
+      "source": "https://underhillgame.com/",
+      "summary": "I built a desktop Mars colony survival game called Underhill, in homage to Kim Stanley Robinson's Mars trilogy. Land on Mars, build solar panels and greenhouses, and try not to pass out during dust storms. Eventually your colonists split into factions: Greens who want to terrafo…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/08/style/ai-tech-san-francisco.html",
+      "title": "These A.I. Dreamers Don’t Fit the Stereotype",
+      "slug": "2026-02-08-these-a-i-dreamers-don-t-fit-the-stereotype.html",
+      "path": "posts/2026-02-08-these-a-i-dreamers-don-t-fit-the-stereotype.html",
+      "date_iso": "2026-02-08T10:00:34+00:00",
+      "source": "https://www.nytimes.com/2026/02/08/style/ai-tech-san-francisco.html",
+      "summary": "The office of the San Francisco start-up Usul."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46931805",
       "title": "OpenClaw Is Changing My Life",
       "slug": "2026-02-08-openclaw-is-changing-my-life.html",
