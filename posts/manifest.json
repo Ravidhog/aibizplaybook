@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46954920",
+      "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
+      "slug": "2026-02-10-frontier-ai-agents-violate-ethical-constraints-30-50-of-time-pressured-by-kpis.html",
+      "path": "posts/2026-02-10-frontier-ai-agents-violate-ethical-constraints-30-50-of-time-pressured-by-kpis.html",
+      "date_iso": "2026-02-10T03:17:17+00:00",
+      "source": "https://arxiv.org/abs/2512.20798",
+      "summary": "Article URL: https://arxiv.org/abs/2512.20798 Comments URL: https://news.ycombinator.com/item?id=46954920 Points: 191 # Comments: 118"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46954136",
+      "title": "Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser",
+      "slug": "2026-02-10-rust-implementation-of-mistral-s-voxtral-mini-4b-realtime-runs-in-your-browser.html",
+      "path": "posts/2026-02-10-rust-implementation-of-mistral-s-voxtral-mini-4b-realtime-runs-in-your-browser.html",
+      "date_iso": "2026-02-10T01:26:42+00:00",
+      "source": "https://github.com/TrevorS/voxtral-mini-realtime-rs",
+      "summary": "Article URL: https://github.com/TrevorS/voxtral-mini-realtime-rs Comments URL: https://news.ycombinator.com/item?id=46954136 Points: 158 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46954049",
+      "title": "Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model",
+      "slug": "2026-02-10-pure-c-cpu-only-inference-with-mistral-voxtral-realtime-4b-speech-to-text-model.html",
+      "path": "posts/2026-02-10-pure-c-cpu-only-inference-with-mistral-voxtral-realtime-4b-speech-to-text-model.html",
+      "date_iso": "2026-02-10T01:17:35+00:00",
+      "source": "https://github.com/antirez/voxtral.c",
+      "summary": "Article URL: https://github.com/antirez/voxtral.c Comments URL: https://news.ycombinator.com/item?id=46954049 Points: 85 # Comments: 5"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/09/technology/social-media-addiction-trial.html",
+      "title": "Meta and YouTube Created ‘Digital Casinos,’ Lawyers Argue in Landmark Trial",
+      "slug": "2026-02-10-meta-and-youtube-created-digital-casinos-lawyers-argue-in-landmark-trial.html",
+      "path": "posts/2026-02-10-meta-and-youtube-created-digital-casinos-lawyers-argue-in-landmark-trial.html",
+      "date_iso": "2026-02-10T00:53:17+00:00",
+      "source": "https://www.nytimes.com/2026/02/09/technology/social-media-addiction-trial.html",
+      "summary": "Opening statements began in a trial claiming social media companies design addictive products that cause personal injury."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46953136",
+      "title": "Is particle physics dead, dying, or just hard?",
+      "slug": "2026-02-09-is-particle-physics-dead-dying-or-just-hard.html",
+      "path": "posts/2026-02-09-is-particle-physics-dead-dying-or-just-hard.html",
+      "date_iso": "2026-02-09T23:31:15+00:00",
+      "source": "https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/",
+      "summary": "Article URL: https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/ Comments URL: https://news.ycombinator.com/item?id=46953136 Points: 95 # Comments: 154"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46952987",
+      "title": "The shadowy world of abandoned oil tankers",
+      "slug": "2026-02-09-the-shadowy-world-of-abandoned-oil-tankers.html",
+      "path": "posts/2026-02-09-the-shadowy-world-of-abandoned-oil-tankers.html",
+      "date_iso": "2026-02-09T23:17:42+00:00",
+      "source": "https://www.bbc.com/news/articles/cddg885344do",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cddg885344do Comments URL: https://news.ycombinator.com/item?id=46952987 Points: 114 # Comments: 68"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46952118",
+      "title": "LiftKit – UI where \"everything derives from the golden ratio\"",
+      "slug": "2026-02-09-liftkit-ui-where-everything-derives-from-the-golden-ratio.html",
+      "path": "posts/2026-02-09-liftkit-ui-where-everything-derives-from-the-golden-ratio.html",
+      "date_iso": "2026-02-09T22:01:34+00:00",
+      "source": "https://www.chainlift.io/liftkit",
+      "summary": "Article URL: https://www.chainlift.io/liftkit Comments URL: https://news.ycombinator.com/item?id=46952118 Points: 144 # Comments: 86"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46951057",
+      "title": "America has a tungsten problem",
+      "slug": "2026-02-09-america-has-a-tungsten-problem.html",
+      "path": "posts/2026-02-09-america-has-a-tungsten-problem.html",
+      "date_iso": "2026-02-09T20:49:21+00:00",
+      "source": "https://www.noleary.com/blog/posts/1",
+      "summary": "Article URL: https://www.noleary.com/blog/posts/1 Comments URL: https://news.ycombinator.com/item?id=46951057 Points: 158 # Comments: 155"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46950780",
+      "title": "Upcoming changes to Let's Encrypt and how they affect XMPP server operators",
+      "slug": "2026-02-09-upcoming-changes-to-let-s-encrypt-and-how-they-affect-xmpp-server-operators.html",
+      "path": "posts/2026-02-09-upcoming-changes-to-let-s-encrypt-and-how-they-affect-xmpp-server-operators.html",
+      "date_iso": "2026-02-09T20:31:44+00:00",
+      "source": "https://blog.prosody.im/2026-letsencrypt-changes/",
+      "summary": "Article URL: https://blog.prosody.im/2026-letsencrypt-changes/ Comments URL: https://news.ycombinator.com/item?id=46950780 Points: 104 # Comments: 97"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46950756",
+      "title": "Game Theory Patterns at Work (2016)",
+      "slug": "2026-02-09-game-theory-patterns-at-work-2016.html",
+      "path": "posts/2026-02-09-game-theory-patterns-at-work-2016.html",
+      "date_iso": "2026-02-09T20:30:10+00:00",
+      "source": "https://daeus.blog/2026/01/18/game-theory-patterns-at-work/",
+      "summary": "Article URL: https://daeus.blog/2026/01/18/game-theory-patterns-at-work/ Comments URL: https://news.ycombinator.com/item?id=46950756 Points: 71 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46949642",
+      "title": "Luce: First Electric Ferrari",
+      "slug": "2026-02-09-luce-first-electric-ferrari.html",
+      "path": "posts/2026-02-09-luce-first-electric-ferrari.html",
+      "date_iso": "2026-02-09T19:19:30+00:00",
+      "source": "https://www.ferrari.com/en-US/auto/ferrari-luce",
+      "summary": "Article URL: https://www.ferrari.com/en-US/auto/ferrari-luce Comments URL: https://news.ycombinator.com/item?id=46949642 Points: 153 # Comments: 155"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46949564",
+      "title": "Discord Alternatives, Ranked",
+      "slug": "2026-02-09-discord-alternatives-ranked.html",
+      "path": "posts/2026-02-09-discord-alternatives-ranked.html",
+      "date_iso": "2026-02-09T19:15:14+00:00",
+      "source": "https://taggart-tech.com/discord-alternatives/",
+      "summary": "Article URL: https://taggart-tech.com/discord-alternatives/ Comments URL: https://news.ycombinator.com/item?id=46949564 Points: 144 # Comments: 53"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46949452",
+      "title": "Another GitHub outage in the same day",
+      "slug": "2026-02-09-another-github-outage-in-the-same-day.html",
+      "path": "posts/2026-02-09-another-github-outage-in-the-same-day.html",
+      "date_iso": "2026-02-09T19:07:25+00:00",
+      "source": "https://www.githubstatus.com/incidents/lcw3tg2f6zsd",
+      "summary": "Article URL: https://www.githubstatus.com/incidents/lcw3tg2f6zsd Comments URL: https://news.ycombinator.com/item?id=46949452 Points: 314 # Comments: 235"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46948533",
+      "title": "Everyone’s building “async agents,” but almost no one can define them",
+      "slug": "2026-02-09-everyone-s-building-async-agents-but-almost-no-one-can-define-them.html",
+      "path": "posts/2026-02-09-everyone-s-building-async-agents-but-almost-no-one-can-define-them.html",
+      "date_iso": "2026-02-09T18:01:44+00:00",
+      "source": "https://www.omnara.com/blog/what-is-an-async-agent-really",
+      "summary": "Article URL: https://www.omnara.com/blog/what-is-an-async-agent-really Comments URL: https://news.ycombinator.com/item?id=46948533 Points: 45 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46948273",
+      "title": "Game Boy Advance Audio Interpolation",
+      "slug": "2026-02-09-game-boy-advance-audio-interpolation.html",
+      "path": "posts/2026-02-09-game-boy-advance-audio-interpolation.html",
+      "date_iso": "2026-02-09T17:44:10+00:00",
+      "source": "https://jsgroth.dev/blog/posts/gba-audio-interpolation/",
+      "summary": "Article URL: https://jsgroth.dev/blog/posts/gba-audio-interpolation/ Comments URL: https://news.ycombinator.com/item?id=46948273 Points: 88 # Comments: 38"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/09/health/ai-chatbots-doctors-medicine.html",
+      "title": "A.I. Is Making Doctors Answer a Question: What Are They Really Good For?",
+      "slug": "2026-02-09-a-i-is-making-doctors-answer-a-question-what-are-they-really-good-for.html",
+      "path": "posts/2026-02-09-a-i-is-making-doctors-answer-a-question-what-are-they-really-good-for.html",
+      "date_iso": "2026-02-09T17:17:56+00:00",
+      "source": "https://www.nytimes.com/2026/02/09/health/ai-chatbots-doctors-medicine.html",
+      "summary": "Many physicians find chatbots threatening, but that doesn’t mean they’re giving up on medicine."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46947777",
+      "title": "Hard-braking events as indicators of road segment crash risk",
+      "slug": "2026-02-09-hard-braking-events-as-indicators-of-road-segment-crash-risk.html",
+      "path": "posts/2026-02-09-hard-braking-events-as-indicators-of-road-segment-crash-risk.html",
+      "date_iso": "2026-02-09T17:09:37+00:00",
+      "source": "https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/",
+      "summary": "Article URL: https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/ Comments URL: https://news.ycombinator.com/item?id=46947777 Points: 261 # Comments: 389"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46947096",
+      "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
+      "slug": "2026-02-09-converting-a-3-88-analog-clock-from-walmart-into-a-esp8266-based-wi-fi-clock.html",
+      "path": "posts/2026-02-09-converting-a-3-88-analog-clock-from-walmart-into-a-esp8266-based-wi-fi-clock.html",
+      "date_iso": "2026-02-09T16:26:31+00:00",
+      "source": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
+      "summary": "Article URL: https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock Comments URL: https://news.ycombinator.com/item?id=46947096 Points: 470 # Comments: 158"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46946401",
+      "title": "Why is the sky blue?",
+      "slug": "2026-02-09-why-is-the-sky-blue.html",
+      "path": "posts/2026-02-09-why-is-the-sky-blue.html",
+      "date_iso": "2026-02-09T15:39:51+00:00",
+      "source": "https://explainers.blog/posts/why-is-the-sky-blue/",
+      "summary": "Article URL: https://explainers.blog/posts/why-is-the-sky-blue/ Comments URL: https://news.ycombinator.com/item?id=46946401 Points: 530 # Comments: 180"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46946308",
+      "title": "Sandboxels",
+      "slug": "2026-02-09-sandboxels.html",
+      "path": "posts/2026-02-09-sandboxels.html",
+      "date_iso": "2026-02-09T15:31:09+00:00",
+      "source": "https://neal.fun/sandboxels/",
+      "summary": "Article URL: https://neal.fun/sandboxels/ Comments URL: https://news.ycombinator.com/item?id=46946308 Points: 251 # Comments: 31"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46946062",
+      "title": "Sleeper Shells: Attackers Are Planting Dormant Backdoors in Ivanti EPMM",
+      "slug": "2026-02-09-sleeper-shells-attackers-are-planting-dormant-backdoors-in-ivanti-epmm.html",
+      "path": "posts/2026-02-09-sleeper-shells-attackers-are-planting-dormant-backdoors-in-ivanti-epmm.html",
+      "date_iso": "2026-02-09T15:11:07+00:00",
+      "source": "https://defusedcyber.com/ivanti-epmm-sleeper-shells-403jsp",
+      "summary": "Article URL: https://defusedcyber.com/ivanti-epmm-sleeper-shells-403jsp Comments URL: https://news.ycombinator.com/item?id=46946062 Points: 135 # Comments: 49"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46945663",
+      "title": "Discord will require a face scan or ID for full access next month",
+      "slug": "2026-02-09-discord-will-require-a-face-scan-or-id-for-full-access-next-month.html",
+      "path": "posts/2026-02-09-discord-will-require-a-face-scan-or-id-for-full-access-next-month.html",
+      "date_iso": "2026-02-09T14:37:38+00:00",
+      "source": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
+      "summary": "https://discord.com/press-releases/discord-launches-teen-by-... https://discord.com/safety/how-discord-is-building-safer-exp... Comments URL: https://news.ycombinator.com/item?id=46945663 Points: 1567 # Comments: 1488"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46941882",
       "title": "Nobody knows how the whole system works",
       "slug": "2026-02-09-nobody-knows-how-the-whole-system-works.html",
