@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46971794",
+      "title": "CoLoop (YC S21) Is Hiring Ex Technical Founders in London",
+      "slug": "2026-02-11-coloop-yc-s21-is-hiring-ex-technical-founders-in-london.html",
+      "path": "posts/2026-02-11-coloop-yc-s21-is-hiring-ex-technical-founders-in-london.html",
+      "date_iso": "2026-02-11T07:00:46+00:00",
+      "source": "https://www.workatastartup.com/jobs/90016",
+      "summary": "Article URL: https://www.workatastartup.com/jobs/90016 Comments URL: https://news.ycombinator.com/item?id=46971794 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46971287",
+      "title": "Show HN: I taught GPT-OSS-120B to see using Google Lens and OpenCV",
+      "slug": "2026-02-11-show-hn-i-taught-gpt-oss-120b-to-see-using-google-lens-and-opencv.html",
+      "path": "posts/2026-02-11-show-hn-i-taught-gpt-oss-120b-to-see-using-google-lens-and-opencv.html",
+      "date_iso": "2026-02-11T05:40:20+00:00",
+      "source": "https://news.ycombinator.com/item?id=46971287",
+      "summary": "I built an MCP server that gives any local LLM real Google search and now vision capabilities - no API keys needed. The latest feature: google_lens_detect uses OpenCV to find objects in an image, crops each one, and sends them to Google Lens for identification. GPT-OSS-120B, a t…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46971248",
+      "title": "Stay Hungry, Stay Foolish (2005)",
+      "slug": "2026-02-11-stay-hungry-stay-foolish-2005.html",
+      "path": "posts/2026-02-11-stay-hungry-stay-foolish-2005.html",
+      "date_iso": "2026-02-11T05:32:10+00:00",
+      "source": "https://stevejobsarchive.com/stories/stay-hungry-stay-foolish",
+      "summary": "Article URL: https://stevejobsarchive.com/stories/stay-hungry-stay-foolish Comments URL: https://news.ycombinator.com/item?id=46971248 Points: 10 # Comments: 2"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/10/business/ford-earnings-electric-vehicles.html",
+      "title": "Ford Says Electric Vehicle Losses Will Continue for 3 More Years",
+      "slug": "2026-02-11-ford-says-electric-vehicle-losses-will-continue-for-3-more-years.html",
+      "path": "posts/2026-02-11-ford-says-electric-vehicle-losses-will-continue-for-3-more-years.html",
+      "date_iso": "2026-02-11T02:34:58+00:00",
+      "source": "https://www.nytimes.com/2026/02/10/business/ford-earnings-electric-vehicles.html",
+      "summary": "An F-150 Lightning electric pickup truck, which the company stopped producing last year, after federal tax credits for electric vehicles ended."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/10/technology/elon-musk-lunar-factory.html",
+      "title": "Elon Musk Wants to Build an A.I. Satellite Factory on the Moon",
+      "slug": "2026-02-11-elon-musk-wants-to-build-an-a-i-satellite-factory-on-the-moon.html",
+      "path": "posts/2026-02-11-elon-musk-wants-to-build-an-a-i-satellite-factory-on-the-moon.html",
+      "date_iso": "2026-02-11T02:04:43+00:00",
+      "source": "https://www.nytimes.com/2026/02/10/technology/elon-musk-lunar-factory.html",
+      "summary": "Elon Musk told employees of xAI that he plans to put a factory on the moon as a steppingstone to colonizing Mars."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46969399",
+      "title": "Rivian R2: Electric Mid-Size SUV",
+      "slug": "2026-02-11-rivian-r2-electric-mid-size-suv.html",
+      "path": "posts/2026-02-11-rivian-r2-electric-mid-size-suv.html",
+      "date_iso": "2026-02-11T01:00:15+00:00",
+      "source": "https://rivian.com/r2",
+      "summary": "Article URL: https://rivian.com/r2 Comments URL: https://news.ycombinator.com/item?id=46969399 Points: 97 # Comments: 165"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46969088",
+      "title": "Fun With Pinball",
+      "slug": "2026-02-11-fun-with-pinball.html",
+      "path": "posts/2026-02-11-fun-with-pinball.html",
+      "date_iso": "2026-02-11T00:21:55+00:00",
+      "source": "https://www.funwithpinball.com/exhibits/small-boards",
+      "summary": "Article URL: https://www.funwithpinball.com/exhibits/small-boards Comments URL: https://news.ycombinator.com/item?id=46969088 Points: 71 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46967772",
+      "title": "The Day the Telnet Died",
+      "slug": "2026-02-10-the-day-the-telnet-died.html",
+      "path": "posts/2026-02-10-the-day-the-telnet-died.html",
+      "date_iso": "2026-02-10T22:20:40+00:00",
+      "source": "https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/",
+      "summary": "Article URL: https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/ Comments URL: https://news.ycombinator.com/item?id=46967772 Points: 307 # Comments: 210"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/10/technology/youtube-social-media-addiction-trial.html",
+      "title": "YouTube Argues It Isn’t Social Media in Landmark Tech Addiction Trial",
+      "slug": "2026-02-10-youtube-argues-it-isn-t-social-media-in-landmark-tech-addiction-trial.html",
+      "path": "posts/2026-02-10-youtube-argues-it-isn-t-social-media-in-landmark-tech-addiction-trial.html",
+      "date_iso": "2026-02-10T21:28:40+00:00",
+      "source": "https://www.nytimes.com/2026/02/10/technology/youtube-social-media-addiction-trial.html",
+      "summary": "Neal Mohan, left, the chief executive of YouTube, in 2024. The company’s lawyers argued in court on Tuesday that YouTube was an entertainment platform, not a social media platform."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/10/business/spacex-nlrb-labor-elon-musk.html",
+      "title": "NLRB Dismisses Case Brought by Fired SpaceX Employees",
+      "slug": "2026-02-10-nlrb-dismisses-case-brought-by-fired-spacex-employees.html",
+      "path": "posts/2026-02-10-nlrb-dismisses-case-brought-by-fired-spacex-employees.html",
+      "date_iso": "2026-02-10T20:57:05+00:00",
+      "source": "https://www.nytimes.com/2026/02/10/business/spacex-nlrb-labor-elon-musk.html",
+      "summary": "Eight SpaceX employees were fired soon after asking the company to distance itself from comments made by Elon Musk, including one in which he made light of accusations of harassment directed at him."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46966605",
+      "title": "The Falkirk Wheel",
+      "slug": "2026-02-10-the-falkirk-wheel.html",
+      "path": "posts/2026-02-10-the-falkirk-wheel.html",
+      "date_iso": "2026-02-10T20:42:20+00:00",
+      "source": "https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel",
+      "summary": "Article URL: https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel Comments URL: https://news.ycombinator.com/item?id=46966605 Points: 62 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46966182",
+      "title": "Tambo 1.0: Open-source toolkit for agents that render React components",
+      "slug": "2026-02-10-tambo-1-0-open-source-toolkit-for-agents-that-render-react-components.html",
+      "path": "posts/2026-02-10-tambo-1-0-open-source-toolkit-for-agents-that-render-react-components.html",
+      "date_iso": "2026-02-10T20:16:12+00:00",
+      "source": "https://github.com/tambo-ai/tambo",
+      "summary": "Hi HN — cofounder Michael here. We've been building Tambo for about a year, and just released our 1.0. We make are making it easier to register React components with Zod schemas, a build an agent picks the right one and renders the right props. We handle many of the complication…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/10/technology/personaltech/ai-google-meta-opt-out.html",
+      "title": "A.I. Personalizes the Internet but Takes Away Control",
+      "slug": "2026-02-10-a-i-personalizes-the-internet-but-takes-away-control.html",
+      "path": "posts/2026-02-10-a-i-personalizes-the-internet-but-takes-away-control.html",
+      "date_iso": "2026-02-10T19:28:27+00:00",
+      "source": "https://www.nytimes.com/2026/02/10/technology/personaltech/ai-google-meta-opt-out.html",
+      "summary": "The relentless addition of artificial intelligence in popular apps raises questions about what’s at stake. The answer: the future of the internet and its lifeblood, digital advertising."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46965440",
+      "title": "How did Windows 95 get permission to put Weezer video 'Buddy Holly' on the CD?",
+      "slug": "2026-02-10-how-did-windows-95-get-permission-to-put-weezer-video-buddy-holly-on-the-cd.html",
+      "path": "posts/2026-02-10-how-did-windows-95-get-permission-to-put-weezer-video-buddy-holly-on-the-cd.html",
+      "date_iso": "2026-02-10T19:25:55+00:00",
+      "source": "https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052",
+      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052 Comments URL: https://news.ycombinator.com/item?id=46965440 Points: 163 # Comments: 122"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46963865",
+      "title": "Markdown CLI viewer with VI keybindings",
+      "slug": "2026-02-10-markdown-cli-viewer-with-vi-keybindings.html",
+      "path": "posts/2026-02-10-markdown-cli-viewer-with-vi-keybindings.html",
+      "date_iso": "2026-02-10T17:51:10+00:00",
+      "source": "https://github.com/taf2/mdvi",
+      "summary": "Article URL: https://github.com/taf2/mdvi Comments URL: https://news.ycombinator.com/item?id=46963865 Points: 69 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46962996",
+      "title": "The Singularity will occur on a Tuesday",
+      "slug": "2026-02-10-the-singularity-will-occur-on-a-tuesday.html",
+      "path": "posts/2026-02-10-the-singularity-will-occur-on-a-tuesday.html",
+      "date_iso": "2026-02-10T17:04:31+00:00",
+      "source": "https://campedersen.com/singularity",
+      "summary": "Article URL: https://campedersen.com/singularity Comments URL: https://news.ycombinator.com/item?id=46962996 Points: 991 # Comments: 565"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46962641",
+      "title": "Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)",
+      "slug": "2026-02-10-show-hn-rowboat-ai-coworker-that-turns-your-work-into-a-knowledge-graph-oss.html",
+      "path": "posts/2026-02-10-show-hn-rowboat-ai-coworker-that-turns-your-work-into-a-knowledge-graph-oss.html",
+      "date_iso": "2026-02-10T16:47:29+00:00",
+      "source": "https://github.com/rowboatlabs/rowboat",
+      "summary": "Hi HN, AI agents that can run tools on your machine are powerful for knowledge work, but they’re only as useful as the context they have. Rowboat is an open-source, local-first app that turns your work into a living knowledge graph (stored as plain Markdown with backlinks) and u…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46962402",
+      "title": "Mathematicians disagree on the essential structure of the complex numbers (2024)",
+      "slug": "2026-02-10-mathematicians-disagree-on-the-essential-structure-of-the-complex-numbers-2024.html",
+      "path": "posts/2026-02-10-mathematicians-disagree-on-the-essential-structure-of-the-complex-numbers-2024.html",
+      "date_iso": "2026-02-10T16:36:30+00:00",
+      "source": "https://www.infinitelymore.xyz/p/complex-numbers-essential-structure",
+      "summary": "Article URL: https://www.infinitelymore.xyz/p/complex-numbers-essential-structure Comments URL: https://news.ycombinator.com/item?id=46962402 Points: 197 # Comments: 243"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46961726",
+      "title": "Competition is not market validation",
+      "slug": "2026-02-10-competition-is-not-market-validation.html",
+      "path": "posts/2026-02-10-competition-is-not-market-validation.html",
+      "date_iso": "2026-02-10T16:04:21+00:00",
+      "source": "https://www.ablg.io/blog/competition-is-not-validation",
+      "summary": "Article URL: https://www.ablg.io/blog/competition-is-not-validation Comments URL: https://news.ycombinator.com/item?id=46961726 Points: 94 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46961345",
+      "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
+      "slug": "2026-02-10-ex-github-ceo-launches-a-new-developer-platform-for-ai-agents.html",
+      "path": "posts/2026-02-10-ex-github-ceo-launches-a-new-developer-platform-for-ai-agents.html",
+      "date_iso": "2026-02-10T15:44:47+00:00",
+      "source": "https://entire.io/blog/hello-entire-world/",
+      "summary": "Article URL: https://entire.io/blog/hello-entire-world/ Comments URL: https://news.ycombinator.com/item?id=46961345 Points: 452 # Comments: 409"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46960036",
+      "title": "Oxide raises $200M Series C",
+      "slug": "2026-02-10-oxide-raises-200m-series-c.html",
+      "path": "posts/2026-02-10-oxide-raises-200m-series-c.html",
+      "date_iso": "2026-02-10T14:20:49+00:00",
+      "source": "https://oxide.computer/blog/our-200m-series-c",
+      "summary": "Article URL: https://oxide.computer/blog/our-200m-series-c Comments URL: https://news.ycombinator.com/item?id=46960036 Points: 565 # Comments: 298"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46959418",
+      "title": "Simplifying Vulkan one subsystem at a time",
+      "slug": "2026-02-10-simplifying-vulkan-one-subsystem-at-a-time.html",
+      "path": "posts/2026-02-10-simplifying-vulkan-one-subsystem-at-a-time.html",
+      "date_iso": "2026-02-10T13:26:14+00:00",
+      "source": "https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time",
+      "summary": "Article URL: https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time Comments URL: https://news.ycombinator.com/item?id=46959418 Points: 241 # Comments: 154"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46958742",
+      "title": "Show HN: Distr 2.0 – A year of learning how to ship to customer environments",
+      "slug": "2026-02-10-show-hn-distr-2-0-a-year-of-learning-how-to-ship-to-customer-environments.html",
+      "path": "posts/2026-02-10-show-hn-distr-2-0-a-year-of-learning-how-to-ship-to-customer-environments.html",
+      "date_iso": "2026-02-10T12:19:23+00:00",
+      "source": "https://github.com/distr-sh/distr",
+      "summary": "A year ago, we launched Distr here to help software vendors manage customer deployments remotely. We had agents that pulled updates, a hub with a GUI, and a lot of assumptions about what on-prem deployment needed. It turned out things get messy when your software is running in p…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46958399",
+      "title": "Europe's $24T Breakup with Visa and Mastercard Has Begun",
+      "slug": "2026-02-10-europe-s-24t-breakup-with-visa-and-mastercard-has-begun.html",
+      "path": "posts/2026-02-10-europe-s-24t-breakup-with-visa-and-mastercard-has-begun.html",
+      "date_iso": "2026-02-10T11:42:14+00:00",
+      "source": "https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/",
+      "summary": "Article URL: https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/ Comments URL: https://news.ycombinator.com/item?id=46958399 Points: 830 # Comments: 678"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46958345",
+      "title": "The Feynman Lectures on Physics (1961-1964)",
+      "slug": "2026-02-10-the-feynman-lectures-on-physics-1961-1964.html",
+      "path": "posts/2026-02-10-the-feynman-lectures-on-physics-1961-1964.html",
+      "date_iso": "2026-02-10T11:36:14+00:00",
+      "source": "https://www.feynmanlectures.caltech.edu/",
+      "summary": "Article URL: https://www.feynmanlectures.caltech.edu/ Comments URL: https://news.ycombinator.com/item?id=46958345 Points: 270 # Comments: 72"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46954920",
       "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
       "slug": "2026-02-10-frontier-ai-agents-violate-ethical-constraints-30-50-of-time-pressured-by-kpis.html",
