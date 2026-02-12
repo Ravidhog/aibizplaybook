@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: CodeRLM – Tree-sitter-backed code indexing for LLM agents</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: CodeRLM – Tree-sitter-backed code indexing for LLM agents</h1>
+    <p><small>Published: 2026-02-11T13:10:23+00:00</small></p>
+  </header>
+
+  <main>
+    <p>I've been building a tool that changes how LLM coding agents explore codebases, and I wanted to share it along with some early observations.<p>Typically claude code globs directories, greps for patterns, and reads files with minimal guidance. It works in kind of the same way you'd learn to navigate a city by walking every street. You'll eventually build a mental map, but claude never does - at least not any that persists across different contexts.<p>The Recursive Language Models paper from Zhang, Kraska, and Khattab at MIT CSAIL introduced a cleaner framing. Instead of cramming everything into context, the model gets a searchable environment. The model can then query just for what it needs and can drill deeper where needed.<p>coderlm is my implementation of that idea for codebases. A Rust server indexes a project with tree-sitter, builds a symbol table with cross-references, and exposes an API. The agent queries for structure, symbols, implementations, callers, and grep results — getting back exactly the code it needs instead of scanning for it.<p>The agent workflow looks like:<p>1. `init` — register the project, get the top-level structure<p>2. `structure` — drill into specific directories<p>3. `search` — find symbols by name across the codebase<p>4. `impl` — retrieve the exact source of a function or class<p>5. `callers` — find everything that calls a given symbol<p>6. `grep` — fall back to text search when you need it<p>This replaces the glob/grep/read cycle with index-backed lookups. The server currently supports Rust, Python, TypeScript, JavaScript, and Go for symbol parsing, though all file types show up in the tree and are searchable via grep.<p>It ships as a Claude Code plugin with hooks that guide the agent to use indexed lookups instead of native file tools, plus a Python CLI wrapper with zero dependencies.<p>For anecdotal results, I ran the same prompt against a codebase to "explore and identify opportunities to clarify the existing structure".<p>Using coderlm, claude was able to generate a plan in about 3 minutes. The coderlm enabled instance found a genuine bug (duplicated code with identical names), orphaned code for cleanup, mismatched naming conventions crossing module boundaries, and overlapping vocabulary. These are all <i>semantic</i> issues which clearly benefit from the tree-sitter centric approach.<p>Using the native tools, claude was able to identify various file clutter in the root of the project, out of date references, and a migration timestamp collision. These findings are more consistent with methodical walks of the filesystem and took about 8 minutes to produce.<p>The indexed approach did better at catching semantic issues than native tools and had a key benefit in being faster to resolve.<p>I've spent some effort to streamline the installation process, but it isn't turnkey yet. You'll need the rust toolchain to build the server which runs as a separate process. Installing the plugin from a claude marketplace is possible, but the skill isn't being added to your .claude yet so there are some manual steps to just getting to a point where claude could use it.<p>Claude continues to demonstrate significant resistance to using CodeRLM in exploration tasks. Typically to use you will need to explicitly direct claude to use it.<p>---<p>Repo: github.com/JaredStewart/coderlm<p>Paper: Recursive Language Models <a href="https://arxiv.org/abs/2512.24601" rel="nofollow">https://arxiv.org/abs/2512.24601</a> — Zhang, Kraska, Khattab (MIT CSAIL, 2025)<p>Inspired by: <a href="https://github.com/brainqub3/claude_code_RLM" rel="nofollow">https://github.com/brainqub3/claude_code_RLM</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46974515">https://news.ycombinator.com/item?id=46974515</a></p>
+<p>Points: 46</p>
+<p># Comments: 16</p>
+    <p><a href="https://github.com/JaredStewart/coderlm/blob/main/server/REPL_to_API.md" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

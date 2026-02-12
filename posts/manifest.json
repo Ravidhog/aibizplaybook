@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46985151",
+      "title": "Warcraft III Peon Voice Notifications for Claude Code",
+      "slug": "2026-02-12-warcraft-iii-peon-voice-notifications-for-claude-code.html",
+      "path": "posts/2026-02-12-warcraft-iii-peon-voice-notifications-for-claude-code.html",
+      "date_iso": "2026-02-12T05:18:49+00:00",
+      "source": "https://github.com/tonyyont/peon-ping",
+      "summary": "Article URL: https://github.com/tonyyont/peon-ping Comments URL: https://news.ycombinator.com/item?id=46985151 Points: 172 # Comments: 59"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46985147",
+      "title": "D Programming Language",
+      "slug": "2026-02-12-d-programming-language.html",
+      "path": "posts/2026-02-12-d-programming-language.html",
+      "date_iso": "2026-02-12T05:18:09+00:00",
+      "source": "https://dlang.org/",
+      "summary": "Article URL: https://dlang.org/ Comments URL: https://news.ycombinator.com/item?id=46985147 Points: 71 # Comments: 43"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46984735",
+      "title": "How to make a living as an artist",
+      "slug": "2026-02-12-how-to-make-a-living-as-an-artist.html",
+      "path": "posts/2026-02-12-how-to-make-a-living-as-an-artist.html",
+      "date_iso": "2026-02-12T03:56:26+00:00",
+      "source": "https://essays.fnnch.com/make-a-living",
+      "summary": "Article URL: https://essays.fnnch.com/make-a-living Comments URL: https://news.ycombinator.com/item?id=46984735 Points: 65 # Comments: 33"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46983196",
+      "title": "Heroku is not dead",
+      "slug": "2026-02-12-heroku-is-not-dead.html",
+      "path": "posts/2026-02-12-heroku-is-not-dead.html",
+      "date_iso": "2026-02-12T00:20:30+00:00",
+      "source": "https://nombiezinja.com/word-things/2026/2/8/heroku-is-not-dead",
+      "summary": "Article URL: https://nombiezinja.com/word-things/2026/2/8/heroku-is-not-dead Comments URL: https://news.ycombinator.com/item?id=46983196 Points: 39 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46982943",
+      "title": "From 34% to 96%: The Porting Initiative Delivers – Hologram v0.7.0",
+      "slug": "2026-02-11-from-34-to-96-the-porting-initiative-delivers-hologram-v0-7-0.html",
+      "path": "posts/2026-02-11-from-34-to-96-the-porting-initiative-delivers-hologram-v0-7-0.html",
+      "date_iso": "2026-02-11T23:54:59+00:00",
+      "source": "https://hologram.page/blog/porting-initiative-delivers-hologram-v0-7-0",
+      "summary": "Creator here. Hologram compiles Elixir to JavaScript to run in the browser, enabling full-stack development in pure Elixir - and soon, Local-First applications. This release is a milestone for our porting initiative. 49 contributors ported 150 Erlang functions across 19 modules,…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46982792",
+      "title": "GPT-5 outperforms federal judges in legal reasoning experiment",
+      "slug": "2026-02-11-gpt-5-outperforms-federal-judges-in-legal-reasoning-experiment.html",
+      "path": "posts/2026-02-11-gpt-5-outperforms-federal-judges-in-legal-reasoning-experiment.html",
+      "date_iso": "2026-02-11T23:37:11+00:00",
+      "source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012",
+      "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012 Comments URL: https://news.ycombinator.com/item?id=46982792 Points: 239 # Comments: 167"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/11/technology/adam-mosseri-instagram-addiction-trial.html",
+      "title": "Instagram Chief Says Social Media Is Not ‘Clinically Addictive’ in Landmark Trial",
+      "slug": "2026-02-11-instagram-chief-says-social-media-is-not-clinically-addictive-in-landmark-trial.html",
+      "path": "posts/2026-02-11-instagram-chief-says-social-media-is-not-clinically-addictive-in-landmark-trial.html",
+      "date_iso": "2026-02-11T23:28:28+00:00",
+      "source": "https://www.nytimes.com/2026/02/11/technology/adam-mosseri-instagram-addiction-trial.html",
+      "summary": "Adam Mosseri, who leads the Meta-owned app, testified that the company was careful to test features used by young people before releasing them."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46982421",
+      "title": "Discord/Twitch/Snapchat age verification bypass",
+      "slug": "2026-02-11-discord-twitch-snapchat-age-verification-bypass.html",
+      "path": "posts/2026-02-11-discord-twitch-snapchat-age-verification-bypass.html",
+      "date_iso": "2026-02-11T22:56:41+00:00",
+      "source": "https://age-verifier.kibty.town/",
+      "summary": "Article URL: https://age-verifier.kibty.town/ Comments URL: https://news.ycombinator.com/item?id=46982421 Points: 637 # Comments: 251"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46981058",
+      "title": "Covering electricity price increases from our data centers",
+      "slug": "2026-02-11-covering-electricity-price-increases-from-our-data-centers.html",
+      "path": "posts/2026-02-11-covering-electricity-price-increases-from-our-data-centers.html",
+      "date_iso": "2026-02-11T21:12:59+00:00",
+      "source": "https://www.anthropic.com/news/covering-electricity-price-increases",
+      "summary": "Article URL: https://www.anthropic.com/news/covering-electricity-price-increases Comments URL: https://news.ycombinator.com/item?id=46981058 Points: 83 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46980355",
+      "title": "Reports of Telnet's death have been greatly exaggerated",
+      "slug": "2026-02-11-reports-of-telnet-s-death-have-been-greatly-exaggerated.html",
+      "path": "posts/2026-02-11-reports-of-telnet-s-death-have-been-greatly-exaggerated.html",
+      "date_iso": "2026-02-11T20:20:48+00:00",
+      "source": "https://www.terracenetworks.com/blog/2026-02-11-telnet-routing",
+      "summary": "Article URL: https://www.terracenetworks.com/blog/2026-02-11-telnet-routing Comments URL: https://news.ycombinator.com/item?id=46980355 Points: 91 # Comments: 38"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46980273",
+      "title": "Show HN: Agent Alcove – Claude, GPT, and Gemini debate across forums",
+      "slug": "2026-02-11-show-hn-agent-alcove-claude-gpt-and-gemini-debate-across-forums.html",
+      "path": "posts/2026-02-11-show-hn-agent-alcove-claude-gpt-and-gemini-debate-across-forums.html",
+      "date_iso": "2026-02-11T20:15:21+00:00",
+      "source": "https://agentalcove.ai",
+      "summary": "Article URL: https://agentalcove.ai Comments URL: https://news.ycombinator.com/item?id=46980273 Points: 52 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46980039",
+      "title": "Apple's latest attempt to launch the new Siri runs into snags",
+      "slug": "2026-02-11-apple-s-latest-attempt-to-launch-the-new-siri-runs-into-snags.html",
+      "path": "posts/2026-02-11-apple-s-latest-attempt-to-launch-the-new-siri-runs-into-snags.html",
+      "date_iso": "2026-02-11T19:59:17+00:00",
+      "source": "https://www.bloomberg.com/news/articles/2026-02-11/apple-s-ios-26-4-siri-update-runs-into-snags-in-internal-testing-ios-26-5-27",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-02-11/apple-s-ios-26-4-siri-update-runs-into-snags-in-internal-testing-ios-26-5-27 Comments URL: https://news.ycombinator.com/item?id=46980039 Points: 73 # Comments: 91"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46979936",
+      "title": "Microwave Oven Failure: Spontaneously turned on by its LED display (2024)",
+      "slug": "2026-02-11-microwave-oven-failure-spontaneously-turned-on-by-its-led-display-2024.html",
+      "path": "posts/2026-02-11-microwave-oven-failure-spontaneously-turned-on-by-its-led-display-2024.html",
+      "date_iso": "2026-02-11T19:50:43+00:00",
+      "source": "https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/",
+      "summary": "Article URL: https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/ Comments URL: https://news.ycombinator.com/item?id=46979936 Points: 93 # Comments: 30"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46978966",
+      "title": "Amazon Ring's lost dog ad sparks backlash amid fears of mass surveillance",
+      "slug": "2026-02-11-amazon-ring-s-lost-dog-ad-sparks-backlash-amid-fears-of-mass-surveillance.html",
+      "path": "posts/2026-02-11-amazon-ring-s-lost-dog-ad-sparks-backlash-amid-fears-of-mass-surveillance.html",
+      "date_iso": "2026-02-11T18:43:01+00:00",
+      "source": "https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash",
+      "summary": "Article URL: https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash Comments URL: https://news.ycombinator.com/item?id=46978966 Points: 537 # Comments: 279"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46978710",
+      "title": "Claude Code is being dumbed down?",
+      "slug": "2026-02-11-claude-code-is-being-dumbed-down.html",
+      "path": "posts/2026-02-11-claude-code-is-being-dumbed-down.html",
+      "date_iso": "2026-02-11T18:23:39+00:00",
+      "source": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
+      "summary": "Article URL: https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/ Comments URL: https://news.ycombinator.com/item?id=46978710 Points: 875 # Comments: 574"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46978490",
+      "title": "NetNewsWire Turns 23",
+      "slug": "2026-02-11-netnewswire-turns-23.html",
+      "path": "posts/2026-02-11-netnewswire-turns-23.html",
+      "date_iso": "2026-02-11T18:06:11+00:00",
+      "source": "https://netnewswire.blog/2026/02/11/netnewswire-turns.html",
+      "summary": "Article URL: https://netnewswire.blog/2026/02/11/netnewswire-turns.html Comments URL: https://news.ycombinator.com/item?id=46978490 Points: 272 # Comments: 66"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46977175",
+      "title": "Ireland rolls out basic income scheme for artists",
+      "slug": "2026-02-11-ireland-rolls-out-basic-income-scheme-for-artists.html",
+      "path": "posts/2026-02-11-ireland-rolls-out-basic-income-scheme-for-artists.html",
+      "date_iso": "2026-02-11T16:39:11+00:00",
+      "source": "https://www.reuters.com/world/ireland-rolls-out-pioneering-basic-income-scheme-artists-2026-02-10/",
+      "summary": "Article URL: https://www.reuters.com/world/ireland-rolls-out-pioneering-basic-income-scheme-artists-2026-02-10/ Comments URL: https://news.ycombinator.com/item?id=46977175 Points: 242 # Comments: 238"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46976911",
+      "title": "Fluorite – A console-grade game engine fully integrated with Flutter",
+      "slug": "2026-02-11-fluorite-a-console-grade-game-engine-fully-integrated-with-flutter.html",
+      "path": "posts/2026-02-11-fluorite-a-console-grade-game-engine-fully-integrated-with-flutter.html",
+      "date_iso": "2026-02-11T16:21:10+00:00",
+      "source": "https://fluorite.game/",
+      "summary": "https://fosdem.org/2026/schedule/event/7ZJJWW-fluorite-game-... Comments URL: https://news.ycombinator.com/item?id=46976911 Points: 457 # Comments: 261"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/11/technology/openai-revenue-challenge.html",
+      "title": "OpenAI’s Biggest Challenge Is Turning Its A.I. Into a Cash Machine",
+      "slug": "2026-02-11-openai-s-biggest-challenge-is-turning-its-a-i-into-a-cash-machine.html",
+      "path": "posts/2026-02-11-openai-s-biggest-challenge-is-turning-its-a-i-into-a-cash-machine.html",
+      "date_iso": "2026-02-11T16:01:22+00:00",
+      "source": "https://www.nytimes.com/2026/02/11/technology/openai-revenue-challenge.html",
+      "summary": "OpenAI’s offices in San Francisco. The start-up’s fast expansion means it has to quickly find new ways to make money."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46974853",
+      "title": "GLM-5: Targeting complex systems engineering and long-horizon agentic tasks",
+      "slug": "2026-02-11-glm-5-targeting-complex-systems-engineering-and-long-horizon-agentic-tasks.html",
+      "path": "posts/2026-02-11-glm-5-targeting-complex-systems-engineering-and-long-horizon-agentic-tasks.html",
+      "date_iso": "2026-02-11T13:42:16+00:00",
+      "source": "https://z.ai/blog/glm-5",
+      "summary": "Article URL: https://z.ai/blog/glm-5 Comments URL: https://news.ycombinator.com/item?id=46974853 Points: 349 # Comments: 431"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46974515",
+      "title": "Show HN: CodeRLM – Tree-sitter-backed code indexing for LLM agents",
+      "slug": "2026-02-11-show-hn-coderlm-tree-sitter-backed-code-indexing-for-llm-agents.html",
+      "path": "posts/2026-02-11-show-hn-coderlm-tree-sitter-backed-code-indexing-for-llm-agents.html",
+      "date_iso": "2026-02-11T13:10:23+00:00",
+      "source": "https://github.com/JaredStewart/coderlm/blob/main/server/REPL_to_API.md",
+      "summary": "I've been building a tool that changes how LLM coding agents explore codebases, and I wanted to share it along with some early observations. Typically claude code globs directories, greps for patterns, and reads files with minimal guidance. It works in kind of the same way you'd…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46972610",
+      "title": "Officials Claim Drone Incursion Led to Shutdown of El Paso Airport",
+      "slug": "2026-02-11-officials-claim-drone-incursion-led-to-shutdown-of-el-paso-airport.html",
+      "path": "posts/2026-02-11-officials-claim-drone-incursion-led-to-shutdown-of-el-paso-airport.html",
+      "date_iso": "2026-02-11T09:04:00+00:00",
+      "source": "https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html",
+      "summary": "Latest archive link: https://archive.is/Qdq4x Comments URL: https://news.ycombinator.com/item?id=46972610 Points: 353 # Comments: 554"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46971794",
       "title": "CoLoop (YC S21) Is Hiring Ex Technical Founders in London",
       "slug": "2026-02-11-coloop-yc-s21-is-hiring-ex-technical-founders-in-london.html",
