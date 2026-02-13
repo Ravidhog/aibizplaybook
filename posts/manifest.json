@@ -1,6 +1,240 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=46999753",
+      "title": "Asimov (YC W26) Is Hiring",
+      "slug": "2026-02-13-asimov-yc-w26-is-hiring.html",
+      "path": "posts/2026-02-13-asimov-yc-w26-is-hiring.html",
+      "date_iso": "2026-02-13T07:00:41+00:00",
+      "source": "https://news.ycombinator.com/item?id=46999753",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=46999753 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46999545",
+      "title": "Ring owners are returning their cameras",
+      "slug": "2026-02-13-ring-owners-are-returning-their-cameras.html",
+      "path": "posts/2026-02-13-ring-owners-are-returning-their-cameras.html",
+      "date_iso": "2026-02-13T06:23:26+00:00",
+      "source": "https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3",
+      "summary": "Article URL: https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3 Comments URL: https://news.ycombinator.com/item?id=46999545 Points: 25 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46999224",
+      "title": "MMAcevedo aka Lena by qntm",
+      "slug": "2026-02-13-mmacevedo-aka-lena-by-qntm.html",
+      "path": "posts/2026-02-13-mmacevedo-aka-lena-by-qntm.html",
+      "date_iso": "2026-02-13T05:24:40+00:00",
+      "source": "https://qntm.org/mmacevedo",
+      "summary": "Article URL: https://qntm.org/mmacevedo Comments URL: https://news.ycombinator.com/item?id=46999224 Points: 24 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46999117",
+      "title": "New Nick Bostrom Paper: Optimal Timing for Superintelligence [pdf]",
+      "slug": "2026-02-13-new-nick-bostrom-paper-optimal-timing-for-superintelligence-pdf.html",
+      "path": "posts/2026-02-13-new-nick-bostrom-paper-optimal-timing-for-superintelligence-pdf.html",
+      "date_iso": "2026-02-13T05:05:26+00:00",
+      "source": "https://nickbostrom.com/optimal.pdf",
+      "summary": "Article URL: https://nickbostrom.com/optimal.pdf Comments URL: https://news.ycombinator.com/item?id=46999117 Points: 41 # Comments: 28"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46998606",
+      "title": "The Wonder of Modern Drywall",
+      "slug": "2026-02-13-the-wonder-of-modern-drywall.html",
+      "path": "posts/2026-02-13-the-wonder-of-modern-drywall.html",
+      "date_iso": "2026-02-13T03:33:27+00:00",
+      "source": "https://worksinprogress.co/issue/the-wonder-of-modern-drywall/",
+      "summary": "Article URL: https://worksinprogress.co/issue/the-wonder-of-modern-drywall/ Comments URL: https://news.ycombinator.com/item?id=46998606 Points: 24 # Comments: 38"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46997519",
+      "title": "Skip the Tips: A game to select \"No Tip\" but dark patterns try to stop you",
+      "slug": "2026-02-13-skip-the-tips-a-game-to-select-no-tip-but-dark-patterns-try-to-stop-you.html",
+      "path": "posts/2026-02-13-skip-the-tips-a-game-to-select-no-tip-but-dark-patterns-try-to-stop-you.html",
+      "date_iso": "2026-02-13T00:54:51+00:00",
+      "source": "https://skipthe.tips/",
+      "summary": "Article URL: https://skipthe.tips/ Comments URL: https://news.ycombinator.com/item?id=46997519 Points: 252 # Comments: 146"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46997133",
+      "title": "AWS Adds support for nested virtualization",
+      "slug": "2026-02-13-aws-adds-support-for-nested-virtualization.html",
+      "path": "posts/2026-02-13-aws-adds-support-for-nested-virtualization.html",
+      "date_iso": "2026-02-13T00:07:57+00:00",
+      "source": "https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e",
+      "summary": "Article URL: https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e Comments URL: https://news.ycombinator.com/item?id=46997133 Points: 170 # Comments: 57"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46997008",
+      "title": "Resizing windows on macOS Tahoe – the saga continues",
+      "slug": "2026-02-12-resizing-windows-on-macos-tahoe-the-saga-continues.html",
+      "path": "posts/2026-02-12-resizing-windows-on-macos-tahoe-the-saga-continues.html",
+      "date_iso": "2026-02-12T23:52:24+00:00",
+      "source": "https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/",
+      "summary": "Article URL: https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/ Comments URL: https://news.ycombinator.com/item?id=46997008 Points: 425 # Comments: 186"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46996999",
+      "title": "Ring cancels its partnership with Flock Safety after surveillance backlash",
+      "slug": "2026-02-12-ring-cancels-its-partnership-with-flock-safety-after-surveillance-backlash.html",
+      "path": "posts/2026-02-12-ring-cancels-its-partnership-with-flock-safety-after-surveillance-backlash.html",
+      "date_iso": "2026-02-12T23:51:16+00:00",
+      "source": "https://www.theverge.com/news/878447/ring-flock-partnership-canceled",
+      "summary": "Article URL: https://www.theverge.com/news/878447/ring-flock-partnership-canceled Comments URL: https://news.ycombinator.com/item?id=46996999 Points: 351 # Comments: 182"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46996569",
+      "title": "Recoverable and Irrecoverable Decisions",
+      "slug": "2026-02-12-recoverable-and-irrecoverable-decisions.html",
+      "path": "posts/2026-02-12-recoverable-and-irrecoverable-decisions.html",
+      "date_iso": "2026-02-12T23:08:01+00:00",
+      "source": "https://herbertlui.net/recoverable-and-irrecoverable-decisions/",
+      "summary": "Article URL: https://herbertlui.net/recoverable-and-irrecoverable-decisions/ Comments URL: https://news.ycombinator.com/item?id=46996569 Points: 54 # Comments: 18"
+    },
+    {
+      "id": "https://www.nytimes.com/video/technology/100000010701326/why-tech-giants-are-accused-of-causing-social-media-addiction.html",
+      "title": "Why Tech Giants Are Accused of Causing Social Media Addiction",
+      "slug": "2026-02-12-why-tech-giants-are-accused-of-causing-social-media-addiction.html",
+      "path": "posts/2026-02-12-why-tech-giants-are-accused-of-causing-social-media-addiction.html",
+      "date_iso": "2026-02-12T23:01:17+00:00",
+      "source": "https://www.nytimes.com/video/technology/100000010701326/why-tech-giants-are-accused-of-causing-social-media-addiction.html",
+      "summary": "In a series of landmark trials, plaintiffs are alleging that Meta, TikTok, Snap and YouTube caused personal injury through addictive products. Our technology reporter Cecilia Kang describes what’s at stake for tech giants and social media users."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46996490",
+      "title": "Tell HN: Ralph Giles has died (Xiph.org| Rust@Mozilla | Ghostscript)",
+      "slug": "2026-02-12-tell-hn-ralph-giles-has-died-xiph-org-rust-mozilla-ghostscript.html",
+      "path": "posts/2026-02-12-tell-hn-ralph-giles-has-died-xiph-org-rust-mozilla-ghostscript.html",
+      "date_iso": "2026-02-12T22:58:58+00:00",
+      "source": "https://news.ycombinator.com/item?id=46996490",
+      "summary": "It's with much sadness that we announce the passing of our friend and colleague Ralph Giles, or rillian as he was known on IRC. Ralph began contributing to Xiph.org in 2000 and became a core Ghostscript developer in 2001[1]. Ralph made many contributions to the royalty-free medi…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/12/technology/anthropic-valuation-380-billion-funding.html",
+      "title": "Anthropic Is Valued at $380 Billion in New Funding Round",
+      "slug": "2026-02-12-anthropic-is-valued-at-380-billion-in-new-funding-round.html",
+      "path": "posts/2026-02-12-anthropic-is-valued-at-380-billion-in-new-funding-round.html",
+      "date_iso": "2026-02-12T22:38:03+00:00",
+      "source": "https://www.nytimes.com/2026/02/12/technology/anthropic-valuation-380-billion-funding.html",
+      "summary": "Anthropic was founded by Dario Amodei, right, and his sister, Daniela Amodei, who had parted ways with OpenAI."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46996258",
+      "title": "Evaluating Multilingual, Context-Aware Guardrails: A Humanitarian LLM Use Case",
+      "slug": "2026-02-12-evaluating-multilingual-context-aware-guardrails-a-humanitarian-llm-use-case.html",
+      "path": "posts/2026-02-12-evaluating-multilingual-context-aware-guardrails-a-humanitarian-llm-use-case.html",
+      "date_iso": "2026-02-12T22:34:58+00:00",
+      "source": "https://blog.mozilla.ai/evaluating-multilingual-context-aware-guardrails-evidence-from-a-humanitarian-llm-use-case/",
+      "summary": "Article URL: https://blog.mozilla.ai/evaluating-multilingual-context-aware-guardrails-evidence-from-a-humanitarian-llm-use-case/ Comments URL: https://news.ycombinator.com/item?id=46996258 Points: 13 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/12/technology/gail-slater-antittrust-justice-department.html",
+      "title": "Gail Slater Leaves Role as Justice Dept.’s Antitrust Chief",
+      "slug": "2026-02-12-gail-slater-leaves-role-as-justice-dept-s-antitrust-chief.html",
+      "path": "posts/2026-02-12-gail-slater-leaves-role-as-justice-dept-s-antitrust-chief.html",
+      "date_iso": "2026-02-12T19:30:23+00:00",
+      "source": "https://www.nytimes.com/2026/02/12/technology/gail-slater-antittrust-justice-department.html",
+      "summary": "Abigail Slater was in the job as assistant attorney general for the antitrust division for roughly a year, after her confirmation in March."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46993397",
+      "title": "How to Have a Bad Career – David Patterson (2016) [video]",
+      "slug": "2026-02-12-how-to-have-a-bad-career-david-patterson-2016-video.html",
+      "path": "posts/2026-02-12-how-to-have-a-bad-career-david-patterson-2016-video.html",
+      "date_iso": "2026-02-12T19:01:54+00:00",
+      "source": "https://www.youtube.com/watch?v=Rn1w4MRHIhc",
+      "summary": "Article URL: https://www.youtube.com/watch?v=Rn1w4MRHIhc Comments URL: https://news.ycombinator.com/item?id=46993397 Points: 74 # Comments: 21"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/12/business/energy-environment/ford-trump-electric-vehicles-kentucky.html",
+      "title": "Laid-Off Battery Plant Workers Pin Blame on Ford, not Trump, for Lost Jobs",
+      "slug": "2026-02-12-laid-off-battery-plant-workers-pin-blame-on-ford-not-trump-for-lost-jobs.html",
+      "path": "posts/2026-02-12-laid-off-battery-plant-workers-pin-blame-on-ford-not-trump-for-lost-jobs.html",
+      "date_iso": "2026-02-12T18:59:17+00:00",
+      "source": "https://www.nytimes.com/2026/02/12/business/energy-environment/ford-trump-electric-vehicles-kentucky.html",
+      "summary": "Ford Motor shut down a battery factory and laid off 1,600 workers after President Trump and Republicans gutted government support for electric vehicles."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46992815",
+      "title": "Polis: Open-source platform for large-scale civic deliberation",
+      "slug": "2026-02-12-polis-open-source-platform-for-large-scale-civic-deliberation.html",
+      "path": "posts/2026-02-12-polis-open-source-platform-for-large-scale-civic-deliberation.html",
+      "date_iso": "2026-02-12T18:23:20+00:00",
+      "source": "https://pol.is/home2",
+      "summary": "Article URL: https://pol.is/home2 Comments URL: https://news.ycombinator.com/item?id=46992815 Points: 231 # Comments: 84"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46992553",
+      "title": "GPT‑5.3‑Codex‑Spark",
+      "slug": "2026-02-12-gpt-5-3-codex-spark.html",
+      "path": "posts/2026-02-12-gpt-5-3-codex-spark.html",
+      "date_iso": "2026-02-12T18:06:09+00:00",
+      "source": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-3-codex-spark/ Comments URL: https://news.ycombinator.com/item?id=46992553 Points: 682 # Comments: 283"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46991591",
+      "title": "Launch HN: Omnara (YC S25) – Run Claude Code and Codex from anywhere",
+      "slug": "2026-02-12-launch-hn-omnara-yc-s25-run-claude-code-and-codex-from-anywhere.html",
+      "path": "posts/2026-02-12-launch-hn-omnara-yc-s25-run-claude-code-and-codex-from-anywhere.html",
+      "date_iso": "2026-02-12T17:14:28+00:00",
+      "source": "https://news.ycombinator.com/item?id=46991591",
+      "summary": "Hey y’all, Kartik, Ishaan, and Christian from Omnara ( https://www.omnara.com/ ) here. We’re building a web and mobile agentic IDE for Claude Code and Codex that lets you run and interact with coding agents from anywhere. Omnara lets you run Claude Code and Codex sessions on you…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46991240",
+      "title": "Gemini 3 Deep Think",
+      "slug": "2026-02-12-gemini-3-deep-think.html",
+      "path": "posts/2026-02-12-gemini-3-deep-think.html",
+      "date_iso": "2026-02-12T16:55:50+00:00",
+      "source": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+      "summary": "https://x.com/GoogleDeepMind/status/2021981510400709092 https://x.com/fchollet/status/2021983310541729894 Comments URL: https://news.ycombinator.com/item?id=46991240 Points: 811 # Comments: 507"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46990729",
+      "title": "An AI agent published a hit piece on me",
+      "slug": "2026-02-12-an-ai-agent-published-a-hit-piece-on-me.html",
+      "path": "posts/2026-02-12-an-ai-agent-published-a-hit-piece-on-me.html",
+      "date_iso": "2026-02-12T16:23:24+00:00",
+      "source": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+      "summary": "Previously: AI agent opens a PR write a blogpost to shames the maintainer who closes it - https://news.ycombinator.com/item?id=46987559 - Feb 2026 (582 comments) Comments URL: https://news.ycombinator.com/item?id=46990729 Points: 1692 # Comments: 699"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46990578",
+      "title": "Beginning fully autonomous operations with the 6th-generation Waymo driver",
+      "slug": "2026-02-12-beginning-fully-autonomous-operations-with-the-6th-generation-waymo-driver.html",
+      "path": "posts/2026-02-12-beginning-fully-autonomous-operations-with-the-6th-generation-waymo-driver.html",
+      "date_iso": "2026-02-12T16:10:29+00:00",
+      "source": "https://waymo.com/blog/2026/02/ro-on-6th-gen-waymo-driver",
+      "summary": "Article URL: https://waymo.com/blog/2026/02/ro-on-6th-gen-waymo-driver Comments URL: https://news.ycombinator.com/item?id=46990578 Points: 194 # Comments: 198"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/12/technology/anthropic-super-pac-openai.html",
+      "title": "Anthropic Donates $20 Million to Super PAC Operation to Counter OpenAI",
+      "slug": "2026-02-12-anthropic-donates-20-million-to-super-pac-operation-to-counter-openai.html",
+      "path": "posts/2026-02-12-anthropic-donates-20-million-to-super-pac-operation-to-counter-openai.html",
+      "date_iso": "2026-02-12T14:33:26+00:00",
+      "source": "https://www.nytimes.com/2026/02/12/technology/anthropic-super-pac-openai.html",
+      "summary": "Dario Amodei, a co-founder and chief executive of Anthropic, formerly worked at OpenAI."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=46989217",
+      "title": "Major European payment processor can't send email to Google Workspace users",
+      "slug": "2026-02-12-major-european-payment-processor-can-t-send-email-to-google-workspace-users.html",
+      "path": "posts/2026-02-12-major-european-payment-processor-can-t-send-email-to-google-workspace-users.html",
+      "date_iso": "2026-02-12T14:24:15+00:00",
+      "source": "https://atha.io/blog/2026-02-12-viva",
+      "summary": "Article URL: https://atha.io/blog/2026-02-12-viva Comments URL: https://news.ycombinator.com/item?id=46989217 Points: 492 # Comments: 327"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/12/business/energy-environment/ford-battery-storage-factory-kentucky.html",
+      "title": "Ford Will Make a Play for a Different Battery Market",
+      "slug": "2026-02-12-ford-will-make-a-play-for-a-different-battery-market.html",
+      "path": "posts/2026-02-12-ford-will-make-a-play-for-a-different-battery-market.html",
+      "date_iso": "2026-02-12T10:03:23+00:00",
+      "source": "https://www.nytimes.com/2026/02/12/business/energy-environment/ford-battery-storage-factory-kentucky.html",
+      "summary": "Ford’s closed battery plant in Glendale, Ky., which it plans to revamp to produce large storage batteries."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46985151",
       "title": "Warcraft III Peon Voice Notifications for Claude Code",
       "slug": "2026-02-12-warcraft-iii-peon-voice-notifications-for-claude-code.html",
