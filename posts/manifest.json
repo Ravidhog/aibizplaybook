@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47012312",
+      "title": "Cogram (YC W22) – Hiring former technical founders",
+      "slug": "2026-02-14-cogram-yc-w22-hiring-former-technical-founders.html",
+      "path": "posts/2026-02-14-cogram-yc-w22-hiring-former-technical-founders.html",
+      "date_iso": "2026-02-14T07:00:15+00:00",
+      "source": "https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer Comments URL: https://news.ycombinator.com/item?id=47012312 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47012122",
+      "title": "Do Not Outsource Judgement",
+      "slug": "2026-02-14-do-not-outsource-judgement.html",
+      "path": "posts/2026-02-14-do-not-outsource-judgement.html",
+      "date_iso": "2026-02-14T06:22:03+00:00",
+      "source": "https://dncrews.com/do-not-outsource-judgement-76f9e5be61b9",
+      "summary": "Article URL: https://dncrews.com/do-not-outsource-judgement-76f9e5be61b9 Comments URL: https://news.ycombinator.com/item?id=47012122 Points: 10 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47011602",
+      "title": "Backblaze Drive Stats for 2025",
+      "slug": "2026-02-14-backblaze-drive-stats-for-2025.html",
+      "path": "posts/2026-02-14-backblaze-drive-stats-for-2025.html",
+      "date_iso": "2026-02-14T04:35:01+00:00",
+      "source": "https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/",
+      "summary": "Article URL: https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/ Comments URL: https://news.ycombinator.com/item?id=47011602 Points: 41 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47011567",
+      "title": "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
+      "slug": "2026-02-14-show-hn-sql-tap-real-time-sql-traffic-viewer-for-postgresql-and-mysql.html",
+      "path": "posts/2026-02-14-show-hn-sql-tap-real-time-sql-traffic-viewer-for-postgresql-and-mysql.html",
+      "date_iso": "2026-02-14T04:27:35+00:00",
+      "source": "https://github.com/mickamy/sql-tap",
+      "summary": "sql-tap is a transparent proxy that captures SQL queries by parsing the PostgreSQL/MySQL wire protocol and displays them in a terminal UI. You can run EXPLAIN on any captured query. No application code changes needed — just change the port. Comments URL: https://news.ycombinator…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47010823",
+      "title": "NPMX – a fast, modern browser for the NPM registry",
+      "slug": "2026-02-14-npmx-a-fast-modern-browser-for-the-npm-registry.html",
+      "path": "posts/2026-02-14-npmx-a-fast-modern-browser-for-the-npm-registry.html",
+      "date_iso": "2026-02-14T02:14:34+00:00",
+      "source": "https://npmx.dev",
+      "summary": "Article URL: https://npmx.dev Comments URL: https://news.ycombinator.com/item?id=47010823 Points: 76 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47009949",
+      "title": "An AI Agent Published a Hit Piece on Me – More Things Have Happened",
+      "slug": "2026-02-14-an-ai-agent-published-a-hit-piece-on-me-more-things-have-happened.html",
+      "path": "posts/2026-02-14-an-ai-agent-published-a-hit-piece-on-me-more-things-have-happened.html",
+      "date_iso": "2026-02-14T00:37:53+00:00",
+      "source": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
+      "summary": "Article URL: https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/ Comments URL: https://news.ycombinator.com/item?id=47009949 Points: 363 # Comments: 177"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/13/technology/dhs-anti-ice-social-media.html",
+      "title": "Homeland Security Demands Social Media Sites Reveal Names Behind Anti-ICE Posts",
+      "slug": "2026-02-13-homeland-security-demands-social-media-sites-reveal-names-behind-anti-ice-posts.html",
+      "path": "posts/2026-02-13-homeland-security-demands-social-media-sites-reveal-names-behind-anti-ice-posts.html",
+      "date_iso": "2026-02-13T23:24:03+00:00",
+      "source": "https://www.nytimes.com/2026/02/13/technology/dhs-anti-ice-social-media.html",
+      "summary": "The Department of Homeland Security is expanding its efforts to identify Americans who oppose Immigration and Customs Enforcement."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47008560",
+      "title": "OpenAI has deleted the word 'safely' from its mission",
+      "slug": "2026-02-13-openai-has-deleted-the-word-safely-from-its-mission.html",
+      "path": "posts/2026-02-13-openai-has-deleted-the-word-safely-from-its-mission.html",
+      "date_iso": "2026-02-13T22:17:06+00:00",
+      "source": "https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467",
+      "summary": "See also: https://simonwillison.net/2026/Feb/13/openai-mission-stateme... Comments URL: https://news.ycombinator.com/item?id=47008560 Points: 476 # Comments: 243"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47008163",
+      "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
+      "slug": "2026-02-13-show-hn-data-engineering-book-an-open-source-community-driven-guide.html",
+      "path": "posts/2026-02-13-show-hn-data-engineering-book-an-open-source-community-driven-guide.html",
+      "date_iso": "2026-02-13T21:35:52+00:00",
+      "source": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
+      "summary": "Hi HN! I'm currently a Master's student at USTC (University of Science and Technology of China). I've been diving deep into Data Engineering, especially in the context of Large Language Models (LLMs). The Problem: I found that learning resources for modern data engineering are o…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47007656",
+      "title": "The EU moves to kill infinite scrolling",
+      "slug": "2026-02-13-the-eu-moves-to-kill-infinite-scrolling.html",
+      "path": "posts/2026-02-13-the-eu-moves-to-kill-infinite-scrolling.html",
+      "date_iso": "2026-02-13T20:52:11+00:00",
+      "source": "https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/",
+      "summary": "Article URL: https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/ Comments URL: https://news.ycombinator.com/item?id=47007656 Points: 501 # Comments: 517"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47007584",
+      "title": "Ask HN: Are there examples of 3D printing data onto physical surfaces?",
+      "slug": "2026-02-13-ask-hn-are-there-examples-of-3d-printing-data-onto-physical-surfaces.html",
+      "path": "posts/2026-02-13-ask-hn-are-there-examples-of-3d-printing-data-onto-physical-surfaces.html",
+      "date_iso": "2026-02-13T20:44:08+00:00",
+      "source": "https://news.ycombinator.com/item?id=47007584",
+      "summary": "I had a thought about encoding a very small amount of data onto some kind of \"disk\" using 3D printing as the mechanism for filament-based storage. The assumption was that using common 3D printer measurement tools (like for bed-leveling) would provide a way to read back whatever…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47006594",
+      "title": "GPT-5.2 derives a new result in theoretical physics",
+      "slug": "2026-02-13-gpt-5-2-derives-a-new-result-in-theoretical-physics.html",
+      "path": "posts/2026-02-13-gpt-5-2-derives-a-new-result-in-theoretical-physics.html",
+      "date_iso": "2026-02-13T19:20:12+00:00",
+      "source": "https://openai.com/index/new-result-theoretical-physics/",
+      "summary": "Article URL: https://openai.com/index/new-result-theoretical-physics/ Comments URL: https://news.ycombinator.com/item?id=47006594 Points: 454 # Comments: 312"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47006513",
+      "title": "I'm not worried about AI job loss",
+      "slug": "2026-02-13-i-m-not-worried-about-ai-job-loss.html",
+      "path": "posts/2026-02-13-i-m-not-worried-about-ai-job-loss.html",
+      "date_iso": "2026-02-13T19:13:04+00:00",
+      "source": "https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss",
+      "summary": "Article URL: https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss Comments URL: https://news.ycombinator.com/item?id=47006513 Points: 238 # Comments: 403"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47006393",
+      "title": "Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs",
+      "slug": "2026-02-13-show-hn-skill-that-lets-claude-code-codex-spin-up-vms-and-gpus.html",
+      "path": "posts/2026-02-13-show-hn-skill-that-lets-claude-code-codex-spin-up-vms-and-gpus.html",
+      "date_iso": "2026-02-13T19:02:17+00:00",
+      "source": "https://cloudrouter.dev/",
+      "summary": "I've been working on CloudRouter, a skill + CLI that gives coding agents like Claude Code and Codex the ability to start cloud VMs and GPUs. When an agent writes code, it usually needs to start a dev server, run tests, open a browser to verify its work. Today that all happens on…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/13/technology/ftc-chair-bias-apple-news.html",
+      "title": "F.T.C. Chair Warns Apple Against Bias in Apple News",
+      "slug": "2026-02-13-f-t-c-chair-warns-apple-against-bias-in-apple-news.html",
+      "path": "posts/2026-02-13-f-t-c-chair-warns-apple-against-bias-in-apple-news.html",
+      "date_iso": "2026-02-13T18:59:27+00:00",
+      "source": "https://www.nytimes.com/2026/02/13/technology/ftc-chair-bias-apple-news.html",
+      "summary": "Trump-appointed leaders of federal agencies have been using consumer protection laws to punish media and tech companies for perceived left-leaning bias."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47005509",
+      "title": "Building a TUI is easy now",
+      "slug": "2026-02-13-building-a-tui-is-easy-now.html",
+      "path": "posts/2026-02-13-building-a-tui-is-easy-now.html",
+      "date_iso": "2026-02-13T17:50:54+00:00",
+      "source": "https://hatchet.run/blog/tuis-are-easy-now",
+      "summary": "Article URL: https://hatchet.run/blog/tuis-are-easy-now Comments URL: https://news.ycombinator.com/item?id=47005509 Points: 200 # Comments: 138"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47003214",
+      "title": "How did the Maya survive?",
+      "slug": "2026-02-13-how-did-the-maya-survive.html",
+      "path": "posts/2026-02-13-how-did-the-maya-survive.html",
+      "date_iso": "2026-02-13T14:36:07+00:00",
+      "source": "https://www.theguardian.com/news/2026/feb/12/apocalypse-no-how-almost-everything-we-thought-we-knew-about-the-maya-is-wrong",
+      "summary": "https://web.archive.org/web/20260212085552/https://www.thegu... https://archive.ph/0tGht Comments URL: https://news.ycombinator.com/item?id=47003214 Points: 122 # Comments: 100"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47003064",
+      "title": "Fix the iOS keyboard before the timer hits zero or I'm switching back to Android",
+      "slug": "2026-02-13-fix-the-ios-keyboard-before-the-timer-hits-zero-or-i-m-switching-back-to-android.html",
+      "path": "posts/2026-02-13-fix-the-ios-keyboard-before-the-timer-hits-zero-or-i-m-switching-back-to-android.html",
+      "date_iso": "2026-02-13T14:21:01+00:00",
+      "source": "https://ios-countdown.win/",
+      "summary": "Article URL: https://ios-countdown.win/ Comments URL: https://news.ycombinator.com/item?id=47003064 Points: 1408 # Comments: 690"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47001871",
+      "title": "Monosketch",
+      "slug": "2026-02-13-monosketch.html",
+      "path": "posts/2026-02-13-monosketch.html",
+      "date_iso": "2026-02-13T12:18:05+00:00",
+      "source": "https://monosketch.io/",
+      "summary": "Article URL: https://monosketch.io/ Comments URL: https://news.ycombinator.com/item?id=47001871 Points: 755 # Comments: 133"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47001756",
+      "title": "GovDash (YC W22) Is Hiring Senior Engineers (Product and Search) in NYC",
+      "slug": "2026-02-13-govdash-yc-w22-is-hiring-senior-engineers-product-and-search-in-nyc.html",
+      "path": "posts/2026-02-13-govdash-yc-w22-is-hiring-senior-engineers-product-and-search-in-nyc.html",
+      "date_iso": "2026-02-13T12:01:11+00:00",
+      "source": "https://www.workatastartup.com/companies/govdash",
+      "summary": "Article URL: https://www.workatastartup.com/companies/govdash Comments URL: https://news.ycombinator.com/item?id=47001756 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/13/podcasts/something-big-is-happening-ai-rocks-the-romance-novel-industry-one-good-thing.html",
+      "title": "‘Something Big Is Happening’ + A.I. Rocks the Romance Novel Industry + One Good Thing",
+      "slug": "2026-02-13-something-big-is-happening-a-i-rocks-the-romance-novel-industry-one-good-thing.html",
+      "path": "posts/2026-02-13-something-big-is-happening-a-i-rocks-the-romance-novel-industry-one-good-thing.html",
+      "date_iso": "2026-02-13T12:00:06+00:00",
+      "source": "https://www.nytimes.com/2026/02/13/podcasts/something-big-is-happening-ai-rocks-the-romance-novel-industry-one-good-thing.html",
+      "summary": "“I do think we are reaching an inflection point in people’s feelings and senses about A.I. and where it’s going.”"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47001095",
+      "title": "WolfSSL sucks too, so now what?",
+      "slug": "2026-02-13-wolfssl-sucks-too-so-now-what.html",
+      "path": "posts/2026-02-13-wolfssl-sucks-too-so-now-what.html",
+      "date_iso": "2026-02-13T10:18:56+00:00",
+      "source": "https://blog.feld.me/posts/2026/02/wolfssl-sucks-too/",
+      "summary": "Article URL: https://blog.feld.me/posts/2026/02/wolfssl-sucks-too/ Comments URL: https://news.ycombinator.com/item?id=47001095 Points: 106 # Comments: 81"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/13/technology/meta-facial-recognition-smart-glasses.html",
+      "title": "Meta Plans to Add Facial Recognition Technology to Its Smart Glasses",
+      "slug": "2026-02-13-meta-plans-to-add-facial-recognition-technology-to-its-smart-glasses.html",
+      "path": "posts/2026-02-13-meta-plans-to-add-facial-recognition-technology-to-its-smart-glasses.html",
+      "date_iso": "2026-02-13T10:03:01+00:00",
+      "source": "https://www.nytimes.com/2026/02/13/technology/meta-facial-recognition-smart-glasses.html",
+      "summary": "The maker of Meta’s smart glasses said it sold more than seven million pairs last year."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/13/technology/iran-protests-surveillance-facial-recognition.html",
+      "title": "Iran Turns to Digital Surveillance Tools to Track Down Protesters",
+      "slug": "2026-02-13-iran-turns-to-digital-surveillance-tools-to-track-down-protesters.html",
+      "path": "posts/2026-02-13-iran-turns-to-digital-surveillance-tools-to-track-down-protesters.html",
+      "date_iso": "2026-02-13T10:00:38+00:00",
+      "source": "https://www.nytimes.com/2026/02/13/technology/iran-protests-surveillance-facial-recognition.html",
+      "summary": "Antigovernment protesters blocked a road last month in Tehran. Iran is using facial recognition and phone data to track and detain people involved in political opposition activities."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47000505",
+      "title": "Babylon 5 is now free to watch on YouTube",
+      "slug": "2026-02-13-babylon-5-is-now-free-to-watch-on-youtube.html",
+      "path": "posts/2026-02-13-babylon-5-is-now-free-to-watch-on-youtube.html",
+      "date_iso": "2026-02-13T08:49:02+00:00",
+      "source": "https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/",
+      "summary": "Article URL: https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/ Comments URL: https://news.ycombinator.com/item?id=47000505 Points: 110 # Comments: 59"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=46999753",
       "title": "Asimov (YC W26) Is Hiring",
       "slug": "2026-02-13-asimov-yc-w26-is-hiring.html",

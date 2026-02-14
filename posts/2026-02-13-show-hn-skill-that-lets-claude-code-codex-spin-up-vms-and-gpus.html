@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs</h1>
+    <p><small>Published: 2026-02-13T19:02:17+00:00</small></p>
+  </header>
+
+  <main>
+    <p>I've been working on CloudRouter, a skill + CLI that gives coding agents like Claude Code and Codex the ability to start cloud VMs and GPUs.<p>When an agent writes code, it usually needs to start a dev server, run tests, open a browser to verify its work. Today that all happens on your local machine. This works fine for a single task, but the agent is sharing your computer: your ports, RAM, screen. If you run multiple agents in parallel, it gets a bit chaotic. Docker helps with isolation, but it still uses your machine's resources, and doesn't give the agent a browser, a desktop, or a GPU to close the loop properly. The agent could handle all of this on its own if it had a primitive for starting VMs.<p>CloudRouter is that primitive — a skill that gives the agent its own machines. The agent can start a VM from your local project directory, upload the project files, run commands on the VM, and tear it down when it's done. If it needs a GPU, it can request one.<p><pre><code>  cloudrouter start ./my-project
+  cloudrouter start --gpu B200 ./my-project
+  cloudrouter ssh cr_abc123 "npm install && npm run dev"
+</code></pre>
+Every VM comes with a VNC desktop, VS Code, and Jupyter Lab, all behind auth-protected URLs. When the agent is doing browser automation on the VM, you can open the VNC URL and watch it in real time. CloudRouter wraps agent-browser [1] for browser automation.<p><pre><code>  cloudrouter browser open cr_abc123 "http://localhost:3000"
+  cloudrouter browser snapshot -i cr_abc123
+  # → @e1 [link] Home  @e2 [link] Settings  @e3 [button] Sign Out
+  cloudrouter browser click cr_abc123 @e2
+  cloudrouter browser screenshot cr_abc123 result.png
+</code></pre>
+Here's a short demo: <a href="https://youtu.be/SCkkzxKBcPE" rel="nofollow">https://youtu.be/SCkkzxKBcPE</a><p>What surprised me is how this inverted my workflow. Most cloud dev tooling starts from cloud (background agents, remote SSH, etc) to local for testing. But CloudRouter keeps your agents local and pushes the agent's work to the cloud. The agent does the same things it would do locally — running dev servers, operating browsers — but now on a VM. As I stopped watching agents work and worrying about local constraints, I started to run more tasks in parallel.<p>The GPU side is the part I'm most curious to see develop. Today if you want a coding agent to help with anything involving training or inference, there's a manual step where you go provision a machine. With CloudRouter the agent can just spin up a GPU sandbox, run the workload, and clean it up when it's done. Some of my friends have been using it to have agents run small experiments in parallel, but my ears are open to other use cases.<p>Would love your feedback and ideas. CloudRouter lives under packages/cloudrouter of our monorepo <a href="https://github.com/manaflow-ai/manaflow" rel="nofollow">https://github.com/manaflow-ai/manaflow</a>.<p>[1] <a href="https://github.com/vercel-labs/agent-browser" rel="nofollow">https://github.com/vercel-labs/agent-browser</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47006393">https://news.ycombinator.com/item?id=47006393</a></p>
+<p>Points: 119</p>
+<p># Comments: 33</p>
+    <p><a href="https://cloudrouter.dev/" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
