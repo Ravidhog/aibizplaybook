@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47021586",
+      "title": "Ex-Tech –> Homeless in SF",
+      "slug": "2026-02-15-ex-tech-homeless-in-sf.html",
+      "path": "posts/2026-02-15-ex-tech-homeless-in-sf.html",
+      "date_iso": "2026-02-15T06:48:13+00:00",
+      "source": "https://zamoshi.substack.com/p/ninety-four-degrees",
+      "summary": "Article URL: https://zamoshi.substack.com/p/ninety-four-degrees Comments URL: https://news.ycombinator.com/item?id=47021586 Points: 7 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47021354",
+      "title": "Flashpoint Archive – Over 200k web games and animations preserved",
+      "slug": "2026-02-15-flashpoint-archive-over-200k-web-games-and-animations-preserved.html",
+      "path": "posts/2026-02-15-flashpoint-archive-over-200k-web-games-and-animations-preserved.html",
+      "date_iso": "2026-02-15T05:43:59+00:00",
+      "source": "https://flashpointarchive.org",
+      "summary": "Article URL: https://flashpointarchive.org Comments URL: https://news.ycombinator.com/item?id=47021354 Points: 27 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47021065",
+      "title": "Linear Representations and Superposition",
+      "slug": "2026-02-15-linear-representations-and-superposition.html",
+      "path": "posts/2026-02-15-linear-representations-and-superposition.html",
+      "date_iso": "2026-02-15T04:29:44+00:00",
+      "source": "http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html",
+      "summary": "Article URL: http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html Comments URL: https://news.ycombinator.com/item?id=47021065 Points: 11 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47020791",
+      "title": "Guitars of the USSR and the Jolana Special in Azerbaijani Music",
+      "slug": "2026-02-15-guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music.html",
+      "path": "posts/2026-02-15-guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music.html",
+      "date_iso": "2026-02-15T03:29:39+00:00",
+      "source": "https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/",
+      "summary": "Article URL: https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/ Comments URL: https://news.ycombinator.com/item?id=47020791 Points: 20 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47020218",
+      "title": "NewPipe: YouTube client without vertical videos and algorithmic feed",
+      "slug": "2026-02-15-newpipe-youtube-client-without-vertical-videos-and-algorithmic-feed.html",
+      "path": "posts/2026-02-15-newpipe-youtube-client-without-vertical-videos-and-algorithmic-feed.html",
+      "date_iso": "2026-02-15T01:24:16+00:00",
+      "source": "https://newpipe.net/",
+      "summary": "Article URL: https://newpipe.net/ Comments URL: https://news.ycombinator.com/item?id=47020218 Points: 211 # Comments: 56"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47020191",
+      "title": "I love the work of the ArchWiki maintainers",
+      "slug": "2026-02-15-i-love-the-work-of-the-archwiki-maintainers.html",
+      "path": "posts/2026-02-15-i-love-the-work-of-the-archwiki-maintainers.html",
+      "date_iso": "2026-02-15T01:20:58+00:00",
+      "source": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
+      "summary": "Article URL: https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/ Comments URL: https://news.ycombinator.com/item?id=47020191 Points: 256 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47019133",
+      "title": "Show HN: Off Grid – Run AI text, image gen, vision offline on your phone",
+      "slug": "2026-02-14-show-hn-off-grid-run-ai-text-image-gen-vision-offline-on-your-phone.html",
+      "path": "posts/2026-02-14-show-hn-off-grid-run-ai-text-image-gen-vision-offline-on-your-phone.html",
+      "date_iso": "2026-02-14T22:39:24+00:00",
+      "source": "https://github.com/alichherawalla/off-grid-mobile",
+      "summary": "Your phone has a GPU more powerful than most 2018 laptops. Right now it sits idle while you pay monthly subscriptions to run AI on someone else's server, sending your conversations, your photos, your voice to companies whose privacy policy you've never read. Off Grid is an open-…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/14/business/amazon-ring-flock-partnership-super-bowl.html",
+      "title": "Ring Ends Deal to Link Neighborhood Cameras After Backlash to Super Bowl Ad",
+      "slug": "2026-02-14-ring-ends-deal-to-link-neighborhood-cameras-after-backlash-to-super-bowl-ad.html",
+      "path": "posts/2026-02-14-ring-ends-deal-to-link-neighborhood-cameras-after-backlash-to-super-bowl-ad.html",
+      "date_iso": "2026-02-14T21:33:51+00:00",
+      "source": "https://www.nytimes.com/2026/02/14/business/amazon-ring-flock-partnership-super-bowl.html",
+      "summary": "A Ring doorbell security camera on the front of a building in New York. The planned integration of those cameras to activate a search function gave rise to criticism after a Super Bowl ad."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47018405",
+      "title": "Colored Petri Nets, LLMs, and distributed applications",
+      "slug": "2026-02-14-colored-petri-nets-llms-and-distributed-applications.html",
+      "path": "posts/2026-02-14-colored-petri-nets-llms-and-distributed-applications.html",
+      "date_iso": "2026-02-14T21:08:08+00:00",
+      "source": "https://blog.sao.dev/cpns-llms-distributed-apps/",
+      "summary": "Article URL: https://blog.sao.dev/cpns-llms-distributed-apps/ Comments URL: https://news.ycombinator.com/item?id=47018405 Points: 37 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47017545",
+      "title": "Descent, ported to the web",
+      "slug": "2026-02-14-descent-ported-to-the-web.html",
+      "path": "posts/2026-02-14-descent-ported-to-the-web.html",
+      "date_iso": "2026-02-14T19:33:24+00:00",
+      "source": "https://mrdoob.github.io/three-descent/",
+      "summary": "Article URL: https://mrdoob.github.io/three-descent/ Comments URL: https://news.ycombinator.com/item?id=47017545 Points: 211 # Comments: 43"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47017138",
+      "title": "News publishers limit Internet Archive access due to AI scraping concerns",
+      "slug": "2026-02-14-news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns.html",
+      "path": "posts/2026-02-14-news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns.html",
+      "date_iso": "2026-02-14T18:46:32+00:00",
+      "source": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
+      "summary": "Article URL: https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/ Comments URL: https://news.ycombinator.com/item?id=47017138 Points: 471 # Comments: 298"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47016530",
+      "title": "A header-only C vector database library",
+      "slug": "2026-02-14-a-header-only-c-vector-database-library.html",
+      "path": "posts/2026-02-14-a-header-only-c-vector-database-library.html",
+      "date_iso": "2026-02-14T17:45:09+00:00",
+      "source": "https://github.com/abdimoallim/vdb",
+      "summary": "Article URL: https://github.com/abdimoallim/vdb Comments URL: https://news.ycombinator.com/item?id=47016530 Points: 76 # Comments: 31"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47016443",
+      "title": "uBlock filter list to hide all YouTube Shorts",
+      "slug": "2026-02-14-ublock-filter-list-to-hide-all-youtube-shorts.html",
+      "path": "posts/2026-02-14-ublock-filter-list-to-hide-all-youtube-shorts.html",
+      "date_iso": "2026-02-14T17:36:45+00:00",
+      "source": "https://github.com/i5heu/ublock-hide-yt-shorts/",
+      "summary": "Article URL: https://github.com/i5heu/ublock-hide-yt-shorts/ Comments URL: https://news.ycombinator.com/item?id=47016443 Points: 794 # Comments: 257"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47016008",
+      "title": "Amsterdam Compiler Kit",
+      "slug": "2026-02-14-amsterdam-compiler-kit.html",
+      "path": "posts/2026-02-14-amsterdam-compiler-kit.html",
+      "date_iso": "2026-02-14T16:50:47+00:00",
+      "source": "https://github.com/davidgiven/ack",
+      "summary": "Article URL: https://github.com/davidgiven/ack Comments URL: https://news.ycombinator.com/item?id=47016008 Points: 117 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47015579",
+      "title": "A review of M Disc archival capability with long term testing results (2016)",
+      "slug": "2026-02-14-a-review-of-m-disc-archival-capability-with-long-term-testing-results-2016.html",
+      "path": "posts/2026-02-14-a-review-of-m-disc-archival-capability-with-long-term-testing-results-2016.html",
+      "date_iso": "2026-02-14T16:07:44+00:00",
+      "source": "http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html",
+      "summary": "Article URL: http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html Comments URL: https://news.ycombinator.com/item?id=47015579 Points: 76 # Comments: 97"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47015294",
+      "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
+      "slug": "2026-02-14-my-smart-sleep-mask-broadcasts-users-brainwaves-to-an-open-mqtt-broker.html",
+      "path": "posts/2026-02-14-my-smart-sleep-mask-broadcasts-users-brainwaves-to-an-open-mqtt-broker.html",
+      "date_iso": "2026-02-14T15:35:47+00:00",
+      "source": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
+      "summary": "Article URL: https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/ Comments URL: https://news.ycombinator.com/item?id=47015294 Points: 407 # Comments: 192"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47014449",
+      "title": "Ooh.directory: a place to find good blogs that interest you",
+      "slug": "2026-02-14-ooh-directory-a-place-to-find-good-blogs-that-interest-you.html",
+      "path": "posts/2026-02-14-ooh-directory-a-place-to-find-good-blogs-that-interest-you.html",
+      "date_iso": "2026-02-14T13:40:20+00:00",
+      "source": "https://ooh.directory/",
+      "summary": "Article URL: https://ooh.directory/ Comments URL: https://news.ycombinator.com/item?id=47014449 Points: 488 # Comments: 124"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/14/technology/david-farber-dead.html",
+      "title": "David J. Farber, ‘Grandfather of the Internet,’ Dies at 91",
+      "slug": "2026-02-14-david-j-farber-grandfather-of-the-internet-dies-at-91.html",
+      "path": "posts/2026-02-14-david-j-farber-grandfather-of-the-internet-dies-at-91.html",
+      "date_iso": "2026-02-14T13:09:36+00:00",
+      "source": "https://www.nytimes.com/2026/02/14/technology/david-farber-dead.html",
+      "summary": "A researcher, professor and federal policy adviser, he guided students who went on to do groundbreaking work in connecting the world online."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/14/technology/they-are-in-love-but-dont-speak-the-same-language.html",
+      "title": "Their Secret to a Happy Marriage? A Translation App",
+      "slug": "2026-02-14-their-secret-to-a-happy-marriage-a-translation-app.html",
+      "path": "posts/2026-02-14-their-secret-to-a-happy-marriage-a-translation-app.html",
+      "date_iso": "2026-02-14T10:00:12+00:00",
+      "source": "https://www.nytimes.com/2026/02/14/technology/they-are-in-love-but-dont-speak-the-same-language.html",
+      "summary": "David Duda and Hong Liang at their home in New Haven, Conn. Mr. Duda and Ms. Liang met in Xian, China, in the fall of 2019."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47012553",
+      "title": "OpenAI should build Slack",
+      "slug": "2026-02-14-openai-should-build-slack.html",
+      "path": "posts/2026-02-14-openai-should-build-slack.html",
+      "date_iso": "2026-02-14T07:50:13+00:00",
+      "source": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
+      "summary": "Article URL: https://www.latent.space/p/ainews-why-openai-should-build-slack Comments URL: https://news.ycombinator.com/item?id=47012553 Points: 145 # Comments: 144"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47012312",
       "title": "Cogram (YC W22) – Hiring former technical founders",
       "slug": "2026-02-14-cogram-yc-w22-hiring-former-technical-founders.html",
@@ -64,6 +244,15 @@
       "summary": "The Department of Homeland Security is expanding its efforts to identify Americans who oppose Immigration and Customs Enforcement."
     },
     {
+      "id": "https://news.ycombinator.com/item?id=47008607",
+      "title": "How often do full-body MRIs find cancer?",
+      "slug": "2026-02-13-how-often-do-full-body-mris-find-cancer.html",
+      "path": "posts/2026-02-13-how-often-do-full-body-mris-find-cancer.html",
+      "date_iso": "2026-02-13T22:21:55+00:00",
+      "source": "https://www.usatoday.com/story/life/health-wellness/2026/02/11/full-body-mris-cancer-aneurysm/88396037007/",
+      "summary": "Article URL: https://www.usatoday.com/story/life/health-wellness/2026/02/11/full-body-mris-cancer-aneurysm/88396037007/ Comments URL: https://news.ycombinator.com/item?id=47008607 Points: 93 # Comments: 101"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47008560",
       "title": "OpenAI has deleted the word 'safely' from its mission",
       "slug": "2026-02-13-openai-has-deleted-the-word-safely-from-its-mission.html",
@@ -98,6 +287,15 @@
       "date_iso": "2026-02-13T20:44:08+00:00",
       "source": "https://news.ycombinator.com/item?id=47007584",
       "summary": "I had a thought about encoding a very small amount of data onto some kind of \"disk\" using 3D printing as the mechanism for filament-based storage. The assumption was that using common 3D printer measurement tools (like for bed-leveling) would provide a way to read back whatever…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47006615",
+      "title": "Breaking the spell of vibe coding",
+      "slug": "2026-02-13-breaking-the-spell-of-vibe-coding.html",
+      "path": "posts/2026-02-13-breaking-the-spell-of-vibe-coding.html",
+      "date_iso": "2026-02-13T19:22:18+00:00",
+      "source": "https://www.fast.ai/posts/2026-01-28-dark-flow/",
+      "summary": "Article URL: https://www.fast.ai/posts/2026-01-28-dark-flow/ Comments URL: https://news.ycombinator.com/item?id=47006615 Points: 205 # Comments: 154"
     },
     {
       "id": "https://news.ycombinator.com/item?id=47006594",
