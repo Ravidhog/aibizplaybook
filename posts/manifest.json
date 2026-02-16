@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47031580",
+      "title": "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?",
+      "slug": "2026-02-16-i-want-to-wash-my-car-the-car-wash-is-50-meters-away-should-i-walk-or-drive.html",
+      "path": "posts/2026-02-16-i-want-to-wash-my-car-the-car-wash-is-50-meters-away-should-i-walk-or-drive.html",
+      "date_iso": "2026-02-16T06:31:48+00:00",
+      "source": "https://mastodon.world/@knowmadd/116072773118828295",
+      "summary": "Article URL: https://mastodon.world/@knowmadd/116072773118828295 Comments URL: https://news.ycombinator.com/item?id=47031580 Points: 167 # Comments: 107"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47031268",
+      "title": "Building SQLite with a small swarm",
+      "slug": "2026-02-16-building-sqlite-with-a-small-swarm.html",
+      "path": "posts/2026-02-16-building-sqlite-with-a-small-swarm.html",
+      "date_iso": "2026-02-16T05:38:51+00:00",
+      "source": "https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html",
+      "summary": "Hope some find this post interesting on my experience with parallel coding agents. Comments URL: https://news.ycombinator.com/item?id=47031268 Points: 28 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47030271",
+      "title": "Arm wants a bigger slice of the chip business",
+      "slug": "2026-02-16-arm-wants-a-bigger-slice-of-the-chip-business.html",
+      "path": "posts/2026-02-16-arm-wants-a-bigger-slice-of-the-chip-business.html",
+      "date_iso": "2026-02-16T02:36:14+00:00",
+      "source": "https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business",
+      "summary": "Article URL: https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business Comments URL: https://news.ycombinator.com/item?id=47030271 Points: 57 # Comments: 35"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47029339",
+      "title": "JavaScript-heavy approaches are not compatible with long-term performance goals",
+      "slug": "2026-02-16-javascript-heavy-approaches-are-not-compatible-with-long-term-performance-goals.html",
+      "path": "posts/2026-02-16-javascript-heavy-approaches-are-not-compatible-with-long-term-performance-goals.html",
+      "date_iso": "2026-02-16T00:26:23+00:00",
+      "source": "https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/",
+      "summary": "Article URL: https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/ Comments URL: https://news.ycombinator.com/item?id=47029339 Points: 54 # Comments: 48"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47028705",
+      "title": "Error payloads in Zig",
+      "slug": "2026-02-15-error-payloads-in-zig.html",
+      "path": "posts/2026-02-15-error-payloads-in-zig.html",
+      "date_iso": "2026-02-15T23:08:43+00:00",
+      "source": "https://srcreigh.ca/posts/error-payloads-in-zig/",
+      "summary": "Article URL: https://srcreigh.ca/posts/error-payloads-in-zig/ Comments URL: https://news.ycombinator.com/item?id=47028705 Points: 69 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47028227",
+      "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
+      "slug": "2026-02-15-magnus-carlsen-wins-the-freestyle-chess960-world-championship.html",
+      "path": "posts/2026-02-15-magnus-carlsen-wins-the-freestyle-chess960-world-championship.html",
+      "date_iso": "2026-02-15T22:17:10+00:00",
+      "source": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
+      "summary": "Article URL: https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/ Comments URL: https://news.ycombinator.com/item?id=47028227 Points: 242 # Comments: 136"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47028013",
+      "title": "I’m joining OpenAI",
+      "slug": "2026-02-15-i-m-joining-openai.html",
+      "path": "posts/2026-02-15-i-m-joining-openai.html",
+      "date_iso": "2026-02-15T21:54:15+00:00",
+      "source": "https://steipete.me/posts/2026/openclaw",
+      "summary": "Article URL: https://steipete.me/posts/2026/openclaw Comments URL: https://news.ycombinator.com/item?id=47028013 Points: 908 # Comments: 614"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47027427",
+      "title": "GNU Pies – Program Invocation and Execution Supervisor",
+      "slug": "2026-02-15-gnu-pies-program-invocation-and-execution-supervisor.html",
+      "path": "posts/2026-02-15-gnu-pies-program-invocation-and-execution-supervisor.html",
+      "date_iso": "2026-02-15T20:53:26+00:00",
+      "source": "https://www.gnu.org.ua/software/pies/",
+      "summary": "Article URL: https://www.gnu.org.ua/software/pies/ Comments URL: https://news.ycombinator.com/item?id=47027427 Points: 80 # Comments: 51"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47026186",
+      "title": "Show HN: Microgpt is a GPT you can visualize in the browser",
+      "slug": "2026-02-15-show-hn-microgpt-is-a-gpt-you-can-visualize-in-the-browser.html",
+      "path": "posts/2026-02-15-show-hn-microgpt-is-a-gpt-you-can-visualize-in-the-browser.html",
+      "date_iso": "2026-02-15T18:40:35+00:00",
+      "source": "https://microgpt.boratto.ca",
+      "summary": "very much inspired by karpathy's microgpt of the same name. it's (by default) a 4000 param GPT/LLM/NN that learns to generate names. this is sorta an educational tool in that you can visualize the activations as they pass through the network, and click on things to get an explan…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47026071",
+      "title": "Editor's Note: Retraction of article containing fabricated quotations",
+      "slug": "2026-02-15-editor-s-note-retraction-of-article-containing-fabricated-quotations.html",
+      "path": "posts/2026-02-15-editor-s-note-retraction-of-article-containing-fabricated-quotations.html",
+      "date_iso": "2026-02-15T18:29:54+00:00",
+      "source": "https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/",
+      "summary": "Article URL: https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/ Comments URL: https://news.ycombinator.com/item?id=47026071 Points: 225 # Comments: 156"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47025864",
+      "title": "Radio host David Greene says Google's NotebookLM tool stole his voice",
+      "slug": "2026-02-15-radio-host-david-greene-says-google-s-notebooklm-tool-stole-his-voice.html",
+      "path": "posts/2026-02-15-radio-host-david-greene-says-google-s-notebooklm-tool-stole-his-voice.html",
+      "date_iso": "2026-02-15T18:05:24+00:00",
+      "source": "https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/",
+      "summary": "https://archive.ph/p81wc Comments URL: https://news.ycombinator.com/item?id=47025864 Points: 145 # Comments: 83"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47025851",
+      "title": "Modern CSS Code Snippets: Stop writing CSS like it's 2015",
+      "slug": "2026-02-15-modern-css-code-snippets-stop-writing-css-like-it-s-2015.html",
+      "path": "posts/2026-02-15-modern-css-code-snippets-stop-writing-css-like-it-s-2015.html",
+      "date_iso": "2026-02-15T18:04:10+00:00",
+      "source": "https://modern-css.com",
+      "summary": "Article URL: https://modern-css.com Comments URL: https://news.ycombinator.com/item?id=47025851 Points: 384 # Comments: 149"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47025399",
+      "title": "LT6502: A 6502-based homebrew laptop",
+      "slug": "2026-02-15-lt6502-a-6502-based-homebrew-laptop.html",
+      "path": "posts/2026-02-15-lt6502-a-6502-based-homebrew-laptop.html",
+      "date_iso": "2026-02-15T17:12:35+00:00",
+      "source": "https://github.com/TechPaula/LT6502",
+      "summary": "Article URL: https://github.com/TechPaula/LT6502 Comments URL: https://news.ycombinator.com/item?id=47025399 Points: 341 # Comments: 154"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47025378",
+      "title": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
+      "slug": "2026-02-15-eu-bans-the-destruction-of-unsold-apparel-clothing-accessories-and-footwear.html",
+      "path": "posts/2026-02-15-eu-bans-the-destruction-of-unsold-apparel-clothing-accessories-and-footwear.html",
+      "date_iso": "2026-02-15T17:10:18+00:00",
+      "source": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
+      "summary": "Article URL: https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en Comments URL: https://news.ycombinator.com/item?id=47025378 Points: 906 # Comments: 625"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47025338",
+      "title": "Show HN: Knock-Knock.net – Visualizing the bots knocking on my server's door",
+      "slug": "2026-02-15-show-hn-knock-knock-net-visualizing-the-bots-knocking-on-my-server-s-door.html",
+      "path": "posts/2026-02-15-show-hn-knock-knock-net-visualizing-the-bots-knocking-on-my-server-s-door.html",
+      "date_iso": "2026-02-15T17:06:25+00:00",
+      "source": "https://knock-knock.net",
+      "summary": "Article URL: https://knock-knock.net Comments URL: https://news.ycombinator.com/item?id=47025338 Points: 131 # Comments: 55"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47025085",
+      "title": "Pocketblue – Fedora Atomic for mobile devices",
+      "slug": "2026-02-15-pocketblue-fedora-atomic-for-mobile-devices.html",
+      "path": "posts/2026-02-15-pocketblue-fedora-atomic-for-mobile-devices.html",
+      "date_iso": "2026-02-15T16:40:13+00:00",
+      "source": "https://github.com/pocketblue/pocketblue",
+      "summary": "Article URL: https://github.com/pocketblue/pocketblue Comments URL: https://news.ycombinator.com/item?id=47025085 Points: 91 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47024506",
+      "title": "Gwtar: A static efficient single-file HTML format",
+      "slug": "2026-02-15-gwtar-a-static-efficient-single-file-html-format.html",
+      "path": "posts/2026-02-15-gwtar-a-static-efficient-single-file-html-format.html",
+      "date_iso": "2026-02-15T15:37:06+00:00",
+      "source": "https://gwern.net/gwtar",
+      "summary": "Article URL: https://gwern.net/gwtar Comments URL: https://news.ycombinator.com/item?id=47024506 Points: 216 # Comments: 71"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47023238",
+      "title": "Amazon's Ring and Google's Nest reveal the severity of U.S. surveillance state",
+      "slug": "2026-02-15-amazon-s-ring-and-google-s-nest-reveal-the-severity-of-u-s-surveillance-state.html",
+      "path": "posts/2026-02-15-amazon-s-ring-and-google-s-nest-reveal-the-severity-of-u-s-surveillance-state.html",
+      "date_iso": "2026-02-15T12:42:17+00:00",
+      "source": "https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly",
+      "summary": "Article URL: https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly Comments URL: https://news.ycombinator.com/item?id=47023238 Points: 797 # Comments: 573"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/15/science/olympics-technology-ski-jump.html",
+      "title": "Could an Electronic Coach Help Ski Jumpers Leap Farther?",
+      "slug": "2026-02-15-could-an-electronic-coach-help-ski-jumpers-leap-farther.html",
+      "path": "posts/2026-02-15-could-an-electronic-coach-help-ski-jumpers-leap-farther.html",
+      "date_iso": "2026-02-15T12:25:56+00:00",
+      "source": "https://www.nytimes.com/2026/02/15/science/olympics-technology-ski-jump.html",
+      "summary": "Future Olympic prospects are testing a device that can give them corrective advice in real time as they hurtle into the air."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47022891",
+      "title": "I fixed Windows native development",
+      "slug": "2026-02-15-i-fixed-windows-native-development.html",
+      "path": "posts/2026-02-15-i-fixed-windows-native-development.html",
+      "date_iso": "2026-02-15T11:25:26+00:00",
+      "source": "https://marler8997.github.io/blog/fixed-windows/",
+      "summary": "Article URL: https://marler8997.github.io/blog/fixed-windows/ Comments URL: https://news.ycombinator.com/item?id=47022891 Points: 720 # Comments: 345"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/15/us/politics/minneapolis-videos-killings-artificial-intelligence.html",
+      "title": "More Than Ever, Videos Expose the Truth. And Cloud It, Too.",
+      "slug": "2026-02-15-more-than-ever-videos-expose-the-truth-and-cloud-it-too.html",
+      "path": "posts/2026-02-15-more-than-ever-videos-expose-the-truth-and-cloud-it-too.html",
+      "date_iso": "2026-02-15T10:02:09+00:00",
+      "source": "https://www.nytimes.com/2026/02/15/us/politics/minneapolis-videos-killings-artificial-intelligence.html",
+      "summary": "A screen grab from a video showing how federal agents wrestled Alex Pretti to the ground before fatally shooting him."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47021586",
       "title": "Ex-Tech –> Homeless in SF",
       "slug": "2026-02-15-ex-tech-homeless-in-sf.html",
@@ -62,6 +251,15 @@
       "date_iso": "2026-02-14T22:39:24+00:00",
       "source": "https://github.com/alichherawalla/off-grid-mobile",
       "summary": "Your phone has a GPU more powerful than most 2018 laptops. Right now it sits idle while you pay monthly subscriptions to run AI on someone else's server, sending your conversations, your photos, your voice to companies whose privacy policy you've never read. Off Grid is an open-…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47019102",
+      "title": "How long do job postings stay open?",
+      "slug": "2026-02-14-how-long-do-job-postings-stay-open.html",
+      "path": "posts/2026-02-14-how-long-do-job-postings-stay-open.html",
+      "date_iso": "2026-02-14T22:35:07+00:00",
+      "source": "https://corvi.careers/blog/job_open_days_by_category_feb_2026/",
+      "summary": "Article URL: https://corvi.careers/blog/job_open_days_by_category_feb_2026/ Comments URL: https://news.ycombinator.com/item?id=47019102 Points: 24 # Comments: 23"
     },
     {
       "id": "https://www.nytimes.com/2026/02/14/business/amazon-ring-flock-partnership-super-bowl.html",
