@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47058106",
+      "title": "Stardex (YC S21) Is Hiring",
+      "slug": "2026-02-18-stardex-yc-s21-is-hiring.html",
+      "path": "posts/2026-02-18-stardex-yc-s21-is-hiring.html",
+      "date_iso": "2026-02-18T07:01:28+00:00",
+      "source": "https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration",
+      "summary": "Article URL: https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration Comments URL: https://news.ycombinator.com/item?id=47058106 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47058080",
+      "title": "Show HN: Beautiful interactive explainers generated with Claude Code",
+      "slug": "2026-02-18-show-hn-beautiful-interactive-explainers-generated-with-claude-code.html",
+      "path": "posts/2026-02-18-show-hn-beautiful-interactive-explainers-generated-with-claude-code.html",
+      "date_iso": "2026-02-18T06:57:37+00:00",
+      "source": "https://paraschopra.github.io/explainers/",
+      "summary": "Hello HN, Recently an amazingly beautiful explainer was shared on HN: https://explainers.blog/posts/why-is-the-sky-blue/ I loved it so much that I wished more topics were explained that way. So, I decided to stress-test today's frontier models (Opus 4.6 in Claude Code) to genera…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47057879",
+      "title": "A DuckDB-based metabase alternative",
+      "slug": "2026-02-18-a-duckdb-based-metabase-alternative.html",
+      "path": "posts/2026-02-18-a-duckdb-based-metabase-alternative.html",
+      "date_iso": "2026-02-18T06:29:36+00:00",
+      "source": "https://github.com/taleshape-com/shaper",
+      "summary": "Article URL: https://github.com/taleshape-com/shaper Comments URL: https://news.ycombinator.com/item?id=47057879 Points: 14 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47057829",
+      "title": "15 years later, Microsoft morged my diagram",
+      "slug": "2026-02-18-15-years-later-microsoft-morged-my-diagram.html",
+      "path": "posts/2026-02-18-15-years-later-microsoft-morged-my-diagram.html",
+      "date_iso": "2026-02-18T06:20:13+00:00",
+      "source": "https://nvie.com/posts/15-years-later/",
+      "summary": "Article URL: https://nvie.com/posts/15-years-later/ Comments URL: https://news.ycombinator.com/item?id=47057829 Points: 192 # Comments: 49"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47057824",
+      "title": "Terminals should generate the 256-color palette",
+      "slug": "2026-02-18-terminals-should-generate-the-256-color-palette.html",
+      "path": "posts/2026-02-18-terminals-should-generate-the-256-color-palette.html",
+      "date_iso": "2026-02-18T06:19:37+00:00",
+      "source": "https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783",
+      "summary": "Article URL: https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783 Comments URL: https://news.ycombinator.com/item?id=47057824 Points: 35 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47057707",
+      "title": "TinyIce: Single-binary Icecast2-compatible server (auto-HTTPS, multi-tenant)",
+      "slug": "2026-02-18-tinyice-single-binary-icecast2-compatible-server-auto-https-multi-tenant.html",
+      "path": "posts/2026-02-18-tinyice-single-binary-icecast2-compatible-server-auto-https-multi-tenant.html",
+      "date_iso": "2026-02-18T06:00:35+00:00",
+      "source": "https://github.com/DatanoiseTV/tinyice",
+      "summary": "Article URL: https://github.com/DatanoiseTV/tinyice Comments URL: https://news.ycombinator.com/item?id=47057707 Points: 4 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47056314",
+      "title": "Halt and Catch Fire: TV's Best Drama You've Probably Never Heard Of (2021)",
+      "slug": "2026-02-18-halt-and-catch-fire-tv-s-best-drama-you-ve-probably-never-heard-of-2021.html",
+      "path": "posts/2026-02-18-halt-and-catch-fire-tv-s-best-drama-you-ve-probably-never-heard-of-2021.html",
+      "date_iso": "2026-02-18T02:18:29+00:00",
+      "source": "https://www.sceneandheardnu.com/content/halt-and-catch-fire",
+      "summary": "Article URL: https://www.sceneandheardnu.com/content/halt-and-catch-fire Comments URL: https://news.ycombinator.com/item?id=47056314 Points: 346 # Comments: 187"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47055979",
+      "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
+      "slug": "2026-02-18-thousands-of-ceos-just-admitted-ai-had-no-impact-on-employment-or-productivity.html",
+      "path": "posts/2026-02-18-thousands-of-ceos-just-admitted-ai-had-no-impact-on-employment-or-productivity.html",
+      "date_iso": "2026-02-18T01:40:52+00:00",
+      "source": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
+      "summary": "Article URL: https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/ Comments URL: https://news.ycombinator.com/item?id=47055979 Points: 377 # Comments: 258"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47055696",
+      "title": "Google Public CA is down",
+      "slug": "2026-02-18-google-public-ca-is-down.html",
+      "path": "posts/2026-02-18-google-public-ca-is-down.html",
+      "date_iso": "2026-02-18T01:05:33+00:00",
+      "source": "https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3",
+      "summary": "Article URL: https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3 Comments URL: https://news.ycombinator.com/item?id=47055696 Points: 237 # Comments: 134"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47055262",
+      "title": "Minimal x86 Kernel Zig",
+      "slug": "2026-02-18-minimal-x86-kernel-zig.html",
+      "path": "posts/2026-02-18-minimal-x86-kernel-zig.html",
+      "date_iso": "2026-02-18T00:02:06+00:00",
+      "source": "https://github.com/lopespm/zig-minimal-kernel-x86",
+      "summary": "Article URL: https://github.com/lopespm/zig-minimal-kernel-x86 Comments URL: https://news.ycombinator.com/item?id=47055262 Points: 89 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47054744",
+      "title": "'My Words Are Like an Uncontrollable Dog': On Life with Nonfluent Aphasia (2025)",
+      "slug": "2026-02-17-my-words-are-like-an-uncontrollable-dog-on-life-with-nonfluent-aphasia-2025.html",
+      "path": "posts/2026-02-17-my-words-are-like-an-uncontrollable-dog-on-life-with-nonfluent-aphasia-2025.html",
+      "date_iso": "2026-02-17T23:06:51+00:00",
+      "source": "https://thereader.mitpress.mit.edu/my-words-are-like-an-uncontrollable-dog-on-life-with-nonfluent-aphasia/",
+      "summary": "Article URL: https://thereader.mitpress.mit.edu/my-words-are-like-an-uncontrollable-dog-on-life-with-nonfluent-aphasia/ Comments URL: https://news.ycombinator.com/item?id=47054744 Points: 50 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47053267",
+      "title": "Structured AI (YC F25) Is Hiring",
+      "slug": "2026-02-17-structured-ai-yc-f25-is-hiring.html",
+      "path": "posts/2026-02-17-structured-ai-yc-f25-is-hiring.html",
+      "date_iso": "2026-02-17T21:00:30+00:00",
+      "source": "https://www.ycombinator.com/companies/structured-ai/jobs/q3cx77y-gtm-intern",
+      "summary": "Article URL: https://www.ycombinator.com/companies/structured-ai/jobs/q3cx77y-gtm-intern Comments URL: https://news.ycombinator.com/item?id=47053267 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47052941",
+      "title": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
+      "slug": "2026-02-17-barracuda-open-source-cuda-compiler-targeting-amd-gpus.html",
+      "path": "posts/2026-02-17-barracuda-open-source-cuda-compiler-targeting-amd-gpus.html",
+      "date_iso": "2026-02-17T20:35:18+00:00",
+      "source": "https://github.com/Zaneham/BarraCUDA",
+      "summary": "Article URL: https://github.com/Zaneham/BarraCUDA Comments URL: https://news.ycombinator.com/item?id=47052941 Points: 259 # Comments: 95"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47051852",
+      "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
+      "slug": "2026-02-17-show-hn-asteroidos-2-0-nobody-asked-we-shipped-anyway.html",
+      "path": "posts/2026-02-17-show-hn-asteroidos-2-0-nobody-asked-we-shipped-anyway.html",
+      "date_iso": "2026-02-17T19:24:55+00:00",
+      "source": "https://asteroidos.org/news/2-0-release/index.html",
+      "summary": "Hi HN, After roughly 8 years of silently rolling 1.1 nightlies, we finally tagged a proper stable 2.0 release. We built this because wrist-sized Linux is genuinely fun to hack on, and because a handful of us think it's worth keeping capable hardware alive long after manufacturer…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47050872",
+      "title": "Show HN: Pg-typesafe – Strongly typed queries for PostgreSQL and TypeScript",
+      "slug": "2026-02-17-show-hn-pg-typesafe-strongly-typed-queries-for-postgresql-and-typescript.html",
+      "path": "posts/2026-02-17-show-hn-pg-typesafe-strongly-typed-queries-for-postgresql-and-typescript.html",
+      "date_iso": "2026-02-17T18:15:36+00:00",
+      "source": "https://github.com/n-e/pg-typesafe",
+      "summary": "Throughout my career, I tried many tools to query PostgreSQL, and in the end, concluded that for what I do, the simplest is almost always the best: raw SQL queries. Until now, I typed the results manually and relied on tests to catch problems. While this is OK in e.g., GoLang, i…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47050488",
+      "title": "Claude Sonnet 4.6",
+      "slug": "2026-02-17-claude-sonnet-4-6.html",
+      "path": "posts/2026-02-17-claude-sonnet-4-6.html",
+      "date_iso": "2026-02-17T17:48:52+00:00",
+      "source": "https://www.anthropic.com/news/claude-sonnet-4-6",
+      "summary": "https://www.anthropic.com/claude-sonnet-4-6-system-card [pdf] https://x.com/claudeai/status/2023817132581208353 [video] Comments URL: https://news.ycombinator.com/item?id=47050488 Points: 1044 # Comments: 917"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47050067",
+      "title": "Gentoo on Codeberg",
+      "slug": "2026-02-17-gentoo-on-codeberg.html",
+      "path": "posts/2026-02-17-gentoo-on-codeberg.html",
+      "date_iso": "2026-02-17T17:21:04+00:00",
+      "source": "https://www.gentoo.org/news/2026/02/16/codeberg.html",
+      "summary": "Article URL: https://www.gentoo.org/news/2026/02/16/codeberg.html Comments URL: https://news.ycombinator.com/item?id=47050067 Points: 314 # Comments: 109"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47049824",
+      "title": "Thank HN: You helped save 33k lives",
+      "slug": "2026-02-17-thank-hn-you-helped-save-33k-lives.html",
+      "path": "posts/2026-02-17-thank-hn-you-helped-save-33k-lives.html",
+      "date_iso": "2026-02-17T17:06:18+00:00",
+      "source": "https://news.ycombinator.com/item?id=47049824",
+      "summary": "13 years ago, we launched Watsi.org with a Show HN [1]. For nearly a year, this community drove so much traffic that we couldn’t list patients fast enough. Then pg saw us on HN, wrote us our first big check, and accepted us as the first YC nonprofit (W13). The next few years wer…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47049744",
+      "title": "Trata (YC W25) Is Hiring Founding Engineers (NYC)",
+      "slug": "2026-02-17-trata-yc-w25-is-hiring-founding-engineers-nyc.html",
+      "path": "posts/2026-02-17-trata-yc-w25-is-hiring-founding-engineers-nyc.html",
+      "date_iso": "2026-02-17T17:01:15+00:00",
+      "source": "https://news.ycombinator.com/item?id=47049744",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=47049744 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47049718",
+      "title": "So you want to build a tunnel",
+      "slug": "2026-02-17-so-you-want-to-build-a-tunnel.html",
+      "path": "posts/2026-02-17-so-you-want-to-build-a-tunnel.html",
+      "date_iso": "2026-02-17T16:59:34+00:00",
+      "source": "https://practical.engineering/blog/2026/2/17/so-you-want-to-build-a-tunnel",
+      "summary": "Article URL: https://practical.engineering/blog/2026/2/17/so-you-want-to-build-a-tunnel Comments URL: https://news.ycombinator.com/item?id=47049718 Points: 207 # Comments: 84"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/17/technology/chatbots-influencers-brands-marketing.html",
+      "title": "Chatbots Are the New Influencers Brands Must Woo",
+      "slug": "2026-02-17-chatbots-are-the-new-influencers-brands-must-woo.html",
+      "path": "posts/2026-02-17-chatbots-are-the-new-influencers-brands-must-woo.html",
+      "date_iso": "2026-02-17T10:02:10+00:00",
+      "source": "https://www.nytimes.com/2026/02/17/technology/chatbots-influencers-brands-marketing.html",
+      "summary": "Companies are realizing they can no longer simply promote themselves to potential customers. They have to win over the robots, too."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/17/technology/vibe-tv-billboards-silicon-valley.html",
+      "title": "With Niche Tech World References, Vibe Hopes Its Billboards Reach Start-Up Insiders",
+      "slug": "2026-02-17-with-niche-tech-world-references-vibe-hopes-its-billboards-reach-start-up-insiders.html",
+      "path": "posts/2026-02-17-with-niche-tech-world-references-vibe-hopes-its-billboards-reach-start-up-insiders.html",
+      "date_iso": "2026-02-17T10:01:00+00:00",
+      "source": "https://www.nytimes.com/2026/02/17/technology/vibe-tv-billboards-silicon-valley.html",
+      "summary": "Billboards that wouldn’t make sense to people outside the tech industry have become common in the Bay Area. One company took the microtargeting game to another level."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47044293",
       "title": "SvarDOS – an open-source DOS distribution",
       "slug": "2026-02-17-svardos-an-open-source-dos-distribution.html",

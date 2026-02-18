@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Pg-typesafe – Strongly typed queries for PostgreSQL and TypeScript</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Pg-typesafe – Strongly typed queries for PostgreSQL and TypeScript</h1>
+    <p><small>Published: 2026-02-17T18:15:36+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Throughout my career, I tried many tools to query PostgreSQL, and in the end, concluded that for what I do, the simplest is almost always the best: raw SQL queries.<p>Until now, I typed the results manually and relied on tests to catch problems. While this is OK in e.g., GoLang, it is quite annoying in TypeScript. First, because of the more powerful type system (it's easier to guess that updated_at is a date than it is to guess whether it's nullable or not), second, because of idiosyncrasies (INT4s are deserialised as JS numbers, but INT8s are deserialised as strings).<p>So I wrote pg-typesafe, with the goal of it being the less burdensome: you call queries exactly the same way as you would call node-pg, and they are fully typed.<p>It's very new, but I'm already using it in a large-ish project, where it found several bugs and footguns, and also allowed me to remove many manual type definitions.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47050872">https://news.ycombinator.com/item?id=47050872</a></p>
+<p>Points: 62</p>
+<p># Comments: 24</p>
+    <p><a href="https://github.com/n-e/pg-typesafe" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
