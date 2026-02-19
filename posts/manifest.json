@@ -1,6 +1,258 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47070658",
+      "title": "US funding for global internet freedom 'effectively gutted'",
+      "slug": "2026-02-19-us-funding-for-global-internet-freedom-effectively-gutted.html",
+      "path": "posts/2026-02-19-us-funding-for-global-internet-freedom-effectively-gutted.html",
+      "date_iso": "2026-02-19T06:41:14+00:00",
+      "source": "https://www.theguardian.com/world/2026/feb/19/us-funding-for-global-internet-freedom-effectively-gutted",
+      "summary": "Article URL: https://www.theguardian.com/world/2026/feb/19/us-funding-for-global-internet-freedom-effectively-gutted Comments URL: https://news.ycombinator.com/item?id=47070658 Points: 10 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47070446",
+      "title": "Stoolap/Node: A Native Node.js Driver That's Surprisingly Fast",
+      "slug": "2026-02-19-stoolap-node-a-native-node-js-driver-that-s-surprisingly-fast.html",
+      "path": "posts/2026-02-19-stoolap-node-a-native-node-js-driver-that-s-surprisingly-fast.html",
+      "date_iso": "2026-02-19T06:09:58+00:00",
+      "source": "https://stoolap.io/blog/2026/02/19/introducing-stoolap-node/",
+      "summary": "Article URL: https://stoolap.io/blog/2026/02/19/introducing-stoolap-node/ Comments URL: https://news.ycombinator.com/item?id=47070446 Points: 12 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47070142",
+      "title": "European Tech Alternatives",
+      "slug": "2026-02-19-european-tech-alternatives.html",
+      "path": "posts/2026-02-19-european-tech-alternatives.html",
+      "date_iso": "2026-02-19T05:07:37+00:00",
+      "source": "https://eutechmap.com/map",
+      "summary": "Article URL: https://eutechmap.com/map Comments URL: https://news.ycombinator.com/item?id=47070142 Points: 166 # Comments: 110"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47069876",
+      "title": "Show HN: A Lisp where each function call runs a Docker container",
+      "slug": "2026-02-19-show-hn-a-lisp-where-each-function-call-runs-a-docker-container.html",
+      "path": "posts/2026-02-19-show-hn-a-lisp-where-each-function-call-runs-a-docker-container.html",
+      "date_iso": "2026-02-19T04:19:20+00:00",
+      "source": "https://github.com/a11ce/docker-lisp",
+      "summary": "Article URL: https://github.com/a11ce/docker-lisp Comments URL: https://news.ycombinator.com/item?id=47069876 Points: 23 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47069650",
+      "title": "Electrobun v1: Build fast, tiny, and cross-platform desktop apps with TypeScript",
+      "slug": "2026-02-19-electrobun-v1-build-fast-tiny-and-cross-platform-desktop-apps-with-typescript.html",
+      "path": "posts/2026-02-19-electrobun-v1-build-fast-tiny-and-cross-platform-desktop-apps-with-typescript.html",
+      "date_iso": "2026-02-19T03:46:07+00:00",
+      "source": "https://blackboard.sh/blog/electrobun-v1/",
+      "summary": "I'm building a commercial macOS app with Electrobun [1]. I have previously written the same app with Tauri. I'll say that, while I love Tauri, using Electrobun has been an absolute breeze. I got the same app done in roughly 70% of the time [2]. It's a very productive stack. In n…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47069299",
+      "title": "Anthropic officially bans using subscription auth for third party use",
+      "slug": "2026-02-19-anthropic-officially-bans-using-subscription-auth-for-third-party-use.html",
+      "path": "posts/2026-02-19-anthropic-officially-bans-using-subscription-auth-for-third-party-use.html",
+      "date_iso": "2026-02-19T02:52:26+00:00",
+      "source": "https://code.claude.com/docs/en/legal-and-compliance",
+      "summary": "Article URL: https://code.claude.com/docs/en/legal-and-compliance Comments URL: https://news.ycombinator.com/item?id=47069299 Points: 274 # Comments: 290"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47069179",
+      "title": "Step 3.5 Flash: Fast Enough to Think. Reliable Enough to Act",
+      "slug": "2026-02-19-step-3-5-flash-fast-enough-to-think-reliable-enough-to-act.html",
+      "path": "posts/2026-02-19-step-3-5-flash-fast-enough-to-think-reliable-enough-to-act.html",
+      "date_iso": "2026-02-19T02:32:00+00:00",
+      "source": "https://static.stepfun.com/blog/step-3.5-flash/",
+      "summary": "Article URL: https://static.stepfun.com/blog/step-3.5-flash/ Comments URL: https://news.ycombinator.com/item?id=47069179 Points: 41 # Comments: 11"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/18/technology/mark-zuckerberg-tech-addiction-trial.html",
+      "title": "Mark Zuckerberg Takes the Stand in Social Media Addiction Trial",
+      "slug": "2026-02-19-mark-zuckerberg-takes-the-stand-in-social-media-addiction-trial.html",
+      "path": "posts/2026-02-19-mark-zuckerberg-takes-the-stand-in-social-media-addiction-trial.html",
+      "date_iso": "2026-02-19T02:14:22+00:00",
+      "source": "https://www.nytimes.com/2026/02/18/technology/mark-zuckerberg-tech-addiction-trial.html",
+      "summary": "Mark Zuckerberg has been criticized over allegations that his company created child safety and privacy problems."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47068948",
+      "title": "Minecraft Java is switching from OpenGL to Vulkan",
+      "slug": "2026-02-19-minecraft-java-is-switching-from-opengl-to-vulkan.html",
+      "path": "posts/2026-02-19-minecraft-java-is-switching-from-opengl-to-vulkan.html",
+      "date_iso": "2026-02-19T01:55:33+00:00",
+      "source": "https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/",
+      "summary": "Article URL: https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/ Comments URL: https://news.ycombinator.com/item?id=47068948 Points: 167 # Comments: 55"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47068890",
+      "title": "15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern",
+      "slug": "2026-02-19-15-years-of-fp64-segmentation-and-why-the-blackwell-ultra-breaks-the-pattern.html",
+      "path": "posts/2026-02-19-15-years-of-fp64-segmentation-and-why-the-blackwell-ultra-breaks-the-pattern.html",
+      "date_iso": "2026-02-19T01:46:07+00:00",
+      "source": "https://nicolasdickenmann.com/blog/the-great-fp64-divide.html",
+      "summary": "Article URL: https://nicolasdickenmann.com/blog/the-great-fp64-divide.html Comments URL: https://news.ycombinator.com/item?id=47068890 Points: 90 # Comments: 28"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/18/technology/defense-department-anthropic-ai-safety.html",
+      "title": "Defense Department and Anthropic Square Off in Dispute Over A.I. Safety",
+      "slug": "2026-02-19-defense-department-and-anthropic-square-off-in-dispute-over-a-i-safety.html",
+      "path": "posts/2026-02-19-defense-department-and-anthropic-square-off-in-dispute-over-a-i-safety.html",
+      "date_iso": "2026-02-19T00:35:17+00:00",
+      "source": "https://www.nytimes.com/2026/02/18/technology/defense-department-anthropic-ai-safety.html",
+      "summary": "The Defense Department and Anthropic have been negotiating a contract over A.I. use by the Pentagon."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47068320",
+      "title": "How AI is affecting productivity and jobs in Europe",
+      "slug": "2026-02-19-how-ai-is-affecting-productivity-and-jobs-in-europe.html",
+      "path": "posts/2026-02-19-how-ai-is-affecting-productivity-and-jobs-in-europe.html",
+      "date_iso": "2026-02-19T00:22:45+00:00",
+      "source": "https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe",
+      "summary": "Article URL: https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe Comments URL: https://news.ycombinator.com/item?id=47068320 Points: 77 # Comments: 37"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/18/technology/anthropic-dario-amodei-effective-altruism.html",
+      "title": "Decoding the A.I. Beliefs of Anthropic and Its C.E.O., Dario Amodei",
+      "slug": "2026-02-18-decoding-the-a-i-beliefs-of-anthropic-and-its-c-e-o-dario-amodei.html",
+      "path": "posts/2026-02-18-decoding-the-a-i-beliefs-of-anthropic-and-its-c-e-o-dario-amodei.html",
+      "date_iso": "2026-02-18T23:08:27+00:00",
+      "source": "https://www.nytimes.com/2026/02/18/technology/anthropic-dario-amodei-effective-altruism.html",
+      "summary": "The contract between Anthropic and the Pentagon, worth as much as $200 million, is at stake."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47067498",
+      "title": "All Look Same?",
+      "slug": "2026-02-18-all-look-same.html",
+      "path": "posts/2026-02-18-all-look-same.html",
+      "date_iso": "2026-02-18T22:48:03+00:00",
+      "source": "https://alllooksame.com/",
+      "summary": "Article URL: https://alllooksame.com/ Comments URL: https://news.ycombinator.com/item?id=47067498 Points: 60 # Comments: 43"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47067496",
+      "title": "Martial arts robots at 2026 Spring Festival Gala [video]",
+      "slug": "2026-02-18-martial-arts-robots-at-2026-spring-festival-gala-video.html",
+      "path": "posts/2026-02-18-martial-arts-robots-at-2026-spring-festival-gala-video.html",
+      "date_iso": "2026-02-18T22:47:44+00:00",
+      "source": "https://www.youtube.com/watch?v=mUmlv814aJo",
+      "summary": "Article URL: https://www.youtube.com/watch?v=mUmlv814aJo Comments URL: https://news.ycombinator.com/item?id=47067496 Points: 12 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47066552",
+      "title": "Sizing chaos",
+      "slug": "2026-02-18-sizing-chaos.html",
+      "path": "posts/2026-02-18-sizing-chaos.html",
+      "date_iso": "2026-02-18T21:18:20+00:00",
+      "source": "https://pudding.cool/2026/02/womens-sizing/",
+      "summary": "Article URL: https://pudding.cool/2026/02/womens-sizing/ Comments URL: https://news.ycombinator.com/item?id=47066552 Points: 475 # Comments: 242"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47066310",
+      "title": "Metriport (YC S22) is hiring a security engineer to harden healthcare infra",
+      "slug": "2026-02-18-metriport-yc-s22-is-hiring-a-security-engineer-to-harden-healthcare-infra.html",
+      "path": "posts/2026-02-18-metriport-yc-s22-is-hiring-a-security-engineer-to-harden-healthcare-infra.html",
+      "date_iso": "2026-02-18T21:00:32+00:00",
+      "source": "https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer Comments URL: https://news.ycombinator.com/item?id=47066310 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47066241",
+      "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
+      "slug": "2026-02-18-27-year-old-apple-ibooks-can-connect-to-wi-fi-and-download-official-updates.html",
+      "path": "posts/2026-02-18-27-year-old-apple-ibooks-can-connect-to-wi-fi-and-download-official-updates.html",
+      "date_iso": "2026-02-18T20:54:31+00:00",
+      "source": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
+      "summary": "Article URL: https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/ Comments URL: https://news.ycombinator.com/item?id=47066241 Points: 298 # Comments: 150"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47065179",
+      "title": "R3forth: A concatenative language derived from ColorForth",
+      "slug": "2026-02-18-r3forth-a-concatenative-language-derived-from-colorforth.html",
+      "path": "posts/2026-02-18-r3forth-a-concatenative-language-derived-from-colorforth.html",
+      "date_iso": "2026-02-18T19:28:59+00:00",
+      "source": "https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md",
+      "summary": "Article URL: https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md Comments URL: https://news.ycombinator.com/item?id=47065179 Points: 81 # Comments: 10"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/18/technology/meta-65-million-election-ai.html",
+      "title": "Meta Begins $65 Million Election Push to Advance A.I. Agenda",
+      "slug": "2026-02-18-meta-begins-65-million-election-push-to-advance-a-i-agenda.html",
+      "path": "posts/2026-02-18-meta-begins-65-million-election-push-to-advance-a-i-agenda.html",
+      "date_iso": "2026-02-18T19:02:28+00:00",
+      "source": "https://www.nytimes.com/2026/02/18/technology/meta-65-million-election-ai.html",
+      "summary": "Meta is quietly supporting two new super PACs as it aims to influence the regulatory environment for artificial intelligence."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47064845",
+      "title": "What Every Experimenter Must Know About Randomization",
+      "slug": "2026-02-18-what-every-experimenter-must-know-about-randomization.html",
+      "path": "posts/2026-02-18-what-every-experimenter-must-know-about-randomization.html",
+      "date_iso": "2026-02-18T19:02:18+00:00",
+      "source": "https://spawn-queue.acm.org/doi/pdf/10.1145/3778029",
+      "summary": "Article URL: https://spawn-queue.acm.org/doi/pdf/10.1145/3778029 Comments URL: https://news.ycombinator.com/item?id=47064845 Points: 70 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47064490",
+      "title": "Cosmologically Unique IDs",
+      "slug": "2026-02-18-cosmologically-unique-ids.html",
+      "path": "posts/2026-02-18-cosmologically-unique-ids.html",
+      "date_iso": "2026-02-18T18:37:22+00:00",
+      "source": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
+      "summary": "Article URL: https://jasonfantl.com/posts/Universal-Unique-IDs/ Comments URL: https://news.ycombinator.com/item?id=47064490 Points: 347 # Comments: 110"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/18/upshot/moltbook-artificial-intelligence-ai.html",
+      "title": "What Do A.I. Chatbots Discuss Among Themselves? We Sent One to Find Out.",
+      "slug": "2026-02-18-what-do-a-i-chatbots-discuss-among-themselves-we-sent-one-to-find-out.html",
+      "path": "posts/2026-02-18-what-do-a-i-chatbots-discuss-among-themselves-we-sent-one-to-find-out.html",
+      "date_iso": "2026-02-18T18:20:50+00:00",
+      "source": "https://www.nytimes.com/2026/02/18/upshot/moltbook-artificial-intelligence-ai.html",
+      "summary": "We interviewed our bot about what it learned on Moltbook, the A.I.-only social network."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47064105",
+      "title": "Activeloop (YC S18) Is Hiring Back End Engineer (Go)",
+      "slug": "2026-02-18-activeloop-yc-s18-is-hiring-back-end-engineer-go.html",
+      "path": "posts/2026-02-18-activeloop-yc-s18-is-hiring-back-end-engineer-go.html",
+      "date_iso": "2026-02-18T18:09:27+00:00",
+      "source": "https://app.dover.com/apply/Activeloop/72d0b3a7-7e86-46a8-9aff-b430ffe0b97f",
+      "summary": "Article URL: https://app.dover.com/apply/Activeloop/72d0b3a7-7e86-46a8-9aff-b430ffe0b97f Comments URL: https://news.ycombinator.com/item?id=47064105 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47064047",
+      "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
+      "slug": "2026-02-18-dns-persist-01-a-new-model-for-dns-based-challenge-validation.html",
+      "path": "posts/2026-02-18-dns-persist-01-a-new-model-for-dns-based-challenge-validation.html",
+      "date_iso": "2026-02-18T18:04:13+00:00",
+      "source": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
+      "summary": "Article URL: https://letsencrypt.org/2026/02/18/dns-persist-01.html Comments URL: https://news.ycombinator.com/item?id=47064047 Points: 251 # Comments: 114"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/18/business/xai-humain-saudi-musk-spacex.html",
+      "title": "Elon Musk’s xAI Gets $3 Billion Investment From Saudi-Backed A.I. Firm",
+      "slug": "2026-02-18-elon-musk-s-xai-gets-3-billion-investment-from-saudi-backed-a-i-firm.html",
+      "path": "posts/2026-02-18-elon-musk-s-xai-gets-3-billion-investment-from-saudi-backed-a-i-firm.html",
+      "date_iso": "2026-02-18T14:35:12+00:00",
+      "source": "https://www.nytimes.com/2026/02/18/business/xai-humain-saudi-musk-spacex.html",
+      "summary": "Crown Prince Mohammed bin Salman with Elon Musk at a Saudi Arabia Investment forum at the Kennedy Center in Washington last year."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/18/technology/personaltech/free-live-tv-mobile-apps.html",
+      "title": "How to Watch Free Live Television on Your Phone or Tablet",
+      "slug": "2026-02-18-how-to-watch-free-live-television-on-your-phone-or-tablet.html",
+      "path": "posts/2026-02-18-how-to-watch-free-live-television-on-your-phone-or-tablet.html",
+      "date_iso": "2026-02-18T14:00:12+00:00",
+      "source": "https://www.nytimes.com/2026/02/18/technology/personaltech/free-live-tv-mobile-apps.html",
+      "summary": "Tubi, shown here on an iPad, is one of the many advertising-supported streaming apps that bring free live television programs to mobile devices."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/18/business/energy-environment/uber-electric-vehicle-charging-stations.html",
+      "title": "Uber Taking Steps to Expand Number of EV Chargers Near Its Drivers",
+      "slug": "2026-02-18-uber-taking-steps-to-expand-number-of-ev-chargers-near-its-drivers.html",
+      "path": "posts/2026-02-18-uber-taking-steps-to-expand-number-of-ev-chargers-near-its-drivers.html",
+      "date_iso": "2026-02-18T12:00:06+00:00",
+      "source": "https://www.nytimes.com/2026/02/18/business/energy-environment/uber-electric-vehicle-charging-stations.html",
+      "summary": "Drivers for Uber, Lyft and other taxi services are often the biggest users of charging stations, like this one at Kennedy International Airport."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47058106",
       "title": "Stardex (YC S21) Is Hiring",
       "slug": "2026-02-18-stardex-yc-s21-is-hiring.html",

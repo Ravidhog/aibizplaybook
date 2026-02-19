@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Electrobun v1: Build fast, tiny, and cross-platform desktop apps with TypeScript</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Electrobun v1: Build fast, tiny, and cross-platform desktop apps with TypeScript</h1>
+    <p><small>Published: 2026-02-19T03:46:07+00:00</small></p>
+  </header>
+
+  <main>
+    <p>I'm building a commercial macOS app with Electrobun [1]. I have previously written the same app with Tauri. I'll say that, while I love Tauri, using Electrobun has been an absolute breeze. I got the same app done in roughly 70% of the time [2]. It's a very productive stack. In no small part due to Electrobun, but also the fact that Bun has tons of DX niceties and a builtin bundler.<p>Electrobun lets you open/manipulate/close webview windows and communicate with them using typed rpc. It also handles building, code signing, and notarization.<p>And because I'm using Bun, running an HMR + React + Tailwind server is just one command (`bun ./index.html`) or like 5 lines of code. Pass --console and the webview's console.log()s get streamed to your Terminal too.<p>There's tons of other things Electrobun does that I haven't even mentioned, because I haven't interacted much with them yet. E.g. I know that it lets you show platform-native notifications, prompts/popups, etc.<p>There also is a very impressive updating mechanism that relies on a bsdiff implementation written in Zig. You just ship the deltas, so updates to very large apps are just a few KBs most of the time.<p>It's genuinely a very productive stack and impressive piece of tech.<p>[1] Not affiliated - I just like the project.<p>[2]: The API and implementation was clear, so I'll cautiously say this is not a case of "rewrites are always faster". In fact, the Tauri version was a rewrite too :)</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47069650">https://news.ycombinator.com/item?id=47069650</a></p>
+<p>Points: 74</p>
+<p># Comments: 23</p>
+    <p><a href="https://blackboard.sh/blog/electrobun-v1/" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
