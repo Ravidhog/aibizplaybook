@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Ghostty-based terminal with vertical tabs and notifications</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Ghostty-based terminal with vertical tabs and notifications</h1>
+    <p><small>Published: 2026-02-19T21:30:04+00:00</small></p>
+  </header>
+
+  <main>
+    <p>I run a lot of Claude Code and Codex sessions in parallel. I was using Ghostty with a bunch of split panes, and relying on native macOS notifications to know when an agent needed me. But Claude Code's notification body is always just "Claude is waiting for your input" with no context, and with enough tabs open, I couldn't even read the titles anymore.<p>I tried a few coding orchestrators but most of them were Electron/Tauri apps and the performance bugged me. I also just prefer the terminal since GUI orchestrators lock you into their workflow. So I built cmux as a native macOS app in Swift/AppKit. It uses libghostty for terminal rendering and reads your existing Ghostty config for themes, fonts, colors, and more.<p>The main additions are the sidebar and notification system. The sidebar has vertical tabs that show git branch, working directory, listening ports, and the latest notification text for each workspace. The notification system picks up terminal sequences (OSC 9/99/777) and has a CLI (cmux notify) you can wire into agent hooks for Claude Code, OpenCode, etc. When an agent is waiting, its pane gets a blue ring and the tab lights up in the sidebar, so I can tell which one needs me across splits and tabs. Cmd+Shift+U jumps to the most recent unread.<p>The in-app browser has a scriptable API ported from agent-browser [1]. Agents can snapshot the accessibility tree, get element refs, click, fill forms, evaluate JS, and read console logs. You can split a browser pane next to your terminal and have Claude Code interact with your dev server directly.<p>Everything is scriptable through the CLI and socket API – create workspaces/tabs, split panes, send keystrokes, open URLs in the browser.<p>Demo video: <a href="https://www.youtube.com/watch?v=i-WxO5YUTOs" rel="nofollow">https://www.youtube.com/watch?v=i-WxO5YUTOs</a><p>Repo (AGPL): <a href="https://github.com/manaflow-ai/cmux" rel="nofollow">https://github.com/manaflow-ai/cmux</a><p>[1] <a href="https://github.com/vercel-labs/agent-browser" rel="nofollow">https://github.com/vercel-labs/agent-browser</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47079718">https://news.ycombinator.com/item?id=47079718</a></p>
+<p>Points: 123</p>
+<p># Comments: 59</p>
+    <p><a href="https://github.com/manaflow-ai/cmux" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

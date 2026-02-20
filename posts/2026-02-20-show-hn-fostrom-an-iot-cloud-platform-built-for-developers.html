@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Fostrom, an IoT Cloud Platform built for developers</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Fostrom, an IoT Cloud Platform built for developers</h1>
+    <p><small>Published: 2026-02-20T06:20:34+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hey HN! Arjun and Sid here.<p>Fostrom is an IoT Cloud Platform designed for developers to make it really easy to get started and scale fleets. We have Device SDKs (in Python, JS, Elixir, more coming soon), Typed Schemas, Per-Device Mailboxes, Programmable Actions, 4 Global Regions for lower-latency connections, and much more.<p>We've built Fostrom to solve a real need we faced in our previous startup, building a fully automated indoor vertical farm. We spent more time figuring out IoT infrastructure than writing automation logic. Fostrom is the platform we wished existed back then.<p>Over the last few years we've experimented with a lot of interesting tech and architectures, and settled on an architecture that we believe is quite elegant. We wrote a Go<->Elixir bridge to execute JS code in WASM for Actions, implemented a DuckDB library for Elixir, and wrote a Device Agent in Rust that our SDKs run in the background (<a href="https://github.com/fostrom/devicekit" rel="nofollow">https://github.com/fostrom/devicekit</a>).<p>The most interesting realization we had was about the data architecture. For years, we tried using distributed databases and built complex layers on top of them, but all approaches had significant limitations specifically around consistency and querying. We want to provide operational correctness, rich insights, and reliability. Finally, we came to the conclusion that to achieve this we really need a SQL database for fleet data. So we built a DuckDB-based replicated multi-tenant data layer. We're still improving it (hence the Technical Preview badge) but we're quite proud of this decision. It simplifies the rest of the codebase, while keeping operational complexity in just a few places.<p>Our vision is to make a powerful IoT platform that enables you to build correct, secure, and reliable connected systems without dealing with any of the plumbing or infrastructure.<p>Next up, we're gonna launch our CLI, add automatic device monitoring to our Device SDKs, and improve the debugging experience. We have some pretty cool ideas to make Fostrom and the experience of developing connected systems better. We're also going to write more about our architecture and journey soon.<p>We also published our launch blog post which goes into more detail about our vision, what we've built, and our future plans: <a href="https://fostrom.io/blog/introducing-fostrom" rel="nofollow">https://fostrom.io/blog/introducing-fostrom</a><p>Would love for you to try out Fostrom and give us your feedback and thoughts.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47084431">https://news.ycombinator.com/item?id=47084431</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
+    <p><a href="https://fostrom.io/" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

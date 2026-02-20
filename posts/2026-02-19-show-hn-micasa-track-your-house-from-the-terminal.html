@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Micasa – track your house from the terminal</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Micasa – track your house from the terminal</h1>
+    <p><small>Published: 2026-02-19T15:54:14+00:00</small></p>
+  </header>
+
+  <main>
+    <p>micasa is a terminal UI that helps you track home stuff, in a single SQLite file. No cloud, no
+account, no subscription. Backup with cp.<p>I built it because I was tired of losing track of everything in notes apps, and "I'll remember
+that"s. When do I need to clean the dishwasher filter? What's the best quote for a complete
+overhaul of the backyard. Oops, found some mold behind the trim, need to address that ASAP. That
+sort of stuff.<p>Another reason I made micasa was to build a (hopefully useful) low-stakes personal project where
+the code was written entirely by AI. I still review the code and click the merge button, but 99%
+of the programming was done with an agent.<p>Here are some things I think make it worth checking out:<p>- Vim-style modal UI. Nav mode to browse, edit mode to change. Multicolumn sort, fuzzy-jump to
+  columns, pin-and-filter rows, hide columns you don't need, drill into related records (like
+  quotes for a project). Much of the spirit of the design and some of the actual design choices
+  is and are inspired by VisiData. You should check that out too.
+- Local LLM chat. Definitely a gimmick, but I am trying preempt "Yeah, but does it AI?"-style
+  conversations. This is an optional feature and you can simply pretend it doesn't exist. All
+  features work without it.
+- Single-file SQLite-based architecture. Document attachments (manuals, receipts, photos) are
+  stored as BLOBs in the same SQLite database. One file is the whole app state. If you think
+  this won't scale, you're right. It's pretty damn easy to work with though.
+- Pure Go, zero CGO. Built on Charmbracelet for the TUI and GORM + go-sqlite for the database.
+  Charm makes pretty nice TUIs, and this was my first time using it.<p>Try it with sample data:
+go install github.com/cpcloud/micasa/cmd/micasa@latest && micasa --demo<p>If you're insane you can also run micasa --demo --years 1000 to generate 1000 years worth of
+demo data. Not sure what house would last that long, but hey, you do you.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47075124">https://news.ycombinator.com/item?id=47075124</a></p>
+<p>Points: 519</p>
+<p># Comments: 167</p>
+    <p><a href="https://micasa.dev" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
