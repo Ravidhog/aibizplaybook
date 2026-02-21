@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: A native macOS client for Hacker News, built with SwiftUI</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: A native macOS client for Hacker News, built with SwiftUI</h1>
+    <p><small>Published: 2026-02-20T14:02:05+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hey HN! I built a native macOS desktop client for Hacker News and I'm open-sourcing it under the MIT license.<p>GitHub: <a href="https://github.com/IronsideXXVI/Hacker-News" rel="nofollow">https://github.com/IronsideXXVI/Hacker-News</a><p>Download (signed & notarized DMG, macOS 14.0+): <a href="https://github.com/IronsideXXVI/Hacker-News/releases" rel="nofollow">https://github.com/IronsideXXVI/Hacker-News/releases</a><p>Screenshots: <a href="https://github.com/IronsideXXVI/Hacker-News#screenshots" rel="nofollow">https://github.com/IronsideXXVI/Hacker-News#screenshots</a><p>I spend a lot of time reading HN — I wanted something that felt like a proper Mac app: a sidebar for browsing stories, an integrated reader for articles, and comment threading — all in one window. Essentially, I wanted HN to feel like a first-class citizen on macOS, not a website I visit.<p>What it does:<p>- Split-view layout — stories in a sidebar on the left, articles and comments on the right, using the standard macOS NavigationSplitView pattern.<p>- Built-in ad blocking — a precompiled WKContentRuleList blocks 14 major ad networks (DoubleClick, Google Syndication, Criteo, Taboola, Outbrain, Amazon ads, etc.) right in the WebKit layer. No extensions needed. Toggleable in settings.<p>- Pop-up blocking — kills window.open() calls. Also toggleable.<p>- HN account login — full authentication flow (login, account creation, password reset). Session is stored in the macOS Keychain, and cookies are injected into the WebView so you can upvote, comment, and submit stories while staying logged in.<p>- Bookmarks — save stories locally for offline access. Persisted with Codable serialization, searchable and filterable independently.<p>- Search and filtering — powered by the Algolia HN API. Filter by content type (All, Ask, Show, Jobs, Comments), date range (Today, Past Week, Past Month, All Time), and sort by hot or recent.<p>- Scroll progress indicator — a small orange bar at the top tracks your reading progress via JavaScript-to-native messaging.<p>- Auto-updates via Sparkle with EdDSA-signed updates served from GitHub Pages.<p>- Dark mode — respects system appearance with CSS and meta tag injection.<p>Tech details for the curious:<p>The whole app is ~2,050 lines of Swift across 16 files. It uses the modern @Observable macro (not the old ObservableObject/Published pattern), structured concurrency with async/await and withThrowingTaskGroup for concurrent batch fetching, and SwiftUI throughout — no UIKit/AppKit bridges except for the WKWebView wrapper via NSViewRepresentable.<p>Two APIs power the data: the official HN Firebase API for individual item/user fetches, and the Algolia Search API for feeds, filtering, and search. The Algolia API is surprisingly powerful for this — it lets you do date-range filtering, pagination, and full-text search that the Firebase API doesn't support.<p>CI/CD:<p>The release pipeline is a single GitHub Actions workflow (467 lines) that handles the full macOS distribution story: build and archive, code sign with Developer ID, notarize with Apple (with a 5-retry staple loop for ticket propagation delays), create a custom DMG with AppleScript-driven icon positioning, sign and notarize the DMG, generate an EdDSA Sparkle signature, create a GitHub Release, and deploy an updated appcast.xml to GitHub Pages.<p>Getting macOS code signing and notarization working in CI was honestly the hardest part of this project. If anyone is distributing a macOS app outside the App Store via GitHub Actions, I'm happy to answer questions — the workflow is fully open source.<p>The entire project is MIT licensed. PRs and issues welcome: <a href="https://github.com/IronsideXXVI/Hacker-News" rel="nofollow">https://github.com/IronsideXXVI/Hacker-News</a><p>I'd love feedback — especially on features you'd want to see. Some ideas I'm considering: keyboard-driven navigation (j/k to move between stories), a reader mode that strips articles down to text, and notification support for replies to your comments.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47088166">https://news.ycombinator.com/item?id=47088166</a></p>
+<p>Points: 202</p>
+<p># Comments: 141</p>
+    <p><a href="https://github.com/IronsideXXVI/Hacker-News" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

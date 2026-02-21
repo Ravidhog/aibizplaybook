@@ -1,6 +1,213 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47097904",
+      "title": "Colorado moves age checks from websites to operating systems",
+      "slug": "2026-02-21-colorado-moves-age-checks-from-websites-to-operating-systems.html",
+      "path": "posts/2026-02-21-colorado-moves-age-checks-from-websites-to-operating-systems.html",
+      "date_iso": "2026-02-21T06:01:29+00:00",
+      "source": "https://www.biometricupdate.com/202602/colorado-moves-age-checks-from-websites-to-operating-systems",
+      "summary": "Article URL: https://www.biometricupdate.com/202602/colorado-moves-age-checks-from-websites-to-operating-systems Comments URL: https://news.ycombinator.com/item?id=47097904 Points: 12 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47097502",
+      "title": "Meta Deployed AI and It Is Killing Our Agency",
+      "slug": "2026-02-21-meta-deployed-ai-and-it-is-killing-our-agency.html",
+      "path": "posts/2026-02-21-meta-deployed-ai-and-it-is-killing-our-agency.html",
+      "date_iso": "2026-02-21T04:29:40+00:00",
+      "source": "https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/",
+      "summary": "Article URL: https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/ Comments URL: https://news.ycombinator.com/item?id=47097502 Points: 91 # Comments: 46"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47096520",
+      "title": "What Is OAuth?",
+      "slug": "2026-02-21-what-is-oauth.html",
+      "path": "posts/2026-02-21-what-is-oauth.html",
+      "date_iso": "2026-02-21T01:33:40+00:00",
+      "source": "https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b",
+      "summary": "Article URL: https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b Comments URL: https://news.ycombinator.com/item?id=47096520 Points: 90 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47096466",
+      "title": "Cord: Coordinating Trees of AI Agents",
+      "slug": "2026-02-21-cord-coordinating-trees-of-ai-agents.html",
+      "path": "posts/2026-02-21-cord-coordinating-trees-of-ai-agents.html",
+      "date_iso": "2026-02-21T01:27:35+00:00",
+      "source": "https://www.june.kim/cord",
+      "summary": "Article URL: https://www.june.kim/cord Comments URL: https://news.ycombinator.com/item?id=47096466 Points: 67 # Comments: 36"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47095429",
+      "title": "CERN rebuilt the original browser from 1989 (2019)",
+      "slug": "2026-02-20-cern-rebuilt-the-original-browser-from-1989-2019.html",
+      "path": "posts/2026-02-20-cern-rebuilt-the-original-browser-from-1989-2019.html",
+      "date_iso": "2026-02-20T23:19:12+00:00",
+      "source": "https://worldwideweb.cern.ch",
+      "summary": "Article URL: https://worldwideweb.cern.ch Comments URL: https://news.ycombinator.com/item?id=47095429 Points: 144 # Comments: 50"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47095134",
+      "title": "Across the US, people are dismantling and destroying Flock surveillance cameras",
+      "slug": "2026-02-20-across-the-us-people-are-dismantling-and-destroying-flock-surveillance-cameras.html",
+      "path": "posts/2026-02-20-across-the-us-people-are-dismantling-and-destroying-flock-surveillance-cameras.html",
+      "date_iso": "2026-02-20T22:50:35+00:00",
+      "source": "https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling",
+      "summary": "Article URL: https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling Comments URL: https://news.ycombinator.com/item?id=47095134 Points: 283 # Comments: 132"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47094192",
+      "title": "Turn Dependabot Off",
+      "slug": "2026-02-20-turn-dependabot-off.html",
+      "path": "posts/2026-02-20-turn-dependabot-off.html",
+      "date_iso": "2026-02-20T21:25:41+00:00",
+      "source": "https://words.filippo.io/dependabot/",
+      "summary": "Article URL: https://words.filippo.io/dependabot/ Comments URL: https://news.ycombinator.com/item?id=47094192 Points: 389 # Comments: 102"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47094149",
+      "title": "Show HN: Mines.fyi – all the mines in the US in a leaflet visualization",
+      "slug": "2026-02-20-show-hn-mines-fyi-all-the-mines-in-the-us-in-a-leaflet-visualization.html",
+      "path": "posts/2026-02-20-show-hn-mines-fyi-all-the-mines-in-the-us-in-a-leaflet-visualization.html",
+      "date_iso": "2026-02-20T21:22:27+00:00",
+      "source": "https://mines.fyi/",
+      "summary": "I downloaded the MSHA's (Mine Safety and Health Administration) public datasets and create a visualization of all the mines in the US complete with the operators and details on each site. Comments URL: https://news.ycombinator.com/item?id=47094149 Points: 73 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47093724",
+      "title": "OpenScan",
+      "slug": "2026-02-20-openscan.html",
+      "path": "posts/2026-02-20-openscan.html",
+      "date_iso": "2026-02-20T20:47:48+00:00",
+      "source": "https://openscan.eu/pages/scan-gallery",
+      "summary": "Article URL: https://openscan.eu/pages/scan-gallery Comments URL: https://news.ycombinator.com/item?id=47093724 Points: 142 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47092578",
+      "title": "I found a Vulnerability. They found a Lawyer",
+      "slug": "2026-02-20-i-found-a-vulnerability-they-found-a-lawyer.html",
+      "path": "posts/2026-02-20-i-found-a-vulnerability-they-found-a-lawyer.html",
+      "date_iso": "2026-02-20T19:19:58+00:00",
+      "source": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
+      "summary": "Article URL: https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer Comments URL: https://news.ycombinator.com/item?id=47092578 Points: 494 # Comments: 206"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47092203",
+      "title": "Every company building your AI assistant is now an ad company",
+      "slug": "2026-02-20-every-company-building-your-ai-assistant-is-now-an-ad-company.html",
+      "path": "posts/2026-02-20-every-company-building-your-ai-assistant-is-now-an-ad-company.html",
+      "date_iso": "2026-02-20T18:55:15+00:00",
+      "source": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
+      "summary": "Article URL: https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company Comments URL: https://news.ycombinator.com/item?id=47092203 Points: 159 # Comments: 82"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47092006",
+      "title": "Wikipedia deprecates Archive.today, starts removing archive links",
+      "slug": "2026-02-20-wikipedia-deprecates-archive-today-starts-removing-archive-links.html",
+      "path": "posts/2026-02-20-wikipedia-deprecates-archive-today-starts-removing-archive-links.html",
+      "date_iso": "2026-02-20T18:42:21+00:00",
+      "source": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
+      "summary": "Related: Archive.today is directing a DDoS attack against my blog - https://news.ycombinator.com/item?id=46843805 - Feb 2026 (168 comments) Ask HN: Weird archive.today behavior? - https://news.ycombinator.com/item?id=46624740 - Jan 2026 (69 comments) Comments URL: https://news.y…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47091748",
+      "title": "Facebook is cooked",
+      "slug": "2026-02-20-facebook-is-cooked.html",
+      "path": "posts/2026-02-20-facebook-is-cooked.html",
+      "date_iso": "2026-02-20T18:25:07+00:00",
+      "source": "https://pilk.website/3/facebook-is-absolutely-cooked",
+      "summary": "Article URL: https://pilk.website/3/facebook-is-absolutely-cooked Comments URL: https://news.ycombinator.com/item?id=47091748 Points: 963 # Comments: 539"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47091606",
+      "title": "Blue light filters don't work – controlling total luminance is a better bet",
+      "slug": "2026-02-20-blue-light-filters-don-t-work-controlling-total-luminance-is-a-better-bet.html",
+      "path": "posts/2026-02-20-blue-light-filters-don-t-work-controlling-total-luminance-is-a-better-bet.html",
+      "date_iso": "2026-02-20T18:14:13+00:00",
+      "source": "https://www.neuroai.science/p/blue-light-filters-dont-work",
+      "summary": "Article URL: https://www.neuroai.science/p/blue-light-filters-dont-work Comments URL: https://news.ycombinator.com/item?id=47091606 Points: 152 # Comments: 174"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47091469",
+      "title": "Making frontier cybersecurity capabilities available to defenders",
+      "slug": "2026-02-20-making-frontier-cybersecurity-capabilities-available-to-defenders.html",
+      "path": "posts/2026-02-20-making-frontier-cybersecurity-capabilities-available-to-defenders.html",
+      "date_iso": "2026-02-20T18:03:19+00:00",
+      "source": "https://www.anthropic.com/news/claude-code-security",
+      "summary": "Article URL: https://www.anthropic.com/news/claude-code-security Comments URL: https://news.ycombinator.com/item?id=47091469 Points: 113 # Comments: 51"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47091419",
+      "title": "Keep Android Open",
+      "slug": "2026-02-20-keep-android-open.html",
+      "path": "posts/2026-02-20-keep-android-open.html",
+      "date_iso": "2026-02-20T17:58:51+00:00",
+      "source": "https://f-droid.org/2026/02/20/twif.html",
+      "summary": "Article URL: https://f-droid.org/2026/02/20/twif.html Comments URL: https://news.ycombinator.com/item?id=47091419 Points: 1335 # Comments: 506"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47091071",
+      "title": "Lil' Fun Langs",
+      "slug": "2026-02-20-lil-fun-langs.html",
+      "path": "posts/2026-02-20-lil-fun-langs.html",
+      "date_iso": "2026-02-20T17:34:12+00:00",
+      "source": "https://taylor.town/scrapscript-000",
+      "summary": "Article URL: https://taylor.town/scrapscript-000 Comments URL: https://news.ycombinator.com/item?id=47091071 Points: 110 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47090610",
+      "title": "Legion Health (YC) Is Hiring Cracked SWEs for Autonomous Mental Health",
+      "slug": "2026-02-20-legion-health-yc-is-hiring-cracked-swes-for-autonomous-mental-health.html",
+      "path": "posts/2026-02-20-legion-health-yc-is-hiring-cracked-swes-for-autonomous-mental-health.html",
+      "date_iso": "2026-02-20T17:02:15+00:00",
+      "source": "https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424",
+      "summary": "Article URL: https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424 Comments URL: https://news.ycombinator.com/item?id=47090610 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47089213",
+      "title": "Trump's global tariffs struck down by US Supreme Court",
+      "slug": "2026-02-20-trump-s-global-tariffs-struck-down-by-us-supreme-court.html",
+      "path": "posts/2026-02-20-trump-s-global-tariffs-struck-down-by-us-supreme-court.html",
+      "date_iso": "2026-02-20T15:27:38+00:00",
+      "source": "https://www.bbc.com/news/live/c0l9r67drg7t",
+      "summary": "Article URL: https://www.bbc.com/news/live/c0l9r67drg7t Comments URL: https://news.ycombinator.com/item?id=47089213 Points: 1353 # Comments: 1098"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47088166",
+      "title": "Show HN: A native macOS client for Hacker News, built with SwiftUI",
+      "slug": "2026-02-20-show-hn-a-native-macos-client-for-hacker-news-built-with-swiftui.html",
+      "path": "posts/2026-02-20-show-hn-a-native-macos-client-for-hacker-news-built-with-swiftui.html",
+      "date_iso": "2026-02-20T14:02:05+00:00",
+      "source": "https://github.com/IronsideXXVI/Hacker-News",
+      "summary": "Hey HN! I built a native macOS desktop client for Hacker News and I'm open-sourcing it under the MIT license. GitHub: https://github.com/IronsideXXVI/Hacker-News Download (signed & notarized DMG, macOS 14.0+): https://github.com/IronsideXXVI/Hacker-News/releases Screenshots: htt…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/20/podcasts/the-pentagon-vs-anthropic-an-ai-agent-slandered-me-hot-mess-express.html",
+      "title": "The Pentagon vs. Anthropic + An A.I. Agent Slandered Me + Hot Mess Express",
+      "slug": "2026-02-20-the-pentagon-vs-anthropic-an-a-i-agent-slandered-me-hot-mess-express.html",
+      "path": "posts/2026-02-20-the-pentagon-vs-anthropic-an-a-i-agent-slandered-me-hot-mess-express.html",
+      "date_iso": "2026-02-20T12:00:06+00:00",
+      "source": "https://www.nytimes.com/2026/02/20/podcasts/the-pentagon-vs-anthropic-an-ai-agent-slandered-me-hot-mess-express.html",
+      "summary": "This would be an unprecedented escalation against a U.S. company."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/20/science/lost-science-silevitch-security.html",
+      "title": "His Team Devised Ways to Keep World Cup Crowds Safe",
+      "slug": "2026-02-20-his-team-devised-ways-to-keep-world-cup-crowds-safe.html",
+      "path": "posts/2026-02-20-his-team-devised-ways-to-keep-world-cup-crowds-safe.html",
+      "date_iso": "2026-02-20T10:02:33+00:00",
+      "source": "https://www.nytimes.com/2026/02/20/science/lost-science-silevitch-security.html",
+      "summary": "Michael Silevitch leads a research center dedicated to protecting busy public spaces. Last April, he was instructed to “end all work” immediately."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/20/technology/ai-coding-software-jobs.html",
+      "title": "A.I. Isn’t Coming for Every White-Collar Job. At Least Not Yet.",
+      "slug": "2026-02-20-a-i-isn-t-coming-for-every-white-collar-job-at-least-not-yet.html",
+      "path": "posts/2026-02-20-a-i-isn-t-coming-for-every-white-collar-job-at-least-not-yet.html",
+      "date_iso": "2026-02-20T10:01:01+00:00",
+      "source": "https://www.nytimes.com/2026/02/20/technology/ai-coding-software-jobs.html",
+      "summary": "Though powerful, code generators still require extensive oversight, according to researchers and programmers."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47084431",
       "title": "Show HN: Fostrom, an IoT Cloud Platform built for developers",
       "slug": "2026-02-20-show-hn-fostrom-an-iot-cloud-platform-built-for-developers.html",
