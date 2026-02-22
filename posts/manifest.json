@@ -1,6 +1,168 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47107781",
+      "title": "Japanese Woodblock Print Search",
+      "slug": "2026-02-22-japanese-woodblock-print-search.html",
+      "path": "posts/2026-02-22-japanese-woodblock-print-search.html",
+      "date_iso": "2026-02-22T03:18:36+00:00",
+      "source": "https://ukiyo-e.org/",
+      "summary": "Article URL: https://ukiyo-e.org/ Comments URL: https://news.ycombinator.com/item?id=47107781 Points: 58 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47106985",
+      "title": "A Botnet Accidentally Destroyed I2P",
+      "slug": "2026-02-22-a-botnet-accidentally-destroyed-i2p.html",
+      "path": "posts/2026-02-22-a-botnet-accidentally-destroyed-i2p.html",
+      "date_iso": "2026-02-22T01:08:17+00:00",
+      "source": "https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/",
+      "summary": "Article URL: https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/ Comments URL: https://news.ycombinator.com/item?id=47106985 Points: 80 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47106686",
+      "title": "How I use Claude Code: Separation of planning and execution",
+      "slug": "2026-02-22-how-i-use-claude-code-separation-of-planning-and-execution.html",
+      "path": "posts/2026-02-22-how-i-use-claude-code-separation-of-planning-and-execution.html",
+      "date_iso": "2026-02-22T00:29:05+00:00",
+      "source": "https://boristane.com/blog/how-i-use-claude-code/",
+      "summary": "Article URL: https://boristane.com/blog/how-i-use-claude-code/ Comments URL: https://news.ycombinator.com/item?id=47106686 Points: 380 # Comments: 226"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47105198",
+      "title": "Evidence of the bouba-kiki effect in naïve baby chicks",
+      "slug": "2026-02-21-evidence-of-the-bouba-kiki-effect-in-na-ve-baby-chicks.html",
+      "path": "posts/2026-02-21-evidence-of-the-bouba-kiki-effect-in-na-ve-baby-chicks.html",
+      "date_iso": "2026-02-21T21:51:58+00:00",
+      "source": "https://www.science.org/doi/10.1126/science.adq7188",
+      "summary": "Article URL: https://www.science.org/doi/10.1126/science.adq7188 Comments URL: https://news.ycombinator.com/item?id=47105198 Points: 117 # Comments: 30"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47104667",
+      "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
+      "slug": "2026-02-21-show-hn-llama-3-1-70b-on-a-single-rtx-3090-via-nvme-to-gpu-bypassing-the-cpu.html",
+      "path": "posts/2026-02-21-show-hn-llama-3-1-70b-on-a-single-rtx-3090-via-nvme-to-gpu-bypassing-the-cpu.html",
+      "date_iso": "2026-02-21T20:57:30+00:00",
+      "source": "https://github.com/xaskasdf/ntransformer",
+      "summary": "Hi everyone, I'm kinda involved in some retrogaming and with some experiments I ran into the following question: \"It would be possible to run transformer models bypassing the cpu/ram, connecting the gpu to the nvme?\" This is the result of that question itself and some weekend vi…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47104185",
+      "title": "EDuke32 – Duke Nukem 3D (Open-Source)",
+      "slug": "2026-02-21-eduke32-duke-nukem-3d-open-source.html",
+      "path": "posts/2026-02-21-eduke32-duke-nukem-3d-open-source.html",
+      "date_iso": "2026-02-21T20:10:13+00:00",
+      "source": "https://www.eduke32.com/",
+      "summary": "Article URL: https://www.eduke32.com/ Comments URL: https://news.ycombinator.com/item?id=47104185 Points: 177 # Comments: 62"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47103931",
+      "title": "Parse, Don't Validate and Type-Driven Design in Rust",
+      "slug": "2026-02-21-parse-don-t-validate-and-type-driven-design-in-rust.html",
+      "path": "posts/2026-02-21-parse-don-t-validate-and-type-driven-design-in-rust.html",
+      "date_iso": "2026-02-21T19:40:06+00:00",
+      "source": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
+      "summary": "Article URL: https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/ Comments URL: https://news.ycombinator.com/item?id=47103931 Points: 169 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47103661",
+      "title": "How Taalas \"prints\" LLM onto a chip?",
+      "slug": "2026-02-21-how-taalas-prints-llm-onto-a-chip.html",
+      "path": "posts/2026-02-21-how-taalas-prints-llm-onto-a-chip.html",
+      "date_iso": "2026-02-21T19:07:20+00:00",
+      "source": "https://www.anuragk.com/blog/posts/Taalas.html",
+      "summary": "Article URL: https://www.anuragk.com/blog/posts/Taalas.html Comments URL: https://news.ycombinator.com/item?id=47103661 Points: 56 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47103506",
+      "title": "Canvas_ity: A tiny, single-header <canvas>-like 2D rasterizer for C++",
+      "slug": "2026-02-21-canvas-ity-a-tiny-single-header-canvas-like-2d-rasterizer-for-c.html",
+      "path": "posts/2026-02-21-canvas-ity-a-tiny-single-header-canvas-like-2d-rasterizer-for-c.html",
+      "date_iso": "2026-02-21T18:50:19+00:00",
+      "source": "https://github.com/a-e-k/canvas_ity",
+      "summary": "Article URL: https://github.com/a-e-k/canvas_ity Comments URL: https://news.ycombinator.com/item?id=47103506 Points: 82 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47103136",
+      "title": "Toyota Mirai hydrogen car depreciation: 65% value loss in a year",
+      "slug": "2026-02-21-toyota-mirai-hydrogen-car-depreciation-65-value-loss-in-a-year.html",
+      "path": "posts/2026-02-21-toyota-mirai-hydrogen-car-depreciation-65-value-loss-in-a-year.html",
+      "date_iso": "2026-02-21T18:09:24+00:00",
+      "source": "https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/",
+      "summary": "Article URL: https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/ Comments URL: https://news.ycombinator.com/item?id=47103136 Points: 132 # Comments: 302"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47102576",
+      "title": "What not to write on your security clearance form (1988)",
+      "slug": "2026-02-21-what-not-to-write-on-your-security-clearance-form-1988.html",
+      "path": "posts/2026-02-21-what-not-to-write-on-your-security-clearance-form-1988.html",
+      "date_iso": "2026-02-21T17:08:12+00:00",
+      "source": "https://milk.com/wall-o-shame/security_clearance.html",
+      "summary": "Article URL: https://milk.com/wall-o-shame/security_clearance.html Comments URL: https://news.ycombinator.com/item?id=47102576 Points: 431 # Comments: 191"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47101171",
+      "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
+      "slug": "2026-02-21-cxmt-has-been-offering-ddr4-chips-at-about-half-the-prevailing-market-rate.html",
+      "path": "posts/2026-02-21-cxmt-has-been-offering-ddr4-chips-at-about-half-the-prevailing-market-rate.html",
+      "date_iso": "2026-02-21T14:32:16+00:00",
+      "source": "https://www.koreaherald.com/article/10679206",
+      "summary": "Article URL: https://www.koreaherald.com/article/10679206 Comments URL: https://news.ycombinator.com/item?id=47101171 Points: 192 # Comments: 174"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47100935",
+      "title": "The Human Root of Trust – public domain framework for agent accountability",
+      "slug": "2026-02-21-the-human-root-of-trust-public-domain-framework-for-agent-accountability.html",
+      "path": "posts/2026-02-21-the-human-root-of-trust-public-domain-framework-for-agent-accountability.html",
+      "date_iso": "2026-02-21T14:01:45+00:00",
+      "source": "https://humanrootoftrust.org/",
+      "summary": "I've spent my career at the intersection of identity, trust, and distributed systems. The thing I keep thinking about: every digital system we've built assumes a human is on the other end. Bank accounts, contracts, API keys — all designed around human singularity. That assumptio…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47100232",
+      "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
+      "slug": "2026-02-21-zclaw-personal-ai-assistant-in-under-888-kb-running-on-an-esp32.html",
+      "path": "posts/2026-02-21-zclaw-personal-ai-assistant-in-under-888-kb-running-on-an-esp32.html",
+      "date_iso": "2026-02-21T12:37:52+00:00",
+      "source": "https://github.com/tnm/zclaw",
+      "summary": "Article URL: https://github.com/tnm/zclaw Comments URL: https://news.ycombinator.com/item?id=47100232 Points: 149 # Comments: 81"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47099982",
+      "title": "Padlet (YC W13) Is Hiring in San Francisco and Singapore",
+      "slug": "2026-02-21-padlet-yc-w13-is-hiring-in-san-francisco-and-singapore.html",
+      "path": "posts/2026-02-21-padlet-yc-w13-is-hiring-in-san-francisco-and-singapore.html",
+      "date_iso": "2026-02-21T12:02:14+00:00",
+      "source": "https://padlet.jobs",
+      "summary": "Article URL: https://padlet.jobs Comments URL: https://news.ycombinator.com/item?id=47099982 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html",
+      "title": "People Loved the Dot-Com Boom. The A.I. Boom, Not So Much.",
+      "slug": "2026-02-21-people-loved-the-dot-com-boom-the-a-i-boom-not-so-much.html",
+      "path": "posts/2026-02-21-people-loved-the-dot-com-boom-the-a-i-boom-not-so-much.html",
+      "date_iso": "2026-02-21T10:00:08+00:00",
+      "source": "https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html",
+      "summary": "Sam Altman, the chief executive of OpenAI, recently said artificial intelligence was spreading more slowly than he had expected."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47098669",
+      "title": "Coccinelle: Source-to-source transformation tool",
+      "slug": "2026-02-21-coccinelle-source-to-source-transformation-tool.html",
+      "path": "posts/2026-02-21-coccinelle-source-to-source-transformation-tool.html",
+      "date_iso": "2026-02-21T08:26:36+00:00",
+      "source": "https://github.com/coccinelle/coccinelle",
+      "summary": "Article URL: https://github.com/coccinelle/coccinelle Comments URL: https://news.ycombinator.com/item?id=47098669 Points: 89 # Comments: 27"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47098245",
+      "title": "I verified my LinkedIn identity. Here's what I handed over",
+      "slug": "2026-02-21-i-verified-my-linkedin-identity-here-s-what-i-handed-over.html",
+      "path": "posts/2026-02-21-i-verified-my-linkedin-identity-here-s-what-i-handed-over.html",
+      "date_iso": "2026-02-21T07:06:18+00:00",
+      "source": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
+      "summary": "Article URL: https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/ Comments URL: https://news.ycombinator.com/item?id=47098245 Points: 1231 # Comments: 430"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47097904",
       "title": "Colorado moves age checks from websites to operating systems",
       "slug": "2026-02-21-colorado-moves-age-checks-from-websites-to-operating-systems.html",
@@ -35,6 +197,33 @@
       "date_iso": "2026-02-21T01:27:35+00:00",
       "source": "https://www.june.kim/cord",
       "summary": "Article URL: https://www.june.kim/cord Comments URL: https://news.ycombinator.com/item?id=47096466 Points: 67 # Comments: 36"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47096253",
+      "title": "Claws are now a new layer on top of LLM agents",
+      "slug": "2026-02-21-claws-are-now-a-new-layer-on-top-of-llm-agents.html",
+      "path": "posts/2026-02-21-claws-are-now-a-new-layer-on-top-of-llm-agents.html",
+      "date_iso": "2026-02-21T00:56:29+00:00",
+      "source": "https://twitter.com/karpathy/status/2024987174077432126",
+      "summary": "https://xcancel.com/karpathy/status/2024987174077432126 Related: https://simonwillison.net/2026/Feb/21/claws/ Comments URL: https://news.ycombinator.com/item?id=47096253 Points: 263 # Comments: 714"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47096167",
+      "title": "Gamedate – A site to revive dead multiplayer games",
+      "slug": "2026-02-21-gamedate-a-site-to-revive-dead-multiplayer-games.html",
+      "path": "posts/2026-02-21-gamedate-a-site-to-revive-dead-multiplayer-games.html",
+      "date_iso": "2026-02-21T00:44:28+00:00",
+      "source": "https://gamedate.org/",
+      "summary": "Article URL: https://gamedate.org/ Comments URL: https://news.ycombinator.com/item?id=47096167 Points: 61 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47095597",
+      "title": "Be wary of Bluesky",
+      "slug": "2026-02-20-be-wary-of-bluesky.html",
+      "path": "posts/2026-02-20-be-wary-of-bluesky.html",
+      "date_iso": "2026-02-20T23:35:33+00:00",
+      "source": "https://kevinak.se/blog/be-wary-of-bluesky",
+      "summary": "Article URL: https://kevinak.se/blog/be-wary-of-bluesky Comments URL: https://news.ycombinator.com/item?id=47095597 Points: 298 # Comments: 191"
     },
     {
       "id": "https://news.ycombinator.com/item?id=47095429",
