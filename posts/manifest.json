@@ -1,6 +1,105 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47111440",
+      "title": "We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them",
+      "slug": "2026-02-22-we-hid-backdoors-in-40mb-binaries-and-asked-ai-ghidra-to-find-them.html",
+      "path": "posts/2026-02-22-we-hid-backdoors-in-40mb-binaries-and-asked-ai-ghidra-to-find-them.html",
+      "date_iso": "2026-02-22T14:50:44+00:00",
+      "source": "https://quesma.com/blog/introducing-binaryaudit/",
+      "summary": "Article URL: https://quesma.com/blog/introducing-binaryaudit/ Comments URL: https://news.ycombinator.com/item?id=47111440 Points: 14 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47111400",
+      "title": "Man accidentally gains control of 7k robot vacuums",
+      "slug": "2026-02-22-man-accidentally-gains-control-of-7k-robot-vacuums.html",
+      "path": "posts/2026-02-22-man-accidentally-gains-control-of-7k-robot-vacuums.html",
+      "date_iso": "2026-02-22T14:44:42+00:00",
+      "source": "https://www.popsci.com/technology/robot-vacuum-army/",
+      "summary": "Article URL: https://www.popsci.com/technology/robot-vacuum-army/ Comments URL: https://news.ycombinator.com/item?id=47111400 Points: 16 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47111067",
+      "title": "Iran students stage first large anti-government protests since deadly crackdown",
+      "slug": "2026-02-22-iran-students-stage-first-large-anti-government-protests-since-deadly-crackdown.html",
+      "path": "posts/2026-02-22-iran-students-stage-first-large-anti-government-protests-since-deadly-crackdown.html",
+      "date_iso": "2026-02-22T13:59:40+00:00",
+      "source": "https://www.bbc.com/news/articles/c5yj2kzkrj0o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c5yj2kzkrj0o Comments URL: https://news.ycombinator.com/item?id=47111067 Points: 25 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47111042",
+      "title": "I put New Zealand behind a $1 paywall",
+      "slug": "2026-02-22-i-put-new-zealand-behind-a-1-paywall.html",
+      "path": "posts/2026-02-22-i-put-new-zealand-behind-a-1-paywall.html",
+      "date_iso": "2026-02-22T13:57:18+00:00",
+      "source": "https://rename.world/",
+      "summary": "Article URL: https://rename.world/ Comments URL: https://news.ycombinator.com/item?id=47111042 Points: 22 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47110781",
+      "title": "Volatility: The volatile memory forensic extraction framework",
+      "slug": "2026-02-22-volatility-the-volatile-memory-forensic-extraction-framework.html",
+      "path": "posts/2026-02-22-volatility-the-volatile-memory-forensic-extraction-framework.html",
+      "date_iso": "2026-02-22T13:20:07+00:00",
+      "source": "https://github.com/volatilityfoundation/volatility3",
+      "summary": "Article URL: https://github.com/volatilityfoundation/volatility3 Comments URL: https://news.ycombinator.com/item?id=47110781 Points: 14 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47110549",
+      "title": "The Dance Floor Is Disappearing in a Sea of Phones",
+      "slug": "2026-02-22-the-dance-floor-is-disappearing-in-a-sea-of-phones.html",
+      "path": "posts/2026-02-22-the-dance-floor-is-disappearing-in-a-sea-of-phones.html",
+      "date_iso": "2026-02-22T12:41:37+00:00",
+      "source": "https://www.bloomberg.com/news/features/2026-02-20/a-boom-in-electronic-dance-music-is-changing-club-culture",
+      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-02-20/a-boom-in-electronic-dance-music-is-changing-club-culture Comments URL: https://news.ycombinator.com/item?id=47110549 Points: 48 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47110515",
+      "title": "Attention Media ≠ Social Networks",
+      "slug": "2026-02-22-attention-media-social-networks.html",
+      "path": "posts/2026-02-22-attention-media-social-networks.html",
+      "date_iso": "2026-02-22T12:36:46+00:00",
+      "source": "https://susam.net/attention-media-vs-social-networks.html",
+      "summary": "Article URL: https://susam.net/attention-media-vs-social-networks.html Comments URL: https://news.ycombinator.com/item?id=47110515 Points: 150 # Comments: 59"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47110495",
+      "title": "Minions: Stripe's one-shot, end-to-end coding agents – Stripe Dot Dev Blog",
+      "slug": "2026-02-22-minions-stripe-s-one-shot-end-to-end-coding-agents-stripe-dot-dev-blog.html",
+      "path": "posts/2026-02-22-minions-stripe-s-one-shot-end-to-end-coding-agents-stripe-dot-dev-blog.html",
+      "date_iso": "2026-02-22T12:34:00+00:00",
+      "source": "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents",
+      "summary": "Article URL: https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents Comments URL: https://news.ycombinator.com/item?id=47110495 Points: 56 # Comments: 53"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47110473",
+      "title": "What Is a Database Transaction?",
+      "slug": "2026-02-22-what-is-a-database-transaction.html",
+      "path": "posts/2026-02-22-what-is-a-database-transaction.html",
+      "date_iso": "2026-02-22T12:28:41+00:00",
+      "source": "https://planetscale.com/blog/database-transactions",
+      "summary": "Article URL: https://planetscale.com/blog/database-transactions Comments URL: https://news.ycombinator.com/item?id=47110473 Points: 68 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47108989",
+      "title": "Back to FreeBSD: Part 1",
+      "slug": "2026-02-22-back-to-freebsd-part-1.html",
+      "path": "posts/2026-02-22-back-to-freebsd-part-1.html",
+      "date_iso": "2026-02-22T07:16:27+00:00",
+      "source": "https://hypha.pub/back-to-freebsd-part-1",
+      "summary": "Article URL: https://hypha.pub/back-to-freebsd-part-1 Comments URL: https://news.ycombinator.com/item?id=47108989 Points: 125 # Comments: 50"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47108977",
+      "title": "What's the best way to learn a new language?",
+      "slug": "2026-02-22-what-s-the-best-way-to-learn-a-new-language.html",
+      "path": "posts/2026-02-22-what-s-the-best-way-to-learn-a-new-language.html",
+      "date_iso": "2026-02-22T07:14:22+00:00",
+      "source": "https://www.bbc.com/future/article/20260220-whats-the-best-way-to-learn-a-new-language",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260220-whats-the-best-way-to-learn-a-new-language Comments URL: https://news.ycombinator.com/item?id=47108977 Points: 36 # Comments: 31"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47107781",
       "title": "Japanese Woodblock Print Search",
       "slug": "2026-02-22-japanese-woodblock-print-search.html",
