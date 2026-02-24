@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>“Car Wash” test with 53 models</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>“Car Wash” test with 53 models</h1>
+    <p><small>Published: 2026-02-23T20:16:08+00:00</small></p>
+  </header>
+
+  <main>
+    <p>"I Want to Wash My Car. The Car Wash Is 50 Meters Away. Should I Walk or Drive?" This question has been making the rounds as a simple AI logic test so I wanted to see how it holds up across a broad set of models. Ran 53 models (leading open-source, open-weight, proprietary) with no system prompt, forced choice between drive and walk, with a reasoning field.<p>On a single run, only 11 out of 53 got it right (42 said walk). But a single run doesn't prove much, so I reran every model 10 times. Same prompt, no cache, clean slate.<p>The results got worse. Of the 11 that passed the single run, only 5 could do it consistently. GPT-5 managed 7/10. GPT-5.1, GPT-5.2, Claude Sonnet 4.5, every Llama and Mistral model scored 0/10 across all 10 runs.<p>People kept saying humans would fail this too, so I got a human baseline through Rapidata (10k people, same forced choice): 71.5% said drive. Most models perform below that.<p>All reasoning traces (ran via Opper, my startup), full model breakdown, human baseline data, and raw JSON files are in the writeup for anyone who wants to dig in or run their own analysis.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47128138">https://news.ycombinator.com/item?id=47128138</a></p>
+<p>Points: 188</p>
+<p># Comments: 204</p>
+    <p><a href="https://opper.ai/blog/car-wash-test" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

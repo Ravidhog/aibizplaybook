@@ -1,6 +1,258 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47133313",
+      "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
+      "slug": "2026-02-24-firefox-148-launches-with-ai-kill-switch-feature-and-more-enhancements.html",
+      "path": "posts/2026-02-24-firefox-148-launches-with-ai-kill-switch-feature-and-more-enhancements.html",
+      "date_iso": "2026-02-24T05:47:23+00:00",
+      "source": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
+      "summary": "Article URL: https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/ Comments URL: https://news.ycombinator.com/item?id=47133313 Points: 112 # Comments: 61"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47133055",
+      "title": "Show HN: enveil – hide your .env secrets from prAIng eyes",
+      "slug": "2026-02-24-show-hn-enveil-hide-your-env-secrets-from-praing-eyes.html",
+      "path": "posts/2026-02-24-show-hn-enveil-hide-your-env-secrets-from-praing-eyes.html",
+      "date_iso": "2026-02-24T05:04:50+00:00",
+      "source": "https://github.com/GreatScott/enveil",
+      "summary": "Article URL: https://github.com/GreatScott/enveil Comments URL: https://news.ycombinator.com/item?id=47133055 Points: 28 # Comments: 22"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/24/technology/taiwan-china-chips-silicon-valley-tsmc.html",
+      "title": "The Looming Taiwan Chip Disaster That Silicon Valley Has Long Ignored",
+      "slug": "2026-02-24-the-looming-taiwan-chip-disaster-that-silicon-valley-has-long-ignored.html",
+      "path": "posts/2026-02-24-the-looming-taiwan-chip-disaster-that-silicon-valley-has-long-ignored.html",
+      "date_iso": "2026-02-24T05:00:18+00:00",
+      "source": "https://www.nytimes.com/2026/02/24/technology/taiwan-china-chips-silicon-valley-tsmc.html",
+      "summary": "If China invades Taiwan and cuts off its chip exports to American companies, the tech industry and the U.S. economy would be crippled."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47132721",
+      "title": "Intel XeSS 3: expanded support for Core Ultra/Core Ultra 2 and Arc A, B series",
+      "slug": "2026-02-24-intel-xess-3-expanded-support-for-core-ultra-core-ultra-2-and-arc-a-b-series.html",
+      "path": "posts/2026-02-24-intel-xess-3-expanded-support-for-core-ultra-core-ultra-2-and-arc-a-b-series.html",
+      "date_iso": "2026-02-24T04:04:19+00:00",
+      "source": "https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html",
+      "summary": "Article URL: https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html Comments URL: https://news.ycombinator.com/item?id=47132721 Points: 16 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47132650",
+      "title": "The Weird OS Built Around a Database [video]",
+      "slug": "2026-02-24-the-weird-os-built-around-a-database-video.html",
+      "path": "posts/2026-02-24-the-weird-os-built-around-a-database-video.html",
+      "date_iso": "2026-02-24T03:51:18+00:00",
+      "source": "https://www.youtube.com/watch?v=pWZBQMRmW7k",
+      "summary": "Article URL: https://www.youtube.com/watch?v=pWZBQMRmW7k Comments URL: https://news.ycombinator.com/item?id=47132650 Points: 15 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47132388",
+      "title": "Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows",
+      "slug": "2026-02-24-blood-test-boosts-alzheimer-s-diagnosis-accuracy-to-94-5-clinical-study-shows.html",
+      "path": "posts/2026-02-24-blood-test-boosts-alzheimer-s-diagnosis-accuracy-to-94-5-clinical-study-shows.html",
+      "date_iso": "2026-02-24T03:10:16+00:00",
+      "source": "https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html",
+      "summary": "Article URL: https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html Comments URL: https://news.ycombinator.com/item?id=47132388 Points: 193 # Comments: 66"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47132102",
+      "title": "Show HN: X86CSS – An x86 CPU emulator written in CSS",
+      "slug": "2026-02-24-show-hn-x86css-an-x86-cpu-emulator-written-in-css.html",
+      "path": "posts/2026-02-24-show-hn-x86css-an-x86-cpu-emulator-written-in-css.html",
+      "date_iso": "2026-02-24T02:27:14+00:00",
+      "source": "https://lyra.horse/x86css/",
+      "summary": "Article URL: https://lyra.horse/x86css/ Comments URL: https://news.ycombinator.com/item?id=47132102 Points: 91 # Comments: 24"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47131506",
+      "title": "Iowa farmers are leading the fight for repair",
+      "slug": "2026-02-24-iowa-farmers-are-leading-the-fight-for-repair.html",
+      "path": "posts/2026-02-24-iowa-farmers-are-leading-the-fight-for-repair.html",
+      "date_iso": "2026-02-24T01:09:40+00:00",
+      "source": "https://www.ifixit.com/News/115722/iowa-farmers-are-leading-the-fight-for-repair",
+      "summary": "Article URL: https://www.ifixit.com/News/115722/iowa-farmers-are-leading-the-fight-for-repair Comments URL: https://news.ycombinator.com/item?id=47131506 Points: 100 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47131225",
+      "title": "Show HN: Steerling-8B, a language model that can explain any token it generates",
+      "slug": "2026-02-24-show-hn-steerling-8b-a-language-model-that-can-explain-any-token-it-generates.html",
+      "path": "posts/2026-02-24-show-hn-steerling-8b-a-language-model-that-can-explain-any-token-it-generates.html",
+      "date_iso": "2026-02-24T00:38:02+00:00",
+      "source": "https://www.guidelabs.ai/post/steerling-8b-base-model-release/",
+      "summary": "Article URL: https://www.guidelabs.ai/post/steerling-8b-base-model-release/ Comments URL: https://news.ycombinator.com/item?id=47131225 Points: 118 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47131173",
+      "title": "Shatner is making an album with 35 metal icons",
+      "slug": "2026-02-24-shatner-is-making-an-album-with-35-metal-icons.html",
+      "path": "posts/2026-02-24-shatner-is-making-an-album-with-35-metal-icons.html",
+      "date_iso": "2026-02-24T00:33:06+00:00",
+      "source": "https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album",
+      "summary": "Article URL: https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album Comments URL: https://news.ycombinator.com/item?id=47131173 Points: 164 # Comments: 70"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47130860",
+      "title": "I Ported Coreboot to the ThinkPad X270",
+      "slug": "2026-02-23-i-ported-coreboot-to-the-thinkpad-x270.html",
+      "path": "posts/2026-02-23-i-ported-coreboot-to-the-thinkpad-x270.html",
+      "date_iso": "2026-02-23T23:58:45+00:00",
+      "source": "https://dork.dev/posts/2026-02-20-ported-coreboot/",
+      "summary": "Article URL: https://dork.dev/posts/2026-02-20-ported-coreboot/ Comments URL: https://news.ycombinator.com/item?id=47130860 Points: 150 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47130431",
+      "title": "Why Your Load Balancer Still Sends Traffic to Dead Backends",
+      "slug": "2026-02-23-why-your-load-balancer-still-sends-traffic-to-dead-backends.html",
+      "path": "posts/2026-02-23-why-your-load-balancer-still-sends-traffic-to-dead-backends.html",
+      "date_iso": "2026-02-23T23:16:03+00:00",
+      "source": "https://singh-sanjay.com/2026/01/12/health-checks-client-vs-server-side-lb.html",
+      "summary": "Article URL: https://singh-sanjay.com/2026/01/12/health-checks-client-vs-server-side-lb.html Comments URL: https://news.ycombinator.com/item?id=47130431 Points: 36 # Comments: 23"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/23/us/politics/pentagon-anthropic-ai.html",
+      "title": "Pentagon Summons Anthropic Chief in Dispute Over A.I. Limits",
+      "slug": "2026-02-23-pentagon-summons-anthropic-chief-in-dispute-over-a-i-limits.html",
+      "path": "posts/2026-02-23-pentagon-summons-anthropic-chief-in-dispute-over-a-i-limits.html",
+      "date_iso": "2026-02-23T22:47:23+00:00",
+      "source": "https://www.nytimes.com/2026/02/23/us/politics/pentagon-anthropic-ai.html",
+      "summary": "Dario Amodei, the chief executive of Anthropic, will meet with Defense Secretary Pete Hegseth at the Pentagon."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/23/technology/anthropic-chinese-startups-distillation.html",
+      "title": "Anthropic Accuses 3 Chinese Companies of Harvesting Its Data",
+      "slug": "2026-02-23-anthropic-accuses-3-chinese-companies-of-harvesting-its-data.html",
+      "path": "posts/2026-02-23-anthropic-accuses-3-chinese-companies-of-harvesting-its-data.html",
+      "date_iso": "2026-02-23T22:31:54+00:00",
+      "source": "https://www.nytimes.com/2026/02/23/technology/anthropic-chinese-startups-distillation.html",
+      "summary": "DeepSeek is among the three Chinese start-ups accused of using data from Anthropic’s A.I. system to train their own, a process called distillation."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47129727",
+      "title": "Making Wolfram Tech Available as a Foundation Tool for LLM Systems",
+      "slug": "2026-02-23-making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems.html",
+      "path": "posts/2026-02-23-making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems.html",
+      "date_iso": "2026-02-23T22:11:34+00:00",
+      "source": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
+      "summary": "Article URL: https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/ Comments URL: https://news.ycombinator.com/item?id=47129727 Points: 138 # Comments: 70"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47129361",
+      "title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook, so AI built one for me",
+      "slug": "2026-02-23-freebsd-doesn-t-have-wi-fi-driver-for-my-old-macbook-so-ai-built-one-for-me.html",
+      "path": "posts/2026-02-23-freebsd-doesn-t-have-wi-fi-driver-for-my-old-macbook-so-ai-built-one-for-me.html",
+      "date_iso": "2026-02-23T21:44:28+00:00",
+      "source": "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/",
+      "summary": "Article URL: https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/ Comments URL: https://news.ycombinator.com/item?id=47129361 Points: 340 # Comments: 276"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/23/style/jeff-and-lauren-sanchez-bezos-honorary-chairs-met-gala.html",
+      "title": "Jeff and Lauren Sánchez Bezos Will Be Honorary Chairs of the Met Gala",
+      "slug": "2026-02-23-jeff-and-lauren-s-nchez-bezos-will-be-honorary-chairs-of-the-met-gala.html",
+      "path": "posts/2026-02-23-jeff-and-lauren-s-nchez-bezos-will-be-honorary-chairs-of-the-met-gala.html",
+      "date_iso": "2026-02-23T21:26:34+00:00",
+      "source": "https://www.nytimes.com/2026/02/23/style/jeff-and-lauren-sanchez-bezos-honorary-chairs-met-gala.html",
+      "summary": "Jeff Bezos and Lauren Sánchez Bezos at a Kering Foundation gala in New York in September."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47128740",
+      "title": "SIM (YC X25) Is Hiring the Best Engineers in San Francisco",
+      "slug": "2026-02-23-sim-yc-x25-is-hiring-the-best-engineers-in-san-francisco.html",
+      "path": "posts/2026-02-23-sim-yc-x25-is-hiring-the-best-engineers-in-san-francisco.html",
+      "date_iso": "2026-02-23T21:00:28+00:00",
+      "source": "https://www.ycombinator.com/companies/sim/jobs/Rj8TVRM-software-engineer-platform",
+      "summary": "Article URL: https://www.ycombinator.com/companies/sim/jobs/Rj8TVRM-software-engineer-platform Comments URL: https://news.ycombinator.com/item?id=47128740 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47128631",
+      "title": "The challenges of porting Shufflepuck Cafe to the 8 bits Apple II",
+      "slug": "2026-02-23-the-challenges-of-porting-shufflepuck-cafe-to-the-8-bits-apple-ii.html",
+      "path": "posts/2026-02-23-the-challenges-of-porting-shufflepuck-cafe-to-the-8-bits-apple-ii.html",
+      "date_iso": "2026-02-23T20:53:36+00:00",
+      "source": "https://www.colino.net/wordpress/archives/2026/02/23/the-challenges-of-porting-shufflepuck-cafe-to-the-8-bits-apple-ii/",
+      "summary": "Article URL: https://www.colino.net/wordpress/archives/2026/02/23/the-challenges-of-porting-shufflepuck-cafe-to-the-8-bits-apple-ii/ Comments URL: https://news.ycombinator.com/item?id=47128631 Points: 70 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47128535",
+      "title": "Show HN: Babyshark – Wireshark made easy (terminal UI for PCAPs)",
+      "slug": "2026-02-23-show-hn-babyshark-wireshark-made-easy-terminal-ui-for-pcaps.html",
+      "path": "posts/2026-02-23-show-hn-babyshark-wireshark-made-easy-terminal-ui-for-pcaps.html",
+      "date_iso": "2026-02-23T20:45:34+00:00",
+      "source": "https://github.com/vignesh07/babyshark",
+      "summary": "Hey all, I built babyshark, a terminal UI for PCAPs aimed at people who find Wireshark powerful but overwhelming. The goal is “PCAPs for humans”: Overview dashboard answers what’s happening + what to click next Domains view (hostnames first) → select a domain → jump straight to…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47128138",
+      "title": "“Car Wash” test with 53 models",
+      "slug": "2026-02-23-car-wash-test-with-53-models.html",
+      "path": "posts/2026-02-23-car-wash-test-with-53-models.html",
+      "date_iso": "2026-02-23T20:16:08+00:00",
+      "source": "https://opper.ai/blog/car-wash-test",
+      "summary": "\"I Want to Wash My Car. The Car Wash Is 50 Meters Away. Should I Walk or Drive?\" This question has been making the rounds as a simple AI logic test so I wanted to see how it holds up across a broad set of models. Ran 53 models (leading open-source, open-weight, proprietary) with…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html",
+      "title": "Binance Employees Find $1.7 Billion in Crypto Was Sent to Iranian Entities",
+      "slug": "2026-02-23-binance-employees-find-1-7-billion-in-crypto-was-sent-to-iranian-entities.html",
+      "path": "posts/2026-02-23-binance-employees-find-1-7-billion-in-crypto-was-sent-to-iranian-entities.html",
+      "date_iso": "2026-02-23T20:15:13+00:00",
+      "source": "https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html",
+      "summary": "Binance, the world’s largest venue for crypto trading, has continued to find evidence of potential legal violations on its platform, even after it pleaded guilty to breaking anti-money-laundering laws in 2023."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47127986",
+      "title": "UNIX99, a UNIX-like OS for the TI-99/4A (2025)",
+      "slug": "2026-02-23-unix99-a-unix-like-os-for-the-ti-99-4a-2025.html",
+      "path": "posts/2026-02-23-unix99-a-unix-like-os-for-the-ti-99-4a-2025.html",
+      "date_iso": "2026-02-23T20:05:15+00:00",
+      "source": "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/",
+      "summary": "Article URL: https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/ Comments URL: https://news.ycombinator.com/item?id=47127986 Points: 169 # Comments: 53"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/23/technology/ai-pac-ad-blitz.html",
+      "title": "Backed by Anthropic, a Super PAC Group Begins an Ad Blitz in Support of A.I. Regulation",
+      "slug": "2026-02-23-backed-by-anthropic-a-super-pac-group-begins-an-ad-blitz-in-support-of-a-i-regulation.html",
+      "path": "posts/2026-02-23-backed-by-anthropic-a-super-pac-group-begins-an-ad-blitz-in-support-of-a-i-regulation.html",
+      "date_iso": "2026-02-23T18:29:50+00:00",
+      "source": "https://www.nytimes.com/2026/02/23/technology/ai-pac-ad-blitz.html",
+      "summary": "Anthropic’s chief executive, Dario Amodei, has pushed for regulations to create guardrails on artificial intelligence."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47125374",
+      "title": "Writing code is cheap now",
+      "slug": "2026-02-23-writing-code-is-cheap-now.html",
+      "path": "posts/2026-02-23-writing-code-is-cheap-now.html",
+      "date_iso": "2026-02-23T17:20:25+00:00",
+      "source": "https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/",
+      "summary": "Article URL: https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/ Comments URL: https://news.ycombinator.com/item?id=47125374 Points: 137 # Comments: 187"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47125286",
+      "title": "What it means that Ubuntu is using Rust",
+      "slug": "2026-02-23-what-it-means-that-ubuntu-is-using-rust.html",
+      "path": "posts/2026-02-23-what-it-means-that-ubuntu-is-using-rust.html",
+      "date_iso": "2026-02-23T17:15:14+00:00",
+      "source": "https://smallcultfollowing.com/babysteps/blog/2026/02/23/ubuntu-rustnation/",
+      "summary": "Article URL: https://smallcultfollowing.com/babysteps/blog/2026/02/23/ubuntu-rustnation/ Comments URL: https://news.ycombinator.com/item?id=47125286 Points: 127 # Comments: 143"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/23/technology/ai-literacy-newark-school-chatbots.html",
+      "title": "‘A.I. Literacy’ Is the New Drivers’ Ed at This Newark School",
+      "slug": "2026-02-23-a-i-literacy-is-the-new-drivers-ed-at-this-newark-school.html",
+      "path": "posts/2026-02-23-a-i-literacy-is-the-new-drivers-ed-at-this-newark-school.html",
+      "date_iso": "2026-02-23T14:16:29+00:00",
+      "source": "https://www.nytimes.com/2026/02/23/technology/ai-literacy-newark-school-chatbots.html",
+      "summary": "In February, North Star Academy Washington Park High School started a new A.I. class for seniors."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/23/style/pickle-app-clothing-rental.html",
+      "title": "Need an Outfit? Pickle Clothing Rental App Helps Users Stay on Trend.",
+      "slug": "2026-02-23-need-an-outfit-pickle-clothing-rental-app-helps-users-stay-on-trend.html",
+      "path": "posts/2026-02-23-need-an-outfit-pickle-clothing-rental-app-helps-users-stay-on-trend.html",
+      "date_iso": "2026-02-23T10:02:15+00:00",
+      "source": "https://www.nytimes.com/2026/02/23/style/pickle-app-clothing-rental.html",
+      "summary": "Pickle, a new peer-to-peer apparel-rental app, helps users stay on trend without having to go into debt or rely on climate-unfriendly fast fashion."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47111440",
       "title": "We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them",
       "slug": "2026-02-22-we-hid-backdoors-in-40mb-binaries-and-asked-ai-ghidra-to-find-them.html",
