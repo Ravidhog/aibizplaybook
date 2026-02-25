@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Context Mode – 315 KB of MCP output becomes 5.4 KB in Claude Code</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Context Mode – 315 KB of MCP output becomes 5.4 KB in Claude Code</h1>
+    <p><small>Published: 2026-02-25T06:23:30+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Every MCP tool call dumps raw data into Claude Code's 200K context window. A Playwright snapshot costs 56 KB, 20 GitHub issues cost 59 KB. After 30 minutes, 40% of your context is gone.<p>I built an MCP server that sits between Claude Code and these outputs. It processes them in sandboxes and only returns summaries. 315 KB becomes 5.4 KB.<p>It supports 10 language runtimes, SQLite FTS5 with BM25 ranking for search, and batch execution. Session time before slowdown goes from ~30 min to ~3 hours.<p>MIT licensed, single command install:<p>/plugin marketplace add mksglu/claude-context-mode<p>/plugin install context-mode@claude-context-mode<p>Benchmarks and source: <a href="https://github.com/mksglu/claude-context-mode" rel="nofollow">https://github.com/mksglu/claude-context-mode</a><p>Would love feedback from anyone hitting context limits in Claude Code.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47148025">https://news.ycombinator.com/item?id=47148025</a></p>
+<p>Points: 32</p>
+<p># Comments: 10</p>
+    <p><a href="https://github.com/mksglu/claude-context-mode" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

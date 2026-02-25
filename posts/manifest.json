@@ -1,6 +1,249 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47148025",
+      "title": "Show HN: Context Mode – 315 KB of MCP output becomes 5.4 KB in Claude Code",
+      "slug": "2026-02-25-show-hn-context-mode-315-kb-of-mcp-output-becomes-5-4-kb-in-claude-code.html",
+      "path": "posts/2026-02-25-show-hn-context-mode-315-kb-of-mcp-output-becomes-5-4-kb-in-claude-code.html",
+      "date_iso": "2026-02-25T06:23:30+00:00",
+      "source": "https://github.com/mksglu/claude-context-mode",
+      "summary": "Every MCP tool call dumps raw data into Claude Code's 200K context window. A Playwright snapshot costs 56 KB, 20 GitHub issues cost 59 KB. After 30 minutes, 40% of your context is gone. I built an MCP server that sits between Claude Code and these outputs. It processes them in s…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47147609",
+      "title": "Turing Completeness of GNU Find: From Mkdir-Assisted Loops to Standalone Comput",
+      "slug": "2026-02-25-turing-completeness-of-gnu-find-from-mkdir-assisted-loops-to-standalone-comput.html",
+      "path": "posts/2026-02-25-turing-completeness-of-gnu-find-from-mkdir-assisted-loops-to-standalone-comput.html",
+      "date_iso": "2026-02-25T05:16:39+00:00",
+      "source": "https://arxiv.org/abs/2602.20762",
+      "summary": "Article URL: https://arxiv.org/abs/2602.20762 Comments URL: https://news.ycombinator.com/item?id=47147609 Points: 8 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47147183",
+      "title": "Ask HN: Share your productive usage of OpenClaw",
+      "slug": "2026-02-25-ask-hn-share-your-productive-usage-of-openclaw.html",
+      "path": "posts/2026-02-25-ask-hn-share-your-productive-usage-of-openclaw.html",
+      "date_iso": "2026-02-25T04:03:26+00:00",
+      "source": "https://news.ycombinator.com/item?id=47147183",
+      "summary": "What are some very productive things you achieved with OpenClaw that you wouldn’t mind sharing? Comments URL: https://news.ycombinator.com/item?id=47147183 Points: 46 # Comments: 25"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/24/us/politics/pentagon-anthropic.html",
+      "title": "Pentagon Gives Anthropic an Ultimatum Over the Company’s A.I. Model",
+      "slug": "2026-02-25-pentagon-gives-anthropic-an-ultimatum-over-the-company-s-a-i-model.html",
+      "path": "posts/2026-02-25-pentagon-gives-anthropic-an-ultimatum-over-the-company-s-a-i-model.html",
+      "date_iso": "2026-02-25T03:08:07+00:00",
+      "source": "https://www.nytimes.com/2026/02/24/us/politics/pentagon-anthropic.html",
+      "summary": "Defense Secretary Pete Hegseth summoned the chief executive of Anthropic to Washington for a meeting on Tuesday."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47145963",
+      "title": "Anthropic Drops Flagship Safety Pledge",
+      "slug": "2026-02-25-anthropic-drops-flagship-safety-pledge.html",
+      "path": "posts/2026-02-25-anthropic-drops-flagship-safety-pledge.html",
+      "date_iso": "2026-02-25T01:08:46+00:00",
+      "source": "https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/",
+      "summary": "Article URL: https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/ Comments URL: https://news.ycombinator.com/item?id=47145963 Points: 232 # Comments: 95"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47145911",
+      "title": "Corgi Labs (YC W23) Is Hiring",
+      "slug": "2026-02-25-corgi-labs-yc-w23-is-hiring.html",
+      "path": "posts/2026-02-25-corgi-labs-yc-w23-is-hiring.html",
+      "date_iso": "2026-02-25T01:01:02+00:00",
+      "source": "https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate",
+      "summary": "Article URL: https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate Comments URL: https://news.ycombinator.com/item?id=47145911 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47145907",
+      "title": "Amazon accused of widespread scheme to inflate prices across the economy",
+      "slug": "2026-02-25-amazon-accused-of-widespread-scheme-to-inflate-prices-across-the-economy.html",
+      "path": "posts/2026-02-25-amazon-accused-of-widespread-scheme-to-inflate-prices-across-the-economy.html",
+      "date_iso": "2026-02-25T01:00:45+00:00",
+      "source": "https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price",
+      "summary": "Article URL: https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price Comments URL: https://news.ycombinator.com/item?id=47145907 Points: 366 # Comments: 117"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/24/technology/richard-blumenthal-iran-binance-inquiry.html",
+      "title": "Senator Blumenthal Opens Inquiry Into Iran Transactions on Binance",
+      "slug": "2026-02-25-senator-blumenthal-opens-inquiry-into-iran-transactions-on-binance.html",
+      "path": "posts/2026-02-25-senator-blumenthal-opens-inquiry-into-iran-transactions-on-binance.html",
+      "date_iso": "2026-02-25T01:00:23+00:00",
+      "source": "https://www.nytimes.com/2026/02/24/technology/richard-blumenthal-iran-binance-inquiry.html",
+      "summary": "In a letter to Binance, Senator Richard Blumenthal of Connecticut asked for records about the company’s dealings with two Hong Kong entities identified by the exchange’s investigators as the origin of the transfers to Iran."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/24/technology/wayve-ai-driverless-car-start-up.html",
+      "title": "Wayve, an A.I. Driverless Car Start-Up in Europe, Raises $1.2 Billion",
+      "slug": "2026-02-25-wayve-an-a-i-driverless-car-start-up-in-europe-raises-1-2-billion.html",
+      "path": "posts/2026-02-25-wayve-an-a-i-driverless-car-start-up-in-europe-raises-1-2-billion.html",
+      "date_iso": "2026-02-25T00:01:05+00:00",
+      "source": "https://www.nytimes.com/2026/02/24/technology/wayve-ai-driverless-car-start-up.html",
+      "summary": "New funding values Wayve at $8.6 billion."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47144464",
+      "title": "Mercury 2: Fast reasoning LLM powered by diffusion",
+      "slug": "2026-02-24-mercury-2-fast-reasoning-llm-powered-by-diffusion.html",
+      "path": "posts/2026-02-24-mercury-2-fast-reasoning-llm-powered-by-diffusion.html",
+      "date_iso": "2026-02-24T22:46:23+00:00",
+      "source": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
+      "summary": "Article URL: https://www.inceptionlabs.ai/blog/introducing-mercury-2 Comments URL: https://news.ycombinator.com/item?id=47144464 Points: 193 # Comments: 87"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47144325",
+      "title": "Cell Service for the Fairly Paranoid",
+      "slug": "2026-02-24-cell-service-for-the-fairly-paranoid.html",
+      "path": "posts/2026-02-24-cell-service-for-the-fairly-paranoid.html",
+      "date_iso": "2026-02-24T22:37:54+00:00",
+      "source": "https://www.cape.co/",
+      "summary": "Article URL: https://www.cape.co/ Comments URL: https://news.ycombinator.com/item?id=47144325 Points: 81 # Comments: 86"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47143755",
+      "title": "Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3",
+      "slug": "2026-02-24-show-hn-moonshine-open-weights-stt-models-higher-accuracy-than-whisperlargev3.html",
+      "path": "posts/2026-02-24-show-hn-moonshine-open-weights-stt-models-higher-accuracy-than-whisperlargev3.html",
+      "date_iso": "2026-02-24T21:54:07+00:00",
+      "source": "https://github.com/moonshine-ai/moonshine",
+      "summary": "I wanted to share our new speech to text model, and the library to use them effectively. We're a small startup (six people, sub-$100k monthly GPU budget) so I'm proud of the work the team has done to create streaming STT models with lower word-error rates than OpenAI's largest W…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47143754",
+      "title": "Pi – A minimal terminal coding harness",
+      "slug": "2026-02-24-pi-a-minimal-terminal-coding-harness.html",
+      "path": "posts/2026-02-24-pi-a-minimal-terminal-coding-harness.html",
+      "date_iso": "2026-02-24T21:53:59+00:00",
+      "source": "https://pi.dev",
+      "summary": "Article URL: https://pi.dev Comments URL: https://news.ycombinator.com/item?id=47143754 Points: 317 # Comments: 133"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47143211",
+      "title": "Looks like it is happening",
+      "slug": "2026-02-24-looks-like-it-is-happening.html",
+      "path": "posts/2026-02-24-looks-like-it-is-happening.html",
+      "date_iso": "2026-02-24T21:19:03+00:00",
+      "source": "https://www.math.columbia.edu/~woit/wordpress/?p=15500",
+      "summary": "Article URL: https://www.math.columbia.edu/~woit/wordpress/?p=15500 Comments URL: https://news.ycombinator.com/item?id=47143211 Points: 167 # Comments: 112"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47143152",
+      "title": "Mac mini will be made at a new facility in Houston",
+      "slug": "2026-02-24-mac-mini-will-be-made-at-a-new-facility-in-houston.html",
+      "path": "posts/2026-02-24-mac-mini-will-be-made-at-a-new-facility-in-houston.html",
+      "date_iso": "2026-02-24T21:13:45+00:00",
+      "source": "https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/ Comments URL: https://news.ycombinator.com/item?id=47143152 Points: 482 # Comments: 471"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47142078",
+      "title": "We are changing our developer productivity experiment design",
+      "slug": "2026-02-24-we-are-changing-our-developer-productivity-experiment-design.html",
+      "path": "posts/2026-02-24-we-are-changing-our-developer-productivity-experiment-design.html",
+      "date_iso": "2026-02-24T20:01:54+00:00",
+      "source": "https://metr.org/blog/2026-02-24-uplift-update/",
+      "summary": "Article URL: https://metr.org/blog/2026-02-24-uplift-update/ Comments URL: https://news.ycombinator.com/item?id=47142078 Points: 72 # Comments: 46"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/24/technology/jeffrey-epstein-microsoft-executives.html",
+      "title": "How Jeffrey Epstein Ingratiated Himself With Top Microsoft Executives",
+      "slug": "2026-02-24-how-jeffrey-epstein-ingratiated-himself-with-top-microsoft-executives.html",
+      "path": "posts/2026-02-24-how-jeffrey-epstein-ingratiated-himself-with-top-microsoft-executives.html",
+      "date_iso": "2026-02-24T19:58:44+00:00",
+      "source": "https://www.nytimes.com/2026/02/24/technology/jeffrey-epstein-microsoft-executives.html",
+      "summary": "For more than two decades, the convicted sex offender developed a network at the tech giant, making him privy to succession discussions and other business."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47141797",
+      "title": "Hacking an old Kindle to display bus arrival times",
+      "slug": "2026-02-24-hacking-an-old-kindle-to-display-bus-arrival-times.html",
+      "path": "posts/2026-02-24-hacking-an-old-kindle-to-display-bus-arrival-times.html",
+      "date_iso": "2026-02-24T19:43:34+00:00",
+      "source": "https://www.mariannefeng.com/portfolio/kindle/",
+      "summary": "Article URL: https://www.mariannefeng.com/portfolio/kindle/ Comments URL: https://news.ycombinator.com/item?id=47141797 Points: 226 # Comments: 50"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/24/technology/schoolwork-chatbot-cheating-pew.html",
+      "title": "More Than Half of Teens Use Chatbots for Schoolwork, Survey Finds",
+      "slug": "2026-02-24-more-than-half-of-teens-use-chatbots-for-schoolwork-survey-finds.html",
+      "path": "posts/2026-02-24-more-than-half-of-teens-use-chatbots-for-schoolwork-survey-finds.html",
+      "date_iso": "2026-02-24T19:23:10+00:00",
+      "source": "https://www.nytimes.com/2026/02/24/technology/schoolwork-chatbot-cheating-pew.html",
+      "summary": "A new study from the Pew Research Center finds teenagers think chatbot-assisted cheating has become “a regular feature of student life.”"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/24/business/meta-amd-chips-ai.html",
+      "title": "Racing to Catch Up With Nvidia, AMD Signs Chips-for-Stock Deal With Meta",
+      "slug": "2026-02-24-racing-to-catch-up-with-nvidia-amd-signs-chips-for-stock-deal-with-meta.html",
+      "path": "posts/2026-02-24-racing-to-catch-up-with-nvidia-amd-signs-chips-for-stock-deal-with-meta.html",
+      "date_iso": "2026-02-24T19:13:30+00:00",
+      "source": "https://www.nytimes.com/2026/02/24/business/meta-amd-chips-ai.html",
+      "summary": "Lisa Su, AMD’s chief executive, has been trying to break into a market for A.I. chips that has been dominated by Nvidia."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47140657",
+      "title": "Steel Bank Common Lisp",
+      "slug": "2026-02-24-steel-bank-common-lisp.html",
+      "path": "posts/2026-02-24-steel-bank-common-lisp.html",
+      "date_iso": "2026-02-24T18:24:17+00:00",
+      "source": "https://www.sbcl.org/",
+      "summary": "Article URL: https://www.sbcl.org/ Comments URL: https://news.ycombinator.com/item?id=47140657 Points: 195 # Comments: 73"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47140322",
+      "title": "Show HN: Emdash – Open-source agentic development environment",
+      "slug": "2026-02-24-show-hn-emdash-open-source-agentic-development-environment.html",
+      "path": "posts/2026-02-24-show-hn-emdash-open-source-agentic-development-environment.html",
+      "date_iso": "2026-02-24T18:00:37+00:00",
+      "source": "https://github.com/generalaction/emdash",
+      "summary": "Hey HN! We’re Arne and Raban, the founders of Emdash ( https://github.com/generalaction/emdash ). Emdash is an open-source and provider-agnostic desktop app that lets you run multiple coding agents in parallel, each isolated in its own git worktree, either locally or over SSH on…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47140042",
+      "title": "Nearby Glasses",
+      "slug": "2026-02-24-nearby-glasses.html",
+      "path": "posts/2026-02-24-nearby-glasses.html",
+      "date_iso": "2026-02-24T17:40:40+00:00",
+      "source": "https://github.com/yjeanrenaud/yj_nearbyglasses",
+      "summary": "Article URL: https://github.com/yjeanrenaud/yj_nearbyglasses Comments URL: https://news.ycombinator.com/item?id=47140042 Points: 300 # Comments: 113"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47139902",
+      "title": "Hugging Face Skills",
+      "slug": "2026-02-24-hugging-face-skills.html",
+      "path": "posts/2026-02-24-hugging-face-skills.html",
+      "date_iso": "2026-02-24T17:30:19+00:00",
+      "source": "https://github.com/huggingface/skills",
+      "summary": "Article URL: https://github.com/huggingface/skills Comments URL: https://news.ycombinator.com/item?id=47139902 Points: 156 # Comments: 44"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47139675",
+      "title": "I'm helping my dog vibe code games",
+      "slug": "2026-02-24-i-m-helping-my-dog-vibe-code-games.html",
+      "path": "posts/2026-02-24-i-m-helping-my-dog-vibe-code-games.html",
+      "date_iso": "2026-02-24T17:15:17+00:00",
+      "source": "https://www.calebleak.com/posts/dog-game/",
+      "summary": "Article URL: https://www.calebleak.com/posts/dog-game/ Comments URL: https://news.ycombinator.com/item?id=47139675 Points: 847 # Comments: 235"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47139475",
+      "title": "Verge (YC S15) Is Hiring a Director of Computational Biology and AI Scientists/Eng",
+      "slug": "2026-02-24-verge-yc-s15-is-hiring-a-director-of-computational-biology-and-ai-scientists-eng.html",
+      "path": "posts/2026-02-24-verge-yc-s15-is-hiring-a-director-of-computational-biology-and-ai-scientists-eng.html",
+      "date_iso": "2026-02-24T17:00:34+00:00",
+      "source": "https://jobs.ashbyhq.com/verge-genomics",
+      "summary": "Article URL: https://jobs.ashbyhq.com/verge-genomics Comments URL: https://news.ycombinator.com/item?id=47139475 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/24/technology/intel-sambanova-ceo-lip-bu-tan.html",
+      "title": "Intel Strikes Deal With a Chip Start-Up Its C.E.O. Invested In",
+      "slug": "2026-02-24-intel-strikes-deal-with-a-chip-start-up-its-c-e-o-invested-in.html",
+      "path": "posts/2026-02-24-intel-strikes-deal-with-a-chip-start-up-its-c-e-o-invested-in.html",
+      "date_iso": "2026-02-24T11:00:19+00:00",
+      "source": "https://www.nytimes.com/2026/02/24/technology/intel-sambanova-ceo-lip-bu-tan.html",
+      "summary": "Intel said Lip-Bu Tan, its chief executive, had recused himself from talks involving SambaNova Systems."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47133313",
       "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
       "slug": "2026-02-24-firefox-148-launches-with-ai-kill-switch-feature-and-more-enhancements.html",
