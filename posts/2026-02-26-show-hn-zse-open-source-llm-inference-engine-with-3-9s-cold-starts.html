@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: ZSE – Open-source LLM inference engine with 3.9s cold starts</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: ZSE – Open-source LLM inference engine with 3.9s cold starts</h1>
+    <p><small>Published: 2026-02-26T01:15:25+00:00</small></p>
+  </header>
+
+  <main>
+    <p>I've been building ZSE (Z Server Engine) for the past few weeks — an open-source LLM inference engine focused on two things nobody has fully solved together: memory efficiency and fast cold starts.<p>The problem I was trying to solve:
+Running a 32B model normally requires ~64 GB VRAM. Most developers don't have that. And even when quantization helps with memory, cold starts with bitsandbytes NF4 take 2+ minutes on first load and 45–120 seconds on warm restarts — which kills serverless and autoscaling use cases.<p>What ZSE does differently:<p>Fits 32B in 19.3 GB VRAM (70% reduction vs FP16) — runs on a single A100-40GB<p>Fits 7B in 5.2 GB VRAM (63% reduction) — runs on consumer GPUs<p>Native .zse pre-quantized format with memory-mapped weights: 3.9s cold start for 7B, 21.4s for 32B — vs 45s and 120s with bitsandbytes, ~30s for vLLM<p>All benchmarks verified on Modal A100-80GB (Feb 2026)<p>It ships with:<p>OpenAI-compatible API server (drop-in replacement)<p>Interactive CLI (zse serve, zse chat, zse convert, zse hardware)<p>Web dashboard with real-time GPU monitoring<p>Continuous batching (3.45× throughput)<p>GGUF support via llama.cpp<p>CPU fallback — works without a GPU<p>Rate limiting, audit logging, API key auth<p>Install:<p>-----
+pip install zllm-zse
+zse serve Qwen/Qwen2.5-7B-Instruct
+For fast cold starts (one-time conversion):<p>-----
+zse convert Qwen/Qwen2.5-Coder-7B-Instruct -o qwen-7b.zse
+zse serve qwen-7b.zse  # 3.9s every time<p>The cold start improvement comes from the .zse format storing pre-quantized weights as memory-mapped safetensors — no quantization step at load time, no weight conversion, just mmap + GPU transfer. On NVMe SSDs this gets under 4 seconds for 7B. On spinning HDDs it'll be slower.<p>All code is real — no mock implementations. Built at Zyora Labs. Apache 2.0.<p>Happy to answer questions about the quantization approach, the .zse format design, or the memory efficiency techniques.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47160526">https://news.ycombinator.com/item?id=47160526</a></p>
+<p>Points: 46</p>
+<p># Comments: 2</p>
+    <p><a href="https://github.com/Zyora-Dev/zse" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

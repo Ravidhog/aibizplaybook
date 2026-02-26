@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/02/26/technology/china-ai-dating-apps.html",
+      "title": "A.I. Dating Apps Complicate China’s Efforts to Boost Birthrate",
+      "slug": "2026-02-26-a-i-dating-apps-complicate-china-s-efforts-to-boost-birthrate.html",
+      "path": "posts/2026-02-26-a-i-dating-apps-complicate-china-s-efforts-to-boost-birthrate.html",
+      "date_iso": "2026-02-26T05:00:07+00:00",
+      "source": "https://www.nytimes.com/2026/02/26/technology/china-ai-dating-apps.html",
+      "summary": "As China grapples with a shrinking population and historically low birthrate, people are finding romance with chatbots instead."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47162059",
+      "title": "I don't know how you get here from \"predict the next word.\"",
+      "slug": "2026-02-26-i-don-t-know-how-you-get-here-from-predict-the-next-word.html",
+      "path": "posts/2026-02-26-i-don-t-know-how-you-get-here-from-predict-the-next-word.html",
+      "date_iso": "2026-02-26T04:59:01+00:00",
+      "source": "https://www.grumpy-economist.com/p/refine",
+      "summary": "Article URL: https://www.grumpy-economist.com/p/refine Comments URL: https://news.ycombinator.com/item?id=47162059 Points: 103 # Comments: 113"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47161498",
+      "title": "Self-improving software won't produce Skynet",
+      "slug": "2026-02-26-self-improving-software-won-t-produce-skynet.html",
+      "path": "posts/2026-02-26-self-improving-software-won-t-produce-skynet.html",
+      "date_iso": "2026-02-26T03:36:57+00:00",
+      "source": "https://contalign.jefflunt.com/self-improving-software/",
+      "summary": "Article URL: https://contalign.jefflunt.com/self-improving-software/ Comments URL: https://news.ycombinator.com/item?id=47161498 Points: 22 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47161160",
+      "title": "RAM now represents 35 percent of bill of materials for HP PCs",
+      "slug": "2026-02-26-ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs.html",
+      "path": "posts/2026-02-26-ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs.html",
+      "date_iso": "2026-02-26T02:43:26+00:00",
+      "source": "https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/",
+      "summary": "Article URL: https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/ Comments URL: https://news.ycombinator.com/item?id=47161160 Points: 195 # Comments: 124"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47160980",
+      "title": "Show HN: OpenSwarm – Multi‑Agent Claude CLI Orchestrator for Linear/GitHub",
+      "slug": "2026-02-26-show-hn-openswarm-multi-agent-claude-cli-orchestrator-for-linear-github.html",
+      "path": "posts/2026-02-26-show-hn-openswarm-multi-agent-claude-cli-orchestrator-for-linear-github.html",
+      "date_iso": "2026-02-26T02:19:02+00:00",
+      "source": "https://github.com/Intrect-io/OpenSwarm",
+      "summary": "I built OpenSwarm because I wanted an autonomous “AI dev team” that can actually plug into my real workflow instead of running toy tasks. OpenSwarm orchestrates multiple Claude Code CLI instances as agents to work on real Linear issues. It: • pulls issues from Linear and runs a…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47160526",
+      "title": "Show HN: ZSE – Open-source LLM inference engine with 3.9s cold starts",
+      "slug": "2026-02-26-show-hn-zse-open-source-llm-inference-engine-with-3-9s-cold-starts.html",
+      "path": "posts/2026-02-26-show-hn-zse-open-source-llm-inference-engine-with-3-9s-cold-starts.html",
+      "date_iso": "2026-02-26T01:15:25+00:00",
+      "source": "https://github.com/Zyora-Dev/zse",
+      "summary": "I've been building ZSE (Z Server Engine) for the past few weeks — an open-source LLM inference engine focused on two things nobody has fully solved together: memory efficiency and fast cold starts. The problem I was trying to solve: Running a 32B model normally requires ~64 GB V…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/25/technology/lawmakers-tech-companies-dhs.html",
+      "title": "Lawmakers Ask Tech Companies What User Data They Provided to D.H.S.",
+      "slug": "2026-02-26-lawmakers-ask-tech-companies-what-user-data-they-provided-to-d-h-s.html",
+      "path": "posts/2026-02-26-lawmakers-ask-tech-companies-what-user-data-they-provided-to-d-h-s.html",
+      "date_iso": "2026-02-26T01:11:18+00:00",
+      "source": "https://www.nytimes.com/2026/02/25/technology/lawmakers-tech-companies-dhs.html",
+      "summary": "Representative Bennie Thompson of Mississippi is one of three Democratic lawmakers asking tech companies about requests for user data from the Department of Homeland Security."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47160226",
+      "title": "Tech companies shouldn't be bullied into doing surveillance",
+      "slug": "2026-02-26-tech-companies-shouldn-t-be-bullied-into-doing-surveillance.html",
+      "path": "posts/2026-02-26-tech-companies-shouldn-t-be-bullied-into-doing-surveillance.html",
+      "date_iso": "2026-02-26T00:37:32+00:00",
+      "source": "https://www.eff.org/deeplinks/2026/02/tech-companies-shouldnt-be-bullied-doing-surveillance",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/02/tech-companies-shouldnt-be-bullied-doing-surveillance Comments URL: https://news.ycombinator.com/item?id=47160226 Points: 208 # Comments: 65"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/25/technology/nvidia-earnings.html",
+      "title": "Nvidia’s Quarterly Profit Hits $43 Billion on Strong A.I. Chip Sales",
+      "slug": "2026-02-25-nvidia-s-quarterly-profit-hits-43-billion-on-strong-a-i-chip-sales.html",
+      "path": "posts/2026-02-25-nvidia-s-quarterly-profit-hits-43-billion-on-strong-a-i-chip-sales.html",
+      "date_iso": "2026-02-25T23:28:10+00:00",
+      "source": "https://www.nytimes.com/2026/02/25/technology/nvidia-earnings.html",
+      "summary": "Nvidia, led by Jensen Huang, above, said quarterly revenue from its chips for A.I. data centers had risen 71 percent to $61.7 billion."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47159302",
+      "title": "First Website (1992)",
+      "slug": "2026-02-25-first-website-1992.html",
+      "path": "posts/2026-02-25-first-website-1992.html",
+      "date_iso": "2026-02-25T23:02:58+00:00",
+      "source": "https://info.cern.ch",
+      "summary": "Article URL: https://info.cern.ch Comments URL: https://news.ycombinator.com/item?id=47159302 Points: 185 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47158975",
+      "title": "How will OpenAI compete?",
+      "slug": "2026-02-25-how-will-openai-compete.html",
+      "path": "posts/2026-02-25-how-will-openai-compete.html",
+      "date_iso": "2026-02-25T22:29:25+00:00",
+      "source": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "summary": "Article URL: https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x Comments URL: https://news.ycombinator.com/item?id=47158975 Points: 179 # Comments: 198"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47157841",
+      "title": "An autopsy of AI-generated 3D slop",
+      "slug": "2026-02-25-an-autopsy-of-ai-generated-3d-slop.html",
+      "path": "posts/2026-02-25-an-autopsy-of-ai-generated-3d-slop.html",
+      "date_iso": "2026-02-25T21:05:15+00:00",
+      "source": "https://aircada.com/blog/ai-vs-human-3d-ecommerce",
+      "summary": "Article URL: https://aircada.com/blog/ai-vs-human-3d-ecommerce Comments URL: https://news.ycombinator.com/item?id=47157841 Points: 62 # Comments: 38"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47157398",
+      "title": "Making MCP cheaper via CLI",
+      "slug": "2026-02-25-making-mcp-cheaper-via-cli.html",
+      "path": "posts/2026-02-25-making-mcp-cheaper-via-cli.html",
+      "date_iso": "2026-02-25T20:29:37+00:00",
+      "source": "https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html",
+      "summary": "Article URL: https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html Comments URL: https://news.ycombinator.com/item?id=47157398 Points: 191 # Comments: 84"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/25/arts/television/podcasts-netflix-pete-davidson.html",
+      "title": "Podcasts? TV Talk Shows? Netflix Just Hopes They’re Hits.",
+      "slug": "2026-02-25-podcasts-tv-talk-shows-netflix-just-hopes-they-re-hits.html",
+      "path": "posts/2026-02-25-podcasts-tv-talk-shows-netflix-just-hopes-they-re-hits.html",
+      "date_iso": "2026-02-25T20:18:42+00:00",
+      "source": "https://www.nytimes.com/2026/02/25/arts/television/podcasts-netflix-pete-davidson.html",
+      "summary": "The podcasts in the streamer’s debut crop, including “The Pete Davidson Show,” have revived metaphysical questions about the definition of the medium."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47157224",
+      "title": "Jimi Hendrix was a systems engineer",
+      "slug": "2026-02-25-jimi-hendrix-was-a-systems-engineer.html",
+      "path": "posts/2026-02-25-jimi-hendrix-was-a-systems-engineer.html",
+      "date_iso": "2026-02-25T20:16:47+00:00",
+      "source": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
+      "summary": "Article URL: https://spectrum.ieee.org/jimi-hendrix-systems-engineer Comments URL: https://news.ycombinator.com/item?id=47157224 Points: 435 # Comments: 138"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47157160",
+      "title": "PA bench: Evaluating web agents on real world personal assistant workflows",
+      "slug": "2026-02-25-pa-bench-evaluating-web-agents-on-real-world-personal-assistant-workflows.html",
+      "path": "posts/2026-02-25-pa-bench-evaluating-web-agents-on-real-world-personal-assistant-workflows.html",
+      "date_iso": "2026-02-25T20:11:37+00:00",
+      "source": "https://vibrantlabs.com/blog/pa-bench",
+      "summary": "We’re the team at Vibrant Labs (W24). We’ve been building envs for browser agents and quickly realized that existing benchmarks in this space didn’t capture the primary failure modes we were seeing in production (which scaled up as the number of applications and horizon length i…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47156925",
+      "title": "Google API keys weren't secrets, but then Gemini changed the rules",
+      "slug": "2026-02-25-google-api-keys-weren-t-secrets-but-then-gemini-changed-the-rules.html",
+      "path": "posts/2026-02-25-google-api-keys-weren-t-secrets-but-then-gemini-changed-the-rules.html",
+      "date_iso": "2026-02-25T19:54:14+00:00",
+      "source": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
+      "summary": "Article URL: https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules Comments URL: https://news.ycombinator.com/item?id=47156925 Points: 393 # Comments: 81"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47154971",
+      "title": "The Om Programming Language",
+      "slug": "2026-02-25-the-om-programming-language.html",
+      "path": "posts/2026-02-25-the-om-programming-language.html",
+      "date_iso": "2026-02-25T17:48:21+00:00",
+      "source": "https://www.om-language.com/",
+      "summary": "Article URL: https://www.om-language.com/ Comments URL: https://news.ycombinator.com/item?id=47154971 Points: 256 # Comments: 62"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47154399",
+      "title": "Windows 11 Notepad to support Markdown",
+      "slug": "2026-02-25-windows-11-notepad-to-support-markdown.html",
+      "path": "posts/2026-02-25-windows-11-notepad-to-support-markdown.html",
+      "date_iso": "2026-02-25T17:14:19+00:00",
+      "source": "https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/",
+      "summary": "Article URL: https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/ Comments URL: https://news.ycombinator.com/item?id=47154399 Points: 253 # Comments: 400"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47154246",
+      "title": "Trellis AI (YC W24) is hiring deployment lead to accelerate medication access",
+      "slug": "2026-02-25-trellis-ai-yc-w24-is-hiring-deployment-lead-to-accelerate-medication-access.html",
+      "path": "posts/2026-02-25-trellis-ai-yc-w24-is-hiring-deployment-lead-to-accelerate-medication-access.html",
+      "date_iso": "2026-02-25T17:02:12+00:00",
+      "source": "https://www.ycombinator.com/companies/trellis-ai/jobs/7ZlvQkN-lead-deployment-strategist",
+      "summary": "Article URL: https://www.ycombinator.com/companies/trellis-ai/jobs/7ZlvQkN-lead-deployment-strategist Comments URL: https://news.ycombinator.com/item?id=47154246 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47153798",
+      "title": "Bus stop balancing is fast, cheap, and effective",
+      "slug": "2026-02-25-bus-stop-balancing-is-fast-cheap-and-effective.html",
+      "path": "posts/2026-02-25-bus-stop-balancing-is-fast-cheap-and-effective.html",
+      "date_iso": "2026-02-25T16:31:26+00:00",
+      "source": "https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/",
+      "summary": "Article URL: https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/ Comments URL: https://news.ycombinator.com/item?id=47153798 Points: 346 # Comments: 498"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47152982",
+      "title": "GNU Texmacs",
+      "slug": "2026-02-25-gnu-texmacs.html",
+      "path": "posts/2026-02-25-gnu-texmacs.html",
+      "date_iso": "2026-02-25T15:37:29+00:00",
+      "source": "https://www.texmacs.org/tmweb/home/welcome.en.html",
+      "summary": "Article URL: https://www.texmacs.org/tmweb/home/welcome.en.html Comments URL: https://news.ycombinator.com/item?id=47152982 Points: 155 # Comments: 44"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47151842",
+      "title": "Show HN: Respectify – A comment moderator that teaches people to argue better",
+      "slug": "2026-02-25-show-hn-respectify-a-comment-moderator-that-teaches-people-to-argue-better.html",
+      "path": "posts/2026-02-25-show-hn-respectify-a-comment-moderator-that-teaches-people-to-argue-better.html",
+      "date_iso": "2026-02-25T14:21:19+00:00",
+      "source": "https://respectify.org/",
+      "summary": "My partner, Nick Hodges, and I, David Millington, have been on the Internet for a very long time -- since the Usenet days. We’ve seen it all, and have long been frustrated by bad comments, horrible people, and discouraging discussions. We've also been around places where the dis…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47151598",
+      "title": "Launch HN: TeamOut (YC W22) – AI agent for planning company retreats",
+      "slug": "2026-02-25-launch-hn-teamout-yc-w22-ai-agent-for-planning-company-retreats.html",
+      "path": "posts/2026-02-25-launch-hn-teamout-yc-w22-ai-agent-for-planning-company-retreats.html",
+      "date_iso": "2026-02-25T14:02:02+00:00",
+      "source": "https://app.teamout.com/ai",
+      "summary": "Hi HN, I’m Vincent, CTO of TeamOut ( https://www.teamout.com/ ). We build an AI agent that plans company events from start to finish entirely through conversation. Similar to how Lovable helps build websites through chat, we apply that approach to event planning. Our system hand…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/25/technology/ai-detection-generated-photos-video.html",
+      "title": "Can A.I. Detection Tools Really Spot Fake Images and Videos?",
+      "slug": "2026-02-25-can-a-i-detection-tools-really-spot-fake-images-and-videos.html",
+      "path": "posts/2026-02-25-can-a-i-detection-tools-really-spot-fake-images-and-videos.html",
+      "date_iso": "2026-02-25T10:00:09+00:00",
+      "source": "https://www.nytimes.com/2026/02/25/technology/ai-detection-generated-photos-video.html",
+      "summary": "Artificial intelligence detectors are increasingly used to check the veracity of content online. We ran more than 1,000 tests and found several strengths and plenty of weaknesses."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47148025",
       "title": "Show HN: Context Mode – 315 KB of MCP output becomes 5.4 KB in Claude Code",
       "slug": "2026-02-25-show-hn-context-mode-315-kb-of-mcp-output-becomes-5-4-kb-in-claude-code.html",
