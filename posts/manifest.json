@@ -1,6 +1,276 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/02/27/technology/india-technology-jobs-ai.html",
+      "title": "India Built the World’s Back Office. A.I. Is Starting to Shrink It.",
+      "slug": "2026-02-27-india-built-the-world-s-back-office-a-i-is-starting-to-shrink-it.html",
+      "path": "posts/2026-02-27-india-built-the-world-s-back-office-a-i-is-starting-to-shrink-it.html",
+      "date_iso": "2026-02-27T05:01:15+00:00",
+      "source": "https://www.nytimes.com/2026/02/27/technology/india-technology-jobs-ai.html",
+      "summary": "Hunar.AI is offering companies bespoke A.I. voice agents that steer job applicants through virtually every step of the hiring process."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47176581",
+      "title": "Dear Time Lords: Freeze Computers in 1993",
+      "slug": "2026-02-27-dear-time-lords-freeze-computers-in-1993.html",
+      "path": "posts/2026-02-27-dear-time-lords-freeze-computers-in-1993.html",
+      "date_iso": "2026-02-27T04:38:46+00:00",
+      "source": "https://graydon2.dreamwidth.org/322461.html",
+      "summary": "Article URL: https://graydon2.dreamwidth.org/322461.html Comments URL: https://news.ycombinator.com/item?id=47176581 Points: 62 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47176257",
+      "title": "The Hunt for Dark Breakfast",
+      "slug": "2026-02-27-the-hunt-for-dark-breakfast.html",
+      "path": "posts/2026-02-27-the-hunt-for-dark-breakfast.html",
+      "date_iso": "2026-02-27T03:49:48+00:00",
+      "source": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
+      "summary": "Article URL: https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/ Comments URL: https://news.ycombinator.com/item?id=47176257 Points: 161 # Comments: 58"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47176239",
+      "title": "Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration",
+      "slug": "2026-02-27-parakeet-cpp-parakeet-asr-inference-in-pure-c-with-metal-gpu-acceleration.html",
+      "path": "posts/2026-02-27-parakeet-cpp-parakeet-asr-inference-in-pure-c-with-metal-gpu-acceleration.html",
+      "date_iso": "2026-02-27T03:48:05+00:00",
+      "source": "https://github.com/Frikallo/parakeet.cpp",
+      "summary": "Article URL: https://github.com/Frikallo/parakeet.cpp Comments URL: https://news.ycombinator.com/item?id=47176239 Points: 31 # Comments: 4"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html",
+      "title": "Google Workers Seek ‘Red Lines’ on Military A.I., Echoing Anthropic",
+      "slug": "2026-02-27-google-workers-seek-red-lines-on-military-a-i-echoing-anthropic.html",
+      "path": "posts/2026-02-27-google-workers-seek-red-lines-on-military-a-i-echoing-anthropic.html",
+      "date_iso": "2026-02-27T02:53:19+00:00",
+      "source": "https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html",
+      "summary": "Jeff Dean, the chief scientist of Google DeepMind, Google’s artificial intelligence division, at a company event in 2018."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47175281",
+      "title": "Two insider cases we've recently closed",
+      "slug": "2026-02-27-two-insider-cases-we-ve-recently-closed.html",
+      "path": "posts/2026-02-27-two-insider-cases-we-ve-recently-closed.html",
+      "date_iso": "2026-02-27T01:50:45+00:00",
+      "source": "https://news.kalshi.com/p/kalshi-trading-violation-enforcement-cases",
+      "summary": "Article URL: https://news.kalshi.com/p/kalshi-trading-violation-enforcement-cases Comments URL: https://news.ycombinator.com/item?id=47175281 Points: 23 # Comments: 49"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47175013",
+      "title": "LiteLLM (YC W23): Founding Reliability Engineer – $200K-$270K and 0.5-1.0% equity",
+      "slug": "2026-02-27-litellm-yc-w23-founding-reliability-engineer-200k-270k-and-0-5-1-0-equity.html",
+      "path": "posts/2026-02-27-litellm-yc-w23-founding-reliability-engineer-200k-270k-and-0-5-1-0-equity.html",
+      "date_iso": "2026-02-27T01:18:18+00:00",
+      "source": "https://www.ycombinator.com/companies/litellm/jobs/unlCynJ-founding-reliability-performance-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/litellm/jobs/unlCynJ-founding-reliability-performance-engineer Comments URL: https://news.ycombinator.com/item?id=47175013 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/26/technology/block-square-job-cuts-ai.html",
+      "title": "Block Cuts 40% of Its Work Force Because of Its Embrace of A.I.",
+      "slug": "2026-02-27-block-cuts-40-of-its-work-force-because-of-its-embrace-of-a-i.html",
+      "path": "posts/2026-02-27-block-cuts-40-of-its-work-force-because-of-its-embrace-of-a-i.html",
+      "date_iso": "2026-02-27T01:08:55+00:00",
+      "source": "https://www.nytimes.com/2026/02/26/technology/block-square-job-cuts-ai.html",
+      "summary": "Jack Dorsey, Block’s top executive, attributed job cuts to his company’s embrace of A.I."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/26/technology/anthropic-pentagon-talks-ai.html",
+      "title": "Anthropic Says It Cannot ‘Accede’ to Pentagon in Talks Over A.I.",
+      "slug": "2026-02-27-anthropic-says-it-cannot-accede-to-pentagon-in-talks-over-a-i.html",
+      "path": "posts/2026-02-27-anthropic-says-it-cannot-accede-to-pentagon-in-talks-over-a-i.html",
+      "date_iso": "2026-02-27T01:03:49+00:00",
+      "source": "https://www.nytimes.com/2026/02/26/technology/anthropic-pentagon-talks-ai.html",
+      "summary": "“We cannot in good conscience accede to their request,” Dario Amodei, chief executive of Anthropic, said in a statement."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/26/technology/social-media-addiction-testimony.html",
+      "title": "In Landmark Trial, Plaintiff Says Social Media Harm Started at Age 6",
+      "slug": "2026-02-27-in-landmark-trial-plaintiff-says-social-media-harm-started-at-age-6.html",
+      "path": "posts/2026-02-27-in-landmark-trial-plaintiff-says-social-media-harm-started-at-age-6.html",
+      "date_iso": "2026-02-27T00:56:55+00:00",
+      "source": "https://www.nytimes.com/2026/02/26/technology/social-media-addiction-testimony.html",
+      "summary": "Supporters of the plaintiff outside California Superior Court of Los Angeles County during a trial over whether social media platforms were designed to be addictive to children."
+    },
+    {
+      "id": "https://www.nytimes.com/video/technology/100000010717886/the-ai-videos-on-kids-youtube-feeds.html",
+      "title": "The A.I. Videos on Kids’ YouTube Feeds",
+      "slug": "2026-02-26-the-a-i-videos-on-kids-youtube-feeds.html",
+      "path": "posts/2026-02-26-the-a-i-videos-on-kids-youtube-feeds.html",
+      "date_iso": "2026-02-26T23:03:44+00:00",
+      "source": "https://www.nytimes.com/video/technology/100000010717886/the-ai-videos-on-kids-youtube-feeds.html",
+      "summary": "The YouTube algorithm is pushing bizarre, often nonsensical A.I.-generated videos targeting children. Our video journalist Arijeta Lajka explains why experts say that these videos could affect their cognitive development, and how parents can identify this type of content."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47173121",
+      "title": "Statement from Dario Amodei on our discussions with the Department of War",
+      "slug": "2026-02-26-statement-from-dario-amodei-on-our-discussions-with-the-department-of-war.html",
+      "path": "posts/2026-02-26-statement-from-dario-amodei-on-our-discussions-with-the-department-of-war.html",
+      "date_iso": "2026-02-26T22:42:47+00:00",
+      "source": "https://www.anthropic.com/news/statement-department-of-war",
+      "summary": "Article URL: https://www.anthropic.com/news/statement-department-of-war Comments URL: https://news.ycombinator.com/item?id=47173121 Points: 1643 # Comments: 844"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47172730",
+      "title": "Hydroph0bia – fixed SecureBoot bypass for UEFI firmware from Insyde H2O (2025)",
+      "slug": "2026-02-26-hydroph0bia-fixed-secureboot-bypass-for-uefi-firmware-from-insyde-h2o-2025.html",
+      "path": "posts/2026-02-26-hydroph0bia-fixed-secureboot-bypass-for-uefi-firmware-from-insyde-h2o-2025.html",
+      "date_iso": "2026-02-26T22:14:11+00:00",
+      "source": "https://coderush.me/hydroph0bia-part3/",
+      "summary": "Article URL: https://coderush.me/hydroph0bia-part3/ Comments URL: https://news.ycombinator.com/item?id=47172730 Points: 55 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47172664",
+      "title": "Smartphone market forecast to decline this year due to memory shortage",
+      "slug": "2026-02-26-smartphone-market-forecast-to-decline-this-year-due-to-memory-shortage.html",
+      "path": "posts/2026-02-26-smartphone-market-forecast-to-decline-this-year-due-to-memory-shortage.html",
+      "date_iso": "2026-02-26T22:09:45+00:00",
+      "source": "https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/",
+      "summary": "Article URL: https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/ Comments URL: https://news.ycombinator.com/item?id=47172664 Points: 224 # Comments: 220"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47172119",
+      "title": "Layoffs at Block",
+      "slug": "2026-02-26-layoffs-at-block.html",
+      "path": "posts/2026-02-26-layoffs-at-block.html",
+      "date_iso": "2026-02-26T21:17:56+00:00",
+      "source": "https://twitter.com/jack/status/2027129697092731343",
+      "summary": "https://www.cnbc.com/2026/02/26/block-laying-off-about-4000-... https://www.marketwatch.com/story/block-plans-to-lay-off-nea... Comments URL: https://news.ycombinator.com/item?id=47172119 Points: 659 # Comments: 693"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47171233",
+      "title": "What does \" 2>&1 \" mean?",
+      "slug": "2026-02-26-what-does-2-1-mean.html",
+      "path": "posts/2026-02-26-what-does-2-1-mean.html",
+      "date_iso": "2026-02-26T19:58:46+00:00",
+      "source": "https://stackoverflow.com/questions/818255/what-does-21-mean",
+      "summary": "Article URL: https://stackoverflow.com/questions/818255/what-does-21-mean Comments URL: https://news.ycombinator.com/item?id=47171233 Points: 242 # Comments: 130"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47170174",
+      "title": "Launch HN: Cardboard (YC W26) – Agentic video editor",
+      "slug": "2026-02-26-launch-hn-cardboard-yc-w26-agentic-video-editor.html",
+      "path": "posts/2026-02-26-launch-hn-cardboard-yc-w26-agentic-video-editor.html",
+      "date_iso": "2026-02-26T18:38:38+00:00",
+      "source": "https://www.usecardboard.com/",
+      "summary": "Hey HN - we're Saksham and Ishan, and we’re building Cardboard ( https://www.usecardboard.com ). It lets you go from raw footage to an edited video by describing what you want in natural language. There’s a demo video at https://www.usecardboard.com/share/fUN2i9ft8B46 , and you…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47170157",
+      "title": "OsmAnd's Faster Offline Navigation (2025)",
+      "slug": "2026-02-26-osmand-s-faster-offline-navigation-2025.html",
+      "path": "posts/2026-02-26-osmand-s-faster-offline-navigation-2025.html",
+      "date_iso": "2026-02-26T18:37:59+00:00",
+      "source": "https://osmand.net/blog/fast-routing/",
+      "summary": "Article URL: https://osmand.net/blog/fast-routing/ Comments URL: https://news.ycombinator.com/item?id=47170157 Points: 149 # Comments: 48"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47169757",
+      "title": "What Claude Code chooses",
+      "slug": "2026-02-26-what-claude-code-chooses.html",
+      "path": "posts/2026-02-26-what-claude-code-chooses.html",
+      "date_iso": "2026-02-26T18:12:26+00:00",
+      "source": "https://amplifying.ai/research/claude-code-picks",
+      "summary": "Article URL: https://amplifying.ai/research/claude-code-picks Comments URL: https://news.ycombinator.com/item?id=47169757 Points: 376 # Comments: 153"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47169518",
+      "title": "Show HN: Deff – Side-by-side Git diff review in your terminal",
+      "slug": "2026-02-26-show-hn-deff-side-by-side-git-diff-review-in-your-terminal.html",
+      "path": "posts/2026-02-26-show-hn-deff-side-by-side-git-diff-review-in-your-terminal.html",
+      "date_iso": "2026-02-26T17:54:06+00:00",
+      "source": "https://github.com/flamestro/deff",
+      "summary": "deff is an interactive Rust TUI for reviewing git diffs side-by-side with syntax highlighting and added/deleted line tinting. It supports keyboard/mouse navigation, vim-style motions, in-diff search (/, n, N), per-file reviewed toggles, and both upstream-based and explicit --bas…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/26/us/ai-videos-children-youtube.html",
+      "title": "How A.I.-Generated Videos Are Distorting Your Child’s YouTube Feed",
+      "slug": "2026-02-26-how-a-i-generated-videos-are-distorting-your-child-s-youtube-feed.html",
+      "path": "posts/2026-02-26-how-a-i-generated-videos-are-distorting-your-child-s-youtube-feed.html",
+      "date_iso": "2026-02-26T17:34:35+00:00",
+      "source": "https://www.nytimes.com/2026/02/26/us/ai-videos-children-youtube.html",
+      "summary": "Experts caution that low-quality, A.I.-generated videos on YouTube geared toward children often feature conflicting information, lack plot structure and can be cognitively overwhelming — all of which could affect young children’s development."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47168726",
+      "title": "Palm OS User Interface Guidelines (2003) [pdf]",
+      "slug": "2026-02-26-palm-os-user-interface-guidelines-2003-pdf.html",
+      "path": "posts/2026-02-26-palm-os-user-interface-guidelines-2003-pdf.html",
+      "date_iso": "2026-02-26T17:01:05+00:00",
+      "source": "https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf",
+      "summary": "Article URL: https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf Comments URL: https://news.ycombinator.com/item?id=47168726 Points: 181 # Comments: 87"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47168721",
+      "title": "Bild AI (YC W25) Is Hiring Interns to Make Housing Affordable",
+      "slug": "2026-02-26-bild-ai-yc-w25-is-hiring-interns-to-make-housing-affordable.html",
+      "path": "posts/2026-02-26-bild-ai-yc-w25-is-hiring-interns-to-make-housing-affordable.html",
+      "date_iso": "2026-02-26T17:00:25+00:00",
+      "source": "https://www.workatastartup.com/jobs/80596",
+      "summary": "Article URL: https://www.workatastartup.com/jobs/80596 Comments URL: https://news.ycombinator.com/item?id=47168721 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47167858",
+      "title": "Nano Banana 2: Google's latest AI image generation model",
+      "slug": "2026-02-26-nano-banana-2-google-s-latest-ai-image-generation-model.html",
+      "path": "posts/2026-02-26-nano-banana-2-google-s-latest-ai-image-generation-model.html",
+      "date_iso": "2026-02-26T16:02:37+00:00",
+      "source": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/ Comments URL: https://news.ycombinator.com/item?id=47167858 Points: 553 # Comments: 518"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47167763",
+      "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
+      "slug": "2026-02-26-airsnitch-demystifying-and-breaking-client-isolation-in-wi-fi-networks-pdf.html",
+      "path": "posts/2026-02-26-airsnitch-demystifying-and-breaking-client-isolation-in-wi-fi-networks-pdf.html",
+      "date_iso": "2026-02-26T15:55:48+00:00",
+      "source": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
+      "summary": "Article URL: https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf Comments URL: https://news.ycombinator.com/item?id=47167763 Points: 348 # Comments: 162"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/26/technology/hateaid-online-abuse-free-speech-europe.html",
+      "title": "They Helped Women Fight Online Abuse. They Were Barred From the U.S.",
+      "slug": "2026-02-26-they-helped-women-fight-online-abuse-they-were-barred-from-the-u-s.html",
+      "path": "posts/2026-02-26-they-helped-women-fight-online-abuse-they-were-barred-from-the-u-s.html",
+      "date_iso": "2026-02-26T15:52:31+00:00",
+      "source": "https://www.nytimes.com/2026/02/26/technology/hateaid-online-abuse-free-speech-europe.html",
+      "summary": "Anna-Lena von Hodenberg, left, and Josephine Ballon, right, of the organization HateAid. The group provides legal support for victims of digital violence and engages in policy advocacy aimed at strengthening accountability for major online platforms."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47166264",
+      "title": "BuildKit: Docker's Hidden Gem That Can Build Almost Anything",
+      "slug": "2026-02-26-buildkit-docker-s-hidden-gem-that-can-build-almost-anything.html",
+      "path": "posts/2026-02-26-buildkit-docker-s-hidden-gem-that-can-build-almost-anything.html",
+      "date_iso": "2026-02-26T14:05:46+00:00",
+      "source": "https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/",
+      "summary": "Article URL: https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/ Comments URL: https://news.ycombinator.com/item?id=47166264 Points: 172 # Comments: 63"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47165792",
+      "title": "This time is different",
+      "slug": "2026-02-26-this-time-is-different.html",
+      "path": "posts/2026-02-26-this-time-is-different.html",
+      "date_iso": "2026-02-26T13:28:59+00:00",
+      "source": "https://shkspr.mobi/blog/2026/02/this-time-is-different/",
+      "summary": "Article URL: https://shkspr.mobi/blog/2026/02/this-time-is-different/ Comments URL: https://news.ycombinator.com/item?id=47165792 Points: 154 # Comments: 245"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/26/technology/chatbots-duty-warn-police.html",
+      "title": "When Chatbots Are Used to Plan Violence, Is There a Duty to Warn?",
+      "slug": "2026-02-26-when-chatbots-are-used-to-plan-violence-is-there-a-duty-to-warn.html",
+      "path": "posts/2026-02-26-when-chatbots-are-used-to-plan-violence-is-there-a-duty-to-warn.html",
+      "date_iso": "2026-02-26T10:33:19+00:00",
+      "source": "https://www.nytimes.com/2026/02/26/technology/chatbots-duty-warn-police.html",
+      "summary": "Matthew Livelsberger detonated explosive material in a Tesla Cybertruck in front of the Trump International Hotel in Las Vegas in January 2025. He had consulted about the plan with ChatGPT."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/26/technology/personaltech/ai-complicates-old-internet-privacy-risks.html",
+      "title": "A.I. Complicates Old Internet Privacy Risks",
+      "slug": "2026-02-26-a-i-complicates-old-internet-privacy-risks.html",
+      "path": "posts/2026-02-26-a-i-complicates-old-internet-privacy-risks.html",
+      "date_iso": "2026-02-26T10:06:05+00:00",
+      "source": "https://www.nytimes.com/2026/02/26/technology/personaltech/ai-complicates-old-internet-privacy-risks.html",
+      "summary": "Artificial intelligence is convenient and easy to use, but you should think about what you say to the chatbots."
+    },
+    {
       "id": "https://www.nytimes.com/2026/02/26/technology/china-ai-dating-apps.html",
       "title": "A.I. Dating Apps Complicate China’s Efforts to Boost Birthrate",
       "slug": "2026-02-26-a-i-dating-apps-complicate-china-s-efforts-to-boost-birthrate.html",
