@@ -1,6 +1,267 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47191437",
+      "title": "US and Israel carrying out strikes against Iran",
+      "slug": "2026-02-28-us-and-israel-carrying-out-strikes-against-iran.html",
+      "path": "posts/2026-02-28-us-and-israel-carrying-out-strikes-against-iran.html",
+      "date_iso": "2026-02-28T07:00:18+00:00",
+      "source": "https://www.cnn.com/world/live-news/israel-iran-attack-02-28-26-hnk-intl",
+      "summary": "Article URL: https://www.cnn.com/world/live-news/israel-iran-attack-02-28-26-hnk-intl Comments URL: https://news.ycombinator.com/item?id=47191437 Points: 34 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47191414",
+      "title": "U.S. and Israel Conduct Strikes on Iran",
+      "slug": "2026-02-28-u-s-and-israel-conduct-strikes-on-iran.html",
+      "path": "posts/2026-02-28-u-s-and-israel-conduct-strikes-on-iran.html",
+      "date_iso": "2026-02-28T06:57:46+00:00",
+      "source": "https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump",
+      "summary": "Article URL: https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump Comments URL: https://news.ycombinator.com/item?id=47191414 Points: 23 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47191374",
+      "title": "Israel says it has attacked Iran, declares state of emergency",
+      "slug": "2026-02-28-israel-says-it-has-attacked-iran-declares-state-of-emergency.html",
+      "path": "posts/2026-02-28-israel-says-it-has-attacked-iran-declares-state-of-emergency.html",
+      "date_iso": "2026-02-28T06:52:16+00:00",
+      "source": "https://www.cnbc.com/2026/02/28/trump-us-military-iran-strikes-middle-east-oil.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/02/28/trump-us-military-iran-strikes-middle-east-oil.html Comments URL: https://news.ycombinator.com/item?id=47191374 Points: 22 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47191232",
+      "title": "Israel launches strike against Iran, declares state of emergency across country",
+      "slug": "2026-02-28-israel-launches-strike-against-iran-declares-state-of-emergency-across-country.html",
+      "path": "posts/2026-02-28-israel-launches-strike-against-iran-declares-state-of-emergency-across-country.html",
+      "date_iso": "2026-02-28T06:34:07+00:00",
+      "source": "https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk",
+      "summary": "Article URL: https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk Comments URL: https://news.ycombinator.com/item?id=47191232 Points: 32 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47190997",
+      "title": "How do I cancel my ChatGPT subscription?",
+      "slug": "2026-02-28-how-do-i-cancel-my-chatgpt-subscription.html",
+      "path": "posts/2026-02-28-how-do-i-cancel-my-chatgpt-subscription.html",
+      "date_iso": "2026-02-28T05:55:01+00:00",
+      "source": "https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription",
+      "summary": "Article URL: https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription Comments URL: https://news.ycombinator.com/item?id=47190997 Points: 316 # Comments: 61"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47190947",
+      "title": "Rust Is Just a Tool",
+      "slug": "2026-02-28-rust-is-just-a-tool.html",
+      "path": "posts/2026-02-28-rust-is-just-a-tool.html",
+      "date_iso": "2026-02-28T05:47:39+00:00",
+      "source": "https://lewiscampbell.tech/blog/260204.html",
+      "summary": "Article URL: https://lewiscampbell.tech/blog/260204.html Comments URL: https://news.ycombinator.com/item?id=47190947 Points: 23 # Comments: 5"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html",
+      "title": "OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash",
+      "slug": "2026-02-28-openai-reaches-a-i-agreement-with-defense-dept-after-anthropic-clash.html",
+      "path": "posts/2026-02-28-openai-reaches-a-i-agreement-with-defense-dept-after-anthropic-clash.html",
+      "date_iso": "2026-02-28T05:27:32+00:00",
+      "source": "https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html",
+      "summary": "Sam Altman of OpenAI, which reached an agreement with the Department of Defense on A.I. on classified systems on Friday."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47190806",
+      "title": "Cash issuing terminals",
+      "slug": "2026-02-28-cash-issuing-terminals.html",
+      "path": "posts/2026-02-28-cash-issuing-terminals.html",
+      "date_iso": "2026-02-28T05:21:21+00:00",
+      "source": "https://computer.rip/2026-02-27-ibm-atm.html",
+      "summary": "Article URL: https://computer.rip/2026-02-27-ibm-atm.html Comments URL: https://news.ycombinator.com/item?id=47190806 Points: 36 # Comments: 1"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/27/technology/anthropic-trump-pentagon-silicon-valley.html",
+      "title": "Silicon Valley Rallies Behind Anthropic in A.I. Clash With Trump",
+      "slug": "2026-02-28-silicon-valley-rallies-behind-anthropic-in-a-i-clash-with-trump.html",
+      "path": "posts/2026-02-28-silicon-valley-rallies-behind-anthropic-in-a-i-clash-with-trump.html",
+      "date_iso": "2026-02-28T04:46:11+00:00",
+      "source": "https://www.nytimes.com/2026/02/27/technology/anthropic-trump-pentagon-silicon-valley.html",
+      "summary": "The Pentagon underestimated how strongly Anthropic felt, current and former defense officials said."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47189853",
+      "title": "OpenAI reaches deal to deploy AI models on U.S. DoW classified network",
+      "slug": "2026-02-28-openai-reaches-deal-to-deploy-ai-models-on-u-s-dow-classified-network.html",
+      "path": "posts/2026-02-28-openai-reaches-deal-to-deploy-ai-models-on-u-s-dow-classified-network.html",
+      "date_iso": "2026-02-28T03:23:16+00:00",
+      "source": "https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/",
+      "summary": "Article URL: https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/ Comments URL: https://news.ycombinator.com/item?id=47189853 Points: 122 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47189749",
+      "title": "Don't use passkeys for encrypting user data",
+      "slug": "2026-02-28-don-t-use-passkeys-for-encrypting-user-data.html",
+      "path": "posts/2026-02-28-don-t-use-passkeys-for-encrypting-user-data.html",
+      "date_iso": "2026-02-28T03:11:40+00:00",
+      "source": "https://blog.timcappalli.me/p/passkeys-prf-warning/",
+      "summary": "Article URL: https://blog.timcappalli.me/p/passkeys-prf-warning/ Comments URL: https://news.ycombinator.com/item?id=47189749 Points: 110 # Comments: 58"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47189650",
+      "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
+      "slug": "2026-02-28-openai-agrees-with-dept-of-war-to-deploy-models-in-their-classified-network.html",
+      "path": "posts/2026-02-28-openai-agrees-with-dept-of-war-to-deploy-models-in-their-classified-network.html",
+      "date_iso": "2026-02-28T02:59:02+00:00",
+      "source": "https://twitter.com/sama/status/2027578652477821175",
+      "summary": "https://xcancel.com/sama/status/2027578652477821175 https://fortune.com/2026/02/27/openai-in-talks-with-pentagon... Comments URL: https://news.ycombinator.com/item?id=47189650 Points: 439 # Comments: 249"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47189625",
+      "title": "Bootc and OSTree: Modernizing Linux System Deployment",
+      "slug": "2026-02-28-bootc-and-ostree-modernizing-linux-system-deployment.html",
+      "path": "posts/2026-02-28-bootc-and-ostree-modernizing-linux-system-deployment.html",
+      "date_iso": "2026-02-28T02:55:29+00:00",
+      "source": "https://a-cup-of.coffee/blog/ostree-bootc/",
+      "summary": "Article URL: https://a-cup-of.coffee/blog/ostree-bootc/ Comments URL: https://news.ycombinator.com/item?id=47189625 Points: 19 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47189535",
+      "title": "Croatia declared free of landmines after 31 years",
+      "slug": "2026-02-28-croatia-declared-free-of-landmines-after-31-years.html",
+      "path": "posts/2026-02-28-croatia-declared-free-of-landmines-after-31-years.html",
+      "date_iso": "2026-02-28T02:48:16+00:00",
+      "source": "https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533",
+      "summary": "Article URL: https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533 Comments URL: https://news.ycombinator.com/item?id=47189535 Points: 150 # Comments: 15"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/27/technology/meta-self-harm-notifications-parents.html",
+      "title": "Instagram to Alert Parents to Teens’ Self-Harm Searches",
+      "slug": "2026-02-28-instagram-to-alert-parents-to-teens-self-harm-searches.html",
+      "path": "posts/2026-02-28-instagram-to-alert-parents-to-teens-self-harm-searches.html",
+      "date_iso": "2026-02-28T02:39:28+00:00",
+      "source": "https://www.nytimes.com/2026/02/27/technology/meta-self-harm-notifications-parents.html",
+      "summary": "Meta, which owns Instagram, is promoting the parental alerts about searches for harmful content as it is on trial in two states over claims that its platforms are addictive and have harmed young users."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/27/technology/cz-changpeng-zhao-binance-memoir-prison.html",
+      "title": "In a Memoir Draft, Changpeng Zhao of Binance Details the Talks Leading to His Prison Time",
+      "slug": "2026-02-28-in-a-memoir-draft-changpeng-zhao-of-binance-details-the-talks-leading-to-his-prison-time.html",
+      "path": "posts/2026-02-28-in-a-memoir-draft-changpeng-zhao-of-binance-details-the-talks-leading-to-his-prison-time.html",
+      "date_iso": "2026-02-28T02:26:38+00:00",
+      "source": "https://www.nytimes.com/2026/02/27/technology/cz-changpeng-zhao-binance-memoir-prison.html",
+      "summary": "Binance’s founder, Changpeng Zhao, outside federal court in Seattle in 2024 at his sentencing for violating an anti-money-laundering law."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47188697",
+      "title": "Statement on the comments from Secretary of War Pete Hegseth",
+      "slug": "2026-02-28-statement-on-the-comments-from-secretary-of-war-pete-hegseth.html",
+      "path": "posts/2026-02-28-statement-on-the-comments-from-secretary-of-war-pete-hegseth.html",
+      "date_iso": "2026-02-28T01:20:10+00:00",
+      "source": "https://www.anthropic.com/news/statement-comments-secretary-war",
+      "summary": "Article URL: https://www.anthropic.com/news/statement-comments-secretary-war Comments URL: https://news.ycombinator.com/item?id=47188697 Points: 832 # Comments: 288"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47188473",
+      "title": "We Will Not Be Divided",
+      "slug": "2026-02-28-we-will-not-be-divided.html",
+      "path": "posts/2026-02-28-we-will-not-be-divided.html",
+      "date_iso": "2026-02-28T00:54:53+00:00",
+      "source": "https://notdivided.org",
+      "summary": "Article URL: https://notdivided.org Comments URL: https://news.ycombinator.com/item?id=47188473 Points: 1235 # Comments: 453"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47187649",
+      "title": "Qt45: A small polymerase ribozyme that can synthesize itself",
+      "slug": "2026-02-27-qt45-a-small-polymerase-ribozyme-that-can-synthesize-itself.html",
+      "path": "posts/2026-02-27-qt45-a-small-polymerase-ribozyme-that-can-synthesize-itself.html",
+      "date_iso": "2026-02-27T23:42:14+00:00",
+      "source": "https://www.science.org/doi/10.1126/science.adt2760",
+      "summary": "Article URL: https://www.science.org/doi/10.1126/science.adt2760 Comments URL: https://news.ycombinator.com/item?id=47187649 Points: 74 # Comments: 14"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/27/technology/defense-department-anthropic-ai-safety.html",
+      "title": "Pentagon-Anthropic Standoff Is a Decisive Moment for How A.I. Will Be Used in War",
+      "slug": "2026-02-27-pentagon-anthropic-standoff-is-a-decisive-moment-for-how-a-i-will-be-used-in-war.html",
+      "path": "posts/2026-02-27-pentagon-anthropic-standoff-is-a-decisive-moment-for-how-a-i-will-be-used-in-war.html",
+      "date_iso": "2026-02-27T21:06:42+00:00",
+      "source": "https://www.nytimes.com/2026/02/27/technology/defense-department-anthropic-ai-safety.html",
+      "summary": "The Pentagon has said that a private contractor cannot decide how its tools will be lawfully used for national security."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47184049",
+      "title": "Let's discuss sandbox isolation",
+      "slug": "2026-02-27-let-s-discuss-sandbox-isolation.html",
+      "path": "posts/2026-02-27-let-s-discuss-sandbox-isolation.html",
+      "date_iso": "2026-02-27T18:49:50+00:00",
+      "source": "https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/",
+      "summary": "Article URL: https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/ Comments URL: https://news.ycombinator.com/item?id=47184049 Points: 130 # Comments: 43"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47183907",
+      "title": "Kyber (YC W23) Is Hiring an Enterprise Account Executive",
+      "slug": "2026-02-27-kyber-yc-w23-is-hiring-an-enterprise-account-executive.html",
+      "path": "posts/2026-02-27-kyber-yc-w23-is-hiring-an-enterprise-account-executive.html",
+      "date_iso": "2026-02-27T18:37:53+00:00",
+      "source": "https://www.ycombinator.com/companies/kyber/jobs/59yPaCs-enterprise-account-executive-ae",
+      "summary": "Article URL: https://www.ycombinator.com/companies/kyber/jobs/59yPaCs-enterprise-account-executive-ae Comments URL: https://news.ycombinator.com/item?id=47183907 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47182487",
+      "title": "Allocating on the Stack",
+      "slug": "2026-02-27-allocating-on-the-stack.html",
+      "path": "posts/2026-02-27-allocating-on-the-stack.html",
+      "date_iso": "2026-02-27T16:34:05+00:00",
+      "source": "https://go.dev/blog/allocation-optimizations",
+      "summary": "Article URL: https://go.dev/blog/allocation-optimizations Comments URL: https://news.ycombinator.com/item?id=47182487 Points: 144 # Comments: 51"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47182483",
+      "title": "NASA announces overhaul of Artemis program amid safety concerns, delays",
+      "slug": "2026-02-27-nasa-announces-overhaul-of-artemis-program-amid-safety-concerns-delays.html",
+      "path": "posts/2026-02-27-nasa-announces-overhaul-of-artemis-program-amid-safety-concerns-delays.html",
+      "date_iso": "2026-02-27T16:33:39+00:00",
+      "source": "https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/",
+      "summary": "Article URL: https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/ Comments URL: https://news.ycombinator.com/item?id=47182483 Points: 244 # Comments: 263"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47182387",
+      "title": "Show HN: Claude-File-Recovery, recover files from your ~/.claude sessions",
+      "slug": "2026-02-27-show-hn-claude-file-recovery-recover-files-from-your-claude-sessions.html",
+      "path": "posts/2026-02-27-show-hn-claude-file-recovery-recover-files-from-your-claude-sessions.html",
+      "date_iso": "2026-02-27T16:26:22+00:00",
+      "source": "https://github.com/hjtenklooster/claude-file-recovery",
+      "summary": "Claude Code deleted my research and plan markdown files and informed me: “I accidentally rm -rf'd real directories in my Obsidian vault through a symlink it didn't realize was there: I made a mistake. “ Unfortunately the backup of my documentation accidentally hadn’t run for a m…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/27/podcasts/is-ai-eating-the-labor-market-the-latest-on-the-pentagon-openclaw-and-alpha-school.html",
+      "title": "Is A.I. Eating the Labor Market? + The Latest on the Pentagon, OpenClaw and Alpha School",
+      "slug": "2026-02-27-is-a-i-eating-the-labor-market-the-latest-on-the-pentagon-openclaw-and-alpha-school.html",
+      "path": "posts/2026-02-27-is-a-i-eating-the-labor-market-the-latest-on-the-pentagon-openclaw-and-alpha-school.html",
+      "date_iso": "2026-02-27T12:00:09+00:00",
+      "source": "https://www.nytimes.com/2026/02/27/podcasts/is-ai-eating-the-labor-market-the-latest-on-the-pentagon-openclaw-and-alpha-school.html",
+      "summary": "“I think the mere fact that the markets can move so much, based on almost nothing, underscores how high anxiety is right now.”"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/27/world/asia/google-maps-south-korea.html",
+      "title": "South Korea Clears Way for Google Maps to Fully Operate",
+      "slug": "2026-02-27-south-korea-clears-way-for-google-maps-to-fully-operate.html",
+      "path": "posts/2026-02-27-south-korea-clears-way-for-google-maps-to-fully-operate.html",
+      "date_iso": "2026-02-27T10:32:25+00:00",
+      "source": "https://www.nytimes.com/2026/02/27/world/asia/google-maps-south-korea.html",
+      "summary": "Unlike in most countries, Google Maps has not provided real-time driving or walking directions in South Korea."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/27/business/a-world-where-all-is-free-thats-elon-musks-theory-of-sustainable-abundance.html",
+      "title": "A World Where All Is Free? That’s Elon Musk’s Theory of ‘Sustainable Abundance.’",
+      "slug": "2026-02-27-a-world-where-all-is-free-that-s-elon-musk-s-theory-of-sustainable-abundance.html",
+      "path": "posts/2026-02-27-a-world-where-all-is-free-that-s-elon-musk-s-theory-of-sustainable-abundance.html",
+      "date_iso": "2026-02-27T10:02:42+00:00",
+      "source": "https://www.nytimes.com/2026/02/27/business/a-world-where-all-is-free-thats-elon-musks-theory-of-sustainable-abundance.html",
+      "summary": "The Tesla and SpaceX chief has told his followers that they will live in a world where robots will take care of every need and people do not have to work, in what has become his latest slogan."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/27/technology/elon-musk-companies-texas.html",
+      "title": "Elon Musk’s Secret Web of Companies in Texas",
+      "slug": "2026-02-27-elon-musk-s-secret-web-of-companies-in-texas.html",
+      "path": "posts/2026-02-27-elon-musk-s-secret-web-of-companies-in-texas.html",
+      "date_iso": "2026-02-27T10:00:35+00:00",
+      "source": "https://www.nytimes.com/2026/02/27/technology/elon-musk-companies-texas.html",
+      "summary": "The megabillionaire was tied to about 90 companies in the state, which he uses for everything from paying nannies to buying land to supporting Donald Trump’s re-election, according to a Times examination."
+    },
+    {
       "id": "https://www.nytimes.com/2026/02/27/technology/india-technology-jobs-ai.html",
       "title": "India Built the World’s Back Office. A.I. Is Starting to Shrink It.",
       "slug": "2026-02-27-india-built-the-world-s-back-office-a-i-is-starting-to-shrink-it.html",
