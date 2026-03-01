@@ -1,6 +1,177 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47202864",
+      "title": "The Science of Detecting LLM-Generated Text",
+      "slug": "2026-03-01-the-science-of-detecting-llm-generated-text.html",
+      "path": "posts/2026-03-01-the-science-of-detecting-llm-generated-text.html",
+      "date_iso": "2026-03-01T02:09:41+00:00",
+      "source": "https://dl.acm.org/doi/10.1145/3624725",
+      "summary": "Article URL: https://dl.acm.org/doi/10.1145/3624725 Comments URL: https://news.ycombinator.com/item?id=47202864 Points: 15 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47202808",
+      "title": "Samsung Galaxy update removes Android recovery menu tools, including sideloading",
+      "slug": "2026-03-01-samsung-galaxy-update-removes-android-recovery-menu-tools-including-sideloading.html",
+      "path": "posts/2026-03-01-samsung-galaxy-update-removes-android-recovery-menu-tools-including-sideloading.html",
+      "date_iso": "2026-03-01T01:59:00+00:00",
+      "source": "https://9to5google.com/2026/02/27/samsung-galaxy-update-android-recovery-menu-removed/",
+      "summary": "Article URL: https://9to5google.com/2026/02/27/samsung-galaxy-update-android-recovery-menu-removed/ Comments URL: https://news.ycombinator.com/item?id=47202808 Points: 87 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47202708",
+      "title": "Microgpt",
+      "slug": "2026-03-01-microgpt.html",
+      "path": "posts/2026-03-01-microgpt.html",
+      "date_iso": "2026-03-01T01:39:26+00:00",
+      "source": "http://karpathy.github.io/2026/02/12/microgpt/",
+      "summary": "Article URL: http://karpathy.github.io/2026/02/12/microgpt/ Comments URL: https://news.ycombinator.com/item?id=47202708 Points: 580 # Comments: 103"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/28/podcasts/hardfork-pentagon-anthropic-openai.html",
+      "title": "At the Pentagon, OpenAI is In and Anthropic Is Out",
+      "slug": "2026-03-01-at-the-pentagon-openai-is-in-and-anthropic-is-out.html",
+      "path": "posts/2026-03-01-at-the-pentagon-openai-is-in-and-anthropic-is-out.html",
+      "date_iso": "2026-03-01T00:18:15+00:00",
+      "source": "https://www.nytimes.com/2026/02/28/podcasts/hardfork-pentagon-anthropic-openai.html",
+      "summary": "It’s been a crazy 48 hours in the A.I. industry."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47201816",
+      "title": "Show HN: Xmloxide – an agent made rust replacement for libxml2",
+      "slug": "2026-02-28-show-hn-xmloxide-an-agent-made-rust-replacement-for-libxml2.html",
+      "path": "posts/2026-02-28-show-hn-xmloxide-an-agent-made-rust-replacement-for-libxml2.html",
+      "date_iso": "2026-02-28T23:44:41+00:00",
+      "source": "https://github.com/jonwiggins/xmloxide",
+      "summary": "Recently several AI labs have published experiments where they tried to get AI coding agents to complete large software projects. - Cursor attempted to make a browser from scratch: https://cursor.com/blog/scaling-agents - Anthropic attempted to make a C Compiler: https://www.ant…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47200904",
+      "title": "The Windows 95 user interface: A case study in usability engineering (1996)",
+      "slug": "2026-02-28-the-windows-95-user-interface-a-case-study-in-usability-engineering-1996.html",
+      "path": "posts/2026-02-28-the-windows-95-user-interface-a-case-study-in-usability-engineering-1996.html",
+      "date_iso": "2026-02-28T22:19:36+00:00",
+      "source": "https://dl.acm.org/doi/fullHtml/10.1145/238386.238611",
+      "summary": "Article URL: https://dl.acm.org/doi/fullHtml/10.1145/238386.238611 Comments URL: https://news.ycombinator.com/item?id=47200904 Points: 228 # Comments: 137"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47200828",
+      "title": "Building a Minimal Transformer for 10-digit Addition",
+      "slug": "2026-02-28-building-a-minimal-transformer-for-10-digit-addition.html",
+      "path": "posts/2026-02-28-building-a-minimal-transformer-for-10-digit-addition.html",
+      "date_iso": "2026-02-28T22:10:21+00:00",
+      "source": "https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition",
+      "summary": "Article URL: https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition Comments URL: https://news.ycombinator.com/item?id=47200828 Points: 51 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47200420",
+      "title": "We do not think Anthropic should be designated as a supply chain risk",
+      "slug": "2026-02-28-we-do-not-think-anthropic-should-be-designated-as-a-supply-chain-risk.html",
+      "path": "posts/2026-02-28-we-do-not-think-anthropic-should-be-designated-as-a-supply-chain-risk.html",
+      "date_iso": "2026-02-28T21:24:16+00:00",
+      "source": "https://twitter.com/OpenAI/status/2027846016423321831",
+      "summary": "Article URL: https://twitter.com/OpenAI/status/2027846016423321831 Comments URL: https://news.ycombinator.com/item?id=47200420 Points: 471 # Comments: 223"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47199948",
+      "title": "Our Agreement with the Department of War",
+      "slug": "2026-02-28-our-agreement-with-the-department-of-war.html",
+      "path": "posts/2026-02-28-our-agreement-with-the-department-of-war.html",
+      "date_iso": "2026-02-28T20:35:29+00:00",
+      "source": "https://openai.com/index/our-agreement-with-the-department-of-war",
+      "summary": "Article URL: https://openai.com/index/our-agreement-with-the-department-of-war Comments URL: https://news.ycombinator.com/item?id=47199948 Points: 275 # Comments: 211"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47199781",
+      "title": "Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers",
+      "slug": "2026-02-28-qwen3-5-122b-and-35b-models-offer-sonnet-4-5-performance-on-local-computers.html",
+      "path": "posts/2026-02-28-qwen3-5-122b-and-35b-models-offer-sonnet-4-5-performance-on-local-computers.html",
+      "date_iso": "2026-02-28T20:20:00+00:00",
+      "source": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
+      "summary": "Article URL: https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance Comments URL: https://news.ycombinator.com/item?id=47199781 Points: 317 # Comments: 192"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47198977",
+      "title": "Block the “Upgrade to Tahoe” Alerts",
+      "slug": "2026-02-28-block-the-upgrade-to-tahoe-alerts.html",
+      "path": "posts/2026-02-28-block-the-upgrade-to-tahoe-alerts.html",
+      "date_iso": "2026-02-28T19:04:01+00:00",
+      "source": "https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/",
+      "summary": "Article URL: https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/ Comments URL: https://news.ycombinator.com/item?id=47198977 Points: 196 # Comments: 95"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47197595",
+      "title": "Verified Spec-Driven Development (VSDD)",
+      "slug": "2026-02-28-verified-spec-driven-development-vsdd.html",
+      "path": "posts/2026-02-28-verified-spec-driven-development-vsdd.html",
+      "date_iso": "2026-02-28T16:58:54+00:00",
+      "source": "https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00",
+      "summary": "Article URL: https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00 Comments URL: https://news.ycombinator.com/item?id=47197595 Points: 173 # Comments: 93"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47197505",
+      "title": "The whole thing was a scam",
+      "slug": "2026-02-28-the-whole-thing-was-a-scam.html",
+      "path": "posts/2026-02-28-the-whole-thing-was-a-scam.html",
+      "date_iso": "2026-02-28T16:51:49+00:00",
+      "source": "https://garymarcus.substack.com/p/the-whole-thing-was-scam",
+      "summary": "Article URL: https://garymarcus.substack.com/p/the-whole-thing-was-scam Comments URL: https://news.ycombinator.com/item?id=47197505 Points: 741 # Comments: 226"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47197267",
+      "title": "Obsidian Sync now has a headless client",
+      "slug": "2026-02-28-obsidian-sync-now-has-a-headless-client.html",
+      "path": "posts/2026-02-28-obsidian-sync-now-has-a-headless-client.html",
+      "date_iso": "2026-02-28T16:31:53+00:00",
+      "source": "https://help.obsidian.md/sync/headless",
+      "summary": "Article URL: https://help.obsidian.md/sync/headless Comments URL: https://news.ycombinator.com/item?id=47197267 Points: 453 # Comments: 158"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47195371",
+      "title": "Addressing Antigravity Bans and Reinstating Access",
+      "slug": "2026-02-28-addressing-antigravity-bans-and-reinstating-access.html",
+      "path": "posts/2026-02-28-addressing-antigravity-bans-and-reinstating-access.html",
+      "date_iso": "2026-02-28T13:50:13+00:00",
+      "source": "https://github.com/google-gemini/gemini-cli/discussions/20632",
+      "summary": "Article URL: https://github.com/google-gemini/gemini-cli/discussions/20632 Comments URL: https://news.ycombinator.com/item?id=47195371 Points: 228 # Comments: 189"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47195123",
+      "title": "Show HN: Now I Get It – Translate scientific papers into interactive webpages",
+      "slug": "2026-02-28-show-hn-now-i-get-it-translate-scientific-papers-into-interactive-webpages.html",
+      "path": "posts/2026-02-28-show-hn-now-i-get-it-translate-scientific-papers-into-interactive-webpages.html",
+      "date_iso": "2026-02-28T13:29:36+00:00",
+      "source": "https://nowigetit.us",
+      "summary": "Understanding scientific articles can be tough, even in your own field. Trying to comprehend articles from others? Good luck. Enter, Now I Get It! I made this app for curious people. Simply upload an article and after a few minutes you'll have an interactive web page showcasing…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47193064",
+      "title": "MCP server that reduces Claude Code context consumption by 98%",
+      "slug": "2026-02-28-mcp-server-that-reduces-claude-code-context-consumption-by-98.html",
+      "path": "posts/2026-02-28-mcp-server-that-reduces-claude-code-context-consumption-by-98.html",
+      "date_iso": "2026-02-28T10:01:20+00:00",
+      "source": "https://mksg.lu/blog/context-mode",
+      "summary": "Article URL: https://mksg.lu/blog/context-mode Comments URL: https://news.ycombinator.com/item?id=47193064 Points: 338 # Comments: 76"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/02/28/fashion/watches-apiar-3d-printing.html",
+      "title": "The British Watch Brand Apiar Goes Beyond Traditional Constraints",
+      "slug": "2026-02-28-the-british-watch-brand-apiar-goes-beyond-traditional-constraints.html",
+      "path": "posts/2026-02-28-the-british-watch-brand-apiar-goes-beyond-traditional-constraints.html",
+      "date_iso": "2026-02-28T10:00:09+00:00",
+      "source": "https://www.nytimes.com/2026/02/28/fashion/watches-apiar-3d-printing.html",
+      "summary": "Sam White, right, said that he and Matt Oosthuizen were childhood friends who met “on the rugby pitch during the first week of secondary school.” Together, they founded Apiar in 2023."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47192505",
+      "title": "Unsloth Dynamic 2.0 GGUFs",
+      "slug": "2026-02-28-unsloth-dynamic-2-0-ggufs.html",
+      "path": "posts/2026-02-28-unsloth-dynamic-2-0-ggufs.html",
+      "date_iso": "2026-02-28T08:56:33+00:00",
+      "source": "https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs",
+      "summary": "Article URL: https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs Comments URL: https://news.ycombinator.com/item?id=47192505 Points: 220 # Comments: 61"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47191437",
       "title": "US and Israel carrying out strikes against Iran",
       "slug": "2026-02-28-us-and-israel-carrying-out-strikes-against-iran.html",
@@ -199,6 +370,15 @@
       "summary": "Article URL: https://www.ycombinator.com/companies/kyber/jobs/59yPaCs-enterprise-account-executive-ae Comments URL: https://news.ycombinator.com/item?id=47183907 Points: 0 # Comments: 0"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=47182986",
+      "title": "747s and Coding Agents",
+      "slug": "2026-02-27-747s-and-coding-agents.html",
+      "path": "posts/2026-02-27-747s-and-coding-agents.html",
+      "date_iso": "2026-02-27T17:22:00+00:00",
+      "source": "https://carlkolon.com/2026/02/27/engineering-747-coding-agents/",
+      "summary": "Article URL: https://carlkolon.com/2026/02/27/engineering-747-coding-agents/ Comments URL: https://news.ycombinator.com/item?id=47182986 Points: 143 # Comments: 68"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47182487",
       "title": "Allocating on the Stack",
       "slug": "2026-02-27-allocating-on-the-stack.html",
@@ -260,6 +440,15 @@
       "date_iso": "2026-02-27T10:00:35+00:00",
       "source": "https://www.nytimes.com/2026/02/27/technology/elon-musk-companies-texas.html",
       "summary": "The megabillionaire was tied to about 90 companies in the state, which he uses for everything from paying nannies to buying land to supporting Donald Trump’s re-election, according to a Times examination."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47178176",
+      "title": "Ubicloud (YC W24): Software Engineer – $95-$250K in Turkey, Netherlands, CA",
+      "slug": "2026-02-27-ubicloud-yc-w24-software-engineer-95-250k-in-turkey-netherlands-ca.html",
+      "path": "posts/2026-02-27-ubicloud-yc-w24-software-engineer-95-250k-in-turkey-netherlands-ca.html",
+      "date_iso": "2026-02-27T08:45:02+00:00",
+      "source": "https://www.ycombinator.com/companies/ubicloud/jobs/j4bntEJ-software-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/ubicloud/jobs/j4bntEJ-software-engineer Comments URL: https://news.ycombinator.com/item?id=47178176 Points: 0 # Comments: 0"
     },
     {
       "id": "https://www.nytimes.com/2026/02/27/technology/india-technology-jobs-ai.html",
