@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47214645",
+      "title": "Motorola announces a partnership with GrapheneOS Foundation",
+      "slug": "2026-03-02-motorola-announces-a-partnership-with-grapheneos-foundation.html",
+      "path": "posts/2026-03-02-motorola-announces-a-partnership-with-grapheneos-foundation.html",
+      "date_iso": "2026-03-02T06:48:07+00:00",
+      "source": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/",
+      "summary": "Article URL: https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/ Comments URL: https://news.ycombinator.com/item?id=47214645 Points: 99 # Comments: 27"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47214367",
+      "title": "An interactive intro to Elliptic Curve Cryptography",
+      "slug": "2026-03-02-an-interactive-intro-to-elliptic-curve-cryptography.html",
+      "path": "posts/2026-03-02-an-interactive-intro-to-elliptic-curve-cryptography.html",
+      "date_iso": "2026-03-02T05:59:03+00:00",
+      "source": "https://growingswe.com/blog/elliptic-curve-cryptography",
+      "summary": "Article URL: https://growingswe.com/blog/elliptic-curve-cryptography Comments URL: https://news.ycombinator.com/item?id=47214367 Points: 8 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47214250",
+      "title": "Evolving descriptive text of mental content from human brain activity",
+      "slug": "2026-03-02-evolving-descriptive-text-of-mental-content-from-human-brain-activity.html",
+      "path": "posts/2026-03-02-evolving-descriptive-text-of-mental-content-from-human-brain-activity.html",
+      "date_iso": "2026-03-02T05:39:36+00:00",
+      "source": "https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts Comments URL: https://news.ycombinator.com/item?id=47214250 Points: 14 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47214063",
+      "title": "Process-Based Concurrency: Why Beam and OTP Keep Being Right",
+      "slug": "2026-03-02-process-based-concurrency-why-beam-and-otp-keep-being-right.html",
+      "path": "posts/2026-03-02-process-based-concurrency-why-beam-and-otp-keep-being-right.html",
+      "date_iso": "2026-03-02T05:01:08+00:00",
+      "source": "https://variantsystems.io/blog/beam-otp-process-concurrency",
+      "summary": "Article URL: https://variantsystems.io/blog/beam-otp-process-concurrency Comments URL: https://news.ycombinator.com/item?id=47214063 Points: 13 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47213866",
+      "title": "Computer-generated dream world: Virtual reality for a 286 processor",
+      "slug": "2026-03-02-computer-generated-dream-world-virtual-reality-for-a-286-processor.html",
+      "path": "posts/2026-03-02-computer-generated-dream-world-virtual-reality-for-a-286-processor.html",
+      "date_iso": "2026-03-02T04:23:53+00:00",
+      "source": "https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/",
+      "summary": "Article URL: https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/ Comments URL: https://news.ycombinator.com/item?id=47213866 Points: 73 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47213819",
+      "title": "How to record and retrieve anything you've ever had to look up twice",
+      "slug": "2026-03-02-how-to-record-and-retrieve-anything-you-ve-ever-had-to-look-up-twice.html",
+      "path": "posts/2026-03-02-how-to-record-and-retrieve-anything-you-ve-ever-had-to-look-up-twice.html",
+      "date_iso": "2026-03-02T04:15:16+00:00",
+      "source": "https://ellanew.com/2026/03/02/ptpl-197-record-retrieve-from-a-personal-knowledgebase",
+      "summary": "Article URL: https://ellanew.com/2026/03/02/ptpl-197-record-retrieve-from-a-personal-knowledgebase Comments URL: https://news.ycombinator.com/item?id=47213819 Points: 31 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47213764",
+      "title": "Everett shuts down Flock camera network after judge rules footage public record",
+      "slug": "2026-03-02-everett-shuts-down-flock-camera-network-after-judge-rules-footage-public-record.html",
+      "path": "posts/2026-03-02-everett-shuts-down-flock-camera-network-after-judge-rules-footage-public-record.html",
+      "date_iso": "2026-03-02T04:06:00+00:00",
+      "source": "https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae",
+      "summary": "Article URL: https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae Comments URL: https://news.ycombinator.com/item?id=47213764 Points: 181 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47212576",
+      "title": "Show HN: Timber – Ollama for classical ML models, 336x faster than Python",
+      "slug": "2026-03-02-show-hn-timber-ollama-for-classical-ml-models-336x-faster-than-python.html",
+      "path": "posts/2026-03-02-show-hn-timber-ollama-for-classical-ml-models-336x-faster-than-python.html",
+      "date_iso": "2026-03-02T00:57:40+00:00",
+      "source": "https://github.com/kossisoroyce/timber",
+      "summary": "Article URL: https://github.com/kossisoroyce/timber Comments URL: https://news.ycombinator.com/item?id=47212576 Points: 109 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47212355",
+      "title": "If AI writes code, should the session be part of the commit?",
+      "slug": "2026-03-02-if-ai-writes-code-should-the-session-be-part-of-the-commit.html",
+      "path": "posts/2026-03-02-if-ai-writes-code-should-the-session-be-part-of-the-commit.html",
+      "date_iso": "2026-03-02T00:27:52+00:00",
+      "source": "https://github.com/mandel-macaque/memento",
+      "summary": "Article URL: https://github.com/mandel-macaque/memento Comments URL: https://news.ycombinator.com/item?id=47212355 Points: 178 # Comments: 190"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47211830",
+      "title": "Right-sizes LLM models to your system's RAM, CPU, and GPU",
+      "slug": "2026-03-01-right-sizes-llm-models-to-your-system-s-ram-cpu-and-gpu.html",
+      "path": "posts/2026-03-01-right-sizes-llm-models-to-your-system-s-ram-cpu-and-gpu.html",
+      "date_iso": "2026-03-01T23:15:16+00:00",
+      "source": "https://github.com/AlexsJones/llmfit",
+      "summary": "Article URL: https://github.com/AlexsJones/llmfit Comments URL: https://news.ycombinator.com/item?id=47211830 Points: 105 # Comments: 27"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47211280",
+      "title": "Little Free Library",
+      "slug": "2026-03-01-little-free-library.html",
+      "path": "posts/2026-03-01-little-free-library.html",
+      "date_iso": "2026-03-01T22:18:10+00:00",
+      "source": "https://littlefreelibrary.org/",
+      "summary": "Article URL: https://littlefreelibrary.org/ Comments URL: https://news.ycombinator.com/item?id=47211280 Points: 110 # Comments: 52"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47211249",
+      "title": "WebMCP is available for early preview",
+      "slug": "2026-03-01-webmcp-is-available-for-early-preview.html",
+      "path": "posts/2026-03-01-webmcp-is-available-for-early-preview.html",
+      "date_iso": "2026-03-01T22:13:58+00:00",
+      "source": "https://developer.chrome.com/blog/webmcp-epp",
+      "summary": "Article URL: https://developer.chrome.com/blog/webmcp-epp Comments URL: https://news.ycombinator.com/item?id=47211249 Points: 260 # Comments: 145"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/01/technology/anthropic-defense-dept-openai-talks.html",
+      "title": "How Talks Between Anthropic and the Defense Dept. Fell Apart",
+      "slug": "2026-03-01-how-talks-between-anthropic-and-the-defense-dept-fell-apart.html",
+      "path": "posts/2026-03-01-how-talks-between-anthropic-and-the-defense-dept-fell-apart.html",
+      "date_iso": "2026-03-01T20:47:22+00:00",
+      "source": "https://www.nytimes.com/2026/03/01/technology/anthropic-defense-dept-openai-talks.html",
+      "summary": "In January, Defense Secretary Pete Hegseth published a memo calling on A.I. to be widely integrated across the military and for A.I. companies to offer their technology without restrictions."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47209788",
+      "title": "Why does C have the best file API",
+      "slug": "2026-03-01-why-does-c-have-the-best-file-api.html",
+      "path": "posts/2026-03-01-why-does-c-have-the-best-file-api.html",
+      "date_iso": "2026-03-01T19:25:04+00:00",
+      "source": "https://maurycyz.com/misc/c_files/",
+      "summary": "Article URL: https://maurycyz.com/misc/c_files/ Comments URL: https://news.ycombinator.com/item?id=47209788 Points: 102 # Comments: 71"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47208398",
+      "title": "When does MCP make sense vs CLI?",
+      "slug": "2026-03-01-when-does-mcp-make-sense-vs-cli.html",
+      "path": "posts/2026-03-01-when-does-mcp-make-sense-vs-cli.html",
+      "date_iso": "2026-03-01T16:54:49+00:00",
+      "source": "https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html",
+      "summary": "Article URL: https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html Comments URL: https://news.ycombinator.com/item?id=47208398 Points: 363 # Comments: 228"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47207806",
+      "title": "Show HN: Audio Toolkit for Agents",
+      "slug": "2026-03-01-show-hn-audio-toolkit-for-agents.html",
+      "path": "posts/2026-03-01-show-hn-audio-toolkit-for-agents.html",
+      "date_iso": "2026-03-01T15:52:02+00:00",
+      "source": "https://github.com/shiehn/sas-audio-processor",
+      "summary": "Article URL: https://github.com/shiehn/sas-audio-processor Comments URL: https://news.ycombinator.com/item?id=47207806 Points: 55 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47207236",
+      "title": "Why XML tags are so fundamental to Claude",
+      "slug": "2026-03-01-why-xml-tags-are-so-fundamental-to-claude.html",
+      "path": "posts/2026-03-01-why-xml-tags-are-so-fundamental-to-claude.html",
+      "date_iso": "2026-03-01T14:52:22+00:00",
+      "source": "https://glthr.com/XML-fundamental-to-Claude",
+      "summary": "Article URL: https://glthr.com/XML-fundamental-to-Claude Comments URL: https://news.ycombinator.com/item?id=47207236 Points: 195 # Comments: 132"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47206798",
+      "title": "Ape Coding [fiction]",
+      "slug": "2026-03-01-ape-coding-fiction.html",
+      "path": "posts/2026-03-01-ape-coding-fiction.html",
+      "date_iso": "2026-03-01T14:07:05+00:00",
+      "source": "https://rsaksida.com/blog/ape-coding/",
+      "summary": "Article URL: https://rsaksida.com/blog/ape-coding/ Comments URL: https://news.ycombinator.com/item?id=47206798 Points: 166 # Comments: 112"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47206009",
+      "title": "Ghostty – Terminal Emulator",
+      "slug": "2026-03-01-ghostty-terminal-emulator.html",
+      "path": "posts/2026-03-01-ghostty-terminal-emulator.html",
+      "date_iso": "2026-03-01T12:13:03+00:00",
+      "source": "https://ghostty.org/docs",
+      "summary": "Article URL: https://ghostty.org/docs Comments URL: https://news.ycombinator.com/item?id=47206009 Points: 703 # Comments: 304"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47205637",
+      "title": "Flightradar24 for Ships",
+      "slug": "2026-03-01-flightradar24-for-ships.html",
+      "path": "posts/2026-03-01-flightradar24-for-ships.html",
+      "date_iso": "2026-03-01T11:01:17+00:00",
+      "source": "https://atlas.flexport.com/",
+      "summary": "Article URL: https://atlas.flexport.com/ Comments URL: https://news.ycombinator.com/item?id=47205637 Points: 217 # Comments: 46"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/01/technology/apple-ipod-music-comeback.html",
+      "title": "Bring On Defunct: The iPod Enthralls Young Music Listeners",
+      "slug": "2026-03-01-bring-on-defunct-the-ipod-enthralls-young-music-listeners.html",
+      "path": "posts/2026-03-01-bring-on-defunct-the-ipod-enthralls-young-music-listeners.html",
+      "date_iso": "2026-03-01T10:01:10+00:00",
+      "source": "https://www.nytimes.com/2026/03/01/technology/apple-ipod-music-comeback.html",
+      "summary": "It’s not exactly going analog, but people looking to move away from streaming say Apple’s old device is a small step away from constantly being online."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47205208",
+      "title": "Microgpt explained interactively",
+      "slug": "2026-03-01-microgpt-explained-interactively.html",
+      "path": "posts/2026-03-01-microgpt-explained-interactively.html",
+      "date_iso": "2026-03-01T09:43:43+00:00",
+      "source": "https://growingswe.com/blog/microgpt",
+      "summary": "Article URL: https://growingswe.com/blog/microgpt Comments URL: https://news.ycombinator.com/item?id=47205208 Points: 258 # Comments: 37"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47202864",
       "title": "The Science of Detecting LLM-Generated Text",
       "slug": "2026-03-01-the-science-of-detecting-llm-generated-text.html",
