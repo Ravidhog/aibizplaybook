@@ -1,6 +1,213 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47228639",
+      "title": "Buckle Up for Bumpier Skies",
+      "slug": "2026-03-03-buckle-up-for-bumpier-skies.html",
+      "path": "posts/2026-03-03-buckle-up-for-bumpier-skies.html",
+      "date_iso": "2026-03-03T05:51:02+00:00",
+      "source": "https://www.newyorker.com/magazine/2026/03/09/buckle-up-for-bumpier-skies",
+      "summary": "Article URL: https://www.newyorker.com/magazine/2026/03/09/buckle-up-for-bumpier-skies Comments URL: https://news.ycombinator.com/item?id=47228639 Points: 16 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47228390",
+      "title": "Daily Driving GrapheneOS",
+      "slug": "2026-03-03-daily-driving-grapheneos.html",
+      "path": "posts/2026-03-03-daily-driving-grapheneos.html",
+      "date_iso": "2026-03-03T05:18:24+00:00",
+      "source": "https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/",
+      "summary": "Article URL: https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/ Comments URL: https://news.ycombinator.com/item?id=47228390 Points: 59 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47227999",
+      "title": "Intent-Based Commits",
+      "slug": "2026-03-03-intent-based-commits.html",
+      "path": "posts/2026-03-03-intent-based-commits.html",
+      "date_iso": "2026-03-03T04:20:37+00:00",
+      "source": "https://github.com/adamveld12/ghost",
+      "summary": "Article URL: https://github.com/adamveld12/ghost Comments URL: https://news.ycombinator.com/item?id=47227999 Points: 34 # Comments: 21"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/02/technology/openai-pentagon-deal-amended-surveillance.html",
+      "title": "OpenAI Amends A.I. Deal With the Pentagon",
+      "slug": "2026-03-03-openai-amends-a-i-deal-with-the-pentagon.html",
+      "path": "posts/2026-03-03-openai-amends-a-i-deal-with-the-pentagon.html",
+      "date_iso": "2026-03-03T03:57:04+00:00",
+      "source": "https://www.nytimes.com/2026/03/02/technology/openai-pentagon-deal-amended-surveillance.html",
+      "summary": "“It’s critical to protect the civil liberties of Americans, and there was so much focus on this, that we wanted to make this point especially clear,” OpenAI’s chief executive, Sam Altman, center, wrote on social media."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47227647",
+      "title": "Elevated Errors in Claude.ai",
+      "slug": "2026-03-03-elevated-errors-in-claude-ai.html",
+      "path": "posts/2026-03-03-elevated-errors-in-claude-ai.html",
+      "date_iso": "2026-03-03T03:31:07+00:00",
+      "source": "https://status.claude.com/incidents/yf48hzysrvl5",
+      "summary": "Article URL: https://status.claude.com/incidents/yf48hzysrvl5 Comments URL: https://news.ycombinator.com/item?id=47227647 Points: 88 # Comments: 67"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47227078",
+      "title": "The Excommunicated Devs Making Games with AI",
+      "slug": "2026-03-03-the-excommunicated-devs-making-games-with-ai.html",
+      "path": "posts/2026-03-03-the-excommunicated-devs-making-games-with-ai.html",
+      "date_iso": "2026-03-03T02:16:52+00:00",
+      "source": "https://www.tyleo.com/blog/the-excommunicated-devs-making-games-with-ai",
+      "summary": "Article URL: https://www.tyleo.com/blog/the-excommunicated-devs-making-games-with-ai Comments URL: https://news.ycombinator.com/item?id=47227078 Points: 44 # Comments: 28"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47226608",
+      "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
+      "slug": "2026-03-03-ars-technica-fires-reporter-after-ai-controversy-involving-fabricated-quotes.html",
+      "path": "posts/2026-03-03-ars-technica-fires-reporter-after-ai-controversy-involving-fabricated-quotes.html",
+      "date_iso": "2026-03-03T01:12:30+00:00",
+      "source": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
+      "summary": "Article URL: https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes Comments URL: https://news.ycombinator.com/item?id=47226608 Points: 205 # Comments: 128"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/02/technology/pentagon-anduril-palmer-luckey.html",
+      "title": "The Pentagon’s Favorite Tech Guy Is This Hawaiian Shirt-Wearing Founder",
+      "slug": "2026-03-02-the-pentagon-s-favorite-tech-guy-is-this-hawaiian-shirt-wearing-founder.html",
+      "path": "posts/2026-03-02-the-pentagon-s-favorite-tech-guy-is-this-hawaiian-shirt-wearing-founder.html",
+      "date_iso": "2026-03-02T23:40:11+00:00",
+      "source": "https://www.nytimes.com/2026/03/02/technology/pentagon-anduril-palmer-luckey.html",
+      "summary": "Palmer Luckey, who founded the defense tech start-up Anduril, has become the It Guy as President Trump aims to modernize the U.S. military with autonomous weapons."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47225726",
+      "title": "Physicists developing a quantum computer that’s entirely open source",
+      "slug": "2026-03-02-physicists-developing-a-quantum-computer-that-s-entirely-open-source.html",
+      "path": "posts/2026-03-02-physicists-developing-a-quantum-computer-that-s-entirely-open-source.html",
+      "date_iso": "2026-03-02T23:22:50+00:00",
+      "source": "https://physics.aps.org/articles/v19/24",
+      "summary": "Article URL: https://physics.aps.org/articles/v19/24 Comments URL: https://news.ycombinator.com/item?id=47225726 Points: 90 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47225318",
+      "title": "Seed of Might Color Correction Process (2023) [pdf]",
+      "slug": "2026-03-02-seed-of-might-color-correction-process-2023-pdf.html",
+      "path": "posts/2026-03-02-seed-of-might-color-correction-process-2023-pdf.html",
+      "date_iso": "2026-03-02T22:49:47+00:00",
+      "source": "https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf",
+      "summary": "Article URL: https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf Comments URL: https://news.ycombinator.com/item?id=47225318 Points: 84 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47225130",
+      "title": "Meta’s AI smart glasses and data privacy concerns",
+      "slug": "2026-03-02-meta-s-ai-smart-glasses-and-data-privacy-concerns.html",
+      "path": "posts/2026-03-02-meta-s-ai-smart-glasses-and-data-privacy-concerns.html",
+      "date_iso": "2026-03-02T22:32:35+00:00",
+      "source": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
+      "summary": "Article URL: https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything Comments URL: https://news.ycombinator.com/item?id=47225130 Points: 965 # Comments: 550"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47224832",
+      "title": "The 185-Microsecond Type Hint",
+      "slug": "2026-03-02-the-185-microsecond-type-hint.html",
+      "path": "posts/2026-03-02-the-185-microsecond-type-hint.html",
+      "date_iso": "2026-03-02T22:04:56+00:00",
+      "source": "https://blog.sturdystatistics.com/posts/type_hint/",
+      "summary": "Article URL: https://blog.sturdystatistics.com/posts/type_hint/ Comments URL: https://news.ycombinator.com/item?id=47224832 Points: 66 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47224295",
+      "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
+      "slug": "2026-03-02-show-hn-i-built-a-sub-500ms-latency-voice-agent-from-scratch.html",
+      "path": "posts/2026-03-02-show-hn-i-built-a-sub-500ms-latency-voice-agent-from-scratch.html",
+      "date_iso": "2026-03-02T21:23:40+00:00",
+      "source": "https://www.ntik.me/posts/voice-agent",
+      "summary": "I built a voice agent from scratch that averages ~400ms end-to-end latency (phone stop → first syllable). That’s with full STT → LLM → TTS in the loop, clean barge-ins, and no precomputed responses. What moved the needle: Voice is a turn-taking problem, not a transcription probl…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47223620",
+      "title": "British Columbia is permanently adopting daylight time",
+      "slug": "2026-03-02-british-columbia-is-permanently-adopting-daylight-time.html",
+      "path": "posts/2026-03-02-british-columbia-is-permanently-adopting-daylight-time.html",
+      "date_iso": "2026-03-02T20:30:52+00:00",
+      "source": "https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657",
+      "summary": "Article URL: https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657 Comments URL: https://news.ycombinator.com/item?id=47223620 Points: 726 # Comments: 362"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/02/technology/paramount-deal-approval.html",
+      "title": "Paramount Won Over Warner Bros. Now for the Regulators.",
+      "slug": "2026-03-02-paramount-won-over-warner-bros-now-for-the-regulators.html",
+      "path": "posts/2026-03-02-paramount-won-over-warner-bros-now-for-the-regulators.html",
+      "date_iso": "2026-03-02T19:16:46+00:00",
+      "source": "https://www.nytimes.com/2026/03/02/technology/paramount-deal-approval.html",
+      "summary": "Tourists outside Warner Bros. Studio Tour in Burbank, Calif."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47220809",
+      "title": "Show HN: Govbase – Follow a bill from source text to news bias to social posts",
+      "slug": "2026-03-02-show-hn-govbase-follow-a-bill-from-source-text-to-news-bias-to-social-posts.html",
+      "path": "posts/2026-03-02-show-hn-govbase-follow-a-bill-from-source-text-to-news-bias-to-social-posts.html",
+      "date_iso": "2026-03-02T17:08:53+00:00",
+      "source": "https://govbase.com",
+      "summary": "Govbase tracks every bill, executive order, and federal regulation from official sources (Congress.gov, Federal Register, White House). An AI pipeline breaks each one down into plain-language summaries and shows who it impacts by demographic group. It also ties each policy direc…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47220666",
+      "title": "Reflex (YC W23) Is Hiring Software Engineers – Python",
+      "slug": "2026-03-02-reflex-yc-w23-is-hiring-software-engineers-python.html",
+      "path": "posts/2026-03-02-reflex-yc-w23-is-hiring-software-engineers-python.html",
+      "date_iso": "2026-03-02T17:01:20+00:00",
+      "source": "https://www.ycombinator.com/companies/reflex/jobs",
+      "summary": "Article URL: https://www.ycombinator.com/companies/reflex/jobs Comments URL: https://news.ycombinator.com/item?id=47220666 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47220320",
+      "title": "Launch HN: OctaPulse (YC W26) – Robotics and computer vision for fish farming",
+      "slug": "2026-03-02-launch-hn-octapulse-yc-w26-robotics-and-computer-vision-for-fish-farming.html",
+      "path": "posts/2026-03-02-launch-hn-octapulse-yc-w26-robotics-and-computer-vision-for-fish-farming.html",
+      "date_iso": "2026-03-02T16:39:21+00:00",
+      "source": "https://news.ycombinator.com/item?id=47220320",
+      "summary": "Hi HN! My name is Rohan and, together with Paul, I’m the co-founder of OctaPulse ( https://www.tryoctapulse.com/ ). We’re building a robotics layer for seafood production, starting with automated fish inspection. We are currently deployed at our first production site with the la…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/02/insider/journalism-reporting-seeking-comment.html",
+      "title": "Reporters Seek Comment. What Happens Next May Surprise You.",
+      "slug": "2026-03-02-reporters-seek-comment-what-happens-next-may-surprise-you.html",
+      "path": "posts/2026-03-02-reporters-seek-comment-what-happens-next-may-surprise-you.html",
+      "date_iso": "2026-03-02T16:38:12+00:00",
+      "source": "https://www.nytimes.com/2026/03/02/insider/journalism-reporting-seeking-comment.html",
+      "summary": "Accurate journalism requires full and fair reporting. It means pushing hard to hear from those you’re writing about."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47219668",
+      "title": "Ask HN: Who is hiring? (March 2026)",
+      "slug": "2026-03-02-ask-hn-who-is-hiring-march-2026.html",
+      "path": "posts/2026-03-02-ask-hn-who-is-hiring-march-2026.html",
+      "date_iso": "2026-03-02T16:00:27+00:00",
+      "source": "https://news.ycombinator.com/item?id=47219668",
+      "summary": "Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option. Please only post if you personally are part of the hiring company—no recruiting firms or job boards. One post per comp…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47218743",
+      "title": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
+      "slug": "2026-03-02-first-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study.html",
+      "path": "posts/2026-03-02-first-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study.html",
+      "date_iso": "2026-03-02T14:54:58+00:00",
+      "source": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
+      "summary": "Article URL: https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02 Comments URL: https://news.ycombinator.com/item?id=47218743 Points: 292 # Comments: 51"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47218175",
+      "title": "New iPad Air, powered by M4",
+      "slug": "2026-03-02-new-ipad-air-powered-by-m4.html",
+      "path": "posts/2026-03-02-new-ipad-air-powered-by-m4.html",
+      "date_iso": "2026-03-02T14:11:23+00:00",
+      "source": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/ Comments URL: https://news.ycombinator.com/item?id=47218175 Points: 371 # Comments: 597"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47218084",
+      "title": "iPhone 17e",
+      "slug": "2026-03-02-iphone-17e.html",
+      "path": "posts/2026-03-02-iphone-17e.html",
+      "date_iso": "2026-03-02T14:03:00+00:00",
+      "source": "https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/",
+      "summary": "https://www.apple.com/iphone-17e/ Comments URL: https://news.ycombinator.com/item?id=47218084 Points: 257 # Comments: 360"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47214645",
       "title": "Motorola announces a partnership with GrapheneOS Foundation",
       "slug": "2026-03-02-motorola-announces-a-partnership-with-grapheneos-foundation.html",
