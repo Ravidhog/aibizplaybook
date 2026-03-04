@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47243804",
+      "title": "Better JIT for Postgres",
+      "slug": "2026-03-04-better-jit-for-postgres.html",
+      "path": "posts/2026-03-04-better-jit-for-postgres.html",
+      "date_iso": "2026-03-04T06:17:10+00:00",
+      "source": "https://github.com/vladich/pg_jitter",
+      "summary": "Article URL: https://github.com/vladich/pg_jitter Comments URL: https://news.ycombinator.com/item?id=47243804 Points: 7 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47243272",
+      "title": "Agentic Engineering Patterns",
+      "slug": "2026-03-04-agentic-engineering-patterns.html",
+      "path": "posts/2026-03-04-agentic-engineering-patterns.html",
+      "date_iso": "2026-03-04T05:00:37+00:00",
+      "source": "https://simonwillison.net/guides/agentic-engineering-patterns/",
+      "summary": "Article URL: https://simonwillison.net/guides/agentic-engineering-patterns/ Comments URL: https://news.ycombinator.com/item?id=47243272 Points: 29 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47243069",
+      "title": "A CPU that runs entirely on GPU",
+      "slug": "2026-03-04-a-cpu-that-runs-entirely-on-gpu.html",
+      "path": "posts/2026-03-04-a-cpu-that-runs-entirely-on-gpu.html",
+      "date_iso": "2026-03-04T04:30:32+00:00",
+      "source": "https://github.com/robertcprice/nCPU",
+      "summary": "Article URL: https://github.com/robertcprice/nCPU Comments URL: https://news.ycombinator.com/item?id=47243069 Points: 43 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47242765",
+      "title": "Nobody Gets Promoted for Simplicity",
+      "slug": "2026-03-04-nobody-gets-promoted-for-simplicity.html",
+      "path": "posts/2026-03-04-nobody-gets-promoted-for-simplicity.html",
+      "date_iso": "2026-03-04T03:40:18+00:00",
+      "source": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/",
+      "summary": "Article URL: https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/ Comments URL: https://news.ycombinator.com/item?id=47242765 Points: 199 # Comments: 79"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47242739",
+      "title": "Giving LLMs a personality is just good engineering",
+      "slug": "2026-03-04-giving-llms-a-personality-is-just-good-engineering.html",
+      "path": "posts/2026-03-04-giving-llms-a-personality-is-just-good-engineering.html",
+      "date_iso": "2026-03-04T03:37:48+00:00",
+      "source": "https://www.seangoedecke.com/giving-llms-a-personality/",
+      "summary": "Article URL: https://www.seangoedecke.com/giving-llms-a-personality/ Comments URL: https://news.ycombinator.com/item?id=47242739 Points: 11 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47242725",
+      "title": "California's Digital Age Assurance Act, and FOSS",
+      "slug": "2026-03-04-california-s-digital-age-assurance-act-and-foss.html",
+      "path": "posts/2026-03-04-california-s-digital-age-assurance-act-and-foss.html",
+      "date_iso": "2026-03-04T03:36:18+00:00",
+      "source": "https://runxiyu.org/comp/ab1043/",
+      "summary": "Article URL: https://runxiyu.org/comp/ab1043/ Comments URL: https://news.ycombinator.com/item?id=47242725 Points: 82 # Comments: 66"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47242637",
+      "title": "Speculative Speculative Decoding (SSD)",
+      "slug": "2026-03-04-speculative-speculative-decoding-ssd.html",
+      "path": "posts/2026-03-04-speculative-speculative-decoding-ssd.html",
+      "date_iso": "2026-03-04T03:24:20+00:00",
+      "source": "https://arxiv.org/abs/2603.03251",
+      "summary": "Article URL: https://arxiv.org/abs/2603.03251 Comments URL: https://news.ycombinator.com/item?id=47242637 Points: 36 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47242342",
+      "title": "Mac external displays for designers and developers, part 2 (2022)",
+      "slug": "2026-03-04-mac-external-displays-for-designers-and-developers-part-2-2022.html",
+      "path": "posts/2026-03-04-mac-external-displays-for-designers-and-developers-part-2-2022.html",
+      "date_iso": "2026-03-04T02:43:05+00:00",
+      "source": "https://bjango.com/articles/macexternaldisplays2/",
+      "summary": "Article URL: https://bjango.com/articles/macexternaldisplays2/ Comments URL: https://news.ycombinator.com/item?id=47242342 Points: 34 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47242277",
+      "title": "Number Research Inc",
+      "slug": "2026-03-04-number-research-inc.html",
+      "path": "posts/2026-03-04-number-research-inc.html",
+      "date_iso": "2026-03-04T02:34:06+00:00",
+      "source": "https://numberresearch.xyz/",
+      "summary": "Article URL: https://numberresearch.xyz/ Comments URL: https://news.ycombinator.com/item?id=47242277 Points: 25 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47242193",
+      "title": "Graphics Programming Resources",
+      "slug": "2026-03-04-graphics-programming-resources.html",
+      "path": "posts/2026-03-04-graphics-programming-resources.html",
+      "date_iso": "2026-03-04T02:23:01+00:00",
+      "source": "https://develop--gpvm-website.netlify.app/resources/",
+      "summary": "Article URL: https://develop--gpvm-website.netlify.app/resources/ Comments URL: https://news.ycombinator.com/item?id=47242193 Points: 66 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47241976",
+      "title": "Weave – A language aware merge algorithm based on entities",
+      "slug": "2026-03-04-weave-a-language-aware-merge-algorithm-based-on-entities.html",
+      "path": "posts/2026-03-04-weave-a-language-aware-merge-algorithm-based-on-entities.html",
+      "date_iso": "2026-03-04T01:52:21+00:00",
+      "source": "https://github.com/Ataraxy-Labs/weave",
+      "summary": "Article URL: https://github.com/Ataraxy-Labs/weave Comments URL: https://news.ycombinator.com/item?id=47241976 Points: 101 # Comments: 58"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47241817",
+      "title": "TikTok will not introduce end-to-end encryption, saying it makes users less safe",
+      "slug": "2026-03-04-tiktok-will-not-introduce-end-to-end-encryption-saying-it-makes-users-less-safe.html",
+      "path": "posts/2026-03-04-tiktok-will-not-introduce-end-to-end-encryption-saying-it-makes-users-less-safe.html",
+      "date_iso": "2026-03-04T01:31:05+00:00",
+      "source": "https://www.bbc.com/news/articles/cly2m5e5ke4o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cly2m5e5ke4o Comments URL: https://news.ycombinator.com/item?id=47241817 Points: 150 # Comments: 92"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47241788",
+      "title": "The largest acidic geyser has been putting on quite a show",
+      "slug": "2026-03-04-the-largest-acidic-geyser-has-been-putting-on-quite-a-show.html",
+      "path": "posts/2026-03-04-the-largest-acidic-geyser-has-been-putting-on-quite-a-show.html",
+      "date_iso": "2026-03-04T01:27:06+00:00",
+      "source": "https://www.usgs.gov/observatories/yvo/news/echinus-geyser-back-action-now",
+      "summary": "Article URL: https://www.usgs.gov/observatories/yvo/news/echinus-geyser-back-action-now Comments URL: https://news.ycombinator.com/item?id=47241788 Points: 43 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47241551",
+      "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
+      "slug": "2026-03-04-motorola-grapheneos-devices-will-be-bootloader-unlockable-relockable.html",
+      "path": "posts/2026-03-04-motorola-grapheneos-devices-will-be-bootloader-unlockable-relockable.html",
+      "date_iso": "2026-03-04T00:58:31+00:00",
+      "source": "https://grapheneos.social/@GrapheneOS/116160393783585567",
+      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/116160393783585567 Comments URL: https://news.ycombinator.com/item?id=47241551 Points: 445 # Comments: 110"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/03/business/ford-gm-ev-self-driving-cars-china.html",
+      "title": "Ford and G.M. Face a Dilemma as China Excels in Electric Vehicles",
+      "slug": "2026-03-03-ford-and-g-m-face-a-dilemma-as-china-excels-in-electric-vehicles.html",
+      "path": "posts/2026-03-03-ford-and-g-m-face-a-dilemma-as-china-excels-in-electric-vehicles.html",
+      "date_iso": "2026-03-03T23:38:36+00:00",
+      "source": "https://www.nytimes.com/2026/03/03/business/ford-gm-ev-self-driving-cars-china.html",
+      "summary": "A Ford Motor factory in Wayne, Mich. U.S. automakers are facing difficult choices."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47240736",
+      "title": "My spicy take on vibe coding for PMs",
+      "slug": "2026-03-03-my-spicy-take-on-vibe-coding-for-pms.html",
+      "path": "posts/2026-03-03-my-spicy-take-on-vibe-coding-for-pms.html",
+      "date_iso": "2026-03-03T23:38:21+00:00",
+      "source": "https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/",
+      "summary": "Article URL: https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/ Comments URL: https://news.ycombinator.com/item?id=47240736 Points: 63 # Comments: 53"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47239042",
+      "title": "Voxile: A ray-traced game made in its own engine and programming language",
+      "slug": "2026-03-03-voxile-a-ray-traced-game-made-in-its-own-engine-and-programming-language.html",
+      "path": "posts/2026-03-03-voxile-a-ray-traced-game-made-in-its-own-engine-and-programming-language.html",
+      "date_iso": "2026-03-03T21:10:27+00:00",
+      "source": "https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update",
+      "summary": "Article URL: https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update Comments URL: https://news.ycombinator.com/item?id=47239042 Points: 168 # Comments: 47"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47237460",
+      "title": "An Interactive Intro to CRDTs (2023)",
+      "slug": "2026-03-03-an-interactive-intro-to-crdts-2023.html",
+      "path": "posts/2026-03-03-an-interactive-intro-to-crdts-2023.html",
+      "date_iso": "2026-03-03T19:22:32+00:00",
+      "source": "https://jakelazaroff.com/words/an-interactive-intro-to-crdts/",
+      "summary": "Article URL: https://jakelazaroff.com/words/an-interactive-intro-to-crdts/ Comments URL: https://news.ycombinator.com/item?id=47237460 Points: 125 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47236958",
+      "title": "Intel's make-or-break 18A process node debuts for data center with 288-core Xeon",
+      "slug": "2026-03-03-intel-s-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon.html",
+      "path": "posts/2026-03-03-intel-s-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon.html",
+      "date_iso": "2026-03-03T18:54:06+00:00",
+      "source": "https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech",
+      "summary": "Article URL: https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech Comments URL: https://news.ycombinator.com/item?…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47236169",
+      "title": "GPT‑5.3 Instant",
+      "slug": "2026-03-03-gpt-5-3-instant.html",
+      "path": "posts/2026-03-03-gpt-5-3-instant.html",
+      "date_iso": "2026-03-03T17:57:33+00:00",
+      "source": "https://openai.com/index/gpt-5-3-instant/",
+      "summary": "Article URL: https://openai.com/index/gpt-5-3-instant/ Comments URL: https://news.ycombinator.com/item?id=47236169 Points: 334 # Comments: 262"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47234917",
+      "title": "When AI writes the software, who verifies it?",
+      "slug": "2026-03-03-when-ai-writes-the-software-who-verifies-it.html",
+      "path": "posts/2026-03-03-when-ai-writes-the-software-who-verifies-it.html",
+      "date_iso": "2026-03-03T16:34:53+00:00",
+      "source": "https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html",
+      "summary": "Article URL: https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html Comments URL: https://news.ycombinator.com/item?id=47234917 Points: 206 # Comments: 205"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47228639",
       "title": "Buckle Up for Bumpier Skies",
       "slug": "2026-03-03-buckle-up-for-bumpier-skies.html",
