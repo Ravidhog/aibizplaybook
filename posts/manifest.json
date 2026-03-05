@@ -1,6 +1,222 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47258455",
+      "title": "The Self-Help Trap: What 20 Years of \"Optimizing\" Has Taught Me",
+      "slug": "2026-03-05-the-self-help-trap-what-20-years-of-optimizing-has-taught-me.html",
+      "path": "posts/2026-03-05-the-self-help-trap-what-20-years-of-optimizing-has-taught-me.html",
+      "date_iso": "2026-03-05T06:59:30+00:00",
+      "source": "https://tim.blog/2026/03/04/the-self-help-trap/",
+      "summary": "Article URL: https://tim.blog/2026/03/04/the-self-help-trap/ Comments URL: https://news.ycombinator.com/item?id=47258455 Points: 6 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47258076",
+      "title": "Relax NG is a schema language for XML",
+      "slug": "2026-03-05-relax-ng-is-a-schema-language-for-xml.html",
+      "path": "posts/2026-03-05-relax-ng-is-a-schema-language-for-xml.html",
+      "date_iso": "2026-03-05T06:01:18+00:00",
+      "source": "https://relaxng.org/",
+      "summary": "Article URL: https://relaxng.org/ Comments URL: https://news.ycombinator.com/item?id=47258076 Points: 12 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47258064",
+      "title": "Zed new terms required to be 18 years old",
+      "slug": "2026-03-05-zed-new-terms-required-to-be-18-years-old.html",
+      "path": "posts/2026-03-05-zed-new-terms-required-to-be-18-years-old.html",
+      "date_iso": "2026-03-05T05:59:37+00:00",
+      "source": "https://zed.dev/terms",
+      "summary": "Article URL: https://zed.dev/terms Comments URL: https://news.ycombinator.com/item?id=47258064 Points: 28 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47257803",
+      "title": "Relicensing with AI-Assisted Rewrite",
+      "slug": "2026-03-05-relicensing-with-ai-assisted-rewrite.html",
+      "path": "posts/2026-03-05-relicensing-with-ai-assisted-rewrite.html",
+      "date_iso": "2026-03-05T05:07:33+00:00",
+      "source": "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/",
+      "summary": "Article URL: https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/ Comments URL: https://news.ycombinator.com/item?id=47257803 Points: 64 # Comments: 52"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47257637",
+      "title": "You Just Reveived",
+      "slug": "2026-03-05-you-just-reveived.html",
+      "path": "posts/2026-03-05-you-just-reveived.html",
+      "date_iso": "2026-03-05T04:37:43+00:00",
+      "source": "https://dylan.gr/1772520728",
+      "summary": "Article URL: https://dylan.gr/1772520728 Comments URL: https://news.ycombinator.com/item?id=47257637 Points: 90 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47257394",
+      "title": "The L in \"LLM\" Stands for Lying",
+      "slug": "2026-03-05-the-l-in-llm-stands-for-lying.html",
+      "path": "posts/2026-03-05-the-l-in-llm-stands-for-lying.html",
+      "date_iso": "2026-03-05T04:02:32+00:00",
+      "source": "https://acko.net/blog/the-l-in-llm-stands-for-lying/",
+      "summary": "Article URL: https://acko.net/blog/the-l-in-llm-stands-for-lying/ Comments URL: https://news.ycombinator.com/item?id=47257394 Points: 40 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47257352",
+      "title": "Show HN: Poppy – a simple app to stay intentional with relationships",
+      "slug": "2026-03-05-show-hn-poppy-a-simple-app-to-stay-intentional-with-relationships.html",
+      "path": "posts/2026-03-05-show-hn-poppy-a-simple-app-to-stay-intentional-with-relationships.html",
+      "date_iso": "2026-03-05T03:56:38+00:00",
+      "source": "https://poppy-connection-keeper.netlify.app/",
+      "summary": "I built Poppy as a side project to help people keep in touch more intentionally. Would love feedback on onboarding, reminders, and overall UX. Happy to answer questions. Comments URL: https://news.ycombinator.com/item?id=47257352 Points: 68 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47256923",
+      "title": "What Python's asyncio primitives get wrong about shared state",
+      "slug": "2026-03-05-what-python-s-asyncio-primitives-get-wrong-about-shared-state.html",
+      "path": "posts/2026-03-05-what-python-s-asyncio-primitives-get-wrong-about-shared-state.html",
+      "date_iso": "2026-03-05T02:55:57+00:00",
+      "source": "https://www.inngest.com/blog/no-lost-updates-python-asyncio",
+      "summary": "Article URL: https://www.inngest.com/blog/no-lost-updates-python-asyncio Comments URL: https://news.ycombinator.com/item?id=47256923 Points: 41 # Comments: 23"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/04/technology/elon-musk-testifies-twitter-lawsuit.html",
+      "title": "Elon Musk Defends Social Media Posts in Twitter Shareholder Lawsuit",
+      "slug": "2026-03-05-elon-musk-defends-social-media-posts-in-twitter-shareholder-lawsuit.html",
+      "path": "posts/2026-03-05-elon-musk-defends-social-media-posts-in-twitter-shareholder-lawsuit.html",
+      "date_iso": "2026-03-05T02:40:24+00:00",
+      "source": "https://www.nytimes.com/2026/03/04/technology/elon-musk-testifies-twitter-lawsuit.html",
+      "summary": "Elon Musk arriving at the Phillip Burton Federal Building and U.S. Courthouse in San Francisco on Wednesday."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47256781",
+      "title": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic",
+      "slug": "2026-03-05-jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic.html",
+      "path": "posts/2026-03-05-jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic.html",
+      "date_iso": "2026-03-05T02:33:58+00:00",
+      "source": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
+      "summary": "Article URL: https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/ Comments URL: https://news.ycombinator.com/item?id=47256781 Points: 130 # Comments: 49"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47256478",
+      "title": "Chaos and Dystopian news for the dead internet survivors",
+      "slug": "2026-03-05-chaos-and-dystopian-news-for-the-dead-internet-survivors.html",
+      "path": "posts/2026-03-05-chaos-and-dystopian-news-for-the-dead-internet-survivors.html",
+      "date_iso": "2026-03-05T01:50:51+00:00",
+      "source": "https://www.fubardaily.com",
+      "summary": "Article URL: https://www.fubardaily.com Comments URL: https://news.ycombinator.com/item?id=47256478 Points: 85 # Comments: 28"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47255881",
+      "title": "Google Workspace CLI",
+      "slug": "2026-03-05-google-workspace-cli.html",
+      "path": "posts/2026-03-05-google-workspace-cli.html",
+      "date_iso": "2026-03-05T00:22:09+00:00",
+      "source": "https://github.com/googleworkspace/cli",
+      "summary": "Article URL: https://github.com/googleworkspace/cli Comments URL: https://news.ycombinator.com/item?id=47255881 Points: 458 # Comments: 169"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47255662",
+      "title": "Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’",
+      "slug": "2026-03-04-dario-amodei-calls-openai-s-messaging-around-military-deal-straight-up-lies.html",
+      "path": "posts/2026-03-04-dario-amodei-calls-openai-s-messaging-around-military-deal-straight-up-lies.html",
+      "date_iso": "2026-03-04T23:51:10+00:00",
+      "source": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
+      "summary": "Article URL: https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/ Comments URL: https://news.ycombinator.com/item?id=47255662 Points: 485 # Comments: 268"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/04/business/media/iran-state-tv-social-media-war-ai.html",
+      "title": "Iranian TV and Social Media Project Defiant and Distorted View of the War",
+      "slug": "2026-03-04-iranian-tv-and-social-media-project-defiant-and-distorted-view-of-the-war.html",
+      "path": "posts/2026-03-04-iranian-tv-and-social-media-project-defiant-and-distorted-view-of-the-war.html",
+      "date_iso": "2026-03-04T23:35:06+00:00",
+      "source": "https://www.nytimes.com/2026/03/04/business/media/iran-state-tv-social-media-war-ai.html",
+      "summary": "State media and online propagandists are striking a confident posture, despite heavy losses. Some of the content was generated by artificial intelligence."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/04/technology/ai-energy-pledge-white-house-trump.html",
+      "title": "Trump Announces A.I. Industry Pledge to Pay for Power",
+      "slug": "2026-03-04-trump-announces-a-i-industry-pledge-to-pay-for-power.html",
+      "path": "posts/2026-03-04-trump-announces-a-i-industry-pledge-to-pay-for-power.html",
+      "date_iso": "2026-03-04T22:25:58+00:00",
+      "source": "https://www.nytimes.com/2026/03/04/technology/ai-energy-pledge-white-house-trump.html",
+      "summary": "President Trump meeting with executives from the artificial intelligence industry in Washington on Wednesday."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47254516",
+      "title": "NRC issues first commercial reactor construction approval in 10 years [pdf]",
+      "slug": "2026-03-04-nrc-issues-first-commercial-reactor-construction-approval-in-10-years-pdf.html",
+      "path": "posts/2026-03-04-nrc-issues-first-commercial-reactor-construction-approval-in-10-years-pdf.html",
+      "date_iso": "2026-03-04T21:56:20+00:00",
+      "source": "https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf",
+      "summary": "Article URL: https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf Comments URL: https://news.ycombinator.com/item?id=47254516 Points: 101 # Comments: 60"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47254322",
+      "title": "Dulce et Decorum Est (1921)",
+      "slug": "2026-03-04-dulce-et-decorum-est-1921.html",
+      "path": "posts/2026-03-04-dulce-et-decorum-est-1921.html",
+      "date_iso": "2026-03-04T21:41:40+00:00",
+      "source": "https://www.poetryfoundation.org/poems/46560/dulce-et-decorum-est",
+      "summary": "Article URL: https://www.poetryfoundation.org/poems/46560/dulce-et-decorum-est Comments URL: https://news.ycombinator.com/item?id=47254322 Points: 114 # Comments: 64"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47253221",
+      "title": "The View from RSS",
+      "slug": "2026-03-04-the-view-from-rss.html",
+      "path": "posts/2026-03-04-the-view-from-rss.html",
+      "date_iso": "2026-03-04T20:19:43+00:00",
+      "source": "https://www.carolinecrampton.com/the-view-from-rss/",
+      "summary": "Article URL: https://www.carolinecrampton.com/the-view-from-rss/ Comments URL: https://news.ycombinator.com/item?id=47253221 Points: 108 # Comments: 28"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47253177",
+      "title": "Building a new Flash",
+      "slug": "2026-03-04-building-a-new-flash.html",
+      "path": "posts/2026-03-04-building-a-new-flash.html",
+      "date_iso": "2026-03-04T20:16:03+00:00",
+      "source": "https://bill.newgrounds.com/news/post/1607118",
+      "summary": "Article URL: https://bill.newgrounds.com/news/post/1607118 Comments URL: https://news.ycombinator.com/item?id=47253177 Points: 500 # Comments: 136"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47253160",
+      "title": "Was Windows 1.0's lack of overlapping windows a legal or a technical matter?",
+      "slug": "2026-03-04-was-windows-1-0-s-lack-of-overlapping-windows-a-legal-or-a-technical-matter.html",
+      "path": "posts/2026-03-04-was-windows-1-0-s-lack-of-overlapping-windows-a-legal-or-a-technical-matter.html",
+      "date_iso": "2026-03-04T20:15:06+00:00",
+      "source": "https://retrocomputing.stackexchange.com/questions/32511/was-windows-1-0s-lack-of-overlapping-windows-a-legal-or-a-technical-matter",
+      "summary": "Article URL: https://retrocomputing.stackexchange.com/questions/32511/was-windows-1-0s-lack-of-overlapping-windows-a-legal-or-a-technical-matter Comments URL: https://news.ycombinator.com/item?id=47253160 Points: 81 # Comments: 55"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47252459",
+      "title": "You need to rewrite your CLI for AI agents",
+      "slug": "2026-03-04-you-need-to-rewrite-your-cli-for-ai-agents.html",
+      "path": "posts/2026-03-04-you-need-to-rewrite-your-cli-for-ai-agents.html",
+      "date_iso": "2026-03-04T19:20:03+00:00",
+      "source": "https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/",
+      "summary": "Article URL: https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=47252459 Points: 67 # Comments: 39"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/04/technology/intel-senators-china-tools.html",
+      "title": "Lawmakers Question Intel’s Use of Tools From Blacklisted Chinese Firm",
+      "slug": "2026-03-04-lawmakers-question-intel-s-use-of-tools-from-blacklisted-chinese-firm.html",
+      "path": "posts/2026-03-04-lawmakers-question-intel-s-use-of-tools-from-blacklisted-chinese-firm.html",
+      "date_iso": "2026-03-04T18:12:33+00:00",
+      "source": "https://www.nytimes.com/2026/03/04/technology/intel-senators-china-tools.html",
+      "summary": "People visit the ACM Research booth during a trade fair for the semiconductor industry in Shanghai, in 2023."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47251259",
+      "title": "NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute",
+      "slug": "2026-03-04-nanogpt-slowrun-language-modeling-with-limited-data-infinite-compute.html",
+      "path": "posts/2026-03-04-nanogpt-slowrun-language-modeling-with-limited-data-infinite-compute.html",
+      "date_iso": "2026-03-04T17:56:04+00:00",
+      "source": "https://qlabs.sh/slowrun",
+      "summary": "Article URL: https://qlabs.sh/slowrun Comments URL: https://news.ycombinator.com/item?id=47251259 Points: 154 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47251163",
+      "title": "Roboflow (YC S20) Is Hiring a Security Engineer for AI Infra",
+      "slug": "2026-03-04-roboflow-yc-s20-is-hiring-a-security-engineer-for-ai-infra.html",
+      "path": "posts/2026-03-04-roboflow-yc-s20-is-hiring-a-security-engineer-for-ai-infra.html",
+      "date_iso": "2026-03-04T17:49:44+00:00",
+      "source": "https://roboflow.com/careers",
+      "summary": "Article URL: https://roboflow.com/careers Comments URL: https://news.ycombinator.com/item?id=47251163 Points: 0 # Comments: 0"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47243804",
       "title": "Better JIT for Postgres",
       "slug": "2026-03-04-better-jit-for-postgres.html",
