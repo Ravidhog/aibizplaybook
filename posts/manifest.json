@@ -1,6 +1,240 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47271858",
+      "title": "Stardex (YC S21) is hiring customer success engineers",
+      "slug": "2026-03-06-stardex-yc-s21-is-hiring-customer-success-engineers.html",
+      "path": "posts/2026-03-06-stardex-yc-s21-is-hiring-customer-success-engineers.html",
+      "date_iso": "2026-03-06T07:02:08+00:00",
+      "source": "https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration",
+      "summary": "Article URL: https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration Comments URL: https://news.ycombinator.com/item?id=47271858 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47271187",
+      "title": "TeX Live 2026 is available for download now",
+      "slug": "2026-03-06-tex-live-2026-is-available-for-download-now.html",
+      "path": "posts/2026-03-06-tex-live-2026-is-available-for-download-now.html",
+      "date_iso": "2026-03-06T05:20:10+00:00",
+      "source": "https://www.tug.org/texlive/acquire.html",
+      "summary": "Article URL: https://www.tug.org/texlive/acquire.html Comments URL: https://news.ycombinator.com/item?id=47271187 Points: 37 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47270807",
+      "title": "Show HN: Swarm – Program a colony of 200 ants using a custom assembly language",
+      "slug": "2026-03-06-show-hn-swarm-program-a-colony-of-200-ants-using-a-custom-assembly-language.html",
+      "path": "posts/2026-03-06-show-hn-swarm-program-a-colony-of-200-ants-using-a-custom-assembly-language.html",
+      "date_iso": "2026-03-06T04:15:40+00:00",
+      "source": "https://dev.moment.com/",
+      "summary": "We built an ant colony simulation as an internal hiring challenge at Moment and decided to open it up publicly. You write a program in a custom assembly-like (we call it ant-ssembly) instruction set that controls 200 ants. Each ant can sense nearby cells (food, pheromones, home,…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47270784",
+      "title": "System76 on Age Verification Laws",
+      "slug": "2026-03-06-system76-on-age-verification-laws.html",
+      "path": "posts/2026-03-06-system76-on-age-verification-laws.html",
+      "date_iso": "2026-03-06T04:12:26+00:00",
+      "source": "https://blog.system76.com/post/system76-on-age-verification/",
+      "summary": "Article URL: https://blog.system76.com/post/system76-on-age-verification/ Comments URL: https://news.ycombinator.com/item?id=47270784 Points: 169 # Comments: 102"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47270672",
+      "title": "Breaking Down 50M Pins: A Smarter Way to Design 3D IC Packages",
+      "slug": "2026-03-06-breaking-down-50m-pins-a-smarter-way-to-design-3d-ic-packages.html",
+      "path": "posts/2026-03-06-breaking-down-50m-pins-a-smarter-way-to-design-3d-ic-packages.html",
+      "date_iso": "2026-03-06T03:56:52+00:00",
+      "source": "https://www.allaboutcircuits.com/industry-articles/breaking-down-50-million-pins-a-smarter-way-to-design-3d-ic-packages/",
+      "summary": "Article URL: https://www.allaboutcircuits.com/industry-articles/breaking-down-50-million-pins-a-smarter-way-to-design-3d-ic-packages/ Comments URL: https://news.ycombinator.com/item?id=47270672 Points: 6 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/05/technology/anthropic-supply-chain-risk-defense-department.html",
+      "title": "Pentagon Officially Notifies Anthropic It Is a ‘Supply Chain Risk’",
+      "slug": "2026-03-06-pentagon-officially-notifies-anthropic-it-is-a-supply-chain-risk.html",
+      "path": "posts/2026-03-06-pentagon-officially-notifies-anthropic-it-is-a-supply-chain-risk.html",
+      "date_iso": "2026-03-06T01:23:35+00:00",
+      "source": "https://www.nytimes.com/2026/03/05/technology/anthropic-supply-chain-risk-defense-department.html",
+      "summary": "Although Anthropic is the only company that provides the Pentagon with artificial intelligence technologies for use on classified systems, other companies are angling to replace it."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47269288",
+      "title": "How to install and start using LineageOS on your phone",
+      "slug": "2026-03-06-how-to-install-and-start-using-lineageos-on-your-phone.html",
+      "path": "posts/2026-03-06-how-to-install-and-start-using-lineageos-on-your-phone.html",
+      "date_iso": "2026-03-06T00:43:47+00:00",
+      "source": "https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html",
+      "summary": "Article URL: https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html Comments URL: https://news.ycombinator.com/item?id=47269288 Points: 35 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47269263",
+      "title": "Where things stand with the Department of War",
+      "slug": "2026-03-06-where-things-stand-with-the-department-of-war.html",
+      "path": "posts/2026-03-06-where-things-stand-with-the-department-of-war.html",
+      "date_iso": "2026-03-06T00:40:41+00:00",
+      "source": "https://www.anthropic.com/news/where-stand-department-war",
+      "summary": "Article URL: https://www.anthropic.com/news/where-stand-department-war Comments URL: https://news.ycombinator.com/item?id=47269263 Points: 388 # Comments: 401"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47268391",
+      "title": "Labor market impacts of AI: A new measure and early evidence",
+      "slug": "2026-03-05-labor-market-impacts-of-ai-a-new-measure-and-early-evidence.html",
+      "path": "posts/2026-03-05-labor-market-impacts-of-ai-a-new-measure-and-early-evidence.html",
+      "date_iso": "2026-03-05T22:55:01+00:00",
+      "source": "https://www.anthropic.com/research/labor-market-impacts",
+      "summary": "Article URL: https://www.anthropic.com/research/labor-market-impacts Comments URL: https://news.ycombinator.com/item?id=47268391 Points: 150 # Comments: 212"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47267947",
+      "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
+      "slug": "2026-03-05-a-standard-protocol-to-handle-and-discard-low-effort-ai-generated-pull-requests.html",
+      "path": "posts/2026-03-05-a-standard-protocol-to-handle-and-discard-low-effort-ai-generated-pull-requests.html",
+      "date_iso": "2026-03-05T22:04:59+00:00",
+      "source": "https://406.fail/",
+      "summary": "Article URL: https://406.fail/ Comments URL: https://news.ycombinator.com/item?id=47267947 Points: 154 # Comments: 50"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47267628",
+      "title": "Proton Mail Helped FBI Unmask Anonymous 'Stop Cop City' Protester",
+      "slug": "2026-03-05-proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protester.html",
+      "path": "posts/2026-03-05-proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protester.html",
+      "date_iso": "2026-03-05T21:35:40+00:00",
+      "source": "https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/",
+      "summary": "Article URL: https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/ Comments URL: https://news.ycombinator.com/item?id=47267628 Points: 324 # Comments: 154"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/05/business/new-car-sales-payments-affordability.html",
+      "title": "How $800 Monthly Car Payments Are Hurting Car Sales",
+      "slug": "2026-03-05-how-800-monthly-car-payments-are-hurting-car-sales.html",
+      "path": "posts/2026-03-05-how-800-monthly-car-payments-are-hurting-car-sales.html",
+      "date_iso": "2026-03-05T21:13:39+00:00",
+      "source": "https://www.nytimes.com/2026/03/05/business/new-car-sales-payments-affordability.html",
+      "summary": "The average monthly payment for a new car was $774 at the end of last year, and the average new car now costs nearly $50,000."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47267236",
+      "title": "Structured AI (YC F25) Is Hiring",
+      "slug": "2026-03-05-structured-ai-yc-f25-is-hiring.html",
+      "path": "posts/2026-03-05-structured-ai-yc-f25-is-hiring.html",
+      "date_iso": "2026-03-05T21:01:30+00:00",
+      "source": "https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant",
+      "summary": "Article URL: https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant Comments URL: https://news.ycombinator.com/item?id=47267236 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47265619",
+      "title": "OpenTitan Shipping in Production",
+      "slug": "2026-03-05-opentitan-shipping-in-production.html",
+      "path": "posts/2026-03-05-opentitan-shipping-in-production.html",
+      "date_iso": "2026-03-05T18:50:33+00:00",
+      "source": "https://opensource.googleblog.com/2026/03/opentitan-shipping-in-production.html",
+      "summary": "Article URL: https://opensource.googleblog.com/2026/03/opentitan-shipping-in-production.html Comments URL: https://news.ycombinator.com/item?id=47265619 Points: 99 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47265521",
+      "title": "Remotely unlocking an encrypted hard disk",
+      "slug": "2026-03-05-remotely-unlocking-an-encrypted-hard-disk.html",
+      "path": "posts/2026-03-05-remotely-unlocking-an-encrypted-hard-disk.html",
+      "date_iso": "2026-03-05T18:43:59+00:00",
+      "source": "https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/",
+      "summary": "Article URL: https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/ Comments URL: https://news.ycombinator.com/item?id=47265521 Points: 119 # Comments: 60"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47265045",
+      "title": "GPT-5.4",
+      "slug": "2026-03-05-gpt-5-4.html",
+      "path": "posts/2026-03-05-gpt-5-4.html",
+      "date_iso": "2026-03-05T18:08:10+00:00",
+      "source": "https://openai.com/index/introducing-gpt-5-4/",
+      "summary": "https://openai.com/index/gpt-5-4-thinking-system-card/ https://x.com/OpenAI/status/2029620619743219811 Comments URL: https://news.ycombinator.com/item?id=47265045 Points: 778 # Comments: 641"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47264756",
+      "title": "The Brand Age",
+      "slug": "2026-03-05-the-brand-age.html",
+      "path": "posts/2026-03-05-the-brand-age.html",
+      "date_iso": "2026-03-05T17:44:10+00:00",
+      "source": "https://paulgraham.com/brandage.html",
+      "summary": "Article URL: https://paulgraham.com/brandage.html Comments URL: https://news.ycombinator.com/item?id=47264756 Points: 317 # Comments: 254"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47264741",
+      "title": "Launch HN: Vela (YC W26) – AI for complex scheduling",
+      "slug": "2026-03-05-launch-hn-vela-yc-w26-ai-for-complex-scheduling.html",
+      "path": "posts/2026-03-05-launch-hn-vela-yc-w26-ai-for-complex-scheduling.html",
+      "date_iso": "2026-03-05T17:43:31+00:00",
+      "source": "https://news.ycombinator.com/item?id=47264741",
+      "summary": "Hi HN! We're Gobhanu and Saatvik (brothers), building Vela ( https://tryvela.ai ) - AI agents that handle multi-party, multi-channel scheduling. Scheduling is a constraint satisfaction problem disguised as email! It’s easy when it’s two people, one timezone, one channel. But it…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47264138",
+      "title": "Show HN: PageAgent, A GUI agent that lives inside your web app",
+      "slug": "2026-03-05-show-hn-pageagent-a-gui-agent-that-lives-inside-your-web-app.html",
+      "path": "posts/2026-03-05-show-hn-pageagent-a-gui-agent-that-lives-inside-your-web-app.html",
+      "date_iso": "2026-03-05T17:01:47+00:00",
+      "source": "https://alibaba.github.io/page-agent/",
+      "summary": "Title: Show HN: PageAgent, A GUI agent that lives inside your web app Hi HN, I'm building PageAgent, an open-source (MIT) library that embeds an AI agent directly into your frontend. I built this because I believe there's a massive design space for deploying general agents nativ…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/05/technology/ai-data-centers-land-cloverleaf-infrastructure.html",
+      "title": "Demand for AI Data Centers Sends Prospectors Hunting for Land and Power",
+      "slug": "2026-03-05-demand-for-ai-data-centers-sends-prospectors-hunting-for-land-and-power.html",
+      "path": "posts/2026-03-05-demand-for-ai-data-centers-sends-prospectors-hunting-for-land-and-power.html",
+      "date_iso": "2026-03-05T16:30:12+00:00",
+      "source": "https://www.nytimes.com/2026/03/05/technology/ai-data-centers-land-cloverleaf-infrastructure.html",
+      "summary": "Brian Janous, co-founder of Cloverleaf Infrastructure. His start-up has been thrust into heated community debates over data center development."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/05/technology/personaltech/ai-smart-home-google-gemini-amazon-alexa.html",
+      "title": "The Smart Home Never Quite Worked. Now It’s Getting an A.I. Reboot.",
+      "slug": "2026-03-05-the-smart-home-never-quite-worked-now-it-s-getting-an-a-i-reboot.html",
+      "path": "posts/2026-03-05-the-smart-home-never-quite-worked-now-it-s-getting-an-a-i-reboot.html",
+      "date_iso": "2026-03-05T16:30:06+00:00",
+      "source": "https://www.nytimes.com/2026/03/05/technology/personaltech/ai-smart-home-google-gemini-amazon-alexa.html",
+      "summary": "Amazon and Google think that artificially intelligent assistants like Alexa+ and Gemini will speed up the process of setting up a smart home, but many problems remain unsolved."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47263595",
+      "title": "A GitHub Issue Title Compromised 4k Developer Machines",
+      "slug": "2026-03-05-a-github-issue-title-compromised-4k-developer-machines.html",
+      "path": "posts/2026-03-05-a-github-issue-title-compromised-4k-developer-machines.html",
+      "date_iso": "2026-03-05T16:22:01+00:00",
+      "source": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another",
+      "summary": "Article URL: https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another Comments URL: https://news.ycombinator.com/item?id=47263595 Points: 387 # Comments: 97"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47263323",
+      "title": "Wikipedia was in read-only mode following mass admin account compromise",
+      "slug": "2026-03-05-wikipedia-was-in-read-only-mode-following-mass-admin-account-compromise.html",
+      "path": "posts/2026-03-05-wikipedia-was-in-read-only-mode-following-mass-admin-account-compromise.html",
+      "date_iso": "2026-03-05T16:04:54+00:00",
+      "source": "https://www.wikimediastatus.net",
+      "summary": "https://wikipediocracy.com/forum/viewtopic.php?f=8&amp;t=14555 https://en.wikipedia.org/wiki/Wikipedia:Village_pump_(techni... https://old.reddit.com/r/wikipedia/comments/1rllcdg/megathre... Comments URL: https://news.ycombinator.com/item?id=47263323 Points: 945 # Comments: 328"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47263048",
+      "title": "AI and the Ship of Theseus",
+      "slug": "2026-03-05-ai-and-the-ship-of-theseus.html",
+      "path": "posts/2026-03-05-ai-and-the-ship-of-theseus.html",
+      "date_iso": "2026-03-05T15:49:45+00:00",
+      "source": "https://lucumr.pocoo.org/2026/3/5/theseus/",
+      "summary": "Article URL: https://lucumr.pocoo.org/2026/3/5/theseus/ Comments URL: https://news.ycombinator.com/item?id=47263048 Points: 88 # Comments: 98"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/05/science/ants-3d-scans.html",
+      "title": "You’ve Never Seen Ants Like This Before",
+      "slug": "2026-03-05-you-ve-never-seen-ants-like-this-before.html",
+      "path": "posts/2026-03-05-you-ve-never-seen-ants-like-this-before.html",
+      "date_iso": "2026-03-05T10:03:52+00:00",
+      "source": "https://www.nytimes.com/2026/03/05/science/ants-3d-scans.html",
+      "summary": "The Antscan database captures the tiny insects’ diversity and shows how the world’s living things could be rendered in three dimensions."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/05/technology/artificial-intelligence-taxes-tax-refund.html",
+      "title": "A Word to the Wise: Don’t Trust A.I. to File Your Taxes",
+      "slug": "2026-03-05-a-word-to-the-wise-don-t-trust-a-i-to-file-your-taxes.html",
+      "path": "posts/2026-03-05-a-word-to-the-wise-don-t-trust-a-i-to-file-your-taxes.html",
+      "date_iso": "2026-03-05T10:01:46+00:00",
+      "source": "https://www.nytimes.com/2026/03/05/technology/artificial-intelligence-taxes-tax-refund.html",
+      "summary": "The world’s smartest technology is no match for the U.S. tax code."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47258455",
       "title": "The Self-Help Trap: What 20 Years of \"Optimizing\" Has Taught Me",
       "slug": "2026-03-05-the-self-help-trap-what-20-years-of-optimizing-has-taught-me.html",
