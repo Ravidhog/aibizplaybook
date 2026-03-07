@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting</h1>
+    <p><small>Published: 2026-03-06T14:22:59+00:00</small></p>
+  </header>
+
+  <main>
+    <p>I've been building a modern Ultima Online server emulator from scratch. It's not feature-complete (no combat, no skills yet), but the foundation is solid and I wanted to share it early.<p>What it does today:
+- Full packet layer for the classic UO client (login, movement, items, mobiles)
+- Lua scripting for item behaviors (double-click a potion, open a door — all defined in Lua, no C# recompile)
+- Spatial world partitioned into sectors with delta sync (only sends packets for new sectors when crossing boundaries)
+- Snapshot-based persistence with MessagePack
+- Source generators for automatic DI wiring, packet handler registration, and Lua module exposure
+- NativeAOT support — the server compiles to a single native binary
+- Embedded HTTP admin API + React management UI
+- Auto-generated doors from map statics (same algorithm as ModernUO/RunUO)<p>Tech stack: .NET 10, NativeAOT, NLua, MessagePack, DryIoc, Kestrel<p>What's missing: Combat, skills, weather integration, NPC AI. This is still early — the focus so far has been on getting the architecture right so adding those systems doesn't require rewiring everything.<p>Why not just use ModernUO/RunUO? Those are mature and battle-tested. I started this because I wanted to rethink the architecture from scratch: strict network/domain separation, event-driven game loop, no
+  inheritance-heavy item hierarchies, and Lua for rapid iteration on game logic without recompiling.<p>GitHub: <a href="https://github.com/moongate-community/moongatev2" rel="nofollow">https://github.com/moongate-community/moongatev2</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47275236">https://news.ycombinator.com/item?id=47275236</a></p>
+<p>Points: 245</p>
+<p># Comments: 137</p>
+    <p><a href="https://github.com/moongate-community/moongatev2" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
