@@ -1,6 +1,177 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47293682",
+      "title": "MonoGame: A .NET framework for making cross-platform games",
+      "slug": "2026-03-08-monogame-a-net-framework-for-making-cross-platform-games.html",
+      "path": "posts/2026-03-08-monogame-a-net-framework-for-making-cross-platform-games.html",
+      "date_iso": "2026-03-08T02:16:02+00:00",
+      "source": "https://github.com/MonoGame/MonoGame",
+      "summary": "Article URL: https://github.com/MonoGame/MonoGame Comments URL: https://news.ycombinator.com/item?id=47293682 Points: 51 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47293415",
+      "title": "\"Warn about PyPy being unmaintained\"",
+      "slug": "2026-03-08-warn-about-pypy-being-unmaintained.html",
+      "path": "posts/2026-03-08-warn-about-pypy-being-unmaintained.html",
+      "date_iso": "2026-03-08T01:35:21+00:00",
+      "source": "https://github.com/astral-sh/uv/pull/17643",
+      "summary": "Article URL: https://github.com/astral-sh/uv/pull/17643 Comments URL: https://news.ycombinator.com/item?id=47293415 Points: 116 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47293119",
+      "title": "Cloud VM benchmarks 2026",
+      "slug": "2026-03-08-cloud-vm-benchmarks-2026.html",
+      "path": "posts/2026-03-08-cloud-vm-benchmarks-2026.html",
+      "date_iso": "2026-03-08T00:44:32+00:00",
+      "source": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
+      "summary": "Article URL: https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html Comments URL: https://news.ycombinator.com/item?id=47293119 Points: 179 # Comments: 83"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47292522",
+      "title": "How to run Qwen 3.5 locally",
+      "slug": "2026-03-07-how-to-run-qwen-3-5-locally.html",
+      "path": "posts/2026-03-07-how-to-run-qwen-3-5-locally.html",
+      "date_iso": "2026-03-07T23:32:17+00:00",
+      "source": "https://unsloth.ai/docs/models/qwen3.5",
+      "summary": "Article URL: https://unsloth.ai/docs/models/qwen3.5 Comments URL: https://news.ycombinator.com/item?id=47292522 Points: 61 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47292029",
+      "title": "Lisp-style C++ template meta programming",
+      "slug": "2026-03-07-lisp-style-c-template-meta-programming.html",
+      "path": "posts/2026-03-07-lisp-style-c-template-meta-programming.html",
+      "date_iso": "2026-03-07T22:21:57+00:00",
+      "source": "https://github.com/mistivia/lmp",
+      "summary": "Article URL: https://github.com/mistivia/lmp Comments URL: https://news.ycombinator.com/item?id=47292029 Points: 39 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47291525",
+      "title": "The stagnancy of publishing and the disappearance of the midlist",
+      "slug": "2026-03-07-the-stagnancy-of-publishing-and-the-disappearance-of-the-midlist.html",
+      "path": "posts/2026-03-07-the-stagnancy-of-publishing-and-the-disappearance-of-the-midlist.html",
+      "date_iso": "2026-03-07T21:10:08+00:00",
+      "source": "https://www.honest-broker.com/p/the-day-ny-publishing-lost-its-soul",
+      "summary": "Article URL: https://www.honest-broker.com/p/the-day-ny-publishing-lost-its-soul Comments URL: https://news.ycombinator.com/item?id=47291525 Points: 77 # Comments: 55"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47291513",
+      "title": "LLM Writing Tropes.md",
+      "slug": "2026-03-07-llm-writing-tropes-md.html",
+      "path": "posts/2026-03-07-llm-writing-tropes-md.html",
+      "date_iso": "2026-03-07T21:08:40+00:00",
+      "source": "https://tropes.fyi/tropes-md",
+      "summary": "Article URL: https://tropes.fyi/tropes-md Comments URL: https://news.ycombinator.com/item?id=47291513 Points: 165 # Comments: 64"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47291292",
+      "title": "CasNum",
+      "slug": "2026-03-07-casnum.html",
+      "path": "posts/2026-03-07-casnum.html",
+      "date_iso": "2026-03-07T20:43:51+00:00",
+      "source": "https://github.com/0x0mer/CasNum",
+      "summary": "Article URL: https://github.com/0x0mer/CasNum Comments URL: https://news.ycombinator.com/item?id=47291292 Points: 262 # Comments: 35"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47291123",
+      "title": "Autoresearch: Agents researching on single-GPU nanochat training automatically",
+      "slug": "2026-03-07-autoresearch-agents-researching-on-single-gpu-nanochat-training-automatically.html",
+      "path": "posts/2026-03-07-autoresearch-agents-researching-on-single-gpu-nanochat-training-automatically.html",
+      "date_iso": "2026-03-07T20:22:45+00:00",
+      "source": "https://github.com/karpathy/autoresearch",
+      "summary": "Article URL: https://github.com/karpathy/autoresearch Comments URL: https://news.ycombinator.com/item?id=47291123 Points: 95 # Comments: 26"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/07/technology/anthropic-openai-pentagon-dario-amodei-sam-altman.html",
+      "title": "Anthropic’s and OpenAI’s Dance With the Pentagon: What to Know",
+      "slug": "2026-03-07-anthropic-s-and-openai-s-dance-with-the-pentagon-what-to-know.html",
+      "path": "posts/2026-03-07-anthropic-s-and-openai-s-dance-with-the-pentagon-what-to-know.html",
+      "date_iso": "2026-03-07T19:36:22+00:00",
+      "source": "https://www.nytimes.com/2026/03/07/technology/anthropic-openai-pentagon-dario-amodei-sam-altman.html",
+      "summary": "Secretary of Defense Pete Hegseth declared Anthropic a “supply chain risk,” a rare designation for an American company."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/07/technology/iran-shahed-drones-us-war.html",
+      "title": "‘Designed to Wreak Havoc’: The Cheap Drones Shaping the War With Iran",
+      "slug": "2026-03-07-designed-to-wreak-havoc-the-cheap-drones-shaping-the-war-with-iran.html",
+      "path": "posts/2026-03-07-designed-to-wreak-havoc-the-cheap-drones-shaping-the-war-with-iran.html",
+      "date_iso": "2026-03-07T18:35:56+00:00",
+      "source": "https://www.nytimes.com/2026/03/07/technology/iran-shahed-drones-us-war.html",
+      "summary": "Iran has launched waves of Shahed drones to menace Persian Gulf nations. The U.S. has unleashed its own copycat on Iran. It’s a sign of how war is changing."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47290198",
+      "title": "The surprising whimsy of the Time Zone Database",
+      "slug": "2026-03-07-the-surprising-whimsy-of-the-time-zone-database.html",
+      "path": "posts/2026-03-07-the-surprising-whimsy-of-the-time-zone-database.html",
+      "date_iso": "2026-03-07T18:32:05+00:00",
+      "source": "https://muddy.jprs.me/links/2026-03-06-the-surprising-whimsy-of-the-time-zone-database/",
+      "summary": "Article URL: https://muddy.jprs.me/links/2026-03-06-the-surprising-whimsy-of-the-time-zone-database/ Comments URL: https://news.ycombinator.com/item?id=47290198 Points: 92 # Comments: 24"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47289357",
+      "title": "SigNoz (YC W21) is hiring for engineering, growth and product roles",
+      "slug": "2026-03-07-signoz-yc-w21-is-hiring-for-engineering-growth-and-product-roles.html",
+      "path": "posts/2026-03-07-signoz-yc-w21-is-hiring-for-engineering-growth-and-product-roles.html",
+      "date_iso": "2026-03-07T17:01:14+00:00",
+      "source": "https://signoz.io/careers",
+      "summary": "Article URL: https://signoz.io/careers Comments URL: https://news.ycombinator.com/item?id=47289357 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/07/technology/openai-anthropic-pentagon-rivalry.html",
+      "title": "For OpenAI and Anthropic, the Competition Is Deeply Personal",
+      "slug": "2026-03-07-for-openai-and-anthropic-the-competition-is-deeply-personal.html",
+      "path": "posts/2026-03-07-for-openai-and-anthropic-the-competition-is-deeply-personal.html",
+      "date_iso": "2026-03-07T16:58:09+00:00",
+      "source": "https://www.nytimes.com/2026/03/07/technology/openai-anthropic-pentagon-rivalry.html",
+      "summary": "A fight over Pentagon contracts shows how the leaders of Silicon Valley’s two most important A.I. start-ups are feuding over the future of the tech industry."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47289311",
+      "title": "A decade of Docker containers",
+      "slug": "2026-03-07-a-decade-of-docker-containers.html",
+      "path": "posts/2026-03-07-a-decade-of-docker-containers.html",
+      "date_iso": "2026-03-07T16:55:18+00:00",
+      "source": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
+      "summary": "Article URL: https://cacm.acm.org/research/a-decade-of-docker-containers/ Comments URL: https://news.ycombinator.com/item?id=47289311 Points: 280 # Comments: 196"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47288533",
+      "title": "FLASH radiotherapy's bold approach to cancer treatment",
+      "slug": "2026-03-07-flash-radiotherapy-s-bold-approach-to-cancer-treatment.html",
+      "path": "posts/2026-03-07-flash-radiotherapy-s-bold-approach-to-cancer-treatment.html",
+      "date_iso": "2026-03-07T15:33:36+00:00",
+      "source": "https://spectrum.ieee.org/flash-radiotherapy",
+      "summary": "Article URL: https://spectrum.ieee.org/flash-radiotherapy Comments URL: https://news.ycombinator.com/item?id=47288533 Points: 197 # Comments: 62"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47287344",
+      "title": "Yoghurt delivery women combatting loneliness in Japan",
+      "slug": "2026-03-07-yoghurt-delivery-women-combatting-loneliness-in-japan.html",
+      "path": "posts/2026-03-07-yoghurt-delivery-women-combatting-loneliness-in-japan.html",
+      "date_iso": "2026-03-07T13:12:40+00:00",
+      "source": "https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan",
+      "summary": "Article URL: https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan Comments URL: https://news.ycombinator.com/item?id=47287344 Points: 260 # Comments: 144"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47286408",
+      "title": "Files are the interface humans and agents interact with",
+      "slug": "2026-03-07-files-are-the-interface-humans-and-agents-interact-with.html",
+      "path": "posts/2026-03-07-files-are-the-interface-humans-and-agents-interact-with.html",
+      "date_iso": "2026-03-07T10:48:43+00:00",
+      "source": "https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/",
+      "summary": "Article URL: https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/ Comments URL: https://news.ycombinator.com/item?id=47286408 Points: 202 # Comments: 115"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/07/magazine/ai-generated-videos-animals.html",
+      "title": "Are A.I.-Generated Videos Changing How We See Animals?",
+      "slug": "2026-03-07-are-a-i-generated-videos-changing-how-we-see-animals.html",
+      "path": "posts/2026-03-07-are-a-i-generated-videos-changing-how-we-see-animals.html",
+      "date_iso": "2026-03-07T10:00:56+00:00",
+      "source": "https://www.nytimes.com/2026/03/07/magazine/ai-generated-videos-animals.html",
+      "summary": "By manipulating animals to do wonderful things, we may become numb to their real wonder."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47284916",
       "title": "Why New Zealand is seeing an exodus of over-30s",
       "slug": "2026-03-07-why-new-zealand-is-seeing-an-exodus-of-over-30s.html",
@@ -118,6 +289,15 @@
       "summary": "Article URL: https://acid.vegas/blog/the-shady-world-of-ip-leasing/ Comments URL: https://news.ycombinator.com/item?id=47281221 Points: 94 # Comments: 49"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=47280958",
+      "title": "Re-creating the complex cuisine of prehistoric Europeans",
+      "slug": "2026-03-06-re-creating-the-complex-cuisine-of-prehistoric-europeans.html",
+      "path": "posts/2026-03-06-re-creating-the-complex-cuisine-of-prehistoric-europeans.html",
+      "date_iso": "2026-03-06T20:57:07+00:00",
+      "source": "https://arstechnica.com/science/2026/03/recreating-the-complex-cuisine-of-prehistoric-europeans/",
+      "summary": "Article URL: https://arstechnica.com/science/2026/03/recreating-the-complex-cuisine-of-prehistoric-europeans/ Comments URL: https://news.ycombinator.com/item?id=47280958 Points: 73 # Comments: 31"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47280352",
       "title": "Ada 2022",
       "slug": "2026-03-06-ada-2022.html",
@@ -172,6 +352,15 @@
       "summary": "Article URL: https://spectrum.ieee.org/3d-scanning-particle-accelerator-antscan Comments URL: https://news.ycombinator.com/item?id=47276539 Points: 122 # Comments: 22"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=47276159",
+      "title": "Overheads (2023)",
+      "slug": "2026-03-06-overheads-2023.html",
+      "path": "posts/2026-03-06-overheads-2023.html",
+      "date_iso": "2026-03-06T15:29:38+00:00",
+      "source": "https://blog.xoria.org/hidden-overheads/",
+      "summary": "Article URL: https://blog.xoria.org/hidden-overheads/ Comments URL: https://news.ycombinator.com/item?id=47276159 Points: 16 # Comments: 5"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47275236",
       "title": "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting",
       "slug": "2026-03-06-show-hn-moongate-ultima-online-server-emulator-in-net-10-with-lua-scripting.html",
@@ -190,6 +379,15 @@
       "summary": "Article URL: https://community.torproject.org/relay/community-resources/good-bad-isps/ Comments URL: https://news.ycombinator.com/item?id=47275230 Points: 116 # Comments: 38"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=47274768",
+      "title": "Best Performance of a C++ Singleton",
+      "slug": "2026-03-06-best-performance-of-a-c-singleton.html",
+      "path": "posts/2026-03-06-best-performance-of-a-c-singleton.html",
+      "date_iso": "2026-03-06T13:40:16+00:00",
+      "source": "https://andreasfertig.com/blog/2026/03/best-performance-of-a-cpp-singleton/",
+      "summary": "Article URL: https://andreasfertig.com/blog/2026/03/best-performance-of-a-cpp-singleton/ Comments URL: https://news.ycombinator.com/item?id=47274768 Points: 22 # Comments: 14"
+    },
+    {
       "id": "https://www.nytimes.com/2026/03/06/podcasts/hardfork-openai-iran-kids-slop.html",
       "title": "OpenAI’s Fog of War + Betting on Iran + Hard Fork Review of Slop",
       "slug": "2026-03-06-openai-s-fog-of-war-betting-on-iran-hard-fork-review-of-slop.html",
@@ -197,6 +395,15 @@
       "date_iso": "2026-03-06T12:00:08+00:00",
       "source": "https://www.nytimes.com/2026/03/06/podcasts/hardfork-openai-iran-kids-slop.html",
       "summary": "“The Pentagon and OpenAI are saying to the public, You’re just going to have to trust us. And the public is saying, Well, we don’t.”"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47271988",
+      "title": "Dumping Lego NXT firmware off of an existing brick (2025)",
+      "slug": "2026-03-06-dumping-lego-nxt-firmware-off-of-an-existing-brick-2025.html",
+      "path": "posts/2026-03-06-dumping-lego-nxt-firmware-off-of-an-existing-brick-2025.html",
+      "date_iso": "2026-03-06T07:17:48+00:00",
+      "source": "https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html",
+      "summary": "Article URL: https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html Comments URL: https://news.ycombinator.com/item?id=47271988 Points: 186 # Comments: 11"
     },
     {
       "id": "https://news.ycombinator.com/item?id=47271858",
