@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds</h1>
+    <p><small>Published: 2026-03-08T19:07:33+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Sup HN,<p>So I got tired of bouncing between Flightradar, MarineTraffic, and Twitter every time something kicked off globally, so I wrote a dashboard to aggregate it all locally. It’s called Shadowbroker.<p>I’ll admit I leaned way too hard into the "movie hacker" aesthetic for the UI, but the actual pipeline underneath is real. It pulls commercial/military ADS-B, the AIS WebSocket stream (about 25,000+ ships), N2YO satellite telemetry, and GDELT conflict data into a single MapLibre instance.<p>Getting this to run without melting my browser was the hardest part. I'm running this on a laptop with an i5 and an RTX 3050, and initially, dumping 30k+ moving GeoJSON features onto the map just crashed everything. I ended up having to write pretty aggressive viewport culling, debounce the state updates, and compress the FastAPI payloads by like 90% just to make it usable.<p>My favorite part is the signal layer—it actually calculates live GPS jamming zones by aggregating the real-time navigation degradation (NAC-P) of commercial flights overhead.<p>It’s Next.js and Python. I threw a quick-start script in the releases if you just want to spin it up, but the repo is open if you want to dig into the backend.<p>Let me know if my MapLibre implementation is terrible, I'm always looking for ways to optimize the rendering.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47300102">https://news.ycombinator.com/item?id=47300102</a></p>
+<p>Points: 218</p>
+<p># Comments: 94</p>
+    <p><a href="https://github.com/BigBodyCobain/Shadowbroker" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
