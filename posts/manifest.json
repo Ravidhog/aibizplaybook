@@ -1,6 +1,222 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47319294",
+      "title": "Claude Code, Claude Cowork and Codex #5",
+      "slug": "2026-03-10-claude-code-claude-cowork-and-codex-5.html",
+      "path": "posts/2026-03-10-claude-code-claude-cowork-and-codex-5.html",
+      "date_iso": "2026-03-10T05:12:54+00:00",
+      "source": "https://thezvi.wordpress.com/2026/03/09/claude-code-claude-cowork-and-codex-5/",
+      "summary": "Article URL: https://thezvi.wordpress.com/2026/03/09/claude-code-claude-cowork-and-codex-5/ Comments URL: https://news.ycombinator.com/item?id=47319294 Points: 24 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47319273",
+      "title": "Amazon holds engineering meeting following AI-related outages",
+      "slug": "2026-03-10-amazon-holds-engineering-meeting-following-ai-related-outages.html",
+      "path": "posts/2026-03-10-amazon-holds-engineering-meeting-following-ai-related-outages.html",
+      "date_iso": "2026-03-10T05:07:59+00:00",
+      "source": "https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de",
+      "summary": "Article URL: https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de Comments URL: https://news.ycombinator.com/item?id=47319273 Points: 40 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47319255",
+      "title": "Show HN: I Was Here – Draw on street view, others can find your drawings",
+      "slug": "2026-03-10-show-hn-i-was-here-draw-on-street-view-others-can-find-your-drawings.html",
+      "path": "posts/2026-03-10-show-hn-i-was-here-draw-on-street-view-others-can-find-your-drawings.html",
+      "date_iso": "2026-03-10T05:04:23+00:00",
+      "source": "https://washere.live",
+      "summary": "Hey HN, I made a site where you can draw on street-level panoramas. Your drawings persist and other people can see them in real time. Strokes get projected onto the 3D panorama so they wrap around buildings and follow the geometry, not just a flat overlay. Uses WebGL2 for render…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/10/technology/ami-labs-yann-lecun-funding.html",
+      "title": "Former Meta A.I. Chief’s Start-Up Is Valued at $3.5 Billion",
+      "slug": "2026-03-10-former-meta-a-i-chief-s-start-up-is-valued-at-3-5-billion.html",
+      "path": "posts/2026-03-10-former-meta-a-i-chief-s-start-up-is-valued-at-3-5-billion.html",
+      "date_iso": "2026-03-10T05:00:10+00:00",
+      "source": "https://www.nytimes.com/2026/03/10/technology/ami-labs-yann-lecun-funding.html",
+      "summary": "AMI Labs, which Yann LeCun founded a month ago after leaving Meta, has only a dozen employees."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47319179",
+      "title": "Windows: Microsoft broke the only thing that mattered",
+      "slug": "2026-03-10-windows-microsoft-broke-the-only-thing-that-mattered.html",
+      "path": "posts/2026-03-10-windows-microsoft-broke-the-only-thing-that-mattered.html",
+      "date_iso": "2026-03-10T04:48:52+00:00",
+      "source": "https://www.yankodesign.com/2026/03/08/microsoft-broke-the-only-thing-that-actually-mattered/",
+      "summary": "Article URL: https://www.yankodesign.com/2026/03/08/microsoft-broke-the-only-thing-that-actually-mattered/ Comments URL: https://news.ycombinator.com/item?id=47319179 Points: 73 # Comments: 48"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/10/business/energy-environment/donald-trump-solar-energy-batteries.html",
+      "title": "U.S. Solar Installations Fell in 2025 as Trump Attacked Clean Energy",
+      "slug": "2026-03-10-u-s-solar-installations-fell-in-2025-as-trump-attacked-clean-energy.html",
+      "path": "posts/2026-03-10-u-s-solar-installations-fell-in-2025-as-trump-attacked-clean-energy.html",
+      "date_iso": "2026-03-10T04:01:04+00:00",
+      "source": "https://www.nytimes.com/2026/03/10/business/energy-environment/donald-trump-solar-energy-batteries.html",
+      "summary": "A solar field in Riesel, Texas, in 2023. Solar power is projected to account for just over half of the new power projects that will be added this year."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47318421",
+      "title": "Learnings from paying artists royalties for AI-generated art",
+      "slug": "2026-03-10-learnings-from-paying-artists-royalties-for-ai-generated-art.html",
+      "path": "posts/2026-03-10-learnings-from-paying-artists-royalties-for-ai-generated-art.html",
+      "date_iso": "2026-03-10T02:24:52+00:00",
+      "source": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/",
+      "summary": "Article URL: https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/ Comments URL: https://news.ycombinator.com/item?id=47318421 Points: 113 # Comments: 85"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47317739",
+      "title": "The “JVG algorithm” only wins on tiny numbers",
+      "slug": "2026-03-10-the-jvg-algorithm-only-wins-on-tiny-numbers.html",
+      "path": "posts/2026-03-10-the-jvg-algorithm-only-wins-on-tiny-numbers.html",
+      "date_iso": "2026-03-10T00:35:19+00:00",
+      "source": "https://scottaaronson.blog/?p=9615",
+      "summary": "Article URL: https://scottaaronson.blog/?p=9615 Comments URL: https://news.ycombinator.com/item?id=47317739 Points: 57 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47317616",
+      "title": "Two Years of Emacs Solo",
+      "slug": "2026-03-10-two-years-of-emacs-solo.html",
+      "path": "posts/2026-03-10-two-years-of-emacs-solo.html",
+      "date_iso": "2026-03-10T00:16:44+00:00",
+      "source": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
+      "summary": "Article URL: https://www.rahuljuliato.com/posts/emacs-solo-two-years Comments URL: https://news.ycombinator.com/item?id=47317616 Points: 183 # Comments: 48"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47317132",
+      "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
+      "slug": "2026-03-09-no-it-doesn-t-cost-anthropic-5k-per-claude-code-user.html",
+      "path": "posts/2026-03-09-no-it-doesn-t-cost-anthropic-5k-per-claude-code-user.html",
+      "date_iso": "2026-03-09T23:22:06+00:00",
+      "source": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
+      "summary": "Article URL: https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/ Comments URL: https://news.ycombinator.com/item?id=47317132 Points: 131 # Comments: 76"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/09/technology/anthropic-defense-artificial-intelligence-lawsuit.html",
+      "title": "Anthropic Sues Department of Defense Over ‘Supply Chain Risk’ Label",
+      "slug": "2026-03-09-anthropic-sues-department-of-defense-over-supply-chain-risk-label.html",
+      "path": "posts/2026-03-09-anthropic-sues-department-of-defense-over-supply-chain-risk-label.html",
+      "date_iso": "2026-03-09T22:12:34+00:00",
+      "source": "https://www.nytimes.com/2026/03/09/technology/anthropic-defense-artificial-intelligence-lawsuit.html",
+      "summary": "Dario Amodei, the chief executive of Anthropic."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47315128",
+      "title": "OpenAI is walking away from expanding its Stargate data center with Oracle",
+      "slug": "2026-03-09-openai-is-walking-away-from-expanding-its-stargate-data-center-with-oracle.html",
+      "path": "posts/2026-03-09-openai-is-walking-away-from-expanding-its-stargate-data-center-with-oracle.html",
+      "date_iso": "2026-03-09T20:36:43+00:00",
+      "source": "https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html Comments URL: https://news.ycombinator.com/item?id=47315128 Points: 323 # Comments: 181"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47313934",
+      "title": "Notes on Baking at the South Pole",
+      "slug": "2026-03-09-notes-on-baking-at-the-south-pole.html",
+      "path": "posts/2026-03-09-notes-on-baking-at-the-south-pole.html",
+      "date_iso": "2026-03-09T19:12:14+00:00",
+      "source": "https://www.newyorker.com/culture/the-weekend-essay/the-most-beautiful-freezer-in-the-world",
+      "summary": "Article URL: https://www.newyorker.com/culture/the-weekend-essay/the-most-beautiful-freezer-in-the-world Comments URL: https://news.ycombinator.com/item?id=47313934 Points: 52 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47313884",
+      "title": "Bluesky CEO Jay Graber is stepping down",
+      "slug": "2026-03-09-bluesky-ceo-jay-graber-is-stepping-down.html",
+      "path": "posts/2026-03-09-bluesky-ceo-jay-graber-is-stepping-down.html",
+      "date_iso": "2026-03-09T19:09:03+00:00",
+      "source": "https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky",
+      "summary": "https://www.wired.com/story/bluesky-ceo-jay-graber-is-steppi... ( https://web.archive.org/web/20260309191134/https://www.wired... ) https://toni.org/2026/03/09/coming-off-the-bench-for-bluesky... Comments URL: https://news.ycombinator.com/item?id=47313884 Points: 366 # Comments:…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47312329",
+      "title": "Fixfest is a global gathering of repairers, tinkerers, and activists",
+      "slug": "2026-03-09-fixfest-is-a-global-gathering-of-repairers-tinkerers-and-activists.html",
+      "path": "posts/2026-03-09-fixfest-is-a-global-gathering-of-repairers-tinkerers-and-activists.html",
+      "date_iso": "2026-03-09T17:34:27+00:00",
+      "source": "https://fixfest.therestartproject.org/",
+      "summary": "Article URL: https://fixfest.therestartproject.org/ Comments URL: https://news.ycombinator.com/item?id=47312329 Points: 163 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47312090",
+      "title": "Florida judge rules red light camera tickets are unconstitutional",
+      "slug": "2026-03-09-florida-judge-rules-red-light-camera-tickets-are-unconstitutional.html",
+      "path": "posts/2026-03-09-florida-judge-rules-red-light-camera-tickets-are-unconstitutional.html",
+      "date_iso": "2026-03-09T17:20:29+00:00",
+      "source": "https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional",
+      "summary": "Article URL: https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional Comments URL: https://news.ycombinator.com/item?id=47312090 Points: 415 # Comments: 533"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47311815",
+      "title": "Building a Procedural Hex Map with Wave Function Collapse",
+      "slug": "2026-03-09-building-a-procedural-hex-map-with-wave-function-collapse.html",
+      "path": "posts/2026-03-09-building-a-procedural-hex-map-with-wave-function-collapse.html",
+      "date_iso": "2026-03-09T17:02:22+00:00",
+      "source": "https://felixturner.github.io/hex-map-wfc/article/",
+      "summary": "Article URL: https://felixturner.github.io/hex-map-wfc/article/ Comments URL: https://news.ycombinator.com/item?id=47311815 Points: 464 # Comments: 69"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47311669",
+      "title": "DARPA’s new X-76",
+      "slug": "2026-03-09-darpa-s-new-x-76.html",
+      "path": "posts/2026-03-09-darpa-s-new-x-76.html",
+      "date_iso": "2026-03-09T16:54:31+00:00",
+      "source": "https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter",
+      "summary": "Article URL: https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter Comments URL: https://news.ycombinator.com/item?id=47311669 Points: 192 # Comments: 177"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47311657",
+      "title": "Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents",
+      "slug": "2026-03-09-launch-hn-terminal-use-yc-w26-vercel-for-filesystem-based-agents.html",
+      "path": "posts/2026-03-09-launch-hn-terminal-use-yc-w26-vercel-for-filesystem-based-agents.html",
+      "date_iso": "2026-03-09T16:53:52+00:00",
+      "source": "https://news.ycombinator.com/item?id=47311657",
+      "summary": "Hello Hacker News! We're Filip, Stavros, and Vivek from Terminal Use ( https://www.terminaluse.com/ ). We built Terminal Use to make it easier to deploy agents that work in a sandboxed environment and need filesystems to do work. This includes coding agents, research agents, doc…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47311484",
+      "title": "JSLinux Now Supports x86_64",
+      "slug": "2026-03-09-jslinux-now-supports-x86-64.html",
+      "path": "posts/2026-03-09-jslinux-now-supports-x86-64.html",
+      "date_iso": "2026-03-09T16:43:39+00:00",
+      "source": "https://bellard.org/jslinux/",
+      "summary": "Article URL: https://bellard.org/jslinux/ Comments URL: https://news.ycombinator.com/item?id=47311484 Points: 302 # Comments: 84"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47311179",
+      "title": "An opinionated take on how to do important research that matters",
+      "slug": "2026-03-09-an-opinionated-take-on-how-to-do-important-research-that-matters.html",
+      "path": "posts/2026-03-09-an-opinionated-take-on-how-to-do-important-research-that-matters.html",
+      "date_iso": "2026-03-09T16:24:22+00:00",
+      "source": "https://nicholas.carlini.com/writing/2026/how-to-win-a-best-paper-award.html",
+      "summary": "Article URL: https://nicholas.carlini.com/writing/2026/how-to-win-a-best-paper-award.html Comments URL: https://news.ycombinator.com/item?id=47311179 Points: 116 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47310160",
+      "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
+      "slug": "2026-03-09-is-legal-the-same-as-legitimate-ai-reimplementation-and-the-erosion-of-copyleft.html",
+      "path": "posts/2026-03-09-is-legal-the-same-as-legitimate-ai-reimplementation-and-the-erosion-of-copyleft.html",
+      "date_iso": "2026-03-09T15:12:53+00:00",
+      "source": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
+      "summary": "Article URL: https://writings.hongminhee.org/2026/03/legal-vs-legitimate/ Comments URL: https://news.ycombinator.com/item?id=47310160 Points: 423 # Comments: 462"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47309953",
+      "title": "Show HN: DenchClaw – Local CRM on Top of OpenClaw",
+      "slug": "2026-03-09-show-hn-denchclaw-local-crm-on-top-of-openclaw.html",
+      "path": "posts/2026-03-09-show-hn-denchclaw-local-crm-on-top-of-openclaw.html",
+      "date_iso": "2026-03-09T14:55:42+00:00",
+      "source": "https://github.com/DenchHQ/DenchClaw",
+      "summary": "Hi everyone, I am Kumar, co-founder of Dench ( https://denchclaw.com ). We were part of YC S24, an agentic workflow company that previously worked with sales floors automating niche enterprise tasks such as outbound calling, legal intake, etc. Building consumer / power-user soft…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/09/business/nscale-ai-data-center-boom.html",
+      "title": "The Former Coal Miner in the Middle of the A.I. Data Center Boom",
+      "slug": "2026-03-09-the-former-coal-miner-in-the-middle-of-the-a-i-data-center-boom.html",
+      "path": "posts/2026-03-09-the-former-coal-miner-in-the-middle-of-the-a-i-data-center-boom.html",
+      "date_iso": "2026-03-09T14:41:41+00:00",
+      "source": "https://www.nytimes.com/2026/03/09/business/nscale-ai-data-center-boom.html",
+      "summary": "Josh Payne, the chief executive of Nscale, raised $2 billion from investors. Sheryl Sandberg, the former Facebook executive, is joining his board."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47305461",
       "title": "US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]",
       "slug": "2026-03-09-us-court-of-appeals-tos-may-be-updated-by-email-use-can-imply-consent-pdf.html",
