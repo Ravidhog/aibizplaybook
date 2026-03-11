@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon</h1>
+    <p><small>Published: 2026-03-10T17:14:52+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hi HN, we're Sanchit and Shubham (YC W26). We built a fast inference engine for Apple Silicon. LLMs, speech-to-text, text-to-speech – MetalRT beats llama.cpp, Apple's MLX, Ollama, and sherpa-onnx on every modality we tested. Custom Metal shaders, no framework overhead.<p>Also, we've open-sourced RCLI, the fastest end-to-end voice AI pipeline on Apple Silicon. Mic to spoken response, entirely on-device. No cloud, no API keys.<p>To get started:<p><pre><code>  brew tap RunanywhereAI/rcli https://github.com/RunanywhereAI/RCLI.git
+  brew install rcli
+  rcli setup   # downloads ~1 GB of models
+  rcli         # interactive mode with push-to-talk
+</code></pre>
+Or:<p><pre><code>  curl -fsSL https://raw.githubusercontent.com/RunanywhereAI/RCLI/main/install.sh | bash
+</code></pre>
+The numbers (M4 Max, 64 GB, reproducible via `rcli bench`):<p>LLM decode – 1.67x faster than llama.cpp, 1.19x faster than Apple MLX (same model files):
+- Qwen3-0.6B: 658 tok/s (vs mlx-lm 552, llama.cpp 295)
+- Qwen3-4B: 186 tok/s (vs mlx-lm 170, llama.cpp 87)
+- LFM2.5-1.2B: 570 tok/s (vs mlx-lm 509, llama.cpp 372)
+- Time-to-first-token: 6.6 ms<p>STT – 70 seconds of audio transcribed in *101 ms*. That's 714x real-time. 4.6x faster than mlx-whisper.<p>TTS – 178 ms synthesis. 2.8x faster than mlx-audio and sherpa-onnx.<p>We built this because demoing on-device AI is easy but shipping it is brutal. Voice is the hardest test: you're chaining STT, LLM, and TTS sequentially, and if any stage is slow, the user feels it. Most teams fall back to cloud APIs not because local models are bad, but because local inference infrastructure is.<p>The thing that's hard to solve is latency compounding. In a voice pipeline, you're stacking three models in sequence. If each adds 200ms, you're at 600ms before the user hears a word, and that feels broken. You can't optimize one stage and call it done. Every stage needs to be fast, on one device, with no network round-trip to hide behind.<p>We went straight to Metal. Custom GPU compute shaders, all memory pre-allocated at init (zero allocations during inference), and one unified engine for all three modalities instead of stitching separate runtimes together.<p>MetalRT is the first engine to handle all three modalities natively on Apple Silicon. Full methodology:<p>LLM benchmarks: <a href="https://www.runanywhere.ai/blog/metalrt-fastest-llm-decode-engine-apple-silicon">https://www.runanywhere.ai/blog/metalrt-fastest-llm-decode-e...</a><p>Speech benchmarks: <a href="https://www.runanywhere.ai/blog/metalrt-speech-fastest-stt-tts-apple-silicon">https://www.runanywhere.ai/blog/metalrt-speech-fastest-stt-t...</a><p>How: Most inference engines add layers between you and the GPU: graph schedulers, runtime dispatchers, memory managers. MetalRT skips all of it. Custom Metal compute shaders for quantized matmul, attention, and activation - compiled ahead of time, dispatched directly.<p>Voice Pipeline optimizations details: <a href="https://www.runanywhere.ai/blog/fastvoice-on-device-voice-ai-pipeline-apple-silicon">https://www.runanywhere.ai/blog/fastvoice-on-device-voice-ai...</a>
+RAG optimizations: <a href="https://www.runanywhere.ai/blog/fastvoice-rag-on-device-retrieval-augmented-voice-ai">https://www.runanywhere.ai/blog/fastvoice-rag-on-device-retr...</a><p>RCLI is the open-source voice pipeline (MIT) built on MetalRT: three concurrent threads with lock-free ring buffers, double-buffered TTS, 38 macOS actions by voice, local RAG (~4 ms over 5K+ chunks), 20 hot-swappable models, and a full-screen TUI with per-op latency readouts. Falls back to llama.cpp when MetalRT isn't installed.<p>Source: <a href="https://github.com/RunanywhereAI/RCLI" rel="nofollow">https://github.com/RunanywhereAI/RCLI</a> (MIT)<p>Demo: <a href="https://www.youtube.com/watch?v=eTYwkgNoaKg" rel="nofollow">https://www.youtube.com/watch?v=eTYwkgNoaKg</a><p>What would you build if on-device AI were genuinely as fast as cloud?</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47326101">https://news.ycombinator.com/item?id=47326101</a></p>
+<p>Points: 205</p>
+<p># Comments: 124</p>
+    <p><a href="https://github.com/RunanywhereAI/rcli" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

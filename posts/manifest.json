@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47332074",
+      "title": "Create value for others and don’t worry about the returns",
+      "slug": "2026-03-11-create-value-for-others-and-don-t-worry-about-the-returns.html",
+      "path": "posts/2026-03-11-create-value-for-others-and-don-t-worry-about-the-returns.html",
+      "date_iso": "2026-03-11T05:45:49+00:00",
+      "source": "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html",
+      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html Comments URL: https://news.ycombinator.com/item?id=47332074 Points: 154 # Comments: 52"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47332054",
+      "title": "TADA: Fast, Reliable Speech Generation Through Text-Acoustic Synchronization",
+      "slug": "2026-03-11-tada-fast-reliable-speech-generation-through-text-acoustic-synchronization.html",
+      "path": "posts/2026-03-11-tada-fast-reliable-speech-generation-through-text-acoustic-synchronization.html",
+      "date_iso": "2026-03-11T05:42:55+00:00",
+      "source": "https://www.hume.ai/blog/opensource-tada",
+      "summary": "Article URL: https://www.hume.ai/blog/opensource-tada Comments URL: https://news.ycombinator.com/item?id=47332054 Points: 10 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47331802",
+      "title": "Standardizing source maps",
+      "slug": "2026-03-11-standardizing-source-maps.html",
+      "path": "posts/2026-03-11-standardizing-source-maps.html",
+      "date_iso": "2026-03-11T04:42:23+00:00",
+      "source": "https://bloomberg.github.io/js-blog/post/standardizing-source-maps/",
+      "summary": "Article URL: https://bloomberg.github.io/js-blog/post/standardizing-source-maps/ Comments URL: https://news.ycombinator.com/item?id=47331802 Points: 20 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47331034",
+      "title": "Writing my own text editor, and daily-driving it",
+      "slug": "2026-03-11-writing-my-own-text-editor-and-daily-driving-it.html",
+      "path": "posts/2026-03-11-writing-my-own-text-editor-and-daily-driving-it.html",
+      "date_iso": "2026-03-11T02:04:22+00:00",
+      "source": "https://blog.jsbarretto.com/post/text-editor",
+      "summary": "Article URL: https://blog.jsbarretto.com/post/text-editor Comments URL: https://news.ycombinator.com/item?id=47331034 Points: 82 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47330836",
+      "title": "Zig – Type Resolution Redesign and Language Changes",
+      "slug": "2026-03-11-zig-type-resolution-redesign-and-language-changes.html",
+      "path": "posts/2026-03-11-zig-type-resolution-redesign-and-language-changes.html",
+      "date_iso": "2026-03-11T01:24:47+00:00",
+      "source": "https://ziglang.org/devlog/2026/#2026-03-10",
+      "summary": "Article URL: https://ziglang.org/devlog/2026/#2026-03-10 Comments URL: https://news.ycombinator.com/item?id=47330836 Points: 159 # Comments: 52"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47329608",
+      "title": "Universal vaccine against respiratory infections and allergens",
+      "slug": "2026-03-10-universal-vaccine-against-respiratory-infections-and-allergens.html",
+      "path": "posts/2026-03-10-universal-vaccine-against-respiratory-infections-and-allergens.html",
+      "date_iso": "2026-03-10T22:33:48+00:00",
+      "source": "https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html",
+      "summary": "Article URL: https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html Comments URL: https://news.ycombinator.com/item?id=47329608 Points: 207 # Comments: 72"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47329605",
+      "title": "U+237C ⍼ Is Azimuth",
+      "slug": "2026-03-10-u-237c-is-azimuth.html",
+      "path": "posts/2026-03-10-u-237c-is-azimuth.html",
+      "date_iso": "2026-03-10T22:33:45+00:00",
+      "source": "https://ionathan.ch/2026/02/16/angzarr.html",
+      "summary": "Article URL: https://ionathan.ch/2026/02/16/angzarr.html Comments URL: https://news.ycombinator.com/item?id=47329605 Points: 260 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47329557",
+      "title": "Cloudflare crawl endpoint",
+      "slug": "2026-03-10-cloudflare-crawl-endpoint.html",
+      "path": "posts/2026-03-10-cloudflare-crawl-endpoint.html",
+      "date_iso": "2026-03-10T22:27:15+00:00",
+      "source": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
+      "summary": "Article URL: https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/ Comments URL: https://news.ycombinator.com/item?id=47329557 Points: 254 # Comments: 99"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47328214",
+      "title": "RISC-V Is Sloooow",
+      "slug": "2026-03-10-risc-v-is-sloooow.html",
+      "path": "posts/2026-03-10-risc-v-is-sloooow.html",
+      "date_iso": "2026-03-10T20:11:54+00:00",
+      "source": "https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/",
+      "summary": "Article URL: https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/ Comments URL: https://news.ycombinator.com/item?id=47328214 Points: 212 # Comments: 202"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47327559",
+      "title": "Agents that run while I sleep",
+      "slug": "2026-03-10-agents-that-run-while-i-sleep.html",
+      "path": "posts/2026-03-10-agents-that-run-while-i-sleep.html",
+      "date_iso": "2026-03-10T19:09:46+00:00",
+      "source": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
+      "summary": "Article URL: https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep Comments URL: https://news.ycombinator.com/item?id=47327559 Points: 303 # Comments: 296"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/10/technology/meta-moltbook-social-ai-bots.html",
+      "title": "Meta Acquires Moltbook, the Social Network Just for A.I. Bots",
+      "slug": "2026-03-10-meta-acquires-moltbook-the-social-network-just-for-a-i-bots.html",
+      "path": "posts/2026-03-10-meta-acquires-moltbook-the-social-network-just-for-a-i-bots.html",
+      "date_iso": "2026-03-10T19:03:10+00:00",
+      "source": "https://www.nytimes.com/2026/03/10/technology/meta-moltbook-social-ai-bots.html",
+      "summary": "At Moltbook, agents based on a software called OpenClaw can chat with one another, much like people on Facebook and Instagram."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47327473",
+      "title": "Mesh over Bluetooth LE, TCP, or Reticulum",
+      "slug": "2026-03-10-mesh-over-bluetooth-le-tcp-or-reticulum.html",
+      "path": "posts/2026-03-10-mesh-over-bluetooth-le-tcp-or-reticulum.html",
+      "date_iso": "2026-03-10T19:02:01+00:00",
+      "source": "https://github.com/torlando-tech/columba",
+      "summary": "Article URL: https://github.com/torlando-tech/columba Comments URL: https://news.ycombinator.com/item?id=47327473 Points: 78 # Comments: 8"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/10/technology/ai-social-media-child-safety-parents.html",
+      "title": "A.I. Incites a New Wave of Grieving Parents Fighting for Online Safety",
+      "slug": "2026-03-10-a-i-incites-a-new-wave-of-grieving-parents-fighting-for-online-safety.html",
+      "path": "posts/2026-03-10-a-i-incites-a-new-wave-of-grieving-parents-fighting-for-online-safety.html",
+      "date_iso": "2026-03-10T18:35:44+00:00",
+      "source": "https://www.nytimes.com/2026/03/10/technology/ai-social-media-child-safety-parents.html",
+      "summary": "Megan Garcia sued Google and Character.AI in 2024 over the suicide of her 14-year-old son, Sewell."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47327015",
+      "title": "FFmpeg-over-IP – Connect to remote FFmpeg servers",
+      "slug": "2026-03-10-ffmpeg-over-ip-connect-to-remote-ffmpeg-servers.html",
+      "path": "posts/2026-03-10-ffmpeg-over-ip-connect-to-remote-ffmpeg-servers.html",
+      "date_iso": "2026-03-10T18:26:39+00:00",
+      "source": "https://github.com/steelbrain/ffmpeg-over-ip",
+      "summary": "Article URL: https://github.com/steelbrain/ffmpeg-over-ip Comments URL: https://news.ycombinator.com/item?id=47327015 Points: 171 # Comments: 57"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47326101",
+      "title": "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
+      "slug": "2026-03-10-launch-hn-runanywhere-yc-w26-faster-ai-inference-on-apple-silicon.html",
+      "path": "posts/2026-03-10-launch-hn-runanywhere-yc-w26-faster-ai-inference-on-apple-silicon.html",
+      "date_iso": "2026-03-10T17:14:52+00:00",
+      "source": "https://github.com/RunanywhereAI/rcli",
+      "summary": "Hi HN, we're Sanchit and Shubham (YC W26). We built a fast inference engine for Apple Silicon. LLMs, speech-to-text, text-to-speech – MetalRT beats llama.cpp, Apple's MLX, Ollama, and sherpa-onnx on every modality we tested. Custom Metal shaders, no framework overhead. Also, we'…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/10/business/boeing-737-max-delay.html",
+      "title": "Boeing Says Wiring Issue Will Delay Some 737 Max Deliveries",
+      "slug": "2026-03-10-boeing-says-wiring-issue-will-delay-some-737-max-deliveries.html",
+      "path": "posts/2026-03-10-boeing-says-wiring-issue-will-delay-some-737-max-deliveries.html",
+      "date_iso": "2026-03-10T16:45:45+00:00",
+      "source": "https://www.nytimes.com/2026/03/10/business/boeing-737-max-delay.html",
+      "summary": "A Boeing 737 Max at the company’s plant in Renton, Wash. Boeing said on Tuesday that it would delay delivery of some 737 Max jets as wiring issues were fixed."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47324296",
+      "title": "Launch HN: Didit (YC W26) – Stripe for Identity Verification",
+      "slug": "2026-03-10-launch-hn-didit-yc-w26-stripe-for-identity-verification.html",
+      "path": "posts/2026-03-10-launch-hn-didit-yc-w26-stripe-for-identity-verification.html",
+      "date_iso": "2026-03-10T15:08:05+00:00",
+      "source": "https://news.ycombinator.com/item?id=47324296",
+      "summary": "Hi HN, I’m Alberto. I co-founded Didit ( https://didit.me ) with my identical twin brother Alejandro. We are building a unified identity layer—a single integration that handles KYC, AML, biometrics, authentication, and fraud prevention globally. Here’s a demo: https://www.youtub…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/10/technology/ai-daily-life-callout.html",
+      "title": "How Do You Use A.I. for Daily Life?",
+      "slug": "2026-03-10-how-do-you-use-a-i-for-daily-life.html",
+      "path": "posts/2026-03-10-how-do-you-use-a-i-for-daily-life.html",
+      "date_iso": "2026-03-10T14:59:45+00:00",
+      "source": "https://www.nytimes.com/2026/03/10/technology/ai-daily-life-callout.html",
+      "summary": "We want to hear how artificial intelligence helps you with tasks like meal prep, translation and planning a trip."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47324087",
+      "title": "Debian decides not to decide on AI-generated contributions",
+      "slug": "2026-03-10-debian-decides-not-to-decide-on-ai-generated-contributions.html",
+      "path": "posts/2026-03-10-debian-decides-not-to-decide-on-ai-generated-contributions.html",
+      "date_iso": "2026-03-10T14:53:13+00:00",
+      "source": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1061544/125f911834966dd0/ Comments URL: https://news.ycombinator.com/item?id=47324087 Points: 317 # Comments: 240"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47324058",
+      "title": "We are building data breach machines and nobody cares",
+      "slug": "2026-03-10-we-are-building-data-breach-machines-and-nobody-cares.html",
+      "path": "posts/2026-03-10-we-are-building-data-breach-machines-and-nobody-cares.html",
+      "date_iso": "2026-03-10T14:50:43+00:00",
+      "source": "https://idealloc.me/posts/we-are-building-data-breach-machines-and-nobody-cares/",
+      "summary": "Article URL: https://idealloc.me/posts/we-are-building-data-breach-machines-and-nobody-cares/ Comments URL: https://news.ycombinator.com/item?id=47324058 Points: 123 # Comments: 43"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47324054",
+      "title": "Tony Hoare has died",
+      "slug": "2026-03-10-tony-hoare-has-died.html",
+      "path": "posts/2026-03-10-tony-hoare-has-died.html",
+      "date_iso": "2026-03-10T14:50:16+00:00",
+      "source": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+      "summary": "Article URL: https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html Comments URL: https://news.ycombinator.com/item?id=47324054 Points: 1709 # Comments: 220"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47323900",
+      "title": "Meta acquires Moltbook",
+      "slug": "2026-03-10-meta-acquires-moltbook.html",
+      "path": "posts/2026-03-10-meta-acquires-moltbook.html",
+      "date_iso": "2026-03-10T14:38:06+00:00",
+      "source": "https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network",
+      "summary": "https://web.archive.org/web/20260310154640/https://www.axios... , https://archive.ph/igqsh https://www.reuters.com/business/meta-acquires-ai-agent-soci... https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the... Comments URL: https://news.ycombinator.com/item?id=47323900…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/10/technology/youtube-deepfakes-detection-tool.html",
+      "title": "YouTube Adds Tool to Help Public Figures Report Fake Videos",
+      "slug": "2026-03-10-youtube-adds-tool-to-help-public-figures-report-fake-videos.html",
+      "path": "posts/2026-03-10-youtube-adds-tool-to-help-public-figures-report-fake-videos.html",
+      "date_iso": "2026-03-10T14:00:06+00:00",
+      "source": "https://www.nytimes.com/2026/03/10/technology/youtube-deepfakes-detection-tool.html",
+      "summary": "The San Bruno, Calif., headquarters of YouTube, which is introducing a program to help participants monitor and report videos that use artificial intelligence to impersonate them."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47323017",
+      "title": "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
+      "slug": "2026-03-10-after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes.html",
+      "path": "posts/2026-03-10-after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes.html",
+      "date_iso": "2026-03-10T13:31:17+00:00",
+      "source": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
+      "summary": "https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f77... ( https://archive.ph/wXvF3 ) https://twitter.com/lukolejnik/status/2031257644724342957 ( https://xcancel.com/lukolejnik/status/2031257644724342957 ) Comments URL: https://news.ycombinator.com/item?id=47323017 Points…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47320614",
+      "title": "Levels of Agentic Engineering",
+      "slug": "2026-03-10-levels-of-agentic-engineering.html",
+      "path": "posts/2026-03-10-levels-of-agentic-engineering.html",
+      "date_iso": "2026-03-10T08:48:40+00:00",
+      "source": "https://www.bassimeledath.com/blog/levels-of-agentic-engineering",
+      "summary": "Article URL: https://www.bassimeledath.com/blog/levels-of-agentic-engineering Comments URL: https://news.ycombinator.com/item?id=47320614 Points: 149 # Comments: 76"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47319294",
       "title": "Claude Code, Claude Cowork and Codex #5",
       "slug": "2026-03-10-claude-code-claude-cowork-and-codex-5.html",
