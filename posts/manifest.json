@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47347362",
+      "title": "SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]",
+      "slug": "2026-03-12-sbcl-a-sanely-bootstrappable-common-lisp-2008-pdf.html",
+      "path": "posts/2026-03-12-sbcl-a-sanely-bootstrappable-common-lisp-2008-pdf.html",
+      "date_iso": "2026-03-12T06:55:56+00:00",
+      "source": "https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf",
+      "summary": "Article URL: https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf Comments URL: https://news.ycombinator.com/item?id=47347362 Points: 4 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47347064",
+      "title": "Returning to Rails in 2026",
+      "slug": "2026-03-12-returning-to-rails-in-2026.html",
+      "path": "posts/2026-03-12-returning-to-rails-in-2026.html",
+      "date_iso": "2026-03-12T06:06:46+00:00",
+      "source": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
+      "summary": "Article URL: https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/ Comments URL: https://news.ycombinator.com/item?id=47347064 Points: 35 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47346091",
+      "title": "Iran-backed hackers claim wiper attack on medtech firm Stryker",
+      "slug": "2026-03-12-iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker.html",
+      "path": "posts/2026-03-12-iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker.html",
+      "date_iso": "2026-03-12T03:29:28+00:00",
+      "source": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
+      "summary": "Article URL: https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/ Comments URL: https://news.ycombinator.com/item?id=47346091 Points: 125 # Comments: 49"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47345393",
+      "title": "DHS Contracts Explorer – Hacked data from the Office of Industry Partnership",
+      "slug": "2026-03-12-dhs-contracts-explorer-hacked-data-from-the-office-of-industry-partnership.html",
+      "path": "posts/2026-03-12-dhs-contracts-explorer-hacked-data-from-the-office-of-industry-partnership.html",
+      "date_iso": "2026-03-12T02:03:01+00:00",
+      "source": "https://micahflee.github.io/ice-contracts/",
+      "summary": "Article URL: https://micahflee.github.io/ice-contracts/ Comments URL: https://news.ycombinator.com/item?id=47345393 Points: 221 # Comments: 44"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47345364",
+      "title": "Urea prices",
+      "slug": "2026-03-12-urea-prices.html",
+      "path": "posts/2026-03-12-urea-prices.html",
+      "date_iso": "2026-03-12T01:59:47+00:00",
+      "source": "https://tradingeconomics.com/commodity/urea",
+      "summary": "Article URL: https://tradingeconomics.com/commodity/urea Comments URL: https://news.ycombinator.com/item?id=47345364 Points: 81 # Comments: 63"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47344548",
+      "title": "Show HN: s@: decentralized social networking over static sites",
+      "slug": "2026-03-12-show-hn-s-decentralized-social-networking-over-static-sites.html",
+      "path": "posts/2026-03-12-show-hn-s-decentralized-social-networking-over-static-sites.html",
+      "date_iso": "2026-03-12T00:22:19+00:00",
+      "source": "http://satproto.org/",
+      "summary": "Article URL: http://satproto.org/ Comments URL: https://news.ycombinator.com/item?id=47344548 Points: 220 # Comments: 83"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47343935",
+      "title": "Show HN: Autoresearch@home",
+      "slug": "2026-03-11-show-hn-autoresearch-home.html",
+      "path": "posts/2026-03-11-show-hn-autoresearch-home.html",
+      "date_iso": "2026-03-11T23:27:18+00:00",
+      "source": "https://www.ensue-network.ai/autoresearch",
+      "summary": "autoresearch@home is a collaborative research collective where AI agents share GPU resources to collectively improve a language model. Think SETI@home, but for model training. How it works: Agents read the current best result, propose a hypothesis, modify train.py, run the exper…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47343927",
+      "title": "Show HN: A context-aware permission guard for Claude Code",
+      "slug": "2026-03-11-show-hn-a-context-aware-permission-guard-for-claude-code.html",
+      "path": "posts/2026-03-11-show-hn-a-context-aware-permission-guard-for-claude-code.html",
+      "date_iso": "2026-03-11T23:26:25+00:00",
+      "source": "https://github.com/manuelschipper/nah/",
+      "summary": "We needed something like --dangerously-skip-permissions that doesn’t nuke your untracked files, exfiltrate your keys, or install malware. Claude Code's permission system is allow-or-deny per tool, but that doesn’t really scale. Deleting some files is fine sometimes. And git chec…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47341760",
+      "title": "Meticulous (YC S21) is hiring to redefine software dev",
+      "slug": "2026-03-11-meticulous-yc-s21-is-hiring-to-redefine-software-dev.html",
+      "path": "posts/2026-03-11-meticulous-yc-s21-is-hiring-to-redefine-software-dev.html",
+      "date_iso": "2026-03-11T21:01:42+00:00",
+      "source": "https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e",
+      "summary": "Article URL: https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e Comments URL: https://news.ycombinator.com/item?id=47341760 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47341645",
+      "title": "Many SWE-bench-Passing PRs would not be merged",
+      "slug": "2026-03-11-many-swe-bench-passing-prs-would-not-be-merged.html",
+      "path": "posts/2026-03-11-many-swe-bench-passing-prs-would-not-be-merged.html",
+      "date_iso": "2026-03-11T20:56:52+00:00",
+      "source": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
+      "summary": "Article URL: https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/ Comments URL: https://news.ycombinator.com/item?id=47341645 Points: 215 # Comments: 91"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47340079",
+      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
+      "slug": "2026-03-11-don-t-post-generated-ai-edited-comments-hn-is-for-conversation-between-humans.html",
+      "path": "posts/2026-03-11-don-t-post-generated-ai-edited-comments-hn-is-for-conversation-between-humans.html",
+      "date_iso": "2026-03-11T19:29:29+00:00",
+      "source": "https://news.ycombinator.com/newsguidelines.html#generated",
+      "summary": "Article URL: https://news.ycombinator.com/newsguidelines.html#generated Comments URL: https://news.ycombinator.com/item?id=47340079 Points: 3347 # Comments: 1256"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47339164",
+      "title": "I was interviewed by an AI bot for a job",
+      "slug": "2026-03-11-i-was-interviewed-by-an-ai-bot-for-a-job.html",
+      "path": "posts/2026-03-11-i-was-interviewed-by-an-ai-bot-for-a-job.html",
+      "date_iso": "2026-03-11T18:17:30+00:00",
+      "source": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
+      "summary": "https://archive.ph/DEwy7 Comments URL: https://news.ycombinator.com/item?id=47339164 Points: 260 # Comments: 243"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47337607",
+      "title": "Show HN: I built a tool that watches webpages and exposes changes as RSS",
+      "slug": "2026-03-11-show-hn-i-built-a-tool-that-watches-webpages-and-exposes-changes-as-rss.html",
+      "path": "posts/2026-03-11-show-hn-i-built-a-tool-that-watches-webpages-and-exposes-changes-as-rss.html",
+      "date_iso": "2026-03-11T16:21:06+00:00",
+      "source": "https://sitespy.app",
+      "summary": "I built Site Spy after missing a visa appointment slot because a government page changed and I didn’t notice for two weeks. It watches webpages for changes and shows the result like a diff. The part I think HN might find interesting is that it can monitor a specific element on a…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47337249",
+      "title": "Show HN: Klaus – OpenClaw on a VM, batteries included",
+      "slug": "2026-03-11-show-hn-klaus-openclaw-on-a-vm-batteries-included.html",
+      "path": "posts/2026-03-11-show-hn-klaus-openclaw-on-a-vm-batteries-included.html",
+      "date_iso": "2026-03-11T15:54:23+00:00",
+      "source": "https://klausai.com/",
+      "summary": "We are Bailey and Robbie and we are working on Klaus ( https://klausai.com/ ): hosted OpenClaw that is secure and powerful out of the box. Running OpenClaw requires setting up a cloud VM or local container (a pain) or giving OpenClaw root access to your machine (insecure). Many…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47336989",
+      "title": "Temporal: The 9-year journey to fix time in JavaScript",
+      "slug": "2026-03-11-temporal-the-9-year-journey-to-fix-time-in-javascript.html",
+      "path": "posts/2026-03-11-temporal-the-9-year-journey-to-fix-time-in-javascript.html",
+      "date_iso": "2026-03-11T15:35:50+00:00",
+      "source": "https://bloomberg.github.io/js-blog/post/temporal/",
+      "summary": "Article URL: https://bloomberg.github.io/js-blog/post/temporal/ Comments URL: https://news.ycombinator.com/item?id=47336989 Points: 638 # Comments: 203"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47336476",
+      "title": "Google closes deal to acquire Wiz",
+      "slug": "2026-03-11-google-closes-deal-to-acquire-wiz.html",
+      "path": "posts/2026-03-11-google-closes-deal-to-acquire-wiz.html",
+      "date_iso": "2026-03-11T14:58:20+00:00",
+      "source": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz",
+      "summary": "Previously: Google to buy Wiz for $32B - https://news.ycombinator.com/item?id=43398518 - March 2025 (845 comments) Comments URL: https://news.ycombinator.com/item?id=47336476 Points: 275 # Comments: 167"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47336111",
+      "title": "Faster asin() was hiding in plain sight",
+      "slug": "2026-03-11-faster-asin-was-hiding-in-plain-sight.html",
+      "path": "posts/2026-03-11-faster-asin-was-hiding-in-plain-sight.html",
+      "date_iso": "2026-03-11T14:35:53+00:00",
+      "source": "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/",
+      "summary": "Article URL: https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/ Comments URL: https://news.ycombinator.com/item?id=47336111 Points: 194 # Comments: 105"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47335349",
+      "title": "Entities enabling scientific fraud at scale (2025)",
+      "slug": "2026-03-11-entities-enabling-scientific-fraud-at-scale-2025.html",
+      "path": "posts/2026-03-11-entities-enabling-scientific-fraud-at-scale-2025.html",
+      "date_iso": "2026-03-11T13:32:12+00:00",
+      "source": "https://doi.org/10.1073/pnas.2420092122",
+      "summary": "Article URL: https://doi.org/10.1073/pnas.2420092122 Comments URL: https://news.ycombinator.com/item?id=47335349 Points: 285 # Comments: 194"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47334694",
+      "title": "BitNet: 100B Param 1-Bit model for local CPUs",
+      "slug": "2026-03-11-bitnet-100b-param-1-bit-model-for-local-cpus.html",
+      "path": "posts/2026-03-11-bitnet-100b-param-1-bit-model-for-local-cpus.html",
+      "date_iso": "2026-03-11T12:27:15+00:00",
+      "source": "https://github.com/microsoft/BitNet",
+      "summary": "Article URL: https://github.com/microsoft/BitNet Comments URL: https://news.ycombinator.com/item?id=47334694 Points: 331 # Comments: 160"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47334293",
+      "title": "The MacBook Neo",
+      "slug": "2026-03-11-the-macbook-neo.html",
+      "path": "posts/2026-03-11-the-macbook-neo.html",
+      "date_iso": "2026-03-11T11:37:24+00:00",
+      "source": "https://daringfireball.net/2026/03/the_macbook_neo",
+      "summary": "https://www.pcmag.com/news/asus-co-ceo-macbook-neo-is-a-shoc... Comments URL: https://news.ycombinator.com/item?id=47334293 Points: 498 # Comments: 823"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/11/technology/thomson-reuters-ice-minnesota.html",
+      "title": "They Don’t Want Their Company’s Surveillance Tool Used by ICE",
+      "slug": "2026-03-11-they-don-t-want-their-company-s-surveillance-tool-used-by-ice.html",
+      "path": "posts/2026-03-11-they-don-t-want-their-company-s-surveillance-tool-used-by-ice.html",
+      "date_iso": "2026-03-11T09:02:10+00:00",
+      "source": "https://www.nytimes.com/2026/03/11/technology/thomson-reuters-ice-minnesota.html",
+      "summary": "Thomson Reuters is a $50 billion Toronto-based company that owns the Reuters news service. Its widely used legal research tool, Westlaw, has operations based in the suburbs of Minneapolis."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47332074",
       "title": "Create value for others and don’t worry about the returns",
       "slug": "2026-03-11-create-value-for-others-and-don-t-worry-about-the-returns.html",

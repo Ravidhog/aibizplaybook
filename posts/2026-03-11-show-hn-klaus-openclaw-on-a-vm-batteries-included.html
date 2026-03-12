@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Klaus – OpenClaw on a VM, batteries included</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Klaus – OpenClaw on a VM, batteries included</h1>
+    <p><small>Published: 2026-03-11T15:54:23+00:00</small></p>
+  </header>
+
+  <main>
+    <p>We are Bailey and Robbie and we are working on Klaus (<a href="https://klausai.com/" rel="nofollow">https://klausai.com/</a>): hosted OpenClaw that is secure and powerful out of the box.<p>Running OpenClaw requires setting up a cloud VM or local container (a pain) or giving OpenClaw root access to your machine (insecure). Many basic integrations (eg Slack, Google Workspace) require you to create your own OAuth app.<p>We make running OpenClaw simple by giving each user their own EC2 instance, preconfigured with keys for OpenRouter, AgentMail, and Orthogonal. And we have OAuth apps to make it easy to integrate with Slack and Google Workspace.<p>We are both HN readers (Bailey has been on here for ~10 years) and we know OpenClaw has serious security concerns. We do a lot to make our users’ instances more secure: we run on a private subnet, automatically update the OpenClaw version our users run, and because you’re on our VM by default the only keys you leak if you get hacked belong to us. Connecting your email is still a risk. The best defense I know of is Opus 4.6 for resilience to prompt injection. If you have a better solution, we’d love to hear it!<p>We learned a lot about infrastructure management in the past month. Kimi K2.5 and Mimimax M2.5 are extremely good at hallucinating new ways to break openclaw.json and otherwise wreaking havoc on an EC2 instance. The week after our launch we spent 20+ hours fixing broken machines by hand.<p>We wrote a ton of best practices on using OpenClaw on AWS Linux into our users’ AGENTS.md, got really good at un-bricking EC2 machines over SSM, added a command-and-control server to every instance to facilitate hotfixes and migrations, and set up a Klaus instance to answer FAQs on discord.<p>In addition to all of this, we built ClawBert, our AI SRE for hotfixing OpenClaw instances automatically: <a href="https://www.youtube.com/watch?v=v65F6VBXqKY" rel="nofollow">https://www.youtube.com/watch?v=v65F6VBXqKY</a>. Clawbert is a Claude Code instance that runs whenever a health check fails or the user triggers it in the UI. It can read that user’s entries in our database and execute commands on the user’s instance. We expose a log of Clawbert’s runs to the user.<p>We know that setting up OpenClaw is easy for most HN readers, but I promise it is not for most people. Klaus has a long way to go, but it’s still very rewarding to see people who’ve never used Claude Code get their first taste of AI agents.<p>We charge $19/m for a t4g.small, $49/m for a t4g.medium, and $200/m for a t4g.xlarge and priority support. You get $15 in tokens and $20 in Orthogonal credits one-time.<p>We want to know what you are building on OpenClaw so we can make sure we support it. We are already working with companies like Orthogonal and Openrouter that are building things to make agents more useful, and we’re sure there are more tools out there we don’t know about. If you’ve built something agents want, please let us know. Comments welcome!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47337249">https://news.ycombinator.com/item?id=47337249</a></p>
+<p>Points: 139</p>
+<p># Comments: 77</p>
+    <p><a href="https://klausai.com/" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
