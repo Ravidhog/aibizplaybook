@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Axe – A 12MB binary that replaces your AI framework</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Axe – A 12MB binary that replaces your AI framework</h1>
+    <p><small>Published: 2026-03-12T13:49:12+00:00</small></p>
+  </header>
+
+  <main>
+    <p>I built Axe because I got tired of every AI tool trying to be a chatbot.<p>Most frameworks want a long-lived session with a massive context window doing everything at once. That's expensive, slow, and fragile. Good software is small, focused, and composable... AI agents should be too.<p>Axe treats LLM agents like Unix programs. Each agent is a TOML config with a focused job. Such as code reviewer, log analyzer, commit message writer. You can run them from the CLI, pipe data in, get results out. You can use pipes to chain them together. Or trigger from cron, git hooks, CI.<p>What Axe is:<p>- 12MB binary, two dependencies. no framework, no Python, no Docker (unless you want it)<p>- Stdin piping, something like `git diff | axe run reviewer` just works<p>- Sub-agent delegation. Where agents call other agents via tool use, depth-limited<p>- Persistent memory. If you want, agents can remember across runs without you managing state<p>- MCP support. Axe can connect any MCP server to your agents<p>- Built-in tools. Such as web_search and url_fetch out of the box<p>- Multi-provider. Bring what you love to use.. Anthropic, OpenAI, Ollama, or anything in models.dev format<p>- Path-sandboxed file ops. Keeps agents locked to a working directory<p>Written in Go. No daemon, no GUI.<p>What would you automate first?</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47350516">https://news.ycombinator.com/item?id=47350516</a></p>
+<p>Points: 181</p>
+<p># Comments: 101</p>
+    <p><a href="https://github.com/jrswab/axe" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

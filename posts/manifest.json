@@ -1,6 +1,240 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47360978",
+      "title": "Lost Doctor Who Episodes Found",
+      "slug": "2026-03-13-lost-doctor-who-episodes-found.html",
+      "path": "posts/2026-03-13-lost-doctor-who-episodes-found.html",
+      "date_iso": "2026-03-13T05:18:01+00:00",
+      "source": "https://www.bbc.co.uk/news/articles/c4g7kwq1k11o",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/c4g7kwq1k11o Comments URL: https://news.ycombinator.com/item?id=47360978 Points: 23 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47360730",
+      "title": "Vite 8.0 Is Out",
+      "slug": "2026-03-13-vite-8-0-is-out.html",
+      "path": "posts/2026-03-13-vite-8-0-is-out.html",
+      "date_iso": "2026-03-13T04:36:40+00:00",
+      "source": "https://vite.dev/blog/announcing-vite8",
+      "summary": "Article URL: https://vite.dev/blog/announcing-vite8 Comments URL: https://news.ycombinator.com/item?id=47360730 Points: 174 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47360383",
+      "title": "Hyperlinks in Terminal Emulators",
+      "slug": "2026-03-13-hyperlinks-in-terminal-emulators.html",
+      "path": "posts/2026-03-13-hyperlinks-in-terminal-emulators.html",
+      "date_iso": "2026-03-13T03:32:18+00:00",
+      "source": "https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda",
+      "summary": "Article URL: https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda Comments URL: https://news.ycombinator.com/item?id=47360383 Points: 33 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47360243",
+      "title": "Can you instruct a robot to make a PBJ sandwich?",
+      "slug": "2026-03-13-can-you-instruct-a-robot-to-make-a-pbj-sandwich.html",
+      "path": "posts/2026-03-13-can-you-instruct-a-robot-to-make-a-pbj-sandwich.html",
+      "date_iso": "2026-03-13T03:06:37+00:00",
+      "source": "https://pbj.deliberateinc.com/",
+      "summary": "Article URL: https://pbj.deliberateinc.com/ Comments URL: https://news.ycombinator.com/item?id=47360243 Points: 23 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47359744",
+      "title": "“This is not the computer for you”",
+      "slug": "2026-03-13-this-is-not-the-computer-for-you.html",
+      "path": "posts/2026-03-13-this-is-not-the-computer-for-you.html",
+      "date_iso": "2026-03-13T01:45:49+00:00",
+      "source": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
+      "summary": "Article URL: https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/ Comments URL: https://news.ycombinator.com/item?id=47359744 Points: 298 # Comments: 137"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html",
+      "title": "Meta Delays Rollout of New A.I. Model After Performance Concerns",
+      "slug": "2026-03-13-meta-delays-rollout-of-new-a-i-model-after-performance-concerns.html",
+      "path": "posts/2026-03-13-meta-delays-rollout-of-new-a-i-model-after-performance-concerns.html",
+      "date_iso": "2026-03-13T00:05:06+00:00",
+      "source": "https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html",
+      "summary": "The new A.I. model that Meta’s chief executive, Mark Zuckerberg, is pushing had been targeted for release this month."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47358206",
+      "title": "Grief and the AI split",
+      "slug": "2026-03-12-grief-and-the-ai-split.html",
+      "path": "posts/2026-03-12-grief-and-the-ai-split.html",
+      "date_iso": "2026-03-12T22:35:08+00:00",
+      "source": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/",
+      "summary": "Article URL: https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/ Comments URL: https://news.ycombinator.com/item?id=47358206 Points: 126 # Comments: 193"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47357042",
+      "title": "Shall I implement it? No",
+      "slug": "2026-03-12-shall-i-implement-it-no.html",
+      "path": "posts/2026-03-12-shall-i-implement-it-no.html",
+      "date_iso": "2026-03-12T21:01:10+00:00",
+      "source": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
+      "summary": "Article URL: https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0 Comments URL: https://news.ycombinator.com/item?id=47357042 Points: 1177 # Comments: 446"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47356968",
+      "title": "Innocent woman jailed after being misidentified using AI facial recognition",
+      "slug": "2026-03-12-innocent-woman-jailed-after-being-misidentified-using-ai-facial-recognition.html",
+      "path": "posts/2026-03-12-innocent-woman-jailed-after-being-misidentified-using-ai-facial-recognition.html",
+      "date_iso": "2026-03-12T20:55:51+00:00",
+      "source": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
+      "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case Comments URL: https://news.ycombinator.com/item?id=47356968 Points: 566 # Comments: 290"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47356392",
+      "title": "Bringing Chrome to ARM64 Linux Devices",
+      "slug": "2026-03-12-bringing-chrome-to-arm64-linux-devices.html",
+      "path": "posts/2026-03-12-bringing-chrome-to-arm64-linux-devices.html",
+      "date_iso": "2026-03-12T20:13:15+00:00",
+      "source": "https://blog.chromium.org/2026/03/bringing-chrome-to-arm64-linux-devices.html",
+      "summary": "Article URL: https://blog.chromium.org/2026/03/bringing-chrome-to-arm64-linux-devices.html Comments URL: https://news.ycombinator.com/item?id=47356392 Points: 94 # Comments: 44"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47355410",
+      "title": "Launch HN: IonRouter (YC W26) – High-throughput, low-cost inference",
+      "slug": "2026-03-12-launch-hn-ionrouter-yc-w26-high-throughput-low-cost-inference.html",
+      "path": "posts/2026-03-12-launch-hn-ionrouter-yc-w26-high-throughput-low-cost-inference.html",
+      "date_iso": "2026-03-12T18:52:36+00:00",
+      "source": "https://ionrouter.io",
+      "summary": "Hey HN — I’m Veer and my cofounder is Suryaa. We're building Cumulus Labs (YC W26), and we're releasing our latest product IonRouter ( https://ionrouter.io/ ), an inference API for open-source and fine tuned models. You swap in our base URL, keep your existing OpenAI client code…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html",
+      "title": "Social Media Addiction Trial Nears End. Society Long Ago Rendered Its Verdict.",
+      "slug": "2026-03-12-social-media-addiction-trial-nears-end-society-long-ago-rendered-its-verdict.html",
+      "path": "posts/2026-03-12-social-media-addiction-trial-nears-end-society-long-ago-rendered-its-verdict.html",
+      "date_iso": "2026-03-12T18:32:48+00:00",
+      "source": "https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html",
+      "summary": "Closing arguments began Thursday in a landmark trial that put online behavior under a microscope. In many ways, it has already been decided."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47354098",
+      "title": "Bubble Sorted Amen Break",
+      "slug": "2026-03-12-bubble-sorted-amen-break.html",
+      "path": "posts/2026-03-12-bubble-sorted-amen-break.html",
+      "date_iso": "2026-03-12T17:13:56+00:00",
+      "source": "https://parametricavocado.itch.io/amen-sorting",
+      "summary": "Article URL: https://parametricavocado.itch.io/amen-sorting Comments URL: https://news.ycombinator.com/item?id=47354098 Points: 314 # Comments: 95"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47353904",
+      "title": "Converge (YC S23) Is Hiring a Founding Platform Engineer (NYC, Onsite)",
+      "slug": "2026-03-12-converge-yc-s23-is-hiring-a-founding-platform-engineer-nyc-onsite.html",
+      "path": "posts/2026-03-12-converge-yc-s23-is-hiring-a-founding-platform-engineer-nyc-onsite.html",
+      "date_iso": "2026-03-12T17:01:46+00:00",
+      "source": "https://www.runconverge.com/careers/founding-platform-engineer",
+      "summary": "Article URL: https://www.runconverge.com/careers/founding-platform-engineer Comments URL: https://news.ycombinator.com/item?id=47353904 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47353558",
+      "title": "Show HN: OneCLI – Vault for AI Agents in Rust",
+      "slug": "2026-03-12-show-hn-onecli-vault-for-ai-agents-in-rust.html",
+      "path": "posts/2026-03-12-show-hn-onecli-vault-for-ai-agents-in-rust.html",
+      "date_iso": "2026-03-12T16:41:06+00:00",
+      "source": "https://github.com/onecli/onecli",
+      "summary": "We built OneCLI because AI agents are being given raw API keys. And it's going about as well as you'd expect. We figured the answer isn't \"don't give agents access,\" it's \"give them access without giving them secrets.\" OneCLI is an open-source gateway that sits between your AI a…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47353533",
+      "title": "Reversing memory loss via gut-brain communication",
+      "slug": "2026-03-12-reversing-memory-loss-via-gut-brain-communication.html",
+      "path": "posts/2026-03-12-reversing-memory-loss-via-gut-brain-communication.html",
+      "date_iso": "2026-03-12T16:38:51+00:00",
+      "source": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
+      "summary": "Article URL: https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html Comments URL: https://news.ycombinator.com/item?id=47353533 Points: 292 # Comments: 116"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47352459",
+      "title": "The Met releases high-def 3D scans of 140 famous art objects",
+      "slug": "2026-03-12-the-met-releases-high-def-3d-scans-of-140-famous-art-objects.html",
+      "path": "posts/2026-03-12-the-met-releases-high-def-3d-scans-of-140-famous-art-objects.html",
+      "date_iso": "2026-03-12T15:43:39+00:00",
+      "source": "https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html",
+      "summary": "Article URL: https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html Comments URL: https://news.ycombinator.com/item?id=47352459 Points: 267 # Comments: 50"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47352385",
+      "title": "WolfIP: Lightweight TCP/IP stack with no dynamic memory allocations",
+      "slug": "2026-03-12-wolfip-lightweight-tcp-ip-stack-with-no-dynamic-memory-allocations.html",
+      "path": "posts/2026-03-12-wolfip-lightweight-tcp-ip-stack-with-no-dynamic-memory-allocations.html",
+      "date_iso": "2026-03-12T15:39:50+00:00",
+      "source": "https://github.com/wolfssl/wolfip",
+      "summary": "Article URL: https://github.com/wolfssl/wolfip Comments URL: https://news.ycombinator.com/item?id=47352385 Points: 123 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47351371",
+      "title": "ATMs didn’t kill bank teller jobs, but the iPhone did",
+      "slug": "2026-03-12-atms-didn-t-kill-bank-teller-jobs-but-the-iphone-did.html",
+      "path": "posts/2026-03-12-atms-didn-t-kill-bank-teller-jobs-but-the-iphone-did.html",
+      "date_iso": "2026-03-12T14:48:57+00:00",
+      "source": "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller",
+      "summary": "Article URL: https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller Comments URL: https://news.ycombinator.com/item?id=47351371 Points: 394 # Comments: 422"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47351089",
+      "title": "Hive (YC S14) is hiring scrappy product managers and product/data engineers",
+      "slug": "2026-03-12-hive-yc-s14-is-hiring-scrappy-product-managers-and-product-data-engineers.html",
+      "path": "posts/2026-03-12-hive-yc-s14-is-hiring-scrappy-product-managers-and-product-data-engineers.html",
+      "date_iso": "2026-03-12T14:32:46+00:00",
+      "source": "https://jobs.ashbyhq.com/hive.co",
+      "summary": "Article URL: https://jobs.ashbyhq.com/hive.co Comments URL: https://news.ycombinator.com/item?id=47351089 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html",
+      "title": "A.I. Chatbots Want Your Health Records. Tread Carefully.",
+      "slug": "2026-03-12-a-i-chatbots-want-your-health-records-tread-carefully.html",
+      "path": "posts/2026-03-12-a-i-chatbots-want-your-health-records-tread-carefully.html",
+      "date_iso": "2026-03-12T14:21:20+00:00",
+      "source": "https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html",
+      "summary": "Following rivals like Amazon and OpenAI, Microsoft is upgrading its artificially intelligent assistant to track your health. There are benefits and risks to consider."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47350516",
+      "title": "Show HN: Axe – A 12MB binary that replaces your AI framework",
+      "slug": "2026-03-12-show-hn-axe-a-12mb-binary-that-replaces-your-ai-framework.html",
+      "path": "posts/2026-03-12-show-hn-axe-a-12mb-binary-that-replaces-your-ai-framework.html",
+      "date_iso": "2026-03-12T13:49:12+00:00",
+      "source": "https://github.com/jrswab/axe",
+      "summary": "I built Axe because I got tired of every AI tool trying to be a chatbot. Most frameworks want a long-lived session with a massive context window doing everything at once. That's expensive, slow, and fragile. Good software is small, focused, and composable... AI agents should be…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47350424",
+      "title": "Malus – Clean Room as a Service",
+      "slug": "2026-03-12-malus-clean-room-as-a-service.html",
+      "path": "posts/2026-03-12-malus-clean-room-as-a-service.html",
+      "date_iso": "2026-03-12T13:42:04+00:00",
+      "source": "https://malus.sh",
+      "summary": "https://fosdem.org/2026/schedule/event/SUVS7G-lets_end_open_... https://malus.sh/blog.html Comments URL: https://news.ycombinator.com/item?id=47350424 Points: 1200 # Comments: 438"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html",
+      "title": "Coding After Coders: The End of Computer Programming as We Know It",
+      "slug": "2026-03-12-coding-after-coders-the-end-of-computer-programming-as-we-know-it.html",
+      "path": "posts/2026-03-12-coding-after-coders-the-end-of-computer-programming-as-we-know-it.html",
+      "date_iso": "2026-03-12T12:53:35+00:00",
+      "source": "https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html",
+      "summary": "In the era of A.I. agents, many Silicon Valley programmers are now barely programming. Instead, what they’re doing is deeply, deeply weird."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/12/technology/axiom-ai-code-funding.html",
+      "title": "A.I. Writes Buggy Code. A Silicon Valley Start-Up Wants to Fix It.",
+      "slug": "2026-03-12-a-i-writes-buggy-code-a-silicon-valley-start-up-wants-to-fix-it.html",
+      "path": "posts/2026-03-12-a-i-writes-buggy-code-a-silicon-valley-start-up-wants-to-fix-it.html",
+      "date_iso": "2026-03-12T09:03:58+00:00",
+      "source": "https://www.nytimes.com/2026/03/12/technology/axiom-ai-code-funding.html",
+      "summary": "Axiom Math’s founder and chief executive, Carina Hong, right, and the chief technology officer, Shubho Sengupta, at the start-up’s offices in Palo Alto, Calif."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/12/technology/silicon-valley-pop-culture.html",
+      "title": "Silicon Valley’s Image Takes a Dark Turn in Pop Culture",
+      "slug": "2026-03-12-silicon-valley-s-image-takes-a-dark-turn-in-pop-culture.html",
+      "path": "posts/2026-03-12-silicon-valley-s-image-takes-a-dark-turn-in-pop-culture.html",
+      "date_iso": "2026-03-12T09:02:48+00:00",
+      "source": "https://www.nytimes.com/2026/03/12/technology/silicon-valley-pop-culture.html",
+      "summary": "From left, Kumail Nanjiani, Thomas Middleditch, Martin Starr and Zach Woods as tech start-up workers in “Silicon Valley” in 2017."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47347362",
       "title": "SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]",
       "slug": "2026-03-12-sbcl-a-sanely-bootstrappable-common-lisp-2008-pdf.html",

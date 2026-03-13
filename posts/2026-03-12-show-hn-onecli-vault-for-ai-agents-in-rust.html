@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: OneCLI – Vault for AI Agents in Rust</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: OneCLI – Vault for AI Agents in Rust</h1>
+    <p><small>Published: 2026-03-12T16:41:06+00:00</small></p>
+  </header>
+
+  <main>
+    <p>We built OneCLI because AI agents are being given raw API keys. And it's going about as well as you'd expect. We figured the answer isn't "don't give agents access," it's "give them access without giving them secrets."<p>OneCLI is an open-source gateway that sits between your AI agents and the services they call. You store your real credentials once in OneCLI's encrypted vault, and give your agents placeholder keys. When an agent makes an HTTP call through the proxy, OneCLI matches the request by host/path, verifies the agent should have access, swaps the placeholder for the real credential, and forwards the request. The agent never touches the actual secret. It just uses CLI or MCP tools as normal.<p>Try it in one line:
+docker run --pull always -p 10254:10254 -p 10255:10255 -v onecli-data:/app/data ghcr.io/onecli/onecli<p>The proxy is written in Rust, the dashboard is Next.js, and secrets are AES-256-GCM encrypted at rest. Everything runs in a single Docker container with an embedded Postgres (PGlite), no external dependencies. Works with any agent framework (OpenClaw, NanoClaw, IronClaw, or anything that can set an HTTPS_PROXY).<p>We started with what felt most urgent: agents shouldn't be holding raw credentials. 
+The next layer is access policies and audit, defining what each agent can call, logging everything, and requiring human approval before sensitive actions go through.<p>It's Apache-2.0 licensed. We'd love feedback on the approach, and we're especially curious how people are handling agent auth today.<p>GitHub: <a href="https://github.com/onecli/onecli" rel="nofollow">https://github.com/onecli/onecli</a>
+Site: <a href="https://onecli.sh" rel="nofollow">https://onecli.sh</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47353558">https://news.ycombinator.com/item?id=47353558</a></p>
+<p>Points: 139</p>
+<p># Comments: 41</p>
+    <p><a href="https://github.com/onecli/onecli" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
