@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Context Gateway – Compress agent context before it hits the LLM</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Context Gateway – Compress agent context before it hits the LLM</h1>
+    <p><small>Published: 2026-03-13T17:58:22+00:00</small></p>
+  </header>
+
+  <main>
+    <p>We built an open-source proxy that sits between coding agents (Claude Code, OpenClaw, etc.) and the LLM, compressing tool outputs before they enter the context window.<p>Demo: <a href="https://www.youtube.com/watch?v=-vFZ6MPrwjw#t=9s" rel="nofollow">https://www.youtube.com/watch?v=-vFZ6MPrwjw#t=9s</a>.<p>Motivation: Agents are terrible at managing context. A single file read or grep can dump thousands of tokens into the window, most of it noise. This isn't just expensive — it actively degrades quality. Long-context benchmarks consistently show steep accuracy drops as context grows (OpenAI's GPT-5.4 eval goes from 97.2% at 32k to 36.6% at 1M <a href="https://openai.com/index/introducing-gpt-5-4/" rel="nofollow">https://openai.com/index/introducing-gpt-5-4/</a>).<p>Our solution uses small language models (SLMs): we look at model internals and train classifiers to detect which parts of the context carry the most signal. When a tool returns output, we compress it conditioned on the intent of the tool call—so if the agent called grep looking for error handling patterns, the SLM keeps the relevant matches and strips the rest.<p>If the model later needs something we removed, it calls expand() to fetch the original output. We also do background compaction at 85% window capacity and lazy-load tool descriptions so the model only sees tools relevant to the current step.<p>The proxy also gives you spending caps, a dashboard for tracking running and past sessions, and Slack pings when an agent is sitting there waiting on you.<p>Repo is here: <a href="https://github.com/Compresr-ai/Context-Gateway" rel="nofollow">https://github.com/Compresr-ai/Context-Gateway</a>. You can try it with:<p><pre><code>  curl -fsSL https://compresr.ai/api/install | sh
+</code></pre>
+Happy to go deep on any of it: the compression model, how the lazy tool loading works, or anything else about the gateway. Try it out and let us know how you like it!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47367526">https://news.ycombinator.com/item?id=47367526</a></p>
+<p>Points: 73</p>
+<p># Comments: 46</p>
+    <p><a href="https://github.com/Compresr-ai/Context-Gateway" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

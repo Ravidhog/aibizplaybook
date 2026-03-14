@@ -1,6 +1,213 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/03/13/business/tiktok-investors-set-to-pay-10-billion-fee-to-trump-administration.html",
+      "title": "TikTok Investors Set to Pay $10 Billion Fee to Trump Administration",
+      "slug": "2026-03-14-tiktok-investors-set-to-pay-10-billion-fee-to-trump-administration.html",
+      "path": "posts/2026-03-14-tiktok-investors-set-to-pay-10-billion-fee-to-trump-administration.html",
+      "date_iso": "2026-03-14T02:32:46+00:00",
+      "source": "https://www.nytimes.com/2026/03/13/business/tiktok-investors-set-to-pay-10-billion-fee-to-trump-administration.html",
+      "summary": "The new investors paid the Treasury roughly $2.5 billion of the fee when the deal closed in January."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47372672",
+      "title": "Optimizing Content for Agents",
+      "slug": "2026-03-14-optimizing-content-for-agents.html",
+      "path": "posts/2026-03-14-optimizing-content-for-agents.html",
+      "date_iso": "2026-03-14T02:27:00+00:00",
+      "source": "https://cra.mr/optimizing-content-for-agents/",
+      "summary": "Article URL: https://cra.mr/optimizing-content-for-agents/ Comments URL: https://news.ycombinator.com/item?id=47372672 Points: 30 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47371922",
+      "title": "Our Experience with I-Ready",
+      "slug": "2026-03-14-our-experience-with-i-ready.html",
+      "path": "posts/2026-03-14-our-experience-with-i-ready.html",
+      "date_iso": "2026-03-14T00:29:50+00:00",
+      "source": "https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/",
+      "summary": "Article URL: https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/ Comments URL: https://news.ycombinator.com/item?id=47371922 Points: 58 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47371692",
+      "title": "Games with loot boxes to get minimum 16 age rating across Europe",
+      "slug": "2026-03-14-games-with-loot-boxes-to-get-minimum-16-age-rating-across-europe.html",
+      "path": "posts/2026-03-14-games-with-loot-boxes-to-get-minimum-16-age-rating-across-europe.html",
+      "date_iso": "2026-03-14T00:02:37+00:00",
+      "source": "https://www.bbc.com/news/articles/cge84xqjg5lo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cge84xqjg5lo Comments URL: https://news.ycombinator.com/item?id=47371692 Points: 138 # Comments: 54"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47371275",
+      "title": "I beg you to follow Crocker's Rules, even if you will be rude to me",
+      "slug": "2026-03-13-i-beg-you-to-follow-crocker-s-rules-even-if-you-will-be-rude-to-me.html",
+      "path": "posts/2026-03-13-i-beg-you-to-follow-crocker-s-rules-even-if-you-will-be-rude-to-me.html",
+      "date_iso": "2026-03-13T23:14:37+00:00",
+      "source": "https://lr0.org/blog/p/crocker/",
+      "summary": "Article URL: https://lr0.org/blog/p/crocker/ Comments URL: https://news.ycombinator.com/item?id=47371275 Points: 56 # Comments: 82"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47371064",
+      "title": "I found 39 Algolia admin keys exposed across open source documentation sites",
+      "slug": "2026-03-13-i-found-39-algolia-admin-keys-exposed-across-open-source-documentation-sites.html",
+      "path": "posts/2026-03-13-i-found-39-algolia-admin-keys-exposed-across-open-source-documentation-sites.html",
+      "date_iso": "2026-03-13T22:52:05+00:00",
+      "source": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
+      "summary": "Article URL: https://benzimmermann.dev/blog/algolia-docsearch-admin-keys Comments URL: https://news.ycombinator.com/item?id=47371064 Points: 114 # Comments: 26"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/13/technology/adobe-settlement-doj.html",
+      "title": "Adobe Settles With U.S. Over Hard-to-Cancel Subscriptions",
+      "slug": "2026-03-13-adobe-settles-with-u-s-over-hard-to-cancel-subscriptions.html",
+      "path": "posts/2026-03-13-adobe-settles-with-u-s-over-hard-to-cancel-subscriptions.html",
+      "date_iso": "2026-03-13T19:16:49+00:00",
+      "source": "https://www.nytimes.com/2026/03/13/technology/adobe-settlement-doj.html",
+      "summary": "Under the terms of a settlement, Adobe will pay $75 million to the Department of Justice and provide customers with $75 million worth of free services."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47368430",
+      "title": "Stanford researchers report first recording of a blue whale's heart rate (2019)",
+      "slug": "2026-03-13-stanford-researchers-report-first-recording-of-a-blue-whale-s-heart-rate-2019.html",
+      "path": "posts/2026-03-13-stanford-researchers-report-first-recording-of-a-blue-whale-s-heart-rate-2019.html",
+      "date_iso": "2026-03-13T19:15:06+00:00",
+      "source": "https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate",
+      "summary": "Article URL: https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate Comments URL: https://news.ycombinator.com/item?id=47368430 Points: 68 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47368135",
+      "title": "Digg is gone again",
+      "slug": "2026-03-13-digg-is-gone-again.html",
+      "path": "posts/2026-03-13-digg-is-gone-again.html",
+      "date_iso": "2026-03-13T18:52:17+00:00",
+      "source": "https://digg.com/",
+      "summary": "Article URL: https://digg.com/ Comments URL: https://news.ycombinator.com/item?id=47368135 Points: 141 # Comments: 110"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47368033",
+      "title": "Mouser: An open source alternative to Logi-Plus mouse software",
+      "slug": "2026-03-13-mouser-an-open-source-alternative-to-logi-plus-mouse-software.html",
+      "path": "posts/2026-03-13-mouser-an-open-source-alternative-to-logi-plus-mouse-software.html",
+      "date_iso": "2026-03-13T18:42:54+00:00",
+      "source": "https://github.com/TomBadash/MouseControl",
+      "summary": "I discovered this project because all-of-a-sudden Logi Options Plus software updater started taking 40-60% of my Intel Macbook Pro until I killed the process (of course it restarts). In my searches I ended up at a reddit discussion where I found other people with same issues. I'…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47367932",
+      "title": "Hammerspoon",
+      "slug": "2026-03-13-hammerspoon.html",
+      "path": "posts/2026-03-13-hammerspoon.html",
+      "date_iso": "2026-03-13T18:34:12+00:00",
+      "source": "https://github.com/Hammerspoon/hammerspoon",
+      "summary": "Article URL: https://github.com/Hammerspoon/hammerspoon Comments URL: https://news.ycombinator.com/item?id=47367932 Points: 267 # Comments: 96"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47367568",
+      "title": "Your phone is an entire computer",
+      "slug": "2026-03-13-your-phone-is-an-entire-computer.html",
+      "path": "posts/2026-03-13-your-phone-is-an-entire-computer.html",
+      "date_iso": "2026-03-13T18:02:32+00:00",
+      "source": "https://medhir.com/blog/your-phone-is-an-entire-computer",
+      "summary": "Article URL: https://medhir.com/blog/your-phone-is-an-entire-computer Comments URL: https://news.ycombinator.com/item?id=47367568 Points: 300 # Comments: 263"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47367526",
+      "title": "Show HN: Context Gateway – Compress agent context before it hits the LLM",
+      "slug": "2026-03-13-show-hn-context-gateway-compress-agent-context-before-it-hits-the-llm.html",
+      "path": "posts/2026-03-13-show-hn-context-gateway-compress-agent-context-before-it-hits-the-llm.html",
+      "date_iso": "2026-03-13T17:58:22+00:00",
+      "source": "https://github.com/Compresr-ai/Context-Gateway",
+      "summary": "We built an open-source proxy that sits between coding agents (Claude Code, OpenClaw, etc.) and the LLM, compressing tool outputs before they enter the context window. Demo: https://www.youtube.com/watch?v=-vFZ6MPrwjw#t=9s . Motivation: Agents are terrible at managing context. A…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47367463",
+      "title": "John Carmack about open source and anti-AI activists",
+      "slug": "2026-03-13-john-carmack-about-open-source-and-anti-ai-activists.html",
+      "path": "posts/2026-03-13-john-carmack-about-open-source-and-anti-ai-activists.html",
+      "date_iso": "2026-03-13T17:51:34+00:00",
+      "source": "https://twitter.com/id_aa_carmack/status/2032460578669691171",
+      "summary": "https://xcancel.com/id_aa_carmack/status/2032460578669691171 Comments URL: https://news.ycombinator.com/item?id=47367463 Points: 295 # Comments: 392"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/13/technology/amazon-google-persian-gulf-war.html",
+      "title": "U.S. Tech Giants Flocked to the Persian Gulf. Now They Are Targets.",
+      "slug": "2026-03-13-u-s-tech-giants-flocked-to-the-persian-gulf-now-they-are-targets.html",
+      "path": "posts/2026-03-13-u-s-tech-giants-flocked-to-the-persian-gulf-now-they-are-targets.html",
+      "date_iso": "2026-03-13T17:24:28+00:00",
+      "source": "https://www.nytimes.com/2026/03/13/technology/amazon-google-persian-gulf-war.html",
+      "summary": "Smoke rose after a reported Iranian drone strike on a fuel facility of Bahrain International Airport on Thursday. Iranian drones have also struck Amazon’s data center in Bahrain and two others in the U.A.E."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47367129",
+      "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+      "slug": "2026-03-13-1m-context-is-now-generally-available-for-opus-4-6-and-sonnet-4-6.html",
+      "path": "posts/2026-03-13-1m-context-is-now-generally-available-for-opus-4-6-and-sonnet-4-6.html",
+      "date_iso": "2026-03-13T17:19:01+00:00",
+      "source": "https://claude.com/blog/1m-context-ga",
+      "summary": "Article URL: https://claude.com/blog/1m-context-ga Comments URL: https://news.ycombinator.com/item?id=47367129 Points: 576 # Comments: 234"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47366666",
+      "title": "Elon Musk pushes out more xAI founders as AI coding effort falters",
+      "slug": "2026-03-13-elon-musk-pushes-out-more-xai-founders-as-ai-coding-effort-falters.html",
+      "path": "posts/2026-03-13-elon-musk-pushes-out-more-xai-founders-as-ai-coding-effort-falters.html",
+      "date_iso": "2026-03-13T16:40:42+00:00",
+      "source": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5",
+      "summary": "https://archive.ph/rP4cb (text at bottom) https://x.com/elonmusk/status/2032201568335044978 , https://xcancel.com/elonmusk/status/2032201568335044978 https://economictimes.indiatimes.com/tech/artificial-intelli... https://futurism.com/artificial-intelligence/elon-musk-screw... C…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47366374",
+      "title": "The Wyden Siren Goes Off Again: We’ll Be “Stunned” By What the NSA Is Doing",
+      "slug": "2026-03-13-the-wyden-siren-goes-off-again-we-ll-be-stunned-by-what-the-nsa-is-doing.html",
+      "path": "posts/2026-03-13-the-wyden-siren-goes-off-again-we-ll-be-stunned-by-what-the-nsa-is-doing.html",
+      "date_iso": "2026-03-13T16:13:30+00:00",
+      "source": "https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/",
+      "summary": "Article URL: https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/ Comments URL: https://news.ycombinator.com/item?id=47366374 Points: 440 # Comments: 127"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47364729",
+      "title": "Parallels confirms MacBook Neo can run Windows in a virtual machine",
+      "slug": "2026-03-13-parallels-confirms-macbook-neo-can-run-windows-in-a-virtual-machine.html",
+      "path": "posts/2026-03-13-parallels-confirms-macbook-neo-can-run-windows-in-a-virtual-machine.html",
+      "date_iso": "2026-03-13T14:11:36+00:00",
+      "source": "https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/",
+      "summary": "Article URL: https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/ Comments URL: https://news.ycombinator.com/item?id=47364729 Points: 247 # Comments: 333"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47364116",
+      "title": "Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas",
+      "slug": "2026-03-13-launch-hn-spine-swarm-yc-s23-ai-agents-that-collaborate-on-a-visual-canvas.html",
+      "path": "posts/2026-03-13-launch-hn-spine-swarm-yc-s23-ai-agents-that-collaborate-on-a-visual-canvas.html",
+      "date_iso": "2026-03-13T13:22:40+00:00",
+      "source": "https://www.getspine.ai/",
+      "summary": "Hey HN! We're Ashwin and Akshay from Spine AI ( https://www.getspine.ai ). Spine Swarm is a multi-agent system that works on an infinite visual canvas to complete complex non-coding projects: competitive analysis, financial modeling, SEO audits, pitch decks, interactive prototyp…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47363754",
+      "title": "Can I run AI locally?",
+      "slug": "2026-03-13-can-i-run-ai-locally.html",
+      "path": "posts/2026-03-13-can-i-run-ai-locally.html",
+      "date_iso": "2026-03-13T12:46:10+00:00",
+      "source": "https://www.canirun.ai/",
+      "summary": "Article URL: https://www.canirun.ai/ Comments URL: https://news.ycombinator.com/item?id=47363754 Points: 1157 # Comments: 286"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47363584",
+      "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
+      "slug": "2026-03-13-qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock.html",
+      "path": "posts/2026-03-13-qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock.html",
+      "date_iso": "2026-03-13T12:31:09+00:00",
+      "source": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock Comments URL: https://news.ycombinator.com/item?id=47363584 Points: 523 # Comments: 462"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/13/podcasts/ai-goes-to-war-is-ai-brain-fry-real-how-grammarly-stole-caseys-identity.html",
+      "title": "A.I. Goes to War + Is ‘A.I. Brain Fry’ Real? + How Grammarly Stole Casey’s Identity",
+      "slug": "2026-03-13-a-i-goes-to-war-is-a-i-brain-fry-real-how-grammarly-stole-casey-s-identity.html",
+      "path": "posts/2026-03-13-a-i-goes-to-war-is-a-i-brain-fry-real-how-grammarly-stole-casey-s-identity.html",
+      "date_iso": "2026-03-13T11:00:03+00:00",
+      "source": "https://www.nytimes.com/2026/03/13/podcasts/ai-goes-to-war-is-ai-brain-fry-real-how-grammarly-stole-caseys-identity.html",
+      "summary": "“When there is an attack that kills civilians or doesn’t hit its intended target, people are going to be asking, Oh, was that a human who made that mistake or was that an A.I. system?”"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47360978",
       "title": "Lost Doctor Who Episodes Found",
       "slug": "2026-03-13-lost-doctor-who-episodes-found.html",
