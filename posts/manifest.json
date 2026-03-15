@@ -1,12 +1,201 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47384619",
+      "title": "How Jeff Bezos Upended The Washington Post",
+      "slug": "2026-03-15-how-jeff-bezos-upended-the-washington-post.html",
+      "path": "posts/2026-03-15-how-jeff-bezos-upended-the-washington-post.html",
+      "date_iso": "2026-03-15T05:36:00+00:00",
+      "source": "https://www.nytimes.com/2026/03/14/business/media/washington-post-jeff-bezos-layoffs.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/03/14/business/media/washington-post-jeff-bezos-layoffs.html Comments URL: https://news.ycombinator.com/item?id=47384619 Points: 36 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47384352",
+      "title": "Rack-mount hydroponics",
+      "slug": "2026-03-15-rack-mount-hydroponics.html",
+      "path": "posts/2026-03-15-rack-mount-hydroponics.html",
+      "date_iso": "2026-03-15T04:23:43+00:00",
+      "source": "https://sa.lj.am/rack-mount-hydroponics/",
+      "summary": "Article URL: https://sa.lj.am/rack-mount-hydroponics/ Comments URL: https://news.ycombinator.com/item?id=47384352 Points: 96 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47384032",
+      "title": "A most elegant TCP hole punching algorithm",
+      "slug": "2026-03-15-a-most-elegant-tcp-hole-punching-algorithm.html",
+      "path": "posts/2026-03-15-a-most-elegant-tcp-hole-punching-algorithm.html",
+      "date_iso": "2026-03-15T03:29:17+00:00",
+      "source": "https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html",
+      "summary": "Article URL: https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html Comments URL: https://news.ycombinator.com/item?id=47384032 Points: 51 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47383804",
+      "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
+      "slug": "2026-03-15-treasure-hunter-freed-from-jail-after-refusing-to-turn-over-shipwreck-gold.html",
+      "path": "posts/2026-03-15-treasure-hunter-freed-from-jail-after-refusing-to-turn-over-shipwreck-gold.html",
+      "date_iso": "2026-03-15T02:48:33+00:00",
+      "source": "https://www.bbc.com/news/articles/cg4g7kn99q3o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cg4g7kn99q3o Comments URL: https://news.ycombinator.com/item?id=47383804 Points: 65 # Comments: 68"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47383059",
+      "title": "Tree Search Distillation for Language Models Using PPO",
+      "slug": "2026-03-15-tree-search-distillation-for-language-models-using-ppo.html",
+      "path": "posts/2026-03-15-tree-search-distillation-for-language-models-using-ppo.html",
+      "date_iso": "2026-03-15T00:51:55+00:00",
+      "source": "https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/",
+      "summary": "Article URL: https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/ Comments URL: https://news.ycombinator.com/item?id=47383059 Points: 52 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47382791",
+      "title": "How kernel anti-cheats work",
+      "slug": "2026-03-15-how-kernel-anti-cheats-work.html",
+      "path": "posts/2026-03-15-how-kernel-anti-cheats-work.html",
+      "date_iso": "2026-03-15T00:15:10+00:00",
+      "source": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
+      "summary": "Article URL: https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/ Comments URL: https://news.ycombinator.com/item?id=47382791 Points: 132 # Comments: 97"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47382398",
+      "title": "SBCL Fibers – Lightweight Cooperative Threads",
+      "slug": "2026-03-14-sbcl-fibers-lightweight-cooperative-threads.html",
+      "path": "posts/2026-03-14-sbcl-fibers-lightweight-cooperative-threads.html",
+      "date_iso": "2026-03-14T23:22:39+00:00",
+      "source": "https://atgreen.github.io/repl-yell/posts/sbcl-fibers/",
+      "summary": "Article URL: https://atgreen.github.io/repl-yell/posts/sbcl-fibers/ Comments URL: https://news.ycombinator.com/item?id=47382398 Points: 74 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47382277",
+      "title": "Airbus is preparing two uncrewed combat aircraft",
+      "slug": "2026-03-14-airbus-is-preparing-two-uncrewed-combat-aircraft.html",
+      "path": "posts/2026-03-14-airbus-is-preparing-two-uncrewed-combat-aircraft.html",
+      "date_iso": "2026-03-14T23:10:24+00:00",
+      "source": "https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european",
+      "summary": "Article URL: https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european Comments URL: https://news.ycombinator.com/item?id=47382277 Points: 122 # Comments: 69"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47382072",
+      "title": "Show HN: GrobPaint: Somewhere Between MS Paint and Paint.net",
+      "slug": "2026-03-14-show-hn-grobpaint-somewhere-between-ms-paint-and-paint-net.html",
+      "path": "posts/2026-03-14-show-hn-grobpaint-somewhere-between-ms-paint-and-paint-net.html",
+      "date_iso": "2026-03-14T22:41:28+00:00",
+      "source": "https://github.com/groverburger/grobpaint",
+      "summary": "Article URL: https://github.com/groverburger/grobpaint Comments URL: https://news.ycombinator.com/item?id=47382072 Points: 39 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47381791",
+      "title": "Ageless Linux – Software for humans of indeterminate age",
+      "slug": "2026-03-14-ageless-linux-software-for-humans-of-indeterminate-age.html",
+      "path": "posts/2026-03-14-ageless-linux-software-for-humans-of-indeterminate-age.html",
+      "date_iso": "2026-03-14T22:10:26+00:00",
+      "source": "https://agelesslinux.org/",
+      "summary": "Article URL: https://agelesslinux.org/ Comments URL: https://news.ycombinator.com/item?id=47381791 Points: 540 # Comments: 356"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47381736",
+      "title": "Allow me to get to know you, mistakes and all",
+      "slug": "2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all.html",
+      "path": "posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all.html",
+      "date_iso": "2026-03-14T22:03:47+00:00",
+      "source": "https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/",
+      "summary": "Article URL: https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/ Comments URL: https://news.ycombinator.com/item?id=47381736 Points: 106 # Comments: 36"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47381382",
+      "title": "Show HN: Han – A Korean programming language written in Rust",
+      "slug": "2026-03-14-show-hn-han-a-korean-programming-language-written-in-rust.html",
+      "path": "posts/2026-03-14-show-hn-han-a-korean-programming-language-written-in-rust.html",
+      "date_iso": "2026-03-14T21:27:33+00:00",
+      "source": "https://github.com/xodn348/han",
+      "summary": "A few weeks ago I saw a post about someone converting an entire C++ codebase to Rust using AI in under two weeks. That inspired me — if AI can rewrite a whole language stack that fast, I wanted to try building a programming language from scratch with AI assistance. I've also bee…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47381340",
+      "title": "Launching the Claude Partner Network",
+      "slug": "2026-03-14-launching-the-claude-partner-network.html",
+      "path": "posts/2026-03-14-launching-the-claude-partner-network.html",
+      "date_iso": "2026-03-14T21:23:42+00:00",
+      "source": "https://www.anthropic.com/news/claude-partner-network",
+      "summary": "Article URL: https://www.anthropic.com/news/claude-partner-network Comments URL: https://news.ycombinator.com/item?id=47381340 Points: 130 # Comments: 62"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47381238",
+      "title": "Postgres with Builtin File Systems",
+      "slug": "2026-03-14-postgres-with-builtin-file-systems.html",
+      "path": "posts/2026-03-14-postgres-with-builtin-file-systems.html",
+      "date_iso": "2026-03-14T21:14:03+00:00",
+      "source": "https://db9.ai/",
+      "summary": "Article URL: https://db9.ai/ Comments URL: https://news.ycombinator.com/item?id=47381238 Points: 60 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47381011",
+      "title": "Bumblebee queens breathe underwater to survive drowning",
+      "slug": "2026-03-14-bumblebee-queens-breathe-underwater-to-survive-drowning.html",
+      "path": "posts/2026-03-14-bumblebee-queens-breathe-underwater-to-survive-drowning.html",
+      "date_iso": "2026-03-14T20:49:10+00:00",
+      "source": "https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/",
+      "summary": "Article URL: https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/ Comments URL: https://news.ycombinator.com/item?id=47381011 Points: 107 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47380726",
+      "title": "Library of Short Stories",
+      "slug": "2026-03-14-library-of-short-stories.html",
+      "path": "posts/2026-03-14-library-of-short-stories.html",
+      "date_iso": "2026-03-14T20:16:19+00:00",
+      "source": "https://www.libraryofshortstories.com/",
+      "summary": "Article URL: https://www.libraryofshortstories.com/ Comments URL: https://news.ycombinator.com/item?id=47380726 Points: 69 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47380512",
+      "title": "Fedora 44 on the Raspberry Pi 5",
+      "slug": "2026-03-14-fedora-44-on-the-raspberry-pi-5.html",
+      "path": "posts/2026-03-14-fedora-44-on-the-raspberry-pi-5.html",
+      "date_iso": "2026-03-14T19:56:38+00:00",
+      "source": "https://nullr0ute.com/2026/03/fedora-44-on-the-raspberry-pi-5/",
+      "summary": "Article URL: https://nullr0ute.com/2026/03/fedora-44-on-the-raspberry-pi-5/ Comments URL: https://news.ycombinator.com/item?id=47380512 Points: 86 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47380295",
+      "title": "Marketing for Founders",
+      "slug": "2026-03-14-marketing-for-founders.html",
+      "path": "posts/2026-03-14-marketing-for-founders.html",
+      "date_iso": "2026-03-14T19:35:40+00:00",
+      "source": "https://github.com/EdoStra/Marketing-for-Founders",
+      "summary": "Article URL: https://github.com/EdoStra/Marketing-for-Founders Comments URL: https://news.ycombinator.com/item?id=47380295 Points: 156 # Comments: 61"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47380270",
+      "title": "MCP is dead; long live MCP",
+      "slug": "2026-03-14-mcp-is-dead-long-live-mcp.html",
+      "path": "posts/2026-03-14-mcp-is-dead-long-live-mcp.html",
+      "date_iso": "2026-03-14T19:32:13+00:00",
+      "source": "https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/",
+      "summary": "Article URL: https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/ Comments URL: https://news.ycombinator.com/item?id=47380270 Points: 115 # Comments: 116"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47379898",
+      "title": "Show HN: Ichinichi – One note per day, E2E encrypted, local-first",
+      "slug": "2026-03-14-show-hn-ichinichi-one-note-per-day-e2e-encrypted-local-first.html",
+      "path": "posts/2026-03-14-show-hn-ichinichi-one-note-per-day-e2e-encrypted-local-first.html",
+      "date_iso": "2026-03-14T18:57:12+00:00",
+      "source": "https://news.ycombinator.com/item?id=47379898",
+      "summary": "Look, every journaling app out there wants you to organize things into folders and tags and templates. I just wanted to write something down every day. So I built this. One note per day. That's the whole deal. - Can't edit yesterday. What's done is done. Keeps you from fussing o…"
+    },
+    {
       "id": "https://www.nytimes.com/2026/03/13/business/tiktok-investors-set-to-pay-10-billion-fee-to-trump-administration.html",
       "title": "TikTok Investors Set to Pay $10 Billion Fee to Trump Administration",
       "slug": "2026-03-14-tiktok-investors-set-to-pay-10-billion-fee-to-trump-administration.html",
       "path": "posts/2026-03-14-tiktok-investors-set-to-pay-10-billion-fee-to-trump-administration.html",
       "date_iso": "2026-03-14T02:32:46+00:00",
       "source": "https://www.nytimes.com/2026/03/13/business/tiktok-investors-set-to-pay-10-billion-fee-to-trump-administration.html",
+      "summary": "The new investors paid the Treasury roughly $2.5 billion of the fee when the deal closed in January."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/13/business/trump-tiktok-10-billion-fee.html",
+      "title": "TikTok Investors Set to Pay $10 Billion Fee to Trump Administration",
+      "slug": "2026-03-14-tiktok-investors-set-to-pay-10-billion-fee-to-trump-administration.html",
+      "path": "posts/2026-03-14-tiktok-investors-set-to-pay-10-billion-fee-to-trump-administration.html",
+      "date_iso": "2026-03-14T02:32:46+00:00",
+      "source": "https://www.nytimes.com/2026/03/13/business/trump-tiktok-10-billion-fee.html",
       "summary": "The new investors paid the Treasury roughly $2.5 billion of the fee when the deal closed in January."
     },
     {
