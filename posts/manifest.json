@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47408703",
+      "title": "Kagi Translate now supports LinkedIn Speak as an output language",
+      "slug": "2026-03-17-kagi-translate-now-supports-linkedin-speak-as-an-output-language.html",
+      "path": "posts/2026-03-17-kagi-translate-now-supports-linkedin-speak-as-an-output-language.html",
+      "date_iso": "2026-03-17T04:39:42+00:00",
+      "source": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
+      "summary": "Article URL: https://translate.kagi.com/?from=en&amp;to=LinkedIn+speak Comments URL: https://news.ycombinator.com/item?id=47408703 Points: 379 # Comments: 97"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47408441",
+      "title": "Monkey Island for Commodore 64 Ground Up",
+      "slug": "2026-03-17-monkey-island-for-commodore-64-ground-up.html",
+      "path": "posts/2026-03-17-monkey-island-for-commodore-64-ground-up.html",
+      "date_iso": "2026-03-17T04:00:28+00:00",
+      "source": "https://pixeldust.se/monkey-island-project",
+      "summary": "Article URL: https://pixeldust.se/monkey-island-project Comments URL: https://news.ycombinator.com/item?id=47408441 Points: 95 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47408360",
+      "title": "Jepsen: MariaDB Galera Cluster 12.1.2",
+      "slug": "2026-03-17-jepsen-mariadb-galera-cluster-12-1-2.html",
+      "path": "posts/2026-03-17-jepsen-mariadb-galera-cluster-12-1-2.html",
+      "date_iso": "2026-03-17T03:46:22+00:00",
+      "source": "https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2",
+      "summary": "Article URL: https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2 Comments URL: https://news.ycombinator.com/item?id=47408360 Points: 59 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47408205",
+      "title": "Every layer of review makes you 10x slower",
+      "slug": "2026-03-17-every-layer-of-review-makes-you-10x-slower.html",
+      "path": "posts/2026-03-17-every-layer-of-review-makes-you-10x-slower.html",
+      "date_iso": "2026-03-17T03:20:36+00:00",
+      "source": "https://apenwarr.ca/log/20260316",
+      "summary": "Article URL: https://apenwarr.ca/log/20260316 Comments URL: https://news.ycombinator.com/item?id=47408205 Points: 168 # Comments: 72"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47406779",
+      "title": "US SEC preparing to scrap quarterly reporting requirement",
+      "slug": "2026-03-17-us-sec-preparing-to-scrap-quarterly-reporting-requirement.html",
+      "path": "posts/2026-03-17-us-sec-preparing-to-scrap-quarterly-reporting-requirement.html",
+      "date_iso": "2026-03-17T00:02:35+00:00",
+      "source": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
+      "summary": "Article URL: https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/ Comments URL: https://news.ycombinator.com/item?id=47406779 Points: 545 # Comments: 294"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/16/technology/nvidia-gtc-ai-chips-huang.html",
+      "title": "Nvidia Debuts New A.I. Product at GTC Developer Conference",
+      "slug": "2026-03-16-nvidia-debuts-new-a-i-product-at-gtc-developer-conference.html",
+      "path": "posts/2026-03-16-nvidia-debuts-new-a-i-product-at-gtc-developer-conference.html",
+      "date_iso": "2026-03-16T22:18:24+00:00",
+      "source": "https://www.nytimes.com/2026/03/16/technology/nvidia-gtc-ai-chips-huang.html",
+      "summary": "Nvidia chief executive Jensen Huang at the company’s GTC conference in San Jose on Monday."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47404801",
+      "title": "AnswerThis (YC F25) Is Hiring",
+      "slug": "2026-03-16-answerthis-yc-f25-is-hiring.html",
+      "path": "posts/2026-03-16-answerthis-yc-f25-is-hiring.html",
+      "date_iso": "2026-03-16T21:00:06+00:00",
+      "source": "https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead",
+      "summary": "Article URL: https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead Comments URL: https://news.ycombinator.com/item?id=47404801 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47404798",
+      "title": "Beyond has dropped “meat” from its name and expanded its high-protein drink line",
+      "slug": "2026-03-16-beyond-has-dropped-meat-from-its-name-and-expanded-its-high-protein-drink-line.html",
+      "path": "posts/2026-03-16-beyond-has-dropped-meat-from-its-name-and-expanded-its-high-protein-drink-line.html",
+      "date_iso": "2026-03-16T20:59:49+00:00",
+      "source": "https://plantbasednews.org/news/alternative-protein/beyond-meat-not-the-moment-rebrand/",
+      "summary": "Article URL: https://plantbasednews.org/news/alternative-protein/beyond-meat-not-the-moment-rebrand/ Comments URL: https://news.ycombinator.com/item?id=47404798 Points: 114 # Comments: 202"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47404796",
+      "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
+      "slug": "2026-03-16-leanstral-open-source-agent-for-trustworthy-coding-and-formal-proof-engineering.html",
+      "path": "posts/2026-03-16-leanstral-open-source-agent-for-trustworthy-coding-and-formal-proof-engineering.html",
+      "date_iso": "2026-03-16T20:59:40+00:00",
+      "source": "https://mistral.ai/news/leanstral",
+      "summary": "Lean 4 paper (2021): https://dl.acm.org/doi/10.1007/978-3-030-79876-5_37 Comments URL: https://news.ycombinator.com/item?id=47404796 Points: 447 # Comments: 93"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/16/technology/ai-florida-republicans.html",
+      "title": "How Trump Drove a Wedge Between Florida Republicans Over A.I.",
+      "slug": "2026-03-16-how-trump-drove-a-wedge-between-florida-republicans-over-a-i.html",
+      "path": "posts/2026-03-16-how-trump-drove-a-wedge-between-florida-republicans-over-a-i.html",
+      "date_iso": "2026-03-16T20:05:47+00:00",
+      "source": "https://www.nytimes.com/2026/03/16/technology/ai-florida-republicans.html",
+      "summary": "Gov. Ron DeSantis of Florida proposed a package of rules he called an A.I. “bill of rights.”"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47402640",
+      "title": "Meta’s renewed commitment to jemalloc",
+      "slug": "2026-03-16-meta-s-renewed-commitment-to-jemalloc.html",
+      "path": "posts/2026-03-16-meta-s-renewed-commitment-to-jemalloc.html",
+      "date_iso": "2026-03-16T18:12:32+00:00",
+      "source": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
+      "summary": "https://github.com/jemalloc/jemalloc Comments URL: https://news.ycombinator.com/item?id=47402640 Points: 413 # Comments: 182"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47401901",
+      "title": "Language model teams as distributed systems",
+      "slug": "2026-03-16-language-model-teams-as-distributed-systems.html",
+      "path": "posts/2026-03-16-language-model-teams-as-distributed-systems.html",
+      "date_iso": "2026-03-16T17:19:13+00:00",
+      "source": "https://arxiv.org/abs/2603.12229",
+      "summary": "Article URL: https://arxiv.org/abs/2603.12229 Comments URL: https://news.ycombinator.com/item?id=47401901 Points: 89 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47401879",
+      "title": "The “small web” is bigger than you might think",
+      "slug": "2026-03-16-the-small-web-is-bigger-than-you-might-think.html",
+      "path": "posts/2026-03-16-the-small-web-is-bigger-than-you-might-think.html",
+      "date_iso": "2026-03-16T17:17:57+00:00",
+      "source": "https://kevinboone.me/small_web_is_big.html",
+      "summary": "Article URL: https://kevinboone.me/small_web_is_big.html Comments URL: https://news.ycombinator.com/item?id=47401879 Points: 387 # Comments: 164"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47401809",
+      "title": "The American Healthcare Conundrum",
+      "slug": "2026-03-16-the-american-healthcare-conundrum.html",
+      "path": "posts/2026-03-16-the-american-healthcare-conundrum.html",
+      "date_iso": "2026-03-16T17:13:27+00:00",
+      "source": "https://github.com/rexrodeo/american-healthcare-conundrum",
+      "summary": "Article URL: https://github.com/rexrodeo/american-healthcare-conundrum Comments URL: https://news.ycombinator.com/item?id=47401809 Points: 323 # Comments: 276"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47401734",
+      "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)",
+      "slug": "2026-03-16-speed-at-the-cost-of-quality-study-of-use-of-cursor-ai-in-open-source-projects-2025.html",
+      "path": "posts/2026-03-16-speed-at-the-cost-of-quality-study-of-use-of-cursor-ai-in-open-source-projects-2025.html",
+      "date_iso": "2026-03-16T17:07:37+00:00",
+      "source": "https://arxiv.org/abs/2511.04427",
+      "summary": "Article URL: https://arxiv.org/abs/2511.04427 Comments URL: https://news.ycombinator.com/item?id=47401734 Points: 105 # Comments: 58"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47401618",
+      "title": "Kaizen (YC P25) Hiring Eng, GTM, Cos to Automate BPOs",
+      "slug": "2026-03-16-kaizen-yc-p25-hiring-eng-gtm-cos-to-automate-bpos.html",
+      "path": "posts/2026-03-16-kaizen-yc-p25-hiring-eng-gtm-cos-to-automate-bpos.html",
+      "date_iso": "2026-03-16T17:00:17+00:00",
+      "source": "https://www.kaizenautomation.com/careers",
+      "summary": "Article URL: https://www.kaizenautomation.com/careers Comments URL: https://news.ycombinator.com/item?id=47401618 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47400868",
+      "title": "Show HN: Claude Code skills that build complete Godot games",
+      "slug": "2026-03-16-show-hn-claude-code-skills-that-build-complete-godot-games.html",
+      "path": "posts/2026-03-16-show-hn-claude-code-skills-that-build-complete-godot-games.html",
+      "date_iso": "2026-03-16T16:07:29+00:00",
+      "source": "https://github.com/htdt/godogen",
+      "summary": "I’ve been working on this for about a year through four major rewrites. Godogen is a pipeline that takes a text prompt, designs the architecture, generates 2D/3D assets, writes the GDScript, and tests it visually. The output is a complete, playable Godot 4 project. Getting LLMs…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47398681",
+      "title": "AirPods Max 2",
+      "slug": "2026-03-16-airpods-max-2.html",
+      "path": "posts/2026-03-16-airpods-max-2.html",
+      "date_iso": "2026-03-16T13:22:03+00:00",
+      "source": "https://www.apple.com/airpods-max/",
+      "summary": "Article URL: https://www.apple.com/airpods-max/ Comments URL: https://news.ycombinator.com/item?id=47398681 Points: 268 # Comments: 450"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47398534",
+      "title": "My Journey to a reliable and enjoyable locally hosted voice assistant (2025)",
+      "slug": "2026-03-16-my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant-2025.html",
+      "path": "posts/2026-03-16-my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant-2025.html",
+      "date_iso": "2026-03-16T13:09:58+00:00",
+      "source": "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860",
+      "summary": "Article URL: https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860 Comments URL: https://news.ycombinator.com/item?id=47398534 Points: 362 # Comments: 103"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47397857",
+      "title": "Lazycut: A simple terminal video trimmer using FFmpeg",
+      "slug": "2026-03-16-lazycut-a-simple-terminal-video-trimmer-using-ffmpeg.html",
+      "path": "posts/2026-03-16-lazycut-a-simple-terminal-video-trimmer-using-ffmpeg.html",
+      "date_iso": "2026-03-16T12:05:08+00:00",
+      "source": "https://github.com/emin-ozata/lazycut",
+      "summary": "Article URL: https://github.com/emin-ozata/lazycut Comments URL: https://news.ycombinator.com/item?id=47397857 Points: 192 # Comments: 57"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47397842",
+      "title": "Nango (YC W23, API Access for Agents and Apps) Is Hiring",
+      "slug": "2026-03-16-nango-yc-w23-api-access-for-agents-and-apps-is-hiring.html",
+      "path": "posts/2026-03-16-nango-yc-w23-api-access-for-agents-and-apps-is-hiring.html",
+      "date_iso": "2026-03-16T12:03:13+00:00",
+      "source": "https://jobs.ashbyhq.com/Nango",
+      "summary": "Article URL: https://jobs.ashbyhq.com/Nango Comments URL: https://news.ycombinator.com/item?id=47397842 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47397822",
+      "title": "Polymarket gamblers threaten to kill me over Iran missile story",
+      "slug": "2026-03-16-polymarket-gamblers-threaten-to-kill-me-over-iran-missile-story.html",
+      "path": "posts/2026-03-16-polymarket-gamblers-threaten-to-kill-me-over-iran-missile-story.html",
+      "date_iso": "2026-03-16T12:00:06+00:00",
+      "source": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
+      "summary": "Article URL: https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/ Comments URL: https://news.ycombinator.com/item?id=47397822 Points: 1458 # Comments: 930"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47395147",
       "title": "ASCII and Unicode quotation marks (2007)",
       "slug": "2026-03-16-ascii-and-unicode-quotation-marks-2007.html",
