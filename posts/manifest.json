@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47422408",
+      "title": "Ndea (YC W26) is hiring a symbolic RL search guidance lead",
+      "slug": "2026-03-18-ndea-yc-w26-is-hiring-a-symbolic-rl-search-guidance-lead.html",
+      "path": "posts/2026-03-18-ndea-yc-w26-is-hiring-a-symbolic-rl-search-guidance-lead.html",
+      "date_iso": "2026-03-18T07:00:13+00:00",
+      "source": "https://ndea.com/jobs/search-guidance",
+      "summary": "Article URL: https://ndea.com/jobs/search-guidance Comments URL: https://news.ycombinator.com/item?id=47422408 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47422022",
+      "title": "Show HN: The Lottery of Life",
+      "slug": "2026-03-18-show-hn-the-lottery-of-life.html",
+      "path": "posts/2026-03-18-show-hn-the-lottery-of-life.html",
+      "date_iso": "2026-03-18T05:58:34+00:00",
+      "source": "https://claude.ai/public/artifacts/a62c4bac-3c05-4443-9d0a-50a9bd3f9d8d",
+      "summary": "Article URL: https://claude.ai/public/artifacts/a62c4bac-3c05-4443-9d0a-50a9bd3f9d8d Comments URL: https://news.ycombinator.com/item?id=47422022 Points: 14 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47421946",
+      "title": "Switzerland Built an Alternative to BGP",
+      "slug": "2026-03-18-switzerland-built-an-alternative-to-bgp.html",
+      "path": "posts/2026-03-18-switzerland-built-an-alternative-to-bgp.html",
+      "date_iso": "2026-03-18T05:44:23+00:00",
+      "source": "https://www.theregister.com/2026/03/17/switzerland_bgp_alternative/",
+      "summary": "Article URL: https://www.theregister.com/2026/03/17/switzerland_bgp_alternative/ Comments URL: https://news.ycombinator.com/item?id=47421946 Points: 31 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47421828",
+      "title": "SSH has no Host header",
+      "slug": "2026-03-18-ssh-has-no-host-header.html",
+      "path": "posts/2026-03-18-ssh-has-no-host-header.html",
+      "date_iso": "2026-03-18T05:18:02+00:00",
+      "source": "https://blog.exe.dev/ssh-host-header",
+      "summary": "Article URL: https://blog.exe.dev/ssh-host-header Comments URL: https://news.ycombinator.com/item?id=47421828 Points: 87 # Comments: 67"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47421670",
+      "title": "Review of Microsoft's ClearType Font Collection (2005)",
+      "slug": "2026-03-18-review-of-microsoft-s-cleartype-font-collection-2005.html",
+      "path": "posts/2026-03-18-review-of-microsoft-s-cleartype-font-collection-2005.html",
+      "date_iso": "2026-03-18T04:44:12+00:00",
+      "source": "https://typographica.org/on-typography/microsofts-cleartype-font-collection-a-fair-and-balanced-review/",
+      "summary": "Article URL: https://typographica.org/on-typography/microsofts-cleartype-font-collection-a-fair-and-balanced-review/ Comments URL: https://news.ycombinator.com/item?id=47421670 Points: 8 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47421513",
+      "title": "Forget Flags and Scripts: Just Rename the File",
+      "slug": "2026-03-18-forget-flags-and-scripts-just-rename-the-file.html",
+      "path": "posts/2026-03-18-forget-flags-and-scripts-just-rename-the-file.html",
+      "date_iso": "2026-03-18T04:11:20+00:00",
+      "source": "https://robertsdotpm.github.io/software_engineering/program_names_as_input.html",
+      "summary": "Article URL: https://robertsdotpm.github.io/software_engineering/program_names_as_input.html Comments URL: https://news.ycombinator.com/item?id=47421513 Points: 24 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47421442",
+      "title": "Have a fucking website",
+      "slug": "2026-03-18-have-a-fucking-website.html",
+      "path": "posts/2026-03-18-have-a-fucking-website.html",
+      "date_iso": "2026-03-18T03:53:42+00:00",
+      "source": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
+      "summary": "Article URL: https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/ Comments URL: https://news.ycombinator.com/item?id=47421442 Points: 293 # Comments: 154"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/17/technology/anthropic-pentagon-national-security-risk.html",
+      "title": "U.S. Says Anthropic Is an ‘Unacceptable’ National Security Risk",
+      "slug": "2026-03-18-u-s-says-anthropic-is-an-unacceptable-national-security-risk.html",
+      "path": "posts/2026-03-18-u-s-says-anthropic-is-an-unacceptable-national-security-risk.html",
+      "date_iso": "2026-03-18T03:51:54+00:00",
+      "source": "https://www.nytimes.com/2026/03/17/technology/anthropic-pentagon-national-security-risk.html",
+      "summary": "Anthropic has accused the Pentagon of labeling it a “supply chain risk” to punish it on ideological grounds."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47420493",
+      "title": "Launch an autonomous AI agent with sandboxed execution in 2 lines of code",
+      "slug": "2026-03-18-launch-an-autonomous-ai-agent-with-sandboxed-execution-in-2-lines-of-code.html",
+      "path": "posts/2026-03-18-launch-an-autonomous-ai-agent-with-sandboxed-execution-in-2-lines-of-code.html",
+      "date_iso": "2026-03-18T01:10:19+00:00",
+      "source": "https://amaiya.github.io/onprem/examples_agent.html",
+      "summary": "Article URL: https://amaiya.github.io/onprem/examples_agent.html Comments URL: https://news.ycombinator.com/item?id=47420493 Points: 29 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47420432",
+      "title": "The pleasures of poor product design",
+      "slug": "2026-03-18-the-pleasures-of-poor-product-design.html",
+      "path": "posts/2026-03-18-the-pleasures-of-poor-product-design.html",
+      "date_iso": "2026-03-18T01:00:45+00:00",
+      "source": "https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design",
+      "summary": "Article URL: https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design Comments URL: https://news.ycombinator.com/item?id=47420432 Points: 86 # Comments: 30"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47420388",
+      "title": "A tale about fixing eBPF spinlock issues in the Linux kernel",
+      "slug": "2026-03-18-a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel.html",
+      "path": "posts/2026-03-18-a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel.html",
+      "date_iso": "2026-03-18T00:53:10+00:00",
+      "source": "https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/",
+      "summary": "Article URL: https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/ Comments URL: https://news.ycombinator.com/item?id=47420388 Points: 81 # Comments: 2"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/17/technology/arizona-criminal-charges-kalshi.html",
+      "title": "Arizona Files Criminal Charges Against Kalshi, the Prediction Site",
+      "slug": "2026-03-17-arizona-files-criminal-charges-against-kalshi-the-prediction-site.html",
+      "path": "posts/2026-03-17-arizona-files-criminal-charges-against-kalshi-the-prediction-site.html",
+      "date_iso": "2026-03-17T22:46:44+00:00",
+      "source": "https://www.nytimes.com/2026/03/17/technology/arizona-criminal-charges-kalshi.html",
+      "summary": "Kris Mayes, the Arizona attorney general. On Tuesday, she filed criminal charges against Kalshi."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47418722",
+      "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
+      "slug": "2026-03-17-why-ai-systems-don-t-learn-on-autonomous-learning-from-cognitive-science.html",
+      "path": "posts/2026-03-17-why-ai-systems-don-t-learn-on-autonomous-learning-from-cognitive-science.html",
+      "date_iso": "2026-03-17T21:42:39+00:00",
+      "source": "https://arxiv.org/abs/2603.15381",
+      "summary": "Article URL: https://arxiv.org/abs/2603.15381 Comments URL: https://news.ycombinator.com/item?id=47418722 Points: 94 # Comments: 28"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47418295",
+      "title": "Mistral AI Releases Forge",
+      "slug": "2026-03-17-mistral-ai-releases-forge.html",
+      "path": "posts/2026-03-17-mistral-ai-releases-forge.html",
+      "date_iso": "2026-03-17T21:04:26+00:00",
+      "source": "https://mistral.ai/news/forge",
+      "summary": "Article URL: https://mistral.ai/news/forge Comments URL: https://news.ycombinator.com/item?id=47418295 Points: 341 # Comments: 60"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/17/technology/china-scrutiny-meta-manus.html",
+      "title": "China Ramps Up Scrutiny of Meta’s Acquisition of Manus",
+      "slug": "2026-03-17-china-ramps-up-scrutiny-of-meta-s-acquisition-of-manus.html",
+      "path": "posts/2026-03-17-china-ramps-up-scrutiny-of-meta-s-acquisition-of-manus.html",
+      "date_iso": "2026-03-17T20:45:18+00:00",
+      "source": "https://www.nytimes.com/2026/03/17/technology/china-scrutiny-meta-manus.html",
+      "summary": "Meta announced in December that it had bought Manus, a Singapore artificial intelligence start-up that has Chinese roots."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47417804",
+      "title": "Get Shit Done: A meta-prompting, context engineering and spec-driven dev system",
+      "slug": "2026-03-17-get-shit-done-a-meta-prompting-context-engineering-and-spec-driven-dev-system.html",
+      "path": "posts/2026-03-17-get-shit-done-a-meta-prompting-context-engineering-and-spec-driven-dev-system.html",
+      "date_iso": "2026-03-17T20:23:39+00:00",
+      "source": "https://github.com/gsd-build/get-shit-done",
+      "summary": "Article URL: https://github.com/gsd-build/get-shit-done Comments URL: https://news.ycombinator.com/item?id=47417804 Points: 306 # Comments: 150"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47417335",
+      "title": "Launch HN: Kita (YC W26) – Automate credit review in emerging markets",
+      "slug": "2026-03-17-launch-hn-kita-yc-w26-automate-credit-review-in-emerging-markets.html",
+      "path": "posts/2026-03-17-launch-hn-kita-yc-w26-automate-credit-review-in-emerging-markets.html",
+      "date_iso": "2026-03-17T19:46:29+00:00",
+      "source": "https://news.ycombinator.com/item?id=47417335",
+      "summary": "Hey HN! We’re Carmel and Rhea, the founders of Kita ( https://www.usekita.com/ ). We automate credit review for lenders in emerging markets using VLMs. In many emerging markets, like the Philippines and Mexico, credit infrastructure is weak. Open finance is still nascent, and cr…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47416736",
+      "title": "A Decade of Slug",
+      "slug": "2026-03-17-a-decade-of-slug.html",
+      "path": "posts/2026-03-17-a-decade-of-slug.html",
+      "date_iso": "2026-03-17T18:59:50+00:00",
+      "source": "https://terathon.com/blog/decade-slug.html",
+      "summary": "https://web.archive.org/web/20260317185928/https://terathon.... Comments URL: https://news.ycombinator.com/item?id=47416736 Points: 556 # Comments: 52"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47416486",
+      "title": "Python 3.15's JIT is now back on track",
+      "slug": "2026-03-17-python-3-15-s-jit-is-now-back-on-track.html",
+      "path": "posts/2026-03-17-python-3-15-s-jit-is-now-back-on-track.html",
+      "date_iso": "2026-03-17T18:37:27+00:00",
+      "source": "https://fidget-spinner.github.io/posts/jit-on-track.html",
+      "summary": "Article URL: https://fidget-spinner.github.io/posts/jit-on-track.html Comments URL: https://news.ycombinator.com/item?id=47416486 Points: 352 # Comments: 174"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47416081",
+      "title": "Edge.js: Run Node apps inside a WebAssembly sandbox",
+      "slug": "2026-03-17-edge-js-run-node-apps-inside-a-webassembly-sandbox.html",
+      "path": "posts/2026-03-17-edge-js-run-node-apps-inside-a-webassembly-sandbox.html",
+      "date_iso": "2026-03-17T18:01:50+00:00",
+      "source": "https://wasmer.io/posts/edgejs-safe-nodejs-using-wasm-sandbox",
+      "summary": "Article URL: https://wasmer.io/posts/edgejs-safe-nodejs-using-wasm-sandbox Comments URL: https://news.ycombinator.com/item?id=47416081 Points: 130 # Comments: 36"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/17/technology/netanyahu-ai-video-iran-israel.html",
+      "title": "Netanyahu Posts ‘Proof of Life’ Video as A.I. Sows Doubts About What’s Real",
+      "slug": "2026-03-17-netanyahu-posts-proof-of-life-video-as-a-i-sows-doubts-about-what-s-real.html",
+      "path": "posts/2026-03-17-netanyahu-posts-proof-of-life-video-as-a-i-sows-doubts-about-what-s-real.html",
+      "date_iso": "2026-03-17T17:52:47+00:00",
+      "source": "https://www.nytimes.com/2026/03/17/technology/netanyahu-ai-video-iran-israel.html",
+      "summary": "The unusual video is the latest demonstration that artificial intelligence is undermining trust — even in footage that is authentic."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/17/technology/trapped-inside-a-self-driving-car-during-an-anti-robot-attack.html",
+      "title": "Trapped in a Self-Driving Car During an Anti-Robot Attack",
+      "slug": "2026-03-17-trapped-in-a-self-driving-car-during-an-anti-robot-attack.html",
+      "path": "posts/2026-03-17-trapped-in-a-self-driving-car-during-an-anti-robot-attack.html",
+      "date_iso": "2026-03-17T17:22:58+00:00",
+      "source": "https://www.nytimes.com/2026/03/17/technology/trapped-inside-a-self-driving-car-during-an-anti-robot-attack.html",
+      "summary": "Self-driving cars have introduced novel and sometimes worrisome quirks to car travel."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47415350",
+      "title": "Spice Data (YC S19) Is Hiring a Product Specialist",
+      "slug": "2026-03-17-spice-data-yc-s19-is-hiring-a-product-specialist.html",
+      "path": "posts/2026-03-17-spice-data-yc-s19-is-hiring-a-product-specialist.html",
+      "date_iso": "2026-03-17T17:00:50+00:00",
+      "source": "https://www.ycombinator.com/companies/spice-data/jobs/P0e9MKz-product-specialist-new-grad",
+      "summary": "Article URL: https://www.ycombinator.com/companies/spice-data/jobs/P0e9MKz-product-specialist-new-grad Comments URL: https://news.ycombinator.com/item?id=47415350 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47414032",
+      "title": "Unsloth Studio",
+      "slug": "2026-03-17-unsloth-studio.html",
+      "path": "posts/2026-03-17-unsloth-studio.html",
+      "date_iso": "2026-03-17T15:26:32+00:00",
+      "source": "https://unsloth.ai/docs/new/studio",
+      "summary": "Article URL: https://unsloth.ai/docs/new/studio Comments URL: https://news.ycombinator.com/item?id=47414032 Points: 261 # Comments: 50"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47413876",
+      "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
+      "slug": "2026-03-17-microsoft-s-unhackable-xbox-one-has-been-hacked-by-bliss.html",
+      "path": "posts/2026-03-17-microsoft-s-unhackable-xbox-one-has-been-hacked-by-bliss.html",
+      "date_iso": "2026-03-17T15:16:29+00:00",
+      "source": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
+      "summary": "Article URL: https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level Comments URL: https://news.ycombinator.com/item?id…"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47408703",
       "title": "Kagi Translate now supports LinkedIn Speak as an output language",
       "slug": "2026-03-17-kagi-translate-now-supports-linkedin-speak-as-an-output-language.html",
