@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Will my flight have Starlink?</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Will my flight have Starlink?</h1>
+    <p><small>Published: 2026-03-18T17:29:21+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hey HN, If you’ve been lucky enough to be on a flight with Starlink, you understand the hype. It actually works!<p>However, its availability on flights is patchy and hard to predict. So we built a database of all airlines that have rolled out Starlink (beyond just a trial), and a flight search tool to predict it. Plug in a flight number and date, and we'll estimate the likelihood of Starlink on-board based on aircraft type and tail number.<p>If you don’t have any trips coming up, you can also look up specific routes to see what flights offer Starlink. You can find it here: <a href="https://stardrift.ai/starlink">https://stardrift.ai/starlink</a> .<p>-<p>I wanted to add a few notes on how this works too. There are three things we check, in order, when we answer a query:<p>- Does this airline have Starlink?<p>- Does this aircraft body have Starlink?<p>- Does <i>this specific aircraft</i> have Starlink?<p>Only a few airlines at all have Starlink right now: United, Hawaiian, Alaskan, Air France, Qatar, JSX, and a handful of others. So if an aircraft is operated by any other airline, we can issue a blanket no immediately.<p>Then, we check the actual body that's flying on the plane. Airlines usually publish equipment assignments in advance, and they're also rolling out Starlink body-by-body. So we know, for instance, that all JSX E145s have Starlink and that none of Air France's A320s have Starlink. (You can see a summary of our data at <a href="https://stardrift.ai/starlink/fleet-summary">https://stardrift.ai/starlink/fleet-summary</a>, though the live logic has a few rules not encoded there.)<p>If there's a complete match at the body type level, we can confidently tell you your flight will have Starlink. However, in most cases, the airline has only rolled out a <i>partial</i> upgrade to that aircraft type. In that case, we need to drill down a little more and figure out exactly <i>which</i> plane is flying on your route.<p>We can do this by looking up the 'tail number' (think of it as a license plate for the plane). <i>Unfortunately</i>, the tail number is usually only assigned a few days before a flight. So, before that, the best we can do is calculate the probability that your plane will be assigned an aircraft with Starlink enabled.<p>To do this, we had to build a mapping of aircraft tails to Starlink status. Here, I have to thank online airline enthusiasts who maintain meticulous spreadsheets and forum threads to track this data! As I understand it, <i>they</i> usually get this data from airline staff who are enthusiastic about Starlink rollouts, so it's a reliable, frequently updated source. Most of <i>our</i> work was finding each source, normalizing their formats, building a reliable & responsible system to pull them in, and then tying them together with our other data sources.<p>Basically, it's a data normalization problem! I used to work on financial data systems and I was surprised how similar this problem was.<p>-<p>Starlink itself is also a pretty cool technology. I also wrote a blog post (<a href="https://stardrift.ai/blog/why-is-starlink-so-good">https://stardrift.ai/blog/why-is-starlink-so-good</a>) on why it's so much better than all the other aircraft wifi options out there. At a high level, it's only possible because rocket launches are so cheap nowadays, which is incredibly cool.<p>The performance is great, so it's well worth planning your flights around it where possible. Right now, your best bet in the US is on United regional flights and JSX/Hawaiian. Internationally, Qatar is the best option (though obviously not right now), with Air France a distance second. This will change throughout the year as more airlines roll it out though, and we'll keep our database updated!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47428650">https://news.ycombinator.com/item?id=47428650</a></p>
+<p>Points: 217</p>
+<p># Comments: 276</p>
+    <p><a href="https://news.ycombinator.com/item?id=47428650" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

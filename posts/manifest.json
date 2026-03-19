@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47435782",
+      "title": "Ask HN: What do you look for in your first 10 hires?",
+      "slug": "2026-03-19-ask-hn-what-do-you-look-for-in-your-first-10-hires.html",
+      "path": "posts/2026-03-19-ask-hn-what-do-you-look-for-in-your-first-10-hires.html",
+      "date_iso": "2026-03-19T06:47:52+00:00",
+      "source": "https://news.ycombinator.com/item?id=47435782",
+      "summary": "I've been helping a few companies recruit founding engineers. After doing a lot of screens I have a rough idea for what to look for. For others that have done a lot of hiring what do you look for specifically besides their technical ability? Comments URL: https://news.ycombinato…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47435156",
+      "title": "What 81,000 people want from AI",
+      "slug": "2026-03-19-what-81-000-people-want-from-ai.html",
+      "path": "posts/2026-03-19-what-81-000-people-want-from-ai.html",
+      "date_iso": "2026-03-19T05:00:56+00:00",
+      "source": "https://www.anthropic.com/features/81k-interviews",
+      "summary": "Article URL: https://www.anthropic.com/features/81k-interviews Comments URL: https://news.ycombinator.com/item?id=47435156 Points: 83 # Comments: 61"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/18/technology/silicon-valley-war-defense-tech.html",
+      "title": "Silicon Valley Bet on War. The Bets Are Paying Off.",
+      "slug": "2026-03-19-silicon-valley-bet-on-war-the-bets-are-paying-off.html",
+      "path": "posts/2026-03-19-silicon-valley-bet-on-war-the-bets-are-paying-off.html",
+      "date_iso": "2026-03-19T03:58:29+00:00",
+      "source": "https://www.nytimes.com/2026/03/18/technology/silicon-valley-war-defense-tech.html",
+      "summary": "After years of criticism and financial risk, Palantir, Anthropic and small start-ups are generating rewards from their investments in defense tech."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47434732",
+      "title": "Conway's Game of Life, in real life",
+      "slug": "2026-03-19-conway-s-game-of-life-in-real-life.html",
+      "path": "posts/2026-03-19-conway-s-game-of-life-in-real-life.html",
+      "date_iso": "2026-03-19T03:55:03+00:00",
+      "source": "https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life Comments URL: https://news.ycombinator.com/item?id=47434732 Points: 43 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47434567",
+      "title": "Mozilla to launch free built-in VPN in upcoming Firefox 149",
+      "slug": "2026-03-19-mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149.html",
+      "path": "posts/2026-03-19-mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149.html",
+      "date_iso": "2026-03-19T03:31:01+00:00",
+      "source": "https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/",
+      "summary": "Article URL: https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/ Comments URL: https://news.ycombinator.com/item?id=47434567 Points: 75 # Comments: 46"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47434311",
+      "title": "We Have Learned Nothing",
+      "slug": "2026-03-19-we-have-learned-nothing.html",
+      "path": "posts/2026-03-19-we-have-learned-nothing.html",
+      "date_iso": "2026-03-19T02:53:37+00:00",
+      "source": "https://colossus.com/article/we-have-learned-nothing-startup-pundits/",
+      "summary": "Article URL: https://colossus.com/article/we-have-learned-nothing-startup-pundits/ Comments URL: https://news.ycombinator.com/item?id=47434311 Points: 37 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47434047",
+      "title": "A sufficiently detailed spec is code",
+      "slug": "2026-03-19-a-sufficiently-detailed-spec-is-code.html",
+      "path": "posts/2026-03-19-a-sufficiently-detailed-spec-is-code.html",
+      "date_iso": "2026-03-19T02:23:17+00:00",
+      "source": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
+      "summary": "Article URL: https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code Comments URL: https://news.ycombinator.com/item?id=47434047 Points: 240 # Comments: 115"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47434024",
+      "title": "Cook: A simple CLI for orchestrating Claude Code",
+      "slug": "2026-03-19-cook-a-simple-cli-for-orchestrating-claude-code.html",
+      "path": "posts/2026-03-19-cook-a-simple-cli-for-orchestrating-claude-code.html",
+      "date_iso": "2026-03-19T02:20:34+00:00",
+      "source": "https://rjcorwin.github.io/cook/",
+      "summary": "Article URL: https://rjcorwin.github.io/cook/ Comments URL: https://news.ycombinator.com/item?id=47434024 Points: 148 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47433265",
+      "title": "Autoresearch for SAT Solvers",
+      "slug": "2026-03-19-autoresearch-for-sat-solvers.html",
+      "path": "posts/2026-03-19-autoresearch-for-sat-solvers.html",
+      "date_iso": "2026-03-19T00:40:32+00:00",
+      "source": "https://github.com/iliazintchenko/agent-sat",
+      "summary": "Article URL: https://github.com/iliazintchenko/agent-sat Comments URL: https://news.ycombinator.com/item?id=47433265 Points: 99 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47433058",
+      "title": "Austin’s surge of new housing construction drove down rents",
+      "slug": "2026-03-19-austin-s-surge-of-new-housing-construction-drove-down-rents.html",
+      "path": "posts/2026-03-19-austin-s-surge-of-new-housing-construction-drove-down-rents.html",
+      "date_iso": "2026-03-19T00:15:39+00:00",
+      "source": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
+      "summary": "Article URL: https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents Comments URL: https://news.ycombinator.com/item?id=47433058 Points: 489 # Comments: 544"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47432915",
+      "title": "RX – a new random-access JSON alternative",
+      "slug": "2026-03-18-rx-a-new-random-access-json-alternative.html",
+      "path": "posts/2026-03-18-rx-a-new-random-access-json-alternative.html",
+      "date_iso": "2026-03-18T23:58:05+00:00",
+      "source": "https://github.com/creationix/rx",
+      "summary": "Article URL: https://github.com/creationix/rx Comments URL: https://news.ycombinator.com/item?id=47432915 Points: 73 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47431930",
+      "title": "What’s on HTTP?",
+      "slug": "2026-03-18-what-s-on-http.html",
+      "path": "posts/2026-03-18-what-s-on-http.html",
+      "date_iso": "2026-03-18T21:57:58+00:00",
+      "source": "https://whatsonhttp.com/",
+      "summary": "Article URL: https://whatsonhttp.com/ Comments URL: https://news.ycombinator.com/item?id=47431930 Points: 55 # Comments: 24"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47431237",
+      "title": "Warranty Void If Regenerated",
+      "slug": "2026-03-18-warranty-void-if-regenerated.html",
+      "path": "posts/2026-03-18-warranty-void-if-regenerated.html",
+      "date_iso": "2026-03-18T20:45:54+00:00",
+      "source": "https://nearzero.software/p/warranty-void-if-regenerated",
+      "summary": "As an experiment I started asking Claude to explain things to me with a fiction story and it ended up being really good, so I started seeing how far I could take it and what it would take to polish it enough to share publicly. Over the last couple months, I've been building worl…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/18/technology/silicon-valley-anthropic-pentagon.html",
+      "title": "Silicon Valley Musters Behind-the-Scenes Support for Anthropic",
+      "slug": "2026-03-18-silicon-valley-musters-behind-the-scenes-support-for-anthropic.html",
+      "path": "posts/2026-03-18-silicon-valley-musters-behind-the-scenes-support-for-anthropic.html",
+      "date_iso": "2026-03-18T19:17:18+00:00",
+      "source": "https://www.nytimes.com/2026/03/18/technology/silicon-valley-anthropic-pentagon.html",
+      "summary": "Anthropic’s stance on how its artificial intelligence can be used in autonomous weapons and domestic surveillance infuriated officials at the Pentagon."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47429988",
+      "title": "Show HN: Playing LongTurn FreeCiv with Friends",
+      "slug": "2026-03-18-show-hn-playing-longturn-freeciv-with-friends.html",
+      "path": "posts/2026-03-18-show-hn-playing-longturn-freeciv-with-friends.html",
+      "date_iso": "2026-03-18T19:01:54+00:00",
+      "source": "https://github.com/ndroo/freeciv.andrewmcgrath.info",
+      "summary": "Article URL: https://github.com/ndroo/freeciv.andrewmcgrath.info Comments URL: https://news.ycombinator.com/item?id=47429988 Points: 71 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47428650",
+      "title": "Show HN: Will my flight have Starlink?",
+      "slug": "2026-03-18-show-hn-will-my-flight-have-starlink.html",
+      "path": "posts/2026-03-18-show-hn-will-my-flight-have-starlink.html",
+      "date_iso": "2026-03-18T17:29:21+00:00",
+      "source": "https://news.ycombinator.com/item?id=47428650",
+      "summary": "Hey HN, If you’ve been lucky enough to be on a flight with Starlink, you understand the hype. It actually works! However, its availability on flights is patchy and hard to predict. So we built a database of all airlines that have rolled out Starlink (beyond just a trial), and a…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47427299",
+      "title": "Show HN: I built 48 lightweight SVG backgrounds you can copy/paste",
+      "slug": "2026-03-18-show-hn-i-built-48-lightweight-svg-backgrounds-you-can-copy-paste.html",
+      "path": "posts/2026-03-18-show-hn-i-built-48-lightweight-svg-backgrounds-you-can-copy-paste.html",
+      "date_iso": "2026-03-18T15:50:44+00:00",
+      "source": "https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/",
+      "summary": "Article URL: https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/ Comments URL: https://news.ycombinator.com/item?id=47427299 Points: 237 # Comments: 50"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47427208",
+      "title": "CVE-2026-3888: Important Snap Flaw Enables Local Privilege Escalation to Root",
+      "slug": "2026-03-18-cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root.html",
+      "path": "posts/2026-03-18-cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root.html",
+      "date_iso": "2026-03-18T15:43:19+00:00",
+      "source": "https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root",
+      "summary": "Article URL: https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root Comments URL: https://news.ycombinator.com/item?id=47427208 Points: 123 # Comments: 72"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47427027",
+      "title": "Nvidia NemoClaw",
+      "slug": "2026-03-18-nvidia-nemoclaw.html",
+      "path": "posts/2026-03-18-nvidia-nemoclaw.html",
+      "date_iso": "2026-03-18T15:31:07+00:00",
+      "source": "https://github.com/NVIDIA/NemoClaw",
+      "summary": "Article URL: https://github.com/NVIDIA/NemoClaw Comments URL: https://news.ycombinator.com/item?id=47427027 Points: 290 # Comments: 204"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/18/technology/google-ai-pentagon.html",
+      "title": "Google Sits Pretty as A.I. Rivals Compete for Pentagon Favor",
+      "slug": "2026-03-18-google-sits-pretty-as-a-i-rivals-compete-for-pentagon-favor.html",
+      "path": "posts/2026-03-18-google-sits-pretty-as-a-i-rivals-compete-for-pentagon-favor.html",
+      "date_iso": "2026-03-18T15:30:09+00:00",
+      "source": "https://www.nytimes.com/2026/03/18/technology/google-ai-pentagon.html",
+      "summary": "Google, which swore off military work in 2018, is quietly rebuilding its relationship with the Defense Department."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/18/technology/personaltech/how-to-follow-the-game-even-when-you-cant-see-it-live.html",
+      "title": "How to Follow the Game, Even When You Can’t See It Live",
+      "slug": "2026-03-18-how-to-follow-the-game-even-when-you-can-t-see-it-live.html",
+      "path": "posts/2026-03-18-how-to-follow-the-game-even-when-you-can-t-see-it-live.html",
+      "date_iso": "2026-03-18T13:00:13+00:00",
+      "source": "https://www.nytimes.com/2026/03/18/technology/personaltech/how-to-follow-the-game-even-when-you-cant-see-it-live.html",
+      "summary": "Google’s “Pin Live Score” feature in the “Dynamic Island” tab, on an iPhone 17 Pro Max."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/18/technology/turing-award-winners-quantum-cryptography.html",
+      "title": "Turing Award Goes to Inventors of Quantum Cryptography",
+      "slug": "2026-03-18-turing-award-goes-to-inventors-of-quantum-cryptography.html",
+      "path": "posts/2026-03-18-turing-award-goes-to-inventors-of-quantum-cryptography.html",
+      "date_iso": "2026-03-18T12:19:10+00:00",
+      "source": "https://www.nytimes.com/2026/03/18/technology/turing-award-winners-quantum-cryptography.html",
+      "summary": "On Wednesday, the Association for Computing Machinery said Charles Bennett, left, and Gilles Brassard had won this year’s Turing Award, often called the Nobel Prize of computing."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47423976",
+      "title": "OpenAI Has New Focus (on the IPO)",
+      "slug": "2026-03-18-openai-has-new-focus-on-the-ipo.html",
+      "path": "posts/2026-03-18-openai-has-new-focus-on-the-ipo.html",
+      "date_iso": "2026-03-18T10:49:19+00:00",
+      "source": "https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/",
+      "summary": "Article URL: https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/ Comments URL: https://news.ycombinator.com/item?id=47423976 Points: 212 # Comments: 181"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47423647",
+      "title": "Rob Pike’s Rules of Programming (1989)",
+      "slug": "2026-03-18-rob-pike-s-rules-of-programming-1989.html",
+      "path": "posts/2026-03-18-rob-pike-s-rules-of-programming-1989.html",
+      "date_iso": "2026-03-18T09:59:54+00:00",
+      "source": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
+      "summary": "Article URL: https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html Comments URL: https://news.ycombinator.com/item?id=47423647 Points: 917 # Comments: 431"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47422759",
+      "title": "Wander – A tiny, decentralised tool to explore the small web",
+      "slug": "2026-03-18-wander-a-tiny-decentralised-tool-to-explore-the-small-web.html",
+      "path": "posts/2026-03-18-wander-a-tiny-decentralised-tool-to-explore-the-small-web.html",
+      "date_iso": "2026-03-18T07:43:13+00:00",
+      "source": "https://susam.net/wander/",
+      "summary": "Article URL: https://susam.net/wander/ Comments URL: https://news.ycombinator.com/item?id=47422759 Points: 255 # Comments: 65"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47422408",
       "title": "Ndea (YC W26) is hiring a symbolic RL search guidance lead",
       "slug": "2026-03-18-ndea-yc-w26-is-hiring-a-symbolic-rl-search-guidance-lead.html",
