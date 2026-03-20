@@ -1,6 +1,249 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47451429",
+      "title": "FSFE supporters affected: Payment provider Nexi cancelled us",
+      "slug": "2026-03-20-fsfe-supporters-affected-payment-provider-nexi-cancelled-us.html",
+      "path": "posts/2026-03-20-fsfe-supporters-affected-payment-provider-nexi-cancelled-us.html",
+      "date_iso": "2026-03-20T07:09:07+00:00",
+      "source": "https://fsfe.org/news/2026/news-20260316-01.en.html",
+      "summary": "Article URL: https://fsfe.org/news/2026/news-20260316-01.en.html Comments URL: https://news.ycombinator.com/item?id=47451429 Points: 5 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47450514",
+      "title": "Kin: Semantic version control that tracks code as entities, not files",
+      "slug": "2026-03-20-kin-semantic-version-control-that-tracks-code-as-entities-not-files.html",
+      "path": "posts/2026-03-20-kin-semantic-version-control-that-tracks-code-as-entities-not-files.html",
+      "date_iso": "2026-03-20T04:31:01+00:00",
+      "source": "https://github.com/firelock-ai/kin",
+      "summary": "Article URL: https://github.com/firelock-ai/kin Comments URL: https://news.ycombinator.com/item?id=47450514 Points: 9 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47450478",
+      "title": "ArXiv Declares Independence from Cornell",
+      "slug": "2026-03-20-arxiv-declares-independence-from-cornell.html",
+      "path": "posts/2026-03-20-arxiv-declares-independence-from-cornell.html",
+      "date_iso": "2026-03-20T04:24:11+00:00",
+      "source": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
+      "summary": "Article URL: https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell Comments URL: https://news.ycombinator.com/item?id=47450478 Points: 161 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47449576",
+      "title": "Physicists Trace Sun's Magnetic Engine, 200k Kilometers Below Surface",
+      "slug": "2026-03-20-physicists-trace-sun-s-magnetic-engine-200k-kilometers-below-surface.html",
+      "path": "posts/2026-03-20-physicists-trace-sun-s-magnetic-engine-200k-kilometers-below-surface.html",
+      "date_iso": "2026-03-20T02:12:41+00:00",
+      "source": "https://news.njit.edu/njit-physicists-trace-sun%E2%80%99s-magnetic-engine-200000-kilometers-below-surface",
+      "summary": "Article URL: https://news.njit.edu/njit-physicists-trace-sun%E2%80%99s-magnetic-engine-200000-kilometers-below-surface Comments URL: https://news.ycombinator.com/item?id=47449576 Points: 17 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47448994",
+      "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
+      "slug": "2026-03-20-full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found.html",
+      "path": "posts/2026-03-20-full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found.html",
+      "date_iso": "2026-03-20T01:09:45+00:00",
+      "source": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
+      "summary": "Article URL: https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found Comments URL: https://news.ycombinator.com/item?id=47448994 Points: 113 # Comments: 23"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/19/technology/super-micro-servers-china-indicted.html",
+      "title": "U.S. Says 3 Tied to Silicon Valley Server Maker Broke Export Laws",
+      "slug": "2026-03-20-u-s-says-3-tied-to-silicon-valley-server-maker-broke-export-laws.html",
+      "path": "posts/2026-03-20-u-s-says-3-tied-to-silicon-valley-server-maker-broke-export-laws.html",
+      "date_iso": "2026-03-20T00:50:37+00:00",
+      "source": "https://www.nytimes.com/2026/03/19/technology/super-micro-servers-china-indicted.html",
+      "summary": "Super Micro’s exhibit area at the Mobile World Congress in Shanghai in June."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47448566",
+      "title": "Drugwars for the TI-82/83/83 Calculators (2011)",
+      "slug": "2026-03-20-drugwars-for-the-ti-82-83-83-calculators-2011.html",
+      "path": "posts/2026-03-20-drugwars-for-the-ti-82-83-83-calculators-2011.html",
+      "date_iso": "2026-03-20T00:26:47+00:00",
+      "source": "https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404",
+      "summary": "Article URL: https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404 Comments URL: https://news.ycombinator.com/item?id=47448566 Points: 128 # Comments: 47"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47448524",
+      "title": "Push events into a running session with channels",
+      "slug": "2026-03-20-push-events-into-a-running-session-with-channels.html",
+      "path": "posts/2026-03-20-push-events-into-a-running-session-with-channels.html",
+      "date_iso": "2026-03-20T00:22:08+00:00",
+      "source": "https://code.claude.com/docs/en/channels",
+      "summary": "Article URL: https://code.claude.com/docs/en/channels Comments URL: https://news.ycombinator.com/item?id=47448524 Points: 310 # Comments: 171"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/19/technology/jeff-bezos-ai-fund-project-prometheus.html",
+      "title": "Jeff Bezos in Talks to Raise $100 Billion Fund to Transform Companies With A.I.",
+      "slug": "2026-03-19-jeff-bezos-in-talks-to-raise-100-billion-fund-to-transform-companies-with-a-i.html",
+      "path": "posts/2026-03-19-jeff-bezos-in-talks-to-raise-100-billion-fund-to-transform-companies-with-a-i.html",
+      "date_iso": "2026-03-19T23:48:08+00:00",
+      "source": "https://www.nytimes.com/2026/03/19/technology/jeff-bezos-ai-fund-project-prometheus.html",
+      "summary": "Jeff Bezos’ new investment fund could be among the largest in the world."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47446373",
+      "title": "Be intentional about how AI changes your codebase",
+      "slug": "2026-03-19-be-intentional-about-how-ai-changes-your-codebase.html",
+      "path": "posts/2026-03-19-be-intentional-about-how-ai-changes-your-codebase.html",
+      "date_iso": "2026-03-19T21:23:24+00:00",
+      "source": "https://aicode.swerdlow.dev",
+      "summary": "Article URL: https://aicode.swerdlow.dev Comments URL: https://news.ycombinator.com/item?id=47446373 Points: 106 # Comments: 42"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47445599",
+      "title": "Cockpit is a web-based graphical interface for servers",
+      "slug": "2026-03-19-cockpit-is-a-web-based-graphical-interface-for-servers.html",
+      "path": "posts/2026-03-19-cockpit-is-a-web-based-graphical-interface-for-servers.html",
+      "date_iso": "2026-03-19T20:33:02+00:00",
+      "source": "https://github.com/cockpit-project/cockpit",
+      "summary": "Article URL: https://github.com/cockpit-project/cockpit Comments URL: https://news.ycombinator.com/item?id=47445599 Points: 240 # Comments: 135"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47445246",
+      "title": "Waymo Safety Impact",
+      "slug": "2026-03-19-waymo-safety-impact.html",
+      "path": "posts/2026-03-19-waymo-safety-impact.html",
+      "date_iso": "2026-03-19T20:13:35+00:00",
+      "source": "https://waymo.com/safety/impact/",
+      "summary": "Article URL: https://waymo.com/safety/impact/ Comments URL: https://news.ycombinator.com/item?id=47445246 Points: 292 # Comments: 296"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47444906",
+      "title": "Clockwise acquired by Salesforce",
+      "slug": "2026-03-19-clockwise-acquired-by-salesforce.html",
+      "path": "posts/2026-03-19-clockwise-acquired-by-salesforce.html",
+      "date_iso": "2026-03-19T19:50:51+00:00",
+      "source": "https://www.getclockwise.com",
+      "summary": "Article URL: https://www.getclockwise.com Comments URL: https://news.ycombinator.com/item?id=47444906 Points: 110 # Comments: 60"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/19/technology/have-you-turned-to-ai-for-advice-on-a-romantic-relationship.html",
+      "title": "Have You Turned to A.I. For Advice on a Romantic Relationship?",
+      "slug": "2026-03-19-have-you-turned-to-a-i-for-advice-on-a-romantic-relationship.html",
+      "path": "posts/2026-03-19-have-you-turned-to-a-i-for-advice-on-a-romantic-relationship.html",
+      "date_iso": "2026-03-19T19:28:42+00:00",
+      "source": "https://www.nytimes.com/2026/03/19/technology/have-you-turned-to-ai-for-advice-on-a-romantic-relationship.html",
+      "summary": "People are using generative A.I. chatbots for help on everything from starting to ending a relationship. Have you? How did it turn out?"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47444460",
+      "title": "From Oscilloscope to Wireshark: A UDP Story (2022)",
+      "slug": "2026-03-19-from-oscilloscope-to-wireshark-a-udp-story-2022.html",
+      "path": "posts/2026-03-19-from-oscilloscope-to-wireshark-a-udp-story-2022.html",
+      "date_iso": "2026-03-19T19:18:25+00:00",
+      "source": "https://www.mattkeeter.com/blog/2022-08-11-udp/",
+      "summary": "Article URL: https://www.mattkeeter.com/blog/2022-08-11-udp/ Comments URL: https://news.ycombinator.com/item?id=47444460 Points: 108 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47444072",
+      "title": "NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute",
+      "slug": "2026-03-19-nanogpt-slowrun-10x-data-efficiency-with-infinite-compute.html",
+      "path": "posts/2026-03-19-nanogpt-slowrun-10x-data-efficiency-with-infinite-compute.html",
+      "date_iso": "2026-03-19T18:51:25+00:00",
+      "source": "https://qlabs.sh/10x",
+      "summary": "Article URL: https://qlabs.sh/10x Comments URL: https://news.ycombinator.com/item?id=47444072 Points: 135 # Comments: 28"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/19/technology/ai-agents-uses.html",
+      "title": "A.I. Bots Can Act as Personal Digital Assistants, but There Are Serious Risks",
+      "slug": "2026-03-19-a-i-bots-can-act-as-personal-digital-assistants-but-there-are-serious-risks.html",
+      "path": "posts/2026-03-19-a-i-bots-can-act-as-personal-digital-assistants-but-there-are-serious-risks.html",
+      "date_iso": "2026-03-19T18:22:32+00:00",
+      "source": "https://www.nytimes.com/2026/03/19/technology/ai-agents-uses.html",
+      "summary": "A Vals AI employee uses Claude Code to debug failures in an agent trace at their office in San Francisco."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47443588",
+      "title": "Noq: n0's new QUIC implementation in Rust",
+      "slug": "2026-03-19-noq-n0-s-new-quic-implementation-in-rust.html",
+      "path": "posts/2026-03-19-noq-n0-s-new-quic-implementation-in-rust.html",
+      "date_iso": "2026-03-19T18:17:15+00:00",
+      "source": "https://www.iroh.computer/blog/noq-announcement",
+      "summary": "Article URL: https://www.iroh.computer/blog/noq-announcement Comments URL: https://news.ycombinator.com/item?id=47443588 Points: 189 # Comments: 24"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47442690",
+      "title": "Google details new 24-hour process to sideload unverified Android apps",
+      "slug": "2026-03-19-google-details-new-24-hour-process-to-sideload-unverified-android-apps.html",
+      "path": "posts/2026-03-19-google-details-new-24-hour-process-to-sideload-unverified-android-apps.html",
+      "date_iso": "2026-03-19T17:16:04+00:00",
+      "source": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+      "summary": "https://android-developers.googleblog.com/2026/03/android-de... Comments URL: https://news.ycombinator.com/item?id=47442690 Points: 710 # Comments: 789"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47442452",
+      "title": "Launch HN: Voltair (YC W26) – Drone and charging network for power utilities",
+      "slug": "2026-03-19-launch-hn-voltair-yc-w26-drone-and-charging-network-for-power-utilities.html",
+      "path": "posts/2026-03-19-launch-hn-voltair-yc-w26-drone-and-charging-network-for-power-utilities.html",
+      "date_iso": "2026-03-19T16:57:02+00:00",
+      "source": "https://news.ycombinator.com/item?id=47442452",
+      "summary": "Hey HN! We’re Hayden, Ronan, Avi, and Warren of Voltair ( https://voltairlabs.com/ ). We’re making weatherized, hybrid-fixed drones deployed for power utility inspections. Here’s some footage: https://vimeo.com/1173862237/ac28095cc6?share=copy&amp;fl=sv&amp;fe=... and a photo of…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47442435",
+      "title": "Scaling Karpathy's Autoresearch: What Happens When the Agent Gets a GPU Cluster",
+      "slug": "2026-03-19-scaling-karpathy-s-autoresearch-what-happens-when-the-agent-gets-a-gpu-cluster.html",
+      "path": "posts/2026-03-19-scaling-karpathy-s-autoresearch-what-happens-when-the-agent-gets-a-gpu-cluster.html",
+      "date_iso": "2026-03-19T16:55:45+00:00",
+      "source": "https://blog.skypilot.co/scaling-autoresearch/",
+      "summary": "Article URL: https://blog.skypilot.co/scaling-autoresearch/ Comments URL: https://news.ycombinator.com/item?id=47442435 Points: 160 # Comments: 69"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47441629",
+      "title": "Launch HN: Canary (YC W26) – AI QA that understands your code",
+      "slug": "2026-03-19-launch-hn-canary-yc-w26-ai-qa-that-understands-your-code.html",
+      "path": "posts/2026-03-19-launch-hn-canary-yc-w26-ai-qa-that-understands-your-code.html",
+      "date_iso": "2026-03-19T16:01:30+00:00",
+      "source": "https://news.ycombinator.com/item?id=47441629",
+      "summary": "Hey HN! We're Aakash and Viswesh, and we're building Canary ( https://www.runcanary.ai ). We build AI agents that read your codebase, figure out what a pull request actually changed, and generate and execute tests for every affected user workflow. Aakash and I previously built A…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47441546",
+      "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
+      "slug": "2026-03-19-show-hn-three-new-kitten-tts-models-smallest-less-than-25mb.html",
+      "path": "posts/2026-03-19-show-hn-three-new-kitten-tts-models-smallest-less-than-25mb.html",
+      "date_iso": "2026-03-19T15:56:06+00:00",
+      "source": "https://github.com/KittenML/KittenTTS",
+      "summary": "Kitten TTS ( https://github.com/KittenML/KittenTTS ) is an open-source series of tiny and expressive text-to-speech models for on-device applications. We had a thread last year here: https://news.ycombinator.com/item?id=44807868 . Today we're releasing three new models with 80M,…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/19/technology/mark-zuckerbergs-metaverse-vr-horizon-worlds.html",
+      "title": "The Long Farewell to Mark Zuckerberg’s Metaverse",
+      "slug": "2026-03-19-the-long-farewell-to-mark-zuckerberg-s-metaverse.html",
+      "path": "posts/2026-03-19-the-long-farewell-to-mark-zuckerberg-s-metaverse.html",
+      "date_iso": "2026-03-19T15:29:45+00:00",
+      "source": "https://www.nytimes.com/2026/03/19/technology/mark-zuckerbergs-metaverse-vr-horizon-worlds.html",
+      "summary": "Meta announced changes that effectively leave Mr. Zuckerberg’s vision of an immersive digital world based in virtual reality only on life support."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47440430",
+      "title": "4Chan mocks £520k fine for UK online safety breaches",
+      "slug": "2026-03-19-4chan-mocks-520k-fine-for-uk-online-safety-breaches.html",
+      "path": "posts/2026-03-19-4chan-mocks-520k-fine-for-uk-online-safety-breaches.html",
+      "date_iso": "2026-03-19T14:46:25+00:00",
+      "source": "https://www.bbc.com/news/articles/c624330lg1ko",
+      "summary": "https://www.ofcom.org.uk/online-safety/illegal-and-harmful-c... Comments URL: https://news.ycombinator.com/item?id=47440430 Points: 345 # Comments: 583"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/18/movies/val-kilmer-ai-movie.html",
+      "title": "AI Replica of Val Kilmer to Appear in ‘As Deep as the Grave’",
+      "slug": "2026-03-19-ai-replica-of-val-kilmer-to-appear-in-as-deep-as-the-grave.html",
+      "path": "posts/2026-03-19-ai-replica-of-val-kilmer-to-appear-in-as-deep-as-the-grave.html",
+      "date_iso": "2026-03-19T13:11:21+00:00",
+      "source": "https://www.nytimes.com/2026/03/18/movies/val-kilmer-ai-movie.html",
+      "summary": "Kilmer’s estate collaborated with the filmmakers to make a digital likeness of the actor, who died of cancer last year."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/19/business/ai-agents-anxiety-openclaw.html",
+      "title": "Sorry, Mom. You’re Chatting With an A.I. Agent, Not Your Son.",
+      "slug": "2026-03-19-sorry-mom-you-re-chatting-with-an-a-i-agent-not-your-son.html",
+      "path": "posts/2026-03-19-sorry-mom-you-re-chatting-with-an-a-i-agent-not-your-son.html",
+      "date_iso": "2026-03-19T09:01:42+00:00",
+      "source": "https://www.nytimes.com/2026/03/19/business/ai-agents-anxiety-openclaw.html",
+      "summary": "Silicon Valley’s young coders are getting creative with this new technology. They also worry they’re not spending enough time with it."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47435782",
       "title": "Ask HN: What do you look for in your first 10 hires?",
       "slug": "2026-03-19-ask-hn-what-do-you-look-for-in-your-first-10-hires.html",

@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Launch HN: Canary (YC W26) – AI QA that understands your code</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Launch HN: Canary (YC W26) – AI QA that understands your code</h1>
+    <p><small>Published: 2026-03-19T16:01:30+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hey HN! We're Aakash and Viswesh, and we're building Canary (<a href="https://www.runcanary.ai">https://www.runcanary.ai</a>). We build AI agents that read your codebase, figure out what a pull request actually changed, and generate and execute tests for every affected user workflow.<p>Aakash and I previously built AI coding tools at Windsurf, Cognition, and Google. AI tools were making every team faster at shipping, but nobody was testing real user behavior before merge. PRs got bigger, reviews still happened in file diffs, and changes that looked clean broke checkout, auth, and billing in production. We saw it firsthand. We started Canary to close that gap. Here's how it works:<p>Canary starts by connecting to your codebase and understands how your app is built: routes, controllers, validation logic. You push a PR and Canary reads the diff, understands the intent behind the changes, then generates and runs tests against your preview app checking real user flows end to end. It comments directly on the PR with test results and recordings showing what changed and flagging anything that doesn't behave as expected. You can also trigger specific user workflow tests via a PR comment.<p>Beyond PR testing, tests generated from the PR can be moved into regression suites. You can also create tests by just prompting what you want tested in plain English. Canary generates a full test suite from your codebase, schedules it, and runs it continuously. One of our construction tech customers had an invoicing flow where the amount due drifted from the original proposal total by ~$1,600. Canary caught the regression in their invoice flow before release.<p>This isn't something a single family of foundation models can do on its own. QA spans across many modalities like source code, DOM/ARIA, device emulators, visual verifications, analyzing screen recordings, network/console logs, live browser state etc. for any single model to be specialized in. You also need custom browser fleets, user sessions, ephemeral environments, on-device farms and data seeding to run the tests reliably. On top of that, catching second-order effects of code changes requires a specialized harness that breaks the application in multiple possible ways across different types of users that a normal happy path testing flow wouldn't.<p>To measure how well our purpose built QA agent works, we published QA-Bench v0, the first benchmark for code verification. Given a real PR, can an AI model identify every affected user workflow and produce relevant tests? We tested our purpose-built QA agent against GPT 5.4, Claude Code (Opus 4.6), and Sonnet 4.6 across 35 real PRs on Grafana, Mattermost, Cal.com, and Apache Superset on three dimensions: Relevance, Coverage, and Coherence. Coverage is where the gap was largest. Canary leads by 11 points over GPT 5.4, 18 over Claude Code, and 26 over Sonnet 4.6. For full methodology and per-repo breakdowns give our benchmark report a read: <a href="https://www.runcanary.ai/blog/qa-bench-v0">https://www.runcanary.ai/blog/qa-bench-v0</a><p>You can check out the product demo here: <a href="https://youtu.be/NeD9g1do_BU" rel="nofollow">https://youtu.be/NeD9g1do_BU</a><p>We'd love feedback from anyone working on code verification or thinking about how to measure this differently.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47441629">https://news.ycombinator.com/item?id=47441629</a></p>
+<p>Points: 52</p>
+<p># Comments: 20</p>
+    <p><a href="https://news.ycombinator.com/item?id=47441629" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
