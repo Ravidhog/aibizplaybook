@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47464438",
+      "title": "Ask ChatGPT to pick a number from 1-10000, it generally selects from 7200-7500",
+      "slug": "2026-03-21-ask-chatgpt-to-pick-a-number-from-1-10000-it-generally-selects-from-7200-7500.html",
+      "path": "posts/2026-03-21-ask-chatgpt-to-pick-a-number-from-1-10000-it-generally-selects-from-7200-7500.html",
+      "date_iso": "2026-03-21T06:13:59+00:00",
+      "source": "https://old.reddit.com/r/ChatGPT/comments/1rz2ooh/i_am_betting_my_house_that_if_you_ask_gpt_to_pick/",
+      "summary": "Article URL: https://old.reddit.com/r/ChatGPT/comments/1rz2ooh/i_am_betting_my_house_that_if_you_ask_gpt_to_pick/ Comments URL: https://news.ycombinator.com/item?id=47464438 Points: 23 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47464394",
+      "title": "Google adds 24-hour wait and mandatory reboot to Android sideloading flow",
+      "slug": "2026-03-21-google-adds-24-hour-wait-and-mandatory-reboot-to-android-sideloading-flow.html",
+      "path": "posts/2026-03-21-google-adds-24-hour-wait-and-mandatory-reboot-to-android-sideloading-flow.html",
+      "date_iso": "2026-03-21T06:03:46+00:00",
+      "source": "https://android-developers.googleblog.com/2025/08/elevating-android-security.html",
+      "summary": "Article URL: https://android-developers.googleblog.com/2025/08/elevating-android-security.html Comments URL: https://news.ycombinator.com/item?id=47464394 Points: 60 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47464134",
+      "title": "Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords",
+      "slug": "2026-03-21-ubuntu-26-04-ends-46-years-of-silent-sudo-passwords.html",
+      "path": "posts/2026-03-21-ubuntu-26-04-ends-46-years-of-silent-sudo-passwords.html",
+      "date_iso": "2026-03-21T05:06:11+00:00",
+      "source": "https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/",
+      "summary": "Article URL: https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/ Comments URL: https://news.ycombinator.com/item?id=47464134 Points: 32 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47463547",
+      "title": "FFmpeg 101 (2024)",
+      "slug": "2026-03-21-ffmpeg-101-2024.html",
+      "path": "posts/2026-03-21-ffmpeg-101-2024.html",
+      "date_iso": "2026-03-21T02:47:13+00:00",
+      "source": "https://blogs.igalia.com/llepage/ffmpeg-101/",
+      "summary": "Article URL: https://blogs.igalia.com/llepage/ffmpeg-101/ Comments URL: https://news.ycombinator.com/item?id=47463547 Points: 34 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/20/technology/polymarket-social-feeds-falsehoods.html",
+      "title": "Polymarket Says It Deals in Truth, but Its Social Feeds Are Filled With Falsehoods",
+      "slug": "2026-03-21-polymarket-says-it-deals-in-truth-but-its-social-feeds-are-filled-with-falsehoods.html",
+      "path": "posts/2026-03-21-polymarket-says-it-deals-in-truth-but-its-social-feeds-are-filled-with-falsehoods.html",
+      "date_iso": "2026-03-21T02:26:36+00:00",
+      "source": "https://www.nytimes.com/2026/03/20/technology/polymarket-social-feeds-falsehoods.html",
+      "summary": "A review of the betting market’s social media feeds found it has published hundreds of false and misleading posts."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47463354",
+      "title": "purl: a curl-esque CLI for making HTTP requests that require payment",
+      "slug": "2026-03-21-purl-a-curl-esque-cli-for-making-http-requests-that-require-payment.html",
+      "path": "posts/2026-03-21-purl-a-curl-esque-cli-for-making-http-requests-that-require-payment.html",
+      "date_iso": "2026-03-21T02:09:08+00:00",
+      "source": "https://www.purl.dev/",
+      "summary": "Article URL: https://www.purl.dev/ Comments URL: https://news.ycombinator.com/item?id=47463354 Points: 17 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47462483",
+      "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
+      "slug": "2026-03-20-linux-applications-programming-by-example-the-fundamental-apis-2nd-edition.html",
+      "path": "posts/2026-03-20-linux-applications-programming-by-example-the-fundamental-apis-2nd-edition.html",
+      "date_iso": "2026-03-20T23:57:22+00:00",
+      "source": "https://github.com/arnoldrobbins/LinuxByExample-2e",
+      "summary": "Article URL: https://github.com/arnoldrobbins/LinuxByExample-2e Comments URL: https://news.ycombinator.com/item?id=47462483 Points: 69 # Comments: 8"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/20/technology/elon-musk-twitter-shareholders-verdict.html",
+      "title": "Elon Musk Is Responsible for Some Twitter Investor Losses, Jury Finds",
+      "slug": "2026-03-20-elon-musk-is-responsible-for-some-twitter-investor-losses-jury-finds.html",
+      "path": "posts/2026-03-20-elon-musk-is-responsible-for-some-twitter-investor-losses-jury-finds.html",
+      "date_iso": "2026-03-20T23:16:50+00:00",
+      "source": "https://www.nytimes.com/2026/03/20/technology/elon-musk-twitter-shareholders-verdict.html",
+      "summary": "Elon Musk arriving at the Phillip Burton Federal Building and U.S. Courthouse in San Francisco in March."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47461529",
+      "title": "Show HN: Red Grid Link – peer-to-peer team tracking over Bluetooth, no servers",
+      "slug": "2026-03-20-show-hn-red-grid-link-peer-to-peer-team-tracking-over-bluetooth-no-servers.html",
+      "path": "posts/2026-03-20-show-hn-red-grid-link-peer-to-peer-team-tracking-over-bluetooth-no-servers.html",
+      "date_iso": "2026-03-20T22:25:51+00:00",
+      "source": "https://github.com/RedGridTactical/RedGridLink",
+      "summary": "I go on a lot of backcountry trips where I barely get cell service. If my group splits, nobody knows knows where anyone is until you regroup at camp or at your destination. You can buy Garmin radios or try to set up an ATAK, but ATAK is Android-only and assumes you have a TAK Se…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47461378",
+      "title": "Ghostling",
+      "slug": "2026-03-20-ghostling.html",
+      "path": "posts/2026-03-20-ghostling.html",
+      "date_iso": "2026-03-20T22:11:37+00:00",
+      "source": "https://github.com/ghostty-org/ghostling",
+      "summary": "Article URL: https://github.com/ghostty-org/ghostling Comments URL: https://news.ycombinator.com/item?id=47461378 Points: 173 # Comments: 31"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47461321",
+      "title": "Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran",
+      "slug": "2026-03-20-show-hn-we-built-a-terminal-only-bluesky-at-proto-client-written-in-fortran.html",
+      "path": "posts/2026-03-20-show-hn-we-built-a-terminal-only-bluesky-at-proto-client-written-in-fortran.html",
+      "date_iso": "2026-03-20T22:06:51+00:00",
+      "source": "https://github.com/FormerLab/fortransky",
+      "summary": "Yes, that Fortran. Comments URL: https://news.ycombinator.com/item?id=47461321 Points: 69 # Comments: 38"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47461094",
+      "title": "We rewrote our Rust WASM parser in TypeScript and it got faster",
+      "slug": "2026-03-20-we-rewrote-our-rust-wasm-parser-in-typescript-and-it-got-faster.html",
+      "path": "posts/2026-03-20-we-rewrote-our-rust-wasm-parser-in-typescript-and-it-got-faster.html",
+      "date_iso": "2026-03-20T21:48:06+00:00",
+      "source": "https://www.openui.com/blog/rust-wasm-parser",
+      "summary": "Article URL: https://www.openui.com/blog/rust-wasm-parser Comments URL: https://news.ycombinator.com/item?id=47461094 Points: 168 # Comments: 96"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47460525",
+      "title": "OpenCode – Open source AI coding agent",
+      "slug": "2026-03-20-opencode-open-source-ai-coding-agent.html",
+      "path": "posts/2026-03-20-opencode-open-source-ai-coding-agent.html",
+      "date_iso": "2026-03-20T21:03:52+00:00",
+      "source": "https://opencode.ai/",
+      "summary": "Article URL: https://opencode.ai/ Comments URL: https://news.ycombinator.com/item?id=47460525 Points: 673 # Comments: 298"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47460452",
+      "title": "A Japanese glossary of chopsticks faux pas",
+      "slug": "2026-03-20-a-japanese-glossary-of-chopsticks-faux-pas.html",
+      "path": "posts/2026-03-20-a-japanese-glossary-of-chopsticks-faux-pas.html",
+      "date_iso": "2026-03-20T20:54:57+00:00",
+      "source": "https://www.nippon.com/en/japan-data/h01362/",
+      "summary": "Article URL: https://www.nippon.com/en/japan-data/h01362/ Comments URL: https://news.ycombinator.com/item?id=47460452 Points: 218 # Comments: 159"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47459296",
+      "title": "Our commitment to Windows quality",
+      "slug": "2026-03-20-our-commitment-to-windows-quality.html",
+      "path": "posts/2026-03-20-our-commitment-to-windows-quality.html",
+      "date_iso": "2026-03-20T19:16:13+00:00",
+      "source": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
+      "summary": "Article URL: https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/ Comments URL: https://news.ycombinator.com/item?id=47459296 Points: 491 # Comments: 890"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47458595",
+      "title": "Attention Residuals",
+      "slug": "2026-03-20-attention-residuals.html",
+      "path": "posts/2026-03-20-attention-residuals.html",
+      "date_iso": "2026-03-20T18:23:41+00:00",
+      "source": "https://github.com/MoonshotAI/Attention-Residuals",
+      "summary": "Article URL: https://github.com/MoonshotAI/Attention-Residuals Comments URL: https://news.ycombinator.com/item?id=47458595 Points: 156 # Comments: 21"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html",
+      "title": "More! More! More! Tech Workers Max Out Their A.I. Use.",
+      "slug": "2026-03-20-more-more-more-tech-workers-max-out-their-a-i-use.html",
+      "path": "posts/2026-03-20-more-more-more-tech-workers-max-out-their-a-i-use.html",
+      "date_iso": "2026-03-20T18:06:03+00:00",
+      "source": "https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html",
+      "summary": "At a number of companies, employees compete on leaderboards to show how much A.I. they’re using. They’re racking up big bills along the way."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/20/us/politics/white-house-unveils-ai-policy-aimed-at-blocking-state-laws.html",
+      "title": "White House Unveils A.I. Policy Aimed at Blocking State Laws",
+      "slug": "2026-03-20-white-house-unveils-a-i-policy-aimed-at-blocking-state-laws.html",
+      "path": "posts/2026-03-20-white-house-unveils-a-i-policy-aimed-at-blocking-state-laws.html",
+      "date_iso": "2026-03-20T16:52:19+00:00",
+      "source": "https://www.nytimes.com/2026/03/20/us/politics/white-house-unveils-ai-policy-aimed-at-blocking-state-laws.html",
+      "summary": "President Trump and David Sacks, the Trump administration’s A.I. and crypto czar, during a round-table event in the White House last year."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47455138",
+      "title": "Molly Guard",
+      "slug": "2026-03-20-molly-guard.html",
+      "path": "posts/2026-03-20-molly-guard.html",
+      "date_iso": "2026-03-20T14:33:41+00:00",
+      "source": "https://bookofjoe2.blogspot.com/2026/02/molly-guard.html",
+      "summary": "https://en.wiktionary.org/wiki/molly-guard Comments URL: https://news.ycombinator.com/item?id=47455138 Points: 66 # Comments: 31"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47453942",
+      "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
+      "slug": "2026-03-20-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app.html",
+      "path": "posts/2026-03-20-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app.html",
+      "date_iso": "2026-03-20T13:01:56+00:00",
+      "source": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
+      "summary": "Article URL: https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html Comments URL: https://news.ycombinator.com/item?id=47453942 Points: 540 # Comments: 433"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47452955",
+      "title": "Entso-E final report on Iberian 2025 blackout",
+      "slug": "2026-03-20-entso-e-final-report-on-iberian-2025-blackout.html",
+      "path": "posts/2026-03-20-entso-e-final-report-on-iberian-2025-blackout.html",
+      "date_iso": "2026-03-20T11:03:27+00:00",
+      "source": "https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/",
+      "summary": "Article URL: https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/ Comments URL: https://news.ycombinator.com/item?id=47452955 Points: 182 # Comments: 90"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/20/podcasts/hardfork-ai-washing-tokenmaxxing.html",
+      "title": "‘A.I.-Washing’ Layoffs? + Why L.L.M.s Can’t Write Well + Tokenmaxxing",
+      "slug": "2026-03-20-a-i-washing-layoffs-why-l-l-m-s-can-t-write-well-tokenmaxxing.html",
+      "path": "posts/2026-03-20-a-i-washing-layoffs-why-l-l-m-s-can-t-write-well-tokenmaxxing.html",
+      "date_iso": "2026-03-20T11:00:03+00:00",
+      "source": "https://www.nytimes.com/2026/03/20/podcasts/hardfork-ai-washing-tokenmaxxing.html",
+      "summary": "Companies are using A.I. as a reason for layoffs, but the truth may be more complex."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47451429",
       "title": "FSFE supporters affected: Payment provider Nexi cancelled us",
       "slug": "2026-03-20-fsfe-supporters-affected-payment-provider-nexi-cancelled-us.html",
@@ -136,6 +334,15 @@
       "summary": "Article URL: https://www.mattkeeter.com/blog/2022-08-11-udp/ Comments URL: https://news.ycombinator.com/item?id=47444460 Points: 108 # Comments: 21"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=47444319",
+      "title": "Delve – Fake Compliance as a Service",
+      "slug": "2026-03-19-delve-fake-compliance-as-a-service.html",
+      "path": "posts/2026-03-19-delve-fake-compliance-as-a-service.html",
+      "date_iso": "2026-03-19T19:08:02+00:00",
+      "source": "https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service",
+      "summary": "Article URL: https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service Comments URL: https://news.ycombinator.com/item?id=47444319 Points: 632 # Comments: 213"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47444072",
       "title": "NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute",
       "slug": "2026-03-19-nanogpt-slowrun-10x-data-efficiency-with-infinite-compute.html",
@@ -233,6 +440,15 @@
       "date_iso": "2026-03-19T13:11:21+00:00",
       "source": "https://www.nytimes.com/2026/03/18/movies/val-kilmer-ai-movie.html",
       "summary": "Kilmer’s estate collaborated with the filmmakers to make a digital likeness of the actor, who died of cancer last year."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47438169",
+      "title": "An FAQ on Reinforcement Learning Environments",
+      "slug": "2026-03-19-an-faq-on-reinforcement-learning-environments.html",
+      "path": "posts/2026-03-19-an-faq-on-reinforcement-learning-environments.html",
+      "date_iso": "2026-03-19T12:24:46+00:00",
+      "source": "https://epoch.ai/gradient-updates/state-of-rl-envs",
+      "summary": "Article URL: https://epoch.ai/gradient-updates/state-of-rl-envs Comments URL: https://news.ycombinator.com/item?id=47438169 Points: 38 # Comments: 7"
     },
     {
       "id": "https://www.nytimes.com/2026/03/19/business/ai-agents-anxiety-openclaw.html",
