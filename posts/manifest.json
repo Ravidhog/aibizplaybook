@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47475039",
+      "title": "Rat King",
+      "slug": "2026-03-22-rat-king.html",
+      "path": "posts/2026-03-22-rat-king.html",
+      "date_iso": "2026-03-22T06:41:28+00:00",
+      "source": "https://en.wikipedia.org/wiki/Rat_king",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Rat_king Comments URL: https://news.ycombinator.com/item?id=47475039 Points: 5 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47474323",
+      "title": "Sashiko: An agentic Linux kernel code review system",
+      "slug": "2026-03-22-sashiko-an-agentic-linux-kernel-code-review-system.html",
+      "path": "posts/2026-03-22-sashiko-an-agentic-linux-kernel-code-review-system.html",
+      "date_iso": "2026-03-22T03:59:46+00:00",
+      "source": "https://sashiko.dev/",
+      "summary": "Article URL: https://sashiko.dev/ Comments URL: https://news.ycombinator.com/item?id=47474323 Points: 14 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47474255",
+      "title": "Cloudflare flags archive.today as \"C&C/Botnet\"; no longer resolves via 1.1.1.2",
+      "slug": "2026-03-22-cloudflare-flags-archive-today-as-c-c-botnet-no-longer-resolves-via-1-1-1-2.html",
+      "path": "posts/2026-03-22-cloudflare-flags-archive-today-as-c-c-botnet-no-longer-resolves-via-1-1-1-2.html",
+      "date_iso": "2026-03-22T03:43:51+00:00",
+      "source": "https://radar.cloudflare.com/domains/domain/archive.today",
+      "summary": "Article URL: https://radar.cloudflare.com/domains/domain/archive.today Comments URL: https://news.ycombinator.com/item?id=47474255 Points: 103 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47474236",
+      "title": "Alpha Micro AM-1000E and AM-1200",
+      "slug": "2026-03-22-alpha-micro-am-1000e-and-am-1200.html",
+      "path": "posts/2026-03-22-alpha-micro-am-1000e-and-am-1200.html",
+      "date_iso": "2026-03-22T03:38:10+00:00",
+      "source": "http://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html",
+      "summary": "Article URL: http://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html Comments URL: https://news.ycombinator.com/item?id=47474236 Points: 11 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47473718",
+      "title": "The three pillars of JavaScript bloat",
+      "slug": "2026-03-22-the-three-pillars-of-javascript-bloat.html",
+      "path": "posts/2026-03-22-the-three-pillars-of-javascript-bloat.html",
+      "date_iso": "2026-03-22T02:04:31+00:00",
+      "source": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat",
+      "summary": "Article URL: https://43081j.com/2026/03/three-pillars-of-javascript-bloat Comments URL: https://news.ycombinator.com/item?id=47473718 Points: 156 # Comments: 74"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47473279",
+      "title": "Chest Fridge (2009)",
+      "slug": "2026-03-22-chest-fridge-2009.html",
+      "path": "posts/2026-03-22-chest-fridge-2009.html",
+      "date_iso": "2026-03-22T01:02:10+00:00",
+      "source": "https://mtbest.net/chest-fridge/",
+      "summary": "Article URL: https://mtbest.net/chest-fridge/ Comments URL: https://news.ycombinator.com/item?id=47473279 Points: 76 # Comments: 51"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47471801",
+      "title": "Floci – A free, open-source local AWS emulator",
+      "slug": "2026-03-21-floci-a-free-open-source-local-aws-emulator.html",
+      "path": "posts/2026-03-21-floci-a-free-open-source-local-aws-emulator.html",
+      "date_iso": "2026-03-21T21:49:15+00:00",
+      "source": "https://github.com/hectorvent/floci",
+      "summary": "Article URL: https://github.com/hectorvent/floci Comments URL: https://news.ycombinator.com/item?id=47471801 Points: 148 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47471601",
+      "title": "Professional video editing, right in the browser with WebGPU and WASM",
+      "slug": "2026-03-21-professional-video-editing-right-in-the-browser-with-webgpu-and-wasm.html",
+      "path": "posts/2026-03-21-professional-video-editing-right-in-the-browser-with-webgpu-and-wasm.html",
+      "date_iso": "2026-03-21T21:27:50+00:00",
+      "source": "https://tooscut.app/",
+      "summary": "Article URL: https://tooscut.app/ Comments URL: https://news.ycombinator.com/item?id=47471601 Points: 217 # Comments: 62"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47470991",
+      "title": "Do Not Turn Child Protection into Internet Access Control",
+      "slug": "2026-03-21-do-not-turn-child-protection-into-internet-access-control.html",
+      "path": "posts/2026-03-21-do-not-turn-child-protection-into-internet-access-control.html",
+      "date_iso": "2026-03-21T20:32:20+00:00",
+      "source": "https://news.dyne.org/child-protection-is-not-access-control/",
+      "summary": "Article URL: https://news.dyne.org/child-protection-is-not-access-control/ Comments URL: https://news.ycombinator.com/item?id=47470991 Points: 628 # Comments: 334"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47470773",
+      "title": "Tinybox – A powerful computer for deep learning",
+      "slug": "2026-03-21-tinybox-a-powerful-computer-for-deep-learning.html",
+      "path": "posts/2026-03-21-tinybox-a-powerful-computer-for-deep-learning.html",
+      "date_iso": "2026-03-21T20:08:37+00:00",
+      "source": "https://tinygrad.org/#tinybox",
+      "summary": "Article URL: https://tinygrad.org/#tinybox Comments URL: https://news.ycombinator.com/item?id=47470773 Points: 442 # Comments: 263"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47470734",
+      "title": "Common Lisp Development Tooling",
+      "slug": "2026-03-21-common-lisp-development-tooling.html",
+      "path": "posts/2026-03-21-common-lisp-development-tooling.html",
+      "date_iso": "2026-03-21T20:04:08+00:00",
+      "source": "https://www.creativetension.co/posts/common-lisp-development-tooling",
+      "summary": "Article URL: https://www.creativetension.co/posts/common-lisp-development-tooling Comments URL: https://news.ycombinator.com/item?id=47470734 Points: 79 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47470433",
+      "title": "Show HN: Atomic – Self-hosted, semantically-connected personal knowledge base",
+      "slug": "2026-03-21-show-hn-atomic-self-hosted-semantically-connected-personal-knowledge-base.html",
+      "path": "posts/2026-03-21-show-hn-atomic-self-hosted-semantically-connected-personal-knowledge-base.html",
+      "date_iso": "2026-03-21T19:31:39+00:00",
+      "source": "https://github.com/kenforthewin/atomic",
+      "summary": "Article URL: https://github.com/kenforthewin/atomic Comments URL: https://news.ycombinator.com/item?id=47470433 Points: 88 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47469949",
+      "title": "Show HN: Termcraft – terminal-first 2D sandbox survival in Rust",
+      "slug": "2026-03-21-show-hn-termcraft-terminal-first-2d-sandbox-survival-in-rust.html",
+      "path": "posts/2026-03-21-show-hn-termcraft-terminal-first-2d-sandbox-survival-in-rust.html",
+      "date_iso": "2026-03-21T18:42:38+00:00",
+      "source": "https://github.com/pagel-s/termcraft",
+      "summary": "I’ve been building termcraft, a terminal-first 2D sandbox survival game in Rust. The idea is to take the classic early survival progression and adapt it to a side-on terminal format instead of a tile or pixel-art engine. Current build includes: - procedural Overworld, Nether, an…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47469331",
+      "title": "Hide macOS Tahoe's Menu Icons",
+      "slug": "2026-03-21-hide-macos-tahoe-s-menu-icons.html",
+      "path": "posts/2026-03-21-hide-macos-tahoe-s-menu-icons.html",
+      "date_iso": "2026-03-21T17:46:00+00:00",
+      "source": "https://512pixels.net/2026/03/hide-macos-tahoes-menu-icons-with-this-one-simple-trick/",
+      "summary": "Article URL: https://512pixels.net/2026/03/hide-macos-tahoes-menu-icons-with-this-one-simple-trick/ Comments URL: https://news.ycombinator.com/item?id=47469331 Points: 174 # Comments: 60"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/21/technology/personaltech/paul-brainerd-dead.html",
+      "title": "Paul Brainerd Dies at 78; Pioneered Desktop Publishing With PageMaker",
+      "slug": "2026-03-21-paul-brainerd-dies-at-78-pioneered-desktop-publishing-with-pagemaker.html",
+      "path": "posts/2026-03-21-paul-brainerd-dies-at-78-pioneered-desktop-publishing-with-pagemaker.html",
+      "date_iso": "2026-03-21T16:14:24+00:00",
+      "source": "https://www.nytimes.com/2026/03/21/technology/personaltech/paul-brainerd-dead.html",
+      "summary": "His software brought printing into the digital age, allowing users to stop manually splicing columns of text and graphics and instead create layouts on a virtual pasteboard."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47467913",
+      "title": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
+      "slug": "2026-03-21-thinking-fast-slow-and-artificial-how-ai-is-reshaping-human-reasoning.html",
+      "path": "posts/2026-03-21-thinking-fast-slow-and-artificial-how-ai-is-reshaping-human-reasoning.html",
+      "date_iso": "2026-03-21T15:30:29+00:00",
+      "source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646",
+      "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646 Comments URL: https://news.ycombinator.com/item?id=47467913 Points: 123 # Comments: 69"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47467623",
+      "title": "How Ford burned $12B in Brazil (2021)",
+      "slug": "2026-03-21-how-ford-burned-12b-in-brazil-2021.html",
+      "path": "posts/2026-03-21-how-ford-burned-12b-in-brazil-2021.html",
+      "date_iso": "2026-03-21T14:55:42+00:00",
+      "source": "https://www.reuters.com/business/autos-transportation/how-ford-burned-12-billion-brazil-2021-05-20/",
+      "summary": "Article URL: https://www.reuters.com/business/autos-transportation/how-ford-burned-12-billion-brazil-2021-05-20/ Comments URL: https://news.ycombinator.com/item?id=47467623 Points: 49 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47467567",
+      "title": "Grafeo – A fast, lean, embeddable graph database built in Rust",
+      "slug": "2026-03-21-grafeo-a-fast-lean-embeddable-graph-database-built-in-rust.html",
+      "path": "posts/2026-03-21-grafeo-a-fast-lean-embeddable-graph-database-built-in-rust.html",
+      "date_iso": "2026-03-21T14:50:18+00:00",
+      "source": "https://grafeo.dev/",
+      "summary": "Article URL: https://grafeo.dev/ Comments URL: https://news.ycombinator.com/item?id=47467567 Points: 211 # Comments: 69"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47467537",
+      "title": "Some things just take time",
+      "slug": "2026-03-21-some-things-just-take-time.html",
+      "path": "posts/2026-03-21-some-things-just-take-time.html",
+      "date_iso": "2026-03-21T14:46:56+00:00",
+      "source": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
+      "summary": "Article URL: https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/ Comments URL: https://news.ycombinator.com/item?id=47467537 Points: 626 # Comments: 196"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/21/business/energy-environment/gas-prices-electric-vehicles-iran.html",
+      "title": "What to Know About Electric Cars When Gas Prices Are Surging",
+      "slug": "2026-03-21-what-to-know-about-electric-cars-when-gas-prices-are-surging.html",
+      "path": "posts/2026-03-21-what-to-know-about-electric-cars-when-gas-prices-are-surging.html",
+      "date_iso": "2026-03-21T14:14:53+00:00",
+      "source": "https://www.nytimes.com/2026/03/21/business/energy-environment/gas-prices-electric-vehicles-iran.html",
+      "summary": "A pre-owned electric vehicle dealership in North Hampton, N.H. There are exceptionally good deals to be had on used battery-powered cars."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47464438",
       "title": "Ask ChatGPT to pick a number from 1-10000, it generally selects from 7200-7500",
       "slug": "2026-03-21-ask-chatgpt-to-pick-a-number-from-1-10000-it-generally-selects-from-7200-7500.html",
@@ -152,6 +332,15 @@
       "date_iso": "2026-03-20T18:06:03+00:00",
       "source": "https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html",
       "summary": "At a number of companies, employees compete on leaderboards to show how much A.I. they’re using. They’re racking up big bills along the way."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47457570",
+      "title": "Boomloom: Think with your hands",
+      "slug": "2026-03-20-boomloom-think-with-your-hands.html",
+      "path": "posts/2026-03-20-boomloom-think-with-your-hands.html",
+      "date_iso": "2026-03-20T17:13:28+00:00",
+      "source": "https://www.theboomloom.com",
+      "summary": "Article URL: https://www.theboomloom.com Comments URL: https://news.ycombinator.com/item?id=47457570 Points: 94 # Comments: 8"
     },
     {
       "id": "https://www.nytimes.com/2026/03/20/us/politics/white-house-unveils-ai-policy-aimed-at-blocking-state-laws.html",
