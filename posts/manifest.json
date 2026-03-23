@@ -1,6 +1,177 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47485231",
+      "title": "GoGoGrandparent (YC S16) is hiring Back end Engineers",
+      "slug": "2026-03-23-gogograndparent-yc-s16-is-hiring-back-end-engineers.html",
+      "path": "posts/2026-03-23-gogograndparent-yc-s16-is-hiring-back-end-engineers.html",
+      "date_iso": "2026-03-23T03:33:41+00:00",
+      "source": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer Comments URL: https://news.ycombinator.com/item?id=47485231 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47484227",
+      "title": "Intuitions for Tranformer Circuits",
+      "slug": "2026-03-23-intuitions-for-tranformer-circuits.html",
+      "path": "posts/2026-03-23-intuitions-for-tranformer-circuits.html",
+      "date_iso": "2026-03-23T01:06:35+00:00",
+      "source": "https://www.connorjdavis.com/p/intuitions-for-transformer-circuits",
+      "summary": "Article URL: https://www.connorjdavis.com/p/intuitions-for-transformer-circuits Comments URL: https://news.ycombinator.com/item?id=47484227 Points: 49 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47483830",
+      "title": "Migrating the American Express Payment Network, Twice",
+      "slug": "2026-03-23-migrating-the-american-express-payment-network-twice.html",
+      "path": "posts/2026-03-23-migrating-the-american-express-payment-network-twice.html",
+      "date_iso": "2026-03-23T00:15:10+00:00",
+      "source": "https://americanexpress.io/migrating-the-payments-network-twice/",
+      "summary": "Article URL: https://americanexpress.io/migrating-the-payments-network-twice/ Comments URL: https://news.ycombinator.com/item?id=47483830 Points: 65 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47482760",
+      "title": "They're Vibe-Coding Spam Now",
+      "slug": "2026-03-22-they-re-vibe-coding-spam-now.html",
+      "path": "posts/2026-03-22-they-re-vibe-coding-spam-now.html",
+      "date_iso": "2026-03-22T22:11:54+00:00",
+      "source": "https://tedium.co/2026/02/25/vibe-coded-email-spam/",
+      "summary": "Article URL: https://tedium.co/2026/02/25/vibe-coded-email-spam/ Comments URL: https://news.ycombinator.com/item?id=47482760 Points: 76 # Comments: 46"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47482217",
+      "title": "GrapheneOS will remain usable by anyone without requiring personal information",
+      "slug": "2026-03-22-grapheneos-will-remain-usable-by-anyone-without-requiring-personal-information.html",
+      "path": "posts/2026-03-22-grapheneos-will-remain-usable-by-anyone-without-requiring-personal-information.html",
+      "date_iso": "2026-03-22T21:14:11+00:00",
+      "source": "https://grapheneos.social/@GrapheneOS/116261301913660830",
+      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/116261301913660830 Comments URL: https://news.ycombinator.com/item?id=47482217 Points: 357 # Comments: 95"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47480886",
+      "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
+      "slug": "2026-03-22-the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon.html",
+      "path": "posts/2026-03-22-the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon.html",
+      "date_iso": "2026-03-22T19:02:43+00:00",
+      "source": "https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/",
+      "summary": "Article URL: https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/ Comments URL: https://news.ycombinator.com/item?id=47480886 Points: 346 # Comments: 101"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47480507",
+      "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
+      "slug": "2026-03-22-pc-gamer-recommends-rss-readers-in-a-37mb-article-that-just-keeps-downloading.html",
+      "path": "posts/2026-03-22-pc-gamer-recommends-rss-readers-in-a-37mb-article-that-just-keeps-downloading.html",
+      "date_iso": "2026-03-22T18:23:40+00:00",
+      "source": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
+      "summary": "Article URL: https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/ Comments URL: https://news.ycombinator.com/item?id=47480507 Points: 547 # Comments: 258"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47480447",
+      "title": "What Young Workers Are Doing to AI-Proof Themselves",
+      "slug": "2026-03-22-what-young-workers-are-doing-to-ai-proof-themselves.html",
+      "path": "posts/2026-03-22-what-young-workers-are-doing-to-ai-proof-themselves.html",
+      "date_iso": "2026-03-22T18:18:01+00:00",
+      "source": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284",
+      "summary": "Article URL: https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284 Comments URL: https://news.ycombinator.com/item?id=47480447 Points: 123 # Comments: 198"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47479751",
+      "title": "Why I love NixOS",
+      "slug": "2026-03-22-why-i-love-nixos.html",
+      "path": "posts/2026-03-22-why-i-love-nixos.html",
+      "date_iso": "2026-03-22T17:17:06+00:00",
+      "source": "https://www.birkey.co/2026-03-22-why-i-love-nixos.html",
+      "summary": "Article URL: https://www.birkey.co/2026-03-22-why-i-love-nixos.html Comments URL: https://news.ycombinator.com/item?id=47479751 Points: 290 # Comments: 205"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47479627",
+      "title": "Five Years of Running a Systems Reading Group at Microsoft",
+      "slug": "2026-03-22-five-years-of-running-a-systems-reading-group-at-microsoft.html",
+      "path": "posts/2026-03-22-five-years-of-running-a-systems-reading-group-at-microsoft.html",
+      "date_iso": "2026-03-22T17:06:38+00:00",
+      "source": "https://armaansood.com/posts/systems-reading-group/",
+      "summary": "Article URL: https://armaansood.com/posts/systems-reading-group/ Comments URL: https://news.ycombinator.com/item?id=47479627 Points: 154 # Comments: 44"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47478687",
+      "title": "MAUI Is Coming to Linux",
+      "slug": "2026-03-22-maui-is-coming-to-linux.html",
+      "path": "posts/2026-03-22-maui-is-coming-to-linux.html",
+      "date_iso": "2026-03-22T15:43:21+00:00",
+      "source": "https://avaloniaui.net/blog/maui-avalonia-preview-1",
+      "summary": "Article URL: https://avaloniaui.net/blog/maui-avalonia-preview-1 Comments URL: https://news.ycombinator.com/item?id=47478687 Points: 197 # Comments: 99"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47478548",
+      "title": "You are not your job",
+      "slug": "2026-03-22-you-are-not-your-job.html",
+      "path": "posts/2026-03-22-you-are-not-your-job.html",
+      "date_iso": "2026-03-22T15:30:54+00:00",
+      "source": "https://jry.io/writing/you-are-not-your-job/",
+      "summary": "Article URL: https://jry.io/writing/you-are-not-your-job/ Comments URL: https://news.ycombinator.com/item?id=47478548 Points: 140 # Comments: 147"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47478401",
+      "title": "The future of version control",
+      "slug": "2026-03-22-the-future-of-version-control.html",
+      "path": "posts/2026-03-22-the-future-of-version-control.html",
+      "date_iso": "2026-03-22T15:16:28+00:00",
+      "source": "https://bramcohen.com/p/manyana",
+      "summary": "Article URL: https://bramcohen.com/p/manyana Comments URL: https://news.ycombinator.com/item?id=47478401 Points: 500 # Comments: 280"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47477284",
+      "title": "Building an FPGA 3dfx Voodoo with Modern RTL Tools",
+      "slug": "2026-03-22-building-an-fpga-3dfx-voodoo-with-modern-rtl-tools.html",
+      "path": "posts/2026-03-22-building-an-fpga-3dfx-voodoo-with-modern-rtl-tools.html",
+      "date_iso": "2026-03-22T13:24:38+00:00",
+      "source": "https://noquiche.fyi/voodoo",
+      "summary": "Article URL: https://noquiche.fyi/voodoo Comments URL: https://news.ycombinator.com/item?id=47477284 Points: 186 # Comments: 42"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47476821",
+      "title": "Project Nomad – Knowledge That Never Goes Offline",
+      "slug": "2026-03-22-project-nomad-knowledge-that-never-goes-offline.html",
+      "path": "posts/2026-03-22-project-nomad-knowledge-that-never-goes-offline.html",
+      "date_iso": "2026-03-22T12:28:38+00:00",
+      "source": "https://www.projectnomad.us",
+      "summary": "Article URL: https://www.projectnomad.us Comments URL: https://news.ycombinator.com/item?id=47476821 Points: 425 # Comments: 143"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47476566",
+      "title": "The IBM scientist who rewrote the rules of information just won a Turing Award",
+      "slug": "2026-03-22-the-ibm-scientist-who-rewrote-the-rules-of-information-just-won-a-turing-award.html",
+      "path": "posts/2026-03-22-the-ibm-scientist-who-rewrote-the-rules-of-information-just-won-a-turing-award.html",
+      "date_iso": "2026-03-22T11:53:37+00:00",
+      "source": "https://www.ibm.com/think/news/ibm-scientist-charles-bennett-turing-award",
+      "summary": "Article URL: https://www.ibm.com/think/news/ibm-scientist-charles-bennett-turing-award Comments URL: https://news.ycombinator.com/item?id=47476566 Points: 122 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47476562",
+      "title": "More common mistakes to avoid when creating system architecture diagrams",
+      "slug": "2026-03-22-more-common-mistakes-to-avoid-when-creating-system-architecture-diagrams.html",
+      "path": "posts/2026-03-22-more-common-mistakes-to-avoid-when-creating-system-architecture-diagrams.html",
+      "date_iso": "2026-03-22T11:51:52+00:00",
+      "source": "https://www.ilograph.com/blog/posts/more-common-diagram-mistakes/",
+      "summary": "Article URL: https://www.ilograph.com/blog/posts/more-common-diagram-mistakes/ Comments URL: https://news.ycombinator.com/item?id=47476562 Points: 179 # Comments: 56"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47476422",
+      "title": "Flash-MoE: Running a 397B Parameter Model on a Laptop",
+      "slug": "2026-03-22-flash-moe-running-a-397b-parameter-model-on-a-laptop.html",
+      "path": "posts/2026-03-22-flash-moe-running-a-397b-parameter-model-on-a-laptop.html",
+      "date_iso": "2026-03-22T11:30:03+00:00",
+      "source": "https://github.com/danveloper/flash-moe",
+      "summary": "Article URL: https://github.com/danveloper/flash-moe Comments URL: https://news.ycombinator.com/item?id=47476422 Points: 344 # Comments: 114"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47476315",
+      "title": "Reports of code's death are greatly exaggerated",
+      "slug": "2026-03-22-reports-of-code-s-death-are-greatly-exaggerated.html",
+      "path": "posts/2026-03-22-reports-of-code-s-death-are-greatly-exaggerated.html",
+      "date_iso": "2026-03-22T11:09:34+00:00",
+      "source": "https://stevekrouse.com/precision",
+      "summary": "Article URL: https://stevekrouse.com/precision Comments URL: https://news.ycombinator.com/item?id=47476315 Points: 374 # Comments: 280"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47475039",
       "title": "Rat King",
       "slug": "2026-03-22-rat-king.html",
@@ -71,6 +242,15 @@
       "date_iso": "2026-03-21T21:27:50+00:00",
       "source": "https://tooscut.app/",
       "summary": "Article URL: https://tooscut.app/ Comments URL: https://news.ycombinator.com/item?id=47471601 Points: 217 # Comments: 62"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47471271",
+      "title": "How to Attract AI Bots to Your Open Source Project",
+      "slug": "2026-03-21-how-to-attract-ai-bots-to-your-open-source-project.html",
+      "path": "posts/2026-03-21-how-to-attract-ai-bots-to-your-open-source-project.html",
+      "date_iso": "2026-03-21T20:58:01+00:00",
+      "source": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html",
+      "summary": "Article URL: https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html Comments URL: https://news.ycombinator.com/item?id=47471271 Points: 122 # Comments: 18"
     },
     {
       "id": "https://news.ycombinator.com/item?id=47470991",
