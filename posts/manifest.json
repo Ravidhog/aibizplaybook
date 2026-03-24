@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47498924",
+      "title": "Log File Viewer for the Terminal",
+      "slug": "2026-03-24-log-file-viewer-for-the-terminal.html",
+      "path": "posts/2026-03-24-log-file-viewer-for-the-terminal.html",
+      "date_iso": "2026-03-24T05:32:53+00:00",
+      "source": "https://lnav.org/",
+      "summary": "Article URL: https://lnav.org/ Comments URL: https://news.ycombinator.com/item?id=47498924 Points: 55 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47498766",
+      "title": "Microsoft blocks trick to unlock native NVMe driver, but workarounds still exist",
+      "slug": "2026-03-24-microsoft-blocks-trick-to-unlock-native-nvme-driver-but-workarounds-still-exist.html",
+      "path": "posts/2026-03-24-microsoft-blocks-trick-to-unlock-native-nvme-driver-but-workarounds-still-exist.html",
+      "date_iso": "2026-03-24T05:00:21+00:00",
+      "source": "https://www.tomshardware.com/software/windows/microsoft-blocks-the-registry-hack-trick-that-unlocked-native-nvme-performance-on-windows-11",
+      "summary": "Article URL: https://www.tomshardware.com/software/windows/microsoft-blocks-the-registry-hack-trick-that-unlocked-native-nvme-performance-on-windows-11 Comments URL: https://news.ycombinator.com/item?id=47498766 Points: 35 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47497763",
+      "title": "Sunsetting the Techempower Framework Benchmarks",
+      "slug": "2026-03-24-sunsetting-the-techempower-framework-benchmarks.html",
+      "path": "posts/2026-03-24-sunsetting-the-techempower-framework-benchmarks.html",
+      "date_iso": "2026-03-24T01:54:03+00:00",
+      "source": "https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932",
+      "summary": "Article URL: https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932 Comments URL: https://news.ycombinator.com/item?id=47497763 Points: 32 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47497757",
+      "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
+      "slug": "2026-03-24-epoch-confirms-gpt5-4-pro-solved-a-frontier-math-open-problem.html",
+      "path": "posts/2026-03-24-epoch-confirms-gpt5-4-pro-solved-a-frontier-math-open-problem.html",
+      "date_iso": "2026-03-24T01:53:09+00:00",
+      "source": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
+      "summary": "Article URL: https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs Comments URL: https://news.ycombinator.com/item?id=47497757 Points: 293 # Comments: 261"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47496221",
+      "title": "Windows 3.1 tiled background .bmp archive",
+      "slug": "2026-03-23-windows-3-1-tiled-background-bmp-archive.html",
+      "path": "posts/2026-03-23-windows-3-1-tiled-background-bmp-archive.html",
+      "date_iso": "2026-03-23T22:52:35+00:00",
+      "source": "https://github.com/andreasjansson/win-3.1-backgrounds",
+      "summary": "Article URL: https://github.com/andreasjansson/win-3.1-backgrounds Comments URL: https://news.ycombinator.com/item?id=47496221 Points: 236 # Comments: 64"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47496089",
+      "title": "IRIX 3dfx Voodoo driver and glide2x IRIX port",
+      "slug": "2026-03-23-irix-3dfx-voodoo-driver-and-glide2x-irix-port.html",
+      "path": "posts/2026-03-23-irix-3dfx-voodoo-driver-and-glide2x-irix-port.html",
+      "date_iso": "2026-03-23T22:37:15+00:00",
+      "source": "https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/",
+      "summary": "Article URL: https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/ Comments URL: https://news.ycombinator.com/item?id=47496089 Points: 65 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47495719",
+      "title": "The Resolv hack: How one compromised key printed $23M",
+      "slug": "2026-03-23-the-resolv-hack-how-one-compromised-key-printed-23m.html",
+      "path": "posts/2026-03-23-the-resolv-hack-how-one-compromised-key-printed-23m.html",
+      "date_iso": "2026-03-23T22:01:15+00:00",
+      "source": "https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/",
+      "summary": "Article URL: https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/ Comments URL: https://news.ycombinator.com/item?id=47495719 Points: 84 # Comments: 107"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47495527",
+      "title": "Claude Code Cheat Sheet",
+      "slug": "2026-03-23-claude-code-cheat-sheet.html",
+      "path": "posts/2026-03-23-claude-code-cheat-sheet.html",
+      "date_iso": "2026-03-23T21:44:20+00:00",
+      "source": "https://cc.storyfox.cz",
+      "summary": "Article URL: https://cc.storyfox.cz Comments URL: https://news.ycombinator.com/item?id=47495527 Points: 333 # Comments: 104"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47495344",
+      "title": "FCC updates covered list to include foreign-made consumer routers",
+      "slug": "2026-03-23-fcc-updates-covered-list-to-include-foreign-made-consumer-routers.html",
+      "path": "posts/2026-03-23-fcc-updates-covered-list-to-include-foreign-made-consumer-routers.html",
+      "date_iso": "2026-03-23T21:28:02+00:00",
+      "source": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
+      "summary": "https://docs.fcc.gov/public/attachments/DOC-420034A1.pdf https://www.fcc.gov/document/fcc-adds-routers-produced-forei... https://docs.fcc.gov/public/attachments/DA-26-278A1.pdf https://www.bbc.com/news/articles/c74787w149zo https://www.cnet.com/home/internet/fcc-bans-foreign-mad…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47494890",
+      "title": "How I'm Productive with Claude Code",
+      "slug": "2026-03-23-how-i-m-productive-with-claude-code.html",
+      "path": "posts/2026-03-23-how-i-m-productive-with-claude-code.html",
+      "date_iso": "2026-03-23T20:49:10+00:00",
+      "source": "https://neilkakkar.com/productive-with-claude-code.html",
+      "summary": "Article URL: https://neilkakkar.com/productive-with-claude-code.html Comments URL: https://news.ycombinator.com/item?id=47494890 Points: 184 # Comments: 108"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47494821",
+      "title": "A retro terminal music player inspired by Winamp",
+      "slug": "2026-03-23-a-retro-terminal-music-player-inspired-by-winamp.html",
+      "path": "posts/2026-03-23-a-retro-terminal-music-player-inspired-by-winamp.html",
+      "date_iso": "2026-03-23T20:42:22+00:00",
+      "source": "https://github.com/bjarneo/cliamp",
+      "summary": "Article URL: https://github.com/bjarneo/cliamp Comments URL: https://news.ycombinator.com/item?id=47494821 Points: 83 # Comments: 19"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/23/technology/hpe-juniper-hearing-settlement.html",
+      "title": "Judge Hears State Challenge to Trump’s Tech Deal Settlement",
+      "slug": "2026-03-23-judge-hears-state-challenge-to-trump-s-tech-deal-settlement.html",
+      "path": "posts/2026-03-23-judge-hears-state-challenge-to-trump-s-tech-deal-settlement.html",
+      "date_iso": "2026-03-23T20:39:49+00:00",
+      "source": "https://www.nytimes.com/2026/03/23/technology/hpe-juniper-hearing-settlement.html",
+      "summary": "Democratic state attorneys general are challenging the Justice Department’s settlement with Hewlett Packard Enterprise."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47493657",
+      "title": "Local Stack Archived their GitHub repo and requires an account to run",
+      "slug": "2026-03-23-local-stack-archived-their-github-repo-and-requires-an-account-to-run.html",
+      "path": "posts/2026-03-23-local-stack-archived-their-github-repo-and-requires-an-account-to-run.html",
+      "date_iso": "2026-03-23T18:57:08+00:00",
+      "source": "https://github.com/localstack/localstack",
+      "summary": "Article URL: https://github.com/localstack/localstack Comments URL: https://news.ycombinator.com/item?id=47493657 Points: 188 # Comments: 107"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47493460",
+      "title": "Autoresearch on an old research idea",
+      "slug": "2026-03-23-autoresearch-on-an-old-research-idea.html",
+      "path": "posts/2026-03-23-autoresearch-on-an-old-research-idea.html",
+      "date_iso": "2026-03-23T18:40:58+00:00",
+      "source": "https://ykumar.me/blog/eclip-autoresearch/",
+      "summary": "Article URL: https://ykumar.me/blog/eclip-autoresearch/ Comments URL: https://news.ycombinator.com/item?id=47493460 Points: 345 # Comments: 72"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47491466",
+      "title": "Show HN: Cq – Stack Overflow for AI coding agents",
+      "slug": "2026-03-23-show-hn-cq-stack-overflow-for-ai-coding-agents.html",
+      "path": "posts/2026-03-23-show-hn-cq-stack-overflow-for-ai-coding-agents.html",
+      "date_iso": "2026-03-23T16:11:03+00:00",
+      "source": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
+      "summary": "Hi all, I'm Peter at Staff Engineer and Mozilla.ai and I want to share our idea for a standard for shared agent learning, conceptually it seemed to fit easily in my mental model as a Stack Overflow for agents. The project is trying to see if we can get agents (any agent, any mod…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47490648",
+      "title": "An incoherent Rust",
+      "slug": "2026-03-23-an-incoherent-rust.html",
+      "path": "posts/2026-03-23-an-incoherent-rust.html",
+      "date_iso": "2026-03-23T15:13:22+00:00",
+      "source": "https://www.boxyuwu.blog/posts/an-incoherent-rust/",
+      "summary": "Article URL: https://www.boxyuwu.blog/posts/an-incoherent-rust/ Comments URL: https://news.ycombinator.com/item?id=47490648 Points: 174 # Comments: 80"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47490070",
+      "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+      "slug": "2026-03-23-iphone-17-pro-demonstrated-running-a-400b-llm.html",
+      "path": "posts/2026-03-23-iphone-17-pro-demonstrated-running-a-400b-llm.html",
+      "date_iso": "2026-03-23T14:30:10+00:00",
+      "source": "https://twitter.com/anemll/status/2035901335984611412",
+      "summary": "https://xcancel.com/anemll/status/2035901335984611412 Comments URL: https://news.ycombinator.com/item?id=47490070 Points: 582 # Comments: 266"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/23/arts/television/real-housewives-memes-bravo.html",
+      "title": "‘Real Housewives’ Has Been a Meme Gold Mine for 20 Years",
+      "slug": "2026-03-23-real-housewives-has-been-a-meme-gold-mine-for-20-years.html",
+      "path": "posts/2026-03-23-real-housewives-has-been-a-meme-gold-mine-for-20-years.html",
+      "date_iso": "2026-03-23T14:04:54+00:00",
+      "source": "https://www.nytimes.com/2026/03/23/arts/television/real-housewives-memes-bravo.html",
+      "summary": "The Bravo TV empire, which turns 20 this month, has also been a gold mine for the internet."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47488686",
+      "title": "Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home",
+      "slug": "2026-03-23-box-of-secrets-discreetly-modding-an-apartment-intercom-to-work-with-apple-home.html",
+      "path": "posts/2026-03-23-box-of-secrets-discreetly-modding-an-apartment-intercom-to-work-with-apple-home.html",
+      "date_iso": "2026-03-23T12:42:00+00:00",
+      "source": "https://www.jackhogan.me/blog/box-of-secrets/",
+      "summary": "Article URL: https://www.jackhogan.me/blog/box-of-secrets/ Comments URL: https://news.ycombinator.com/item?id=47488686 Points: 81 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47487536",
+      "title": "I built an AI receptionist for a mechanic shop",
+      "slug": "2026-03-23-i-built-an-ai-receptionist-for-a-mechanic-shop.html",
+      "path": "posts/2026-03-23-i-built-an-ai-receptionist-for-a-mechanic-shop.html",
+      "date_iso": "2026-03-23T10:32:33+00:00",
+      "source": "https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/",
+      "summary": "Article URL: https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/ Comments URL: https://news.ycombinator.com/item?id=47487536 Points: 263 # Comments: 277"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47485231",
       "title": "GoGoGrandparent (YC S16) is hiring Back end Engineers",
       "slug": "2026-03-23-gogograndparent-yc-s16-is-hiring-back-end-engineers.html",
@@ -170,6 +350,24 @@
       "date_iso": "2026-03-22T11:09:34+00:00",
       "source": "https://stevekrouse.com/precision",
       "summary": "Article URL: https://stevekrouse.com/precision Comments URL: https://news.ycombinator.com/item?id=47476315 Points: 374 # Comments: 280"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47475888",
+      "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
+      "slug": "2026-03-22-trivy-under-attack-again-widespread-github-actions-tag-compromise-secrets.html",
+      "path": "posts/2026-03-22-trivy-under-attack-again-widespread-github-actions-tag-compromise-secrets.html",
+      "date_iso": "2026-03-22T09:45:14+00:00",
+      "source": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
+      "summary": "Article URL: https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise Comments URL: https://news.ycombinator.com/item?id=47475888 Points: 194 # Comments: 69"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47475417",
+      "title": "Dune3d: A parametric 3D CAD application",
+      "slug": "2026-03-22-dune3d-a-parametric-3d-cad-application.html",
+      "path": "posts/2026-03-22-dune3d-a-parametric-3d-cad-application.html",
+      "date_iso": "2026-03-22T08:06:18+00:00",
+      "source": "https://github.com/dune3d/dune3d",
+      "summary": "Article URL: https://github.com/dune3d/dune3d Comments URL: https://news.ycombinator.com/item?id=47475417 Points: 148 # Comments: 46"
     },
     {
       "id": "https://news.ycombinator.com/item?id=47475039",
