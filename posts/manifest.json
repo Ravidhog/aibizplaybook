@@ -1,6 +1,222 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47513728",
+      "title": "Implementing automatic eSIM installation on Android",
+      "slug": "2026-03-25-implementing-automatic-esim-installation-on-android.html",
+      "path": "posts/2026-03-25-implementing-automatic-esim-installation-on-android.html",
+      "date_iso": "2026-03-25T05:42:09+00:00",
+      "source": "https://medium.com/proandroiddev/integration-of-automatic-esim-installation-on-android-6c5f6d7124cb",
+      "summary": "Article URL: https://medium.com/proandroiddev/integration-of-automatic-esim-installation-on-android-6c5f6d7124cb Comments URL: https://news.ycombinator.com/item?id=47513728 Points: 19 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47513475",
+      "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+      "slug": "2026-03-25-turboquant-redefining-ai-efficiency-with-extreme-compression.html",
+      "path": "posts/2026-03-25-turboquant-redefining-ai-efficiency-with-extreme-compression.html",
+      "date_iso": "2026-03-25T05:00:54+00:00",
+      "source": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+      "summary": "Article URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/ Comments URL: https://news.ycombinator.com/item?id=47513475 Points: 100 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47512891",
+      "title": "Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1",
+      "slug": "2026-03-25-show-hn-duckdb-community-extension-for-prefiltered-hnsw-using-acorn-1.html",
+      "path": "posts/2026-03-25-show-hn-duckdb-community-extension-for-prefiltered-hnsw-using-acorn-1.html",
+      "date_iso": "2026-03-25T03:28:04+00:00",
+      "source": "https://github.com/cigrainger/duckdb-hnsw-acorn",
+      "summary": "Hey folks! As someone doing hybrid search daily and wishing I could have a pgvector-like experience but with actual prefiltered approximate nearest neighbours, I decided to just take a punt on implementing ACORN on a fork of the DuckDB VSS extension. I had to make some changes t…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47512816",
+      "title": "VitruvianOS – Desktop Linux Inspired by the BeOS",
+      "slug": "2026-03-25-vitruvianos-desktop-linux-inspired-by-the-beos.html",
+      "path": "posts/2026-03-25-vitruvianos-desktop-linux-inspired-by-the-beos.html",
+      "date_iso": "2026-03-25T03:17:06+00:00",
+      "source": "https://v-os.dev",
+      "summary": "Article URL: https://v-os.dev Comments URL: https://news.ycombinator.com/item?id=47512816 Points: 98 # Comments: 47"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47511589",
+      "title": "Flighty Airports",
+      "slug": "2026-03-25-flighty-airports.html",
+      "path": "posts/2026-03-25-flighty-airports.html",
+      "date_iso": "2026-03-25T00:29:45+00:00",
+      "source": "https://flighty.com/airports",
+      "summary": "Article URL: https://flighty.com/airports Comments URL: https://news.ycombinator.com/item?id=47511589 Points: 277 # Comments: 89"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47511208",
+      "title": "A Compiler Writing Journey",
+      "slug": "2026-03-24-a-compiler-writing-journey.html",
+      "path": "posts/2026-03-24-a-compiler-writing-journey.html",
+      "date_iso": "2026-03-24T23:44:47+00:00",
+      "source": "https://github.com/DoctorWkt/acwj",
+      "summary": "Article URL: https://github.com/DoctorWkt/acwj Comments URL: https://news.ycombinator.com/item?id=47511208 Points: 66 # Comments: 4"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/24/technology/openai-shutting-down-sora.html",
+      "title": "OpenAI Is Shutting Down Sora, Its A.I. Video Generator",
+      "slug": "2026-03-24-openai-is-shutting-down-sora-its-a-i-video-generator.html",
+      "path": "posts/2026-03-24-openai-is-shutting-down-sora-its-a-i-video-generator.html",
+      "date_iso": "2026-03-24T23:07:42+00:00",
+      "source": "https://www.nytimes.com/2026/03/24/technology/openai-shutting-down-sora.html",
+      "summary": "The start-up said it would discontinue Sora just three months after signing a multiyear deal to bring Disney characters to the service."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/24/technology/meta-new-mexico-child-safety-violations.html",
+      "title": "Meta Ordered to Pay $375 Million Over Child Safety Violations",
+      "slug": "2026-03-24-meta-ordered-to-pay-375-million-over-child-safety-violations.html",
+      "path": "posts/2026-03-24-meta-ordered-to-pay-375-million-over-child-safety-violations.html",
+      "date_iso": "2026-03-24T22:27:38+00:00",
+      "source": "https://www.nytimes.com/2026/03/24/technology/meta-new-mexico-child-safety-violations.html",
+      "summary": "Meta, which is led by Mark Zuckerberg, said it would appeal a verdict in state court in Santa Fe, N.M."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47509571",
+      "title": "I wanted to build vertical SaaS for pest control, so I took a technician job",
+      "slug": "2026-03-24-i-wanted-to-build-vertical-saas-for-pest-control-so-i-took-a-technician-job.html",
+      "path": "posts/2026-03-24-i-wanted-to-build-vertical-saas-for-pest-control-so-i-took-a-technician-job.html",
+      "date_iso": "2026-03-24T21:24:33+00:00",
+      "source": "https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead",
+      "summary": "Article URL: https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead Comments URL: https://news.ycombinator.com/item?id=47509571 Points: 270 # Comments: 118"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47508246",
+      "title": "Goodbye to Sora",
+      "slug": "2026-03-24-goodbye-to-sora.html",
+      "path": "posts/2026-03-24-goodbye-to-sora.html",
+      "date_iso": "2026-03-24T20:01:05+00:00",
+      "source": "https://twitter.com/soraofficialapp/status/2036532795984715896",
+      "summary": "https://xcancel.com/soraofficialapp/status/20365327959847158... https://www.hollywoodreporter.com/business/digital/openai-sh... , https://archive.ph/ABkeI Comments URL: https://news.ycombinator.com/item?id=47508246 Points: 645 # Comments: 466"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/24/business/epic-games-layoffs-fortnite.html",
+      "title": "Epic Games Lays Off Over 1,000 Employees, Citing Fortnite Slump",
+      "slug": "2026-03-24-epic-games-lays-off-over-1-000-employees-citing-fortnite-slump.html",
+      "path": "posts/2026-03-24-epic-games-lays-off-over-1-000-employees-citing-fortnite-slump.html",
+      "date_iso": "2026-03-24T19:12:17+00:00",
+      "source": "https://www.nytimes.com/2026/03/24/business/epic-games-layoffs-fortnite.html",
+      "summary": "The Epic Games booth at the GDC Game Developers Conference in San Francisco in 2019. The company cited a “downturn in Fortnite engagement” starting last year when it announced layoffs on Tuesday."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47507150",
+      "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
+      "slug": "2026-03-24-wine-11-rewrites-how-linux-runs-windows-games-at-kernel-with-massive-speed-gains.html",
+      "path": "posts/2026-03-24-wine-11-rewrites-how-linux-runs-windows-games-at-kernel-with-massive-speed-gains.html",
+      "date_iso": "2026-03-24T18:34:52+00:00",
+      "source": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
+      "summary": "Article URL: https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/ Comments URL: https://news.ycombinator.com/item?id=47507150 Points: 854 # Comments: 303"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47506713",
+      "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
+      "slug": "2026-03-24-show-hn-i-took-back-video-js-after-16-years-and-we-rewrote-it-to-be-88-smaller.html",
+      "path": "posts/2026-03-24-show-hn-i-took-back-video-js-after-16-years-and-we-rewrote-it-to-be-88-smaller.html",
+      "date_iso": "2026-03-24T18:03:48+00:00",
+      "source": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
+      "summary": "What do you do when private equity buys your old company and fires the maintainers of the popular open source project you started over a decade ago? You reboot it, and bring along some new friends to do it. Video.js is used by billions of people every month, on sites like Amazon…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47506490",
+      "title": "Lago (YC S21) Is Hiring",
+      "slug": "2026-03-24-lago-yc-s21-is-hiring.html",
+      "path": "posts/2026-03-24-lago-yc-s21-is-hiring.html",
+      "date_iso": "2026-03-24T17:47:23+00:00",
+      "source": "https://getlago.notion.site/Lago-Product-Engineer-AI-Agents-for-Growth-327ef63110d280cdb030ccf429d3e4d7?source=copy_link",
+      "summary": "Article URL: https://getlago.notion.site/Lago-Product-Engineer-AI-Agents-for-Growth-327ef63110d280cdb030ccf429d3e4d7?source=copy_link Comments URL: https://news.ycombinator.com/item?id=47506490 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47506251",
+      "title": "Arm AGI CPU",
+      "slug": "2026-03-24-arm-agi-cpu.html",
+      "path": "posts/2026-03-24-arm-agi-cpu.html",
+      "date_iso": "2026-03-24T17:30:42+00:00",
+      "source": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
+      "summary": "Article URL: https://newsroom.arm.com/blog/introducing-arm-agi-cpu Comments URL: https://news.ycombinator.com/item?id=47506251 Points: 331 # Comments: 251"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/24/technology/arm-holdings-sell-chips.html",
+      "title": "Arm Holdings, in Break From Past, Will Sell Its Own Computer Chips",
+      "slug": "2026-03-24-arm-holdings-in-break-from-past-will-sell-its-own-computer-chips.html",
+      "path": "posts/2026-03-24-arm-holdings-in-break-from-past-will-sell-its-own-computer-chips.html",
+      "date_iso": "2026-03-24T17:00:07+00:00",
+      "source": "https://www.nytimes.com/2026/03/24/technology/arm-holdings-sell-chips.html",
+      "summary": "Arm Holdings helped pioneer the concept of selling intellectual property rather than products."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47505144",
+      "title": "Show HN: Email.md – Markdown to responsive, email-safe HTML",
+      "slug": "2026-03-24-show-hn-email-md-markdown-to-responsive-email-safe-html.html",
+      "path": "posts/2026-03-24-show-hn-email-md-markdown-to-responsive-email-safe-html.html",
+      "date_iso": "2026-03-24T16:26:00+00:00",
+      "source": "https://www.emailmd.dev/",
+      "summary": "Article URL: https://www.emailmd.dev/ Comments URL: https://news.ycombinator.com/item?id=47505144 Points: 272 # Comments: 63"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47504695",
+      "title": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon",
+      "slug": "2026-03-24-hypura-a-storage-tier-aware-llm-inference-scheduler-for-apple-silicon.html",
+      "path": "posts/2026-03-24-hypura-a-storage-tier-aware-llm-inference-scheduler-for-apple-silicon.html",
+      "date_iso": "2026-03-24T16:02:22+00:00",
+      "source": "https://github.com/t8/hypura",
+      "summary": "Article URL: https://github.com/t8/hypura Comments URL: https://news.ycombinator.com/item?id=47504695 Points: 199 # Comments: 75"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47504112",
+      "title": "Apple Business",
+      "slug": "2026-03-24-apple-business.html",
+      "path": "posts/2026-03-24-apple-business.html",
+      "date_iso": "2026-03-24T15:29:41+00:00",
+      "source": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/ Comments URL: https://news.ycombinator.com/item?id=47504112 Points: 605 # Comments: 348"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47504094",
+      "title": "Hypothesis, Antithesis, synthesis",
+      "slug": "2026-03-24-hypothesis-antithesis-synthesis.html",
+      "path": "posts/2026-03-24-hypothesis-antithesis-synthesis.html",
+      "date_iso": "2026-03-24T15:28:17+00:00",
+      "source": "https://antithesis.com/blog/2026/hegel/",
+      "summary": "Article URL: https://antithesis.com/blog/2026/hegel/ Comments URL: https://news.ycombinator.com/item?id=47504094 Points: 245 # Comments: 83"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47503617",
+      "title": "Show HN: Gemini can now natively embed video, so I built sub-second video search",
+      "slug": "2026-03-24-show-hn-gemini-can-now-natively-embed-video-so-i-built-sub-second-video-search.html",
+      "path": "posts/2026-03-24-show-hn-gemini-can-now-natively-embed-video-so-i-built-sub-second-video-search.html",
+      "date_iso": "2026-03-24T14:58:27+00:00",
+      "source": "https://github.com/ssrajadh/sentrysearch",
+      "summary": "Gemini Embedding 2 can project raw video directly into a 768-dimensional vector space alongside text. No transcription, no frame captioning, no intermediate text. A query like \"green car cutting me off\" is directly comparable to a 30-second video clip at the vector level. I used…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47501950",
+      "title": "Missile defense is NP-complete",
+      "slug": "2026-03-24-missile-defense-is-np-complete.html",
+      "path": "posts/2026-03-24-missile-defense-is-np-complete.html",
+      "date_iso": "2026-03-24T13:00:38+00:00",
+      "source": "https://smu160.github.io/posts/missile-defense-is-np-complete/",
+      "summary": "Article URL: https://smu160.github.io/posts/missile-defense-is-np-complete/ Comments URL: https://news.ycombinator.com/item?id=47501950 Points: 316 # Comments: 319"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47501426",
+      "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
+      "slug": "2026-03-24-tell-hn-litellm-1-82-7-and-1-82-8-on-pypi-are-compromised.html",
+      "path": "posts/2026-03-24-tell-hn-litellm-1-82-7-and-1-82-8-on-pypi-are-compromised.html",
+      "date_iso": "2026-03-24T12:06:29+00:00",
+      "source": "https://github.com/BerriAI/litellm/issues/24512",
+      "summary": "About an hour ago new versions have been deployed to PyPI. I was just setting up a new project, and things behaved weirdly. My laptop ran out of RAM, it looked like a forkbomb was running. I've investigated, and found that a base64 encoded blob has been added to proxy_server.py.…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47501211",
+      "title": "Nanobrew: The fastest macOS package manager compatible with brew",
+      "slug": "2026-03-24-nanobrew-the-fastest-macos-package-manager-compatible-with-brew.html",
+      "path": "posts/2026-03-24-nanobrew-the-fastest-macos-package-manager-compatible-with-brew.html",
+      "date_iso": "2026-03-24T11:40:21+00:00",
+      "source": "https://nanobrew.trilok.ai/",
+      "summary": "Article URL: https://nanobrew.trilok.ai/ Comments URL: https://news.ycombinator.com/item?id=47501211 Points: 198 # Comments: 124"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47498924",
       "title": "Log File Viewer for the Terminal",
       "slug": "2026-03-24-log-file-viewer-for-the-terminal.html",
