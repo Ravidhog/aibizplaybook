@@ -1,6 +1,213 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47527399",
+      "title": "Ashby (YC W19) Is Hiring Engineers Who Make Product Decisions",
+      "slug": "2026-03-26-ashby-yc-w19-is-hiring-engineers-who-make-product-decisions.html",
+      "path": "posts/2026-03-26-ashby-yc-w19-is-hiring-engineers-who-make-product-decisions.html",
+      "date_iso": "2026-03-26T07:00:28+00:00",
+      "source": "https://www.ashbyhq.com/careers?ashby_jid=c3c7125d-7883-4dff-a2bf-f5a55de4a364&utm_source=hn",
+      "summary": "Article URL: https://www.ashbyhq.com/careers?ashby_jid=c3c7125d-7883-4dff-a2bf-f5a55de4a364&amp;utm_source=hn Comments URL: https://news.ycombinator.com/item?id=47527399 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47527130",
+      "title": "Data is everywhere. The government is buying it without a warrant",
+      "slug": "2026-03-26-data-is-everywhere-the-government-is-buying-it-without-a-warrant.html",
+      "path": "posts/2026-03-26-data-is-everywhere-the-government-is-buying-it-without-a-warrant.html",
+      "date_iso": "2026-03-26T06:11:01+00:00",
+      "source": "https://www.npr.org/2026/03/25/nx-s1-5752369/ice-surveillance-data-brokers-congress-anthropic",
+      "summary": "Article URL: https://www.npr.org/2026/03/25/nx-s1-5752369/ice-surveillance-data-brokers-congress-anthropic Comments URL: https://news.ycombinator.com/item?id=47527130 Points: 20 # Comments: 1"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html",
+      "title": "Meta and YouTube Found Negligent in Landmark Social Media Addiction Trial",
+      "slug": "2026-03-26-meta-and-youtube-found-negligent-in-landmark-social-media-addiction-trial.html",
+      "path": "posts/2026-03-26-meta-and-youtube-found-negligent-in-landmark-social-media-addiction-trial.html",
+      "date_iso": "2026-03-26T05:19:29+00:00",
+      "source": "https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html",
+      "summary": "Meta’s chairman and chief executive, Mark Zuckerberg, at Los Angeles Superior Court last month."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47526486",
+      "title": "Show HN: Robust LLM Extractor for Websites in TypeScript",
+      "slug": "2026-03-26-show-hn-robust-llm-extractor-for-websites-in-typescript.html",
+      "path": "posts/2026-03-26-show-hn-robust-llm-extractor-for-websites-in-typescript.html",
+      "date_iso": "2026-03-26T03:55:52+00:00",
+      "source": "https://github.com/lightfeed/extractor",
+      "summary": "We've been building data pipelines that scrape websites and extract structured data for a while now. If you've done this, you know the drill: you write CSS selectors, the site changes its layout, everything breaks at 2am, and you spend your morning rewriting parsers. LLMs seemed…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/25/business/media/leonid-radvinsky-dead.html",
+      "title": "Leon Radvinsky, 43, Dies; Built the Adult-Entertainment Giant OnlyFans",
+      "slug": "2026-03-26-leon-radvinsky-43-dies-built-the-adult-entertainment-giant-onlyfans.html",
+      "path": "posts/2026-03-26-leon-radvinsky-43-dies-built-the-adult-entertainment-giant-onlyfans.html",
+      "date_iso": "2026-03-26T00:52:23+00:00",
+      "source": "https://www.nytimes.com/2026/03/25/business/media/leonid-radvinsky-dead.html",
+      "summary": "By leveraging social media and the influencer economy, he turned his website into a byword for online pornography in the 21st century."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47525378",
+      "title": "False claims in a widely-cited paper",
+      "slug": "2026-03-26-false-claims-in-a-widely-cited-paper.html",
+      "path": "posts/2026-03-26-false-claims-in-a-widely-cited-paper.html",
+      "date_iso": "2026-03-26T00:46:31+00:00",
+      "source": "https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/",
+      "summary": "Article URL: https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/ Comments URL: https://news.ycombinator.com/item?id=47525378 Points: 252 # Comments: 97"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47525243",
+      "title": "Shell Tricks That Make Life Easier (and Save Your Sanity)",
+      "slug": "2026-03-26-shell-tricks-that-make-life-easier-and-save-your-sanity.html",
+      "path": "posts/2026-03-26-shell-tricks-that-make-life-easier-and-save-your-sanity.html",
+      "date_iso": "2026-03-26T00:28:38+00:00",
+      "source": "https://blog.hofstede.it/shell-tricks-that-actually-make-life-easier-and-save-your-sanity/",
+      "summary": "Article URL: https://blog.hofstede.it/shell-tricks-that-actually-make-life-easier-and-save-your-sanity/ Comments URL: https://news.ycombinator.com/item?id=47525243 Points: 21 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47524719",
+      "title": "Woman who never stopped updating her lost dog's chip reunites with him after 11y",
+      "slug": "2026-03-25-woman-who-never-stopped-updating-her-lost-dog-s-chip-reunites-with-him-after-11y.html",
+      "path": "posts/2026-03-25-woman-who-never-stopped-updating-her-lost-dog-s-chip-reunites-with-him-after-11y.html",
+      "date_iso": "2026-03-25T23:30:55+00:00",
+      "source": "https://www.cbc.ca/radio/asithappens/11-year-dog-reunion-9.7140780",
+      "summary": "Article URL: https://www.cbc.ca/radio/asithappens/11-year-dog-reunion-9.7140780 Comments URL: https://news.ycombinator.com/item?id=47524719 Points: 166 # Comments: 94"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47524704",
+      "title": "Show HN: A plain-text cognitive architecture for Claude Code",
+      "slug": "2026-03-25-show-hn-a-plain-text-cognitive-architecture-for-claude-code.html",
+      "path": "posts/2026-03-25-show-hn-a-plain-text-cognitive-architecture-for-claude-code.html",
+      "date_iso": "2026-03-25T23:29:13+00:00",
+      "source": "https://lab.puga.com.br/cog/",
+      "summary": "Article URL: https://lab.puga.com.br/cog/ Comments URL: https://news.ycombinator.com/item?id=47524704 Points: 85 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47524519",
+      "title": "\"Disregard That\" Attacks",
+      "slug": "2026-03-25-disregard-that-attacks.html",
+      "path": "posts/2026-03-25-disregard-that-attacks.html",
+      "date_iso": "2026-03-25T23:11:34+00:00",
+      "source": "https://calpaterson.com/disregard.html",
+      "summary": "Article URL: https://calpaterson.com/disregard.html Comments URL: https://news.ycombinator.com/item?id=47524519 Points: 71 # Comments: 47"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47523330",
+      "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
+      "slug": "2026-03-25-running-tesla-model-3-s-computer-on-my-desk-using-parts-from-crashed-cars.html",
+      "path": "posts/2026-03-25-running-tesla-model-3-s-computer-on-my-desk-using-parts-from-crashed-cars.html",
+      "date_iso": "2026-03-25T21:11:57+00:00",
+      "source": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
+      "summary": "Article URL: https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/ Comments URL: https://news.ycombinator.com/item?id=47523330 Points: 566 # Comments: 172"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47522709",
+      "title": "The EU still wants to scan  your private messages and photos",
+      "slug": "2026-03-25-the-eu-still-wants-to-scan-your-private-messages-and-photos.html",
+      "path": "posts/2026-03-25-the-eu-still-wants-to-scan-your-private-messages-and-photos.html",
+      "date_iso": "2026-03-25T20:27:03+00:00",
+      "source": "https://fightchatcontrol.eu/?foo=bar",
+      "summary": "Article URL: https://fightchatcontrol.eu/?foo=bar Comments URL: https://news.ycombinator.com/item?id=47522709 Points: 1016 # Comments: 264"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47522608",
+      "title": "Sodium-ion EV battery breakthrough delivers 11-min charging and 450 km range",
+      "slug": "2026-03-25-sodium-ion-ev-battery-breakthrough-delivers-11-min-charging-and-450-km-range.html",
+      "path": "posts/2026-03-25-sodium-ion-ev-battery-breakthrough-delivers-11-min-charging-and-450-km-range.html",
+      "date_iso": "2026-03-25T20:19:58+00:00",
+      "source": "https://electrek.co/2026/03/25/sodium-ion-ev-battery-delivers-11-min-charging-450-km-range/",
+      "summary": "Article URL: https://electrek.co/2026/03/25/sodium-ion-ev-battery-delivers-11-min-charging-450-km-range/ Comments URL: https://news.ycombinator.com/item?id=47522608 Points: 171 # Comments: 116"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/25/technology/meta-layoffs-ai-executives.html",
+      "title": "Meta Lays Off 700 Employees, While Rewarding Top Executives",
+      "slug": "2026-03-25-meta-lays-off-700-employees-while-rewarding-top-executives.html",
+      "path": "posts/2026-03-25-meta-lays-off-700-employees-while-rewarding-top-executives.html",
+      "date_iso": "2026-03-25T19:22:34+00:00",
+      "source": "https://www.nytimes.com/2026/03/25/technology/meta-layoffs-ai-executives.html",
+      "summary": "The jobs cuts and a new stock program for executives come as Meta continues to shift its focus to artificial intelligence."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47521945",
+      "title": "FreeCAD  v1.1",
+      "slug": "2026-03-25-freecad-v1-1.html",
+      "path": "posts/2026-03-25-freecad-v1-1.html",
+      "date_iso": "2026-03-25T19:19:50+00:00",
+      "source": "https://blog.freecad.org/2026/03/25/freecad-version-1-1-released/",
+      "summary": "Article URL: https://blog.freecad.org/2026/03/25/freecad-version-1-1-released/ Comments URL: https://news.ycombinator.com/item?id=47521945 Points: 246 # Comments: 74"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47521876",
+      "title": "Apple randomly closes bug reports unless you \"verify\" the bug remains unfixed",
+      "slug": "2026-03-25-apple-randomly-closes-bug-reports-unless-you-verify-the-bug-remains-unfixed.html",
+      "path": "posts/2026-03-25-apple-randomly-closes-bug-reports-unless-you-verify-the-bug-remains-unfixed.html",
+      "date_iso": "2026-03-25T19:14:42+00:00",
+      "source": "https://lapcatsoftware.com/articles/2026/3/11.html",
+      "summary": "Article URL: https://lapcatsoftware.com/articles/2026/3/11.html Comments URL: https://news.ycombinator.com/item?id=47521876 Points: 370 # Comments: 209"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47521157",
+      "title": "90% of Claude-linked output going to GitHub repos w <2 stars",
+      "slug": "2026-03-25-90-of-claude-linked-output-going-to-github-repos-w-2-stars.html",
+      "path": "posts/2026-03-25-90-of-claude-linked-output-going-to-github-repos-w-2-stars.html",
+      "date_iso": "2026-03-25T18:16:40+00:00",
+      "source": "https://www.claudescode.dev/?window=since_launch",
+      "summary": "Article URL: https://www.claudescode.dev/?window=since_launch Comments URL: https://news.ycombinator.com/item?id=47521157 Points: 259 # Comments: 153"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47521150",
+      "title": "ARC-AGI-3",
+      "slug": "2026-03-25-arc-agi-3.html",
+      "path": "posts/2026-03-25-arc-agi-3.html",
+      "date_iso": "2026-03-25T18:16:03+00:00",
+      "source": "https://arcprize.org/arc-agi/3",
+      "summary": "https://arcprize.org/media/ARC_AGI_3_Technical_Report.pdf Comments URL: https://news.ycombinator.com/item?id=47521150 Points: 370 # Comments: 240"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47520220",
+      "title": "Show HN: Optio – Orchestrate AI coding agents in K8s to go from ticket to PR",
+      "slug": "2026-03-25-show-hn-optio-orchestrate-ai-coding-agents-in-k8s-to-go-from-ticket-to-pr.html",
+      "path": "posts/2026-03-25-show-hn-optio-orchestrate-ai-coding-agents-in-k8s-to-go-from-ticket-to-pr.html",
+      "date_iso": "2026-03-25T17:10:21+00:00",
+      "source": "https://github.com/jonwiggins/optio",
+      "summary": "I think like many of you, I've been jumping between many claude code/codex sessions at a time, managing multiple lines of work and worktrees in multiple repos. I wanted a way to easily manage multiple lines of work and reduce the amount of input I need to give, allowing the agen…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47519295",
+      "title": "Quantization from the Ground Up",
+      "slug": "2026-03-25-quantization-from-the-ground-up.html",
+      "path": "posts/2026-03-25-quantization-from-the-ground-up.html",
+      "date_iso": "2026-03-25T16:06:34+00:00",
+      "source": "https://ngrok.com/blog/quantization",
+      "summary": "Article URL: https://ngrok.com/blog/quantization Comments URL: https://news.ycombinator.com/item?id=47519295 Points: 240 # Comments: 46"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47518281",
+      "title": "Supreme Court Sides with Cox in Copyright Fight over Pirated Music",
+      "slug": "2026-03-25-supreme-court-sides-with-cox-in-copyright-fight-over-pirated-music.html",
+      "path": "posts/2026-03-25-supreme-court-sides-with-cox-in-copyright-fight-over-pirated-music.html",
+      "date_iso": "2026-03-25T15:02:56+00:00",
+      "source": "https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html",
+      "summary": "https://archive.is/mEgaK https://www.supremecourt.gov/opinions/25pdf/24-171_bq7d.pdf https://supreme.justia.com/cases/federal/us/607/24-171/ Comments URL: https://news.ycombinator.com/item?id=47518281 Points: 333 # Comments: 258"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47517606",
+      "title": "Earthquake scientists reveal how overplowing weakens soil at experimental farm",
+      "slug": "2026-03-25-earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm.html",
+      "path": "posts/2026-03-25-earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm.html",
+      "date_iso": "2026-03-25T14:12:04+00:00",
+      "source": "https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/",
+      "summary": "https://www.science.org/doi/10.1126/science.aec0970 Comments URL: https://news.ycombinator.com/item?id=47517606 Points: 149 # Comments: 60"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47517539",
+      "title": "Thoughts on slowing the fuck down",
+      "slug": "2026-03-25-thoughts-on-slowing-the-fuck-down.html",
+      "path": "posts/2026-03-25-thoughts-on-slowing-the-fuck-down.html",
+      "date_iso": "2026-03-25T14:07:14+00:00",
+      "source": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/",
+      "summary": "Article URL: https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/ Comments URL: https://news.ycombinator.com/item?id=47517539 Points: 809 # Comments: 376"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47513728",
       "title": "Implementing automatic eSIM installation on Android",
       "slug": "2026-03-25-implementing-automatic-esim-installation-on-android.html",
