@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Turbolite – a SQLite VFS serving sub-250ms cold JOIN queries from S3</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Turbolite – a SQLite VFS serving sub-250ms cold JOIN queries from S3</h1>
+    <p><small>Published: 2026-03-26T18:58:19+00:00</small></p>
+  </header>
+
+  <main>
+    <p>I built a SQLite VFS in Rust that serves cold queries directly from S3 with sub-second performance, and often much faster.<p>It’s called turbolite. It is experimental, buggy, and may corrupt data. I would not trust it with anything important yet.<p>I wanted to explore whether object storage has gotten fast enough to support embedded databases over cloud storage. Filesystems reward tiny random reads and in-place mutation. S3 rewards fewer requests, bigger transfers, immutable objects, and aggressively parallel operations where bandwidth is often the real constraint. This was explicitly inspired by turbopuffer’s ground-up S3-native design. <a href="https://turbopuffer.com/blog/turbopuffer" rel="nofollow">https://turbopuffer.com/blog/turbopuffer</a><p>The use case I had in mind is lots of mostly-cold SQLite databases (database-per-tenant, database-per-session, or database-per-user architectures) where keeping a separate attached volume for inactive database feels wasteful. turbolite assumes a single write source and is aimed much more at “many databases with bursty cold reads” than “one hot database.”<p>Instead of doing naive page-at-a-time reads from a raw SQLite file, turbolite introspects SQLite B-trees, stores related pages together in compressed page groups, and keeps a manifest that is the source of truth for where every page lives. Cache misses use seekable zstd frames and S3 range GETs for search queries, so fetching one needed page does not require downloading an entire object.<p>At query time, turbolite can also pass storage operations from the query plan down to the VFS to frontrun downloads for indexes and large scans in the order they will be accessed.<p>You can tune how aggressively turbolite prefetches. For point queries and small joins, it can stay conservative and avoid prefetching whole tables. For scans, it can get much more aggressive.<p>It also groups pages by page type in S3. Interior B-tree pages are bundled separately and loaded eagerly. Index pages prefetch aggressively. Data pages are stored by table. The goal is to make cold point queries and joins decent, while making scans less awful than naive remote paging would.<p>On a 1M-row / 1.5GB benchmark on EC2 + S3 Express, I’m seeing results like sub-100ms cold point lookups, sub-200ms cold 5-join profile queries, and sub-600ms scans from an empty cache with a 1.5GB database. It’s somewhat slower on normal S3/Tigris.<p>Current limitations are pretty straightforward: it’s single-writer only, and it is still very much a systems experiment rather than production infrastructure.<p>I’d love feedback from people who’ve worked on SQLite-over-network, storage engines, VFSes, or object-storage-backed databases. I’m especially interested in whether the B-tree-aware grouping / manifest / seekable-range-GET direction feels like the right one to keep pushing.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47534283">https://news.ycombinator.com/item?id=47534283</a></p>
+<p>Points: 136</p>
+<p># Comments: 35</p>
+    <p><a href="https://github.com/russellromney/turbolite" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

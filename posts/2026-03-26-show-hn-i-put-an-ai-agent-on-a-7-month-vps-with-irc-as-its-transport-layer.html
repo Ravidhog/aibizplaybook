@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer</h1>
+    <p><small>Published: 2026-03-26T22:41:25+00:00</small></p>
+  </header>
+
+  <main>
+    <p>The stack: two agents on separate boxes. The public one (nullclaw) is a 678 KB Zig binary using ~1 MB RAM, connected to an Ergo IRC server. Visitors talk to it via a gamja web client embedded in my site. The private one (ironclaw) handles email and scheduling, reachable only over Tailscale via Google's A2A protocol.<p>Tiered inference: Haiku 4.5 for conversation (sub-second, cheap), Sonnet 4.6 for tool use (only when needed). Hard cap at $2/day.<p>A2A passthrough: the private-side agent borrows the gateway's own inference pipeline, so there's one API key and one billing relationship regardless of who initiated the request.<p>You can talk to nully at <a href="https://georgelarson.me/chat/" rel="nofollow">https://georgelarson.me/chat/</a> or connect with any IRC client to irc.georgelarson.me:6697 (TLS), channel #lobby.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47536761">https://news.ycombinator.com/item?id=47536761</a></p>
+<p>Points: 205</p>
+<p># Comments: 66</p>
+    <p><a href="https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

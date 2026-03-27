@@ -1,6 +1,276 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47539825",
+      "title": "A Faster Alternative to Jq",
+      "slug": "2026-03-27-a-faster-alternative-to-jq.html",
+      "path": "posts/2026-03-27-a-faster-alternative-to-jq.html",
+      "date_iso": "2026-03-27T07:12:26+00:00",
+      "source": "https://micahkepe.com/blog/jsongrep/",
+      "summary": "Article URL: https://micahkepe.com/blog/jsongrep/ Comments URL: https://news.ycombinator.com/item?id=47539825 Points: 8 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47539767",
+      "title": "The European AllSky7 fireball network",
+      "slug": "2026-03-27-the-european-allsky7-fireball-network.html",
+      "path": "posts/2026-03-27-the-european-allsky7-fireball-network.html",
+      "date_iso": "2026-03-27T07:00:49+00:00",
+      "source": "https://www.allsky7.net/#archive",
+      "summary": "Article URL: https://www.allsky7.net/#archive Comments URL: https://news.ycombinator.com/item?id=47539767 Points: 19 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47539188",
+      "title": "Schedule tasks on the web",
+      "slug": "2026-03-27-schedule-tasks-on-the-web.html",
+      "path": "posts/2026-03-27-schedule-tasks-on-the-web.html",
+      "date_iso": "2026-03-27T04:47:15+00:00",
+      "source": "https://code.claude.com/docs/en/web-scheduled-tasks",
+      "summary": "Article URL: https://code.claude.com/docs/en/web-scheduled-tasks Comments URL: https://news.ycombinator.com/item?id=47539188 Points: 98 # Comments: 64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/27/business/helium-chips-iran-war.html",
+      "title": "An Invisible Bottleneck: A Helium Shortage Threatens the Chip Industry",
+      "slug": "2026-03-27-an-invisible-bottleneck-a-helium-shortage-threatens-the-chip-industry.html",
+      "path": "posts/2026-03-27-an-invisible-bottleneck-a-helium-shortage-threatens-the-chip-industry.html",
+      "date_iso": "2026-03-27T04:00:21+00:00",
+      "source": "https://www.nytimes.com/2026/03/27/business/helium-chips-iran-war.html",
+      "summary": "Air Liquide supplies helium and other gases to the semiconductor industry."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47538433",
+      "title": "HandyMKV for MakeMKV and HandBrake Automation",
+      "slug": "2026-03-27-handymkv-for-makemkv-and-handbrake-automation.html",
+      "path": "posts/2026-03-27-handymkv-for-makemkv-and-handbrake-automation.html",
+      "date_iso": "2026-03-27T02:19:12+00:00",
+      "source": "https://github.com/dmars8047/handymkv",
+      "summary": "Article URL: https://github.com/dmars8047/handymkv Comments URL: https://news.ycombinator.com/item?id=47538433 Points: 20 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47538190",
+      "title": "Agent-to-agent pair programming",
+      "slug": "2026-03-27-agent-to-agent-pair-programming.html",
+      "path": "posts/2026-03-27-agent-to-agent-pair-programming.html",
+      "date_iso": "2026-03-27T01:47:55+00:00",
+      "source": "https://axeldelafosse.com/blog/agent-to-agent-pair-programming",
+      "summary": "Article URL: https://axeldelafosse.com/blog/agent-to-agent-pair-programming Comments URL: https://news.ycombinator.com/item?id=47538190 Points: 57 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47538078",
+      "title": "From 0% to 36% on Day 1 of ARC-AGI-3",
+      "slug": "2026-03-27-from-0-to-36-on-day-1-of-arc-agi-3.html",
+      "path": "posts/2026-03-27-from-0-to-36-on-day-1-of-arc-agi-3.html",
+      "date_iso": "2026-03-27T01:32:10+00:00",
+      "source": "https://www.symbolica.ai/blog/arc-agi-3",
+      "summary": "Article URL: https://www.symbolica.ai/blog/arc-agi-3 Comments URL: https://news.ycombinator.com/item?id=47538078 Points: 74 # Comments: 39"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/26/technology/anthropic-pentagon-risk-injunction.html",
+      "title": "Judge Stays Pentagon’s Labeling of Anthropic as ‘Supply Chain Risk’",
+      "slug": "2026-03-27-judge-stays-pentagon-s-labeling-of-anthropic-as-supply-chain-risk.html",
+      "path": "posts/2026-03-27-judge-stays-pentagon-s-labeling-of-anthropic-as-supply-chain-risk.html",
+      "date_iso": "2026-03-27T01:06:17+00:00",
+      "source": "https://www.nytimes.com/2026/03/26/technology/anthropic-pentagon-risk-injunction.html",
+      "summary": "The San Francisco office of Anthropic, which won a temporary reprieve in federal court on Thursday."
+    },
+    {
+      "id": "https://www.nytimes.com/video/technology/100000010801833/why-the-verdict-against-meta-and-youtube-could-change-social-media.html",
+      "title": "Why the Verdict Against Meta and YouTube Could Change Social Media",
+      "slug": "2026-03-27-why-the-verdict-against-meta-and-youtube-could-change-social-media.html",
+      "path": "posts/2026-03-27-why-the-verdict-against-meta-and-youtube-could-change-social-media.html",
+      "date_iso": "2026-03-27T00:39:03+00:00",
+      "source": "https://www.nytimes.com/video/technology/100000010801833/why-the-verdict-against-meta-and-youtube-could-change-social-media.html",
+      "summary": "In a landmark case, a jury found Meta and YouTube guilty of creating products that were addictive. Ryan Mac explains the outcome and what it could mean for tech companies going forward."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/26/business/dealbook/shield-ai-drones-aechelon-fund-raising.html",
+      "title": "Shield AI, a Start-Up Making Military Drones, Raises $2 Billion",
+      "slug": "2026-03-27-shield-ai-a-start-up-making-military-drones-raises-2-billion.html",
+      "path": "posts/2026-03-27-shield-ai-a-start-up-making-military-drones-raises-2-billion.html",
+      "date_iso": "2026-03-27T00:24:47+00:00",
+      "source": "https://www.nytimes.com/2026/03/26/business/dealbook/shield-ai-drones-aechelon-fund-raising.html",
+      "summary": "Shield AI’s software and drones are being used by several governments, including Ukraine’s."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47537106",
+      "title": "Chicago artist creates tourism posters for city's neighborhoods",
+      "slug": "2026-03-26-chicago-artist-creates-tourism-posters-for-city-s-neighborhoods.html",
+      "path": "posts/2026-03-26-chicago-artist-creates-tourism-posters-for-city-s-neighborhoods.html",
+      "date_iso": "2026-03-26T23:18:38+00:00",
+      "source": "https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/",
+      "summary": "Article URL: https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/ Comments URL: https://news.ycombinator.com/item?id=47537106 Points: 81 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47536761",
+      "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
+      "slug": "2026-03-26-show-hn-i-put-an-ai-agent-on-a-7-month-vps-with-irc-as-its-transport-layer.html",
+      "path": "posts/2026-03-26-show-hn-i-put-an-ai-agent-on-a-7-month-vps-with-irc-as-its-transport-layer.html",
+      "date_iso": "2026-03-26T22:41:25+00:00",
+      "source": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
+      "summary": "The stack: two agents on separate boxes. The public one (nullclaw) is a 678 KB Zig binary using ~1 MB RAM, connected to an Ergo IRC server. Visitors talk to it via a gamja web client embedded in my site. The private one (ironclaw) handles email and scheduling, reachable only ove…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47536712",
+      "title": "We rewrote JSONata with AI in a day, saved $500k/year",
+      "slug": "2026-03-26-we-rewrote-jsonata-with-ai-in-a-day-saved-500k-year.html",
+      "path": "posts/2026-03-26-we-rewrote-jsonata-with-ai-in-a-day-saved-500k-year.html",
+      "date_iso": "2026-03-26T22:36:41+00:00",
+      "source": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai",
+      "summary": "Article URL: https://www.reco.ai/blog/we-rewrote-jsonata-with-ai Comments URL: https://news.ycombinator.com/item?id=47536712 Points: 134 # Comments: 121"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47536110",
+      "title": "Anthropic Subprocessor Changes",
+      "slug": "2026-03-26-anthropic-subprocessor-changes.html",
+      "path": "posts/2026-03-26-anthropic-subprocessor-changes.html",
+      "date_iso": "2026-03-26T21:37:15+00:00",
+      "source": "https://trust.anthropic.com",
+      "summary": "Article URL: https://trust.anthropic.com Comments URL: https://news.ycombinator.com/item?id=47536110 Points: 66 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47535708",
+      "title": "Apple discontinues the Mac Pro",
+      "slug": "2026-03-26-apple-discontinues-the-mac-pro.html",
+      "path": "posts/2026-03-26-apple-discontinues-the-mac-pro.html",
+      "date_iso": "2026-03-26T21:04:50+00:00",
+      "source": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
+      "summary": "Article URL: https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/ Comments URL: https://news.ycombinator.com/item?id=47535708 Points: 304 # Comments: 232"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47535626",
+      "title": "Show HN: Fio: 3D World editor/game engine – inspired by Radiant and Hammer",
+      "slug": "2026-03-26-show-hn-fio-3d-world-editor-game-engine-inspired-by-radiant-and-hammer.html",
+      "path": "posts/2026-03-26-show-hn-fio-3d-world-editor-game-engine-inspired-by-radiant-and-hammer.html",
+      "date_iso": "2026-03-26T20:58:04+00:00",
+      "source": "https://github.com/ViciousSquid/Fio",
+      "summary": "A liminal brush-based CSG editor and game engine with unified (forward) renderer inspired by Radiant and Worldcraft/Hammer Compact and lightweight (target: Snapdragon 8CX, OpenGL 3.3) Real-time lighting with stencil shadows without the need for pre-baked compilation Comments URL…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47535249",
+      "title": "Using FireWire on a Raspberry Pi",
+      "slug": "2026-03-26-using-firewire-on-a-raspberry-pi.html",
+      "path": "posts/2026-03-26-using-firewire-on-a-raspberry-pi.html",
+      "date_iso": "2026-03-26T20:23:10+00:00",
+      "source": "https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/",
+      "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/ Comments URL: https://news.ycombinator.com/item?id=47535249 Points: 81 # Comments: 36"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47534848",
+      "title": "We haven't seen the worst of what gambling and prediction markets will do",
+      "slug": "2026-03-26-we-haven-t-seen-the-worst-of-what-gambling-and-prediction-markets-will-do.html",
+      "path": "posts/2026-03-26-we-haven-t-seen-the-worst-of-what-gambling-and-prediction-markets-will-do.html",
+      "date_iso": "2026-03-26T19:48:05+00:00",
+      "source": "https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what",
+      "summary": "Article URL: https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what Comments URL: https://news.ycombinator.com/item?id=47534848 Points: 687 # Comments: 484"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47534564",
+      "title": "Chroma Context-1: Training a Self-Editing Search Agent",
+      "slug": "2026-03-26-chroma-context-1-training-a-self-editing-search-agent.html",
+      "path": "posts/2026-03-26-chroma-context-1-training-a-self-editing-search-agent.html",
+      "date_iso": "2026-03-26T19:25:19+00:00",
+      "source": "https://www.trychroma.com/research/context-1",
+      "summary": "https://x.com/trychroma/status/2037243681988894950 https://xcancel.com/trychroma/status/2037243681988894950 Comments URL: https://news.ycombinator.com/item?id=47534564 Points: 42 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47534283",
+      "title": "Show HN: Turbolite – a SQLite VFS serving sub-250ms cold JOIN queries from S3",
+      "slug": "2026-03-26-show-hn-turbolite-a-sqlite-vfs-serving-sub-250ms-cold-join-queries-from-s3.html",
+      "path": "posts/2026-03-26-show-hn-turbolite-a-sqlite-vfs-serving-sub-250ms-cold-join-queries-from-s3.html",
+      "date_iso": "2026-03-26T18:58:19+00:00",
+      "source": "https://github.com/russellromney/turbolite",
+      "summary": "I built a SQLite VFS in Rust that serves cold queries directly from S3 with sub-second performance, and often much faster. It’s called turbolite. It is experimental, buggy, and may corrupt data. I would not trust it with anything important yet. I wanted to explore whether object…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47534086",
+      "title": "John Bradley, author of xv, has died",
+      "slug": "2026-03-26-john-bradley-author-of-xv-has-died.html",
+      "path": "posts/2026-03-26-john-bradley-author-of-xv-has-died.html",
+      "date_iso": "2026-03-26T18:38:50+00:00",
+      "source": "https://voxday.net/2026/03/25/rip-john-bradley/",
+      "summary": "Article URL: https://voxday.net/2026/03/25/rip-john-bradley/ Comments URL: https://news.ycombinator.com/item?id=47534086 Points: 258 # Comments: 79"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/26/technology/binance-iran-us-sanctions.html",
+      "title": "The Clues Binance Missed That Led to Billions in Crypto Flowing to Iran",
+      "slug": "2026-03-26-the-clues-binance-missed-that-led-to-billions-in-crypto-flowing-to-iran.html",
+      "path": "posts/2026-03-26-the-clues-binance-missed-that-led-to-billions-in-crypto-flowing-to-iran.html",
+      "date_iso": "2026-03-26T18:37:34+00:00",
+      "source": "https://www.nytimes.com/2026/03/26/technology/binance-iran-us-sanctions.html",
+      "summary": "A villa in Singapore whose address was shared by the chief executive of Blessed Trust, which was a vendor to Binance, and a Chinese entrepreneur with a corporate office that was on a U.S. blacklist."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/26/business/laguardia-airport-air-canada-safety.html",
+      "title": "Safety Experts Considered LaGuardia Challenging but Not an Outlier",
+      "slug": "2026-03-26-safety-experts-considered-laguardia-challenging-but-not-an-outlier.html",
+      "path": "posts/2026-03-26-safety-experts-considered-laguardia-challenging-but-not-an-outlier.html",
+      "date_iso": "2026-03-26T18:32:36+00:00",
+      "source": "https://www.nytimes.com/2026/03/26/business/laguardia-airport-air-canada-safety.html",
+      "summary": "The Federal Aviation Administration has been working for years to reduce accidents like the one involving an Air Canada plane and a fire truck at LaGuardia Airport in New York City on Sunday."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/26/business/federal-lawsuit-newyork-presbyterian.html",
+      "title": "U.S. Accuses NewYork-Presbyterian of Reaching Deals That Kept Costs High",
+      "slug": "2026-03-26-u-s-accuses-newyork-presbyterian-of-reaching-deals-that-kept-costs-high.html",
+      "path": "posts/2026-03-26-u-s-accuses-newyork-presbyterian-of-reaching-deals-that-kept-costs-high.html",
+      "date_iso": "2026-03-26T18:09:55+00:00",
+      "source": "https://www.nytimes.com/2026/03/26/business/federal-lawsuit-newyork-presbyterian.html",
+      "summary": "The government said that the NewYork-Presbyterian system had kept health plans from steering patients to less expensive options or creating cheaper plans."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/26/business/snapchat-europe-child-safety.html",
+      "title": "Snapchat Investigated in Europe Over Child Safety Policies",
+      "slug": "2026-03-26-snapchat-investigated-in-europe-over-child-safety-policies.html",
+      "path": "posts/2026-03-26-snapchat-investigated-in-europe-over-child-safety-policies.html",
+      "date_iso": "2026-03-26T18:04:39+00:00",
+      "source": "https://www.nytimes.com/2026/03/26/business/snapchat-europe-child-safety.html",
+      "summary": "Henna Virkkunen, the European commissioner overseeing digital policy, said that the European Union’s Digital Services Act “demands high safety standards for all users.”"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47533297",
+      "title": "$500 GPU outperforms Claude Sonnet on coding benchmarks",
+      "slug": "2026-03-26-500-gpu-outperforms-claude-sonnet-on-coding-benchmarks.html",
+      "path": "posts/2026-03-26-500-gpu-outperforms-claude-sonnet-on-coding-benchmarks.html",
+      "date_iso": "2026-03-26T17:31:24+00:00",
+      "source": "https://github.com/itigges22/ATLAS",
+      "summary": "Article URL: https://github.com/itigges22/ATLAS Comments URL: https://news.ycombinator.com/item?id=47533297 Points: 198 # Comments: 68"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47533283",
+      "title": "Colibri – chat platform built on the AT Protocol for communities big and small",
+      "slug": "2026-03-26-colibri-chat-platform-built-on-the-at-protocol-for-communities-big-and-small.html",
+      "path": "posts/2026-03-26-colibri-chat-platform-built-on-the-at-protocol-for-communities-big-and-small.html",
+      "date_iso": "2026-03-26T17:29:58+00:00",
+      "source": "https://colibri.social/",
+      "summary": "Article URL: https://colibri.social/ Comments URL: https://news.ycombinator.com/item?id=47533283 Points: 115 # Comments: 69"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47532339",
+      "title": "OpenTelemetry profiles enters public alpha",
+      "slug": "2026-03-26-opentelemetry-profiles-enters-public-alpha.html",
+      "path": "posts/2026-03-26-opentelemetry-profiles-enters-public-alpha.html",
+      "date_iso": "2026-03-26T16:14:56+00:00",
+      "source": "https://opentelemetry.io/blog/2026/profiles-alpha/",
+      "summary": "Article URL: https://opentelemetry.io/blog/2026/profiles-alpha/ Comments URL: https://news.ycombinator.com/item?id=47532339 Points: 163 # Comments: 24"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/26/technology/social-media-verdicts-child-safety.html",
+      "title": "Juries Take the Lead in the Push for Child Online Safety",
+      "slug": "2026-03-26-juries-take-the-lead-in-the-push-for-child-online-safety.html",
+      "path": "posts/2026-03-26-juries-take-the-lead-in-the-push-for-child-online-safety.html",
+      "date_iso": "2026-03-26T15:00:41+00:00",
+      "source": "https://www.nytimes.com/2026/03/26/technology/social-media-verdicts-child-safety.html",
+      "summary": "Mark Lanier, a lawyer for a plaintiff who was awarded $6 million in damages against Meta and YouTube, speaking outside Superior Court of Los Angeles County on Wednesday."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/26/movies/the-ai-doc-movie-anthropic-openai-claude-chatgpt.html",
+      "title": "In ‘The AI Doc,’ Sam Altman and Dario Amodei Go on the Record",
+      "slug": "2026-03-26-in-the-ai-doc-sam-altman-and-dario-amodei-go-on-the-record.html",
+      "path": "posts/2026-03-26-in-the-ai-doc-sam-altman-and-dario-amodei-go-on-the-record.html",
+      "date_iso": "2026-03-26T09:00:28+00:00",
+      "source": "https://www.nytimes.com/2026/03/26/movies/the-ai-doc-movie-anthropic-openai-claude-chatgpt.html",
+      "summary": "A scene from “The AI Doc: Or How I Became an Apocaloptimist,” directed by Daniel Roher and Charlie Tyrell."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47527399",
       "title": "Ashby (YC W19) Is Hiring Engineers Who Make Product Decisions",
       "slug": "2026-03-26-ashby-yc-w19-is-hiring-engineers-who-make-product-decisions.html",
