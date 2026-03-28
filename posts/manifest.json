@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47552059",
+      "title": "Stop Calling Every AI Miss a Hallucination",
+      "slug": "2026-03-28-stop-calling-every-ai-miss-a-hallucination.html",
+      "path": "posts/2026-03-28-stop-calling-every-ai-miss-a-hallucination.html",
+      "date_iso": "2026-03-28T06:07:41+00:00",
+      "source": "https://ai.gtzilla.com/papers/stop-calling-every-ai-miss-a-hallucination-v1.0/",
+      "summary": "Article URL: https://ai.gtzilla.com/papers/stop-calling-every-ai-miss-a-hallucination-v1.0/ Comments URL: https://news.ycombinator.com/item?id=47552059 Points: 3 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47550878",
+      "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
+      "slug": "2026-03-28-amd-s-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip.html",
+      "path": "posts/2026-03-28-amd-s-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip.html",
+      "date_iso": "2026-03-28T02:17:04+00:00",
+      "source": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
+      "summary": "Article URL: https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/ Comments URL: https://news.ycombinator.com/item?id=47550878 Points: 121 # Comments: 58"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47550282",
+      "title": "Go hard on agents, not on your filesystem",
+      "slug": "2026-03-28-go-hard-on-agents-not-on-your-filesystem.html",
+      "path": "posts/2026-03-28-go-hard-on-agents-not-on-your-filesystem.html",
+      "date_iso": "2026-03-28T00:39:54+00:00",
+      "source": "https://jai.scs.stanford.edu/",
+      "summary": "Article URL: https://jai.scs.stanford.edu/ Comments URL: https://news.ycombinator.com/item?id=47550282 Points: 256 # Comments: 140"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47549160",
+      "title": "Show HN: Twitch Roulette – Find live streamers who need views the most",
+      "slug": "2026-03-27-show-hn-twitch-roulette-find-live-streamers-who-need-views-the-most.html",
+      "path": "posts/2026-03-27-show-hn-twitch-roulette-find-live-streamers-who-need-views-the-most.html",
+      "date_iso": "2026-03-27T22:22:20+00:00",
+      "source": "https://twitchroulette.net/",
+      "summary": "Hey HN, I re-launched an old site I remembered back in the day that someone made called twitchroulette.net with a lot of new features and stats and I would love for people to check it out. The idea is you can easily browse the less browsed parts of twitch and find cool and new s…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47548013",
+      "title": "Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser",
+      "slug": "2026-03-27-velxio-2-0-emulate-arduino-esp32-and-raspberry-pi-3-in-the-browser.html",
+      "path": "posts/2026-03-27-velxio-2-0-emulate-arduino-esp32-and-raspberry-pi-3-in-the-browser.html",
+      "date_iso": "2026-03-27T20:44:33+00:00",
+      "source": "https://github.com/davidmonterocrespo24/velxio",
+      "summary": "Article URL: https://github.com/davidmonterocrespo24/velxio Comments URL: https://news.ycombinator.com/item?id=47548013 Points: 135 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47547602",
+      "title": "Colorado House passes bill to limit surveillance pricing and wage setting",
+      "slug": "2026-03-27-colorado-house-passes-bill-to-limit-surveillance-pricing-and-wage-setting.html",
+      "path": "posts/2026-03-27-colorado-house-passes-bill-to-limit-surveillance-pricing-and-wage-setting.html",
+      "date_iso": "2026-03-27T20:10:42+00:00",
+      "source": "https://coloradonewsline.com/briefs/surveillance-pricing-wage-setting/",
+      "summary": "Article URL: https://coloradonewsline.com/briefs/surveillance-pricing-wage-setting/ Comments URL: https://news.ycombinator.com/item?id=47547602 Points: 99 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47547508",
+      "title": "ISBN Visualization",
+      "slug": "2026-03-27-isbn-visualization.html",
+      "path": "posts/2026-03-27-isbn-visualization.html",
+      "date_iso": "2026-03-27T20:02:05+00:00",
+      "source": "https://annas-archive.gd/isbn-visualization?",
+      "summary": "Article URL: https://annas-archive.gd/isbn-visualization? Comments URL: https://news.ycombinator.com/item?id=47547508 Points: 148 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47547009",
+      "title": "Make macOS consistently bad unironically",
+      "slug": "2026-03-27-make-macos-consistently-bad-unironically.html",
+      "path": "posts/2026-03-27-make-macos-consistently-bad-unironically.html",
+      "date_iso": "2026-03-27T19:15:19+00:00",
+      "source": "https://lr0.org/blog/p/macos/",
+      "summary": "Article URL: https://lr0.org/blog/p/macos/ Comments URL: https://news.ycombinator.com/item?id=47547009 Points: 378 # Comments: 256"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/27/us/politics/musk-joins-call-with-trump-modi.html",
+      "title": "Elon Musk Joins in Phone Call Between Donald Trump and Narendra Modi",
+      "slug": "2026-03-27-elon-musk-joins-in-phone-call-between-donald-trump-and-narendra-modi.html",
+      "path": "posts/2026-03-27-elon-musk-joins-in-phone-call-between-donald-trump-and-narendra-modi.html",
+      "date_iso": "2026-03-27T19:11:58+00:00",
+      "source": "https://www.nytimes.com/2026/03/27/us/politics/musk-joins-call-with-trump-modi.html",
+      "summary": "Elon Musk and Shivon Zilis arriving for a wedding at Mar-a-Lago last month."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47546911",
+      "title": "Capability-Based Security for Redox: Namespace and CWD as Capabilities",
+      "slug": "2026-03-27-capability-based-security-for-redox-namespace-and-cwd-as-capabilities.html",
+      "path": "posts/2026-03-27-capability-based-security-for-redox-namespace-and-cwd-as-capabilities.html",
+      "date_iso": "2026-03-27T19:06:44+00:00",
+      "source": "https://www.redox-os.org/news/nlnet-cap-nsmgr-cwd/",
+      "summary": "Article URL: https://www.redox-os.org/news/nlnet-cap-nsmgr-cwd/ Comments URL: https://news.ycombinator.com/item?id=47546911 Points: 48 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47544238",
+      "title": "The Future of SCIP",
+      "slug": "2026-03-27-the-future-of-scip.html",
+      "path": "posts/2026-03-27-the-future-of-scip.html",
+      "date_iso": "2026-03-27T15:46:50+00:00",
+      "source": "https://sourcegraph.com/blog/the-future-of-scip",
+      "summary": "Article URL: https://sourcegraph.com/blog/the-future-of-scip Comments URL: https://news.ycombinator.com/item?id=47544238 Points: 65 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47543943",
+      "title": "Desk for people who work at home with a cat",
+      "slug": "2026-03-27-desk-for-people-who-work-at-home-with-a-cat.html",
+      "path": "posts/2026-03-27-desk-for-people-who-work-at-home-with-a-cat.html",
+      "date_iso": "2026-03-27T15:31:20+00:00",
+      "source": "https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/",
+      "summary": "Article URL: https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/ Comments URL: https://news.ycombinator.com/item?id=47543943 Points: 390 # Comments: 138"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47543204",
+      "title": "Meow.camera",
+      "slug": "2026-03-27-meow-camera.html",
+      "path": "posts/2026-03-27-meow-camera.html",
+      "date_iso": "2026-03-27T14:41:02+00:00",
+      "source": "https://meow.camera/#4258783365322591678",
+      "summary": "Article URL: https://meow.camera/#4258783365322591678 Comments URL: https://news.ycombinator.com/item?id=47543204 Points: 239 # Comments: 57"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47543167",
+      "title": "Iran-linked hackers breach FBI director's personal email",
+      "slug": "2026-03-27-iran-linked-hackers-breach-fbi-director-s-personal-email.html",
+      "path": "posts/2026-03-27-iran-linked-hackers-breach-fbi-director-s-personal-email.html",
+      "date_iso": "2026-03-27T14:38:28+00:00",
+      "source": "https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/",
+      "summary": "https://ddosecrets.org/article/kash-patel-emails https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi... Comments URL: https://news.ycombinator.com/item?id=47543167 Points: 216 # Comments: 332"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47543139",
+      "title": "Anatomy of the .claude/ folder",
+      "slug": "2026-03-27-anatomy-of-the-claude-folder.html",
+      "path": "posts/2026-03-27-anatomy-of-the-claude-folder.html",
+      "date_iso": "2026-03-27T14:35:45+00:00",
+      "source": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
+      "summary": "Article URL: https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder Comments URL: https://news.ycombinator.com/item?id=47543139 Points: 460 # Comments: 210"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47542695",
+      "title": "People inside Microsoft are fighting to drop mandatory Microsoft Account",
+      "slug": "2026-03-27-people-inside-microsoft-are-fighting-to-drop-mandatory-microsoft-account.html",
+      "path": "posts/2026-03-27-people-inside-microsoft-are-fighting-to-drop-mandatory-microsoft-account.html",
+      "date_iso": "2026-03-27T13:54:35+00:00",
+      "source": "https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup",
+      "summary": "Article URL: https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup Comments URL: https://news.ycombinator.com/item?id=47542695 Points: 614 # Comments: 451"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47542644",
+      "title": "Installing a Let's Encrypt TLS certificate on a Brother printer with Certbot",
+      "slug": "2026-03-27-installing-a-let-s-encrypt-tls-certificate-on-a-brother-printer-with-certbot.html",
+      "path": "posts/2026-03-27-installing-a-let-s-encrypt-tls-certificate-on-a-brother-printer-with-certbot.html",
+      "date_iso": "2026-03-27T13:49:51+00:00",
+      "source": "https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)",
+      "summary": "Article URL: https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare) Comments URL: https://news.ycombinator.com/item?id=47542644 Points: 210 # Comments: 52"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/27/podcasts/hardfork-ezra-jack-clark.html",
+      "title": "The Ezra Klein Show: How Fast Will A.I. Agents Rip Through the Economy?",
+      "slug": "2026-03-27-the-ezra-klein-show-how-fast-will-a-i-agents-rip-through-the-economy.html",
+      "path": "posts/2026-03-27-the-ezra-klein-show-how-fast-will-a-i-agents-rip-through-the-economy.html",
+      "date_iso": "2026-03-27T11:00:09+00:00",
+      "source": "https://www.nytimes.com/2026/03/27/podcasts/hardfork-ezra-jack-clark.html",
+      "summary": "The Anthropic co-founder Jack Clark tells Ezra Klein what he sees coming in the new era of A.I. agents."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47540388",
+      "title": "Telnyx package compromised on PyPI",
+      "slug": "2026-03-27-telnyx-package-compromised-on-pypi.html",
+      "path": "posts/2026-03-27-telnyx-package-compromised-on-pypi.html",
+      "date_iso": "2026-03-27T08:57:02+00:00",
+      "source": "https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026",
+      "summary": "https://github.com/team-telnyx/telnyx-python/issues/235 https://www.aikido.dev/blog/telnyx-pypi-compromised-teampcp-... Comments URL: https://news.ycombinator.com/item?id=47540388 Points: 98 # Comments: 102"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47540383",
+      "title": "‘Energy independence feels practical’: Europeans building mini solar farms",
+      "slug": "2026-03-27-energy-independence-feels-practical-europeans-building-mini-solar-farms.html",
+      "path": "posts/2026-03-27-energy-independence-feels-practical-europeans-building-mini-solar-farms.html",
+      "date_iso": "2026-03-27T08:55:43+00:00",
+      "source": "https://www.euronews.com/2026/03/26/suddenly-energy-independence-feels-practical-europeans-are-building-mini-solar-farms-at-ho",
+      "summary": "Article URL: https://www.euronews.com/2026/03/26/suddenly-energy-independence-feels-practical-europeans-are-building-mini-solar-farms-at-ho Comments URL: https://news.ycombinator.com/item?id=47540383 Points: 268 # Comments: 251"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47539825",
       "title": "A Faster Alternative to Jq",
       "slug": "2026-03-27-a-faster-alternative-to-jq.html",
@@ -226,6 +406,15 @@
       "summary": "Henna Virkkunen, the European commissioner overseeing digital policy, said that the European Union’s Digital Services Act “demands high safety standards for all users.”"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=47533709",
+      "title": "Building FireStriker: Making Civic Tech Free",
+      "slug": "2026-03-26-building-firestriker-making-civic-tech-free.html",
+      "path": "posts/2026-03-26-building-firestriker-making-civic-tech-free.html",
+      "date_iso": "2026-03-26T18:03:43+00:00",
+      "source": "https://firestriker.org/blog/building-firestriker-why-im-making-civic-tech-free",
+      "summary": "Article URL: https://firestriker.org/blog/building-firestriker-why-im-making-civic-tech-free Comments URL: https://news.ycombinator.com/item?id=47533709 Points: 116 # Comments: 26"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47533297",
       "title": "$500 GPU outperforms Claude Sonnet on coding benchmarks",
       "slug": "2026-03-26-500-gpu-outperforms-claude-sonnet-on-coding-benchmarks.html",
@@ -242,6 +431,15 @@
       "date_iso": "2026-03-26T17:29:58+00:00",
       "source": "https://colibri.social/",
       "summary": "Article URL: https://colibri.social/ Comments URL: https://news.ycombinator.com/item?id=47533283 Points: 115 # Comments: 69"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47532770",
+      "title": "Improving Composer through real-time RL",
+      "slug": "2026-03-26-improving-composer-through-real-time-rl.html",
+      "path": "posts/2026-03-26-improving-composer-through-real-time-rl.html",
+      "date_iso": "2026-03-26T16:48:12+00:00",
+      "source": "https://cursor.com/blog/real-time-rl-for-composer",
+      "summary": "Article URL: https://cursor.com/blog/real-time-rl-for-composer Comments URL: https://news.ycombinator.com/item?id=47532770 Points: 77 # Comments: 19"
     },
     {
       "id": "https://news.ycombinator.com/item?id=47532339",
