@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47560768",
+      "title": "Shipment of KitKat bars stolen en route from Italy to Poland",
+      "slug": "2026-03-29-shipment-of-kitkat-bars-stolen-en-route-from-italy-to-poland.html",
+      "path": "posts/2026-03-29-shipment-of-kitkat-bars-stolen-en-route-from-italy-to-poland.html",
+      "date_iso": "2026-03-29T06:03:30+00:00",
+      "source": "https://apnews.com/article/nestle-switzerland-candy-bar-stolen-kitkat-51073cce27a0e193651aa7f31aaa506e",
+      "summary": "Article URL: https://apnews.com/article/nestle-switzerland-candy-bar-stolen-kitkat-51073cce27a0e193651aa7f31aaa506e Comments URL: https://news.ycombinator.com/item?id=47560768 Points: 29 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47560380",
+      "title": "OpenYak – An open-source Cowork that runs any model and owns your filesystem",
+      "slug": "2026-03-29-openyak-an-open-source-cowork-that-runs-any-model-and-owns-your-filesystem.html",
+      "path": "posts/2026-03-29-openyak-an-open-source-cowork-that-runs-any-model-and-owns-your-filesystem.html",
+      "date_iso": "2026-03-29T04:26:13+00:00",
+      "source": "https://github.com/openyak/desktop",
+      "summary": "Article URL: https://github.com/openyak/desktop Comments URL: https://news.ycombinator.com/item?id=47560380 Points: 73 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47559481",
+      "title": "Alzheimer's disease mortality among taxi and ambulance drivers (2024)",
+      "slug": "2026-03-29-alzheimer-s-disease-mortality-among-taxi-and-ambulance-drivers-2024.html",
+      "path": "posts/2026-03-29-alzheimer-s-disease-mortality-among-taxi-and-ambulance-drivers-2024.html",
+      "date_iso": "2026-03-29T00:53:30+00:00",
+      "source": "https://www.bmj.com/content/387/bmj-2024-082194",
+      "summary": "Article URL: https://www.bmj.com/content/387/bmj-2024-082194 Comments URL: https://news.ycombinator.com/item?id=47559481 Points: 105 # Comments: 57"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47559026",
+      "title": "Attie.ai",
+      "slug": "2026-03-28-attie-ai.html",
+      "path": "posts/2026-03-28-attie-ai.html",
+      "date_iso": "2026-03-28T23:33:42+00:00",
+      "source": "https://attie.ai/login",
+      "summary": "Article URL: https://attie.ai/login Comments URL: https://news.ycombinator.com/item?id=47559026 Points: 6 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47558997",
+      "title": "South Korea Mandates Solar Panels for Public Parking Lots",
+      "slug": "2026-03-28-south-korea-mandates-solar-panels-for-public-parking-lots.html",
+      "path": "posts/2026-03-28-south-korea-mandates-solar-panels-for-public-parking-lots.html",
+      "date_iso": "2026-03-28T23:29:04+00:00",
+      "source": "https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ",
+      "summary": "Article URL: https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ Comments URL: https://news.ycombinator.com/item?id=47558997 Points: 280 # Comments: 153"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47558782",
+      "title": "Sealing Paper Packaging Without Adhesives",
+      "slug": "2026-03-28-sealing-paper-packaging-without-adhesives.html",
+      "path": "posts/2026-03-28-sealing-paper-packaging-without-adhesives.html",
+      "date_iso": "2026-03-28T22:50:49+00:00",
+      "source": "https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html",
+      "summary": "Article URL: https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html Comments URL: https://news.ycombinator.com/item?id=47558782 Points: 66 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47558305",
+      "title": "InpharmD (YC W21) Is Hiring – Senior Ruby on Rails Developer",
+      "slug": "2026-03-28-inpharmd-yc-w21-is-hiring-senior-ruby-on-rails-developer.html",
+      "path": "posts/2026-03-28-inpharmd-yc-w21-is-hiring-senior-ruby-on-rails-developer.html",
+      "date_iso": "2026-03-28T21:35:22+00:00",
+      "source": "https://inpharmd.com/jobs/senior-ruby-on-rails-engineer",
+      "summary": "Article URL: https://inpharmd.com/jobs/senior-ruby-on-rails-engineer Comments URL: https://news.ycombinator.com/item?id=47558305 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47557960",
+      "title": "CSS is DOOMed",
+      "slug": "2026-03-28-css-is-doomed.html",
+      "path": "posts/2026-03-28-css-is-doomed.html",
+      "date_iso": "2026-03-28T20:39:01+00:00",
+      "source": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
+      "summary": "https://cssdoom.wtf/ Comments URL: https://news.ycombinator.com/item?id=47557960 Points: 290 # Comments: 66"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47557901",
+      "title": "Android’s new sideload settings will carry over to new devices",
+      "slug": "2026-03-28-android-s-new-sideload-settings-will-carry-over-to-new-devices.html",
+      "path": "posts/2026-03-28-android-s-new-sideload-settings-will-carry-over-to-new-devices.html",
+      "date_iso": "2026-03-28T20:28:03+00:00",
+      "source": "https://www.androidauthority.com/android-sideload-carry-over-3652845/",
+      "summary": "Article URL: https://www.androidauthority.com/android-sideload-carry-over-3652845/ Comments URL: https://news.ycombinator.com/item?id=47557901 Points: 79 # Comments: 106"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/28/magazine/neal-mohan-interview.html",
+      "title": "What Is YouTube’s Dominance Doing to Us? We Asked Its C.E.O.",
+      "slug": "2026-03-28-what-is-youtube-s-dominance-doing-to-us-we-asked-its-c-e-o.html",
+      "path": "posts/2026-03-28-what-is-youtube-s-dominance-doing-to-us-we-asked-its-c-e-o.html",
+      "date_iso": "2026-03-28T18:51:42+00:00",
+      "source": "https://www.nytimes.com/2026/03/28/magazine/neal-mohan-interview.html",
+      "summary": "Neal Mohan on A.I. slop, parental controls and his platform’s impact on our lives."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47557185",
+      "title": "The first 40 months of the AI era",
+      "slug": "2026-03-28-the-first-40-months-of-the-ai-era.html",
+      "path": "posts/2026-03-28-the-first-40-months-of-the-ai-era.html",
+      "date_iso": "2026-03-28T18:42:08+00:00",
+      "source": "https://lzon.ca/posts/other/thoughts-ai-era/",
+      "summary": "Article URL: https://lzon.ca/posts/other/thoughts-ai-era/ Comments URL: https://news.ycombinator.com/item?id=47557185 Points: 169 # Comments: 88"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47557166",
+      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+      "slug": "2026-03-28-further-human-ai-proof-assistant-work-on-knuth-s-claude-cycles-problem.html",
+      "path": "posts/2026-03-28-further-human-ai-proof-assistant-work-on-knuth-s-claude-cycles-problem.html",
+      "date_iso": "2026-03-28T18:38:59+00:00",
+      "source": "https://twitter.com/BoWang87/status/2037648937453232504",
+      "summary": "Knuth Claude's Cycles note update: problem now fully solved, by LLMs - https://news.ycombinator.com/item?id=47306926 - March 2026 (2 comments) https://chatgpt.com/share/69aaab4b-888c-8003-9a02-d1df80f9c7... Claude's Cycles [pdf] - https://news.ycombinator.com/item?id=47230710 -…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47557064",
+      "title": "OpenCiv1 – open-source rewrite of Civ1",
+      "slug": "2026-03-28-openciv1-open-source-rewrite-of-civ1.html",
+      "path": "posts/2026-03-28-openciv1-open-source-rewrite-of-civ1.html",
+      "date_iso": "2026-03-28T18:22:45+00:00",
+      "source": "https://github.com/rajko-horvat/OpenCiv1",
+      "summary": "Article URL: https://github.com/rajko-horvat/OpenCiv1 Comments URL: https://news.ycombinator.com/item?id=47557064 Points: 135 # Comments: 38"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47556729",
+      "title": "Founder of GitLab battles cancer by founding companies",
+      "slug": "2026-03-28-founder-of-gitlab-battles-cancer-by-founding-companies.html",
+      "path": "posts/2026-03-28-founder-of-gitlab-battles-cancer-by-founding-companies.html",
+      "date_iso": "2026-03-28T17:39:49+00:00",
+      "source": "https://sytse.com/cancer/",
+      "summary": "Article URL: https://sytse.com/cancer/ Comments URL: https://news.ycombinator.com/item?id=47556729 Points: 929 # Comments: 194"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47556359",
+      "title": "Linux is an interpreter",
+      "slug": "2026-03-28-linux-is-an-interpreter.html",
+      "path": "posts/2026-03-28-linux-is-an-interpreter.html",
+      "date_iso": "2026-03-28T16:59:34+00:00",
+      "source": "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/",
+      "summary": "Article URL: https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/ Comments URL: https://news.ycombinator.com/item?id=47556359 Points: 195 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47556267",
+      "title": "Undroidwish – A single-file, batteries-included Tcl/Tk binary for many platforms",
+      "slug": "2026-03-28-undroidwish-a-single-file-batteries-included-tcl-tk-binary-for-many-platforms.html",
+      "path": "posts/2026-03-28-undroidwish-a-single-file-batteries-included-tcl-tk-binary-for-many-platforms.html",
+      "date_iso": "2026-03-28T16:49:46+00:00",
+      "source": "https://androwish.org/home/wiki?name=undroidwish",
+      "summary": "Article URL: https://androwish.org/home/wiki?name=undroidwish Comments URL: https://news.ycombinator.com/item?id=47556267 Points: 73 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47555556",
+      "title": "I decompiled the White House's new app",
+      "slug": "2026-03-28-i-decompiled-the-white-house-s-new-app.html",
+      "path": "posts/2026-03-28-i-decompiled-the-white-house-s-new-app.html",
+      "date_iso": "2026-03-28T15:37:17+00:00",
+      "source": "https://thereallo.dev/blog/decompiling-the-white-house-app",
+      "summary": "Article URL: https://thereallo.dev/blog/decompiling-the-white-house-app Comments URL: https://news.ycombinator.com/item?id=47555556 Points: 491 # Comments: 186"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47554773",
+      "title": "AI overly affirms users asking for personal advice",
+      "slug": "2026-03-28-ai-overly-affirms-users-asking-for-personal-advice.html",
+      "path": "posts/2026-03-28-ai-overly-affirms-users-asking-for-personal-advice.html",
+      "date_iso": "2026-03-28T14:08:33+00:00",
+      "source": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "summary": "https://arxiv.org/abs/2602.14270 https://www.science.org/doi/10.1126/science.aec8352 Comments URL: https://news.ycombinator.com/item?id=47554773 Points: 614 # Comments: 459"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47553798",
+      "title": "Spanish legislation as a Git repo",
+      "slug": "2026-03-28-spanish-legislation-as-a-git-repo.html",
+      "path": "posts/2026-03-28-spanish-legislation-as-a-git-repo.html",
+      "date_iso": "2026-03-28T12:01:27+00:00",
+      "source": "https://github.com/EnriqueLop/legalize-es",
+      "summary": "Article URL: https://github.com/EnriqueLop/legalize-es Comments URL: https://news.ycombinator.com/item?id=47553798 Points: 722 # Comments: 218"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47553796",
+      "title": "Toma (YC W24) is hiring a Senior/Staff Eng to build AI automotive coworkers",
+      "slug": "2026-03-28-toma-yc-w24-is-hiring-a-senior-staff-eng-to-build-ai-automotive-coworkers.html",
+      "path": "posts/2026-03-28-toma-yc-w24-is-hiring-a-senior-staff-eng-to-build-ai-automotive-coworkers.html",
+      "date_iso": "2026-03-28T12:01:07+00:00",
+      "source": "https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer Comments URL: https://news.ycombinator.com/item?id=47553796 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47553717",
+      "title": "I Built an Open-World Engine for the N64 [video]",
+      "slug": "2026-03-28-i-built-an-open-world-engine-for-the-n64-video.html",
+      "path": "posts/2026-03-28-i-built-an-open-world-engine-for-the-n64-video.html",
+      "date_iso": "2026-03-28T11:49:28+00:00",
+      "source": "https://www.youtube.com/watch?v=lXxmIw9axWw",
+      "summary": "Article URL: https://www.youtube.com/watch?v=lXxmIw9axWw Comments URL: https://news.ycombinator.com/item?id=47553717 Points: 382 # Comments: 65"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47552059",
       "title": "Stop Calling Every AI Miss a Hallucination",
       "slug": "2026-03-28-stop-calling-every-ai-miss-a-hallucination.html",
