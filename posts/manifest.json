@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47571495",
+      "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
+      "slug": "2026-03-30-hamilton-jacobi-bellman-equation-reinforcement-learning-and-diffusion-models.html",
+      "path": "posts/2026-03-30-hamilton-jacobi-bellman-equation-reinforcement-learning-and-diffusion-models.html",
+      "date_iso": "2026-03-30T07:34:04+00:00",
+      "source": "https://dani2442.github.io/posts/continuous-rl/",
+      "summary": "Article URL: https://dani2442.github.io/posts/continuous-rl/ Comments URL: https://news.ycombinator.com/item?id=47571495 Points: 12 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47571376",
+      "title": "I use excalidraw to manage my diagrams for my blog",
+      "slug": "2026-03-30-i-use-excalidraw-to-manage-my-diagrams-for-my-blog.html",
+      "path": "posts/2026-03-30-i-use-excalidraw-to-manage-my-diagrams-for-my-blog.html",
+      "date_iso": "2026-03-30T07:17:06+00:00",
+      "source": "https://blog.lysk.tech/excalidraw-frame-export/",
+      "summary": "Article URL: https://blog.lysk.tech/excalidraw-frame-export/ Comments URL: https://news.ycombinator.com/item?id=47571376 Points: 19 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47571279",
+      "title": "I am definitely missing the pre-AI writing era",
+      "slug": "2026-03-30-i-am-definitely-missing-the-pre-ai-writing-era.html",
+      "path": "posts/2026-03-30-i-am-definitely-missing-the-pre-ai-writing-era.html",
+      "date_iso": "2026-03-30T07:03:18+00:00",
+      "source": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era",
+      "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 19 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47571064",
+      "title": "AI and bots have officially taken over the internet",
+      "slug": "2026-03-30-ai-and-bots-have-officially-taken-over-the-internet.html",
+      "path": "posts/2026-03-30-ai-and-bots-have-officially-taken-over-the-internet.html",
+      "date_iso": "2026-03-30T06:29:17+00:00",
+      "source": "https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html Comments URL: https://news.ycombinator.com/item?id=47571064 Points: 18 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47570940",
+      "title": "15 years, one server, 8GB RAM and 500k users – how Webminal refuses to die",
+      "slug": "2026-03-30-15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die.html",
+      "path": "posts/2026-03-30-15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die.html",
+      "date_iso": "2026-03-30T06:08:53+00:00",
+      "source": "https://community.webminal.org/t/15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die/8803",
+      "summary": "Article URL: https://community.webminal.org/t/15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die/8803 Comments URL: https://news.ycombinator.com/item?id=47570940 Points: 59 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47570666",
+      "title": "The curious case of retro demo scene graphics",
+      "slug": "2026-03-30-the-curious-case-of-retro-demo-scene-graphics.html",
+      "path": "posts/2026-03-30-the-curious-case-of-retro-demo-scene-graphics.html",
+      "date_iso": "2026-03-30T05:27:18+00:00",
+      "source": "https://www.datagubbe.se/aipixels/",
+      "summary": "Article URL: https://www.datagubbe.se/aipixels/ Comments URL: https://news.ycombinator.com/item?id=47570666 Points: 102 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47570547",
+      "title": "HD Audio Driver for Windows 98SE / Me",
+      "slug": "2026-03-30-hd-audio-driver-for-windows-98se-me.html",
+      "path": "posts/2026-03-30-hd-audio-driver-for-windows-98se-me.html",
+      "date_iso": "2026-03-30T05:01:07+00:00",
+      "source": "https://github.com/andrew-hoffman/wdmhda",
+      "summary": "Article URL: https://github.com/andrew-hoffman/wdmhda Comments URL: https://news.ycombinator.com/item?id=47570547 Points: 36 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47570435",
+      "title": "VHDL's Crown Jewel",
+      "slug": "2026-03-30-vhdl-s-crown-jewel.html",
+      "path": "posts/2026-03-30-vhdl-s-crown-jewel.html",
+      "date_iso": "2026-03-30T04:39:15+00:00",
+      "source": "https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/",
+      "summary": "Article URL: https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/ Comments URL: https://news.ycombinator.com/item?id=47570435 Points: 42 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47570269",
+      "title": "Copilot edited an ad into my PR",
+      "slug": "2026-03-30-copilot-edited-an-ad-into-my-pr.html",
+      "path": "posts/2026-03-30-copilot-edited-an-ad-into-my-pr.html",
+      "date_iso": "2026-03-30T04:04:31+00:00",
+      "source": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
+      "summary": "Article URL: https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/ Comments URL: https://news.ycombinator.com/item?id=47570269 Points: 427 # Comments: 140"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47569471",
+      "title": "Philly courts will ban all smart eyeglasses starting next week",
+      "slug": "2026-03-30-philly-courts-will-ban-all-smart-eyeglasses-starting-next-week.html",
+      "path": "posts/2026-03-30-philly-courts-will-ban-all-smart-eyeglasses-starting-next-week.html",
+      "date_iso": "2026-03-30T01:38:17+00:00",
+      "source": "https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html",
+      "summary": "Article URL: https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html Comments URL: https://news.ycombinator.com/item?id=47569471 Points: 217 # Comments: 77"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47568028",
+      "title": "Coding Agents Could Make Free Software Matter Again",
+      "slug": "2026-03-29-coding-agents-could-make-free-software-matter-again.html",
+      "path": "posts/2026-03-29-coding-agents-could-make-free-software-matter-again.html",
+      "date_iso": "2026-03-29T22:21:34+00:00",
+      "source": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
+      "summary": "Article URL: https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/ Comments URL: https://news.ycombinator.com/item?id=47568028 Points: 161 # Comments: 151"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47567969",
+      "title": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins",
+      "slug": "2026-03-29-claude-code-runs-git-reset-hard-origin-main-against-project-repo-every-10-mins.html",
+      "path": "posts/2026-03-29-claude-code-runs-git-reset-hard-origin-main-against-project-repo-every-10-mins.html",
+      "date_iso": "2026-03-29T22:15:06+00:00",
+      "source": "https://github.com/anthropics/claude-code/issues/40710",
+      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/40710 Comments URL: https://news.ycombinator.com/item?id=47567969 Points: 242 # Comments: 177"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47566960",
+      "title": "The road signs that teach travellers about France",
+      "slug": "2026-03-29-the-road-signs-that-teach-travellers-about-france.html",
+      "path": "posts/2026-03-29-the-road-signs-that-teach-travellers-about-france.html",
+      "date_iso": "2026-03-29T20:30:02+00:00",
+      "source": "https://www.bbc.com/travel/article/20260327-the-road-signs-that-teach-travellers-about-france",
+      "summary": "Article URL: https://www.bbc.com/travel/article/20260327-the-road-signs-that-teach-travellers-about-france Comments URL: https://news.ycombinator.com/item?id=47566960 Points: 94 # Comments: 45"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47566865",
+      "title": "ChatGPT won't let you type until Cloudflare reads your React state",
+      "slug": "2026-03-29-chatgpt-won-t-let-you-type-until-cloudflare-reads-your-react-state.html",
+      "path": "posts/2026-03-29-chatgpt-won-t-let-you-type-until-cloudflare-reads-your-react-state.html",
+      "date_iso": "2026-03-29T20:21:05+00:00",
+      "source": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
+      "summary": "Article URL: https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/ Comments URL: https://news.ycombinator.com/item?id=47566865 Points: 582 # Comments: 374"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47566653",
+      "title": "Midnight train from GA: A view of America from the tracks as airports struggle",
+      "slug": "2026-03-29-midnight-train-from-ga-a-view-of-america-from-the-tracks-as-airports-struggle.html",
+      "path": "posts/2026-03-29-midnight-train-from-ga-a-view-of-america-from-the-tracks-as-airports-struggle.html",
+      "date_iso": "2026-03-29T20:00:02+00:00",
+      "source": "https://apnews.com/article/airports-shutdown-long-lines-train-travel-amtrak-e4d8ea591b3b036142c2bf2dee7dff5a",
+      "summary": "Article URL: https://apnews.com/article/airports-shutdown-long-lines-train-travel-amtrak-e4d8ea591b3b036142c2bf2dee7dff5a Comments URL: https://news.ycombinator.com/item?id=47566653 Points: 88 # Comments: 76"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47566442",
+      "title": "The Cognitive Dark Forest",
+      "slug": "2026-03-29-the-cognitive-dark-forest.html",
+      "path": "posts/2026-03-29-the-cognitive-dark-forest.html",
+      "date_iso": "2026-03-29T19:36:21+00:00",
+      "source": "https://ryelang.org/blog/posts/cognitive-dark-forest/",
+      "summary": "Article URL: https://ryelang.org/blog/posts/cognitive-dark-forest/ Comments URL: https://news.ycombinator.com/item?id=47566442 Points: 412 # Comments: 184"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47566143",
+      "title": "My MacBook keyboard is broken and it's insanely expensive to fix",
+      "slug": "2026-03-29-my-macbook-keyboard-is-broken-and-it-s-insanely-expensive-to-fix.html",
+      "path": "posts/2026-03-29-my-macbook-keyboard-is-broken-and-it-s-insanely-expensive-to-fix.html",
+      "date_iso": "2026-03-29T19:08:20+00:00",
+      "source": "https://tobiasberg.net/posts/my-macbook-keyboard-is-broken-and-its-insanely-expensive-to-fix/",
+      "summary": "Article URL: https://tobiasberg.net/posts/my-macbook-keyboard-is-broken-and-its-insanely-expensive-to-fix/ Comments URL: https://news.ycombinator.com/item?id=47566143 Points: 168 # Comments: 196"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47565365",
+      "title": "C++26 is done: ISO C++ standards meeting Trip Report",
+      "slug": "2026-03-29-c-26-is-done-iso-c-standards-meeting-trip-report.html",
+      "path": "posts/2026-03-29-c-26-is-done-iso-c-standards-meeting-trip-report.html",
+      "date_iso": "2026-03-29T17:46:12+00:00",
+      "source": "https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/",
+      "summary": "Article URL: https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/ Comments URL: https://news.ycombinator.com/item?id=47565365 Points: 224 # Comments: 183"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47564421",
+      "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
+      "slug": "2026-03-29-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder.html",
+      "path": "posts/2026-03-29-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder.html",
+      "date_iso": "2026-03-29T16:12:22+00:00",
+      "source": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
+      "summary": "Article URL: https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/ Comments URL: https://news.ycombinator.com/item?id=47564421 Points: 512 # Comments: 196"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/29/technology/chromebook-remorse-kansas-school-laptops.html",
+      "title": "Chromebook Remorse: Tech Backlash at Schools Extends Beyond Phones",
+      "slug": "2026-03-29-chromebook-remorse-tech-backlash-at-schools-extends-beyond-phones.html",
+      "path": "posts/2026-03-29-chromebook-remorse-tech-backlash-at-schools-extends-beyond-phones.html",
+      "date_iso": "2026-03-29T16:04:03+00:00",
+      "source": "https://www.nytimes.com/2026/03/29/technology/chromebook-remorse-kansas-school-laptops.html",
+      "summary": "No more YouTube or video games on school laptops. Textbooks and pencils are back. Some seventh graders say they prefer learning offline."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47560768",
       "title": "Shipment of KitKat bars stolen en route from Italy to Poland",
       "slug": "2026-03-29-shipment-of-kitkat-bars-stolen-en-route-from-italy-to-poland.html",
@@ -8,6 +188,15 @@
       "date_iso": "2026-03-29T06:03:30+00:00",
       "source": "https://apnews.com/article/nestle-switzerland-candy-bar-stolen-kitkat-51073cce27a0e193651aa7f31aaa506e",
       "summary": "Article URL: https://apnews.com/article/nestle-switzerland-candy-bar-stolen-kitkat-51073cce27a0e193651aa7f31aaa506e Comments URL: https://news.ycombinator.com/item?id=47560768 Points: 29 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47560724",
+      "title": "Moretti replication published in AER",
+      "slug": "2026-03-29-moretti-replication-published-in-aer.html",
+      "path": "posts/2026-03-29-moretti-replication-published-in-aer.html",
+      "date_iso": "2026-03-29T05:54:47+00:00",
+      "source": "https://blog.michaelwiebe.com/p/moretti-replication-published-in",
+      "summary": "Article URL: https://blog.michaelwiebe.com/p/moretti-replication-published-in Comments URL: https://news.ycombinator.com/item?id=47560724 Points: 8 # Comments: 0"
     },
     {
       "id": "https://news.ycombinator.com/item?id=47560380",
