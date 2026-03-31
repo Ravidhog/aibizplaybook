@@ -1,6 +1,222 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47583712",
+      "title": "RamAIn (YC W26) Is Hiring",
+      "slug": "2026-03-31-ramain-yc-w26-is-hiring.html",
+      "path": "posts/2026-03-31-ramain-yc-w26-is-hiring.html",
+      "date_iso": "2026-03-31T07:01:15+00:00",
+      "source": "https://www.ycombinator.com/companies/ramain/jobs/jezgwo5-ai-ml-research-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/ramain/jobs/jezgwo5-ai-ml-research-engineer Comments URL: https://news.ycombinator.com/item?id=47583712 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47583045",
+      "title": "Google's 200M-parameter time-series foundation model with 16k context",
+      "slug": "2026-03-31-google-s-200m-parameter-time-series-foundation-model-with-16k-context.html",
+      "path": "posts/2026-03-31-google-s-200m-parameter-time-series-foundation-model-with-16k-context.html",
+      "date_iso": "2026-03-31T05:21:59+00:00",
+      "source": "https://github.com/google-research/timesfm",
+      "summary": "Article URL: https://github.com/google-research/timesfm Comments URL: https://news.ycombinator.com/item?id=47583045 Points: 83 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47582990",
+      "title": "Sony halts memory card shipments due to NAND shortage",
+      "slug": "2026-03-31-sony-halts-memory-card-shipments-due-to-nand-shortage.html",
+      "path": "posts/2026-03-31-sony-halts-memory-card-shipments-due-to-nand-shortage.html",
+      "date_iso": "2026-03-31T05:12:35+00:00",
+      "source": "https://www.techzine.eu/news/devices/140058/sony-halts-memory-card-shipments-due-to-nand-shortage/",
+      "summary": "Article URL: https://www.techzine.eu/news/devices/140058/sony-halts-memory-card-shipments-due-to-nand-shortage/ Comments URL: https://news.ycombinator.com/item?id=47582990 Points: 39 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47582984",
+      "title": "GitHub backs down, kills Copilot pull-request ads after backlash",
+      "slug": "2026-03-31-github-backs-down-kills-copilot-pull-request-ads-after-backlash.html",
+      "path": "posts/2026-03-31-github-backs-down-kills-copilot-pull-request-ads-after-backlash.html",
+      "date_iso": "2026-03-31T05:11:24+00:00",
+      "source": "https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/",
+      "summary": "Article URL: https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/ Comments URL: https://news.ycombinator.com/item?id=47582984 Points: 126 # Comments: 68"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47582482",
+      "title": "Ollama is now powered by MLX on Apple Silicon in preview",
+      "slug": "2026-03-31-ollama-is-now-powered-by-mlx-on-apple-silicon-in-preview.html",
+      "path": "posts/2026-03-31-ollama-is-now-powered-by-mlx-on-apple-silicon-in-preview.html",
+      "date_iso": "2026-03-31T03:40:45+00:00",
+      "source": "https://ollama.com/blog/mlx",
+      "summary": "Article URL: https://ollama.com/blog/mlx Comments URL: https://news.ycombinator.com/item?id=47582482 Points: 188 # Comments: 77"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47582220",
+      "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
+      "slug": "2026-03-31-axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan.html",
+      "path": "posts/2026-03-31-axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan.html",
+      "date_iso": "2026-03-31T02:54:17+00:00",
+      "source": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+      "summary": "Article URL: https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan Comments URL: https://news.ycombinator.com/item?id=47582220 Points: 618 # Comments: 185"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/30/business/lawmakers-probe-elon-musk-treasury.html",
+      "title": "Democrats Examine Elon Musk’s Role in Suspension of Business Disclosure Law",
+      "slug": "2026-03-31-democrats-examine-elon-musk-s-role-in-suspension-of-business-disclosure-law.html",
+      "path": "posts/2026-03-31-democrats-examine-elon-musk-s-role-in-suspension-of-business-disclosure-law.html",
+      "date_iso": "2026-03-31T02:36:38+00:00",
+      "source": "https://www.nytimes.com/2026/03/30/business/lawmakers-probe-elon-musk-treasury.html",
+      "summary": "Elon Musk was a top adviser to President Trump when the administration announced last year that it would stop enforcing the Corporate Transparency Act."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47582056",
+      "title": "Mr. Chatterbox is a Victorian-era ethically trained model",
+      "slug": "2026-03-31-mr-chatterbox-is-a-victorian-era-ethically-trained-model.html",
+      "path": "posts/2026-03-31-mr-chatterbox-is-a-victorian-era-ethically-trained-model.html",
+      "date_iso": "2026-03-31T02:26:15+00:00",
+      "source": "https://simonwillison.net/2026/Mar/30/mr-chatterbox/",
+      "summary": "Article URL: https://simonwillison.net/2026/Mar/30/mr-chatterbox/ Comments URL: https://news.ycombinator.com/item?id=47582056 Points: 34 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47582043",
+      "title": "Artemis II is not safe to fly",
+      "slug": "2026-03-31-artemis-ii-is-not-safe-to-fly.html",
+      "path": "posts/2026-03-31-artemis-ii-is-not-safe-to-fly.html",
+      "date_iso": "2026-03-31T02:23:50+00:00",
+      "source": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
+      "summary": "Article URL: https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm Comments URL: https://news.ycombinator.com/item?id=47582043 Points: 256 # Comments: 157"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47581721",
+      "title": "Incident March 30th, 2026 – Accidental CDN Caching",
+      "slug": "2026-03-31-incident-march-30th-2026-accidental-cdn-caching.html",
+      "path": "posts/2026-03-31-incident-march-30th-2026-accidental-cdn-caching.html",
+      "date_iso": "2026-03-31T01:28:18+00:00",
+      "source": "https://blog.railway.com/p/incident-report-march-30-2026-accidental-cdn-caching",
+      "summary": "Article URL: https://blog.railway.com/p/incident-report-march-30-2026-accidental-cdn-caching Comments URL: https://news.ycombinator.com/item?id=47581721 Points: 48 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47581701",
+      "title": "Universal Claude.md – cut Claude output tokens",
+      "slug": "2026-03-31-universal-claude-md-cut-claude-output-tokens.html",
+      "path": "posts/2026-03-31-universal-claude-md-cut-claude-output-tokens.html",
+      "date_iso": "2026-03-31T01:23:34+00:00",
+      "source": "https://github.com/drona23/claude-token-efficient",
+      "summary": "Article URL: https://github.com/drona23/claude-token-efficient Comments URL: https://news.ycombinator.com/item?id=47581701 Points: 274 # Comments: 102"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/30/technology/california-ai-executive-order.html",
+      "title": "What to Know About California’s Executive Order on A.I.",
+      "slug": "2026-03-31-what-to-know-about-california-s-executive-order-on-a-i.html",
+      "path": "posts/2026-03-31-what-to-know-about-california-s-executive-order-on-a-i.html",
+      "date_iso": "2026-03-31T00:39:15+00:00",
+      "source": "https://www.nytimes.com/2026/03/30/technology/california-ai-executive-order.html",
+      "summary": "Gov. Gavin Newsom. California has been a leader in tech lawmaking, and was the first state to pass a law mandating safety and transparency from the biggest A.I. companies."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47580910",
+      "title": "Show HN: I turned a sketch into a 3D-print pegboard for my kid with an AI agent",
+      "slug": "2026-03-30-show-hn-i-turned-a-sketch-into-a-3d-print-pegboard-for-my-kid-with-an-ai-agent.html",
+      "path": "posts/2026-03-30-show-hn-i-turned-a-sketch-into-a-3d-print-pegboard-for-my-kid-with-an-ai-agent.html",
+      "date_iso": "2026-03-30T23:20:02+00:00",
+      "source": "https://github.com/virpo/pegboard",
+      "summary": "We have pegboards and plywood all over our apartment, and I had an idea to make a tiny pegboard for my kid, Oli. So I naturally cut the wood, drilled in the holes, sat down at the computer to open Fusion 360 and spend an hour or two drawing the pieces by hand. Then I looked at t…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47580297",
+      "title": "Android Developer Verification",
+      "slug": "2026-03-30-android-developer-verification.html",
+      "path": "posts/2026-03-30-android-developer-verification.html",
+      "date_iso": "2026-03-30T22:05:21+00:00",
+      "source": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
+      "summary": "Article URL: https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html Comments URL: https://news.ycombinator.com/item?id=47580297 Points: 236 # Comments: 225"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/30/technology/trump-states-ai-gavin-newsom-california.html",
+      "title": "States Plow Ahead With A.I. Regulation, Defying Trump",
+      "slug": "2026-03-30-states-plow-ahead-with-a-i-regulation-defying-trump.html",
+      "path": "posts/2026-03-30-states-plow-ahead-with-a-i-regulation-defying-trump.html",
+      "date_iso": "2026-03-30T22:03:22+00:00",
+      "source": "https://www.nytimes.com/2026/03/30/technology/trump-states-ai-gavin-newsom-california.html",
+      "summary": "States ranging from California to Utah are taking steps to place guardrails on the technology even after the president ordered them to stop."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47579754",
+      "title": "OpenGridWorks: The Electricity Infrasctructure, Mapped",
+      "slug": "2026-03-30-opengridworks-the-electricity-infrasctructure-mapped.html",
+      "path": "posts/2026-03-30-opengridworks-the-electricity-infrasctructure-mapped.html",
+      "date_iso": "2026-03-30T21:12:46+00:00",
+      "source": "https://www.opengridworks.com",
+      "summary": "Article URL: https://www.opengridworks.com Comments URL: https://news.ycombinator.com/item?id=47579754 Points: 101 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47578855",
+      "title": "Car Seats as Contraception",
+      "slug": "2026-03-30-car-seats-as-contraception.html",
+      "path": "posts/2026-03-30-car-seats-as-contraception.html",
+      "date_iso": "2026-03-30T19:47:42+00:00",
+      "source": "https://www.journals.uchicago.edu/doi/abs/10.1086/731812",
+      "summary": "Article URL: https://www.journals.uchicago.edu/doi/abs/10.1086/731812 Comments URL: https://news.ycombinator.com/item?id=47578855 Points: 51 # Comments: 71"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47578572",
+      "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
+      "slug": "2026-03-30-turning-a-macbook-into-a-touchscreen-with-1-of-hardware-2018.html",
+      "path": "posts/2026-03-30-turning-a-macbook-into-a-touchscreen-with-1-of-hardware-2018.html",
+      "date_iso": "2026-03-30T19:22:33+00:00",
+      "source": "https://anishathalye.com/macbook-touchscreen/",
+      "summary": "Article URL: https://anishathalye.com/macbook-touchscreen/ Comments URL: https://news.ycombinator.com/item?id=47578572 Points: 301 # Comments: 136"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47578086",
+      "title": "Vulnerability research is cooked",
+      "slug": "2026-03-30-vulnerability-research-is-cooked.html",
+      "path": "posts/2026-03-30-vulnerability-research-is-cooked.html",
+      "date_iso": "2026-03-30T18:43:38+00:00",
+      "source": "https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/",
+      "summary": "Article URL: https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/ Comments URL: https://news.ycombinator.com/item?id=47578086 Points: 169 # Comments: 112"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47577761",
+      "title": "Fedware: Government apps that spy harder than the apps they ban",
+      "slug": "2026-03-30-fedware-government-apps-that-spy-harder-than-the-apps-they-ban.html",
+      "path": "posts/2026-03-30-fedware-government-apps-that-spy-harder-than-the-apps-they-ban.html",
+      "date_iso": "2026-03-30T18:16:00+00:00",
+      "source": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
+      "summary": "Article URL: https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/ Comments URL: https://news.ycombinator.com/item?id=47577761 Points: 545 # Comments: 176"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/30/technology/sec-crypto-friendly-rules.html",
+      "title": "From Foe to Ally: The S.E.C. Is Now Writing Crypto-Friendly Policies",
+      "slug": "2026-03-30-from-foe-to-ally-the-s-e-c-is-now-writing-crypto-friendly-policies.html",
+      "path": "posts/2026-03-30-from-foe-to-ally-the-s-e-c-is-now-writing-crypto-friendly-policies.html",
+      "date_iso": "2026-03-30T15:28:31+00:00",
+      "source": "https://www.nytimes.com/2026/03/30/technology/sec-crypto-friendly-rules.html",
+      "summary": "The embrace of crypto by financial regulators under President Trump has entered a new, cozier phase."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47575403",
+      "title": "CodingFont: A game to help you pick a coding font",
+      "slug": "2026-03-30-codingfont-a-game-to-help-you-pick-a-coding-font.html",
+      "path": "posts/2026-03-30-codingfont-a-game-to-help-you-pick-a-coding-font.html",
+      "date_iso": "2026-03-30T15:16:35+00:00",
+      "source": "https://www.codingfont.com/",
+      "summary": "Article URL: https://www.codingfont.com/ Comments URL: https://news.ycombinator.com/item?id=47575403 Points: 402 # Comments: 200"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47574034",
+      "title": "How to turn anything into a router",
+      "slug": "2026-03-30-how-to-turn-anything-into-a-router.html",
+      "path": "posts/2026-03-30-how-to-turn-anything-into-a-router.html",
+      "date_iso": "2026-03-30T13:28:54+00:00",
+      "source": "https://nbailey.ca/post/router/",
+      "summary": "Article URL: https://nbailey.ca/post/router/ Comments URL: https://news.ycombinator.com/item?id=47574034 Points: 661 # Comments: 229"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47573887",
+      "title": "Bird brains (2023)",
+      "slug": "2026-03-30-bird-brains-2023.html",
+      "path": "posts/2026-03-30-bird-brains-2023.html",
+      "date_iso": "2026-03-30T13:14:27+00:00",
+      "source": "https://www.dhanishsemar.com/writing/bird-brains",
+      "summary": "Article URL: https://www.dhanishsemar.com/writing/bird-brains Comments URL: https://news.ycombinator.com/item?id=47573887 Points: 315 # Comments: 198"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47571495",
       "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
       "slug": "2026-03-30-hamilton-jacobi-bellman-equation-reinforcement-learning-and-diffusion-models.html",
