@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47597935",
+      "title": "CERN levels up with new superconducting karts",
+      "slug": "2026-04-01-cern-levels-up-with-new-superconducting-karts.html",
+      "path": "posts/2026-04-01-cern-levels-up-with-new-superconducting-karts.html",
+      "date_iso": "2026-04-01T07:27:13+00:00",
+      "source": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
+      "summary": "Article URL: https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts Comments URL: https://news.ycombinator.com/item?id=47597935 Points: 26 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47597908",
+      "title": "Remembering Magnetic Memories and the Apollo AGC",
+      "slug": "2026-04-01-remembering-magnetic-memories-and-the-apollo-agc.html",
+      "path": "posts/2026-04-01-remembering-magnetic-memories-and-the-apollo-agc.html",
+      "date_iso": "2026-04-01T07:22:41+00:00",
+      "source": "https://2earth.github.io/website/20260304.html",
+      "summary": "Article URL: https://2earth.github.io/website/20260304.html Comments URL: https://news.ycombinator.com/item?id=47597908 Points: 4 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47597382",
+      "title": "Mad Bugs: Vim vs. Emacs vs. Claude",
+      "slug": "2026-04-01-mad-bugs-vim-vs-emacs-vs-claude.html",
+      "path": "posts/2026-04-01-mad-bugs-vim-vs-emacs-vs-claude.html",
+      "date_iso": "2026-04-01T06:05:57+00:00",
+      "source": "https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude",
+      "summary": "Article URL: https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude Comments URL: https://news.ycombinator.com/item?id=47597382 Points: 36 # Comments: 33"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47597085",
+      "title": "Claude Code Unpacked : A visual guide",
+      "slug": "2026-04-01-claude-code-unpacked-a-visual-guide.html",
+      "path": "posts/2026-04-01-claude-code-unpacked-a-visual-guide.html",
+      "date_iso": "2026-04-01T05:15:37+00:00",
+      "source": "https://ccunpacked.dev/",
+      "summary": "Related ongoing threads: The Claude Code Source Leak: fake tools, frustration regexes, undercover mode - https://news.ycombinator.com/item?id=47586778 - March 2026 (406 comments) Claude Code's source code has been leaked via a map file in their NPM registry - https://news.ycombi…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47596457",
+      "title": "Analyzing Geekbench 6 under Intel's BOT",
+      "slug": "2026-04-01-analyzing-geekbench-6-under-intel-s-bot.html",
+      "path": "posts/2026-04-01-analyzing-geekbench-6-under-intel-s-bot.html",
+      "date_iso": "2026-04-01T03:27:38+00:00",
+      "source": "https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/",
+      "summary": "Article URL: https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/ Comments URL: https://news.ycombinator.com/item?id=47596457 Points: 22 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47595572",
+      "title": "Neanderthals survived on a knife's edge for 350k years",
+      "slug": "2026-04-01-neanderthals-survived-on-a-knife-s-edge-for-350k-years.html",
+      "path": "posts/2026-04-01-neanderthals-survived-on-a-knife-s-edge-for-350k-years.html",
+      "date_iso": "2026-04-01T01:12:12+00:00",
+      "source": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
+      "summary": "Article URL: https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years Comments URL: https://news.ycombinator.com/item?id=47595572 Points: 121 # Comments: 78"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/31/technology/openai-12-billion-latest-funding-round.html",
+      "title": "OpenAI Adds Another $12 Billion to Latest Funding Round",
+      "slug": "2026-03-31-openai-adds-another-12-billion-to-latest-funding-round.html",
+      "path": "posts/2026-03-31-openai-adds-another-12-billion-to-latest-funding-round.html",
+      "date_iso": "2026-03-31T21:38:20+00:00",
+      "source": "https://www.nytimes.com/2026/03/31/technology/openai-12-billion-latest-funding-round.html",
+      "summary": "Sam Altman, the chief executive of OpenAI. With the deal, OpenAI has cemented its place as one of the most valuable private companies in the world."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47593634",
+      "title": "Ordinary Lab Gloves May Have Skewed Microplastic Data",
+      "slug": "2026-03-31-ordinary-lab-gloves-may-have-skewed-microplastic-data.html",
+      "path": "posts/2026-03-31-ordinary-lab-gloves-may-have-skewed-microplastic-data.html",
+      "date_iso": "2026-03-31T21:22:48+00:00",
+      "source": "https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386",
+      "summary": "Article URL: https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386 Comments URL: https://news.ycombinator.com/item?id=47593634 Points: 99 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47593556",
+      "title": "A dot a day keeps the clutter away",
+      "slug": "2026-03-31-a-dot-a-day-keeps-the-clutter-away.html",
+      "path": "posts/2026-03-31-a-dot-a-day-keeps-the-clutter-away.html",
+      "date_iso": "2026-03-31T21:15:01+00:00",
+      "source": "https://scottlawsonbc.com/post/dot-system",
+      "summary": "Article URL: https://scottlawsonbc.com/post/dot-system Comments URL: https://news.ycombinator.com/item?id=47593556 Points: 282 # Comments: 82"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47593422",
+      "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+      "slug": "2026-03-31-show-hn-1-bit-bonsai-the-first-commercially-viable-1-bit-llms.html",
+      "path": "posts/2026-03-31-show-hn-1-bit-bonsai-the-first-commercially-viable-1-bit-llms.html",
+      "date_iso": "2026-03-31T21:01:18+00:00",
+      "source": "https://prismml.com/",
+      "summary": "Article URL: https://prismml.com/ Comments URL: https://news.ycombinator.com/item?id=47593422 Points: 227 # Comments: 96"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47593285",
+      "title": "MiniStack (replacement for LocalStack)",
+      "slug": "2026-03-31-ministack-replacement-for-localstack.html",
+      "path": "posts/2026-03-31-ministack-replacement-for-localstack.html",
+      "date_iso": "2026-03-31T20:48:15+00:00",
+      "source": "https://ministack.org/",
+      "summary": "Article URL: https://ministack.org/ Comments URL: https://news.ycombinator.com/item?id=47593285 Points: 208 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47592755",
+      "title": "OpenAI closes funding round at an $852B valuation",
+      "slug": "2026-03-31-openai-closes-funding-round-at-an-852b-valuation.html",
+      "path": "posts/2026-03-31-openai-closes-funding-round-at-an-852b-valuation.html",
+      "date_iso": "2026-03-31T20:07:30+00:00",
+      "source": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+      "summary": "https://openai.com/index/accelerating-the-next-phase-ai Comments URL: https://news.ycombinator.com/item?id=47592755 Points: 424 # Comments: 370"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47589856",
+      "title": "Show HN: Postgres extension for BM25 relevance-ranked full-text search",
+      "slug": "2026-03-31-show-hn-postgres-extension-for-bm25-relevance-ranked-full-text-search.html",
+      "path": "posts/2026-03-31-show-hn-postgres-extension-for-bm25-relevance-ranked-full-text-search.html",
+      "date_iso": "2026-03-31T16:29:52+00:00",
+      "source": "https://github.com/timescale/pg_textsearch",
+      "summary": "Last summer we faced a conundrum at my company, Tiger Data, a Postgres cloud vendor whose main business is in timeseries data. We were trying to grow our business towards emerging AI-centric workloads and wanted to provide a state-of-the-art hybrid search stack in Postgres. We'd…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47589818",
+      "title": "Cohere Transcribe: Speech Recognition",
+      "slug": "2026-03-31-cohere-transcribe-speech-recognition.html",
+      "path": "posts/2026-03-31-cohere-transcribe-speech-recognition.html",
+      "date_iso": "2026-03-31T16:27:02+00:00",
+      "source": "https://cohere.com/blog/transcribe",
+      "summary": "Article URL: https://cohere.com/blog/transcribe Comments URL: https://news.ycombinator.com/item?id=47589818 Points: 188 # Comments: 55"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47587953",
+      "title": "Slop is not necessarily the future",
+      "slug": "2026-03-31-slop-is-not-necessarily-the-future.html",
+      "path": "posts/2026-03-31-slop-is-not-necessarily-the-future.html",
+      "date_iso": "2026-03-31T14:32:26+00:00",
+      "source": "https://www.greptile.com/blog/ai-slopware-future",
+      "summary": "Article URL: https://www.greptile.com/blog/ai-slopware-future Comments URL: https://news.ycombinator.com/item?id=47587953 Points: 223 # Comments: 380"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47586778",
+      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+      "slug": "2026-03-31-the-claude-code-source-leak-fake-tools-frustration-regexes-undercover-mode.html",
+      "path": "posts/2026-03-31-the-claude-code-source-leak-fake-tools-frustration-regexes-undercover-mode.html",
+      "date_iso": "2026-03-31T13:04:30+00:00",
+      "source": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+      "summary": "Related ongoing thread: Claude Code's source code has been leaked via a map file in their NPM registry - https://news.ycombinator.com/item?id=47584540 Also related: https://www.ccleaks.com Comments URL: https://news.ycombinator.com/item?id=47586778 Points: 1127 # Comments: 447"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/31/arts/instagram-pg-13-rating-mpa-meta-teen-safety.html",
+      "title": "How Instagram’s ‘PG-13’ Branding for Teens Unraveled",
+      "slug": "2026-03-31-how-instagram-s-pg-13-branding-for-teens-unraveled.html",
+      "path": "posts/2026-03-31-how-instagram-s-pg-13-branding-for-teens-unraveled.html",
+      "date_iso": "2026-03-31T13:00:11+00:00",
+      "source": "https://www.nytimes.com/2026/03/31/arts/instagram-pg-13-rating-mpa-meta-teen-safety.html",
+      "summary": "Instagram introduced Teen Accounts in 2024 in an effort to beef up privacy and address concerns about inappropriate content for teenage users."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47586614",
+      "title": "Open source CAD in the browser (Solvespace)",
+      "slug": "2026-03-31-open-source-cad-in-the-browser-solvespace.html",
+      "path": "posts/2026-03-31-open-source-cad-in-the-browser-solvespace.html",
+      "date_iso": "2026-03-31T12:50:23+00:00",
+      "source": "https://solvespace.com/webver.pl",
+      "summary": "Article URL: https://solvespace.com/webver.pl Comments URL: https://news.ycombinator.com/item?id=47586614 Points: 323 # Comments: 103"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/31/world/europe/russia-internet-restrictions.html",
+      "title": "A Cat-and-Mouse Game of Russian Internet Restrictions and Evasion",
+      "slug": "2026-03-31-a-cat-and-mouse-game-of-russian-internet-restrictions-and-evasion.html",
+      "path": "posts/2026-03-31-a-cat-and-mouse-game-of-russian-internet-restrictions-and-evasion.html",
+      "date_iso": "2026-03-31T10:36:33+00:00",
+      "source": "https://www.nytimes.com/2026/03/31/world/europe/russia-internet-restrictions.html",
+      "summary": "With the authorities blocking apps and websites, Russians are trying to find workarounds."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47584795",
+      "title": "Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
+      "slug": "2026-03-31-why-the-us-navy-won-t-blast-the-iranians-and-open-strait-of-hormuz.html",
+      "path": "posts/2026-03-31-why-the-us-navy-won-t-blast-the-iranians-and-open-strait-of-hormuz.html",
+      "date_iso": "2026-03-31T09:30:43+00:00",
+      "source": "https://responsiblestatecraft.org/iran-strait-of-hormuz/",
+      "summary": "Article URL: https://responsiblestatecraft.org/iran-strait-of-hormuz/ Comments URL: https://news.ycombinator.com/item?id=47584795 Points: 281 # Comments: 753"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/03/31/business/dealbook/whoop-raises-575-million-10-billion-valuation.html",
+      "title": "Whoop, a Wearable Health Device Maker, Raises $575 Million",
+      "slug": "2026-03-31-whoop-a-wearable-health-device-maker-raises-575-million.html",
+      "path": "posts/2026-03-31-whoop-a-wearable-health-device-maker-raises-575-million.html",
+      "date_iso": "2026-03-31T09:06:56+00:00",
+      "source": "https://www.nytimes.com/2026/03/31/business/dealbook/whoop-raises-575-million-10-billion-valuation.html",
+      "summary": "Whoop is one of several companies making wearable technology for wellness enthusiasts."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47583712",
       "title": "RamAIn (YC W26) Is Hiring",
       "slug": "2026-03-31-ramain-yc-w26-is-hiring.html",
@@ -242,6 +431,15 @@
       "date_iso": "2026-03-30T07:03:18+00:00",
       "source": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era",
       "summary": "Article URL: https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era Comments URL: https://news.ycombinator.com/item?id=47571279 Points: 19 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47571183",
+      "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
+      "slug": "2026-03-30-show-hn-cli-to-order-groceries-via-reverse-engineered-rewe-api-haskell.html",
+      "path": "posts/2026-03-30-show-hn-cli-to-order-groceries-via-reverse-engineered-rewe-api-haskell.html",
+      "date_iso": "2026-03-30T06:45:58+00:00",
+      "source": "https://github.com/yannick-cw/korb",
+      "summary": "I just had the best time learning about the REWE (German supermarket chain) API, how they use mTLS and what the workflows are. Also `mitmproxy2swagger`[1] is a great tool to create OpenAPI spec automatically. And then 2026 feels like the perfect time writing Haskell. The code is…"
     },
     {
       "id": "https://news.ycombinator.com/item?id=47571064",

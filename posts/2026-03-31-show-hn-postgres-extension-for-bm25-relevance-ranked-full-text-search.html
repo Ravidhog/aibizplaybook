@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Postgres extension for BM25 relevance-ranked full-text search</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Postgres extension for BM25 relevance-ranked full-text search</h1>
+    <p><small>Published: 2026-03-31T16:29:52+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Last summer we faced a conundrum at my company, Tiger Data, a Postgres cloud vendor whose main business is in timeseries data.  We were trying to grow our business towards emerging AI-centric workloads and wanted to provide a state-of-the-art hybrid search stack in Postgres.  We'd already built pgvectorscale in house with the goal of scaling semantic search beyond pgvector's main memory limitations.  We just needed a scalable ranked keyword search solution too.<p>The problem: core Postgres doesn't provide this; the leading Postgres BM25 extension, ParadeDB, is guarded behind AGPL; developing our own extension appeared daunting.  We'd need a small team of sharp engineers and 6-12 months, I figured.  And we'd probably still fall short of the performance of a mature system like Parade/Tantivy.<p>Or would we?  I'd be experimenting long enough with AI-boosted development at that point to realize that with the latest tools (Claude Code + Opus) and an experienced hand (I've been working in database systems internals for 25 years now), the old time estimates pretty much go out the window.<p>I told our CTO I thought I could solo the project in one quarter.  This raised some eyebrows.<p>It did take a little more time than that (two quarters), and we got some real help from the community (amazing!) after open-sourcing the pre-release.  But I'm thrilled/exhausted today to share that pg_textsearch v1.0 is freely available via open source (Postgres license), on Tiger Data cloud, and hopefully soon, a hyperscalar near you:<p><a href="https://github.com/timescale/pg_textsearch" rel="nofollow">https://github.com/timescale/pg_textsearch</a><p>In the blog post accompanying the release, I overview the architecture and present benchmark results using MS-MARCO.  To my surprise, we were not only able to meet Parade/Tantivy's query performance, but exceed it substantially, measuring a 4.7x advantage on query throughput at scale:<p><a href="https://www.tigerdata.com/blog/pg-textsearch-bm25-full-text-search-postgres" rel="nofollow">https://www.tigerdata.com/blog/pg-textsearch-bm25-full-text-...</a><p>It's exciting (and, to be honest, a little unnerving) to see a field I've spent so much time toiling in change so quickly in ways that enable us to be more ambitious in our technical objectives.  Technical moats are moats no longer.<p>The benchmark scripts and methodology are available in the github repo.  Happy to answer any questions in the thread.<p>Thanks,<p>TJ (tj@tigerdata.com)</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47589856">https://news.ycombinator.com/item?id=47589856</a></p>
+<p>Points: 140</p>
+<p># Comments: 42</p>
+    <p><a href="https://github.com/timescale/pg_textsearch" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
