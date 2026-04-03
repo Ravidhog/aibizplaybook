@@ -1,6 +1,240 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/04/02/technology/openai-buys-tbpn.html",
+      "title": "OpenAI Buys Streaming Show ‘TBPN,’ Aiming to Change Narrative on A.I.",
+      "slug": "2026-04-03-openai-buys-streaming-show-tbpn-aiming-to-change-narrative-on-a-i.html",
+      "path": "posts/2026-04-03-openai-buys-streaming-show-tbpn-aiming-to-change-narrative-on-a-i.html",
+      "date_iso": "2026-04-03T05:59:55+00:00",
+      "source": "https://www.nytimes.com/2026/04/02/technology/openai-buys-tbpn.html",
+      "summary": "Jordi Hays, left, and John Coogan, the hosts of “TBPN,” at their studio in Los Angeles last year."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47621792",
+      "title": "Post Mortem: axios NPM supply chain compromise",
+      "slug": "2026-04-03-post-mortem-axios-npm-supply-chain-compromise.html",
+      "path": "posts/2026-04-03-post-mortem-axios-npm-supply-chain-compromise.html",
+      "date_iso": "2026-04-03T00:00:19+00:00",
+      "source": "https://github.com/axios/axios/issues/10636",
+      "summary": "Article URL: https://github.com/axios/axios/issues/10636 Comments URL: https://news.ycombinator.com/item?id=47621792 Points: 87 # Comments: 48"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47621518",
+      "title": "Tor Alva: The Tallest 3D-Printed Building in the World",
+      "slug": "2026-04-02-tor-alva-the-tallest-3d-printed-building-in-the-world.html",
+      "path": "posts/2026-04-02-tor-alva-the-tallest-3d-printed-building-in-the-world.html",
+      "date_iso": "2026-04-02T23:26:01+00:00",
+      "source": "https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/",
+      "summary": "Article URL: https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/ Comments URL: https://news.ycombinator.com/item?id=47621518 Points: 31 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47621448",
+      "title": "A Few Good Magazines From the 70s and 80s",
+      "slug": "2026-04-02-a-few-good-magazines-from-the-70s-and-80s.html",
+      "path": "posts/2026-04-02-a-few-good-magazines-from-the-70s-and-80s.html",
+      "date_iso": "2026-04-02T23:17:26+00:00",
+      "source": "https://www.bi6.us/CO/MG.HTML",
+      "summary": "Article URL: https://www.bi6.us/CO/MG.HTML Comments URL: https://news.ycombinator.com/item?id=47621448 Points: 56 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47621438",
+      "title": "Show HN: Made a little Artemis II tracker",
+      "slug": "2026-04-02-show-hn-made-a-little-artemis-ii-tracker.html",
+      "path": "posts/2026-04-02-show-hn-made-a-little-artemis-ii-tracker.html",
+      "date_iso": "2026-04-02T23:16:05+00:00",
+      "source": "https://artemis-ii-tracker.com/",
+      "summary": "Made a little Artemis II tracker for anyone else who is unnecessarily invested in this mission: https://artemis-ii-tracker.com/ For those of us who apparently need a dedicated place to monitor this mission instead of behaving like well-adjusted people. Comments URL: https://news…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47620933",
+      "title": "Memo: A language that remembers only the last 12 lines of code",
+      "slug": "2026-04-02-memo-a-language-that-remembers-only-the-last-12-lines-of-code.html",
+      "path": "posts/2026-04-02-memo-a-language-that-remembers-only-the-last-12-lines-of-code.html",
+      "date_iso": "2026-04-02T22:21:24+00:00",
+      "source": "https://danieltemkin.com/Esolangs/Memo/",
+      "summary": "Article URL: https://danieltemkin.com/Esolangs/Memo/ Comments URL: https://news.ycombinator.com/item?id=47620933 Points: 45 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47620857",
+      "title": "ParadeDB (YC S23) Is Hiring Database Internal Engineers (Rust)",
+      "slug": "2026-04-02-paradedb-yc-s23-is-hiring-database-internal-engineers-rust.html",
+      "path": "posts/2026-04-02-paradedb-yc-s23-is-hiring-database-internal-engineers-rust.html",
+      "date_iso": "2026-04-02T22:13:03+00:00",
+      "source": "https://paradedb.notion.site/",
+      "summary": "Article URL: https://paradedb.notion.site/ Comments URL: https://news.ycombinator.com/item?id=47620857 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47618602",
+      "title": "Zep AI Is Hiring – Building the Agent Context Layer (YC W24)",
+      "slug": "2026-04-02-zep-ai-is-hiring-building-the-agent-context-layer-yc-w24.html",
+      "path": "posts/2026-04-02-zep-ai-is-hiring-building-the-agent-context-layer-yc-w24.html",
+      "date_iso": "2026-04-02T18:50:45+00:00",
+      "source": "https://www.ycombinator.com/companies/zep-ai/jobs",
+      "summary": "Article URL: https://www.ycombinator.com/companies/zep-ai/jobs Comments URL: https://news.ycombinator.com/item?id=47618602 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47618189",
+      "title": "Tailscale's new macOS home",
+      "slug": "2026-04-02-tailscale-s-new-macos-home.html",
+      "path": "posts/2026-04-02-tailscale-s-new-macos-home.html",
+      "date_iso": "2026-04-02T18:22:03+00:00",
+      "source": "https://tailscale.com/blog/macos-notch-escape",
+      "summary": "Article URL: https://tailscale.com/blog/macos-notch-escape Comments URL: https://news.ycombinator.com/item?id=47618189 Points: 434 # Comments: 212"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47618176",
+      "title": "George Goble has died",
+      "slug": "2026-04-02-george-goble-has-died.html",
+      "path": "posts/2026-04-02-george-goble-has-died.html",
+      "date_iso": "2026-04-02T18:21:08+00:00",
+      "source": "https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779",
+      "summary": "https://en.wikipedia.org/wiki/George_H._Goble Comments URL: https://news.ycombinator.com/item?id=47618176 Points: 143 # Comments: 30"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47618084",
+      "title": "Cursor 3",
+      "slug": "2026-04-02-cursor-3.html",
+      "path": "posts/2026-04-02-cursor-3.html",
+      "date_iso": "2026-04-02T18:13:41+00:00",
+      "source": "https://cursor.com/blog/cursor-3",
+      "summary": "Article URL: https://cursor.com/blog/cursor-3 Comments URL: https://news.ycombinator.com/item?id=47618084 Points: 382 # Comments: 309"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47617415",
+      "title": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
+      "slug": "2026-04-02-good-ideas-do-not-need-lots-of-lies-in-order-to-gain-public-acceptance-2008.html",
+      "path": "posts/2026-04-02-good-ideas-do-not-need-lots-of-lies-in-order-to-gain-public-acceptance-2008.html",
+      "date_iso": "2026-04-02T17:29:03+00:00",
+      "source": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
+      "summary": "Article URL: https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html Comments URL: https://news.ycombinator.com/item?id=47617415 Points: 240 # Comments: 91"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47617376",
+      "title": "OpenAI Acquires TBPN",
+      "slug": "2026-04-02-openai-acquires-tbpn.html",
+      "path": "posts/2026-04-02-openai-acquires-tbpn.html",
+      "date_iso": "2026-04-02T17:26:49+00:00",
+      "source": "https://openai.com/index/openai-acquires-tbpn/",
+      "summary": "Article URL: https://openai.com/index/openai-acquires-tbpn/ Comments URL: https://news.ycombinator.com/item?id=47617376 Points: 205 # Comments: 162"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47616361",
+      "title": "Google releases Gemma 4 open models",
+      "slug": "2026-04-02-google-releases-gemma-4-open-models.html",
+      "path": "posts/2026-04-02-google-releases-gemma-4-open-models.html",
+      "date_iso": "2026-04-02T16:10:54+00:00",
+      "source": "https://deepmind.google/models/gemma/gemma-4/",
+      "summary": "Article URL: https://deepmind.google/models/gemma/gemma-4/ Comments URL: https://news.ycombinator.com/item?id=47616361 Points: 1393 # Comments: 399"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47616242",
+      "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
+      "slug": "2026-04-02-decisions-that-eroded-trust-in-azure-by-a-former-azure-core-engineer.html",
+      "path": "posts/2026-04-02-decisions-that-eroded-trust-in-azure-by-a-former-azure-core-engineer.html",
+      "date_iso": "2026-04-02T16:00:27+00:00",
+      "source": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
+      "summary": "Article URL: https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion Comments URL: https://news.ycombinator.com/item?id=47616242 Points: 671 # Comments: 255"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47615490",
+      "title": "Artemis computer running two instances of MS outlook; they can't figure out why",
+      "slug": "2026-04-02-artemis-computer-running-two-instances-of-ms-outlook-they-can-t-figure-out-why.html",
+      "path": "posts/2026-04-02-artemis-computer-running-two-instances-of-ms-outlook-they-can-t-figure-out-why.html",
+      "date_iso": "2026-04-02T15:08:45+00:00",
+      "source": "https://bsky.app/profile/nikigrayson.com/post/3miik2wzosk25",
+      "summary": "Article URL: https://bsky.app/profile/nikigrayson.com/post/3miik2wzosk25 Comments URL: https://news.ycombinator.com/item?id=47615490 Points: 398 # Comments: 297"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47615002",
+      "title": "Qwen3.6-Plus: Towards real world agents",
+      "slug": "2026-04-02-qwen3-6-plus-towards-real-world-agents.html",
+      "path": "posts/2026-04-02-qwen3-6-plus-towards-real-world-agents.html",
+      "date_iso": "2026-04-02T14:28:52+00:00",
+      "source": "https://qwen.ai/blog?id=qwen3.6",
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen3.6 Comments URL: https://news.ycombinator.com/item?id=47615002 Points: 506 # Comments: 176"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47613981",
+      "title": "LinkedIn is searching your browser extensions",
+      "slug": "2026-04-02-linkedin-is-searching-your-browser-extensions.html",
+      "path": "posts/2026-04-02-linkedin-is-searching-your-browser-extensions.html",
+      "date_iso": "2026-04-02T13:09:09+00:00",
+      "source": "https://browsergate.eu/",
+      "summary": "Article URL: https://browsergate.eu/ Comments URL: https://news.ycombinator.com/item?id=47613981 Points: 1687 # Comments: 700"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47613078",
+      "title": "Inside Nepal's Fake Rescue Racket",
+      "slug": "2026-04-02-inside-nepal-s-fake-rescue-racket.html",
+      "path": "posts/2026-04-02-inside-nepal-s-fake-rescue-racket.html",
+      "date_iso": "2026-04-02T11:40:41+00:00",
+      "source": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
+      "summary": "Article URL: https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket Comments URL: https://news.ycombinator.com/item?id=47613078 Points: 280 # Comments: 124"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47612724",
+      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+      "slug": "2026-04-02-lemonade-by-amd-a-fast-and-open-source-local-llm-server-using-gpu-and-npu.html",
+      "path": "posts/2026-04-02-lemonade-by-amd-a-fast-and-open-source-local-llm-server-using-gpu-and-npu.html",
+      "date_iso": "2026-04-02T11:04:51+00:00",
+      "source": "https://lemonade-server.ai",
+      "summary": "Article URL: https://lemonade-server.ai Comments URL: https://news.ycombinator.com/item?id=47612724 Points: 503 # Comments: 107"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47612601",
+      "title": "Sweden goes back to basics, swapping screens for books in the classroom",
+      "slug": "2026-04-02-sweden-goes-back-to-basics-swapping-screens-for-books-in-the-classroom.html",
+      "path": "posts/2026-04-02-sweden-goes-back-to-basics-swapping-screens-for-books-in-the-classroom.html",
+      "date_iso": "2026-04-02T10:50:00+00:00",
+      "source": "https://undark.org/2026/04/01/sweden-schools-books/",
+      "summary": "Article URL: https://undark.org/2026/04/01/sweden-schools-books/ Comments URL: https://news.ycombinator.com/item?id=47612601 Points: 822 # Comments: 403"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/02/world/europe/european-union-social-media-internet-regulation-children.html",
+      "title": "Europe Pushes for a Gentler Internet for Children",
+      "slug": "2026-04-02-europe-pushes-for-a-gentler-internet-for-children.html",
+      "path": "posts/2026-04-02-europe-pushes-for-a-gentler-internet-for-children.html",
+      "date_iso": "2026-04-02T09:06:33+00:00",
+      "source": "https://www.nytimes.com/2026/04/02/world/europe/european-union-social-media-internet-regulation-children.html",
+      "summary": "Stéphanie Mistre, whose daughter, Marie Le Tiec, ended her life in 2021 at age 15, has become an activist for children’s online safety."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/02/magazine/agentic-ai-agency-tech.html",
+      "title": "Worried About A.I. Taking Your Job? That’s Not Very ‘Agentic’ of You.",
+      "slug": "2026-04-02-worried-about-a-i-taking-your-job-that-s-not-very-agentic-of-you.html",
+      "path": "posts/2026-04-02-worried-about-a-i-taking-your-job-that-s-not-very-agentic-of-you.html",
+      "date_iso": "2026-04-02T09:03:59+00:00",
+      "source": "https://www.nytimes.com/2026/04/02/magazine/agentic-ai-agency-tech.html",
+      "summary": "Today’s spin on the idea of personal agency is convenient for tech C.E.O.s, who boast that their models work just fine without us."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/02/style/meta-lab-smartglasses-wearables.html",
+      "title": "The Revival of the Fashion-Tech Love Affair",
+      "slug": "2026-04-02-the-revival-of-the-fashion-tech-love-affair.html",
+      "path": "posts/2026-04-02-the-revival-of-the-fashion-tech-love-affair.html",
+      "date_iso": "2026-04-02T09:03:45+00:00",
+      "source": "https://www.nytimes.com/2026/04/02/style/meta-lab-smartglasses-wearables.html",
+      "summary": "At the new Meta Lab flagship on Fifth Avenue in Manhattan."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html",
+      "title": "How A.I. Helped One Man (and His Brother) Build a $1.8 Billion Company",
+      "slug": "2026-04-02-how-a-i-helped-one-man-and-his-brother-build-a-1-8-billion-company.html",
+      "path": "posts/2026-04-02-how-a-i-helped-one-man-and-his-brother-build-a-1-8-billion-company.html",
+      "date_iso": "2026-04-02T09:02:30+00:00",
+      "source": "https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html",
+      "summary": "Matthew Gallagher, 41, built his start-up, Medvi, with artificial intelligence and few humans."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/02/technology/ai-silicon-valley-tech-work.html",
+      "title": "A.I. Could Change the World. But First It Is Changing Silicon Valley.",
+      "slug": "2026-04-02-a-i-could-change-the-world-but-first-it-is-changing-silicon-valley.html",
+      "path": "posts/2026-04-02-a-i-could-change-the-world-but-first-it-is-changing-silicon-valley.html",
+      "date_iso": "2026-04-02T09:01:52+00:00",
+      "source": "https://www.nytimes.com/2026/04/02/technology/ai-silicon-valley-tech-work.html",
+      "summary": "The tech industry has predicted A.I. will profoundly affect the nature of white-collar work. The industry’s own workers are already getting a taste of that future."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47611044",
       "title": "Telli (YC F24) is hiring engineers, designers, and more [on-site, Berlin]",
       "slug": "2026-04-02-telli-yc-f24-is-hiring-engineers-designers-and-more-on-site-berlin.html",
