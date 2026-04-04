@@ -1,6 +1,213 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47636435",
+      "title": "Emotion concepts and their function in a large language model",
+      "slug": "2026-04-04-emotion-concepts-and-their-function-in-a-large-language-model.html",
+      "path": "posts/2026-04-04-emotion-concepts-and-their-function-in-a-large-language-model.html",
+      "date_iso": "2026-04-04T06:30:25+00:00",
+      "source": "https://www.anthropic.com/research/emotion-concepts-function",
+      "summary": "Article URL: https://www.anthropic.com/research/emotion-concepts-function Comments URL: https://news.ycombinator.com/item?id=47636435 Points: 24 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47636203",
+      "title": "Scientists are working on \"everything vaccines\"",
+      "slug": "2026-04-04-scientists-are-working-on-everything-vaccines.html",
+      "path": "posts/2026-04-04-scientists-are-working-on-everything-vaccines.html",
+      "date_iso": "2026-04-04T05:47:18+00:00",
+      "source": "https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines",
+      "summary": "Article URL: https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines Comments URL: https://news.ycombinator.com/item?id=47636203 Points: 11 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47635056",
+      "title": "Gold overtakes U.S. Treasuries as the largest foreign reserve asset",
+      "slug": "2026-04-04-gold-overtakes-u-s-treasuries-as-the-largest-foreign-reserve-asset.html",
+      "path": "posts/2026-04-04-gold-overtakes-u-s-treasuries-as-the-largest-foreign-reserve-asset.html",
+      "date_iso": "2026-04-04T02:30:32+00:00",
+      "source": "https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr",
+      "summary": "Article URL: https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr Comments URL: https://new…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47635033",
+      "title": "Show HN: Travel Hacking Toolkit – Points search and trip planning with AI",
+      "slug": "2026-04-04-show-hn-travel-hacking-toolkit-points-search-and-trip-planning-with-ai.html",
+      "path": "posts/2026-04-04-show-hn-travel-hacking-toolkit-points-search-and-trip-planning-with-ai.html",
+      "date_iso": "2026-04-04T02:26:42+00:00",
+      "source": "https://github.com/borski/travel-hacking-toolkit",
+      "summary": "I use points and miles for most of my travel. Every booking comes down to the same decision: use points or pay cash? To answer that, you need award availability across multiple programs, cash prices, your current balances, transfer partner ratios, and the math to compare them. I…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47634690",
+      "title": "Delve removed from Y Combinator",
+      "slug": "2026-04-04-delve-removed-from-y-combinator.html",
+      "path": "posts/2026-04-04-delve-removed-from-y-combinator.html",
+      "date_iso": "2026-04-04T01:37:02+00:00",
+      "source": "https://www.ycombinator.com/companies/delve",
+      "summary": "Article URL: https://www.ycombinator.com/companies/delve Comments URL: https://news.ycombinator.com/item?id=47634690 Points: 245 # Comments: 145"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47633947",
+      "title": "The FAA’s flight restriction for drones is an attempt to criminalize filming ICE",
+      "slug": "2026-04-03-the-faa-s-flight-restriction-for-drones-is-an-attempt-to-criminalize-filming-ice.html",
+      "path": "posts/2026-04-03-the-faa-s-flight-restriction-for-drones-is-an-attempt-to-criminalize-filming-ice.html",
+      "date_iso": "2026-04-03T23:56:32+00:00",
+      "source": "https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice Comments URL: https://news.ycombinator.com/item?id=47633947 Points: 356 # Comments: 107"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47633396",
+      "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+      "slug": "2026-04-03-tell-hn-anthropic-no-longer-allowing-claude-code-subscriptions-to-use-openclaw.html",
+      "path": "posts/2026-04-03-tell-hn-anthropic-no-longer-allowing-claude-code-subscriptions-to-use-openclaw.html",
+      "date_iso": "2026-04-03T22:55:24+00:00",
+      "source": "https://news.ycombinator.com/item?id=47633396",
+      "summary": "Received the following email from Anthropic: Hi, Starting April 4 at 12pm PT / 8pm BST, you’ll no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw. You can still use them with your Claude account, but they will require extra usag…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47633157",
+      "title": "Fake Fans",
+      "slug": "2026-04-03-fake-fans.html",
+      "path": "posts/2026-04-03-fake-fans.html",
+      "date_iso": "2026-04-03T22:26:38+00:00",
+      "source": "https://www.wordsfromeliza.com/p/fake-fans",
+      "summary": "Article URL: https://www.wordsfromeliza.com/p/fake-fans Comments URL: https://news.ycombinator.com/item?id=47633157 Points: 101 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47633131",
+      "title": "Run Linux containers on Android, no root required",
+      "slug": "2026-04-03-run-linux-containers-on-android-no-root-required.html",
+      "path": "posts/2026-04-03-run-linux-containers-on-android-no-root-required.html",
+      "date_iso": "2026-04-03T22:23:55+00:00",
+      "source": "https://github.com/ExTV/Podroid",
+      "summary": "Article URL: https://github.com/ExTV/Podroid Comments URL: https://news.ycombinator.com/item?id=47633131 Points: 92 # Comments: 31"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47633116",
+      "title": "The house is a work of art: Frank Lloyd Wright",
+      "slug": "2026-04-03-the-house-is-a-work-of-art-frank-lloyd-wright.html",
+      "path": "posts/2026-04-03-the-house-is-a-work-of-art-frank-lloyd-wright.html",
+      "date_iso": "2026-04-03T22:22:18+00:00",
+      "source": "https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition",
+      "summary": "Article URL: https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition Comments URL: https://news.ycombinator.com/item?id=47633116 Points: 80 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47632460",
+      "title": "Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers",
+      "slug": "2026-04-03-charge-robotics-yc-s21-is-hiring-software-and-hardware-engineers.html",
+      "path": "posts/2026-04-03-charge-robotics-yc-s21-is-hiring-software-and-hardware-engineers.html",
+      "date_iso": "2026-04-03T21:21:13+00:00",
+      "source": "https://jobs.ashbyhq.com/charge-robotics",
+      "summary": "Article URL: https://jobs.ashbyhq.com/charge-robotics Comments URL: https://news.ycombinator.com/item?id=47632460 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/03/technology/iphones-artemis-nasa.html",
+      "title": "NASA’s Artemis II Astronauts Took iPhones Into Space",
+      "slug": "2026-04-03-nasa-s-artemis-ii-astronauts-took-iphones-into-space.html",
+      "path": "posts/2026-04-03-nasa-s-artemis-ii-astronauts-took-iphones-into-space.html",
+      "date_iso": "2026-04-03T20:36:47+00:00",
+      "source": "https://www.nytimes.com/2026/04/03/technology/iphones-artemis-nasa.html",
+      "summary": "The astronauts traveling in the Artemis II spacecraft were allowed to take smartphones with them. Sadly, they can’t connect to the internet."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47631118",
+      "title": "Artemis II crew take “spectacular” image of Earth",
+      "slug": "2026-04-03-artemis-ii-crew-take-spectacular-image-of-earth.html",
+      "path": "posts/2026-04-03-artemis-ii-crew-take-spectacular-image-of-earth.html",
+      "date_iso": "2026-04-03T19:35:02+00:00",
+      "source": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+      "summary": "https://www.nasa.gov/image-detail/fd02_for-pao/ Comments URL: https://news.ycombinator.com/item?id=47631118 Points: 692 # Comments: 251"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47630893",
+      "title": "Age verification on Systemd and Flatpak",
+      "slug": "2026-04-03-age-verification-on-systemd-and-flatpak.html",
+      "path": "posts/2026-04-03-age-verification-on-systemd-and-flatpak.html",
+      "date_iso": "2026-04-03T19:17:28+00:00",
+      "source": "https://cybrkyd.com/post/age-verification-on-systemd-and-flatpak/",
+      "summary": "Article URL: https://cybrkyd.com/post/age-verification-on-systemd-and-flatpak/ Comments URL: https://news.ycombinator.com/item?id=47630893 Points: 111 # Comments: 94"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47630576",
+      "title": "How to make a sliding, self-locking, and predator-proof chicken coop door (2020)",
+      "slug": "2026-04-03-how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door-2020.html",
+      "path": "posts/2026-04-03-how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door-2020.html",
+      "date_iso": "2026-04-03T18:54:11+00:00",
+      "source": "https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/",
+      "summary": "Article URL: https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/ Comments URL: https://news.ycombinator.com/item?id=47630576 Points: 100 # Comments: 43"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/03/business/spacex-ipo-grok-elon-musk.html",
+      "title": "Big Banks Seeking a Piece of SpaceX’s I.P.O. Must Subscribe to Elon Musk’s Grok",
+      "slug": "2026-04-03-big-banks-seeking-a-piece-of-spacex-s-i-p-o-must-subscribe-to-elon-musk-s-grok.html",
+      "path": "posts/2026-04-03-big-banks-seeking-a-piece-of-spacex-s-i-p-o-must-subscribe-to-elon-musk-s-grok.html",
+      "date_iso": "2026-04-03T18:23:06+00:00",
+      "source": "https://www.nytimes.com/2026/04/03/business/spacex-ipo-grok-elon-musk.html",
+      "summary": "Elon Musk has promoted Grok, his A.I. chatbot, as the antidote to political correctness."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47629903",
+      "title": "Why are we still using Markdown?",
+      "slug": "2026-04-03-why-are-we-still-using-markdown.html",
+      "path": "posts/2026-04-03-why-are-we-still-using-markdown.html",
+      "date_iso": "2026-04-03T18:03:10+00:00",
+      "source": "https://bgslabs.org/blog/why-are-we-using-markdown/",
+      "summary": "Article URL: https://bgslabs.org/blog/why-are-we-using-markdown/ Comments URL: https://news.ycombinator.com/item?id=47629903 Points: 102 # Comments: 170"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47629433",
+      "title": "iNaturalist",
+      "slug": "2026-04-03-inaturalist.html",
+      "path": "posts/2026-04-03-inaturalist.html",
+      "date_iso": "2026-04-03T17:22:20+00:00",
+      "source": "https://www.inaturalist.org/",
+      "summary": "Article URL: https://www.inaturalist.org/ Comments URL: https://news.ycombinator.com/item?id=47629433 Points: 396 # Comments: 106"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47629116",
+      "title": "Go on Embedded Systems and WebAssembly",
+      "slug": "2026-04-03-go-on-embedded-systems-and-webassembly.html",
+      "path": "posts/2026-04-03-go-on-embedded-systems-and-webassembly.html",
+      "date_iso": "2026-04-03T16:57:09+00:00",
+      "source": "https://tinygo.org/",
+      "summary": "Article URL: https://tinygo.org/ Comments URL: https://news.ycombinator.com/item?id=47629116 Points: 149 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47628608",
+      "title": "OpenClaw privilege escalation vulnerability",
+      "slug": "2026-04-03-openclaw-privilege-escalation-vulnerability.html",
+      "path": "posts/2026-04-03-openclaw-privilege-escalation-vulnerability.html",
+      "date_iso": "2026-04-03T16:21:32+00:00",
+      "source": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
+      "summary": "https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_... https://web.archive.org/web/20260403174514/https://old.reddi... Comments URL: https://news.ycombinator.com/item?id=47628608 Points: 343 # Comments: 181"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47628326",
+      "title": "F-15E jet shot down over Iran",
+      "slug": "2026-04-03-f-15e-jet-shot-down-over-iran.html",
+      "path": "posts/2026-04-03-f-15e-jet-shot-down-over-iran.html",
+      "date_iso": "2026-04-03T16:00:44+00:00",
+      "source": "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran",
+      "summary": "https://theaviationist.com/2026/04/03/iran-f-15e-debris/ Comments URL: https://news.ycombinator.com/item?id=47628326 Points: 459 # Comments: 1033"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47627527",
+      "title": "Build your own Dial-up ISP with a Raspberry Pi",
+      "slug": "2026-04-03-build-your-own-dial-up-isp-with-a-raspberry-pi.html",
+      "path": "posts/2026-04-03-build-your-own-dial-up-isp-with-a-raspberry-pi.html",
+      "date_iso": "2026-04-03T15:08:16+00:00",
+      "source": "https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/",
+      "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/ Comments URL: https://news.ycombinator.com/item?id=47627527 Points: 140 # Comments: 29"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/03/podcasts/hardfork-social-media-liable.html",
+      "title": "The Future of Addictive Design + Going Deep at DeepMind + HatGPT",
+      "slug": "2026-04-03-the-future-of-addictive-design-going-deep-at-deepmind-hatgpt.html",
+      "path": "posts/2026-04-03-the-future-of-addictive-design-going-deep-at-deepmind-hatgpt.html",
+      "date_iso": "2026-04-03T11:00:03+00:00",
+      "source": "https://www.nytimes.com/2026/04/03/podcasts/hardfork-social-media-liable.html",
+      "summary": "“The platforms should be absolutely begging Congress to regulate them, because the alternative is they get sued into oblivion by a bunch of law firms.”"
+    },
+    {
       "id": "https://www.nytimes.com/2026/04/02/technology/openai-buys-tbpn.html",
       "title": "OpenAI Buys Streaming Show ‘TBPN,’ Aiming to Change Narrative on A.I.",
       "slug": "2026-04-03-openai-buys-streaming-show-tbpn-aiming-to-change-narrative-on-a-i.html",
