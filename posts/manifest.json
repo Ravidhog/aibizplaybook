@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47658146",
+      "title": "France pulls last gold held in US for $15B gain",
+      "slug": "2026-04-06-france-pulls-last-gold-held-in-us-for-15b-gain.html",
+      "path": "posts/2026-04-06-france-pulls-last-gold-held-in-us-for-15b-gain.html",
+      "date_iso": "2026-04-06T08:03:43+00:00",
+      "source": "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/",
+      "summary": "Article URL: https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/ Comments URL: https://news.ycombinator.com/item?id=47658146 Points: 4 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47656981",
+      "title": "Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair",
+      "slug": "2026-04-06-drop-formerly-massdrop-ends-most-collaborations-and-rebrands-under-corsair.html",
+      "path": "posts/2026-04-06-drop-formerly-massdrop-ends-most-collaborations-and-rebrands-under-corsair.html",
+      "date_iso": "2026-04-06T04:24:49+00:00",
+      "source": "https://drop.com/",
+      "summary": "Article URL: https://drop.com/ Comments URL: https://news.ycombinator.com/item?id=47656981 Points: 8 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47656682",
+      "title": "Winners of the 2026 Kokuyo Design Awards",
+      "slug": "2026-04-06-winners-of-the-2026-kokuyo-design-awards.html",
+      "path": "posts/2026-04-06-winners-of-the-2026-kokuyo-design-awards.html",
+      "date_iso": "2026-04-06T03:32:23+00:00",
+      "source": "https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/",
+      "summary": "Article URL: https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/ Comments URL: https://news.ycombinator.com/item?id=47656682 Points: 47 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47656659",
+      "title": "Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice",
+      "slug": "2026-04-06-media-scraper-gallery-dl-is-moving-to-codeberg-after-receiving-a-dmca-notice.html",
+      "path": "posts/2026-04-06-media-scraper-gallery-dl-is-moving-to-codeberg-after-receiving-a-dmca-notice.html",
+      "date_iso": "2026-04-06T03:28:04+00:00",
+      "source": "https://github.com/mikf/gallery-dl/discussions/9304",
+      "summary": "Article URL: https://github.com/mikf/gallery-dl/discussions/9304 Comments URL: https://news.ycombinator.com/item?id=47656659 Points: 129 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47656622",
+      "title": "An open-source 240-antenna array to bounce signals off the Moon",
+      "slug": "2026-04-06-an-open-source-240-antenna-array-to-bounce-signals-off-the-moon.html",
+      "path": "posts/2026-04-06-an-open-source-240-antenna-array-to-bounce-signals-off-the-moon.html",
+      "date_iso": "2026-04-06T03:22:42+00:00",
+      "source": "https://moonrf.com/",
+      "summary": "Article URL: https://moonrf.com/ Comments URL: https://news.ycombinator.com/item?id=47656622 Points: 82 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47656501",
+      "title": "The 1987 game “The Last Ninja” was 40 kilobytes",
+      "slug": "2026-04-06-the-1987-game-the-last-ninja-was-40-kilobytes.html",
+      "path": "posts/2026-04-06-the-1987-game-the-last-ninja-was-40-kilobytes.html",
+      "date_iso": "2026-04-06T03:03:22+00:00",
+      "source": "https://twitter.com/exQUIZitely/status/2040777977521398151",
+      "summary": "Article URL: https://twitter.com/exQUIZitely/status/2040777977521398151 Comments URL: https://news.ycombinator.com/item?id=47656501 Points: 76 # Comments: 27"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47656335",
+      "title": "Does coding with LLMs mean more microservices?",
+      "slug": "2026-04-06-does-coding-with-llms-mean-more-microservices.html",
+      "path": "posts/2026-04-06-does-coding-with-llms-mean-more-microservices.html",
+      "date_iso": "2026-04-06T02:33:21+00:00",
+      "source": "https://ben.page/microservices",
+      "summary": "Article URL: https://ben.page/microservices Comments URL: https://news.ycombinator.com/item?id=47656335 Points: 17 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47656303",
+      "title": "Case study: recovery of a corrupted 12 TB multi-device pool",
+      "slug": "2026-04-06-case-study-recovery-of-a-corrupted-12-tb-multi-device-pool.html",
+      "path": "posts/2026-04-06-case-study-recovery-of-a-corrupted-12-tb-multi-device-pool.html",
+      "date_iso": "2026-04-06T02:28:40+00:00",
+      "source": "https://github.com/kdave/btrfs-progs/issues/1107",
+      "summary": "Article URL: https://github.com/kdave/btrfs-progs/issues/1107 Comments URL: https://news.ycombinator.com/item?id=47656303 Points: 53 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47655978",
+      "title": "Stamp It: All programs must report their version",
+      "slug": "2026-04-06-stamp-it-all-programs-must-report-their-version.html",
+      "path": "posts/2026-04-06-stamp-it-all-programs-must-report-their-version.html",
+      "date_iso": "2026-04-06T01:42:27+00:00",
+      "source": "https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/",
+      "summary": "Article URL: https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/ Comments URL: https://news.ycombinator.com/item?id=47655978 Points: 11 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47655905",
+      "title": "Usenet Archives",
+      "slug": "2026-04-06-usenet-archives.html",
+      "path": "posts/2026-04-06-usenet-archives.html",
+      "date_iso": "2026-04-06T01:33:00+00:00",
+      "source": "https://usenetarchives.com",
+      "summary": "Article URL: https://usenetarchives.com Comments URL: https://news.ycombinator.com/item?id=47655905 Points: 33 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47655466",
+      "title": "Employers use your personal data to figure out the lowest salary you'll accept",
+      "slug": "2026-04-06-employers-use-your-personal-data-to-figure-out-the-lowest-salary-you-ll-accept.html",
+      "path": "posts/2026-04-06-employers-use-your-personal-data-to-figure-out-the-lowest-salary-you-ll-accept.html",
+      "date_iso": "2026-04-06T00:29:08+00:00",
+      "source": "https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb",
+      "summary": "Article URL: https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb Comments URL: https://news.ycombinator.com/item?id=47655466 Points: 192 # Comments: 97"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47655408",
+      "title": "Show HN: I built a tiny LLM to demystify how language models work",
+      "slug": "2026-04-06-show-hn-i-built-a-tiny-llm-to-demystify-how-language-models-work.html",
+      "path": "posts/2026-04-06-show-hn-i-built-a-tiny-llm-to-demystify-how-language-models-work.html",
+      "date_iso": "2026-04-06T00:20:12+00:00",
+      "source": "https://github.com/arman-bd/guppylm",
+      "summary": "Built a ~9M param LLM from scratch to understand how they actually work. Vanilla transformer, 60K synthetic conversations, ~130 lines of PyTorch. Trains in 5 min on a free Colab T4. The fish thinks the meaning of life is food. Fork it and swap the personality for your own charac…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47655392",
+      "title": "Show HN: I made a YouTube search form with advanced filters",
+      "slug": "2026-04-06-show-hn-i-made-a-youtube-search-form-with-advanced-filters.html",
+      "path": "posts/2026-04-06-show-hn-i-made-a-youtube-search-form-with-advanced-filters.html",
+      "date_iso": "2026-04-06T00:18:26+00:00",
+      "source": "https://playlists.at/youtube/search/",
+      "summary": "Article URL: https://playlists.at/youtube/search/ Comments URL: https://news.ycombinator.com/item?id=47655392 Points: 209 # Comments: 133"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47655367",
+      "title": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
+      "slug": "2026-04-06-show-hn-gemma-gem-ai-model-embedded-in-a-browser-no-api-keys-no-cloud.html",
+      "path": "posts/2026-04-06-show-hn-gemma-gem-ai-model-embedded-in-a-browser-no-api-keys-no-cloud.html",
+      "date_iso": "2026-04-06T00:14:37+00:00",
+      "source": "https://github.com/kessler/gemma-gem",
+      "summary": "Gemma Gem is a Chrome extension that loads Google's Gemma 4 (2B) through WebGPU in an offscreen document and gives it tools to interact with any webpage: read content, take screenshots, click elements, type text, scroll, and run JavaScript. You get a small chat overlay on every…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47655268",
+      "title": "Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf",
+      "slug": "2026-04-05-show-hn-modo-i-built-an-open-source-alternative-to-kiro-cursor-and-windsurf.html",
+      "path": "posts/2026-04-05-show-hn-modo-i-built-an-open-source-alternative-to-kiro-cursor-and-windsurf.html",
+      "date_iso": "2026-04-05T23:59:10+00:00",
+      "source": "https://github.com/mohshomis/modo",
+      "summary": "Article URL: https://github.com/mohshomis/modo Comments URL: https://news.ycombinator.com/item?id=47655268 Points: 43 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47654620",
+      "title": "In Japan, the robot isn't coming for your job; it's filling the one nobody wants",
+      "slug": "2026-04-05-in-japan-the-robot-isn-t-coming-for-your-job-it-s-filling-the-one-nobody-wants.html",
+      "path": "posts/2026-04-05-in-japan-the-robot-isn-t-coming-for-your-job-it-s-filling-the-one-nobody-wants.html",
+      "date_iso": "2026-04-05T22:31:16+00:00",
+      "source": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+      "summary": "Article URL: https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/ Comments URL: https://news.ycombinator.com/item?id=47654620 Points: 161 # Comments: 191"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47654171",
+      "title": "The Mechanics of Steins Gate (2023) [pdf]",
+      "slug": "2026-04-05-the-mechanics-of-steins-gate-2023-pdf.html",
+      "path": "posts/2026-04-05-the-mechanics-of-steins-gate-2023-pdf.html",
+      "date_iso": "2026-04-05T21:42:01+00:00",
+      "source": "https://github.com/Votuko/steins-gate-mechanics/blob/main/The%20Mechanics%20of%20Steins%20Gate%20v1.0.3.pdf",
+      "summary": "Article URL: https://github.com/Votuko/steins-gate-mechanics/blob/main/The%20Mechanics%20of%20Steins%20Gate%20v1.0.3.pdf Comments URL: https://news.ycombinator.com/item?id=47654171 Points: 76 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47652561",
+      "title": "Gemma 4 on iPhone",
+      "slug": "2026-04-05-gemma-4-on-iphone.html",
+      "path": "posts/2026-04-05-gemma-4-on-iphone.html",
+      "date_iso": "2026-04-05T18:45:53+00:00",
+      "source": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
+      "summary": "Article URL: https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337 Comments URL: https://news.ycombinator.com/item?id=47652561 Points: 596 # Comments: 158"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47652400",
+      "title": "Why Switzerland has 25 Gbit internet and America doesn't",
+      "slug": "2026-04-05-why-switzerland-has-25-gbit-internet-and-america-doesn-t.html",
+      "path": "posts/2026-04-05-why-switzerland-has-25-gbit-internet-and-america-doesn-t.html",
+      "date_iso": "2026-04-05T18:29:47+00:00",
+      "source": "https://sschueller.github.io/posts/the-free-market-lie/",
+      "summary": "Article URL: https://sschueller.github.io/posts/the-free-market-lie/ Comments URL: https://news.ycombinator.com/item?id=47652400 Points: 437 # Comments: 331"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47652322",
+      "title": "Music for Programming",
+      "slug": "2026-04-05-music-for-programming.html",
+      "path": "posts/2026-04-05-music-for-programming.html",
+      "date_iso": "2026-04-05T18:23:08+00:00",
+      "source": "https://musicforprogramming.net",
+      "summary": "Article URL: https://musicforprogramming.net Comments URL: https://news.ycombinator.com/item?id=47652322 Points: 178 # Comments: 76"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47646363",
       "title": "Modern Generic SVGA driver for Windows 3.1",
       "slug": "2026-04-05-modern-generic-svga-driver-for-windows-3-1.html",
