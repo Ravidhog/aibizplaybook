@@ -1,6 +1,213 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47671527",
+      "title": "Some iPhone Apps Receive Mysterious Update 'From Apple'",
+      "slug": "2026-04-07-some-iphone-apps-receive-mysterious-update-from-apple.html",
+      "path": "posts/2026-04-07-some-iphone-apps-receive-mysterious-update-from-apple.html",
+      "date_iso": "2026-04-07T06:45:08+00:00",
+      "source": "https://www.macrumors.com/2026/04/06/iphone-apps-from-apple-update/",
+      "summary": "Article URL: https://www.macrumors.com/2026/04/06/iphone-apps-from-apple-update/ Comments URL: https://news.ycombinator.com/item?id=47671527 Points: 18 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47671498",
+      "title": "When War Crimes Rhetoric Becomes Battlefield Reality",
+      "slug": "2026-04-07-when-war-crimes-rhetoric-becomes-battlefield-reality.html",
+      "path": "posts/2026-04-07-when-war-crimes-rhetoric-becomes-battlefield-reality.html",
+      "date_iso": "2026-04-07T06:39:11+00:00",
+      "source": "https://www.justsecurity.org/135797/war-crimes-rhetoric-power-plants-iran/",
+      "summary": "Article URL: https://www.justsecurity.org/135797/war-crimes-rhetoric-power-plants-iran/ Comments URL: https://news.ycombinator.com/item?id=47671498 Points: 12 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47670981",
+      "title": "Three hundred synths, 3 hardware projects, and one app",
+      "slug": "2026-04-07-three-hundred-synths-3-hardware-projects-and-one-app.html",
+      "path": "posts/2026-04-07-three-hundred-synths-3-hardware-projects-and-one-app.html",
+      "date_iso": "2026-04-07T05:12:25+00:00",
+      "source": "https://midi.guide/blog/three-hunded-synths-one-app/",
+      "summary": "Article URL: https://midi.guide/blog/three-hunded-synths-one-app/ Comments URL: https://news.ycombinator.com/item?id=47670981 Points: 8 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47669337",
+      "title": "Solod – A subset of Go that translates to C",
+      "slug": "2026-04-07-solod-a-subset-of-go-that-translates-to-c.html",
+      "path": "posts/2026-04-07-solod-a-subset-of-go-that-translates-to-c.html",
+      "date_iso": "2026-04-07T00:48:01+00:00",
+      "source": "https://github.com/solod-dev/solod",
+      "summary": "Article URL: https://github.com/solod-dev/solod Comments URL: https://news.ycombinator.com/item?id=47669337 Points: 117 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47668727",
+      "title": "After 20 years I turned off Google Adsense for my websites (2025)",
+      "slug": "2026-04-06-after-20-years-i-turned-off-google-adsense-for-my-websites-2025.html",
+      "path": "posts/2026-04-06-after-20-years-i-turned-off-google-adsense-for-my-websites-2025.html",
+      "date_iso": "2026-04-06T23:23:28+00:00",
+      "source": "https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm",
+      "summary": "Article URL: https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm Comments URL: https://news.ycombinator.com/item?id=47668727 Points: 180 # Comments: 119"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47667717",
+      "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
+      "slug": "2026-04-06-anthropic-expands-partnership-with-google-and-broadcom-for-next-gen-compute.html",
+      "path": "posts/2026-04-06-anthropic-expands-partnership-with-google-and-broadcom-for-next-gen-compute.html",
+      "date_iso": "2026-04-06T21:52:08+00:00",
+      "source": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+      "summary": "Article URL: https://www.anthropic.com/news/google-broadcom-partnership-compute Comments URL: https://news.ycombinator.com/item?id=47667717 Points: 233 # Comments: 101"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47667672",
+      "title": "Show HN: Hippo, biologically inspired memory for AI agents",
+      "slug": "2026-04-06-show-hn-hippo-biologically-inspired-memory-for-ai-agents.html",
+      "path": "posts/2026-04-06-show-hn-hippo-biologically-inspired-memory-for-ai-agents.html",
+      "date_iso": "2026-04-06T21:49:34+00:00",
+      "source": "https://github.com/kitfunso/hippo-memory",
+      "summary": "Article URL: https://github.com/kitfunso/hippo-memory Comments URL: https://news.ycombinator.com/item?id=47667672 Points: 87 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47667321",
+      "title": "Peptides: where to begin?",
+      "slug": "2026-04-06-peptides-where-to-begin.html",
+      "path": "posts/2026-04-06-peptides-where-to-begin.html",
+      "date_iso": "2026-04-06T21:22:03+00:00",
+      "source": "https://www.science.org/content/blog-post/ah-peptides-where-begin",
+      "summary": "Article URL: https://www.science.org/content/blog-post/ah-peptides-where-begin Comments URL: https://news.ycombinator.com/item?id=47667321 Points: 129 # Comments: 166"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47667011",
+      "title": "HackerRank (YC S11) Is Hiring",
+      "slug": "2026-04-06-hackerrank-yc-s11-is-hiring.html",
+      "path": "posts/2026-04-06-hackerrank-yc-s11-is-hiring.html",
+      "date_iso": "2026-04-06T21:00:00+00:00",
+      "source": "https://news.ycombinator.com/item?id=47667011",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=47667011 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47666024",
+      "title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
+      "slug": "2026-04-06-show-hn-ghost-pepper-local-hold-to-talk-speech-to-text-for-macos.html",
+      "path": "posts/2026-04-06-show-hn-ghost-pepper-local-hold-to-talk-speech-to-text-for-macos.html",
+      "date_iso": "2026-04-06T19:50:16+00:00",
+      "source": "https://github.com/matthartman/ghost-pepper",
+      "summary": "I built this because I wanted to see how far I could get with a voice-to-text app that used 100% local models so no data left my computer. I've been using a ton for coding and emails. Experimenting with using it as a voice interface for my other agents too. 100% open-source MIT…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/06/technology/ai-cybersecurity-hackers.html",
+      "title": "A.I. Is on Its Way to Upending Cybersecurity",
+      "slug": "2026-04-06-a-i-is-on-its-way-to-upending-cybersecurity.html",
+      "path": "posts/2026-04-06-a-i-is-on-its-way-to-upending-cybersecurity.html",
+      "date_iso": "2026-04-06T18:28:29+00:00",
+      "source": "https://www.nytimes.com/2026/04/06/technology/ai-cybersecurity-hackers.html",
+      "summary": "As tech companies prepare to release new and more powerful A.I. systems in the coming weeks, cybersecurity experts have become increasingly vocal in their warnings that A.I. technologies are fundamentally changing cybersecurity."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47664186",
+      "title": "Battle for Wesnoth: open-source, turn-based strategy game",
+      "slug": "2026-04-06-battle-for-wesnoth-open-source-turn-based-strategy-game.html",
+      "path": "posts/2026-04-06-battle-for-wesnoth-open-source-turn-based-strategy-game.html",
+      "date_iso": "2026-04-06T17:37:38+00:00",
+      "source": "https://www.wesnoth.org",
+      "summary": "Article URL: https://www.wesnoth.org Comments URL: https://news.ycombinator.com/item?id=47664186 Points: 467 # Comments: 128"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47663147",
+      "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
+      "slug": "2026-04-06-launch-hn-freestyle-sandboxes-for-coding-agents.html",
+      "path": "posts/2026-04-06-launch-hn-freestyle-sandboxes-for-coding-agents.html",
+      "date_iso": "2026-04-06T16:32:11+00:00",
+      "source": "https://www.freestyle.sh/",
+      "summary": "We’re Ben and Jacob, cofounders of Freestyle ( https://freestyle.sh ). We’re building a cloud for Coding Agents. For the first generation of agents it looked like workflows with minimal tools. 2 years ago we published a package to let AI work in SQL, at that time GPT-4 could wri…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/06/technology/ai-code-overload.html",
+      "title": "The Big Bang: A.I. Has Created a Code Overload",
+      "slug": "2026-04-06-the-big-bang-a-i-has-created-a-code-overload.html",
+      "path": "posts/2026-04-06-the-big-bang-a-i-has-created-a-code-overload.html",
+      "date_iso": "2026-04-06T16:27:31+00:00",
+      "source": "https://www.nytimes.com/2026/04/06/technology/ai-code-overload.html",
+      "summary": "Companies are scrambling to deal with the glut."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47662945",
+      "title": "Show HN: GovAuctions lets you browse government auctions at once",
+      "slug": "2026-04-06-show-hn-govauctions-lets-you-browse-government-auctions-at-once.html",
+      "path": "posts/2026-04-06-show-hn-govauctions-lets-you-browse-government-auctions-at-once.html",
+      "date_iso": "2026-04-06T16:21:46+00:00",
+      "source": "https://www.govauctions.app/",
+      "summary": "I've long been into finding deals on government auction sites (seizures, surplus sales etc.) - right now for example San Diego DHS is selling 26 tons of lead shot, with bidding starting at $1,000 ¯\\_(ツ)_/¯ It has historically been extremely tedious though: scanning dozens of jan…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47662596",
+      "title": "AI singer now occupies eleven spots on iTunes singles chart",
+      "slug": "2026-04-06-ai-singer-now-occupies-eleven-spots-on-itunes-singles-chart.html",
+      "path": "posts/2026-04-06-ai-singer-now-occupies-eleven-spots-on-itunes-singles-chart.html",
+      "date_iso": "2026-04-06T15:57:07+00:00",
+      "source": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive",
+      "summary": "Article URL: https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive Comments URL: https://news.ycombinator.com/item?id=47662596 Points: 160 # Comments: 242"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47662234",
+      "title": "A cryptography engineer's perspective on quantum computing timelines",
+      "slug": "2026-04-06-a-cryptography-engineer-s-perspective-on-quantum-computing-timelines.html",
+      "path": "posts/2026-04-06-a-cryptography-engineer-s-perspective-on-quantum-computing-timelines.html",
+      "date_iso": "2026-04-06T15:31:20+00:00",
+      "source": "https://words.filippo.io/crqc-timeline/",
+      "summary": "Article URL: https://words.filippo.io/crqc-timeline/ Comments URL: https://news.ycombinator.com/item?id=47662234 Points: 441 # Comments: 183"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47662116",
+      "title": "Sky – an Elm-inspired language that compiles to Go",
+      "slug": "2026-04-06-sky-an-elm-inspired-language-that-compiles-to-go.html",
+      "path": "posts/2026-04-06-sky-an-elm-inspired-language-that-compiles-to-go.html",
+      "date_iso": "2026-04-06T15:22:53+00:00",
+      "source": "https://github.com/anzellai/sky",
+      "summary": "Article URL: https://github.com/anzellai/sky Comments URL: https://news.ycombinator.com/item?id=47662116 Points: 161 # Comments: 57"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/06/magazine/ai-apocalypse-brain-rot-memes.html",
+      "title": "Forget the A.I. Apocalypse. Memes Have Already Nuked Our Culture.",
+      "slug": "2026-04-06-forget-the-a-i-apocalypse-memes-have-already-nuked-our-culture.html",
+      "path": "posts/2026-04-06-forget-the-a-i-apocalypse-memes-have-already-nuked-our-culture.html",
+      "date_iso": "2026-04-06T14:54:30+00:00",
+      "source": "https://www.nytimes.com/2026/04/06/magazine/ai-apocalypse-brain-rot-memes.html",
+      "summary": "From our jokes and slang to the White House’s policy messaging, internet “brain rot” has escaped our phones to take over … well, everything."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47660954",
+      "title": "German police name alleged leaders of GandCrab and REvil ransomware groups",
+      "slug": "2026-04-06-german-police-name-alleged-leaders-of-gandcrab-and-revil-ransomware-groups.html",
+      "path": "posts/2026-04-06-german-police-name-alleged-leaders-of-gandcrab-and-revil-ransomware-groups.html",
+      "date_iso": "2026-04-06T13:52:37+00:00",
+      "source": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+      "summary": "Article URL: https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/ Comments URL: https://news.ycombinator.com/item?id=47660954 Points: 297 # Comments: 143"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47660925",
+      "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+      "slug": "2026-04-06-issue-claude-code-is-unusable-for-complex-engineering-tasks-with-feb-updates.html",
+      "path": "posts/2026-04-06-issue-claude-code-is-unusable-for-complex-engineering-tasks-with-feb-updates.html",
+      "date_iso": "2026-04-06T13:50:35+00:00",
+      "source": "https://github.com/anthropics/claude-code/issues/42796",
+      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/42796 Comments URL: https://news.ycombinator.com/item?id=47660925 Points: 1014 # Comments: 574"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47660853",
+      "title": "Book review: There Is No Antimemetics Division",
+      "slug": "2026-04-06-book-review-there-is-no-antimemetics-division.html",
+      "path": "posts/2026-04-06-book-review-there-is-no-antimemetics-division.html",
+      "date_iso": "2026-04-06T13:44:01+00:00",
+      "source": "https://www.stephendiehl.com/posts/no_antimimetics/",
+      "summary": "Article URL: https://www.stephendiehl.com/posts/no_antimimetics/ Comments URL: https://news.ycombinator.com/item?id=47660853 Points: 242 # Comments: 172"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47660343",
+      "title": "PostHog (YC W20) Is Hiring",
+      "slug": "2026-04-06-posthog-yc-w20-is-hiring.html",
+      "path": "posts/2026-04-06-posthog-yc-w20-is-hiring.html",
+      "date_iso": "2026-04-06T12:59:33+00:00",
+      "source": "https://news.ycombinator.com/item?id=47660343",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=47660343 Points: 0 # Comments: 0"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47658146",
       "title": "France pulls last gold held in US for $15B gain",
       "slug": "2026-04-06-france-pulls-last-gold-held-in-us-for-15b-gain.html",
