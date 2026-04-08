@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon</h1>
+    <p><small>Published: 2026-04-07T19:37:05+00:00</small></p>
+  </header>
+
+  <main>
+    <p>About six months ago, I started working on a project to fine-tune Whisper locally on my M2 Ultra Mac Studio with a limited compute budget. I got into it. The problem I had at the time was I had 15,000 hours of audio data in Google Cloud Storage, and there was no way I could fit all the audio onto my local machine, so I built a system to stream data from my GCS to my machine during training.<p>Gemma 3n came out, so I added that. Kinda went nuts, tbh.<p>Then I put it on the shelf.<p>When Gemma 4 came out a few days ago, I dusted it off, cleaned it up, broke out the Gemma part from the Whisper fine-tuning and added support for Gemma 4.<p>I'm presenting it for you here today to play with, fork and improve upon.<p>One thing I have learned so far: It's very easy to OOM when you fine-tune on longer sequences! My local Mac Studio has 64GB RAM, so I run out of memory constantly.<p>Anywho, given how much interest there is in Gemma 4, and frankly, the fact that you can't really do audio fine-tuning with MLX, that's really the reason this exists (in addition to my personal interest). I would have preferred to use MLX and not have had to make this, but here we are. Welcome to my little side quest.<p>And so I made this. I hope you have as much fun using it as I had fun making it.<p>-Matt</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47680309">https://news.ycombinator.com/item?id=47680309</a></p>
+<p>Points: 170</p>
+<p># Comments: 22</p>
+    <p><a href="https://github.com/mattmireles/gemma-tuner-multimodal" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

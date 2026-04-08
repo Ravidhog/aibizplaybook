@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47685945",
+      "title": "We moved Railway's frontend off Next.js. Builds went from 10+ mins to under two",
+      "slug": "2026-04-08-we-moved-railway-s-frontend-off-next-js-builds-went-from-10-mins-to-under-two.html",
+      "path": "posts/2026-04-08-we-moved-railway-s-frontend-off-next-js-builds-went-from-10-mins-to-under-two.html",
+      "date_iso": "2026-04-08T06:01:00+00:00",
+      "source": "https://blog.railway.com/p/moving-railways-frontend-off-nextjs",
+      "summary": "Article URL: https://blog.railway.com/p/moving-railways-frontend-off-nextjs Comments URL: https://news.ycombinator.com/item?id=47685945 Points: 14 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47685739",
+      "title": "Revision Demoparty 2026: Razor1911 [video]",
+      "slug": "2026-04-08-revision-demoparty-2026-razor1911-video.html",
+      "path": "posts/2026-04-08-revision-demoparty-2026-razor1911-video.html",
+      "date_iso": "2026-04-08T05:34:08+00:00",
+      "source": "https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s",
+      "summary": "Article URL: https://www.youtube.com/watch?v=Lw4W9V57SKs&amp;t=5716s Comments URL: https://news.ycombinator.com/item?id=47685739 Points: 59 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47684514",
+      "title": "Protect your shed",
+      "slug": "2026-04-08-protect-your-shed.html",
+      "path": "posts/2026-04-08-protect-your-shed.html",
+      "date_iso": "2026-04-08T03:03:33+00:00",
+      "source": "https://dylanbutler.dev/blog/protect-your-shed/",
+      "summary": "Article URL: https://dylanbutler.dev/blog/protect-your-shed/ Comments URL: https://news.ycombinator.com/item?id=47684514 Points: 132 # Comments: 28"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47683376",
+      "title": "JSIR: A High-Level IR for JavaScript",
+      "slug": "2026-04-08-jsir-a-high-level-ir-for-javascript.html",
+      "path": "posts/2026-04-08-jsir-a-high-level-ir-for-javascript.html",
+      "date_iso": "2026-04-08T00:59:05+00:00",
+      "source": "https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456",
+      "summary": "Article URL: https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456 Comments URL: https://news.ycombinator.com/item?id=47683376 Points: 47 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47682719",
+      "title": "Xilem – An experimental Rust native UI framework",
+      "slug": "2026-04-07-xilem-an-experimental-rust-native-ui-framework.html",
+      "path": "posts/2026-04-07-xilem-an-experimental-rust-native-ui-framework.html",
+      "date_iso": "2026-04-07T23:36:15+00:00",
+      "source": "https://github.com/linebender/xilem",
+      "summary": "Article URL: https://github.com/linebender/xilem Comments URL: https://news.ycombinator.com/item?id=47682719 Points: 81 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47682276",
+      "title": "US and Iran agree to provisional ceasefire",
+      "slug": "2026-04-07-us-and-iran-agree-to-provisional-ceasefire.html",
+      "path": "posts/2026-04-07-us-and-iran-agree-to-provisional-ceasefire.html",
+      "date_iso": "2026-04-07T22:41:02+00:00",
+      "source": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
+      "summary": "https://www.reuters.com/world/iran-war-live-tehran-rejects-c... Comments URL: https://news.ycombinator.com/item?id=47682276 Points: 445 # Comments: 1213"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47681112",
+      "title": "Show HN: An interactive map of Tolkien's Middle-earth",
+      "slug": "2026-04-07-show-hn-an-interactive-map-of-tolkien-s-middle-earth.html",
+      "path": "posts/2026-04-07-show-hn-an-interactive-map-of-tolkien-s-middle-earth.html",
+      "date_iso": "2026-04-07T20:42:37+00:00",
+      "source": "https://middle-earth-interactive-map.web.app/",
+      "summary": "An interactive map of Tolkien’s Middle-earth, with events from across the legendarium plotted as markers. I have been commuting a fair bit between the East and West coast, and thanks to American Airlines' free onboard WiFi, I was able to vibe-code a full interactive map of Middl…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47680404",
+      "title": "S3 Files",
+      "slug": "2026-04-07-s3-files.html",
+      "path": "posts/2026-04-07-s3-files.html",
+      "date_iso": "2026-04-07T19:44:01+00:00",
+      "source": "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html",
+      "summary": "https://aws.amazon.com/blogs/aws/launching-s3-files-making-s... Comments URL: https://news.ycombinator.com/item?id=47680404 Points: 286 # Comments: 85"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47680309",
+      "title": "Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon",
+      "slug": "2026-04-07-show-hn-gemma-4-multimodal-fine-tuner-for-apple-silicon.html",
+      "path": "posts/2026-04-07-show-hn-gemma-4-multimodal-fine-tuner-for-apple-silicon.html",
+      "date_iso": "2026-04-07T19:37:05+00:00",
+      "source": "https://github.com/mattmireles/gemma-tuner-multimodal",
+      "summary": "About six months ago, I started working on a project to fine-tune Whisper locally on my M2 Ultra Mac Studio with a limited compute budget. I got into it. The problem I had at the time was I had 15,000 hours of audio data in Google Cloud Storage, and there was no way I could fit…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/07/technology/google-ai-overviews-accuracy.html",
+      "title": "How Accurate Are Google’s A.I. Overviews?",
+      "slug": "2026-04-07-how-accurate-are-google-s-a-i-overviews.html",
+      "path": "posts/2026-04-07-how-accurate-are-google-s-a-i-overviews.html",
+      "date_iso": "2026-04-07T18:48:13+00:00",
+      "source": "https://www.nytimes.com/2026/04/07/technology/google-ai-overviews-accuracy.html",
+      "summary": "The company’s A.I.-generated answers look authoritative, but they draw on an array of sources, from trustworthy sites to Facebook posts."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47679258",
+      "title": "System Card: Claude Mythos Preview [pdf]",
+      "slug": "2026-04-07-system-card-claude-mythos-preview-pdf.html",
+      "path": "posts/2026-04-07-system-card-claude-mythos-preview-pdf.html",
+      "date_iso": "2026-04-07T18:18:36+00:00",
+      "source": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+      "summary": "Related: Project Glasswing: Securing critical software for the AI era - https://news.ycombinator.com/item?id=47679121 Assessing Claude Mythos Preview's cybersecurity capabilities - https://news.ycombinator.com/item?id=47679155 Comments URL: https://news.ycombinator.com/item?id=4…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47679121",
+      "title": "Project Glasswing: Securing critical software for the AI era",
+      "slug": "2026-04-07-project-glasswing-securing-critical-software-for-the-ai-era.html",
+      "path": "posts/2026-04-07-project-glasswing-securing-critical-software-for-the-ai-era.html",
+      "date_iso": "2026-04-07T18:09:34+00:00",
+      "source": "https://www.anthropic.com/glasswing",
+      "summary": "Related: Assessing Claude Mythos Preview's cybersecurity capabilities - https://news.ycombinator.com/item?id=47679155 System Card: Claude Mythos Preview [pdf] - https://news.ycombinator.com/item?id=47679258 Also: Anthropic's Project Glasswing sounds necessary to me - https://new…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/07/technology/anthropic-claims-its-new-ai-model-mythos-is-a-cybersecurity-reckoning.html",
+      "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’",
+      "slug": "2026-04-07-anthropic-claims-its-new-a-i-model-mythos-is-a-cybersecurity-reckoning.html",
+      "path": "posts/2026-04-07-anthropic-claims-its-new-a-i-model-mythos-is-a-cybersecurity-reckoning.html",
+      "date_iso": "2026-04-07T18:00:09+00:00",
+      "source": "https://www.nytimes.com/2026/04/07/technology/anthropic-claims-its-new-ai-model-mythos-is-a-cybersecurity-reckoning.html",
+      "summary": "Anthropic’s new model will be named Claude Mythos Preview. The company is concerned about how it can be used to attack computer networks."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47678573",
+      "title": "Cambodia unveils statue to honour famous landmine-sniffing rat",
+      "slug": "2026-04-07-cambodia-unveils-statue-to-honour-famous-landmine-sniffing-rat.html",
+      "path": "posts/2026-04-07-cambodia-unveils-statue-to-honour-famous-landmine-sniffing-rat.html",
+      "date_iso": "2026-04-07T17:23:43+00:00",
+      "source": "https://www.bbc.com/news/articles/c0rx7xzd10xo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c0rx7xzd10xo Comments URL: https://news.ycombinator.com/item?id=47678573 Points: 366 # Comments: 77"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47677885",
+      "title": "Rescuing old printers with an in-browser Linux VM bridged to WebUSB over USB/IP",
+      "slug": "2026-04-07-rescuing-old-printers-with-an-in-browser-linux-vm-bridged-to-webusb-over-usb-ip.html",
+      "path": "posts/2026-04-07-rescuing-old-printers-with-an-in-browser-linux-vm-bridged-to-webusb-over-usb-ip.html",
+      "date_iso": "2026-04-07T16:33:57+00:00",
+      "source": "https://printervention.app/details",
+      "summary": "Article URL: https://printervention.app/details Comments URL: https://news.ycombinator.com/item?id=47677885 Points: 189 # Comments: 82"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47677853",
+      "title": "GLM-5.1: Towards Long-Horizon Tasks",
+      "slug": "2026-04-07-glm-5-1-towards-long-horizon-tasks.html",
+      "path": "posts/2026-04-07-glm-5-1-towards-long-horizon-tasks.html",
+      "date_iso": "2026-04-07T16:32:15+00:00",
+      "source": "https://z.ai/blog/glm-5.1",
+      "summary": "Article URL: https://z.ai/blog/glm-5.1 Comments URL: https://news.ycombinator.com/item?id=47677853 Points: 513 # Comments: 207"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47676509",
+      "title": "Lunar Flyby",
+      "slug": "2026-04-07-lunar-flyby.html",
+      "path": "posts/2026-04-07-lunar-flyby.html",
+      "date_iso": "2026-04-07T15:03:18+00:00",
+      "source": "https://www.nasa.gov/gallery/lunar-flyby/",
+      "summary": "Article URL: https://www.nasa.gov/gallery/lunar-flyby/ Comments URL: https://news.ycombinator.com/item?id=47676509 Points: 660 # Comments: 159"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47675893",
+      "title": "A blind man made it possible for others with low vision to build Lego sets",
+      "slug": "2026-04-07-a-blind-man-made-it-possible-for-others-with-low-vision-to-build-lego-sets.html",
+      "path": "posts/2026-04-07-a-blind-man-made-it-possible-for-others-with-low-vision-to-build-lego-sets.html",
+      "date_iso": "2026-04-07T14:24:30+00:00",
+      "source": "https://apnews.com/article/lego-bricks-for-blind-audio-braille-instructions-5a2a27de4354a0b1443171c3f24f29e4",
+      "summary": "Article URL: https://apnews.com/article/lego-bricks-for-blind-audio-braille-instructions-5a2a27de4354a0b1443171c3f24f29e4 Comments URL: https://news.ycombinator.com/item?id=47675893 Points: 78 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47675625",
+      "title": "Cloudflare targets 2029 for full post-quantum security",
+      "slug": "2026-04-07-cloudflare-targets-2029-for-full-post-quantum-security.html",
+      "path": "posts/2026-04-07-cloudflare-targets-2029-for-full-post-quantum-security.html",
+      "date_iso": "2026-04-07T14:07:34+00:00",
+      "source": "https://blog.cloudflare.com/post-quantum-roadmap/",
+      "summary": "Article URL: https://blog.cloudflare.com/post-quantum-roadmap/ Comments URL: https://news.ycombinator.com/item?id=47675625 Points: 319 # Comments: 97"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47675302",
+      "title": "9 Mothers (YC P26) Is Hiring – Lead Robotics and More",
+      "slug": "2026-04-07-9-mothers-yc-p26-is-hiring-lead-robotics-and-more.html",
+      "path": "posts/2026-04-07-9-mothers-yc-p26-is-hiring-lead-robotics-and-more.html",
+      "date_iso": "2026-04-07T13:45:26+00:00",
+      "source": "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q",
+      "summary": "Article URL: https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q Comments URL: https://news.ycombinator.com/item?id=47675302 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47675213",
+      "title": "Google open-sources experimental agent orchestration testbed Scion",
+      "slug": "2026-04-07-google-open-sources-experimental-agent-orchestration-testbed-scion.html",
+      "path": "posts/2026-04-07-google-open-sources-experimental-agent-orchestration-testbed-scion.html",
+      "date_iso": "2026-04-07T13:39:15+00:00",
+      "source": "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/",
+      "summary": "https://googlecloudplatform.github.io/scion/overview/ Comments URL: https://news.ycombinator.com/item?id=47675213 Points: 192 # Comments: 49"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47672362",
+      "title": "An Arctic Road Trip Brings Vital Underground Networks into View",
+      "slug": "2026-04-07-an-arctic-road-trip-brings-vital-underground-networks-into-view.html",
+      "path": "posts/2026-04-07-an-arctic-road-trip-brings-vital-underground-networks-into-view.html",
+      "date_iso": "2026-04-07T08:48:17+00:00",
+      "source": "https://www.quantamagazine.org/an-arctic-road-trip-brings-vital-underground-networks-into-view-20260406/",
+      "summary": "Article URL: https://www.quantamagazine.org/an-arctic-road-trip-brings-vital-underground-networks-into-view-20260406/ Comments URL: https://news.ycombinator.com/item?id=47672362 Points: 4 # Comments: 0"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47671527",
       "title": "Some iPhone Apps Receive Mysterious Update 'From Apple'",
       "slug": "2026-04-07-some-iphone-apps-receive-mysterious-update-from-apple.html",
