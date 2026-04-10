@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47714634",
+      "title": "How Uv Works Under the Hood",
+      "slug": "2026-04-10-how-uv-works-under-the-hood.html",
+      "path": "posts/2026-04-10-how-uv-works-under-the-hood.html",
+      "date_iso": "2026-04-10T07:11:33+00:00",
+      "source": "https://noos.blog/posts/uv-how-it-works-under-the-hood/",
+      "summary": "Article URL: https://noos.blog/posts/uv-how-it-works-under-the-hood/ Comments URL: https://news.ycombinator.com/item?id=47714634 Points: 8 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47713839",
+      "title": "YouTube locked my accounts and I can't cancel my subscription",
+      "slug": "2026-04-10-youtube-locked-my-accounts-and-i-can-t-cancel-my-subscription.html",
+      "path": "posts/2026-04-10-youtube-locked-my-accounts-and-i-can-t-cancel-my-subscription.html",
+      "date_iso": "2026-04-10T05:03:22+00:00",
+      "source": "https://pocketables.com/2026/04/ai-music-corporate-control-and-the-creator-who-cant-even-leave.html",
+      "summary": "Article URL: https://pocketables.com/2026/04/ai-music-corporate-control-and-the-creator-who-cant-even-leave.html Comments URL: https://news.ycombinator.com/item?id=47713839 Points: 60 # Comments: 35"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47713744",
+      "title": "CollectWise (YC F24) Is Hiring",
+      "slug": "2026-04-10-collectwise-yc-f24-is-hiring.html",
+      "path": "posts/2026-04-10-collectwise-yc-f24-is-hiring.html",
+      "date_iso": "2026-04-10T04:43:05+00:00",
+      "source": "https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer Comments URL: https://news.ycombinator.com/item?id=47713744 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47713584",
+      "title": "Afrika Bambaataa, hip-hop pioneer, has died",
+      "slug": "2026-04-10-afrika-bambaataa-hip-hop-pioneer-has-died.html",
+      "path": "posts/2026-04-10-afrika-bambaataa-hip-hop-pioneer-has-died.html",
+      "date_iso": "2026-04-10T04:17:28+00:00",
+      "source": "https://www.bbc.co.uk/news/articles/c2evppm30p7o",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/c2evppm30p7o Comments URL: https://news.ycombinator.com/item?id=47713584 Points: 92 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47713265",
+      "title": "Installing OpenBSD on the Pomera DM250{,XY?}",
+      "slug": "2026-04-10-installing-openbsd-on-the-pomera-dm250-xy.html",
+      "path": "posts/2026-04-10-installing-openbsd-on-the-pomera-dm250-xy.html",
+      "date_iso": "2026-04-10T03:29:14+00:00",
+      "source": "https://jcs.org/2026/04/09/openbsd-dm250",
+      "summary": "Article URL: https://jcs.org/2026/04/09/openbsd-dm250 Comments URL: https://news.ycombinator.com/item?id=47713265 Points: 9 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47713113",
+      "title": "The Raft consensus algorithm explained through \"Mean Girls\" (2019)",
+      "slug": "2026-04-10-the-raft-consensus-algorithm-explained-through-mean-girls-2019.html",
+      "path": "posts/2026-04-10-the-raft-consensus-algorithm-explained-through-mean-girls-2019.html",
+      "date_iso": "2026-04-10T03:03:14+00:00",
+      "source": "https://www.cockroachlabs.com/blog/raft-is-so-fetch/",
+      "summary": "Article URL: https://www.cockroachlabs.com/blog/raft-is-so-fetch/ Comments URL: https://news.ycombinator.com/item?id=47713113 Points: 71 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47712718",
+      "title": "I still prefer MCP over skills",
+      "slug": "2026-04-10-i-still-prefer-mcp-over-skills.html",
+      "path": "posts/2026-04-10-i-still-prefer-mcp-over-skills.html",
+      "date_iso": "2026-04-10T02:01:48+00:00",
+      "source": "https://david.coffee/i-still-prefer-mcp-over-skills/",
+      "summary": "Article URL: https://david.coffee/i-still-prefer-mcp-over-skills/ Comments URL: https://news.ycombinator.com/item?id=47712718 Points: 112 # Comments: 108"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47712656",
+      "title": "We've raised $17M to build what comes after Git",
+      "slug": "2026-04-10-we-ve-raised-17m-to-build-what-comes-after-git.html",
+      "path": "posts/2026-04-10-we-ve-raised-17m-to-build-what-comes-after-git.html",
+      "date_iso": "2026-04-10T01:52:58+00:00",
+      "source": "https://blog.gitbutler.com/series-a",
+      "summary": "Article URL: https://blog.gitbutler.com/series-a Comments URL: https://news.ycombinator.com/item?id=47712656 Points: 90 # Comments: 169"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47710907",
+      "title": "Many African families spend fortunes burying their dead",
+      "slug": "2026-04-09-many-african-families-spend-fortunes-burying-their-dead.html",
+      "path": "posts/2026-04-09-many-african-families-spend-fortunes-burying-their-dead.html",
+      "date_iso": "2026-04-09T22:10:10+00:00",
+      "source": "https://davidoks.blog/p/how-funerals-keep-africa-poor",
+      "summary": "Article URL: https://davidoks.blog/p/how-funerals-keep-africa-poor Comments URL: https://news.ycombinator.com/item?id=47710907 Points: 194 # Comments: 180"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47710466",
+      "title": "Kagi Product Tips – Customize Your Search Results with URL Redirects",
+      "slug": "2026-04-09-kagi-product-tips-customize-your-search-results-with-url-redirects.html",
+      "path": "posts/2026-04-09-kagi-product-tips-customize-your-search-results-with-url-redirects.html",
+      "date_iso": "2026-04-09T21:34:11+00:00",
+      "source": "https://blog.kagi.com/tips/redirects",
+      "summary": "Article URL: https://blog.kagi.com/tips/redirects Comments URL: https://news.ycombinator.com/item?id=47710466 Points: 67 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47710007",
+      "title": "Moving from WordPress to Jekyll (and static site generators in general)",
+      "slug": "2026-04-09-moving-from-wordpress-to-jekyll-and-static-site-generators-in-general.html",
+      "path": "posts/2026-04-09-moving-from-wordpress-to-jekyll-and-static-site-generators-in-general.html",
+      "date_iso": "2026-04-09T20:59:51+00:00",
+      "source": "https://www.demandsphere.com/blog/rebuilding-demandsphere-with-jekyll-and-claude-code/",
+      "summary": "Article URL: https://www.demandsphere.com/blog/rebuilding-demandsphere-with-jekyll-and-claude-code/ Comments URL: https://news.ycombinator.com/item?id=47710007 Points: 77 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47709158",
+      "title": "Charcuterie – Visual similarity Unicode explorer",
+      "slug": "2026-04-09-charcuterie-visual-similarity-unicode-explorer.html",
+      "path": "posts/2026-04-09-charcuterie-visual-similarity-unicode-explorer.html",
+      "date_iso": "2026-04-09T20:12:07+00:00",
+      "source": "https://charcuterie.elastiq.ch/",
+      "summary": "Article URL: https://charcuterie.elastiq.ch/ Comments URL: https://news.ycombinator.com/item?id=47709158 Points: 210 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47709130",
+      "title": "Reverse engineering Gemini's SynthID detection",
+      "slug": "2026-04-09-reverse-engineering-gemini-s-synthid-detection.html",
+      "path": "posts/2026-04-09-reverse-engineering-gemini-s-synthid-detection.html",
+      "date_iso": "2026-04-09T20:10:25+00:00",
+      "source": "https://github.com/aloshdenny/reverse-SynthID",
+      "summary": "Article URL: https://github.com/aloshdenny/reverse-SynthID Comments URL: https://news.ycombinator.com/item?id=47709130 Points: 146 # Comments: 50"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47708818",
+      "title": "Native Instant Space Switching on macOS",
+      "slug": "2026-04-09-native-instant-space-switching-on-macos.html",
+      "path": "posts/2026-04-09-native-instant-space-switching-on-macos.html",
+      "date_iso": "2026-04-09T19:48:26+00:00",
+      "source": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
+      "summary": "Article URL: https://arhan.sh/blog/native-instant-space-switching-on-macos/ Comments URL: https://news.ycombinator.com/item?id=47708818 Points: 465 # Comments: 213"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47708041",
+      "title": "PicoZ80 – Drop-In Z80 Replacement",
+      "slug": "2026-04-09-picoz80-drop-in-z80-replacement.html",
+      "path": "posts/2026-04-09-picoz80-drop-in-z80-replacement.html",
+      "date_iso": "2026-04-09T18:53:20+00:00",
+      "source": "https://eaw.app/picoz80/",
+      "summary": "Article URL: https://eaw.app/picoz80/ Comments URL: https://news.ycombinator.com/item?id=47708041 Points: 185 # Comments: 30"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47707762",
+      "title": "Hegel, a universal property-based testing protocol and family of PBT libraries",
+      "slug": "2026-04-09-hegel-a-universal-property-based-testing-protocol-and-family-of-pbt-libraries.html",
+      "path": "posts/2026-04-09-hegel-a-universal-property-based-testing-protocol-and-family-of-pbt-libraries.html",
+      "date_iso": "2026-04-09T18:37:45+00:00",
+      "source": "https://hegel.dev",
+      "summary": "Article URL: https://hegel.dev Comments URL: https://news.ycombinator.com/item?id=47707762 Points: 112 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47707632",
+      "title": "Instant 1.0, a backend for AI-coded apps",
+      "slug": "2026-04-09-instant-1-0-a-backend-for-ai-coded-apps.html",
+      "path": "posts/2026-04-09-instant-1-0-a-backend-for-ai-coded-apps.html",
+      "date_iso": "2026-04-09T18:30:59+00:00",
+      "source": "https://www.instantdb.com/essays/architecture",
+      "summary": "Article URL: https://www.instantdb.com/essays/architecture Comments URL: https://news.ycombinator.com/item?id=47707632 Points: 135 # Comments: 76"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47707477",
+      "title": "Old laptops in a colo as low cost servers",
+      "slug": "2026-04-09-old-laptops-in-a-colo-as-low-cost-servers.html",
+      "path": "posts/2026-04-09-old-laptops-in-a-colo-as-low-cost-servers.html",
+      "date_iso": "2026-04-09T18:22:39+00:00",
+      "source": "https://colaptop.pages.dev/",
+      "summary": "Article URL: https://colaptop.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=47707477 Points: 249 # Comments: 139"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/09/business/volkswagen-electric-vehicles-id4-chattanooga.html",
+      "title": "Volkswagen to End E.V. Production at Tennessee Plant",
+      "slug": "2026-04-09-volkswagen-to-end-e-v-production-at-tennessee-plant.html",
+      "path": "posts/2026-04-09-volkswagen-to-end-e-v-production-at-tennessee-plant.html",
+      "date_iso": "2026-04-09T17:58:52+00:00",
+      "source": "https://www.nytimes.com/2026/04/09/business/volkswagen-electric-vehicles-id4-chattanooga.html",
+      "summary": "Volkswagen said it would stop U.S. production of the ID.4, an electric sport utility vehicle."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47706141",
+      "title": "Research-Driven Agents: When an agent reads before it codes",
+      "slug": "2026-04-09-research-driven-agents-when-an-agent-reads-before-it-codes.html",
+      "path": "posts/2026-04-09-research-driven-agents-when-an-agent-reads-before-it-codes.html",
+      "date_iso": "2026-04-09T16:58:49+00:00",
+      "source": "https://blog.skypilot.co/research-driven-agents/",
+      "summary": "Article URL: https://blog.skypilot.co/research-driven-agents/ Comments URL: https://news.ycombinator.com/item?id=47706141 Points: 171 # Comments: 48"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47706140",
+      "title": "Unfolder for Mac – A 3D model unfolding tool for creating papercraft",
+      "slug": "2026-04-09-unfolder-for-mac-a-3d-model-unfolding-tool-for-creating-papercraft.html",
+      "path": "posts/2026-04-09-unfolder-for-mac-a-3d-model-unfolding-tool-for-creating-papercraft.html",
+      "date_iso": "2026-04-09T16:58:46+00:00",
+      "source": "https://www.unfolder.app/",
+      "summary": "Article URL: https://www.unfolder.app/ Comments URL: https://news.ycombinator.com/item?id=47706140 Points: 211 # Comments: 44"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47699814",
       "title": "Process Manager for Autonomous AI Agents",
       "slug": "2026-04-09-process-manager-for-autonomous-ai-agents.html",
