@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47727711",
+      "title": "20 years on AWS and never not my job",
+      "slug": "2026-04-11-20-years-on-aws-and-never-not-my-job.html",
+      "path": "posts/2026-04-11-20-years-on-aws-and-never-not-my-job.html",
+      "date_iso": "2026-04-11T05:31:10+00:00",
+      "source": "https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html",
+      "summary": "Article URL: https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html Comments URL: https://news.ycombinator.com/item?id=47727711 Points: 97 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47727659",
+      "title": "Productive Procrastination",
+      "slug": "2026-04-11-productive-procrastination.html",
+      "path": "posts/2026-04-11-productive-procrastination.html",
+      "date_iso": "2026-04-11T05:21:21+00:00",
+      "source": "https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/",
+      "summary": "Article URL: https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/ Comments URL: https://news.ycombinator.com/item?id=47727659 Points: 8 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47727575",
+      "title": "Great at gaming? US air traffic control wants you to apply",
+      "slug": "2026-04-11-great-at-gaming-us-air-traffic-control-wants-you-to-apply.html",
+      "path": "posts/2026-04-11-great-at-gaming-us-air-traffic-control-wants-you-to-apply.html",
+      "date_iso": "2026-04-11T05:04:17+00:00",
+      "source": "https://www.bbc.com/news/articles/ce84rvx0e6do",
+      "summary": "Article URL: https://www.bbc.com/news/articles/ce84rvx0e6do Comments URL: https://news.ycombinator.com/item?id=47727575 Points: 17 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47727076",
+      "title": "Quien – A better WHOIS lookup tool",
+      "slug": "2026-04-11-quien-a-better-whois-lookup-tool.html",
+      "path": "posts/2026-04-11-quien-a-better-whois-lookup-tool.html",
+      "date_iso": "2026-04-11T03:31:30+00:00",
+      "source": "https://github.com/retlehs/quien/",
+      "summary": "Article URL: https://github.com/retlehs/quien/ Comments URL: https://news.ycombinator.com/item?id=47727076 Points: 25 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47725583",
+      "title": "Artemis II safely splashes down",
+      "slug": "2026-04-11-artemis-ii-safely-splashes-down.html",
+      "path": "posts/2026-04-11-artemis-ii-safely-splashes-down.html",
+      "date_iso": "2026-04-11T00:10:51+00:00",
+      "source": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
+      "summary": "Article URL: https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/ Comments URL: https://news.ycombinator.com/item?id=47725583 Points: 800 # Comments: 259"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html",
+      "title": "Molotov Cocktail Is Hurled at Home of Sam Altman, OpenAI’s CEO",
+      "slug": "2026-04-10-molotov-cocktail-is-hurled-at-home-of-sam-altman-openai-s-ceo.html",
+      "path": "posts/2026-04-10-molotov-cocktail-is-hurled-at-home-of-sam-altman-openai-s-ceo.html",
+      "date_iso": "2026-04-10T23:52:32+00:00",
+      "source": "https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html",
+      "summary": "It was unclear whether Sam Altman was home at the time of the attack."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47725403",
+      "title": "Italo Calvino: A traveller in a world of uncertainty",
+      "slug": "2026-04-10-italo-calvino-a-traveller-in-a-world-of-uncertainty.html",
+      "path": "posts/2026-04-10-italo-calvino-a-traveller-in-a-world-of-uncertainty.html",
+      "date_iso": "2026-04-10T23:48:07+00:00",
+      "source": "https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty",
+      "summary": "Article URL: https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty Comments URL: https://news.ycombinator.com/item?id=47725403 Points: 67 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47724352",
+      "title": "Filing the corners off my MacBooks",
+      "slug": "2026-04-10-filing-the-corners-off-my-macbooks.html",
+      "path": "posts/2026-04-10-filing-the-corners-off-my-macbooks.html",
+      "date_iso": "2026-04-10T22:16:40+00:00",
+      "source": "https://kentwalters.com/posts/corners/",
+      "summary": "Article URL: https://kentwalters.com/posts/corners/ Comments URL: https://news.ycombinator.com/item?id=47724352 Points: 678 # Comments: 350"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47724118",
+      "title": "Installing every* Firefox extension",
+      "slug": "2026-04-10-installing-every-firefox-extension.html",
+      "path": "posts/2026-04-10-installing-every-firefox-extension.html",
+      "date_iso": "2026-04-10T21:56:33+00:00",
+      "source": "https://jack.cab/blog/every-firefox-extension",
+      "summary": "Article URL: https://jack.cab/blog/every-firefox-extension Comments URL: https://news.ycombinator.com/item?id=47724118 Points: 326 # Comments: 36"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47722333",
+      "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
+      "slug": "2026-04-10-chimpanzees-in-uganda-locked-in-eight-year-civil-war-say-researchers.html",
+      "path": "posts/2026-04-10-chimpanzees-in-uganda-locked-in-eight-year-civil-war-say-researchers.html",
+      "date_iso": "2026-04-10T19:10:22+00:00",
+      "source": "https://www.bbc.com/news/articles/cr71lkzv49po",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cr71lkzv49po Comments URL: https://news.ycombinator.com/item?id=47722333 Points: 305 # Comments: 174"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47722262",
+      "title": "Watgo – A WebAssembly Toolkit for Go",
+      "slug": "2026-04-10-watgo-a-webassembly-toolkit-for-go.html",
+      "path": "posts/2026-04-10-watgo-a-webassembly-toolkit-for-go.html",
+      "date_iso": "2026-04-10T19:03:39+00:00",
+      "source": "https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/",
+      "summary": "Article URL: https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/ Comments URL: https://news.ycombinator.com/item?id=47722262 Points: 91 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47721955",
+      "title": "OpenClaw’s memory is unreliable, and you don’t know when it will break",
+      "slug": "2026-04-10-openclaw-s-memory-is-unreliable-and-you-don-t-know-when-it-will-break.html",
+      "path": "posts/2026-04-10-openclaw-s-memory-is-unreliable-and-you-don-t-know-when-it-will-break.html",
+      "date_iso": "2026-04-10T18:35:29+00:00",
+      "source": "https://blog.nishantsoni.com/p/ive-seen-a-thousand-openclaw-deploys",
+      "summary": "Article URL: https://blog.nishantsoni.com/p/ive-seen-a-thousand-openclaw-deploys Comments URL: https://news.ycombinator.com/item?id=47721955 Points: 104 # Comments: 114"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47721953",
+      "title": "AI assistance when contributing to the Linux kernel",
+      "slug": "2026-04-10-ai-assistance-when-contributing-to-the-linux-kernel.html",
+      "path": "posts/2026-04-10-ai-assistance-when-contributing-to-the-linux-kernel.html",
+      "date_iso": "2026-04-10T18:35:21+00:00",
+      "source": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+      "summary": "Article URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst Comments URL: https://news.ycombinator.com/item?id=47721953 Points: 276 # Comments: 182"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47721946",
+      "title": "JSON formatter Chrome plugin now closed and injecting adware",
+      "slug": "2026-04-10-json-formatter-chrome-plugin-now-closed-and-injecting-adware.html",
+      "path": "posts/2026-04-10-json-formatter-chrome-plugin-now-closed-and-injecting-adware.html",
+      "date_iso": "2026-04-10T18:34:55+00:00",
+      "source": "https://github.com/callumlocke/json-formatter",
+      "summary": "Article URL: https://github.com/callumlocke/json-formatter Comments URL: https://news.ycombinator.com/item?id=47721946 Points: 201 # Comments: 109"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47720918",
+      "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+      "slug": "2026-04-10-bild-ai-yc-w25-is-hiring-a-founding-product-engineer.html",
+      "path": "posts/2026-04-10-bild-ai-yc-w25-is-hiring-a-founding-product-engineer.html",
+      "date_iso": "2026-04-10T17:01:07+00:00",
+      "source": "https://www.ycombinator.com/companies/bild-ai/jobs/dDMaxVN-founding-product-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/bild-ai/jobs/dDMaxVN-founding-product-engineer Comments URL: https://news.ycombinator.com/item?id=47720918 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47720827",
+      "title": "A compelling title that is cryptic enough to get you to take action on it",
+      "slug": "2026-04-10-a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it.html",
+      "path": "posts/2026-04-10-a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it.html",
+      "date_iso": "2026-04-10T16:53:55+00:00",
+      "source": "https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/",
+      "summary": "Article URL: https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/ Comments URL: https://news.ycombinator.com/item?id=47720827 Points: 216 # Comments: 117"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/10/well/eat/ai-chatbots-nutrition.html",
+      "title": "Have You Used A.I. Chatbots for Nutrition Advice?",
+      "slug": "2026-04-10-have-you-used-a-i-chatbots-for-nutrition-advice.html",
+      "path": "posts/2026-04-10-have-you-used-a-i-chatbots-for-nutrition-advice.html",
+      "date_iso": "2026-04-10T16:41:15+00:00",
+      "source": "https://www.nytimes.com/2026/04/10/well/eat/ai-chatbots-nutrition.html",
+      "summary": "Whether you’re looking to manage a health condition, lose weight or simply eat better, we want to hear from you."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47720419",
+      "title": "Industrial design files for Keychron keyboards and mice",
+      "slug": "2026-04-10-industrial-design-files-for-keychron-keyboards-and-mice.html",
+      "path": "posts/2026-04-10-industrial-design-files-for-keychron-keyboards-and-mice.html",
+      "date_iso": "2026-04-10T16:22:26+00:00",
+      "source": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
+      "summary": "Article URL: https://github.com/Keychron/Keychron-Keyboards-Hardware-Design Comments URL: https://news.ycombinator.com/item?id=47720419 Points: 355 # Comments: 109"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47720418",
+      "title": "Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs",
+      "slug": "2026-04-10-launch-hn-twill-ai-yc-s25-delegate-to-cloud-agents-get-back-prs.html",
+      "path": "posts/2026-04-10-launch-hn-twill-ai-yc-s25-delegate-to-cloud-agents-get-back-prs.html",
+      "date_iso": "2026-04-10T16:22:13+00:00",
+      "source": "https://twill.ai",
+      "summary": "Hey HN, we're Willy and Dan, co-founders of Twill.ai ( https://twill.ai/ ). Twill runs coding CLIs like Claude Code and Codex in isolated cloud sandboxes. You hand it work through Slack, GitHub, Linear, our web app or CLI, and it comes back with a PR, a review, a diagnosis, or a…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47719942",
+      "title": "WireGuard makes new Windows release following Microsoft signing resolution",
+      "slug": "2026-04-10-wireguard-makes-new-windows-release-following-microsoft-signing-resolution.html",
+      "path": "posts/2026-04-10-wireguard-makes-new-windows-release-following-microsoft-signing-resolution.html",
+      "date_iso": "2026-04-10T15:49:52+00:00",
+      "source": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
+      "summary": "Recent and related: Microsoft terminated the account VeraCrypt used to sign Windows drivers - https://news.ycombinator.com/item?id=47686549 Comments URL: https://news.ycombinator.com/item?id=47719942 Points: 453 # Comments: 128"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47719740",
+      "title": "1D Chess",
+      "slug": "2026-04-10-1d-chess.html",
+      "path": "posts/2026-04-10-1d-chess.html",
+      "date_iso": "2026-04-10T15:37:28+00:00",
+      "source": "https://rowan441.github.io/1dchess/chess.html",
+      "summary": "Article URL: https://rowan441.github.io/1dchess/chess.html Comments URL: https://news.ycombinator.com/item?id=47719740 Points: 776 # Comments: 139"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47719274",
+      "title": "Helium is hard to replace",
+      "slug": "2026-04-10-helium-is-hard-to-replace.html",
+      "path": "posts/2026-04-10-helium-is-hard-to-replace.html",
+      "date_iso": "2026-04-10T15:06:51+00:00",
+      "source": "https://www.construction-physics.com/p/helium-is-hard-to-replace",
+      "summary": "Article URL: https://www.construction-physics.com/p/helium-is-hard-to-replace Comments URL: https://news.ycombinator.com/item?id=47719274 Points: 298 # Comments: 205"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47714634",
       "title": "How Uv Works Under the Hood",
       "slug": "2026-04-10-how-uv-works-under-the-hood.html",
