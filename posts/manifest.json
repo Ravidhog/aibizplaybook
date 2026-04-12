@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47736907",
+      "title": "Pope Leo XIV denounces the 'delusion of omnipotence' he says fuels the Iran war",
+      "slug": "2026-04-12-pope-leo-xiv-denounces-the-delusion-of-omnipotence-he-says-fuels-the-iran-war.html",
+      "path": "posts/2026-04-12-pope-leo-xiv-denounces-the-delusion-of-omnipotence-he-says-fuels-the-iran-war.html",
+      "date_iso": "2026-04-12T07:13:55+00:00",
+      "source": "https://www.politico.com/news/2026/04/11/pope-leo-xiv-denounces-the-delusion-of-omnipotence-he-says-fuels-the-us-israeli-war-in-iran-00868142",
+      "summary": "Article URL: https://www.politico.com/news/2026/04/11/pope-leo-xiv-denounces-the-delusion-of-omnipotence-he-says-fuels-the-us-israeli-war-in-iran-00868142 Comments URL: https://news.ycombinator.com/item?id=47736907 Points: 11 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47736555",
+      "title": "I run multiple $10K MRR companies on a $20/month tech stack",
+      "slug": "2026-04-12-i-run-multiple-10k-mrr-companies-on-a-20-month-tech-stack.html",
+      "path": "posts/2026-04-12-i-run-multiple-10k-mrr-companies-on-a-20-month-tech-stack.html",
+      "date_iso": "2026-04-12T06:00:00+00:00",
+      "source": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
+      "summary": "Article URL: https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack Comments URL: https://news.ycombinator.com/item?id=47736555 Points: 43 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47736298",
+      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+      "slug": "2026-04-12-us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional.html",
+      "path": "posts/2026-04-12-us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional.html",
+      "date_iso": "2026-04-12T05:08:03+00:00",
+      "source": "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional",
+      "summary": "Article URL: https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional Comments URL: https://news.ycombinator.com/item?id=47736298 Points: 101 # Comments: 65"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47735810",
+      "title": "Why meaningful days look like nothing while you are living them",
+      "slug": "2026-04-12-why-meaningful-days-look-like-nothing-while-you-are-living-them.html",
+      "path": "posts/2026-04-12-why-meaningful-days-look-like-nothing-while-you-are-living-them.html",
+      "date_iso": "2026-04-12T03:04:05+00:00",
+      "source": "https://pilgrima.ge/p/the-grand-line",
+      "summary": "Article URL: https://pilgrima.ge/p/the-grand-line Comments URL: https://news.ycombinator.com/item?id=47735810 Points: 27 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47735779",
+      "title": "Building a Z-Machine in the worst possible language – Whitebeard's Realm",
+      "slug": "2026-04-12-building-a-z-machine-in-the-worst-possible-language-whitebeard-s-realm.html",
+      "path": "posts/2026-04-12-building-a-z-machine-in-the-worst-possible-language-whitebeard-s-realm.html",
+      "date_iso": "2026-04-12T02:57:24+00:00",
+      "source": "https://whitebeard.blog/posts/building-a-z-machine-in-elm/",
+      "summary": "Article URL: https://whitebeard.blog/posts/building-a-z-machine-in-elm/ Comments URL: https://news.ycombinator.com/item?id=47735779 Points: 22 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47735581",
+      "title": "How a dancer with ALS used brainwaves to perform live",
+      "slug": "2026-04-12-how-a-dancer-with-als-used-brainwaves-to-perform-live.html",
+      "path": "posts/2026-04-12-how-a-dancer-with-als-used-brainwaves-to-perform-live.html",
+      "date_iso": "2026-04-12T02:09:13+00:00",
+      "source": "https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/",
+      "summary": "Article URL: https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/ Comments URL: https://news.ycombinator.com/item?id=47735581 Points: 34 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47735535",
+      "title": "The End of Eleventy",
+      "slug": "2026-04-12-the-end-of-eleventy.html",
+      "path": "posts/2026-04-12-the-end-of-eleventy.html",
+      "date_iso": "2026-04-12T01:55:48+00:00",
+      "source": "https://brennan.day/the-end-of-eleventy/",
+      "summary": "Article URL: https://brennan.day/the-end-of-eleventy/ Comments URL: https://news.ycombinator.com/item?id=47735535 Points: 141 # Comments: 86"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47735405",
+      "title": "Software Preservation Group: C++ History Collection",
+      "slug": "2026-04-12-software-preservation-group-c-history-collection.html",
+      "path": "posts/2026-04-12-software-preservation-group-c-history-collection.html",
+      "date_iso": "2026-04-12T01:24:25+00:00",
+      "source": "https://softwarepreservation.computerhistory.org/c_plus_plus/",
+      "summary": "Article URL: https://softwarepreservation.computerhistory.org/c_plus_plus/ Comments URL: https://news.ycombinator.com/item?id=47735405 Points: 20 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47734878",
+      "title": "High-Level Rust: Getting 80% of the Benefits with 20% of the Pain",
+      "slug": "2026-04-11-high-level-rust-getting-80-of-the-benefits-with-20-of-the-pain.html",
+      "path": "posts/2026-04-11-high-level-rust-getting-80-of-the-benefits-with-20-of-the-pain.html",
+      "date_iso": "2026-04-11T23:30:40+00:00",
+      "source": "https://hamy.xyz/blog/2026-01_high-level-rust",
+      "summary": "Article URL: https://hamy.xyz/blog/2026-01_high-level-rust Comments URL: https://news.ycombinator.com/item?id=47734878 Points: 28 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47733971",
+      "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
+      "slug": "2026-04-11-apple-silicon-and-virtual-machines-beating-the-2-vm-limit-2023.html",
+      "path": "posts/2026-04-11-apple-silicon-and-virtual-machines-beating-the-2-vm-limit-2023.html",
+      "date_iso": "2026-04-11T20:58:48+00:00",
+      "source": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
+      "summary": "Article URL: https://khronokernel.com/macos/2023/08/08/AS-VM.html Comments URL: https://news.ycombinator.com/item?id=47733971 Points: 190 # Comments: 129"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47733561",
+      "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
+      "slug": "2026-04-11-447-tb-cm-at-zero-retention-energy-atomic-scale-memory-on-fluorographane.html",
+      "path": "posts/2026-04-11-447-tb-cm-at-zero-retention-energy-atomic-scale-memory-on-fluorographane.html",
+      "date_iso": "2026-04-11T20:08:46+00:00",
+      "source": "https://zenodo.org/records/19513269",
+      "summary": "Article URL: https://zenodo.org/records/19513269 Comments URL: https://news.ycombinator.com/item?id=47733561 Points: 202 # Comments: 99"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47733521",
+      "title": "Dark Castle",
+      "slug": "2026-04-11-dark-castle.html",
+      "path": "posts/2026-04-11-dark-castle.html",
+      "date_iso": "2026-04-11T20:01:59+00:00",
+      "source": "https://darkcastle.co.uk/",
+      "summary": "Article URL: https://darkcastle.co.uk/ Comments URL: https://news.ycombinator.com/item?id=47733521 Points: 176 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47733217",
+      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+      "slug": "2026-04-11-how-we-broke-top-ai-agent-benchmarks-and-what-comes-next.html",
+      "path": "posts/2026-04-11-how-we-broke-top-ai-agent-benchmarks-and-what-comes-next.html",
+      "date_iso": "2026-04-11T19:15:56+00:00",
+      "source": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+      "summary": "Article URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/ Comments URL: https://news.ycombinator.com/item?id=47733217 Points: 350 # Comments: 89"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47732697",
+      "title": "How to build a `Git diff` driver",
+      "slug": "2026-04-11-how-to-build-a-git-diff-driver.html",
+      "path": "posts/2026-04-11-how-to-build-a-git-diff-driver.html",
+      "date_iso": "2026-04-11T18:07:49+00:00",
+      "source": "https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/",
+      "summary": "Article URL: https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/ Comments URL: https://news.ycombinator.com/item?id=47732697 Points: 107 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47732402",
+      "title": "The APL programming language source code (2012)",
+      "slug": "2026-04-11-the-apl-programming-language-source-code-2012.html",
+      "path": "posts/2026-04-11-the-apl-programming-language-source-code-2012.html",
+      "date_iso": "2026-04-11T17:34:10+00:00",
+      "source": "https://computerhistory.org/blog/the-apl-programming-language-source-code/",
+      "summary": "Article URL: https://computerhistory.org/blog/the-apl-programming-language-source-code/ Comments URL: https://news.ycombinator.com/item?id=47732402 Points: 66 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47732020",
+      "title": "Small models also found the vulnerabilities that Mythos found",
+      "slug": "2026-04-11-small-models-also-found-the-vulnerabilities-that-mythos-found.html",
+      "path": "posts/2026-04-11-small-models-also-found-the-vulnerabilities-that-mythos-found.html",
+      "date_iso": "2026-04-11T16:47:28+00:00",
+      "source": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+      "summary": "Article URL: https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier Comments URL: https://news.ycombinator.com/item?id=47732020 Points: 1028 # Comments: 276"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47731838",
+      "title": "Keeping a Postgres Queue Healthy",
+      "slug": "2026-04-11-keeping-a-postgres-queue-healthy.html",
+      "path": "posts/2026-04-11-keeping-a-postgres-queue-healthy.html",
+      "date_iso": "2026-04-11T16:24:08+00:00",
+      "source": "https://planetscale.com/blog/keeping-a-postgres-queue-healthy",
+      "summary": "Article URL: https://planetscale.com/blog/keeping-a-postgres-queue-healthy Comments URL: https://news.ycombinator.com/item?id=47731838 Points: 94 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47731506",
+      "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
+      "slug": "2026-04-11-advanced-mac-substitute-is-an-api-level-reimplementation-of-1980s-era-mac-os.html",
+      "path": "posts/2026-04-11-advanced-mac-substitute-is-an-api-level-reimplementation-of-1980s-era-mac-os.html",
+      "date_iso": "2026-04-11T15:39:19+00:00",
+      "source": "https://www.v68k.org/advanced-mac-substitute/",
+      "summary": "Article URL: https://www.v68k.org/advanced-mac-substitute/ Comments URL: https://news.ycombinator.com/item?id=47731506 Points: 233 # Comments: 61"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47730712",
+      "title": "The Problem That Built an Industry",
+      "slug": "2026-04-11-the-problem-that-built-an-industry.html",
+      "path": "posts/2026-04-11-the-problem-that-built-an-industry.html",
+      "date_iso": "2026-04-11T14:03:03+00:00",
+      "source": "https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/",
+      "summary": "Article URL: https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/ Comments URL: https://news.ycombinator.com/item?id=47730712 Points: 124 # Comments: 44"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47730194",
+      "title": "Cirrus Labs to join OpenAI",
+      "slug": "2026-04-11-cirrus-labs-to-join-openai.html",
+      "path": "posts/2026-04-11-cirrus-labs-to-join-openai.html",
+      "date_iso": "2026-04-11T13:01:34+00:00",
+      "source": "https://cirruslabs.org/",
+      "summary": "Article URL: https://cirruslabs.org/ Comments URL: https://news.ycombinator.com/item?id=47730194 Points: 261 # Comments: 126"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47727711",
       "title": "20 years on AWS and never not my job",
       "slug": "2026-04-11-20-years-on-aws-and-never-not-my-job.html",
