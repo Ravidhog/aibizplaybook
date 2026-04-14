@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47762641",
+      "title": "Introspective Diffusion Language Models",
+      "slug": "2026-04-14-introspective-diffusion-language-models.html",
+      "path": "posts/2026-04-14-introspective-diffusion-language-models.html",
+      "date_iso": "2026-04-14T07:57:33+00:00",
+      "source": "https://introspective-diffusion.github.io/",
+      "summary": "Article URL: https://introspective-diffusion.github.io/ Comments URL: https://news.ycombinator.com/item?id=47762641 Points: 6 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47762060",
+      "title": "The Shinkansen",
+      "slug": "2026-04-14-the-shinkansen.html",
+      "path": "posts/2026-04-14-the-shinkansen.html",
+      "date_iso": "2026-04-14T06:41:01+00:00",
+      "source": "https://www.worksinprogress.news/p/the-secret-behind-japans-railways",
+      "summary": "Article URL: https://www.worksinprogress.news/p/the-secret-behind-japans-railways Comments URL: https://news.ycombinator.com/item?id=47762060 Points: 37 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47762006",
+      "title": "Can Claude Fly a Plane?",
+      "slug": "2026-04-14-can-claude-fly-a-plane.html",
+      "path": "posts/2026-04-14-can-claude-fly-a-plane.html",
+      "date_iso": "2026-04-14T06:32:45+00:00",
+      "source": "https://so.long.thanks.fish/can-claude-fly-a-plane/",
+      "summary": "Article URL: https://so.long.thanks.fish/can-claude-fly-a-plane/ Comments URL: https://news.ycombinator.com/item?id=47762006 Points: 67 # Comments: 55"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47761997",
+      "title": "Distributed DuckDB Instance",
+      "slug": "2026-04-14-distributed-duckdb-instance.html",
+      "path": "posts/2026-04-14-distributed-duckdb-instance.html",
+      "date_iso": "2026-04-14T06:31:44+00:00",
+      "source": "https://github.com/citguru/openduck",
+      "summary": "Article URL: https://github.com/citguru/openduck Comments URL: https://news.ycombinator.com/item?id=47761997 Points: 34 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47761825",
+      "title": "Roblox devs now need a subscription to share their games freely",
+      "slug": "2026-04-14-roblox-devs-now-need-a-subscription-to-share-their-games-freely.html",
+      "path": "posts/2026-04-14-roblox-devs-now-need-a-subscription-to-share-their-games-freely.html",
+      "date_iso": "2026-04-14T06:04:31+00:00",
+      "source": "https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166",
+      "summary": "Article URL: https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166 Comments URL: https://news.ycombinator.com/item?id=47761825 Points: 37 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47761723",
+      "title": "MOS tech 6502 8-bit microprocessor in pure SQL powered by Postgres",
+      "slug": "2026-04-14-mos-tech-6502-8-bit-microprocessor-in-pure-sql-powered-by-postgres.html",
+      "path": "posts/2026-04-14-mos-tech-6502-8-bit-microprocessor-in-pure-sql-powered-by-postgres.html",
+      "date_iso": "2026-04-14T05:46:49+00:00",
+      "source": "https://github.com/lasect/pg_6502",
+      "summary": "Article URL: https://github.com/lasect/pg_6502 Comments URL: https://news.ycombinator.com/item?id=47761723 Points: 6 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47761625",
+      "title": "Multi-Agentic Software Development Is a Distributed Systems Problem",
+      "slug": "2026-04-14-multi-agentic-software-development-is-a-distributed-systems-problem.html",
+      "path": "posts/2026-04-14-multi-agentic-software-development-is-a-distributed-systems-problem.html",
+      "date_iso": "2026-04-14T05:32:48+00:00",
+      "source": "https://kirancodes.me/posts/log-distributed-llms.html",
+      "summary": "Article URL: https://kirancodes.me/posts/log-distributed-llms.html Comments URL: https://news.ycombinator.com/item?id=47761625 Points: 18 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47761609",
+      "title": "TanStack Start Now Support React Server Components",
+      "slug": "2026-04-14-tanstack-start-now-support-react-server-components.html",
+      "path": "posts/2026-04-14-tanstack-start-now-support-react-server-components.html",
+      "date_iso": "2026-04-14T05:28:51+00:00",
+      "source": "https://tanstack.com/blog/react-server-components",
+      "summary": "Article URL: https://tanstack.com/blog/react-server-components Comments URL: https://news.ycombinator.com/item?id=47761609 Points: 42 # Comments: 33"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47761310",
+      "title": "Math Is Still Catching Up to the Mysterious Genius of Srinivasa Ramanujan (2024)",
+      "slug": "2026-04-14-math-is-still-catching-up-to-the-mysterious-genius-of-srinivasa-ramanujan-2024.html",
+      "path": "posts/2026-04-14-math-is-still-catching-up-to-the-mysterious-genius-of-srinivasa-ramanujan-2024.html",
+      "date_iso": "2026-04-14T04:39:11+00:00",
+      "source": "https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/",
+      "summary": "Article URL: https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/ Comments URL: https://news.ycombinator.com/item?id=47761310 Points: 59 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47760764",
+      "title": "A new spam policy for \"back button hijacking\"",
+      "slug": "2026-04-14-a-new-spam-policy-for-back-button-hijacking.html",
+      "path": "posts/2026-04-14-a-new-spam-policy-for-back-button-hijacking.html",
+      "date_iso": "2026-04-14T03:06:27+00:00",
+      "source": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
+      "summary": "Article URL: https://developers.google.com/search/blog/2026/04/back-button-hijacking Comments URL: https://news.ycombinator.com/item?id=47760764 Points: 282 # Comments: 165"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47760529",
+      "title": "DaVinci Resolve releases Photo Editor",
+      "slug": "2026-04-14-davinci-resolve-releases-photo-editor.html",
+      "path": "posts/2026-04-14-davinci-resolve-releases-photo-editor.html",
+      "date_iso": "2026-04-14T02:25:15+00:00",
+      "source": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
+      "summary": "Article URL: https://www.blackmagicdesign.com/products/davinciresolve/photo Comments URL: https://news.ycombinator.com/item?id=47760529 Points: 460 # Comments: 110"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/13/technology/man-who-attacked-openai-ceos-home-had-list-of-other-ai-executives.html",
+      "title": "Man Held in Attack on OpenAI Chief’s Home Had List of A.I. Leaders, Officials Say",
+      "slug": "2026-04-14-man-held-in-attack-on-openai-chief-s-home-had-list-of-a-i-leaders-officials-say.html",
+      "path": "posts/2026-04-14-man-held-in-attack-on-openai-chief-s-home-had-list-of-a-i-leaders-officials-say.html",
+      "date_iso": "2026-04-14T01:57:23+00:00",
+      "source": "https://www.nytimes.com/2026/04/13/technology/man-who-attacked-openai-ceos-home-had-list-of-other-ai-executives.html",
+      "summary": "Sam Altman, OpenAI’s chief executive, wrote after the attack that the debate over artificial intelligence had become too heated."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47759709",
+      "title": "Lean proved this program correct; then I found a bug",
+      "slug": "2026-04-14-lean-proved-this-program-correct-then-i-found-a-bug.html",
+      "path": "posts/2026-04-14-lean-proved-this-program-correct-then-i-found-a-bug.html",
+      "date_iso": "2026-04-14T00:25:08+00:00",
+      "source": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
+      "summary": "Article URL: https://kirancodes.me/posts/log-who-watches-the-watchers.html Comments URL: https://news.ycombinator.com/item?id=47759709 Points: 226 # Comments: 115"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47759400",
+      "title": "SnapState - Persistent state for AI agent workflows",
+      "slug": "2026-04-13-snapstate-persistent-state-for-ai-agent-workflows.html",
+      "path": "posts/2026-04-13-snapstate-persistent-state-for-ai-agent-workflows.html",
+      "date_iso": "2026-04-13T23:42:32+00:00",
+      "source": "https://snapstate.dev",
+      "summary": "Article URL: https://snapstate.dev Comments URL: https://news.ycombinator.com/item?id=47759400 Points: 6 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47759341",
+      "title": "WiiFin – Jellyfin Client for Nintendo Wii",
+      "slug": "2026-04-13-wiifin-jellyfin-client-for-nintendo-wii.html",
+      "path": "posts/2026-04-13-wiifin-jellyfin-client-for-nintendo-wii.html",
+      "date_iso": "2026-04-13T23:33:18+00:00",
+      "source": "https://github.com/fabienmillet/WiiFin",
+      "summary": "Article URL: https://github.com/fabienmillet/WiiFin Comments URL: https://news.ycombinator.com/item?id=47759341 Points: 142 # Comments: 64"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47758347",
+      "title": "N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?",
+      "slug": "2026-04-13-n-day-bench-can-llms-find-real-vulnerabilities-in-real-codebases.html",
+      "path": "posts/2026-04-13-n-day-bench-can-llms-find-real-vulnerabilities-in-real-codebases.html",
+      "date_iso": "2026-04-13T21:54:03+00:00",
+      "source": "https://ndaybench.winfunc.com",
+      "summary": "N-Day-Bench tests whether frontier LLMs can find known security vulnerabilities in real repository code. Each month it pulls fresh cases from GitHub security advisories, checks out the repo at the last commit before the patch, and gives models a sandboxed bash shell to explore t…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47757495",
+      "title": "GitHub Stacked PRs",
+      "slug": "2026-04-13-github-stacked-prs.html",
+      "path": "posts/2026-04-13-github-stacked-prs.html",
+      "date_iso": "2026-04-13T20:36:49+00:00",
+      "source": "https://github.github.com/gh-stack/",
+      "summary": "Article URL: https://github.github.com/gh-stack/ Comments URL: https://news.ycombinator.com/item?id=47757495 Points: 685 # Comments: 358"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47756321",
+      "title": "How to make Firefox builds 17% faster",
+      "slug": "2026-04-13-how-to-make-firefox-builds-17-faster.html",
+      "path": "posts/2026-04-13-how-to-make-firefox-builds-17-faster.html",
+      "date_iso": "2026-04-13T18:50:08+00:00",
+      "source": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
+      "summary": "Article URL: https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/ Comments URL: https://news.ycombinator.com/item?id=47756321 Points: 169 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47755629",
+      "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
+      "slug": "2026-04-13-someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them.html",
+      "path": "posts/2026-04-13-someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them.html",
+      "date_iso": "2026-04-13T17:54:39+00:00",
+      "source": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+      "summary": "Article URL: https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/ Comments URL: https://news.ycombinator.com/item?id=47755629 Points: 912 # Comments: 252"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47753689",
+      "title": "Building a CLI for all of Cloudflare",
+      "slug": "2026-04-13-building-a-cli-for-all-of-cloudflare.html",
+      "path": "posts/2026-04-13-building-a-cli-for-all-of-cloudflare.html",
+      "date_iso": "2026-04-13T15:44:02+00:00",
+      "source": "https://blog.cloudflare.com/cf-cli-local-explorer/",
+      "summary": "Article URL: https://blog.cloudflare.com/cf-cli-local-explorer/ Comments URL: https://news.ycombinator.com/item?id=47753689 Points: 297 # Comments: 99"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47753472",
+      "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+      "slug": "2026-04-13-nothing-ever-happens-polymarket-bot-that-always-buys-no-on-non-sports-markets.html",
+      "path": "posts/2026-04-13-nothing-ever-happens-polymarket-bot-that-always-buys-no-on-non-sports-markets.html",
+      "date_iso": "2026-04-13T15:31:06+00:00",
+      "source": "https://github.com/sterlingcrispin/nothing-ever-happens",
+      "summary": "Article URL: https://github.com/sterlingcrispin/nothing-ever-happens Comments URL: https://news.ycombinator.com/item?id=47753472 Points: 410 # Comments: 226"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47748064",
       "title": "The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind",
       "slug": "2026-04-13-the-economics-of-software-teams-why-most-engineering-orgs-are-flying-blind.html",
