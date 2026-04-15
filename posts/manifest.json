@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47776035",
+      "title": "Anna's Archive Loses $322M Spotify Piracy Case Without a Fight",
+      "slug": "2026-04-15-anna-s-archive-loses-322m-spotify-piracy-case-without-a-fight.html",
+      "path": "posts/2026-04-15-anna-s-archive-loses-322m-spotify-piracy-case-without-a-fight.html",
+      "date_iso": "2026-04-15T08:05:18+00:00",
+      "source": "https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/",
+      "summary": "Article URL: https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/ Comments URL: https://news.ycombinator.com/item?id=47776035 Points: 5 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47775653",
+      "title": "My AI-Assisted Workflow",
+      "slug": "2026-04-15-my-ai-assisted-workflow.html",
+      "path": "posts/2026-04-15-my-ai-assisted-workflow.html",
+      "date_iso": "2026-04-15T07:08:18+00:00",
+      "source": "https://www.maiobarbero.dev/articles/ai-assisted-workflow/",
+      "summary": "Article URL: https://www.maiobarbero.dev/articles/ai-assisted-workflow/ Comments URL: https://news.ycombinator.com/item?id=47775653 Points: 6 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47775628",
+      "title": "Peter Steinberger – WhatsApp CLI: sync, search, send",
+      "slug": "2026-04-15-peter-steinberger-whatsapp-cli-sync-search-send.html",
+      "path": "posts/2026-04-15-peter-steinberger-whatsapp-cli-sync-search-send.html",
+      "date_iso": "2026-04-15T07:04:45+00:00",
+      "source": "https://github.com/steipete/wacli",
+      "summary": "Article URL: https://github.com/steipete/wacli Comments URL: https://news.ycombinator.com/item?id=47775628 Points: 55 # Comments: 33"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47775606",
+      "title": "MDalgorithms (AI Healthcare) – Hiring Growth Marketer – Remote – $80K-$140K",
+      "slug": "2026-04-15-mdalgorithms-ai-healthcare-hiring-growth-marketer-remote-80k-140k.html",
+      "path": "posts/2026-04-15-mdalgorithms-ai-healthcare-hiring-growth-marketer-remote-80k-140k.html",
+      "date_iso": "2026-04-15T07:00:18+00:00",
+      "source": "https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/LVODKN7-growth-marketer-for-a-rapidly-growing-consumer-ai-healthcare-startup",
+      "summary": "Article URL: https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/LVODKN7-growth-marketer-for-a-rapidly-growing-consumer-ai-healthcare-startup Comments URL: https://news.ycombinator.com/item?id=47775606 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47775183",
+      "title": "Amazon to acquire Globalstar and expand Amazon Leo satellite network",
+      "slug": "2026-04-15-amazon-to-acquire-globalstar-and-expand-amazon-leo-satellite-network.html",
+      "path": "posts/2026-04-15-amazon-to-acquire-globalstar-and-expand-amazon-leo-satellite-network.html",
+      "date_iso": "2026-04-15T05:54:29+00:00",
+      "source": "https://www.businesswire.com/news/home/20260414237496/en/Amazon-to-Acquire-Globalstar-and-Expand-Amazon-Leo-Satellite-Network",
+      "summary": "Article URL: https://www.businesswire.com/news/home/20260414237496/en/Amazon-to-Acquire-Globalstar-and-Expand-Amazon-Leo-Satellite-Network Comments URL: https://news.ycombinator.com/item?id=47775183 Points: 48 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47774996",
+      "title": "Hazardous States and Accidents",
+      "slug": "2026-04-15-hazardous-states-and-accidents.html",
+      "path": "posts/2026-04-15-hazardous-states-and-accidents.html",
+      "date_iso": "2026-04-15T05:23:21+00:00",
+      "source": "https://entropicthoughts.com/hazardous-states-and-accidents",
+      "summary": "Article URL: https://entropicthoughts.com/hazardous-states-and-accidents Comments URL: https://news.ycombinator.com/item?id=47774996 Points: 3 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47774789",
+      "title": "Fixing a 20-year-old bug in Enlightenment E16",
+      "slug": "2026-04-15-fixing-a-20-year-old-bug-in-enlightenment-e16.html",
+      "path": "posts/2026-04-15-fixing-a-20-year-old-bug-in-enlightenment-e16.html",
+      "date_iso": "2026-04-15T04:47:00+00:00",
+      "source": "https://iczelia.net/posts/e16-20-year-old-bug/",
+      "summary": "Article URL: https://iczelia.net/posts/e16-20-year-old-bug/ Comments URL: https://news.ycombinator.com/item?id=47774789 Points: 89 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47774781",
+      "title": "Saying goodbye to Agile",
+      "slug": "2026-04-15-saying-goodbye-to-agile.html",
+      "path": "posts/2026-04-15-saying-goodbye-to-agile.html",
+      "date_iso": "2026-04-15T04:45:37+00:00",
+      "source": "https://lewiscampbell.tech/blog/260414.html",
+      "summary": "Article URL: https://lewiscampbell.tech/blog/260414.html Comments URL: https://news.ycombinator.com/item?id=47774781 Points: 123 # Comments: 140"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47773812",
+      "title": "Dependency cooldowns turn you into a free-rider",
+      "slug": "2026-04-15-dependency-cooldowns-turn-you-into-a-free-rider.html",
+      "path": "posts/2026-04-15-dependency-cooldowns-turn-you-into-a-free-rider.html",
+      "date_iso": "2026-04-15T02:03:12+00:00",
+      "source": "https://calpaterson.com/deps.html",
+      "summary": "Article URL: https://calpaterson.com/deps.html Comments URL: https://news.ycombinator.com/item?id=47773812 Points: 105 # Comments: 59"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47773788",
+      "title": "Not all elementary functions can be expressed with exp-minus-log",
+      "slug": "2026-04-15-not-all-elementary-functions-can-be-expressed-with-exp-minus-log.html",
+      "path": "posts/2026-04-15-not-all-elementary-functions-can-be-expressed-with-exp-minus-log.html",
+      "date_iso": "2026-04-15T01:59:18+00:00",
+      "source": "https://www.stylewarning.com/posts/not-all-elementary/",
+      "summary": "Article URL: https://www.stylewarning.com/posts/not-all-elementary/ Comments URL: https://news.ycombinator.com/item?id=47773788 Points: 89 # Comments: 57"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/14/technology/openai-cybersecurity-gpt54-cyber.html",
+      "title": "Like Anthropic, OpenAI Will Share Latest Technology Only With Trusted Companies",
+      "slug": "2026-04-15-like-anthropic-openai-will-share-latest-technology-only-with-trusted-companies.html",
+      "path": "posts/2026-04-15-like-anthropic-openai-will-share-latest-technology-only-with-trusted-companies.html",
+      "date_iso": "2026-04-15T00:25:41+00:00",
+      "source": "https://www.nytimes.com/2026/04/14/technology/openai-cybersecurity-gpt54-cyber.html",
+      "summary": "OpenAI says its technology is adept at finding bugs and other vulnerabilities in software."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47772012",
+      "title": "Stop Flock",
+      "slug": "2026-04-14-stop-flock.html",
+      "path": "posts/2026-04-14-stop-flock.html",
+      "date_iso": "2026-04-14T21:56:05+00:00",
+      "source": "https://stopflock.com",
+      "summary": "Article URL: https://stopflock.com Comments URL: https://news.ycombinator.com/item?id=47772012 Points: 622 # Comments: 159"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47770770",
+      "title": "Trusted access for the next era of cyber defense",
+      "slug": "2026-04-14-trusted-access-for-the-next-era-of-cyber-defense.html",
+      "path": "posts/2026-04-14-trusted-access-for-the-next-era-of-cyber-defense.html",
+      "date_iso": "2026-04-14T20:07:20+00:00",
+      "source": "https://openai.com/index/scaling-trusted-access-for-cyber-defense/",
+      "summary": "Article URL: https://openai.com/index/scaling-trusted-access-for-cyber-defense/ Comments URL: https://news.ycombinator.com/item?id=47770770 Points: 76 # Comments: 52"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47769796",
+      "title": "Tell HN: Fiverr left customer files public and searchable",
+      "slug": "2026-04-14-tell-hn-fiverr-left-customer-files-public-and-searchable.html",
+      "path": "posts/2026-04-14-tell-hn-fiverr-left-customer-files-public-and-searchable.html",
+      "date_iso": "2026-04-14T18:56:40+00:00",
+      "source": "https://news.ycombinator.com/item?id=47769796",
+      "summary": "Fiverr (gig work/task platform, competitor to Upwork) uses a service called Cloudinary to process PDF/images in messaging, including work products from the worker to client. Besides the PDF processing value add, Cloudinary effectively acts like S3 here, serving assets directly t…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/14/technology/amazon-buys-globalstar-space-internet.html",
+      "title": "Amazon Buys Globalstar for $10.8 Billion, Movingto Expand Its Satellite Internet Service",
+      "slug": "2026-04-14-amazon-buys-globalstar-for-10-8-billion-movingto-expand-its-satellite-internet-service.html",
+      "path": "posts/2026-04-14-amazon-buys-globalstar-for-10-8-billion-movingto-expand-its-satellite-internet-service.html",
+      "date_iso": "2026-04-14T17:53:43+00:00",
+      "source": "https://www.nytimes.com/2026/04/14/technology/amazon-buys-globalstar-space-internet.html",
+      "summary": "A United Launch Alliance Atlas V rocket lifting off from the Cape Canaveral Space Force Station last year, carrying Amazon’s Project Kuiper internet network satellites."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47768813",
+      "title": "I wrote to Flock's privacy contact to opt out of their domestic spying program",
+      "slug": "2026-04-14-i-wrote-to-flock-s-privacy-contact-to-opt-out-of-their-domestic-spying-program.html",
+      "path": "posts/2026-04-14-i-wrote-to-flock-s-privacy-contact-to-opt-out-of-their-domestic-spying-program.html",
+      "date_iso": "2026-04-14T17:47:00+00:00",
+      "source": "https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html",
+      "summary": "Article URL: https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html Comments URL: https://news.ycombinator.com/item?id=47768813 Points: 598 # Comments: 236"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47768339",
+      "title": "Turn your best AI prompts into one-click tools in Chrome",
+      "slug": "2026-04-14-turn-your-best-ai-prompts-into-one-click-tools-in-chrome.html",
+      "path": "posts/2026-04-14-turn-your-best-ai-prompts-into-one-click-tools-in-chrome.html",
+      "date_iso": "2026-04-14T17:09:43+00:00",
+      "source": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+      "summary": "Article URL: https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/ Comments URL: https://news.ycombinator.com/item?id=47768339 Points: 156 # Comments: 77"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/14/magazine/ai-sunglasses-meta-zuckerberg.html",
+      "title": "I Feel So Sorry for My A.I. Sunglasses",
+      "slug": "2026-04-14-i-feel-so-sorry-for-my-a-i-sunglasses.html",
+      "path": "posts/2026-04-14-i-feel-so-sorry-for-my-a-i-sunglasses.html",
+      "date_iso": "2026-04-14T17:02:45+00:00",
+      "source": "https://www.nytimes.com/2026/04/14/magazine/ai-sunglasses-meta-zuckerberg.html",
+      "summary": "Plenty of people hate Mark Zuckerberg’s superintelligent, supercharged spectacles. I was ready to hate them, too."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47768133",
+      "title": "Claude Code Routines",
+      "slug": "2026-04-14-claude-code-routines.html",
+      "path": "posts/2026-04-14-claude-code-routines.html",
+      "date_iso": "2026-04-14T16:54:33+00:00",
+      "source": "https://code.claude.com/docs/en/routines",
+      "summary": "Article URL: https://code.claude.com/docs/en/routines Comments URL: https://news.ycombinator.com/item?id=47768133 Points: 588 # Comments: 345"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47767676",
+      "title": "5NF and Database Design",
+      "slug": "2026-04-14-5nf-and-database-design.html",
+      "path": "posts/2026-04-14-5nf-and-database-design.html",
+      "date_iso": "2026-04-14T16:22:49+00:00",
+      "source": "https://kb.databasedesignbook.com/posts/5nf/",
+      "summary": "Article URL: https://kb.databasedesignbook.com/posts/5nf/ Comments URL: https://news.ycombinator.com/item?id=47767676 Points: 158 # Comments: 59"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47765604",
+      "title": "Rare concert recordings are landing on the Internet Archive",
+      "slug": "2026-04-14-rare-concert-recordings-are-landing-on-the-internet-archive.html",
+      "path": "posts/2026-04-14-rare-concert-recordings-are-landing-on-the-internet-archive.html",
+      "date_iso": "2026-04-14T13:46:31+00:00",
+      "source": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
+      "summary": "Article URL: https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/ Comments URL: https://news.ycombinator.com/item?id=47765604 Points: 634 # Comments: 181"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47762641",
       "title": "Introspective Diffusion Language Models",
       "slug": "2026-04-14-introspective-diffusion-language-models.html",
@@ -116,6 +305,15 @@
       "date_iso": "2026-04-14T00:25:08+00:00",
       "source": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
       "summary": "Article URL: https://kirancodes.me/posts/log-who-watches-the-watchers.html Comments URL: https://news.ycombinator.com/item?id=47759709 Points: 226 # Comments: 115"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47759420",
+      "title": "The dangers of California's legislation to censor 3D printing",
+      "slug": "2026-04-13-the-dangers-of-california-s-legislation-to-censor-3d-printing.html",
+      "path": "posts/2026-04-13-the-dangers-of-california-s-legislation-to-censor-3d-printing.html",
+      "date_iso": "2026-04-13T23:44:24+00:00",
+      "source": "https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing Comments URL: https://news.ycombinator.com/item?id=47759420 Points: 376 # Comments: 357"
     },
     {
       "id": "https://news.ycombinator.com/item?id=47759400",
