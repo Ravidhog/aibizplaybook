@@ -1,6 +1,267 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47789607",
+      "title": "RamAIn (YC W26) Is Hiring",
+      "slug": "2026-04-16-ramain-yc-w26-is-hiring.html",
+      "path": "posts/2026-04-16-ramain-yc-w26-is-hiring.html",
+      "date_iso": "2026-04-16T07:01:29+00:00",
+      "source": "https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead",
+      "summary": "Article URL: https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead Comments URL: https://news.ycombinator.com/item?id=47789607 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47789060",
+      "title": "Germany suspends military approval for long stays abroad for men under 45",
+      "slug": "2026-04-16-germany-suspends-military-approval-for-long-stays-abroad-for-men-under-45.html",
+      "path": "posts/2026-04-16-germany-suspends-military-approval-for-long-stays-abroad-for-men-under-45.html",
+      "date_iso": "2026-04-16T05:39:50+00:00",
+      "source": "https://www.bbc.com/news/articles/ckgx103wkl1o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/ckgx103wkl1o Comments URL: https://news.ycombinator.com/item?id=47789060 Points: 15 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47788818",
+      "title": "Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus",
+      "slug": "2026-04-16-moving-a-large-scale-metrics-pipeline-from-statsd-to-opentelemetry-prometheus.html",
+      "path": "posts/2026-04-16-moving-a-large-scale-metrics-pipeline-from-statsd-to-opentelemetry-prometheus.html",
+      "date_iso": "2026-04-16T05:01:05+00:00",
+      "source": "https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45",
+      "summary": "Full disclosure - I formerly worked for Grafana Labs. The size of this Grafana Mimir deployment would rank it in the top echelon of customers. The irony is that this may be a $0 revenue user for Grafana Labs. Comments URL: https://news.ycombinator.com/item?id=47788818 Points: 26…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47788633",
+      "title": "A Look into NaviDial, Japan's Legacy Phone Service",
+      "slug": "2026-04-16-a-look-into-navidial-japan-s-legacy-phone-service.html",
+      "path": "posts/2026-04-16-a-look-into-navidial-japan-s-legacy-phone-service.html",
+      "date_iso": "2026-04-16T04:22:56+00:00",
+      "source": "https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service",
+      "summary": "Article URL: https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service Comments URL: https://news.ycombinator.com/item?id=47788633 Points: 35 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47788542",
+      "title": "Darkbloom – Private inference on idle Macs",
+      "slug": "2026-04-16-darkbloom-private-inference-on-idle-macs.html",
+      "path": "posts/2026-04-16-darkbloom-private-inference-on-idle-macs.html",
+      "date_iso": "2026-04-16T04:06:39+00:00",
+      "source": "https://darkbloom.dev",
+      "summary": "Article URL: https://darkbloom.dev Comments URL: https://news.ycombinator.com/item?id=47788542 Points: 204 # Comments: 97"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47788473",
+      "title": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
+      "slug": "2026-04-16-redsun-system-user-access-on-win-11-10-and-server-with-the-april-2026-update.html",
+      "path": "posts/2026-04-16-redsun-system-user-access-on-win-11-10-and-server-with-the-april-2026-update.html",
+      "date_iso": "2026-04-16T03:54:21+00:00",
+      "source": "https://github.com/Nightmare-Eclipse/RedSun",
+      "summary": "Article URL: https://github.com/Nightmare-Eclipse/RedSun Comments URL: https://news.ycombinator.com/item?id=47788473 Points: 61 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47788424",
+      "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
+      "slug": "2026-04-16-fsf-trying-to-contact-google-about-spammer-sending-10k-mails-from-gmail-account.html",
+      "path": "posts/2026-04-16-fsf-trying-to-contact-google-about-spammer-sending-10k-mails-from-gmail-account.html",
+      "date_iso": "2026-04-16T03:44:38+00:00",
+      "source": "https://daedal.io/@thomzane/116410863009847575",
+      "summary": "Article URL: https://daedal.io/@thomzane/116410863009847575 Comments URL: https://news.ycombinator.com/item?id=47788424 Points: 125 # Comments: 59"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47788398",
+      "title": "North American English Dialects",
+      "slug": "2026-04-16-north-american-english-dialects.html",
+      "path": "posts/2026-04-16-north-american-english-dialects.html",
+      "date_iso": "2026-04-16T03:38:45+00:00",
+      "source": "https://aschmann.net/AmEng/",
+      "summary": "Article URL: https://aschmann.net/AmEng/ Comments URL: https://news.ycombinator.com/item?id=47788398 Points: 19 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47788385",
+      "title": "Stop Using Ollama",
+      "slug": "2026-04-16-stop-using-ollama.html",
+      "path": "posts/2026-04-16-stop-using-ollama.html",
+      "date_iso": "2026-04-16T03:35:11+00:00",
+      "source": "https://sleepingrobots.com/dreams/stop-using-ollama/",
+      "summary": "Article URL: https://sleepingrobots.com/dreams/stop-using-ollama/ Comments URL: https://news.ycombinator.com/item?id=47788385 Points: 353 # Comments: 79"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/15/us/allbirds-shoes-ai-pivot.html",
+      "title": "Sneaker Company Allbirds Plans to Pivot to A.I. Yes, A.I.",
+      "slug": "2026-04-16-sneaker-company-allbirds-plans-to-pivot-to-a-i-yes-a-i.html",
+      "path": "posts/2026-04-16-sneaker-company-allbirds-plans-to-pivot-to-a-i-yes-a-i.html",
+      "date_iso": "2026-04-16T00:31:58+00:00",
+      "source": "https://www.nytimes.com/2026/04/15/us/allbirds-shoes-ai-pivot.html",
+      "summary": "The shoe company Allbirds announced on Wednesday that it would “pivot its business” to artificial intelligence."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47787127",
+      "title": "Agent - Native Mac OS X coding ide/harness",
+      "slug": "2026-04-16-agent-native-mac-os-x-coding-ide-harness.html",
+      "path": "posts/2026-04-16-agent-native-mac-os-x-coding-ide-harness.html",
+      "date_iso": "2026-04-16T00:19:40+00:00",
+      "source": "https://github.com/macOS26/Agent",
+      "summary": "Article URL: https://github.com/macOS26/Agent Comments URL: https://news.ycombinator.com/item?id=47787127 Points: 42 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47786164",
+      "title": "I made a terminal pager",
+      "slug": "2026-04-15-i-made-a-terminal-pager.html",
+      "path": "posts/2026-04-15-i-made-a-terminal-pager.html",
+      "date_iso": "2026-04-15T22:27:54+00:00",
+      "source": "https://theleo.zone/posts/pager/",
+      "summary": "Article URL: https://theleo.zone/posts/pager/ Comments URL: https://news.ycombinator.com/item?id=47786164 Points: 121 # Comments: 28"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47785738",
+      "title": "The buns in McDonald's Japan's burger photos are all slightly askew",
+      "slug": "2026-04-15-the-buns-in-mcdonald-s-japan-s-burger-photos-are-all-slightly-askew.html",
+      "path": "posts/2026-04-15-the-buns-in-mcdonald-s-japan-s-burger-photos-are-all-slightly-askew.html",
+      "date_iso": "2026-04-15T21:48:18+00:00",
+      "source": "https://www.mcdonalds.co.jp/en/menu/burger/",
+      "summary": "Article URL: https://www.mcdonalds.co.jp/en/menu/burger/ Comments URL: https://news.ycombinator.com/item?id=47785738 Points: 396 # Comments: 206"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/15/business/ford-electric-vehicles-doug-field.html",
+      "title": "Ford Says Doug Field, Who Led Company's E.V. Push, is Leaving",
+      "slug": "2026-04-15-ford-says-doug-field-who-led-company-s-e-v-push-is-leaving.html",
+      "path": "posts/2026-04-15-ford-says-doug-field-who-led-company-s-e-v-push-is-leaving.html",
+      "date_iso": "2026-04-15T21:22:20+00:00",
+      "source": "https://www.nytimes.com/2026/04/15/business/ford-electric-vehicles-doug-field.html",
+      "summary": "Doug Field, a top electric vehicle executive, will leave Ford Motor next month."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47785397",
+      "title": "ChatGPT for Excel",
+      "slug": "2026-04-15-chatgpt-for-excel.html",
+      "path": "posts/2026-04-15-chatgpt-for-excel.html",
+      "date_iso": "2026-04-15T21:21:05+00:00",
+      "source": "https://chatgpt.com/apps/spreadsheets/",
+      "summary": "Article URL: https://chatgpt.com/apps/spreadsheets/ Comments URL: https://news.ycombinator.com/item?id=47785397 Points: 189 # Comments: 133"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/15/business/ai-jobs-human-work.html",
+      "title": "That Meeting You Hate May Keep A.I. From Stealing Your Job",
+      "slug": "2026-04-15-that-meeting-you-hate-may-keep-a-i-from-stealing-your-job.html",
+      "path": "posts/2026-04-15-that-meeting-you-hate-may-keep-a-i-from-stealing-your-job.html",
+      "date_iso": "2026-04-15T21:01:24+00:00",
+      "source": "https://www.nytimes.com/2026/04/15/business/ai-jobs-human-work.html",
+      "summary": "As artificial intelligence makes many tasks easier, the human work of cajoling, arm-twisting and reassuring appears to be rising in importance."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/15/arts/television/early-youtube-stars-success-learnings.html",
+      "title": "They Were YouTube’s First Stars. Here’s What They Wish They’d Known.",
+      "slug": "2026-04-15-they-were-youtube-s-first-stars-here-s-what-they-wish-they-d-known.html",
+      "path": "posts/2026-04-15-they-were-youtube-s-first-stars-here-s-what-they-wish-they-d-known.html",
+      "date_iso": "2026-04-15T19:56:11+00:00",
+      "source": "https://www.nytimes.com/2026/04/15/arts/television/early-youtube-stars-success-learnings.html",
+      "summary": "MatPat, Miranda Sings, Grace Helbig and WheezyWaiter hit it big on YouTube long before it became a behemoth. They have thoughts about what it takes to succeed there."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47784244",
+      "title": "PiCore - Raspberry Pi Port of Tiny Core Linux",
+      "slug": "2026-04-15-picore-raspberry-pi-port-of-tiny-core-linux.html",
+      "path": "posts/2026-04-15-picore-raspberry-pi-port-of-tiny-core-linux.html",
+      "date_iso": "2026-04-15T19:45:47+00:00",
+      "source": "http://tinycorelinux.net/5.x/armv6/releases/README",
+      "summary": "Article URL: http://tinycorelinux.net/5.x/armv6/releases/README Comments URL: https://news.ycombinator.com/item?id=47784244 Points: 105 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47783713",
+      "title": "Live Nation illegally monopolized ticketing market, jury finds",
+      "slug": "2026-04-15-live-nation-illegally-monopolized-ticketing-market-jury-finds.html",
+      "path": "posts/2026-04-15-live-nation-illegally-monopolized-ticketing-market-jury-finds.html",
+      "date_iso": "2026-04-15T19:06:39+00:00",
+      "source": "https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds",
+      "summary": "https://www.nytimes.com/2026/04/15/arts/music/live-nation-an... , https://archive.ph/KA1wV https://www.theverge.com/policy/912689/live-nation-ticketmas... Comments URL: https://news.ycombinator.com/item?id=47783713 Points: 525 # Comments: 153"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/15/technology/ftc-ad-companies-settlement.html",
+      "title": "Ad Companies Settle With F.T.C. Over Claims of Harm to Conservative Sites",
+      "slug": "2026-04-15-ad-companies-settle-with-f-t-c-over-claims-of-harm-to-conservative-sites.html",
+      "path": "posts/2026-04-15-ad-companies-settle-with-f-t-c-over-claims-of-harm-to-conservative-sites.html",
+      "date_iso": "2026-04-15T18:08:36+00:00",
+      "source": "https://www.nytimes.com/2026/04/15/technology/ftc-ad-companies-settlement.html",
+      "summary": "The Federal Trade Commission building in Washington, D.C."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47782570",
+      "title": "Google broke its promise to me – now ICE has my data",
+      "slug": "2026-04-15-google-broke-its-promise-to-me-now-ice-has-my-data.html",
+      "path": "posts/2026-04-15-google-broke-its-promise-to-me-now-ice-has-my-data.html",
+      "date_iso": "2026-04-15T17:44:26+00:00",
+      "source": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data Comments URL: https://news.ycombinator.com/item?id=47782570 Points: 1420 # Comments: 595"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47781912",
+      "title": "Adaptional (YC S25) is hiring AI engineers",
+      "slug": "2026-04-15-adaptional-yc-s25-is-hiring-ai-engineers.html",
+      "path": "posts/2026-04-15-adaptional-yc-s25-is-hiring-ai-engineers.html",
+      "date_iso": "2026-04-15T17:00:56+00:00",
+      "source": "https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer Comments URL: https://news.ycombinator.com/item?id=47781912 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47781286",
+      "title": "CRISPR takes important step toward silencing Down syndrome’s extra chromosome",
+      "slug": "2026-04-15-crispr-takes-important-step-toward-silencing-down-syndrome-s-extra-chromosome.html",
+      "path": "posts/2026-04-15-crispr-takes-important-step-toward-silencing-down-syndrome-s-extra-chromosome.html",
+      "date_iso": "2026-04-15T16:19:48+00:00",
+      "source": "https://medicalxpress.com/news/2026-04-crispr-bold-silencing-syndrome-extra.html",
+      "summary": "Article URL: https://medicalxpress.com/news/2026-04-crispr-bold-silencing-syndrome-extra.html Comments URL: https://news.ycombinator.com/item?id=47781286 Points: 150 # Comments: 76"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47780971",
+      "title": "Show HN: Libretto – Making AI browser automations deterministic",
+      "slug": "2026-04-15-show-hn-libretto-making-ai-browser-automations-deterministic.html",
+      "path": "posts/2026-04-15-show-hn-libretto-making-ai-browser-automations-deterministic.html",
+      "date_iso": "2026-04-15T15:57:54+00:00",
+      "source": "https://github.com/saffron-health/libretto",
+      "summary": "Libretto ( https://libretto.sh ) is a Skill+CLI that makes it easy for your coding agent to generate deterministic browser automations and debug existing ones. Key shift is going from “give an agent a prompt at runtime and hope it figures things out” to: “Use coding agents to ge…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/15/magazine/ai-black-box-interpretability-research.html",
+      "title": "We Don’t Really Know How A.I. Works. That’s a Problem.",
+      "slug": "2026-04-15-we-don-t-really-know-how-a-i-works-that-s-a-problem.html",
+      "path": "posts/2026-04-15-we-don-t-really-know-how-a-i-works-that-s-a-problem.html",
+      "date_iso": "2026-04-15T15:27:27+00:00",
+      "source": "https://www.nytimes.com/2026/04/15/magazine/ai-black-box-interpretability-research.html",
+      "summary": "For us to trust it on certain subjects, researchers in the growing field of interpretability might need to learn how to open the black box of its brain."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47780456",
+      "title": "Cal.com is going closed source",
+      "slug": "2026-04-15-cal-com-is-going-closed-source.html",
+      "path": "posts/2026-04-15-cal-com-is-going-closed-source.html",
+      "date_iso": "2026-04-15T15:26:46+00:00",
+      "source": "https://cal.com/blog/cal-com-goes-closed-source-why",
+      "summary": "Article URL: https://cal.com/blog/cal-com-goes-closed-source-why Comments URL: https://news.ycombinator.com/item?id=47780456 Points: 294 # Comments: 216"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/15/technology/how-jagged-intelligence-can-reframe-the-ai-debate.html",
+      "title": "What Is ‘Jagged Intelligence’ and How Can It Reframe the AI Debate?",
+      "slug": "2026-04-15-what-is-jagged-intelligence-and-how-can-it-reframe-the-ai-debate.html",
+      "path": "posts/2026-04-15-what-is-jagged-intelligence-and-how-can-it-reframe-the-ai-debate.html",
+      "date_iso": "2026-04-15T15:19:41+00:00",
+      "source": "https://www.nytimes.com/2026/04/15/technology/how-jagged-intelligence-can-reframe-the-ai-debate.html",
+      "summary": "A.I. has always been compared to human intelligence, but that may not be the right way to think about it. What it does well can help predict what jobs it may replace."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/15/technology/personaltech/recipes-cooking-ai.html",
+      "title": "Spice Up Your Cooking Skills With Help From Your Phone",
+      "slug": "2026-04-15-spice-up-your-cooking-skills-with-help-from-your-phone.html",
+      "path": "posts/2026-04-15-spice-up-your-cooking-skills-with-help-from-your-phone.html",
+      "date_iso": "2026-04-15T09:04:06+00:00",
+      "source": "https://www.nytimes.com/2026/04/15/technology/personaltech/recipes-cooking-ai.html",
+      "summary": "The timer function in the phone’s clock app is just one of the many features to aid home chefs."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/15/technology/vr-technology-elderly-community-social-isolation.html",
+      "title": "How Older Adults Are Using VR to Counter Social Isolation",
+      "slug": "2026-04-15-how-older-adults-are-using-vr-to-counter-social-isolation.html",
+      "path": "posts/2026-04-15-how-older-adults-are-using-vr-to-counter-social-isolation.html",
+      "date_iso": "2026-04-15T09:00:11+00:00",
+      "source": "https://www.nytimes.com/2026/04/15/technology/vr-technology-elderly-community-social-isolation.html",
+      "summary": "New tools tailored for use in senior living communities allow for shared experiences and social bonding."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47776035",
       "title": "Anna's Archive Loses $322M Spotify Piracy Case Without a Fight",
       "slug": "2026-04-15-anna-s-archive-loses-322m-spotify-piracy-case-without-a-fight.html",
