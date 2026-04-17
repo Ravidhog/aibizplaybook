@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47803477",
+      "title": "How to make buffet breakfasts less wasteful",
+      "slug": "2026-04-17-how-to-make-buffet-breakfasts-less-wasteful.html",
+      "path": "posts/2026-04-17-how-to-make-buffet-breakfasts-less-wasteful.html",
+      "date_iso": "2026-04-17T07:46:44+00:00",
+      "source": "https://www.economist.com/science-and-technology/2026/04/14/how-to-make-buffet-breakfasts-less-wasteful",
+      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/04/14/how-to-make-buffet-breakfasts-less-wasteful Comments URL: https://news.ycombinator.com/item?id=47803477 Points: 4 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/17/arts/korean-theater-ai-glasses-translation.html",
+      "title": "Through A.I. Glasses-Powered Translation, Korea’s Theaters Hope for a K-Pop Moment",
+      "slug": "2026-04-17-through-a-i-glasses-powered-translation-korea-s-theaters-hope-for-a-k-pop-moment.html",
+      "path": "posts/2026-04-17-through-a-i-glasses-powered-translation-korea-s-theaters-hope-for-a-k-pop-moment.html",
+      "date_iso": "2026-04-17T07:44:19+00:00",
+      "source": "https://www.nytimes.com/2026/04/17/arts/korean-theater-ai-glasses-translation.html",
+      "summary": "Producers and the cultural authorities hope that technology can overcome a language barrier and take the country’s shows to the world."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47803323",
+      "title": "FIM – Linux framebuffer image viewer",
+      "slug": "2026-04-17-fim-linux-framebuffer-image-viewer.html",
+      "path": "posts/2026-04-17-fim-linux-framebuffer-image-viewer.html",
+      "date_iso": "2026-04-17T07:20:46+00:00",
+      "source": "https://www.nongnu.org/fbi-improved/",
+      "summary": "Article URL: https://www.nongnu.org/fbi-improved/ Comments URL: https://news.ycombinator.com/item?id=47803323 Points: 12 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47802971",
+      "title": "PROBoter – Open-source platform for automated PCB analysis",
+      "slug": "2026-04-17-proboter-open-source-platform-for-automated-pcb-analysis.html",
+      "path": "posts/2026-04-17-proboter-open-source-platform-for-automated-pcb-analysis.html",
+      "date_iso": "2026-04-17T06:19:45+00:00",
+      "source": "https://www.schutzwerk.com/en/blog/proboter-01/",
+      "summary": "Article URL: https://www.schutzwerk.com/en/blog/proboter-01/ Comments URL: https://news.ycombinator.com/item?id=47802971 Points: 4 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47802330",
+      "title": "Bluesky has been dealing with a DDoS attack for nearly a full day",
+      "slug": "2026-04-17-bluesky-has-been-dealing-with-a-ddos-attack-for-nearly-a-full-day.html",
+      "path": "posts/2026-04-17-bluesky-has-been-dealing-with-a-ddos-attack-for-nearly-a-full-day.html",
+      "date_iso": "2026-04-17T03:59:22+00:00",
+      "source": "https://www.theverge.com/tech/913638/bluesky-has-been-dealing-with-a-ddos-attack-for-nearly-a-full-day",
+      "summary": "Article URL: https://www.theverge.com/tech/913638/bluesky-has-been-dealing-with-a-ddos-attack-for-nearly-a-full-day Comments URL: https://news.ycombinator.com/item?id=47802330 Points: 66 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47802312",
+      "title": "Human Accelerated Region 1",
+      "slug": "2026-04-17-human-accelerated-region-1.html",
+      "path": "posts/2026-04-17-human-accelerated-region-1.html",
+      "date_iso": "2026-04-17T03:55:54+00:00",
+      "source": "https://en.wikipedia.org/wiki/Human_accelerated_region_1",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Human_accelerated_region_1 Comments URL: https://news.ycombinator.com/item?id=47802312 Points: 33 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47802233",
+      "title": "Discourse Is Not Going Closed Source",
+      "slug": "2026-04-17-discourse-is-not-going-closed-source.html",
+      "path": "posts/2026-04-17-discourse-is-not-going-closed-source.html",
+      "date_iso": "2026-04-17T03:36:26+00:00",
+      "source": "https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/",
+      "summary": "Article URL: https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/ Comments URL: https://news.ycombinator.com/item?id=47802233 Points: 97 # Comments: 35"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47802016",
+      "title": "Substrate AI Is Hiring Harness Engineers",
+      "slug": "2026-04-17-substrate-ai-is-hiring-harness-engineers.html",
+      "path": "posts/2026-04-17-substrate-ai-is-hiring-harness-engineers.html",
+      "date_iso": "2026-04-17T02:53:16+00:00",
+      "source": "https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer Comments URL: https://news.ycombinator.com/item?id=47802016 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47801991",
+      "title": "US Bill Mandates On-Device Age Verification",
+      "slug": "2026-04-17-us-bill-mandates-on-device-age-verification.html",
+      "path": "posts/2026-04-17-us-bill-mandates-on-device-age-verification.html",
+      "date_iso": "2026-04-17T02:50:02+00:00",
+      "source": "https://reclaimthenet.org/us-bill-mandates-on-device-age-verification",
+      "summary": "Article URL: https://reclaimthenet.org/us-bill-mandates-on-device-age-verification Comments URL: https://news.ycombinator.com/item?id=47801991 Points: 117 # Comments: 55"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47801255",
+      "title": "Show HN: SPICE simulation → oscilloscope → verification with Claude Code",
+      "slug": "2026-04-17-show-hn-spice-simulation-oscilloscope-verification-with-claude-code.html",
+      "path": "posts/2026-04-17-show-hn-spice-simulation-oscilloscope-verification-with-claude-code.html",
+      "date_iso": "2026-04-17T00:37:47+00:00",
+      "source": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
+      "summary": "I built MCP servers for my oscilloscope and SPICE simulator so Claude Code can close the loop between simulation and real hardware. Comments URL: https://news.ycombinator.com/item?id=47801255 Points: 71 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47800738",
+      "title": "Everything we like is a psyop?",
+      "slug": "2026-04-16-everything-we-like-is-a-psyop.html",
+      "path": "posts/2026-04-16-everything-we-like-is-a-psyop.html",
+      "date_iso": "2026-04-16T23:15:33+00:00",
+      "source": "https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/",
+      "summary": "Article URL: https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/ Comments URL: https://news.ycombinator.com/item?id=47800738 Points: 243 # Comments: 153"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47800166",
+      "title": "New unsealed records reveal Amazon's price-fixing tactics, California AG claims",
+      "slug": "2026-04-16-new-unsealed-records-reveal-amazon-s-price-fixing-tactics-california-ag-claims.html",
+      "path": "posts/2026-04-16-new-unsealed-records-reveal-amazon-s-price-fixing-tactics-california-ag-claims.html",
+      "date_iso": "2026-04-16T22:08:53+00:00",
+      "source": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit",
+      "summary": "Article URL: https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit Comments URL: https://news.ycombinator.com/item?id=47800166 Points: 206 # Comments: 47"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47800033",
+      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+      "slug": "2026-04-16-guy-builds-ai-driven-hardware-hacker-arm-from-duct-tape-old-cam-and-cnc-machine.html",
+      "path": "posts/2026-04-16-guy-builds-ai-driven-hardware-hacker-arm-from-duct-tape-old-cam-and-cnc-machine.html",
+      "date_iso": "2026-04-16T21:56:37+00:00",
+      "source": "https://github.com/gainsec/autoprober",
+      "summary": "Article URL: https://github.com/gainsec/autoprober Comments URL: https://news.ycombinator.com/item?id=47800033 Points: 159 # Comments: 35"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/16/business/pentagon-ford-general-motors-defense-production.html",
+      "title": "Pentagon Seeks Help From Ford and G.M.",
+      "slug": "2026-04-16-pentagon-seeks-help-from-ford-and-g-m.html",
+      "path": "posts/2026-04-16-pentagon-seeks-help-from-ford-and-g-m.html",
+      "date_iso": "2026-04-16T21:23:00+00:00",
+      "source": "https://www.nytimes.com/2026/04/16/business/pentagon-ford-general-motors-defense-production.html",
+      "summary": "The Pentagon has met with Ford Motor and General Motors to gauge whether the auto industry may be able to help the military acquire vehicles, munitions and other hardware."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47799573",
+      "title": "A Better R Programming Experience Thanks to Tree-sitter",
+      "slug": "2026-04-16-a-better-r-programming-experience-thanks-to-tree-sitter.html",
+      "path": "posts/2026-04-16-a-better-r-programming-experience-thanks-to-tree-sitter.html",
+      "date_iso": "2026-04-16T21:14:02+00:00",
+      "source": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
+      "summary": "Article URL: https://ropensci.org/blog/2026/04/02/tree-sitter-overview/ Comments URL: https://news.ycombinator.com/item?id=47799573 Points: 121 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47799322",
+      "title": "The beginning of scarcity in AI",
+      "slug": "2026-04-16-the-beginning-of-scarcity-in-ai.html",
+      "path": "posts/2026-04-16-the-beginning-of-scarcity-in-ai.html",
+      "date_iso": "2026-04-16T20:49:35+00:00",
+      "source": "https://tomtunguz.com/ai-compute-crisis-2026/",
+      "summary": "Article URL: https://tomtunguz.com/ai-compute-crisis-2026/ Comments URL: https://news.ycombinator.com/item?id=47799322 Points: 60 # Comments: 88"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47798345",
+      "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
+      "slug": "2026-04-16-official-clojure-documentary-page-with-video-shownotes-and-links.html",
+      "path": "posts/2026-04-16-official-clojure-documentary-page-with-video-shownotes-and-links.html",
+      "date_iso": "2026-04-16T19:32:18+00:00",
+      "source": "https://clojure.org/about/documentary",
+      "summary": "Article URL: https://clojure.org/about/documentary Comments URL: https://news.ycombinator.com/item?id=47798345 Points: 192 # Comments: 47"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47798176",
+      "title": "Playdate’s handheld changed how Duke University teaches game design",
+      "slug": "2026-04-16-playdate-s-handheld-changed-how-duke-university-teaches-game-design.html",
+      "path": "posts/2026-04-16-playdate-s-handheld-changed-how-duke-university-teaches-game-design.html",
+      "date_iso": "2026-04-16T19:18:31+00:00",
+      "source": "https://news.play.date/news/duke-playdate-education/",
+      "summary": "Article URL: https://news.play.date/news/duke-playdate-education/ Comments URL: https://news.ycombinator.com/item?id=47798176 Points: 136 # Comments: 53"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47797665",
+      "title": "Android CLI: Build Android apps 3x faster using any agent",
+      "slug": "2026-04-16-android-cli-build-android-apps-3x-faster-using-any-agent.html",
+      "path": "posts/2026-04-16-android-cli-build-android-apps-3x-faster-using-any-agent.html",
+      "date_iso": "2026-04-16T18:39:59+00:00",
+      "source": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
+      "summary": "Article URL: https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html Comments URL: https://news.ycombinator.com/item?id=47797665 Points: 217 # Comments: 76"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47796469",
+      "title": "Codex for almost everything",
+      "slug": "2026-04-16-codex-for-almost-everything.html",
+      "path": "posts/2026-04-16-codex-for-almost-everything.html",
+      "date_iso": "2026-04-16T17:12:19+00:00",
+      "source": "https://openai.com/index/codex-for-almost-everything/",
+      "summary": "Article URL: https://openai.com/index/codex-for-almost-everything/ Comments URL: https://news.ycombinator.com/item?id=47796469 Points: 842 # Comments: 426"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47794514",
+      "title": "Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs",
+      "slug": "2026-04-16-launch-hn-kampala-yc-w26-reverse-engineer-apps-into-apis.html",
+      "path": "posts/2026-04-16-launch-hn-kampala-yc-w26-reverse-engineer-apps-into-apis.html",
+      "date_iso": "2026-04-16T15:19:54+00:00",
+      "source": "https://www.zatanna.ai/kampala",
+      "summary": "Hey! I am Alex and together with my co-founder Tarun built Kampala ( https://www.zatanna.ai/kampala ). It’s a man-in-the-middle (MITM) style proxy that allows you to agentically reverse engineer existing workflows without brittle browser automation or computer use agents. It wor…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47793411",
+      "title": "Claude Opus 4.7",
+      "slug": "2026-04-16-claude-opus-4-7.html",
+      "path": "posts/2026-04-16-claude-opus-4-7.html",
+      "date_iso": "2026-04-16T14:23:50+00:00",
+      "source": "https://www.anthropic.com/news/claude-opus-4-7",
+      "summary": "Article URL: https://www.anthropic.com/news/claude-opus-4-7 Comments URL: https://news.ycombinator.com/item?id=47793411 Points: 1707 # Comments: 1223"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47789607",
       "title": "RamAIn (YC W26) Is Hiring",
       "slug": "2026-04-16-ramain-yc-w26-is-hiring.html",
@@ -170,6 +368,15 @@
       "date_iso": "2026-04-15T19:06:39+00:00",
       "source": "https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds",
       "summary": "https://www.nytimes.com/2026/04/15/arts/music/live-nation-an... , https://archive.ph/KA1wV https://www.theverge.com/policy/912689/live-nation-ticketmas... Comments URL: https://news.ycombinator.com/item?id=47783713 Points: 525 # Comments: 153"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/15/business/snap-layoffs-snapchat.html",
+      "title": "Snap Is Laying Off 16% of Full-Time Staff as It Embraces A.I.",
+      "slug": "2026-04-15-snap-is-laying-off-16-of-full-time-staff-as-it-embraces-a-i.html",
+      "path": "posts/2026-04-15-snap-is-laying-off-16-of-full-time-staff-as-it-embraces-a-i.html",
+      "date_iso": "2026-04-15T18:21:18+00:00",
+      "source": "https://www.nytimes.com/2026/04/15/business/snap-layoffs-snapchat.html",
+      "summary": "“We believe that rapid advancements in artificial intelligence enable our teams to reduce repetitive work, increase velocity, and better support our community, partners, and advertisers,” Evan Spiegel, Snap’s chief executive, said in a memo."
     },
     {
       "id": "https://www.nytimes.com/2026/04/15/technology/ftc-ad-companies-settlement.html",
