@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47813668",
+      "title": "Category Theory Illustrated – Orders",
+      "slug": "2026-04-18-category-theory-illustrated-orders.html",
+      "path": "posts/2026-04-18-category-theory-illustrated-orders.html",
+      "date_iso": "2026-04-18T06:40:47+00:00",
+      "source": "https://abuseofnotation.github.io/category-theory-illustrated/04_order/",
+      "summary": "Article URL: https://abuseofnotation.github.io/category-theory-illustrated/04_order/ Comments URL: https://news.ycombinator.com/item?id=47813668 Points: 12 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47813631",
+      "title": "Why is IPv6 so complicated?",
+      "slug": "2026-04-18-why-is-ipv6-so-complicated.html",
+      "path": "posts/2026-04-18-why-is-ipv6-so-complicated.html",
+      "date_iso": "2026-04-18T06:33:29+00:00",
+      "source": "https://github.com/becarpenter/misc/blob/main/why6why.md",
+      "summary": "Article URL: https://github.com/becarpenter/misc/blob/main/why6why.md Comments URL: https://news.ycombinator.com/item?id=47813631 Points: 44 # Comments: 42"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47813566",
+      "title": "Amiga Graphics",
+      "slug": "2026-04-18-amiga-graphics.html",
+      "path": "posts/2026-04-18-amiga-graphics.html",
+      "date_iso": "2026-04-18T06:20:04+00:00",
+      "source": "https://amiga.lychesis.net/",
+      "summary": "Article URL: https://amiga.lychesis.net/ Comments URL: https://news.ycombinator.com/item?id=47813566 Points: 7 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47813454",
+      "title": "It is incorrect to \"normalize\" // in HTTP URL paths",
+      "slug": "2026-04-18-it-is-incorrect-to-normalize-in-http-url-paths.html",
+      "path": "posts/2026-04-18-it-is-incorrect-to-normalize-in-http-url-paths.html",
+      "date_iso": "2026-04-18T05:47:10+00:00",
+      "source": "https://runxiyu.org/comp/doubleslash/",
+      "summary": "Article URL: https://runxiyu.org/comp/doubleslash/ Comments URL: https://news.ycombinator.com/item?id=47813454 Points: 9 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47813223",
+      "title": "What the EU Battery Passport Means for Your Devices",
+      "slug": "2026-04-18-what-the-eu-battery-passport-means-for-your-devices.html",
+      "path": "posts/2026-04-18-what-the-eu-battery-passport-means-for-your-devices.html",
+      "date_iso": "2026-04-18T04:49:38+00:00",
+      "source": "https://holdmybill.com/blog/eu-battery-passport-explained-2027",
+      "summary": "Article URL: https://holdmybill.com/blog/eu-battery-passport-explained-2027 Comments URL: https://news.ycombinator.com/item?id=47813223 Points: 14 # Comments: 1"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/17/business/media/artificial-intelligence-trump-social-media.html",
+      "title": "Hundreds of Fake Pro-Trump Avatars Emerge on Social Media",
+      "slug": "2026-04-18-hundreds-of-fake-pro-trump-avatars-emerge-on-social-media.html",
+      "path": "posts/2026-04-18-hundreds-of-fake-pro-trump-avatars-emerge-on-social-media.html",
+      "date_iso": "2026-04-18T04:42:04+00:00",
+      "source": "https://www.nytimes.com/2026/04/17/business/media/artificial-intelligence-trump-social-media.html",
+      "summary": "The artificial-intelligence-generated fake influencers have surged on TikTok, Instagram, Facebook and YouTube in an apparent bid to hook conservative voters."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47812341",
+      "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
+      "slug": "2026-04-18-show-hn-i-made-a-calculator-that-works-over-disjoint-sets-of-intervals.html",
+      "path": "posts/2026-04-18-show-hn-i-made-a-calculator-that-works-over-disjoint-sets-of-intervals.html",
+      "date_iso": "2026-04-18T01:15:43+00:00",
+      "source": "https://victorpoughon.github.io/interval-calculator/",
+      "summary": "I've been studying interval arithmetic for the past few weeks and it's a really interesting field because while there is a ton of super interesting research published over the past decades, it has never really gotten the recognition that it deserves, IMO. One reason for this is…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47812331",
+      "title": "Casus Belli Engineering",
+      "slug": "2026-04-18-casus-belli-engineering.html",
+      "path": "posts/2026-04-18-casus-belli-engineering.html",
+      "date_iso": "2026-04-18T01:14:02+00:00",
+      "source": "https://marcosmagueta.com/blog/casus-belli-engineering/",
+      "summary": "Article URL: https://marcosmagueta.com/blog/casus-belli-engineering/ Comments URL: https://news.ycombinator.com/item?id=47812331 Points: 32 # Comments: 7"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/17/technology/white-house-anthropic-artificial-intelligence.html",
+      "title": "White House and Anthropic Hold ‘Productive’ Meeting, Aiming for a Compromise",
+      "slug": "2026-04-17-white-house-and-anthropic-hold-productive-meeting-aiming-for-a-compromise.html",
+      "path": "posts/2026-04-17-white-house-and-anthropic-hold-productive-meeting-aiming-for-a-compromise.html",
+      "date_iso": "2026-04-17T23:45:45+00:00",
+      "source": "https://www.nytimes.com/2026/04/17/technology/white-house-anthropic-artificial-intelligence.html",
+      "summary": "The Trump administration is seeking to strike a compromise with Anthropic after the Pentagon named the company a supply chain risk."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47811283",
+      "title": "Landmark ancient-genome study shows surprise acceleration of human evolution",
+      "slug": "2026-04-17-landmark-ancient-genome-study-shows-surprise-acceleration-of-human-evolution.html",
+      "path": "posts/2026-04-17-landmark-ancient-genome-study-shows-surprise-acceleration-of-human-evolution.html",
+      "date_iso": "2026-04-17T22:30:28+00:00",
+      "source": "https://www.nature.com/articles/d41586-026-01204-5",
+      "summary": "Related: Ancient DNA reveals pervasive directional selection across West Eurasia [pdf] - https://news.ycombinator.com/item?id=47791282 (64 comments) https://x.com/doctorveera/status/2044679999450664967 ( https://xcancel.com/doctorveera/status/2044679999450664967 ) Comments URL:…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/17/technology/cerebras-public-offering-ai.html",
+      "title": "Cerebras, an A.I. Chip Maker, Files to Go Public as Tech Offerings Ramp Up",
+      "slug": "2026-04-17-cerebras-an-a-i-chip-maker-files-to-go-public-as-tech-offerings-ramp-up.html",
+      "path": "posts/2026-04-17-cerebras-an-a-i-chip-maker-files-to-go-public-as-tech-offerings-ramp-up.html",
+      "date_iso": "2026-04-17T22:03:45+00:00",
+      "source": "https://www.nytimes.com/2026/04/17/technology/cerebras-public-offering-ai.html",
+      "summary": "Cerebras makes specialized computer chips for building artificial intelligence technologies and delivering them to businesses and consumers."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47810872",
+      "title": "A simplified model of Fil-C",
+      "slug": "2026-04-17-a-simplified-model-of-fil-c.html",
+      "path": "posts/2026-04-17-a-simplified-model-of-fil-c.html",
+      "date_iso": "2026-04-17T21:38:20+00:00",
+      "source": "https://www.corsix.org/content/simplified-model-of-fil-c",
+      "summary": "Article URL: https://www.corsix.org/content/simplified-model-of-fil-c Comments URL: https://news.ycombinator.com/item?id=47810872 Points: 166 # Comments: 86"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47810507",
+      "title": "Arc Prize Foundation (YC W26) Is Hiring a Platform Engineer for ARC-AGI-4",
+      "slug": "2026-04-17-arc-prize-foundation-yc-w26-is-hiring-a-platform-engineer-for-arc-agi-4.html",
+      "path": "posts/2026-04-17-arc-prize-foundation-yc-w26-is-hiring-a-platform-engineer-for-arc-agi-4.html",
+      "date_iso": "2026-04-17T21:00:08+00:00",
+      "source": "https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead",
+      "summary": "Article URL: https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead Comments URL: https://news.ycombinator.com/item?id=47810507 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47809190",
+      "title": "\"cat readme.txt\" is not safe if you use iTerm2",
+      "slug": "2026-04-17-cat-readme-txt-is-not-safe-if-you-use-iterm2.html",
+      "path": "posts/2026-04-17-cat-readme-txt-is-not-safe-if-you-use-iterm2.html",
+      "date_iso": "2026-04-17T18:43:32+00:00",
+      "source": "https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not",
+      "summary": "Article URL: https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not Comments URL: https://news.ycombinator.com/item?id=47809190 Points: 166 # Comments: 91"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47808913",
+      "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
+      "slug": "2026-04-17-all-12-moonwalkers-had-lunar-hay-fever-from-dust-smelling-like-gunpowder-2018.html",
+      "path": "posts/2026-04-17-all-12-moonwalkers-had-lunar-hay-fever-from-dust-smelling-like-gunpowder-2018.html",
+      "date_iso": "2026-04-17T18:17:01+00:00",
+      "source": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
+      "summary": "Article URL: https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon Comments URL: https://news.ycombinator.com/item?id=47808913 Points: 314 # Comments: 184"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47808268",
+      "title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
+      "slug": "2026-04-17-show-hn-smol-machines-subsecond-coldstart-portable-virtual-machines.html",
+      "path": "posts/2026-04-17-show-hn-smol-machines-subsecond-coldstart-portable-virtual-machines.html",
+      "date_iso": "2026-04-17T17:18:58+00:00",
+      "source": "https://github.com/smol-machines/smolvm",
+      "summary": "Article URL: https://github.com/smol-machines/smolvm Comments URL: https://news.ycombinator.com/item?id=47808268 Points: 315 # Comments: 96"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47808047",
+      "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
+      "slug": "2026-04-17-kyber-yc-w23-is-hiring-a-head-of-engineering.html",
+      "path": "posts/2026-04-17-kyber-yc-w23-is-hiring-a-head-of-engineering.html",
+      "date_iso": "2026-04-17T17:01:13+00:00",
+      "source": "https://www.ycombinator.com/companies/kyber/jobs/TcEa3b5-head-of-engineering",
+      "summary": "Article URL: https://www.ycombinator.com/companies/kyber/jobs/TcEa3b5-head-of-engineering Comments URL: https://news.ycombinator.com/item?id=47808047 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47807809",
+      "title": "Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock",
+      "slug": "2026-04-17-show-hn-paniclock-close-your-macbook-lid-disable-touchid-password-unlock.html",
+      "path": "posts/2026-04-17-show-hn-paniclock-close-your-macbook-lid-disable-touchid-password-unlock.html",
+      "date_iso": "2026-04-17T16:38:44+00:00",
+      "source": "https://github.com/paniclock/paniclock/",
+      "summary": "I wrote this after the case of a Washington Post reporter, Hannah Natanson, was compelled to unlock her computer with her fingerprint. This resulted in access to her Desktop Signal on her computer, revealing sources and their conversations. https://www.yahoo.com/news/articles/wa…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47807619",
+      "title": "Hyperscalers have already outspent most famous US megaprojects",
+      "slug": "2026-04-17-hyperscalers-have-already-outspent-most-famous-us-megaprojects.html",
+      "path": "posts/2026-04-17-hyperscalers-have-already-outspent-most-famous-us-megaprojects.html",
+      "date_iso": "2026-04-17T16:23:22+00:00",
+      "source": "https://twitter.com/finmoorhouse/status/2044933442236776794",
+      "summary": "Article URL: https://twitter.com/finmoorhouse/status/2044933442236776794 Comments URL: https://news.ycombinator.com/item?id=47807619 Points: 182 # Comments: 143"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47807583",
+      "title": "Spending 3 months coding by hand",
+      "slug": "2026-04-17-spending-3-months-coding-by-hand.html",
+      "path": "posts/2026-04-17-spending-3-months-coding-by-hand.html",
+      "date_iso": "2026-04-17T16:19:53+00:00",
+      "source": "https://miguelconner.substack.com/p/im-coding-by-hand",
+      "summary": "Article URL: https://miguelconner.substack.com/p/im-coding-by-hand Comments URL: https://news.ycombinator.com/item?id=47807583 Points: 195 # Comments: 192"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/17/technology/how-do-you-measure-an-ai-boom.html",
+      "title": "How Do You Measure an A.I. Boom?",
+      "slug": "2026-04-17-how-do-you-measure-an-a-i-boom.html",
+      "path": "posts/2026-04-17-how-do-you-measure-an-a-i-boom.html",
+      "date_iso": "2026-04-17T16:00:43+00:00",
+      "source": "https://www.nytimes.com/2026/04/17/technology/how-do-you-measure-an-ai-boom.html",
+      "summary": "METR’s chief executive, Beth Barnes, and its president, Chris Painter, at their Berkeley, Calif., office."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47807209",
+      "title": "NASA Force",
+      "slug": "2026-04-17-nasa-force.html",
+      "path": "posts/2026-04-17-nasa-force.html",
+      "date_iso": "2026-04-17T15:47:41+00:00",
+      "source": "https://nasaforce.gov/",
+      "summary": "Article URL: https://nasaforce.gov/ Comments URL: https://news.ycombinator.com/item?id=47807209 Points: 261 # Comments: 263"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47807006",
+      "title": "Measuring Claude 4.7's tokenizer costs",
+      "slug": "2026-04-17-measuring-claude-4-7-s-tokenizer-costs.html",
+      "path": "posts/2026-04-17-measuring-claude-4-7-s-tokenizer-costs.html",
+      "date_iso": "2026-04-17T15:29:36+00:00",
+      "source": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+      "summary": "Article URL: https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you Comments URL: https://news.ycombinator.com/item?id=47807006 Points: 597 # Comments: 419"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47806845",
+      "title": "Slop Cop",
+      "slug": "2026-04-17-slop-cop.html",
+      "path": "posts/2026-04-17-slop-cop.html",
+      "date_iso": "2026-04-17T15:15:24+00:00",
+      "source": "https://awnist.com/slop-cop",
+      "summary": "Article URL: https://awnist.com/slop-cop Comments URL: https://news.ycombinator.com/item?id=47806845 Points: 158 # Comments: 99"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/17/podcasts/hardfork-ai-backlash.html",
+      "title": "A.I. Backlash Turns Violent + Kara Swisher on Healthmaxxing + The Zuck Bot Is Coming",
+      "slug": "2026-04-17-a-i-backlash-turns-violent-kara-swisher-on-healthmaxxing-the-zuck-bot-is-coming.html",
+      "path": "posts/2026-04-17-a-i-backlash-turns-violent-kara-swisher-on-healthmaxxing-the-zuck-bot-is-coming.html",
+      "date_iso": "2026-04-17T11:00:03+00:00",
+      "source": "https://www.nytimes.com/2026/04/17/podcasts/hardfork-ai-backlash.html",
+      "summary": "Is anti-A.I. radicalization a growing trend?"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47803477",
       "title": "How to make buffet breakfasts less wasteful",
       "slug": "2026-04-17-how-to-make-buffet-breakfasts-less-wasteful.html",
