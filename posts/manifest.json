@@ -1,6 +1,177 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47822414",
+      "title": "The RAM shortage could last years",
+      "slug": "2026-04-19-the-ram-shortage-could-last-years.html",
+      "path": "posts/2026-04-19-the-ram-shortage-could-last-years.html",
+      "date_iso": "2026-04-19T07:18:44+00:00",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years Comments URL: https://news.ycombinator.com/item?id=47822414 Points: 4 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47822375",
+      "title": "Android 15's hidden Linux Terminal is a real Debian VM – and it runs Claude Code",
+      "slug": "2026-04-19-android-15-s-hidden-linux-terminal-is-a-real-debian-vm-and-it-runs-claude-code.html",
+      "path": "posts/2026-04-19-android-15-s-hidden-linux-terminal-is-a-real-debian-vm-and-it-runs-claude-code.html",
+      "date_iso": "2026-04-19T07:10:54+00:00",
+      "source": "https://github.com/JoJa84/Codefone",
+      "summary": "Article URL: https://github.com/JoJa84/Codefone Comments URL: https://news.ycombinator.com/item?id=47822375 Points: 3 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47822356",
+      "title": "Keep Pushing: We Get 10 More Days to Reform Section 702",
+      "slug": "2026-04-19-keep-pushing-we-get-10-more-days-to-reform-section-702.html",
+      "path": "posts/2026-04-19-keep-pushing-we-get-10-more-days-to-reform-section-702.html",
+      "date_iso": "2026-04-19T07:05:17+00:00",
+      "source": "https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702 Comments URL: https://news.ycombinator.com/item?id=47822356 Points: 14 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47821429",
+      "title": "The world in which IPv6 was a good design",
+      "slug": "2026-04-19-the-world-in-which-ipv6-was-a-good-design.html",
+      "path": "posts/2026-04-19-the-world-in-which-ipv6-was-a-good-design.html",
+      "date_iso": "2026-04-19T02:50:43+00:00",
+      "source": "https://apenwarr.ca/log/20170810",
+      "summary": "Article URL: https://apenwarr.ca/log/20170810 Comments URL: https://news.ycombinator.com/item?id=47821429 Points: 19 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47820531",
+      "title": "NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating",
+      "slug": "2026-04-18-nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating.html",
+      "path": "posts/2026-04-18-nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating.html",
+      "date_iso": "2026-04-18T23:47:45+00:00",
+      "source": "https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/",
+      "summary": "Article URL: https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/ Comments URL: https://news.ycombinator.com/item?id=47820531 Points: 152 # Comments: 72"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47820195",
+      "title": "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
+      "slug": "2026-04-18-zero-copy-gpu-inference-from-webassembly-on-apple-silicon.html",
+      "path": "posts/2026-04-18-zero-copy-gpu-inference-from-webassembly-on-apple-silicon.html",
+      "date_iso": "2026-04-18T22:46:13+00:00",
+      "source": "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/",
+      "summary": "Article URL: https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/ Comments URL: https://news.ycombinator.com/item?id=47820195 Points: 68 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47819823",
+      "title": "My first impressions on ROCm and Strix Halo",
+      "slug": "2026-04-18-my-first-impressions-on-rocm-and-strix-halo.html",
+      "path": "posts/2026-04-18-my-first-impressions-on-rocm-and-strix-halo.html",
+      "date_iso": "2026-04-18T21:50:48+00:00",
+      "source": "https://blog.marcoinacio.com/posts/my-first-impressions-rocm-strix-halo/",
+      "summary": "Article URL: https://blog.marcoinacio.com/posts/my-first-impressions-rocm-strix-halo/ Comments URL: https://news.ycombinator.com/item?id=47819823 Points: 36 # Comments: 30"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47819453",
+      "title": "NIST scientists create 'any wavelength' lasers",
+      "slug": "2026-04-18-nist-scientists-create-any-wavelength-lasers.html",
+      "path": "posts/2026-04-18-nist-scientists-create-any-wavelength-lasers.html",
+      "date_iso": "2026-04-18T20:54:17+00:00",
+      "source": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
+      "summary": "Article URL: https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits Comments URL: https://news.ycombinator.com/item?id=47819453 Points: 286 # Comments: 128"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47819369",
+      "title": "Optimizing Ruby Path Methods",
+      "slug": "2026-04-18-optimizing-ruby-path-methods.html",
+      "path": "posts/2026-04-18-optimizing-ruby-path-methods.html",
+      "date_iso": "2026-04-18T20:42:29+00:00",
+      "source": "https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html",
+      "summary": "Article URL: https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html Comments URL: https://news.ycombinator.com/item?id=47819369 Points: 90 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47818700",
+      "title": "Thoughts and feelings around Claude Design",
+      "slug": "2026-04-18-thoughts-and-feelings-around-claude-design.html",
+      "path": "posts/2026-04-18-thoughts-and-feelings-around-claude-design.html",
+      "date_iso": "2026-04-18T19:19:24+00:00",
+      "source": "https://samhenri.gold/blog/20260418-claude-design/",
+      "summary": "Article URL: https://samhenri.gold/blog/20260418-claude-design/ Comments URL: https://news.ycombinator.com/item?id=47818700 Points: 292 # Comments: 192"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47818485",
+      "title": "College instructor turns to typewriters to curb AI-written work",
+      "slug": "2026-04-18-college-instructor-turns-to-typewriters-to-curb-ai-written-work.html",
+      "path": "posts/2026-04-18-college-instructor-turns-to-typewriters-to-curb-ai-written-work.html",
+      "date_iso": "2026-04-18T19:00:00+00:00",
+      "source": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
+      "summary": "Article URL: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/ Comments URL: https://news.ycombinator.com/item?id=47818485 Points: 251 # Comments: 226"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47817473",
+      "title": "UpCodes (YC S17) is hiring SDRs to help make construction more productive",
+      "slug": "2026-04-18-upcodes-yc-s17-is-hiring-sdrs-to-help-make-construction-more-productive.html",
+      "path": "posts/2026-04-18-upcodes-yc-s17-is-hiring-sdrs-to-help-make-construction-more-productive.html",
+      "date_iso": "2026-04-18T17:01:56+00:00",
+      "source": "https://up.codes/careers?utm_source=HN",
+      "summary": "Article URL: https://up.codes/careers?utm_source=HN Comments URL: https://news.ycombinator.com/item?id=47817473 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47817132",
+      "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
+      "slug": "2026-04-18-the-electromechanical-angle-computer-inside-the-b-52-bomber-s-star-tracker.html",
+      "path": "posts/2026-04-18-the-electromechanical-angle-computer-inside-the-b-52-bomber-s-star-tracker.html",
+      "date_iso": "2026-04-18T16:26:47+00:00",
+      "source": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
+      "summary": "Article URL: https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html Comments URL: https://news.ycombinator.com/item?id=47817132 Points: 316 # Comments: 89"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47816960",
+      "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
+      "slug": "2026-04-18-anonymous-request-token-comparisons-from-opus-4-6-and-opus-4-7.html",
+      "path": "posts/2026-04-18-anonymous-request-token-comparisons-from-opus-4-6-and-opus-4-7.html",
+      "date_iso": "2026-04-18T16:05:43+00:00",
+      "source": "https://tokens.billchambers.me/leaderboard",
+      "summary": "Article URL: https://tokens.billchambers.me/leaderboard Comments URL: https://news.ycombinator.com/item?id=47816960 Points: 504 # Comments: 497"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47816629",
+      "title": "Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data",
+      "slug": "2026-04-18-show-hn-mdv-a-markdown-superset-for-docs-dashboards-and-slides-with-data.html",
+      "path": "posts/2026-04-18-show-hn-mdv-a-markdown-superset-for-docs-dashboards-and-slides-with-data.html",
+      "date_iso": "2026-04-18T15:24:39+00:00",
+      "source": "https://github.com/drasimwagan/mdv",
+      "summary": "Article URL: https://github.com/drasimwagan/mdv Comments URL: https://news.ycombinator.com/item?id=47816629 Points: 109 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47816625",
+      "title": "Fuzix OS",
+      "slug": "2026-04-18-fuzix-os.html",
+      "path": "posts/2026-04-18-fuzix-os.html",
+      "date_iso": "2026-04-18T15:24:18+00:00",
+      "source": "https://www.fuzix.org/",
+      "summary": "Article URL: https://www.fuzix.org/ Comments URL: https://news.ycombinator.com/item?id=47816625 Points: 98 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47815774",
+      "title": "Migrating from DigitalOcean to Hetzner",
+      "slug": "2026-04-18-migrating-from-digitalocean-to-hetzner.html",
+      "path": "posts/2026-04-18-migrating-from-digitalocean-to-hetzner.html",
+      "date_iso": "2026-04-18T13:29:04+00:00",
+      "source": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
+      "summary": "Article URL: https://isayeter.com/posts/digitalocean-to-hetzner-migration/ Comments URL: https://news.ycombinator.com/item?id=47815774 Points: 751 # Comments: 377"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47815395",
+      "title": "Why Japan has such good railways",
+      "slug": "2026-04-18-why-japan-has-such-good-railways.html",
+      "path": "posts/2026-04-18-why-japan-has-such-good-railways.html",
+      "date_iso": "2026-04-18T12:29:06+00:00",
+      "source": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
+      "summary": "Article URL: https://worksinprogress.co/issue/why-japan-has-such-good-railways/ Comments URL: https://news.ycombinator.com/item?id=47815395 Points: 384 # Comments: 359"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47815118",
+      "title": "State of Kdenlive",
+      "slug": "2026-04-18-state-of-kdenlive.html",
+      "path": "posts/2026-04-18-state-of-kdenlive.html",
+      "date_iso": "2026-04-18T11:42:37+00:00",
+      "source": "https://kdenlive.org/news/2026/state-2026/",
+      "summary": "Article URL: https://kdenlive.org/news/2026/state-2026/ Comments URL: https://news.ycombinator.com/item?id=47815118 Points: 384 # Comments: 119"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47813668",
       "title": "Category Theory Illustrated – Orders",
       "slug": "2026-04-18-category-theory-illustrated-orders.html",
