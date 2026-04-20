@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47831742",
+      "title": "Brussels launched an age checking app. Hackers took 2 minutes to break it",
+      "slug": "2026-04-20-brussels-launched-an-age-checking-app-hackers-took-2-minutes-to-break-it.html",
+      "path": "posts/2026-04-20-brussels-launched-an-age-checking-app-hackers-took-2-minutes-to-break-it.html",
+      "date_iso": "2026-04-20T08:49:22+00:00",
+      "source": "https://www.politico.eu/article/eu-brussels-launched-age-checking-app-hackers-say-took-them-2-minutes-break-it/",
+      "summary": "Article URL: https://www.politico.eu/article/eu-brussels-launched-age-checking-app-hackers-say-took-them-2-minutes-break-it/ Comments URL: https://news.ycombinator.com/item?id=47831742 Points: 5 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47831621",
+      "title": "GitHub's Fake Star Economy",
+      "slug": "2026-04-20-github-s-fake-star-economy.html",
+      "path": "posts/2026-04-20-github-s-fake-star-economy.html",
+      "date_iso": "2026-04-20T08:26:52+00:00",
+      "source": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
+      "summary": "Article URL: https://awesomeagents.ai/news/github-fake-stars-investigation/ Comments URL: https://news.ycombinator.com/item?id=47831621 Points: 11 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47831437",
+      "title": "OpenClaw isn't fooling me. I remember MS-DOS",
+      "slug": "2026-04-20-openclaw-isn-t-fooling-me-i-remember-ms-dos.html",
+      "path": "posts/2026-04-20-openclaw-isn-t-fooling-me-i-remember-ms-dos.html",
+      "date_iso": "2026-04-20T07:49:48+00:00",
+      "source": "https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/",
+      "summary": "Article URL: https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/ Comments URL: https://news.ycombinator.com/item?id=47831437 Points: 35 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47831272",
+      "title": "IEA: Solar overtakes all energy sources in a major global first",
+      "slug": "2026-04-20-iea-solar-overtakes-all-energy-sources-in-a-major-global-first.html",
+      "path": "posts/2026-04-20-iea-solar-overtakes-all-energy-sources-in-a-major-global-first.html",
+      "date_iso": "2026-04-20T07:19:27+00:00",
+      "source": "https://electrek.co/2026/04/19/iea-solar-overtakes-all-energy-sources-in-a-major-global-first/",
+      "summary": "Article URL: https://electrek.co/2026/04/19/iea-solar-overtakes-all-energy-sources-in-a-major-global-first/ Comments URL: https://news.ycombinator.com/item?id=47831272 Points: 11 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47831205",
+      "title": "How Long Poop Stays in Your Body May Impact Your Health, Study Finds",
+      "slug": "2026-04-20-how-long-poop-stays-in-your-body-may-impact-your-health-study-finds.html",
+      "path": "posts/2026-04-20-how-long-poop-stays-in-your-body-may-impact-your-health-study-finds.html",
+      "date_iso": "2026-04-20T07:07:30+00:00",
+      "source": "https://www.sciencealert.com/how-long-poop-stays-in-your-body-may-impact-your-health-study-finds",
+      "summary": "Article URL: https://www.sciencealert.com/how-long-poop-stays-in-your-body-may-impact-your-health-study-finds Comments URL: https://news.ycombinator.com/item?id=47831205 Points: 40 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47830575",
+      "title": "Stripe's Payment APIs: the first 10 years (2020)",
+      "slug": "2026-04-20-stripe-s-payment-apis-the-first-10-years-2020.html",
+      "path": "posts/2026-04-20-stripe-s-payment-apis-the-first-10-years-2020.html",
+      "date_iso": "2026-04-20T05:05:43+00:00",
+      "source": "https://stripe.dev/blog/payment-api-design",
+      "summary": "Article URL: https://stripe.dev/blog/payment-api-design Comments URL: https://news.ycombinator.com/item?id=47830575 Points: 38 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47830071",
+      "title": "A cache-friendly IPv6 LPM with AVX-512 (linearized B+-tree, real BGP benchmarks)",
+      "slug": "2026-04-20-a-cache-friendly-ipv6-lpm-with-avx-512-linearized-b-tree-real-bgp-benchmarks.html",
+      "path": "posts/2026-04-20-a-cache-friendly-ipv6-lpm-with-avx-512-linearized-b-tree-real-bgp-benchmarks.html",
+      "date_iso": "2026-04-20T03:24:21+00:00",
+      "source": "https://github.com/esutcu/planb-lpm",
+      "summary": "Article URL: https://github.com/esutcu/planb-lpm Comments URL: https://news.ycombinator.com/item?id=47830071 Points: 26 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47829178",
+      "title": "Claude Token Counter, now with model comparisons",
+      "slug": "2026-04-20-claude-token-counter-now-with-model-comparisons.html",
+      "path": "posts/2026-04-20-claude-token-counter-now-with-model-comparisons.html",
+      "date_iso": "2026-04-20T00:56:40+00:00",
+      "source": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
+      "summary": "Article URL: https://simonwillison.net/2026/Apr/20/claude-token-counts/ Comments URL: https://news.ycombinator.com/item?id=47829178 Points: 97 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47828896",
+      "title": "Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon",
+      "slug": "2026-04-20-show-hn-run-trellis-2-image-to-3d-generation-natively-on-apple-silicon.html",
+      "path": "posts/2026-04-20-show-hn-run-trellis-2-image-to-3d-generation-natively-on-apple-silicon.html",
+      "date_iso": "2026-04-20T00:07:16+00:00",
+      "source": "https://github.com/shivampkumar/trellis-mac",
+      "summary": "I ported Microsoft's TRELLIS.2 (4B parameter image-to-3D model) to run on Apple Silicon via PyTorch MPS. The original requires CUDA with flash_attn, nvdiffrast, and custom sparse convolution kernels: none of which work on Mac. I replaced the CUDA-specific ops with pure-PyTorch a…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47828444",
+      "title": "Swiss AI Initiative (2023)",
+      "slug": "2026-04-19-swiss-ai-initiative-2023.html",
+      "path": "posts/2026-04-19-swiss-ai-initiative-2023.html",
+      "date_iso": "2026-04-19T22:58:35+00:00",
+      "source": "https://www.swiss-ai.org",
+      "summary": "Article URL: https://www.swiss-ai.org Comments URL: https://news.ycombinator.com/item?id=47828444 Points: 67 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47828420",
+      "title": "2,100 Swiss municipalities showing which provider handles their official email",
+      "slug": "2026-04-19-2-100-swiss-municipalities-showing-which-provider-handles-their-official-email.html",
+      "path": "posts/2026-04-19-2-100-swiss-municipalities-showing-which-provider-handles-their-official-email.html",
+      "date_iso": "2026-04-19T22:55:47+00:00",
+      "source": "https://mxmap.ch/",
+      "summary": "Related ongoing thread: Swiss authorities want to reduce dependency on Microsoft - https://news.ycombinator.com/item?id=47827383 Comments URL: https://news.ycombinator.com/item?id=47828420 Points: 179 # Comments: 51"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47827259",
+      "title": "Stop trying to engineer your way out of listening to people",
+      "slug": "2026-04-19-stop-trying-to-engineer-your-way-out-of-listening-to-people.html",
+      "path": "posts/2026-04-19-stop-trying-to-engineer-your-way-out-of-listening-to-people.html",
+      "date_iso": "2026-04-19T20:09:09+00:00",
+      "source": "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/",
+      "summary": "Article URL: https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/ Comments URL: https://news.ycombinator.com/item?id=47827259 Points: 202 # Comments: 86"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47826852",
+      "title": "I wrote a CHIP-8 emulator in my own programming language",
+      "slug": "2026-04-19-i-wrote-a-chip-8-emulator-in-my-own-programming-language.html",
+      "path": "posts/2026-04-19-i-wrote-a-chip-8-emulator-in-my-own-programming-language.html",
+      "date_iso": "2026-04-19T19:21:22+00:00",
+      "source": "https://github.com/navid-m/chip8emu",
+      "summary": "Article URL: https://github.com/navid-m/chip8emu Comments URL: https://news.ycombinator.com/item?id=47826852 Points: 70 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47826834",
+      "title": "Scientific datasets are riddled with copy-paste errors",
+      "slug": "2026-04-19-scientific-datasets-are-riddled-with-copy-paste-errors.html",
+      "path": "posts/2026-04-19-scientific-datasets-are-riddled-with-copy-paste-errors.html",
+      "date_iso": "2026-04-19T19:18:57+00:00",
+      "source": "https://www.sciencedetective.org/scientific-datasets-are-riddled-with-copy-paste-errors/",
+      "summary": "Article URL: https://www.sciencedetective.org/scientific-datasets-are-riddled-with-copy-paste-errors/ Comments URL: https://news.ycombinator.com/item?id=47826834 Points: 96 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47826502",
+      "title": "Six Levels of Dark Mode (2024)",
+      "slug": "2026-04-19-six-levels-of-dark-mode-2024.html",
+      "path": "posts/2026-04-19-six-levels-of-dark-mode-2024.html",
+      "date_iso": "2026-04-19T18:36:00+00:00",
+      "source": "https://cssence.com/2024/six-levels-of-dark-mode/",
+      "summary": "Article URL: https://cssence.com/2024/six-levels-of-dark-mode/ Comments URL: https://news.ycombinator.com/item?id=47826502 Points: 87 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47826100",
+      "title": "The Bromine Chokepoint",
+      "slug": "2026-04-19-the-bromine-chokepoint.html",
+      "path": "posts/2026-04-19-the-bromine-chokepoint.html",
+      "date_iso": "2026-04-19T17:44:03+00:00",
+      "source": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
+      "summary": "Article URL: https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/ Comments URL: https://news.ycombinator.com/item?id=47826100 Points: 197 # Comments: 102"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47825160",
+      "title": "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
+      "slug": "2026-04-19-turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction.html",
+      "path": "posts/2026-04-19-turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction.html",
+      "date_iso": "2026-04-19T15:48:40+00:00",
+      "source": "https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/",
+      "summary": "Article URL: https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/ Comments URL: https://news.ycombinator.com/item?id=47825160 Points: 224 # Comments: 190"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47824463",
+      "title": "Vercel April 2026 security incident",
+      "slug": "2026-04-19-vercel-april-2026-security-incident.html",
+      "path": "posts/2026-04-19-vercel-april-2026-security-incident.html",
+      "date_iso": "2026-04-19T14:14:38+00:00",
+      "source": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
+      "summary": "https://vercel.com/kb/bulletin/vercel-april-2026-security-in... Comments URL: https://news.ycombinator.com/item?id=47824463 Points: 729 # Comments: 422"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47823270",
+      "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+      "slug": "2026-04-19-changes-in-the-system-prompt-between-claude-opus-4-6-and-4-7.html",
+      "path": "posts/2026-04-19-changes-in-the-system-prompt-between-claude-opus-4-6-and-4-7.html",
+      "date_iso": "2026-04-19T10:36:29+00:00",
+      "source": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+      "summary": "Article URL: https://simonwillison.net/2026/Apr/18/opus-system-prompt/ Comments URL: https://news.ycombinator.com/item?id=47823270 Points: 311 # Comments: 178"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47822805",
+      "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
+      "slug": "2026-04-19-speake-a-r-turn-speakers-to-microphones-for-fun-and-profit-pdf-2017.html",
+      "path": "posts/2026-04-19-speake-a-r-turn-speakers-to-microphones-for-fun-and-profit-pdf-2017.html",
+      "date_iso": "2026-04-19T08:45:48+00:00",
+      "source": "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf",
+      "summary": "Article URL: https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf Comments URL: https://news.ycombinator.com/item?id=47822805 Points: 179 # Comments: 69"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47822414",
       "title": "The RAM shortage could last years",
       "slug": "2026-04-19-the-ram-shortage-could-last-years.html",

@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon</h1>
+    <p><small>Published: 2026-04-20T00:07:16+00:00</small></p>
+  </header>
+
+  <main>
+    <p>I ported Microsoft's TRELLIS.2 (4B parameter image-to-3D model) to run on Apple Silicon via PyTorch MPS. The original requires CUDA with flash_attn, nvdiffrast, and custom sparse convolution kernels:  none of which work on Mac.<p>I replaced the CUDA-specific ops with pure-PyTorch alternatives: a gather-scatter sparse 3D convolution, SDPA attention for sparse transformers, and a Python-based mesh extraction replacing CUDA hashmap operations. Total changes are a few hundred lines across 9 files.<p>Generates ~400K vertex meshes from single photos in about 3.5 minutes on M4 Pro (24GB). Not as fast as H100 (where it takes seconds), but it works offline with no cloud dependency.<p><a href="https://github.com/shivampkumar/trellis-mac" rel="nofollow">https://github.com/shivampkumar/trellis-mac</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47828896">https://news.ycombinator.com/item?id=47828896</a></p>
+<p>Points: 157</p>
+<p># Comments: 26</p>
+    <p><a href="https://github.com/shivampkumar/trellis-mac" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
