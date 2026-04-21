@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/04/20/technology/tim-cook-apple-ceo-steps-down.html",
+      "title": "Tim Cook Will Step Down as Apple C.E.O.",
+      "slug": "2026-04-21-tim-cook-will-step-down-as-apple-c-e-o.html",
+      "path": "posts/2026-04-21-tim-cook-will-step-down-as-apple-c-e-o.html",
+      "date_iso": "2026-04-21T08:46:19+00:00",
+      "source": "https://www.nytimes.com/2026/04/20/technology/tim-cook-apple-ceo-steps-down.html",
+      "summary": "Tim Cook joined Apple in 1998 and was its chief operating officer under the company’s co-founder Steve Jobs."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47845274",
+      "title": "Using Changesets in a polyglot monorepo",
+      "slug": "2026-04-21-using-changesets-in-a-polyglot-monorepo.html",
+      "path": "posts/2026-04-21-using-changesets-in-a-polyglot-monorepo.html",
+      "date_iso": "2026-04-21T06:25:50+00:00",
+      "source": "https://luke.hsiao.dev/blog/changesets-polyglot-monorepo/",
+      "summary": "Article URL: https://luke.hsiao.dev/blog/changesets-polyglot-monorepo/ Comments URL: https://news.ycombinator.com/item?id=47845274 Points: 7 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47845231",
+      "title": "Louis Zocchi, inventor of the d100, has died",
+      "slug": "2026-04-21-louis-zocchi-inventor-of-the-d100-has-died.html",
+      "path": "posts/2026-04-21-louis-zocchi-inventor-of-the-d100-has-died.html",
+      "date_iso": "2026-04-21T06:19:15+00:00",
+      "source": "https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice",
+      "summary": "Article URL: https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice Comments URL: https://news.ycombinator.com/item?id=47845231 Points: 30 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47845187",
+      "title": "A mad undertaking: An undefinitive guide to the Aadam Jacobs collection",
+      "slug": "2026-04-21-a-mad-undertaking-an-undefinitive-guide-to-the-aadam-jacobs-collection.html",
+      "path": "posts/2026-04-21-a-mad-undertaking-an-undefinitive-guide-to-the-aadam-jacobs-collection.html",
+      "date_iso": "2026-04-21T06:12:41+00:00",
+      "source": "https://aadamjacobscollection.org/",
+      "summary": "Article URL: https://aadamjacobscollection.org/ Comments URL: https://news.ycombinator.com/item?id=47845187 Points: 11 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47845111",
+      "title": "Types and Neural Networks",
+      "slug": "2026-04-21-types-and-neural-networks.html",
+      "path": "posts/2026-04-21-types-and-neural-networks.html",
+      "date_iso": "2026-04-21T05:59:53+00:00",
+      "source": "https://www.brunogavranovic.com/posts/2026-04-20-types-and-neural-networks.html",
+      "summary": "Article URL: https://www.brunogavranovic.com/posts/2026-04-20-types-and-neural-networks.html Comments URL: https://news.ycombinator.com/item?id=47845111 Points: 13 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47844890",
+      "title": "Salmon exposed to cocaine and its main byproduct roam more widely",
+      "slug": "2026-04-21-salmon-exposed-to-cocaine-and-its-main-byproduct-roam-more-widely.html",
+      "path": "posts/2026-04-21-salmon-exposed-to-cocaine-and-its-main-byproduct-roam-more-widely.html",
+      "date_iso": "2026-04-21T05:27:35+00:00",
+      "source": "https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust",
+      "summary": "Article URL: https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust Comments URL: https://news.ycombinator.com/item?id=47844890 Points: 17 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47844539",
+      "title": "The Beauty of Bonsai Styles",
+      "slug": "2026-04-21-the-beauty-of-bonsai-styles.html",
+      "path": "posts/2026-04-21-the-beauty-of-bonsai-styles.html",
+      "date_iso": "2026-04-21T04:31:30+00:00",
+      "source": "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles",
+      "summary": "Article URL: https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles Comments URL: https://news.ycombinator.com/item?id=47844539 Points: 53 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47844431",
+      "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
+      "slug": "2026-04-21-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-platform.html",
+      "path": "posts/2026-04-21-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-platform.html",
+      "date_iso": "2026-04-21T04:12:12+00:00",
+      "source": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
+      "summary": "Article URL: https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform Comments URL: https://news.ycombinator.com/item?id=47844431 Points: 134 # Comments: 56"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47844269",
+      "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
+      "slug": "2026-04-21-anthropic-says-openclaw-style-claude-cli-usage-is-allowed-again.html",
+      "path": "posts/2026-04-21-anthropic-says-openclaw-style-claude-cli-usage-is-allowed-again.html",
+      "date_iso": "2026-04-21T03:43:03+00:00",
+      "source": "https://docs.openclaw.ai/providers/anthropic",
+      "summary": "Article URL: https://docs.openclaw.ai/providers/anthropic Comments URL: https://news.ycombinator.com/item?id=47844269 Points: 159 # Comments: 87"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47843569",
+      "title": "Prediction markets are breaking the news and becoming their own beat",
+      "slug": "2026-04-21-prediction-markets-are-breaking-the-news-and-becoming-their-own-beat.html",
+      "path": "posts/2026-04-21-prediction-markets-are-breaking-the-news-and-becoming-their-own-beat.html",
+      "date_iso": "2026-04-21T01:46:14+00:00",
+      "source": "https://www.niemanlab.org/2026/04/prediction-markets-are-breaking-the-news-and-becoming-their-own-beat/",
+      "summary": "Article URL: https://www.niemanlab.org/2026/04/prediction-markets-are-breaking-the-news-and-becoming-their-own-beat/ Comments URL: https://news.ycombinator.com/item?id=47843569 Points: 38 # Comments: 39"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/20/technology/amazon-anthropic-investment.html",
+      "title": "Amazon Plans to Invest Up to $25 Billion in Anthropic",
+      "slug": "2026-04-21-amazon-plans-to-invest-up-to-25-billion-in-anthropic.html",
+      "path": "posts/2026-04-21-amazon-plans-to-invest-up-to-25-billion-in-anthropic.html",
+      "date_iso": "2026-04-21T01:11:04+00:00",
+      "source": "https://www.nytimes.com/2026/04/20/technology/amazon-anthropic-investment.html",
+      "summary": "Over the past year, Anthropic has become one of the largest users of Amazon’s latest chip, known as Trainium."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47843194",
+      "title": "How to make a fast dynamic language interpreter",
+      "slug": "2026-04-21-how-to-make-a-fast-dynamic-language-interpreter.html",
+      "path": "posts/2026-04-21-how-to-make-a-fast-dynamic-language-interpreter.html",
+      "date_iso": "2026-04-21T00:48:07+00:00",
+      "source": "https://zef-lang.dev/implementation",
+      "summary": "Article URL: https://zef-lang.dev/implementation Comments URL: https://news.ycombinator.com/item?id=47843194 Points: 158 # Comments: 21"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/20/technology/apple-ceos-photos.html",
+      "title": "Apple C.E.O.s Through the Years: From Michael Scott (Not That One) to John Ternus",
+      "slug": "2026-04-20-apple-c-e-o-s-through-the-years-from-michael-scott-not-that-one-to-john-ternus.html",
+      "path": "posts/2026-04-20-apple-c-e-o-s-through-the-years-from-michael-scott-not-that-one-to-john-ternus.html",
+      "date_iso": "2026-04-20T21:49:39+00:00",
+      "source": "https://www.nytimes.com/2026/04/20/technology/apple-ceos-photos.html",
+      "summary": "The first Apple Macintosh computer in 1984."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47841149",
+      "title": "Monero Community Crowdfunding System",
+      "slug": "2026-04-20-monero-community-crowdfunding-system.html",
+      "path": "posts/2026-04-20-monero-community-crowdfunding-system.html",
+      "date_iso": "2026-04-20T21:33:15+00:00",
+      "source": "https://ccs.getmonero.org/ideas/",
+      "summary": "Article URL: https://ccs.getmonero.org/ideas/ Comments URL: https://news.ycombinator.com/item?id=47841149 Points: 89 # Comments: 52"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47841129",
+      "title": "Jujutsu megamerges for fun and profit",
+      "slug": "2026-04-20-jujutsu-megamerges-for-fun-and-profit.html",
+      "path": "posts/2026-04-20-jujutsu-megamerges-for-fun-and-profit.html",
+      "date_iso": "2026-04-20T21:32:10+00:00",
+      "source": "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit",
+      "summary": "Article URL: https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit Comments URL: https://news.ycombinator.com/item?id=47841129 Points: 220 # Comments: 104"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/20/technology/amazon-antitrust-suit-california.html",
+      "title": "California Accuses Amazon of Price Fixing in Legal Filing",
+      "slug": "2026-04-20-california-accuses-amazon-of-price-fixing-in-legal-filing.html",
+      "path": "posts/2026-04-20-california-accuses-amazon-of-price-fixing-in-legal-filing.html",
+      "date_iso": "2026-04-20T21:29:04+00:00",
+      "source": "https://www.nytimes.com/2026/04/20/technology/amazon-antitrust-suit-california.html",
+      "summary": "The lawsuit California brought against Amazon is scheduled to go to trial next year."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47840219",
+      "title": "John Ternus to become Apple CEO",
+      "slug": "2026-04-20-john-ternus-to-become-apple-ceo.html",
+      "path": "posts/2026-04-20-john-ternus-to-become-apple-ceo.html",
+      "date_iso": "2026-04-20T20:39:32+00:00",
+      "source": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/ Comments URL: https://news.ycombinator.com/item?id=47840219 Points: 1732 # Comments: 881"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47839645",
+      "title": "Soul Player C64 – A real transformer running on a 1 MHz Commodore 64",
+      "slug": "2026-04-20-soul-player-c64-a-real-transformer-running-on-a-1-mhz-commodore-64.html",
+      "path": "posts/2026-04-20-soul-player-c64-a-real-transformer-running-on-a-1-mhz-commodore-64.html",
+      "date_iso": "2026-04-20T19:51:07+00:00",
+      "source": "https://github.com/gizmo64k/soulplayer-c64",
+      "summary": "Article URL: https://github.com/gizmo64k/soulplayer-c64 Comments URL: https://news.ycombinator.com/item?id=47839645 Points: 122 # Comments: 31"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/20/world/europe/elon-musk-ignores-french-summons.html",
+      "title": "Elon Musk Ignores French Prosecutors, Widening Tech Rift With Europe",
+      "slug": "2026-04-20-elon-musk-ignores-french-prosecutors-widening-tech-rift-with-europe.html",
+      "path": "posts/2026-04-20-elon-musk-ignores-french-prosecutors-widening-tech-rift-with-europe.html",
+      "date_iso": "2026-04-20T18:54:59+00:00",
+      "source": "https://www.nytimes.com/2026/04/20/world/europe/elon-musk-ignores-french-summons.html",
+      "summary": "Elon Musk speaking in Switzerland in January. He has previously denounced the French investigation."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47838703",
+      "title": "Kimi vendor verifier – verify accuracy of inference providers",
+      "slug": "2026-04-20-kimi-vendor-verifier-verify-accuracy-of-inference-providers.html",
+      "path": "posts/2026-04-20-kimi-vendor-verifier-verify-accuracy-of-inference-providers.html",
+      "date_iso": "2026-04-20T18:39:53+00:00",
+      "source": "https://www.kimi.com/blog/kimi-vendor-verifier",
+      "summary": "Article URL: https://www.kimi.com/blog/kimi-vendor-verifier Comments URL: https://news.ycombinator.com/item?id=47838703 Points: 253 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47837176",
+      "title": "Bloom (YC P26) Is Hiring",
+      "slug": "2026-04-20-bloom-yc-p26-is-hiring.html",
+      "path": "posts/2026-04-20-bloom-yc-p26-is-hiring.html",
+      "date_iso": "2026-04-20T17:00:45+00:00",
+      "source": "https://www.ycombinator.com/companies/trybloom/jobs",
+      "summary": "Article URL: https://www.ycombinator.com/companies/trybloom/jobs Comments URL: https://news.ycombinator.com/item?id=47837176 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47836784",
+      "title": "Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys",
+      "slug": "2026-04-20-quantum-computers-are-not-a-threat-to-128-bit-symmetric-keys.html",
+      "path": "posts/2026-04-20-quantum-computers-are-not-a-threat-to-128-bit-symmetric-keys.html",
+      "date_iso": "2026-04-20T16:37:48+00:00",
+      "source": "https://words.filippo.io/128-bits/",
+      "summary": "Article URL: https://words.filippo.io/128-bits/ Comments URL: https://news.ycombinator.com/item?id=47836784 Points: 219 # Comments: 78"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47835411",
+      "title": "Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness",
+      "slug": "2026-04-20-show-hn-mediator-ai-using-nash-bargaining-and-llms-to-systematize-fairness.html",
+      "path": "posts/2026-04-20-show-hn-mediator-ai-using-nash-bargaining-and-llms-to-systematize-fairness.html",
+      "date_iso": "2026-04-20T15:07:04+00:00",
+      "source": "https://mediator.ai/",
+      "summary": "Eight years ago, my then-fiancée and I decided to get a prenup, so we hired a local mediator. The meetings were useful, but I felt there was no systematic process to produce a final agreement. So I started to think about this problem, and after a bit of research, I discovered th…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47834565",
+      "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+      "slug": "2026-04-20-qwen3-6-max-preview-smarter-sharper-still-evolving.html",
+      "path": "posts/2026-04-20-qwen3-6-max-preview-smarter-sharper-still-evolving.html",
+      "date_iso": "2026-04-20T14:05:34+00:00",
+      "source": "https://qwen.ai/blog?id=qwen3.6-max-preview",
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen3.6-max-preview Comments URL: https://news.ycombinator.com/item?id=47834565 Points: 618 # Comments: 326"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47834195",
+      "title": "All phones sold in the EU to have replaceable batteries from 2027",
+      "slug": "2026-04-20-all-phones-sold-in-the-eu-to-have-replaceable-batteries-from-2027.html",
+      "path": "posts/2026-04-20-all-phones-sold-in-the-eu-to-have-replaceable-batteries-from-2027.html",
+      "date_iso": "2026-04-20T13:41:25+00:00",
+      "source": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
+      "summary": "Article URL: https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/ Comments URL: https://news.ycombinator.com/item?id=47834195 Points: 1215 # Comments: 1005"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47831742",
       "title": "Brussels launched an age checking app. Hackers took 2 minutes to break it",
       "slug": "2026-04-20-brussels-launched-an-age-checking-app-hackers-took-2-minutes-to-break-it.html",
