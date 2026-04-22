@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: VidStudio, a browser based video editor that doesn't upload your files</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: VidStudio, a browser based video editor that doesn't upload your files</h1>
+    <p><small>Published: 2026-04-21T11:58:16+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hi HN,
+I built VidStudio, a privacy focused video editor that runs in the browser. I tried to keep it as frictionless as possible, so there are no accounts and no uploads. Everything is persisted on your
+machine.<p>Some of the features: multi-track timeline, frame accurate seek, MP4 export, audio, video, image, and text tracks, and a WebGL backed canvas where available. It also works on mobile.<p>Under the hood, WebCodecs handles frame decode for timeline playback and scrubbing, which is what makes seeking responsive since decode runs on the hardware decoder when the browser supports it.
+FFmpeg compiled to WebAssembly handles final encode, format conversion, and anything WebCodecs does not cover. Rendering goes through Pixi.js on a WebGL canvas, with a software fallback when WebGL is
+not available. Projects live in IndexedDB and the heavy work runs in Web Workers so the UI stays responsive during exports.<p>Happy to answer technical questions about the tradeoffs involved in keeping the whole pipeline client-side. Any feedback welcome.<p>Link: <a href="https://vidstudio.app/video-editor" rel="nofollow">https://vidstudio.app/video-editor</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47847558">https://news.ycombinator.com/item?id=47847558</a></p>
+<p>Points: 272</p>
+<p># Comments: 86</p>
+    <p><a href="https://vidstudio.app/video-editor" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
