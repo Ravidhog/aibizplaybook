@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47872452",
+      "title": "Ars Technica: Our newsroom AI policy",
+      "slug": "2026-04-23-ars-technica-our-newsroom-ai-policy.html",
+      "path": "posts/2026-04-23-ars-technica-our-newsroom-ai-policy.html",
+      "date_iso": "2026-04-23T05:14:05+00:00",
+      "source": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+      "summary": "Article URL: https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=47872452 Points: 41 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47872324",
+      "title": "I am building a cloud",
+      "slug": "2026-04-23-i-am-building-a-cloud.html",
+      "path": "posts/2026-04-23-i-am-building-a-cloud.html",
+      "date_iso": "2026-04-23T04:44:19+00:00",
+      "source": "https://crawshaw.io/blog/building-a-cloud",
+      "summary": "Article URL: https://crawshaw.io/blog/building-a-cloud Comments URL: https://news.ycombinator.com/item?id=47872324 Points: 278 # Comments: 126"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47871817",
+      "title": "Borrow-checking without type-checking",
+      "slug": "2026-04-23-borrow-checking-without-type-checking.html",
+      "path": "posts/2026-04-23-borrow-checking-without-type-checking.html",
+      "date_iso": "2026-04-23T02:55:17+00:00",
+      "source": "https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/",
+      "summary": "Article URL: https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/ Comments URL: https://news.ycombinator.com/item?id=47871817 Points: 54 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47871519",
+      "title": "Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image",
+      "slug": "2026-04-23-arch-linux-now-has-a-bit-for-bit-reproducible-docker-image.html",
+      "path": "posts/2026-04-23-arch-linux-now-has-a-bit-for-bit-reproducible-docker-image.html",
+      "date_iso": "2026-04-23T01:59:08+00:00",
+      "source": "https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/",
+      "summary": "Article URL: https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/ Comments URL: https://news.ycombinator.com/item?id=47871519 Points: 37 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47871195",
+      "title": "Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game",
+      "slug": "2026-04-23-tempest-vs-tempest-the-making-and-remaking-of-atari-s-iconic-video-game.html",
+      "path": "posts/2026-04-23-tempest-vs-tempest-the-making-and-remaking-of-atari-s-iconic-video-game.html",
+      "date_iso": "2026-04-23T01:02:32+00:00",
+      "source": "https://tempest.homemade.systems",
+      "summary": "Article URL: https://tempest.homemade.systems Comments URL: https://news.ycombinator.com/item?id=47871195 Points: 68 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47871077",
+      "title": "OpenAI's response to the Axios developer tool compromise",
+      "slug": "2026-04-23-openai-s-response-to-the-axios-developer-tool-compromise.html",
+      "path": "posts/2026-04-23-openai-s-response-to-the-axios-developer-tool-compromise.html",
+      "date_iso": "2026-04-23T00:45:01+00:00",
+      "source": "https://openai.com/index/axios-developer-tool-compromise/",
+      "summary": "Article URL: https://openai.com/index/axios-developer-tool-compromise/ Comments URL: https://news.ycombinator.com/item?id=47871077 Points: 69 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47870108",
+      "title": "Bring your own Agent to MS Teams",
+      "slug": "2026-04-22-bring-your-own-agent-to-ms-teams.html",
+      "path": "posts/2026-04-22-bring-your-own-agent-to-ms-teams.html",
+      "date_iso": "2026-04-22T22:25:28+00:00",
+      "source": "https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/",
+      "summary": "Article URL: https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/ Comments URL: https://news.ycombinator.com/item?id=47870108 Points: 57 # Comments: 44"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47868867",
+      "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+      "slug": "2026-04-22-apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones.html",
+      "path": "posts/2026-04-22-apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones.html",
+      "date_iso": "2026-04-22T20:27:31+00:00",
+      "source": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+      "summary": "Article URL: https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/ Comments URL: https://news.ycombinator.com/item?id=47868867 Points: 570 # Comments: 140"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/22/technology/anthropics-mythos-ai.html",
+      "title": "Anthropic’s New Mythos A.I. Model Sets Off Global Alarms",
+      "slug": "2026-04-22-anthropic-s-new-mythos-a-i-model-sets-off-global-alarms.html",
+      "path": "posts/2026-04-22-anthropic-s-new-mythos-a-i-model-sets-off-global-alarms.html",
+      "date_iso": "2026-04-22T19:48:53+00:00",
+      "source": "https://www.nytimes.com/2026/04/22/technology/anthropics-mythos-ai.html",
+      "summary": "Mythos has triggered emergency responses from central banks and intelligence agencies globally, as Anthropic decides who has access to the powerful model."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/22/business/seniors-home-care-tech.html",
+      "title": "Aging in Place: How Technology Might Help You Grow Old at Home",
+      "slug": "2026-04-22-aging-in-place-how-technology-might-help-you-grow-old-at-home.html",
+      "path": "posts/2026-04-22-aging-in-place-how-technology-might-help-you-grow-old-at-home.html",
+      "date_iso": "2026-04-22T18:50:41+00:00",
+      "source": "https://www.nytimes.com/2026/04/22/business/seniors-home-care-tech.html",
+      "summary": "The budding field is turning dreams into reality for older adults who are eager to age in place, filling caregiving gaps and easing minds as America ages rapidly."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47867048",
+      "title": "Website streamed live directly from a model",
+      "slug": "2026-04-22-website-streamed-live-directly-from-a-model.html",
+      "path": "posts/2026-04-22-website-streamed-live-directly-from-a-model.html",
+      "date_iso": "2026-04-22T18:01:18+00:00",
+      "source": "https://flipbook.page/",
+      "summary": "https://x.com/zan2434/status/2046982383430496444 ( https://xcancel.com/zan2434/status/2046982383430496444 ) Comments URL: https://news.ycombinator.com/item?id=47867048 Points: 260 # Comments: 77"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/22/technology/justin-sun-crypto-world-liberty-trump.html",
+      "title": "Crypto Entrepreneur Justin Sun Sues Trump Family’s World Liberty Financial, Accusing It of Fraud",
+      "slug": "2026-04-22-crypto-entrepreneur-justin-sun-sues-trump-family-s-world-liberty-financial-accusing-it-of-fraud.html",
+      "path": "posts/2026-04-22-crypto-entrepreneur-justin-sun-sues-trump-family-s-world-liberty-financial-accusing-it-of-fraud.html",
+      "date_iso": "2026-04-22T17:58:07+00:00",
+      "source": "https://www.nytimes.com/2026/04/22/technology/justin-sun-crypto-world-liberty-trump.html",
+      "summary": "Justin Sun, a crypto entrepreneur, at a conference last year in Dubai, United Arab Emirates."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47866913",
+      "title": "Over-editing refers to a model modifying code beyond what is necessary",
+      "slug": "2026-04-22-over-editing-refers-to-a-model-modifying-code-beyond-what-is-necessary.html",
+      "path": "posts/2026-04-22-over-editing-refers-to-a-model-modifying-code-beyond-what-is-necessary.html",
+      "date_iso": "2026-04-22T17:51:17+00:00",
+      "source": "https://nrehiew.github.io/blog/minimal_editing/",
+      "summary": "Article URL: https://nrehiew.github.io/blog/minimal_editing/ Comments URL: https://news.ycombinator.com/item?id=47866913 Points: 358 # Comments: 204"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47866860",
+      "title": "Workspace Agents in ChatGPT",
+      "slug": "2026-04-22-workspace-agents-in-chatgpt.html",
+      "path": "posts/2026-04-22-workspace-agents-in-chatgpt.html",
+      "date_iso": "2026-04-22T17:47:07+00:00",
+      "source": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
+      "summary": "Article URL: https://openai.com/index/introducing-workspace-agents-in-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=47866860 Points: 133 # Comments: 51"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47866750",
+      "title": "Parallel agents in Zed",
+      "slug": "2026-04-22-parallel-agents-in-zed.html",
+      "path": "posts/2026-04-22-parallel-agents-in-zed.html",
+      "date_iso": "2026-04-22T17:38:57+00:00",
+      "source": "https://zed.dev/blog/parallel-agents",
+      "summary": "Article URL: https://zed.dev/blog/parallel-agents Comments URL: https://news.ycombinator.com/item?id=47866750 Points: 222 # Comments: 120"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47866697",
+      "title": "We found a stable Firefox identifier linking all your private Tor identities",
+      "slug": "2026-04-22-we-found-a-stable-firefox-identifier-linking-all-your-private-tor-identities.html",
+      "path": "posts/2026-04-22-we-found-a-stable-firefox-identifier-linking-all-your-private-tor-identities.html",
+      "date_iso": "2026-04-22T17:35:03+00:00",
+      "source": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
+      "summary": "Article URL: https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/ Comments URL: https://news.ycombinator.com/item?id=47866697 Points: 675 # Comments: 187"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47865868",
+      "title": "Alberta startup sells no-tech tractors for half price",
+      "slug": "2026-04-22-alberta-startup-sells-no-tech-tractors-for-half-price.html",
+      "path": "posts/2026-04-22-alberta-startup-sells-no-tech-tractors-for-half-price.html",
+      "date_iso": "2026-04-22T16:29:25+00:00",
+      "source": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
+      "summary": "Article URL: https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/ Comments URL: https://news.ycombinator.com/item?id=47865868 Points: 1726 # Comments: 551"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47865661",
+      "title": "Technical, cognitive, and intent debt",
+      "slug": "2026-04-22-technical-cognitive-and-intent-debt.html",
+      "path": "posts/2026-04-22-technical-cognitive-and-intent-debt.html",
+      "date_iso": "2026-04-22T16:11:23+00:00",
+      "source": "https://martinfowler.com/fragments/2026-04-02.html",
+      "summary": "Article URL: https://martinfowler.com/fragments/2026-04-02.html Comments URL: https://news.ycombinator.com/item?id=47865661 Points: 259 # Comments: 66"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47864785",
+      "title": "Ping-pong robot beats top-level human players",
+      "slug": "2026-04-22-ping-pong-robot-beats-top-level-human-players.html",
+      "path": "posts/2026-04-22-ping-pong-robot-beats-top-level-human-players.html",
+      "date_iso": "2026-04-22T15:13:48+00:00",
+      "source": "https://www.reuters.com/sports/ping-pong-robot-ace-makes-history-by-beating-top-level-human-players-2026-04-22/",
+      "summary": "Article URL: https://www.reuters.com/sports/ping-pong-robot-ace-makes-history-by-beating-top-level-human-players-2026-04-22/ Comments URL: https://news.ycombinator.com/item?id=47864785 Points: 118 # Comments: 131"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/22/technology/elon-musk-spacex-ipo-goals.html",
+      "title": "Musk’s SpaceX Goals Shift Ahead of Its I.P.O.",
+      "slug": "2026-04-22-musk-s-spacex-goals-shift-ahead-of-its-i-p-o.html",
+      "path": "posts/2026-04-22-musk-s-spacex-goals-shift-ahead-of-its-i-p-o.html",
+      "date_iso": "2026-04-22T14:56:26+00:00",
+      "source": "https://www.nytimes.com/2026/04/22/technology/elon-musk-spacex-ipo-goals.html",
+      "summary": "As SpaceX prepares to go public, Mr. Musk has proposed moonshots that differ from the company’s original aim of reaching Mars."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47864393",
+      "title": "Scoring Show HN submissions for AI design patterns",
+      "slug": "2026-04-22-scoring-show-hn-submissions-for-ai-design-patterns.html",
+      "path": "posts/2026-04-22-scoring-show-hn-submissions-for-ai-design-patterns.html",
+      "date_iso": "2026-04-22T14:44:32+00:00",
+      "source": "https://www.adriankrebs.ch/blog/design-slop/",
+      "summary": "Article URL: https://www.adriankrebs.ch/blog/design-slop/ Comments URL: https://news.ycombinator.com/item?id=47864393 Points: 306 # Comments: 218"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/22/technology/anthropic-code-leak-copyright.html",
+      "title": "Leaked Code for Anthropic’s Claude Code Tests Copyright Challenges in A.I. Era",
+      "slug": "2026-04-22-leaked-code-for-anthropic-s-claude-code-tests-copyright-challenges-in-a-i-era.html",
+      "path": "posts/2026-04-22-leaked-code-for-anthropic-s-claude-code-tests-copyright-challenges-in-a-i-era.html",
+      "date_iso": "2026-04-22T14:37:38+00:00",
+      "source": "https://www.nytimes.com/2026/04/22/technology/anthropic-code-leak-copyright.html",
+      "summary": "Sigrid Jin, a student at the University of British Columbia in Vancouver, Canada, used A.I. agents to rewrite leaked Anthropic code."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47864011",
+      "title": "The handmade beauty of Machine Age data visualizations",
+      "slug": "2026-04-22-the-handmade-beauty-of-machine-age-data-visualizations.html",
+      "path": "posts/2026-04-22-the-handmade-beauty-of-machine-age-data-visualizations.html",
+      "date_iso": "2026-04-22T14:15:44+00:00",
+      "source": "https://resobscura.substack.com/p/the-handmade-beauty-of-machine-age",
+      "summary": "Article URL: https://resobscura.substack.com/p/the-handmade-beauty-of-machine-age Comments URL: https://news.ycombinator.com/item?id=47864011 Points: 34 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47863324",
+      "title": "Ultraviolet corona discharges on treetops during storms",
+      "slug": "2026-04-22-ultraviolet-corona-discharges-on-treetops-during-storms.html",
+      "path": "posts/2026-04-22-ultraviolet-corona-discharges-on-treetops-during-storms.html",
+      "date_iso": "2026-04-22T13:28:40+00:00",
+      "source": "https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time",
+      "summary": "Article URL: https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time Comments URL: https://news.ycombinator.com/item?id=47863324 Points: 229 # Comments: 65"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47863217",
+      "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+      "slug": "2026-04-22-qwen3-6-27b-flagship-level-coding-in-a-27b-dense-model.html",
+      "path": "posts/2026-04-22-qwen3-6-27b-flagship-level-coding-in-a-27b-dense-model.html",
+      "date_iso": "2026-04-22T13:19:58+00:00",
+      "source": "https://qwen.ai/blog?id=qwen3.6-27b",
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen3.6-27b Comments URL: https://news.ycombinator.com/item?id=47863217 Points: 832 # Comments: 383"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47859861",
       "title": "XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?",
       "slug": "2026-04-22-xor-ing-a-register-with-itself-is-the-idiom-for-zeroing-it-out-why-not-sub.html",
