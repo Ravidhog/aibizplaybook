@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47899053",
+      "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
+      "slug": "2026-04-25-new-10-gbe-usb-adapters-are-cooler-smaller-cheaper.html",
+      "path": "posts/2026-04-25-new-10-gbe-usb-adapters-are-cooler-smaller-cheaper.html",
+      "date_iso": "2026-04-25T05:56:12+00:00",
+      "source": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
+      "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/ Comments URL: https://news.ycombinator.com/item?id=47899053 Points: 66 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47898597",
+      "title": "Turbo Vision 2.0 – a modern port",
+      "slug": "2026-04-25-turbo-vision-2-0-a-modern-port.html",
+      "path": "posts/2026-04-25-turbo-vision-2-0-a-modern-port.html",
+      "date_iso": "2026-04-25T04:18:01+00:00",
+      "source": "https://github.com/magiblot/tvision",
+      "summary": "Article URL: https://github.com/magiblot/tvision Comments URL: https://news.ycombinator.com/item?id=47898597 Points: 96 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47897891",
+      "title": "Firefox Has Integrated Brave's Adblock Engine",
+      "slug": "2026-04-25-firefox-has-integrated-brave-s-adblock-engine.html",
+      "path": "posts/2026-04-25-firefox-has-integrated-brave-s-adblock-engine.html",
+      "date_iso": "2026-04-25T01:47:33+00:00",
+      "source": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
+      "summary": "Article URL: https://itsfoss.com/news/firefox-ships-brave-adblock-engine/ Comments URL: https://news.ycombinator.com/item?id=47897891 Points: 185 # Comments: 88"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47897790",
+      "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
+      "slug": "2026-04-25-open-source-memory-layer-so-any-ai-agent-can-do-what-claude-ai-and-chatgpt-do.html",
+      "path": "posts/2026-04-25-open-source-memory-layer-so-any-ai-agent-can-do-what-claude-ai-and-chatgpt-do.html",
+      "date_iso": "2026-04-25T01:24:40+00:00",
+      "source": "https://alash3al.github.io/stash?_v01",
+      "summary": "Article URL: https://alash3al.github.io/stash?_v01 Comments URL: https://news.ycombinator.com/item?id=47897790 Points: 23 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47897706",
+      "title": "(Blender) Cosmology with Geometry Nodes",
+      "slug": "2026-04-25-blender-cosmology-with-geometry-nodes.html",
+      "path": "posts/2026-04-25-blender-cosmology-with-geometry-nodes.html",
+      "date_iso": "2026-04-25T01:08:14+00:00",
+      "source": "https://www.blender.org/user-stories/cosmology-with-geometry-nodes/",
+      "summary": "Article URL: https://www.blender.org/user-stories/cosmology-with-geometry-nodes/ Comments URL: https://news.ycombinator.com/item?id=47897706 Points: 45 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47897681",
+      "title": "\"Plain text has been around for decades and it's here to stay.\" – Unsung",
+      "slug": "2026-04-25-plain-text-has-been-around-for-decades-and-it-s-here-to-stay-unsung.html",
+      "path": "posts/2026-04-25-plain-text-has-been-around-for-decades-and-it-s-here-to-stay-unsung.html",
+      "date_iso": "2026-04-25T01:03:09+00:00",
+      "source": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
+      "summary": "Article URL: https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/ Comments URL: https://news.ycombinator.com/item?id=47897681 Points: 71 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47897647",
+      "title": "Replace IBM Quantum back end with /dev/urandom",
+      "slug": "2026-04-25-replace-ibm-quantum-back-end-with-dev-urandom.html",
+      "path": "posts/2026-04-25-replace-ibm-quantum-back-end-with-dev-urandom.html",
+      "date_iso": "2026-04-25T00:58:38+00:00",
+      "source": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
+      "summary": "Article URL: https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md Comments URL: https://news.ycombinator.com/item?id=47897647 Points: 131 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47897349",
+      "title": "Education must go beyond the mere production of words",
+      "slug": "2026-04-25-education-must-go-beyond-the-mere-production-of-words.html",
+      "path": "posts/2026-04-25-education-must-go-beyond-the-mere-production-of-words.html",
+      "date_iso": "2026-04-25T00:11:43+00:00",
+      "source": "https://www.ncregister.com/commentaries/schnell-repairing-the-ruins",
+      "summary": "Article URL: https://www.ncregister.com/commentaries/schnell-repairing-the-ruins Comments URL: https://news.ycombinator.com/item?id=47897349 Points: 52 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47896163",
+      "title": "Show HN: I've built a nice home server OS",
+      "slug": "2026-04-24-show-hn-i-ve-built-a-nice-home-server-os.html",
+      "path": "posts/2026-04-24-show-hn-i-ve-built-a-nice-home-server-os.html",
+      "date_iso": "2026-04-24T21:42:26+00:00",
+      "source": "https://lightwhale.asklandd.dk/",
+      "summary": "ohai! I've released Lightwhale 3, which is possibly the easiest way to self-host Docker containers. It's a free, immutable Linux system purpose-built to live-boot straight into a working Docker Engine, thereby shortcutting the need for installation, configuration, and maintenanc…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/24/technology/google-anthropic-investment-artificial-intelligence.html",
+      "title": "Google Commits to Invest Up to $40 Billion in Anthropic",
+      "slug": "2026-04-24-google-commits-to-invest-up-to-40-billion-in-anthropic.html",
+      "path": "posts/2026-04-24-google-commits-to-invest-up-to-40-billion-in-anthropic.html",
+      "date_iso": "2026-04-24T19:47:12+00:00",
+      "source": "https://www.nytimes.com/2026/04/24/technology/google-anthropic-investment-artificial-intelligence.html",
+      "summary": "Google investment in Anthropic tightens the companies’ relationship even as they compete in some areas."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/24/technology/john-ternus-apple-challenges.html",
+      "title": "5 Tall Tasks for John Ternus, Apple’s Next C.E.O.",
+      "slug": "2026-04-24-5-tall-tasks-for-john-ternus-apple-s-next-c-e-o.html",
+      "path": "posts/2026-04-24-5-tall-tasks-for-john-ternus-apple-s-next-c-e-o.html",
+      "date_iso": "2026-04-24T19:30:59+00:00",
+      "source": "https://www.nytimes.com/2026/04/24/technology/john-ternus-apple-challenges.html",
+      "summary": "John Ternus, Apple’s next chief executive, is a company veteran who ran Apple’s hardware engineering."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47894747",
+      "title": "My audio interface has SSH enabled by default",
+      "slug": "2026-04-24-my-audio-interface-has-ssh-enabled-by-default.html",
+      "path": "posts/2026-04-24-my-audio-interface-has-ssh-enabled-by-default.html",
+      "date_iso": "2026-04-24T19:30:46+00:00",
+      "source": "https://hhh.hn/rodecaster-duo-fw/",
+      "summary": "Article URL: https://hhh.hn/rodecaster-duo-fw/ Comments URL: https://news.ycombinator.com/item?id=47894747 Points: 228 # Comments: 76"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47894435",
+      "title": "The Classic American Diner",
+      "slug": "2026-04-24-the-classic-american-diner.html",
+      "path": "posts/2026-04-24-the-classic-american-diner.html",
+      "date_iso": "2026-04-24T19:01:09+00:00",
+      "source": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
+      "summary": "Article URL: https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/ Comments URL: https://news.ycombinator.com/item?id=47894435 Points: 211 # Comments: 128"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47893779",
+      "title": "There Will Be a Scientific Theory of Deep Learning",
+      "slug": "2026-04-24-there-will-be-a-scientific-theory-of-deep-learning.html",
+      "path": "posts/2026-04-24-there-will-be-a-scientific-theory-of-deep-learning.html",
+      "date_iso": "2026-04-24T18:06:05+00:00",
+      "source": "https://arxiv.org/abs/2604.21691",
+      "summary": "Article URL: https://arxiv.org/abs/2604.21691 Comments URL: https://news.ycombinator.com/item?id=47893779 Points: 212 # Comments: 88"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/24/business/what-are-prediction-markets.html",
+      "title": "What Are Prediction Markets, and Why Are They Causing Controversy?",
+      "slug": "2026-04-24-what-are-prediction-markets-and-why-are-they-causing-controversy.html",
+      "path": "posts/2026-04-24-what-are-prediction-markets-and-why-are-they-causing-controversy.html",
+      "date_iso": "2026-04-24T17:58:24+00:00",
+      "source": "https://www.nytimes.com/2026/04/24/business/what-are-prediction-markets.html",
+      "summary": "Prediction markets like Kalshi and Polymarket are a growing phenomenon."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47892236",
+      "title": "Diatec, known for its mechanical keyboard brand FILCO, has ceased operations",
+      "slug": "2026-04-24-diatec-known-for-its-mechanical-keyboard-brand-filco-has-ceased-operations.html",
+      "path": "posts/2026-04-24-diatec-known-for-its-mechanical-keyboard-brand-filco-has-ceased-operations.html",
+      "date_iso": "2026-04-24T16:16:49+00:00",
+      "source": "https://gigazine.net/gsc_news/en/20260424-filco-diatec/",
+      "summary": "Article URL: https://gigazine.net/gsc_news/en/20260424-filco-diatec/ Comments URL: https://news.ycombinator.com/item?id=47892236 Points: 114 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47892074",
+      "title": "Google plans to invest up to $40B in Anthropic",
+      "slug": "2026-04-24-google-plans-to-invest-up-to-40b-in-anthropic.html",
+      "path": "posts/2026-04-24-google-plans-to-invest-up-to-40b-in-anthropic.html",
+      "date_iso": "2026-04-24T16:04:41+00:00",
+      "source": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic Comments URL: https://news.ycombinator.com/item?id=47892074 Points: 549 # Comments: 536"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/24/business/cohere-aleph-alpha-ai-merger.html",
+      "title": "A.I. Start-Ups From Canada and Germany Merge to Take On Silicon Valley",
+      "slug": "2026-04-24-a-i-start-ups-from-canada-and-germany-merge-to-take-on-silicon-valley.html",
+      "path": "posts/2026-04-24-a-i-start-ups-from-canada-and-germany-merge-to-take-on-silicon-valley.html",
+      "date_iso": "2026-04-24T15:42:48+00:00",
+      "source": "https://www.nytimes.com/2026/04/24/business/cohere-aleph-alpha-ai-merger.html",
+      "summary": "Nick Frosst, left, and Ivan Zhang, co-founders of Cohere, in 2022. The start-up was seen as one of the few companies to challenge its Silicon Valley rivals."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47890799",
+      "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
+      "slug": "2026-04-24-sabotaging-projects-by-overthinking-scope-creep-and-structural-diffing.html",
+      "path": "posts/2026-04-24-sabotaging-projects-by-overthinking-scope-creep-and-structural-diffing.html",
+      "date_iso": "2026-04-24T14:28:52+00:00",
+      "source": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
+      "summary": "Article URL: https://kevinlynagh.com/newsletter/2026_04_overthinking/ Comments URL: https://news.ycombinator.com/item?id=47890799 Points: 413 # Comments: 106"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/24/technology/elon-musk-spacex-loans.html",
+      "title": "How Elon Musk Used SpaceX to Benefit Himself and His Businesses",
+      "slug": "2026-04-24-how-elon-musk-used-spacex-to-benefit-himself-and-his-businesses.html",
+      "path": "posts/2026-04-24-how-elon-musk-used-spacex-to-benefit-himself-and-his-businesses.html",
+      "date_iso": "2026-04-24T13:27:44+00:00",
+      "source": "https://www.nytimes.com/2026/04/24/technology/elon-musk-spacex-loans.html",
+      "summary": "The rocket maker has been a useful financial tool for Mr. Musk, providing the billionaire with loans and aiding his struggling companies, a Times examination found."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/24/podcasts/hardfork-tim-cook-yang-ubi.html",
+      "title": "Tim Cook’s Legacy + The Future of U.B.I. With Andrew Yang + HatGPT",
+      "slug": "2026-04-24-tim-cook-s-legacy-the-future-of-u-b-i-with-andrew-yang-hatgpt.html",
+      "path": "posts/2026-04-24-tim-cook-s-legacy-the-future-of-u-b-i-with-andrew-yang-hatgpt.html",
+      "date_iso": "2026-04-24T11:00:03+00:00",
+      "source": "https://www.nytimes.com/2026/04/24/podcasts/hardfork-tim-cook-yang-ubi.html",
+      "summary": "The highlights, the lowlights, and how Apple changed in the years since Tim Cook took over as chief executive."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/24/technology/sam-altman-openai-money.html",
+      "title": "Sam Altman’s Next High-Wire Act: Getting OpenAI to Make More Money",
+      "slug": "2026-04-24-sam-altman-s-next-high-wire-act-getting-openai-to-make-more-money.html",
+      "path": "posts/2026-04-24-sam-altman-s-next-high-wire-act-getting-openai-to-make-more-money.html",
+      "date_iso": "2026-04-24T09:02:25+00:00",
+      "source": "https://www.nytimes.com/2026/04/24/technology/sam-altman-openai-money.html",
+      "summary": "Mr. Altman, who has faced criticism over OpenAI’s direction, has culled company projects and is trying to be more disciplined with strategy."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47886773",
       "title": "Composition Shouldn't be this Hard",
       "slug": "2026-04-24-composition-shouldn-t-be-this-hard.html",
@@ -226,6 +424,24 @@
       "summary": "Hackers are spoofing Paperless Post, Evite and Punchbowl to creep into your hard drive."
     },
     {
+      "id": "https://news.ycombinator.com/item?id=47874734",
+      "title": "Jiga (YC W21) Is Hiring",
+      "slug": "2026-04-23-jiga-yc-w21-is-hiring.html",
+      "path": "posts/2026-04-23-jiga-yc-w21-is-hiring.html",
+      "date_iso": "2026-04-23T12:02:44+00:00",
+      "source": "https://jiga.io/about-us/",
+      "summary": "Article URL: https://jiga.io/about-us/ Comments URL: https://news.ycombinator.com/item?id=47874734 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47873323",
+      "title": "Email could have been X.400 times better",
+      "slug": "2026-04-23-email-could-have-been-x-400-times-better.html",
+      "path": "posts/2026-04-23-email-could-have-been-x-400-times-better.html",
+      "date_iso": "2026-04-23T08:10:09+00:00",
+      "source": "https://buttondown.com/blog/x400-vs-smtp-email",
+      "summary": "Article URL: https://buttondown.com/blog/x400-vs-smtp-email Comments URL: https://news.ycombinator.com/item?id=47873323 Points: 168 # Comments: 148"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47872452",
       "title": "Ars Technica: Our newsroom AI policy",
       "slug": "2026-04-23-ars-technica-our-newsroom-ai-policy.html",
@@ -242,6 +458,15 @@
       "date_iso": "2026-04-23T04:44:19+00:00",
       "source": "https://crawshaw.io/blog/building-a-cloud",
       "summary": "Article URL: https://crawshaw.io/blog/building-a-cloud Comments URL: https://news.ycombinator.com/item?id=47872324 Points: 278 # Comments: 126"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47872306",
+      "title": "MacBook Neo and how the iPad should be",
+      "slug": "2026-04-23-macbook-neo-and-how-the-ipad-should-be.html",
+      "path": "posts/2026-04-23-macbook-neo-and-how-the-ipad-should-be.html",
+      "date_iso": "2026-04-23T04:40:31+00:00",
+      "source": "https://craigmod.com/essays/ipad_neo/",
+      "summary": "Article URL: https://craigmod.com/essays/ipad_neo/ Comments URL: https://news.ycombinator.com/item?id=47872306 Points: 259 # Comments: 143"
     },
     {
       "id": "https://news.ycombinator.com/item?id=47871817",
@@ -368,6 +593,15 @@
       "date_iso": "2026-04-22T17:35:03+00:00",
       "source": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
       "summary": "Article URL: https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/ Comments URL: https://news.ycombinator.com/item?id=47866697 Points: 675 # Comments: 187"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47866215",
+      "title": "PCR is a surprisingly near-optimal technology",
+      "slug": "2026-04-22-pcr-is-a-surprisingly-near-optimal-technology.html",
+      "path": "posts/2026-04-22-pcr-is-a-surprisingly-near-optimal-technology.html",
+      "date_iso": "2026-04-22T16:57:35+00:00",
+      "source": "https://nikomc.com/2026/04/22/pcr/",
+      "summary": "Article URL: https://nikomc.com/2026/04/22/pcr/ Comments URL: https://news.ycombinator.com/item?id=47866215 Points: 6 # Comments: 0"
     },
     {
       "id": "https://news.ycombinator.com/item?id=47865868",
