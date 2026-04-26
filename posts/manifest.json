@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47908139",
+      "title": "Exposing Floating Point – Bartosz Ciechanowski",
+      "slug": "2026-04-26-exposing-floating-point-bartosz-ciechanowski.html",
+      "path": "posts/2026-04-26-exposing-floating-point-bartosz-ciechanowski.html",
+      "date_iso": "2026-04-26T07:19:20+00:00",
+      "source": "https://ciechanow.ski/exposing-floating-point/",
+      "summary": "Article URL: https://ciechanow.ski/exposing-floating-point/ Comments URL: https://news.ycombinator.com/item?id=47908139 Points: 7 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47908047",
+      "title": "Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)",
+      "slug": "2026-04-26-terra-api-yc-w21-hiring-applied-ai-strategist-health-intelligence.html",
+      "path": "posts/2026-04-26-terra-api-yc-w21-hiring-applied-ai-strategist-health-intelligence.html",
+      "date_iso": "2026-04-26T07:00:10+00:00",
+      "source": "https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health",
+      "summary": "Article URL: https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health Comments URL: https://news.ycombinator.com/item?id=47908047 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47907879",
+      "title": "The West Forgot How to Make Things. Now It's Forgetting How to Code",
+      "slug": "2026-04-26-the-west-forgot-how-to-make-things-now-it-s-forgetting-how-to-code.html",
+      "path": "posts/2026-04-26-the-west-forgot-how-to-make-things-now-it-s-forgetting-how-to-code.html",
+      "date_iso": "2026-04-26T06:24:42+00:00",
+      "source": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
+      "summary": "Article URL: https://techtrenches.dev/p/the-west-forgot-how-to-make-things Comments URL: https://news.ycombinator.com/item?id=47907879 Points: 125 # Comments: 54"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47907543",
+      "title": "AGPLv3§74 Empowers Users to Thwart Badgeware Like OnlyOffice",
+      "slug": "2026-04-26-agplv3-74-empowers-users-to-thwart-badgeware-like-onlyoffice.html",
+      "path": "posts/2026-04-26-agplv3-74-empowers-users-to-thwart-badgeware-like-onlyoffice.html",
+      "date_iso": "2026-04-26T05:06:58+00:00",
+      "source": "https://sfconservancy.org/blog/2026/apr/16/badgeware-onlyoffice-nextcloud-affero-gpl/",
+      "summary": "Article URL: https://sfconservancy.org/blog/2026/apr/16/badgeware-onlyoffice-nextcloud-affero-gpl/ Comments URL: https://news.ycombinator.com/item?id=47907543 Points: 54 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47907130",
+      "title": "EU Age Control: The trojan horse for digital IDs",
+      "slug": "2026-04-26-eu-age-control-the-trojan-horse-for-digital-ids.html",
+      "path": "posts/2026-04-26-eu-age-control-the-trojan-horse-for-digital-ids.html",
+      "date_iso": "2026-04-26T03:44:28+00:00",
+      "source": "https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/",
+      "summary": "https://web.archive.org/web/20260426040218/https://juraj.bed... Comments URL: https://news.ycombinator.com/item?id=47907130 Points: 138 # Comments: 49"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47907018",
+      "title": "GnuPG – post-quantum crypto landing in mainline",
+      "slug": "2026-04-26-gnupg-post-quantum-crypto-landing-in-mainline.html",
+      "path": "posts/2026-04-26-gnupg-post-quantum-crypto-landing-in-mainline.html",
+      "date_iso": "2026-04-26T03:25:02+00:00",
+      "source": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
+      "summary": "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html Comments URL: https://news.ycombinator.com/item?id=47907018 Points: 43 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47906770",
+      "title": "Reviving BrowserID in 2026",
+      "slug": "2026-04-26-reviving-browserid-in-2026.html",
+      "path": "posts/2026-04-26-reviving-browserid-in-2026.html",
+      "date_iso": "2026-04-26T02:38:51+00:00",
+      "source": "https://wakamoleguy.com/p/reviving-browserid-in-2026",
+      "summary": "Article URL: https://wakamoleguy.com/p/reviving-browserid-in-2026 Comments URL: https://news.ycombinator.com/item?id=47906770 Points: 22 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47906253",
+      "title": "Tell HN: An app is silently installing itself on my iPhone every day",
+      "slug": "2026-04-26-tell-hn-an-app-is-silently-installing-itself-on-my-iphone-every-day.html",
+      "path": "posts/2026-04-26-tell-hn-an-app-is-silently-installing-itself-on-my-iphone-every-day.html",
+      "date_iso": "2026-04-26T00:50:56+00:00",
+      "source": "https://news.ycombinator.com/item?id=47906253",
+      "summary": "Every day for the past 3 days around 1pm EST the 'Headspace' app has been silently appearing on my iPhone (13 Pro). Automatic downloads are turned off and I've updated to the latest iOS since this started happening. I googled around and found a couple reddit threads with people…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47906161",
+      "title": "The Super Nintendo Cartridges (2024)",
+      "slug": "2026-04-26-the-super-nintendo-cartridges-2024.html",
+      "path": "posts/2026-04-26-the-super-nintendo-cartridges-2024.html",
+      "date_iso": "2026-04-26T00:38:01+00:00",
+      "source": "https://fabiensanglard.net/snes_carts/",
+      "summary": "Article URL: https://fabiensanglard.net/snes_carts/ Comments URL: https://news.ycombinator.com/item?id=47906161 Points: 46 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47905984",
+      "title": "Why has there been so little progress on Alzheimer's disease?",
+      "slug": "2026-04-26-why-has-there-been-so-little-progress-on-alzheimer-s-disease.html",
+      "path": "posts/2026-04-26-why-has-there-been-so-little-progress-on-alzheimer-s-disease.html",
+      "date_iso": "2026-04-26T00:12:47+00:00",
+      "source": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
+      "summary": "Article URL: https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/ Comments URL: https://news.ycombinator.com/item?id=47905984 Points: 204 # Comments: 108"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47905768",
+      "title": "DeepSeek-V4 on Day 0: From Fast Inference to Verified RL with SGLang and Miles",
+      "slug": "2026-04-25-deepseek-v4-on-day-0-from-fast-inference-to-verified-rl-with-sglang-and-miles.html",
+      "path": "posts/2026-04-25-deepseek-v4-on-day-0-from-fast-inference-to-verified-rl-with-sglang-and-miles.html",
+      "date_iso": "2026-04-25T23:44:05+00:00",
+      "source": "https://www.lmsys.org/blog/2026-04-25-deepseek-v4/",
+      "summary": "Article URL: https://www.lmsys.org/blog/2026-04-25-deepseek-v4/ Comments URL: https://news.ycombinator.com/item?id=47905768 Points: 47 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47904876",
+      "title": "USB Cheat Sheet (2022)",
+      "slug": "2026-04-25-usb-cheat-sheet-2022.html",
+      "path": "posts/2026-04-25-usb-cheat-sheet-2022.html",
+      "date_iso": "2026-04-25T21:51:18+00:00",
+      "source": "https://fabiensanglard.net/usbcheat/index.html",
+      "summary": "Article URL: https://fabiensanglard.net/usbcheat/index.html Comments URL: https://news.ycombinator.com/item?id=47904876 Points: 273 # Comments: 55"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/25/technology/trump-memecoin-conference.html",
+      "title": "A Year Later, Trump’s ‘Most Exclusive’ Memecoin Event Is a Lot Less Exclusive",
+      "slug": "2026-04-25-a-year-later-trump-s-most-exclusive-memecoin-event-is-a-lot-less-exclusive.html",
+      "path": "posts/2026-04-25-a-year-later-trump-s-most-exclusive-memecoin-event-is-a-lot-less-exclusive.html",
+      "date_iso": "2026-04-25T19:57:07+00:00",
+      "source": "https://www.nytimes.com/2026/04/25/technology/trump-memecoin-conference.html",
+      "summary": "Even a Times reporter qualified for the event, which caused outrage last year for providing access to President Trump in exchange for investment in one of his family’s crypto ventures."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47903945",
+      "title": "America's Geothermal Breakthrough",
+      "slug": "2026-04-25-america-s-geothermal-breakthrough.html",
+      "path": "posts/2026-04-25-america-s-geothermal-breakthrough.html",
+      "date_iso": "2026-04-25T19:38:55+00:00",
+      "source": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html",
+      "summary": "Article URL: https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html Comments URL: https://news.ycombinator.com/item?id=47903945 Points: 107 # Comments: 123"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47903126",
+      "title": "Amateur armed with ChatGPT solves an Erdős problem",
+      "slug": "2026-04-25-amateur-armed-with-chatgpt-solves-an-erd-s-problem.html",
+      "path": "posts/2026-04-25-amateur-armed-with-chatgpt-solves-an-erd-s-problem.html",
+      "date_iso": "2026-04-25T17:40:38+00:00",
+      "source": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
+      "summary": "https://www.erdosproblems.com/1196 Comments URL: https://news.ycombinator.com/item?id=47903126 Points: 323 # Comments: 191"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47902993",
+      "title": "Hokusai and Tesselations",
+      "slug": "2026-04-25-hokusai-and-tesselations.html",
+      "path": "posts/2026-04-25-hokusai-and-tesselations.html",
+      "date_iso": "2026-04-25T17:21:22+00:00",
+      "source": "https://dl.ndl.go.jp/pid/1899550/1/11/",
+      "summary": "Article URL: https://dl.ndl.go.jp/pid/1899550/1/11/ Comments URL: https://news.ycombinator.com/item?id=47902993 Points: 104 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47902987",
+      "title": "Simulacrum of Knowledge Work",
+      "slug": "2026-04-25-simulacrum-of-knowledge-work.html",
+      "path": "posts/2026-04-25-simulacrum-of-knowledge-work.html",
+      "date_iso": "2026-04-25T17:20:34+00:00",
+      "source": "https://blog.happyfellow.dev/simulacrum-of-knowledge-work/",
+      "summary": "Article URL: https://blog.happyfellow.dev/simulacrum-of-knowledge-work/ Comments URL: https://news.ycombinator.com/item?id=47902987 Points: 143 # Comments: 56"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47902525",
+      "title": "Using coding assistance tools to revive projects you never were going to finish",
+      "slug": "2026-04-25-using-coding-assistance-tools-to-revive-projects-you-never-were-going-to-finish.html",
+      "path": "posts/2026-04-25-using-coding-assistance-tools-to-revive-projects-you-never-were-going-to-finish.html",
+      "date_iso": "2026-04-25T16:11:50+00:00",
+      "source": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
+      "summary": "Article URL: https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/ Comments URL: https://news.ycombinator.com/item?id=47902525 Points: 262 # Comments: 151"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47900398",
+      "title": "Martin Galway's music source files from 1980's Commodore 64 games",
+      "slug": "2026-04-25-martin-galway-s-music-source-files-from-1980-s-commodore-64-games.html",
+      "path": "posts/2026-04-25-martin-galway-s-music-source-files-from-1980-s-commodore-64-games.html",
+      "date_iso": "2026-04-25T10:46:14+00:00",
+      "source": "https://github.com/MartinGalway/C64_music",
+      "summary": "Article URL: https://github.com/MartinGalway/C64_music Comments URL: https://news.ycombinator.com/item?id=47900398 Points: 173 # Comments: 25"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/25/business/electric-vehicles-used-leases.html",
+      "title": "Thousands of EV Car Leases Are Ending Soon, Giving Buyers a More Affordable Option",
+      "slug": "2026-04-25-thousands-of-ev-car-leases-are-ending-soon-giving-buyers-a-more-affordable-option.html",
+      "path": "posts/2026-04-25-thousands-of-ev-car-leases-are-ending-soon-giving-buyers-a-more-affordable-option.html",
+      "date_iso": "2026-04-25T09:02:23+00:00",
+      "source": "https://www.nytimes.com/2026/04/25/business/electric-vehicles-used-leases.html",
+      "summary": "Analysts say lower prices of used electric cars and the surging cost of gasoline will encourage more people to consider models that they may have found too expensive earlier."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47899053",
       "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
       "slug": "2026-04-25-new-10-gbe-usb-adapters-are-cooler-smaller-cheaper.html",
@@ -8,6 +188,15 @@
       "date_iso": "2026-04-25T05:56:12+00:00",
       "source": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
       "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/ Comments URL: https://news.ycombinator.com/item?id=47899053 Points: 66 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47898660",
+      "title": "Quirks of Human Anatomy",
+      "slug": "2026-04-25-quirks-of-human-anatomy.html",
+      "path": "posts/2026-04-25-quirks-of-human-anatomy.html",
+      "date_iso": "2026-04-25T04:31:14+00:00",
+      "source": "https://www.sdbonline.org/sites/fly/lewheldquirk/figlegq6.htm",
+      "summary": "Article URL: https://www.sdbonline.org/sites/fly/lewheldquirk/figlegq6.htm Comments URL: https://news.ycombinator.com/item?id=47898660 Points: 14 # Comments: 1"
     },
     {
       "id": "https://news.ycombinator.com/item?id=47898597",
@@ -260,6 +449,15 @@
       "date_iso": "2026-04-24T04:04:42+00:00",
       "source": "https://www.nature.com/articles/s41467-026-71264-8",
       "summary": "Article URL: https://www.nature.com/articles/s41467-026-71264-8 Comments URL: https://news.ycombinator.com/item?id=47885377 Points: 136 # Comments: 67"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47885239",
+      "title": "Mahjong: A Visual Guide",
+      "slug": "2026-04-24-mahjong-a-visual-guide.html",
+      "path": "posts/2026-04-24-mahjong-a-visual-guide.html",
+      "date_iso": "2026-04-24T03:41:09+00:00",
+      "source": "https://themahjong.guide/",
+      "summary": "Article URL: https://themahjong.guide/ Comments URL: https://news.ycombinator.com/item?id=47885239 Points: 75 # Comments: 20"
     },
     {
       "id": "https://news.ycombinator.com/item?id=47884971",
