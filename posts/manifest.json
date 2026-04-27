@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47918961",
+      "title": "It's OK to abandon your side-project",
+      "slug": "2026-04-27-it-s-ok-to-abandon-your-side-project.html",
+      "path": "posts/2026-04-27-it-s-ok-to-abandon-your-side-project.html",
+      "date_iso": "2026-04-27T08:11:16+00:00",
+      "source": "https://robbowen.digital/wrote-about/abandoned-side-projects/",
+      "summary": "Article URL: https://robbowen.digital/wrote-about/abandoned-side-projects/ Comments URL: https://news.ycombinator.com/item?id=47918961 Points: 29 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47918657",
+      "title": "The Mushroom That Makes People Have the Exact Same Hallucination",
+      "slug": "2026-04-27-the-mushroom-that-makes-people-have-the-exact-same-hallucination.html",
+      "path": "posts/2026-04-27-the-mushroom-that-makes-people-have-the-exact-same-hallucination.html",
+      "date_iso": "2026-04-27T07:21:17+00:00",
+      "source": "https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/",
+      "summary": "Article URL: https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/ Comments URL: https://news.ycombinator.com/item?id=47918657 Points: 30 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47917026",
+      "title": "The Prompt API",
+      "slug": "2026-04-27-the-prompt-api.html",
+      "path": "posts/2026-04-27-the-prompt-api.html",
+      "date_iso": "2026-04-27T02:18:58+00:00",
+      "source": "https://developer.chrome.com/docs/ai/prompt-api",
+      "summary": "Article URL: https://developer.chrome.com/docs/ai/prompt-api Comments URL: https://news.ycombinator.com/item?id=47917026 Points: 107 # Comments: 66"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47916909",
+      "title": "EvanFlow – A TDD driven feedback loop for Claude Code",
+      "slug": "2026-04-27-evanflow-a-tdd-driven-feedback-loop-for-claude-code.html",
+      "path": "posts/2026-04-27-evanflow-a-tdd-driven-feedback-loop-for-claude-code.html",
+      "date_iso": "2026-04-27T01:56:39+00:00",
+      "source": "https://github.com/evanklem/evanflow",
+      "summary": "Article URL: https://github.com/evanklem/evanflow Comments URL: https://news.ycombinator.com/item?id=47916909 Points: 65 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47916890",
+      "title": "TurboQuant: A first-principles walkthrough",
+      "slug": "2026-04-27-turboquant-a-first-principles-walkthrough.html",
+      "path": "posts/2026-04-27-turboquant-a-first-principles-walkthrough.html",
+      "date_iso": "2026-04-27T01:54:32+00:00",
+      "source": "https://arkaung.github.io/interactive-turboquant/",
+      "summary": "Article URL: https://arkaung.github.io/interactive-turboquant/ Comments URL: https://news.ycombinator.com/item?id=47916890 Points: 143 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47915632",
+      "title": "FreeBSD Device Drivers Book",
+      "slug": "2026-04-26-freebsd-device-drivers-book.html",
+      "path": "posts/2026-04-26-freebsd-device-drivers-book.html",
+      "date_iso": "2026-04-26T22:53:06+00:00",
+      "source": "https://github.com/ebrandi/FDD-book",
+      "summary": "Article URL: https://github.com/ebrandi/FDD-book Comments URL: https://news.ycombinator.com/item?id=47915632 Points: 83 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47914677",
+      "title": "Butterflies are in decline across North America, a look at the Western Monarch",
+      "slug": "2026-04-26-butterflies-are-in-decline-across-north-america-a-look-at-the-western-monarch.html",
+      "path": "posts/2026-04-26-butterflies-are-in-decline-across-north-america-a-look-at-the-western-monarch.html",
+      "date_iso": "2026-04-26T21:23:20+00:00",
+      "source": "https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/",
+      "summary": "Article URL: https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/ Comments URL: https://news.ycombinator.com/item?id=47914677 Points: 206 # Comments: 63"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47914350",
+      "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
+      "slug": "2026-04-26-sawe-becomes-first-athlete-to-run-a-sub-two-hour-marathon-in-a-competitive-race.html",
+      "path": "posts/2026-04-26-sawe-becomes-first-athlete-to-run-a-sub-two-hour-marathon-in-a-competitive-race.html",
+      "date_iso": "2026-04-26T20:56:30+00:00",
+      "source": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
+      "summary": "https://www.letsrun.com/news/2026/04/15930-sabastian-sawe-sh... https://news.adidas.com/running/two-adidas-athletes-sabastia... Comments URL: https://news.ycombinator.com/item?id=47914350 Points: 380 # Comments: 260"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/26/technology/white-house-correspondents-dinner-shooting-conspiracy-theories.html",
+      "title": "After Correspondents Dinner Shooting, Rumors and Conspiracy Theories Swirl Online",
+      "slug": "2026-04-26-after-correspondents-dinner-shooting-rumors-and-conspiracy-theories-swirl-online.html",
+      "path": "posts/2026-04-26-after-correspondents-dinner-shooting-rumors-and-conspiracy-theories-swirl-online.html",
+      "date_iso": "2026-04-26T20:54:26+00:00",
+      "source": "https://www.nytimes.com/2026/04/26/technology/white-house-correspondents-dinner-shooting-conspiracy-theories.html",
+      "summary": "Security outside the Washington Hilton after gun shots were fired during the 2026 White House Correspondents’ Association Dinner Saturday night."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47914165",
+      "title": "I bought Friendster for $30k – Here's what I'm doing with it",
+      "slug": "2026-04-26-i-bought-friendster-for-30k-here-s-what-i-m-doing-with-it.html",
+      "path": "posts/2026-04-26-i-bought-friendster-for-30k-here-s-what-i-m-doing-with-it.html",
+      "date_iso": "2026-04-26T20:41:06+00:00",
+      "source": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
+      "summary": "Article URL: https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d Comments URL: https://news.ycombinator.com/item?id=47914165 Points: 775 # Comments: 398"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47914161",
+      "title": "MoQ Boy",
+      "slug": "2026-04-26-moq-boy.html",
+      "path": "posts/2026-04-26-moq-boy.html",
+      "date_iso": "2026-04-26T20:40:50+00:00",
+      "source": "https://moq.dev/blog/moq-boy/",
+      "summary": "Article URL: https://moq.dev/blog/moq-boy/ Comments URL: https://news.ycombinator.com/item?id=47914161 Points: 59 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47913855",
+      "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
+      "slug": "2026-04-26-fast16-high-precision-software-sabotage-5-years-before-stuxnet.html",
+      "path": "posts/2026-04-26-fast16-high-precision-software-sabotage-5-years-before-stuxnet.html",
+      "date_iso": "2026-04-26T20:18:37+00:00",
+      "source": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
+      "summary": "Article URL: https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/ Comments URL: https://news.ycombinator.com/item?id=47913855 Points: 245 # Comments: 52"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47913650",
+      "title": "AI should elevate your thinking, not replace it",
+      "slug": "2026-04-26-ai-should-elevate-your-thinking-not-replace-it.html",
+      "path": "posts/2026-04-26-ai-should-elevate-your-thinking-not-replace-it.html",
+      "date_iso": "2026-04-26T20:03:12+00:00",
+      "source": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+      "summary": "Article URL: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/ Comments URL: https://news.ycombinator.com/item?id=47913650 Points: 477 # Comments: 342"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47913382",
+      "title": "Chernobyl wildlife forty years on",
+      "slug": "2026-04-26-chernobyl-wildlife-forty-years-on.html",
+      "path": "posts/2026-04-26-chernobyl-wildlife-forty-years-on.html",
+      "date_iso": "2026-04-26T19:42:59+00:00",
+      "source": "https://www.bbc.com/future/article/20260424-chernobyl-wildlife-forty-years-on",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260424-chernobyl-wildlife-forty-years-on Comments URL: https://news.ycombinator.com/item?id=47913382 Points: 106 # Comments: 35"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-social-media.html",
+      "title": "Social Media Captures the Chaos and Mundane of Shooting at Correspondents’ Dinner",
+      "slug": "2026-04-26-social-media-captures-the-chaos-and-mundane-of-shooting-at-correspondents-dinner.html",
+      "path": "posts/2026-04-26-social-media-captures-the-chaos-and-mundane-of-shooting-at-correspondents-dinner.html",
+      "date_iso": "2026-04-26T17:03:20+00:00",
+      "source": "https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-social-media.html",
+      "summary": "The 2026 White House Correspondents’ Association dinner at the Washington Hilton after gunfire on Saturday night."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47911524",
+      "title": "An AI agent deleted our production database. The agent's confession is below",
+      "slug": "2026-04-26-an-ai-agent-deleted-our-production-database-the-agent-s-confession-is-below.html",
+      "path": "posts/2026-04-26-an-ai-agent-deleted-our-production-database-the-agent-s-confession-is-below.html",
+      "date_iso": "2026-04-26T16:27:29+00:00",
+      "source": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+      "summary": "Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248 Comments URL: https://news.ycombinator.com/item?id=47911524 Points: 665 # Comments: 812"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47911350",
+      "title": "Clay PCB Tutorial",
+      "slug": "2026-04-26-clay-pcb-tutorial.html",
+      "path": "posts/2026-04-26-clay-pcb-tutorial.html",
+      "date_iso": "2026-04-26T16:02:14+00:00",
+      "source": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
+      "summary": "Article URL: https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial Comments URL: https://news.ycombinator.com/item?id=47911350 Points: 223 # Comments: 131"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47911013",
+      "title": "Show HN: Free textbook on engineering thermodynamics",
+      "slug": "2026-04-26-show-hn-free-textbook-on-engineering-thermodynamics.html",
+      "path": "posts/2026-04-26-show-hn-free-textbook-on-engineering-thermodynamics.html",
+      "date_iso": "2026-04-26T15:17:34+00:00",
+      "source": "https://thermodynamicsbook.com/",
+      "summary": "Author here. Feel free to send questions of any kind. Comments URL: https://news.ycombinator.com/item?id=47911013 Points: 141 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47910388",
+      "title": "SWE-bench Verified no longer measures frontier coding capabilities",
+      "slug": "2026-04-26-swe-bench-verified-no-longer-measures-frontier-coding-capabilities.html",
+      "path": "posts/2026-04-26-swe-bench-verified-no-longer-measures-frontier-coding-capabilities.html",
+      "date_iso": "2026-04-26T13:58:13+00:00",
+      "source": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
+      "summary": "Article URL: https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/ Comments URL: https://news.ycombinator.com/item?id=47910388 Points: 298 # Comments: 165"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47909860",
+      "title": "Bob Odenkirk would like to remind you that life is a meaningless farce",
+      "slug": "2026-04-26-bob-odenkirk-would-like-to-remind-you-that-life-is-a-meaningless-farce.html",
+      "path": "posts/2026-04-26-bob-odenkirk-would-like-to-remind-you-that-life-is-a-meaningless-farce.html",
+      "date_iso": "2026-04-26T12:42:11+00:00",
+      "source": "https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html Comments URL: https://news.ycombinator.com/item?id=47909860 Points: 8 # Comments: 2"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47908139",
       "title": "Exposing Floating Point – Bartosz Ciechanowski",
       "slug": "2026-04-26-exposing-floating-point-bartosz-ciechanowski.html",
@@ -8,6 +188,15 @@
       "date_iso": "2026-04-26T07:19:20+00:00",
       "source": "https://ciechanow.ski/exposing-floating-point/",
       "summary": "Article URL: https://ciechanow.ski/exposing-floating-point/ Comments URL: https://news.ycombinator.com/item?id=47908139 Points: 7 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47908051",
+      "title": "Self-updating screenshots",
+      "slug": "2026-04-26-self-updating-screenshots.html",
+      "path": "posts/2026-04-26-self-updating-screenshots.html",
+      "date_iso": "2026-04-26T07:00:39+00:00",
+      "source": "https://interblah.net/self-updating-screenshots",
+      "summary": "Article URL: https://interblah.net/self-updating-screenshots Comments URL: https://news.ycombinator.com/item?id=47908051 Points: 278 # Comments: 41"
     },
     {
       "id": "https://news.ycombinator.com/item?id=47908047",
