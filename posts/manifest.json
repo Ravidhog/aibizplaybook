@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/04/28/world/europe/russia-internet-restrictions-putin.html",
+      "title": "Internet Restrictions Spur Russians to Openly Question Putin’s Moves",
+      "slug": "2026-04-28-internet-restrictions-spur-russians-to-openly-question-putin-s-moves.html",
+      "path": "posts/2026-04-28-internet-restrictions-spur-russians-to-openly-question-putin-s-moves.html",
+      "date_iso": "2026-04-28T09:03:20+00:00",
+      "source": "https://www.nytimes.com/2026/04/28/world/europe/russia-internet-restrictions-putin.html",
+      "summary": "On a subway in Moscow. As Russians criticize the internet restrictions, the discontent has helped send the approval rating of President Vladimir V. Putin to its lowest level since before the war with Ukraine."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/28/technology/elon-musk-sam-altman-trial.html",
+      "title": "What Elon Musk’s Clash With Sam Altman of OpenAI Is Really About",
+      "slug": "2026-04-28-what-elon-musk-s-clash-with-sam-altman-of-openai-is-really-about.html",
+      "path": "posts/2026-04-28-what-elon-musk-s-clash-with-sam-altman-of-openai-is-really-about.html",
+      "date_iso": "2026-04-28T09:02:04+00:00",
+      "source": "https://www.nytimes.com/2026/04/28/technology/elon-musk-sam-altman-trial.html",
+      "summary": "Mr. Musk’s lawsuit against Mr. Altman and OpenAI makes the case that all-encompassing greed is Silicon Valley’s defining feature."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47931068",
+      "title": "BYD Seal 08 debuts with Blade Battery 2.0: 1,000km range, 5-min charging, 684hp",
+      "slug": "2026-04-28-byd-seal-08-debuts-with-blade-battery-2-0-1-000km-range-5-min-charging-684hp.html",
+      "path": "posts/2026-04-28-byd-seal-08-debuts-with-blade-battery-2-0-1-000km-range-5-min-charging-684hp.html",
+      "date_iso": "2026-04-28T06:32:53+00:00",
+      "source": "https://electrek.co/2026/04/27/byd-seal-08-blade-battery-2-1000km-range-beijing-auto-show/",
+      "summary": "Article URL: https://electrek.co/2026/04/27/byd-seal-08-blade-battery-2-1000km-range-beijing-auto-show/ Comments URL: https://news.ycombinator.com/item?id=47931068 Points: 43 # Comments: 35"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47931035",
+      "title": "GTFOBins",
+      "slug": "2026-04-28-gtfobins.html",
+      "path": "posts/2026-04-28-gtfobins.html",
+      "date_iso": "2026-04-28T06:27:39+00:00",
+      "source": "https://gtfobins.org/",
+      "summary": "Article URL: https://gtfobins.org/ Comments URL: https://news.ycombinator.com/item?id=47931035 Points: 139 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47930493",
+      "title": "WASM is not quite a stack machine",
+      "slug": "2026-04-28-wasm-is-not-quite-a-stack-machine.html",
+      "path": "posts/2026-04-28-wasm-is-not-quite-a-stack-machine.html",
+      "date_iso": "2026-04-28T04:34:29+00:00",
+      "source": "https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/",
+      "summary": "Article URL: https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/ Comments URL: https://news.ycombinator.com/item?id=47930493 Points: 21 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47930170",
+      "title": "LingBot-Map: Streaming 3D reconstruction with geometric context transformer",
+      "slug": "2026-04-28-lingbot-map-streaming-3d-reconstruction-with-geometric-context-transformer.html",
+      "path": "posts/2026-04-28-lingbot-map-streaming-3d-reconstruction-with-geometric-context-transformer.html",
+      "date_iso": "2026-04-28T03:27:40+00:00",
+      "source": "https://technology.robbyant.com/lingbot-map",
+      "summary": "Article URL: https://technology.robbyant.com/lingbot-map Comments URL: https://news.ycombinator.com/item?id=47930170 Points: 26 # Comments: 2"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/27/technology/microsoft-openai-partnership.html",
+      "title": "Microsoft and OpenAI Loosen Their Partnership",
+      "slug": "2026-04-28-microsoft-and-openai-loosen-their-partnership.html",
+      "path": "posts/2026-04-28-microsoft-and-openai-loosen-their-partnership.html",
+      "date_iso": "2026-04-28T01:50:52+00:00",
+      "source": "https://www.nytimes.com/2026/04/27/technology/microsoft-openai-partnership.html",
+      "summary": "OpenAI offices in San Francisco."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47929035",
+      "title": "High Performance Git",
+      "slug": "2026-04-28-high-performance-git.html",
+      "path": "posts/2026-04-28-high-performance-git.html",
+      "date_iso": "2026-04-28T00:32:04+00:00",
+      "source": "https://gitperf.com/",
+      "summary": "Article URL: https://gitperf.com/ Comments URL: https://news.ycombinator.com/item?id=47929035 Points: 135 # Comments: 24"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47928554",
+      "title": "Integrated by Design",
+      "slug": "2026-04-27-integrated-by-design.html",
+      "path": "posts/2026-04-27-integrated-by-design.html",
+      "date_iso": "2026-04-27T23:14:26+00:00",
+      "source": "https://vivianvoss.net/blog/integrated-by-design-launch",
+      "summary": "Article URL: https://vivianvoss.net/blog/integrated-by-design-launch Comments URL: https://news.ycombinator.com/item?id=47928554 Points: 93 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47927903",
+      "title": "Talkie: a 13B vintage language model from 1930",
+      "slug": "2026-04-27-talkie-a-13b-vintage-language-model-from-1930.html",
+      "path": "posts/2026-04-27-talkie-a-13b-vintage-language-model-from-1930.html",
+      "date_iso": "2026-04-27T21:55:48+00:00",
+      "source": "https://talkie-lm.com/introducing-talkie",
+      "summary": "Article URL: https://talkie-lm.com/introducing-talkie Comments URL: https://news.ycombinator.com/item?id=47927903 Points: 345 # Comments: 116"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47927070",
+      "title": "Three men are facing charges in Toronto SMS Blaster arrests",
+      "slug": "2026-04-27-three-men-are-facing-charges-in-toronto-sms-blaster-arrests.html",
+      "path": "posts/2026-04-27-three-men-are-facing-charges-in-toronto-sms-blaster-arrests.html",
+      "date_iso": "2026-04-27T20:44:16+00:00",
+      "source": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
+      "summary": "Article URL: https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/ Comments URL: https://news.ycombinator.com/item?id=47927070 Points: 156 # Comments: 72"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47926861",
+      "title": "Is my blue your blue?",
+      "slug": "2026-04-27-is-my-blue-your-blue.html",
+      "path": "posts/2026-04-27-is-my-blue-your-blue.html",
+      "date_iso": "2026-04-27T20:24:33+00:00",
+      "source": "https://ismy.blue/",
+      "summary": "Article URL: https://ismy.blue/ Comments URL: https://news.ycombinator.com/item?id=47926861 Points: 521 # Comments: 354"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/27/us/politics/sergey-brin-gg-soto-trump-california-billionaire-tax.html",
+      "title": "Sergey Brin Moves to the Right, With a ‘MAGA Girlfriend’ by His Side",
+      "slug": "2026-04-27-sergey-brin-moves-to-the-right-with-a-maga-girlfriend-by-his-side.html",
+      "path": "posts/2026-04-27-sergey-brin-moves-to-the-right-with-a-maga-girlfriend-by-his-side.html",
+      "date_iso": "2026-04-27T20:12:38+00:00",
+      "source": "https://www.nytimes.com/2026/04/27/us/politics/sergey-brin-gg-soto-trump-california-billionaire-tax.html",
+      "summary": "Sergey Brin and his girlfriend, Gerelyn “GG” Soto, at a White House artificial-intelligence dinner last year."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47924813",
+      "title": "Easyduino: Open Source PCB Devboards for KiCad",
+      "slug": "2026-04-27-easyduino-open-source-pcb-devboards-for-kicad.html",
+      "path": "posts/2026-04-27-easyduino-open-source-pcb-devboards-for-kicad.html",
+      "date_iso": "2026-04-27T17:45:02+00:00",
+      "source": "https://github.com/Hanqaqa/Easyduino",
+      "summary": "Article URL: https://github.com/Hanqaqa/Easyduino Comments URL: https://news.ycombinator.com/item?id=47924813 Points: 210 # Comments: 31"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/27/technology/altman-musk-openai-ai-oakland.html",
+      "title": "Elon Musk and Sam Altman Bring OpenAI Trial Spectacle to Oakland",
+      "slug": "2026-04-27-elon-musk-and-sam-altman-bring-openai-trial-spectacle-to-oakland.html",
+      "path": "posts/2026-04-27-elon-musk-and-sam-altman-bring-openai-trial-spectacle-to-oakland.html",
+      "date_iso": "2026-04-27T16:34:17+00:00",
+      "source": "https://www.nytimes.com/2026/04/27/technology/altman-musk-openai-ai-oakland.html",
+      "summary": "The Ronald V. Dellums Federal Building and U.S. Courthouse in Oakland."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/27/technology/ai-artificial-intelligence-backlash.html",
+      "title": "From Indiana to Idaho, a Backlash Against A.I. Gathers Momentum",
+      "slug": "2026-04-27-from-indiana-to-idaho-a-backlash-against-a-i-gathers-momentum.html",
+      "path": "posts/2026-04-27-from-indiana-to-idaho-a-backlash-against-a-i-gathers-momentum.html",
+      "date_iso": "2026-04-27T16:11:56+00:00",
+      "source": "https://www.nytimes.com/2026/04/27/technology/ai-artificial-intelligence-backlash.html",
+      "summary": "From Indiana to Idaho, a Backlash Against A.I. Gathers Momentum By Tripp Mickle"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47923357",
+      "title": "GitHub Copilot is moving to usage-based billing",
+      "slug": "2026-04-27-github-copilot-is-moving-to-usage-based-billing.html",
+      "path": "posts/2026-04-27-github-copilot-is-moving-to-usage-based-billing.html",
+      "date_iso": "2026-04-27T16:03:08+00:00",
+      "source": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+      "summary": "Article URL: https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/ Comments URL: https://news.ycombinator.com/item?id=47923357 Points: 651 # Comments: 480"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47923010",
+      "title": "Networking changes coming in macOS 27",
+      "slug": "2026-04-27-networking-changes-coming-in-macos-27.html",
+      "path": "posts/2026-04-27-networking-changes-coming-in-macos-27.html",
+      "date_iso": "2026-04-27T15:36:12+00:00",
+      "source": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/",
+      "summary": "Article URL: https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/ Comments URL: https://news.ycombinator.com/item?id=47923010 Points: 226 # Comments: 202"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47922957",
+      "title": "The woes of sanitizing SVGs",
+      "slug": "2026-04-27-the-woes-of-sanitizing-svgs.html",
+      "path": "posts/2026-04-27-the-woes-of-sanitizing-svgs.html",
+      "date_iso": "2026-04-27T15:31:36+00:00",
+      "source": "https://muffin.ink/blog/scratch-svg-sanitization/",
+      "summary": "Article URL: https://muffin.ink/blog/scratch-svg-sanitization/ Comments URL: https://news.ycombinator.com/item?id=47922957 Points: 216 # Comments: 89"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/27/business/china-meta-manus-ai-deal.html",
+      "title": "China Will Require Meta to Unwind Acquisition of AI Start-Up Manus",
+      "slug": "2026-04-27-china-will-require-meta-to-unwind-acquisition-of-ai-start-up-manus.html",
+      "path": "posts/2026-04-27-china-will-require-meta-to-unwind-acquisition-of-ai-start-up-manus.html",
+      "date_iso": "2026-04-27T14:08:53+00:00",
+      "source": "https://www.nytimes.com/2026/04/27/business/china-meta-manus-ai-deal.html",
+      "summary": "Meta has described the two teams already as “deeply integrated.”"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47921248",
+      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+      "slug": "2026-04-27-microsoft-and-openai-end-their-exclusive-and-revenue-sharing-deal.html",
+      "path": "posts/2026-04-27-microsoft-and-openai-end-their-exclusive-and-revenue-sharing-deal.html",
+      "date_iso": "2026-04-27T13:22:42+00:00",
+      "source": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+      "summary": "Gift Article: https://www.bloomberg.com/news/articles/2026-04-27/microsoft... https://openai.com/index/next-phase-of-microsoft-partnership... https://x.com/ajassy/status/2048806022253609115 Comments URL: https://news.ycombinator.com/item?id=47921248 Points: 873 # Comments: 750"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47920074",
+      "title": "Men who stare at walls",
+      "slug": "2026-04-27-men-who-stare-at-walls.html",
+      "path": "posts/2026-04-27-men-who-stare-at-walls.html",
+      "date_iso": "2026-04-27T11:08:26+00:00",
+      "source": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
+      "summary": "Article URL: https://www.alexselimov.com/posts/men_who_stare_at_walls/ Comments URL: https://news.ycombinator.com/item?id=47920074 Points: 574 # Comments: 254"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47919997",
+      "title": "Pgbackrest is no longer being maintained",
+      "slug": "2026-04-27-pgbackrest-is-no-longer-being-maintained.html",
+      "path": "posts/2026-04-27-pgbackrest-is-no-longer-being-maintained.html",
+      "date_iso": "2026-04-27T10:56:34+00:00",
+      "source": "https://github.com/pgbackrest/pgbackrest",
+      "summary": "Article URL: https://github.com/pgbackrest/pgbackrest Comments URL: https://news.ycombinator.com/item?id=47919997 Points: 419 # Comments: 220"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47919733",
+      "title": "FDA approves first gene therapy for treatment of genetic hearing loss",
+      "slug": "2026-04-27-fda-approves-first-gene-therapy-for-treatment-of-genetic-hearing-loss.html",
+      "path": "posts/2026-04-27-fda-approves-first-gene-therapy-for-treatment-of-genetic-hearing-loss.html",
+      "date_iso": "2026-04-27T10:15:17+00:00",
+      "source": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher",
+      "summary": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher Comments URL: https://news.ycombinator.com/item?id=47919733 Points: 242 # Comments: 88"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47919630",
+      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+      "slug": "2026-04-27-4tb-of-voice-samples-just-stolen-from-40k-ai-contractors-at-mercor.html",
+      "path": "posts/2026-04-27-4tb-of-voice-samples-just-stolen-from-40k-ai-contractors-at-mercor.html",
+      "date_iso": "2026-04-27T09:57:10+00:00",
+      "source": "https://app.oravys.com/blog/mercor-breach-2026",
+      "summary": "Article URL: https://app.oravys.com/blog/mercor-breach-2026 Comments URL: https://news.ycombinator.com/item?id=47919630 Points: 520 # Comments: 195"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47918961",
       "title": "It's OK to abandon your side-project",
       "slug": "2026-04-27-it-s-ok-to-abandon-your-side-project.html",
@@ -8,6 +233,15 @@
       "date_iso": "2026-04-27T08:11:16+00:00",
       "source": "https://robbowen.digital/wrote-about/abandoned-side-projects/",
       "summary": "Article URL: https://robbowen.digital/wrote-about/abandoned-side-projects/ Comments URL: https://news.ycombinator.com/item?id=47918961 Points: 29 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47918891",
+      "title": "Can You Find the Comet?",
+      "slug": "2026-04-27-can-you-find-the-comet.html",
+      "path": "posts/2026-04-27-can-you-find-the-comet.html",
+      "date_iso": "2026-04-27T07:59:37+00:00",
+      "source": "https://apod.nasa.gov/apod/ap260427.html",
+      "summary": "Article URL: https://apod.nasa.gov/apod/ap260427.html Comments URL: https://news.ycombinator.com/item?id=47918891 Points: 25 # Comments: 6"
     },
     {
       "id": "https://news.ycombinator.com/item?id=47918657",
@@ -161,6 +395,15 @@
       "date_iso": "2026-04-26T15:17:34+00:00",
       "source": "https://thermodynamicsbook.com/",
       "summary": "Author here. Feel free to send questions of any kind. Comments URL: https://news.ycombinator.com/item?id=47911013 Points: 141 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47910877",
+      "title": "Lessons from building multiplayer browsers",
+      "slug": "2026-04-26-lessons-from-building-multiplayer-browsers.html",
+      "path": "posts/2026-04-26-lessons-from-building-multiplayer-browsers.html",
+      "date_iso": "2026-04-26T14:59:37+00:00",
+      "source": "https://www.alejandro.pe/writing/sail-muddy-lessons",
+      "summary": "Article URL: https://www.alejandro.pe/writing/sail-muddy-lessons Comments URL: https://news.ycombinator.com/item?id=47910877 Points: 44 # Comments: 14"
     },
     {
       "id": "https://news.ycombinator.com/item?id=47910388",
