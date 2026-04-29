@@ -1,6 +1,330 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/04/29/us/ai-chatbots-biological-weapons.html",
+      "title": "A.I. Bots Told Scientists How to Make Biological Weapons",
+      "slug": "2026-04-29-a-i-bots-told-scientists-how-to-make-biological-weapons.html",
+      "path": "posts/2026-04-29-a-i-bots-told-scientists-how-to-make-biological-weapons.html",
+      "date_iso": "2026-04-29T09:00:10+00:00",
+      "source": "https://www.nytimes.com/2026/04/29/us/ai-chatbots-biological-weapons.html",
+      "summary": "Scientists shared transcripts with The Times in which chatbots described how to assemble deadly pathogens and unleash them in public spaces."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47945522",
+      "title": "Tell HN: An update from the new Tindie team",
+      "slug": "2026-04-29-tell-hn-an-update-from-the-new-tindie-team.html",
+      "path": "posts/2026-04-29-tell-hn-an-update-from-the-new-tindie-team.html",
+      "date_iso": "2026-04-29T08:16:37+00:00",
+      "source": "https://news.ycombinator.com/item?id=47945522",
+      "summary": "Received by email tonight about two hours ago: Dear Tindie Community, My name is Gongyu Su, and I am writing on behalf of the new Tindie ownership team. First, we sincerely apologize for the recent downtime and the disruption it caused. We understand that many buyers and communi…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47945192",
+      "title": "Wire to Replace Signal as Standard in the Bundestag",
+      "slug": "2026-04-29-wire-to-replace-signal-as-standard-in-the-bundestag.html",
+      "path": "posts/2026-04-29-wire-to-replace-signal-as-standard-in-the-bundestag.html",
+      "date_iso": "2026-04-29T07:31:00+00:00",
+      "source": "https://www.heise.de/en/news/Digital-Sovereignty-Wire-to-Replace-Signal-as-Standard-in-the-Bundestag-11275755.html",
+      "summary": "Article URL: https://www.heise.de/en/news/Digital-Sovereignty-Wire-to-Replace-Signal-as-Standard-in-the-Bundestag-11275755.html Comments URL: https://news.ycombinator.com/item?id=47945192 Points: 41 # Comments: 38"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47944931",
+      "title": "Low-Compilation-Cost Register Allocation in LLVM-Based Binary Translation",
+      "slug": "2026-04-29-low-compilation-cost-register-allocation-in-llvm-based-binary-translation.html",
+      "path": "posts/2026-04-29-low-compilation-cost-register-allocation-in-llvm-based-binary-translation.html",
+      "date_iso": "2026-04-29T06:47:53+00:00",
+      "source": "https://dl.acm.org/doi/abs/10.1145/3767295.3803591",
+      "summary": "Article URL: https://dl.acm.org/doi/abs/10.1145/3767295.3803591 Comments URL: https://news.ycombinator.com/item?id=47944931 Points: 24 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47944864",
+      "title": "HardenedBSD Is Now Officially on Radicle",
+      "slug": "2026-04-29-hardenedbsd-is-now-officially-on-radicle.html",
+      "path": "posts/2026-04-29-hardenedbsd-is-now-officially-on-radicle.html",
+      "date_iso": "2026-04-29T06:38:44+00:00",
+      "source": "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle",
+      "summary": "Article URL: https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle Comments URL: https://news.ycombinator.com/item?id=47944864 Points: 58 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47943499",
+      "title": "Bugs Rust won't catch",
+      "slug": "2026-04-29-bugs-rust-won-t-catch.html",
+      "path": "posts/2026-04-29-bugs-rust-won-t-catch.html",
+      "date_iso": "2026-04-29T02:19:11+00:00",
+      "source": "https://corrode.dev/blog/bugs-rust-wont-catch/",
+      "summary": "Article URL: https://corrode.dev/blog/bugs-rust-wont-catch/ Comments URL: https://news.ycombinator.com/item?id=47943499 Points: 263 # Comments: 100"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47943190",
+      "title": "When the Internet Was a Place",
+      "slug": "2026-04-29-when-the-internet-was-a-place.html",
+      "path": "posts/2026-04-29-when-the-internet-was-a-place.html",
+      "date_iso": "2026-04-29T01:36:52+00:00",
+      "source": "https://www.frontporchrepublic.com/2025/09/when-the-internet-was-a-place/",
+      "summary": "Article URL: https://www.frontporchrepublic.com/2025/09/when-the-internet-was-a-place/ Comments URL: https://news.ycombinator.com/item?id=47943190 Points: 56 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47942492",
+      "title": "Regression: malware reminder on every read still causes subagent refusals",
+      "slug": "2026-04-28-regression-malware-reminder-on-every-read-still-causes-subagent-refusals.html",
+      "path": "posts/2026-04-28-regression-malware-reminder-on-every-read-still-causes-subagent-refusals.html",
+      "date_iso": "2026-04-28T23:59:57+00:00",
+      "source": "https://github.com/anthropics/claude-code/issues/49363",
+      "summary": "Not sure if anybody else has experienced this, but for my job I've been playing around with Claude Managed Agents to run code generation tasks in our repo. Every read operation in the managed agent is appended with a system prompt instructing Claude to scan the file for malware;…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47942437",
+      "title": "How ChatGPT serves ads",
+      "slug": "2026-04-28-how-chatgpt-serves-ads.html",
+      "path": "posts/2026-04-28-how-chatgpt-serves-ads.html",
+      "date_iso": "2026-04-28T23:54:14+00:00",
+      "source": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
+      "summary": "Article URL: https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/ Comments URL: https://news.ycombinator.com/item?id=47942437 Points: 325 # Comments: 219"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/28/technology/openai-trial-elon-musk-sam-altman.html",
+      "title": "OpenAI Trial Starts With Two Very Different Tales of a Company’s Early Years",
+      "slug": "2026-04-28-openai-trial-starts-with-two-very-different-tales-of-a-company-s-early-years.html",
+      "path": "posts/2026-04-28-openai-trial-starts-with-two-very-different-tales-of-a-company-s-early-years.html",
+      "date_iso": "2026-04-28T23:45:07+00:00",
+      "source": "https://www.nytimes.com/2026/04/28/technology/openai-trial-elon-musk-sam-altman.html",
+      "summary": "Elon Musk arriving at the Ronald V. Dellums U.S. Courthouse in Oakland Tuesday."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47942353",
+      "title": "Apple CMF (Color-Matching Functions) 2026",
+      "slug": "2026-04-28-apple-cmf-color-matching-functions-2026.html",
+      "path": "posts/2026-04-28-apple-cmf-color-matching-functions-2026.html",
+      "date_iso": "2026-04-28T23:43:53+00:00",
+      "source": "https://www.lttlabs.com/articles/2026/04/11/apple-studio-display-xdr-display-testing-results",
+      "summary": "Article URL: https://www.lttlabs.com/articles/2026/04/11/apple-studio-display-xdr-display-testing-results Comments URL: https://news.ycombinator.com/item?id=47942353 Points: 65 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47940921",
+      "title": "Before GitHub",
+      "slug": "2026-04-28-before-github.html",
+      "path": "posts/2026-04-28-before-github.html",
+      "date_iso": "2026-04-28T21:17:40+00:00",
+      "source": "https://lucumr.pocoo.org/2026/4/28/before-github/",
+      "summary": "Article URL: https://lucumr.pocoo.org/2026/4/28/before-github/ Comments URL: https://news.ycombinator.com/item?id=47940921 Points: 461 # Comments: 135"
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/openai-trial-opening-comments",
+      "title": "Here’s the latest.",
+      "slug": "2026-04-28-here-s-the-latest.html",
+      "path": "posts/2026-04-28-here-s-the-latest.html",
+      "date_iso": "2026-04-28T20:47:31+00:00",
+      "source": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/openai-trial-opening-comments",
+      "summary": ""
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47940389",
+      "title": "I won a championship that doesn't exist",
+      "slug": "2026-04-28-i-won-a-championship-that-doesn-t-exist.html",
+      "path": "posts/2026-04-28-i-won-a-championship-that-doesn-t-exist.html",
+      "date_iso": "2026-04-28T20:38:21+00:00",
+      "source": "https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/",
+      "summary": "Article URL: https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/ Comments URL: https://news.ycombinator.com/item?id=47940389 Points: 169 # Comments: 82"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/28/business/general-motors-trump-tariffs.html",
+      "title": "G.M.’s Profit Bolstered by a $500 Million Tariff Refund",
+      "slug": "2026-04-28-g-m-s-profit-bolstered-by-a-500-million-tariff-refund.html",
+      "path": "posts/2026-04-28-g-m-s-profit-bolstered-by-a-500-million-tariff-refund.html",
+      "date_iso": "2026-04-28T20:32:40+00:00",
+      "source": "https://www.nytimes.com/2026/04/28/business/general-motors-trump-tariffs.html",
+      "summary": "A General Motors plant in Spring Hill, Tenn. The company is still affected by other tariffs — including those on imported steel, aluminum, cars and auto parts."
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/heres-what-openais-lawyer-argued-in-his-opening-statement",
+      "title": "Here’s what OpenAI’s lawyer argued in his opening statement.",
+      "slug": "2026-04-28-here-s-what-openai-s-lawyer-argued-in-his-opening-statement.html",
+      "path": "posts/2026-04-28-here-s-what-openai-s-lawyer-argued-in-his-opening-statement.html",
+      "date_iso": "2026-04-28T20:24:53+00:00",
+      "source": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/heres-what-openais-lawyer-argued-in-his-opening-statement",
+      "summary": "William Savitt, OpenAI’s lead counsel, arriving to court on Tuesday."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/28/technology/google-ai-deal-pentagon.html",
+      "title": "Google Signs A.I. Deal With the Pentagon",
+      "slug": "2026-04-28-google-signs-a-i-deal-with-the-pentagon.html",
+      "path": "posts/2026-04-28-google-signs-a-i-deal-with-the-pentagon.html",
+      "date_iso": "2026-04-28T20:16:02+00:00",
+      "source": "https://www.nytimes.com/2026/04/28/technology/google-ai-deal-pentagon.html",
+      "summary": "The Mountain View, Calif., campus of Google, which reached an agreement similar to the Pentagon’s deals with OpenAI and xAI."
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/why-does-elon-musk-talk-so-much-about-saving-humanity",
+      "title": "Why does Elon Musk talk so much about saving humanity?",
+      "slug": "2026-04-28-why-does-elon-musk-talk-so-much-about-saving-humanity.html",
+      "path": "posts/2026-04-28-why-does-elon-musk-talk-so-much-about-saving-humanity.html",
+      "date_iso": "2026-04-28T19:55:10+00:00",
+      "source": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/why-does-elon-musk-talk-so-much-about-saving-humanity",
+      "summary": "Elon Musk has said that he founded SpaceX, his rocket manufacturer, to take humans to Mars."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47939579",
+      "title": "Ghostty is leaving GitHub",
+      "slug": "2026-04-28-ghostty-is-leaving-github.html",
+      "path": "posts/2026-04-28-ghostty-is-leaving-github.html",
+      "date_iso": "2026-04-28T19:44:52+00:00",
+      "source": "https://mitchellh.com/writing/ghostty-leaving-github",
+      "summary": "Article URL: https://mitchellh.com/writing/ghostty-leaving-github Comments URL: https://news.ycombinator.com/item?id=47939579 Points: 2528 # Comments: 735"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47939320",
+      "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
+      "slug": "2026-04-28-openai-models-coming-to-amazon-bedrock-interview-with-openai-and-aws-ceos.html",
+      "path": "posts/2026-04-28-openai-models-coming-to-amazon-bedrock-interview-with-openai-and-aws-ceos.html",
+      "date_iso": "2026-04-28T19:24:43+00:00",
+      "source": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+      "summary": "https://aws.amazon.com/bedrock/openai/ https://www.aboutamazon.com/news/aws/bedrock-openai-models https://openai.com/index/openai-on-aws/ https://x.com/amazon/status/2049178618639839427 Comments URL: https://news.ycombinator.com/item?id=47939320 Points: 273 # Comments: 88"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/28/us/politics/supreme-court-falun-gong-tech.html",
+      "title": "Supreme Court Appears Skeptical of Falun Gong Lawsuit Against Cisco",
+      "slug": "2026-04-28-supreme-court-appears-skeptical-of-falun-gong-lawsuit-against-cisco.html",
+      "path": "posts/2026-04-28-supreme-court-appears-skeptical-of-falun-gong-lawsuit-against-cisco.html",
+      "date_iso": "2026-04-28T19:05:16+00:00",
+      "source": "https://www.nytimes.com/2026/04/28/us/politics/supreme-court-falun-gong-tech.html",
+      "summary": "Members of Falun Gong during a protest meditation in Manhattan in 2024. The Chinese government has banned the group."
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/heres-what-musks-lawyers-argued-in-their-opening-statement",
+      "title": "Here’s what Musk’s lawyers argued in their opening statement.",
+      "slug": "2026-04-28-here-s-what-musk-s-lawyers-argued-in-their-opening-statement.html",
+      "path": "posts/2026-04-28-here-s-what-musk-s-lawyers-argued-in-their-opening-statement.html",
+      "date_iso": "2026-04-28T18:47:29+00:00",
+      "source": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/heres-what-musks-lawyers-argued-in-their-opening-statement",
+      "summary": "Elon Musk arriving to court on Tuesday."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47937380",
+      "title": "Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU",
+      "slug": "2026-04-28-show-hn-auto-architecture-karpathy-s-loop-pointed-at-a-cpu.html",
+      "path": "posts/2026-04-28-show-hn-auto-architecture-karpathy-s-loop-pointed-at-a-cpu.html",
+      "date_iso": "2026-04-28T17:12:30+00:00",
+      "source": "https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md",
+      "summary": "Article URL: https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md Comments URL: https://news.ycombinator.com/item?id=47937380 Points: 145 # Comments: 30"
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/who-are-the-lawyers-representing-elon-musk-openai-and-microsoft",
+      "title": "Who are the lawyers representing Elon Musk, OpenAI and Microsoft?",
+      "slug": "2026-04-28-who-are-the-lawyers-representing-elon-musk-openai-and-microsoft.html",
+      "path": "posts/2026-04-28-who-are-the-lawyers-representing-elon-musk-openai-and-microsoft.html",
+      "date_iso": "2026-04-28T17:03:56+00:00",
+      "source": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/who-are-the-lawyers-representing-elon-musk-openai-and-microsoft",
+      "summary": ""
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47937203",
+      "title": "Infisical (YC W23) Is Hiring Full Stack Software Engineers (Remote)",
+      "slug": "2026-04-28-infisical-yc-w23-is-hiring-full-stack-software-engineers-remote.html",
+      "path": "posts/2026-04-28-infisical-yc-w23-is-hiring-full-stack-software-engineers-remote.html",
+      "date_iso": "2026-04-28T17:00:06+00:00",
+      "source": "https://jobs.ashbyhq.com/infisical/782b9da8-20e1-48b2-919e-6c5430c58628",
+      "summary": "Article URL: https://jobs.ashbyhq.com/infisical/782b9da8-20e1-48b2-919e-6c5430c58628 Comments URL: https://news.ycombinator.com/item?id=47937203 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47936479",
+      "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
+      "slug": "2026-04-28-github-rce-vulnerability-cve-2026-3854-breakdown.html",
+      "path": "posts/2026-04-28-github-rce-vulnerability-cve-2026-3854-breakdown.html",
+      "date_iso": "2026-04-28T16:15:43+00:00",
+      "source": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
+      "summary": "Article URL: https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854 Comments URL: https://news.ycombinator.com/item?id=47936479 Points: 352 # Comments: 76"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/28/technology/elon-musk-social-posts-sam-altman-openai.html",
+      "title": "Elon Musk Assails Sam Altman on Social Media Before OpenAI Trial",
+      "slug": "2026-04-28-elon-musk-assails-sam-altman-on-social-media-before-openai-trial.html",
+      "path": "posts/2026-04-28-elon-musk-assails-sam-altman-on-social-media-before-openai-trial.html",
+      "date_iso": "2026-04-28T16:12:24+00:00",
+      "source": "https://www.nytimes.com/2026/04/28/technology/elon-musk-social-posts-sam-altman-openai.html",
+      "summary": "Elon Musk on his phone during President Trump’s joint address to Congress at the U.S. Capitol last year."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/28/technology/key-players-openai-trial.html",
+      "title": "Here Are the Key Players in the OpenAI Trial",
+      "slug": "2026-04-28-here-are-the-key-players-in-the-openai-trial.html",
+      "path": "posts/2026-04-28-here-are-the-key-players-in-the-openai-trial.html",
+      "date_iso": "2026-04-28T16:09:16+00:00",
+      "source": "https://www.nytimes.com/2026/04/28/technology/key-players-openai-trial.html",
+      "summary": "Elon Musk, Sam Altman and several other key artificial intelligence industry figures are slated to testify in the trial, which is expected to last several weeks."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47936312",
+      "title": "Show HN: Drive any macOS app in the background without stealing the cursor",
+      "slug": "2026-04-28-show-hn-drive-any-macos-app-in-the-background-without-stealing-the-cursor.html",
+      "path": "posts/2026-04-28-show-hn-drive-any-macos-app-in-the-background-without-stealing-the-cursor.html",
+      "date_iso": "2026-04-28T16:03:34+00:00",
+      "source": "https://github.com/trycua/cua",
+      "summary": "Hi HN, Francesco from Cua here. I hacked this project together last weekend, inspired by the Codex Computer-Use release and lessons learned from deploying GUI-operating agents for our customers. The main problem: when a UI automation process controls a desktop app today, it usua…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47936264",
+      "title": "Warp is now open-source",
+      "slug": "2026-04-28-warp-is-now-open-source.html",
+      "path": "posts/2026-04-28-warp-is-now-open-source.html",
+      "date_iso": "2026-04-28T15:58:30+00:00",
+      "source": "https://www.warp.dev/blog/warp-is-now-open-source",
+      "summary": "Article URL: https://www.warp.dev/blog/warp-is-now-open-source Comments URL: https://news.ycombinator.com/item?id=47936264 Points: 268 # Comments: 72"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47935853",
+      "title": "Your phone is about to stop being yours",
+      "slug": "2026-04-28-your-phone-is-about-to-stop-being-yours.html",
+      "path": "posts/2026-04-28-your-phone-is-about-to-stop-being-yours.html",
+      "date_iso": "2026-04-28T15:21:00+00:00",
+      "source": "https://keepandroidopen.org/en/",
+      "summary": "Article URL: https://keepandroidopen.org/en/ Comments URL: https://news.ycombinator.com/item?id=47935853 Points: 1345 # Comments: 608"
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/this-trial-comes-amid-a-growing-national-backlash-against-ai",
+      "title": "This trial comes amid a growing national backlash against A.I.",
+      "slug": "2026-04-28-this-trial-comes-amid-a-growing-national-backlash-against-a-i.html",
+      "path": "posts/2026-04-28-this-trial-comes-amid-a-growing-national-backlash-against-a-i.html",
+      "date_iso": "2026-04-28T15:19:40+00:00",
+      "source": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/this-trial-comes-amid-a-growing-national-backlash-against-ai",
+      "summary": "Anti-data center signage is displayed outside Bart and Amy Snyder’s farm in Wolcott, Ind. The Snyders have filed a lawsuit seeking to stop the planned construction of an A.I. data center next door to their property."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47935246",
+      "title": "Show HN: Rocky – Rust SQL engine with branches, replay, column lineage",
+      "slug": "2026-04-28-show-hn-rocky-rust-sql-engine-with-branches-replay-column-lineage.html",
+      "path": "posts/2026-04-28-show-hn-rocky-rust-sql-engine-with-branches-replay-column-lineage.html",
+      "date_iso": "2026-04-28T14:35:59+00:00",
+      "source": "https://github.com/rocky-data/rocky",
+      "summary": "Hi HN, I'm Hugo. I've been building Rocky over the past month, shipping fast in the open. The binary is on GitHub Releases, `dagster-rocky` on PyPI, and the VS Code extension on the Marketplace. I held off on a broader announcement until the trust-system surface was coherent eno…"
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/what-are-elon-musks-claims-against-altman-and-openai",
+      "title": "What are Elon Musk’s claims against Altman and OpenAI?",
+      "slug": "2026-04-28-what-are-elon-musk-s-claims-against-altman-and-openai.html",
+      "path": "posts/2026-04-28-what-are-elon-musk-s-claims-against-altman-and-openai.html",
+      "date_iso": "2026-04-28T14:20:05+00:00",
+      "source": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/what-are-elon-musks-claims-against-altman-and-openai",
+      "summary": "Elon Musk is asking for more than $150 billion in damages from OpenAI and Microsoft, OpenAI’s primary partner."
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/oakland-which-is-playing-host-to-the-trial-is-not-exactly-known-as-a-tech-hub",
+      "title": "Oakland, which is playing host to the trial, is not exactly known as a tech hub.",
+      "slug": "2026-04-28-oakland-which-is-playing-host-to-the-trial-is-not-exactly-known-as-a-tech-hub.html",
+      "path": "posts/2026-04-28-oakland-which-is-playing-host-to-the-trial-is-not-exactly-known-as-a-tech-hub.html",
+      "date_iso": "2026-04-28T14:02:12+00:00",
+      "source": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/oakland-which-is-playing-host-to-the-trial-is-not-exactly-known-as-a-tech-hub",
+      "summary": "The Ronald V. Dellums Federal Building and U.S. Courthouse in Oakland, Calif."
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/heres-the-contentious-history-behind-openai",
+      "title": "Here’s the contentious history behind OpenAI.",
+      "slug": "2026-04-28-here-s-the-contentious-history-behind-openai.html",
+      "path": "posts/2026-04-28-here-s-the-contentious-history-behind-openai.html",
+      "date_iso": "2026-04-28T14:01:03+00:00",
+      "source": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/heres-the-contentious-history-behind-openai",
+      "summary": "The OpenAI offices in San Francisco."
+    },
+    {
       "id": "https://www.nytimes.com/2026/04/28/world/europe/russia-internet-restrictions-putin.html",
       "title": "Internet Restrictions Spur Russians to Openly Question Putin’s Moves",
       "slug": "2026-04-28-internet-restrictions-spur-russians-to-openly-question-putin-s-moves.html",

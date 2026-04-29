@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Drive any macOS app in the background without stealing the cursor</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Drive any macOS app in the background without stealing the cursor</h1>
+    <p><small>Published: 2026-04-28T16:03:34+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hi HN, Francesco from Cua here.
+I hacked this project together last weekend, inspired by the Codex Computer-Use release and lessons learned from deploying GUI-operating agents for our customers.<p>The main problem: when a UI automation process controls a desktop app today, it usually takes over the human’s session. Your cursor moves, keyboard focus gets stolen, windows jump to the front, and you have to stop working until the agent is done. That is why we have historically avoided encouraging users to run these processes directly on their host machine, instead relying on VMs or GUI containers for concurrency and background execution.<p>But computer-use - the tools we give agents to operate computers like humans - does not scale cleanly that way. As models get smarter, agents need to share hosts safely, run in the background, and avoid collisions with the human or other agents using the same machine.<p>We realized macOS has no first-class API for "drive this app without touching the cursor". CGEventPost routes through the hardware input stream, so it moves your cursor. CGEvent.postToPid avoids the cursor warp, but Chromium treats those events as untrusted and silently drops clicks at the renderer boundary. Activating the target app first raises the window and pulls focus, defeating the point of background execution.<p>Cua Driver is our attempt at a real fix: a background computer-use driver for macOS that lets an agent click, type, scroll, and read native apps while your cursor, frontmost app, and Space stay where they are. The default interface is a CLI, so it is easy to script or call from any coding agent shell.<p>Try it on macOS 14+:<p>/bin/bash -c "$(curl -fsSL <a href="https://raw.githubusercontent.com/trycua/cua/main/libs/cua-driver/scripts/install.sh" rel="nofollow">https://raw.githubusercontent.com/trycua/cua/main/libs/cua-d...</a>)"<p>The first internal use case was delegated demo recording. We ask Claude Code to drive an app while 'cua-driver recording start' captures the trajectory, screenshots, actions, and click markers. The result is an agent-generated product demo, Screen Studio inspired.<p>Other things we have used it for:<p>- Replacing Vercel’s agent-browser and other browser-use CLIs. With Claude Code and Cua Driver, you do not need Chrome DevTools Protocol at all.<p>- A dev-loop QA agent that reproduces a visual bug, edits code, rebuilds, and verifies the UI while my editor stays frontmost.<p>- Personal-assistant flows that use iMessage from Claude Code, Hermes, or other general-purpose agent CLIs.<p>- Pulling visual context from Chrome, Figma, Preview, or YouTube windows I am not looking at, without relying on their APIs.<p>What made this harder than expected:<p>- CGEventPost warps the cursor because it goes through the HID stream.<p>- CGEvent.postToPid does not warp the cursor, but Chromium drops it at the renderer IPC boundary.<p>- Activating the target first raises the window and can drag you across Spaces.<p>- Electron apps stop keeping useful AX trees alive when windows are occluded without a private remote-aware SPI.<p>The unlock was SkyLight. SLEventPostToPid is a sibling of the public per-PID call, but it travels through a WindowServer channel Chromium accepts as trusted. Pair it with yabai’s focus-without-raise pattern, plus an off-screen primer click at (-1, -1), and the click lands without the window ever raising.<p>One thing we learned: the right addressing mode depends on the app. Native macOS apps usually have rich AX trees, Chromium-family apps often need a hybrid of AX and screenshots, and apps like Blender or CAD tools may expose almost no useful AX surface. The mistake is defaulting to pixels everywhere - or defaulting to AX everywhere.<p>Long technical writeup: <a href="https://github.com/trycua/cua/blob/main/blog/inside-macos-window-internals.md" rel="nofollow">https://github.com/trycua/cua/blob/main/blog/inside-macos-wi...</a><p>I would like feedback from people building Mac automation, agent harnesses, or accessibility tooling. If it breaks on an macOS app you care about, that is useful data for us.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=47936312">https://news.ycombinator.com/item?id=47936312</a></p>
+<p>Points: 129</p>
+<p># Comments: 30</p>
+    <p><a href="https://github.com/trycua/cua" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
