@@ -1,6 +1,303 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/04/30/style/palantir-ai-coat-french-chore-coat.html",
+      "title": "Palantir Is Making a French Chore Coat. Yes, That Palantir.",
+      "slug": "2026-04-30-palantir-is-making-a-french-chore-coat-yes-that-palantir.html",
+      "path": "posts/2026-04-30-palantir-is-making-a-french-chore-coat-yes-that-palantir.html",
+      "date_iso": "2026-04-30T09:02:59+00:00",
+      "source": "https://www.nytimes.com/2026/04/30/style/palantir-ai-coat-french-chore-coat.html",
+      "summary": "Palantir’s new chore coat comes in bright blue and black."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/30/technology/personaltech/phone-addiction-remedies.html",
+      "title": "Struggling With Phone Addiction? Try These Remedies.",
+      "slug": "2026-04-30-struggling-with-phone-addiction-try-these-remedies.html",
+      "path": "posts/2026-04-30-struggling-with-phone-addiction-try-these-remedies.html",
+      "date_iso": "2026-04-30T09:01:47+00:00",
+      "source": "https://www.nytimes.com/2026/04/30/technology/personaltech/phone-addiction-remedies.html",
+      "summary": "Counting minutes is a poor way to curb phone habits. Real antidotes, experts say, include mindful parenting, curated content and human connection."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47959463",
+      "title": "Mozilla's Opposition to Chrome's Prompt API",
+      "slug": "2026-04-30-mozilla-s-opposition-to-chrome-s-prompt-api.html",
+      "path": "posts/2026-04-30-mozilla-s-opposition-to-chrome-s-prompt-api.html",
+      "date_iso": "2026-04-30T07:43:55+00:00",
+      "source": "https://github.com/mozilla/standards-positions/issues/1213",
+      "summary": "Article URL: https://github.com/mozilla/standards-positions/issues/1213 Comments URL: https://news.ycombinator.com/item?id=47959463 Points: 8 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47958942",
+      "title": "Will you heed my warnings now?",
+      "slug": "2026-04-30-will-you-heed-my-warnings-now.html",
+      "path": "posts/2026-04-30-will-you-heed-my-warnings-now.html",
+      "date_iso": "2026-04-30T06:30:30+00:00",
+      "source": "https://scottaaronson.blog/?p=9718",
+      "summary": "Article URL: https://scottaaronson.blog/?p=9718 Comments URL: https://news.ycombinator.com/item?id=47958942 Points: 51 # Comments: 44"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47958106",
+      "title": "Monad Tutorials Timeline",
+      "slug": "2026-04-30-monad-tutorials-timeline.html",
+      "path": "posts/2026-04-30-monad-tutorials-timeline.html",
+      "date_iso": "2026-04-30T04:28:07+00:00",
+      "source": "https://wiki.haskell.org/Monad_tutorials_timeline",
+      "summary": "Article URL: https://wiki.haskell.org/Monad_tutorials_timeline Comments URL: https://news.ycombinator.com/item?id=47958106 Points: 32 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47958081",
+      "title": "Lessons from Building an OTel Normalizer for GenAI",
+      "slug": "2026-04-30-lessons-from-building-an-otel-normalizer-for-genai.html",
+      "path": "posts/2026-04-30-lessons-from-building-an-otel-normalizer-for-genai.html",
+      "date_iso": "2026-04-30T04:23:40+00:00",
+      "source": "https://www.groundcover.com/blog/otel-normalizer-genai-part-1",
+      "summary": "Article URL: https://www.groundcover.com/blog/otel-normalizer-genai-part-1 Comments URL: https://news.ycombinator.com/item?id=47958081 Points: 4 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47957714",
+      "title": "Biology is a Burrito: A text- and visual-based journey through a living cell",
+      "slug": "2026-04-30-biology-is-a-burrito-a-text-and-visual-based-journey-through-a-living-cell.html",
+      "path": "posts/2026-04-30-biology-is-a-burrito-a-text-and-visual-based-journey-through-a-living-cell.html",
+      "date_iso": "2026-04-30T03:24:41+00:00",
+      "source": "https://burrito.bio/essays/biology-is-a-burrito",
+      "summary": "Article URL: https://burrito.bio/essays/biology-is-a-burrito Comments URL: https://news.ycombinator.com/item?id=47957714 Points: 90 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47957688",
+      "title": "Where the goblins came from",
+      "slug": "2026-04-30-where-the-goblins-came-from.html",
+      "path": "posts/2026-04-30-where-the-goblins-came-from.html",
+      "date_iso": "2026-04-30T03:21:04+00:00",
+      "source": "https://openai.com/index/where-the-goblins-came-from/",
+      "summary": "Article URL: https://openai.com/index/where-the-goblins-came-from/ Comments URL: https://news.ycombinator.com/item?id=47957688 Points: 544 # Comments: 305"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47957627",
+      "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
+      "slug": "2026-04-30-alignment-whack-a-mole-finetuning-activates-recall-of-copyrighted-books-in-llms.html",
+      "path": "posts/2026-04-30-alignment-whack-a-mole-finetuning-activates-recall-of-copyrighted-books-in-llms.html",
+      "date_iso": "2026-04-30T03:11:51+00:00",
+      "source": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
+      "summary": "Article URL: https://github.com/cauchy221/Alignment-Whack-a-Mole-Code Comments URL: https://news.ycombinator.com/item?id=47957627 Points: 124 # Comments: 86"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47957624",
+      "title": "Functional programmers need to take a look at Zig",
+      "slug": "2026-04-30-functional-programmers-need-to-take-a-look-at-zig.html",
+      "path": "posts/2026-04-30-functional-programmers-need-to-take-a-look-at-zig.html",
+      "date_iso": "2026-04-30T03:11:33+00:00",
+      "source": "https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html",
+      "summary": "Article URL: https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html Comments URL: https://news.ycombinator.com/item?id=47957624 Points: 108 # Comments: 75"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47957294",
+      "title": "The Zig project's rationale for their anti-AI contribution policy",
+      "slug": "2026-04-30-the-zig-project-s-rationale-for-their-anti-ai-contribution-policy.html",
+      "path": "posts/2026-04-30-the-zig-project-s-rationale-for-their-anti-ai-contribution-policy.html",
+      "date_iso": "2026-04-30T02:15:47+00:00",
+      "source": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+      "summary": "Article URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/ Comments URL: https://news.ycombinator.com/item?id=47957294 Points: 245 # Comments: 100"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47957116",
+      "title": "A grounded conceptual model for ownership types in Rust",
+      "slug": "2026-04-30-a-grounded-conceptual-model-for-ownership-types-in-rust.html",
+      "path": "posts/2026-04-30-a-grounded-conceptual-model-for-ownership-types-in-rust.html",
+      "date_iso": "2026-04-30T01:47:19+00:00",
+      "source": "https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/",
+      "summary": "Article URL: https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/ Comments URL: https://news.ycombinator.com/item?id=47957116 Points: 32 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47957101",
+      "title": "Craig Venter has died",
+      "slug": "2026-04-30-craig-venter-has-died.html",
+      "path": "posts/2026-04-30-craig-venter-has-died.html",
+      "date_iso": "2026-04-30T01:44:56+00:00",
+      "source": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
+      "summary": "Article URL: https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79 Comments URL: https://news.ycombinator.com/item?id=47957101 Points: 226 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47956781",
+      "title": "Joby kicks off NYC electric air taxi demos with historic JFK flight",
+      "slug": "2026-04-30-joby-kicks-off-nyc-electric-air-taxi-demos-with-historic-jfk-flight.html",
+      "path": "posts/2026-04-30-joby-kicks-off-nyc-electric-air-taxi-demos-with-historic-jfk-flight.html",
+      "date_iso": "2026-04-30T01:01:55+00:00",
+      "source": "https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/",
+      "summary": "Article URL: https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/ Comments URL: https://news.ycombinator.com/item?id=47956781 Points: 47 # Comments: 114"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47956739",
+      "title": "Mike: open-source legal AI",
+      "slug": "2026-04-30-mike-open-source-legal-ai.html",
+      "path": "posts/2026-04-30-mike-open-source-legal-ai.html",
+      "date_iso": "2026-04-30T00:56:23+00:00",
+      "source": "https://mikeoss.com/",
+      "summary": "Article URL: https://mikeoss.com/ Comments URL: https://news.ycombinator.com/item?id=47956739 Points: 86 # Comments: 32"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/29/technology/musk-openai-trial-altman.html",
+      "title": "Musk Says He ‘Was a Fool’ to Provide OpenAI’s Early Funding",
+      "slug": "2026-04-29-musk-says-he-was-a-fool-to-provide-openai-s-early-funding.html",
+      "path": "posts/2026-04-29-musk-says-he-was-a-fool-to-provide-openai-s-early-funding.html",
+      "date_iso": "2026-04-29T23:25:14+00:00",
+      "source": "https://www.nytimes.com/2026/04/29/technology/musk-openai-trial-altman.html",
+      "summary": "Elon Musk’s testimony grew testy during cross-examination from OpenAI’s lawyer."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/29/technology/ai-spending-tech-data-centers.html",
+      "title": "A.I. Spending Sets a Record, With No End in Sight",
+      "slug": "2026-04-29-a-i-spending-sets-a-record-with-no-end-in-sight.html",
+      "path": "posts/2026-04-29-a-i-spending-sets-a-record-with-no-end-in-sight.html",
+      "date_iso": "2026-04-29T22:53:54+00:00",
+      "source": "https://www.nytimes.com/2026/04/29/technology/ai-spending-tech-data-centers.html",
+      "summary": "Amazon’s data center complex in New Carlisle, Ind. The company, along with Google, Microsoft and Meta, has spent billions on capital expenditures, largely data centers."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47955226",
+      "title": "Gooseworks (YC W23) Is Hiring a Founding Growth Engineer",
+      "slug": "2026-04-29-gooseworks-yc-w23-is-hiring-a-founding-growth-engineer.html",
+      "path": "posts/2026-04-29-gooseworks-yc-w23-is-hiring-a-founding-growth-engineer.html",
+      "date_iso": "2026-04-29T21:50:57+00:00",
+      "source": "https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer Comments URL: https://news.ycombinator.com/item?id=47955226 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/29/business/china-silicon-valley-manus.html",
+      "title": "Meta Deal Reversal Deepens Split Between China and Silicon Valley",
+      "slug": "2026-04-29-meta-deal-reversal-deepens-split-between-china-and-silicon-valley.html",
+      "path": "posts/2026-04-29-meta-deal-reversal-deepens-split-between-china-and-silicon-valley.html",
+      "date_iso": "2026-04-29T21:08:05+00:00",
+      "source": "https://www.nytimes.com/2026/04/29/business/china-silicon-valley-manus.html",
+      "summary": "China demanded on Monday that Meta’s $2 billion deal with the A.I. start-up Manus be undone."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47954638",
+      "title": "I accidentally made law enforcement shut down their fake honeypot",
+      "slug": "2026-04-29-i-accidentally-made-law-enforcement-shut-down-their-fake-honeypot.html",
+      "path": "posts/2026-04-29-i-accidentally-made-law-enforcement-shut-down-their-fake-honeypot.html",
+      "date_iso": "2026-04-29T21:04:38+00:00",
+      "source": "https://lina.sh/blog/ddos-honeypot",
+      "summary": "Article URL: https://lina.sh/blog/ddos-honeypot Comments URL: https://news.ycombinator.com/item?id=47954638 Points: 110 # Comments: 49"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/29/business/ford-motor-tariff-refund-profit.html",
+      "title": "Ford Reports Higher Profit Thanks Partly to Tariff Refund",
+      "slug": "2026-04-29-ford-reports-higher-profit-thanks-partly-to-tariff-refund.html",
+      "path": "posts/2026-04-29-ford-reports-higher-profit-thanks-partly-to-tariff-refund.html",
+      "date_iso": "2026-04-29T21:01:00+00:00",
+      "source": "https://www.nytimes.com/2026/04/29/business/ford-motor-tariff-refund-profit.html",
+      "summary": "Ford Motor vehicles at a dealership in Miami."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/29/technology/ai-artificial-intelligence-ad-boom.html",
+      "title": "A.I. Helps Online Ad Businesses Boom",
+      "slug": "2026-04-29-a-i-helps-online-ad-businesses-boom.html",
+      "path": "posts/2026-04-29-a-i-helps-online-ad-businesses-boom.html",
+      "date_iso": "2026-04-29T20:59:48+00:00",
+      "source": "https://www.nytimes.com/2026/04/29/technology/ai-artificial-intelligence-ad-boom.html",
+      "summary": "Google and Meta are enjoying a digital ad boom, as artificial intelligence automates marketing and drives record sales."
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/heres-the-latest",
+      "title": "Here’s the latest.",
+      "slug": "2026-04-29-here-s-the-latest.html",
+      "path": "posts/2026-04-29-here-s-the-latest.html",
+      "date_iso": "2026-04-29T20:40:42+00:00",
+      "source": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/heres-the-latest",
+      "summary": ""
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47953541",
+      "title": "OpenTrafficMap",
+      "slug": "2026-04-29-opentrafficmap.html",
+      "path": "posts/2026-04-29-opentrafficmap.html",
+      "date_iso": "2026-04-29T19:49:30+00:00",
+      "source": "https://opentrafficmap.org/",
+      "summary": "Article URL: https://opentrafficmap.org/ Comments URL: https://news.ycombinator.com/item?id=47953541 Points: 255 # Comments: 57"
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/even-without-openai-elon-musk-has-made-ai-a-big-part-of-his-business-empire",
+      "title": "Even without OpenAI, Elon Musk has made A.I. a big part of his business empire.",
+      "slug": "2026-04-29-even-without-openai-elon-musk-has-made-a-i-a-big-part-of-his-business-empire.html",
+      "path": "posts/2026-04-29-even-without-openai-elon-musk-has-made-a-i-a-big-part-of-his-business-empire.html",
+      "date_iso": "2026-04-29T19:20:42+00:00",
+      "source": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/even-without-openai-elon-musk-has-made-ai-a-big-part-of-his-business-empire",
+      "summary": "SpaceX said a deal with Cursor gave it the option to buy the artificial intelligence start-up, which makes code-writing software, for $60 billion later this year."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47952722",
+      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+      "slug": "2026-04-29-hermes-md-in-commit-messages-causes-requests-to-route-to-extra-usage-billing.html",
+      "path": "posts/2026-04-29-hermes-md-in-commit-messages-causes-requests-to-route-to-extra-usage-billing.html",
+      "date_iso": "2026-04-29T18:54:31+00:00",
+      "source": "https://github.com/anthropics/claude-code/issues/53262",
+      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/53262 Comments URL: https://news.ycombinator.com/item?id=47952722 Points: 1121 # Comments: 477"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47952181",
+      "title": "Copy Fail",
+      "slug": "2026-04-29-copy-fail.html",
+      "path": "posts/2026-04-29-copy-fail.html",
+      "date_iso": "2026-04-29T18:13:53+00:00",
+      "source": "https://copy.fail/",
+      "summary": "Article URL: https://copy.fail/ Comments URL: https://news.ycombinator.com/item?id=47952181 Points: 928 # Comments: 346"
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/who-is-the-judge-in-the-case",
+      "title": "Who is the judge in the case?",
+      "slug": "2026-04-29-who-is-the-judge-in-the-case.html",
+      "path": "posts/2026-04-29-who-is-the-judge-in-the-case.html",
+      "date_iso": "2026-04-29T17:41:36+00:00",
+      "source": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/who-is-the-judge-in-the-case",
+      "summary": "Judge Yvonne Gonzalez Rogers of the U.S. District Court for the Northern District of California."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47951137",
+      "title": "Laws of UX",
+      "slug": "2026-04-29-laws-of-ux.html",
+      "path": "posts/2026-04-29-laws-of-ux.html",
+      "date_iso": "2026-04-29T16:58:13+00:00",
+      "source": "https://lawsofux.com/",
+      "summary": "Article URL: https://lawsofux.com/ Comments URL: https://news.ycombinator.com/item?id=47951137 Points: 262 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47950510",
+      "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
+      "slug": "2026-04-29-fastcgi-30-years-old-and-still-the-better-protocol-for-reverse-proxies.html",
+      "path": "posts/2026-04-29-fastcgi-30-years-old-and-still-the-better-protocol-for-reverse-proxies.html",
+      "date_iso": "2026-04-29T16:16:39+00:00",
+      "source": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
+      "summary": "Article URL: https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies Comments URL: https://news.ycombinator.com/item?id=47950510 Points: 332 # Comments: 77"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/29/technology/parents-school-tech-backlash.html",
+      "title": "In Backlash Against Tech in Schools, Parents Are Winning Rollbacks",
+      "slug": "2026-04-29-in-backlash-against-tech-in-schools-parents-are-winning-rollbacks.html",
+      "path": "posts/2026-04-29-in-backlash-against-tech-in-schools-parents-are-winning-rollbacks.html",
+      "date_iso": "2026-04-29T16:04:58+00:00",
+      "source": "https://www.nytimes.com/2026/04/29/technology/parents-school-tech-backlash.html",
+      "summary": "Sandra Martinez Roe, with her son, is a leader of a Los Angeles parents’ group pushing the district to audit its technology contracts and limit the use of tech in schools."
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/et-tu-brute-what-elon-musks-clash-with-sam-altman-is-really-about",
+      "title": "Et tu, Brute? What Elon Musk’s clash with Sam Altman is really about.",
+      "slug": "2026-04-29-et-tu-brute-what-elon-musk-s-clash-with-sam-altman-is-really-about.html",
+      "path": "posts/2026-04-29-et-tu-brute-what-elon-musk-s-clash-with-sam-altman-is-really-about.html",
+      "date_iso": "2026-04-29T14:35:23+00:00",
+      "source": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/et-tu-brute-what-elon-musks-clash-with-sam-altman-is-really-about",
+      "summary": "OpenAI is at the center of the clash between Elon Musk and Sam Altman."
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/heres-what-musks-lawyers-argued-in-their-opening-statement",
+      "title": "Here’s what Musk’s lawyer argued in his opening statement.",
+      "slug": "2026-04-29-here-s-what-musk-s-lawyer-argued-in-his-opening-statement.html",
+      "path": "posts/2026-04-29-here-s-what-musk-s-lawyer-argued-in-his-opening-statement.html",
+      "date_iso": "2026-04-29T14:14:22+00:00",
+      "source": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/heres-what-musks-lawyers-argued-in-their-opening-statement",
+      "summary": "Elon Musk arriving to court on Tuesday."
+    },
+    {
       "id": "https://www.nytimes.com/2026/04/29/us/ai-chatbots-biological-weapons.html",
       "title": "A.I. Bots Told Scientists How to Make Biological Weapons",
       "slug": "2026-04-29-a-i-bots-told-scientists-how-to-make-biological-weapons.html",
@@ -145,6 +442,15 @@
       "summary": "William Savitt, OpenAI’s lead counsel, arriving to court on Tuesday."
     },
     {
+      "id": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/heres-what-openais-lawyer-argued-in-his-opening-statement",
+      "title": "Here’s what OpenAI’s lawyer argued in his opening statement.",
+      "slug": "2026-04-28-here-s-what-openai-s-lawyer-argued-in-his-opening-statement.html",
+      "path": "posts/2026-04-28-here-s-what-openai-s-lawyer-argued-in-his-opening-statement.html",
+      "date_iso": "2026-04-28T20:24:53+00:00",
+      "source": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/heres-what-openais-lawyer-argued-in-his-opening-statement",
+      "summary": "William Savitt, OpenAI’s lead counsel, arriving to court on Tuesday."
+    },
+    {
       "id": "https://www.nytimes.com/2026/04/28/technology/google-ai-deal-pentagon.html",
       "title": "Google Signs A.I. Deal With the Pentagon",
       "slug": "2026-04-28-google-signs-a-i-deal-with-the-pentagon.html",
@@ -160,6 +466,15 @@
       "path": "posts/2026-04-28-why-does-elon-musk-talk-so-much-about-saving-humanity.html",
       "date_iso": "2026-04-28T19:55:10+00:00",
       "source": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/why-does-elon-musk-talk-so-much-about-saving-humanity",
+      "summary": "Elon Musk has said that he founded SpaceX, his rocket manufacturer, to take humans to Mars."
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/why-does-elon-musk-talk-so-much-about-saving-humanity",
+      "title": "Why does Elon Musk talk so much about saving humanity?",
+      "slug": "2026-04-28-why-does-elon-musk-talk-so-much-about-saving-humanity.html",
+      "path": "posts/2026-04-28-why-does-elon-musk-talk-so-much-about-saving-humanity.html",
+      "date_iso": "2026-04-28T19:55:10+00:00",
+      "source": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/why-does-elon-musk-talk-so-much-about-saving-humanity",
       "summary": "Elon Musk has said that he founded SpaceX, his rocket manufacturer, to take humans to Mars."
     },
     {
