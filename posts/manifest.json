@@ -1,6 +1,222 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47972213",
+      "title": "Canonical/Ubuntu have been under DDoS for more than 15h",
+      "slug": "2026-05-01-canonical-ubuntu-have-been-under-ddos-for-more-than-15h.html",
+      "path": "posts/2026-05-01-canonical-ubuntu-have-been-under-ddos-for-more-than-15h.html",
+      "date_iso": "2026-05-01T07:44:17+00:00",
+      "source": "https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==",
+      "summary": "Article URL: https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw== Comments URL: https://news.ycombinator.com/item?id=47972213 Points: 27 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47971830",
+      "title": "It’s Toasted",
+      "slug": "2026-05-01-it-s-toasted.html",
+      "path": "posts/2026-05-01-it-s-toasted.html",
+      "date_iso": "2026-05-01T06:34:54+00:00",
+      "source": "https://yadin.com/notes/toasted/",
+      "summary": "Article URL: https://yadin.com/notes/toasted/ Comments URL: https://news.ycombinator.com/item?id=47971830 Points: 36 # Comments: 24"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47971771",
+      "title": "If I Could Make My Own GitHub",
+      "slug": "2026-05-01-if-i-could-make-my-own-github.html",
+      "path": "posts/2026-05-01-if-i-could-make-my-own-github.html",
+      "date_iso": "2026-05-01T06:21:01+00:00",
+      "source": "https://matduggan.com/if-i-could-make-my-own-github/",
+      "summary": "Article URL: https://matduggan.com/if-i-could-make-my-own-github/ Comments URL: https://news.ycombinator.com/item?id=47971771 Points: 13 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47970622",
+      "title": "OpenWarp",
+      "slug": "2026-05-01-openwarp.html",
+      "path": "posts/2026-05-01-openwarp.html",
+      "date_iso": "2026-05-01T02:10:46+00:00",
+      "source": "https://openwarp.zerx.dev",
+      "summary": "Article URL: https://openwarp.zerx.dev Comments URL: https://news.ycombinator.com/item?id=47970622 Points: 85 # Comments: 74"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47970089",
+      "title": "ClawIRC – IRC Chat for Agents",
+      "slug": "2026-05-01-clawirc-irc-chat-for-agents.html",
+      "path": "posts/2026-05-01-clawirc-irc-chat-for-agents.html",
+      "date_iso": "2026-05-01T00:29:57+00:00",
+      "source": "https://clawirc.com/",
+      "summary": "Article URL: https://clawirc.com/ Comments URL: https://news.ycombinator.com/item?id=47970089 Points: 6 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/video/technology/100000010865043/musk-vs-altman-what-is-this-really-about.html",
+      "title": "Musk vs. Altman: What Is This Really About?",
+      "slug": "2026-05-01-musk-vs-altman-what-is-this-really-about.html",
+      "path": "posts/2026-05-01-musk-vs-altman-what-is-this-really-about.html",
+      "date_iso": "2026-05-01T00:01:39+00:00",
+      "source": "https://www.nytimes.com/video/technology/100000010865043/musk-vs-altman-what-is-this-really-about.html",
+      "summary": "In a landmark trial between Elon Musk and OpenAI’s Sam Altman, the origins of OpenAI are being examined. The Times’s technology reporter Cade Metz explains what’s behind it all."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/30/technology/openai-trial-elon-musk-existential.html",
+      "title": "Elon Musk’s A.I. Claims of Danger Face Limits in OpenAI Trial",
+      "slug": "2026-04-30-elon-musk-s-a-i-claims-of-danger-face-limits-in-openai-trial.html",
+      "path": "posts/2026-04-30-elon-musk-s-a-i-claims-of-danger-face-limits-in-openai-trial.html",
+      "date_iso": "2026-04-30T23:24:17+00:00",
+      "source": "https://www.nytimes.com/2026/04/30/technology/openai-trial-elon-musk-existential.html",
+      "summary": "Elon Musk returned to the witness stand in federal court for a third day on Thursday in what is expected to be a monthlong trial."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/30/technology/iphones-apple-sales.html",
+      "title": "Apple Reports 17% Sales Jump, Powered by iPhones",
+      "slug": "2026-04-30-apple-reports-17-sales-jump-powered-by-iphones.html",
+      "path": "posts/2026-04-30-apple-reports-17-sales-jump-powered-by-iphones.html",
+      "date_iso": "2026-04-30T23:22:26+00:00",
+      "source": "https://www.nytimes.com/2026/04/30/technology/iphones-apple-sales.html",
+      "summary": "Apple’s quarterly results on Thursday topped Wall Street’s expectations."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47969288",
+      "title": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
+      "slug": "2026-04-30-cpanel-and-whm-authentication-bypass-cve-2026-41940.html",
+      "path": "posts/2026-04-30-cpanel-and-whm-authentication-bypass-cve-2026-41940.html",
+      "date_iso": "2026-04-30T22:48:51+00:00",
+      "source": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
+      "summary": "Article URL: https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/ Comments URL: https://news.ycombinator.com/item?id=47969288 Points: 100 # Comments: 36"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47968982",
+      "title": "Snowball Earth may hide a far stranger climate cycle than anyone expected",
+      "slug": "2026-04-30-snowball-earth-may-hide-a-far-stranger-climate-cycle-than-anyone-expected.html",
+      "path": "posts/2026-04-30-snowball-earth-may-hide-a-far-stranger-climate-cycle-than-anyone-expected.html",
+      "date_iso": "2026-04-30T22:18:57+00:00",
+      "source": "https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html",
+      "summary": "Article URL: https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html Comments URL: https://news.ycombinator.com/item?id=47968982 Points: 80 # Comments: 24"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47967786",
+      "title": "Can I disable all data collection from my vehicle?",
+      "slug": "2026-04-30-can-i-disable-all-data-collection-from-my-vehicle.html",
+      "path": "posts/2026-04-30-can-i-disable-all-data-collection-from-my-vehicle.html",
+      "date_iso": "2026-04-30T20:27:22+00:00",
+      "source": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+      "summary": "Article URL: https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle Comments URL: https://news.ycombinator.com/item?id=47967786 Points: 622 # Comments: 251"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47966625",
+      "title": "Does Postgres Scale?",
+      "slug": "2026-04-30-does-postgres-scale.html",
+      "path": "posts/2026-04-30-does-postgres-scale.html",
+      "date_iso": "2026-04-30T18:45:22+00:00",
+      "source": "https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres",
+      "summary": "Article URL: https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres Comments URL: https://news.ycombinator.com/item?id=47966625 Points: 130 # Comments: 58"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47966254",
+      "title": "Full-Text Search with DuckDB",
+      "slug": "2026-04-30-full-text-search-with-duckdb.html",
+      "path": "posts/2026-04-30-full-text-search-with-duckdb.html",
+      "date_iso": "2026-04-30T18:14:18+00:00",
+      "source": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
+      "summary": "Article URL: https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html Comments URL: https://news.ycombinator.com/item?id=47966254 Points: 131 # Comments: 30"
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/heres-the-latest",
+      "title": "Here’s the latest.",
+      "slug": "2026-04-30-here-s-the-latest.html",
+      "path": "posts/2026-04-30-here-s-the-latest.html",
+      "date_iso": "2026-04-30T17:48:32+00:00",
+      "source": "https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/heres-the-latest",
+      "summary": ""
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47965503",
+      "title": "I built a Game Boy emulator in F#",
+      "slug": "2026-04-30-i-built-a-game-boy-emulator-in-f.html",
+      "path": "posts/2026-04-30-i-built-a-game-boy-emulator-in-f.html",
+      "date_iso": "2026-04-30T17:14:21+00:00",
+      "source": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+      "summary": "Article URL: https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/ Comments URL: https://news.ycombinator.com/item?id=47965503 Points: 272 # Comments: 63"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47965108",
+      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
+      "slug": "2026-04-30-for-linux-kernel-vulnerabilities-there-is-no-heads-up-to-distributions.html",
+      "path": "posts/2026-04-30-for-linux-kernel-vulnerabilities-there-is-no-heads-up-to-distributions.html",
+      "date_iso": "2026-04-30T16:43:47+00:00",
+      "source": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+      "summary": "Recent: Copy Fail - https://news.ycombinator.com/item?id=47952181 - April 2026 (466 comments) Comments URL: https://news.ycombinator.com/item?id=47965108 Points: 491 # Comments: 376"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47965060",
+      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+      "slug": "2026-04-30-how-mark-klein-told-the-eff-about-room-641a-book-excerpt.html",
+      "path": "posts/2026-04-30-how-mark-klein-told-the-eff-about-room-641a-book-excerpt.html",
+      "date_iso": "2026-04-30T16:41:00+00:00",
+      "source": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+      "summary": "Article URL: https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/ Comments URL: https://news.ycombinator.com/item?id=47965060 Points: 583 # Comments: 191"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47964617",
+      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "slug": "2026-04-30-shai-hulud-themed-malware-found-in-the-pytorch-lightning-ai-training-library.html",
+      "path": "posts/2026-04-30-shai-hulud-themed-malware-found-in-the-pytorch-lightning-ai-training-library.html",
+      "date_iso": "2026-04-30T16:09:26+00:00",
+      "source": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+      "summary": "Article URL: https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/ Comments URL: https://news.ycombinator.com/item?id=47964617 Points: 393 # Comments: 133"
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/elon-musk-suffered-a-rare-loss-in-his-last-jury-trial",
+      "title": "Elon Musk suffered a rare loss in his last jury trial.",
+      "slug": "2026-04-30-elon-musk-suffered-a-rare-loss-in-his-last-jury-trial.html",
+      "path": "posts/2026-04-30-elon-musk-suffered-a-rare-loss-in-his-last-jury-trial.html",
+      "date_iso": "2026-04-30T15:14:16+00:00",
+      "source": "https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/elon-musk-suffered-a-rare-loss-in-his-last-jury-trial",
+      "summary": "Elon Musk arriving at the Phillip Burton Federal Building and U.S. Courthouse in San Francisco in March."
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/musk-says-he-was-a-fool-to-provide-openais-early-funding",
+      "title": "Musk says he ‘was a fool’ to provide OpenAI’s early funding.",
+      "slug": "2026-04-30-musk-says-he-was-a-fool-to-provide-openai-s-early-funding.html",
+      "path": "posts/2026-04-30-musk-says-he-was-a-fool-to-provide-openai-s-early-funding.html",
+      "date_iso": "2026-04-30T14:59:17+00:00",
+      "source": "https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/musk-says-he-was-a-fool-to-provide-openais-early-funding",
+      "summary": "Elon Musk’s testimony grew testy during cross-examination from OpenAI’s lawyer"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47963204",
+      "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+      "slug": "2026-04-30-claude-code-refuses-requests-or-charges-extra-if-your-commits-mention-openclaw.html",
+      "path": "posts/2026-04-30-claude-code-refuses-requests-or-charges-extra-if-your-commits-mention-openclaw.html",
+      "date_iso": "2026-04-30T14:36:58+00:00",
+      "source": "https://twitter.com/theo/status/2049645973350363168",
+      "summary": "https://xcancel.com/theo/status/2049645973350363168 Comments URL: https://news.ycombinator.com/item?id=47963204 Points: 1142 # Comments: 625"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47962548",
+      "title": "How an oil refinery works",
+      "slug": "2026-04-30-how-an-oil-refinery-works.html",
+      "path": "posts/2026-04-30-how-an-oil-refinery-works.html",
+      "date_iso": "2026-04-30T13:54:20+00:00",
+      "source": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
+      "summary": "Article URL: https://www.construction-physics.com/p/how-an-oil-refinery-works Comments URL: https://news.ycombinator.com/item?id=47962548 Points: 411 # Comments: 124"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47961378",
+      "title": "I aggregated 28 US Government auction sites into one search",
+      "slug": "2026-04-30-i-aggregated-28-us-government-auction-sites-into-one-search.html",
+      "path": "posts/2026-04-30-i-aggregated-28-us-government-auction-sites-into-one-search.html",
+      "date_iso": "2026-04-30T12:24:53+00:00",
+      "source": "https://bidprowl.com",
+      "summary": "Article URL: https://bidprowl.com Comments URL: https://news.ycombinator.com/item?id=47961378 Points: 279 # Comments: 77"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47961319",
+      "title": "Belgium stops decommissioning nuclear power plants",
+      "slug": "2026-04-30-belgium-stops-decommissioning-nuclear-power-plants.html",
+      "path": "posts/2026-04-30-belgium-stops-decommissioning-nuclear-power-plants.html",
+      "date_iso": "2026-04-30T12:17:14+00:00",
+      "source": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
+      "summary": "Article URL: https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/ Comments URL: https://news.ycombinator.com/item?id=47961319 Points: 810 # Comments: 818"
+    },
+    {
       "id": "https://www.nytimes.com/2026/04/30/style/palantir-ai-coat-french-chore-coat.html",
       "title": "Palantir Is Making a French Chore Coat. Yes, That Palantir.",
       "slug": "2026-04-30-palantir-is-making-a-french-chore-coat-yes-that-palantir.html",
@@ -17,6 +233,15 @@
       "date_iso": "2026-04-30T09:01:47+00:00",
       "source": "https://www.nytimes.com/2026/04/30/technology/personaltech/phone-addiction-remedies.html",
       "summary": "Counting minutes is a poor way to curb phone habits. Real antidotes, experts say, include mindful parenting, curated content and human connection."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/04/30/travel/ai-travel-plan-gemini-vacation.html",
+      "title": "How Good Is Google’s Gemini AI at Making Travel Plans?",
+      "slug": "2026-04-30-how-good-is-google-s-gemini-ai-at-making-travel-plans.html",
+      "path": "posts/2026-04-30-how-good-is-google-s-gemini-ai-at-making-travel-plans.html",
+      "date_iso": "2026-04-30T09:01:13+00:00",
+      "source": "https://www.nytimes.com/2026/04/30/travel/ai-travel-plan-gemini-vacation.html",
+      "summary": "Gemini is a digital Swiss Army knife for planning flights, activities and routes, but it isn’t perfect. Why did it forget to put underwear on the packing list?"
     },
     {
       "id": "https://news.ycombinator.com/item?id=47959463",
@@ -253,6 +478,15 @@
       "summary": "Judge Yvonne Gonzalez Rogers of the U.S. District Court for the Northern District of California."
     },
     {
+      "id": "https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/who-is-the-judge-in-the-case",
+      "title": "Who is the judge in the case?",
+      "slug": "2026-04-29-who-is-the-judge-in-the-case.html",
+      "path": "posts/2026-04-29-who-is-the-judge-in-the-case.html",
+      "date_iso": "2026-04-29T17:41:36+00:00",
+      "source": "https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/who-is-the-judge-in-the-case",
+      "summary": "Judge Yvonne Gonzalez Rogers of the U.S. District Court for the Northern District of California."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47951137",
       "title": "Laws of UX",
       "slug": "2026-04-29-laws-of-ux.html",
@@ -286,6 +520,15 @@
       "path": "posts/2026-04-29-et-tu-brute-what-elon-musk-s-clash-with-sam-altman-is-really-about.html",
       "date_iso": "2026-04-29T14:35:23+00:00",
       "source": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/et-tu-brute-what-elon-musks-clash-with-sam-altman-is-really-about",
+      "summary": "OpenAI is at the center of the clash between Elon Musk and Sam Altman."
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/et-tu-brute-what-elon-musks-clash-with-sam-altman-is-really-about",
+      "title": "Et tu, Brute? What Elon Musk’s clash with Sam Altman is really about.",
+      "slug": "2026-04-29-et-tu-brute-what-elon-musk-s-clash-with-sam-altman-is-really-about.html",
+      "path": "posts/2026-04-29-et-tu-brute-what-elon-musk-s-clash-with-sam-altman-is-really-about.html",
+      "date_iso": "2026-04-29T14:35:23+00:00",
+      "source": "https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/et-tu-brute-what-elon-musks-clash-with-sam-altman-is-really-about",
       "summary": "OpenAI is at the center of the clash between Elon Musk and Sam Altman."
     },
     {
