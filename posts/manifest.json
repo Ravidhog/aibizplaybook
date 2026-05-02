@@ -1,6 +1,222 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47983485",
+      "title": "Show HN: Stop playing my matchstick puzzles, start building your own in seconds",
+      "slug": "2026-05-02-show-hn-stop-playing-my-matchstick-puzzles-start-building-your-own-in-seconds.html",
+      "path": "posts/2026-05-02-show-hn-stop-playing-my-matchstick-puzzles-start-building-your-own-in-seconds.html",
+      "date_iso": "2026-05-02T05:04:39+00:00",
+      "source": "https://mathstick.github.io",
+      "summary": "Article URL: https://mathstick.github.io Comments URL: https://news.ycombinator.com/item?id=47983485 Points: 6 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47983385",
+      "title": "CollectWise (YC F24) Is Hiring",
+      "slug": "2026-05-02-collectwise-yc-f24-is-hiring.html",
+      "path": "posts/2026-05-02-collectwise-yc-f24-is-hiring.html",
+      "date_iso": "2026-05-02T04:43:20+00:00",
+      "source": "https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer Comments URL: https://news.ycombinator.com/item?id=47983385 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47983352",
+      "title": "Why does it take so long to release black fan versions?",
+      "slug": "2026-05-02-why-does-it-take-so-long-to-release-black-fan-versions.html",
+      "path": "posts/2026-05-02-why-does-it-take-so-long-to-release-black-fan-versions.html",
+      "date_iso": "2026-05-02T04:38:04+00:00",
+      "source": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
+      "summary": "Article URL: https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions Comments URL: https://news.ycombinator.com/item?id=47983352 Points: 140 # Comments: 64"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47983226",
+      "title": "Ask.com has closed",
+      "slug": "2026-05-02-ask-com-has-closed.html",
+      "path": "posts/2026-05-02-ask-com-has-closed.html",
+      "date_iso": "2026-05-02T04:12:35+00:00",
+      "source": "https://www.ask.com/",
+      "summary": "Article URL: https://www.ask.com/ Comments URL: https://news.ycombinator.com/item?id=47983226 Points: 232 # Comments: 118"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47983176",
+      "title": "K3k: Kubernetes in Kubernetes",
+      "slug": "2026-05-02-k3k-kubernetes-in-kubernetes.html",
+      "path": "posts/2026-05-02-k3k-kubernetes-in-kubernetes.html",
+      "date_iso": "2026-05-02T04:00:42+00:00",
+      "source": "https://github.com/rancher/k3k",
+      "summary": "Article URL: https://github.com/rancher/k3k Comments URL: https://news.ycombinator.com/item?id=47983176 Points: 36 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47982763",
+      "title": "Create an MP4 video of a web page scrolling at a steady speed",
+      "slug": "2026-05-02-create-an-mp4-video-of-a-web-page-scrolling-at-a-steady-speed.html",
+      "path": "posts/2026-05-02-create-an-mp4-video-of-a-web-page-scrolling-at-a-steady-speed.html",
+      "date_iso": "2026-05-02T02:26:38+00:00",
+      "source": "https://github.com/upenn/web-scroll-video",
+      "summary": "Article URL: https://github.com/upenn/web-scroll-video Comments URL: https://news.ycombinator.com/item?id=47982763 Points: 25 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47982708",
+      "title": "I built the Playwright for desktop apps. 80% token savings",
+      "slug": "2026-05-02-i-built-the-playwright-for-desktop-apps-80-token-savings.html",
+      "path": "posts/2026-05-02-i-built-the-playwright-for-desktop-apps-80-token-savings.html",
+      "date_iso": "2026-05-02T02:18:24+00:00",
+      "source": "https://github.com/lahfir/agent-desktop",
+      "summary": "Article URL: https://github.com/lahfir/agent-desktop Comments URL: https://news.ycombinator.com/item?id=47982708 Points: 60 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47982512",
+      "title": "Job Postings for Software Engineers Are Rapidly Rising",
+      "slug": "2026-05-02-job-postings-for-software-engineers-are-rapidly-rising.html",
+      "path": "posts/2026-05-02-job-postings-for-software-engineers-are-rapidly-rising.html",
+      "date_iso": "2026-05-02T01:46:24+00:00",
+      "source": "https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/",
+      "summary": "Article URL: https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/ Comments URL: https://news.ycombinator.com/item?id=47982512 Points: 186 # Comments: 104"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47981669",
+      "title": "A Report on Burnout in Open Source Software Communities (2025) [pdf]",
+      "slug": "2026-05-01-a-report-on-burnout-in-open-source-software-communities-2025-pdf.html",
+      "path": "posts/2026-05-01-a-report-on-burnout-in-open-source-software-communities-2025-pdf.html",
+      "date_iso": "2026-05-01T23:24:10+00:00",
+      "source": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf",
+      "summary": "Article URL: https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf Comments URL: https://news.ycombinator.com/item?id=47981669 Points: 67 # Comments: 14"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/01/technology/elon-musk-spacex-private-company-stock.html",
+      "title": "Why So Many People Already Own Shares of Elon Musk’s SpaceX",
+      "slug": "2026-05-01-why-so-many-people-already-own-shares-of-elon-musk-s-spacex.html",
+      "path": "posts/2026-05-01-why-so-many-people-already-own-shares-of-elon-musk-s-spacex.html",
+      "date_iso": "2026-05-01T20:32:45+00:00",
+      "source": "https://www.nytimes.com/2026/05/01/technology/elon-musk-spacex-private-company-stock.html",
+      "summary": "Even before the rocket company holds a major initial public offering, many people own stock in it through so-called special purpose vehicles."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47979583",
+      "title": "Ti-84 Evo",
+      "slug": "2026-05-01-ti-84-evo.html",
+      "path": "posts/2026-05-01-ti-84-evo.html",
+      "date_iso": "2026-05-01T20:06:59+00:00",
+      "source": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
+      "summary": "Article URL: https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo Comments URL: https://news.ycombinator.com/item?id=47979583 Points: 428 # Comments: 372"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47979190",
+      "title": "Whimsical Animations Course Open House",
+      "slug": "2026-05-01-whimsical-animations-course-open-house.html",
+      "path": "posts/2026-05-01-whimsical-animations-course-open-house.html",
+      "date_iso": "2026-05-01T19:35:39+00:00",
+      "source": "https://courses.joshwcomeau.com/wham/open-house/00-introduction",
+      "summary": "Article URL: https://courses.joshwcomeau.com/wham/open-house/00-introduction Comments URL: https://news.ycombinator.com/item?id=47979190 Points: 90 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47978834",
+      "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
+      "slug": "2026-05-01-lib0xc-a-set-of-c-standard-library-adjacent-apis-for-safer-systems-programming.html",
+      "path": "posts/2026-05-01-lib0xc-a-set-of-c-standard-library-adjacent-apis-for-safer-systems-programming.html",
+      "date_iso": "2026-05-01T19:10:56+00:00",
+      "source": "https://github.com/microsoft/lib0xc",
+      "summary": "Article URL: https://github.com/microsoft/lib0xc Comments URL: https://news.ycombinator.com/item?id=47978834 Points: 141 # Comments: 50"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47978370",
+      "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "slug": "2026-05-01-city-learns-flock-accessed-cameras-in-children-s-gymnastics-room-as-a-sales-demo.html",
+      "path": "posts/2026-05-01-city-learns-flock-accessed-cameras-in-children-s-gymnastics-room-as-a-sales-demo.html",
+      "date_iso": "2026-05-01T18:37:47+00:00",
+      "source": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "summary": "Article URL: https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/ Comments URL: https://news.ycombinator.com/item?id=47978370 Points: 393 # Comments: 104"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47977748",
+      "title": "New research suggests people can communicate and practice skills while dreaming",
+      "slug": "2026-05-01-new-research-suggests-people-can-communicate-and-practice-skills-while-dreaming.html",
+      "path": "posts/2026-05-01-new-research-suggests-people-can-communicate-and-practice-skills-while-dreaming.html",
+      "date_iso": "2026-05-01T17:47:42+00:00",
+      "source": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
+      "summary": "https://archive.ph/6wKhx Comments URL: https://news.ycombinator.com/item?id=47977748 Points: 321 # Comments: 184"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47977134",
+      "title": "The gay jailbreak technique (2025)",
+      "slug": "2026-05-01-the-gay-jailbreak-technique-2025.html",
+      "path": "posts/2026-05-01-the-gay-jailbreak-technique-2025.html",
+      "date_iso": "2026-05-01T16:59:35+00:00",
+      "source": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
+      "summary": "Article URL: https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md Comments URL: https://news.ycombinator.com/item?id=47977134 Points: 507 # Comments: 206"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/01/sports/running-shoe-history-adidas-sneakers-london-marathon.html",
+      "title": "How Running Shoes Have Evolved, From Ancient Greece to a Record-Breaking Marathon Time",
+      "slug": "2026-05-01-how-running-shoes-have-evolved-from-ancient-greece-to-a-record-breaking-marathon-time.html",
+      "path": "posts/2026-05-01-how-running-shoes-have-evolved-from-ancient-greece-to-a-record-breaking-marathon-time.html",
+      "date_iso": "2026-05-01T16:35:12+00:00",
+      "source": "https://www.nytimes.com/2026/05/01/sports/running-shoe-history-adidas-sneakers-london-marathon.html",
+      "summary": "The race to near-weightlessness has been a driving force of innovation in running sneakers and helped lead to records shattering at the London Marathon."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47976566",
+      "title": "Apocalypse Early Warning System",
+      "slug": "2026-05-01-apocalypse-early-warning-system.html",
+      "path": "posts/2026-05-01-apocalypse-early-warning-system.html",
+      "date_iso": "2026-05-01T16:21:23+00:00",
+      "source": "https://ews.kylemcdonald.net/",
+      "summary": "Article URL: https://ews.kylemcdonald.net/ Comments URL: https://news.ycombinator.com/item?id=47976566 Points: 174 # Comments: 89"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/01/us/politics/pentagon-ai-companies-deals.html",
+      "title": "Pentagon Makes Deals With A.I. Companies to Expand Classified Work",
+      "slug": "2026-05-01-pentagon-makes-deals-with-a-i-companies-to-expand-classified-work.html",
+      "path": "posts/2026-05-01-pentagon-makes-deals-with-a-i-companies-to-expand-classified-work.html",
+      "date_iso": "2026-05-01T15:59:40+00:00",
+      "source": "https://www.nytimes.com/2026/05/01/us/politics/pentagon-ai-companies-deals.html",
+      "summary": "Anthropic and the Pentagon have been locked in a debate over whether the company’s A.I. model could be used to pilot autonomous drones or work on domestic surveillance."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47975676",
+      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+      "slug": "2026-05-01-i-m-peter-roberts-immigration-attorney-who-does-work-for-yc-and-startups-ama.html",
+      "path": "posts/2026-05-01-i-m-peter-roberts-immigration-attorney-who-does-work-for-yc-and-startups-ama.html",
+      "date_iso": "2026-05-01T15:07:02+00:00",
+      "source": "https://news.ycombinator.com/item?id=47975676",
+      "summary": "I'll be here for the next 6 hours. As usual, there are lots of possible topics and I'll be guided by whatever you're interested in. Please remember that I can't provide legal advice on specific cases because I won't have access to all the facts. Please try to stick to a factual…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47975592",
+      "title": "Whohas – Command-line utility for cross-distro, cross-repository package search",
+      "slug": "2026-05-01-whohas-command-line-utility-for-cross-distro-cross-repository-package-search.html",
+      "path": "posts/2026-05-01-whohas-command-line-utility-for-cross-distro-cross-repository-package-search.html",
+      "date_iso": "2026-05-01T15:01:08+00:00",
+      "source": "https://github.com/whohas/whohas",
+      "summary": "Article URL: https://github.com/whohas/whohas Comments URL: https://news.ycombinator.com/item?id=47975592 Points: 142 # Comments: 33"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47975571",
+      "title": "Ask HN: Who is hiring? (May 2026)",
+      "slug": "2026-05-01-ask-hn-who-is-hiring-may-2026.html",
+      "path": "posts/2026-05-01-ask-hn-who-is-hiring-may-2026.html",
+      "date_iso": "2026-05-01T15:00:07+00:00",
+      "source": "https://news.ycombinator.com/item?id=47975571",
+      "summary": "Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option. Please only post if you personally are part of the hiring company—no recruiting firms or job boards. One post per comp…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/01/podcasts/hardfork-openai-doctors-talkie.html",
+      "title": "OpenAI’s Big Reset + A.I. in the Doctor’s Office + Talkie, a pre-1930s LLM",
+      "slug": "2026-05-01-openai-s-big-reset-a-i-in-the-doctor-s-office-talkie-a-pre-1930s-llm.html",
+      "path": "posts/2026-05-01-openai-s-big-reset-a-i-in-the-doctor-s-office-talkie-a-pre-1930s-llm.html",
+      "date_iso": "2026-05-01T11:00:03+00:00",
+      "source": "https://www.nytimes.com/2026/05/01/podcasts/hardfork-openai-doctors-talkie.html",
+      "summary": "Will the rising tide of A.I. adoption lift all boats?"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47972511",
+      "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+      "slug": "2026-05-01-show-hn-whatcable-a-tiny-menu-bar-app-for-inspecting-usb-c-cables.html",
+      "path": "posts/2026-05-01-show-hn-whatcable-a-tiny-menu-bar-app-for-inspecting-usb-c-cables.html",
+      "date_iso": "2026-05-01T08:43:45+00:00",
+      "source": "https://github.com/darrylmorley/whatcable",
+      "summary": "USB-C cables can be a mess. One cable charges at 5W, another does 100W and Thunderbolt 4, and they look identical in the drawer. WhatCable sits in your menu bar and reads the cable data your Mac already has access to. Plug in a cable and it tells you in plain English what it can…"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47972213",
       "title": "Canonical/Ubuntu have been under DDoS for more than 15h",
       "slug": "2026-05-01-canonical-ubuntu-have-been-under-ddos-for-more-than-15h.html",
