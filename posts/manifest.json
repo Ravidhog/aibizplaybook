@@ -1,6 +1,177 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=47994150",
+      "title": "Musk's AI told me people were coming to kill me (BBC)",
+      "slug": "2026-05-03-musk-s-ai-told-me-people-were-coming-to-kill-me-bbc.html",
+      "path": "posts/2026-05-03-musk-s-ai-told-me-people-were-coming-to-kill-me-bbc.html",
+      "date_iso": "2026-05-03T06:57:14+00:00",
+      "source": "https://www.bbc.com/news/articles/c242pzr1zp2o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c242pzr1zp2o Comments URL: https://news.ycombinator.com/item?id=47994150 Points: 14 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47994012",
+      "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
+      "slug": "2026-05-03-specsmaxxing-on-overcoming-ai-psychosis-and-why-i-write-specs-in-yaml.html",
+      "path": "posts/2026-05-03-specsmaxxing-on-overcoming-ai-psychosis-and-why-i-write-specs-in-yaml.html",
+      "date_iso": "2026-05-03T06:33:38+00:00",
+      "source": "https://acai.sh/blog/specsmaxxing",
+      "summary": "Article URL: https://acai.sh/blog/specsmaxxing Comments URL: https://news.ycombinator.com/item?id=47994012 Points: 69 # Comments: 48"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47993235",
+      "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+      "slug": "2026-05-03-kimi-k2-6-just-beat-claude-gpt-5-5-and-gemini-in-a-coding-challenge.html",
+      "path": "posts/2026-05-03-kimi-k2-6-just-beat-claude-gpt-5-5-and-gemini-in-a-coding-challenge.html",
+      "date_iso": "2026-05-03T04:05:28+00:00",
+      "source": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+      "summary": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/ Comments URL: https://news.ycombinator.com/item?id=47993235 Points: 254 # Comments: 114"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47992802",
+      "title": "AI, Intimacy, and the Data You Never Meant to Share",
+      "slug": "2026-05-03-ai-intimacy-and-the-data-you-never-meant-to-share.html",
+      "path": "posts/2026-05-03-ai-intimacy-and-the-data-you-never-meant-to-share.html",
+      "date_iso": "2026-05-03T02:42:43+00:00",
+      "source": "https://fshot.org/techzone/the-algorithm-knows.php",
+      "summary": "Article URL: https://fshot.org/techzone/the-algorithm-knows.php Comments URL: https://news.ycombinator.com/item?id=47992802 Points: 22 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47992772",
+      "title": "Open source does not imply open community",
+      "slug": "2026-05-03-open-source-does-not-imply-open-community.html",
+      "path": "posts/2026-05-03-open-source-does-not-imply-open-community.html",
+      "date_iso": "2026-05-03T02:36:09+00:00",
+      "source": "https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/",
+      "summary": "Article URL: https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/ Comments URL: https://news.ycombinator.com/item?id=47992772 Points: 155 # Comments: 43"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47992446",
+      "title": "Care homes and hotels in Japan shut as expansion strategy unravels",
+      "slug": "2026-05-03-care-homes-and-hotels-in-japan-shut-as-expansion-strategy-unravels.html",
+      "path": "posts/2026-05-03-care-homes-and-hotels-in-japan-shut-as-expansion-strategy-unravels.html",
+      "date_iso": "2026-05-03T01:38:38+00:00",
+      "source": "https://www.newsonjapan.com/article/149075.php",
+      "summary": "Article URL: https://www.newsonjapan.com/article/149075.php Comments URL: https://news.ycombinator.com/item?id=47992446 Points: 37 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47992349",
+      "title": "Maryland to ban A.I.-driven price increases in grocery stores",
+      "slug": "2026-05-03-maryland-to-ban-a-i-driven-price-increases-in-grocery-stores.html",
+      "path": "posts/2026-05-03-maryland-to-ban-a-i-driven-price-increases-in-grocery-stores.html",
+      "date_iso": "2026-05-03T01:24:09+00:00",
+      "source": "https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html Comments URL: https://news.ycombinator.com/item?id=47992349 Points: 144 # Comments: 91"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47991802",
+      "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
+      "slug": "2026-05-03-a-couple-million-lines-of-haskell-production-engineering-at-mercury.html",
+      "path": "posts/2026-05-03-a-couple-million-lines-of-haskell-production-engineering-at-mercury.html",
+      "date_iso": "2026-05-03T00:01:14+00:00",
+      "source": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
+      "summary": "Article URL: https://blog.haskell.org/a-couple-million-lines-of-haskell/ Comments URL: https://news.ycombinator.com/item?id=47991802 Points: 184 # Comments: 67"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47990789",
+      "title": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
+      "slug": "2026-05-02-clojurists-together-q2-2026-open-source-funding-announcement.html",
+      "path": "posts/2026-05-02-clojurists-together-q2-2026-open-source-funding-announcement.html",
+      "date_iso": "2026-05-02T21:34:49+00:00",
+      "source": "https://www.clojuriststogether.org/news/q2-2026-funding-announcement/",
+      "summary": "Article URL: https://www.clojuriststogether.org/news/q2-2026-funding-announcement/ Comments URL: https://news.ycombinator.com/item?id=47990789 Points: 101 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47990708",
+      "title": "Show HN: State of the Art of Coding Models, According to Hacker News Commenters",
+      "slug": "2026-05-02-show-hn-state-of-the-art-of-coding-models-according-to-hacker-news-commenters.html",
+      "path": "posts/2026-05-02-show-hn-state-of-the-art-of-coding-models-according-to-hacker-news-commenters.html",
+      "date_iso": "2026-05-02T21:25:05+00:00",
+      "source": "https://hnup.date/hn-sota",
+      "summary": "Hello HN, I was away from my computer for two weeks, and after coming back and reading the latest discussions on HN about coding assistants (models, harnesses), I felt very out of the loop. My normal process would have been to keep reading and figure out the latest and greatest…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47990675",
+      "title": "The agent harness belongs outside the sandbox",
+      "slug": "2026-05-02-the-agent-harness-belongs-outside-the-sandbox.html",
+      "path": "posts/2026-05-02-the-agent-harness-belongs-outside-the-sandbox.html",
+      "date_iso": "2026-05-02T21:21:27+00:00",
+      "source": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
+      "summary": "Article URL: https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox Comments URL: https://news.ycombinator.com/item?id=47990675 Points: 101 # Comments: 75"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47990606",
+      "title": "Six Years Perfecting Maps on WatchOS",
+      "slug": "2026-05-02-six-years-perfecting-maps-on-watchos.html",
+      "path": "posts/2026-05-02-six-years-perfecting-maps-on-watchos.html",
+      "date_iso": "2026-05-02T21:14:29+00:00",
+      "source": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
+      "summary": "Article URL: https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/ Comments URL: https://news.ycombinator.com/item?id=47990606 Points: 275 # Comments: 60"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47990318",
+      "title": "This Month in Ladybird - April 2026",
+      "slug": "2026-05-02-this-month-in-ladybird-april-2026.html",
+      "path": "posts/2026-05-02-this-month-in-ladybird-april-2026.html",
+      "date_iso": "2026-05-02T20:46:30+00:00",
+      "source": "https://ladybird.org/newsletter/2026-04-30/",
+      "summary": "Article URL: https://ladybird.org/newsletter/2026-04-30/ Comments URL: https://news.ycombinator.com/item?id=47990318 Points: 305 # Comments: 61"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47990284",
+      "title": "Neanderthals ran 'fat factories' 125,000 years ago (2025)",
+      "slug": "2026-05-02-neanderthals-ran-fat-factories-125-000-years-ago-2025.html",
+      "path": "posts/2026-05-02-neanderthals-ran-fat-factories-125-000-years-ago-2025.html",
+      "date_iso": "2026-05-02T20:42:20+00:00",
+      "source": "https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago",
+      "summary": "Article URL: https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago Comments URL: https://news.ycombinator.com/item?id=47990284 Points: 179 # Comments: 72"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47989883",
+      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+      "slug": "2026-05-02-vs-code-inserting-co-authored-by-copilot-into-commits-regardless-of-usage.html",
+      "path": "posts/2026-05-02-vs-code-inserting-co-authored-by-copilot-into-commits-regardless-of-usage.html",
+      "date_iso": "2026-05-02T19:57:26+00:00",
+      "source": "https://github.com/microsoft/vscode/pull/310226",
+      "summary": "Article URL: https://github.com/microsoft/vscode/pull/310226 Comments URL: https://news.ycombinator.com/item?id=47989883 Points: 1134 # Comments: 571"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47988776",
+      "title": "NetHack 5.0.0",
+      "slug": "2026-05-02-nethack-5-0-0.html",
+      "path": "posts/2026-05-02-nethack-5-0-0.html",
+      "date_iso": "2026-05-02T18:03:42+00:00",
+      "source": "https://nethack.org/v500/release.html",
+      "summary": "Article URL: https://nethack.org/v500/release.html Comments URL: https://news.ycombinator.com/item?id=47988776 Points: 444 # Comments: 138"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47988592",
+      "title": "Do_not_track",
+      "slug": "2026-05-02-do-not-track.html",
+      "path": "posts/2026-05-02-do-not-track.html",
+      "date_iso": "2026-05-02T17:40:55+00:00",
+      "source": "https://donottrack.sh/",
+      "summary": "Article URL: https://donottrack.sh/ Comments URL: https://news.ycombinator.com/item?id=47988592 Points: 304 # Comments: 99"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47988504",
+      "title": "Dav2d",
+      "slug": "2026-05-02-dav2d.html",
+      "path": "posts/2026-05-02-dav2d.html",
+      "date_iso": "2026-05-02T17:32:29+00:00",
+      "source": "https://code.videolan.org/videolan/dav2d",
+      "summary": "Article URL: https://code.videolan.org/videolan/dav2d Comments URL: https://news.ycombinator.com/item?id=47988504 Points: 459 # Comments: 123"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47984852",
+      "title": "How fast is a macOS VM, and how small could it be?",
+      "slug": "2026-05-02-how-fast-is-a-macos-vm-and-how-small-could-it-be.html",
+      "path": "posts/2026-05-02-how-fast-is-a-macos-vm-and-how-small-could-it-be.html",
+      "date_iso": "2026-05-02T09:30:49+00:00",
+      "source": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
+      "summary": "Article URL: https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/ Comments URL: https://news.ycombinator.com/item?id=47984852 Points: 246 # Comments: 86"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47983485",
       "title": "Show HN: Stop playing my matchstick puzzles, start building your own in seconds",
       "slug": "2026-05-02-show-hn-stop-playing-my-matchstick-puzzles-start-building-your-own-in-seconds.html",
