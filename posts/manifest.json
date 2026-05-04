@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=48004734",
+      "title": "Stitch together lots of little HTML pages with navigations for interactions",
+      "slug": "2026-05-04-stitch-together-lots-of-little-html-pages-with-navigations-for-interactions.html",
+      "path": "posts/2026-05-04-stitch-together-lots-of-little-html-pages-with-navigations-for-interactions.html",
+      "date_iso": "2026-05-04T04:43:36+00:00",
+      "source": "https://blog.jim-nielsen.com/2026/small-html-pages/",
+      "summary": "Article URL: https://blog.jim-nielsen.com/2026/small-html-pages/ Comments URL: https://news.ycombinator.com/item?id=48004734 Points: 39 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48004380",
+      "title": "Humanoid Robot Actuators",
+      "slug": "2026-05-04-humanoid-robot-actuators.html",
+      "path": "posts/2026-05-04-humanoid-robot-actuators.html",
+      "date_iso": "2026-05-04T03:42:09+00:00",
+      "source": "https://www.firgelli.com/pages/humanoid-robot-actuators",
+      "summary": "Article URL: https://www.firgelli.com/pages/humanoid-robot-actuators Comments URL: https://news.ycombinator.com/item?id=48004380 Points: 122 # Comments: 47"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48002938",
+      "title": "The text mode lie: why modern TUIs are a nightmare for accessibility",
+      "slug": "2026-05-03-the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility.html",
+      "path": "posts/2026-05-03-the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility.html",
+      "date_iso": "2026-05-03T23:59:02+00:00",
+      "source": "https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility",
+      "summary": "Article URL: https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility Comments URL: https://news.ycombinator.com/item?id=48002938 Points: 217 # Comments: 92"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48002777",
+      "title": "Let's Buy Spirit Air",
+      "slug": "2026-05-03-let-s-buy-spirit-air.html",
+      "path": "posts/2026-05-03-let-s-buy-spirit-air.html",
+      "date_iso": "2026-05-03T23:36:11+00:00",
+      "source": "https://letsbuyspiritair.com/",
+      "summary": "Article URL: https://letsbuyspiritair.com/ Comments URL: https://news.ycombinator.com/item?id=48002777 Points: 332 # Comments: 313"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48002607",
+      "title": "The 'Hidden' Costs of Great Abstractions",
+      "slug": "2026-05-03-the-hidden-costs-of-great-abstractions.html",
+      "path": "posts/2026-05-03-the-hidden-costs-of-great-abstractions.html",
+      "date_iso": "2026-05-03T23:12:02+00:00",
+      "source": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
+      "summary": "Article URL: https://jdgr.net/the-hidden-costs-of-great-abstractions Comments URL: https://news.ycombinator.com/item?id=48002607 Points: 163 # Comments: 60"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48002136",
+      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
+      "slug": "2026-05-03-deepclaude-claude-code-agent-loop-with-deepseek-v4-pro.html",
+      "path": "posts/2026-05-03-deepclaude-claude-code-agent-loop-with-deepseek-v4-pro.html",
+      "date_iso": "2026-05-03T22:13:20+00:00",
+      "source": "https://github.com/aattaran/deepclaude",
+      "summary": "Article URL: https://github.com/aattaran/deepclaude Comments URL: https://news.ycombinator.com/item?id=48002136 Points: 435 # Comments: 164"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48002089",
+      "title": "Introduction to Atom",
+      "slug": "2026-05-03-introduction-to-atom.html",
+      "path": "posts/2026-05-03-introduction-to-atom.html",
+      "date_iso": "2026-05-03T22:08:47+00:00",
+      "source": "https://validator.w3.org/feed/docs/atom.html",
+      "summary": "Article URL: https://validator.w3.org/feed/docs/atom.html Comments URL: https://news.ycombinator.com/item?id=48002089 Points: 92 # Comments: 33"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/03/business/costa-rica-electric-vehicle-road-trip.html",
+      "title": "Driving Electric in Costa Rica Is Surprisingly Doable",
+      "slug": "2026-05-03-driving-electric-in-costa-rica-is-surprisingly-doable.html",
+      "path": "posts/2026-05-03-driving-electric-in-costa-rica-is-surprisingly-doable.html",
+      "date_iso": "2026-05-03T19:24:12+00:00",
+      "source": "https://www.nytimes.com/2026/05/03/business/costa-rica-electric-vehicle-road-trip.html",
+      "summary": "Costa Rica requires utilities to install fast-charging stations every 50 miles on national highways. But many chargers don’t work."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48000152",
+      "title": "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
+      "slug": "2026-05-03-new-statue-in-london-attributed-to-banksy-of-a-suited-man-blinded-by-a-flag.html",
+      "path": "posts/2026-05-03-new-statue-in-london-attributed-to-banksy-of-a-suited-man-blinded-by-a-flag.html",
+      "date_iso": "2026-05-03T18:54:28+00:00",
+      "source": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
+      "summary": "Article URL: https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/ Comments URL: https://news.ycombinator.com/item?id=48000152 Points: 388 # Comments: 343"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48000028",
+      "title": "Why TUIs are back",
+      "slug": "2026-05-03-why-tuis-are-back.html",
+      "path": "posts/2026-05-03-why-tuis-are-back.html",
+      "date_iso": "2026-05-03T18:42:28+00:00",
+      "source": "https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/",
+      "summary": "Article URL: https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/ Comments URL: https://news.ycombinator.com/item?id=48000028 Points: 331 # Comments: 341"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47999656",
+      "title": "Show HN: Ableton Live MCP",
+      "slug": "2026-05-03-show-hn-ableton-live-mcp.html",
+      "path": "posts/2026-05-03-show-hn-ableton-live-mcp.html",
+      "date_iso": "2026-05-03T18:05:28+00:00",
+      "source": "https://github.com/bschoepke/ableton-live-mcp",
+      "summary": "Ever wanted to control Ableton with just your voice? Me too! I made this MCP server so I could just ask Codex to do anything in Ableton Live for me, while I was nap-trapped by my baby. The chat messages I sent to Codex to make this: in ableton, make a self reflective song, with…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47999636",
+      "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
+      "slug": "2026-05-03-byomesh-new-lora-mesh-radio-offers-100x-the-bandwidth.html",
+      "path": "posts/2026-05-03-byomesh-new-lora-mesh-radio-offers-100x-the-bandwidth.html",
+      "date_iso": "2026-05-03T18:03:14+00:00",
+      "source": "https://partyon.xyz/@nullagent/116499715071759135",
+      "summary": "Article URL: https://partyon.xyz/@nullagent/116499715071759135 Comments URL: https://news.ycombinator.com/item?id=47999636 Points: 366 # Comments: 121"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47999460",
+      "title": "I recreated the Apple Lisa computer inside an FPGA [video]",
+      "slug": "2026-05-03-i-recreated-the-apple-lisa-computer-inside-an-fpga-video.html",
+      "path": "posts/2026-05-03-i-recreated-the-apple-lisa-computer-inside-an-fpga-video.html",
+      "date_iso": "2026-05-03T17:45:47+00:00",
+      "source": "https://www.youtube.com/watch?v=8jNQDcpHc68",
+      "summary": "Article URL: https://www.youtube.com/watch?v=8jNQDcpHc68 Comments URL: https://news.ycombinator.com/item?id=47999460 Points: 102 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47998946",
+      "title": "Southwest Headquarters Tour",
+      "slug": "2026-05-03-southwest-headquarters-tour.html",
+      "path": "posts/2026-05-03-southwest-headquarters-tour.html",
+      "date_iso": "2026-05-03T17:02:13+00:00",
+      "source": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
+      "summary": "After years of flying Southwest, I recently had the opportunity to tour the headquarters in Dallas. I particularly enjoyed seeing the full-motion 737 simulators, Network Operations Center, and TechOps maintenance hangar up close. Comments URL: https://news.ycombinator.com/item?i…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47998449",
+      "title": "Bad Connection: Global telecom exploitation by covert surveillance actors",
+      "slug": "2026-05-03-bad-connection-global-telecom-exploitation-by-covert-surveillance-actors.html",
+      "path": "posts/2026-05-03-bad-connection-global-telecom-exploitation-by-covert-surveillance-actors.html",
+      "date_iso": "2026-05-03T16:15:49+00:00",
+      "source": "https://citizenlab.ca/research/uncovering-global-telecom-exploitation-by-covert-surveillance-actors/",
+      "summary": "https://www.haaretz.com/israel-news/security-aviation/2026-0... ( https://archive.ph/0QYbN ) Comments URL: https://news.ycombinator.com/item?id=47998449 Points: 148 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47997947",
+      "title": "A desktop made for one",
+      "slug": "2026-05-03-a-desktop-made-for-one.html",
+      "path": "posts/2026-05-03-a-desktop-made-for-one.html",
+      "date_iso": "2026-05-03T15:32:05+00:00",
+      "source": "https://isene.org/2026/05/Audience-of-One.html",
+      "summary": "Article URL: https://isene.org/2026/05/Audience-of-One.html Comments URL: https://news.ycombinator.com/item?id=47997947 Points: 339 # Comments: 157"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47997486",
+      "title": "Security through obscurity is not bad",
+      "slug": "2026-05-03-security-through-obscurity-is-not-bad.html",
+      "path": "posts/2026-05-03-security-through-obscurity-is-not-bad.html",
+      "date_iso": "2026-05-03T14:49:56+00:00",
+      "source": "https://mobeigi.com/blog/security/security-through-obscurity-is-not-bad/",
+      "summary": "Article URL: https://mobeigi.com/blog/security/security-through-obscurity-is-not-bad/ Comments URL: https://news.ycombinator.com/item?id=47997486 Points: 159 # Comments: 184"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47997418",
+      "title": "Mercedes-Benz commits to bringing back physical buttons",
+      "slug": "2026-05-03-mercedes-benz-commits-to-bringing-back-physical-buttons.html",
+      "path": "posts/2026-05-03-mercedes-benz-commits-to-bringing-back-physical-buttons.html",
+      "date_iso": "2026-05-03T14:43:27+00:00",
+      "source": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
+      "summary": "Article URL: https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/ Comments URL: https://news.ycombinator.com/item?id=47997418 Points: 696 # Comments: 391"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/03/business/ask-jeeves-shuts-down-internet-search-engine.html",
+      "title": "Jeeves and Ask.com Shut Down After Almost 30 Years",
+      "slug": "2026-05-03-jeeves-and-ask-com-shut-down-after-almost-30-years.html",
+      "path": "posts/2026-05-03-jeeves-and-ask-com-shut-down-after-almost-30-years.html",
+      "date_iso": "2026-05-03T14:36:36+00:00",
+      "source": "https://www.nytimes.com/2026/05/03/business/ask-jeeves-shuts-down-internet-search-engine.html",
+      "summary": "The Ask.com search engine website, with the illustration of the character Jeeves."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/03/business/electric-vehicles-costa-rica.html",
+      "title": "These Countries Embrace E.V.s to Avoid Oil Price Shocks",
+      "slug": "2026-05-03-these-countries-embrace-e-v-s-to-avoid-oil-price-shocks.html",
+      "path": "posts/2026-05-03-these-countries-embrace-e-v-s-to-avoid-oil-price-shocks.html",
+      "date_iso": "2026-05-03T09:00:36+00:00",
+      "source": "https://www.nytimes.com/2026/05/03/business/electric-vehicles-costa-rica.html",
+      "summary": "People in Costa Rica and other Latin American, Asian and African countries are increasingly buying electric vehicles to avoid spiking fuel prices."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=47994150",
       "title": "Musk's AI told me people were coming to kill me (BBC)",
       "slug": "2026-05-03-musk-s-ai-told-me-people-were-coming-to-kill-me-bbc.html",
@@ -62,6 +242,15 @@
       "date_iso": "2026-05-03T01:24:09+00:00",
       "source": "https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html",
       "summary": "Article URL: https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html Comments URL: https://news.ycombinator.com/item?id=47992349 Points: 144 # Comments: 91"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47991981",
+      "title": "OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
+      "slug": "2026-05-03-openai-s-o1-correctly-diagnosed-67-of-er-patients-vs-50-55-by-triage-doctors.html",
+      "path": "posts/2026-05-03-openai-s-o1-correctly-diagnosed-67-of-er-patients-vs-50-55-by-triage-doctors.html",
+      "date_iso": "2026-05-03T00:30:50+00:00",
+      "source": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses Comments URL: https://news.ycombinator.com/item?id=47991981 Points: 389 # Comments: 331"
     },
     {
       "id": "https://news.ycombinator.com/item?id=47991802",
@@ -161,6 +350,15 @@
       "date_iso": "2026-05-02T17:32:29+00:00",
       "source": "https://code.videolan.org/videolan/dav2d",
       "summary": "Article URL: https://code.videolan.org/videolan/dav2d Comments URL: https://news.ycombinator.com/item?id=47988504 Points: 459 # Comments: 123"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=47985589",
+      "title": "From CVS to Git, thirty years of source control",
+      "slug": "2026-05-02-from-cvs-to-git-thirty-years-of-source-control.html",
+      "path": "posts/2026-05-02-from-cvs-to-git-thirty-years-of-source-control.html",
+      "date_iso": "2026-05-02T11:51:31+00:00",
+      "source": "https://evilgeniuslabs.ca/blog/from-cvs-to-git-thirty-years-of-source-control",
+      "summary": "Article URL: https://evilgeniuslabs.ca/blog/from-cvs-to-git-thirty-years-of-source-control Comments URL: https://news.ycombinator.com/item?id=47985589 Points: 6 # Comments: 0"
     },
     {
       "id": "https://news.ycombinator.com/item?id=47984852",
