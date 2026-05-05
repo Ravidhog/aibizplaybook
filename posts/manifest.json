@@ -1,6 +1,222 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=48019219",
+      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "slug": "2026-05-05-google-chrome-silently-installs-a-4-gb-ai-model-on-your-device-without-consent.html",
+      "path": "posts/2026-05-05-google-chrome-silently-installs-a-4-gb-ai-model-on-your-device-without-consent.html",
+      "date_iso": "2026-05-05T07:34:55+00:00",
+      "source": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ Comments URL: https://news.ycombinator.com/item?id=48019219 Points: 104 # Comments: 90"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48019165",
+      "title": "The Frog for Whom the Bell Tolls",
+      "slug": "2026-05-05-the-frog-for-whom-the-bell-tolls.html",
+      "path": "posts/2026-05-05-the-frog-for-whom-the-bell-tolls.html",
+      "date_iso": "2026-05-05T07:26:18+00:00",
+      "source": "https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls",
+      "summary": "Article URL: https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls Comments URL: https://news.ycombinator.com/item?id=48019165 Points: 6 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48019163",
+      "title": "Async Rust never left the MVP state",
+      "slug": "2026-05-05-async-rust-never-left-the-mvp-state.html",
+      "path": "posts/2026-05-05-async-rust-never-left-the-mvp-state.html",
+      "date_iso": "2026-05-05T07:26:03+00:00",
+      "source": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
+      "summary": "Article URL: https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state Comments URL: https://news.ycombinator.com/item?id=48019163 Points: 74 # Comments: 30"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48019025",
+      "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
+      "slug": "2026-05-05-lessons-for-agentic-coding-what-should-we-do-when-code-is-cheap.html",
+      "path": "posts/2026-05-05-lessons-for-agentic-coding-what-should-we-do-when-code-is-cheap.html",
+      "date_iso": "2026-05-05T07:05:25+00:00",
+      "source": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
+      "summary": "Article URL: https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html Comments URL: https://news.ycombinator.com/item?id=48019025 Points: 26 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48018080",
+      "title": "Kids bypass age verification with fake moustaches",
+      "slug": "2026-05-05-kids-bypass-age-verification-with-fake-moustaches.html",
+      "path": "posts/2026-05-05-kids-bypass-age-verification-with-fake-moustaches.html",
+      "date_iso": "2026-05-05T04:36:24+00:00",
+      "source": "https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/",
+      "summary": "Article URL: https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/ Comments URL: https://news.ycombinator.com/item?id=48018080 Points: 81 # Comments: 36"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48018066",
+      "title": "About 10% of AMC movie showings sell zero tickets. This site finds them",
+      "slug": "2026-05-05-about-10-of-amc-movie-showings-sell-zero-tickets-this-site-finds-them.html",
+      "path": "posts/2026-05-05-about-10-of-amc-movie-showings-sell-zero-tickets-this-site-finds-them.html",
+      "date_iso": "2026-05-05T04:33:22+00:00",
+      "source": "https://walzr.com/empty-screenings",
+      "summary": "Article URL: https://walzr.com/empty-screenings Comments URL: https://news.ycombinator.com/item?id=48018066 Points: 136 # Comments: 105"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48018034",
+      "title": "2-D Mathematical Curves",
+      "slug": "2026-05-05-2-d-mathematical-curves.html",
+      "path": "posts/2026-05-05-2-d-mathematical-curves.html",
+      "date_iso": "2026-05-05T04:27:32+00:00",
+      "source": "https://www.2dcurves.com/",
+      "summary": "Article URL: https://www.2dcurves.com/ Comments URL: https://news.ycombinator.com/item?id=48018034 Points: 27 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48017948",
+      "title": "Train Your Own LLM from Scratch",
+      "slug": "2026-05-05-train-your-own-llm-from-scratch.html",
+      "path": "posts/2026-05-05-train-your-own-llm-from-scratch.html",
+      "date_iso": "2026-05-05T04:09:17+00:00",
+      "source": "https://github.com/angelos-p/llm-from-scratch",
+      "summary": "Article URL: https://github.com/angelos-p/llm-from-scratch Comments URL: https://news.ycombinator.com/item?id=48017948 Points: 213 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48017907",
+      "title": "Hand Drawn QR Codes",
+      "slug": "2026-05-05-hand-drawn-qr-codes.html",
+      "path": "posts/2026-05-05-hand-drawn-qr-codes.html",
+      "date_iso": "2026-05-05T04:02:01+00:00",
+      "source": "https://sethmlarson.dev/hand-drawn-qr-codes",
+      "summary": "Article URL: https://sethmlarson.dev/hand-drawn-qr-codes Comments URL: https://news.ycombinator.com/item?id=48017907 Points: 84 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48017813",
+      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
+      "slug": "2026-05-05-cve-2026-31431-copy-fail-vs-rootless-containers.html",
+      "path": "posts/2026-05-05-cve-2026-31431-copy-fail-vs-rootless-containers.html",
+      "date_iso": "2026-05-05T03:43:08+00:00",
+      "source": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+      "summary": "Article URL: https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/ Comments URL: https://news.ycombinator.com/item?id=48017813 Points: 96 # Comments: 33"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48017641",
+      "title": "Biscuit",
+      "slug": "2026-05-05-biscuit.html",
+      "path": "posts/2026-05-05-biscuit.html",
+      "date_iso": "2026-05-05T03:09:56+00:00",
+      "source": "https://github.com/yattsu/biscuit",
+      "summary": "Article URL: https://github.com/yattsu/biscuit Comments URL: https://news.ycombinator.com/item?id=48017641 Points: 34 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/04/business/anthropic-blackstone-goldman-sachs-artificial-intelligence-firm.html",
+      "title": "Anthropic and Wall Street Giants Join Forces to Create New A.I. Firm",
+      "slug": "2026-05-05-anthropic-and-wall-street-giants-join-forces-to-create-new-a-i-firm.html",
+      "path": "posts/2026-05-05-anthropic-and-wall-street-giants-join-forces-to-create-new-a-i-firm.html",
+      "date_iso": "2026-05-05T02:03:14+00:00",
+      "source": "https://www.nytimes.com/2026/05/04/business/anthropic-blackstone-goldman-sachs-artificial-intelligence-firm.html",
+      "summary": "An Anthropic office in San Francisco."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48017251",
+      "title": "The Car That Watches You Back: The Advertising Infrastructure of Modern Cars",
+      "slug": "2026-05-05-the-car-that-watches-you-back-the-advertising-infrastructure-of-modern-cars.html",
+      "path": "posts/2026-05-05-the-car-that-watches-you-back-the-advertising-infrastructure-of-modern-cars.html",
+      "date_iso": "2026-05-05T02:01:15+00:00",
+      "source": "https://nobodyaskedforthis.lol/posts/connected-car/",
+      "summary": "Article URL: https://nobodyaskedforthis.lol/posts/connected-car/ Comments URL: https://news.ycombinator.com/item?id=48017251 Points: 91 # Comments: 70"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/04/technology/musk-sec-settlement-twitter.html",
+      "title": "S.E.C. Settles Lawsuit Against Elon Musk Over His Twitter Disclosures",
+      "slug": "2026-05-05-s-e-c-settles-lawsuit-against-elon-musk-over-his-twitter-disclosures.html",
+      "path": "posts/2026-05-05-s-e-c-settles-lawsuit-against-elon-musk-over-his-twitter-disclosures.html",
+      "date_iso": "2026-05-05T01:22:06+00:00",
+      "source": "https://www.nytimes.com/2026/05/04/technology/musk-sec-settlement-twitter.html",
+      "summary": "Elon Musk arriving at federal court in San Francisco in March."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48016880",
+      "title": "Bun is being ported from Zig to Rust",
+      "slug": "2026-05-05-bun-is-being-ported-from-zig-to-rust.html",
+      "path": "posts/2026-05-05-bun-is-being-ported-from-zig-to-rust.html",
+      "date_iso": "2026-05-05T01:08:17+00:00",
+      "source": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+      "summary": "Article URL: https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5 Comments URL: https://news.ycombinator.com/item?id=48016880 Points: 476 # Comments: 335"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48016534",
+      "title": "Y Combinator's Stake in OpenAI (0.6%?)",
+      "slug": "2026-05-05-y-combinator-s-stake-in-openai-0-6.html",
+      "path": "posts/2026-05-05-y-combinator-s-stake-in-openai-0-6.html",
+      "date_iso": "2026-05-05T00:09:01+00:00",
+      "source": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
+      "summary": "Article URL: https://daringfireball.net/2026/05/y_combinators_stake_in_openai Comments URL: https://news.ycombinator.com/item?id=48016534 Points: 312 # Comments: 49"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html",
+      "title": "White House Considers Vetting A.I. Models Before They Are Released",
+      "slug": "2026-05-04-white-house-considers-vetting-a-i-models-before-they-are-released.html",
+      "path": "posts/2026-05-04-white-house-considers-vetting-a-i-models-before-they-are-released.html",
+      "date_iso": "2026-05-04T22:37:30+00:00",
+      "source": "https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html",
+      "summary": "The Trump administration’s shift in policy began after Anthropic introduced a powerful artificial intelligence model called Mythos."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/04/technology/elon-musk-greg-brockman-openai-trial.html",
+      "title": "Elon Musk’s Lawyers Ask OpenAI’s President Why He Is Worth $30 Billion",
+      "slug": "2026-05-04-elon-musk-s-lawyers-ask-openai-s-president-why-he-is-worth-30-billion.html",
+      "path": "posts/2026-05-04-elon-musk-s-lawyers-ask-openai-s-president-why-he-is-worth-30-billion.html",
+      "date_iso": "2026-05-04T22:24:31+00:00",
+      "source": "https://www.nytimes.com/2026/05/04/technology/elon-musk-greg-brockman-openai-trial.html",
+      "summary": "OpenAI’s Greg Brockman entering federal court on Monday with his wife, Anna Brockman."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48015397",
+      "title": "Agent Skills",
+      "slug": "2026-05-04-agent-skills.html",
+      "path": "posts/2026-05-04-agent-skills.html",
+      "date_iso": "2026-05-04T21:40:42+00:00",
+      "source": "https://addyosmani.com/blog/agent-skills/",
+      "summary": "Article URL: https://addyosmani.com/blog/agent-skills/ Comments URL: https://news.ycombinator.com/item?id=48015397 Points: 246 # Comments: 105"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48014868",
+      "title": "When Networking Doesn't Work",
+      "slug": "2026-05-04-when-networking-doesn-t-work.html",
+      "path": "posts/2026-05-04-when-networking-doesn-t-work.html",
+      "date_iso": "2026-05-04T20:56:19+00:00",
+      "source": "https://www.os2museum.com/wp/when-networking-doesnt-work/",
+      "summary": "Article URL: https://www.os2museum.com/wp/when-networking-doesnt-work/ Comments URL: https://news.ycombinator.com/item?id=48014868 Points: 62 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48013919",
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "slug": "2026-05-04-how-openai-delivers-low-latency-voice-ai-at-scale.html",
+      "path": "posts/2026-05-04-how-openai-delivers-low-latency-voice-ai-at-scale.html",
+      "date_iso": "2026-05-04T19:42:47+00:00",
+      "source": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "summary": "Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/ Comments URL: https://news.ycombinator.com/item?id=48013919 Points: 398 # Comments: 123"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48012735",
+      "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+      "slug": "2026-05-04-microsoft-edge-stores-all-passwords-in-memory-in-clear-text-even-when-unused.html",
+      "path": "posts/2026-05-04-microsoft-edge-stores-all-passwords-in-memory-in-clear-text-even-when-unused.html",
+      "date_iso": "2026-05-04T18:22:42+00:00",
+      "source": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
+      "summary": "Article URL: https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730 Comments URL: https://news.ycombinator.com/item?id=48012735 Points: 532 # Comments: 187"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48012162",
+      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+      "slug": "2026-05-04-securing-a-dod-contractor-finding-a-multi-tenant-authorization-vulnerability.html",
+      "path": "posts/2026-05-04-securing-a-dod-contractor-finding-a-multi-tenant-authorization-vulnerability.html",
+      "date_iso": "2026-05-04T17:46:32+00:00",
+      "source": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+      "summary": "Article URL: https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup Comments URL: https://news.ycombinator.com/item?id=48012162 Points: 195 # Comments: 81"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48011184",
+      "title": "I am worried about Bun",
+      "slug": "2026-05-04-i-am-worried-about-bun.html",
+      "path": "posts/2026-05-04-i-am-worried-about-bun.html",
+      "date_iso": "2026-05-04T16:45:00+00:00",
+      "source": "https://wwj.dev/posts/i-am-worried-about-bun/",
+      "summary": "Article URL: https://wwj.dev/posts/i-am-worried-about-bun/ Comments URL: https://news.ycombinator.com/item?id=48011184 Points: 485 # Comments: 314"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=48004734",
       "title": "Stitch together lots of little HTML pages with navigations for interactions",
       "slug": "2026-05-04-stitch-together-lots-of-little-html-pages-with-navigations-for-interactions.html",
