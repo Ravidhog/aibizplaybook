@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/05/06/business/ai-bristol-myers-squibb-drugs.html",
+      "title": "American Factories Lag in Adopting A.I. This Drugmaker Is an Exception.",
+      "slug": "2026-05-06-american-factories-lag-in-adopting-a-i-this-drugmaker-is-an-exception.html",
+      "path": "posts/2026-05-06-american-factories-lag-in-adopting-a-i-this-drugmaker-is-an-exception.html",
+      "date_iso": "2026-05-06T09:02:02+00:00",
+      "source": "https://www.nytimes.com/2026/05/06/business/ai-bristol-myers-squibb-drugs.html",
+      "summary": "At the Bristol Myers Squibb facility in Devens, Mass., scientists use automated machines to help make cancer drugs."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48033689",
+      "title": "The Boring Internet",
+      "slug": "2026-05-06-the-boring-internet.html",
+      "path": "posts/2026-05-06-the-boring-internet.html",
+      "date_iso": "2026-05-06T08:23:43+00:00",
+      "source": "https://www.terrygodier.com/the-boring-internet",
+      "summary": "Article URL: https://www.terrygodier.com/the-boring-internet Comments URL: https://news.ycombinator.com/item?id=48033689 Points: 4 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48032976",
+      "title": "Reverse-engineering the 1998 Ultima Online demo server",
+      "slug": "2026-05-06-reverse-engineering-the-1998-ultima-online-demo-server.html",
+      "path": "posts/2026-05-06-reverse-engineering-the-1998-ultima-online-demo-server.html",
+      "date_iso": "2026-05-06T06:31:29+00:00",
+      "source": "https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html",
+      "summary": "Article URL: https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html Comments URL: https://news.ycombinator.com/item?id=48032976 Points: 24 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48032617",
+      "title": "Behavior-Oriented Concurrency for Python",
+      "slug": "2026-05-06-behavior-oriented-concurrency-for-python.html",
+      "path": "posts/2026-05-06-behavior-oriented-concurrency-for-python.html",
+      "date_iso": "2026-05-06T05:34:48+00:00",
+      "source": "https://microsoft.github.io/bocpy/",
+      "summary": "Article URL: https://microsoft.github.io/bocpy/ Comments URL: https://news.ycombinator.com/item?id=48032617 Points: 8 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48032461",
+      "title": "Knitting bullshit",
+      "slug": "2026-05-06-knitting-bullshit.html",
+      "path": "posts/2026-05-06-knitting-bullshit.html",
+      "date_iso": "2026-05-06T05:13:58+00:00",
+      "source": "https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/",
+      "summary": "Article URL: https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/ Comments URL: https://news.ycombinator.com/item?id=48032461 Points: 31 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48032265",
+      "title": "Multi-stroke text effect in CSS",
+      "slug": "2026-05-06-multi-stroke-text-effect-in-css.html",
+      "path": "posts/2026-05-06-multi-stroke-text-effect-in-css.html",
+      "date_iso": "2026-05-06T04:43:25+00:00",
+      "source": "https://yuanchuan.dev/multi-stroke-text-effect-in-css",
+      "summary": "Article URL: https://yuanchuan.dev/multi-stroke-text-effect-in-css Comments URL: https://news.ycombinator.com/item?id=48032265 Points: 29 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48031867",
+      "title": "245TB Micron 6600 ION Data Center SSD Now Shipping",
+      "slug": "2026-05-06-245tb-micron-6600-ion-data-center-ssd-now-shipping.html",
+      "path": "posts/2026-05-06-245tb-micron-6600-ion-data-center-ssd-now-shipping.html",
+      "date_iso": "2026-05-06T03:37:51+00:00",
+      "source": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
+      "summary": "Article URL: https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now Comments URL: https://news.ycombinator.com/item?id=48031867 Points: 75 # Comments: 56"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48031769",
+      "title": "Ombudsman column: The Pentagon is trying to silence me",
+      "slug": "2026-05-06-ombudsman-column-the-pentagon-is-trying-to-silence-me.html",
+      "path": "posts/2026-05-06-ombudsman-column-the-pentagon-is-trying-to-silence-me.html",
+      "date_iso": "2026-05-06T03:24:49+00:00",
+      "source": "https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html",
+      "summary": "Article URL: https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html Comments URL: https://news.ycombinator.com/item?id=48031769 Points: 220 # Comments: 54"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48031684",
+      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+      "slug": "2026-05-06-agents-can-now-create-cloudflare-accounts-buy-domains-and-deploy.html",
+      "path": "posts/2026-05-06-agents-can-now-create-cloudflare-accounts-buy-domains-and-deploy.html",
+      "date_iso": "2026-05-06T03:10:33+00:00",
+      "source": "https://blog.cloudflare.com/agents-stripe-projects/",
+      "summary": "Article URL: https://blog.cloudflare.com/agents-stripe-projects/ Comments URL: https://news.ycombinator.com/item?id=48031684 Points: 296 # Comments: 167"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48031261",
+      "title": "StarFighter 16-Inch",
+      "slug": "2026-05-06-starfighter-16-inch.html",
+      "path": "posts/2026-05-06-starfighter-16-inch.html",
+      "date_iso": "2026-05-06T02:03:44+00:00",
+      "source": "https://us.starlabs.systems/pages/starfighter",
+      "summary": "Article URL: https://us.starlabs.systems/pages/starfighter Comments URL: https://news.ycombinator.com/item?id=48031261 Points: 308 # Comments: 162"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48031109",
+      "title": "Telus Uses AI to Alter Call-Agent Accents",
+      "slug": "2026-05-06-telus-uses-ai-to-alter-call-agent-accents.html",
+      "path": "posts/2026-05-06-telus-uses-ai-to-alter-call-agent-accents.html",
+      "date_iso": "2026-05-06T01:38:44+00:00",
+      "source": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+      "summary": "Article URL: https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63 Comments URL: https://news.ycombinator.com/item?id=48031109 Points: 147 # Comments: 102"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48030964",
+      "title": "YouTube, your RSS feeds are broken",
+      "slug": "2026-05-06-youtube-your-rss-feeds-are-broken.html",
+      "path": "posts/2026-05-06-youtube-your-rss-feeds-are-broken.html",
+      "date_iso": "2026-05-06T01:15:31+00:00",
+      "source": "https://openrss.org/blog/youtube-your-feeds-are-broken",
+      "summary": "Article URL: https://openrss.org/blog/youtube-your-feeds-are-broken Comments URL: https://news.ycombinator.com/item?id=48030964 Points: 118 # Comments: 45"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/05/technology/openai-trial-elon-musk-greg-brockman.html",
+      "title": "Elon Musk Wanted OpenAI to Go Commercial, Greg Brockman Testifies",
+      "slug": "2026-05-06-elon-musk-wanted-openai-to-go-commercial-greg-brockman-testifies.html",
+      "path": "posts/2026-05-06-elon-musk-wanted-openai-to-go-commercial-greg-brockman-testifies.html",
+      "date_iso": "2026-05-06T00:52:04+00:00",
+      "source": "https://www.nytimes.com/2026/05/05/technology/openai-trial-elon-musk-greg-brockman.html",
+      "summary": "OpenAI’s president, Greg Brockman, with his wife, Anna Brockman, at the federal courthouse in Oakland, Calif., on Tuesday. He testified for a second day."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48028842",
+      "title": "Write some software, give it away for free",
+      "slug": "2026-05-05-write-some-software-give-it-away-for-free.html",
+      "path": "posts/2026-05-05-write-some-software-give-it-away-for-free.html",
+      "date_iso": "2026-05-05T21:26:50+00:00",
+      "source": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
+      "summary": "Article URL: https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026 Comments URL: https://news.ycombinator.com/item?id=48028842 Points: 260 # Comments: 177"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48028546",
+      "title": "Why most product tours get skipped",
+      "slug": "2026-05-05-why-most-product-tours-get-skipped.html",
+      "path": "posts/2026-05-05-why-most-product-tours-get-skipped.html",
+      "date_iso": "2026-05-05T21:05:19+00:00",
+      "source": "https://productonboarding.com/articles/why-product-tours-get-skipped",
+      "summary": "Article URL: https://productonboarding.com/articles/why-product-tours-get-skipped Comments URL: https://news.ycombinator.com/item?id=48028546 Points: 148 # Comments: 117"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/05/technology/apple-intelligence-lawsuit-settlement.html",
+      "title": "Apple Reaches $250 Million Settlement Over Claims It Misled People on A.I.",
+      "slug": "2026-05-05-apple-reaches-250-million-settlement-over-claims-it-misled-people-on-a-i.html",
+      "path": "posts/2026-05-05-apple-reaches-250-million-settlement-over-claims-it-misled-people-on-a-i.html",
+      "date_iso": "2026-05-05T20:57:07+00:00",
+      "source": "https://www.nytimes.com/2026/05/05/technology/apple-intelligence-lawsuit-settlement.html",
+      "summary": "The Apple store at Grand Central Station in Manhattan."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48027897",
+      "title": "DNSSEC disruption affecting .de domains – Resolved",
+      "slug": "2026-05-05-dnssec-disruption-affecting-de-domains-resolved.html",
+      "path": "posts/2026-05-05-dnssec-disruption-affecting-de-domains-resolved.html",
+      "date_iso": "2026-05-05T20:16:35+00:00",
+      "source": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
+      "summary": "Article URL: https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38 Comments URL: https://news.ycombinator.com/item?id=48027897 Points: 664 # Comments: 332"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/05/technology/coinbase-layoffs-ai.html",
+      "title": "Coinbase Lays Off 14% of Employees as A.I. Changes Work",
+      "slug": "2026-05-05-coinbase-lays-off-14-of-employees-as-a-i-changes-work.html",
+      "path": "posts/2026-05-05-coinbase-lays-off-14-of-employees-as-a-i-changes-work.html",
+      "date_iso": "2026-05-05T18:19:51+00:00",
+      "source": "https://www.nytimes.com/2026/05/05/technology/coinbase-layoffs-ai.html",
+      "summary": "Coinbase, which went public in 2021, is cutting 14 percent of its work force."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48026342",
+      "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+      "slug": "2026-05-05-show-hn-explore-color-palettes-inspired-by-3000-master-painter-artworks.html",
+      "path": "posts/2026-05-05-show-hn-explore-color-palettes-inspired-by-3000-master-painter-artworks.html",
+      "date_iso": "2026-05-05T18:13:14+00:00",
+      "source": "https://paletteinspiration.com/",
+      "summary": "I built PaletteInspiration.com, a browsable archive of color palettes pulled from artworks by 3,000+ master painters (Monet, Vermeer, Raphael, Van Gogh). Why I built it: every color palette generator I tried converged on the same five muted pastels. Painters spent centuries figu…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48026021",
+      "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
+      "slug": "2026-05-05-glm-5v-turbo-toward-a-native-foundation-model-for-multimodal-agents.html",
+      "path": "posts/2026-05-05-glm-5v-turbo-toward-a-native-foundation-model-for-multimodal-agents.html",
+      "date_iso": "2026-05-05T17:52:31+00:00",
+      "source": "https://arxiv.org/abs/2604.26752",
+      "summary": "Article URL: https://arxiv.org/abs/2604.26752 Comments URL: https://news.ycombinator.com/item?id=48026021 Points: 141 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48025244",
+      "title": "Proliferate (YC S25) Is Hiring- 200k for junior engineers",
+      "slug": "2026-05-05-proliferate-yc-s25-is-hiring-200k-for-junior-engineers.html",
+      "path": "posts/2026-05-05-proliferate-yc-s25-is-hiring-200k-for-junior-engineers.html",
+      "date_iso": "2026-05-05T17:00:16+00:00",
+      "source": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer Comments URL: https://news.ycombinator.com/item?id=48025244 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48024859",
+      "title": "Computer Use is 45x more expensive than structured APIs",
+      "slug": "2026-05-05-computer-use-is-45x-more-expensive-than-structured-apis.html",
+      "path": "posts/2026-05-05-computer-use-is-45x-more-expensive-than-structured-apis.html",
+      "date_iso": "2026-05-05T16:34:48+00:00",
+      "source": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+      "summary": "Article URL: https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/ Comments URL: https://news.ycombinator.com/item?id=48024859 Points: 392 # Comments: 227"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48024540",
+      "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+      "slug": "2026-05-05-accelerating-gemma-4-faster-inference-with-multi-token-prediction-drafters.html",
+      "path": "posts/2026-05-05-accelerating-gemma-4-faster-inference-with-multi-token-prediction-drafters.html",
+      "date_iso": "2026-05-05T16:14:17+00:00",
+      "source": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/ Comments URL: https://news.ycombinator.com/item?id=48024540 Points: 563 # Comments: 267"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48024358",
+      "title": "I'm scared about biological computing",
+      "slug": "2026-05-05-i-m-scared-about-biological-computing.html",
+      "path": "posts/2026-05-05-i-m-scared-about-biological-computing.html",
+      "date_iso": "2026-05-05T16:03:06+00:00",
+      "source": "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing",
+      "summary": "Article URL: https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing Comments URL: https://news.ycombinator.com/item?id=48024358 Points: 215 # Comments: 177"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/05/business/ford-motor-electric-pickup-truck.html",
+      "title": "Ford Says an Affordable Electric Pickup Truck is Still Coming Next Year",
+      "slug": "2026-05-05-ford-says-an-affordable-electric-pickup-truck-is-still-coming-next-year.html",
+      "path": "posts/2026-05-05-ford-says-an-affordable-electric-pickup-truck-is-still-coming-next-year.html",
+      "date_iso": "2026-05-05T13:00:06+00:00",
+      "source": "https://www.nytimes.com/2026/05/05/business/ford-motor-electric-pickup-truck.html",
+      "summary": "Recharging a Mustang Mach-E, Ford’s only electric vehicle right now."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=48019219",
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
       "slug": "2026-05-05-google-chrome-silently-installs-a-4-gb-ai-model-on-your-device-without-consent.html",
