@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=48059662",
+      "title": "ClojureScript Gets Async/Await",
+      "slug": "2026-05-08-clojurescript-gets-async-await.html",
+      "path": "posts/2026-05-08-clojurescript-gets-async-await.html",
+      "date_iso": "2026-05-08T07:04:24+00:00",
+      "source": "https://clojurescript.org/news/2026-05-07-release",
+      "summary": "Article URL: https://clojurescript.org/news/2026-05-07-release Comments URL: https://news.ycombinator.com/item?id=48059662 Points: 7 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48058917",
+      "title": "HantaWatch Real time hantavirus outbreak tracker",
+      "slug": "2026-05-08-hantawatch-real-time-hantavirus-outbreak-tracker.html",
+      "path": "posts/2026-05-08-hantawatch-real-time-hantavirus-outbreak-tracker.html",
+      "date_iso": "2026-05-08T05:24:24+00:00",
+      "source": "https://hantawatch.net/",
+      "summary": "Article URL: https://hantawatch.net/ Comments URL: https://news.ycombinator.com/item?id=48058917 Points: 7 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48058644",
+      "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
+      "slug": "2026-05-08-blaise-a-modern-self-hosting-zero-legacy-object-pascal-compiler-targeting-qbe.html",
+      "path": "posts/2026-05-08-blaise-a-modern-self-hosting-zero-legacy-object-pascal-compiler-targeting-qbe.html",
+      "date_iso": "2026-05-08T04:44:02+00:00",
+      "source": "https://github.com/graemeg/blaise",
+      "summary": "Article URL: https://github.com/graemeg/blaise Comments URL: https://news.ycombinator.com/item?id=48058644 Points: 37 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48058337",
+      "title": "Digging into Drama at the Document Foundation",
+      "slug": "2026-05-08-digging-into-drama-at-the-document-foundation.html",
+      "path": "posts/2026-05-08-digging-into-drama-at-the-document-foundation.html",
+      "date_iso": "2026-05-08T03:51:59+00:00",
+      "source": "https://lwn.net/Articles/1066418/",
+      "summary": "Article URL: https://lwn.net/Articles/1066418/ Comments URL: https://news.ycombinator.com/item?id=48058337 Points: 21 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48057209",
+      "title": "GPT-5.5 Price Increase: What It Costs",
+      "slug": "2026-05-08-gpt-5-5-price-increase-what-it-costs.html",
+      "path": "posts/2026-05-08-gpt-5-5-price-increase-what-it-costs.html",
+      "date_iso": "2026-05-08T01:02:28+00:00",
+      "source": "https://openrouter.ai/announcements/gpt55-cost-analysis",
+      "summary": "Article URL: https://openrouter.ai/announcements/gpt55-cost-analysis Comments URL: https://news.ycombinator.com/item?id=48057209 Points: 31 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48056749",
+      "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
+      "slug": "2026-05-08-gnu-ifunc-is-the-real-culprit-behind-cve-2024-3094.html",
+      "path": "posts/2026-05-08-gnu-ifunc-is-the-real-culprit-behind-cve-2024-3094.html",
+      "date_iso": "2026-05-08T00:03:38+00:00",
+      "source": "https://github.com/robertdfrench/ifuncd-up",
+      "summary": "Article URL: https://github.com/robertdfrench/ifuncd-up Comments URL: https://news.ycombinator.com/item?id=48056749 Points: 72 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48056359",
+      "title": "Gambling ads on social media reach more than twice as many men as women: study",
+      "slug": "2026-05-07-gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women-study.html",
+      "path": "posts/2026-05-07-gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women-study.html",
+      "date_iso": "2026-05-07T23:17:03+00:00",
+      "source": "https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women",
+      "summary": "Article URL: https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women Comments URL: https://news.ycombinator.com/item?id=48056359 Points: 61 # Comments: 47"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48056268",
+      "title": "Plasticity and language in the anaesthetized human hippocampus",
+      "slug": "2026-05-07-plasticity-and-language-in-the-anaesthetized-human-hippocampus.html",
+      "path": "posts/2026-05-07-plasticity-and-language-in-the-anaesthetized-human-hippocampus.html",
+      "date_iso": "2026-05-07T23:06:44+00:00",
+      "source": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
+      "summary": "https://www.nature.com/articles/s41586-026-10448-0 Comments URL: https://news.ycombinator.com/item?id=48056268 Points: 99 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48056227",
+      "title": "Maybe you shouldn't install new software for a bit",
+      "slug": "2026-05-07-maybe-you-shouldn-t-install-new-software-for-a-bit.html",
+      "path": "posts/2026-05-07-maybe-you-shouldn-t-install-new-software-for-a-bit.html",
+      "date_iso": "2026-05-07T23:02:11+00:00",
+      "source": "https://xeiaso.net/blog/2026/abstain-from-install/",
+      "summary": "Article URL: https://xeiaso.net/blog/2026/abstain-from-install/ Comments URL: https://news.ycombinator.com/item?id=48056227 Points: 452 # Comments: 236"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48056158",
+      "title": "Nonprofit hospitals spend billions on consultants with no clear effect",
+      "slug": "2026-05-07-nonprofit-hospitals-spend-billions-on-consultants-with-no-clear-effect.html",
+      "path": "posts/2026-05-07-nonprofit-hospitals-spend-billions-on-consultants-with-no-clear-effect.html",
+      "date_iso": "2026-05-07T22:54:34+00:00",
+      "source": "https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants",
+      "summary": "Article URL: https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants Comments URL: https://news.ycombinator.com/item?id=48056158 Points: 141 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48055913",
+      "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
+      "slug": "2026-05-07-canvas-is-down-as-shinyhunters-threatens-to-leak-schools-data.html",
+      "path": "posts/2026-05-07-canvas-is-down-as-shinyhunters-threatens-to-leak-schools-data.html",
+      "date_iso": "2026-05-07T22:22:21+00:00",
+      "source": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+      "summary": "https://thetech.com/2026/05/07/canvas-breach-26 https://techcrunch.com/2026/05/07/hackers-deface-school-logi... Comments URL: https://news.ycombinator.com/item?id=48055913 Points: 580 # Comments: 357"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48054423",
+      "title": "Cloudflare to cut about 20% workforce",
+      "slug": "2026-05-07-cloudflare-to-cut-about-20-workforce.html",
+      "path": "posts/2026-05-07-cloudflare-to-cut-about-20-workforce.html",
+      "date_iso": "2026-05-07T20:23:37+00:00",
+      "source": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
+      "summary": "https://blog.cloudflare.com/building-for-the-future/ Comments URL: https://news.ycombinator.com/item?id=48054423 Points: 651 # Comments: 402"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48053842",
+      "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
+      "slug": "2026-05-07-two-home-affairs-officials-suspended-after-ai-hallucinations-found.html",
+      "path": "posts/2026-05-07-two-home-affairs-officials-suspended-after-ai-hallucinations-found.html",
+      "date_iso": "2026-05-07T19:38:36+00:00",
+      "source": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
+      "summary": "Article URL: https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/ Comments URL: https://news.ycombinator.com/item?id=48053842 Points: 85 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48053623",
+      "title": "Dirtyfrag: Universal Linux LPE",
+      "slug": "2026-05-07-dirtyfrag-universal-linux-lpe.html",
+      "path": "posts/2026-05-07-dirtyfrag-universal-linux-lpe.html",
+      "date_iso": "2026-05-07T19:21:32+00:00",
+      "source": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+      "summary": "Article URL: https://www.openwall.com/lists/oss-security/2026/05/07/8 Comments URL: https://news.ycombinator.com/item?id=48053623 Points: 611 # Comments: 248"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48053203",
+      "title": "AI slop is killing online communities",
+      "slug": "2026-05-07-ai-slop-is-killing-online-communities.html",
+      "path": "posts/2026-05-07-ai-slop-is-killing-online-communities.html",
+      "date_iso": "2026-05-07T18:46:25+00:00",
+      "source": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+      "summary": "Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/ Comments URL: https://news.ycombinator.com/item?id=48053203 Points: 621 # Comments: 547"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/07/business/spacex-chips-terafab.html",
+      "title": "Elon Musk’s SpaceX Plans $55 Billion Investment to Make A.I. Chips",
+      "slug": "2026-05-07-elon-musk-s-spacex-plans-55-billion-investment-to-make-a-i-chips.html",
+      "path": "posts/2026-05-07-elon-musk-s-spacex-plans-55-billion-investment-to-make-a-i-chips.html",
+      "date_iso": "2026-05-07T18:02:00+00:00",
+      "source": "https://www.nytimes.com/2026/05/07/business/spacex-chips-terafab.html",
+      "summary": "A SpaceX Starship rocket near the Starbase in Boca Chica, Texas."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48052537",
+      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "slug": "2026-05-07-natural-language-autoencoders-turning-claude-s-thoughts-into-text.html",
+      "path": "posts/2026-05-07-natural-language-autoencoders-turning-claude-s-thoughts-into-text.html",
+      "date_iso": "2026-05-07T17:54:02+00:00",
+      "source": "https://www.anthropic.com/research/natural-language-autoencoders",
+      "summary": "Article URL: https://www.anthropic.com/research/natural-language-autoencoders Comments URL: https://news.ycombinator.com/item?id=48052537 Points: 263 # Comments: 87"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48052371",
+      "title": "Brazil's Pix payment system faces pressure from Visa and Mastercard",
+      "slug": "2026-05-07-brazil-s-pix-payment-system-faces-pressure-from-visa-and-mastercard.html",
+      "path": "posts/2026-05-07-brazil-s-pix-payment-system-faces-pressure-from-visa-and-mastercard.html",
+      "date_iso": "2026-05-07T17:42:58+00:00",
+      "source": "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/",
+      "summary": "Article URL: https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/ Comments URL: https://news.ycombinator.com/item?id=48052371 Points: 176 # Comments: 145"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48051562",
+      "title": "Agents need control flow, not more prompts",
+      "slug": "2026-05-07-agents-need-control-flow-not-more-prompts.html",
+      "path": "posts/2026-05-07-agents-need-control-flow-not-more-prompts.html",
+      "date_iso": "2026-05-07T16:43:35+00:00",
+      "source": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+      "summary": "Article URL: https://bsuh.bearblog.dev/agents-need-control-flow/ Comments URL: https://news.ycombinator.com/item?id=48051562 Points: 452 # Comments: 216"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48051079",
+      "title": "Hardening Firefox with Claude Mythos Preview",
+      "slug": "2026-05-07-hardening-firefox-with-claude-mythos-preview.html",
+      "path": "posts/2026-05-07-hardening-firefox-with-claude-mythos-preview.html",
+      "date_iso": "2026-05-07T16:05:33+00:00",
+      "source": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
+      "summary": "https://arstechnica.com/information-technology/2026/05/mozil... Comments URL: https://news.ycombinator.com/item?id=48051079 Points: 171 # Comments: 86"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48050751",
+      "title": "DeepSeek 4 Flash local inference engine for Metal",
+      "slug": "2026-05-07-deepseek-4-flash-local-inference-engine-for-metal.html",
+      "path": "posts/2026-05-07-deepseek-4-flash-local-inference-engine-for-metal.html",
+      "date_iso": "2026-05-07T15:40:24+00:00",
+      "source": "https://github.com/antirez/ds4",
+      "summary": "Article URL: https://github.com/antirez/ds4 Comments URL: https://news.ycombinator.com/item?id=48050751 Points: 370 # Comments: 101"
+    },
+    {
       "id": "https://www.nytimes.com/2026/05/06/technology/robot-monk-buddhist-seoul.html",
       "title": "Meditating or Rebooting? A Robot Buddhist Monk Comes to South Korea.",
       "slug": "2026-05-07-meditating-or-rebooting-a-robot-buddhist-monk-comes-to-south-korea.html",
