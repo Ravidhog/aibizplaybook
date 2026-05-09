@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=48072720",
+      "title": "All my clients wanted a carousel, now it's an AI chatbot",
+      "slug": "2026-05-09-all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.html",
+      "path": "posts/2026-05-09-all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.html",
+      "date_iso": "2026-05-09T07:23:40+00:00",
+      "source": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md",
+      "summary": "Article URL: https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md Comments URL: https://news.ycombinator.com/item?id=48072720 Points: 20 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48072190",
+      "title": "EU calls VPNs \"a loophole that needs closing\" in age verification push",
+      "slug": "2026-05-09-eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push.html",
+      "path": "posts/2026-05-09-eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push.html",
+      "date_iso": "2026-05-09T05:52:12+00:00",
+      "source": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
+      "summary": "Article URL: https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/ Comments URL: https://news.ycombinator.com/item?id=48072190 Points: 128 # Comments: 69"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48071940",
+      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+      "slug": "2026-05-09-using-claude-code-the-unreasonable-effectiveness-of-html.html",
+      "path": "posts/2026-05-09-using-claude-code-the-unreasonable-effectiveness-of-html.html",
+      "date_iso": "2026-05-09T04:53:52+00:00",
+      "source": "https://twitter.com/trq212/status/2052809885763747935",
+      "summary": "Examples: https://thariqs.github.io/html-effectiveness/ Related: https://simonwillison.net/2026/May/8/unreasonable-effectiven... Comments URL: https://news.ycombinator.com/item?id=48071940 Points: 102 # Comments: 50"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48071496",
+      "title": "Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux",
+      "slug": "2026-05-09-over-97-of-the-linux-foundation-s-budget-goes-not-to-linux.html",
+      "path": "posts/2026-05-09-over-97-of-the-linux-foundation-s-budget-goes-not-to-linux.html",
+      "date_iso": "2026-05-09T03:21:06+00:00",
+      "source": "https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml",
+      "summary": "Article URL: https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml Comments URL: https://news.ycombinator.com/item?id=48071496 Points: 134 # Comments: 57"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48071262",
+      "title": "A recent experience with ChatGPT 5.5 Pro",
+      "slug": "2026-05-09-a-recent-experience-with-chatgpt-5-5-pro.html",
+      "path": "posts/2026-05-09-a-recent-experience-with-chatgpt-5-5-pro.html",
+      "date_iso": "2026-05-09T02:41:42+00:00",
+      "source": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+      "summary": "https://twitter.com/wtgowers/status/2052830948685676605 https://xcancel.com/wtgowers/status/2052830948685676605 Comments URL: https://news.ycombinator.com/item?id=48071262 Points: 218 # Comments: 104"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48068732",
+      "title": "Mux (YC W16) Is Hiring",
+      "slug": "2026-05-08-mux-yc-w16-is-hiring.html",
+      "path": "posts/2026-05-08-mux-yc-w16-is-hiring.html",
+      "date_iso": "2026-05-08T21:02:32+00:00",
+      "source": "https://www.mux.com/jobs",
+      "summary": "Article URL: https://www.mux.com/jobs Comments URL: https://news.ycombinator.com/item?id=48068732 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48068254",
+      "title": "When is your birthday? The math behind hash collisions",
+      "slug": "2026-05-08-when-is-your-birthday-the-math-behind-hash-collisions.html",
+      "path": "posts/2026-05-08-when-is-your-birthday-the-math-behind-hash-collisions.html",
+      "date_iso": "2026-05-08T20:18:39+00:00",
+      "source": "https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html",
+      "summary": "Article URL: https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html Comments URL: https://news.ycombinator.com/item?id=48068254 Points: 42 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48067734",
+      "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
+      "slug": "2026-05-08-you-gave-me-a-u32-i-gave-you-root-io-uring-zcrx-freelist-lpe.html",
+      "path": "posts/2026-05-08-you-gave-me-a-u32-i-gave-you-root-io-uring-zcrx-freelist-lpe.html",
+      "date_iso": "2026-05-08T19:40:39+00:00",
+      "source": "https://ze3tar.github.io/post-zcrx.html",
+      "summary": "Article URL: https://ze3tar.github.io/post-zcrx.html Comments URL: https://news.ycombinator.com/item?id=48067734 Points: 178 # Comments: 105"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48067119",
+      "title": "Google broke reCAPTCHA for de-googled Android users",
+      "slug": "2026-05-08-google-broke-recaptcha-for-de-googled-android-users.html",
+      "path": "posts/2026-05-08-google-broke-recaptcha-for-de-googled-android-users.html",
+      "date_iso": "2026-05-08T18:45:58+00:00",
+      "source": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+      "summary": "Related: Google Cloud fraud defense, the next evolution of reCAPTCHA - https://news.ycombinator.com/item?id=48039362 also: Google Cloud Fraud Defence is just WEI repackaged - https://news.ycombinator.com/item?id=48063199 Comments URL: https://news.ycombinator.com/item?id=4806711…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48066592",
+      "title": "Teaching Claude Why",
+      "slug": "2026-05-08-teaching-claude-why.html",
+      "path": "posts/2026-05-08-teaching-claude-why.html",
+      "date_iso": "2026-05-08T17:59:41+00:00",
+      "source": "https://www.anthropic.com/research/teaching-claude-why",
+      "summary": "Article URL: https://www.anthropic.com/research/teaching-claude-why Comments URL: https://news.ycombinator.com/item?id=48066592 Points: 153 # Comments: 76"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48066524",
+      "title": "AI is breaking two vulnerability cultures",
+      "slug": "2026-05-08-ai-is-breaking-two-vulnerability-cultures.html",
+      "path": "posts/2026-05-08-ai-is-breaking-two-vulnerability-cultures.html",
+      "date_iso": "2026-05-08T17:55:08+00:00",
+      "source": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+      "summary": "Article URL: https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures Comments URL: https://news.ycombinator.com/item?id=48066524 Points: 316 # Comments: 130"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48065511",
+      "title": "The React2Shell Story",
+      "slug": "2026-05-08-the-react2shell-story.html",
+      "path": "posts/2026-05-08-the-react2shell-story.html",
+      "date_iso": "2026-05-08T16:39:48+00:00",
+      "source": "https://lachlan.nz/blog/the-react2shell-story/",
+      "summary": "Article URL: https://lachlan.nz/blog/the-react2shell-story/ Comments URL: https://news.ycombinator.com/item?id=48065511 Points: 128 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48065360",
+      "title": "Cartoon Network Flash Games",
+      "slug": "2026-05-08-cartoon-network-flash-games.html",
+      "path": "posts/2026-05-08-cartoon-network-flash-games.html",
+      "date_iso": "2026-05-08T16:29:52+00:00",
+      "source": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+      "summary": "Article URL: https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games Comments URL: https://news.ycombinator.com/item?id=48065360 Points: 334 # Comments: 105"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48065254",
+      "title": "Can LLMs model real-world systems in TLA+?",
+      "slug": "2026-05-08-can-llms-model-real-world-systems-in-tla.html",
+      "path": "posts/2026-05-08-can-llms-model-real-world-systems-in-tla.html",
+      "date_iso": "2026-05-08T16:21:56+00:00",
+      "source": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
+      "summary": "Article URL: https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/ Comments URL: https://news.ycombinator.com/item?id=48065254 Points: 75 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48064312",
+      "title": "Serving a website on a Raspberry Pi Zero running in RAM",
+      "slug": "2026-05-08-serving-a-website-on-a-raspberry-pi-zero-running-in-ram.html",
+      "path": "posts/2026-05-08-serving-a-website-on-a-raspberry-pi-zero-running-in-ram.html",
+      "date_iso": "2026-05-08T15:10:35+00:00",
+      "source": "https://btxx.org/posts/memory/",
+      "summary": "Article URL: https://btxx.org/posts/memory/ Comments URL: https://news.ycombinator.com/item?id=48064312 Points: 216 # Comments: 89"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/08/arts/television/the-audacity.html",
+      "title": "The Hopelessness of ‘The Audacity’",
+      "slug": "2026-05-08-the-hopelessness-of-the-audacity.html",
+      "path": "posts/2026-05-08-the-hopelessness-of-the-audacity.html",
+      "date_iso": "2026-05-08T14:53:26+00:00",
+      "source": "https://www.nytimes.com/2026/05/08/arts/television/the-audacity.html",
+      "summary": "In AMC’s merciless satire, the tech lords are extracting all they can from the business (and us) before everything goes to hell."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+      "title": "Meta’s Embrace of A.I. Is Making Its Employees Miserable",
+      "slug": "2026-05-08-meta-s-embrace-of-a-i-is-making-its-employees-miserable.html",
+      "path": "posts/2026-05-08-meta-s-embrace-of-a-i-is-making-its-employees-miserable.html",
+      "date_iso": "2026-05-08T14:18:51+00:00",
+      "source": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+      "summary": "As it adapts to the artificial intelligence era, the company is pushing many of its 78,000 workers to use the technology, and preparing to lay some of them off."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48061938",
+      "title": "US Government releases first batch of UAP documents and videos",
+      "slug": "2026-05-08-us-government-releases-first-batch-of-uap-documents-and-videos.html",
+      "path": "posts/2026-05-08-us-government-releases-first-batch-of-uap-documents-and-videos.html",
+      "date_iso": "2026-05-08T12:10:25+00:00",
+      "source": "https://www.war.gov/UFO/",
+      "summary": "https://apnews.com/article/trump-ufos-uap-aliens-pentagon-re... https://www.war.gov/UFO/#release Comments URL: https://news.ycombinator.com/item?id=48061938 Points: 287 # Comments: 425"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48061884",
+      "title": "David Attenborough's 100th Birthday",
+      "slug": "2026-05-08-david-attenborough-s-100th-birthday.html",
+      "path": "posts/2026-05-08-david-attenborough-s-100th-birthday.html",
+      "date_iso": "2026-05-08T12:03:26+00:00",
+      "source": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cp3pww9g0p5o Comments URL: https://news.ycombinator.com/item?id=48061884 Points: 594 # Comments: 116"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48061566",
+      "title": "An Introduction to Meshtastic",
+      "slug": "2026-05-08-an-introduction-to-meshtastic.html",
+      "path": "posts/2026-05-08-an-introduction-to-meshtastic.html",
+      "date_iso": "2026-05-08T11:22:11+00:00",
+      "source": "https://meshtastic.org/docs/introduction/",
+      "summary": "Article URL: https://meshtastic.org/docs/introduction/ Comments URL: https://news.ycombinator.com/item?id=48061566 Points: 435 # Comments: 155"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/08/podcasts/hardfork-prediction-markets.html",
+      "title": "Can the U.S. Rein in Prediction Markets? + Joanna Stern on Her Year of A.I. Experiments + Our Producer Goes to Attention School",
+      "slug": "2026-05-08-can-the-u-s-rein-in-prediction-markets-joanna-stern-on-her-year-of-a-i-experiments-our-producer-goes-to-attention-school.html",
+      "path": "posts/2026-05-08-can-the-u-s-rein-in-prediction-markets-joanna-stern-on-her-year-of-a-i-experiments-our-producer-goes-to-attention-school.html",
+      "date_iso": "2026-05-08T11:00:03+00:00",
+      "source": "https://www.nytimes.com/2026/05/08/podcasts/hardfork-prediction-markets.html",
+      "summary": "“It seems every other day I am reading a story about a massive insider trading scandal.”"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=48059662",
       "title": "ClojureScript Gets Async/Await",
       "slug": "2026-05-08-clojurescript-gets-async-await.html",
@@ -35,6 +224,24 @@
       "date_iso": "2026-05-08T03:51:59+00:00",
       "source": "https://lwn.net/Articles/1066418/",
       "summary": "Article URL: https://lwn.net/Articles/1066418/ Comments URL: https://news.ycombinator.com/item?id=48058337 Points: 21 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48058197",
+      "title": "AWS North Virginia data center outage – recovery to take hours",
+      "slug": "2026-05-08-aws-north-virginia-data-center-outage-recovery-to-take-hours.html",
+      "path": "posts/2026-05-08-aws-north-virginia-data-center-outage-recovery-to-take-hours.html",
+      "date_iso": "2026-05-08T03:31:58+00:00",
+      "source": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
+      "summary": "https://health.aws.amazon.com/health/status?t=2026-05-07 https://www.theregister.com/off-prem/2026/05/08/aws-warns-of... https://www.reuters.com/business/retail-consumer/amazon-clou... Comments URL: https://news.ycombinator.com/item?id=48058197 Points: 208 # Comments: 136"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48057901",
+      "title": "Mojo 1.0 Beta",
+      "slug": "2026-05-08-mojo-1-0-beta.html",
+      "path": "posts/2026-05-08-mojo-1-0-beta.html",
+      "date_iso": "2026-05-08T02:49:01+00:00",
+      "source": "https://mojolang.org/",
+      "summary": "Article URL: https://mojolang.org/ Comments URL: https://news.ycombinator.com/item?id=48057901 Points: 338 # Comments: 218"
     },
     {
       "id": "https://news.ycombinator.com/item?id=48057209",
