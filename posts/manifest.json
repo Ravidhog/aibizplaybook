@@ -1,6 +1,168 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=48082039",
+      "title": "Rotten Dot Com",
+      "slug": "2026-05-10-rotten-dot-com.html",
+      "path": "posts/2026-05-10-rotten-dot-com.html",
+      "date_iso": "2026-05-10T08:25:55+00:00",
+      "source": "https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/",
+      "summary": "Article URL: https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/ Comments URL: https://news.ycombinator.com/item?id=48082039 Points: 4 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48081245",
+      "title": "Debian must ship reproducible packages",
+      "slug": "2026-05-10-debian-must-ship-reproducible-packages.html",
+      "path": "posts/2026-05-10-debian-must-ship-reproducible-packages.html",
+      "date_iso": "2026-05-10T05:26:03+00:00",
+      "source": "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html",
+      "summary": "Article URL: https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html Comments URL: https://news.ycombinator.com/item?id=48081245 Points: 104 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48081094",
+      "title": "Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.",
+      "slug": "2026-05-10-scouting-s-real-crisis-is-not-marketing-it-is-decades-of-neglect.html",
+      "path": "posts/2026-05-10-scouting-s-real-crisis-is-not-marketing-it-is-decades-of-neglect.html",
+      "date_iso": "2026-05-10T04:47:45+00:00",
+      "source": "https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/",
+      "summary": "Article URL: https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/ Comments URL: https://news.ycombinator.com/item?id=48081094 Points: 14 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48080702",
+      "title": "Gemini API File Search is now multimodal",
+      "slug": "2026-05-10-gemini-api-file-search-is-now-multimodal.html",
+      "path": "posts/2026-05-10-gemini-api-file-search-is-now-multimodal.html",
+      "date_iso": "2026-05-10T03:22:02+00:00",
+      "source": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/ Comments URL: https://news.ycombinator.com/item?id=48080702 Points: 78 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48080587",
+      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+      "slug": "2026-05-10-show-hn-building-a-web-server-in-assembly-to-give-my-life-a-lack-of-meaning.html",
+      "path": "posts/2026-05-10-show-hn-building-a-web-server-in-assembly-to-give-my-life-a-lack-of-meaning.html",
+      "date_iso": "2026-05-10T03:01:44+00:00",
+      "source": "https://github.com/imtomt/ymawky",
+      "summary": "This is ymawky, a static file web server for MacOS written entirely in ARM64 assembly. It supports GET, PUT, DELETE, HEAD, and OPTIONS requests, and supports Range: bytes=X-Y headers (which allows scrubbing for video streaming). It decodes percent-encoded URLs, strictly enforces…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48080221",
+      "title": "Sparse Cholesky Elimination Tree",
+      "slug": "2026-05-10-sparse-cholesky-elimination-tree.html",
+      "path": "posts/2026-05-10-sparse-cholesky-elimination-tree.html",
+      "date_iso": "2026-05-10T01:52:55+00:00",
+      "source": "https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html",
+      "summary": "Article URL: https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html Comments URL: https://news.ycombinator.com/item?id=48080221 Points: 25 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48078575",
+      "title": "Show HN: Rust but Lisp",
+      "slug": "2026-05-09-show-hn-rust-but-lisp.html",
+      "path": "posts/2026-05-09-show-hn-rust-but-lisp.html",
+      "date_iso": "2026-05-09T21:46:27+00:00",
+      "source": "https://github.com/ThatXliner/rust-but-lisp",
+      "summary": "Article URL: https://github.com/ThatXliner/rust-but-lisp Comments URL: https://news.ycombinator.com/item?id=48078575 Points: 128 # Comments: 66"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48077971",
+      "title": "Local privilege escalation via execve()",
+      "slug": "2026-05-09-local-privilege-escalation-via-execve.html",
+      "path": "posts/2026-05-09-local-privilege-escalation-via-execve.html",
+      "date_iso": "2026-05-09T20:31:21+00:00",
+      "source": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+      "summary": "Article URL: https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc Comments URL: https://news.ycombinator.com/item?id=48077971 Points: 142 # Comments: 77"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48077395",
+      "title": "Surfel-based global illumination on the web",
+      "slug": "2026-05-09-surfel-based-global-illumination-on-the-web.html",
+      "path": "posts/2026-05-09-surfel-based-global-illumination-on-the-web.html",
+      "date_iso": "2026-05-09T19:09:34+00:00",
+      "source": "https://juretriglav.si/surfel-based-global-illumination-on-the-web/",
+      "summary": "Article URL: https://juretriglav.si/surfel-based-global-illumination-on-the-web/ Comments URL: https://news.ycombinator.com/item?id=48077395 Points: 53 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48076815",
+      "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+      "slug": "2026-05-09-show-hn-i-made-a-clojure-like-language-in-go-boots-in-7ms.html",
+      "path": "posts/2026-05-09-show-hn-i-made-a-clojure-like-language-in-go-boots-in-7ms.html",
+      "date_iso": "2026-05-09T17:52:13+00:00",
+      "source": "https://github.com/nooga/let-go",
+      "summary": "Let-go is a Clojure-like language (~90% compatible with JVM Clojure) written in pure Go. It ships as a ~10MB static binary and cold boots in ~7ms - that's about 50x faster than JVM and 3x faster than Babashka. It has decent throughput on algorithmic workloads - within ballpark o…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48076651",
+      "title": "Zed Editor Theme-Builder",
+      "slug": "2026-05-09-zed-editor-theme-builder.html",
+      "path": "posts/2026-05-09-zed-editor-theme-builder.html",
+      "date_iso": "2026-05-09T17:30:39+00:00",
+      "source": "https://zed.dev/theme-builder",
+      "summary": "Article URL: https://zed.dev/theme-builder Comments URL: https://news.ycombinator.com/item?id=48076651 Points: 210 # Comments: 63"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48076465",
+      "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+      "slug": "2026-05-09-cpanel-s-black-week-3-new-vulnerabilities-patched-after-attack-on-44k-servers.html",
+      "path": "posts/2026-05-09-cpanel-s-black-week-3-new-vulnerabilities-patched-after-attack-on-44k-servers.html",
+      "date_iso": "2026-05-09T17:06:46+00:00",
+      "source": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
+      "summary": "Article URL: https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/ Comments URL: https://news.ycombinator.com/item?id=48076465 Points: 122 # Comments: 70"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48076173",
+      "title": "I’ve banned query strings",
+      "slug": "2026-05-09-i-ve-banned-query-strings.html",
+      "path": "posts/2026-05-09-i-ve-banned-query-strings.html",
+      "date_iso": "2026-05-09T16:28:36+00:00",
+      "source": "https://chrismorgan.info/no-query-strings",
+      "summary": "Related: https://susam.net/no-query-strings.html Comments URL: https://news.ycombinator.com/item?id=48076173 Points: 386 # Comments: 214"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48075366",
+      "title": "Distributing Mac software is increasing my cortisol levels",
+      "slug": "2026-05-09-distributing-mac-software-is-increasing-my-cortisol-levels.html",
+      "path": "posts/2026-05-09-distributing-mac-software-is-increasing-my-cortisol-levels.html",
+      "date_iso": "2026-05-09T14:40:58+00:00",
+      "source": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
+      "summary": "Article URL: https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels Comments URL: https://news.ycombinator.com/item?id=48075366 Points: 281 # Comments: 187"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48074952",
+      "title": "The hypocrisy of cyberlibertarianism",
+      "slug": "2026-05-09-the-hypocrisy-of-cyberlibertarianism.html",
+      "path": "posts/2026-05-09-the-hypocrisy-of-cyberlibertarianism.html",
+      "date_iso": "2026-05-09T13:48:32+00:00",
+      "source": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
+      "summary": "Article URL: https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/ Comments URL: https://news.ycombinator.com/item?id=48074952 Points: 322 # Comments: 285"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48074265",
+      "title": "Internet Archive Switzerland",
+      "slug": "2026-05-09-internet-archive-switzerland.html",
+      "path": "posts/2026-05-09-internet-archive-switzerland.html",
+      "date_iso": "2026-05-09T12:00:30+00:00",
+      "source": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+      "summary": "https://internetarchive.ch/ Comments URL: https://news.ycombinator.com/item?id=48074265 Points: 603 # Comments: 93"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48073680",
+      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+      "slug": "2026-05-09-bun-s-experimental-rust-rewrite-hits-99-8-test-compatibility-on-linux-x64-glibc.html",
+      "path": "posts/2026-05-09-bun-s-experimental-rust-rewrite-hits-99-8-test-compatibility-on-linux-x64-glibc.html",
+      "date_iso": "2026-05-09T10:12:55+00:00",
+      "source": "https://twitter.com/jarredsumner/status/2053047748191232310",
+      "summary": "https://xunroll.com/thread/2053047748191232310 Recent and related: Zig → Rust porting guide - https://news.ycombinator.com/item?id=48016880 - May 2026 (540 comments) Comments URL: https://news.ycombinator.com/item?id=48073680 Points: 536 # Comments: 503"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48073246",
+      "title": "LLMs corrupt your documents when you delegate",
+      "slug": "2026-05-09-llms-corrupt-your-documents-when-you-delegate.html",
+      "path": "posts/2026-05-09-llms-corrupt-your-documents-when-you-delegate.html",
+      "date_iso": "2026-05-09T08:44:34+00:00",
+      "source": "https://arxiv.org/abs/2604.15597",
+      "summary": "Article URL: https://arxiv.org/abs/2604.15597 Comments URL: https://news.ycombinator.com/item?id=48073246 Points: 401 # Comments: 158"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=48072720",
       "title": "All my clients wanted a carousel, now it's an AI chatbot",
       "slug": "2026-05-09-all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.html",
