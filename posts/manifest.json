@@ -1,6 +1,159 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=48091737",
+      "title": "Mythos Finds a Curl Vulnerability",
+      "slug": "2026-05-11-mythos-finds-a-curl-vulnerability.html",
+      "path": "posts/2026-05-11-mythos-finds-a-curl-vulnerability.html",
+      "date_iso": "2026-05-11T06:39:08+00:00",
+      "source": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
+      "summary": "Article URL: https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/ Comments URL: https://news.ycombinator.com/item?id=48091737 Points: 160 # Comments: 65"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48091085",
+      "title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
+      "slug": "2026-05-11-7-lines-of-code-3-minutes-implement-a-programming-language-2010.html",
+      "path": "posts/2026-05-11-7-lines-of-code-3-minutes-implement-a-programming-language-2010.html",
+      "date_iso": "2026-05-11T04:34:40+00:00",
+      "source": "https://matt.might.net/articles/implementing-a-programming-language/",
+      "summary": "Article URL: https://matt.might.net/articles/implementing-a-programming-language/ Comments URL: https://news.ycombinator.com/item?id=48091085 Points: 50 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48090521",
+      "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
+      "slug": "2026-05-11-the-greatest-shot-in-television-james-burke-had-one-chance-to-nail-this-scene-2024.html",
+      "path": "posts/2026-05-11-the-greatest-shot-in-television-james-burke-had-one-chance-to-nail-this-scene-2024.html",
+      "date_iso": "2026-05-11T02:43:34+00:00",
+      "source": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+      "summary": "Article URL: https://www.openculture.com/2024/10/the-greatest-shot-in-television.html Comments URL: https://news.ycombinator.com/item?id=48090521 Points: 184 # Comments: 71"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48090276",
+      "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
+      "slug": "2026-05-11-show-hn-adamsreview-better-multi-agent-pr-reviews-for-claude-code.html",
+      "path": "posts/2026-05-11-show-hn-adamsreview-better-multi-agent-pr-reviews-for-claude-code.html",
+      "date_iso": "2026-05-11T02:06:29+00:00",
+      "source": "https://github.com/adamjgmiller/adamsreview",
+      "summary": "I built adamsreview, a Claude Code plugin that runs deeper, multi-stage PR reviews using parallel sub-agents, validation passes, persistent JSON state, and optional ensemble review via Codex CLI and PR bot comments. On my own PRs, it has been catching dramatically more real bugs…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48090029",
+      "title": "I'm going back to writing code by hand",
+      "slug": "2026-05-11-i-m-going-back-to-writing-code-by-hand.html",
+      "path": "posts/2026-05-11-i-m-going-back-to-writing-code-by-hand.html",
+      "date_iso": "2026-05-11T01:23:51+00:00",
+      "source": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+      "summary": "Article URL: https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/ Comments URL: https://news.ycombinator.com/item?id=48090029 Points: 385 # Comments: 176"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48089289",
+      "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+      "slug": "2026-05-10-an-ai-coding-agent-used-to-write-code-needs-to-reduce-your-maintenance-costs.html",
+      "path": "posts/2026-05-10-an-ai-coding-agent-used-to-write-code-needs-to-reduce-your-maintenance-costs.html",
+      "date_iso": "2026-05-10T23:39:55+00:00",
+      "source": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs Comments URL: https://news.ycombinator.com/item?id=48089289 Points: 168 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48089091",
+      "title": "Running local models on an M4 with 24GB memory",
+      "slug": "2026-05-10-running-local-models-on-an-m4-with-24gb-memory.html",
+      "path": "posts/2026-05-10-running-local-models-on-an-m4-with-24gb-memory.html",
+      "date_iso": "2026-05-10T23:09:10+00:00",
+      "source": "https://jola.dev/posts/running-local-models-on-m4",
+      "summary": "Article URL: https://jola.dev/posts/running-local-models-on-m4 Comments URL: https://news.ycombinator.com/item?id=48089091 Points: 323 # Comments: 103"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48089049",
+      "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
+      "slug": "2026-05-10-how-fast-does-claude-acting-as-a-user-space-ip-stack-respond-to-pings.html",
+      "path": "posts/2026-05-10-how-fast-does-claude-acting-as-a-user-space-ip-stack-respond-to-pings.html",
+      "date_iso": "2026-05-10T23:02:31+00:00",
+      "source": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
+      "summary": "Article URL: https://dunkels.com/adam/claude-user-space-ip-stack-ping/ Comments URL: https://news.ycombinator.com/item?id=48089049 Points: 84 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48088576",
+      "title": "Obsidian plugin was abused to deploy a remote access trojan",
+      "slug": "2026-05-10-obsidian-plugin-was-abused-to-deploy-a-remote-access-trojan.html",
+      "path": "posts/2026-05-10-obsidian-plugin-was-abused-to-deploy-a-remote-access-trojan.html",
+      "date_iso": "2026-05-10T22:02:43+00:00",
+      "source": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
+      "summary": "Article URL: https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/ Comments URL: https://news.ycombinator.com/item?id=48088576 Points: 219 # Comments: 111"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48088151",
+      "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+      "slug": "2026-05-10-maryland-citizens-hit-with-2b-power-grid-upgrade-for-out-of-state-ai.html",
+      "path": "posts/2026-05-10-maryland-citizens-hit-with-2b-power-grid-upgrade-for-out-of-state-ai.html",
+      "date_iso": "2026-05-10T21:16:58+00:00",
+      "source": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-pro…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48086190",
+      "title": "Hardware Attestation as Monopoly Enabler",
+      "slug": "2026-05-10-hardware-attestation-as-monopoly-enabler.html",
+      "path": "posts/2026-05-10-hardware-attestation-as-monopoly-enabler.html",
+      "date_iso": "2026-05-10T17:54:02+00:00",
+      "source": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/116550899908879585 Comments URL: https://news.ycombinator.com/item?id=48086190 Points: 1585 # Comments: 511"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48086082",
+      "title": "Incident Report: CVE-2024-YIKES",
+      "slug": "2026-05-10-incident-report-cve-2024-yikes.html",
+      "path": "posts/2026-05-10-incident-report-cve-2024-yikes.html",
+      "date_iso": "2026-05-10T17:43:10+00:00",
+      "source": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+      "summary": "Article URL: https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html Comments URL: https://news.ycombinator.com/item?id=48086082 Points: 539 # Comments: 137"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48085993",
+      "title": "Ask HN: What are you working on? (May 2026)",
+      "slug": "2026-05-10-ask-hn-what-are-you-working-on-may-2026.html",
+      "path": "posts/2026-05-10-ask-hn-what-are-you-working-on-may-2026.html",
+      "date_iso": "2026-05-10T17:34:41+00:00",
+      "source": "https://news.ycombinator.com/item?id=48085993",
+      "summary": "What are you working on? Any new ideas that you're thinking about? Comments URL: https://news.ycombinator.com/item?id=48085993 Points: 189 # Comments: 690"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48085821",
+      "title": "Local AI needs to be the norm",
+      "slug": "2026-05-10-local-ai-needs-to-be-the-norm.html",
+      "path": "posts/2026-05-10-local-ai-needs-to-be-the-norm.html",
+      "date_iso": "2026-05-10T17:19:28+00:00",
+      "source": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+      "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 1175 # Comments: 494"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48085782",
+      "title": "Traces Of Humanity",
+      "slug": "2026-05-10-traces-of-humanity.html",
+      "path": "posts/2026-05-10-traces-of-humanity.html",
+      "date_iso": "2026-05-10T17:15:10+00:00",
+      "source": "https://tracesofhumanity.org/hello-world/",
+      "summary": "Article URL: https://tracesofhumanity.org/hello-world/ Comments URL: https://news.ycombinator.com/item?id=48085782 Points: 158 # Comments: 24"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48085055",
+      "title": "The locals don't know",
+      "slug": "2026-05-10-the-locals-don-t-know.html",
+      "path": "posts/2026-05-10-the-locals-don-t-know.html",
+      "date_iso": "2026-05-10T16:03:37+00:00",
+      "source": "https://www.quarter--mile.com/The-Locals-Dont-Know",
+      "summary": "Article URL: https://www.quarter--mile.com/The-Locals-Dont-Know Comments URL: https://news.ycombinator.com/item?id=48085055 Points: 168 # Comments: 128"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48083251",
+      "title": "9 Mothers (YC P26) Is Hiring",
+      "slug": "2026-05-10-9-mothers-yc-p26-is-hiring.html",
+      "path": "posts/2026-05-10-9-mothers-yc-p26-is-hiring.html",
+      "date_iso": "2026-05-10T12:00:11+00:00",
+      "source": "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q",
+      "summary": "Article URL: https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q Comments URL: https://news.ycombinator.com/item?id=48083251 Points: 0 # Comments: 0"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=48082039",
       "title": "Rotten Dot Com",
       "slug": "2026-05-10-rotten-dot-com.html",
@@ -100,6 +253,15 @@
       "summary": "Article URL: https://zed.dev/theme-builder Comments URL: https://news.ycombinator.com/item?id=48076651 Points: 210 # Comments: 63"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=48076629",
+      "title": "Shelf Source: Tom MacWright",
+      "slug": "2026-05-09-shelf-source-tom-macwright.html",
+      "path": "posts/2026-05-09-shelf-source-tom-macwright.html",
+      "date_iso": "2026-05-09T17:28:00+00:00",
+      "source": "https://roadlessread.com/views/ss-macwright",
+      "summary": "Article URL: https://roadlessread.com/views/ss-macwright Comments URL: https://news.ycombinator.com/item?id=48076629 Points: 13 # Comments: 0"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=48076465",
       "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
       "slug": "2026-05-09-cpanel-s-black-week-3-new-vulnerabilities-patched-after-attack-on-44k-servers.html",
@@ -116,6 +278,15 @@
       "date_iso": "2026-05-09T16:28:36+00:00",
       "source": "https://chrismorgan.info/no-query-strings",
       "summary": "Related: https://susam.net/no-query-strings.html Comments URL: https://news.ycombinator.com/item?id=48076173 Points: 386 # Comments: 214"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48075429",
+      "title": "Walking slower? Your ears, not your knees, might be the problem",
+      "slug": "2026-05-09-walking-slower-your-ears-not-your-knees-might-be-the-problem.html",
+      "path": "posts/2026-05-09-walking-slower-your-ears-not-your-knees-might-be-the-problem.html",
+      "date_iso": "2026-05-09T14:49:48+00:00",
+      "source": "https://www.wsj.com/health/wellness/hearing-loss-walking-speed-iphone-study-c53c482a",
+      "summary": "https://archive.ph/m4P4K Comments URL: https://news.ycombinator.com/item?id=48075429 Points: 120 # Comments: 74"
     },
     {
       "id": "https://news.ycombinator.com/item?id=48075366",
@@ -161,6 +332,15 @@
       "date_iso": "2026-05-09T08:44:34+00:00",
       "source": "https://arxiv.org/abs/2604.15597",
       "summary": "Article URL: https://arxiv.org/abs/2604.15597 Comments URL: https://news.ycombinator.com/item?id=48073246 Points: 401 # Comments: 158"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48073201",
+      "title": "I returned to AWS and was reminded why I left",
+      "slug": "2026-05-09-i-returned-to-aws-and-was-reminded-why-i-left.html",
+      "path": "posts/2026-05-09-i-returned-to-aws-and-was-reminded-why-i-left.html",
+      "date_iso": "2026-05-09T08:37:41+00:00",
+      "source": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
+      "summary": "Article URL: http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html Comments URL: https://news.ycombinator.com/item?id=48073201 Points: 773 # Comments: 543"
     },
     {
       "id": "https://news.ycombinator.com/item?id=48072720",

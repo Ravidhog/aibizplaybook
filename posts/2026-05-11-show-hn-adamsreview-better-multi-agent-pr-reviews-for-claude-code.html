@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: adamsreview – better multi-agent PR reviews for Claude Code</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: adamsreview – better multi-agent PR reviews for Claude Code</h1>
+    <p><small>Published: 2026-05-11T02:06:29+00:00</small></p>
+  </header>
+
+  <main>
+    <p>I built adamsreview, a Claude Code plugin that runs deeper, multi-stage PR reviews using parallel sub-agents, validation passes, persistent JSON state, and optional ensemble review via Codex CLI and PR bot comments.<p>On my own PRs, it has been catching dramatically more real bugs than Claude’s built-in /review, /ultrareview, CodeRabbit, Greptile, and Codex’s built-in review, while producing fewer false positives.<p>adamsreview is six Claude Code slash commands packaged as a plugin: review, codex-review, add, promote, walkthrough, and fix. I modeled it after the built-in /review command and extended it meaningfully.<p>You can clear context between review stages because state is stored in JSON artifacts on disk, with built-in scripts for keeping it updated.<p>The walkthrough command uses Claude’s AskUserQuestion feature to walk you through uncertain findings or items needing human review one by one. Then, the fix command dispatches per-fix-group agents and re-reviews the work with Opus, reverting any regressions before committing survivors.<p>It runs against your regular Claude Code subscription (Max plan recommended), unlike /ultrareview, which charges against your Extra Usage pool.<p>I would love feedback from Claude Code users, pro devs, and anyone with strong opinions about AI code reviews.<p>Repo: <a href="https://github.com/adamjgmiller/adamsreview" rel="nofollow">https://github.com/adamjgmiller/adamsreview</a><p>Install:
+/plugin marketplace add adamjgmiller/adamsreview, /plugin install adamsreview@adamsreview</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48090276">https://news.ycombinator.com/item?id=48090276</a></p>
+<p>Points: 37</p>
+<p># Comments: 11</p>
+    <p><a href="https://github.com/adamjgmiller/adamsreview" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
