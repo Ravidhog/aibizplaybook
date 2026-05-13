@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model</h1>
+    <p><small>Published: 2026-05-12T18:03:11+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hey HN, Henry here from Cactus. We open-sourced Needle, a 26M parameter function-calling (tool use) model. It runs at 6000 tok/s prefill and 1200 tok/s decode on consumer devices.<p>We were always frustrated by the little effort made towards building agentic models that run on budget phones, so we conducted investigations that led to an observation: agentic experiences are built upon tool calling, and massive models are overkill for it. Tool calling is fundamentally retrieval-and-assembly (match query to tool name, extract argument values, emit JSON), not reasoning. Cross-attention is the right primitive for this, and FFN parameters are wasted at this scale.<p>Simple Attention Networks: the entire model is just attention and gating, no MLPs anywhere. Needle is an experimental run for single-shot function calling for consumer devices (phones, watches, glasses...).<p>Training:
+- Pretrained on 200B tokens across 16 TPU v6e (27 hours)
+- Post-trained on 2B tokens of synthesized function-calling data (45 minutes)
+- Dataset synthesized via Gemini with 15 tool categories (timers, messaging, navigation, smart home, etc.)<p>You can test it right now and finetune on your Mac/PC: <a href="https://github.com/cactus-compute/needle" rel="nofollow">https://github.com/cactus-compute/needle</a><p>The full writeup on the architecture is here: <a href="https://github.com/cactus-compute/needle/blob/main/docs/simple_attention_networks.md" rel="nofollow">https://github.com/cactus-compute/needle/blob/main/docs/simp...</a><p>We found that the "no FFN" finding generalizes beyond function calling to any task where the model has access to external structured knowledge (RAG, tool use, retrieval-augmented generation). The model doesn't need to memorize facts in FFN weights if the facts are provided in the input. Experimental results to published.<p>While it beats FunctionGemma-270M, Qwen-0.6B, Granite-350M, LFM2.5-350M on single-shot function calling, those models have more scope/capacity and excel in conversational settings. We encourage you to test on your own tools via the playground and finetune accordingly.<p>This is part of our broader work on Cactus (<a href="https://github.com/cactus-compute/cactus" rel="nofollow">https://github.com/cactus-compute/cactus</a>), an inference engine built from scratch for mobile, wearables and custom hardware. We wrote about Cactus here previously: <a href="https://news.ycombinator.com/item?id=44524544">https://news.ycombinator.com/item?id=44524544</a><p>Everything is MIT licensed. Weights: <a href="https://huggingface.co/Cactus-Compute/needle" rel="nofollow">https://huggingface.co/Cactus-Compute/needle</a>
+GitHub: <a href="https://github.com/cactus-compute/needle" rel="nofollow">https://github.com/cactus-compute/needle</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48111896">https://news.ycombinator.com/item?id=48111896</a></p>
+<p>Points: 460</p>
+<p># Comments: 154</p>
+    <p><a href="https://github.com/cactus-compute/needle" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

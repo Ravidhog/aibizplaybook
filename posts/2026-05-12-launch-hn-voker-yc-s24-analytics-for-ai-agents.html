@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Launch HN: Voker (YC S24) – Analytics for AI Agents</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Launch HN: Voker (YC S24) – Analytics for AI Agents</h1>
+    <p><small>Published: 2026-05-12T15:45:20+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hey HN, we're Alex and Tyler, co-founders of Voker.ai (<a href="https://voker.ai/">https://voker.ai/</a>), an agent analytics platform for AI product teams. Voker gives full visibility into what users are asking of your agents, and whether your agents are delivering, without having to dig through logs. Our main product is a lightweight SDK that is LLM stack agnostic and purpose-built for agent products. (<a href="https://app.voker.ai/docs">https://app.voker.ai/docs</a>)<p>Agent Engineers and AI product teams don’t have the right level of visibility into agent performance in production, which results in bad user experiences, churn, and hundreds of hours wasted with spot checks to find and debug issues with agent configurations.<p>Demo: <a href="https://www.tella.tv/video/vid_cmoukcsk1000i07jgb4j65u67/view" rel="nofollow">https://www.tella.tv/video/vid_cmoukcsk1000i07jgb4j65u67/vie...</a><p>We recently conducted a survey of YC Founders and 90%+ of respondents said that the only way they know if their Agents are failing users in production is by hearing complaints from customers. They push a prompt change hoping that it fixes the problem and doesn’t break something somewhere else, and the cycle repeats.<p>We saw tons of observability and evals products popping up to try to address these problems, but we still felt like something was missing in the agent monitoring stack. Obs is good for individual trace debugging but is only accessible to engineers. Evals are good for testing known issues, but don't give insights into trends that teams don’t expect, so engineers are always playing catch up. Traditional product analytics tools do a good job tracking clicks and pageviews across your product surface but weren’t built ground up for agent products. Knowing what users want out of agents, and whether the agent delivered requires specific conversational intelligence / unstructured data processing techniques.<p>We came up with the agent analytics primitives of Intents, Corrections, and Resolutions to describe something pretty much all conversational agents had in common: a user will always come to an agent with an intent, the user might have to correct this agent on the way to getting their intent resolved, and hopefully every intent a user has is eventually resolved by the agent.
+Voker processes LLM calls by automatically annotating individual conversations and picking out user intent and corrections. Voker takes these and uses LLMs and hierarchical text classification to create dynamic categories that give higher level insights so you don’t have to read individual conversations to know what are the main usage patterns across your users.<p>The most common substitute solution we’ve seen is uploading obs logs to Claude or ChatGPT and asking for summary insights. There are a few problems with this - mainly that LLMs aren’t good at math or data science, so you don’t get accurate or consistent statistics. Its highly likely that the LLM overfits to some insights and underfits to others. The LLM isn’t programmatically reading and classifying each individual session or interaction. This is why we don’t use LLMs for any of our core data engineering (processing events, calculating statistics) so the analytics we produce are consistent, reproducible, and accurate.
+We have a publicly available, lightweight SDK that wraps LLM calls to OpenAI, Anthropic and Gemini in Python and Typescript. Voker handles the data engineering to turn raw data into usable analytics primitives and higher level insights. 
+Free tier: 2,000 events / mo, requires email signup. Paid plans start at $80/mo with a 30 day free trial.<p>We'd love to hear how you're currently detecting trends, and if you try Voker, tell us what part of our analysis is valuable, and what still feels missing. Thanks for reading, and we’re looking forward to your thoughts in the comments!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48109962">https://news.ycombinator.com/item?id=48109962</a></p>
+<p>Points: 53</p>
+<p># Comments: 20</p>
+    <p><a href="https://voker.ai" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

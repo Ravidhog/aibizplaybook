@@ -1,6 +1,321 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/05/13/technology/ai-lobbying-washington-openai-anthropic.html",
+      "title": "Silicon Valley’s A.I. Lobbying Blitz Reaches a Fever Pitch",
+      "slug": "2026-05-13-silicon-valley-s-a-i-lobbying-blitz-reaches-a-fever-pitch.html",
+      "path": "posts/2026-05-13-silicon-valley-s-a-i-lobbying-blitz-reaches-a-fever-pitch.html",
+      "date_iso": "2026-05-13T09:14:36+00:00",
+      "source": "https://www.nytimes.com/2026/05/13/technology/ai-lobbying-washington-openai-anthropic.html",
+      "summary": "OpenAI’s chief executive, Sam Altman, during a Washington conference on the nation’s infrastructure in March."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/13/technology/notable-researchers-join-4-billion-effort-to-build-self-improving-ai.html",
+      "title": "Notable Researchers Join $4 Billion Effort to Build Self-Improving A.I.",
+      "slug": "2026-05-13-notable-researchers-join-4-billion-effort-to-build-self-improving-a-i.html",
+      "path": "posts/2026-05-13-notable-researchers-join-4-billion-effort-to-build-self-improving-a-i.html",
+      "date_iso": "2026-05-13T09:02:46+00:00",
+      "source": "https://www.nytimes.com/2026/05/13/technology/notable-researchers-join-4-billion-effort-to-build-self-improving-ai.html",
+      "summary": "Five of Recursive Superintelligence’s eight founders, from left, Tim Shi, Yuandong Tian, Richard Socher, Caiming Xiong and Josh Tobin at the company’s office in San Francisco."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/13/technology/personaltech/passwords-managers-passkeys.html",
+      "title": "Tired of Hacked Passwords? Help Is on the Way.",
+      "slug": "2026-05-13-tired-of-hacked-passwords-help-is-on-the-way.html",
+      "path": "posts/2026-05-13-tired-of-hacked-passwords-help-is-on-the-way.html",
+      "date_iso": "2026-05-13T09:02:26+00:00",
+      "source": "https://www.nytimes.com/2026/05/13/technology/personaltech/passwords-managers-passkeys.html",
+      "summary": "A password manager, like the 1Password app shown here, serves as a secure vault for all your user names, passwords and other private information."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/13/technology/andreessen-horowitz-politics.html",
+      "title": "Andreessen Horowitz Is Playing Politics Like No Other",
+      "slug": "2026-05-13-andreessen-horowitz-is-playing-politics-like-no-other.html",
+      "path": "posts/2026-05-13-andreessen-horowitz-is-playing-politics-like-no-other.html",
+      "date_iso": "2026-05-13T09:01:04+00:00",
+      "source": "https://www.nytimes.com/2026/05/13/technology/andreessen-horowitz-politics.html",
+      "summary": "“If you think there’s a lot of money in politics now,” Marc Andreessen said in 2000, “you haven’t seen anything yet.” His firm is now the biggest known spender on this campaign cycle."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48118763",
+      "title": "SecurityBaseline.eu",
+      "slug": "2026-05-13-securitybaseline-eu.html",
+      "path": "posts/2026-05-13-securitybaseline-eu.html",
+      "date_iso": "2026-05-13T07:11:17+00:00",
+      "source": "https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/",
+      "summary": "Article URL: https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/ Comments URL: https://news.ycombinator.com/item?id=48118763 Points: 143 # Comments: 58"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/13/technology/anduril-raises-5-billion.html",
+      "title": "Anduril Raises $5 Billion in Funding and Is Valued at $61 Billion",
+      "slug": "2026-05-13-anduril-raises-5-billion-in-funding-and-is-valued-at-61-billion.html",
+      "path": "posts/2026-05-13-anduril-raises-5-billion-in-funding-and-is-valued-at-61-billion.html",
+      "date_iso": "2026-05-13T07:00:21+00:00",
+      "source": "https://www.nytimes.com/2026/05/13/technology/anduril-raises-5-billion.html",
+      "summary": "Fury, Anduril’s first autonomous air vehicle, at the company’s Arsenal 1 factory outside Columbus, Ohio."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48117810",
+      "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
+      "slug": "2026-05-13-deterministic-fully-static-whole-binary-translation-without-heuristics.html",
+      "path": "posts/2026-05-13-deterministic-fully-static-whole-binary-translation-without-heuristics.html",
+      "date_iso": "2026-05-13T04:25:03+00:00",
+      "source": "https://arxiv.org/abs/2605.08419",
+      "summary": "Article URL: https://arxiv.org/abs/2605.08419 Comments URL: https://news.ycombinator.com/item?id=48117810 Points: 170 # Comments: 37"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/12/us/politics/trump-china-summit-nvidia-jensen-huang.html",
+      "title": "Nvidia C.E.O. Jensen Huang Hitches Ride With Trump to China After Last-Minute Invite",
+      "slug": "2026-05-13-nvidia-c-e-o-jensen-huang-hitches-ride-with-trump-to-china-after-last-minute-invite.html",
+      "path": "posts/2026-05-13-nvidia-c-e-o-jensen-huang-hitches-ride-with-trump-to-china-after-last-minute-invite.html",
+      "date_iso": "2026-05-13T03:41:22+00:00",
+      "source": "https://www.nytimes.com/2026/05/12/us/politics/trump-china-summit-nvidia-jensen-huang.html",
+      "summary": "Jensen Huang, the chief executive of the Silicon Valley chip giant Nvidia, in San Jose, Calif., in March."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48116781",
+      "title": "Starship V3",
+      "slug": "2026-05-13-starship-v3.html",
+      "path": "posts/2026-05-13-starship-v3.html",
+      "date_iso": "2026-05-13T01:29:31+00:00",
+      "source": "https://www.spacex.com/updates#starship-v3",
+      "summary": "Article URL: https://www.spacex.com/updates#starship-v3 Comments URL: https://news.ycombinator.com/item?id=48116781 Points: 222 # Comments: 322"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48116207",
+      "title": "My graduation cap runs Rust",
+      "slug": "2026-05-13-my-graduation-cap-runs-rust.html",
+      "path": "posts/2026-05-13-my-graduation-cap-runs-rust.html",
+      "date_iso": "2026-05-13T00:04:21+00:00",
+      "source": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
+      "summary": "Article URL: https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/ Comments URL: https://news.ycombinator.com/item?id=48116207 Points: 150 # Comments: 48"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48116064",
+      "title": "When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug",
+      "slug": "2026-05-12-when-idle-isn-t-idle-how-a-linux-kernel-optimization-became-a-quic-bug.html",
+      "path": "posts/2026-05-12-when-idle-isn-t-idle-how-a-linux-kernel-optimization-became-a-quic-bug.html",
+      "date_iso": "2026-05-12T23:46:28+00:00",
+      "source": "https://blog.cloudflare.com/quic-death-spiral-fix/",
+      "summary": "Article URL: https://blog.cloudflare.com/quic-death-spiral-fix/ Comments URL: https://news.ycombinator.com/item?id=48116064 Points: 88 # Comments: 6"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/12/technology/anthropic-funding-950-billion-valuation.html",
+      "title": "Anthropic in Talks to Raise Funding at a $950 Billion Valuation",
+      "slug": "2026-05-12-anthropic-in-talks-to-raise-funding-at-a-950-billion-valuation.html",
+      "path": "posts/2026-05-12-anthropic-in-talks-to-raise-funding-at-a-950-billion-valuation.html",
+      "date_iso": "2026-05-12T23:40:35+00:00",
+      "source": "https://www.nytimes.com/2026/05/12/technology/anthropic-funding-950-billion-valuation.html",
+      "summary": "Anthropic’s developer conference in San Francisco this month."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48115823",
+      "title": "Kraftwerk's radical 1976 track",
+      "slug": "2026-05-12-kraftwerk-s-radical-1976-track.html",
+      "path": "posts/2026-05-12-kraftwerk-s-radical-1976-track.html",
+      "date_iso": "2026-05-12T23:13:01+00:00",
+      "source": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
+      "summary": "Article URL: https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem Comments URL: https://news.ycombinator.com/item?id=48115823 Points: 157 # Comments: 107"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48115807",
+      "title": "Tell NYT, Atlantic, USA Today to keep Wayback Machine",
+      "slug": "2026-05-12-tell-nyt-atlantic-usa-today-to-keep-wayback-machine.html",
+      "path": "posts/2026-05-12-tell-nyt-atlantic-usa-today-to-keep-wayback-machine.html",
+      "date_iso": "2026-05-12T23:11:40+00:00",
+      "source": "https://www.savethearchive.com/newsleaders/",
+      "summary": "Article URL: https://www.savethearchive.com/newsleaders/ Comments URL: https://news.ycombinator.com/item?id=48115807 Points: 332 # Comments: 91"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/12/technology/sam-altman-openai-trial-elon-musk-lawyers.html",
+      "title": "Musk Lawyer’s Question for Sam Altman on the Stand: Are You Trustworthy?",
+      "slug": "2026-05-12-musk-lawyer-s-question-for-sam-altman-on-the-stand-are-you-trustworthy.html",
+      "path": "posts/2026-05-12-musk-lawyer-s-question-for-sam-altman-on-the-stand-are-you-trustworthy.html",
+      "date_iso": "2026-05-12T23:09:39+00:00",
+      "source": "https://www.nytimes.com/2026/05/12/technology/sam-altman-openai-trial-elon-musk-lawyers.html",
+      "summary": "Sam Altman, OpenAI’s chief executive, spent the day on the witness stand in a federal court in Oakland, Calif., on Tuesday."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48115127",
+      "title": "Restore full BambuNetwork support for Bambu Lab printers",
+      "slug": "2026-05-12-restore-full-bambunetwork-support-for-bambu-lab-printers.html",
+      "path": "posts/2026-05-12-restore-full-bambunetwork-support-for-bambu-lab-printers.html",
+      "date_iso": "2026-05-12T21:55:21+00:00",
+      "source": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+      "summary": "Article URL: https://github.com/FULU-Foundation/OrcaSlicer-bambulab Comments URL: https://news.ycombinator.com/item?id=48115127 Points: 425 # Comments: 182"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48114356",
+      "title": "Scrcpy v4.0",
+      "slug": "2026-05-12-scrcpy-v4-0.html",
+      "path": "posts/2026-05-12-scrcpy-v4-0.html",
+      "date_iso": "2026-05-12T20:50:02+00:00",
+      "source": "https://github.com/Genymobile/scrcpy/releases/tag/v4.0",
+      "summary": "Article URL: https://github.com/Genymobile/scrcpy/releases/tag/v4.0 Comments URL: https://news.ycombinator.com/item?id=48114356 Points: 182 # Comments: 28"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48113895",
+      "title": "How to make your text look futuristic (2016)",
+      "slug": "2026-05-12-how-to-make-your-text-look-futuristic-2016.html",
+      "path": "posts/2026-05-12-how-to-make-your-text-look-futuristic-2016.html",
+      "date_iso": "2026-05-12T20:16:26+00:00",
+      "source": "https://typesetinthefuture.com/2016/02/18/futuristic/",
+      "summary": "Article URL: https://typesetinthefuture.com/2016/02/18/futuristic/ Comments URL: https://news.ycombinator.com/item?id=48113895 Points: 342 # Comments: 44"
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/05/12/technology/openai-trial-sam-altman-elon-musk/heres-the-latest",
+      "title": "Here’s the latest.",
+      "slug": "2026-05-12-here-s-the-latest.html",
+      "path": "posts/2026-05-12-here-s-the-latest.html",
+      "date_iso": "2026-05-12T20:01:26+00:00",
+      "source": "https://www.nytimes.com/live/2026/05/12/technology/openai-trial-sam-altman-elon-musk/heres-the-latest",
+      "summary": ""
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/05/12/technology/openai-trial-sam-altman-elon-musk/sam-altman-has-been-targeted-in-a-backlash-against-ai",
+      "title": "Sam Altman has been targeted in a backlash against A.I.",
+      "slug": "2026-05-12-sam-altman-has-been-targeted-in-a-backlash-against-a-i.html",
+      "path": "posts/2026-05-12-sam-altman-has-been-targeted-in-a-backlash-against-a-i.html",
+      "date_iso": "2026-05-12T19:00:44+00:00",
+      "source": "https://www.nytimes.com/live/2026/05/12/technology/openai-trial-sam-altman-elon-musk/sam-altman-has-been-targeted-in-a-backlash-against-ai",
+      "summary": "An incendiary device was thrown at Sam Altman’s home in San Francisco in April."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48112042",
+      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+      "slug": "2026-05-12-cert-is-releasing-six-cves-for-serious-security-vulnerabilities-in-dnsmasq.html",
+      "path": "posts/2026-05-12-cert-is-releasing-six-cves-for-serious-security-vulnerabilities-in-dnsmasq.html",
+      "date_iso": "2026-05-12T18:12:28+00:00",
+      "source": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
+      "summary": "Article URL: https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html Comments URL: https://news.ycombinator.com/item?id=48112042 Points: 313 # Comments: 145"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48111896",
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "slug": "2026-05-12-show-hn-needle-we-distilled-gemini-tool-calling-into-a-26m-model.html",
+      "path": "posts/2026-05-12-show-hn-needle-we-distilled-gemini-tool-calling-into-a-26m-model.html",
+      "date_iso": "2026-05-12T18:03:11+00:00",
+      "source": "https://github.com/cactus-compute/needle",
+      "summary": "Hey HN, Henry here from Cactus. We open-sourced Needle, a 26M parameter function-calling (tool use) model. It runs at 6000 tok/s prefill and 1200 tok/s decode on consumer devices. We were always frustrated by the little effort made towards building agentic models that run on bud…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48111765",
+      "title": "Quack: The DuckDB Client-Server Protocol",
+      "slug": "2026-05-12-quack-the-duckdb-client-server-protocol.html",
+      "path": "posts/2026-05-12-quack-the-duckdb-client-server-protocol.html",
+      "date_iso": "2026-05-12T17:54:12+00:00",
+      "source": "https://duckdb.org/2026/05/12/quack-remote-protocol",
+      "summary": "Article URL: https://duckdb.org/2026/05/12/quack-remote-protocol Comments URL: https://news.ycombinator.com/item?id=48111765 Points: 285 # Comments: 56"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48111581",
+      "title": "Reimagining the mouse pointer for the AI era",
+      "slug": "2026-05-12-reimagining-the-mouse-pointer-for-the-ai-era.html",
+      "path": "posts/2026-05-12-reimagining-the-mouse-pointer-for-the-ai-era.html",
+      "date_iso": "2026-05-12T17:40:13+00:00",
+      "source": "https://deepmind.google/blog/ai-pointer/",
+      "summary": "Article URL: https://deepmind.google/blog/ai-pointer/ Comments URL: https://news.ycombinator.com/item?id=48111581 Points: 199 # Comments: 167"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48111545",
+      "title": "Googlebook",
+      "slug": "2026-05-12-googlebook.html",
+      "path": "posts/2026-05-12-googlebook.html",
+      "date_iso": "2026-05-12T17:37:36+00:00",
+      "source": "https://googlebook.google/",
+      "summary": "https://www.reddit.com/r/Android/comments/1tb8xls/introducin... Comments URL: https://news.ycombinator.com/item?id=48111545 Points: 778 # Comments: 1295"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48111243",
+      "title": "As researchers age, they produce less disruptive work",
+      "slug": "2026-05-12-as-researchers-age-they-produce-less-disruptive-work.html",
+      "path": "posts/2026-05-12-as-researchers-age-they-produce-less-disruptive-work.html",
+      "date_iso": "2026-05-12T17:16:59+00:00",
+      "source": "https://nautil.us/is-this-why-science-advances-one-funeral-at-a-time-1280650",
+      "summary": "Article URL: https://nautil.us/is-this-why-science-advances-one-funeral-at-a-time-1280650 Comments URL: https://news.ycombinator.com/item?id=48111243 Points: 71 # Comments: 65"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48111143",
+      "title": "Show HN: Agentic interface for mainframes and COBOL",
+      "slug": "2026-05-12-show-hn-agentic-interface-for-mainframes-and-cobol.html",
+      "path": "posts/2026-05-12-show-hn-agentic-interface-for-mainframes-and-cobol.html",
+      "date_iso": "2026-05-12T17:10:22+00:00",
+      "source": "https://www.hypercubic.ai/hopper",
+      "summary": "Hi HN, we’re Sai and Aayush, and we’re building Hypercubic ( https://www.hypercubic.ai/ ), bringing AI tools to the mainframe and COBOL world. (We did a Launch HN last year: https://news.ycombinator.com/item?id=45877517 .) Today we’re launching Hopper, an agentic development env…"
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/05/12/technology/openai-trial-sam-altman-elon-musk/this-is-sam-altmans-first-time-testifying-in-court",
+      "title": "This is Sam Altman’s first time testifying in court.",
+      "slug": "2026-05-12-this-is-sam-altman-s-first-time-testifying-in-court.html",
+      "path": "posts/2026-05-12-this-is-sam-altman-s-first-time-testifying-in-court.html",
+      "date_iso": "2026-05-12T17:08:58+00:00",
+      "source": "https://www.nytimes.com/live/2026/05/12/technology/openai-trial-sam-altman-elon-musk/this-is-sam-altmans-first-time-testifying-in-court",
+      "summary": "OpenAI chief executive Sam Altman arriving at the Ronald V. Dellums U.S. Courthouse last month."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/12/technology/anthropic-claude-mythos.html",
+      "title": "Is Anthropic’s Claude Mythos Really a Cybersecurity Risk?",
+      "slug": "2026-05-12-is-anthropic-s-claude-mythos-really-a-cybersecurity-risk.html",
+      "path": "posts/2026-05-12-is-anthropic-s-claude-mythos-really-a-cybersecurity-risk.html",
+      "date_iso": "2026-05-12T16:01:26+00:00",
+      "source": "https://www.nytimes.com/2026/05/12/technology/anthropic-claude-mythos.html",
+      "summary": "Anthropic shook up the tech world with the limited release of its Claude Mythos A.I. model."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/12/technology/ai-cybersecurity-competition.html",
+      "title": "A.I. and Humans Battle It Out in a Cybersecurity Showdown",
+      "slug": "2026-05-12-a-i-and-humans-battle-it-out-in-a-cybersecurity-showdown.html",
+      "path": "posts/2026-05-12-a-i-and-humans-battle-it-out-in-a-cybersecurity-showdown.html",
+      "date_iso": "2026-05-12T16:00:44+00:00",
+      "source": "https://www.nytimes.com/2026/05/12/technology/ai-cybersecurity-competition.html",
+      "summary": "Experts and college students used A.I. agents to try to break into and defend computer networks in a national competition. The agents did all right on their own, too."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48109970",
+      "title": "The Future of Obsidian Plugins",
+      "slug": "2026-05-12-the-future-of-obsidian-plugins.html",
+      "path": "posts/2026-05-12-the-future-of-obsidian-plugins.html",
+      "date_iso": "2026-05-12T15:45:54+00:00",
+      "source": "https://obsidian.md/blog/future-of-plugins/",
+      "summary": "Article URL: https://obsidian.md/blog/future-of-plugins/ Comments URL: https://news.ycombinator.com/item?id=48109970 Points: 377 # Comments: 142"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48109962",
+      "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
+      "slug": "2026-05-12-launch-hn-voker-yc-s24-analytics-for-ai-agents.html",
+      "path": "posts/2026-05-12-launch-hn-voker-yc-s24-analytics-for-ai-agents.html",
+      "date_iso": "2026-05-12T15:45:20+00:00",
+      "source": "https://voker.ai",
+      "summary": "Hey HN, we're Alex and Tyler, co-founders of Voker.ai ( https://voker.ai/ ), an agent analytics platform for AI product teams. Voker gives full visibility into what users are asking of your agents, and whether your agents are delivering, without having to dig through logs. Our m…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/12/us/politics/china-ai-anthropic-openai-mythos-chatgpt.html",
+      "title": "China Sought Access to Anthropic’s Newest A.I. The Answer Was No.",
+      "slug": "2026-05-12-china-sought-access-to-anthropic-s-newest-a-i-the-answer-was-no.html",
+      "path": "posts/2026-05-12-china-sought-access-to-anthropic-s-newest-a-i-the-answer-was-no.html",
+      "date_iso": "2026-05-12T15:36:08+00:00",
+      "source": "https://www.nytimes.com/2026/05/12/us/politics/china-ai-anthropic-openai-mythos-chatgpt.html",
+      "summary": "A growing number of national security officials and analysts have begun to liken the intensifying competition between China and the United States over artificial intelligence to the Cold War’s nuclear arms race."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/12/business/ebay-gamestop-takeover.html",
+      "title": "EBay Rejects GameStop’s $55 Billion Takeover Bid",
+      "slug": "2026-05-12-ebay-rejects-gamestop-s-55-billion-takeover-bid.html",
+      "path": "posts/2026-05-12-ebay-rejects-gamestop-s-55-billion-takeover-bid.html",
+      "date_iso": "2026-05-12T15:32:32+00:00",
+      "source": "https://www.nytimes.com/2026/05/12/business/ebay-gamestop-takeover.html",
+      "summary": "The headquarters of eBay in San Jose, Calif. GameStop announced a proposal last week to combine with the company, which is nearly four times its size."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48109460",
+      "title": "Why senior developers fail to communicate their expertise",
+      "slug": "2026-05-12-why-senior-developers-fail-to-communicate-their-expertise.html",
+      "path": "posts/2026-05-12-why-senior-developers-fail-to-communicate-their-expertise.html",
+      "date_iso": "2026-05-12T15:08:40+00:00",
+      "source": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+      "summary": "Article URL: https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise Comments URL: https://news.ycombinator.com/item?id=48109460 Points: 567 # Comments: 248"
+    },
+    {
       "id": "https://www.nytimes.com/2026/05/12/technology/amp-startup.html",
       "title": "Start-Up Raises $1.3 Billion for an A.I. ‘Grid’",
       "slug": "2026-05-12-start-up-raises-1-3-billion-for-an-a-i-grid.html",
