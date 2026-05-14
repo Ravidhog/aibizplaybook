@@ -1,6 +1,222 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/05/14/magazine/dumb-phones-tvs-retronym-smart-tech.html",
+      "title": "Why ‘Smart’ Products Have Started to Look Like the Dumb Choice",
+      "slug": "2026-05-14-why-smart-products-have-started-to-look-like-the-dumb-choice.html",
+      "path": "posts/2026-05-14-why-smart-products-have-started-to-look-like-the-dumb-choice.html",
+      "date_iso": "2026-05-14T09:04:10+00:00",
+      "source": "https://www.nytimes.com/2026/05/14/magazine/dumb-phones-tvs-retronym-smart-tech.html",
+      "summary": "How Wi-Fi-connecting, app-based tech led to a backlash in the name of simplicity"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/14/technology/ishmael-reed-elon-musk-play.html",
+      "title": "Ishmael Reed Is Writing a Play About Elon Musk",
+      "slug": "2026-05-14-ishmael-reed-is-writing-a-play-about-elon-musk.html",
+      "path": "posts/2026-05-14-ishmael-reed-is-writing-a-play-about-elon-musk.html",
+      "date_iso": "2026-05-14T09:02:52+00:00",
+      "source": "https://www.nytimes.com/2026/05/14/technology/ishmael-reed-elon-musk-play.html",
+      "summary": "Ishmael Reed, 88, an author who has frequently challenged American political culture, at his home in Oakland, Calif. He is writing a play about Elon Musk and other tech billionaires."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/14/technology/cryptocurrency-clarity-act-senate.html",
+      "title": "Crypto Industry Pushes a Bill to Tilt Regulation in Its Favor",
+      "slug": "2026-05-14-crypto-industry-pushes-a-bill-to-tilt-regulation-in-its-favor.html",
+      "path": "posts/2026-05-14-crypto-industry-pushes-a-bill-to-tilt-regulation-in-its-favor.html",
+      "date_iso": "2026-05-14T09:00:07+00:00",
+      "source": "https://www.nytimes.com/2026/05/14/technology/cryptocurrency-clarity-act-senate.html",
+      "summary": "After a series of political victories under President Trump, firms are lobbying Congress for a sweeping framework they helped shape."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48132159",
+      "title": "What the Hell Was Going on with Cigarette Ads in the 70s? (2024)",
+      "slug": "2026-05-14-what-the-hell-was-going-on-with-cigarette-ads-in-the-70s-2024.html",
+      "path": "posts/2026-05-14-what-the-hell-was-going-on-with-cigarette-ads-in-the-70s-2024.html",
+      "date_iso": "2026-05-14T07:25:59+00:00",
+      "source": "https://tohippo.com/what-the-hell-was-going-on-with-cigarette-ads-in-the-70s/",
+      "summary": "Article URL: https://tohippo.com/what-the-hell-was-going-on-with-cigarette-ads-in-the-70s/ Comments URL: https://news.ycombinator.com/item?id=48132159 Points: 24 # Comments: 36"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48132030",
+      "title": "Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7",
+      "slug": "2026-05-14-classic-7-is-a-windows-10-ltsc-mod-to-look-1-1-to-windows-7.html",
+      "path": "posts/2026-05-14-classic-7-is-a-windows-10-ltsc-mod-to-look-1-1-to-windows-7.html",
+      "date_iso": "2026-05-14T07:03:18+00:00",
+      "source": "https://classic7.lol/",
+      "summary": "Article URL: https://classic7.lol/ Comments URL: https://news.ycombinator.com/item?id=48132030 Points: 35 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48130950",
+      "title": "Claude for Small Business",
+      "slug": "2026-05-14-claude-for-small-business.html",
+      "path": "posts/2026-05-14-claude-for-small-business.html",
+      "date_iso": "2026-05-14T03:59:35+00:00",
+      "source": "https://www.anthropic.com/news/claude-for-small-business",
+      "summary": "Article URL: https://www.anthropic.com/news/claude-for-small-business Comments URL: https://news.ycombinator.com/item?id=48130950 Points: 238 # Comments: 170"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48130711",
+      "title": "Arena AI Model ELO History",
+      "slug": "2026-05-14-arena-ai-model-elo-history.html",
+      "path": "posts/2026-05-14-arena-ai-model-elo-history.html",
+      "date_iso": "2026-05-14T03:19:05+00:00",
+      "source": "https://mayerwin.github.io/AI-Arena-History/",
+      "summary": "Hi HN, I built a live tracker to visualize the lifecycle and performance changes of flagship AI models. We've all experienced the phenomenon where a flagship model feels amazing at launch, but weeks later, it suddenly feels a bit off. I wanted to see if this was just a feeling o…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48130679",
+      "title": "A Claude Code and Codex Skill for Deliberate Skill Development",
+      "slug": "2026-05-14-a-claude-code-and-codex-skill-for-deliberate-skill-development.html",
+      "path": "posts/2026-05-14-a-claude-code-and-codex-skill-for-deliberate-skill-development.html",
+      "date_iso": "2026-05-14T03:13:31+00:00",
+      "source": "https://github.com/DrCatHicks/learning-opportunities",
+      "summary": "Article URL: https://github.com/DrCatHicks/learning-opportunities Comments URL: https://news.ycombinator.com/item?id=48130679 Points: 40 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48130519",
+      "title": "Microsoft BitLocker – YellowKey zero-day exploit",
+      "slug": "2026-05-14-microsoft-bitlocker-yellowkey-zero-day-exploit.html",
+      "path": "posts/2026-05-14-microsoft-bitlocker-yellowkey-zero-day-exploit.html",
+      "date_iso": "2026-05-14T02:45:08+00:00",
+      "source": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor Comments URL: https://news.ycombinator.com/item?id=48130…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48130186",
+      "title": "Show HN: Nibble",
+      "slug": "2026-05-14-show-hn-nibble.html",
+      "path": "posts/2026-05-14-show-hn-nibble.html",
+      "date_iso": "2026-05-14T01:46:45+00:00",
+      "source": "https://github.com/glouw/nibble",
+      "summary": "An attempt at a single pass LLVM frontend in ~3000 lines of C without external dependencies, malloc, or an AST. Included are some graphical examples. The IR isn't perfect, and the README touches on one particular downfall Comments URL: https://news.ycombinator.com/item?id=481301…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48130123",
+      "title": "Cisco workforce reductions",
+      "slug": "2026-05-14-cisco-workforce-reductions.html",
+      "path": "posts/2026-05-14-cisco-workforce-reductions.html",
+      "date_iso": "2026-05-14T01:38:05+00:00",
+      "source": "https://blogs.cisco.com/news/our-path-forward",
+      "summary": "Article URL: https://blogs.cisco.com/news/our-path-forward Comments URL: https://news.ycombinator.com/item?id=48130123 Points: 196 # Comments: 189"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48129953",
+      "title": "delta time",
+      "slug": "2026-05-14-delta-time.html",
+      "path": "posts/2026-05-14-delta-time.html",
+      "date_iso": "2026-05-14T01:15:24+00:00",
+      "source": "https://www.deltatime.life/",
+      "summary": "Article URL: https://www.deltatime.life/ Comments URL: https://news.ycombinator.com/item?id=48129953 Points: 50 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48129934",
+      "title": "Avoiding and reducing microplastic false positives from dry glove contact",
+      "slug": "2026-05-14-avoiding-and-reducing-microplastic-false-positives-from-dry-glove-contact.html",
+      "path": "posts/2026-05-14-avoiding-and-reducing-microplastic-false-positives-from-dry-glove-contact.html",
+      "date_iso": "2026-05-14T01:13:02+00:00",
+      "source": "https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c",
+      "summary": "Article URL: https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c Comments URL: https://news.ycombinator.com/item?id=48129934 Points: 44 # Comments: 3"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/13/business/energy-environment/fervo-geothermal-energy-ipo.html",
+      "title": "A Start-Up Aiming to Make Geothermal Energy Mainstream Goes Public",
+      "slug": "2026-05-14-a-start-up-aiming-to-make-geothermal-energy-mainstream-goes-public.html",
+      "path": "posts/2026-05-14-a-start-up-aiming-to-make-geothermal-energy-mainstream-goes-public.html",
+      "date_iso": "2026-05-14T00:42:03+00:00",
+      "source": "https://www.nytimes.com/2026/05/13/business/energy-environment/fervo-geothermal-energy-ipo.html",
+      "summary": "A Fervo Energy project near Milford, Utah. The company is trying to adapt drilling techniques from the oil and gas industry to unlock vast amounts of energy from the earth’s interior."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48129694",
+      "title": "Scorched Earth 2000 – Web",
+      "slug": "2026-05-14-scorched-earth-2000-web.html",
+      "path": "posts/2026-05-14-scorched-earth-2000-web.html",
+      "date_iso": "2026-05-14T00:41:29+00:00",
+      "source": "http://www.scorch2000.com/web/",
+      "summary": "Article URL: http://www.scorch2000.com/web/ Comments URL: https://news.ycombinator.com/item?id=48129694 Points: 248 # Comments: 98"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/13/business/iran-gas-prices-electric-vehicles.html",
+      "title": "Fuel Prices Drive Sales of E.V.s, Just Not in the U.S.",
+      "slug": "2026-05-13-fuel-prices-drive-sales-of-e-v-s-just-not-in-the-u-s.html",
+      "path": "posts/2026-05-13-fuel-prices-drive-sales-of-e-v-s-just-not-in-the-u-s.html",
+      "date_iso": "2026-05-13T20:17:07+00:00",
+      "source": "https://www.nytimes.com/2026/05/13/business/iran-gas-prices-electric-vehicles.html",
+      "summary": "High fuel prices are weighing on sales of vehicles that run on gasoline or diesel."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48126848",
+      "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
+      "slug": "2026-05-13-princeton-mandates-proctoring-for-in-person-exams-upending-133-year-precedent.html",
+      "path": "posts/2026-05-13-princeton-mandates-proctoring-for-in-person-exams-upending-133-year-precedent.html",
+      "date_iso": "2026-05-13T20:12:16+00:00",
+      "source": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
+      "summary": "Article URL: https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent Comments URL: https://news.ycombinator.com/item?id=48126848 Points: 326 # Comments: 479"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/13/technology/polymarket-insider-trading.html",
+      "title": "Dozens of Polymarket Bets Show Signs of Insider Trading, The Times Finds",
+      "slug": "2026-05-13-dozens-of-polymarket-bets-show-signs-of-insider-trading-the-times-finds.html",
+      "path": "posts/2026-05-13-dozens-of-polymarket-bets-show-signs-of-insider-trading-the-times-finds.html",
+      "date_iso": "2026-05-13T18:48:13+00:00",
+      "source": "https://www.nytimes.com/2026/05/13/technology/polymarket-insider-trading.html",
+      "summary": "Dozens of long-shot bets on Polymarket, from the war with Iran to the cryptocurrency market, have defied the odds, according to a New York Times examination."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48125617",
+      "title": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
+      "slug": "2026-05-13-macbook-neo-deep-dive-benchmarks-wafer-economics-and-the-8gb-gamble.html",
+      "path": "posts/2026-05-13-macbook-neo-deep-dive-benchmarks-wafer-economics-and-the-8gb-gamble.html",
+      "date_iso": "2026-05-13T18:30:51+00:00",
+      "source": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
+      "summary": "Article URL: https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/ Comments URL: https://news.ycombinator.com/item?id=48125617 Points: 213 # Comments: 229"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/13/technology/recursive-superintelligence-funding-ai.html",
+      "title": "Notable Researchers Join $4 Billion Effort to Build Self-Improving A.I.",
+      "slug": "2026-05-13-notable-researchers-join-4-billion-effort-to-build-self-improving-a-i.html",
+      "path": "posts/2026-05-13-notable-researchers-join-4-billion-effort-to-build-self-improving-a-i.html",
+      "date_iso": "2026-05-13T18:14:30+00:00",
+      "source": "https://www.nytimes.com/2026/05/13/technology/recursive-superintelligence-funding-ai.html",
+      "summary": "Five of Recursive Superintelligence’s eight founders, from left, Tim Shi, Yuandong Tian, Richard Socher, Caiming Xiong and Josh Tobin at the company’s office in San Francisco."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48124436",
+      "title": "Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration",
+      "slug": "2026-05-13-launch-hn-ardent-yc-p26-postgres-sandboxes-in-seconds-with-zero-migration.html",
+      "path": "posts/2026-05-13-launch-hn-ardent-yc-p26-postgres-sandboxes-in-seconds-with-zero-migration.html",
+      "date_iso": "2026-05-13T16:54:03+00:00",
+      "source": "https://www.tryardent.com/",
+      "summary": "Hey HN! We’re Vikram and Evan from Ardent ( https://tryardent.com ). We're building database sandboxes for you and your coding agents. In the last two years coding agents have gotten dramatically more capable at handling complex engineering tasks. But without access to a realist…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48122635",
+      "title": "Setting up a free *.city.state.us locality domain (2025)",
+      "slug": "2026-05-13-setting-up-a-free-city-state-us-locality-domain-2025.html",
+      "path": "posts/2026-05-13-setting-up-a-free-city-state-us-locality-domain-2025.html",
+      "date_iso": "2026-05-13T14:45:18+00:00",
+      "source": "https://fredchan.org/blog/locality-domains-guide/",
+      "summary": "Article URL: https://fredchan.org/blog/locality-domains-guide/ Comments URL: https://news.ycombinator.com/item?id=48122635 Points: 558 # Comments: 173"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48121929",
+      "title": "The US is winning the AI race where it matters most: commercialization",
+      "slug": "2026-05-13-the-us-is-winning-the-ai-race-where-it-matters-most-commercialization.html",
+      "path": "posts/2026-05-13-the-us-is-winning-the-ai-race-where-it-matters-most-commercialization.html",
+      "date_iso": "2026-05-13T13:53:53+00:00",
+      "source": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+      "summary": "Article URL: https://avkcode.github.io/blog/us-winning-ai-race.html Comments URL: https://news.ycombinator.com/item?id=48121929 Points: 198 # Comments: 543"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48120776",
+      "title": "Substrate (YC S24) Is Hiring a Technical Success Manager",
+      "slug": "2026-05-13-substrate-yc-s24-is-hiring-a-technical-success-manager.html",
+      "path": "posts/2026-05-13-substrate-yc-s24-is-hiring-a-technical-success-manager.html",
+      "date_iso": "2026-05-13T12:00:30+00:00",
+      "source": "https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager",
+      "summary": "Article URL: https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager Comments URL: https://news.ycombinator.com/item?id=48120776 Points: 0 # Comments: 0"
+    },
+    {
       "id": "https://www.nytimes.com/2026/05/13/technology/ai-lobbying-washington-openai-anthropic.html",
       "title": "Silicon Valley’s A.I. Lobbying Blitz Reaches a Fever Pitch",
       "slug": "2026-05-13-silicon-valley-s-a-i-lobbying-blitz-reaches-a-fever-pitch.html",
@@ -44,6 +260,15 @@
       "date_iso": "2026-05-13T07:11:17+00:00",
       "source": "https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/",
       "summary": "Article URL: https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/ Comments URL: https://news.ycombinator.com/item?id=48118763 Points: 143 # Comments: 58"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48118727",
+      "title": "The Emacsification of Software",
+      "slug": "2026-05-13-the-emacsification-of-software.html",
+      "path": "posts/2026-05-13-the-emacsification-of-software.html",
+      "date_iso": "2026-05-13T07:06:14+00:00",
+      "source": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
+      "summary": "Article URL: https://sockpuppet.org/blog/2026/05/12/emacsification/ Comments URL: https://news.ycombinator.com/item?id=48118727 Points: 299 # Comments: 197"
     },
     {
       "id": "https://www.nytimes.com/2026/05/13/technology/anduril-raises-5-billion.html",
@@ -134,6 +359,15 @@
       "date_iso": "2026-05-12T23:09:39+00:00",
       "source": "https://www.nytimes.com/2026/05/12/technology/sam-altman-openai-trial-elon-musk-lawyers.html",
       "summary": "Sam Altman, OpenAI’s chief executive, spent the day on the witness stand in a federal court in Oakland, Calif., on Tuesday."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48115438",
+      "title": "Twin brothers wipe 96 government databases minutes after being fired",
+      "slug": "2026-05-12-twin-brothers-wipe-96-government-databases-minutes-after-being-fired.html",
+      "path": "posts/2026-05-12-twin-brothers-wipe-96-government-databases-minutes-after-being-fired.html",
+      "date_iso": "2026-05-12T22:28:07+00:00",
+      "source": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/ Comments URL: https://news.ycombinator.com/item?id=48115438 Points: 425 # Comments: 326"
     },
     {
       "id": "https://news.ycombinator.com/item?id=48115127",

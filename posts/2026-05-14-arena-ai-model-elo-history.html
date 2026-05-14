@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Arena AI Model ELO History</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Arena AI Model ELO History</h1>
+    <p><small>Published: 2026-05-14T03:19:05+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hi HN,<p>I built a live tracker to visualize the lifecycle and performance changes of flagship AI models.<p>We've all experienced the phenomenon where a flagship model feels amazing at launch, but weeks later, it suddenly feels a bit off. I wanted to see if this was just a feeling or a measurable reality, so I built a dashboard to track historical ELO ratings from Arena AI.<p>Instead of a massive spaghetti chart of every single model variant, the logic plots exactly ONE continuous curve per major AI lab. 
+It dynamically tracks their highest-rated flagship model over time, which makes both the sudden generational jumps and the slow performance decays much easier to see. 
+It took quite a lot of iterations to get the chart to look nice on mobile as well. Optional dark mode included.<p>However, I have a specific data blindspot that I'm hoping this community might have insights on.<p>Arena AI largely relies on testing API endpoints. But as we know, consumer chat UIs often layer on heavy system prompts, safety wrappers, or silently switch to heavily quantized models under high load to save compute. API benchmarks don't fully capture this "nerfing" that everyday web users experience.<p>Does anyone know of any historical ELO or evaluation datasets that specifically scrape or test outputs from the consumer web UIs rather than raw APIs?<p>I'd love to integrate that data for a more accurate picture of the consumer experience. The project is open-source (repo link in the footer), so I'd appreciate any feedback, or pointers to datasets!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48130711">https://news.ycombinator.com/item?id=48130711</a></p>
+<p>Points: 59</p>
+<p># Comments: 42</p>
+    <p><a href="https://mayerwin.github.io/AI-Arena-History/" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
