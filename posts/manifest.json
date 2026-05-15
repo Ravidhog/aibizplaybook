@@ -1,6 +1,276 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/05/14/world/asia/china-us-ai-safety.html",
+      "title": "U.S. and China Will Start Discussing A.I. Safety, Bessent Says",
+      "slug": "2026-05-15-u-s-and-china-will-start-discussing-a-i-safety-bessent-says.html",
+      "path": "posts/2026-05-15-u-s-and-china-will-start-discussing-a-i-safety-bessent-says.html",
+      "date_iso": "2026-05-15T06:54:12+00:00",
+      "source": "https://www.nytimes.com/2026/05/14/world/asia/china-us-ai-safety.html",
+      "summary": "Treasury Secretary Scott Bessent during the welcoming ceremony for President Trump in Beijing, on Thursday."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/15/world/asia/nvidia-china-chips.html",
+      "title": "Nvidia’s Future in China Remains Unclear After Trump-Xi Summit",
+      "slug": "2026-05-15-nvidia-s-future-in-china-remains-unclear-after-trump-xi-summit.html",
+      "path": "posts/2026-05-15-nvidia-s-future-in-china-remains-unclear-after-trump-xi-summit.html",
+      "date_iso": "2026-05-15T06:50:54+00:00",
+      "source": "https://www.nytimes.com/2026/05/15/world/asia/nvidia-china-chips.html",
+      "summary": "Jensen Huang, Nvidia’s chief executive, after a welcome ceremony at the Great Hall of the People in Beijing on Thursday."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48144670",
+      "title": "Show HN: GlycemicGPT – Open-source AI-powered diabetes management",
+      "slug": "2026-05-15-show-hn-glycemicgpt-open-source-ai-powered-diabetes-management.html",
+      "path": "posts/2026-05-15-show-hn-glycemicgpt-open-source-ai-powered-diabetes-management.html",
+      "date_iso": "2026-05-15T04:48:23+00:00",
+      "source": "https://github.com/GlycemicGPT/GlycemicGPT",
+      "summary": "I'm a Type 1 diabetic and software engineer. Last year I went months between endocrinologists with no clinician reviewing my data. I'm an engineer, so I built the tool I needed — and now I'm open sourcing it. GlycemicGPT is a self-hosted platform that connects continuous glucose…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48144494",
+      "title": "How Claude Code works in large codebases",
+      "slug": "2026-05-15-how-claude-code-works-in-large-codebases.html",
+      "path": "posts/2026-05-15-how-claude-code-works-in-large-codebases.html",
+      "date_iso": "2026-05-15T04:15:31+00:00",
+      "source": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+      "summary": "Article URL: https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start Comments URL: https://news.ycombinator.com/item?id=48144494 Points: 162 # Comments: 118"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48144490",
+      "title": "Solar-based sleep patterns compared to modern norms",
+      "slug": "2026-05-15-solar-based-sleep-patterns-compared-to-modern-norms.html",
+      "path": "posts/2026-05-15-solar-based-sleep-patterns-compared-to-modern-norms.html",
+      "date_iso": "2026-05-15T04:15:24+00:00",
+      "source": "https://dylan.gr/1775146616",
+      "summary": "Article URL: https://dylan.gr/1775146616 Comments URL: https://news.ycombinator.com/item?id=48144490 Points: 65 # Comments: 52"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48144410",
+      "title": "Coldkey – Post-quantum age key generation and paper backup tool",
+      "slug": "2026-05-15-coldkey-post-quantum-age-key-generation-and-paper-backup-tool.html",
+      "path": "posts/2026-05-15-coldkey-post-quantum-age-key-generation-and-paper-backup-tool.html",
+      "date_iso": "2026-05-15T04:02:09+00:00",
+      "source": "https://github.com/pike00/coldkey",
+      "summary": "Article URL: https://github.com/pike00/coldkey Comments URL: https://news.ycombinator.com/item?id=48144410 Points: 17 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48144380",
+      "title": "Details of the Daring Airdrop at Tristan Da Cunha",
+      "slug": "2026-05-15-details-of-the-daring-airdrop-at-tristan-da-cunha.html",
+      "path": "posts/2026-05-15-details-of-the-daring-airdrop-at-tristan-da-cunha.html",
+      "date_iso": "2026-05-15T03:56:14+00:00",
+      "source": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
+      "summary": "Article URL: https://www.tristandc.com/government/news-2026-05-11-airdrop.php Comments URL: https://news.ycombinator.com/item?id=48144380 Points: 130 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48143997",
+      "title": "reCAPTCHA Mobile Verification Is Bringing the Play Integrity API to Desktops",
+      "slug": "2026-05-15-recaptcha-mobile-verification-is-bringing-the-play-integrity-api-to-desktops.html",
+      "path": "posts/2026-05-15-recaptcha-mobile-verification-is-bringing-the-play-integrity-api-to-desktops.html",
+      "date_iso": "2026-05-15T02:51:41+00:00",
+      "source": "https://discuss.grapheneos.org/d/35428-recaptcha-mobile-verification-is-bringing-the-play-integrity-api-to-desktops",
+      "summary": "Article URL: https://discuss.grapheneos.org/d/35428-recaptcha-mobile-verification-is-bringing-the-play-integrity-api-to-desktops Comments URL: https://news.ycombinator.com/item?id=48143997 Points: 73 # Comments: 45"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48143880",
+      "title": "Mullvad exit IPs are surprisingly identifying",
+      "slug": "2026-05-15-mullvad-exit-ips-are-surprisingly-identifying.html",
+      "path": "posts/2026-05-15-mullvad-exit-ips-are-surprisingly-identifying.html",
+      "date_iso": "2026-05-15T02:35:35+00:00",
+      "source": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
+      "summary": "Article URL: https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/ Comments URL: https://news.ycombinator.com/item?id=48143880 Points: 375 # Comments: 220"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/14/technology/openai-trial-elon-musk-sam-altman.html",
+      "title": "OpenAI Trial Heads to Jury After Closing Arguments in Musk vs. Altman Case",
+      "slug": "2026-05-15-openai-trial-heads-to-jury-after-closing-arguments-in-musk-vs-altman-case.html",
+      "path": "posts/2026-05-15-openai-trial-heads-to-jury-after-closing-arguments-in-musk-vs-altman-case.html",
+      "date_iso": "2026-05-15T01:47:03+00:00",
+      "source": "https://www.nytimes.com/2026/05/14/technology/openai-trial-elon-musk-sam-altman.html",
+      "summary": "Lawyers for Elon Musk and OpenAI made their closing arguments on Thursday in federal court in Oakland, Calif."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48143284",
+      "title": "Access to frontier AI will soon be limited by economic and security constraints",
+      "slug": "2026-05-15-access-to-frontier-ai-will-soon-be-limited-by-economic-and-security-constraints.html",
+      "path": "posts/2026-05-15-access-to-frontier-ai-will-soon-be-limited-by-economic-and-security-constraints.html",
+      "date_iso": "2026-05-15T01:08:04+00:00",
+      "source": "https://writing.antonleicht.me/p/cut-off",
+      "summary": "Article URL: https://writing.antonleicht.me/p/cut-off Comments URL: https://news.ycombinator.com/item?id=48143284 Points: 151 # Comments: 137"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48143256",
+      "title": "UFerris a Versatile Learner Board for Rust Embedded Beginners",
+      "slug": "2026-05-15-uferris-a-versatile-learner-board-for-rust-embedded-beginners.html",
+      "path": "posts/2026-05-15-uferris-a-versatile-learner-board-for-rust-embedded-beginners.html",
+      "date_iso": "2026-05-15T01:04:13+00:00",
+      "source": "https://www.theembeddedrustacean.com/uferris",
+      "summary": "Article URL: https://www.theembeddedrustacean.com/uferris Comments URL: https://news.ycombinator.com/item?id=48143256 Points: 20 # Comments: 3"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/14/technology/openai-apple-legal-action.html",
+      "title": "OpenAI Considers Legal Action Against Apple in Strained Relationship",
+      "slug": "2026-05-15-openai-considers-legal-action-against-apple-in-strained-relationship.html",
+      "path": "posts/2026-05-15-openai-considers-legal-action-against-apple-in-strained-relationship.html",
+      "date_iso": "2026-05-15T00:48:15+00:00",
+      "source": "https://www.nytimes.com/2026/05/14/technology/openai-apple-legal-action.html",
+      "summary": "The Apple Store in Grand Central Terminal in Manhattan. Apple struck a deal two years ago to support its devices with OpenAI’s ChatGPT chatbot."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48142650",
+      "title": "LLM Policy for Rust Compiler",
+      "slug": "2026-05-14-llm-policy-for-rust-compiler.html",
+      "path": "posts/2026-05-14-llm-policy-for-rust-compiler.html",
+      "date_iso": "2026-05-14T23:37:21+00:00",
+      "source": "https://github.com/rust-lang/rust-forge/pull/1040",
+      "summary": "Article URL: https://github.com/rust-lang/rust-forge/pull/1040 Comments URL: https://news.ycombinator.com/item?id=48142650 Points: 79 # Comments: 44"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48142251",
+      "title": "UK government replaces Palantir software with internally-built refugee system",
+      "slug": "2026-05-14-uk-government-replaces-palantir-software-with-internally-built-refugee-system.html",
+      "path": "posts/2026-05-14-uk-government-replaces-palantir-software-with-internally-built-refugee-system.html",
+      "date_iso": "2026-05-14T22:44:16+00:00",
+      "source": "https://www.bbc.com/news/articles/c2l2j1lxdk5o",
+      "summary": "https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-pal... Comments URL: https://news.ycombinator.com/item?id=48142251 Points: 186 # Comments: 66"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48142193",
+      "title": "More than sixty percent of the United States is experiencing drought conditions",
+      "slug": "2026-05-14-more-than-sixty-percent-of-the-united-states-is-experiencing-drought-conditions.html",
+      "path": "posts/2026-05-14-more-than-sixty-percent-of-the-united-states-is-experiencing-drought-conditions.html",
+      "date_iso": "2026-05-14T22:38:18+00:00",
+      "source": "https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html",
+      "summary": "Article URL: https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html Comments URL: https://news.ycombinator.com/item?id=48142193 Points: 199 # Comments: 76"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48142188",
+      "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
+      "slug": "2026-05-14-ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts.html",
+      "path": "posts/2026-05-14-ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts.html",
+      "date_iso": "2026-05-14T22:37:40+00:00",
+      "source": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771 Comments URL: https://news.ycombinator.com/item?id=48142188 Points: 233 # Comments: 111"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48142108",
+      "title": "A few words on DS4",
+      "slug": "2026-05-14-a-few-words-on-ds4.html",
+      "path": "posts/2026-05-14-a-few-words-on-ds4.html",
+      "date_iso": "2026-05-14T22:29:12+00:00",
+      "source": "https://antirez.com/news/165",
+      "summary": "Article URL: https://antirez.com/news/165 Comments URL: https://news.ycombinator.com/item?id=48142108 Points: 307 # Comments: 116"
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/05/14/technology/openai-trial-sam-altman-elon-musk/what-the-jury-must-weigh-to-decide-the-case",
+      "title": "What the jury must weigh to decide the case.",
+      "slug": "2026-05-14-what-the-jury-must-weigh-to-decide-the-case.html",
+      "path": "posts/2026-05-14-what-the-jury-must-weigh-to-decide-the-case.html",
+      "date_iso": "2026-05-14T22:19:42+00:00",
+      "source": "https://www.nytimes.com/live/2026/05/14/technology/openai-trial-sam-altman-elon-musk/what-the-jury-must-weigh-to-decide-the-case",
+      "summary": "A crowd waits outside the Ronald V. Dellums U.S. Courthouse last month in Oakland, Calif."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48141732",
+      "title": "OVMS: Open source electric vehicle remote monitoring, diagnosis and control",
+      "slug": "2026-05-14-ovms-open-source-electric-vehicle-remote-monitoring-diagnosis-and-control.html",
+      "path": "posts/2026-05-14-ovms-open-source-electric-vehicle-remote-monitoring-diagnosis-and-control.html",
+      "date_iso": "2026-05-14T21:50:17+00:00",
+      "source": "https://www.openvehicles.com/home",
+      "summary": "Article URL: https://www.openvehicles.com/home Comments URL: https://news.ycombinator.com/item?id=48141732 Points: 78 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48141234",
+      "title": "Claude for Legal",
+      "slug": "2026-05-14-claude-for-legal.html",
+      "path": "posts/2026-05-14-claude-for-legal.html",
+      "date_iso": "2026-05-14T21:05:05+00:00",
+      "source": "https://github.com/anthropics/claude-for-legal",
+      "summary": "Article URL: https://github.com/anthropics/claude-for-legal Comments URL: https://news.ycombinator.com/item?id=48141234 Points: 92 # Comments: 85"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48141191",
+      "title": "Infracost (YC W21) Is Hiring Sr Dev Advocate to make agents cloud cost-aware",
+      "slug": "2026-05-14-infracost-yc-w21-is-hiring-sr-dev-advocate-to-make-agents-cloud-cost-aware.html",
+      "path": "posts/2026-05-14-infracost-yc-w21-is-hiring-sr-dev-advocate-to-make-agents-cloud-cost-aware.html",
+      "date_iso": "2026-05-14T21:00:37+00:00",
+      "source": "https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate",
+      "summary": "Article URL: https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate Comments URL: https://news.ycombinator.com/item?id=48141191 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48140953",
+      "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
+      "slug": "2026-05-14-tesla-wall-connector-bootloader-bypasses-the-firmware-downgrade-ratchet.html",
+      "path": "posts/2026-05-14-tesla-wall-connector-bootloader-bypasses-the-firmware-downgrade-ratchet.html",
+      "date_iso": "2026-05-14T20:41:48+00:00",
+      "source": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
+      "summary": "Article URL: https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing Comments URL: https://news.ycombinator.com/item?id=48140953 Points: 96 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48140922",
+      "title": "New arXiv policy: 1-year ban for hallucinated references",
+      "slug": "2026-05-14-new-arxiv-policy-1-year-ban-for-hallucinated-references.html",
+      "path": "posts/2026-05-14-new-arxiv-policy-1-year-ban-for-hallucinated-references.html",
+      "date_iso": "2026-05-14T20:39:12+00:00",
+      "source": "https://twitter.com/tdietterich/status/2055000956144935055",
+      "summary": "Article URL: https://twitter.com/tdietterich/status/2055000956144935055 Comments URL: https://news.ycombinator.com/item?id=48140922 Points: 491 # Comments: 162"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/14/technology/cerebras-ipo-ai.html",
+      "title": "Cerebras, A.I. Chip Maker, Rises 89% in Market Debut as Tech IPOs Ramp Up",
+      "slug": "2026-05-14-cerebras-a-i-chip-maker-rises-89-in-market-debut-as-tech-ipos-ramp-up.html",
+      "path": "posts/2026-05-14-cerebras-a-i-chip-maker-rises-89-in-market-debut-as-tech-ipos-ramp-up.html",
+      "date_iso": "2026-05-14T20:23:32+00:00",
+      "source": "https://www.nytimes.com/2026/05/14/technology/cerebras-ipo-ai.html",
+      "summary": "Cerebras presages a series of potential “mega I.P.O.s” from A.I.-related firms including OpenAI, Anthropic and Elon Musk’s SpaceX."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48140541",
+      "title": "RISC-V Router",
+      "slug": "2026-05-14-risc-v-router.html",
+      "path": "posts/2026-05-14-risc-v-router.html",
+      "date_iso": "2026-05-14T20:06:53+00:00",
+      "source": "https://router.start9.com/",
+      "summary": "Article URL: https://router.start9.com/ Comments URL: https://news.ycombinator.com/item?id=48140541 Points: 121 # Comments: 63"
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/05/14/technology/openai-trial-sam-altman-elon-musk/heres-the-latest",
+      "title": "Here’s the latest.",
+      "slug": "2026-05-14-here-s-the-latest.html",
+      "path": "posts/2026-05-14-here-s-the-latest.html",
+      "date_iso": "2026-05-14T19:59:26+00:00",
+      "source": "https://www.nytimes.com/live/2026/05/14/technology/openai-trial-sam-altman-elon-musk/heres-the-latest",
+      "summary": ""
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/05/14/technology/openai-trial-sam-altman-elon-musk/microsofts-ceo-testified-about-the-companys-openai-investments",
+      "title": "Microsoft’s C.E.O. testified about the company’s OpenAI investments.",
+      "slug": "2026-05-14-microsoft-s-c-e-o-testified-about-the-company-s-openai-investments.html",
+      "path": "posts/2026-05-14-microsoft-s-c-e-o-testified-about-the-company-s-openai-investments.html",
+      "date_iso": "2026-05-14T19:42:03+00:00",
+      "source": "https://www.nytimes.com/live/2026/05/14/technology/openai-trial-sam-altman-elon-musk/microsofts-ceo-testified-about-the-companys-openai-investments",
+      "summary": "Satya Nadella, Microsoft’s chief executive, led his company’s investments into OpenAI."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/14/technology/artificial-intelligence-safety-controls.html",
+      "title": "Why A.I. Safety Controls Are Not Very Effective",
+      "slug": "2026-05-14-why-a-i-safety-controls-are-not-very-effective.html",
+      "path": "posts/2026-05-14-why-a-i-safety-controls-are-not-very-effective.html",
+      "date_iso": "2026-05-14T17:28:21+00:00",
+      "source": "https://www.nytimes.com/2026/05/14/technology/artificial-intelligence-safety-controls.html",
+      "summary": "A.I. systems from companies like OpenAI and Anthropic have guardrails that often prove to be porous."
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/05/14/technology/openai-trial-sam-altman-elon-musk/elon-musks-lawyer-asks-sam-altman-on-the-stand-are-you-trustworthy",
+      "title": "Elon Musk’s lawyer asked Sam Altman on the stand: Are you trustworthy?",
+      "slug": "2026-05-14-elon-musk-s-lawyer-asked-sam-altman-on-the-stand-are-you-trustworthy.html",
+      "path": "posts/2026-05-14-elon-musk-s-lawyer-asked-sam-altman-on-the-stand-are-you-trustworthy.html",
+      "date_iso": "2026-05-14T15:18:29+00:00",
+      "source": "https://www.nytimes.com/live/2026/05/14/technology/openai-trial-sam-altman-elon-musk/elon-musks-lawyer-asks-sam-altman-on-the-stand-are-you-trustworthy",
+      "summary": "Sam Altman, OpenAI’s chief executive, spent the day on the witness stand in a federal court in Oakland, Calif., on Tuesday."
+    },
+    {
       "id": "https://www.nytimes.com/2026/05/14/magazine/dumb-phones-tvs-retronym-smart-tech.html",
       "title": "Why ‘Smart’ Products Have Started to Look Like the Dumb Choice",
       "slug": "2026-05-14-why-smart-products-have-started-to-look-like-the-dumb-choice.html",
