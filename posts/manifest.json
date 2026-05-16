@@ -1,6 +1,213 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=48157559",
+      "title": "Frontier AI has broken the open CTF format",
+      "slug": "2026-05-16-frontier-ai-has-broken-the-open-ctf-format.html",
+      "path": "posts/2026-05-16-frontier-ai-has-broken-the-open-ctf-format.html",
+      "date_iso": "2026-05-16T07:01:55+00:00",
+      "source": "https://kabir.au/blog/the-ctf-scene-is-dead",
+      "summary": "Article URL: https://kabir.au/blog/the-ctf-scene-is-dead Comments URL: https://news.ycombinator.com/item?id=48157559 Points: 69 # Comments: 39"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/15/technology/openai-weightsgg-voice-cloning.html",
+      "title": "OpenAI Bought Company That Offered A.I. Tools for Cloning Voices",
+      "slug": "2026-05-16-openai-bought-company-that-offered-a-i-tools-for-cloning-voices.html",
+      "path": "posts/2026-05-16-openai-bought-company-that-offered-a-i-tools-for-cloning-voices.html",
+      "date_iso": "2026-05-16T00:33:56+00:00",
+      "source": "https://www.nytimes.com/2026/05/15/technology/openai-weightsgg-voice-cloning.html",
+      "summary": "The San Francisco offices of OpenAI, which backed away from earlier efforts to clone voices with artificial intelligence."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48155570",
+      "title": "Show HN: Epiq – Distributed Git based issue tracker TUI",
+      "slug": "2026-05-16-show-hn-epiq-distributed-git-based-issue-tracker-tui.html",
+      "path": "posts/2026-05-16-show-hn-epiq-distributed-git-based-issue-tracker-tui.html",
+      "date_iso": "2026-05-16T00:18:03+00:00",
+      "source": "https://ljtn.github.io/epiq/",
+      "summary": "Issue trackers typically live outside of your workflow, with poor ergonomics. Epiq aims to solve that, bringing issue tracking into your terminal. Multi-user collaboration is achieved via git using user-scoped immutable event logs that converge in memory. Put my all into it. Let…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48155324",
+      "title": "The main thing about P2P meth is that there's so much of it (2021)",
+      "slug": "2026-05-15-the-main-thing-about-p2p-meth-is-that-there-s-so-much-of-it-2021.html",
+      "path": "posts/2026-05-15-the-main-thing-about-p2p-meth-is-that-there-s-so-much-of-it-2021.html",
+      "date_iso": "2026-05-15T23:37:32+00:00",
+      "source": "https://dynomight.net/p2p-meth/",
+      "summary": "Article URL: https://dynomight.net/p2p-meth/ Comments URL: https://news.ycombinator.com/item?id=48155324 Points: 111 # Comments: 119"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48155297",
+      "title": "Erlang/OTP 29.0",
+      "slug": "2026-05-15-erlang-otp-29-0.html",
+      "path": "posts/2026-05-15-erlang-otp-29-0.html",
+      "date_iso": "2026-05-15T23:33:32+00:00",
+      "source": "https://www.erlang.org/news/188",
+      "summary": "Article URL: https://www.erlang.org/news/188 Comments URL: https://news.ycombinator.com/item?id=48155297 Points: 192 # Comments: 35"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48155212",
+      "title": "SQL patterns I use to catch transaction fraud",
+      "slug": "2026-05-15-sql-patterns-i-use-to-catch-transaction-fraud.html",
+      "path": "posts/2026-05-15-sql-patterns-i-use-to-catch-transaction-fraud.html",
+      "date_iso": "2026-05-15T23:22:30+00:00",
+      "source": "https://analytics.fixelsmith.com/posts/sql-fraud-patterns/",
+      "summary": "Article URL: https://analytics.fixelsmith.com/posts/sql-fraud-patterns/ Comments URL: https://news.ycombinator.com/item?id=48155212 Points: 175 # Comments: 51"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48154865",
+      "title": "Orthrus-Qwen3: up to 7.8×tokens/forward on Qwen3, identical output distribution",
+      "slug": "2026-05-15-orthrus-qwen3-up-to-7-8-tokens-forward-on-qwen3-identical-output-distribution.html",
+      "path": "posts/2026-05-15-orthrus-qwen3-up-to-7-8-tokens-forward-on-qwen3-identical-output-distribution.html",
+      "date_iso": "2026-05-15T22:38:58+00:00",
+      "source": "https://github.com/chiennv2000/orthrus",
+      "summary": "Article URL: https://github.com/chiennv2000/orthrus Comments URL: https://news.ycombinator.com/item?id=48154865 Points: 77 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48154711",
+      "title": "How to Write to SSDs [pdf]",
+      "slug": "2026-05-15-how-to-write-to-ssds-pdf.html",
+      "path": "posts/2026-05-15-how-to-write-to-ssds-pdf.html",
+      "date_iso": "2026-05-15T22:23:38+00:00",
+      "source": "https://www.vldb.org/pvldb/vol19/p1469-lee.pdf",
+      "summary": "Article URL: https://www.vldb.org/pvldb/vol19/p1469-lee.pdf Comments URL: https://news.ycombinator.com/item?id=48154711 Points: 101 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48153379",
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "slug": "2026-05-15-i-believe-there-are-entire-companies-right-now-under-ai-psychosis.html",
+      "path": "posts/2026-05-15-i-believe-there-are-entire-companies-right-now-under-ai-psychosis.html",
+      "date_iso": "2026-05-15T20:26:47+00:00",
+      "source": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "summary": "https://xcancel.com/mitchellh/status/2055380239711457578 https://hachyderm.io/@mitchellh/116580433508108130 Comments URL: https://news.ycombinator.com/item?id=48153379 Points: 1279 # Comments: 628"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48152994",
+      "title": "California bill would require patches or refunds when online games shut down",
+      "slug": "2026-05-15-california-bill-would-require-patches-or-refunds-when-online-games-shut-down.html",
+      "path": "posts/2026-05-15-california-bill-would-require-patches-or-refunds-when-online-games-shut-down.html",
+      "date_iso": "2026-05-15T19:48:48+00:00",
+      "source": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
+      "summary": "Article URL: https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/ Comments URL: https://news.ycombinator.com/item?id=48152994 Points: 472 # Comments: 295"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48152168",
+      "title": "The Zulip Foundation",
+      "slug": "2026-05-15-the-zulip-foundation.html",
+      "path": "posts/2026-05-15-the-zulip-foundation.html",
+      "date_iso": "2026-05-15T18:37:01+00:00",
+      "source": "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/",
+      "summary": "Article URL: https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/ Comments URL: https://news.ycombinator.com/item?id=48152168 Points: 264 # Comments: 69"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48151383",
+      "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
+      "slug": "2026-05-15-u-s-doj-demands-apple-and-google-unmask-over-100k-users-of-car-tinkering-app.html",
+      "path": "posts/2026-05-15-u-s-doj-demands-apple-and-google-unmask-over-100k-users-of-car-tinkering-app.html",
+      "date_iso": "2026-05-15T17:28:24+00:00",
+      "source": "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/",
+      "summary": "Article URL: https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/ Comments URL: https://news.ycombinator.com/item?id=48151383 Points: 417 # Comments: 286"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48151237",
+      "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
+      "slug": "2026-05-15-i-designed-a-nibble-oriented-cpu-in-verilog-to-build-a-scientific-calculator.html",
+      "path": "posts/2026-05-15-i-designed-a-nibble-oriented-cpu-in-verilog-to-build-a-scientific-calculator.html",
+      "date_iso": "2026-05-15T17:15:58+00:00",
+      "source": "https://github.com/gdevic/FPGA-Calculator",
+      "summary": "Article URL: https://github.com/gdevic/FPGA-Calculator Comments URL: https://news.ycombinator.com/item?id=48151237 Points: 100 # Comments: 33"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48151034",
+      "title": "Hightouch (YC S19) Is Hiring",
+      "slug": "2026-05-15-hightouch-yc-s19-is-hiring.html",
+      "path": "posts/2026-05-15-hightouch-yc-s19-is-hiring.html",
+      "date_iso": "2026-05-15T17:01:15+00:00",
+      "source": "https://hightouch.com/careers",
+      "summary": "Article URL: https://hightouch.com/careers Comments URL: https://news.ycombinator.com/item?id=48151034 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48150900",
+      "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+      "slug": "2026-05-15-bun-rust-rewrite-codebase-fails-basic-miri-checks-allows-for-ub-in-safe-rust.html",
+      "path": "posts/2026-05-15-bun-rust-rewrite-codebase-fails-basic-miri-checks-allows-for-ub-in-safe-rust.html",
+      "date_iso": "2026-05-15T16:51:25+00:00",
+      "source": "https://github.com/oven-sh/bun/issues/30719",
+      "summary": "Article URL: https://github.com/oven-sh/bun/issues/30719 Comments URL: https://news.ycombinator.com/item?id=48150900 Points: 390 # Comments: 276"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48150431",
+      "title": "Project Gutenberg – keeps getting better",
+      "slug": "2026-05-15-project-gutenberg-keeps-getting-better.html",
+      "path": "posts/2026-05-15-project-gutenberg-keeps-getting-better.html",
+      "date_iso": "2026-05-15T16:15:36+00:00",
+      "source": "https://www.gutenberg.org/",
+      "summary": "Article URL: https://www.gutenberg.org/ Comments URL: https://news.ycombinator.com/item?id=48150431 Points: 910 # Comments: 192"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48150069",
+      "title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
+      "slug": "2026-05-15-image-blaster-creates-3d-environments-sfx-and-meshes-from-a-single-image.html",
+      "path": "posts/2026-05-15-image-blaster-creates-3d-environments-sfx-and-meshes-from-a-single-image.html",
+      "date_iso": "2026-05-15T15:42:37+00:00",
+      "source": "https://github.com/neilsonnn/image-blaster",
+      "summary": "Article URL: https://github.com/neilsonnn/image-blaster Comments URL: https://news.ycombinator.com/item?id=48150069 Points: 157 # Comments: 31"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48149259",
+      "title": "Additive Blending on the Nintendo 64",
+      "slug": "2026-05-15-additive-blending-on-the-nintendo-64.html",
+      "path": "posts/2026-05-15-additive-blending-on-the-nintendo-64.html",
+      "date_iso": "2026-05-15T14:39:51+00:00",
+      "source": "https://phoboslab.org/log/2026/05/n64-additive-blending",
+      "summary": "Article URL: https://phoboslab.org/log/2026/05/n64-additive-blending Comments URL: https://news.ycombinator.com/item?id=48149259 Points: 97 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48148726",
+      "title": "ASCII by Jason Scott",
+      "slug": "2026-05-15-ascii-by-jason-scott.html",
+      "path": "posts/2026-05-15-ascii-by-jason-scott.html",
+      "date_iso": "2026-05-15T14:02:36+00:00",
+      "source": "https://ascii.textfiles.com/",
+      "summary": "https://web.archive.org/web/20260501220231/https://ascii.tex... Comments URL: https://news.ycombinator.com/item?id=48148726 Points: 188 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48148460",
+      "title": "A 0-click exploit chain for the Pixel 10",
+      "slug": "2026-05-15-a-0-click-exploit-chain-for-the-pixel-10.html",
+      "path": "posts/2026-05-15-a-0-click-exploit-chain-for-the-pixel-10.html",
+      "date_iso": "2026-05-15T13:39:54+00:00",
+      "source": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "summary": "Article URL: https://projectzero.google/2026/05/pixel-10-exploit.html Comments URL: https://news.ycombinator.com/item?id=48148460 Points: 370 # Comments: 184"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/15/business/nvidia-china-chips.html",
+      "title": "Nvidia’s Future in China Remains Unclear After Trump-Xi Summit",
+      "slug": "2026-05-15-nvidia-s-future-in-china-remains-unclear-after-trump-xi-summit.html",
+      "path": "posts/2026-05-15-nvidia-s-future-in-china-remains-unclear-after-trump-xi-summit.html",
+      "date_iso": "2026-05-15T12:12:03+00:00",
+      "source": "https://www.nytimes.com/2026/05/15/business/nvidia-china-chips.html",
+      "summary": "Jensen Huang, Nvidia’s chief executive, after a welcome ceremony at the Great Hall of the People in Beijing on Thursday."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48147603",
+      "title": "Radicle: Sovereign {code forge} built on Git",
+      "slug": "2026-05-15-radicle-sovereign-code-forge-built-on-git.html",
+      "path": "posts/2026-05-15-radicle-sovereign-code-forge-built-on-git.html",
+      "date_iso": "2026-05-15T12:07:55+00:00",
+      "source": "https://radicle.dev/",
+      "summary": "Article URL: https://radicle.dev/ Comments URL: https://news.ycombinator.com/item?id=48147603 Points: 236 # Comments: 85"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/15/podcasts/ai-safety-is-so-back-mythos-mayhem-with-nikesh-arora-hot-mess-express.html",
+      "title": "A.I. Safety Is So Back + Mythos Mayhem with Nikesh Arora + Hot Mess Express",
+      "slug": "2026-05-15-a-i-safety-is-so-back-mythos-mayhem-with-nikesh-arora-hot-mess-express.html",
+      "path": "posts/2026-05-15-a-i-safety-is-so-back-mythos-mayhem-with-nikesh-arora-hot-mess-express.html",
+      "date_iso": "2026-05-15T11:00:06+00:00",
+      "source": "https://www.nytimes.com/2026/05/15/podcasts/ai-safety-is-so-back-mythos-mayhem-with-nikesh-arora-hot-mess-express.html",
+      "summary": "After several years of dismissing A.I. safety as doomer fear-mongering, parts of the Trump administration now seem ready to support regulation."
+    },
+    {
       "id": "https://www.nytimes.com/2026/05/14/world/asia/china-us-ai-safety.html",
       "title": "U.S. and China Will Start Discussing A.I. Safety, Bessent Says",
       "slug": "2026-05-15-u-s-and-china-will-start-discussing-a-i-safety-bessent-says.html",
