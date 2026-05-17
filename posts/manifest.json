@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=48166920",
+      "title": "Playing Atari ST Music on the Amiga with Zero CPU",
+      "slug": "2026-05-17-playing-atari-st-music-on-the-amiga-with-zero-cpu.html",
+      "path": "posts/2026-05-17-playing-atari-st-music-on-the-amiga-with-zero-cpu.html",
+      "date_iso": "2026-05-17T08:00:04+00:00",
+      "source": "https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/",
+      "summary": "Article URL: https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/ Comments URL: https://news.ycombinator.com/item?id=48166920 Points: 8 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48166877",
+      "title": "Ten Signs of Fascism. America has all of them",
+      "slug": "2026-05-17-ten-signs-of-fascism-america-has-all-of-them.html",
+      "path": "posts/2026-05-17-ten-signs-of-fascism-america-has-all-of-them.html",
+      "date_iso": "2026-05-17T07:50:57+00:00",
+      "source": "https://rutgerbregman.substack.com/p/10-signs-of-fascism-america-has-all",
+      "summary": "Article URL: https://rutgerbregman.substack.com/p/10-signs-of-fascism-america-has-all Comments URL: https://news.ycombinator.com/item?id=48166877 Points: 31 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48166459",
+      "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+      "slug": "2026-05-17-mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools.html",
+      "path": "posts/2026-05-17-mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools.html",
+      "date_iso": "2026-05-17T06:17:26+00:00",
+      "source": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
+      "summary": "Article URL: https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/ Comments URL: https://news.ycombinator.com/item?id=48166459 Points: 138 # Comments: 31"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48165980",
+      "title": "Tesla Solar Roof is on life support as it pivot to panels",
+      "slug": "2026-05-17-tesla-solar-roof-is-on-life-support-as-it-pivot-to-panels.html",
+      "path": "posts/2026-05-17-tesla-solar-roof-is-on-life-support-as-it-pivot-to-panels.html",
+      "date_iso": "2026-05-17T04:09:52+00:00",
+      "source": "https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/",
+      "summary": "Article URL: https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/ Comments URL: https://news.ycombinator.com/item?id=48165980 Points: 70 # Comments: 55"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48165902",
+      "title": "Grafana Labs internal source code accessed",
+      "slug": "2026-05-17-grafana-labs-internal-source-code-accessed.html",
+      "path": "posts/2026-05-17-grafana-labs-internal-source-code-accessed.html",
+      "date_iso": "2026-05-17T03:48:15+00:00",
+      "source": "https://twitter.com/grafana/status/2055827123236171827",
+      "summary": "Article URL: https://twitter.com/grafana/status/2055827123236171827 Comments URL: https://news.ycombinator.com/item?id=48165902 Points: 51 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48165295",
+      "title": "Hosting a website on an 8-bit microcontroller",
+      "slug": "2026-05-17-hosting-a-website-on-an-8-bit-microcontroller.html",
+      "path": "posts/2026-05-17-hosting-a-website-on-an-8-bit-microcontroller.html",
+      "date_iso": "2026-05-17T01:25:26+00:00",
+      "source": "https://maurycyz.com/projects/mcusite/",
+      "summary": "Article URL: https://maurycyz.com/projects/mcusite/ Comments URL: https://news.ycombinator.com/item?id=48165295 Points: 120 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48165265",
+      "title": "Self-Distillation Enables Continual Learning [pdf]",
+      "slug": "2026-05-17-self-distillation-enables-continual-learning-pdf.html",
+      "path": "posts/2026-05-17-self-distillation-enables-continual-learning-pdf.html",
+      "date_iso": "2026-05-17T01:19:14+00:00",
+      "source": "https://arxiv.org/abs/2601.19897",
+      "summary": "Article URL: https://arxiv.org/abs/2601.19897 Comments URL: https://news.ycombinator.com/item?id=48165265 Points: 58 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48164432",
+      "title": "A nicer voltmeter clock",
+      "slug": "2026-05-16-a-nicer-voltmeter-clock.html",
+      "path": "posts/2026-05-16-a-nicer-voltmeter-clock.html",
+      "date_iso": "2026-05-16T22:45:16+00:00",
+      "source": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock Comments URL: https://news.ycombinator.com/item?id=48164432 Points: 165 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48164294",
+      "title": "MCP Hello Page",
+      "slug": "2026-05-16-mcp-hello-page.html",
+      "path": "posts/2026-05-16-mcp-hello-page.html",
+      "date_iso": "2026-05-16T22:25:33+00:00",
+      "source": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
+      "summary": "Article URL: https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page Comments URL: https://news.ycombinator.com/item?id=48164294 Points: 93 # Comments: 31"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48164287",
+      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+      "slug": "2026-05-16-zerostack-a-unix-inspired-coding-agent-written-in-pure-rust.html",
+      "path": "posts/2026-05-16-zerostack-a-unix-inspired-coding-agent-written-in-pure-rust.html",
+      "date_iso": "2026-05-16T22:23:50+00:00",
+      "source": "https://crates.io/crates/zerostack/1.0.0",
+      "summary": "Article URL: https://crates.io/crates/zerostack/1.0.0 Comments URL: https://news.ycombinator.com/item?id=48164287 Points: 375 # Comments: 150"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48163956",
+      "title": "Twilight of the Velocipede: Typesetting Races Before the Age of Linotype",
+      "slug": "2026-05-16-twilight-of-the-velocipede-typesetting-races-before-the-age-of-linotype.html",
+      "path": "posts/2026-05-16-twilight-of-the-velocipede-typesetting-races-before-the-age-of-linotype.html",
+      "date_iso": "2026-05-16T21:25:07+00:00",
+      "source": "https://publicdomainreview.org/essay/twilight-of-the-velocipede/",
+      "summary": "Article URL: https://publicdomainreview.org/essay/twilight-of-the-velocipede/ Comments URL: https://news.ycombinator.com/item?id=48163956 Points: 8 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48163392",
+      "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+      "slug": "2026-05-16-openai-and-government-of-malta-partner-to-roll-out-chatgpt-plus-to-all-citizens.html",
+      "path": "posts/2026-05-16-openai-and-government-of-malta-partner-to-roll-out-chatgpt-plus-to-all-citizens.html",
+      "date_iso": "2026-05-16T20:14:06+00:00",
+      "source": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+      "summary": "Article URL: https://openai.com/index/malta-chatgpt-plus-partnership/ Comments URL: https://news.ycombinator.com/item?id=48163392 Points: 176 # Comments: 190"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/16/technology/instagram-instants-feature.html",
+      "title": "Did You Mean to Share That Selfie? What to Know About Instagram Instants.",
+      "slug": "2026-05-16-did-you-mean-to-share-that-selfie-what-to-know-about-instagram-instants.html",
+      "path": "posts/2026-05-16-did-you-mean-to-share-that-selfie-what-to-know-about-instagram-instants.html",
+      "date_iso": "2026-05-16T19:30:53+00:00",
+      "source": "https://www.nytimes.com/2026/05/16/technology/instagram-instants-feature.html",
+      "summary": "Instagram’s new feature blasts photos to your mutual followers or close friends, immediately."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48162468",
+      "title": "Halt and Catch Fire",
+      "slug": "2026-05-16-halt-and-catch-fire.html",
+      "path": "posts/2026-05-16-halt-and-catch-fire.html",
+      "date_iso": "2026-05-16T18:16:29+00:00",
+      "source": "https://unstack.io/halt-and-catch-fire",
+      "summary": "Article URL: https://unstack.io/halt-and-catch-fire Comments URL: https://news.ycombinator.com/item?id=48162468 Points: 136 # Comments: 70"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48161881",
+      "title": "Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol",
+      "slug": "2026-05-16-show-hn-rocksky-music-scrobbling-and-discovery-on-the-at-protocol.html",
+      "path": "posts/2026-05-16-show-hn-rocksky-music-scrobbling-and-discovery-on-the-at-protocol.html",
+      "date_iso": "2026-05-16T17:00:41+00:00",
+      "source": "https://tangled.org/rocksky.app/rocksky",
+      "summary": "Article URL: https://tangled.org/rocksky.app/rocksky Comments URL: https://news.ycombinator.com/item?id=48161881 Points: 75 # Comments: 33"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48159445",
+      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+      "slug": "2026-05-16-sana-wm-a-2-6b-open-source-world-model-for-1-minute-720p-video.html",
+      "path": "posts/2026-05-16-sana-wm-a-2-6b-open-source-world-model-for-1-minute-720p-video.html",
+      "date_iso": "2026-05-16T12:06:21+00:00",
+      "source": "https://nvlabs.github.io/Sana/WM/",
+      "summary": "Article URL: https://nvlabs.github.io/Sana/WM/ Comments URL: https://news.ycombinator.com/item?id=48159445 Points: 334 # Comments: 135"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48159405",
+      "title": "Kyber (YC W23) Is Hiring a Founding Marketer",
+      "slug": "2026-05-16-kyber-yc-w23-is-hiring-a-founding-marketer.html",
+      "path": "posts/2026-05-16-kyber-yc-w23-is-hiring-a-founding-marketer.html",
+      "date_iso": "2026-05-16T12:01:06+00:00",
+      "source": "https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community",
+      "summary": "Article URL: https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community Comments URL: https://news.ycombinator.com/item?id=48159405 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48159241",
+      "title": "Accelerando (2005)",
+      "slug": "2026-05-16-accelerando-2005.html",
+      "path": "posts/2026-05-16-accelerando-2005.html",
+      "date_iso": "2026-05-16T11:36:32+00:00",
+      "source": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
+      "summary": "Article URL: https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html Comments URL: https://news.ycombinator.com/item?id=48159241 Points: 284 # Comments: 162"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48158506",
+      "title": "δ-mem: Efficient Online Memory for Large Language Models",
+      "slug": "2026-05-16-mem-efficient-online-memory-for-large-language-models.html",
+      "path": "posts/2026-05-16-mem-efficient-online-memory-for-large-language-models.html",
+      "date_iso": "2026-05-16T09:30:06+00:00",
+      "source": "https://arxiv.org/abs/2605.12357",
+      "summary": "Article URL: https://arxiv.org/abs/2605.12357 Comments URL: https://news.ycombinator.com/item?id=48158506 Points: 210 # Comments: 57"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48158400",
+      "title": "Moving away from Tailwind, and learning to structure my CSS",
+      "slug": "2026-05-16-moving-away-from-tailwind-and-learning-to-structure-my-css.html",
+      "path": "posts/2026-05-16-moving-away-from-tailwind-and-learning-to-structure-my-css.html",
+      "date_iso": "2026-05-16T09:14:26+00:00",
+      "source": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+      "summary": "Article URL: https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/ Comments URL: https://news.ycombinator.com/item?id=48158400 Points: 531 # Comments: 312"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48158065",
+      "title": "We've made the world too complicated",
+      "slug": "2026-05-16-we-ve-made-the-world-too-complicated.html",
+      "path": "posts/2026-05-16-we-ve-made-the-world-too-complicated.html",
+      "date_iso": "2026-05-16T08:25:17+00:00",
+      "source": "https://user8.bearblog.dev/the-world-is-too-complicated/",
+      "summary": "Article URL: https://user8.bearblog.dev/the-world-is-too-complicated/ Comments URL: https://news.ycombinator.com/item?id=48158065 Points: 287 # Comments: 259"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=48157559",
       "title": "Frontier AI has broken the open CTF format",
       "slug": "2026-05-16-frontier-ai-has-broken-the-open-ctf-format.html",
