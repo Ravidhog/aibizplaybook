@@ -1,6 +1,267 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/05/19/technology/openai-musk-legal-challenges.html",
+      "title": "As OpenAI Celebrates Court Win Against Musk, Other Challenges Lie Ahead",
+      "slug": "2026-05-19-as-openai-celebrates-court-win-against-musk-other-challenges-lie-ahead.html",
+      "path": "posts/2026-05-19-as-openai-celebrates-court-win-against-musk-other-challenges-lie-ahead.html",
+      "date_iso": "2026-05-19T09:03:30+00:00",
+      "source": "https://www.nytimes.com/2026/05/19/technology/openai-musk-legal-challenges.html",
+      "summary": "Lawyers for OpenAI, who won a resounding victory on Monday, outside the federal courthouse in Oakland, Calif."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/19/business/energy-environment/electrc-vehicles-annual-fee-congress.html",
+      "title": "Bipartisan Bill Would Impose New Annual Fee on Electric Vehicles",
+      "slug": "2026-05-19-bipartisan-bill-would-impose-new-annual-fee-on-electric-vehicles.html",
+      "path": "posts/2026-05-19-bipartisan-bill-would-impose-new-annual-fee-on-electric-vehicles.html",
+      "date_iso": "2026-05-19T09:02:37+00:00",
+      "source": "https://www.nytimes.com/2026/05/19/business/energy-environment/electrc-vehicles-annual-fee-congress.html",
+      "summary": "Congress is considering imposing a new annual fee on electric vehicles to help pay for road repairs."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48189368",
+      "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
+      "slug": "2026-05-19-mini-shai-hulud-strikes-again-314-npm-packages-compromised.html",
+      "path": "posts/2026-05-19-mini-shai-hulud-strikes-again-314-npm-packages-compromised.html",
+      "date_iso": "2026-05-19T05:04:49+00:00",
+      "source": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+      "summary": "Article URL: https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/ Comments URL: https://news.ycombinator.com/item?id=48189368 Points: 104 # Comments: 56"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48189178",
+      "title": "PyTorch Landscape",
+      "slug": "2026-05-19-pytorch-landscape.html",
+      "path": "posts/2026-05-19-pytorch-landscape.html",
+      "date_iso": "2026-05-19T04:29:39+00:00",
+      "source": "https://pytorch.landscape2.io",
+      "summary": "Article URL: https://pytorch.landscape2.io Comments URL: https://news.ycombinator.com/item?id=48189178 Points: 46 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48189156",
+      "title": "Codex-maxxing",
+      "slug": "2026-05-19-codex-maxxing.html",
+      "path": "posts/2026-05-19-codex-maxxing.html",
+      "date_iso": "2026-05-19T04:24:45+00:00",
+      "source": "https://jxnl.co/writing/2026/05/10/codex-maxxing/",
+      "summary": "Article URL: https://jxnl.co/writing/2026/05/10/codex-maxxing/ Comments URL: https://news.ycombinator.com/item?id=48189156 Points: 80 # Comments: 58"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48189044",
+      "title": "Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust",
+      "slug": "2026-05-19-show-hn-hsrs-type-safe-haskell-bindings-generator-for-rust.html",
+      "path": "posts/2026-05-19-show-hn-hsrs-type-safe-haskell-bindings-generator-for-rust.html",
+      "date_iso": "2026-05-19T04:06:09+00:00",
+      "source": "https://github.com/harmont-dev/hsrs",
+      "summary": "Hey everyone! I've been working on hsrs, a type-safe Haskell Bindings Generator for Rust. I couldn't really find any bindings generator that would create type-safe, rich bindings for Haskell from Rust. Naturally, both languages have rich type systems, so I was amazed that no awe…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48188787",
+      "title": "Peter Neumann has died",
+      "slug": "2026-05-19-peter-neumann-has-died.html",
+      "path": "posts/2026-05-19-peter-neumann-has-died.html",
+      "date_iso": "2026-05-19T03:17:45+00:00",
+      "source": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
+      "summary": "Article URL: https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html Comments URL: https://news.ycombinator.com/item?id=48188787 Points: 122 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48188665",
+      "title": "Peter Salus has died",
+      "slug": "2026-05-19-peter-salus-has-died.html",
+      "path": "posts/2026-05-19-peter-salus-has-died.html",
+      "date_iso": "2026-05-19T02:56:42+00:00",
+      "source": "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html",
+      "summary": "Article URL: https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html Comments URL: https://news.ycombinator.com/item?id=48188665 Points: 139 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48188183",
+      "title": "The last six months in LLMs in five minutes",
+      "slug": "2026-05-19-the-last-six-months-in-llms-in-five-minutes.html",
+      "path": "posts/2026-05-19-the-last-six-months-in-llms-in-five-minutes.html",
+      "date_iso": "2026-05-19T01:30:42+00:00",
+      "source": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+      "summary": "Article URL: https://simonwillison.net/2026/May/19/5-minute-llms/ Comments URL: https://news.ycombinator.com/item?id=48188183 Points: 462 # Comments: 323"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/18/technology/meta-reassigns-7000-employees-ai.html",
+      "title": "Meta Reassigns 7,000 Employees to Focus on A.I.",
+      "slug": "2026-05-19-meta-reassigns-7-000-employees-to-focus-on-a-i.html",
+      "path": "posts/2026-05-19-meta-reassigns-7-000-employees-to-focus-on-a-i.html",
+      "date_iso": "2026-05-19T00:48:11+00:00",
+      "source": "https://www.nytimes.com/2026/05/18/technology/meta-reassigns-7000-employees-ai.html",
+      "summary": "The new Meta Lab flagship store, which sells tech like smart glasses and virtual reality headsets, on Fifth Avenue in Manhattan."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial.html",
+      "title": "After Elon Musk’s Court Loss Comes the Long Hot A.I. Summer",
+      "slug": "2026-05-19-after-elon-musk-s-court-loss-comes-the-long-hot-a-i-summer.html",
+      "path": "posts/2026-05-19-after-elon-musk-s-court-loss-comes-the-long-hot-a-i-summer.html",
+      "date_iso": "2026-05-19T00:12:22+00:00",
+      "source": "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial.html",
+      "summary": "Elon Musk on Monday lost his lawsuit accusing OpenAI and its chief executive, Sam Altman, of breaching the company’s founding contract."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48187201",
+      "title": "Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25",
+      "slug": "2026-05-18-pope-leo-xiv-s-first-encyclical-magnifica-humanitas-to-be-published-may-25.html",
+      "path": "posts/2026-05-18-pope-leo-xiv-s-first-encyclical-magnifica-humanitas-to-be-published-may-25.html",
+      "date_iso": "2026-05-18T23:18:10+00:00",
+      "source": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
+      "summary": "Article URL: https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html Comments URL: https://news.ycombinator.com/item?id=48187201 Points: 229 # Comments: 140"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48187054",
+      "title": "Click (2016)",
+      "slug": "2026-05-18-click-2016.html",
+      "path": "posts/2026-05-18-click-2016.html",
+      "date_iso": "2026-05-18T23:03:02+00:00",
+      "source": "https://clickclickclick.click/",
+      "summary": "Article URL: https://clickclickclick.click/ Comments URL: https://news.ycombinator.com/item?id=48187054 Points: 309 # Comments: 73"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial-takeaways.html",
+      "title": "Five Takeaways From the Blockbuster Trial Pitting Elon Musk Against OpenAI",
+      "slug": "2026-05-18-five-takeaways-from-the-blockbuster-trial-pitting-elon-musk-against-openai.html",
+      "path": "posts/2026-05-18-five-takeaways-from-the-blockbuster-trial-pitting-elon-musk-against-openai.html",
+      "date_iso": "2026-05-18T22:45:53+00:00",
+      "source": "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial-takeaways.html",
+      "summary": "The federal courthouse in Oakland, Calif., on Monday, when a jury decided that Elon Musk had waited too long to file his lawsuit against OpenAI."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/18/technology/elon-musk-lawsuit-openai-sam-altman.html",
+      "title": "Elon Musk Loses $150 Billion Suit Against OpenAI and Sam Altman",
+      "slug": "2026-05-18-elon-musk-loses-150-billion-suit-against-openai-and-sam-altman.html",
+      "path": "posts/2026-05-18-elon-musk-loses-150-billion-suit-against-openai-and-sam-altman.html",
+      "date_iso": "2026-05-18T21:31:32+00:00",
+      "source": "https://www.nytimes.com/2026/05/18/technology/elon-musk-lawsuit-openai-sam-altman.html",
+      "summary": "OpenAI’s president, Greg Brockman, right, was also named in Mr. Musk’s lawsuit."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48185938",
+      "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
+      "slug": "2026-05-18-alignment-pretraining-ai-discourse-creates-self-fulfilling-mis-alignment.html",
+      "path": "posts/2026-05-18-alignment-pretraining-ai-discourse-creates-self-fulfilling-mis-alignment.html",
+      "date_iso": "2026-05-18T21:29:13+00:00",
+      "source": "https://arxiv.org/abs/2601.10160",
+      "summary": "Article URL: https://arxiv.org/abs/2601.10160 Comments URL: https://news.ycombinator.com/item?id=48185938 Points: 58 # Comments: 24"
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/05/18/technology/openai-trial-verdict-altman-musk/heres-the-latest",
+      "title": "Here’s the latest.",
+      "slug": "2026-05-18-here-s-the-latest.html",
+      "path": "posts/2026-05-18-here-s-the-latest.html",
+      "date_iso": "2026-05-18T20:47:16+00:00",
+      "source": "https://www.nytimes.com/live/2026/05/18/technology/openai-trial-verdict-altman-musk/heres-the-latest",
+      "summary": ""
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/05/18/technology/openai-trial-verdict-altman-musk/heres-what-was-on-the-jurys-list-for-a-decision",
+      "title": "Here’s what was on the jury’s list for a decision.",
+      "slug": "2026-05-18-here-s-what-was-on-the-jury-s-list-for-a-decision.html",
+      "path": "posts/2026-05-18-here-s-what-was-on-the-jury-s-list-for-a-decision.html",
+      "date_iso": "2026-05-18T20:39:17+00:00",
+      "source": "https://www.nytimes.com/live/2026/05/18/technology/openai-trial-verdict-altman-musk/heres-what-was-on-the-jurys-list-for-a-decision",
+      "summary": "The Ronald V. Dellums U.S. Courthouse in Oakland, Calif."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/18/technology/openai-trial-elon-musk-sam-altman.html",
+      "title": "What to Know About Elon Musk’s Trial Against OpenAI",
+      "slug": "2026-05-18-what-to-know-about-elon-musk-s-trial-against-openai.html",
+      "path": "posts/2026-05-18-what-to-know-about-elon-musk-s-trial-against-openai.html",
+      "date_iso": "2026-05-18T19:35:29+00:00",
+      "source": "https://www.nytimes.com/2026/05/18/technology/openai-trial-elon-musk-sam-altman.html",
+      "summary": "A jury in Oakland, Calif., reached a decision after a three-week-long trial seen as pivotal for the future of OpenAI and the artificial intelligence race."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48184322",
+      "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+      "slug": "2026-05-18-hyperpolyglot-lisp-common-lisp-racket-clojure-emacs-lisp.html",
+      "path": "posts/2026-05-18-hyperpolyglot-lisp-common-lisp-racket-clojure-emacs-lisp.html",
+      "date_iso": "2026-05-18T19:27:25+00:00",
+      "source": "https://hyperpolyglot.org/lisp",
+      "summary": "Article URL: https://hyperpolyglot.org/lisp Comments URL: https://news.ycombinator.com/item?id=48184322 Points: 159 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48183748",
+      "title": "Agora-1: The Multi-Agent World Model",
+      "slug": "2026-05-18-agora-1-the-multi-agent-world-model.html",
+      "path": "posts/2026-05-18-agora-1-the-multi-agent-world-model.html",
+      "date_iso": "2026-05-18T18:43:30+00:00",
+      "source": "https://odyssey.ml/introducing-agora-1",
+      "summary": "Article URL: https://odyssey.ml/introducing-agora-1 Comments URL: https://news.ycombinator.com/item?id=48183748 Points: 111 # Comments: 22"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/17/technology/peter-g-neumann-dead.html",
+      "title": "Peter G. Neumann, Who Warned of Computer Security Risks, Dies at 93",
+      "slug": "2026-05-18-peter-g-neumann-who-warned-of-computer-security-risks-dies-at-93.html",
+      "path": "posts/2026-05-18-peter-g-neumann-who-warned-of-computer-security-risks-dies-at-93.html",
+      "date_iso": "2026-05-18T18:27:41+00:00",
+      "source": "https://www.nytimes.com/2026/05/17/technology/peter-g-neumann-dead.html",
+      "summary": "Peter G. Neumann in 2012. At his death, he was still working full time on advanced computer security design being adopted by companies like Google and Microsoft."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48183301",
+      "title": "We let AIs run radio stations",
+      "slug": "2026-05-18-we-let-ais-run-radio-stations.html",
+      "path": "posts/2026-05-18-we-let-ais-run-radio-stations.html",
+      "date_iso": "2026-05-18T18:12:18+00:00",
+      "source": "https://andonlabs.com/blog/andon-fm",
+      "summary": "Hey HN! I'm Lukas from Andon Labs. We let AIs run companies without humans in the loop and report to the public on what can go wrong. Previously, we've done experiments in retail (vending machines, stores, and cafes), but we just launched one in the media sector. We gave four AI…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48182754",
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "slug": "2026-05-18-elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai.html",
+      "path": "posts/2026-05-18-elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai.html",
+      "date_iso": "2026-05-18T17:38:22+00:00",
+      "source": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "summary": "Article URL: https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/ Comments URL: https://news.ycombinator.com/item?id=48182754 Points: 958 # Comments: 482"
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/05/18/technology/openai-trial-verdict-altman-musk/what-the-jury-must-weigh-to-decide-the-case",
+      "title": "What the jury had to weigh to decide the case.",
+      "slug": "2026-05-18-what-the-jury-had-to-weigh-to-decide-the-case.html",
+      "path": "posts/2026-05-18-what-the-jury-had-to-weigh-to-decide-the-case.html",
+      "date_iso": "2026-05-18T17:26:38+00:00",
+      "source": "https://www.nytimes.com/live/2026/05/18/technology/openai-trial-verdict-altman-musk/what-the-jury-must-weigh-to-decide-the-case",
+      "summary": "A crowd waits outside the Ronald V. Dellums U.S. Courthouse last month in Oakland, Calif."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48182516",
+      "title": "Cursor Introduces Composer 2.5",
+      "slug": "2026-05-18-cursor-introduces-composer-2-5.html",
+      "path": "posts/2026-05-18-cursor-introduces-composer-2-5.html",
+      "date_iso": "2026-05-18T17:20:43+00:00",
+      "source": "https://cursor.com/blog/composer-2-5",
+      "summary": "https://twitter.com/cursor_ai/status/2056415413077233983 Comments URL: https://news.ycombinator.com/item?id=48182516 Points: 150 # Comments: 107"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48182281",
+      "title": "Anthropic acquires Stainless",
+      "slug": "2026-05-18-anthropic-acquires-stainless.html",
+      "path": "posts/2026-05-18-anthropic-acquires-stainless.html",
+      "date_iso": "2026-05-18T17:01:21+00:00",
+      "source": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "summary": "Article URL: https://www.anthropic.com/news/anthropic-acquires-stainless Comments URL: https://news.ycombinator.com/item?id=48182281 Points: 455 # Comments: 314"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48180204",
+      "title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
+      "slug": "2026-05-18-1024000-2-blocks-2b2t-minecraft-server-world-download-project-and-discoveries.html",
+      "path": "posts/2026-05-18-1024000-2-blocks-2b2t-minecraft-server-world-download-project-and-discoveries.html",
+      "date_iso": "2026-05-18T14:13:07+00:00",
+      "source": "https://github.com/2b2tplace/1m_release",
+      "summary": "Article URL: https://github.com/2b2tplace/1m_release Comments URL: https://news.ycombinator.com/item?id=48180204 Points: 143 # Comments: 89"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48179021",
+      "title": "AI eats the world (Spring 26) [pdf]",
+      "slug": "2026-05-18-ai-eats-the-world-spring-26-pdf.html",
+      "path": "posts/2026-05-18-ai-eats-the-world-spring-26-pdf.html",
+      "date_iso": "2026-05-18T12:49:28+00:00",
+      "source": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
+      "summary": "Article URL: https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf Comments URL: https://news.ycombinator.com/item?id=48179021 Points: 234 # Comments: 131"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=48177300",
       "title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
       "slug": "2026-05-18-the-foundations-of-a-provably-secure-operating-system-psos-1979-pdf.html",
@@ -89,6 +350,24 @@
       "date_iso": "2026-05-17T21:15:51+00:00",
       "source": "https://www.metalevel.at/prolog/horror",
       "summary": "Article URL: https://www.metalevel.at/prolog/horror Comments URL: https://news.ycombinator.com/item?id=48173268 Points: 145 # Comments: 60"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48172253",
+      "title": "Consider the Sister",
+      "slug": "2026-05-17-consider-the-sister.html",
+      "path": "posts/2026-05-17-consider-the-sister.html",
+      "date_iso": "2026-05-17T19:13:21+00:00",
+      "source": "https://www.thesmallbow.com/p/consider-the-sister-2b94",
+      "summary": "Article URL: https://www.thesmallbow.com/p/consider-the-sister-2b94 Comments URL: https://news.ycombinator.com/item?id=48172253 Points: 8 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48172234",
+      "title": "Energy return in running shoes explained (2025)",
+      "slug": "2026-05-17-energy-return-in-running-shoes-explained-2025.html",
+      "path": "posts/2026-05-17-energy-return-in-running-shoes-explained-2025.html",
+      "date_iso": "2026-05-17T19:12:15+00:00",
+      "source": "https://runrepeat.com/guides/energy-return-in-running-shoes",
+      "summary": "Article URL: https://runrepeat.com/guides/energy-return-in-running-shoes Comments URL: https://news.ycombinator.com/item?id=48172234 Points: 5 # Comments: 0"
     },
     {
       "id": "https://news.ycombinator.com/item?id=48169874",
