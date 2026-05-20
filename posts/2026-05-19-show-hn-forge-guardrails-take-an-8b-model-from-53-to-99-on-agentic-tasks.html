@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks</h1>
+    <p><small>Published: 2026-05-19T12:23:07+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hi HN, I'm Antoine Zambelli, AI Director at Texas Instruments.<p>I built Forge, an open-source reliability layer for self-hosted LLM tool-calling.<p>What it does:<p>- Adds domain-and-tool-agnostic guardrails (retry nudges, step enforcement, error recovery, VRAM-aware context management) to local models running on consumer hardware<p>- Takes an 8B model from ~53% to ~99% on multi-step agentic workflows without changing the model - just the system around it<p>- Ships with an eval harness and interactive dashboard so you can reproduce every number<p>I wanted to run a handful of always-on agentic systems for my portfolio, didn't want to pay cloud frontier costs, and immediately hit the compounding math problem on local models. 90% per-step accuracy sounds great, but with a 5-step workflow that's a 40% failure rate. No existing framework seemed to address this mechanical reliability issue - they all seemed tailor-made for cloud frontier.<p>Demo video: <a href="https://youtu.be/MzRgJoJAXGc" rel="nofollow">https://youtu.be/MzRgJoJAXGc</a> (side-by-side: same model, same task, with and without Forge guardrails)<p>The paper (accepted to ACM CAIS '26, presenting May 26-29 in San Jose) covers the peer-reviewed findings across 97 model/backend configurations, 18 scenarios, 50 runs each. Key numbers:<p>- Ministral 8B with Forge: 99.3%. Claude Sonnet with Forge: 100%. The gap between a free local 8B model on a $600 GPU and a frontier API is less than 1 point.<p>- The same 8B local model with Forge (99.3%) outperforms Claude Sonnet without guardrails (87.2%) - an 8B model with framework support beats the best result you can get through frontier API alone.<p>- Error recovery scores 0% for every model tested - local and frontier - without the retry mechanism. Not a capability gap, an architectural absence.<p>I'm currently using this for my home assistant running on Ministral 14B-Reasoning, and for my locally hosted agentic coding harness (8B managed to contribute to the codebase!).<p>The guardrail stack has five layers, each independently toggleable. The two that carry the most weight (per ablation study with McNemar's test): retry nudges (24-49 point drops when disabled) and error recovery (~10 point drops, significant for every model tested). Step enforcement is situational - only fires for models with weaker sequencing discipline. Rescue parsing and context compaction showed no significance in the eval but are retained for production workloads where they activate once in a while.<p>One thing I really didn't expect: the serving backend matters. Same Mistral-Nemo 12B weights produce 7% accuracy on llama-server with native function calling and 83% on Llamafile in prompt mode. A 75-point swing from infrastructure alone. I don't think anyone's published this because standard benchmarks don't control for serving backend.<p>Another surprise: there's no distinction in current LLM tool-calling between "the tool ran successfully and returned data" and "the tool ran successfully but found nothing." Both return a value, the orchestrator marks the step complete, and bad data cascades downstream. It's the equivalent of HTTP having 200 but no 404. Forge adds this as a new exception class (ToolResolutionError) - the model sees the error and can retry instead of silently passing garbage forward.<p>Biggest technical challenge was context compaction for memory-constrained hardware. Both Ollama and Llamafile silently fall back to CPU when the model exceeds VRAM - no warning, no error, just 10-100x slower inference. Forge queries nvidia-smi at startup and derives a token budget to prevent this.<p>How to try it:<p>- Clone the repo, run the eval harness on a model I haven't tested. If you get interesting results I'll add them to the dashboard.<p>- Try the proxy server mode - point any OpenAI-compatible client at Forge and it handles guardrails transparently. It's the newest model and I'd love more eyes on it.<p>- Dogfooding led me to optimize model parameters in v0.6.0. The harder eval suite (26 scenarios) is designed to raise the ceiling so no one sits at 100%. Several that did on the original suite can't sweep it - including Opus 4.6. Curious if anyone finds scenarios that expose gaps I haven't thought of. Paper numbers based on pre v0.6.0 code.<p>Background: prior ML publication in unsupervised learning (83 citations). This paper accepted to ACM CAIS '26 - presenting May 26-29.<p>Repo: <a href="https://github.com/antoinezambelli/forge" rel="nofollow">https://github.com/antoinezambelli/forge</a><p>Paper: <a href="https://www.caisconf.org/program/2026/demos/forge-agentic-reliability/" rel="nofollow">https://www.caisconf.org/program/2026/demos/forge-agentic-re...</a> <a href="https://github.com/antoinezambelli/forge/blob/main/docs/forge_ieee_preprint.pdf" rel="nofollow">https://github.com/antoinezambelli/forge/blob/main/docs/forg...</a><p>Dashboard: <a href="https://github.com/antoinezambelli/forge/docs/results/dashboard.html" rel="nofollow">https://github.com/antoinezambelli/forge/docs/results/dashbo...</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48192383">https://news.ycombinator.com/item?id=48192383</a></p>
+<p>Points: 483</p>
+<p># Comments: 174</p>
+    <p><a href="https://github.com/antoinezambelli/forge" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

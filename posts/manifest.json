@@ -1,6 +1,240 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=48204843",
+      "title": "Show HN: The AI Quant Desk for Onchain Finance",
+      "slug": "2026-05-20-show-hn-the-ai-quant-desk-for-onchain-finance.html",
+      "path": "posts/2026-05-20-show-hn-the-ai-quant-desk-for-onchain-finance.html",
+      "date_iso": "2026-05-20T08:49:20+00:00",
+      "source": "https://grid.raster.finance/en/portfolio-analytics",
+      "summary": "Most Web3 tools only track basic balances and approximate wallet data. Raster brings TradFi accounting rigor to DeFi through a unified Truth, Risk, and Decision Intelligence framework. Our proprietary attribution engine reconstructs a fully auditable state from raw blockchain ac…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48203698",
+      "title": "Everything in C is undefined behavior",
+      "slug": "2026-05-20-everything-in-c-is-undefined-behavior.html",
+      "path": "posts/2026-05-20-everything-in-c-is-undefined-behavior.html",
+      "date_iso": "2026-05-20T06:07:22+00:00",
+      "source": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
+      "summary": "Article URL: https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html Comments URL: https://news.ycombinator.com/item?id=48203698 Points: 179 # Comments: 208"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48203536",
+      "title": "Infomaniak transitions to a foundation model to protect user data privacy",
+      "slug": "2026-05-20-infomaniak-transitions-to-a-foundation-model-to-protect-user-data-privacy.html",
+      "path": "posts/2026-05-20-infomaniak-transitions-to-a-foundation-model-to-protect-user-data-privacy.html",
+      "date_iso": "2026-05-20T05:43:51+00:00",
+      "source": "https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/",
+      "summary": "Article URL: https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/ Comments URL: https://news.ycombinator.com/item?id=48203536 Points: 73 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48203249",
+      "title": "Testing MiniMax M2.7 via API on three real ML and coding workflows",
+      "slug": "2026-05-20-testing-minimax-m2-7-via-api-on-three-real-ml-and-coding-workflows.html",
+      "path": "posts/2026-05-20-testing-minimax-m2-7-via-api-on-three-real-ml-and-coding-workflows.html",
+      "date_iso": "2026-05-20T04:51:42+00:00",
+      "source": "https://andlukyane.com//blog/minimax-m27-workflows",
+      "summary": "Article URL: https://andlukyane.com//blog/minimax-m27-workflows Comments URL: https://news.ycombinator.com/item?id=48203249 Points: 23 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48202047",
+      "title": "Japan is gripped by mass allergies. A 1950s project is to blame",
+      "slug": "2026-05-20-japan-is-gripped-by-mass-allergies-a-1950s-project-is-to-blame.html",
+      "path": "posts/2026-05-20-japan-is-gripped-by-mass-allergies-a-1950s-project-is-to-blame.html",
+      "date_iso": "2026-05-20T01:43:06+00:00",
+      "source": "https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan Comments URL: https://news.ycombinator.com/item?id=48202047 Points: 106 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48201973",
+      "title": "FiveThirtyEight articles on the Internet Archive",
+      "slug": "2026-05-20-fivethirtyeight-articles-on-the-internet-archive.html",
+      "path": "posts/2026-05-20-fivethirtyeight-articles-on-the-internet-archive.html",
+      "date_iso": "2026-05-20T01:34:19+00:00",
+      "source": "https://fivethirtyeightindex.com/",
+      "summary": "Article URL: https://fivethirtyeightindex.com/ Comments URL: https://news.ycombinator.com/item?id=48201973 Points: 204 # Comments: 46"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48201484",
+      "title": "Incident Report: Railway Blocked by Google Cloud (Resolved)",
+      "slug": "2026-05-20-incident-report-railway-blocked-by-google-cloud-resolved.html",
+      "path": "posts/2026-05-20-incident-report-railway-blocked-by-google-cloud-resolved.html",
+      "date_iso": "2026-05-20T00:23:54+00:00",
+      "source": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
+      "summary": "https://status.railway.com/incident/I23M92U0 Comments URL: https://news.ycombinator.com/item?id=48201484 Points: 477 # Comments: 307"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48201316",
+      "title": "GitHub is investigating unauthorized access to their internal repositories",
+      "slug": "2026-05-20-github-is-investigating-unauthorized-access-to-their-internal-repositories.html",
+      "path": "posts/2026-05-20-github-is-investigating-unauthorized-access-to-their-internal-repositories.html",
+      "date_iso": "2026-05-20T00:01:18+00:00",
+      "source": "https://twitter.com/github/status/2056884788179726685",
+      "summary": "https://xcancel.com/github/status/2056884788179726685 Comments URL: https://news.ycombinator.com/item?id=48201316 Points: 447 # Comments: 230"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48200569",
+      "title": "Remove-AI-Watermarks – CLI and library for removing AI watermarks from images",
+      "slug": "2026-05-19-remove-ai-watermarks-cli-and-library-for-removing-ai-watermarks-from-images.html",
+      "path": "posts/2026-05-19-remove-ai-watermarks-cli-and-library-for-removing-ai-watermarks-from-images.html",
+      "date_iso": "2026-05-19T22:30:31+00:00",
+      "source": "https://github.com/wiltodelta/remove-ai-watermarks",
+      "summary": "Article URL: https://github.com/wiltodelta/remove-ai-watermarks Comments URL: https://news.ycombinator.com/item?id=48200569 Points: 286 # Comments: 165"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/19/business/energy-environment/teslas-semi-truck.html",
+      "title": "Tesla’s Semi Truck could Jolt the Trucking Industry",
+      "slug": "2026-05-19-tesla-s-semi-truck-could-jolt-the-trucking-industry.html",
+      "path": "posts/2026-05-19-tesla-s-semi-truck-could-jolt-the-trucking-industry.html",
+      "date_iso": "2026-05-19T20:31:37+00:00",
+      "source": "https://www.nytimes.com/2026/05/19/business/energy-environment/teslas-semi-truck.html",
+      "summary": "Screens on either side of a Tesla Semi’s steering wheel provide a view of the traffic around the vehicle."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html",
+      "title": "Meta Begins Laying Off 8,000 Employees Amid A.I. Transformation",
+      "slug": "2026-05-19-meta-begins-laying-off-8-000-employees-amid-a-i-transformation.html",
+      "path": "posts/2026-05-19-meta-begins-laying-off-8-000-employees-amid-a-i-transformation.html",
+      "date_iso": "2026-05-19T20:00:06+00:00",
+      "source": "https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html",
+      "summary": "Meta’s headquarters in Menlo Park, Calif. The company, which renamed itself for the metaverse, is transforming itself for the era of artificial intelligence."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/19/technology/personaltech/google-gemini-ai.html",
+      "title": "How Google Is Starting to Win the A.I. Race",
+      "slug": "2026-05-19-how-google-is-starting-to-win-the-a-i-race.html",
+      "path": "posts/2026-05-19-how-google-is-starting-to-win-the-a-i-race.html",
+      "date_iso": "2026-05-19T19:41:47+00:00",
+      "source": "https://www.nytimes.com/2026/05/19/technology/personaltech/google-gemini-ai.html",
+      "summary": "Despite its early stumbles, Google’s Gemini has leapfrogged ChatGPT in relevance and usefulness. Soon, it will be ubiquitous."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48198291",
+      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+      "slug": "2026-05-19-openai-adopts-google-s-synthid-watermark-for-ai-images-with-verification-tool.html",
+      "path": "posts/2026-05-19-openai-adopts-google-s-synthid-watermark-for-ai-images-with-verification-tool.html",
+      "date_iso": "2026-05-19T19:34:30+00:00",
+      "source": "https://openai.com/index/advancing-content-provenance/",
+      "summary": "Article URL: https://openai.com/index/advancing-content-provenance/ Comments URL: https://news.ycombinator.com/item?id=48198291 Points: 281 # Comments: 153"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48197995",
+      "title": "Mistral AI acquires Emmi AI",
+      "slug": "2026-05-19-mistral-ai-acquires-emmi-ai.html",
+      "path": "posts/2026-05-19-mistral-ai-acquires-emmi-ai.html",
+      "date_iso": "2026-05-19T19:14:12+00:00",
+      "source": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+      "summary": "Article URL: https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai Comments URL: https://news.ycombinator.com/item?id=48197995 Points: 262 # Comments: 78"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48197980",
+      "title": "Minnesota becomes first state to ban prediction markets",
+      "slug": "2026-05-19-minnesota-becomes-first-state-to-ban-prediction-markets.html",
+      "path": "posts/2026-05-19-minnesota-becomes-first-state-to-ban-prediction-markets.html",
+      "date_iso": "2026-05-19T19:13:26+00:00",
+      "source": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
+      "summary": "Article URL: https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets Comments URL: https://news.ycombinator.com/item?id=48197980 Points: 658 # Comments: 202"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html",
+      "title": "Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years",
+      "slug": "2026-05-19-powered-by-a-i-google-changes-its-search-box-for-the-first-time-in-25-years.html",
+      "path": "posts/2026-05-19-powered-by-a-i-google-changes-its-search-box-for-the-first-time-in-25-years.html",
+      "date_iso": "2026-05-19T18:34:36+00:00",
+      "source": "https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html",
+      "summary": "On Tuesday, Google said the A.I. shift had inspired it to overhaul its search bar for the first time since 2001."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48197370",
+      "title": "Google changes its search box",
+      "slug": "2026-05-19-google-changes-its-search-box.html",
+      "path": "posts/2026-05-19-google-changes-its-search-box.html",
+      "date_iso": "2026-05-19T18:34:27+00:00",
+      "source": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+      "summary": "https://www.nytimes.com/2026/05/19/business/google-seach-bar... , https://archive.ph/XI1sQ https://techcrunch.com/2026/05/19/google-search-as-you-know-... https://www.theverge.com/tech/932970/google-search-ai-update... Comments URL: https://news.ycombinator.com/item?id=48197370…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/19/technology/senate-republicans-funding-combat-online-child-abuse.html",
+      "title": "Senate Republicans Introduce Funding Measure to Combat Online Child Abuse",
+      "slug": "2026-05-19-senate-republicans-introduce-funding-measure-to-combat-online-child-abuse.html",
+      "path": "posts/2026-05-19-senate-republicans-introduce-funding-measure-to-combat-online-child-abuse.html",
+      "date_iso": "2026-05-19T18:22:36+00:00",
+      "source": "https://www.nytimes.com/2026/05/19/technology/senate-republicans-funding-combat-online-child-abuse.html",
+      "summary": "Senator Josh Hawley, Republican of Missouri, has championed the reconciliation bill."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48196867",
+      "title": "Gemini CLI will stop working from June 18, 2026",
+      "slug": "2026-05-19-gemini-cli-will-stop-working-from-june-18-2026.html",
+      "path": "posts/2026-05-19-gemini-cli-will-stop-working-from-june-18-2026.html",
+      "date_iso": "2026-05-19T18:03:10+00:00",
+      "source": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
+      "summary": "Article URL: https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/ Comments URL: https://news.ycombinator.com/item?id=48196867 Points: 219 # Comments: 119"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48196570",
+      "title": "Gemini 3.5 Flash",
+      "slug": "2026-05-19-gemini-3-5-flash.html",
+      "path": "posts/2026-05-19-gemini-3-5-flash.html",
+      "date_iso": "2026-05-19T17:43:45+00:00",
+      "source": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "summary": "https://ai.google.dev/gemini-api/docs/models/gemini-3.5-flas... Comments URL: https://news.ycombinator.com/item?id=48196570 Points: 793 # Comments: 556"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48196337",
+      "title": "CopyFail: From Pod to Host",
+      "slug": "2026-05-19-copyfail-from-pod-to-host.html",
+      "path": "posts/2026-05-19-copyfail-from-pod-to-host.html",
+      "date_iso": "2026-05-19T17:25:33+00:00",
+      "source": "https://xint.io/blog/copy-fail-pod-to-host",
+      "summary": "Article URL: https://xint.io/blog/copy-fail-pod-to-host Comments URL: https://news.ycombinator.com/item?id=48196337 Points: 19 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48195009",
+      "title": "I’ve built a virtual museum with nearly every operating system you can think of",
+      "slug": "2026-05-19-i-ve-built-a-virtual-museum-with-nearly-every-operating-system-you-can-think-of.html",
+      "path": "posts/2026-05-19-i-ve-built-a-virtual-museum-with-nearly-every-operating-system-you-can-think-of.html",
+      "date_iso": "2026-05-19T15:53:38+00:00",
+      "source": "https://virtualosmuseum.org/",
+      "summary": "Article URL: https://virtualosmuseum.org/ Comments URL: https://news.ycombinator.com/item?id=48195009 Points: 778 # Comments: 171"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html",
+      "title": "Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid",
+      "slug": "2026-05-19-rising-energy-costs-and-data-centers-at-heart-of-nextera-s-dominion-bid.html",
+      "path": "posts/2026-05-19-rising-energy-costs-and-data-centers-at-heart-of-nextera-s-dominion-bid.html",
+      "date_iso": "2026-05-19T15:13:37+00:00",
+      "source": "https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html",
+      "summary": "NextEra Energy’s acquisition of Dominion Energy would consolidate utility operations along much of the East Coast, which could shape electricity service for tens of millions of customers."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48194352",
+      "title": "I’ve joined Anthropic",
+      "slug": "2026-05-19-i-ve-joined-anthropic.html",
+      "path": "posts/2026-05-19-i-ve-joined-anthropic.html",
+      "date_iso": "2026-05-19T15:07:45+00:00",
+      "source": "https://twitter.com/karpathy/status/2056753169888334312",
+      "summary": "https://xcancel.com/karpathy/status/2056753169888334312 https://www.axios.com/2026/05/19/anthropic-openai-karpathy-a... , https://archive.ph/h6T3X Comments URL: https://news.ycombinator.com/item?id=48194352 Points: 1322 # Comments: 557"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48194098",
+      "title": "Why is almost everyone right-handed? A new study connects it to bipedalism",
+      "slug": "2026-05-19-why-is-almost-everyone-right-handed-a-new-study-connects-it-to-bipedalism.html",
+      "path": "posts/2026-05-19-why-is-almost-everyone-right-handed-a-new-study-connects-it-to-bipedalism.html",
+      "date_iso": "2026-05-19T14:50:42+00:00",
+      "source": "https://www.ox.ac.uk/news/2026-05-15-why-is-almost-everyone-right-handed-the-answer-may-lie-in-how-we-learned-to-walk",
+      "summary": "Article URL: https://www.ox.ac.uk/news/2026-05-15-why-is-almost-everyone-right-handed-the-answer-may-lie-in-how-we-learned-to-walk Comments URL: https://news.ycombinator.com/item?id=48194098 Points: 132 # Comments: 208"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48192383",
+      "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "slug": "2026-05-19-show-hn-forge-guardrails-take-an-8b-model-from-53-to-99-on-agentic-tasks.html",
+      "path": "posts/2026-05-19-show-hn-forge-guardrails-take-an-8b-model-from-53-to-99-on-agentic-tasks.html",
+      "date_iso": "2026-05-19T12:23:07+00:00",
+      "source": "https://github.com/antoinezambelli/forge",
+      "summary": "Hi HN, I'm Antoine Zambelli, AI Director at Texas Instruments. I built Forge, an open-source reliability layer for self-hosted LLM tool-calling. What it does: - Adds domain-and-tool-agnostic guardrails (retry nudges, step enforcement, error recovery, VRAM-aware context managemen…"
+    },
+    {
       "id": "https://www.nytimes.com/2026/05/19/technology/openai-musk-legal-challenges.html",
       "title": "As OpenAI Celebrates Court Win Against Musk, Other Challenges Lie Ahead",
       "slug": "2026-05-19-as-openai-celebrates-court-win-against-musk-other-challenges-lie-ahead.html",
