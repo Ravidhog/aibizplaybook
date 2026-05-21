@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: I reverse engineered Apple's video wallpapers</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: I reverse engineered Apple's video wallpapers</h1>
+    <p><small>Published: 2026-05-20T23:54:06+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Ever since Apple introduced their video wallpapers I wanted to be able to put custom videos there. I decided to reverse engineer and see what I can do.<p>I built Phosphene to sell it, but the existing competitors were polished enough that the time it would have taken to catch up wasn't going to pay off. So I'm open-sourcing it.<p>WallpaperExtensionKit.framework is what powers macOS wallpapers. It controls what’s shows in the Settings app. It took a lot of trial and error to replicate the behavior, but the result is that your custom wallpapers appear alongside everything else. I wanted to have an “add” button there too, but I couldn’t find a way to do so, so there’s a companion app that will put your video where it needs to be.<p>Unlike Apple's Aerials, the video keeps playing on the desktop (not just the lock screen). The renderer drives AVSampleBufferDisplayLayer directly with PTS-offset gapless looping, and pauses or downshifts based on thermal state, battery level, brightness, and window occlusion.<p>It’s free and works well.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48215979">https://news.ycombinator.com/item?id=48215979</a></p>
+<p>Points: 292</p>
+<p># Comments: 67</p>
+    <p><a href="https://github.com/kageroumado/phosphene" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

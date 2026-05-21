@@ -1,6 +1,222 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/05/21/business/samsung-strike-ai-chips.html",
+      "title": "Samsung Averts a Walkout With Big Bonuses, but Discord Over A.I. Profits Brews",
+      "slug": "2026-05-21-samsung-averts-a-walkout-with-big-bonuses-but-discord-over-a-i-profits-brews.html",
+      "path": "posts/2026-05-21-samsung-averts-a-walkout-with-big-bonuses-but-discord-over-a-i-profits-brews.html",
+      "date_iso": "2026-05-21T09:45:52+00:00",
+      "source": "https://www.nytimes.com/2026/05/21/business/samsung-strike-ai-chips.html",
+      "summary": "Outside the Samsung Electronics semiconductor plant in Pyeongtaek, South Korea, on Thursday."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48219918",
+      "title": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
+      "slug": "2026-05-21-show-hn-rmux-a-programmable-terminal-multiplexer-with-a-playwright-style-sdk.html",
+      "path": "posts/2026-05-21-show-hn-rmux-a-programmable-terminal-multiplexer-with-a-playwright-style-sdk.html",
+      "date_iso": "2026-05-21T09:22:00+00:00",
+      "source": "https://github.com/helvesec/rmux",
+      "summary": "Author here. RMUX started from a frustration: I've used tmux for years and got tired of scraping output with grep and sleeps to automate anything. So I rebuilt the multiplexer from scratch in Rust, with a programmable layer on top. Two surfaces: a tmux-compatible CLI (~90 comman…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48219682",
+      "title": "The famous O3 \"GeoGuessr\" prompt did not work",
+      "slug": "2026-05-21-the-famous-o3-geoguessr-prompt-did-not-work.html",
+      "path": "posts/2026-05-21-the-famous-o3-geoguessr-prompt-did-not-work.html",
+      "date_iso": "2026-05-21T08:52:45+00:00",
+      "source": "https://www.seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/",
+      "summary": "Article URL: https://www.seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/ Comments URL: https://news.ycombinator.com/item?id=48219682 Points: 19 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48219340",
+      "title": "Typewise (YC S22) Is Hiring an AI Growth Engineer (Zurich or Remote)",
+      "slug": "2026-05-21-typewise-yc-s22-is-hiring-an-ai-growth-engineer-zurich-or-remote.html",
+      "path": "posts/2026-05-21-typewise-yc-s22-is-hiring-an-ai-growth-engineer-zurich-or-remote.html",
+      "date_iso": "2026-05-21T08:01:53+00:00",
+      "source": "https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer Comments URL: https://news.ycombinator.com/item?id=48219340 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48219060",
+      "title": "Vivaldi 8.0",
+      "slug": "2026-05-21-vivaldi-8-0.html",
+      "path": "posts/2026-05-21-vivaldi-8-0.html",
+      "date_iso": "2026-05-21T07:21:55+00:00",
+      "source": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
+      "summary": "Article URL: https://vivaldi.com/blog/vivaldi-on-desktop-8-0/ Comments URL: https://news.ycombinator.com/item?id=48219060 Points: 140 # Comments: 63"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48216983",
+      "title": "Haskell Foundation 2026 Update",
+      "slug": "2026-05-21-haskell-foundation-2026-update.html",
+      "path": "posts/2026-05-21-haskell-foundation-2026-update.html",
+      "date_iso": "2026-05-21T02:13:23+00:00",
+      "source": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
+      "summary": "Article URL: https://discourse.haskell.org/t/haskell-foundation-2026-update/14136 Comments URL: https://news.ycombinator.com/item?id=48216983 Points: 121 # Comments: 35"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48216619",
+      "title": "What is a Demand Coop",
+      "slug": "2026-05-21-what-is-a-demand-coop.html",
+      "path": "posts/2026-05-21-what-is-a-demand-coop.html",
+      "date_iso": "2026-05-21T01:20:52+00:00",
+      "source": "https://cahootzcoops.com/blog/what-is-a-demand-coop",
+      "summary": "Article URL: https://cahootzcoops.com/blog/what-is-a-demand-coop Comments URL: https://news.ycombinator.com/item?id=48216619 Points: 66 # Comments: 67"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48216278",
+      "title": "Intuit to lay off over 3k employees to refocus on AI",
+      "slug": "2026-05-21-intuit-to-lay-off-over-3k-employees-to-refocus-on-ai.html",
+      "path": "posts/2026-05-21-intuit-to-lay-off-over-3k-employees-to-refocus-on-ai.html",
+      "date_iso": "2026-05-21T00:36:01+00:00",
+      "source": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+      "summary": "Article URL: https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/ Comments URL: https://news.ycombinator.com/item?id=48216278 Points: 193 # Comments: 143"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/20/technology/elon-musk-spacex-ipo.html",
+      "title": "Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO",
+      "slug": "2026-05-21-musk-s-spacex-reveals-its-finances-for-the-first-time-as-it-readies-for-ipo.html",
+      "path": "posts/2026-05-21-musk-s-spacex-reveals-its-finances-for-the-first-time-as-it-readies-for-ipo.html",
+      "date_iso": "2026-05-21T00:23:43+00:00",
+      "source": "https://www.nytimes.com/2026/05/20/technology/elon-musk-spacex-ipo.html",
+      "summary": "A successful SpaceX offering would bring riches to Wall Street, the company’s employees and, of course, Elon Musk, who is already the world’s richest person."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48216016",
+      "title": "The Letter S, by Donald Knuth (1980) [pdf]",
+      "slug": "2026-05-20-the-letter-s-by-donald-knuth-1980-pdf.html",
+      "path": "posts/2026-05-20-the-letter-s-by-donald-knuth-1980-pdf.html",
+      "date_iso": "2026-05-20T23:58:51+00:00",
+      "source": "https://gwern.net/doc/design/typography/1980-knuth.pdf",
+      "summary": "Article URL: https://gwern.net/doc/design/typography/1980-knuth.pdf Comments URL: https://news.ycombinator.com/item?id=48216016 Points: 180 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48215979",
+      "title": "Show HN: I reverse engineered Apple's video wallpapers",
+      "slug": "2026-05-20-show-hn-i-reverse-engineered-apple-s-video-wallpapers.html",
+      "path": "posts/2026-05-20-show-hn-i-reverse-engineered-apple-s-video-wallpapers.html",
+      "date_iso": "2026-05-20T23:54:06+00:00",
+      "source": "https://github.com/kageroumado/phosphene",
+      "summary": "Ever since Apple introduced their video wallpapers I wanted to be able to put custom videos there. I decided to reverse engineer and see what I can do. I built Phosphene to sell it, but the existing competitors were polished enough that the time it would have taken to catch up w…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/20/technology/meta-layoffs-ai-song.html",
+      "title": "Soundtrack to 8,000 Job Cuts: A Meta Worker’s Layoff-Themed A.I. Songs",
+      "slug": "2026-05-20-soundtrack-to-8-000-job-cuts-a-meta-worker-s-layoff-themed-a-i-songs.html",
+      "path": "posts/2026-05-20-soundtrack-to-8-000-job-cuts-a-meta-worker-s-layoff-themed-a-i-songs.html",
+      "date_iso": "2026-05-20T22:57:52+00:00",
+      "source": "https://www.nytimes.com/2026/05/20/technology/meta-layoffs-ai-song.html",
+      "summary": "On a dark day of layoffs at Meta, one employee responded by creating an internal radio station that plays songs about job cuts — generated by artificial intelligence, of course."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/20/business/nvidia-earnings.html",
+      "title": "Nvidia’s Profit Hits $58.3 Billion as A.I. Boom Gathers More Steam",
+      "slug": "2026-05-20-nvidia-s-profit-hits-58-3-billion-as-a-i-boom-gathers-more-steam.html",
+      "path": "posts/2026-05-20-nvidia-s-profit-hits-58-3-billion-as-a-i-boom-gathers-more-steam.html",
+      "date_iso": "2026-05-20T22:54:31+00:00",
+      "source": "https://www.nytimes.com/2026/05/20/business/nvidia-earnings.html",
+      "summary": "Jensen Huang, Nvidia’s chief executive, made a bet years ago on computer chips that would be useful for building artificial intelligence."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48215418",
+      "title": "DOS Zone",
+      "slug": "2026-05-20-dos-zone.html",
+      "path": "posts/2026-05-20-dos-zone.html",
+      "date_iso": "2026-05-20T22:53:27+00:00",
+      "source": "https://dos.zone/",
+      "summary": "Article URL: https://dos.zone/ Comments URL: https://news.ycombinator.com/item?id=48215418 Points: 262 # Comments: 58"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48214017",
+      "title": "Anthropic is expanding to Colossus2. Will use GB200",
+      "slug": "2026-05-20-anthropic-is-expanding-to-colossus2-will-use-gb200.html",
+      "path": "posts/2026-05-20-anthropic-is-expanding-to-colossus2-will-use-gb200.html",
+      "date_iso": "2026-05-20T20:55:52+00:00",
+      "source": "https://twitter.com/nottombrown/status/2057194829986300375",
+      "summary": "https://xcancel.com/nottombrown/status/2057194829986300375 Comments URL: https://news.ycombinator.com/item?id=48214017 Points: 208 # Comments: 193"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48212493",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "slug": "2026-05-20-an-openai-model-has-disproved-a-central-conjecture-in-discrete-geometry.html",
+      "path": "posts/2026-05-20-an-openai-model-has-disproved-a-central-conjecture-in-discrete-geometry.html",
+      "date_iso": "2026-05-20T19:05:30+00:00",
+      "source": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+      "summary": "https://x.com/wtgowers/status/2057175727271800912 , https://xcancel.com/wtgowers/status/2057175727271800912 Comments URL: https://news.ycombinator.com/item?id=48212493 Points: 1187 # Comments: 862"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/20/technology/openai-ipo.html",
+      "title": "OpenAI Prepares to File for an I.P.O. in Coming Weeks",
+      "slug": "2026-05-20-openai-prepares-to-file-for-an-i-p-o-in-coming-weeks.html",
+      "path": "posts/2026-05-20-openai-prepares-to-file-for-an-i-p-o-in-coming-weeks.html",
+      "date_iso": "2026-05-20T18:41:52+00:00",
+      "source": "https://www.nytimes.com/2026/05/20/technology/openai-ipo.html",
+      "summary": "Sam Altman, OpenAI’s chief executive. The company is facing challenges from the tech giant Google and an A.I. rival, Anthropic."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48212046",
+      "title": "Flipper One Tech Specs",
+      "slug": "2026-05-20-flipper-one-tech-specs.html",
+      "path": "posts/2026-05-20-flipper-one-tech-specs.html",
+      "date_iso": "2026-05-20T18:33:56+00:00",
+      "source": "https://docs.flipper.net/one/general/tech-specs",
+      "summary": "Article URL: https://docs.flipper.net/one/general/tech-specs Comments URL: https://news.ycombinator.com/item?id=48212046 Points: 380 # Comments: 134"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48211409",
+      "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
+      "slug": "2026-05-20-qian-xuesen-the-missile-genius-america-lost-and-china-gained-2025.html",
+      "path": "posts/2026-05-20-qian-xuesen-the-missile-genius-america-lost-and-china-gained-2025.html",
+      "date_iso": "2026-05-20T17:48:52+00:00",
+      "source": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
+      "summary": "Article URL: https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained Comments URL: https://news.ycombinator.com/item?id=48211409 Points: 178 # Comments: 95"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48211134",
+      "title": "Why is Inkwell stuck in review",
+      "slug": "2026-05-20-why-is-inkwell-stuck-in-review.html",
+      "path": "posts/2026-05-20-why-is-inkwell-stuck-in-review.html",
+      "date_iso": "2026-05-20T17:30:15+00:00",
+      "source": "https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html",
+      "summary": "Article URL: https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html Comments URL: https://news.ycombinator.com/item?id=48211134 Points: 142 # Comments: 46"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48210226",
+      "title": "OpenAI Is Preparing to File for an IPO Soon",
+      "slug": "2026-05-20-openai-is-preparing-to-file-for-an-ipo-soon.html",
+      "path": "posts/2026-05-20-openai-is-preparing-to-file-for-an-ipo-soon.html",
+      "date_iso": "2026-05-20T16:24:42+00:00",
+      "source": "https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5",
+      "summary": "https://archive.md/0Ez3C Comments URL: https://news.ycombinator.com/item?id=48210226 Points: 96 # Comments: 235"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48207660",
+      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+      "slug": "2026-05-20-github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension.html",
+      "path": "posts/2026-05-20-github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension.html",
+      "date_iso": "2026-05-20T13:43:37+00:00",
+      "source": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+      "summary": "Previous thread in sequence: GitHub is investigating unauthorized access to their internal repositories - https://news.ycombinator.com/item?id=48201316 - May 2026 (321 comments) Comments URL: https://news.ycombinator.com/item?id=48207660 Points: 854 # Comments: 357"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48206340",
+      "title": "Saying goodbye to asm.js",
+      "slug": "2026-05-20-saying-goodbye-to-asm-js.html",
+      "path": "posts/2026-05-20-saying-goodbye-to-asm-js.html",
+      "date_iso": "2026-05-20T12:01:56+00:00",
+      "source": "https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html",
+      "summary": "Article URL: https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html Comments URL: https://news.ycombinator.com/item?id=48206340 Points: 381 # Comments: 147"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48205782",
+      "title": "Google’s AI is being manipulated. The search giant is quietly fighting back",
+      "slug": "2026-05-20-google-s-ai-is-being-manipulated-the-search-giant-is-quietly-fighting-back.html",
+      "path": "posts/2026-05-20-google-s-ai-is-being-manipulated-the-search-giant-is-quietly-fighting-back.html",
+      "date_iso": "2026-05-20T10:57:09+00:00",
+      "source": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results Comments URL: https://news.ycombinator.com/item?id=48205782 Points: 314 # Comments: 195"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=48204843",
       "title": "Show HN: The AI Quant Desk for Onchain Finance",
       "slug": "2026-05-20-show-hn-the-ai-quant-desk-for-onchain-finance.html",
@@ -233,6 +449,15 @@
       "date_iso": "2026-05-19T12:23:07+00:00",
       "source": "https://github.com/antoinezambelli/forge",
       "summary": "Hi HN, I'm Antoine Zambelli, AI Director at Texas Instruments. I built Forge, an open-source reliability layer for self-hosted LLM tool-calling. What it does: - Adds domain-and-tool-agnostic guardrails (retry nudges, step enforcement, error recovery, VRAM-aware context managemen…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48191572",
+      "title": "All the bugs they found",
+      "slug": "2026-05-19-all-the-bugs-they-found.html",
+      "path": "posts/2026-05-19-all-the-bugs-they-found.html",
+      "date_iso": "2026-05-19T10:33:35+00:00",
+      "source": "https://andreapivetta.com/posts/all-the-bugs-they-found.html",
+      "summary": "Article URL: https://andreapivetta.com/posts/all-the-bugs-they-found.html Comments URL: https://news.ycombinator.com/item?id=48191572 Points: 32 # Comments: 7"
     },
     {
       "id": "https://www.nytimes.com/2026/05/19/technology/openai-musk-legal-challenges.html",
