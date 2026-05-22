@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Freenet, a peer-to-peer platform for decentralized apps</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Freenet, a peer-to-peer platform for decentralized apps</h1>
+    <p><small>Published: 2026-05-21T14:34:57+00:00</small></p>
+  </header>
+
+  <main>
+    <p>For the past 5 years or so I've been working on a ground-up redesign of Freenet, my peer-to-peer project from the early 2000s (now renamed Hyphanet).<p>The new Freenet has been up and running since December along with some early applications like River[1], our decentralized group chat and Delta - a decentralized CMS. Users have already started to build their own apps on Freenet including games, and we have some interesting apps in development like Atlas, a search/recommendation engine.<p>Architecturally, this new Freenet is a global, decentralized key-value store where keys are webassembly contracts which define what values (aka "state") are valid for that key, how or when the values can be mutated, and how the state can be efficiently synchronized between peers.<p>We've developed a unique (AFAIK) solution to the consistency problem, every contract must define a "merge" operation for the contract's associated state. This operation must be commutative, meaning that you can merge multiple states in any order and you'll get the same end result.<p>This approach allows state updates to spread through the network like a virus[2], which typically achieves consistent global state in a few seconds or less.<p>Like the world wide web, Freenet applications can be downloaded from the network itself and run in a web browser - similar to single-page apps on the normal web. However, rather than connecting back to an API running in a datacenter, the webapp connects locally to the Freenet peer and interacts with Freenet contracts and delegates over a local websocket connection.<p>If you'd like to try Freenet we have convenient installers for the major desktop OSs but not yet mobile, and you can be chatting with other users on River within seconds[3]. Happy to answer any questions, you're also welcome to read our FAQ[4], or watch a talk I gave back in March[5].<p>[1] <a href="https://github.com/freenet/river" rel="nofollow">https://github.com/freenet/river</a><p>[2] <a href="https://freenet.org/about/news/summary-delta-sync/" rel="nofollow">https://freenet.org/about/news/summary-delta-sync/</a><p>[3] <a href="https://freenet.org/quickstart/" rel="nofollow">https://freenet.org/quickstart/</a><p>[4] <a href="https://freenet.org/faq/" rel="nofollow">https://freenet.org/faq/</a><p>[5] <a href="https://youtu.be/3SxNBz1VTE0" rel="nofollow">https://youtu.be/3SxNBz1VTE0</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48223362">https://news.ycombinator.com/item?id=48223362</a></p>
+<p>Points: 288</p>
+<p># Comments: 175</p>
+    <p><a href="https://freenet.org/" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

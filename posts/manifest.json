@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=48232118",
+      "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
+      "slug": "2026-05-22-coda-rewriting-transformer-blocks-as-gemm-epilogue-programs.html",
+      "path": "posts/2026-05-22-coda-rewriting-transformer-blocks-as-gemm-epilogue-programs.html",
+      "date_iso": "2026-05-22T04:54:33+00:00",
+      "source": "https://arxiv.org/abs/2605.19269",
+      "summary": "Article URL: https://arxiv.org/abs/2605.19269 Comments URL: https://news.ycombinator.com/item?id=48232118 Points: 65 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48231938",
+      "title": "Slumber a TUI HTTP Client",
+      "slug": "2026-05-22-slumber-a-tui-http-client.html",
+      "path": "posts/2026-05-22-slumber-a-tui-http-client.html",
+      "date_iso": "2026-05-22T04:29:23+00:00",
+      "source": "https://slumber.lucaspickering.me",
+      "summary": "Article URL: https://slumber.lucaspickering.me Comments URL: https://news.ycombinator.com/item?id=48231938 Points: 79 # Comments: 28"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48231319",
+      "title": "Cleve Moler has died",
+      "slug": "2026-05-22-cleve-moler-has-died.html",
+      "path": "posts/2026-05-22-cleve-moler-has-died.html",
+      "date_iso": "2026-05-22T02:35:54+00:00",
+      "source": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
+      "summary": "Article URL: https://www.mathworks.com/company/aboutus/founders/clevemoler.html Comments URL: https://news.ycombinator.com/item?id=48231319 Points: 109 # Comments: 11"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/21/arts/music/peanuts-music-us-government-lawsuit.html",
+      "title": "‘Peanuts’ Music Owner Sues Interior Department and 3 Companies for Copyright Infringement",
+      "slug": "2026-05-22-peanuts-music-owner-sues-interior-department-and-3-companies-for-copyright-infringement.html",
+      "path": "posts/2026-05-22-peanuts-music-owner-sues-interior-department-and-3-companies-for-copyright-infringement.html",
+      "date_iso": "2026-05-22T01:43:23+00:00",
+      "source": "https://www.nytimes.com/2026/05/21/arts/music/peanuts-music-us-government-lawsuit.html",
+      "summary": "A scene from “A Charlie Brown Christmas.”"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48229319",
+      "title": "The memory shortage is causing a repricing of consumer electronics",
+      "slug": "2026-05-21-the-memory-shortage-is-causing-a-repricing-of-consumer-electronics.html",
+      "path": "posts/2026-05-21-the-memory-shortage-is-causing-a-repricing-of-consumer-electronics.html",
+      "date_iso": "2026-05-21T21:55:56+00:00",
+      "source": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
+      "summary": "Article URL: https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone Comments URL: https://news.ycombinator.com/item?id=48229319 Points: 213 # Comments: 230"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48228788",
+      "title": "Uv is fantastic, but its package management UX is a mess",
+      "slug": "2026-05-21-uv-is-fantastic-but-its-package-management-ux-is-a-mess.html",
+      "path": "posts/2026-05-21-uv-is-fantastic-but-its-package-management-ux-is-a-mess.html",
+      "date_iso": "2026-05-21T20:56:36+00:00",
+      "source": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
+      "summary": "Article URL: https://www.loopwerk.io/articles/2026/uv-ux-mess/ Comments URL: https://news.ycombinator.com/item?id=48228788 Points: 212 # Comments: 110"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/21/technology/meta-settlement-social-media-addiction-lawsuit.html",
+      "title": "Meta Settles a School District’s Social Media Addiction Lawsuit",
+      "slug": "2026-05-21-meta-settles-a-school-district-s-social-media-addiction-lawsuit.html",
+      "path": "posts/2026-05-21-meta-settles-a-school-district-s-social-media-addiction-lawsuit.html",
+      "date_iso": "2026-05-21T20:21:01+00:00",
+      "source": "https://www.nytimes.com/2026/05/21/technology/meta-settlement-social-media-addiction-lawsuit.html",
+      "summary": "Meta, led by Mark Zuckerberg, shown at the U.S. Capitol in March, lost jury verdicts that month in two similar lawsuits."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48227923",
+      "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
+      "slug": "2026-05-21-multi-stream-llms-new-paper-on-parallelizing-separating-prompts-thinking-i-o.html",
+      "path": "posts/2026-05-21-multi-stream-llms-new-paper-on-parallelizing-separating-prompts-thinking-i-o.html",
+      "date_iso": "2026-05-21T19:37:26+00:00",
+      "source": "https://arxiv.org/abs/2605.12460",
+      "summary": "Article URL: https://arxiv.org/abs/2605.12460 Comments URL: https://news.ycombinator.com/item?id=48227923 Points: 109 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48227860",
+      "title": "Using Kagi Search with Low Vision",
+      "slug": "2026-05-21-using-kagi-search-with-low-vision.html",
+      "path": "posts/2026-05-21-using-kagi-search-with-low-vision.html",
+      "date_iso": "2026-05-21T19:32:16+00:00",
+      "source": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
+      "summary": "Article URL: https://veroniiiica.com/using-kagi-search-with-low-vision/ Comments URL: https://news.ycombinator.com/item?id=48227860 Points: 202 # Comments: 67"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48227397",
+      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+      "slug": "2026-05-21-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd.html",
+      "path": "posts/2026-05-21-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd.html",
+      "date_iso": "2026-05-21T18:54:55+00:00",
+      "source": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
+      "summary": "Article URL: https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/ Comments URL: https://news.ycombinator.com/item?id=48227397 Points: 291 # Comments: 151"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48226588",
+      "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
+      "slug": "2026-05-21-seattle-shield-an-intelligence-sharing-network-operated-by-the-seattle-police.html",
+      "path": "posts/2026-05-21-seattle-shield-an-intelligence-sharing-network-operated-by-the-seattle-police.html",
+      "date_iso": "2026-05-21T17:55:58+00:00",
+      "source": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
+      "summary": "Article URL: https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/ Comments URL: https://news.ycombinator.com/item?id=48226588 Points: 462 # Comments: 188"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html",
+      "title": "Trump Cancels Signing of Executive Order Granting Oversight of A.I. Models",
+      "slug": "2026-05-21-trump-cancels-signing-of-executive-order-granting-oversight-of-a-i-models.html",
+      "path": "posts/2026-05-21-trump-cancels-signing-of-executive-order-granting-oversight-of-a-i-models.html",
+      "date_iso": "2026-05-21T17:47:33+00:00",
+      "source": "https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html",
+      "summary": "On Wednesday President Trump invited A.I. chief executives to Thursday’s signing event, but many could not make it in time."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48225852",
+      "title": "ParadeDB (YC S23) Is Hiring Distributed Systems/Platform Engineers",
+      "slug": "2026-05-21-paradedb-yc-s23-is-hiring-distributed-systems-platform-engineers.html",
+      "path": "posts/2026-05-21-paradedb-yc-s23-is-hiring-distributed-systems-platform-engineers.html",
+      "date_iso": "2026-05-21T17:00:52+00:00",
+      "source": "https://news.ycombinator.com/item?id=48225852",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=48225852 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48225838",
+      "title": "News outlets are limiting the Internet Archive’s access to their journalism",
+      "slug": "2026-05-21-news-outlets-are-limiting-the-internet-archive-s-access-to-their-journalism.html",
+      "path": "posts/2026-05-21-news-outlets-are-limiting-the-internet-archive-s-access-to-their-journalism.html",
+      "date_iso": "2026-05-21T16:59:27+00:00",
+      "source": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
+      "summary": "Article URL: https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/ Comments URL: https://news.ycombinator.com/item?id=48225838 Points: 287 # Comments: 99"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48225596",
+      "title": "Show HN: Agent.email – sign up via curl, claim with a human OTP",
+      "slug": "2026-05-21-show-hn-agent-email-sign-up-via-curl-claim-with-a-human-otp.html",
+      "path": "posts/2026-05-21-show-hn-agent-email-sign-up-via-curl-claim-with-a-human-otp.html",
+      "date_iso": "2026-05-21T16:42:34+00:00",
+      "source": "https://news.ycombinator.com/item?id=48225596",
+      "summary": "Hi HN! We're Haakam, Michael, and Adi from AgentMail- a ycs25 company. We give AI agents their own email inboxes. Recently, we ran an experiment called Agent.Email. It's a signup flow designed specifically for AI agents instead of humans. The inspiration came from a few comments…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48225426",
+      "title": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
+      "slug": "2026-05-21-waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods.html",
+      "path": "posts/2026-05-21-waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods.html",
+      "date_iso": "2026-05-21T16:30:47+00:00",
+      "source": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
+      "summary": "Article URL: https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/ Comments URL: https://news.ycombinator.com/item?id=48225426 Points: 317 # Comments: 394"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48225357",
+      "title": "Spotify will start reserving concert tickets for fans",
+      "slug": "2026-05-21-spotify-will-start-reserving-concert-tickets-for-fans.html",
+      "path": "posts/2026-05-21-spotify-will-start-reserving-concert-tickets-for-fans.html",
+      "date_iso": "2026-05-21T16:26:58+00:00",
+      "source": "https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/",
+      "summary": "Article URL: https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/ Comments URL: https://news.ycombinator.com/item?id=48225357 Points: 149 # Comments: 307"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48225297",
+      "title": "Project Hail Mary – Stellar Navigation Chart",
+      "slug": "2026-05-21-project-hail-mary-stellar-navigation-chart.html",
+      "path": "posts/2026-05-21-project-hail-mary-stellar-navigation-chart.html",
+      "date_iso": "2026-05-21T16:23:11+00:00",
+      "source": "https://valhovey.github.io/gaia-mary/",
+      "summary": "Article URL: https://valhovey.github.io/gaia-mary/ Comments URL: https://news.ycombinator.com/item?id=48225297 Points: 928 # Comments: 201"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48225040",
+      "title": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
+      "slug": "2026-05-21-launch-hn-runtime-yc-p26-sandboxed-coding-agents-for-everyone-on-a-team.html",
+      "path": "posts/2026-05-21-launch-hn-runtime-yc-p26-sandboxed-coding-agents-for-everyone-on-a-team.html",
+      "date_iso": "2026-05-21T16:07:13+00:00",
+      "source": "https://www.runtm.com/",
+      "summary": "Hey HN, We're Gus and Carlos from Runtime ( https://runtm.com ). We're building infra that lets your whole team (including non-engineers) ship with Claude Code, Codex, and other agents without engineering having to handhold every session. After Mentum (YC S21) was acquired, I pe…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/21/technology/newsom-ai-executive-order-california.html",
+      "title": "Gov. Gavin Newsom to Sign Executive Order Aimed at A.I. Job Loss",
+      "slug": "2026-05-21-gov-gavin-newsom-to-sign-executive-order-aimed-at-a-i-job-loss.html",
+      "path": "posts/2026-05-21-gov-gavin-newsom-to-sign-executive-order-aimed-at-a-i-job-loss.html",
+      "date_iso": "2026-05-21T15:26:59+00:00",
+      "source": "https://www.nytimes.com/2026/05/21/technology/newsom-ai-executive-order-california.html",
+      "summary": "Gov. Gavin Newsom’s mandate is more exploratory in ideas than a law that will immediately change the jobs picture for California residents."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48223362",
+      "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
+      "slug": "2026-05-21-show-hn-freenet-a-peer-to-peer-platform-for-decentralized-apps.html",
+      "path": "posts/2026-05-21-show-hn-freenet-a-peer-to-peer-platform-for-decentralized-apps.html",
+      "date_iso": "2026-05-21T14:34:57+00:00",
+      "source": "https://freenet.org/",
+      "summary": "For the past 5 years or so I've been working on a ground-up redesign of Freenet, my peer-to-peer project from the early 2000s (now renamed Hyphanet). The new Freenet has been up and running since December along with some early applications like River[1], our decentralized group…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48222733",
+      "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
+      "slug": "2026-05-21-indexing-a-year-of-video-locally-on-a-2021-macbook-with-gemma4-31b-50gb-swap.html",
+      "path": "posts/2026-05-21-indexing-a-year-of-video-locally-on-a-2021-macbook-with-gemma4-31b-50gb-swap.html",
+      "date_iso": "2026-05-21T14:01:37+00:00",
+      "source": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
+      "summary": "Article URL: https://blog.simbastack.com/indexed-a-year-of-video-locally/ Comments URL: https://news.ycombinator.com/item?id=48222733 Points: 386 # Comments: 115"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48222529",
+      "title": "Google's Antigravity bait and switch",
+      "slug": "2026-05-21-google-s-antigravity-bait-and-switch.html",
+      "path": "posts/2026-05-21-google-s-antigravity-bait-and-switch.html",
+      "date_iso": "2026-05-21T13:50:59+00:00",
+      "source": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
+      "summary": "Article URL: https://www.0xsid.com/blog/antigravity-bait-n-switch Comments URL: https://news.ycombinator.com/item?id=48222529 Points: 686 # Comments: 305"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/21/business/china-nvidia-chip-trump-ai.html",
+      "title": "Trump Approved a Nvidia Chip for Sale in China. Beijing Doesn’t Want It.",
+      "slug": "2026-05-21-trump-approved-a-nvidia-chip-for-sale-in-china-beijing-doesn-t-want-it.html",
+      "path": "posts/2026-05-21-trump-approved-a-nvidia-chip-for-sale-in-china-beijing-doesn-t-want-it.html",
+      "date_iso": "2026-05-21T12:21:51+00:00",
+      "source": "https://www.nytimes.com/2026/05/21/business/china-nvidia-chip-trump-ai.html",
+      "summary": "Jensen Huang, the chief executive of Nvidia, said he did not bring up the chip with Chinese officials in Beijing last week."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=48221230",
+      "title": "Cekura (YC F24) Is Hiring",
+      "slug": "2026-05-21-cekura-yc-f24-is-hiring.html",
+      "path": "posts/2026-05-21-cekura-yc-f24-is-hiring.html",
+      "date_iso": "2026-05-21T12:00:20+00:00",
+      "source": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
+      "summary": "Article URL: https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us Comments URL: https://news.ycombinator.com/item?id=48221230 Points: 0 # Comments: 0"
+    },
+    {
       "id": "https://www.nytimes.com/2026/05/21/business/samsung-strike-ai-chips.html",
       "title": "Samsung Averts a Walkout With Big Bonuses, but Discord Over A.I. Profits Brews",
       "slug": "2026-05-21-samsung-averts-a-walkout-with-big-bonuses-but-discord-over-a-i-profits-brews.html",
@@ -17,6 +242,15 @@
       "date_iso": "2026-05-21T09:22:00+00:00",
       "source": "https://github.com/helvesec/rmux",
       "summary": "Author here. RMUX started from a frustration: I've used tmux for years and got tired of scraping output with grep and sleeps to automate anything. So I rebuilt the multiplexer from scratch in Rust, with a programmable layer on top. Two surfaces: a tmux-compatible CLI (~90 comman…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/05/21/business/bluesky-russia-hacking-accounts.html",
+      "title": "Bluesky Says Kremlin Is Hacking Its Platform to Spread Propaganda",
+      "slug": "2026-05-21-bluesky-says-kremlin-is-hacking-its-platform-to-spread-propaganda.html",
+      "path": "posts/2026-05-21-bluesky-says-kremlin-is-hacking-its-platform-to-spread-propaganda.html",
+      "date_iso": "2026-05-21T09:02:17+00:00",
+      "source": "https://www.nytimes.com/2026/05/21/business/bluesky-russia-hacking-accounts.html",
+      "summary": "Russia hacked into the accounts of real people on Bluesky to spread fake articles, the social media platform said."
     },
     {
       "id": "https://news.ycombinator.com/item?id=48219682",
