@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Launch HN: Superset (YC P26) – IDE for the agents era</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Launch HN: Superset (YC P26) – IDE for the agents era</h1>
+    <p><small>Published: 2026-05-22T14:53:55+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hey HN, we’re Avi, Kiet, and Satya. We’re building Superset (<a href="https://github.com/superset-sh/superset" rel="nofollow">https://github.com/superset-sh/superset</a>), an open-source agentic IDE for running coding agents like Claude Code, Codex, OpenCode etc in parallel.<p>Demo: <a href="https://www.youtube.com/watch?v=YWDHn7gUwfg" rel="nofollow">https://www.youtube.com/watch?v=YWDHn7gUwfg</a><p>Try it: <a href="https://superset.sh/">https://superset.sh/</a><p>We’re three engineers who’ve built and maintained large codebases, and we kept wanting to work on more than one thing at a time. Once CLI coding agents got good enough we found ourselves running several of them in parallel: triaging Github issues, adding a few ui features, reviewing PRs, researching a refactor, etc.<p>The funny part was that we and a lot of our friends had all hacked together similar scripts around git worktrees. Worktrees are a nice primitive for this because each agent can get an isolated copy of the repo, but the workflows around them can feel pretty messy, setting up/tearing down environments and managing dev servers.<p>We first posted here a few months ago when Superset was mostly an open-source terminal for managing git worktrees (<a href="https://news.ycombinator.com/item?id=46368739">https://news.ycombinator.com/item?id=46368739</a>). Since then, it has changed a lot based on feedback from people using it on real codebases, plus contributions from our open-source community. The product has grown into something closer to an IDE for managing agent work across many worktrees, repos, and machines.<p>The biggest thing we learned is that the hard part is not just “run more agents.” It is managing all the state around them: worktrees, ports, terminal sessions, environment setup, diffs, tasks, and PRs. Once you have five or ten agents running, the bottleneck often becomes remembering what each one is doing and actual human review. We added task / issue tracking so work can move from issue → agent → diff → PR → review without losing the context all in Superset. But there's a lot more work to improve this experience over time.<p>We also launched Remote Workspaces, currently in beta. The idea is that you can run coding agents on remote machines instead of using all the memory and CPU on your laptop, while still managing the work from the Superset desktop app.To support Remote workspaces, we isolated the core functionality of our Electron app into a headless Hono server such that it can be deployed into any workspaces and talk to any client (such as our desktop app, mobile, web, etc) and still provide the same interface that our desktop app has.<p>A lot of our next work is around making agent work easier to manage when you are not sitting at your main dev machine. We’re building more functionality into the Superset CLI, improving remote workspace flows, and working on Superset Mobile (coming soon) so you can check on agents, review progress, and steer work from your phone.<p>We’d love more feedback on Superset, especially if you are daily driving coding agents!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48236770">https://news.ycombinator.com/item?id=48236770</a></p>
+<p>Points: 94</p>
+<p># Comments: 117</p>
+    <p><a href="https://github.com/superset-sh/superset" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
