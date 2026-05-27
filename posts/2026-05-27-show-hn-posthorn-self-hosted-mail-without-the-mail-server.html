@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Posthorn, self-hosted mail without the mail server</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Posthorn, self-hosted mail without the mail server</h1>
+    <p><small>Published: 2026-05-27T04:26:26+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Introducing Posthorn, a self hosted email gateway. One docker container (or Go binary) between every self hosted app on your VPS and your transactional email provider. Set up Posthorn once, point your apps to it, done.<p>I was trying to deploy Ghost on a DigitalOcean droplet and found that DO and many different VPS services have started to block the default SMTP ports to try to combat the various types of abuse they get. To actually configure my app, I had to hack together a Postfix relay.<p>In another project, I had a static site which had a contact form, but my free Formspree account was occasionally hitting usage limits and I desperately wanted some of the anti-spam features they had gated behind their paid accounts so I put together a caddy module to catch HTTP POSTs and bounce them to my provider.<p>I kept bumping into these same email issues. Many of the services I wanted to host (Gitea, Mastodon, Umami, Comentario) ran into the same limitations. This felt like a really common issue that had no good solution.<p>Posthorn is what I built to solve this. It's a small Go binary (or 10 MB docker image) that sits between your self hosted apps and your transactional email provider of choice (shipping with support for Postmark, Resend, Mailgun, Amazon SES or an outbound SMTP relay). It also accepts POSTs from HTML forms to support static site needs while adding security layers such as honeypot fields, origin checks and IP rate limiting. There's also a JSON HTTP API that supports Bearer auth for backend scripts or cron jobs that just want a /send endpoint.<p>I now use this personally in multiple scenarios and I've spent a lot of time beating this up and testing against what I can validate. I'd love to hear how this might be useful for you, what breaks and any feedback you might have. It's open source under Apache 2.0 and I'd love contributions. I'm planning to support and grow this for the long haul.<p>Code: <a href="https://github.com/craigmccaskill/posthorn" rel="nofollow">https://github.com/craigmccaskill/posthorn</a><p>Docs: <a href="https://posthorn.dev/" rel="nofollow">https://posthorn.dev/</a><p>Longer write up: <a href="https://craigmccaskill.com/introducing-posthorn/" rel="nofollow">https://craigmccaskill.com/introducing-posthorn/</a><p>Previous HN discussion on the exact issue I'm trying to solve: <a href="https://news.ycombinator.com/item?id=43620318">https://news.ycombinator.com/item?id=43620318</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48289624">https://news.ycombinator.com/item?id=48289624</a></p>
+<p>Points: 33</p>
+<p># Comments: 29</p>
+    <p><a href="https://github.com/craigmccaskill/posthorn" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
