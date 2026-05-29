@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Py-SQL-cleaner – format SQL embedded in Python strings</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Py-SQL-cleaner – format SQL embedded in Python strings</h1>
+    <p><small>Published: 2026-05-28T17:30:29+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hi HN, I built py-sql-cleaner, a CLI for formatting SQL embedded in Python files.<p>Python formatters handle Python syntax. They do not format SQL written inside Python code. 
+On the other hand, SQL formatters usually target SQL files or raw SQL text, not SQL embedded inside a Python file.<p>Still, I think it is not uncommon to find long SQL queries inside Python codebases.<p>py-sql-cleaner detects embedded SQL inside Python files and works only on that SQL. 
+The main things it can do are: find the SQL, format it in place, or extract it into a .sql file.<p>It avoids rewriting SQL that depends on runtime values or template expansion. 
+For example, SQL containing parameters like %s or :name, or Jinja-style template variables like {{ ds }}, is skipped by default.<p>Try it with:<p><pre><code>    uvx py-sql-cleaner list path/to/file.py
+    uvx py-sql-cleaner format path/to/file.py --dry-run
+</code></pre>
+If you write Python, have run into this kind of SQL cleanup problem, or are just curious, I’d be happy if you take a look.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48312436">https://news.ycombinator.com/item?id=48312436</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+    <p><a href="https://github.com/enumura1/py-sql-cleaner" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
