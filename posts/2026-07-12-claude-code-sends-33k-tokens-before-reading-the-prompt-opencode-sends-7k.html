@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k</h1>
+    <p><small>Published: 2026-07-12T18:25:51+00:00</small></p>
+  </header>
+
+  <main>
+    <p>This started based off of a hunch. We usually use OpenCode, but were 'forced' to use Claude Code for a while due to issues with Meridian. In that time, we saw the usage meter rise much, much more quickly than when using OpenCode.<p>This was the initial anecdotal evidence, but we undertook this small study to collect empirical data:<p>We added logging between the agentic coding tool (Claude Code and OpenCode) and Anthropic's endpoint, and captured all requests (and the returned usage blocks).<p>With one caveat (toward the end of the post) we found unambiguously that Claude Code was far more inefficient in terms of its cache strategy and its harness token usage than OpenCode.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48883275">https://news.ycombinator.com/item?id=48883275</a></p>
+<p>Points: 597</p>
+<p># Comments: 323</p>
+    <p><a href="https://systima.ai/blog/claude-code-vs-opencode-token-overhead" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
