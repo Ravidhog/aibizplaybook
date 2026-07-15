@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations</h1>
+    <p><small>Published: 2026-07-14T16:06:18+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hey HN, we’re Shubham & Parth, childhood friends building Agnost AI (<a href="https://agnost.ai">https://agnost.ai</a>), product analytics for teams building chat and voice agents.<p>We read production conversations and find behavioral failures like users rageprompting (cursing at the agent), repeatedly rephrasing the same request, correcting the agent, asking for missing features, or leaving after an answer that was technically successful.<p>We have an interactive demo with no signup here: <a href="https://app.agnost.ai?demo=true">https://app.agnost.ai?demo=true</a><p>Here's a demo video: <a href="https://www.tella.tv/video/agnost-ai-launch-hn-demo-9haa" rel="nofollow">https://www.tella.tv/video/agnost-ai-launch-hn-demo-9haa</a><p>The core problem is that chat and voice products do not have the same metrics as web apps. When the product interface is language, clicks and funnels become much less useful. Users also rarely give explicit feedback, and when they do it's usually sugarcoated. I barely type /feedback in Claude or Codex myself. Most users just curse, ask again, correct the agent, or leave. So product engineers get technical visibility from latency, errors, and traces, but still have to guess whether users got what they wanted.<p>We got here after building around agents for the last year and got a couple of founders asking for something like a PostHog for conversations for the AI assistants they were building.<p>We are not trying to be in the observability or evals space. Observability tells you what happened technically. Evals validate cases you already know. We're more on the discovery side like what users wanted, where they got frustrated, what they asked for repeatedly, and what new evals should exist.<p>Teams send us agent conversation messages through SDKs or OTel, optionally with metadata like account, plan, source, organization, etc. We cluster conversations into product-specific intents. Feature requests and bugs are default categories; most other clusters are created dynamically from the customer’s data and evolve over time. You can create your own cluster in plain English. If a cluster gets too broad, we split it. If a new pattern appears, we suggest it.<p>One AI video editor company used Agnost AI to find feature requests hidden inside chat. The biggest one was that around 70 users wanted auto-subtitles, but users said it as “add this text in this frame” 12x in a single session, “can you caption it”, “give me transcript of audio” and variations across languages. The team later built the feature.<p>Doing this over millions of messages without sending everything to an LLM was the hard part initially. In ClickHouse, “fetch the last 50 events by time across conversations” and “fetch all events in this conversation” want different sort orders, so we had to iterate a lot on sorting keys, partitions, materialized views, and projections.<p>For finding new clusters, sending everything through an LLM was too slow and expensive. HDBSCAN-style embedding clustering also gets painful at scale because of pairwise comparisons. We first split conversations into segments based on cosine drift, run BIRCH to compress the candidate space, and then use HDBSCAN-like clustering on the smaller set. For matching existing clusters, we use embeddings, smaller classifiers/BERT-style models, and LLMs only as fallback for ambiguous cases.<p>We’re live with multiple companies and ingesting ~1M chat and voice messages per day. Pricing is public: Starter is free, Pro is $499/month, and Enterprise is for higher volume, security, retention needs. We use each customer’s data only for that customer. We are SOC 2 Type 1 compliant, Type 2 is in progress, and our SDKs are on PyPI and npm.<p>We’d love feedback from the HN community and people building chat or voice agents: how do you detect these signals today, what feedback methods have worked, and what would block you from trying this? Happy to answer questions and take criticism.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=48908950">https://news.ycombinator.com/item?id=48908950</a></p>
+<p>Points: 77</p>
+<p># Comments: 40</p>
+    <p><a href="https://agnost.ai" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
