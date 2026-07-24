@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Palmier Pro – Open-source macOS video editor built for AI</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Palmier Pro – Open-source macOS video editor built for AI</h1>
+    <p><small>Published: 2026-07-23T15:11:37+00:00</small></p>
+  </header>
+
+  <main>
+    <p>Hi HN, we are Marcos and Harrison, cofounders of Palmier (<a href="https://palmier.io">https://palmier.io</a>). We are building Palmier Pro, an open source macOS video editor, with built-in AI generation and a local MCP server that connects to your agent. Here are a few demos:<p>- Making some AI transitions: <a href="https://www.youtube.com/watch?v=hbM_-eR1GX4" rel="nofollow">https://www.youtube.com/watch?v=hbM_-eR1GX4</a><p>- Multicam editing with Codex: <a href="https://www.youtube.com/watch?v=SjS2q2LT1q8" rel="nofollow">https://www.youtube.com/watch?v=SjS2q2LT1q8</a><p>- Cutting long form clips into shorts: <a href="https://www.youtube.com/watch?v=PR66eN2ouuQ" rel="nofollow">https://www.youtube.com/watch?v=PR66eN2ouuQ</a><p>We built Palmier Pro as an internal tool when we were making AI launch videos for other startups. The main problem it solved in the beginning was the back-and-forth between AI generation platform and video editor. The iteration loop was awkward: AI videos → download → import to editor → edit → realize we need to change the AI video → repeat. So we built a minimal video editor where we could let Claude generate AI videos inside the editor.<p>As we gave more and more tools to the agent, we wanted to push to see what else agents can do in the video editing space. So today, your Claude/Codex can:<p>- Manage projects inside Palmier Pro<p>- Import media from a public URL or filesystem to the project, and organize them in folders<p>- Search media (by embedding footages using SigLIP2 running locally)<p>- Edit the timeline (tracks/clips/keyframes operations)<p>- Generate images, videos, sound effects, captions, music<p>- Export videos<p>There are two ways for LLMs to interact with the editor: by connecting to the local MCP server, or using the in-app chat. Both use the same tools and APIs exposed by the video editor.<p>We have seen people using MCP server to connect to their own workflow to automate massive-scale video editing (e.g. given this same podcast style, replicate it with other footages that I have). We have also seen people using the in-app chat where it lives closer to the editor UI, with lower latency for faster iteration.<p>We don't believe that AI is going to replace human creativity (nor should it), but where it can really help is in automating the gruntwork in video editing. Most work in the editing workflow is more mechanical than creative. Our vision is to build a video editor where AI can enable more individuals to create.<p>Throughout our experiments, AI is not very good at creative editing, but given a pattern (transcription-based, beat-based), it can do a decent job at rough cut.<p>We built Palmier Pro in Swift as an MVP because we wanted better performance and minimal dependencies (no nodejs/webview), with some native macOS APIs like SpeechAnalyzer and CoreML for us to run some models locally. We use SpeechAnalyzer for local transcriber, SigLip2 to embed video frames, beat_this for beat detection, Silero VAD for silence detection, all running locally. The tradeoff is that we don't support Linux or Windows at the moment.<p>Palmier Pro is open source and free to try out (macOS 26 only at the moment, though - we'll support more platforms over time, but for now are focusing on iterating the core product).<p>No login required except for the AI generation features, which route requests to our backend. We are offering free credits on sign up so you can try out the AI generation as well.<p>We'd love to hear your feedback!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49022911">https://news.ycombinator.com/item?id=49022911</a></p>
+<p>Points: 152</p>
+<p># Comments: 25</p>
+    <p><a href="https://github.com/palmier-io/palmier-pro" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
