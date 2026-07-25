@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: I simulated closing the Strait of Hormuz on real oil trade data</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: I simulated closing the Strait of Hormuz on real oil trade data</h1>
+    <p><small>Published: 2026-07-23T12:31:21+00:00</small></p>
+  </header>
+
+  <main>
+    <p>OP here: I created this visualization tool as the byproduct of a supply chain class I taught at Columbia. The pedagogical exercise grew into a full blown visualization and paper about global oil trade.<p>The model:
+The mechanics are the same as the financial network Eisenberg-Noe: Instead of banks, every country consumes oil interconnected via bilateral trading. Shocks propagate throughout the network, depleting oil reserves when bottleneck nodes (such as the Strait of Hormuz) are blocked.<p>Insights:
+The interesting part is the mechanics of how the crisis unfolds: for example, France receives 0 oil from Hormuz directly, yet their reserves are depleted faster because other countries reactively increase their safety oil stock, increasing oil price, making stockouts more expensive for everyone.<p>The model also gives price dynamics which are interesting on their own: the price increase is not immediate, it follows sequentially as countries reserves deplete.<p>Some caveats:
+1. For producer nodes, depletion means their export slack is reduced/exhausted.
+2. No sanctioned trade (UN Comtrade data)<p>Technical Details:
+The visualization is 600 lines of flask plus js frontend (LLM assisted visualization with ground-truth matching the original numerical exercise of the paper)<p>Paper with proofs/theory:
+<a href="https://arxiv.org/abs/2607.17491" rel="nofollow">https://arxiv.org/abs/2607.17491</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49020545">https://news.ycombinator.com/item?id=49020545</a></p>
+<p>Points: 172</p>
+<p># Comments: 82</p>
+    <p><a href="https://globaloilnetwork.staffinganalytics.io/" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>
