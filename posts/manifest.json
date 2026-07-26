@@ -1,6 +1,222 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/07/26/technology/personaltech/tiktok-instagram-breakup-content.html",
+      "title": "Why TikTok’s Algorithm Keeps You Trapped in a Breakup Loop",
+      "slug": "2026-07-26-why-tiktok-s-algorithm-keeps-you-trapped-in-a-breakup-loop.html",
+      "path": "posts/2026-07-26-why-tiktok-s-algorithm-keeps-you-trapped-in-a-breakup-loop.html",
+      "date_iso": "2026-07-26T09:00:26+00:00",
+      "source": "https://www.nytimes.com/2026/07/26/technology/personaltech/tiktok-instagram-breakup-content.html",
+      "summary": "As social media companies face scrutiny over addictive design features, mental health experts cite a stream of breakup content as an example of the failure to protect users."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/07/26/style/a-different-kind-of-grocery-store-magnate.html",
+      "title": "A Son of Wealth Finds His Calling in a High-End Grocery Store",
+      "slug": "2026-07-26-a-son-of-wealth-finds-his-calling-in-a-high-end-grocery-store.html",
+      "path": "posts/2026-07-26-a-son-of-wealth-finds-his-calling-in-a-high-end-grocery-store.html",
+      "date_iso": "2026-07-26T09:00:24+00:00",
+      "source": "https://www.nytimes.com/2026/07/26/style/a-different-kind-of-grocery-store-magnate.html",
+      "summary": "Sammy Nussdorf’s gourmet food market on Greenwich Street in Manhattan has drawn crowds while also inspiring an online backlash."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49055169",
+      "title": "GrapheneOS protections against data extraction from locked devices",
+      "slug": "2026-07-26-grapheneos-protections-against-data-extraction-from-locked-devices.html",
+      "path": "posts/2026-07-26-grapheneos-protections-against-data-extraction-from-locked-devices.html",
+      "date_iso": "2026-07-26T05:57:22+00:00",
+      "source": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+      "summary": "Article URL: https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices Comments URL: https://news.ycombinator.com/item?id=49055169 Points: 41 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49054697",
+      "title": "W4ME Station – a WASM-4 runtime for Java ME phones",
+      "slug": "2026-07-26-w4me-station-a-wasm-4-runtime-for-java-me-phones.html",
+      "path": "posts/2026-07-26-w4me-station-a-wasm-4-runtime-for-java-me-phones.html",
+      "date_iso": "2026-07-26T04:19:59+00:00",
+      "source": "https://github.com/mulfyx/w4me-station",
+      "summary": "Article URL: https://github.com/mulfyx/w4me-station Comments URL: https://news.ycombinator.com/item?id=49054697 Points: 17 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49054224",
+      "title": "JetZero",
+      "slug": "2026-07-26-jetzero.html",
+      "path": "posts/2026-07-26-jetzero.html",
+      "date_iso": "2026-07-26T02:55:50+00:00",
+      "source": "https://www.jetzero.aero",
+      "summary": "Article URL: https://www.jetzero.aero Comments URL: https://news.ycombinator.com/item?id=49054224 Points: 192 # Comments: 153"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49054107",
+      "title": "An ESP32 based plane radar for my desk",
+      "slug": "2026-07-26-an-esp32-based-plane-radar-for-my-desk.html",
+      "path": "posts/2026-07-26-an-esp32-based-plane-radar-for-my-desk.html",
+      "date_iso": "2026-07-26T02:35:43+00:00",
+      "source": "https://blog.ktz.me/esp32-plane-radar/",
+      "summary": "Article URL: https://blog.ktz.me/esp32-plane-radar/ Comments URL: https://news.ycombinator.com/item?id=49054107 Points: 133 # Comments: 27"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49054010",
+      "title": "Show HN: I mapped every US golf course",
+      "slug": "2026-07-26-show-hn-i-mapped-every-us-golf-course.html",
+      "path": "posts/2026-07-26-show-hn-i-mapped-every-us-golf-course.html",
+      "date_iso": "2026-07-26T02:22:26+00:00",
+      "source": "https://golfcoursebrowser.com/",
+      "summary": "I got tired of Googling basic course info, so I made a free directory of every US course Google filters for golf course results are terrible so I built a better way to browse courses using OSM as the backbone.... https://golfcoursebrowser.com/ It's a work in progress and mostly…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49053708",
+      "title": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
+      "slug": "2026-07-26-alien-world-chemistry-found-inside-meteorite-that-struck-new-jersey-home.html",
+      "path": "posts/2026-07-26-alien-world-chemistry-found-inside-meteorite-that-struck-new-jersey-home.html",
+      "date_iso": "2026-07-26T01:35:03+00:00",
+      "source": "https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/",
+      "summary": "Article URL: https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/ Comments URL: https://news.ycombinator.com/item?id=49053708 Points: 63 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49053385",
+      "title": "Git rebase -I is not that scary",
+      "slug": "2026-07-26-git-rebase-i-is-not-that-scary.html",
+      "path": "posts/2026-07-26-git-rebase-i-is-not-that-scary.html",
+      "date_iso": "2026-07-26T00:37:54+00:00",
+      "source": "https://cachebag.sh/journal/interactive-rebasing/",
+      "summary": "Article URL: https://cachebag.sh/journal/interactive-rebasing/ Comments URL: https://news.ycombinator.com/item?id=49053385 Points: 63 # Comments: 64"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49053382",
+      "title": "Systems and Delays",
+      "slug": "2026-07-26-systems-and-delays.html",
+      "path": "posts/2026-07-26-systems-and-delays.html",
+      "date_iso": "2026-07-26T00:37:30+00:00",
+      "source": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+      "summary": "Article URL: https://martin.janiczek.cz/2026/07/24/systems-and-delays.html Comments URL: https://news.ycombinator.com/item?id=49053382 Points: 59 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49053375",
+      "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
+      "slug": "2026-07-26-inflect-micro-v2-complete-voice-in-9-36m-parameters.html",
+      "path": "posts/2026-07-26-inflect-micro-v2-complete-voice-in-9-36m-parameters.html",
+      "date_iso": "2026-07-26T00:36:30+00:00",
+      "source": "https://huggingface.co/owensong/Inflect-Micro-v2",
+      "summary": "Article URL: https://huggingface.co/owensong/Inflect-Micro-v2 Comments URL: https://news.ycombinator.com/item?id=49053375 Points: 122 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49052912",
+      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+      "slug": "2026-07-25-deepseek-pause-fundraise-after-comments-on-compute-gap-to-us-leaked-transcript-pdf.html",
+      "path": "posts/2026-07-25-deepseek-pause-fundraise-after-comments-on-compute-gap-to-us-leaked-transcript-pdf.html",
+      "date_iso": "2026-07-25T23:32:50+00:00",
+      "source": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "summary": "Article URL: https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf Comments URL: https://news.ycombinator…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49052628",
+      "title": "Clinical failure rates over the decades: yikes",
+      "slug": "2026-07-25-clinical-failure-rates-over-the-decades-yikes.html",
+      "path": "posts/2026-07-25-clinical-failure-rates-over-the-decades-yikes.html",
+      "date_iso": "2026-07-25T22:57:17+00:00",
+      "source": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+      "summary": "Article URL: https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes Comments URL: https://news.ycombinator.com/item?id=49052628 Points: 99 # Comments: 76"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49052570",
+      "title": "What is happening to jobs? Separating AI hype from reality",
+      "slug": "2026-07-25-what-is-happening-to-jobs-separating-ai-hype-from-reality.html",
+      "path": "posts/2026-07-25-what-is-happening-to-jobs-separating-ai-hype-from-reality.html",
+      "date_iso": "2026-07-25T22:51:10+00:00",
+      "source": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+      "summary": "Article URL: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality Comments URL: https://news.ycombinator.com/item?id=49052570 Points: 86 # Comments: 98"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49052564",
+      "title": "Cloudflare's new AI traffic options for customers",
+      "slug": "2026-07-25-cloudflare-s-new-ai-traffic-options-for-customers.html",
+      "path": "posts/2026-07-25-cloudflare-s-new-ai-traffic-options-for-customers.html",
+      "date_iso": "2026-07-25T22:50:49+00:00",
+      "source": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+      "summary": "Article URL: https://blog.cloudflare.com/content-independence-day-ai-options/ Comments URL: https://news.ycombinator.com/item?id=49052564 Points: 112 # Comments: 77"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49051947",
+      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+      "slug": "2026-07-25-gm-backs-sodium-ion-batteries-for-u-s-grid-storage.html",
+      "path": "posts/2026-07-25-gm-backs-sodium-ion-batteries-for-u-s-grid-storage.html",
+      "date_iso": "2026-07-25T21:48:22+00:00",
+      "source": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+      "summary": "Article URL: https://spectrum.ieee.org/sodium-ion-battery-peak-energy Comments URL: https://news.ycombinator.com/item?id=49051947 Points: 174 # Comments: 75"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49051369",
+      "title": "Turn And Face The Strange",
+      "slug": "2026-07-25-turn-and-face-the-strange.html",
+      "path": "posts/2026-07-25-turn-and-face-the-strange.html",
+      "date_iso": "2026-07-25T20:43:11+00:00",
+      "source": "https://fly.io/blog/kurt-scott-money-sprites/",
+      "summary": "Article URL: https://fly.io/blog/kurt-scott-money-sprites/ Comments URL: https://news.ycombinator.com/item?id=49051369 Points: 200 # Comments: 127"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49051361",
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "slug": "2026-07-25-the-new-rules-of-context-engineering-for-claude-5-generation-models.html",
+      "path": "posts/2026-07-25-the-new-rules-of-context-engineering-for-claude-5-generation-models.html",
+      "date_iso": "2026-07-25T20:42:35+00:00",
+      "source": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "summary": "Article URL: https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models Comments URL: https://news.ycombinator.com/item?id=49051361 Points: 314 # Comments: 198"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html",
+      "title": "Silicon Valley Splits Over Closing the Borders to Chinese A.I.",
+      "slug": "2026-07-25-silicon-valley-splits-over-closing-the-borders-to-chinese-a-i.html",
+      "path": "posts/2026-07-25-silicon-valley-splits-over-closing-the-borders-to-chinese-a-i.html",
+      "date_iso": "2026-07-25T20:07:33+00:00",
+      "source": "https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html",
+      "summary": "In the last few weeks, the Chinese start-ups Z.ai and Moonshot AI released artificial intelligence models that rival those from American labs."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49050859",
+      "title": "LLM Usage in Debian: Three Proposals",
+      "slug": "2026-07-25-llm-usage-in-debian-three-proposals.html",
+      "path": "posts/2026-07-25-llm-usage-in-debian-three-proposals.html",
+      "date_iso": "2026-07-25T19:44:39+00:00",
+      "source": "https://www.debian.org/vote/2026/vote_002",
+      "summary": "Article URL: https://www.debian.org/vote/2026/vote_002 Comments URL: https://news.ycombinator.com/item?id=49050859 Points: 148 # Comments: 134"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49050735",
+      "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
+      "slug": "2026-07-25-producing-ammonia-and-fertiliser-using-wind-power-in-morris-minnesota.html",
+      "path": "posts/2026-07-25-producing-ammonia-and-fertiliser-using-wind-power-in-morris-minnesota.html",
+      "date_iso": "2026-07-25T19:30:24+00:00",
+      "source": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
+      "summary": "Article URL: https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/ Comments URL: https://news.ycombinator.com/item?id=49050735 Points: 119 # Comments: 86"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49050512",
+      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+      "slug": "2026-07-25-running-a-28-9m-parameter-llm-on-an-8-microcontroller.html",
+      "path": "posts/2026-07-25-running-a-28-9m-parameter-llm-on-an-8-microcontroller.html",
+      "date_iso": "2026-07-25T18:59:50+00:00",
+      "source": "https://github.com/slvDev/esp32-ai",
+      "summary": "Article URL: https://github.com/slvDev/esp32-ai Comments URL: https://news.ycombinator.com/item?id=49050512 Points: 178 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49050058",
+      "title": "Memory safety absolutists",
+      "slug": "2026-07-25-memory-safety-absolutists.html",
+      "path": "posts/2026-07-25-memory-safety-absolutists.html",
+      "date_iso": "2026-07-25T18:08:52+00:00",
+      "source": "https://itsallaboutthebit.com/memory-safety-absolutists/",
+      "summary": "Article URL: https://itsallaboutthebit.com/memory-safety-absolutists/ Comments URL: https://news.ycombinator.com/item?id=49050058 Points: 98 # Comments: 137"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/07/25/style/wedding-qr-codes.html",
+      "title": "QR Codes Make Their Way Down Wedding Aisles",
+      "slug": "2026-07-25-qr-codes-make-their-way-down-wedding-aisles.html",
+      "path": "posts/2026-07-25-qr-codes-make-their-way-down-wedding-aisles.html",
+      "date_iso": "2026-07-25T13:10:29+00:00",
+      "source": "https://www.nytimes.com/2026/07/25/style/wedding-qr-codes.html",
+      "summary": "The technology, often associated with pandemic-era menus, is being used by more couples for ease, cost, expedience and sustainability."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49045159",
       "title": "Android May Soon Restrict On-Device ADB",
       "slug": "2026-07-25-android-may-soon-restrict-on-device-adb.html",
