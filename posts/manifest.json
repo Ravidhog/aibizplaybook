@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49066962",
+      "title": "Chinese chipmaker shares surge 470%",
+      "slug": "2026-07-27-chinese-chipmaker-shares-surge-470.html",
+      "path": "posts/2026-07-27-chinese-chipmaker-shares-surge-470.html",
+      "date_iso": "2026-07-27T09:11:59+00:00",
+      "source": "https://www.bbc.com/news/articles/c9q9w3x9qn2o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c9q9w3x9qn2o Comments URL: https://news.ycombinator.com/item?id=49066962 Points: 19 # Comments: 5"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html",
+      "title": "How Meta Got Everything It Wanted in a Secret Louisiana Data Center Deal",
+      "slug": "2026-07-27-how-meta-got-everything-it-wanted-in-a-secret-louisiana-data-center-deal.html",
+      "path": "posts/2026-07-27-how-meta-got-everything-it-wanted-in-a-secret-louisiana-data-center-deal.html",
+      "date_iso": "2026-07-27T09:00:20+00:00",
+      "source": "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html",
+      "summary": "Massive data centers are being built around the country, like this one in Louisiana by Meta."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49066750",
+      "title": "How Unix spell ran in 64 kB of RAM",
+      "slug": "2026-07-27-how-unix-spell-ran-in-64-kb-of-ram.html",
+      "path": "posts/2026-07-27-how-unix-spell-ran-in-64-kb-of-ram.html",
+      "date_iso": "2026-07-27T08:43:11+00:00",
+      "source": "https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram",
+      "summary": "Article URL: https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram Comments URL: https://news.ycombinator.com/item?id=49066750 Points: 26 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49065752",
+      "title": "Kimi-K3 Releases on HuggingFace 7/27",
+      "slug": "2026-07-27-kimi-k3-releases-on-huggingface-7-27.html",
+      "path": "posts/2026-07-27-kimi-k3-releases-on-huggingface-7-27.html",
+      "date_iso": "2026-07-27T06:18:10+00:00",
+      "source": "https://huggingface.co/moonshotai/Kimi-K3",
+      "summary": "Article URL: https://huggingface.co/moonshotai/Kimi-K3 Comments URL: https://news.ycombinator.com/item?id=49065752 Points: 345 # Comments: 148"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49064588",
+      "title": "The old-school way of keeping the summer heat out of your home",
+      "slug": "2026-07-27-the-old-school-way-of-keeping-the-summer-heat-out-of-your-home.html",
+      "path": "posts/2026-07-27-the-old-school-way-of-keeping-the-summer-heat-out-of-your-home.html",
+      "date_iso": "2026-07-27T02:33:22+00:00",
+      "source": "https://monocle.com/design/architecture/keeping-your-home-cool-without-air-conditioning/",
+      "summary": "Article URL: https://monocle.com/design/architecture/keeping-your-home-cool-without-air-conditioning/ Comments URL: https://news.ycombinator.com/item?id=49064588 Points: 20 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49063754",
+      "title": "PGSimCity - How PostgreSQL Works",
+      "slug": "2026-07-27-pgsimcity-how-postgresql-works.html",
+      "path": "posts/2026-07-27-pgsimcity-how-postgresql-works.html",
+      "date_iso": "2026-07-27T00:19:04+00:00",
+      "source": "https://nikolays.github.io/PGSimCity/",
+      "summary": "Article URL: https://nikolays.github.io/PGSimCity/ Comments URL: https://news.ycombinator.com/item?id=49063754 Points: 624 # Comments: 61"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49063523",
+      "title": "Fonts In Use – Find out where a font is used",
+      "slug": "2026-07-26-fonts-in-use-find-out-where-a-font-is-used.html",
+      "path": "posts/2026-07-26-fonts-in-use-find-out-where-a-font-is-used.html",
+      "date_iso": "2026-07-26T23:45:09+00:00",
+      "source": "https://fontsinuse.com/",
+      "summary": "Article URL: https://fontsinuse.com/ Comments URL: https://news.ycombinator.com/item?id=49063523 Points: 74 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49063175",
+      "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+      "slug": "2026-07-26-scriptc-by-vercel-typescript-to-native-compiler-no-javascript-engine-in-binary.html",
+      "path": "posts/2026-07-26-scriptc-by-vercel-typescript-to-native-compiler-no-javascript-engine-in-binary.html",
+      "date_iso": "2026-07-26T22:46:10+00:00",
+      "source": "https://github.com/vercel-labs/scriptc",
+      "summary": "Article URL: https://github.com/vercel-labs/scriptc Comments URL: https://news.ycombinator.com/item?id=49063175 Points: 191 # Comments: 99"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49063022",
+      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "slug": "2026-07-26-us-citizen-charged-after-grapheneos-phone-wipes-during-airport-search.html",
+      "path": "posts/2026-07-26-us-citizen-charged-after-grapheneos-phone-wipes-during-airport-search.html",
+      "date_iso": "2026-07-26T22:21:41+00:00",
+      "source": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+      "summary": "Article URL: https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html Comments URL: https://news.ycombinator.com/item?id=49063022 Points: 799 # Comments: 591"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49062291",
+      "title": "We have proof automation now",
+      "slug": "2026-07-26-we-have-proof-automation-now.html",
+      "path": "posts/2026-07-26-we-have-proof-automation-now.html",
+      "date_iso": "2026-07-26T20:53:26+00:00",
+      "source": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
+      "summary": "Article URL: https://www.imperialviolet.org/2026/07/26/zstd-lean.html Comments URL: https://news.ycombinator.com/item?id=49062291 Points: 173 # Comments: 62"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49061887",
+      "title": "Simulate cassette tape audio profiles using FFmpeg",
+      "slug": "2026-07-26-simulate-cassette-tape-audio-profiles-using-ffmpeg.html",
+      "path": "posts/2026-07-26-simulate-cassette-tape-audio-profiles-using-ffmpeg.html",
+      "date_iso": "2026-07-26T20:02:15+00:00",
+      "source": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
+      "summary": "Article URL: https://github.com/AARomanov1985/Audio-Cassette-Simulation Comments URL: https://news.ycombinator.com/item?id=49061887 Points: 134 # Comments: 57"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49060856",
+      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+      "slug": "2026-07-26-decker-a-platform-that-builds-on-the-legacy-of-hypercard-and-classic-macos.html",
+      "path": "posts/2026-07-26-decker-a-platform-that-builds-on-the-legacy-of-hypercard-and-classic-macos.html",
+      "date_iso": "2026-07-26T18:23:06+00:00",
+      "source": "https://beyondloom.com/decker/",
+      "summary": "Article URL: https://beyondloom.com/decker/ Comments URL: https://news.ycombinator.com/item?id=49060856 Points: 317 # Comments: 74"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49060724",
+      "title": "Introduction to Data-Oriented Design [pdf]",
+      "slug": "2026-07-26-introduction-to-data-oriented-design-pdf.html",
+      "path": "posts/2026-07-26-introduction-to-data-oriented-design-pdf.html",
+      "date_iso": "2026-07-26T18:11:16+00:00",
+      "source": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
+      "summary": "Article URL: https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf Comments URL: https://news.ycombinator.com/item?id=49060724 Points: 180 # Comments: 49"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49060495",
+      "title": "French firefighters face 'pyrocumulonimbus' for first time",
+      "slug": "2026-07-26-french-firefighters-face-pyrocumulonimbus-for-first-time.html",
+      "path": "posts/2026-07-26-french-firefighters-face-pyrocumulonimbus-for-first-time.html",
+      "date_iso": "2026-07-26T17:49:44+00:00",
+      "source": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+      "summary": "Article URL: https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time Comments URL: https://news.ycombinator.com/item?id=49060495 Points: 388 # Comments: 263"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49060295",
+      "title": "How to write English prose (2023)",
+      "slug": "2026-07-26-how-to-write-english-prose-2023.html",
+      "path": "posts/2026-07-26-how-to-write-english-prose-2023.html",
+      "date_iso": "2026-07-26T17:29:35+00:00",
+      "source": "https://thelampmagazine.com/blog/how-to-write-english-prose",
+      "summary": "Article URL: https://thelampmagazine.com/blog/how-to-write-english-prose Comments URL: https://news.ycombinator.com/item?id=49060295 Points: 121 # Comments: 60"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49059398",
+      "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
+      "slug": "2026-07-26-show-hn-cheapsecurity-lightweight-self-hosted-cctv-for-linux-sbcs.html",
+      "path": "posts/2026-07-26-show-hn-cheapsecurity-lightweight-self-hosted-cctv-for-linux-sbcs.html",
+      "date_iso": "2026-07-26T15:53:55+00:00",
+      "source": "https://github.com/gmrandazzo/CheapSecurity",
+      "summary": "Article URL: https://github.com/gmrandazzo/CheapSecurity Comments URL: https://news.ycombinator.com/item?id=49059398 Points: 131 # Comments: 27"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49059367",
+      "title": "Design is compromise",
+      "slug": "2026-07-26-design-is-compromise.html",
+      "path": "posts/2026-07-26-design-is-compromise.html",
+      "date_iso": "2026-07-26T15:51:12+00:00",
+      "source": "https://stephango.com/design-is-compromise",
+      "summary": "Article URL: https://stephango.com/design-is-compromise Comments URL: https://news.ycombinator.com/item?id=49059367 Points: 258 # Comments: 87"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49058993",
+      "title": "The relay market powering token resellers and fraud",
+      "slug": "2026-07-26-the-relay-market-powering-token-resellers-and-fraud.html",
+      "path": "posts/2026-07-26-the-relay-market-powering-token-resellers-and-fraud.html",
+      "date_iso": "2026-07-26T15:17:06+00:00",
+      "source": "https://vectoral.com/blog/token-relay-market",
+      "summary": "Article URL: https://vectoral.com/blog/token-relay-market Comments URL: https://news.ycombinator.com/item?id=49058993 Points: 195 # Comments: 122"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49057877",
+      "title": "The New AI Superpowers: Focus and Followthrough",
+      "slug": "2026-07-26-the-new-ai-superpowers-focus-and-followthrough.html",
+      "path": "posts/2026-07-26-the-new-ai-superpowers-focus-and-followthrough.html",
+      "date_iso": "2026-07-26T13:13:03+00:00",
+      "source": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+      "summary": "Article URL: https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and Comments URL: https://news.ycombinator.com/item?id=49057877 Points: 202 # Comments: 70"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49057666",
+      "title": "Show HN: Reverse Minesweeper",
+      "slug": "2026-07-26-show-hn-reverse-minesweeper.html",
+      "path": "posts/2026-07-26-show-hn-reverse-minesweeper.html",
+      "date_iso": "2026-07-26T12:51:03+00:00",
+      "source": "https://sunflowersgame.com/",
+      "summary": "Article URL: https://sunflowersgame.com/ Comments URL: https://news.ycombinator.com/item?id=49057666 Points: 226 # Comments: 74"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49057398",
+      "title": "Go Analysis Framework: modular static analysis by go team",
+      "slug": "2026-07-26-go-analysis-framework-modular-static-analysis-by-go-team.html",
+      "path": "posts/2026-07-26-go-analysis-framework-modular-static-analysis-by-go-team.html",
+      "date_iso": "2026-07-26T12:21:26+00:00",
+      "source": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
+      "summary": "Article URL: https://pkg.go.dev/golang.org/x/tools/go/analysis Comments URL: https://news.ycombinator.com/item?id=49057398 Points: 212 # Comments: 69"
+    },
+    {
       "id": "https://www.nytimes.com/2026/07/26/technology/personaltech/tiktok-instagram-breakup-content.html",
       "title": "Why TikTok’s Algorithm Keeps You Trapped in a Breakup Loop",
       "slug": "2026-07-26-why-tiktok-s-algorithm-keeps-you-trapped-in-a-breakup-loop.html",
