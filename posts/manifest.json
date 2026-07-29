@@ -1,6 +1,240 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49094346",
+      "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
+      "slug": "2026-07-29-sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers.html",
+      "path": "posts/2026-07-29-sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers.html",
+      "date_iso": "2026-07-29T07:18:24+00:00",
+      "source": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
+      "summary": "Article URL: https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers Comments URL: https://news.ycombinator.com/item?id=49094346 Points: 37 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49093569",
+      "title": "More Tailscale tricks for your jailbroken Kindle",
+      "slug": "2026-07-29-more-tailscale-tricks-for-your-jailbroken-kindle.html",
+      "path": "posts/2026-07-29-more-tailscale-tricks-for-your-jailbroken-kindle.html",
+      "date_iso": "2026-07-29T04:58:46+00:00",
+      "source": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+      "summary": "Article URL: https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes Comments URL: https://news.ycombinator.com/item?id=49093569 Points: 173 # Comments: 50"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49093435",
+      "title": "Cracking Windows Open: Porting RADV to Win32",
+      "slug": "2026-07-29-cracking-windows-open-porting-radv-to-win32.html",
+      "path": "posts/2026-07-29-cracking-windows-open-porting-radv-to-win32.html",
+      "date_iso": "2026-07-29T04:30:47+00:00",
+      "source": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
+      "summary": "Article URL: https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html Comments URL: https://news.ycombinator.com/item?id=49093435 Points: 44 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49093434",
+      "title": "User Interfaces of the Demo Scene",
+      "slug": "2026-07-29-user-interfaces-of-the-demo-scene.html",
+      "path": "posts/2026-07-29-user-interfaces-of-the-demo-scene.html",
+      "date_iso": "2026-07-29T04:30:36+00:00",
+      "source": "https://www.datagubbe.se/scenegui/",
+      "summary": "Article URL: https://www.datagubbe.se/scenegui/ Comments URL: https://news.ycombinator.com/item?id=49093434 Points: 179 # Comments: 27"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49093232",
+      "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+      "slug": "2026-07-29-transformer-transformer-a-unified-model-for-motion-conditioned-robot-co-design.html",
+      "path": "posts/2026-07-29-transformer-transformer-a-unified-model-for-motion-conditioned-robot-co-design.html",
+      "date_iso": "2026-07-29T03:52:29+00:00",
+      "source": "https://transformer-transformer.github.io/",
+      "summary": "Article URL: https://transformer-transformer.github.io/ Comments URL: https://news.ycombinator.com/item?id=49093232 Points: 50 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49092754",
+      "title": "Hooray for the Sockets Interface",
+      "slug": "2026-07-29-hooray-for-the-sockets-interface.html",
+      "path": "posts/2026-07-29-hooray-for-the-sockets-interface.html",
+      "date_iso": "2026-07-29T02:25:29+00:00",
+      "source": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/",
+      "summary": "Article URL: https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/ Comments URL: https://news.ycombinator.com/item?id=49092754 Points: 37 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49092499",
+      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+      "slug": "2026-07-29-learnvector-andrew-ng-s-ai-company-building-one-to-one-learning-experiences.html",
+      "path": "posts/2026-07-29-learnvector-andrew-ng-s-ai-company-building-one-to-one-learning-experiences.html",
+      "date_iso": "2026-07-29T01:49:19+00:00",
+      "source": "https://learnvector.ai/",
+      "summary": "Article URL: https://learnvector.ai/ Comments URL: https://news.ycombinator.com/item?id=49092499 Points: 179 # Comments: 107"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49092112",
+      "title": "Multiple Mouse Cursors in Wayland",
+      "slug": "2026-07-29-multiple-mouse-cursors-in-wayland.html",
+      "path": "posts/2026-07-29-multiple-mouse-cursors-in-wayland.html",
+      "date_iso": "2026-07-29T00:59:37+00:00",
+      "source": "https://blinry.org/multi-seat-wayland/",
+      "summary": "Article URL: https://blinry.org/multi-seat-wayland/ Comments URL: https://news.ycombinator.com/item?id=49092112 Points: 127 # Comments: 88"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html",
+      "title": "Mark Zuckerberg Blasts Centralization of A.I. Power",
+      "slug": "2026-07-29-mark-zuckerberg-blasts-centralization-of-a-i-power.html",
+      "path": "posts/2026-07-29-mark-zuckerberg-blasts-centralization-of-a-i-power.html",
+      "date_iso": "2026-07-29T00:59:08+00:00",
+      "source": "https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html",
+      "summary": "Mark Zuckerberg, Meta’s chief executive, said there needed to be people “bringing realism” to a debate about the way forward on artificial intelligence development."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49091730",
+      "title": "Hubble: Open-source notetaking app for you and your agents",
+      "slug": "2026-07-29-hubble-open-source-notetaking-app-for-you-and-your-agents.html",
+      "path": "posts/2026-07-29-hubble-open-source-notetaking-app-for-you-and-your-agents.html",
+      "date_iso": "2026-07-29T00:11:23+00:00",
+      "source": "https://www.hubble.md/",
+      "summary": "Article URL: https://www.hubble.md/ Comments URL: https://news.ycombinator.com/item?id=49091730 Points: 110 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49091379",
+      "title": "ReFrame – The EPaper Camera",
+      "slug": "2026-07-28-reframe-the-epaper-camera.html",
+      "path": "posts/2026-07-28-reframe-the-epaper-camera.html",
+      "date_iso": "2026-07-28T23:27:09+00:00",
+      "source": "https://reframe.camera/",
+      "summary": "Article URL: https://reframe.camera/ Comments URL: https://news.ycombinator.com/item?id=49091379 Points: 128 # Comments: 26"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/07/28/technology/open-weight-ai.html",
+      "title": "What Is Open-Weights A.I.?",
+      "slug": "2026-07-28-what-is-open-weights-a-i.html",
+      "path": "posts/2026-07-28-what-is-open-weights-a-i.html",
+      "date_iso": "2026-07-28T22:38:23+00:00",
+      "source": "https://www.nytimes.com/2026/07/28/technology/open-weight-ai.html",
+      "summary": "The Open Weights Mini March in San Francisco drew demonstrators last week."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49090607",
+      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+      "slug": "2026-07-28-show-hn-i-was-tired-of-opening-2-tabs-for-every-hn-link-so-i-made-a-userscript.html",
+      "path": "posts/2026-07-28-show-hn-i-was-tired-of-opening-2-tabs-for-every-hn-link-so-i-made-a-userscript.html",
+      "date_iso": "2026-07-28T22:09:06+00:00",
+      "source": "https://github.com/twalichiewicz/HNewhere",
+      "summary": "HN is great for the links people share, but a big part of the value I get comes from reading the discussion around them. I realized I was always opening the article in one tab and the comments in another, constantly switching back and forth. I figured there was probably a simple…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html",
+      "title": "Couple Stalked by eBay Settle for $56 Million",
+      "slug": "2026-07-28-couple-stalked-by-ebay-settle-for-56-million.html",
+      "path": "posts/2026-07-28-couple-stalked-by-ebay-settle-for-56-million.html",
+      "date_iso": "2026-07-28T21:02:51+00:00",
+      "source": "https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html",
+      "summary": "The headquarters of eBay in San Jose, Calif."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49089814",
+      "title": "Half-Life ported to Mac OS 9",
+      "slug": "2026-07-28-half-life-ported-to-mac-os-9.html",
+      "path": "posts/2026-07-28-half-life-ported-to-mac-os-9.html",
+      "date_iso": "2026-07-28T20:58:39+00:00",
+      "source": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+      "summary": "Article URL: https://mac-classic.com/news/half-life-ported-to-mac-os-9/ Comments URL: https://news.ycombinator.com/item?id=49089814 Points: 239 # Comments: 115"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49089755",
+      "title": "Codex Security",
+      "slug": "2026-07-28-codex-security.html",
+      "path": "posts/2026-07-28-codex-security.html",
+      "date_iso": "2026-07-28T20:52:55+00:00",
+      "source": "https://github.com/openai/codex-security",
+      "summary": "Article URL: https://github.com/openai/codex-security Comments URL: https://news.ycombinator.com/item?id=49089755 Points: 496 # Comments: 167"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/07/28/movies/urbanworld-writers-guild-ai.html",
+      "title": "Writers Guild Withdraws Support From Film Festival Over A.I.",
+      "slug": "2026-07-28-writers-guild-withdraws-support-from-film-festival-over-a-i.html",
+      "path": "posts/2026-07-28-writers-guild-withdraws-support-from-film-festival-over-a-i.html",
+      "date_iso": "2026-07-28T20:24:33+00:00",
+      "source": "https://www.nytimes.com/2026/07/28/movies/urbanworld-writers-guild-ai.html",
+      "summary": "Stacy Spikes, founder of Urbanworld, a festival that specializes in Black and multicultural films."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49087306",
+      "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
+      "slug": "2026-07-28-the-iphone-upgrade-program-is-being-replaced-by-apple-upgrade.html",
+      "path": "posts/2026-07-28-the-iphone-upgrade-program-is-being-replaced-by-apple-upgrade.html",
+      "date_iso": "2026-07-28T17:37:12+00:00",
+      "source": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
+      "summary": "https://www.apple.com/shop/apple-upgrade Comments URL: https://news.ycombinator.com/item?id=49087306 Points: 180 # Comments: 326"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49086971",
+      "title": "Steel Bank Common Lisp version 2.6.7",
+      "slug": "2026-07-28-steel-bank-common-lisp-version-2-6-7.html",
+      "path": "posts/2026-07-28-steel-bank-common-lisp-version-2-6-7.html",
+      "date_iso": "2026-07-28T17:11:54+00:00",
+      "source": "https://sbcl.org/all-news.html?2.6.7",
+      "summary": "Article URL: https://sbcl.org/all-news.html?2.6.7 Comments URL: https://news.ycombinator.com/item?id=49086971 Points: 231 # Comments: 100"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html",
+      "title": "An Anthropic Claude AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms",
+      "slug": "2026-07-28-an-anthropic-claude-ai-model-finds-flaws-in-tough-to-crack-encryption-algorithms.html",
+      "path": "posts/2026-07-28-an-anthropic-claude-ai-model-finds-flaws-in-tough-to-crack-encryption-algorithms.html",
+      "date_iso": "2026-07-28T17:00:06+00:00",
+      "source": "https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html",
+      "summary": "Claude Mythos Preview discovered new attacks in testing against weakened cryptographic algorithms, which protect online financial transactions, private communications and more."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49086788",
+      "title": "Substack writers, you need a website",
+      "slug": "2026-07-28-substack-writers-you-need-a-website.html",
+      "path": "posts/2026-07-28-substack-writers-you-need-a-website.html",
+      "date_iso": "2026-07-28T16:58:31+00:00",
+      "source": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+      "summary": "Article URL: https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/ Comments URL: https://news.ycombinator.com/item?id=49086788 Points: 537 # Comments: 270"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49085731",
+      "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
+      "slug": "2026-07-28-delayed-gratification-proud-to-be-last-to-breaking-news.html",
+      "path": "posts/2026-07-28-delayed-gratification-proud-to-be-last-to-breaking-news.html",
+      "date_iso": "2026-07-28T15:50:38+00:00",
+      "source": "https://www.slow-journalism.com/",
+      "summary": "Article URL: https://www.slow-journalism.com/ Comments URL: https://news.ycombinator.com/item?id=49085731 Points: 295 # Comments: 165"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49085698",
+      "title": "Kimi K3 Architecture Overview and Notes",
+      "slug": "2026-07-28-kimi-k3-architecture-overview-and-notes.html",
+      "path": "posts/2026-07-28-kimi-k3-architecture-overview-and-notes.html",
+      "date_iso": "2026-07-28T15:48:34+00:00",
+      "source": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+      "summary": "Article URL: https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html Comments URL: https://news.ycombinator.com/item?id=49085698 Points: 419 # Comments: 83"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49085666",
+      "title": "Zig's Incremental Compilation Internals",
+      "slug": "2026-07-28-zig-s-incremental-compilation-internals.html",
+      "path": "posts/2026-07-28-zig-s-incremental-compilation-internals.html",
+      "date_iso": "2026-07-28T15:46:45+00:00",
+      "source": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+      "summary": "Article URL: https://mlugg.co.uk/posts/incremental-compilation-internals/ Comments URL: https://news.ycombinator.com/item?id=49085666 Points: 243 # Comments: 167"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49084987",
+      "title": "Now is the time to give LLMs access to the ACM digital library",
+      "slug": "2026-07-28-now-is-the-time-to-give-llms-access-to-the-acm-digital-library.html",
+      "path": "posts/2026-07-28-now-is-the-time-to-give-llms-access-to-the-acm-digital-library.html",
+      "date_iso": "2026-07-28T15:01:12+00:00",
+      "source": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
+      "summary": "Article URL: https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/ Comments URL: https://news.ycombinator.com/item?id=49084987 Points: 159 # Comments: 129"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
+      "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
+      "slug": "2026-07-28-apple-introduces-leasing-program-for-iphones-and-other-devices.html",
+      "path": "posts/2026-07-28-apple-introduces-leasing-program-for-iphones-and-other-devices.html",
+      "date_iso": "2026-07-28T12:35:43+00:00",
+      "source": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
+      "summary": "An Apple Store in Beijing. The company is rolling out a leasing program for some iPhone, iPad, Mac and Apple Watch models."
+    },
+    {
       "id": "https://www.nytimes.com/2026/07/28/science/costa-rica-monkeys-ai.html",
       "title": "In This Costa Rican Forest, Monkeys Come Face-to-Face With A.I.",
       "slug": "2026-07-28-in-this-costa-rican-forest-monkeys-come-face-to-face-with-a-i.html",
