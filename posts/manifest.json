@@ -1,6 +1,258 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/07/30/world/canada/wrongful-conviction-kik-username-underscore.html",
+      "title": "Mistaken Username Sent Man to Prison for 18 Months, Court Finds",
+      "slug": "2026-07-30-mistaken-username-sent-man-to-prison-for-18-months-court-finds.html",
+      "path": "posts/2026-07-30-mistaken-username-sent-man-to-prison-for-18-months-court-finds.html",
+      "date_iso": "2026-07-30T09:03:25+00:00",
+      "source": "https://www.nytimes.com/2026/07/30/world/canada/wrongful-conviction-kik-username-underscore.html",
+      "summary": "The Nova Scotia provincial flag. Prosecutors in Nova Scotia acknowledged the conviction had been flawed."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html",
+      "title": "Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.",
+      "slug": "2026-07-30-apple-s-siri-got-an-a-i-brain-transplant-try-these-5-prompts-to-get-acclimated.html",
+      "path": "posts/2026-07-30-apple-s-siri-got-an-a-i-brain-transplant-try-these-5-prompts-to-get-acclimated.html",
+      "date_iso": "2026-07-30T09:03:07+00:00",
+      "source": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html",
+      "summary": "An upgrade transformed the beleaguered virtual assistant into a modern chatbot. It’s imperfect but worth trying."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/07/30/us/ai-twin-pastor-justin-lester-california-church.html",
+      "title": "A Bay Area Pastor Made an A.I. Twin to Talk About God at Any Time",
+      "slug": "2026-07-30-a-bay-area-pastor-made-an-a-i-twin-to-talk-about-god-at-any-time.html",
+      "path": "posts/2026-07-30-a-bay-area-pastor-made-an-a-i-twin-to-talk-about-god-at-any-time.html",
+      "date_iso": "2026-07-30T09:01:14+00:00",
+      "source": "https://www.nytimes.com/2026/07/30/us/ai-twin-pastor-justin-lester-california-church.html",
+      "summary": "To meet the growing needs of his church, Justin Lester created an A.I. duplicate of himself. Every day he sees more people using it."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/07/30/technology/ai-heated-rivalry-fan-fiction.html",
+      "title": "When A.I. Invaded ‘Heated Rivalry’ Fan Fiction, the Meltdown Was Epic",
+      "slug": "2026-07-30-when-a-i-invaded-heated-rivalry-fan-fiction-the-meltdown-was-epic.html",
+      "path": "posts/2026-07-30-when-a-i-invaded-heated-rivalry-fan-fiction-the-meltdown-was-epic.html",
+      "date_iso": "2026-07-30T09:00:52+00:00",
+      "source": "https://www.nytimes.com/2026/07/30/technology/ai-heated-rivalry-fan-fiction.html",
+      "summary": "An anonymous X account posted a detailed breakdown of chatbot text in 38 popular stories inspired by the hockey romance. The fandom spiraled."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49107145",
+      "title": "I Have Thoughts on the iPhone Air",
+      "slug": "2026-07-30-i-have-thoughts-on-the-iphone-air.html",
+      "path": "posts/2026-07-30-i-have-thoughts-on-the-iphone-air.html",
+      "date_iso": "2026-07-30T07:54:13+00:00",
+      "source": "https://christianselig.com/2026/07/iphone-air-review/",
+      "summary": "Article URL: https://christianselig.com/2026/07/iphone-air-review/ Comments URL: https://news.ycombinator.com/item?id=49107145 Points: 34 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49105924",
+      "title": "Why the future is local app",
+      "slug": "2026-07-30-why-the-future-is-local-app.html",
+      "path": "posts/2026-07-30-why-the-future-is-local-app.html",
+      "date_iso": "2026-07-30T03:44:38+00:00",
+      "source": "https://getapps.cafe/blog/why-the-future-is-local-app",
+      "summary": "Article URL: https://getapps.cafe/blog/why-the-future-is-local-app Comments URL: https://news.ycombinator.com/item?id=49105924 Points: 22 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49105563",
+      "title": "Kuna: Decompiler Development in the Age of Coding Agents",
+      "slug": "2026-07-30-kuna-decompiler-development-in-the-age-of-coding-agents.html",
+      "path": "posts/2026-07-30-kuna-decompiler-development-in-the-age-of-coding-agents.html",
+      "date_iso": "2026-07-30T02:41:16+00:00",
+      "source": "https://noelo.org/blog/kuna-release/",
+      "summary": "Article URL: https://noelo.org/blog/kuna-release/ Comments URL: https://news.ycombinator.com/item?id=49105563 Points: 33 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49104937",
+      "title": "Logic for Programmers",
+      "slug": "2026-07-30-logic-for-programmers.html",
+      "path": "posts/2026-07-30-logic-for-programmers.html",
+      "date_iso": "2026-07-30T00:51:39+00:00",
+      "source": "https://logicforprogrammers.com/",
+      "summary": "Article URL: https://logicforprogrammers.com/ Comments URL: https://news.ycombinator.com/item?id=49104937 Points: 117 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49104335",
+      "title": "The Productivity Mirage",
+      "slug": "2026-07-29-the-productivity-mirage.html",
+      "path": "posts/2026-07-29-the-productivity-mirage.html",
+      "date_iso": "2026-07-29T23:18:11+00:00",
+      "source": "https://frantic.im/mirage/",
+      "summary": "Article URL: https://frantic.im/mirage/ Comments URL: https://news.ycombinator.com/item?id=49104335 Points: 224 # Comments: 82"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/07/29/technology/meta-profit-ai.html",
+      "title": "Meta’s Profit Falls 14 Percent as A.I. Spending Continues",
+      "slug": "2026-07-29-meta-s-profit-falls-14-percent-as-a-i-spending-continues.html",
+      "path": "posts/2026-07-29-meta-s-profit-falls-14-percent-as-a-i-spending-continues.html",
+      "date_iso": "2026-07-29T23:17:34+00:00",
+      "source": "https://www.nytimes.com/2026/07/29/technology/meta-profit-ai.html",
+      "summary": "Products on display at the Meta Lab store in Midtown Manhattan."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/07/29/technology/microsoft-quarterly-earnings-report.html",
+      "title": "Microsoft Increases Spending on A.I. as Profit Jumps 31%",
+      "slug": "2026-07-29-microsoft-increases-spending-on-a-i-as-profit-jumps-31.html",
+      "path": "posts/2026-07-29-microsoft-increases-spending-on-a-i-as-profit-jumps-31.html",
+      "date_iso": "2026-07-29T23:10:21+00:00",
+      "source": "https://www.nytimes.com/2026/07/29/technology/microsoft-quarterly-earnings-report.html",
+      "summary": "The Microsoft Experience Center in Manhattan on Wednesday, when Microsoft reported quarterly capital expenditures of $41 billion."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49104140",
+      "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
+      "slug": "2026-07-29-man-and-the-computer-by-john-g-kemeny-1972-book-by-the-co-creator-of-basic.html",
+      "path": "posts/2026-07-29-man-and-the-computer-by-john-g-kemeny-1972-book-by-the-co-creator-of-basic.html",
+      "date_iso": "2026-07-29T22:53:44+00:00",
+      "source": "https://archive.org/details/mancomputerbyjoh0000john",
+      "summary": "Article URL: https://archive.org/details/mancomputerbyjoh0000john Comments URL: https://news.ycombinator.com/item?id=49104140 Points: 47 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49104117",
+      "title": "LLM Honeypot",
+      "slug": "2026-07-29-llm-honeypot.html",
+      "path": "posts/2026-07-29-llm-honeypot.html",
+      "date_iso": "2026-07-29T22:51:03+00:00",
+      "source": "https://llm2human.pages.dev/",
+      "summary": "Article URL: https://llm2human.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49104117 Points: 234 # Comments: 58"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49103285",
+      "title": "AI's top startups are barely publishing their research",
+      "slug": "2026-07-29-ai-s-top-startups-are-barely-publishing-their-research.html",
+      "path": "posts/2026-07-29-ai-s-top-startups-are-barely-publishing-their-research.html",
+      "date_iso": "2026-07-29T21:25:40+00:00",
+      "source": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "summary": "Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research Comments URL: https://news.ycombinator.com/item?id=49103285 Points: 445 # Comments: 231"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49103089",
+      "title": "The Cold Email",
+      "slug": "2026-07-29-the-cold-email.html",
+      "path": "posts/2026-07-29-the-cold-email.html",
+      "date_iso": "2026-07-29T21:06:42+00:00",
+      "source": "https://zachholman.com/posts/cold-email",
+      "summary": "Article URL: https://zachholman.com/posts/cold-email Comments URL: https://news.ycombinator.com/item?id=49103089 Points: 204 # Comments: 80"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49103026",
+      "title": "SalesPatriot (YC W25) Is Hiring FDEs",
+      "slug": "2026-07-29-salespatriot-yc-w25-is-hiring-fdes.html",
+      "path": "posts/2026-07-29-salespatriot-yc-w25-is-hiring-fdes.html",
+      "date_iso": "2026-07-29T21:01:01+00:00",
+      "source": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer Comments URL: https://news.ycombinator.com/item?id=49103026 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49102774",
+      "title": "The coolest use for the Vision Pro",
+      "slug": "2026-07-29-the-coolest-use-for-the-vision-pro.html",
+      "path": "posts/2026-07-29-the-coolest-use-for-the-vision-pro.html",
+      "date_iso": "2026-07-29T20:39:40+00:00",
+      "source": "https://christianselig.com/2026/07/vision-pro-house/",
+      "summary": "Article URL: https://christianselig.com/2026/07/vision-pro-house/ Comments URL: https://news.ycombinator.com/item?id=49102774 Points: 644 # Comments: 259"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
+      "title": "A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands",
+      "slug": "2026-07-29-a-i-companies-are-recruiting-electricians-and-carpenters-by-the-thousands.html",
+      "path": "posts/2026-07-29-a-i-companies-are-recruiting-electricians-and-carpenters-by-the-thousands.html",
+      "date_iso": "2026-07-29T20:34:04+00:00",
+      "source": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
+      "summary": "Juan Amarante working last week in the data center training lab at the Detroit Electrical Industry Training Center in Warren, Mich."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49102425",
+      "title": "A Trampoline",
+      "slug": "2026-07-29-a-trampoline.html",
+      "path": "posts/2026-07-29-a-trampoline.html",
+      "date_iso": "2026-07-29T20:14:36+00:00",
+      "source": "https://dogdogfish.com/blog/2026/07/29/a-trampoline/",
+      "summary": "Article URL: https://dogdogfish.com/blog/2026/07/29/a-trampoline/ Comments URL: https://news.ycombinator.com/item?id=49102425 Points: 107 # Comments: 63"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49101852",
+      "title": "Kimi K3-256k",
+      "slug": "2026-07-29-kimi-k3-256k.html",
+      "path": "posts/2026-07-29-kimi-k3-256k.html",
+      "date_iso": "2026-07-29T19:25:33+00:00",
+      "source": "https://www.kimi.com/code/docs/en/kimi-code/models",
+      "summary": "Article URL: https://www.kimi.com/code/docs/en/kimi-code/models Comments URL: https://news.ycombinator.com/item?id=49101852 Points: 429 # Comments: 124"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49101198",
+      "title": "Turning a dumb AC unit smart (without losing my security deposit)",
+      "slug": "2026-07-29-turning-a-dumb-ac-unit-smart-without-losing-my-security-deposit.html",
+      "path": "posts/2026-07-29-turning-a-dumb-ac-unit-smart-without-losing-my-security-deposit.html",
+      "date_iso": "2026-07-29T18:28:51+00:00",
+      "source": "https://prilik.com/blog/post/automating-ac-nyc/",
+      "summary": "Article URL: https://prilik.com/blog/post/automating-ac-nyc/ Comments URL: https://news.ycombinator.com/item?id=49101198 Points: 164 # Comments: 133"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49100056",
+      "title": "PgDog (YC P25) Is Hiring",
+      "slug": "2026-07-29-pgdog-yc-p25-is-hiring.html",
+      "path": "posts/2026-07-29-pgdog-yc-p25-is-hiring.html",
+      "date_iso": "2026-07-29T17:01:10+00:00",
+      "source": "https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer Comments URL: https://news.ycombinator.com/item?id=49100056 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49100043",
+      "title": "Show HN: CheapFoodMap – A map of good meals under $10",
+      "slug": "2026-07-29-show-hn-cheapfoodmap-a-map-of-good-meals-under-10.html",
+      "path": "posts/2026-07-29-show-hn-cheapfoodmap-a-map-of-good-meals-under-10.html",
+      "date_iso": "2026-07-29T16:59:52+00:00",
+      "source": "https://cheapfoodmap.com/",
+      "summary": "I was recently laid off after 18 years, and gave myself 100 days to build soething useful in public. CheapFoodMap is a crowdsourced map of meal under $10, excluding franchises, local good eats only. It's inspried by 거지맵 (Begger's Map) a Korean crowdsourced map students use to fi…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49099804",
+      "title": "Some thoughts about Anthropic's new cryptanalysis results",
+      "slug": "2026-07-29-some-thoughts-about-anthropic-s-new-cryptanalysis-results.html",
+      "path": "posts/2026-07-29-some-thoughts-about-anthropic-s-new-cryptanalysis-results.html",
+      "date_iso": "2026-07-29T16:42:20+00:00",
+      "source": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+      "summary": "Article URL: https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/ Comments URL: https://news.ycombinator.com/item?id=49099804 Points: 154 # Comments: 81"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49099715",
+      "title": "Keychron announces first open-source firmware for gaming mice",
+      "slug": "2026-07-29-keychron-announces-first-open-source-firmware-for-gaming-mice.html",
+      "path": "posts/2026-07-29-keychron-announces-first-open-source-firmware-for-gaming-mice.html",
+      "date_iso": "2026-07-29T16:36:59+00:00",
+      "source": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+      "summary": "Article URL: https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice Comments URL: https://news.ycombinator.com/item?id=49099715 Points: 370 # Comments: 149"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49099143",
+      "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
+      "slug": "2026-07-29-launch-hn-tokenless-yc-s26-automatic-model-switching-to-save-money.html",
+      "path": "posts/2026-07-29-launch-hn-tokenless-yc-s26-automatic-model-switching-to-save-money.html",
+      "date_iso": "2026-07-29T15:55:27+00:00",
+      "source": "https://usetokenless.com/",
+      "summary": "Hi HN, Rohit here from Tokenless ( https://usetokenless.com/ ), which I’m building alongside co-founders Andrew and Kev. We’re building an API gateway which routes agent traffic dynamically turn-by-turn between different models to save on AI spend. The cost of AI tokens is top-o…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49098965",
+      "title": "Superlogical",
+      "slug": "2026-07-29-superlogical.html",
+      "path": "posts/2026-07-29-superlogical.html",
+      "date_iso": "2026-07-29T15:41:33+00:00",
+      "source": "https://www.superlogical.com/",
+      "summary": "https://mitchellh.com/writing/superlogical Comments URL: https://news.ycombinator.com/item?id=49098965 Points: 690 # Comments: 409"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html",
+      "title": "Russia Charges Telegram’s Founder Pavel Durov With Facilitating Terrorism",
+      "slug": "2026-07-29-russia-charges-telegram-s-founder-pavel-durov-with-facilitating-terrorism.html",
+      "path": "posts/2026-07-29-russia-charges-telegram-s-founder-pavel-durov-with-facilitating-terrorism.html",
+      "date_iso": "2026-07-29T13:46:29+00:00",
+      "source": "https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html",
+      "summary": "Pavel Durov, left, founder of Telegram, in Paris in 2025. The Kremlin has used various methods to try to restrict access to Telegram in Russia."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49094346",
       "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
       "slug": "2026-07-29-sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers.html",
