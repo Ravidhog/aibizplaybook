@@ -1,6 +1,294 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/07/31/magazine/takeaways-larry-ellison-oracle-ai.html",
+      "title": "Five Takeaways From the Times Investigation Into Larry Ellison’s A.I. Gamble",
+      "slug": "2026-07-31-five-takeaways-from-the-times-investigation-into-larry-ellison-s-a-i-gamble.html",
+      "path": "posts/2026-07-31-five-takeaways-from-the-times-investigation-into-larry-ellison-s-a-i-gamble.html",
+      "date_iso": "2026-07-31T09:05:03+00:00",
+      "source": "https://www.nytimes.com/2026/07/31/magazine/takeaways-larry-ellison-oracle-ai.html",
+      "summary": "Larry Ellison spoke at the first news conference of the second Trump administration, where the president called him the “C.E.O. of everything.”"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/07/31/style/errands-should-be-the-most-boring-show-on-the-internet.html",
+      "title": "We All Do Errands. Noah Blau Films Them.",
+      "slug": "2026-07-31-we-all-do-errands-noah-blau-films-them.html",
+      "path": "posts/2026-07-31-we-all-do-errands-noah-blau-films-them.html",
+      "date_iso": "2026-07-31T09:04:17+00:00",
+      "source": "https://www.nytimes.com/2026/07/31/style/errands-should-be-the-most-boring-show-on-the-internet.html",
+      "summary": "Noah Blau, the creator of the online video series “Errands,” and Aitana Doyle, an actress, on the streets of Bushwick in Brooklyn, during the making of a recent episode."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html",
+      "title": "Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?",
+      "slug": "2026-07-31-larry-ellison-bet-it-all-on-the-a-i-boom-will-he-be-the-face-of-the-a-i-bubble.html",
+      "path": "posts/2026-07-31-larry-ellison-bet-it-all-on-the-a-i-boom-will-he-be-the-face-of-the-a-i-bubble.html",
+      "date_iso": "2026-07-31T09:03:59+00:00",
+      "source": "https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html",
+      "summary": "Inside the 81-year-old billionaire’s risky, debt-fueled scramble to transform his data empire into an A.I. juggernaut."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-solar-panel-guide.html",
+      "title": "What You Need to Know About Installing Plug-In Solar Panels",
+      "slug": "2026-07-31-what-you-need-to-know-about-installing-plug-in-solar-panels.html",
+      "path": "posts/2026-07-31-what-you-need-to-know-about-installing-plug-in-solar-panels.html",
+      "date_iso": "2026-07-31T09:02:28+00:00",
+      "source": "https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-solar-panel-guide.html",
+      "summary": "Plug-in solar panels are as large as windows, and in Germany they are often installed on balconies."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html",
+      "title": "The German Auto Industry, a Pillar of the National Psyche, Is Trembling",
+      "slug": "2026-07-31-the-german-auto-industry-a-pillar-of-the-national-psyche-is-trembling.html",
+      "path": "posts/2026-07-31-the-german-auto-industry-a-pillar-of-the-national-psyche-is-trembling.html",
+      "date_iso": "2026-07-31T09:02:23+00:00",
+      "source": "https://www.nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html",
+      "summary": "The new Mercedes-Benz S-Class at the celebration of the company’s 140th anniversary. Carl Benz filed a patent for a car in 1886."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html",
+      "title": "Plug-In Solar Panels Are Starting to Sprout in U.S. Backyards",
+      "slug": "2026-07-31-plug-in-solar-panels-are-starting-to-sprout-in-u-s-backyards.html",
+      "path": "posts/2026-07-31-plug-in-solar-panels-are-starting-to-sprout-in-u-s-backyards.html",
+      "date_iso": "2026-07-31T09:00:48+00:00",
+      "source": "https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html",
+      "summary": "Alex Ottoboni with his balcony solar panel at his condo in the San Francisco Bay Area"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/07/31/us/politics/trump-iran-economy-media-critics.html",
+      "title": "How the Pro-Trump Media Ecosystem Is Splintering Ahead of the Midterms",
+      "slug": "2026-07-31-how-the-pro-trump-media-ecosystem-is-splintering-ahead-of-the-midterms.html",
+      "path": "posts/2026-07-31-how-the-pro-trump-media-ecosystem-is-splintering-ahead-of-the-midterms.html",
+      "date_iso": "2026-07-31T09:00:32+00:00",
+      "source": "https://www.nytimes.com/2026/07/31/us/politics/trump-iran-economy-media-critics.html",
+      "summary": "Once united in support of President Trump, right-wing influencers are embroiled in feuds and losing viewers, creating a problem for Republicans in the midterm elections."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49120299",
+      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+      "slug": "2026-07-31-deepseek-v4-flash-0731-intelligence-performance-and-price-analysis.html",
+      "path": "posts/2026-07-31-deepseek-v4-flash-0731-intelligence-performance-and-price-analysis.html",
+      "date_iso": "2026-07-31T07:59:11+00:00",
+      "source": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
+      "summary": "Article URL: https://artificialanalysis.ai/models/deepseek-v4-flash-ga Comments URL: https://news.ycombinator.com/item?id=49120299 Points: 5 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49120120",
+      "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
+      "slug": "2026-07-31-danube-s-record-low-levels-force-shutdown-of-hungary-s-only-nuclear-plant.html",
+      "path": "posts/2026-07-31-danube-s-record-low-levels-force-shutdown-of-hungary-s-only-nuclear-plant.html",
+      "date_iso": "2026-07-31T07:33:10+00:00",
+      "source": "https://www.bbc.com/news/articles/cn0nqv05g0do",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cn0nqv05g0do Comments URL: https://news.ycombinator.com/item?id=49120120 Points: 25 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49120097",
+      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "slug": "2026-07-31-google-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai.html",
+      "path": "posts/2026-07-31-google-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai.html",
+      "date_iso": "2026-07-31T07:29:22+00:00",
+      "source": "https://blog.google/security/chrome-stronger-with-every-update/",
+      "summary": "Article URL: https://blog.google/security/chrome-stronger-with-every-update/ Comments URL: https://news.ycombinator.com/item?id=49120097 Points: 51 # Comments: 55"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/07/30/technology/anthropic-ai-hack.html",
+      "title": "Anthropic Says Its A.I. Systems Broke Into Computers at 3 Organizations",
+      "slug": "2026-07-31-anthropic-says-its-a-i-systems-broke-into-computers-at-3-organizations.html",
+      "path": "posts/2026-07-31-anthropic-says-its-a-i-systems-broke-into-computers-at-3-organizations.html",
+      "date_iso": "2026-07-31T07:02:03+00:00",
+      "source": "https://www.nytimes.com/2026/07/30/technology/anthropic-ai-hack.html",
+      "summary": "A lectern bearing the logo of Anthropic, which did not disclose the identity of the organizations that its artificial intelligence systems had breached."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49119559",
+      "title": "DeepSeek-V4-Flash Update",
+      "slug": "2026-07-31-deepseek-v4-flash-update.html",
+      "path": "posts/2026-07-31-deepseek-v4-flash-update.html",
+      "date_iso": "2026-07-31T06:08:36+00:00",
+      "source": "https://api-docs.deepseek.com/updates/",
+      "summary": "Article URL: https://api-docs.deepseek.com/updates/ Comments URL: https://news.ycombinator.com/item?id=49119559 Points: 251 # Comments: 98"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49119425",
+      "title": "Show HN: Gander, an Android file viewer that asks for no permissions at all",
+      "slug": "2026-07-31-show-hn-gander-an-android-file-viewer-that-asks-for-no-permissions-at-all.html",
+      "path": "posts/2026-07-31-show-hn-gander-an-android-file-viewer-that-asks-for-no-permissions-at-all.html",
+      "date_iso": "2026-07-31T05:45:13+00:00",
+      "source": "https://github.com/mokshablr/gander",
+      "summary": "Hi HN, I built an Android file viewer that opens PDF, Word, Excel, PowerPoint, images, video, audio, Markdown and code, and asks for no permissions at all. I have always been uneasy about opening files people send me. On Android you either install a 400 MB office suite and sign…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49119274",
+      "title": "Show HN: What should the GUI for AI agents look like?",
+      "slug": "2026-07-31-show-hn-what-should-the-gui-for-ai-agents-look-like.html",
+      "path": "posts/2026-07-31-show-hn-what-should-the-gui-for-ai-agents-look-like.html",
+      "date_iso": "2026-07-31T05:17:29+00:00",
+      "source": "https://marbleos.com/demo",
+      "summary": "Hi HN! We’re Akilan and Miguel, the creators of MarbleOS. The inspiration for Marble comes from the GUI work at Xerox PARC, the 1984 Macintosh, and later NeXTSTEP, which became the foundation for Mac OS X. Before GUIs, interacting with a computer was limited to strange terminal…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49119063",
+      "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
+      "slug": "2026-07-31-jep-401-value-objects-preview-merged-to-openjdk-master.html",
+      "path": "posts/2026-07-31-jep-401-value-objects-preview-merged-to-openjdk-master.html",
+      "date_iso": "2026-07-31T04:38:19+00:00",
+      "source": "https://github.com/openjdk/jdk/pull/31120",
+      "summary": "Article URL: https://github.com/openjdk/jdk/pull/31120 Comments URL: https://news.ycombinator.com/item?id=49119063 Points: 106 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49118781",
+      "title": "The session you cannot take with you",
+      "slug": "2026-07-31-the-session-you-cannot-take-with-you.html",
+      "path": "posts/2026-07-31-the-session-you-cannot-take-with-you.html",
+      "date_iso": "2026-07-31T03:47:59+00:00",
+      "source": "https://earendil.com/posts/session-portability/",
+      "summary": "Article URL: https://earendil.com/posts/session-portability/ Comments URL: https://news.ycombinator.com/item?id=49118781 Points: 317 # Comments: 71"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49118474",
+      "title": "\"the very foundation of modern academia has been blown to bits\"",
+      "slug": "2026-07-31-the-very-foundation-of-modern-academia-has-been-blown-to-bits.html",
+      "path": "posts/2026-07-31-the-very-foundation-of-modern-academia-has-been-blown-to-bits.html",
+      "date_iso": "2026-07-31T02:54:02+00:00",
+      "source": "https://twitter.com/lemire/status/2082851447499088173",
+      "summary": "Article URL: https://twitter.com/lemire/status/2082851447499088173 Comments URL: https://news.ycombinator.com/item?id=49118474 Points: 40 # Comments: 27"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/07/30/technology/amazon-google-ai-data-center-spending.html",
+      "title": "Big Tech’s A.I. Spending Keeps Rising. So Do the Jitters.",
+      "slug": "2026-07-31-big-tech-s-a-i-spending-keeps-rising-so-do-the-jitters.html",
+      "path": "posts/2026-07-31-big-tech-s-a-i-spending-keeps-rising-so-do-the-jitters.html",
+      "date_iso": "2026-07-31T02:20:58+00:00",
+      "source": "https://www.nytimes.com/2026/07/30/technology/amazon-google-ai-data-center-spending.html",
+      "summary": "Meta’s Eagle Mountain Data Center in Utah. Meta, Amazon, Google and Microsoft are expected to spend $1.5 trillion building data centers through next year."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49117284",
+      "title": "The Religion of Speed",
+      "slug": "2026-07-30-the-religion-of-speed.html",
+      "path": "posts/2026-07-30-the-religion-of-speed.html",
+      "date_iso": "2026-07-30T23:43:22+00:00",
+      "source": "https://graybeard.ing/the-religion-of-speed/",
+      "summary": "Article URL: https://graybeard.ing/the-religion-of-speed/ Comments URL: https://news.ycombinator.com/item?id=49117284 Points: 158 # Comments: 74"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49117099",
+      "title": "The AI Aesthetic",
+      "slug": "2026-07-30-the-ai-aesthetic.html",
+      "path": "posts/2026-07-30-the-ai-aesthetic.html",
+      "date_iso": "2026-07-30T23:22:16+00:00",
+      "source": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+      "summary": "Article URL: https://blog.jim-nielsen.com/2026/ai-aesthetic/ Comments URL: https://news.ycombinator.com/item?id=49117099 Points: 303 # Comments: 133"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49116721",
+      "title": "I flagged two research papers for fake authors and both were accepted as orals",
+      "slug": "2026-07-30-i-flagged-two-research-papers-for-fake-authors-and-both-were-accepted-as-orals.html",
+      "path": "posts/2026-07-30-i-flagged-two-research-papers-for-fake-authors-and-both-were-accepted-as-orals.html",
+      "date_iso": "2026-07-30T22:33:11+00:00",
+      "source": "https://geospatialml.com/posts/reviewing-ai-slop/",
+      "summary": "Article URL: https://geospatialml.com/posts/reviewing-ai-slop/ Comments URL: https://news.ycombinator.com/item?id=49116721 Points: 192 # Comments: 90"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/07/30/technology/apple-earnings.html",
+      "title": "Apple’s Profit Is Up 27%, but Expectations for Current Quarter Disappoint",
+      "slug": "2026-07-30-apple-s-profit-is-up-27-but-expectations-for-current-quarter-disappoint.html",
+      "path": "posts/2026-07-30-apple-s-profit-is-up-27-but-expectations-for-current-quarter-disappoint.html",
+      "date_iso": "2026-07-30T22:27:24+00:00",
+      "source": "https://www.nytimes.com/2026/07/30/technology/apple-earnings.html",
+      "summary": "Apple regained its spot as the world’s most valuable publicly traded company this week."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49116272",
+      "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
+      "slug": "2026-07-30-rune-1-1-adds-python-an-emacs-editor-a-symbol-index-and-is-now-free.html",
+      "path": "posts/2026-07-30-rune-1-1-adds-python-an-emacs-editor-a-symbol-index-and-is-now-free.html",
+      "date_iso": "2026-07-30T21:47:31+00:00",
+      "source": "https://rune.build/blog/rune-1-1-release",
+      "summary": "Article URL: https://rune.build/blog/rune-1-1-release Comments URL: https://news.ycombinator.com/item?id=49116272 Points: 81 # Comments: 31"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49116074",
+      "title": "Saber-toothed cats became inbred–and struggled to move–before they went extinct",
+      "slug": "2026-07-30-saber-toothed-cats-became-inbred-and-struggled-to-move-before-they-went-extinct.html",
+      "path": "posts/2026-07-30-saber-toothed-cats-became-inbred-and-struggled-to-move-before-they-went-extinct.html",
+      "date_iso": "2026-07-30T21:31:03+00:00",
+      "source": "https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct",
+      "summary": "Article URL: https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct Comments URL: https://news.ycombinator.com/item?id=49116074 Points: 54 # Comments: 23"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/07/30/technology/ai-bubble-venture-capital.html",
+      "title": "Why an A.I. Bubble Might Not Be a Bad Thing",
+      "slug": "2026-07-30-why-an-a-i-bubble-might-not-be-a-bad-thing.html",
+      "path": "posts/2026-07-30-why-an-a-i-bubble-might-not-be-a-bad-thing.html",
+      "date_iso": "2026-07-30T21:30:12+00:00",
+      "source": "https://www.nytimes.com/2026/07/30/technology/ai-bubble-venture-capital.html",
+      "summary": "As fears spread over a possible artificial intelligence bubble, some tech investors say: Bring it on."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/07/30/us/politics/state-department-map-africa.html",
+      "title": "U.S. Government Mislabels Map of African Countries at AIDS Conference",
+      "slug": "2026-07-30-u-s-government-mislabels-map-of-african-countries-at-aids-conference.html",
+      "path": "posts/2026-07-30-u-s-government-mislabels-map-of-african-countries-at-aids-conference.html",
+      "date_iso": "2026-07-30T19:53:44+00:00",
+      "source": "https://www.nytimes.com/2026/07/30/us/politics/state-department-map-africa.html",
+      "summary": "A map presented by the State Department at AIDS 2026, a conference in Brazil this week."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49113929",
+      "title": "UEFA and its national associations will not participate in FIFA competitions",
+      "slug": "2026-07-30-uefa-and-its-national-associations-will-not-participate-in-fifa-competitions.html",
+      "path": "posts/2026-07-30-uefa-and-its-national-associations-will-not-participate-in-fifa-competitions.html",
+      "date_iso": "2026-07-30T18:40:52+00:00",
+      "source": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
+      "summary": "Article URL: https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/ Comments URL: https://news.ycombinator.com/item?id=49113929 Points: 1025 # Comments: 554"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49113599",
+      "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+      "slug": "2026-07-30-show-hn-distilling-deepseek-into-gpt-oss-doesn-t-transfer-censorship-try-it.html",
+      "path": "posts/2026-07-30-show-hn-distilling-deepseek-into-gpt-oss-doesn-t-transfer-censorship-try-it.html",
+      "date_iso": "2026-07-30T18:13:06+00:00",
+      "source": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+      "summary": "We recently used DeepSeek V4 Flash as a teacher for finance tasks with GPT-OSS-120B. Distillation works well on this problem. At a constrained 8k token budget, our self-distilled 120B scores 83.61% on FinanceReasoning, above Kimi K3 (81.93%) and Inkling (65.13%). We released the…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49113338",
+      "title": "CodePen 2.0",
+      "slug": "2026-07-30-codepen-2-0.html",
+      "path": "posts/2026-07-30-codepen-2-0.html",
+      "date_iso": "2026-07-30T17:52:51+00:00",
+      "source": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
+      "summary": "Article URL: https://chriscoyier.net/2026/07/30/codepen-2-0/ Comments URL: https://news.ycombinator.com/item?id=49113338 Points: 167 # Comments: 48"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49112744",
+      "title": "Read this before you buy that TV streaming stick",
+      "slug": "2026-07-30-read-this-before-you-buy-that-tv-streaming-stick.html",
+      "path": "posts/2026-07-30-read-this-before-you-buy-that-tv-streaming-stick.html",
+      "date_iso": "2026-07-30T17:04:53+00:00",
+      "source": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "summary": "Article URL: https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/ Comments URL: https://news.ycombinator.com/item?id=49112744 Points: 710 # Comments: 411"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49112683",
+      "title": "Rise Reforming (YC S26) Is Hiring",
+      "slug": "2026-07-30-rise-reforming-yc-s26-is-hiring.html",
+      "path": "posts/2026-07-30-rise-reforming-yc-s26-is-hiring.html",
+      "date_iso": "2026-07-30T17:00:21+00:00",
+      "source": "https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer Comments URL: https://news.ycombinator.com/item?id=49112683 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49112232",
+      "title": "Stacked PRs are now live on GitHub",
+      "slug": "2026-07-30-stacked-prs-are-now-live-on-github.html",
+      "path": "posts/2026-07-30-stacked-prs-are-now-live-on-github.html",
+      "date_iso": "2026-07-30T16:26:16+00:00",
+      "source": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+      "summary": "Article URL: https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/ Comments URL: https://news.ycombinator.com/item?id=49112232 Points: 639 # Comments: 223"
+    },
+    {
       "id": "https://www.nytimes.com/2026/07/30/world/canada/wrongful-conviction-kik-username-underscore.html",
       "title": "Mistaken Username Sent Man to Prison for 18 Months, Court Finds",
       "slug": "2026-07-30-mistaken-username-sent-man-to-prison-for-18-months-court-finds.html",
