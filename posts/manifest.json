@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49132058",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "slug": "2026-08-01-ten-advances-in-mathematics-and-theoretical-computer-science.html",
+      "path": "posts/2026-08-01-ten-advances-in-mathematics-and-theoretical-computer-science.html",
+      "date_iso": "2026-08-01T07:37:44+00:00",
+      "source": "https://openai.com/index/ten-advances-in-mathematics/",
+      "summary": "Article URL: https://openai.com/index/ten-advances-in-mathematics/ Comments URL: https://news.ycombinator.com/item?id=49132058 Points: 74 # Comments: 60"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49131367",
+      "title": "Ten Ways NAS Is Getting Enshitified",
+      "slug": "2026-08-01-ten-ways-nas-is-getting-enshitified.html",
+      "path": "posts/2026-08-01-ten-ways-nas-is-getting-enshitified.html",
+      "date_iso": "2026-08-01T05:38:16+00:00",
+      "source": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
+      "summary": "Article URL: https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/ Comments URL: https://news.ycombinator.com/item?id=49131367 Points: 72 # Comments: 54"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49130726",
+      "title": "The development pipeline is a production system",
+      "slug": "2026-08-01-the-development-pipeline-is-a-production-system.html",
+      "path": "posts/2026-08-01-the-development-pipeline-is-a-production-system.html",
+      "date_iso": "2026-08-01T03:16:09+00:00",
+      "source": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+      "summary": "Article URL: https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system Comments URL: https://news.ycombinator.com/item?id=49130726 Points: 76 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49130604",
+      "title": "Flint: A Visualization Language for the AI Era",
+      "slug": "2026-08-01-flint-a-visualization-language-for-the-ai-era.html",
+      "path": "posts/2026-08-01-flint-a-visualization-language-for-the-ai-era.html",
+      "date_iso": "2026-08-01T02:45:09+00:00",
+      "source": "https://microsoft.github.io/flint-chart/",
+      "summary": "Article URL: https://microsoft.github.io/flint-chart/ Comments URL: https://news.ycombinator.com/item?id=49130604 Points: 107 # Comments: 33"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49130295",
+      "title": "A week in Matrix",
+      "slug": "2026-08-01-a-week-in-matrix.html",
+      "path": "posts/2026-08-01-a-week-in-matrix.html",
+      "date_iso": "2026-08-01T01:35:53+00:00",
+      "source": "https://piegames.de/dumps/a-week-in-matrix/",
+      "summary": "Article URL: https://piegames.de/dumps/a-week-in-matrix/ Comments URL: https://news.ycombinator.com/item?id=49130295 Points: 65 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49129990",
+      "title": "How to Exist",
+      "slug": "2026-08-01-how-to-exist.html",
+      "path": "posts/2026-08-01-how-to-exist.html",
+      "date_iso": "2026-08-01T00:25:00+00:00",
+      "source": "https://www.raptitude.com/2026/07/how-to-exist/",
+      "summary": "Article URL: https://www.raptitude.com/2026/07/how-to-exist/ Comments URL: https://news.ycombinator.com/item?id=49129990 Points: 183 # Comments: 100"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49128462",
+      "title": "Loops (YC W22) Is Hiring a Product Educator",
+      "slug": "2026-07-31-loops-yc-w22-is-hiring-a-product-educator.html",
+      "path": "posts/2026-07-31-loops-yc-w22-is-hiring-a-product-educator.html",
+      "date_iso": "2026-07-31T21:00:40+00:00",
+      "source": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
+      "summary": "Article URL: https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator Comments URL: https://news.ycombinator.com/item?id=49128462 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49128323",
+      "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
+      "slug": "2026-07-31-demystifying-dram-read-disturbance-rowhammer-and-rowpress-phenomena.html",
+      "path": "posts/2026-07-31-demystifying-dram-read-disturbance-rowhammer-and-rowpress-phenomena.html",
+      "date_iso": "2026-07-31T20:44:29+00:00",
+      "source": "https://arxiv.org/abs/2607.28233",
+      "summary": "Article URL: https://arxiv.org/abs/2607.28233 Comments URL: https://news.ycombinator.com/item?id=49128323 Points: 50 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49127306",
+      "title": "Tailscale didn't stop the Hugging Face intrusion",
+      "slug": "2026-07-31-tailscale-didn-t-stop-the-hugging-face-intrusion.html",
+      "path": "posts/2026-07-31-tailscale-didn-t-stop-the-hugging-face-intrusion.html",
+      "date_iso": "2026-07-31T19:03:45+00:00",
+      "source": "https://tailscale.com/blog/hugging-face-intrusion",
+      "summary": "Article URL: https://tailscale.com/blog/hugging-face-intrusion Comments URL: https://news.ycombinator.com/item?id=49127306 Points: 545 # Comments: 203"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49127031",
+      "title": "Golang proposal: container/: generic collection types",
+      "slug": "2026-07-31-golang-proposal-container-generic-collection-types.html",
+      "path": "posts/2026-07-31-golang-proposal-container-generic-collection-types.html",
+      "date_iso": "2026-07-31T18:39:47+00:00",
+      "source": "https://github.com/golang/go/issues/80590",
+      "summary": "Article URL: https://github.com/golang/go/issues/80590 Comments URL: https://news.ycombinator.com/item?id=49127031 Points: 150 # Comments: 121"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49126765",
+      "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+      "slug": "2026-07-31-june-in-servo-real-world-compat-media-queries-sharedworker-and-more.html",
+      "path": "posts/2026-07-31-june-in-servo-real-world-compat-media-queries-sharedworker-and-more.html",
+      "date_iso": "2026-07-31T18:17:52+00:00",
+      "source": "https://servo.org/blog/2026/07/31/june-in-servo/",
+      "summary": "Article URL: https://servo.org/blog/2026/07/31/june-in-servo/ Comments URL: https://news.ycombinator.com/item?id=49126765 Points: 142 # Comments: 49"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49126604",
+      "title": "qm – Multiplayer agent harness for work",
+      "slug": "2026-07-31-qm-multiplayer-agent-harness-for-work.html",
+      "path": "posts/2026-07-31-qm-multiplayer-agent-harness-for-work.html",
+      "date_iso": "2026-07-31T18:04:58+00:00",
+      "source": "https://github.com/yc-software/qm",
+      "summary": "Article URL: https://github.com/yc-software/qm Comments URL: https://news.ycombinator.com/item?id=49126604 Points: 561 # Comments: 113"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49125785",
+      "title": "Miso (YC S16) is hiring for U.S. expansion",
+      "slug": "2026-07-31-miso-yc-s16-is-hiring-for-u-s-expansion.html",
+      "path": "posts/2026-07-31-miso-yc-s16-is-hiring-for-u-s-expansion.html",
+      "date_iso": "2026-07-31T17:01:08+00:00",
+      "source": "https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion",
+      "summary": "Article URL: https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion Comments URL: https://news.ycombinator.com/item?id=49125785 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49125034",
+      "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+      "slug": "2026-07-31-getting-25-gbps-thunderbolt-ethernet-on-my-mac-studio.html",
+      "path": "posts/2026-07-31-getting-25-gbps-thunderbolt-ethernet-on-my-mac-studio.html",
+      "date_iso": "2026-07-31T16:15:31+00:00",
+      "source": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+      "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/ Comments URL: https://news.ycombinator.com/item?id=49125034 Points: 188 # Comments: 95"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49124858",
+      "title": "Big Food vs. the People",
+      "slug": "2026-07-31-big-food-vs-the-people.html",
+      "path": "posts/2026-07-31-big-food-vs-the-people.html",
+      "date_iso": "2026-07-31T16:04:32+00:00",
+      "source": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+      "summary": "Article URL: https://www.lighthousereports.com/investigation/big-food-vs-the-people/ Comments URL: https://news.ycombinator.com/item?id=49124858 Points: 226 # Comments: 143"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49124358",
+      "title": "Is AI reasoning right for the wrong reasons?",
+      "slug": "2026-07-31-is-ai-reasoning-right-for-the-wrong-reasons.html",
+      "path": "posts/2026-07-31-is-ai-reasoning-right-for-the-wrong-reasons.html",
+      "date_iso": "2026-07-31T15:29:39+00:00",
+      "source": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+      "summary": "Article URL: https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/ Comments URL: https://news.ycombinator.com/item?id=49124358 Points: 159 # Comments: 184"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49124218",
+      "title": "Elevators",
+      "slug": "2026-07-31-elevators.html",
+      "path": "posts/2026-07-31-elevators.html",
+      "date_iso": "2026-07-31T15:17:28+00:00",
+      "source": "https://john.fun/elevators",
+      "summary": "Article URL: https://john.fun/elevators Comments URL: https://news.ycombinator.com/item?id=49124218 Points: 1262 # Comments: 307"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49124042",
+      "title": "The most official water costs $120k a gallon",
+      "slug": "2026-07-31-the-most-official-water-costs-120k-a-gallon.html",
+      "path": "posts/2026-07-31-the-most-official-water-costs-120k-a-gallon.html",
+      "date_iso": "2026-07-31T15:00:15+00:00",
+      "source": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
+      "summary": "Article URL: https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/ Comments URL: https://news.ycombinator.com/item?id=49124042 Points: 184 # Comments: 146"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49123468",
+      "title": "Authorize, don't authenticate",
+      "slug": "2026-07-31-authorize-don-t-authenticate.html",
+      "path": "posts/2026-07-31-authorize-don-t-authenticate.html",
+      "date_iso": "2026-07-31T14:17:43+00:00",
+      "source": "https://blog.marcua.net/2026/07/31/authorize-dont-authenticate.html",
+      "summary": "Article URL: https://blog.marcua.net/2026/07/31/authorize-dont-authenticate.html Comments URL: https://news.ycombinator.com/item?id=49123468 Points: 88 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49123386",
+      "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+      "slug": "2026-07-31-run-kimi-k3-using-29-gb-of-ram-at-0-50-tok-s.html",
+      "path": "posts/2026-07-31-run-kimi-k3-using-29-gb-of-ram-at-0-50-tok-s.html",
+      "date_iso": "2026-07-31T14:12:38+00:00",
+      "source": "https://github.com/sqliteai/waste",
+      "summary": "Article URL: https://github.com/sqliteai/waste Comments URL: https://news.ycombinator.com/item?id=49123386 Points: 243 # Comments: 101"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/07/31/podcasts/open-source-google.html",
+      "title": "Open Model Wars + Claire Stapleton’s Dishy Google Memoir + Substack’s Slop Fight",
+      "slug": "2026-07-31-open-model-wars-claire-stapleton-s-dishy-google-memoir-substack-s-slop-fight.html",
+      "path": "posts/2026-07-31-open-model-wars-claire-stapleton-s-dishy-google-memoir-substack-s-slop-fight.html",
+      "date_iso": "2026-07-31T11:00:03+00:00",
+      "source": "https://www.nytimes.com/2026/07/31/podcasts/open-source-google.html",
+      "summary": "“It just seems like the temperature is rising on Silicon Valley.”"
+    },
+    {
       "id": "https://www.nytimes.com/2026/07/31/magazine/takeaways-larry-ellison-oracle-ai.html",
       "title": "Five Takeaways From the Times Investigation Into Larry Ellison’s A.I. Gamble",
       "slug": "2026-07-31-five-takeaways-from-the-times-investigation-into-larry-ellison-s-a-i-gamble.html",
