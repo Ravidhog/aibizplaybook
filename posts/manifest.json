@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49142128",
+      "title": "Nerd culture is murdering intellectuals",
+      "slug": "2026-08-02-nerd-culture-is-murdering-intellectuals.html",
+      "path": "posts/2026-08-02-nerd-culture-is-murdering-intellectuals.html",
+      "date_iso": "2026-08-02T07:57:52+00:00",
+      "source": "https://www.theintrinsicperspective.com/p/nerd-culture-is-murdering-intellectuals",
+      "summary": "Article URL: https://www.theintrinsicperspective.com/p/nerd-culture-is-murdering-intellectuals Comments URL: https://news.ycombinator.com/item?id=49142128 Points: 16 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49142002",
+      "title": "Show HN: Tone Generator",
+      "slug": "2026-08-02-show-hn-tone-generator.html",
+      "path": "posts/2026-08-02-show-hn-tone-generator.html",
+      "date_iso": "2026-08-02T07:31:40+00:00",
+      "source": "https://soundtonegenerator.com/",
+      "summary": "Article URL: https://soundtonegenerator.com/ Comments URL: https://news.ycombinator.com/item?id=49142002 Points: 7 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49141891",
+      "title": "I don't recommend Tailwind CSS",
+      "slug": "2026-08-02-i-don-t-recommend-tailwind-css.html",
+      "path": "posts/2026-08-02-i-don-t-recommend-tailwind-css.html",
+      "date_iso": "2026-08-02T07:09:38+00:00",
+      "source": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
+      "summary": "Article URL: https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/ Comments URL: https://news.ycombinator.com/item?id=49141891 Points: 38 # Comments: 27"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49141847",
+      "title": "CRM: An open-source, agentic-first CRM",
+      "slug": "2026-08-02-crm-an-open-source-agentic-first-crm.html",
+      "path": "posts/2026-08-02-crm-an-open-source-agentic-first-crm.html",
+      "date_iso": "2026-08-02T06:59:28+00:00",
+      "source": "https://github.com/trycompai/crm",
+      "summary": "Article URL: https://github.com/trycompai/crm Comments URL: https://news.ycombinator.com/item?id=49141847 Points: 9 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49141073",
+      "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+      "slug": "2026-08-02-running-kimi-k3-on-mi355x-at-better-performance-per-dollar-than-b300.html",
+      "path": "posts/2026-08-02-running-kimi-k3-on-mi355x-at-better-performance-per-dollar-than-b300.html",
+      "date_iso": "2026-08-02T04:21:14+00:00",
+      "source": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+      "summary": "Article URL: https://www.wafer.ai/blog/kimi-k3-mi355x Comments URL: https://news.ycombinator.com/item?id=49141073 Points: 119 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49140702",
+      "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+      "slug": "2026-08-02-mklinux-and-the-pimped-out-apple-workgroup-server-9150.html",
+      "path": "posts/2026-08-02-mklinux-and-the-pimped-out-apple-workgroup-server-9150.html",
+      "date_iso": "2026-08-02T03:12:52+00:00",
+      "source": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+      "summary": "Article URL: http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html Comments URL: https://news.ycombinator.com/item?id=49140702 Points: 52 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49140599",
+      "title": "Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific",
+      "slug": "2026-08-02-deep-sea-vehicles-spot-alien-sharks-deep-beneath-the-waves-in-the-pacific.html",
+      "path": "posts/2026-08-02-deep-sea-vehicles-spot-alien-sharks-deep-beneath-the-waves-in-the-pacific.html",
+      "date_iso": "2026-08-02T02:51:15+00:00",
+      "source": "https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#",
+      "summary": "Article URL: https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific# Comments URL: https://news.ycombinator.com/item?id=49140599 Points: 48 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49140487",
+      "title": "Four Time Scales for Technology Development and Deployment",
+      "slug": "2026-08-02-four-time-scales-for-technology-development-and-deployment.html",
+      "path": "posts/2026-08-02-four-time-scales-for-technology-development-and-deployment.html",
+      "date_iso": "2026-08-02T02:26:52+00:00",
+      "source": "https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/",
+      "summary": "Article URL: https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/ Comments URL: https://news.ycombinator.com/item?id=49140487 Points: 26 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49140405",
+      "title": "When random.bytes() runs but doesn't work",
+      "slug": "2026-08-02-when-random-bytes-runs-but-doesn-t-work.html",
+      "path": "posts/2026-08-02-when-random-bytes-runs-but-doesn-t-work.html",
+      "date_iso": "2026-08-02T02:08:26+00:00",
+      "source": "https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt",
+      "summary": "Article URL: https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt Comments URL: https://news.ycombinator.com/item?id=49140405 Points: 34 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49140396",
+      "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+      "slug": "2026-08-02-show-hn-i-m-a-15-year-old-wannabe-engineer-this-is-a-cycloidal-gearbox-i-built.html",
+      "path": "posts/2026-08-02-show-hn-i-m-a-15-year-old-wannabe-engineer-this-is-a-cycloidal-gearbox-i-built.html",
+      "date_iso": "2026-08-02T02:07:09+00:00",
+      "source": "https://github.com/tom-ilan/cycloidal_gearbox",
+      "summary": "Article URL: https://github.com/tom-ilan/cycloidal_gearbox Comments URL: https://news.ycombinator.com/item?id=49140396 Points: 145 # Comments: 31"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49140218",
+      "title": "Go 1.27 Interactive Tour",
+      "slug": "2026-08-02-go-1-27-interactive-tour.html",
+      "path": "posts/2026-08-02-go-1-27-interactive-tour.html",
+      "date_iso": "2026-08-02T01:35:51+00:00",
+      "source": "https://victoriametrics.com/blog/go-1-27/index.html",
+      "summary": "Article URL: https://victoriametrics.com/blog/go-1-27/index.html Comments URL: https://news.ycombinator.com/item?id=49140218 Points: 195 # Comments: 68"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49140213",
+      "title": "ASRock BC-250: Building the Budget Steam Machine",
+      "slug": "2026-08-02-asrock-bc-250-building-the-budget-steam-machine.html",
+      "path": "posts/2026-08-02-asrock-bc-250-building-the-budget-steam-machine.html",
+      "date_iso": "2026-08-02T01:35:11+00:00",
+      "source": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
+      "summary": "Article URL: https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/ Comments URL: https://news.ycombinator.com/item?id=49140213 Points: 56 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49139711",
+      "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
+      "slug": "2026-08-01-rfc-10015-deprecating-obsolete-key-exchange-methods-in-tls-1-2-and-dtls-1-2.html",
+      "path": "posts/2026-08-01-rfc-10015-deprecating-obsolete-key-exchange-methods-in-tls-1-2-and-dtls-1-2.html",
+      "date_iso": "2026-08-01T23:44:55+00:00",
+      "source": "https://www.rfc-editor.org/rfc/rfc10015.html",
+      "summary": "Article URL: https://www.rfc-editor.org/rfc/rfc10015.html Comments URL: https://news.ycombinator.com/item?id=49139711 Points: 56 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49139383",
+      "title": "Unraveling the mysteries of habit formation",
+      "slug": "2026-08-01-unraveling-the-mysteries-of-habit-formation.html",
+      "path": "posts/2026-08-01-unraveling-the-mysteries-of-habit-formation.html",
+      "date_iso": "2026-08-01T22:55:52+00:00",
+      "source": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
+      "summary": "Article URL: https://www.kyoto-u.ac.jp/en/research-news/2026-07-28 Comments URL: https://news.ycombinator.com/item?id=49139383 Points: 76 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49139352",
+      "title": "Morph (YC S23) Is Hiring Member of Technical Staff",
+      "slug": "2026-08-01-morph-yc-s23-is-hiring-member-of-technical-staff.html",
+      "path": "posts/2026-08-01-morph-yc-s23-is-hiring-member-of-technical-staff.html",
+      "date_iso": "2026-08-01T22:52:44+00:00",
+      "source": "https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff",
+      "summary": "Article URL: https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff Comments URL: https://news.ycombinator.com/item?id=49139352 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49139102",
+      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+      "slug": "2026-08-01-ai-financial-advice-is-surprisingly-good-especially-if-you-ask-right-questions.html",
+      "path": "posts/2026-08-01-ai-financial-advice-is-surprisingly-good-especially-if-you-ask-right-questions.html",
+      "date_iso": "2026-08-01T22:25:12+00:00",
+      "source": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "summary": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions Comments URL: https://news.ycombinator.com/item?id=49139102 Points: 294 # Comments: 265"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49138897",
+      "title": "Atom is better than RSS, in ways that matter",
+      "slug": "2026-08-01-atom-is-better-than-rss-in-ways-that-matter.html",
+      "path": "posts/2026-08-01-atom-is-better-than-rss-in-ways-that-matter.html",
+      "date_iso": "2026-08-01T22:00:16+00:00",
+      "source": "https://chrismorgan.info/atom%3Erss",
+      "summary": "Article URL: https://chrismorgan.info/atom%3Erss Comments URL: https://news.ycombinator.com/item?id=49138897 Points: 68 # Comments: 28"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49138302",
+      "title": "Seedance 2.5",
+      "slug": "2026-08-01-seedance-2-5.html",
+      "path": "posts/2026-08-01-seedance-2-5.html",
+      "date_iso": "2026-08-01T20:45:12+00:00",
+      "source": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+      "summary": "Article URL: https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5 Comments URL: https://news.ycombinator.com/item?id=49138302 Points: 321 # Comments: 174"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49138188",
+      "title": "Diátaxis",
+      "slug": "2026-08-01-di-taxis.html",
+      "path": "posts/2026-08-01-di-taxis.html",
+      "date_iso": "2026-08-01T20:33:27+00:00",
+      "source": "https://diataxis.fr/",
+      "summary": "Article URL: https://diataxis.fr/ Comments URL: https://news.ycombinator.com/item?id=49138188 Points: 333 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49137713",
+      "title": "But can your calculator run Linux?",
+      "slug": "2026-08-01-but-can-your-calculator-run-linux.html",
+      "path": "posts/2026-08-01-but-can-your-calculator-run-linux.html",
+      "date_iso": "2026-08-01T19:44:48+00:00",
+      "source": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
+      "summary": "Article URL: https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html Comments URL: https://news.ycombinator.com/item?id=49137713 Points: 93 # Comments: 9"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49132058",
       "title": "Ten advances in mathematics and theoretical computer science",
       "slug": "2026-08-01-ten-advances-in-mathematics-and-theoretical-computer-science.html",
