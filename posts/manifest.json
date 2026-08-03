@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49153374",
+      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+      "slug": "2026-08-03-prevent-cognitive-debt-by-manually-retyping-llm-generated-code.html",
+      "path": "posts/2026-08-03-prevent-cognitive-debt-by-manually-retyping-llm-generated-code.html",
+      "date_iso": "2026-08-03T09:32:07+00:00",
+      "source": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+      "summary": "Article URL: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/ Comments URL: https://news.ycombinator.com/item?id=49153374 Points: 23 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49153361",
+      "title": "What DMARC Protects You From, and What It Does Not",
+      "slug": "2026-08-03-what-dmarc-protects-you-from-and-what-it-does-not.html",
+      "path": "posts/2026-08-03-what-dmarc-protects-you-from-and-what-it-does-not.html",
+      "date_iso": "2026-08-03T09:29:46+00:00",
+      "source": "https://senderledger.com/articles/what-dmarc-actually-protects-you-from",
+      "summary": "Article URL: https://senderledger.com/articles/what-dmarc-actually-protects-you-from Comments URL: https://news.ycombinator.com/item?id=49153361 Points: 9 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49153308",
+      "title": "MPs demand answers on Fujitsu's inclusion in lucrative frameworks",
+      "slug": "2026-08-03-mps-demand-answers-on-fujitsu-s-inclusion-in-lucrative-frameworks.html",
+      "path": "posts/2026-08-03-mps-demand-answers-on-fujitsu-s-inclusion-in-lucrative-frameworks.html",
+      "date_iso": "2026-08-03T09:25:15+00:00",
+      "source": "https://www.computerweekly.com/news/366646721/MPs-demand-answers-on-Fujitsus-inclusion-in-lucrative-frameworks",
+      "summary": "Article URL: https://www.computerweekly.com/news/366646721/MPs-demand-answers-on-Fujitsus-inclusion-in-lucrative-frameworks Comments URL: https://news.ycombinator.com/item?id=49153308 Points: 16 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49153158",
+      "title": "Less Coffee, Better Sleep",
+      "slug": "2026-08-03-less-coffee-better-sleep.html",
+      "path": "posts/2026-08-03-less-coffee-better-sleep.html",
+      "date_iso": "2026-08-03T09:10:07+00:00",
+      "source": "https://www.marginalia.nu/log/a_109_sleep2/",
+      "summary": "Article URL: https://www.marginalia.nu/log/a_109_sleep2/ Comments URL: https://news.ycombinator.com/item?id=49153158 Points: 23 # Comments: 23"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/03/technology/ai-tech-firms-swag-merchandise.html",
+      "title": "If You Can’t Beat A.I., Outdress It, Tech Firms and Their Swag Say",
+      "slug": "2026-08-03-if-you-can-t-beat-a-i-outdress-it-tech-firms-and-their-swag-say.html",
+      "path": "posts/2026-08-03-if-you-can-t-beat-a-i-outdress-it-tech-firms-and-their-swag-say.html",
+      "date_iso": "2026-08-03T09:00:31+00:00",
+      "source": "https://www.nytimes.com/2026/08/03/technology/ai-tech-firms-swag-merchandise.html",
+      "summary": "Over the years, tech workers have proudly worn nerdy company-branded gear. But this generation of hot companies is getting fancy with its merch."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49153029",
+      "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+      "slug": "2026-08-03-pisiguard-protect-your-personal-and-sensitive-info-when-you-chat-with-ai.html",
+      "path": "posts/2026-08-03-pisiguard-protect-your-personal-and-sensitive-info-when-you-chat-with-ai.html",
+      "date_iso": "2026-08-03T08:54:00+00:00",
+      "source": "https://github.com/mohamed--abdel-maksoud/pisiguard",
+      "summary": "Article URL: https://github.com/mohamed--abdel-maksoud/pisiguard Comments URL: https://news.ycombinator.com/item?id=49153029 Points: 4 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49152973",
+      "title": "The true power of regular expressions (2012)",
+      "slug": "2026-08-03-the-true-power-of-regular-expressions-2012.html",
+      "path": "posts/2026-08-03-the-true-power-of-regular-expressions-2012.html",
+      "date_iso": "2026-08-03T08:47:23+00:00",
+      "source": "https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html",
+      "summary": "Article URL: https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html Comments URL: https://news.ycombinator.com/item?id=49152973 Points: 4 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49152871",
+      "title": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
+      "slug": "2026-08-03-show-hn-we-fixed-unifi-s-slow-pppoe-performance-with-pppoe-half-bridge.html",
+      "path": "posts/2026-08-03-show-hn-we-fixed-unifi-s-slow-pppoe-performance-with-pppoe-half-bridge.html",
+      "date_iso": "2026-08-03T08:34:24+00:00",
+      "source": "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration",
+      "summary": "Article URL: https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration Comments URL: https://news.ycombinator.com/item?id=49152871 Points: 8 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49152842",
+      "title": "Bonsai: Janestreet's UI Library",
+      "slug": "2026-08-03-bonsai-janestreet-s-ui-library.html",
+      "path": "posts/2026-08-03-bonsai-janestreet-s-ui-library.html",
+      "date_iso": "2026-08-03T08:29:57+00:00",
+      "source": "https://github.com/janestreet/bonsai",
+      "summary": "Article URL: https://github.com/janestreet/bonsai Comments URL: https://news.ycombinator.com/item?id=49152842 Points: 48 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49152640",
+      "title": "Octane – React's programming model, compiled",
+      "slug": "2026-08-03-octane-react-s-programming-model-compiled.html",
+      "path": "posts/2026-08-03-octane-react-s-programming-model-compiled.html",
+      "date_iso": "2026-08-03T08:04:04+00:00",
+      "source": "https://octanejs.dev",
+      "summary": "Article URL: https://octanejs.dev Comments URL: https://news.ycombinator.com/item?id=49152640 Points: 19 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49152316",
+      "title": "The Shape of Things to Come",
+      "slug": "2026-08-03-the-shape-of-things-to-come.html",
+      "path": "posts/2026-08-03-the-shape-of-things-to-come.html",
+      "date_iso": "2026-08-03T07:22:27+00:00",
+      "source": "https://yegge.ai/essays/the-shape-of-things-to-come/",
+      "summary": "Article URL: https://yegge.ai/essays/the-shape-of-things-to-come/ Comments URL: https://news.ycombinator.com/item?id=49152316 Points: 16 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49152222",
+      "title": "The AI Productivity Gap",
+      "slug": "2026-08-03-the-ai-productivity-gap.html",
+      "path": "posts/2026-08-03-the-ai-productivity-gap.html",
+      "date_iso": "2026-08-03T07:07:20+00:00",
+      "source": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
+      "summary": "Article URL: https://bjorg.bjornroche.com/management/ai-productivity-gap/ Comments URL: https://news.ycombinator.com/item?id=49152222 Points: 50 # Comments: 44"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49152054",
+      "title": "Show HN: I created a project management system",
+      "slug": "2026-08-03-show-hn-i-created-a-project-management-system.html",
+      "path": "posts/2026-08-03-show-hn-i-created-a-project-management-system.html",
+      "date_iso": "2026-08-03T06:47:36+00:00",
+      "source": "https://is.team",
+      "summary": "Article URL: https://is.team Comments URL: https://news.ycombinator.com/item?id=49152054 Points: 7 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49152023",
+      "title": "Rust project goals: Immobile types and guaranteed destructors",
+      "slug": "2026-08-03-rust-project-goals-immobile-types-and-guaranteed-destructors.html",
+      "path": "posts/2026-08-03-rust-project-goals-immobile-types-and-guaranteed-destructors.html",
+      "date_iso": "2026-08-03T06:42:00+00:00",
+      "source": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
+      "summary": "Article URL: https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md Comments URL: https://news.ycombinator.com/item?id=49152023 Points: 78 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49151933",
+      "title": "Don't be a meat proxy",
+      "slug": "2026-08-03-don-t-be-a-meat-proxy.html",
+      "path": "posts/2026-08-03-don-t-be-a-meat-proxy.html",
+      "date_iso": "2026-08-03T06:28:01+00:00",
+      "source": "https://gruhn.me/blog/2026-08-03/",
+      "summary": "Article URL: https://gruhn.me/blog/2026-08-03/ Comments URL: https://news.ycombinator.com/item?id=49151933 Points: 609 # Comments: 264"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49151871",
+      "title": "Situational Awareness and the Impending Stock Market Volatility",
+      "slug": "2026-08-03-situational-awareness-and-the-impending-stock-market-volatility.html",
+      "path": "posts/2026-08-03-situational-awareness-and-the-impending-stock-market-volatility.html",
+      "date_iso": "2026-08-03T06:17:53+00:00",
+      "source": "https://www.emergingtrajectories.com/lh/situational-awareness-bigger-picture/",
+      "summary": "Article URL: https://www.emergingtrajectories.com/lh/situational-awareness-bigger-picture/ Comments URL: https://news.ycombinator.com/item?id=49151871 Points: 12 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49150470",
+      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+      "slug": "2026-08-03-qwen3-8-max-a-new-bar-for-coding-and-cowork.html",
+      "path": "posts/2026-08-03-qwen3-8-max-a-new-bar-for-coding-and-cowork.html",
+      "date_iso": "2026-08-03T02:16:09+00:00",
+      "source": "https://qwen.ai/blog?id=qwen3.8",
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen3.8 Comments URL: https://news.ycombinator.com/item?id=49150470 Points: 589 # Comments: 297"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49149966",
+      "title": "Show HN: Isopolis – Isometric pixel map of SF",
+      "slug": "2026-08-03-show-hn-isopolis-isometric-pixel-map-of-sf.html",
+      "path": "posts/2026-08-03-show-hn-isopolis-isometric-pixel-map-of-sf.html",
+      "date_iso": "2026-08-03T00:46:38+00:00",
+      "source": "https://sf.isopolis.city/",
+      "summary": "Article URL: https://sf.isopolis.city/ Comments URL: https://news.ycombinator.com/item?id=49149966 Points: 224 # Comments: 50"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49149898",
+      "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
+      "slug": "2026-08-03-cp-m-386-cp-m-for-386-protected-mode-derived-from-cp-m-68k.html",
+      "path": "posts/2026-08-03-cp-m-386-cp-m-for-386-protected-mode-derived-from-cp-m-68k.html",
+      "date_iso": "2026-08-03T00:38:10+00:00",
+      "source": "https://github.com/johnsonjh/cpm386",
+      "summary": "Article URL: https://github.com/johnsonjh/cpm386 Comments URL: https://news.ycombinator.com/item?id=49149898 Points: 70 # Comments: 30"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49149805",
+      "title": "Show HN: ssh ssh.place",
+      "slug": "2026-08-03-show-hn-ssh-ssh-place.html",
+      "path": "posts/2026-08-03-show-hn-ssh-ssh-place.html",
+      "date_iso": "2026-08-03T00:23:21+00:00",
+      "source": "https://ssh.place",
+      "summary": "Article URL: https://ssh.place Comments URL: https://news.ycombinator.com/item?id=49149805 Points: 117 # Comments: 71"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49149746",
+      "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
+      "slug": "2026-08-03-why-book-corners-won-t-sync-contributions-back-to-openstreetmap.html",
+      "path": "posts/2026-08-03-why-book-corners-won-t-sync-contributions-back-to-openstreetmap.html",
+      "date_iso": "2026-08-03T00:12:16+00:00",
+      "source": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
+      "summary": "Article URL: https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/ Comments URL: https://news.ycombinator.com/item?id=49149746 Points: 100 # Comments: 59"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/02/technology/google-earth-ai-satellite-images.html",
+      "title": "For a Day, Google Made It Easy to Spoof Satellite Imagery",
+      "slug": "2026-08-02-for-a-day-google-made-it-easy-to-spoof-satellite-imagery.html",
+      "path": "posts/2026-08-02-for-a-day-google-made-it-easy-to-spoof-satellite-imagery.html",
+      "date_iso": "2026-08-02T19:25:56+00:00",
+      "source": "https://www.nytimes.com/2026/08/02/technology/google-earth-ai-satellite-images.html",
+      "summary": "A screenshot of Google’s announcement on Thursday about Nano Banana 2, an artificial intelligence feature."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49142128",
       "title": "Nerd culture is murdering intellectuals",
       "slug": "2026-08-02-nerd-culture-is-murdering-intellectuals.html",
