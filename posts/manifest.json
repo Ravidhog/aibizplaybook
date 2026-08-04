@@ -1,6 +1,177 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html",
+      "title": "White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules",
+      "slug": "2026-08-04-white-house-whipsaws-silicon-valley-and-itself-over-a-i-rules.html",
+      "path": "posts/2026-08-04-white-house-whipsaws-silicon-valley-and-itself-over-a-i-rules.html",
+      "date_iso": "2026-08-04T09:04:23+00:00",
+      "source": "https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html",
+      "summary": "Chinese open-source artificial models like Kimi, made by Moonshot AI, have added a new and urgent dimension to the fight between Washington and Beijing over who will control critical technologies."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49165170",
+      "title": "CollectWise (YC F24) Is Hiring",
+      "slug": "2026-08-04-collectwise-yc-f24-is-hiring.html",
+      "path": "posts/2026-08-04-collectwise-yc-f24-is-hiring.html",
+      "date_iso": "2026-08-04T07:01:26+00:00",
+      "source": "https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer Comments URL: https://news.ycombinator.com/item?id=49165170 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49164896",
+      "title": "Harness Engineering for Self-Improvement",
+      "slug": "2026-08-04-harness-engineering-for-self-improvement.html",
+      "path": "posts/2026-08-04-harness-engineering-for-self-improvement.html",
+      "date_iso": "2026-08-04T06:17:54+00:00",
+      "source": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+      "summary": "Article URL: https://lilianweng.github.io/posts/2026-07-04-harness/ Comments URL: https://news.ycombinator.com/item?id=49164896 Points: 31 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49162653",
+      "title": "There Will Come Soft Rains (1950) [pdf]",
+      "slug": "2026-08-03-there-will-come-soft-rains-1950-pdf.html",
+      "path": "posts/2026-08-03-there-will-come-soft-rains-1950-pdf.html",
+      "date_iso": "2026-08-03T23:24:53+00:00",
+      "source": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+      "summary": "Article URL: https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf Comments URL: https://news.ycombinator.com/item?id=49162653 Points: 152 # Comments: 56"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49162086",
+      "title": "Windows XP 2002 for the Itanium: Unbridled rage",
+      "slug": "2026-08-03-windows-xp-2002-for-the-itanium-unbridled-rage.html",
+      "path": "posts/2026-08-03-windows-xp-2002-for-the-itanium-unbridled-rage.html",
+      "date_iso": "2026-08-03T22:04:49+00:00",
+      "source": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
+      "summary": "Article URL: https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/ Comments URL: https://news.ycombinator.com/item?id=49162086 Points: 104 # Comments: 54"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49161518",
+      "title": "LLMs reward expertise",
+      "slug": "2026-08-03-llms-reward-expertise.html",
+      "path": "posts/2026-08-03-llms-reward-expertise.html",
+      "date_iso": "2026-08-03T21:13:53+00:00",
+      "source": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "summary": "Article URL: https://www.seangoedecke.com/llms-reward-expertise/ Comments URL: https://news.ycombinator.com/item?id=49161518 Points: 920 # Comments: 389"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html",
+      "title": "What Are Companies Getting for All That A.I. Spending?",
+      "slug": "2026-08-03-what-are-companies-getting-for-all-that-a-i-spending.html",
+      "path": "posts/2026-08-03-what-are-companies-getting-for-all-that-a-i-spending.html",
+      "date_iso": "2026-08-03T18:56:22+00:00",
+      "source": "https://www.nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html",
+      "summary": "A new field of “tokenomics” has emerged to measure the return on all the money companies are pouring into artificial intelligence."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49158581",
+      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+      "slug": "2026-08-03-smaller-faster-safer-running-kimi-and-glm-at-scale.html",
+      "path": "posts/2026-08-03-smaller-faster-safer-running-kimi-and-glm-at-scale.html",
+      "date_iso": "2026-08-03T17:08:46+00:00",
+      "source": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+      "summary": "Article URL: https://blog.cloudflare.com/smaller-faster-safer-models/ Comments URL: https://news.ycombinator.com/item?id=49158581 Points: 213 # Comments: 52"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49158474",
+      "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+      "slug": "2026-08-03-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years.html",
+      "path": "posts/2026-08-03-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years.html",
+      "date_iso": "2026-08-03T17:02:10+00:00",
+      "source": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
+      "summary": "Article URL: https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase Comments URL: https://news.ycombinator.com/item?id=49158474 Points: 162 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49158333",
+      "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+      "slug": "2026-08-03-show-hn-run-an-80b-qwen-in-4-3-gb-of-ram-on-a-mac-and-a-35b-on-an-iphone.html",
+      "path": "posts/2026-08-03-show-hn-run-an-80b-qwen-in-4-3-gb-of-ram-on-a-mac-and-a-35b-on-an-iphone.html",
+      "date_iso": "2026-08-03T16:54:15+00:00",
+      "source": "https://github.com/leonickson1/Swiftlet",
+      "summary": "Article URL: https://github.com/leonickson1/Swiftlet Comments URL: https://news.ycombinator.com/item?id=49158333 Points: 177 # Comments: 70"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49157997",
+      "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+      "slug": "2026-08-03-launch-hn-hoplite-yc-s26-effortlessly-deploy-cloud-coding-agents.html",
+      "path": "posts/2026-08-03-launch-hn-hoplite-yc-s26-effortlessly-deploy-cloud-coding-agents.html",
+      "date_iso": "2026-08-03T16:32:06+00:00",
+      "source": "https://hoplite.sh",
+      "summary": "Hi HN, we’re Bence and Ryan, founders of Hoplite ( https://hoplite.sh ). Hoplite lets you deploy coding agents in the cloud, with a suite of tools that makes it incredibly easy to QA features. During onboarding, we port over your local setup - sessions, memories, MCP servers, an…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49157930",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "slug": "2026-08-03-ten-advances-in-mathematics-and-theoretical-computer-science.html",
+      "path": "posts/2026-08-03-ten-advances-in-mathematics-and-theoretical-computer-science.html",
+      "date_iso": "2026-08-03T16:27:12+00:00",
+      "source": "https://openai.com/index/ten-advances-in-mathematics/",
+      "summary": "Article URL: https://openai.com/index/ten-advances-in-mathematics/ Comments URL: https://news.ycombinator.com/item?id=49157930 Points: 534 # Comments: 821"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/03/technology/spacex-lockup-stock-market.html",
+      "title": "SpaceX’s Stock Lockup Is Expiring. Prepare for a Bumpy Ride.",
+      "slug": "2026-08-03-spacex-s-stock-lockup-is-expiring-prepare-for-a-bumpy-ride.html",
+      "path": "posts/2026-08-03-spacex-s-stock-lockup-is-expiring-prepare-for-a-bumpy-ride.html",
+      "date_iso": "2026-08-03T15:10:56+00:00",
+      "source": "https://www.nytimes.com/2026/08/03/technology/spacex-lockup-stock-market.html",
+      "summary": "On Thursday, employees and other insiders at Elon Musk’s rocket company will be released from their first stock “lockup” and can start selling some of their shares."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49156750",
+      "title": "Twenty Years of Pandoc",
+      "slug": "2026-08-03-twenty-years-of-pandoc.html",
+      "path": "posts/2026-08-03-twenty-years-of-pandoc.html",
+      "date_iso": "2026-08-03T15:04:53+00:00",
+      "source": "https://pandoc.org/twenty-years-of-pandoc.html",
+      "summary": "Article URL: https://pandoc.org/twenty-years-of-pandoc.html Comments URL: https://news.ycombinator.com/item?id=49156750 Points: 249 # Comments: 30"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49156683",
+      "title": "Ask HN: Who is hiring? (August 2026)",
+      "slug": "2026-08-03-ask-hn-who-is-hiring-august-2026.html",
+      "path": "posts/2026-08-03-ask-hn-who-is-hiring-august-2026.html",
+      "date_iso": "2026-08-03T15:00:54+00:00",
+      "source": "https://news.ycombinator.com/item?id=49156683",
+      "summary": "Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option. Please only post if you personally are part of the hiring company—no recruiting firms or job boards. One post per comp…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49156682",
+      "title": "Ask HN: Who wants to be hired? (August 2026)",
+      "slug": "2026-08-03-ask-hn-who-wants-to-be-hired-august-2026.html",
+      "path": "posts/2026-08-03-ask-hn-who-wants-to-be-hired-august-2026.html",
+      "date_iso": "2026-08-03T15:00:54+00:00",
+      "source": "https://news.ycombinator.com/item?id=49156682",
+      "summary": "Share your information if you are looking for work. Please use this format: Location: Remote: Willing to relocate: Technologies: Résumé/CV: Email: Please only post if you are personally looking for work. Agencies, recruiters, job boards, and so on, are off topic here. Readers: p…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49156111",
+      "title": "Devtools must be open source",
+      "slug": "2026-08-03-devtools-must-be-open-source.html",
+      "path": "posts/2026-08-03-devtools-must-be-open-source.html",
+      "date_iso": "2026-08-03T14:15:47+00:00",
+      "source": "https://blog.exe.dev/devtools-must-be-open-source",
+      "summary": "Article URL: https://blog.exe.dev/devtools-must-be-open-source Comments URL: https://news.ycombinator.com/item?id=49156111 Points: 601 # Comments: 201"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49156011",
+      "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
+      "slug": "2026-08-03-andy-pavlo-joins-clickhouse-to-establish-clickhouse-labs.html",
+      "path": "posts/2026-08-03-andy-pavlo-joins-clickhouse-to-establish-clickhouse-labs.html",
+      "date_iso": "2026-08-03T14:09:00+00:00",
+      "source": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
+      "summary": "Article URL: https://clickhouse.com/blog/andy-pavlo-joins-clickhouse Comments URL: https://news.ycombinator.com/item?id=49156011 Points: 310 # Comments: 65"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49155629",
+      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+      "slug": "2026-08-03-minimax-h3-day-0-support-in-comfyui-open-weights-native-audio-and-2k-video.html",
+      "path": "posts/2026-08-03-minimax-h3-day-0-support-in-comfyui-open-weights-native-audio-and-2k-video.html",
+      "date_iso": "2026-08-03T13:34:43+00:00",
+      "source": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+      "summary": "Article URL: https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui Comments URL: https://news.ycombinator.com/item?id=49155629 Points: 293 # Comments: 85"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49153374",
       "title": "Prevent cognitive debt by manually retyping LLM-generated code",
       "slug": "2026-08-03-prevent-cognitive-debt-by-manually-retyping-llm-generated-code.html",
@@ -145,6 +316,15 @@
       "summary": "Article URL: https://www.emergingtrajectories.com/lh/situational-awareness-bigger-picture/ Comments URL: https://news.ycombinator.com/item?id=49151871 Points: 12 # Comments: 7"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=49151734",
+      "title": "More German than many Germans",
+      "slug": "2026-08-03-more-german-than-many-germans.html",
+      "path": "posts/2026-08-03-more-german-than-many-germans.html",
+      "date_iso": "2026-08-03T06:00:14+00:00",
+      "source": "https://mertbulan.com/more-german-than-many-germans/",
+      "summary": "Article URL: https://mertbulan.com/more-german-than-many-germans/ Comments URL: https://news.ycombinator.com/item?id=49151734 Points: 531 # Comments: 376"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49150470",
       "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
       "slug": "2026-08-03-qwen3-8-max-a-new-bar-for-coding-and-cowork.html",
@@ -197,6 +377,15 @@
       "date_iso": "2026-08-02T19:25:56+00:00",
       "source": "https://www.nytimes.com/2026/08/02/technology/google-earth-ai-satellite-images.html",
       "summary": "A screenshot of Google’s announcement on Thursday about Nano Banana 2, an artificial intelligence feature."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49143683",
+      "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
+      "slug": "2026-08-02-great-question-yc-w21-is-hiring-senior-demand-gen-manager.html",
+      "path": "posts/2026-08-02-great-question-yc-w21-is-hiring-senior-demand-gen-manager.html",
+      "date_iso": "2026-08-02T12:01:00+00:00",
+      "source": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
+      "summary": "Article URL: https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager Comments URL: https://news.ycombinator.com/item?id=49143683 Points: 0 # Comments: 0"
     },
     {
       "id": "https://news.ycombinator.com/item?id=49142128",
