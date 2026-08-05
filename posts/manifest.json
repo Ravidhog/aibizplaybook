@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49178608",
+      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+      "slug": "2026-08-05-zero-mem-zero-token-memory-operations-for-llm-agents.html",
+      "path": "posts/2026-08-05-zero-mem-zero-token-memory-operations-for-llm-agents.html",
+      "date_iso": "2026-08-05T04:36:44+00:00",
+      "source": "https://arxiv.org/abs/2607.29377",
+      "summary": "Article URL: https://arxiv.org/abs/2607.29377 Comments URL: https://news.ycombinator.com/item?id=49178608 Points: 32 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49178464",
+      "title": "An SLM trained on $8 ESP32-S3",
+      "slug": "2026-08-05-an-slm-trained-on-8-esp32-s3.html",
+      "path": "posts/2026-08-05-an-slm-trained-on-8-esp32-s3.html",
+      "date_iso": "2026-08-05T04:07:27+00:00",
+      "source": "https://github.com/Carloscodix/qapla",
+      "summary": "Article URL: https://github.com/Carloscodix/qapla Comments URL: https://news.ycombinator.com/item?id=49178464 Points: 27 # Comments: 8"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/04/technology/white-house-ai-framework.html",
+      "title": "Trump White House Readies AI Framework to Review Security Risks",
+      "slug": "2026-08-05-trump-white-house-readies-ai-framework-to-review-security-risks.html",
+      "path": "posts/2026-08-05-trump-white-house-readies-ai-framework-to-review-security-risks.html",
+      "date_iso": "2026-08-05T00:17:54+00:00",
+      "source": "https://www.nytimes.com/2026/08/04/technology/white-house-ai-framework.html",
+      "summary": "President Trump at the G7 summit with Sam Altman of OpenAI in June. The Trump administration laid out how the federal government plans to review whether new A.I. tools pose a security risk."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49176983",
+      "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
+      "slug": "2026-08-05-zigbee-vs-matter-over-thread-understanding-iot-protocol-performance-in-practice.html",
+      "path": "posts/2026-08-05-zigbee-vs-matter-over-thread-understanding-iot-protocol-performance-in-practice.html",
+      "date_iso": "2026-08-05T00:10:37+00:00",
+      "source": "https://arxiv.org/abs/2603.04221",
+      "summary": "Article URL: https://arxiv.org/abs/2603.04221 Comments URL: https://news.ycombinator.com/item?id=49176983 Points: 86 # Comments: 69"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49176947",
+      "title": "Bugtraq is back",
+      "slug": "2026-08-05-bugtraq-is-back.html",
+      "path": "posts/2026-08-05-bugtraq-is-back.html",
+      "date_iso": "2026-08-05T00:05:49+00:00",
+      "source": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
+      "summary": "Article URL: https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/ Comments URL: https://news.ycombinator.com/item?id=49176947 Points: 45 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49176920",
+      "title": "Flowise is shutting down",
+      "slug": "2026-08-05-flowise-is-shutting-down.html",
+      "path": "posts/2026-08-05-flowise-is-shutting-down.html",
+      "date_iso": "2026-08-05T00:02:40+00:00",
+      "source": "https://flowiseai.com/sunset",
+      "summary": "Article URL: https://flowiseai.com/sunset Comments URL: https://news.ycombinator.com/item?id=49176920 Points: 48 # Comments: 31"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49176830",
+      "title": "Eight Myths on Software Engineering and GenAI",
+      "slug": "2026-08-04-eight-myths-on-software-engineering-and-genai.html",
+      "path": "posts/2026-08-04-eight-myths-on-software-engineering-and-genai.html",
+      "date_iso": "2026-08-04T23:50:52+00:00",
+      "source": "https://queue.acm.org/detail.cfm?id=3807963",
+      "summary": "Article URL: https://queue.acm.org/detail.cfm?id=3807963 Comments URL: https://news.ycombinator.com/item?id=49176830 Points: 206 # Comments: 172"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49176697",
+      "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+      "slug": "2026-08-04-ip-and-dns-leaks-in-webkit-affecting-proxy-browsers-and-icloud-private-relay.html",
+      "path": "posts/2026-08-04-ip-and-dns-leaks-in-webkit-affecting-proxy-browsers-and-icloud-private-relay.html",
+      "date_iso": "2026-08-04T23:31:46+00:00",
+      "source": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+      "summary": "Article URL: https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/ Comments URL: https://news.ycombinator.com/item?id=49176697 Points: 103 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49176606",
+      "title": "libexpat now funded by the City of Munich for up to 6 months",
+      "slug": "2026-08-04-libexpat-now-funded-by-the-city-of-munich-for-up-to-6-months.html",
+      "path": "posts/2026-08-04-libexpat-now-funded-by-the-city-of-munich-for-up-to-6-months.html",
+      "date_iso": "2026-08-04T23:18:12+00:00",
+      "source": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+      "summary": "Article URL: https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/ Comments URL: https://news.ycombinator.com/item?id=49176606 Points: 269 # Comments: 58"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/04/technology/spacex-earnings-elon-musk.html",
+      "title": "SpaceX, in First Earnings After IPO, Reports Soaring AI Spending",
+      "slug": "2026-08-04-spacex-in-first-earnings-after-ipo-reports-soaring-ai-spending.html",
+      "path": "posts/2026-08-04-spacex-in-first-earnings-after-ipo-reports-soaring-ai-spending.html",
+      "date_iso": "2026-08-04T22:52:45+00:00",
+      "source": "https://www.nytimes.com/2026/08/04/technology/spacex-earnings-elon-musk.html",
+      "summary": "In its first earnings report as a public company, SpaceX also posted a quarterly loss of $541 million, narrower than the $1 billion loss in the same period a year ago."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49176212",
+      "title": "Show HN: SIMD Viterbi Decoder in Rust",
+      "slug": "2026-08-04-show-hn-simd-viterbi-decoder-in-rust.html",
+      "path": "posts/2026-08-04-show-hn-simd-viterbi-decoder-in-rust.html",
+      "date_iso": "2026-08-04T22:37:05+00:00",
+      "source": "https://github.com/brian-armstrong/fec",
+      "summary": "I wrote libcorrect in C in 2016 and wanted to revisit it in Rust. Instead of doing just a direct conversion, I went down the rabbit hole of making Rust's std::simd work for me. I ended up with a templated, generic Viterbi decoder for convolutional codes that dispatches the decod…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49176055",
+      "title": "We finally learned to center a div, then browsers added sidebars",
+      "slug": "2026-08-04-we-finally-learned-to-center-a-div-then-browsers-added-sidebars.html",
+      "path": "posts/2026-08-04-we-finally-learned-to-center-a-div-then-browsers-added-sidebars.html",
+      "date_iso": "2026-08-04T22:24:00+00:00",
+      "source": "https://seg6.space/posts/center-div/",
+      "summary": "Article URL: https://seg6.space/posts/center-div/ Comments URL: https://news.ycombinator.com/item?id=49176055 Points: 131 # Comments: 105"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49176038",
+      "title": "Pi's Minimalism Is Its Advantage",
+      "slug": "2026-08-04-pi-s-minimalism-is-its-advantage.html",
+      "path": "posts/2026-08-04-pi-s-minimalism-is-its-advantage.html",
+      "date_iso": "2026-08-04T22:22:12+00:00",
+      "source": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+      "summary": "Article URL: https://earendil.com/posts/pi-autoresearch-and-databricks/ Comments URL: https://news.ycombinator.com/item?id=49176038 Points: 350 # Comments: 137"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49175924",
+      "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
+      "slug": "2026-08-04-duckdb-data-power-tools-for-your-laptop-now-in-clojure-2023.html",
+      "path": "posts/2026-08-04-duckdb-data-power-tools-for-your-laptop-now-in-clojure-2023.html",
+      "date_iso": "2026-08-04T22:09:43+00:00",
+      "source": "https://techascent.com/blog/just-ducking-around.html",
+      "summary": "Article URL: https://techascent.com/blog/just-ducking-around.html Comments URL: https://news.ycombinator.com/item?id=49175924 Points: 98 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49175826",
+      "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+      "slug": "2026-08-04-ai-fuels-more-than-half-of-cybercrime-in-africa-as-scams-surge-interpol.html",
+      "path": "posts/2026-08-04-ai-fuels-more-than-half-of-cybercrime-in-africa-as-scams-surge-interpol.html",
+      "date_iso": "2026-08-04T22:01:41+00:00",
+      "source": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+      "summary": "https://www.interpol.int/Media/Documents/Publications/Cyberc... Comments URL: https://news.ycombinator.com/item?id=49175826 Points: 234 # Comments: 181"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49173984",
+      "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
+      "slug": "2026-08-04-show-hn-maple-preview-ternary-20b-moe-running-at-120-tok-s-on-a-iphone.html",
+      "path": "posts/2026-08-04-show-hn-maple-preview-ternary-20b-moe-running-at-120-tok-s-on-a-iphone.html",
+      "date_iso": "2026-08-04T19:44:55+00:00",
+      "source": "https://deepgrove.ai/maple-preview",
+      "summary": "Article URL: https://deepgrove.ai/maple-preview Comments URL: https://news.ycombinator.com/item?id=49173984 Points: 111 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49173165",
+      "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+      "slug": "2026-08-04-in-memory-of-my-wife-elise-cawley-with-thanks-for-36-wonderful-years.html",
+      "path": "posts/2026-08-04-in-memory-of-my-wife-elise-cawley-with-thanks-for-36-wonderful-years.html",
+      "date_iso": "2026-08-04T18:51:38+00:00",
+      "source": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+      "summary": "Article URL: https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/ Comments URL: https://news.ycombinator.com/item?id=49173165 Points: 1333 # Comments: 77"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/04/technology/amazon-nj-lawsuit.html",
+      "title": "In Lawsuit, NJ Accuses Amazon of Suppressing Pay for Delivery Drivers",
+      "slug": "2026-08-04-in-lawsuit-nj-accuses-amazon-of-suppressing-pay-for-delivery-drivers.html",
+      "path": "posts/2026-08-04-in-lawsuit-nj-accuses-amazon-of-suppressing-pay-for-delivery-drivers.html",
+      "date_iso": "2026-08-04T18:32:54+00:00",
+      "source": "https://www.nytimes.com/2026/08/04/technology/amazon-nj-lawsuit.html",
+      "summary": "Amazon said the lawsuit wrongly characterized the company’s activities, and that its contractor delivery partners were free to operate as they saw fit."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49172836",
+      "title": "Waymo in Dallas",
+      "slug": "2026-08-04-waymo-in-dallas.html",
+      "path": "posts/2026-08-04-waymo-in-dallas.html",
+      "date_iso": "2026-08-04T18:29:41+00:00",
+      "source": "https://waymo.com/blog/shorts/dallas-open-to-all/",
+      "summary": "Article URL: https://waymo.com/blog/shorts/dallas-open-to-all/ Comments URL: https://news.ycombinator.com/item?id=49172836 Points: 290 # Comments: 514"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/04/world/europe/runaway-car-jaguar-uk.html",
+      "title": "Man’s Claim That Brakes Failed on Jaguar Was Scam to Avoid Car Payments, Court Rules",
+      "slug": "2026-08-04-man-s-claim-that-brakes-failed-on-jaguar-was-scam-to-avoid-car-payments-court-rules.html",
+      "path": "posts/2026-08-04-man-s-claim-that-brakes-failed-on-jaguar-was-scam-to-avoid-car-payments-court-rules.html",
+      "date_iso": "2026-08-04T17:12:58+00:00",
+      "source": "https://www.nytimes.com/2026/08/04/world/europe/runaway-car-jaguar-uk.html",
+      "summary": "Nathan Owen called the police, saying he was trapped in a runaway car. A judge determined it was a lie and sentenced him to more than four years in prison."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49171650",
+      "title": "Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead",
+      "slug": "2026-08-04-truemetrics-yc-s23-is-hiring-in-berlin-gtm-lead.html",
+      "path": "posts/2026-08-04-truemetrics-yc-s23-is-hiring-in-berlin-gtm-lead.html",
+      "date_iso": "2026-08-04T17:00:12+00:00",
+      "source": "https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead",
+      "summary": "Article URL: https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead Comments URL: https://news.ycombinator.com/item?id=49171650 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49171268",
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "slug": "2026-08-04-mistral-s-shieldstral-3b-open-weights-model-for-multimodal-moderation.html",
+      "path": "posts/2026-08-04-mistral-s-shieldstral-3b-open-weights-model-for-multimodal-moderation.html",
+      "date_iso": "2026-08-04T16:36:05+00:00",
+      "source": "https://mistral.ai/news/shieldstral/",
+      "summary": "Article URL: https://mistral.ai/news/shieldstral/ Comments URL: https://news.ycombinator.com/item?id=49171268 Points: 407 # Comments: 106"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49170915",
+      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+      "slug": "2026-08-04-when-ai-benchmarks-plateau-a-systematic-study-of-benchmark-saturation.html",
+      "path": "posts/2026-08-04-when-ai-benchmarks-plateau-a-systematic-study-of-benchmark-saturation.html",
+      "date_iso": "2026-08-04T16:10:39+00:00",
+      "source": "https://arxiv.org/abs/2602.16763",
+      "summary": "Article URL: https://arxiv.org/abs/2602.16763 Comments URL: https://news.ycombinator.com/item?id=49170915 Points: 99 # Comments: 96"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49170165",
+      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+      "slug": "2026-08-04-show-hn-simple-algorithm-and-color-space-to-generate-diverse-skin-tones.html",
+      "path": "posts/2026-08-04-show-hn-simple-algorithm-and-color-space-to-generate-diverse-skin-tones.html",
+      "date_iso": "2026-08-04T15:16:22+00:00",
+      "source": "https://toneyalexander.github.io/inclusive-color-space/",
+      "summary": "Hello HN! I found that picking out plausible but diverse skin tones for my digital art and game development projects was kind of difficult, and I got curious about if there was a way to define a color space that made it easy. I've built a color picker and procedural generation a…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/04/science/spacex-rocket-moon-crash.html",
+      "title": "A SpaceX Rocket Will Soon Crash Into the Moon",
+      "slug": "2026-08-04-a-spacex-rocket-will-soon-crash-into-the-moon.html",
+      "path": "posts/2026-08-04-a-spacex-rocket-will-soon-crash-into-the-moon.html",
+      "date_iso": "2026-08-04T14:44:08+00:00",
+      "source": "https://www.nytimes.com/2026/08/04/science/spacex-rocket-moon-crash.html",
+      "summary": "A SpaceX Falcon 9 rocket carrying two private lunar landers launched in January last year. The second stage of this rocket will hit the moon at 5,400 miles per hour on Wednesday."
+    },
+    {
       "id": "https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html",
       "title": "White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules",
       "slug": "2026-08-04-white-house-whipsaws-silicon-valley-and-itself-over-a-i-rules.html",
