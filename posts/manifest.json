@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/08/06/technology/personaltech/carry-wall-street-in-your-pocket-with-these-free-apps.html",
+      "title": "Follow the Markets and Track Stocks With These Free Apps",
+      "slug": "2026-08-06-follow-the-markets-and-track-stocks-with-these-free-apps.html",
+      "path": "posts/2026-08-06-follow-the-markets-and-track-stocks-with-these-free-apps.html",
+      "date_iso": "2026-08-06T09:03:19+00:00",
+      "source": "https://www.nytimes.com/2026/08/06/technology/personaltech/carry-wall-street-in-your-pocket-with-these-free-apps.html",
+      "summary": "Apple's free Stocks app for its devices provides a dashboard for following personal investments, markets and financial news."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49193673",
+      "title": "What I love about Django",
+      "slug": "2026-08-06-what-i-love-about-django.html",
+      "path": "posts/2026-08-06-what-i-love-about-django.html",
+      "date_iso": "2026-08-06T07:34:06+00:00",
+      "source": "https://buttondown.com/blog/what-i-love-about-django",
+      "summary": "Article URL: https://buttondown.com/blog/what-i-love-about-django Comments URL: https://news.ycombinator.com/item?id=49193673 Points: 45 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49193314",
+      "title": "Let's all meet up in the Y2K",
+      "slug": "2026-08-06-let-s-all-meet-up-in-the-y2k.html",
+      "path": "posts/2026-08-06-let-s-all-meet-up-in-the-y2k.html",
+      "date_iso": "2026-08-06T06:43:38+00:00",
+      "source": "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/",
+      "summary": "Article URL: https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/ Comments URL: https://news.ycombinator.com/item?id=49193314 Points: 30 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49192566",
+      "title": "Crime Pays but Botany Doesn't",
+      "slug": "2026-08-06-crime-pays-but-botany-doesn-t.html",
+      "path": "posts/2026-08-06-crime-pays-but-botany-doesn-t.html",
+      "date_iso": "2026-08-06T04:46:35+00:00",
+      "source": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+      "summary": "Article URL: https://www.crimepaysbutbotanydoesnt.com/reading-list Comments URL: https://news.ycombinator.com/item?id=49192566 Points: 167 # Comments: 70"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49191624",
+      "title": "Nashville uses eminent domain to block data center near zoo",
+      "slug": "2026-08-06-nashville-uses-eminent-domain-to-block-data-center-near-zoo.html",
+      "path": "posts/2026-08-06-nashville-uses-eminent-domain-to-block-data-center-near-zoo.html",
+      "date_iso": "2026-08-06T02:15:14+00:00",
+      "source": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+      "summary": "Article URL: https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project Comments URL: https://news.ycombinator.com/item?id=49191624 Points: 231 # Comments: 287"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/05/technology/tiktok-layoffs-nashville.html",
+      "title": "TikTok Is Laying Off 250 Employees in Its Nashville Office",
+      "slug": "2026-08-06-tiktok-is-laying-off-250-employees-in-its-nashville-office.html",
+      "path": "posts/2026-08-06-tiktok-is-laying-off-250-employees-in-its-nashville-office.html",
+      "date_iso": "2026-08-06T00:24:06+00:00",
+      "source": "https://www.nytimes.com/2026/08/05/technology/tiktok-layoffs-nashville.html",
+      "summary": "In January, TikTok’s Chinese parent company, ByteDance, spun out an American venture to operate in the United States."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49189287",
+      "title": "The title cards in Blade Runner are amazing",
+      "slug": "2026-08-05-the-title-cards-in-blade-runner-are-amazing.html",
+      "path": "posts/2026-08-05-the-title-cards-in-blade-runner-are-amazing.html",
+      "date_iso": "2026-08-05T21:29:23+00:00",
+      "source": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+      "summary": "Article URL: https://randsinrepose.com/archives/blade-runner-title-cards/ Comments URL: https://news.ycombinator.com/item?id=49189287 Points: 262 # Comments: 125"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49189234",
+      "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
+      "slug": "2026-08-05-nvidia-s-vera-whitepaper-has-a-thread-loose.html",
+      "path": "posts/2026-08-05-nvidia-s-vera-whitepaper-has-a-thread-loose.html",
+      "date_iso": "2026-08-05T21:24:45+00:00",
+      "source": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
+      "summary": "Article URL: https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread Comments URL: https://news.ycombinator.com/item?id=49189234 Points: 127 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49189075",
+      "title": "Prime Agent: A self-improving RLM agent",
+      "slug": "2026-08-05-prime-agent-a-self-improving-rlm-agent.html",
+      "path": "posts/2026-08-05-prime-agent-a-self-improving-rlm-agent.html",
+      "date_iso": "2026-08-05T21:11:57+00:00",
+      "source": "https://www.primeintellect.ai/blog/prime-agent",
+      "summary": "Article URL: https://www.primeintellect.ai/blog/prime-agent Comments URL: https://news.ycombinator.com/item?id=49189075 Points: 182 # Comments: 37"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html",
+      "title": "How China’s A.I. Is Surging Across Africa",
+      "slug": "2026-08-05-how-china-s-a-i-is-surging-across-africa.html",
+      "path": "posts/2026-08-05-how-china-s-a-i-is-surging-across-africa.html",
+      "date_iso": "2026-08-05T20:41:16+00:00",
+      "source": "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html",
+      "summary": "In African tech hubs, developers are picking China’s cheap, freely available artificial intelligence models over more powerful U.S. ones."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49188022",
+      "title": "I'm switching my phone from Android to Linux",
+      "slug": "2026-08-05-i-m-switching-my-phone-from-android-to-linux.html",
+      "path": "posts/2026-08-05-i-m-switching-my-phone-from-android-to-linux.html",
+      "date_iso": "2026-08-05T19:50:13+00:00",
+      "source": "https://runarcn.no/android-to-linux/",
+      "summary": "Article URL: https://runarcn.no/android-to-linux/ Comments URL: https://news.ycombinator.com/item?id=49188022 Points: 326 # Comments: 315"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/05/technology/google-ai-leadership.html",
+      "title": "Google Names Demis Hassabis to New AI Role in a Leadership Shake-up",
+      "slug": "2026-08-05-google-names-demis-hassabis-to-new-ai-role-in-a-leadership-shake-up.html",
+      "path": "posts/2026-08-05-google-names-demis-hassabis-to-new-ai-role-in-a-leadership-shake-up.html",
+      "date_iso": "2026-08-05T19:17:33+00:00",
+      "source": "https://www.nytimes.com/2026/08/05/technology/google-ai-leadership.html",
+      "summary": "Demis Hassabis of Google’s DeepMind A.I. lab, gave up his operational role to become chair of DeepMind and chief scientist of Alphabet."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49187575",
+      "title": "Muse Code and Muse Spark 1.2",
+      "slug": "2026-08-05-muse-code-and-muse-spark-1-2.html",
+      "path": "posts/2026-08-05-muse-code-and-muse-spark-1-2.html",
+      "date_iso": "2026-08-05T19:15:52+00:00",
+      "source": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+      "summary": "Article URL: https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2 Comments URL: https://news.ycombinator.com/item?id=49187575 Points: 260 # Comments: 157"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49187256",
+      "title": "Zed DeltaDB",
+      "slug": "2026-08-05-zed-deltadb.html",
+      "path": "posts/2026-08-05-zed-deltadb.html",
+      "date_iso": "2026-08-05T18:52:54+00:00",
+      "source": "https://zed.dev/deltadb",
+      "summary": "Article URL: https://zed.dev/deltadb Comments URL: https://news.ycombinator.com/item?id=49187256 Points: 420 # Comments: 219"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49187061",
+      "title": "Born Against, or why hobby programming communities are against LLM usage",
+      "slug": "2026-08-05-born-against-or-why-hobby-programming-communities-are-against-llm-usage.html",
+      "path": "posts/2026-08-05-born-against-or-why-hobby-programming-communities-are-against-llm-usage.html",
+      "date_iso": "2026-08-05T18:37:49+00:00",
+      "source": "https://blog.fogus.me/llm/born-against.html",
+      "summary": "Article URL: https://blog.fogus.me/llm/born-against.html Comments URL: https://news.ycombinator.com/item?id=49187061 Points: 256 # Comments: 240"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49186762",
+      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "slug": "2026-08-05-beating-gpt-5-6-sol-on-retrieval-with-100x-cheaper-open-models.html",
+      "path": "posts/2026-08-05-beating-gpt-5-6-sol-on-retrieval-with-100x-cheaper-open-models.html",
+      "date_iso": "2026-08-05T18:18:56+00:00",
+      "source": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+      "summary": "Article URL: https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency Comments URL: https://news.ycombinator.com/item?id=49186762 Points: 314 # Comments: 77"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49186720",
+      "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+      "slug": "2026-08-05-sycophantic-ai-decreases-prosocial-intentions-and-promotes-dependence-2025.html",
+      "path": "posts/2026-08-05-sycophantic-ai-decreases-prosocial-intentions-and-promotes-dependence-2025.html",
+      "date_iso": "2026-08-05T18:17:03+00:00",
+      "source": "https://arxiv.org/abs/2510.01395",
+      "summary": "Article URL: https://arxiv.org/abs/2510.01395 Comments URL: https://news.ycombinator.com/item?id=49186720 Points: 121 # Comments: 66"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49185983",
+      "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+      "slug": "2026-08-05-atlassian-rovo-exfiltrates-data-bypassing-controls.html",
+      "path": "posts/2026-08-05-atlassian-rovo-exfiltrates-data-bypassing-controls.html",
+      "date_iso": "2026-08-05T17:23:25+00:00",
+      "source": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+      "summary": "Article URL: https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data Comments URL: https://news.ycombinator.com/item?id=49185983 Points: 225 # Comments: 92"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49185430",
+      "title": "Celld: Self-hosted, distributed Durable Objects",
+      "slug": "2026-08-05-celld-self-hosted-distributed-durable-objects.html",
+      "path": "posts/2026-08-05-celld-self-hosted-distributed-durable-objects.html",
+      "date_iso": "2026-08-05T16:50:06+00:00",
+      "source": "https://github.com/denoland/celld",
+      "summary": "Article URL: https://github.com/denoland/celld Comments URL: https://news.ycombinator.com/item?id=49185430 Points: 213 # Comments: 35"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49185389",
+      "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
+      "slug": "2026-08-05-launch-hn-hyperprobe-yc-s26-agents-that-do-read-only-debugging-in-prod.html",
+      "path": "posts/2026-08-05-launch-hn-hyperprobe-yc-s26-agents-that-do-read-only-debugging-in-prod.html",
+      "date_iso": "2026-08-05T16:47:15+00:00",
+      "source": "https://www.hyperprobe.co",
+      "summary": "Hi HN, this is Shailendra and Karan here. We are building a fast and safe way for coding agents to debug issues live in production. When prod breaks, it lets Cursor, Claude, and others drop virtual breakpoints or probes safely in your running code, and extract the exact variable…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49184960",
+      "title": "Discovery Loop",
+      "slug": "2026-08-05-discovery-loop.html",
+      "path": "posts/2026-08-05-discovery-loop.html",
+      "date_iso": "2026-08-05T16:19:44+00:00",
+      "source": "https://www.discoveryloop.com/",
+      "summary": "Article URL: https://www.discoveryloop.com/ Comments URL: https://news.ycombinator.com/item?id=49184960 Points: 748 # Comments: 466"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49184755",
+      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+      "slug": "2026-08-05-changes-at-google-deepmind-demis-hassabis-from-ceo-to-chair-jeff-dean-departs.html",
+      "path": "posts/2026-08-05-changes-at-google-deepmind-demis-hassabis-from-ceo-to-chair-jeff-dean-departs.html",
+      "date_iso": "2026-08-05T16:05:31+00:00",
+      "source": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "summary": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassa... https://www.reuters.com/business/google-shakes-up-ai-leaders... https://www.discoveryloop.com/ , https://news.ycombinator.com/item?id=49184960 https://twitter.com/JeffDean/status/2085034604172603724 , https://xcance…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html",
+      "title": "Four Top Google A.I. Researchers Form New Start-Up",
+      "slug": "2026-08-05-four-top-google-a-i-researchers-form-new-start-up.html",
+      "path": "posts/2026-08-05-four-top-google-a-i-researchers-form-new-start-up.html",
+      "date_iso": "2026-08-05T16:00:07+00:00",
+      "source": "https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html",
+      "summary": "Quoc V. Le, left, Oriol Vinyals, Jeff Dean and Sanjay Ghemawat are leaving Google to start a new A.I. company called Discovery Loop."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49182996",
+      "title": "Cloudflare OS: an open platform for agents, apps, and work",
+      "slug": "2026-08-05-cloudflare-os-an-open-platform-for-agents-apps-and-work.html",
+      "path": "posts/2026-08-05-cloudflare-os-an-open-platform-for-agents-apps-and-work.html",
+      "date_iso": "2026-08-05T13:58:53+00:00",
+      "source": "https://blog.cloudflare.com/cloudflare-os/",
+      "summary": "Article URL: https://blog.cloudflare.com/cloudflare-os/ Comments URL: https://news.ycombinator.com/item?id=49182996 Points: 556 # Comments: 265"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49181083",
+      "title": "Position: LLMs Can't Jump",
+      "slug": "2026-08-05-position-llms-can-t-jump.html",
+      "path": "posts/2026-08-05-position-llms-can-t-jump.html",
+      "date_iso": "2026-08-05T11:01:37+00:00",
+      "source": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+      "summary": "Article URL: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt Comments URL: https://news.ycombinator.com/item?id=49181083 Points: 274 # Comments: 182"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49178608",
       "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
       "slug": "2026-08-05-zero-mem-zero-token-memory-operations-for-llm-agents.html",
