@@ -1,6 +1,222 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49206130",
+      "title": "Framework discloses data breach via Metabase 0-day",
+      "slug": "2026-08-07-framework-discloses-data-breach-via-metabase-0-day.html",
+      "path": "posts/2026-08-07-framework-discloses-data-breach-via-metabase-0-day.html",
+      "date_iso": "2026-08-07T05:17:57+00:00",
+      "source": "https://community.frame.work/t/framework-data-breach-discussion/83939",
+      "summary": "Article URL: https://community.frame.work/t/framework-data-breach-discussion/83939 Comments URL: https://news.ycombinator.com/item?id=49206130 Points: 62 # Comments: 14"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/06/technology/meta-new-mexico-child-safety.html",
+      "title": "Meta Ordered to Pay $567 Million Fine by New Mexico Judge",
+      "slug": "2026-08-07-meta-ordered-to-pay-567-million-fine-by-new-mexico-judge.html",
+      "path": "posts/2026-08-07-meta-ordered-to-pay-567-million-fine-by-new-mexico-judge.html",
+      "date_iso": "2026-08-07T02:48:36+00:00",
+      "source": "https://www.nytimes.com/2026/08/06/technology/meta-new-mexico-child-safety.html",
+      "summary": "A New Mexico judge ordered Meta to pay $567 million and make changes to the way young people can use its platform"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49204546",
+      "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
+      "slug": "2026-08-07-new-orleans-is-testing-carbyne-s-ai-powered-emergency-call-triage-software.html",
+      "path": "posts/2026-08-07-new-orleans-is-testing-carbyne-s-ai-powered-emergency-call-triage-software.html",
+      "date_iso": "2026-08-07T00:37:30+00:00",
+      "source": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+      "summary": "Article URL: https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/ Comments URL: https://news.ycombinator.com/item?id=49204546 Points: 54 # Comments: 70"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/06/world/europe/french-streamers-kick-death-convicted.html",
+      "title": "French Streamers Convicted in Case Related to Kick Livestream Death",
+      "slug": "2026-08-07-french-streamers-convicted-in-case-related-to-kick-livestream-death.html",
+      "path": "posts/2026-08-07-french-streamers-convicted-in-case-related-to-kick-livestream-death.html",
+      "date_iso": "2026-08-07T00:17:47+00:00",
+      "source": "https://www.nytimes.com/2026/08/06/world/europe/french-streamers-kick-death-convicted.html",
+      "summary": "The two men, users of the platform Kick, received suspended sentences and fines."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49204352",
+      "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+      "slug": "2026-08-07-new-mexico-court-orders-meta-to-pay-567m-over-harms-to-children-s-mental-health.html",
+      "path": "posts/2026-08-07-new-mexico-court-orders-meta-to-pay-567m-over-harms-to-children-s-mental-health.html",
+      "date_iso": "2026-08-07T00:06:28+00:00",
+      "source": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+      "summary": "https://www.reuters.com/world/new-mexico-court-orders-meta-p... https://www.theguardian.com/technology/2026/aug/06/new-mexic... https://www.kob.com/new-mexico/nm-court-orders-meta-to-pay-5... https://www.bbc.com/news/articles/cd7lz3wr2rlo https://www.wsj.com/tech/meta-ordered-to…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/06/technology/personaltech/finance-stocks-apps.html",
+      "title": "Follow the Markets and Track Stocks With These Free Apps",
+      "slug": "2026-08-07-follow-the-markets-and-track-stocks-with-these-free-apps.html",
+      "path": "posts/2026-08-07-follow-the-markets-and-track-stocks-with-these-free-apps.html",
+      "date_iso": "2026-08-07T00:01:36+00:00",
+      "source": "https://www.nytimes.com/2026/08/06/technology/personaltech/finance-stocks-apps.html",
+      "summary": "Apple's free Stocks app for its devices provides a dashboard for following personal investments, markets and financial news."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49203707",
+      "title": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
+      "slug": "2026-08-06-spin-audit-of-sqd-qsci-quantum-chemistry-benchmarks-on-iron-sulfur-clusters.html",
+      "path": "posts/2026-08-06-spin-audit-of-sqd-qsci-quantum-chemistry-benchmarks-on-iron-sulfur-clusters.html",
+      "date_iso": "2026-08-06T22:50:09+00:00",
+      "source": "https://zenodo.org/records/21359923",
+      "summary": "Author here. Background, for anyone who hasn't followed this fight: IBM's iron–sulfur SQD results (Sci. Adv. 2025) are one of the flagship \"quantum computers are useful for chemistry now\" claims, and a published critique (arXiv:2501.07231) argues the quantum samples never beat c…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49203105",
+      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "slug": "2026-08-06-welcoming-the-nepalese-government-to-have-i-been-pwned.html",
+      "path": "posts/2026-08-06-welcoming-the-nepalese-government-to-have-i-been-pwned.html",
+      "date_iso": "2026-08-06T21:52:16+00:00",
+      "source": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+      "summary": "Article URL: https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/ Comments URL: https://news.ycombinator.com/item?id=49203105 Points: 144 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49202852",
+      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+      "slug": "2026-08-06-inside-vllm-anatomy-of-a-high-throughput-llm-inference-system-2025.html",
+      "path": "posts/2026-08-06-inside-vllm-anatomy-of-a-high-throughput-llm-inference-system-2025.html",
+      "date_iso": "2026-08-06T21:30:21+00:00",
+      "source": "https://www.aleksagordic.com/blog/vllm",
+      "summary": "Article URL: https://www.aleksagordic.com/blog/vllm Comments URL: https://news.ycombinator.com/item?id=49202852 Points: 96 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49202716",
+      "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
+      "slug": "2026-08-06-bioengineered-chewing-gum-may-offer-a-way-to-fight-hpv-and-other-microbes.html",
+      "path": "posts/2026-08-06-bioengineered-chewing-gum-may-offer-a-way-to-fight-hpv-and-other-microbes.html",
+      "date_iso": "2026-08-06T21:18:32+00:00",
+      "source": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+      "summary": "Article URL: https://www.sciencedaily.com/releases/2026/08/260803080917.htm Comments URL: https://news.ycombinator.com/item?id=49202716 Points: 113 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49202690",
+      "title": "What is a product?",
+      "slug": "2026-08-06-what-is-a-product.html",
+      "path": "posts/2026-08-06-what-is-a-product.html",
+      "date_iso": "2026-08-06T21:16:52+00:00",
+      "source": "https://roge.onwrite.app/what-is-a-product",
+      "summary": "Article URL: https://roge.onwrite.app/what-is-a-product Comments URL: https://news.ycombinator.com/item?id=49202690 Points: 31 # Comments: 12"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/06/technology/fcc-broadcast-tv-ownership.html",
+      "title": "F.C.C. Removes Limit on Broadcast TV Ownership",
+      "slug": "2026-08-06-f-c-c-removes-limit-on-broadcast-tv-ownership.html",
+      "path": "posts/2026-08-06-f-c-c-removes-limit-on-broadcast-tv-ownership.html",
+      "date_iso": "2026-08-06T20:56:19+00:00",
+      "source": "https://www.nytimes.com/2026/08/06/technology/fcc-broadcast-tv-ownership.html",
+      "summary": "Brendan Carr, the F.C.C. chairman, has investigated and threatened to revoke the television licenses of ABC, NBC and CBS as part of an aggressive campaign to combat what he sees as liberal bias in broadcast television."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49201970",
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "slug": "2026-08-06-amd-acquires-taalas-to-boost-inference-performance-by-etching-models-in-silicon.html",
+      "path": "posts/2026-08-06-amd-acquires-taalas-to-boost-inference-performance-by-etching-models-in-silicon.html",
+      "date_iso": "2026-08-06T20:23:11+00:00",
+      "source": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "summary": "https://ir.amd.com/news-events/press-releases/detail/1296/am... https://chatjimmy.ai/ Comments URL: https://news.ycombinator.com/item?id=49201970 Points: 620 # Comments: 462"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49201930",
+      "title": "Quake – 30th Anniversary Update",
+      "slug": "2026-08-06-quake-30th-anniversary-update.html",
+      "path": "posts/2026-08-06-quake-30th-anniversary-update.html",
+      "date_iso": "2026-08-06T20:21:19+00:00",
+      "source": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
+      "summary": "Article URL: https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update Comments URL: https://news.ycombinator.com/item?id=49201930 Points: 288 # Comments: 145"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49201003",
+      "title": "Herdr is joining Y Combinator. The runtime stays open",
+      "slug": "2026-08-06-herdr-is-joining-y-combinator-the-runtime-stays-open.html",
+      "path": "posts/2026-08-06-herdr-is-joining-y-combinator-the-runtime-stays-open.html",
+      "date_iso": "2026-08-06T19:14:21+00:00",
+      "source": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+      "summary": "Article URL: https://herdr.dev/blog/herdr-is-joining-y-combinator/ Comments URL: https://news.ycombinator.com/item?id=49201003 Points: 197 # Comments: 134"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49200439",
+      "title": "My phone detects going on a run as “someone snatching my phone and running off”",
+      "slug": "2026-08-06-my-phone-detects-going-on-a-run-as-someone-snatching-my-phone-and-running-off.html",
+      "path": "posts/2026-08-06-my-phone-detects-going-on-a-run-as-someone-snatching-my-phone-and-running-off.html",
+      "date_iso": "2026-08-06T18:26:08+00:00",
+      "source": "https://mastodon.gamedev.place/@rygorous/117047697255584965",
+      "summary": "Article URL: https://mastodon.gamedev.place/@rygorous/117047697255584965 Comments URL: https://news.ycombinator.com/item?id=49200439 Points: 133 # Comments: 228"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49199357",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+      "slug": "2026-08-06-improving-gpt-5-6-sol-in-chatgpt-expanding-gpt-5-6-luna-access-for-free-users.html",
+      "path": "posts/2026-08-06-improving-gpt-5-6-sol-in-chatgpt-expanding-gpt-5-6-luna-access-for-free-users.html",
+      "date_iso": "2026-08-06T17:02:04+00:00",
+      "source": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+      "summary": "Article URL: https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49199357 Points: 224 # Comments: 168"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49199346",
+      "title": "Taste Is All That's Left",
+      "slug": "2026-08-06-taste-is-all-that-s-left.html",
+      "path": "posts/2026-08-06-taste-is-all-that-s-left.html",
+      "date_iso": "2026-08-06T17:01:33+00:00",
+      "source": "https://notashelf.dev/posts/taste-is-all-thats-left",
+      "summary": "Article URL: https://notashelf.dev/posts/taste-is-all-thats-left Comments URL: https://news.ycombinator.com/item?id=49199346 Points: 388 # Comments: 282"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49198583",
+      "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
+      "slug": "2026-08-06-show-hn-the-channels-sdk-bring-any-agent-to-any-channel-slack-ms-teams.html",
+      "path": "posts/2026-08-06-show-hn-the-channels-sdk-bring-any-agent-to-any-channel-slack-ms-teams.html",
+      "date_iso": "2026-08-06T16:05:51+00:00",
+      "source": "https://github.com/CopilotKit/channels-sdk",
+      "summary": "Article URL: https://github.com/CopilotKit/channels-sdk Comments URL: https://news.ycombinator.com/item?id=49198583 Points: 101 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49198464",
+      "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+      "slug": "2026-08-06-launch-hn-provenmetal-yc-s26-delivers-circuit-boards-in-days-instead-of-weeks.html",
+      "path": "posts/2026-08-06-launch-hn-provenmetal-yc-s26-delivers-circuit-boards-in-days-instead-of-weeks.html",
+      "date_iso": "2026-08-06T15:59:15+00:00",
+      "source": "https://provenmetal.com",
+      "summary": "Hey HN, we’re Will & Johnny from ProvenMetal ( https://provenmetal.com ). You send us design files or specs and we give you assembled boards domestically in days. The US produced 30% of PCBs globally in 2000, now they produce 4%. Chinese manufacturers have completely dominated t…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49198302",
+      "title": "GitHub Actions and Pages are experiencing degraded availability",
+      "slug": "2026-08-06-github-actions-and-pages-are-experiencing-degraded-availability.html",
+      "path": "posts/2026-08-06-github-actions-and-pages-are-experiencing-degraded-availability.html",
+      "date_iso": "2026-08-06T15:49:38+00:00",
+      "source": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+      "summary": "https://www.githubstatus.com/uptime/br0l2tvcx85d Comments URL: https://news.ycombinator.com/item?id=49198302 Points: 388 # Comments: 310"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html",
+      "title": "China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots",
+      "slug": "2026-08-06-china-s-unitree-prices-ipo-in-bet-investors-are-ready-for-humanoid-robots.html",
+      "path": "posts/2026-08-06-china-s-unitree-prices-ipo-in-bet-investors-are-ready-for-humanoid-robots.html",
+      "date_iso": "2026-08-06T14:51:22+00:00",
+      "source": "https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html",
+      "summary": "Unitree Robotics wants to raise about $900 million in an I.P.O. that tests market interest in humanoid robots, a technology that wows but has yet to prove its viability."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49195468",
+      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+      "slug": "2026-08-06-humans-missed-1-in-3-threats-approving-ai-agent-commands-across-40k-game-runs.html",
+      "path": "posts/2026-08-06-humans-missed-1-in-3-threats-approving-ai-agent-commands-across-40k-game-runs.html",
+      "date_iso": "2026-08-06T11:58:07+00:00",
+      "source": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+      "summary": "Article URL: https://scalex.dev/blog/ai-agent-permissions-stats/ Comments URL: https://news.ycombinator.com/item?id=49195468 Points: 293 # Comments: 207"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49195231",
+      "title": "Mario Meets Pareto",
+      "slug": "2026-08-06-mario-meets-pareto.html",
+      "path": "posts/2026-08-06-mario-meets-pareto.html",
+      "date_iso": "2026-08-06T11:24:53+00:00",
+      "source": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+      "summary": "Article URL: https://www.mayerowitz.io/blog/mario-meets-pareto Comments URL: https://news.ycombinator.com/item?id=49195231 Points: 1027 # Comments: 156"
+    },
+    {
       "id": "https://www.nytimes.com/2026/08/06/technology/personaltech/carry-wall-street-in-your-pocket-with-these-free-apps.html",
       "title": "Follow the Markets and Track Stocks With These Free Apps",
       "slug": "2026-08-06-follow-the-markets-and-track-stocks-with-these-free-apps.html",
@@ -206,6 +422,15 @@
       "date_iso": "2026-08-05T16:00:07+00:00",
       "source": "https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html",
       "summary": "Quoc V. Le, left, Oriol Vinyals, Jeff Dean and Sanjay Ghemawat are leaving Google to start a new A.I. company called Discovery Loop."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49184355",
+      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
+      "slug": "2026-08-05-scientists-discover-kelvin-helmholtz-instability-on-the-surface-of-the-sun.html",
+      "path": "posts/2026-08-05-scientists-discover-kelvin-helmholtz-instability-on-the-surface-of-the-sun.html",
+      "date_iso": "2026-08-05T15:33:23+00:00",
+      "source": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+      "summary": "https://www.bbc.com/news/articles/c36d4376nd2o , https://archive.is/YDn6S Comments URL: https://news.ycombinator.com/item?id=49184355 Points: 213 # Comments: 44"
     },
     {
       "id": "https://news.ycombinator.com/item?id=49182996",
