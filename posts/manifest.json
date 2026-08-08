@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49219508",
+      "title": "Hardware backdoors in some x86 CPUs",
+      "slug": "2026-08-08-hardware-backdoors-in-some-x86-cpus.html",
+      "path": "posts/2026-08-08-hardware-backdoors-in-some-x86-cpus.html",
+      "date_iso": "2026-08-08T07:04:51+00:00",
+      "source": "https://github.com/xoreaxeaxeax/rosenbridge",
+      "summary": "Article URL: https://github.com/xoreaxeaxeax/rosenbridge Comments URL: https://news.ycombinator.com/item?id=49219508 Points: 8 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49218707",
+      "title": "Mythos social engineering AISI INC-2026-07-28-01",
+      "slug": "2026-08-08-mythos-social-engineering-aisi-inc-2026-07-28-01.html",
+      "path": "posts/2026-08-08-mythos-social-engineering-aisi-inc-2026-07-28-01.html",
+      "date_iso": "2026-08-08T03:41:56+00:00",
+      "source": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
+      "summary": "Article URL: https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3 Comments URL: https://news.ycombinator.com/item?id=49218707 Points: 50 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49218179",
+      "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
+      "slug": "2026-08-08-nasa-figured-out-how-to-keep-its-voyager-2-probe-running-for-another-year.html",
+      "path": "posts/2026-08-08-nasa-figured-out-how-to-keep-its-voyager-2-probe-running-for-another-year.html",
+      "date_iso": "2026-08-08T01:49:11+00:00",
+      "source": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+      "summary": "Article URL: https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year Comments URL: https://news.ycombinator.com/item?id=49218179 Points: 207 # Comments: 35"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49217993",
+      "title": "The Nixpkgs core team has disbanded",
+      "slug": "2026-08-08-the-nixpkgs-core-team-has-disbanded.html",
+      "path": "posts/2026-08-08-the-nixpkgs-core-team-has-disbanded.html",
+      "date_iso": "2026-08-08T01:12:45+00:00",
+      "source": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+      "summary": "Article URL: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413 Comments URL: https://news.ycombinator.com/item?id=49217993 Points: 271 # Comments: 125"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49216946",
+      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+      "slug": "2026-08-07-u-s-department-of-energy-launches-the-genesis-open-models-initiative.html",
+      "path": "posts/2026-08-07-u-s-department-of-energy-launches-the-genesis-open-models-initiative.html",
+      "date_iso": "2026-08-07T22:24:27+00:00",
+      "source": "https://genesisopenmodels.anl.gov/",
+      "summary": "Article URL: https://genesisopenmodels.anl.gov/ Comments URL: https://news.ycombinator.com/item?id=49216946 Points: 209 # Comments: 68"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49216362",
+      "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
+      "slug": "2026-08-07-water-system-controllers-don-t-belong-on-the-internet-says-ex-nsa-chief.html",
+      "path": "posts/2026-08-07-water-system-controllers-don-t-belong-on-the-internet-says-ex-nsa-chief.html",
+      "date_iso": "2026-08-07T21:19:57+00:00",
+      "source": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+      "summary": "Article URL: https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070 Comments URL: https://news.ycombinator.com/item?id=49216362 Points: 180 # Comments: 115"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49214775",
+      "title": "Psychological Warfare in Reverse Engineering (2015)",
+      "slug": "2026-08-07-psychological-warfare-in-reverse-engineering-2015.html",
+      "path": "posts/2026-08-07-psychological-warfare-in-reverse-engineering-2015.html",
+      "date_iso": "2026-08-07T18:51:45+00:00",
+      "source": "https://github.com/xoreaxeaxeax/repsych",
+      "summary": "Article URL: https://github.com/xoreaxeaxeax/repsych Comments URL: https://news.ycombinator.com/item?id=49214775 Points: 65 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49214770",
+      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+      "slug": "2026-08-07-ancient-library-1-060-greek-latin-texts-click-any-word-to-parse-it.html",
+      "path": "posts/2026-08-07-ancient-library-1-060-greek-latin-texts-click-any-word-to-parse-it.html",
+      "date_iso": "2026-08-07T18:51:14+00:00",
+      "source": "https://ancientlibrary.net/",
+      "summary": "Article URL: https://ancientlibrary.net/ Comments URL: https://news.ycombinator.com/item?id=49214770 Points: 196 # Comments: 58"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49214468",
+      "title": "Managing AI Coding Costs at Scale",
+      "slug": "2026-08-07-managing-ai-coding-costs-at-scale.html",
+      "path": "posts/2026-08-07-managing-ai-coding-costs-at-scale.html",
+      "date_iso": "2026-08-07T18:25:17+00:00",
+      "source": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "summary": "Article URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale Comments URL: https://news.ycombinator.com/item?id=49214468 Points: 221 # Comments: 196"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49214098",
+      "title": "Assembly Hall of Shame",
+      "slug": "2026-08-07-assembly-hall-of-shame.html",
+      "path": "posts/2026-08-07-assembly-hall-of-shame.html",
+      "date_iso": "2026-08-07T18:01:30+00:00",
+      "source": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "summary": "Article URL: https://github.com/xoreaxeaxeax/asm-hall-of-shame Comments URL: https://news.ycombinator.com/item?id=49214098 Points: 322 # Comments: 80"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49214008",
+      "title": "DeepSeek V4 Flash 0731",
+      "slug": "2026-08-07-deepseek-v4-flash-0731.html",
+      "path": "posts/2026-08-07-deepseek-v4-flash-0731.html",
+      "date_iso": "2026-08-07T17:56:20+00:00",
+      "source": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "summary": "Article URL: https://arcprize.org/results/deepseek-v4-flash-0731 Comments URL: https://news.ycombinator.com/item?id=49214008 Points: 587 # Comments: 351"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49213754",
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "slug": "2026-08-07-oracle-bans-ai-generated-code-from-openjdk.html",
+      "path": "posts/2026-08-07-oracle-bans-ai-generated-code-from-openjdk.html",
+      "date_iso": "2026-08-07T17:36:30+00:00",
+      "source": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "summary": "Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code Comments URL: https://news.ycombinator.com/item?id=49213754 Points: 449 # Comments: 308"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49213029",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "slug": "2026-08-07-responding-to-the-next-frontier-of-critical-cyber-capabilities.html",
+      "path": "posts/2026-08-07-responding-to-the-next-frontier-of-critical-cyber-capabilities.html",
+      "date_iso": "2026-08-07T16:39:36+00:00",
+      "source": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+      "summary": "Article URL: https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/ Comments URL: https://news.ycombinator.com/item?id=49213029 Points: 178 # Comments: 174"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49211921",
+      "title": "An all-sky map of half a million supermassive black holes",
+      "slug": "2026-08-07-an-all-sky-map-of-half-a-million-supermassive-black-holes.html",
+      "path": "posts/2026-08-07-an-all-sky-map-of-half-a-million-supermassive-black-holes.html",
+      "date_iso": "2026-08-07T15:24:53+00:00",
+      "source": "https://www.sdss.org/black-hole-mapper-release-20/",
+      "summary": "Article URL: https://www.sdss.org/black-hole-mapper-release-20/ Comments URL: https://news.ycombinator.com/item?id=49211921 Points: 161 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49211660",
+      "title": "Möbius-Strip Crosswords",
+      "slug": "2026-08-07-m-bius-strip-crosswords.html",
+      "path": "posts/2026-08-07-m-bius-strip-crosswords.html",
+      "date_iso": "2026-08-07T15:10:34+00:00",
+      "source": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
+      "summary": "Article URL: https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/ Comments URL: https://news.ycombinator.com/item?id=49211660 Points: 68 # Comments: 10"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/07/podcasts/hardfork-white-house-secret-rules.html",
+      "title": "The White House’s Secret A.I. Rules + The State of Model Alignment With METR’s Chris Painter + The Final Hot Mess Express",
+      "slug": "2026-08-07-the-white-house-s-secret-a-i-rules-the-state-of-model-alignment-with-metr-s-chris-painter-the-final-hot-mess-express.html",
+      "path": "posts/2026-08-07-the-white-house-s-secret-a-i-rules-the-state-of-model-alignment-with-metr-s-chris-painter-the-final-hot-mess-express.html",
+      "date_iso": "2026-08-07T14:11:57+00:00",
+      "source": "https://www.nytimes.com/2026/08/07/podcasts/hardfork-white-house-secret-rules.html",
+      "summary": "A few details from the White House’s A.I. plan have leaked to the news media, but the administration has officially communicated almost nothing."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49209572",
+      "title": "Radical Study Suggests Life on Earth Arose Twice",
+      "slug": "2026-08-07-radical-study-suggests-life-on-earth-arose-twice.html",
+      "path": "posts/2026-08-07-radical-study-suggests-life-on-earth-arose-twice.html",
+      "date_iso": "2026-08-07T12:45:08+00:00",
+      "source": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
+      "summary": "Article URL: https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice Comments URL: https://news.ycombinator.com/item?id=49209572 Points: 136 # Comments: 96"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49209539",
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "slug": "2026-08-07-what-happens-if-an-entire-class-of-workers-loses-faith-in-their-careers.html",
+      "path": "posts/2026-08-07-what-happens-if-an-entire-class-of-workers-loses-faith-in-their-careers.html",
+      "date_iso": "2026-08-07T12:42:27+00:00",
+      "source": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "summary": "Article URL: https://www.noemamag.com/why-is-everyone-in-tech-so-sad/ Comments URL: https://news.ycombinator.com/item?id=49209539 Points: 583 # Comments: 667"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49209385",
+      "title": "Show HN: Wyzer Programming Language",
+      "slug": "2026-08-07-show-hn-wyzer-programming-language.html",
+      "path": "posts/2026-08-07-show-hn-wyzer-programming-language.html",
+      "date_iso": "2026-08-07T12:28:55+00:00",
+      "source": "https://github.com/Wyzer-Lang/wyzer",
+      "summary": "So i've been working on this project since a few days (or months i should say), it's called wyzer (meaning wiser) it's a statically typed, compiled, resource-oriented programming language with integrated distributed safety via choreographic programming and perceus memory model,…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49208535",
+      "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+      "slug": "2026-08-07-making-postgres-300x-faster-for-analytics-batching-operator-fusion-and-simd.html",
+      "path": "posts/2026-08-07-making-postgres-300x-faster-for-analytics-batching-operator-fusion-and-simd.html",
+      "date_iso": "2026-08-07T11:00:35+00:00",
+      "source": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+      "summary": "Article URL: https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/ Comments URL: https://news.ycombinator.com/item?id=49208535 Points: 275 # Comments: 136"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49208393",
+      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+      "slug": "2026-08-07-kitesurf-agent-first-browser-that-runs-in-v8-isolates.html",
+      "path": "posts/2026-08-07-kitesurf-agent-first-browser-that-runs-in-v8-isolates.html",
+      "date_iso": "2026-08-07T10:42:07+00:00",
+      "source": "https://blog.cloudflare.com/kitesurf/",
+      "summary": "Article URL: https://blog.cloudflare.com/kitesurf/ Comments URL: https://news.ycombinator.com/item?id=49208393 Points: 185 # Comments: 49"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49206130",
       "title": "Framework discloses data breach via Metabase 0-day",
       "slug": "2026-08-07-framework-discloses-data-breach-via-metabase-0-day.html",
