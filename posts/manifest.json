@@ -1,6 +1,249 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49253721",
+      "title": "Show HN: Mcptoon – Token-efficient MCP CLI client",
+      "slug": "2026-08-11-show-hn-mcptoon-token-efficient-mcp-cli-client.html",
+      "path": "posts/2026-08-11-show-hn-mcptoon-token-efficient-mcp-cli-client.html",
+      "date_iso": "2026-08-11T05:26:58+00:00",
+      "source": "https://github.com/activeing123/mcptoon",
+      "summary": "Article URL: https://github.com/activeing123/mcptoon Comments URL: https://news.ycombinator.com/item?id=49253721 Points: 33 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49252493",
+      "title": "Hyperspace",
+      "slug": "2026-08-11-hyperspace.html",
+      "path": "posts/2026-08-11-hyperspace.html",
+      "date_iso": "2026-08-11T02:04:35+00:00",
+      "source": "https://hypercritical.co/hyperspace/",
+      "summary": "Article URL: https://hypercritical.co/hyperspace/ Comments URL: https://news.ycombinator.com/item?id=49252493 Points: 65 # Comments: 46"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49252462",
+      "title": "Recycle – Floppydisks",
+      "slug": "2026-08-11-recycle-floppydisks.html",
+      "path": "posts/2026-08-11-recycle-floppydisks.html",
+      "date_iso": "2026-08-11T02:01:01+00:00",
+      "source": "https://www.floppydisk.com/recycle",
+      "summary": "Article URL: https://www.floppydisk.com/recycle Comments URL: https://news.ycombinator.com/item?id=49252462 Points: 53 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49252179",
+      "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
+      "slug": "2026-08-11-h3-metal-native-minimax-h3-inference-for-apple-silicon.html",
+      "path": "posts/2026-08-11-h3-metal-native-minimax-h3-inference-for-apple-silicon.html",
+      "date_iso": "2026-08-11T01:22:09+00:00",
+      "source": "https://github.com/antirez/h3.c",
+      "summary": "Article URL: https://github.com/antirez/h3.c Comments URL: https://news.ycombinator.com/item?id=49252179 Points: 220 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49251702",
+      "title": "Chicken Scheme 6.0",
+      "slug": "2026-08-11-chicken-scheme-6-0.html",
+      "path": "posts/2026-08-11-chicken-scheme-6-0.html",
+      "date_iso": "2026-08-11T00:24:15+00:00",
+      "source": "https://code.call-cc.org/releases/6.0.0/NEWS",
+      "summary": "Article URL: https://code.call-cc.org/releases/6.0.0/NEWS Comments URL: https://news.ycombinator.com/item?id=49251702 Points: 166 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49251411",
+      "title": "The UK's war on anonymity has come to America",
+      "slug": "2026-08-10-the-uk-s-war-on-anonymity-has-come-to-america.html",
+      "path": "posts/2026-08-10-the-uk-s-war-on-anonymity-has-come-to-america.html",
+      "date_iso": "2026-08-10T23:45:50+00:00",
+      "source": "https://www.effort.news/uk-lobby",
+      "summary": "Article URL: https://www.effort.news/uk-lobby Comments URL: https://news.ycombinator.com/item?id=49251411 Points: 461 # Comments: 343"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49251179",
+      "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+      "slug": "2026-08-10-show-hn-scroll-through-all-43252003274489856000-rubik-s-cube-states.html",
+      "path": "posts/2026-08-10-show-hn-scroll-through-all-43252003274489856000-rubik-s-cube-states.html",
+      "date_iso": "2026-08-10T23:16:25+00:00",
+      "source": "https://everycube.alen.is/",
+      "summary": "Article URL: https://everycube.alen.is/ Comments URL: https://news.ycombinator.com/item?id=49251179 Points: 169 # Comments: 55"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49250836",
+      "title": "As AI eats the web, the internet’s collective memory is disappearing",
+      "slug": "2026-08-10-as-ai-eats-the-web-the-internet-s-collective-memory-is-disappearing.html",
+      "path": "posts/2026-08-10-as-ai-eats-the-web-the-internet-s-collective-memory-is-disappearing.html",
+      "date_iso": "2026-08-10T22:36:30+00:00",
+      "source": "https://thewalrus.ca/google-search-is-dying/",
+      "summary": "Article URL: https://thewalrus.ca/google-search-is-dying/ Comments URL: https://news.ycombinator.com/item?id=49250836 Points: 194 # Comments: 181"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49250109",
+      "title": "How Claude marks AI-generated content",
+      "slug": "2026-08-10-how-claude-marks-ai-generated-content.html",
+      "path": "posts/2026-08-10-how-claude-marks-ai-generated-content.html",
+      "date_iso": "2026-08-10T21:36:56+00:00",
+      "source": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+      "summary": "Article URL: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content Comments URL: https://news.ycombinator.com/item?id=49250109 Points: 141 # Comments: 100"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49249555",
+      "title": "Confessions of a Long-Distance Sailor",
+      "slug": "2026-08-10-confessions-of-a-long-distance-sailor.html",
+      "path": "posts/2026-08-10-confessions-of-a-long-distance-sailor.html",
+      "date_iso": "2026-08-10T20:52:55+00:00",
+      "source": "https://arachnoid.com/lutusp/sailbook.html",
+      "summary": "Article URL: https://arachnoid.com/lutusp/sailbook.html Comments URL: https://news.ycombinator.com/item?id=49249555 Points: 103 # Comments: 29"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/10/technology/waymo-expansion-edge-cases.html",
+      "title": "Waymo Is Growing Faster Than Ever. So Are Its ‘Edge Cases.’",
+      "slug": "2026-08-10-waymo-is-growing-faster-than-ever-so-are-its-edge-cases.html",
+      "path": "posts/2026-08-10-waymo-is-growing-faster-than-ever-so-are-its-edge-cases.html",
+      "date_iso": "2026-08-10T20:37:37+00:00",
+      "source": "https://www.nytimes.com/2026/08/10/technology/waymo-expansion-edge-cases.html",
+      "summary": "Waymo driverless cars are in San Francisco and 14 other metropolitan areas, including Denver, Las Vegas, San Diego and Tampa."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html",
+      "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.",
+      "slug": "2026-08-10-flock-cameras-can-track-every-car-in-america-police-love-them-citizens-don-t.html",
+      "path": "posts/2026-08-10-flock-cameras-can-track-every-car-in-america-police-love-them-citizens-don-t.html",
+      "date_iso": "2026-08-10T20:04:24+00:00",
+      "source": "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html",
+      "summary": "A Flock Safety license plate reader in Addison, Texas — one of 120,000 cameras the country has deployed around the country."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49247477",
+      "title": "Rust SIMD on the GPU",
+      "slug": "2026-08-10-rust-simd-on-the-gpu.html",
+      "path": "posts/2026-08-10-rust-simd-on-the-gpu.html",
+      "date_iso": "2026-08-10T18:12:49+00:00",
+      "source": "https://www.vectorware.com/blog/simd-on-gpu/",
+      "summary": "Article URL: https://www.vectorware.com/blog/simd-on-gpu/ Comments URL: https://news.ycombinator.com/item?id=49247477 Points: 175 # Comments: 86"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html",
+      "title": "Meta Unveils an Open Version of Its Most Powerful A.I. Model",
+      "slug": "2026-08-10-meta-unveils-an-open-version-of-its-most-powerful-a-i-model.html",
+      "path": "posts/2026-08-10-meta-unveils-an-open-version-of-its-most-powerful-a-i-model.html",
+      "date_iso": "2026-08-10T18:00:55+00:00",
+      "source": "https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html",
+      "summary": "The release of Muse Glimmer, a model that can be freely downloaded and modified, is likely to intensify a debate over whether A.I. should be restricted."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49247070",
+      "title": "Learning more about Claude's mathematical capabilities",
+      "slug": "2026-08-10-learning-more-about-claude-s-mathematical-capabilities.html",
+      "path": "posts/2026-08-10-learning-more-about-claude-s-mathematical-capabilities.html",
+      "date_iso": "2026-08-10T17:41:13+00:00",
+      "source": "https://www.anthropic.com/research/riemann-zeta",
+      "summary": "Article URL: https://www.anthropic.com/research/riemann-zeta Comments URL: https://news.ycombinator.com/item?id=49247070 Points: 185 # Comments: 125"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49246804",
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "slug": "2026-08-10-show-hn-needle2-14mb-agentic-llm-for-phones-wearables-smart-home-and-robots.html",
+      "path": "posts/2026-08-10-show-hn-needle2-14mb-agentic-llm-for-phones-wearables-smart-home-and-robots.html",
+      "date_iso": "2026-08-10T17:22:07+00:00",
+      "source": "https://cactuscompute.com/needle",
+      "summary": "Hey HN, Henry from Cactus here! We previously released Cactus Needle, a 14MB agentic LLM for tool call, device use, and structured extraction for phones, wearables, smart homes, small robots and microcontrollers. We got really great feedback here, and have now incorporated the s…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49245936",
+      "title": "What's the best programming language for coding agents?",
+      "slug": "2026-08-10-what-s-the-best-programming-language-for-coding-agents.html",
+      "path": "posts/2026-08-10-what-s-the-best-programming-language-for-coding-agents.html",
+      "date_iso": "2026-08-10T16:28:58+00:00",
+      "source": "http://danluu.com/pl-tokens/",
+      "summary": "Related: Which programming languages are most token-efficient? - https://news.ycombinator.com/item?id=46582728 - Jan 2026 (91 comments) Comments URL: https://news.ycombinator.com/item?id=49245936 Points: 158 # Comments: 105"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49245491",
+      "title": "Exploiting System Management Mode with a very long interrupt",
+      "slug": "2026-08-10-exploiting-system-management-mode-with-a-very-long-interrupt.html",
+      "path": "posts/2026-08-10-exploiting-system-management-mode-with-a-very-long-interrupt.html",
+      "date_iso": "2026-08-10T16:03:14+00:00",
+      "source": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
+      "summary": "Article URL: https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii Comments URL: https://news.ycombinator.com/item?id=49245491 Points: 155 # Comments: 58"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49245437",
+      "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
+      "slug": "2026-08-10-show-hn-ante-a-coding-agent-in-a-single-binary-that-runs-offline.html",
+      "path": "posts/2026-08-10-show-hn-ante-a-coding-agent-in-a-single-binary-that-runs-offline.html",
+      "date_iso": "2026-08-10T15:59:23+00:00",
+      "source": "https://github.com/AntigmaLabs/ante",
+      "summary": "Article URL: https://github.com/AntigmaLabs/ante Comments URL: https://news.ycombinator.com/item?id=49245437 Points: 130 # Comments: 78"
+    },
+    {
+      "id": "https://www.nytimes.com/article/flock-safety-camera-technology.html",
+      "title": "Why Are So Many People Upset About Flock Cameras?",
+      "slug": "2026-08-10-why-are-so-many-people-upset-about-flock-cameras.html",
+      "path": "posts/2026-08-10-why-are-so-many-people-upset-about-flock-cameras.html",
+      "date_iso": "2026-08-10T15:58:27+00:00",
+      "source": "https://www.nytimes.com/article/flock-safety-camera-technology.html",
+      "summary": "A Flock Security camera in Addison, Texas."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49245023",
+      "title": "Mars Bar from 1991 found – and it's 20g bigger than today's",
+      "slug": "2026-08-10-mars-bar-from-1991-found-and-it-s-20g-bigger-than-today-s.html",
+      "path": "posts/2026-08-10-mars-bar-from-1991-found-and-it-s-20g-bigger-than-today-s.html",
+      "date_iso": "2026-08-10T15:32:04+00:00",
+      "source": "https://www.bbc.com/news/articles/c1j1kjy7gewo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c1j1kjy7gewo Comments URL: https://news.ycombinator.com/item?id=49245023 Points: 339 # Comments: 496"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49244029",
+      "title": "Show HN: Open-Source Greptile Alternative",
+      "slug": "2026-08-10-show-hn-open-source-greptile-alternative.html",
+      "path": "posts/2026-08-10-show-hn-open-source-greptile-alternative.html",
+      "date_iso": "2026-08-10T14:17:13+00:00",
+      "source": "https://github.com/Juror-AI/juror",
+      "summary": "Article URL: https://github.com/Juror-AI/juror Comments URL: https://news.ycombinator.com/item?id=49244029 Points: 6 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49243880",
+      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "slug": "2026-08-10-mark-zuckerberg-attacks-closed-ai-rivals-as-meta-returns-to-open-models.html",
+      "path": "posts/2026-08-10-mark-zuckerberg-attacks-closed-ai-rivals-as-meta-returns-to-open-models.html",
+      "date_iso": "2026-08-10T14:06:22+00:00",
+      "source": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+      "summary": "https://archive.is/20LOJ https://www.meta.com/thefutureisforeveryone/ Comments URL: https://news.ycombinator.com/item?id=49243880 Points: 487 # Comments: 445"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49243474",
+      "title": "Humanising LLM Outputs Is Dumb",
+      "slug": "2026-08-10-humanising-llm-outputs-is-dumb.html",
+      "path": "posts/2026-08-10-humanising-llm-outputs-is-dumb.html",
+      "date_iso": "2026-08-10T13:35:40+00:00",
+      "source": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+      "summary": "Article URL: https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb Comments URL: https://news.ycombinator.com/item?id=49243474 Points: 202 # Comments: 132"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/10/travel/ai-travel-savings.html",
+      "title": "Can A.I. Get You Where You Want to Go for Less?",
+      "slug": "2026-08-10-can-a-i-get-you-where-you-want-to-go-for-less.html",
+      "path": "posts/2026-08-10-can-a-i-get-you-where-you-want-to-go-for-less.html",
+      "date_iso": "2026-08-10T11:24:07+00:00",
+      "source": "https://www.nytimes.com/2026/08/10/travel/ai-travel-savings.html",
+      "summary": "A wave of new services uses A.I. to monitor flights and hotel reservations to help you find lower prices. We look at how these tools work."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/10/technology/memory-chip-shortage-ai.html",
+      "title": "A.I.-Driven Chip Crunch Leads to New Rush of Lobbying in Washington",
+      "slug": "2026-08-10-a-i-driven-chip-crunch-leads-to-new-rush-of-lobbying-in-washington.html",
+      "path": "posts/2026-08-10-a-i-driven-chip-crunch-leads-to-new-rush-of-lobbying-in-washington.html",
+      "date_iso": "2026-08-10T09:02:19+00:00",
+      "source": "https://www.nytimes.com/2026/08/10/technology/memory-chip-shortage-ai.html",
+      "summary": "As data centers gobble up memory chips, other industries that need the components, including electronics companies like Apple and medical device makers, are asking for government help."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/10/arts/vhs-dates-instagram-tapes.html",
+      "title": "The Surprising Truth About Instagram’s VHS Dates Videos",
+      "slug": "2026-08-10-the-surprising-truth-about-instagram-s-vhs-dates-videos.html",
+      "path": "posts/2026-08-10-the-surprising-truth-about-instagram-s-vhs-dates-videos.html",
+      "date_iso": "2026-08-10T09:00:29+00:00",
+      "source": "https://www.nytimes.com/2026/08/10/arts/vhs-dates-instagram-tapes.html",
+      "summary": "VHS Dates advertises itself as resurfacing lost dating service videotapes from the 1980s. The account’s followers have been genuinely touched."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49239751",
       "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
       "slug": "2026-08-10-docker-sandboxes-disposable-isolated-sandboxes-for-ai-agents.html",
