@@ -1,6 +1,222 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49268697",
+      "title": "AI agent hacks gym to get its user a spot in pilates class",
+      "slug": "2026-08-12-ai-agent-hacks-gym-to-get-its-user-a-spot-in-pilates-class.html",
+      "path": "posts/2026-08-12-ai-agent-hacks-gym-to-get-its-user-a-spot-in-pilates-class.html",
+      "date_iso": "2026-08-12T06:53:17+00:00",
+      "source": "https://www.bbc.com/news/articles/cn0nww2qlp7o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cn0nww2qlp7o Comments URL: https://news.ycombinator.com/item?id=49268697 Points: 23 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49268564",
+      "title": "LinkedIn CringeBot 3000",
+      "slug": "2026-08-12-linkedin-cringebot-3000.html",
+      "path": "posts/2026-08-12-linkedin-cringebot-3000.html",
+      "date_iso": "2026-08-12T06:30:49+00:00",
+      "source": "https://www.cringebot3000.com/",
+      "summary": "Article URL: https://www.cringebot3000.com/ Comments URL: https://news.ycombinator.com/item?id=49268564 Points: 12 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49267928",
+      "title": "llama.cpp",
+      "slug": "2026-08-12-llama-cpp.html",
+      "path": "posts/2026-08-12-llama-cpp.html",
+      "date_iso": "2026-08-12T04:51:59+00:00",
+      "source": "https://llama.app",
+      "summary": "Article URL: https://llama.app Comments URL: https://news.ycombinator.com/item?id=49267928 Points: 154 # Comments: 71"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49267818",
+      "title": "Dropbox is an obvious PE Target?",
+      "slug": "2026-08-12-dropbox-is-an-obvious-pe-target.html",
+      "path": "posts/2026-08-12-dropbox-is-an-obvious-pe-target.html",
+      "date_iso": "2026-08-12T04:30:34+00:00",
+      "source": "https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/",
+      "summary": "Article URL: https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/ Comments URL: https://news.ycombinator.com/item?id=49267818 Points: 48 # Comments: 68"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49267527",
+      "title": "DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio",
+      "slug": "2026-08-12-darpa-heavy-lift-challenge-ends-with-winner-at-a-3-84-1-payload-to-weight-ratio.html",
+      "path": "posts/2026-08-12-darpa-heavy-lift-challenge-ends-with-winner-at-a-3-84-1-payload-to-weight-ratio.html",
+      "date_iso": "2026-08-12T03:27:31+00:00",
+      "source": "https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/",
+      "summary": "Article URL: https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/ Comments URL: https://news.ycombinator.com/item?id=49267527 Points: 29 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49267108",
+      "title": "The Human Is the Loop",
+      "slug": "2026-08-12-the-human-is-the-loop.html",
+      "path": "posts/2026-08-12-the-human-is-the-loop.html",
+      "date_iso": "2026-08-12T02:15:01+00:00",
+      "source": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
+      "summary": "Article URL: https://brentfitzgerald.com/posts/the-human-is-the-loop/ Comments URL: https://news.ycombinator.com/item?id=49267108 Points: 85 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49266921",
+      "title": "The lifesaving secret hidden inside a horseshoe crab's blue blood",
+      "slug": "2026-08-12-the-lifesaving-secret-hidden-inside-a-horseshoe-crab-s-blue-blood.html",
+      "path": "posts/2026-08-12-the-lifesaving-secret-hidden-inside-a-horseshoe-crab-s-blue-blood.html",
+      "date_iso": "2026-08-12T01:45:51+00:00",
+      "source": "https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/",
+      "summary": "Article URL: https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/ Comments URL: https://news.ycombinator.com/item?id=49266921 Points: 75 # Comments: 20"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/11/technology/brad-lightcap-openai.html",
+      "title": "Brad Lightcap, a Top OpenAI Executive, Steps Down",
+      "slug": "2026-08-11-brad-lightcap-a-top-openai-executive-steps-down.html",
+      "path": "posts/2026-08-11-brad-lightcap-a-top-openai-executive-steps-down.html",
+      "date_iso": "2026-08-11T22:07:23+00:00",
+      "source": "https://www.nytimes.com/2026/08/11/technology/brad-lightcap-openai.html",
+      "summary": "Brad Lightcap, who was OpenAI’s chief operating officer until April, joined the company in 2018."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49265051",
+      "title": "WorldClaw Agentic 3D open-world generation at scale",
+      "slug": "2026-08-11-worldclaw-agentic-3d-open-world-generation-at-scale.html",
+      "path": "posts/2026-08-11-worldclaw-agentic-3d-open-world-generation-at-scale.html",
+      "date_iso": "2026-08-11T21:56:18+00:00",
+      "source": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+      "summary": "Article URL: https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/ Comments URL: https://news.ycombinator.com/item?id=49265051 Points: 206 # Comments: 62"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/11/arts/music/spotify-artificial-intelligence-music.html",
+      "title": "Spotify Will Label A.I. Artists and Avoid Promoting Them",
+      "slug": "2026-08-11-spotify-will-label-a-i-artists-and-avoid-promoting-them.html",
+      "path": "posts/2026-08-11-spotify-will-label-a-i-artists-and-avoid-promoting-them.html",
+      "date_iso": "2026-08-11T19:59:45+00:00",
+      "source": "https://www.nytimes.com/2026/08/11/arts/music/spotify-artificial-intelligence-music.html",
+      "summary": "The new label, which will begin to be applied next month, is an effort by the streaming service to be more transparent about A.I.-generated music on its app."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49263497",
+      "title": "Compression is prediction",
+      "slug": "2026-08-11-compression-is-prediction.html",
+      "path": "posts/2026-08-11-compression-is-prediction.html",
+      "date_iso": "2026-08-11T19:49:44+00:00",
+      "source": "https://ngrok.com/blog/compression-is-prediction",
+      "summary": "Article URL: https://ngrok.com/blog/compression-is-prediction Comments URL: https://news.ycombinator.com/item?id=49263497 Points: 487 # Comments: 203"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49263340",
+      "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+      "slug": "2026-08-11-nvidia-nemotron-3-5-lightning-and-nemo-switchyard.html",
+      "path": "posts/2026-08-11-nvidia-nemotron-3-5-lightning-and-nemo-switchyard.html",
+      "date_iso": "2026-08-11T19:35:52+00:00",
+      "source": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+      "summary": "Article URL: https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/ Comments URL: https://news.ycombinator.com/item?id=49263340 Points: 220 # Comments: 113"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49262811",
+      "title": "Making holograms with a pen plotter",
+      "slug": "2026-08-11-making-holograms-with-a-pen-plotter.html",
+      "path": "posts/2026-08-11-making-holograms-with-a-pen-plotter.html",
+      "date_iso": "2026-08-11T18:51:35+00:00",
+      "source": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+      "summary": "Article URL: https://blog.jordan.matelsky.com/Penplotter-holography/ Comments URL: https://news.ycombinator.com/item?id=49262811 Points: 154 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49262211",
+      "title": "How we used to get jobs: A newspaper classifieds story",
+      "slug": "2026-08-11-how-we-used-to-get-jobs-a-newspaper-classifieds-story.html",
+      "path": "posts/2026-08-11-how-we-used-to-get-jobs-a-newspaper-classifieds-story.html",
+      "date_iso": "2026-08-11T18:09:56+00:00",
+      "source": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
+      "summary": "Article URL: https://ironicsans.ghost.io/how-we-used-to-get-jobs/ Comments URL: https://news.ycombinator.com/item?id=49262211 Points: 142 # Comments: 106"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49262172",
+      "title": "Ethical Cold Outreach",
+      "slug": "2026-08-11-ethical-cold-outreach.html",
+      "path": "posts/2026-08-11-ethical-cold-outreach.html",
+      "date_iso": "2026-08-11T18:06:55+00:00",
+      "source": "https://blog.val.town/ethical-cold-outreach",
+      "summary": "Article URL: https://blog.val.town/ethical-cold-outreach Comments URL: https://news.ycombinator.com/item?id=49262172 Points: 44 # Comments: 55"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49261514",
+      "title": "Grok Bot",
+      "slug": "2026-08-11-grok-bot.html",
+      "path": "posts/2026-08-11-grok-bot.html",
+      "date_iso": "2026-08-11T17:23:09+00:00",
+      "source": "https://x.ai/bot",
+      "summary": "Article URL: https://x.ai/bot Comments URL: https://news.ycombinator.com/item?id=49261514 Points: 266 # Comments: 218"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49261133",
+      "title": "Go is an ideal language for AI-assisted software engineering",
+      "slug": "2026-08-11-go-is-an-ideal-language-for-ai-assisted-software-engineering.html",
+      "path": "posts/2026-08-11-go-is-an-ideal-language-for-ai-assisted-software-engineering.html",
+      "date_iso": "2026-08-11T16:57:09+00:00",
+      "source": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "summary": "Article URL: https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/ Comments URL: https://news.ycombinator.com/item?id=49261133 Points: 357 # Comments: 408"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49261128",
+      "title": "Mojo 1.0",
+      "slug": "2026-08-11-mojo-1-0.html",
+      "path": "posts/2026-08-11-mojo-1-0.html",
+      "date_iso": "2026-08-11T16:56:46+00:00",
+      "source": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+      "summary": "Article URL: https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here Comments URL: https://news.ycombinator.com/item?id=49261128 Points: 374 # Comments: 177"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/11/technology/igor-babuschkin-xai-river-ai.html",
+      "title": "His Start-Up’s Goal: A.I. That Is Trainable and Not Controlled by a Big Company",
+      "slug": "2026-08-11-his-start-up-s-goal-a-i-that-is-trainable-and-not-controlled-by-a-big-company.html",
+      "path": "posts/2026-08-11-his-start-up-s-goal-a-i-that-is-trainable-and-not-controlled-by-a-big-company.html",
+      "date_iso": "2026-08-11T13:50:25+00:00",
+      "source": "https://www.nytimes.com/2026/08/11/technology/igor-babuschkin-xai-river-ai.html",
+      "summary": "Igor Babuschkin built a new start-up, River AI, and hopes to provide ways for people to “retrain,” or modify, artificial intelligence as they see fit."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/11/technology/social-media-ceuta-spain-morocco.html",
+      "title": "How Social Media Sparked a Refugee Crisis Between Spain and Morocco",
+      "slug": "2026-08-11-how-social-media-sparked-a-refugee-crisis-between-spain-and-morocco.html",
+      "path": "posts/2026-08-11-how-social-media-sparked-a-refugee-crisis-between-spain-and-morocco.html",
+      "date_iso": "2026-08-11T13:23:38+00:00",
+      "source": "https://www.nytimes.com/2026/08/11/technology/social-media-ceuta-spain-morocco.html",
+      "summary": "Moroccan border guards and boats patrolling the coastline on the border with Spain in Fnideq, Morocco, this month."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49257876",
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "slug": "2026-08-11-stealing-reasoning-traces-from-proprietary-llm-apis.html",
+      "path": "posts/2026-08-11-stealing-reasoning-traces-from-proprietary-llm-apis.html",
+      "date_iso": "2026-08-11T13:22:00+00:00",
+      "source": "https://stolen-thoughts.com/",
+      "summary": "Article URL: https://stolen-thoughts.com/ Comments URL: https://news.ycombinator.com/item?id=49257876 Points: 606 # Comments: 272"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49257853",
+      "title": "Neutrinos from Deep Inside Earth Provide a New Picture of the Mantle",
+      "slug": "2026-08-11-neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle.html",
+      "path": "posts/2026-08-11-neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle.html",
+      "date_iso": "2026-08-11T13:20:44+00:00",
+      "source": "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/",
+      "summary": "Article URL: https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/ Comments URL: https://news.ycombinator.com/item?id=49257853 Points: 37 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49257377",
+      "title": "England set to be one of the first countries to eliminate hepatitis C",
+      "slug": "2026-08-11-england-set-to-be-one-of-the-first-countries-to-eliminate-hepatitis-c.html",
+      "path": "posts/2026-08-11-england-set-to-be-one-of-the-first-countries-to-eliminate-hepatitis-c.html",
+      "date_iso": "2026-08-11T12:41:59+00:00",
+      "source": "https://www.bbc.com/news/articles/c75gk620r22o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c75gk620r22o Comments URL: https://news.ycombinator.com/item?id=49257377 Points: 530 # Comments: 375"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49257160",
+      "title": "OpenAI’s head of ethics leaves less than a year after joining",
+      "slug": "2026-08-11-openai-s-head-of-ethics-leaves-less-than-a-year-after-joining.html",
+      "path": "posts/2026-08-11-openai-s-head-of-ethics-leaves-less-than-a-year-after-joining.html",
+      "date_iso": "2026-08-11T12:23:07+00:00",
+      "source": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+      "summary": "https://archive.ph/W48UV https://aimagazine.com/news/why-did-openai-head-of-ethics-ch... Comments URL: https://news.ycombinator.com/item?id=49257160 Points: 406 # Comments: 403"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49253721",
       "title": "Show HN: Mcptoon – Token-efficient MCP CLI client",
       "slug": "2026-08-11-show-hn-mcptoon-token-efficient-mcp-cli-client.html",
@@ -53,6 +269,15 @@
       "date_iso": "2026-08-10T23:45:50+00:00",
       "source": "https://www.effort.news/uk-lobby",
       "summary": "Article URL: https://www.effort.news/uk-lobby Comments URL: https://news.ycombinator.com/item?id=49251411 Points: 461 # Comments: 343"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/10/business/ai-nvidia-lenders-500-billion.html",
+      "title": "Wall St. Wants Another Half-Trillion Dollars for the A.I. Boom",
+      "slug": "2026-08-10-wall-st-wants-another-half-trillion-dollars-for-the-a-i-boom.html",
+      "path": "posts/2026-08-10-wall-st-wants-another-half-trillion-dollars-for-the-a-i-boom.html",
+      "date_iso": "2026-08-10T23:28:14+00:00",
+      "source": "https://www.nytimes.com/2026/08/10/business/ai-nvidia-lenders-500-billion.html",
+      "summary": "The chief executive of BlackRock, Larry Fink, shown in January, said on Monday that the artificial intelligence industry needed to raise money “as fast as possible.”"
     },
     {
       "id": "https://news.ycombinator.com/item?id=49251179",
