@@ -1,6 +1,222 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49295238",
+      "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
+      "slug": "2026-08-14-ruby-4-0-universal-rce-deserialization-gadget-chain.html",
+      "path": "posts/2026-08-14-ruby-4-0-universal-rce-deserialization-gadget-chain.html",
+      "date_iso": "2026-08-14T06:09:04+00:00",
+      "source": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
+      "summary": "Article URL: https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain Comments URL: https://news.ycombinator.com/item?id=49295238 Points: 7 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49294997",
+      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+      "slug": "2026-08-14-glm-5-3-frontier-coding-with-emergent-cyber-capabilities.html",
+      "path": "posts/2026-08-14-glm-5-3-frontier-coding-with-emergent-cyber-capabilities.html",
+      "date_iso": "2026-08-14T05:19:59+00:00",
+      "source": "https://z.ai/blog/glm-5.3",
+      "summary": "Article URL: https://z.ai/blog/glm-5.3 Comments URL: https://news.ycombinator.com/item?id=49294997 Points: 326 # Comments: 119"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49293523",
+      "title": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
+      "slug": "2026-08-14-show-hn-lumabri-run-moe-models-on-a-p2p-swarm-with-colibri.html",
+      "path": "posts/2026-08-14-show-hn-lumabri-run-moe-models-on-a-p2p-swarm-with-colibri.html",
+      "date_iso": "2026-08-14T00:47:04+00:00",
+      "source": "https://github.com/JustVugg/lumabri",
+      "summary": "Article URL: https://github.com/JustVugg/lumabri Comments URL: https://news.ycombinator.com/item?id=49293523 Points: 4 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49293324",
+      "title": "Bluesky Protocol Services",
+      "slug": "2026-08-14-bluesky-protocol-services.html",
+      "path": "posts/2026-08-14-bluesky-protocol-services.html",
+      "date_iso": "2026-08-14T00:14:28+00:00",
+      "source": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+      "summary": "Article URL: https://atproto.com/blog/introducing-bluesky-protocol-services Comments URL: https://news.ycombinator.com/item?id=49293324 Points: 154 # Comments: 28"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49293087",
+      "title": "Blog about things you don't understand yet",
+      "slug": "2026-08-13-blog-about-things-you-don-t-understand-yet.html",
+      "path": "posts/2026-08-13-blog-about-things-you-don-t-understand-yet.html",
+      "date_iso": "2026-08-13T23:39:33+00:00",
+      "source": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
+      "summary": "Article URL: https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/ Comments URL: https://news.ycombinator.com/item?id=49293087 Points: 87 # Comments: 31"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/13/technology/hpe-juniper-justice-department-settlement.html",
+      "title": "Judge Affirms Settlement Allowing HPE’s Deal for Juniper",
+      "slug": "2026-08-13-judge-affirms-settlement-allowing-hpe-s-deal-for-juniper.html",
+      "path": "posts/2026-08-13-judge-affirms-settlement-allowing-hpe-s-deal-for-juniper.html",
+      "date_iso": "2026-08-13T22:50:07+00:00",
+      "source": "https://www.nytimes.com/2026/08/13/technology/hpe-juniper-justice-department-settlement.html",
+      "summary": "Last year, the Trump administration sued to block Hewlett Packard Enterprise, led by Antonio Neri, above, from buying Juniper Networks for $14 billion, saying the deal would harm competition."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/13/technology/openai-executive-departure-denise-dresser.html",
+      "title": "Another OpenAI Executive, Denise Dresser, Departs the A.I. Start-Up",
+      "slug": "2026-08-13-another-openai-executive-denise-dresser-departs-the-a-i-start-up.html",
+      "path": "posts/2026-08-13-another-openai-executive-denise-dresser-departs-the-a-i-start-up.html",
+      "date_iso": "2026-08-13T21:15:41+00:00",
+      "source": "https://www.nytimes.com/2026/08/13/technology/openai-executive-departure-denise-dresser.html",
+      "summary": "Denise Dresser, OpenAI’s chief revenue officer, is one of a number of executives to leave OpenAI in recent months."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49291268",
+      "title": "NP-overrated",
+      "slug": "2026-08-13-np-overrated.html",
+      "path": "posts/2026-08-13-np-overrated.html",
+      "date_iso": "2026-08-13T20:14:17+00:00",
+      "source": "https://gruhn.me/blog/2026-08-13/",
+      "summary": "Article URL: https://gruhn.me/blog/2026-08-13/ Comments URL: https://news.ycombinator.com/item?id=49291268 Points: 199 # Comments: 133"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49290969",
+      "title": "How Gödel's Proof Works (2020)",
+      "slug": "2026-08-13-how-g-del-s-proof-works-2020.html",
+      "path": "posts/2026-08-13-how-g-del-s-proof-works-2020.html",
+      "date_iso": "2026-08-13T19:44:46+00:00",
+      "source": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
+      "summary": "Article URL: https://www.quantamagazine.org/how-godels-proof-works-20200714/ Comments URL: https://news.ycombinator.com/item?id=49290969 Points: 99 # Comments: 42"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49290768",
+      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "slug": "2026-08-13-how-organizations-use-ai-evidence-from-chatgpt-pdf.html",
+      "path": "posts/2026-08-13-how-organizations-use-ai-evidence-from-chatgpt-pdf.html",
+      "date_iso": "2026-08-13T19:25:38+00:00",
+      "source": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+      "summary": "Article URL: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf Comments URL: https://news.ycombinator.com/item?id=49290768 Points: 102 # Comments: 57"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49290299",
+      "title": "Understanding is the new bottleneck",
+      "slug": "2026-08-13-understanding-is-the-new-bottleneck.html",
+      "path": "posts/2026-08-13-understanding-is-the-new-bottleneck.html",
+      "date_iso": "2026-08-13T18:47:19+00:00",
+      "source": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+      "summary": "Article URL: https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck Comments URL: https://news.ycombinator.com/item?id=49290299 Points: 298 # Comments: 160"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49290215",
+      "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
+      "slug": "2026-08-13-single-log-line-is-49kb-ext4-110kb-btrfs-of-systemd-journald-disk-writes.html",
+      "path": "posts/2026-08-13-single-log-line-is-49kb-ext4-110kb-btrfs-of-systemd-journald-disk-writes.html",
+      "date_iso": "2026-08-13T18:41:01+00:00",
+      "source": "https://github.com/systemd/systemd/issues/40262",
+      "summary": "Article URL: https://github.com/systemd/systemd/issues/40262 Comments URL: https://news.ycombinator.com/item?id=49290215 Points: 203 # Comments: 128"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49290166",
+      "title": "Hello, me. It's been a while",
+      "slug": "2026-08-13-hello-me-it-s-been-a-while.html",
+      "path": "posts/2026-08-13-hello-me-it-s-been-a-while.html",
+      "date_iso": "2026-08-13T18:37:18+00:00",
+      "source": "https://themech.net/2026/08/hello-me-its-been-a-while/",
+      "summary": "Article URL: https://themech.net/2026/08/hello-me-its-been-a-while/ Comments URL: https://news.ycombinator.com/item?id=49290166 Points: 176 # Comments: 81"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49289844",
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "slug": "2026-08-13-accelerating-gpt-5-6-sol-ultrafast.html",
+      "path": "posts/2026-08-13-accelerating-gpt-5-6-sol-ultrafast.html",
+      "date_iso": "2026-08-13T18:10:02+00:00",
+      "source": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "summary": "Article URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai Comments URL: https://news.ycombinator.com/item?id=49289844 Points: 557 # Comments: 233"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49289654",
+      "title": "How Compaction Works in Pi",
+      "slug": "2026-08-13-how-compaction-works-in-pi.html",
+      "path": "posts/2026-08-13-how-compaction-works-in-pi.html",
+      "date_iso": "2026-08-13T17:57:50+00:00",
+      "source": "https://earendil.com/posts/compaction-in-pi/",
+      "summary": "Article URL: https://earendil.com/posts/compaction-in-pi/ Comments URL: https://news.ycombinator.com/item?id=49289654 Points: 153 # Comments: 59"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49289532",
+      "title": "Where did the old web go? We followed 657,607 links to find out",
+      "slug": "2026-08-13-where-did-the-old-web-go-we-followed-657-607-links-to-find-out.html",
+      "path": "posts/2026-08-13-where-did-the-old-web-go-we-followed-657-607-links-to-find-out.html",
+      "date_iso": "2026-08-13T17:49:18+00:00",
+      "source": "https://0.mk/blog/link-rot",
+      "summary": "Article URL: https://0.mk/blog/link-rot Comments URL: https://news.ycombinator.com/item?id=49289532 Points: 172 # Comments: 156"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49289512",
+      "title": "Choose Boring Technology (2015)",
+      "slug": "2026-08-13-choose-boring-technology-2015.html",
+      "path": "posts/2026-08-13-choose-boring-technology-2015.html",
+      "date_iso": "2026-08-13T17:48:13+00:00",
+      "source": "https://mcfunley.com/choose-boring-technology",
+      "summary": "Article URL: https://mcfunley.com/choose-boring-technology Comments URL: https://news.ycombinator.com/item?id=49289512 Points: 326 # Comments: 165"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49289465",
+      "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
+      "slug": "2026-08-13-donkey-bas-is-45-years-old-131-line-of-glory.html",
+      "path": "posts/2026-08-13-donkey-bas-is-45-years-old-131-line-of-glory.html",
+      "date_iso": "2026-08-13T17:45:50+00:00",
+      "source": "https://donkeybas.com/",
+      "summary": "Article URL: https://donkeybas.com/ Comments URL: https://news.ycombinator.com/item?id=49289465 Points: 226 # Comments: 104"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49289112",
+      "title": "Gemini 3.7 Flash",
+      "slug": "2026-08-13-gemini-3-7-flash.html",
+      "path": "posts/2026-08-13-gemini-3-7-flash.html",
+      "date_iso": "2026-08-13T17:23:22+00:00",
+      "source": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "summary": "https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flas... Comments URL: https://news.ycombinator.com/item?id=49289112 Points: 786 # Comments: 421"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49288889",
+      "title": "Mistral OCR 4.1",
+      "slug": "2026-08-13-mistral-ocr-4-1.html",
+      "path": "posts/2026-08-13-mistral-ocr-4-1.html",
+      "date_iso": "2026-08-13T17:05:12+00:00",
+      "source": "https://docs.mistral.ai/models/ocr-4-1",
+      "summary": "Article URL: https://docs.mistral.ai/models/ocr-4-1 Comments URL: https://news.ycombinator.com/item?id=49288889 Points: 323 # Comments: 129"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49286341",
+      "title": "Spaghettifying DRAM",
+      "slug": "2026-08-13-spaghettifying-dram.html",
+      "path": "posts/2026-08-13-spaghettifying-dram.html",
+      "date_iso": "2026-08-13T14:17:13+00:00",
+      "source": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "summary": "Article URL: https://github.com/xoreaxeaxeax/skitter-creek-bath-salts Comments URL: https://news.ycombinator.com/item?id=49286341 Points: 593 # Comments: 154"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49285770",
+      "title": "Ordinary Abundance",
+      "slug": "2026-08-13-ordinary-abundance.html",
+      "path": "posts/2026-08-13-ordinary-abundance.html",
+      "date_iso": "2026-08-13T13:39:41+00:00",
+      "source": "https://ordinaryabundance.com/",
+      "summary": "Article URL: https://ordinaryabundance.com/ Comments URL: https://news.ycombinator.com/item?id=49285770 Points: 290 # Comments: 150"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html",
+      "title": "America Wants to Make Its Own Humanoid Robots. That Won’t Be Easy.",
+      "slug": "2026-08-13-america-wants-to-make-its-own-humanoid-robots-that-won-t-be-easy.html",
+      "path": "posts/2026-08-13-america-wants-to-make-its-own-humanoid-robots-that-won-t-be-easy.html",
+      "date_iso": "2026-08-13T11:25:30+00:00",
+      "source": "https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html",
+      "summary": "As a distributor for Unitree Robotics, Teddy Haggerty had a close-up view of China’s massive robotics industry. He also saw how much demand there was in the United States."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html",
+      "title": "I Tested a Popular A.I. Slop Detector. It Felt Empowering.",
+      "slug": "2026-08-13-i-tested-a-popular-a-i-slop-detector-it-felt-empowering.html",
+      "path": "posts/2026-08-13-i-tested-a-popular-a-i-slop-detector-it-felt-empowering.html",
+      "date_iso": "2026-08-13T09:04:41+00:00",
+      "source": "https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html",
+      "summary": "Pangram excels at distinguishing chatbot-generated words from human writing. But it’s not reliable for spotting artificial images."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49281916",
       "title": "ChatGPT Desktop (Codex Desktop) for Linux",
       "slug": "2026-08-13-chatgpt-desktop-codex-desktop-for-linux.html",
