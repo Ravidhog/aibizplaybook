@@ -1,6 +1,222 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49308073",
+      "title": "\"That's not SOC 2 compliant\"",
+      "slug": "2026-08-15-that-s-not-soc-2-compliant.html",
+      "path": "posts/2026-08-15-that-s-not-soc-2-compliant.html",
+      "date_iso": "2026-08-15T06:01:19+00:00",
+      "source": "https://ampcode.com/notes/thats-not-soc-2-compliant",
+      "summary": "Article URL: https://ampcode.com/notes/thats-not-soc-2-compliant Comments URL: https://news.ycombinator.com/item?id=49308073 Points: 31 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49307700",
+      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+      "slug": "2026-08-15-show-hn-thoughtdag-an-editable-context-graph-for-llm-conversations.html",
+      "path": "posts/2026-08-15-show-hn-thoughtdag-an-editable-context-graph-for-llm-conversations.html",
+      "date_iso": "2026-08-15T04:42:07+00:00",
+      "source": "https://chenxiachan.github.io/thoughtdag/",
+      "summary": "Article URL: https://chenxiachan.github.io/thoughtdag/ Comments URL: https://news.ycombinator.com/item?id=49307700 Points: 11 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49307592",
+      "title": "The other Sean Byrne doesn't exist",
+      "slug": "2026-08-15-the-other-sean-byrne-doesn-t-exist.html",
+      "path": "posts/2026-08-15-the-other-sean-byrne-doesn-t-exist.html",
+      "date_iso": "2026-08-15T04:18:44+00:00",
+      "source": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+      "summary": "Article URL: https://conic.al/writing/the-other-sean-byrne-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=49307592 Points: 62 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49307099",
+      "title": "Show HN: Deltix – AI Driven Testing",
+      "slug": "2026-08-15-show-hn-deltix-ai-driven-testing.html",
+      "path": "posts/2026-08-15-show-hn-deltix-ai-driven-testing.html",
+      "date_iso": "2026-08-15T02:42:14+00:00",
+      "source": "https://app.deltix.ai",
+      "summary": "Article URL: https://app.deltix.ai Comments URL: https://news.ycombinator.com/item?id=49307099 Points: 24 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49306577",
+      "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
+      "slug": "2026-08-15-magnitude-7-7-earthquake-68-km-nnw-of-ende-indonesia.html",
+      "path": "posts/2026-08-15-magnitude-7-7-earthquake-68-km-nnw-of-ende-indonesia.html",
+      "date_iso": "2026-08-15T01:14:05+00:00",
+      "source": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+      "summary": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive Comments URL: https://news.ycombinator.com/item?id=49306577 Points: 174 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49306443",
+      "title": "The Ploopy A+ Trackball Is Here",
+      "slug": "2026-08-15-the-ploopy-a-trackball-is-here.html",
+      "path": "posts/2026-08-15-the-ploopy-a-trackball-is-here.html",
+      "date_iso": "2026-08-15T00:55:31+00:00",
+      "source": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+      "summary": "Article URL: https://blog.ploopy.co/the-aplus-is-finally-here-499 Comments URL: https://news.ycombinator.com/item?id=49306443 Points: 93 # Comments: 43"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49306196",
+      "title": "Simplifying and Refactoring Introductory Calculus (2018)",
+      "slug": "2026-08-15-simplifying-and-refactoring-introductory-calculus-2018.html",
+      "path": "posts/2026-08-15-simplifying-and-refactoring-introductory-calculus-2018.html",
+      "date_iso": "2026-08-15T00:15:23+00:00",
+      "source": "https://arxiv.org/abs/1811.03459",
+      "summary": "Article URL: https://arxiv.org/abs/1811.03459 Comments URL: https://news.ycombinator.com/item?id=49306196 Points: 78 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49305250",
+      "title": "eigendrum",
+      "slug": "2026-08-14-eigendrum.html",
+      "path": "posts/2026-08-14-eigendrum.html",
+      "date_iso": "2026-08-14T22:15:12+00:00",
+      "source": "https://eigendrum.com/#p=circle",
+      "summary": "Article URL: https://eigendrum.com/#p=circle Comments URL: https://news.ycombinator.com/item?id=49305250 Points: 123 # Comments: 24"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49304447",
+      "title": "Going Dark, and the era of law enforcement hacking",
+      "slug": "2026-08-14-going-dark-and-the-era-of-law-enforcement-hacking.html",
+      "path": "posts/2026-08-14-going-dark-and-the-era-of-law-enforcement-hacking.html",
+      "date_iso": "2026-08-14T20:52:44+00:00",
+      "source": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+      "summary": "Article URL: https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/ Comments URL: https://news.ycombinator.com/item?id=49304447 Points: 306 # Comments: 141"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49303202",
+      "title": "Firefox is now the last major browser that still supports uBlock Origin",
+      "slug": "2026-08-14-firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+      "path": "posts/2026-08-14-firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+      "date_iso": "2026-08-14T19:03:20+00:00",
+      "source": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+      "summary": "Article URL: https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html Comments URL: https://news.ycombinator.com/item?id=49303202 Points: 826 # Comments: 311"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html",
+      "title": "Google Turns On Gemini A.I. for Students Using Its Classroom App",
+      "slug": "2026-08-14-google-turns-on-gemini-a-i-for-students-using-its-classroom-app.html",
+      "path": "posts/2026-08-14-google-turns-on-gemini-a-i-for-students-using-its-classroom-app.html",
+      "date_iso": "2026-08-14T18:54:36+00:00",
+      "source": "https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html",
+      "summary": "Starting this week, a new Gemini tab within Classroom lets some students seek A.I. help on math problems and writing assignments; generate course aids like study guides, quizzes and flashcards; and produce images."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49303046",
+      "title": "Show HN: Mole – Deep research agent for your terminal",
+      "slug": "2026-08-14-show-hn-mole-deep-research-agent-for-your-terminal.html",
+      "path": "posts/2026-08-14-show-hn-mole-deep-research-agent-for-your-terminal.html",
+      "date_iso": "2026-08-14T18:52:48+00:00",
+      "source": "https://github.com/lajosdeme/mole",
+      "summary": "Doing research with agents is fun until they blow way past budget, jumble the sources, and don't even give you the best possible answer, just sound confident. And if you want to run some research task on local data - you have no idea where your data ends up after the prompt cons…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49302562",
+      "title": "Racket v9.3",
+      "slug": "2026-08-14-racket-v9-3.html",
+      "path": "posts/2026-08-14-racket-v9-3.html",
+      "date_iso": "2026-08-14T18:14:48+00:00",
+      "source": "https://blog.racket-lang.org/2026/08/racket-v9-3.html",
+      "summary": "Article URL: https://blog.racket-lang.org/2026/08/racket-v9-3.html Comments URL: https://news.ycombinator.com/item?id=49302562 Points: 74 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49300800",
+      "title": "Maximizing the value of your Claude Code sessions",
+      "slug": "2026-08-14-maximizing-the-value-of-your-claude-code-sessions.html",
+      "path": "posts/2026-08-14-maximizing-the-value-of-your-claude-code-sessions.html",
+      "date_iso": "2026-08-14T16:15:21+00:00",
+      "source": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "summary": "Article URL: https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions Comments URL: https://news.ycombinator.com/item?id=49300800 Points: 193 # Comments: 116"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49300759",
+      "title": "RustDesk now supports true unattended remote access on Wayland",
+      "slug": "2026-08-14-rustdesk-now-supports-true-unattended-remote-access-on-wayland.html",
+      "path": "posts/2026-08-14-rustdesk-now-supports-true-unattended-remote-access-on-wayland.html",
+      "date_iso": "2026-08-14T16:12:52+00:00",
+      "source": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+      "summary": "Article URL: https://rustdesk.com/blog/unattended-remote-access-wayland/ Comments URL: https://news.ycombinator.com/item?id=49300759 Points: 271 # Comments: 113"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49300568",
+      "title": "AI by Hand",
+      "slug": "2026-08-14-ai-by-hand.html",
+      "path": "posts/2026-08-14-ai-by-hand.html",
+      "date_iso": "2026-08-14T15:58:59+00:00",
+      "source": "https://www.byhand.ai/",
+      "summary": "Article URL: https://www.byhand.ai/ Comments URL: https://news.ycombinator.com/item?id=49300568 Points: 279 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49300314",
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "slug": "2026-08-14-google-is-making-private-ai-practical-with-homomorphic-encryption.html",
+      "path": "posts/2026-08-14-google-is-making-private-ai-practical-with-homomorphic-encryption.html",
+      "date_iso": "2026-08-14T15:43:10+00:00",
+      "source": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "summary": "Article URL: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/ Comments URL: https://news.ycombinator.com/item?id=49300314 Points: 360 # Comments: 214"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49299746",
+      "title": "Introducing Toast 1",
+      "slug": "2026-08-14-introducing-toast-1.html",
+      "path": "posts/2026-08-14-introducing-toast-1.html",
+      "date_iso": "2026-08-14T15:07:57+00:00",
+      "source": "https://www.mixedbread.com/blog/toast-1",
+      "summary": "Article URL: https://www.mixedbread.com/blog/toast-1 Comments URL: https://news.ycombinator.com/item?id=49299746 Points: 197 # Comments: 61"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49299605",
+      "title": "Qwen 3.8 27B",
+      "slug": "2026-08-14-qwen-3-8-27b.html",
+      "path": "posts/2026-08-14-qwen-3-8-27b.html",
+      "date_iso": "2026-08-14T15:00:00+00:00",
+      "source": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "summary": "Article URL: https://huggingface.co/Qwen/Qwen3.8-27B-FP8 Comments URL: https://news.ycombinator.com/item?id=49299605 Points: 1079 # Comments: 675"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html",
+      "title": "Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom",
+      "slug": "2026-08-14-amazon-and-alphabet-s-profits-reveal-circular-nature-of-a-i-boom.html",
+      "path": "posts/2026-08-14-amazon-and-alphabet-s-profits-reveal-circular-nature-of-a-i-boom.html",
+      "date_iso": "2026-08-14T14:55:08+00:00",
+      "source": "https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html",
+      "summary": "Alphabet and Google have benefited from the rising value of their investments in A.I. companies, adding to profits beyond their core businesses."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49299081",
+      "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+      "slug": "2026-08-14-i-turned-my-rss-feeds-into-an-e-ink-newspaper-to-stop-reading-on-my-phone.html",
+      "path": "posts/2026-08-14-i-turned-my-rss-feeds-into-an-e-ink-newspaper-to-stop-reading-on-my-phone.html",
+      "date_iso": "2026-08-14T14:21:18+00:00",
+      "source": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
+      "summary": "Article URL: https://heyjonny.dev/posts/rss-to-eink-newspaper/ Comments URL: https://news.ycombinator.com/item?id=49299081 Points: 175 # Comments: 72"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/14/podcasts/zuckerberg-essay-pangram-math.html",
+      "title": "Zuckerberg’s Anti-Doom Fantasy + Finally an A.I. Detector That Works + A.I. Math",
+      "slug": "2026-08-14-zuckerberg-s-anti-doom-fantasy-finally-an-a-i-detector-that-works-a-i-math.html",
+      "path": "posts/2026-08-14-zuckerberg-s-anti-doom-fantasy-finally-an-a-i-detector-that-works-a-i-math.html",
+      "date_iso": "2026-08-14T11:00:04+00:00",
+      "source": "https://www.nytimes.com/2026/08/14/podcasts/zuckerberg-essay-pangram-math.html",
+      "summary": "“The first rule of Mark Zuckerberg is never count out Mark Zuckerberg.”"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49296740",
+      "title": "Why does Opus 5 feel worse to work with?",
+      "slug": "2026-08-14-why-does-opus-5-feel-worse-to-work-with.html",
+      "path": "posts/2026-08-14-why-does-opus-5-feel-worse-to-work-with.html",
+      "date_iso": "2026-08-14T10:12:48+00:00",
+      "source": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+      "summary": "Article URL: https://mun-logadan.github.io/why-does-opus-5-feel-worse/ Comments URL: https://news.ycombinator.com/item?id=49296740 Points: 845 # Comments: 764"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/14/magazine/ai-chatbots-internet-communication-loops.html",
+      "title": "Chatbots Are Pushing Us Toward a Post-Human Internet",
+      "slug": "2026-08-14-chatbots-are-pushing-us-toward-a-post-human-internet.html",
+      "path": "posts/2026-08-14-chatbots-are-pushing-us-toward-a-post-human-internet.html",
+      "date_iso": "2026-08-14T09:00:28+00:00",
+      "source": "https://www.nytimes.com/2026/08/14/magazine/ai-chatbots-internet-communication-loops.html",
+      "summary": "In matters of work, school and even romance, we turn to A.I. chatbots. But what happens when the bots begin talking to one another?"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49295238",
       "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
       "slug": "2026-08-14-ruby-4-0-universal-rce-deserialization-gadget-chain.html",
