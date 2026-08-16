@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49317546",
+      "title": "Show HN: Laptop is the last place your secrets are still in plaintext",
+      "slug": "2026-08-16-show-hn-laptop-is-the-last-place-your-secrets-are-still-in-plaintext.html",
+      "path": "posts/2026-08-16-show-hn-laptop-is-the-last-place-your-secrets-are-still-in-plaintext.html",
+      "date_iso": "2026-08-16T06:55:04+00:00",
+      "source": "https://github.com/jitpass/jit",
+      "summary": "Article URL: https://github.com/jitpass/jit Comments URL: https://news.ycombinator.com/item?id=49317546 Points: 10 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49316872",
+      "title": "Falstad Math and Physics Simulations",
+      "slug": "2026-08-16-falstad-math-and-physics-simulations.html",
+      "path": "posts/2026-08-16-falstad-math-and-physics-simulations.html",
+      "date_iso": "2026-08-16T04:19:32+00:00",
+      "source": "https://www.falstad.com/mathphysics.html",
+      "summary": "Article URL: https://www.falstad.com/mathphysics.html Comments URL: https://news.ycombinator.com/item?id=49316872 Points: 3 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49316611",
+      "title": "Government sponsored study on alcohol doesn't stand up to scrutiny",
+      "slug": "2026-08-16-government-sponsored-study-on-alcohol-doesn-t-stand-up-to-scrutiny.html",
+      "path": "posts/2026-08-16-government-sponsored-study-on-alcohol-doesn-t-stand-up-to-scrutiny.html",
+      "date_iso": "2026-08-16T03:23:34+00:00",
+      "source": "https://nntaleb.substack.com/p/have-another-drink",
+      "summary": "Article URL: https://nntaleb.substack.com/p/have-another-drink Comments URL: https://news.ycombinator.com/item?id=49316611 Points: 33 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49316395",
+      "title": "Zapping Rocks Unlocks Stimulated Geologic Hydrogen",
+      "slug": "2026-08-16-zapping-rocks-unlocks-stimulated-geologic-hydrogen.html",
+      "path": "posts/2026-08-16-zapping-rocks-unlocks-stimulated-geologic-hydrogen.html",
+      "date_iso": "2026-08-16T02:36:10+00:00",
+      "source": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
+      "summary": "Article URL: https://spectrum.ieee.org/stimulated-geologic-hydrogen Comments URL: https://news.ycombinator.com/item?id=49316395 Points: 12 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49316271",
+      "title": "Patterns and problems in emerging multi-agent systems",
+      "slug": "2026-08-16-patterns-and-problems-in-emerging-multi-agent-systems.html",
+      "path": "posts/2026-08-16-patterns-and-problems-in-emerging-multi-agent-systems.html",
+      "date_iso": "2026-08-16T02:12:53+00:00",
+      "source": "https://www.anthropic.com/research/multiagent-systems",
+      "summary": "Article URL: https://www.anthropic.com/research/multiagent-systems Comments URL: https://news.ycombinator.com/item?id=49316271 Points: 50 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49315995",
+      "title": "Guiding Ships with Moire Patterns",
+      "slug": "2026-08-16-guiding-ships-with-moire-patterns.html",
+      "path": "posts/2026-08-16-guiding-ships-with-moire-patterns.html",
+      "date_iso": "2026-08-16T01:26:44+00:00",
+      "source": "https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/",
+      "summary": "Article URL: https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/ Comments URL: https://news.ycombinator.com/item?id=49315995 Points: 36 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49315742",
+      "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
+      "slug": "2026-08-16-show-hn-mic-drop-a-real-time-multiplayer-karaoke-game.html",
+      "path": "posts/2026-08-16-show-hn-mic-drop-a-real-time-multiplayer-karaoke-game.html",
+      "date_iso": "2026-08-16T00:46:29+00:00",
+      "source": "https://www.micdrop.gg/",
+      "summary": "Article URL: https://www.micdrop.gg/ Comments URL: https://news.ycombinator.com/item?id=49315742 Points: 46 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49315563",
+      "title": "Big Pickle on SWE Atlas – Codebase QnA",
+      "slug": "2026-08-16-big-pickle-on-swe-atlas-codebase-qna.html",
+      "path": "posts/2026-08-16-big-pickle-on-swe-atlas-codebase-qna.html",
+      "date_iso": "2026-08-16T00:10:48+00:00",
+      "source": "https://github.com/PhillipChaffee/big-pickle-swe-atlas",
+      "summary": "Article URL: https://github.com/PhillipChaffee/big-pickle-swe-atlas Comments URL: https://news.ycombinator.com/item?id=49315563 Points: 4 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49315456",
+      "title": "Tea5767-Radio-Tuner",
+      "slug": "2026-08-15-tea5767-radio-tuner.html",
+      "path": "posts/2026-08-15-tea5767-radio-tuner.html",
+      "date_iso": "2026-08-15T23:54:35+00:00",
+      "source": "https://github.com/turtushig22-blip/tea5767-radio-tuner",
+      "summary": "Article URL: https://github.com/turtushig22-blip/tea5767-radio-tuner Comments URL: https://news.ycombinator.com/item?id=49315456 Points: 35 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49314967",
+      "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+      "slug": "2026-08-15-ai-assisted-gpu-porting-of-a-250k-line-legacy-weather-simulation-code.html",
+      "path": "posts/2026-08-15-ai-assisted-gpu-porting-of-a-250k-line-legacy-weather-simulation-code.html",
+      "date_iso": "2026-08-15T22:41:51+00:00",
+      "source": "https://arxiv.org/abs/2608.13122",
+      "summary": "Article URL: https://arxiv.org/abs/2608.13122 Comments URL: https://news.ycombinator.com/item?id=49314967 Points: 23 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49314902",
+      "title": "Software Engineering fundamentals matter more",
+      "slug": "2026-08-15-software-engineering-fundamentals-matter-more.html",
+      "path": "posts/2026-08-15-software-engineering-fundamentals-matter-more.html",
+      "date_iso": "2026-08-15T22:31:09+00:00",
+      "source": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
+      "summary": "Article URL: https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/ Comments URL: https://news.ycombinator.com/item?id=49314902 Points: 94 # Comments: 27"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49314884",
+      "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
+      "slug": "2026-08-15-sugartrack-an-offline-android-logbook-for-blood-sugar-no-account-no-cloud.html",
+      "path": "posts/2026-08-15-sugartrack-an-offline-android-logbook-for-blood-sugar-no-account-no-cloud.html",
+      "date_iso": "2026-08-15T22:28:14+00:00",
+      "source": "https://sugartrack-beta.vercel.app/",
+      "summary": "Article URL: https://sugartrack-beta.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49314884 Points: 41 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49314579",
+      "title": "Tracking down a Zsh history data loss bug",
+      "slug": "2026-08-15-tracking-down-a-zsh-history-data-loss-bug.html",
+      "path": "posts/2026-08-15-tracking-down-a-zsh-history-data-loss-bug.html",
+      "date_iso": "2026-08-15T21:39:09+00:00",
+      "source": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+      "summary": "Article URL: https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/ Comments URL: https://news.ycombinator.com/item?id=49314579 Points: 62 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49314403",
+      "title": "Abdominal fat predicts heart disease risk better than BMI",
+      "slug": "2026-08-15-abdominal-fat-predicts-heart-disease-risk-better-than-bmi.html",
+      "path": "posts/2026-08-15-abdominal-fat-predicts-heart-disease-risk-better-than-bmi.html",
+      "date_iso": "2026-08-15T21:14:34+00:00",
+      "source": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+      "summary": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13470613/ Comments URL: https://news.ycombinator.com/item?id=49314403 Points: 232 # Comments: 169"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49314235",
+      "title": "Cultivating a state of mind where new ideas are born (2023)",
+      "slug": "2026-08-15-cultivating-a-state-of-mind-where-new-ideas-are-born-2023.html",
+      "path": "posts/2026-08-15-cultivating-a-state-of-mind-where-new-ideas-are-born-2023.html",
+      "date_iso": "2026-08-15T20:54:11+00:00",
+      "source": "https://www.henrikkarlsson.xyz/p/good-ideas",
+      "summary": "Article URL: https://www.henrikkarlsson.xyz/p/good-ideas Comments URL: https://news.ycombinator.com/item?id=49314235 Points: 150 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49313428",
+      "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
+      "slug": "2026-08-15-super-el-ni-o-keeps-growing-as-new-forecasts-reach-record-territory-ahead-winter.html",
+      "path": "posts/2026-08-15-super-el-ni-o-keeps-growing-as-new-forecasts-reach-record-territory-ahead-winter.html",
+      "date_iso": "2026-08-15T19:20:51+00:00",
+      "source": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
+      "summary": "Article URL: https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/ Comments URL: https://news.ycombinator.com/item?id=49313428 Points: 187 # Comments: 102"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49313367",
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "slug": "2026-08-15-ai-in-drug-discovery-what-it-is-where-we-stand-and-the-path-forward.html",
+      "path": "posts/2026-08-15-ai-in-drug-discovery-what-it-is-where-we-stand-and-the-path-forward.html",
+      "date_iso": "2026-08-15T19:12:53+00:00",
+      "source": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "summary": "https://www.nature.com/articles/s41573-026-01496-2 Comments URL: https://news.ycombinator.com/item?id=49313367 Points: 130 # Comments: 67"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49313068",
+      "title": "Tess's Android Wayland Compositor",
+      "slug": "2026-08-15-tess-s-android-wayland-compositor.html",
+      "path": "posts/2026-08-15-tess-s-android-wayland-compositor.html",
+      "date_iso": "2026-08-15T18:34:26+00:00",
+      "source": "https://github.com/wmww/tawc",
+      "summary": "Article URL: https://github.com/wmww/tawc Comments URL: https://news.ycombinator.com/item?id=49313068 Points: 61 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49313047",
+      "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
+      "slug": "2026-08-15-voltair-yc-w26-is-hiring-a-test-flight-engineer.html",
+      "path": "posts/2026-08-15-voltair-yc-w26-is-hiring-a-test-flight-engineer.html",
+      "date_iso": "2026-08-15T18:33:25+00:00",
+      "source": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer Comments URL: https://news.ycombinator.com/item?id=49313047 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49312845",
+      "title": "AI has access to a vastly larger working memory than the human brain",
+      "slug": "2026-08-15-ai-has-access-to-a-vastly-larger-working-memory-than-the-human-brain.html",
+      "path": "posts/2026-08-15-ai-has-access-to-a-vastly-larger-working-memory-than-the-human-brain.html",
+      "date_iso": "2026-08-15T18:13:02+00:00",
+      "source": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 474 # Comments: 407"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-youtube-show.html",
+      "title": "The Iranian YouTube Show Posing Questions Few Dare Ask",
+      "slug": "2026-08-15-the-iranian-youtube-show-posing-questions-few-dare-ask.html",
+      "path": "posts/2026-08-15-the-iranian-youtube-show-posing-questions-few-dare-ask.html",
+      "date_iso": "2026-08-15T09:30:14+00:00",
+      "source": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-youtube-show.html",
+      "summary": "Azad, a popular online debate program, has tackled topics that push the limits of Iran’s authoritarian system. Some question how it has remained on air."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49308073",
       "title": "\"That's not SOC 2 compliant\"",
       "slug": "2026-08-15-that-s-not-soc-2-compliant.html",
