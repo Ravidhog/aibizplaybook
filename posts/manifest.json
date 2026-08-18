@@ -1,6 +1,213 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49341411",
+      "title": "Exercise intensity modulates interorgan communication and is associated with",
+      "slug": "2026-08-18-exercise-intensity-modulates-interorgan-communication-and-is-associated-with.html",
+      "path": "posts/2026-08-18-exercise-intensity-modulates-interorgan-communication-and-is-associated-with.html",
+      "date_iso": "2026-08-18T04:51:33+00:00",
+      "source": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue",
+      "summary": "Article URL: https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue Comments URL: https://news.ycombinator.com/item?id=49341411 Points: 3 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49340299",
+      "title": "The Benchmarkpocalypse",
+      "slug": "2026-08-18-the-benchmarkpocalypse.html",
+      "path": "posts/2026-08-18-the-benchmarkpocalypse.html",
+      "date_iso": "2026-08-18T02:11:02+00:00",
+      "source": "https://danluu.com/benchpocalypse/",
+      "summary": "Article URL: https://danluu.com/benchpocalypse/ Comments URL: https://news.ycombinator.com/item?id=49340299 Points: 72 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49339097",
+      "title": "Repair Cafe – Fix Your Broken Items",
+      "slug": "2026-08-17-repair-cafe-fix-your-broken-items.html",
+      "path": "posts/2026-08-17-repair-cafe-fix-your-broken-items.html",
+      "date_iso": "2026-08-17T23:28:28+00:00",
+      "source": "https://www.repaircafe.org/",
+      "summary": "Article URL: https://www.repaircafe.org/ Comments URL: https://news.ycombinator.com/item?id=49339097 Points: 87 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49338459",
+      "title": "How Bluesky draws its logo on screenshots",
+      "slug": "2026-08-17-how-bluesky-draws-its-logo-on-screenshots.html",
+      "path": "posts/2026-08-17-how-bluesky-draws-its-logo-on-screenshots.html",
+      "date_iso": "2026-08-17T22:20:40+00:00",
+      "source": "https://timmarinin.net/2026/bluesky-screenshots/",
+      "summary": "Article URL: https://timmarinin.net/2026/bluesky-screenshots/ Comments URL: https://news.ycombinator.com/item?id=49338459 Points: 426 # Comments: 288"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49338428",
+      "title": "scScript for Linux",
+      "slug": "2026-08-17-scscript-for-linux.html",
+      "path": "posts/2026-08-17-scscript-for-linux.html",
+      "date_iso": "2026-08-17T22:18:05+00:00",
+      "source": "https://scapplications.com/",
+      "summary": "Article URL: https://scapplications.com/ Comments URL: https://news.ycombinator.com/item?id=49338428 Points: 31 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49338328",
+      "title": "Quake Shareware, a CD-ROM just a little too full",
+      "slug": "2026-08-17-quake-shareware-a-cd-rom-just-a-little-too-full.html",
+      "path": "posts/2026-08-17-quake-shareware-a-cd-rom-just-a-little-too-full.html",
+      "date_iso": "2026-08-17T22:06:14+00:00",
+      "source": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+      "summary": "Article URL: https://fabiensanglard.net/quake_shareware_cd/index.html Comments URL: https://news.ycombinator.com/item?id=49338328 Points: 294 # Comments: 127"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49338285",
+      "title": "Fairphone 6 and PostmarketOS working main camera",
+      "slug": "2026-08-17-fairphone-6-and-postmarketos-working-main-camera.html",
+      "path": "posts/2026-08-17-fairphone-6-and-postmarketos-working-main-camera.html",
+      "date_iso": "2026-08-17T22:01:17+00:00",
+      "source": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+      "summary": "Article URL: https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera Comments URL: https://news.ycombinator.com/item?id=49338285 Points: 152 # Comments: 35"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/17/technology/nvidia-ohio-data-center-openai.html",
+      "title": "Nvidia to Back Ohio Data Center With as Much as $105 Billion",
+      "slug": "2026-08-17-nvidia-to-back-ohio-data-center-with-as-much-as-105-billion.html",
+      "path": "posts/2026-08-17-nvidia-to-back-ohio-data-center-with-as-much-as-105-billion.html",
+      "date_iso": "2026-08-17T21:13:00+00:00",
+      "source": "https://www.nytimes.com/2026/08/17/technology/nvidia-ohio-data-center-openai.html",
+      "summary": "Workers at the construction site for a data center in Piketon, Ohio, that will be built by a subsidiary of SoftBank and leased to OpenAI."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49337630",
+      "title": "How do functions like alloca allocate memory from the stack?",
+      "slug": "2026-08-17-how-do-functions-like-alloca-allocate-memory-from-the-stack.html",
+      "path": "posts/2026-08-17-how-do-functions-like-alloca-allocate-memory-from-the-stack.html",
+      "date_iso": "2026-08-17T21:06:10+00:00",
+      "source": "https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617",
+      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617 Comments URL: https://news.ycombinator.com/item?id=49337630 Points: 49 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49337602",
+      "title": "GPT-5.6 Sol Pricing Cut by 50%",
+      "slug": "2026-08-17-gpt-5-6-sol-pricing-cut-by-50.html",
+      "path": "posts/2026-08-17-gpt-5-6-sol-pricing-cut-by-50.html",
+      "date_iso": "2026-08-17T21:03:18+00:00",
+      "source": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "summary": "Article URL: https://openrouter.ai/openai/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49337602 Points: 371 # Comments: 204"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49337392",
+      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "slug": "2026-08-17-israel-creates-fake-think-tank-in-likely-attempt-to-dupe-ai-chatbots.html",
+      "path": "posts/2026-08-17-israel-creates-fake-think-tank-in-likely-attempt-to-dupe-ai-chatbots.html",
+      "date_iso": "2026-08-17T20:46:10+00:00",
+      "source": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 377 # Comments: 252"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/17/technology/ai-slop.html",
+      "title": "AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.",
+      "slug": "2026-08-17-ai-slop-is-everywhere-spotify-linkedin-and-others-have-had-enough.html",
+      "path": "posts/2026-08-17-ai-slop-is-everywhere-spotify-linkedin-and-others-have-had-enough.html",
+      "date_iso": "2026-08-17T19:51:10+00:00",
+      "source": "https://www.nytimes.com/2026/08/17/technology/ai-slop.html",
+      "summary": "Spotify, LinkedIn and others are trying to dig out of a digital sewage heap full of low-quality content made with artificial intelligence."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49336573",
+      "title": "AI;DR (AI; Didn't Read)",
+      "slug": "2026-08-17-ai-dr-ai-didn-t-read.html",
+      "path": "posts/2026-08-17-ai-dr-ai-didn-t-read.html",
+      "date_iso": "2026-08-17T19:47:15+00:00",
+      "source": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 812 # Comments: 508"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49336304",
+      "title": "India has paved the way for charging merchants a fee on UPI transactions",
+      "slug": "2026-08-17-india-has-paved-the-way-for-charging-merchants-a-fee-on-upi-transactions.html",
+      "path": "posts/2026-08-17-india-has-paved-the-way-for-charging-merchants-a-fee-on-upi-transactions.html",
+      "date_iso": "2026-08-17T19:25:11+00:00",
+      "source": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c8xnwqe00v1o Comments URL: https://news.ycombinator.com/item?id=49336304 Points: 139 # Comments: 163"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49335600",
+      "title": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia",
+      "slug": "2026-08-17-los-puesteros-solitary-men-who-look-after-ranches-and-livestock-in-patagonia.html",
+      "path": "posts/2026-08-17-los-puesteros-solitary-men-who-look-after-ranches-and-livestock-in-patagonia.html",
+      "date_iso": "2026-08-17T18:34:09+00:00",
+      "source": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
+      "summary": "Article URL: https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world Comments URL: https://news.ycombinator.com/item?id=49335600 Points: 137 # Comments: 46"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49334991",
+      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+      "slug": "2026-08-17-gpu-offload-in-rust-portable-safe-and-fast.html",
+      "path": "posts/2026-08-17-gpu-offload-in-rust-portable-safe-and-fast.html",
+      "date_iso": "2026-08-17T17:54:59+00:00",
+      "source": "https://arxiv.org/abs/2608.13759",
+      "summary": "Article URL: https://arxiv.org/abs/2608.13759 Comments URL: https://news.ycombinator.com/item?id=49334991 Points: 198 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49334409",
+      "title": "An update on leaving Gmail for Fastmail",
+      "slug": "2026-08-17-an-update-on-leaving-gmail-for-fastmail.html",
+      "path": "posts/2026-08-17-an-update-on-leaving-gmail-for-fastmail.html",
+      "date_iso": "2026-08-17T17:15:20+00:00",
+      "source": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
+      "summary": "Article URL: https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/ Comments URL: https://news.ycombinator.com/item?id=49334409 Points: 192 # Comments: 128"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49333824",
+      "title": "Sun Clock",
+      "slug": "2026-08-17-sun-clock.html",
+      "path": "posts/2026-08-17-sun-clock.html",
+      "date_iso": "2026-08-17T16:37:54+00:00",
+      "source": "https://sunclock.net/",
+      "summary": "Article URL: https://sunclock.net/ Comments URL: https://news.ycombinator.com/item?id=49333824 Points: 214 # Comments: 71"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49333344",
+      "title": "Judge sets framework for Nine PBS to retrieve archival data",
+      "slug": "2026-08-17-judge-sets-framework-for-nine-pbs-to-retrieve-archival-data.html",
+      "path": "posts/2026-08-17-judge-sets-framework-for-nine-pbs-to-retrieve-archival-data.html",
+      "date_iso": "2026-08-17T16:11:37+00:00",
+      "source": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
+      "summary": "Article URL: https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/ Comments URL: https://news.ycombinator.com/item?id=49333344 Points: 156 # Comments: 62"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49332751",
+      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+      "slug": "2026-08-17-launch-hn-speko-yc-s26-openrouter-for-voice-ai.html",
+      "path": "posts/2026-08-17-launch-hn-speko-yc-s26-openrouter-for-voice-ai.html",
+      "date_iso": "2026-08-17T15:36:18+00:00",
+      "source": "https://speko.ai/",
+      "summary": "Hi HN! I'm Bek, founder of Speko, a platform that finds an optimal combination of speech-to-text, LLM, and text-to-speech models, given your constraints, among all our public benchmarked options, and tells you why. Demo: https://www.youtube.com/watch?v=no2LY2gRh-c Typical produc…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49331423",
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "slug": "2026-08-17-ai-generated-github-copilot-autofix-allowed-compromise-of-snowflake-s-jira.html",
+      "path": "posts/2026-08-17-ai-generated-github-copilot-autofix-allowed-compromise-of-snowflake-s-jira.html",
+      "date_iso": "2026-08-17T14:18:38+00:00",
+      "source": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "summary": "Article URL: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug Comments URL: https://news.ycombinator.com/item?id=49331423 Points: 356 # Comments: 138"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49331220",
+      "title": "How to disable or avoid intrusive AI",
+      "slug": "2026-08-17-how-to-disable-or-avoid-intrusive-ai.html",
+      "path": "posts/2026-08-17-how-to-disable-or-avoid-intrusive-ai.html",
+      "date_iso": "2026-08-17T14:07:56+00:00",
+      "source": "https://www.librarian.net/notoai/",
+      "summary": "Article URL: https://www.librarian.net/notoai/ Comments URL: https://news.ycombinator.com/item?id=49331220 Points: 287 # Comments: 166"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html",
+      "title": "China Wants Its Data to Power the World’s A.I.",
+      "slug": "2026-08-17-china-wants-its-data-to-power-the-world-s-a-i.html",
+      "path": "posts/2026-08-17-china-wants-its-data-to-power-the-world-s-a-i.html",
+      "date_iso": "2026-08-17T11:10:29+00:00",
+      "source": "https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html",
+      "summary": "A Google booth during the World Artificial Intelligence Conference in Shanghai last month. China wants a greater voice in the development of A.I. chatbots."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49326825",
       "title": "$12B of US ratepayers' money wasted on a modeling mistake in PJM",
       "slug": "2026-08-17-12b-of-us-ratepayers-money-wasted-on-a-modeling-mistake-in-pjm.html",
@@ -179,6 +386,15 @@
       "date_iso": "2026-08-16T14:53:14+00:00",
       "source": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
       "summary": "Article URL: https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost Comments URL: https://news.ycombinator.com/item?id=49320673 Points: 77 # Comments: 64"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/16/business/ai-data-centers.html",
+      "title": "As A.I. Data Centers Spread, Pressure Mounts to Share Profits",
+      "slug": "2026-08-16-as-a-i-data-centers-spread-pressure-mounts-to-share-profits.html",
+      "path": "posts/2026-08-16-as-a-i-data-centers-spread-pressure-mounts-to-share-profits.html",
+      "date_iso": "2026-08-16T09:00:38+00:00",
+      "source": "https://www.nytimes.com/2026/08/16/business/ai-data-centers.html",
+      "summary": "Policymakers around the country are maneuvering to ensure that tech giants aren’t the only ones who stand to benefit."
     },
     {
       "id": "https://news.ycombinator.com/item?id=49317546",
