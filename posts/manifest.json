@@ -1,6 +1,240 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49371006",
+      "title": "Windows brings out the Rorschach test in everyone",
+      "slug": "2026-08-20-windows-brings-out-the-rorschach-test-in-everyone.html",
+      "path": "posts/2026-08-20-windows-brings-out-the-rorschach-test-in-everyone.html",
+      "date_iso": "2026-08-20T06:16:40+00:00",
+      "source": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803 Comments URL: https://news.ycombinator.com/item?id=49371006 Points: 61 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49370440",
+      "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
+      "slug": "2026-08-20-why-microsoft-entertainment-pack-had-a-sticker-announcing-that-it-had-tetris.html",
+      "path": "posts/2026-08-20-why-microsoft-entertainment-pack-had-a-sticker-announcing-that-it-had-tetris.html",
+      "date_iso": "2026-08-20T04:42:02+00:00",
+      "source": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
+      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621 Comments URL: https://news.ycombinator.com/item?id=49370440 Points: 43 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49369408",
+      "title": "Turns are Better than Radians (2022)",
+      "slug": "2026-08-20-turns-are-better-than-radians-2022.html",
+      "path": "posts/2026-08-20-turns-are-better-than-radians-2022.html",
+      "date_iso": "2026-08-20T01:29:12+00:00",
+      "source": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+      "summary": "Article URL: https://www.computerenhance.com/p/turns-are-better-than-radians Comments URL: https://news.ycombinator.com/item?id=49369408 Points: 158 # Comments: 67"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/19/world/asia/china-rocket-first-stage-recovery-land.html",
+      "title": "Chinese Start-Up Lands Reusable Rocket for the First Time",
+      "slug": "2026-08-19-chinese-start-up-lands-reusable-rocket-for-the-first-time.html",
+      "path": "posts/2026-08-19-chinese-start-up-lands-reusable-rocket-for-the-first-time.html",
+      "date_iso": "2026-08-19T21:49:10+00:00",
+      "source": "https://www.nytimes.com/2026/08/19/world/asia/china-rocket-first-stage-recovery-land.html",
+      "summary": "The milestone by the private company, LandSpace, could put China closer to challenging SpaceX’s rule in lower-cost spaceflight."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49367350",
+      "title": "Feature Request: Support AGENTS.md",
+      "slug": "2026-08-19-feature-request-support-agents-md.html",
+      "path": "posts/2026-08-19-feature-request-support-agents-md.html",
+      "date_iso": "2026-08-19T21:19:50+00:00",
+      "source": "https://github.com/anthropics/claude-code/issues/6235",
+      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/6235 Comments URL: https://news.ycombinator.com/item?id=49367350 Points: 223 # Comments: 129"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49367256",
+      "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
+      "slug": "2026-08-19-os8088-com-ibm-xt-os-now-has-a-browser-cp-m-2-2-with-z80-core-and-ms-word-1-1a.html",
+      "path": "posts/2026-08-19-os8088-com-ibm-xt-os-now-has-a-browser-cp-m-2-2-with-z80-core-and-ms-word-1-1a.html",
+      "date_iso": "2026-08-19T21:11:31+00:00",
+      "source": "https://os8088.com/spotlight/",
+      "summary": "Article URL: https://os8088.com/spotlight/ Comments URL: https://news.ycombinator.com/item?id=49367256 Points: 82 # Comments: 38"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html",
+      "title": "Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers",
+      "slug": "2026-08-19-voters-aren-t-waiting-for-november-to-try-ousting-officials-over-data-centers.html",
+      "path": "posts/2026-08-19-voters-aren-t-waiting-for-november-to-try-ousting-officials-over-data-centers.html",
+      "date_iso": "2026-08-19T20:05:47+00:00",
+      "source": "https://www.nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html",
+      "summary": "Residents of Independence, Mo., at a City Council meeting in June."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/19/business/stripe-openrouter-ai.html",
+      "title": "Stripe Buys A.I. Start-Up OpenRouter for $7.5 Billion",
+      "slug": "2026-08-19-stripe-buys-a-i-start-up-openrouter-for-7-5-billion.html",
+      "path": "posts/2026-08-19-stripe-buys-a-i-start-up-openrouter-for-7-5-billion.html",
+      "date_iso": "2026-08-19T20:02:11+00:00",
+      "source": "https://www.nytimes.com/2026/08/19/business/stripe-openrouter-ai.html",
+      "summary": "The deal is significant for the artificial intelligence industry, uniting Stripe’s payments business with OpenRouter’s helping businesses direct their spending on A.I. models."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49366264",
+      "title": "Pixel 11 Pro Fold feels like the end of an era",
+      "slug": "2026-08-19-pixel-11-pro-fold-feels-like-the-end-of-an-era.html",
+      "path": "posts/2026-08-19-pixel-11-pro-fold-feels-like-the-end-of-an-era.html",
+      "date_iso": "2026-08-19T19:43:48+00:00",
+      "source": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
+      "summary": "Article URL: https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review Comments URL: https://news.ycombinator.com/item?id=49366264 Points: 56 # Comments: 124"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49365841",
+      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+      "slug": "2026-08-19-unlocking-a-locked-deactivated-e-waste-cricut-maker.html",
+      "path": "posts/2026-08-19-unlocking-a-locked-deactivated-e-waste-cricut-maker.html",
+      "date_iso": "2026-08-19T19:06:16+00:00",
+      "source": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+      "summary": "Article URL: https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/ Comments URL: https://news.ycombinator.com/item?id=49365841 Points: 192 # Comments: 46"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html",
+      "title": "Google’s Pixel 11 Comes With Plenty of A.I. Does Anyone Want That?",
+      "slug": "2026-08-19-google-s-pixel-11-comes-with-plenty-of-a-i-does-anyone-want-that.html",
+      "path": "posts/2026-08-19-google-s-pixel-11-comes-with-plenty-of-a-i-does-anyone-want-that.html",
+      "date_iso": "2026-08-19T19:06:05+00:00",
+      "source": "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html",
+      "summary": "The phone’s artificial intelligence can order groceries, book tables and take photos on a user’s behalf. But is it something people really want?"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49365443",
+      "title": "Unsloth Dynamic 3.0 GGUFs",
+      "slug": "2026-08-19-unsloth-dynamic-3-0-ggufs.html",
+      "path": "posts/2026-08-19-unsloth-dynamic-3-0-ggufs.html",
+      "date_iso": "2026-08-19T18:36:45+00:00",
+      "source": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+      "summary": "Article URL: https://unsloth.ai/docs/basics/dynamic-3.0-ggufs Comments URL: https://news.ycombinator.com/item?id=49365443 Points: 242 # Comments: 91"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49365405",
+      "title": "Go 1.27",
+      "slug": "2026-08-19-go-1-27.html",
+      "path": "posts/2026-08-19-go-1-27.html",
+      "date_iso": "2026-08-19T18:33:49+00:00",
+      "source": "https://go.dev/blog/go1.27",
+      "summary": "Article URL: https://go.dev/blog/go1.27 Comments URL: https://news.ycombinator.com/item?id=49365405 Points: 597 # Comments: 158"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49364745",
+      "title": "Google has stopped pushing Git tags for some Android source code",
+      "slug": "2026-08-19-google-has-stopped-pushing-git-tags-for-some-android-source-code.html",
+      "path": "posts/2026-08-19-google-has-stopped-pushing-git-tags-for-some-android-source-code.html",
+      "date_iso": "2026-08-19T17:47:29+00:00",
+      "source": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117057099753905023 Comments URL: https://news.ycombinator.com/item?id=49364745 Points: 471 # Comments: 196"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49364559",
+      "title": "OpenRouter is joining Stripe",
+      "slug": "2026-08-19-openrouter-is-joining-stripe.html",
+      "path": "posts/2026-08-19-openrouter-is-joining-stripe.html",
+      "date_iso": "2026-08-19T17:32:38+00:00",
+      "source": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+      "summary": "Previously: Stripe will reportedly acquire OpenRouter for $7B+ https://news.ycombinator.com/item?id=49323381 Comments URL: https://news.ycombinator.com/item?id=49364559 Points: 804 # Comments: 409"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/19/technology/data-centers-backlash-loudoun-virginia.html",
+      "title": "A County Got Rich From Data Centers. Some Question ‘At What Cost?’",
+      "slug": "2026-08-19-a-county-got-rich-from-data-centers-some-question-at-what-cost.html",
+      "path": "posts/2026-08-19-a-county-got-rich-from-data-centers-some-question-at-what-cost.html",
+      "date_iso": "2026-08-19T16:50:35+00:00",
+      "source": "https://www.nytimes.com/2026/08/19/technology/data-centers-backlash-loudoun-virginia.html",
+      "summary": "A data center in Ashburn, Va."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49363710",
+      "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
+      "slug": "2026-08-19-launch-hn-onecli-yc-s26-oss-sandboxed-agent-harness-for-teams.html",
+      "path": "posts/2026-08-19-launch-hn-onecli-yc-s26-oss-sandboxed-agent-harness-for-teams.html",
+      "date_iso": "2026-08-19T16:29:02+00:00",
+      "source": "https://github.com/onecli/onecli",
+      "summary": "Hi HN, Jonathan & Guy here from OneCLI, an agent harness built for teams, giving every employee a secured, sandboxed personal agent. Here’s what you can do with it: 1. get a sandboxed agent, with all the OneCLI capabilities in place like connect your GitHub account, Gmail, Notio…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49363668",
+      "title": "Extensible Software in the age of LLMs",
+      "slug": "2026-08-19-extensible-software-in-the-age-of-llms.html",
+      "path": "posts/2026-08-19-extensible-software-in-the-age-of-llms.html",
+      "date_iso": "2026-08-19T16:26:05+00:00",
+      "source": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+      "summary": "Article URL: https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/ Comments URL: https://news.ycombinator.com/item?id=49363668 Points: 144 # Comments: 58"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/19/arts/comedians-social-media-photos-captions.html",
+      "title": "Some Stand-Up Comics Are Pivoting Away From Video on Social Media",
+      "slug": "2026-08-19-some-stand-up-comics-are-pivoting-away-from-video-on-social-media.html",
+      "path": "posts/2026-08-19-some-stand-up-comics-are-pivoting-away-from-video-on-social-media.html",
+      "date_iso": "2026-08-19T16:13:49+00:00",
+      "source": "https://www.nytimes.com/2026/08/19/arts/comedians-social-media-photos-captions.html",
+      "summary": "Comedians used to post footage of their performances to build a following. Now, some are finding that comic strip-style panels with captions pack a bigger punch."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49362887",
+      "title": "Casio F-B100W-1A",
+      "slug": "2026-08-19-casio-f-b100w-1a.html",
+      "path": "posts/2026-08-19-casio-f-b100w-1a.html",
+      "date_iso": "2026-08-19T15:28:01+00:00",
+      "source": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+      "summary": "Article URL: https://www.casio.com/uk/watches/casio/product.F-B100W-1A/ Comments URL: https://news.ycombinator.com/item?id=49362887 Points: 347 # Comments: 288"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49362728",
+      "title": "Mathematics in the age of AI",
+      "slug": "2026-08-19-mathematics-in-the-age-of-ai.html",
+      "path": "posts/2026-08-19-mathematics-in-the-age-of-ai.html",
+      "date_iso": "2026-08-19T15:14:25+00:00",
+      "source": "https://arxiv.org/abs/2608.16753",
+      "summary": "Article URL: https://arxiv.org/abs/2608.16753 Comments URL: https://news.ycombinator.com/item?id=49362728 Points: 157 # Comments: 185"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49362001",
+      "title": "Manabu Kosaka's Handmade Paper Sculptures",
+      "slug": "2026-08-19-manabu-kosaka-s-handmade-paper-sculptures.html",
+      "path": "posts/2026-08-19-manabu-kosaka-s-handmade-paper-sculptures.html",
+      "date_iso": "2026-08-19T14:20:10+00:00",
+      "source": "https://coca11272000.wixsite.com/manabukosaka",
+      "summary": "Article URL: https://coca11272000.wixsite.com/manabukosaka Comments URL: https://news.ycombinator.com/item?id=49362001 Points: 112 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49361279",
+      "title": "PostgreSQL for Everything",
+      "slug": "2026-08-19-postgresql-for-everything.html",
+      "path": "posts/2026-08-19-postgresql-for-everything.html",
+      "date_iso": "2026-08-19T13:21:21+00:00",
+      "source": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+      "summary": "Article URL: https://www.raphaelbauer.com:443/posts/postgresql-everything/ Comments URL: https://news.ycombinator.com/item?id=49361279 Points: 350 # Comments: 214"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49360545",
+      "title": "Geolocating a random island using geometry and CUDA programming",
+      "slug": "2026-08-19-geolocating-a-random-island-using-geometry-and-cuda-programming.html",
+      "path": "posts/2026-08-19-geolocating-a-random-island-using-geometry-and-cuda-programming.html",
+      "date_iso": "2026-08-19T12:19:52+00:00",
+      "source": "https://yassa9.github.io/osint/gralhix-004/",
+      "summary": "Article URL: https://yassa9.github.io/osint/gralhix-004/ Comments URL: https://news.ycombinator.com/item?id=49360545 Points: 463 # Comments: 78"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49360015",
+      "title": "A joke domain purchase turned in geopolitical warfare",
+      "slug": "2026-08-19-a-joke-domain-purchase-turned-in-geopolitical-warfare.html",
+      "path": "posts/2026-08-19-a-joke-domain-purchase-turned-in-geopolitical-warfare.html",
+      "date_iso": "2026-08-19T11:21:50+00:00",
+      "source": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "summary": "Article URL: https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/ Comments URL: https://news.ycombinator.com/item?id=49360015 Points: 862 # Comments: 132"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49359425",
+      "title": "Air Theremin – A browser theremin you play by waving at your webcam",
+      "slug": "2026-08-19-air-theremin-a-browser-theremin-you-play-by-waving-at-your-webcam.html",
+      "path": "posts/2026-08-19-air-theremin-a-browser-theremin-you-play-by-waving-at-your-webcam.html",
+      "date_iso": "2026-08-19T10:15:00+00:00",
+      "source": "https://theremin.bizibah.com/",
+      "summary": "Article URL: https://theremin.bizibah.com/ Comments URL: https://news.ycombinator.com/item?id=49359425 Points: 269 # Comments: 92"
+    },
+    {
       "id": "https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html",
       "title": "Meta to Stand Trial Over Claims It Addicted Children to Social Media",
       "slug": "2026-08-19-meta-to-stand-trial-over-claims-it-addicted-children-to-social-media.html",
