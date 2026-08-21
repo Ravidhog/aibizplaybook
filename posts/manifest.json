@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49384477",
+      "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
+      "slug": "2026-08-21-show-hn-argentic-an-l402-lightning-toll-booth-for-ai-scraping-agents.html",
+      "path": "posts/2026-08-21-show-hn-argentic-an-l402-lightning-toll-booth-for-ai-scraping-agents.html",
+      "date_iso": "2026-08-21T06:24:16+00:00",
+      "source": "https://Argentic.network",
+      "summary": "Article URL: https://Argentic.network Comments URL: https://news.ycombinator.com/item?id=49384477 Points: 5 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49384224",
+      "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
+      "slug": "2026-08-21-the-religious-experience-of-philip-k-dick-by-r-crumb-1986.html",
+      "path": "posts/2026-08-21-the-religious-experience-of-philip-k-dick-by-r-crumb-1986.html",
+      "date_iso": "2026-08-21T05:39:39+00:00",
+      "source": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
+      "summary": "Article URL: https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/ Comments URL: https://news.ycombinator.com/item?id=49384224 Points: 20 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49384210",
+      "title": "Stop Making TUIs",
+      "slug": "2026-08-21-stop-making-tuis.html",
+      "path": "posts/2026-08-21-stop-making-tuis.html",
+      "date_iso": "2026-08-21T05:37:38+00:00",
+      "source": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+      "summary": "Article URL: https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/ Comments URL: https://news.ycombinator.com/item?id=49384210 Points: 23 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49384180",
+      "title": "Japan tried to build an operating system for the world, the US intervened",
+      "slug": "2026-08-21-japan-tried-to-build-an-operating-system-for-the-world-the-us-intervened.html",
+      "path": "posts/2026-08-21-japan-tried-to-build-an-operating-system-for-the-world-the-us-intervened.html",
+      "date_iso": "2026-08-21T05:31:34+00:00",
+      "source": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+      "summary": "Article URL: https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/ Comments URL: https://news.ycombinator.com/item?id=49384180 Points: 60 # Comments: 27"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49384113",
+      "title": "Seed: Minimal, self-modifying agent harness",
+      "slug": "2026-08-21-seed-minimal-self-modifying-agent-harness.html",
+      "path": "posts/2026-08-21-seed-minimal-self-modifying-agent-harness.html",
+      "date_iso": "2026-08-21T05:20:50+00:00",
+      "source": "https://github.com/vivekhaldar/seed",
+      "summary": "Article URL: https://github.com/vivekhaldar/seed Comments URL: https://news.ycombinator.com/item?id=49384113 Points: 5 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49383326",
+      "title": "Codex on AWS bedrock bug causing 10x charges",
+      "slug": "2026-08-21-codex-on-aws-bedrock-bug-causing-10x-charges.html",
+      "path": "posts/2026-08-21-codex-on-aws-bedrock-bug-causing-10x-charges.html",
+      "date_iso": "2026-08-21T03:17:43+00:00",
+      "source": "https://github.com/openai/codex/issues/37674",
+      "summary": "Article URL: https://github.com/openai/codex/issues/37674 Comments URL: https://news.ycombinator.com/item?id=49383326 Points: 123 # Comments: 38"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49383026",
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "slug": "2026-08-21-ai-companies-destroy-physical-books-let-s-scan-rare-books-before-it-s-too-late.html",
+      "path": "posts/2026-08-21-ai-companies-destroy-physical-books-let-s-scan-rare-books-before-it-s-too-late.html",
+      "date_iso": "2026-08-21T02:37:47+00:00",
+      "source": "https://annas-archive.gl/blog/physical-destruction.html",
+      "summary": "Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49383026 Points: 283 # Comments: 209"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49381896",
+      "title": "Ox Alpha",
+      "slug": "2026-08-20-ox-alpha.html",
+      "path": "posts/2026-08-20-ox-alpha.html",
+      "date_iso": "2026-08-20T23:56:35+00:00",
+      "source": "https://openrouter.ai/stealth/ox-alpha",
+      "summary": "https://twitter.com/OpenRouter/status/2090544970923184269 , https://xcancel.com/OpenRouter/status/2090544970923184269 Comments URL: https://news.ycombinator.com/item?id=49381896 Points: 120 # Comments: 88"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/20/technology/social-media-addiction-lawsuit-dropped.html",
+      "title": "New Jersey Teenager Drops Bellwether Social Media Addiction Lawsuit",
+      "slug": "2026-08-20-new-jersey-teenager-drops-bellwether-social-media-addiction-lawsuit.html",
+      "path": "posts/2026-08-20-new-jersey-teenager-drops-bellwether-social-media-addiction-lawsuit.html",
+      "date_iso": "2026-08-20T22:46:15+00:00",
+      "source": "https://www.nytimes.com/2026/08/20/technology/social-media-addiction-lawsuit-dropped.html",
+      "summary": "Los Angeles County Superior Court. Tech companies have faced thousands of cases filed by teenagers, school districts and state attorneys general that claim that social media features are addictive."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/20/technology/two-binance-employees-detained-uae.html",
+      "title": "Two Binance Employees Detained in the U.A.E. Amid Police Inquiries",
+      "slug": "2026-08-20-two-binance-employees-detained-in-the-u-a-e-amid-police-inquiries.html",
+      "path": "posts/2026-08-20-two-binance-employees-detained-in-the-u-a-e-amid-police-inquiries.html",
+      "date_iso": "2026-08-20T19:57:52+00:00",
+      "source": "https://www.nytimes.com/2026/08/20/technology/two-binance-employees-detained-uae.html",
+      "summary": "Authorities in the United Arab Emirates detained two Binance employees amid police investigations."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49378957",
+      "title": "The August 17 outage",
+      "slug": "2026-08-20-the-august-17-outage.html",
+      "path": "posts/2026-08-20-the-august-17-outage.html",
+      "date_iso": "2026-08-20T19:22:24+00:00",
+      "source": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "summary": "Article URL: https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/ Comments URL: https://news.ycombinator.com/item?id=49378957 Points: 474 # Comments: 541"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49378933",
+      "title": "SpacetimeDB: a short technical review",
+      "slug": "2026-08-20-spacetimedb-a-short-technical-review.html",
+      "path": "posts/2026-08-20-spacetimedb-a-short-technical-review.html",
+      "date_iso": "2026-08-20T19:19:53+00:00",
+      "source": "https://strn.cat/posts/spacetime/",
+      "summary": "Article URL: https://strn.cat/posts/spacetime/ Comments URL: https://news.ycombinator.com/item?id=49378933 Points: 88 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49378768",
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "slug": "2026-08-20-show-hn-huzzah-a-novel-approach-to-coding-with-ai.html",
+      "path": "posts/2026-08-20-show-hn-huzzah-a-novel-approach-to-coding-with-ai.html",
+      "date_iso": "2026-08-20T19:05:36+00:00",
+      "source": "https://www.danielvaughn.dev/posts/huzzah/",
+      "summary": "Hello everyone. I've been working on this experimental editor called Huzzah. I've been working almost exclusively with coding agents since January of this year, and over the past few months I began to feel utterly exhausted by them. They're great, but I'm finding it more and mor…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49378446",
+      "title": "Why aren't smart people happier? (2022)",
+      "slug": "2026-08-20-why-aren-t-smart-people-happier-2022.html",
+      "path": "posts/2026-08-20-why-aren-t-smart-people-happier-2022.html",
+      "date_iso": "2026-08-20T18:38:47+00:00",
+      "source": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
+      "summary": "Article URL: https://www.experimental-history.com/p/why-arent-smart-people-happier Comments URL: https://news.ycombinator.com/item?id=49378446 Points: 156 # Comments: 211"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49378243",
+      "title": "Consumer Rights Wiki",
+      "slug": "2026-08-20-consumer-rights-wiki.html",
+      "path": "posts/2026-08-20-consumer-rights-wiki.html",
+      "date_iso": "2026-08-20T18:19:51+00:00",
+      "source": "https://consumerrights.wiki/w/Main_Page",
+      "summary": "Article URL: https://consumerrights.wiki/w/Main_Page Comments URL: https://news.ycombinator.com/item?id=49378243 Points: 271 # Comments: 50"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49377853",
+      "title": "I should have loved biology (2020)",
+      "slug": "2026-08-20-i-should-have-loved-biology-2020.html",
+      "path": "posts/2026-08-20-i-should-have-loved-biology-2020.html",
+      "date_iso": "2026-08-20T17:50:02+00:00",
+      "source": "https://jsomers.net/i-should-have-loved-biology/",
+      "summary": "Article URL: https://jsomers.net/i-should-have-loved-biology/ Comments URL: https://news.ycombinator.com/item?id=49377853 Points: 257 # Comments: 100"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49377739",
+      "title": "Project Cybersyn (2022)",
+      "slug": "2026-08-20-project-cybersyn-2022.html",
+      "path": "posts/2026-08-20-project-cybersyn-2022.html",
+      "date_iso": "2026-08-20T17:40:49+00:00",
+      "source": "https://bactra.org/notebooks/cybersyn.html",
+      "summary": "Article URL: https://bactra.org/notebooks/cybersyn.html Comments URL: https://news.ycombinator.com/item?id=49377739 Points: 59 # Comments: 45"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49377248",
+      "title": "Sixtyfour (YC P25) Is Hiring",
+      "slug": "2026-08-20-sixtyfour-yc-p25-is-hiring.html",
+      "path": "posts/2026-08-20-sixtyfour-yc-p25-is-hiring.html",
+      "date_iso": "2026-08-20T17:01:05+00:00",
+      "source": "https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern",
+      "summary": "Article URL: https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern Comments URL: https://news.ycombinator.com/item?id=49377248 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49376265",
+      "title": "Linux 7.2",
+      "slug": "2026-08-20-linux-7-2.html",
+      "path": "posts/2026-08-20-linux-7-2.html",
+      "date_iso": "2026-08-20T15:46:18+00:00",
+      "source": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+      "summary": "Article URL: https://www.igalia.com/2026/08/19/Linux-72-Released.html Comments URL: https://news.ycombinator.com/item?id=49376265 Points: 240 # Comments: 88"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49376038",
+      "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
+      "slug": "2026-08-20-launch-hn-vendo-yc-s26-let-users-build-features-on-top-of-your-product.html",
+      "path": "posts/2026-08-20-launch-hn-vendo-yc-s26-let-users-build-features-on-top-of-your-product.html",
+      "date_iso": "2026-08-20T15:29:52+00:00",
+      "source": "https://github.com/runvendo/vendo",
+      "summary": "Hi HN, we’re Yousef & Nour, founders of Vendo ( https://vendo.run ). Vendo lets users create new features inside the software they already use. A user describes the dashboard, workflow, or small app they need, and Vendo builds it on top of the product’s existing data, API, and i…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49375996",
+      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "slug": "2026-08-20-vomit-clean-up-claude-5-s-token-output-with-a-separate-llm.html",
+      "path": "posts/2026-08-20-vomit-clean-up-claude-5-s-token-output-with-a-separate-llm.html",
+      "date_iso": "2026-08-20T15:26:02+00:00",
+      "source": "https://github.com/zachahn/vomit",
+      "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 238 # Comments: 241"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49375719",
+      "title": "Anti-AI fonts are useless and harmful",
+      "slug": "2026-08-20-anti-ai-fonts-are-useless-and-harmful.html",
+      "path": "posts/2026-08-20-anti-ai-fonts-are-useless-and-harmful.html",
+      "date_iso": "2026-08-20T15:06:53+00:00",
+      "source": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+      "summary": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ Comments URL: https://news.ycombinator.com/item?id=49375719 Points: 150 # Comments: 109"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49371006",
       "title": "Windows brings out the Rorschach test in everyone",
       "slug": "2026-08-20-windows-brings-out-the-rorschach-test-in-everyone.html",
