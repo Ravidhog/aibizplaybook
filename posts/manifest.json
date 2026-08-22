@@ -1,6 +1,240 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49397074",
+      "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+      "slug": "2026-08-22-canada-will-match-us-tariffs-dollar-for-dollar-as-trade-talks-break-down.html",
+      "path": "posts/2026-08-22-canada-will-match-us-tariffs-dollar-for-dollar-as-trade-talks-break-down.html",
+      "date_iso": "2026-08-22T06:16:57+00:00",
+      "source": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cvgvyy4x2mvo Comments URL: https://news.ycombinator.com/item?id=49397074 Points: 24 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49395628",
+      "title": "There's no reason for software to be slow anymore",
+      "slug": "2026-08-22-there-s-no-reason-for-software-to-be-slow-anymore.html",
+      "path": "posts/2026-08-22-there-s-no-reason-for-software-to-be-slow-anymore.html",
+      "date_iso": "2026-08-22T01:06:17+00:00",
+      "source": "https://danluu.com/perf-opt/",
+      "summary": "Article URL: https://danluu.com/perf-opt/ Comments URL: https://news.ycombinator.com/item?id=49395628 Points: 330 # Comments: 236"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49395605",
+      "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
+      "slug": "2026-08-22-initial-focus-for-our-partnership-with-motorola-is-a-regular-non-folding-device.html",
+      "path": "posts/2026-08-22-initial-focus-for-our-partnership-with-motorola-is-a-regular-non-folding-device.html",
+      "date_iso": "2026-08-22T01:02:09+00:00",
+      "source": "https://grapheneos.social/@GrapheneOS/117136278553665985",
+      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117136278553665985 Comments URL: https://news.ycombinator.com/item?id=49395605 Points: 99 # Comments: 32"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/21/technology/anthropic-ipo-100-billion.html",
+      "title": "Anthropic Could Aim to Raise $100 Billion in Blockbuster I.P.O.",
+      "slug": "2026-08-22-anthropic-could-aim-to-raise-100-billion-in-blockbuster-i-p-o.html",
+      "path": "posts/2026-08-22-anthropic-could-aim-to-raise-100-billion-in-blockbuster-i-p-o.html",
+      "date_iso": "2026-08-22T00:24:20+00:00",
+      "source": "https://www.nytimes.com/2026/08/21/technology/anthropic-ipo-100-billion.html",
+      "summary": "From right, Dario Amodei, Anthropic’s chief executive, and Daniela Amodei, an Anthropic co-founder and Mr. Amodei’s sister, at a company conference in May."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49395171",
+      "title": "HN: The Good Parts (2016)",
+      "slug": "2026-08-21-hn-the-good-parts-2016.html",
+      "path": "posts/2026-08-21-hn-the-good-parts-2016.html",
+      "date_iso": "2026-08-21T23:53:03+00:00",
+      "source": "https://danluu.com/hn-comments/",
+      "summary": "Article URL: https://danluu.com/hn-comments/ Comments URL: https://news.ycombinator.com/item?id=49395171 Points: 40 # Comments: 8"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/21/technology/tiktok-settlement-justice-department.html",
+      "title": "TikTok Settles With U.S. Over Child Privacy Concerns for $400 Million",
+      "slug": "2026-08-21-tiktok-settles-with-u-s-over-child-privacy-concerns-for-400-million.html",
+      "path": "posts/2026-08-21-tiktok-settles-with-u-s-over-child-privacy-concerns-for-400-million.html",
+      "date_iso": "2026-08-21T23:24:04+00:00",
+      "source": "https://www.nytimes.com/2026/08/21/technology/tiktok-settlement-justice-department.html",
+      "summary": "The government’s 2024 suit claimed that TikTok gathered data from users under the age of 13 without parental permission."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49394827",
+      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "slug": "2026-08-21-show-hn-ozbrain-a-shared-brain-for-knowledge-between-agents-and-your-team.html",
+      "path": "posts/2026-08-21-show-hn-ozbrain-a-shared-brain-for-knowledge-between-agents-and-your-team.html",
+      "date_iso": "2026-08-21T23:09:06+00:00",
+      "source": "https://ozbrain.com",
+      "summary": "I think agent-first chat interfaces will be a primary software modality and busy dashboard/UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow/go with me. A lot of the “knowledge” ie research, analysis, reasoning will be done by agents as the prima…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49394496",
+      "title": "Three important steps in my maturation process",
+      "slug": "2026-08-21-three-important-steps-in-my-maturation-process.html",
+      "path": "posts/2026-08-21-three-important-steps-in-my-maturation-process.html",
+      "date_iso": "2026-08-21T22:29:00+00:00",
+      "source": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+      "summary": "Article URL: https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/ Comments URL: https://news.ycombinator.com/item?id=49394496 Points: 120 # Comments: 45"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49393733",
+      "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
+      "slug": "2026-08-21-salespatriot-yc-w25-is-hiring-forward-deployed-engineers.html",
+      "path": "posts/2026-08-21-salespatriot-yc-w25-is-hiring-forward-deployed-engineers.html",
+      "date_iso": "2026-08-21T21:00:48+00:00",
+      "source": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer Comments URL: https://news.ycombinator.com/item?id=49393733 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/21/business/china-car-recall-doors.html",
+      "title": "In China’s Biggest Car Recall, Tesla and 8 Others Will Address Door Safety",
+      "slug": "2026-08-21-in-china-s-biggest-car-recall-tesla-and-8-others-will-address-door-safety.html",
+      "path": "posts/2026-08-21-in-china-s-biggest-car-recall-tesla-and-8-others-will-address-door-safety.html",
+      "date_iso": "2026-08-21T20:23:13+00:00",
+      "source": "https://www.nytimes.com/2026/08/21/business/china-car-recall-doors.html",
+      "summary": "China is requiring nine automakers to take measures to improve the reliability of retractable door handles popular on electric vehicles."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49393052",
+      "title": "Rust Glancer: Rust LSP using 100x less RAM",
+      "slug": "2026-08-21-rust-glancer-rust-lsp-using-100x-less-ram.html",
+      "path": "posts/2026-08-21-rust-glancer-rust-lsp-using-100x-less-ram.html",
+      "date_iso": "2026-08-21T19:51:54+00:00",
+      "source": "https://rust-glancer.github.io/blog/hello-world/",
+      "summary": "https://matklad.github.io/2026/08/21/rust-glancer.html Comments URL: https://news.ycombinator.com/item?id=49393052 Points: 128 # Comments: 33"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/21/world/europe/zuckerberg-castle-ireland.html",
+      "title": "Mark Zuckerberg Buys an Irish Castle",
+      "slug": "2026-08-21-mark-zuckerberg-buys-an-irish-castle.html",
+      "path": "posts/2026-08-21-mark-zuckerberg-buys-an-irish-castle.html",
+      "date_iso": "2026-08-21T19:16:03+00:00",
+      "source": "https://www.nytimes.com/2026/08/21/world/europe/zuckerberg-castle-ireland.html",
+      "summary": "Strancally Castle in Waterford, Ireland, was built around 1830 and renovated in the early 2000s. It now belongs to Mark Zuckerberg."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49392465",
+      "title": "Tumble Forth – from assembly to OS with C compiler (2023)",
+      "slug": "2026-08-21-tumble-forth-from-assembly-to-os-with-c-compiler-2023.html",
+      "path": "posts/2026-08-21-tumble-forth-from-assembly-to-os-with-c-compiler-2023.html",
+      "date_iso": "2026-08-21T18:59:52+00:00",
+      "source": "https://tumbleforth.hardcoded.net/",
+      "summary": "Article URL: https://tumbleforth.hardcoded.net/ Comments URL: https://news.ycombinator.com/item?id=49392465 Points: 72 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49392200",
+      "title": "Scientists release biggest 2D map of the universe",
+      "slug": "2026-08-21-scientists-release-biggest-2d-map-of-the-universe.html",
+      "path": "posts/2026-08-21-scientists-release-biggest-2d-map-of-the-universe.html",
+      "date_iso": "2026-08-21T18:36:34+00:00",
+      "source": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+      "summary": "Direct link to Legacy Survey Sky Viewer: https://viewer.legacysurvey.org Comments URL: https://news.ycombinator.com/item?id=49392200 Points: 185 # Comments: 55"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49391661",
+      "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)",
+      "slug": "2026-08-21-optimizing-meshoptimizer-to-process-billions-of-triangles-in-minutes-2025.html",
+      "path": "posts/2026-08-21-optimizing-meshoptimizer-to-process-billions-of-triangles-in-minutes-2025.html",
+      "date_iso": "2026-08-21T17:54:06+00:00",
+      "source": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
+      "summary": "Article URL: https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/ Comments URL: https://news.ycombinator.com/item?id=49391661 Points: 15 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49391553",
+      "title": "OTel isn’t going well",
+      "slug": "2026-08-21-otel-isn-t-going-well.html",
+      "path": "posts/2026-08-21-otel-isn-t-going-well.html",
+      "date_iso": "2026-08-21T17:45:41+00:00",
+      "source": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+      "summary": "Article URL: https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/ Comments URL: https://news.ycombinator.com/item?id=49391553 Points: 91 # Comments: 35"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49390910",
+      "title": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
+      "slug": "2026-08-21-litellm-yc-w23-is-hiring-rust-performance-engineers.html",
+      "path": "posts/2026-08-21-litellm-yc-w23-is-hiring-rust-performance-engineers.html",
+      "date_iso": "2026-08-21T17:00:23+00:00",
+      "source": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
+      "summary": "Article URL: https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6 Comments URL: https://news.ycombinator.com/item?id=49390910 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49390427",
+      "title": "Kobo can run apps now",
+      "slug": "2026-08-21-kobo-can-run-apps-now.html",
+      "path": "posts/2026-08-21-kobo-can-run-apps-now.html",
+      "date_iso": "2026-08-21T16:25:25+00:00",
+      "source": "https://bandarlabs.github.io/Cobalt/",
+      "summary": "Article URL: https://bandarlabs.github.io/Cobalt/ Comments URL: https://news.ycombinator.com/item?id=49390427 Points: 507 # Comments: 178"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49389952",
+      "title": "How we made a text-to-speech model respond in sub-50 ms",
+      "slug": "2026-08-21-how-we-made-a-text-to-speech-model-respond-in-sub-50-ms.html",
+      "path": "posts/2026-08-21-how-we-made-a-text-to-speech-model-respond-in-sub-50-ms.html",
+      "date_iso": "2026-08-21T15:51:10+00:00",
+      "source": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+      "summary": "Article URL: https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/ Comments URL: https://news.ycombinator.com/item?id=49389952 Points: 136 # Comments: 33"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49389430",
+      "title": "Felony Bench",
+      "slug": "2026-08-21-felony-bench.html",
+      "path": "posts/2026-08-21-felony-bench.html",
+      "date_iso": "2026-08-21T15:17:04+00:00",
+      "source": "https://www.felonybench.com/",
+      "summary": "Article URL: https://www.felonybench.com/ Comments URL: https://news.ycombinator.com/item?id=49389430 Points: 646 # Comments: 260"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49388752",
+      "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+      "slug": "2026-08-21-claudette-make-claude-stop-talking-like-a-buzzfeed-article.html",
+      "path": "posts/2026-08-21-claudette-make-claude-stop-talking-like-a-buzzfeed-article.html",
+      "date_iso": "2026-08-21T14:31:52+00:00",
+      "source": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+      "summary": "Article URL: https://github.com/adnanakil/nobuzz/blob/main/README.md Comments URL: https://news.ycombinator.com/item?id=49388752 Points: 251 # Comments: 173"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49388694",
+      "title": "Zig’s io.threaded is neat",
+      "slug": "2026-08-21-zig-s-io-threaded-is-neat.html",
+      "path": "posts/2026-08-21-zig-s-io-threaded-is-neat.html",
+      "date_iso": "2026-08-21T14:28:15+00:00",
+      "source": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+      "summary": "Article URL: https://matklad.github.io/2026/08/06/neat-io-threaded.html Comments URL: https://news.ycombinator.com/item?id=49388694 Points: 49 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49388154",
+      "title": "Kagi added a setting for removing paywalled links from search results",
+      "slug": "2026-08-21-kagi-added-a-setting-for-removing-paywalled-links-from-search-results.html",
+      "path": "posts/2026-08-21-kagi-added-a-setting-for-removing-paywalled-links-from-search-results.html",
+      "date_iso": "2026-08-21T13:56:37+00:00",
+      "source": "https://kagi.com/changelog#11296",
+      "summary": "Article URL: https://kagi.com/changelog#11296 Comments URL: https://news.ycombinator.com/item?id=49388154 Points: 1090 # Comments: 358"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49387570",
+      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+      "slug": "2026-08-21-i-accidentally-logged-hundreds-of-thousands-of-phone-calls-to-military-bases.html",
+      "path": "posts/2026-08-21-i-accidentally-logged-hundreds-of-thousands-of-phone-calls-to-military-bases.html",
+      "date_iso": "2026-08-21T13:11:28+00:00",
+      "source": "https://lina.sh/blog/hijacking-e164-arpa",
+      "summary": "Article URL: https://lina.sh/blog/hijacking-e164-arpa Comments URL: https://news.ycombinator.com/item?id=49387570 Points: 516 # Comments: 57"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/21/podcasts/openais-two-week-pause-jill-lepore-on-the-threat-of-the-artificial-state-train-of-thought.html",
+      "title": "OpenAI’s Two-Week Pause + Jill Lepore on the Threat of the “Artificial State” + Train of Thought",
+      "slug": "2026-08-21-openai-s-two-week-pause-jill-lepore-on-the-threat-of-the-artificial-state-train-of-thought.html",
+      "path": "posts/2026-08-21-openai-s-two-week-pause-jill-lepore-on-the-threat-of-the-artificial-state-train-of-thought.html",
+      "date_iso": "2026-08-21T11:32:51+00:00",
+      "source": "https://www.nytimes.com/2026/08/21/podcasts/openais-two-week-pause-jill-lepore-on-the-threat-of-the-artificial-state-train-of-thought.html",
+      "summary": "“It is the first time that we know of that a major lab has voluntarily slowed down.”"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/21/magazine/flock-cameras-surveillance-state.html",
+      "title": "Flock Cameras. Canoodling Lawyers. How Much Surveillance Are We Comfortable With?",
+      "slug": "2026-08-21-flock-cameras-canoodling-lawyers-how-much-surveillance-are-we-comfortable-with.html",
+      "path": "posts/2026-08-21-flock-cameras-canoodling-lawyers-how-much-surveillance-are-we-comfortable-with.html",
+      "date_iso": "2026-08-21T09:02:32+00:00",
+      "source": "https://www.nytimes.com/2026/08/21/magazine/flock-cameras-surveillance-state.html",
+      "summary": "Americans say they hate prying cameras. But they can’t look away."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49384477",
       "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
       "slug": "2026-08-21-show-hn-argentic-an-l402-lightning-toll-booth-for-ai-scraping-agents.html",
