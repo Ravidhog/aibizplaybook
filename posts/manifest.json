@@ -1,6 +1,24 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
+      "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.",
+      "slug": "2026-08-23-four-years-ago-a-crypto-boss-went-missing-now-his-successor-has.html",
+      "path": "posts/2026-08-23-four-years-ago-a-crypto-boss-went-missing-now-his-successor-has.html",
+      "date_iso": "2026-08-23T04:01:08+00:00",
+      "source": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
+      "summary": "Nicole Suszek last month with a phone showing a missing-person poster for her older brother, Sylwester Suszek."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/22/technology/carrier-pigeon-app-texting-technology.html",
+      "title": "Sick of Constant Pings, They’re Sending Texts at the Speed of Carrier Pigeon",
+      "slug": "2026-08-22-sick-of-constant-pings-they-re-sending-texts-at-the-speed-of-carrier-pigeon.html",
+      "path": "posts/2026-08-22-sick-of-constant-pings-they-re-sending-texts-at-the-speed-of-carrier-pigeon.html",
+      "date_iso": "2026-08-22T15:34:31+00:00",
+      "source": "https://www.nytimes.com/2026/08/22/technology/carrier-pigeon-app-texting-technology.html",
+      "summary": "Apps that let users send digital messages at ultraslow speeds have taken off, with users reveling in a slower pace of life. (Just don’t use the them to make dinner plans.)"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49397074",
       "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
       "slug": "2026-08-22-canada-will-match-us-tariffs-dollar-for-dollar-as-trade-talks-break-down.html",
