@@ -1,6 +1,159 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49409200",
+      "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+      "slug": "2026-08-23-slovakia-finds-russian-backdoor-in-traffic-speed-cameras.html",
+      "path": "posts/2026-08-23-slovakia-finds-russian-backdoor-in-traffic-speed-cameras.html",
+      "date_iso": "2026-08-23T14:38:25+00:00",
+      "source": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+      "summary": "Article URL: https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/ Comments URL: https://news.ycombinator.com/item?id=49409200 Points: 21 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49409184",
+      "title": "Authoritarianism of Code",
+      "slug": "2026-08-23-authoritarianism-of-code.html",
+      "path": "posts/2026-08-23-authoritarianism-of-code.html",
+      "date_iso": "2026-08-23T14:36:38+00:00",
+      "source": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/",
+      "summary": "Article URL: https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/ Comments URL: https://news.ycombinator.com/item?id=49409184 Points: 5 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49409092",
+      "title": "What Is a Harness?",
+      "slug": "2026-08-23-what-is-a-harness.html",
+      "path": "posts/2026-08-23-what-is-a-harness.html",
+      "date_iso": "2026-08-23T14:24:21+00:00",
+      "source": "https://earendil.com/posts/what-is-a-harness/",
+      "summary": "Article URL: https://earendil.com/posts/what-is-a-harness/ Comments URL: https://news.ycombinator.com/item?id=49409092 Points: 27 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49408889",
+      "title": "Death to px, long live ch",
+      "slug": "2026-08-23-death-to-px-long-live-ch.html",
+      "path": "posts/2026-08-23-death-to-px-long-live-ch.html",
+      "date_iso": "2026-08-23T13:56:27+00:00",
+      "source": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
+      "summary": "Article URL: https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/ Comments URL: https://news.ycombinator.com/item?id=49408889 Points: 20 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49408858",
+      "title": "My favorite nonfiction books about cults, scams, and schemes",
+      "slug": "2026-08-23-my-favorite-nonfiction-books-about-cults-scams-and-schemes.html",
+      "path": "posts/2026-08-23-my-favorite-nonfiction-books-about-cults-scams-and-schemes.html",
+      "date_iso": "2026-08-23T13:51:10+00:00",
+      "source": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
+      "summary": "Article URL: https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes Comments URL: https://news.ycombinator.com/item?id=49408858 Points: 48 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49408550",
+      "title": "Malware infects Android-based automotive head unit firmware",
+      "slug": "2026-08-23-malware-infects-android-based-automotive-head-unit-firmware.html",
+      "path": "posts/2026-08-23-malware-infects-android-based-automotive-head-unit-firmware.html",
+      "date_iso": "2026-08-23T13:05:38+00:00",
+      "source": "https://securelist.com/android-head-unit-malware/121106/",
+      "summary": "Article URL: https://securelist.com/android-head-unit-malware/121106/ Comments URL: https://news.ycombinator.com/item?id=49408550 Points: 87 # Comments: 40"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html",
+      "title": "How Big Tech Captured American Schools",
+      "slug": "2026-08-23-how-big-tech-captured-american-schools.html",
+      "path": "posts/2026-08-23-how-big-tech-captured-american-schools.html",
+      "date_iso": "2026-08-23T11:13:40+00:00",
+      "source": "https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html",
+      "summary": "Companies like Google and Microsoft have used their money, their might and their massive reach to influence nearly every step of the education supply chain."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49407576",
+      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+      "slug": "2026-08-23-sydney-marathon-medal-mistakenly-depicts-munich-stadium.html",
+      "path": "posts/2026-08-23-sydney-marathon-medal-mistakenly-depicts-munich-stadium.html",
+      "date_iso": "2026-08-23T10:14:48+00:00",
+      "source": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cvg92y1wzn8o Comments URL: https://news.ycombinator.com/item?id=49407576 Points: 90 # Comments: 59"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49407509",
+      "title": "Iranian hackers shut down UK power plant for 4 days",
+      "slug": "2026-08-23-iranian-hackers-shut-down-uk-power-plant-for-4-days.html",
+      "path": "posts/2026-08-23-iranian-hackers-shut-down-uk-power-plant-for-4-days.html",
+      "date_iso": "2026-08-23T10:03:01+00:00",
+      "source": "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/",
+      "summary": "Article URL: https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/ Comments URL: https://news.ycombinator.com/item?id=49407509 Points: 56 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49407507",
+      "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+      "slug": "2026-08-23-i-gave-qwen-3-8-27b-a-reverse-engineering-job-and-it-finished-in-30-minutes.html",
+      "path": "posts/2026-08-23-i-gave-qwen-3-8-27b-a-reverse-engineering-job-and-it-finished-in-30-minutes.html",
+      "date_iso": "2026-08-23T10:02:51+00:00",
+      "source": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+      "summary": "Article URL: https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/ Comments URL: https://news.ycombinator.com/item?id=49407507 Points: 159 # Comments: 80"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49407309",
+      "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
+      "slug": "2026-08-23-show-hn-live-3d-satellite-tracker-and-the-declassified-pentagon-ufo-archive.html",
+      "path": "posts/2026-08-23-show-hn-live-3d-satellite-tracker-and-the-declassified-pentagon-ufo-archive.html",
+      "date_iso": "2026-08-23T09:27:40+00:00",
+      "source": "https://skylens.yantraai.app/",
+      "summary": "Article URL: https://skylens.yantraai.app/ Comments URL: https://news.ycombinator.com/item?id=49407309 Points: 36 # Comments: 17"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/23/us/politics/data-centers-midterm-elections.html",
+      "title": "The Data Center Backlash Bursts Into the Midterms",
+      "slug": "2026-08-23-the-data-center-backlash-bursts-into-the-midterms.html",
+      "path": "posts/2026-08-23-the-data-center-backlash-bursts-into-the-midterms.html",
+      "date_iso": "2026-08-23T09:01:58+00:00",
+      "source": "https://www.nytimes.com/2026/08/23/us/politics/data-centers-midterm-elections.html",
+      "summary": "With opposition to the centers mounting, many Democrats and a growing number of Republicans are campaigning against them."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html",
+      "title": "The U.S. Start-Up Making Low-Cost Interceptors for the Iran War",
+      "slug": "2026-08-23-the-u-s-start-up-making-low-cost-interceptors-for-the-iran-war.html",
+      "path": "posts/2026-08-23-the-u-s-start-up-making-low-cost-interceptors-for-the-iran-war.html",
+      "date_iso": "2026-08-23T09:00:19+00:00",
+      "source": "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html",
+      "summary": "For Florida-based Powerus, becoming a global supplier of counterdrone technology has meant involving the Trumps, a golf course and a new way of doing business."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49406398",
+      "title": "Risk of transmission of amyloid β pathology via transfused blood products",
+      "slug": "2026-08-23-risk-of-transmission-of-amyloid-pathology-via-transfused-blood-products.html",
+      "path": "posts/2026-08-23-risk-of-transmission-of-amyloid-pathology-via-transfused-blood-products.html",
+      "date_iso": "2026-08-23T06:07:06+00:00",
+      "source": "https://doi.org/10.1016/S0140-6736(26)00767-1",
+      "summary": "Article URL: https://doi.org/10.1016/S0140-6736(26)00767-1 Comments URL: https://news.ycombinator.com/item?id=49406398 Points: 24 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49406387",
+      "title": "JIT Compiling Code in 5μs",
+      "slug": "2026-08-23-jit-compiling-code-in-5-s.html",
+      "path": "posts/2026-08-23-jit-compiling-code-in-5-s.html",
+      "date_iso": "2026-08-23T06:04:51+00:00",
+      "source": "https://malisper.me/jit-compiling-code-in-5-us/",
+      "summary": "Article URL: https://malisper.me/jit-compiling-code-in-5-us/ Comments URL: https://news.ycombinator.com/item?id=49406387 Points: 123 # Comments: 78"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49406333",
+      "title": "The End of an Athlon",
+      "slug": "2026-08-23-the-end-of-an-athlon.html",
+      "path": "posts/2026-08-23-the-end-of-an-athlon.html",
+      "date_iso": "2026-08-23T05:51:01+00:00",
+      "source": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
+      "summary": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 143 # Comments: 57"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49406285",
+      "title": "Fast and Hard Code",
+      "slug": "2026-08-23-fast-and-hard-code.html",
+      "path": "posts/2026-08-23-fast-and-hard-code.html",
+      "date_iso": "2026-08-23T05:39:06+00:00",
+      "source": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+      "summary": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49406285 Points: 81 # Comments: 44"
+    },
+    {
       "id": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
       "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.",
       "slug": "2026-08-23-four-years-ago-a-crypto-boss-went-missing-now-his-successor-has.html",
@@ -8,6 +161,60 @@
       "date_iso": "2026-08-23T04:01:08+00:00",
       "source": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
       "summary": "Nicole Suszek last month with a phone showing a missing-person poster for her older brother, Sylwester Suszek."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49405870",
+      "title": "To become a better writer, read as much as you can",
+      "slug": "2026-08-23-to-become-a-better-writer-read-as-much-as-you-can.html",
+      "path": "posts/2026-08-23-to-become-a-better-writer-read-as-much-as-you-can.html",
+      "date_iso": "2026-08-23T03:32:25+00:00",
+      "source": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+      "summary": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 316 # Comments: 208"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49405816",
+      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+      "slug": "2026-08-23-martypc-is-a-cross-platform-emulator-of-early-pcs-written-in-rust.html",
+      "path": "posts/2026-08-23-martypc-is-a-cross-platform-emulator-of-early-pcs-written-in-rust.html",
+      "date_iso": "2026-08-23T03:13:16+00:00",
+      "source": "https://martypc.net/",
+      "summary": "Article URL: https://martypc.net/ Comments URL: https://news.ycombinator.com/item?id=49405816 Points: 154 # Comments: 55"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49405331",
+      "title": "The Art and Beauty of Blade Runner (2015)",
+      "slug": "2026-08-23-the-art-and-beauty-of-blade-runner-2015.html",
+      "path": "posts/2026-08-23-the-art-and-beauty-of-blade-runner-2015.html",
+      "date_iso": "2026-08-23T00:56:03+00:00",
+      "source": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+      "summary": "Article URL: https://nappertime.com/the-art-of-and-beauty-of-blade-runner/ Comments URL: https://news.ycombinator.com/item?id=49405331 Points: 136 # Comments: 68"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49404380",
+      "title": "NanoGPT Speedrun Frontier",
+      "slug": "2026-08-22-nanogpt-speedrun-frontier.html",
+      "path": "posts/2026-08-22-nanogpt-speedrun-frontier.html",
+      "date_iso": "2026-08-22T22:14:27+00:00",
+      "source": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "summary": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun Comments URL: https://news.ycombinator.com/item?id=49404380 Points: 127 # Comments: 31"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49402781",
+      "title": "NetBSD and my life (2005)",
+      "slug": "2026-08-22-netbsd-and-my-life-2005.html",
+      "path": "posts/2026-08-22-netbsd-and-my-life-2005.html",
+      "date_iso": "2026-08-22T19:07:46+00:00",
+      "source": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+      "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 139 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49402491",
+      "title": "Things I want in a modern relational query language",
+      "slug": "2026-08-22-things-i-want-in-a-modern-relational-query-language.html",
+      "path": "posts/2026-08-22-things-i-want-in-a-modern-relational-query-language.html",
+      "date_iso": "2026-08-22T18:38:41+00:00",
+      "source": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
+      "summary": "Article URL: https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/ Comments URL: https://news.ycombinator.com/item?id=49402491 Points: 19 # Comments: 7"
     },
     {
       "id": "https://www.nytimes.com/2026/08/22/technology/carrier-pigeon-app-texting-technology.html",
