@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49429095",
+      "title": "Show HN: Screen memory without screenshots, just text to Markdown",
+      "slug": "2026-08-25-show-hn-screen-memory-without-screenshots-just-text-to-markdown.html",
+      "path": "posts/2026-08-25-show-hn-screen-memory-without-screenshots-just-text-to-markdown.html",
+      "date_iso": "2026-08-25T04:33:24+00:00",
+      "source": "https://github.com/dragthelake/ambient-context",
+      "summary": "It's a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, one file per day, into a folder you choose. Point Claude Code (or anything with file access) at the f…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49428972",
+      "title": "Volcanoes that made history",
+      "slug": "2026-08-25-volcanoes-that-made-history.html",
+      "path": "posts/2026-08-25-volcanoes-that-made-history.html",
+      "date_iso": "2026-08-25T04:09:43+00:00",
+      "source": "https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history",
+      "summary": "Article URL: https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history Comments URL: https://news.ycombinator.com/item?id=49428972 Points: 4 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49428882",
+      "title": "Headlong: A Microharness for Persistent Agents",
+      "slug": "2026-08-25-headlong-a-microharness-for-persistent-agents.html",
+      "path": "posts/2026-08-25-headlong-a-microharness-for-persistent-agents.html",
+      "date_iso": "2026-08-25T03:54:19+00:00",
+      "source": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+      "summary": "Article URL: https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents Comments URL: https://news.ycombinator.com/item?id=49428882 Points: 44 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49428638",
+      "title": "SiFive's First Server Platform",
+      "slug": "2026-08-25-sifive-s-first-server-platform.html",
+      "path": "posts/2026-08-25-sifive-s-first-server-platform.html",
+      "date_iso": "2026-08-25T03:06:26+00:00",
+      "source": "https://chipsandcheese.com/p/sifives-first-server-platform",
+      "summary": "Article URL: https://chipsandcheese.com/p/sifives-first-server-platform Comments URL: https://news.ycombinator.com/item?id=49428638 Points: 31 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49428318",
+      "title": "Thomson Reuters Launches Its Own Frontier Model",
+      "slug": "2026-08-25-thomson-reuters-launches-its-own-frontier-model.html",
+      "path": "posts/2026-08-25-thomson-reuters-launches-its-own-frontier-model.html",
+      "date_iso": "2026-08-25T02:11:39+00:00",
+      "source": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
+      "summary": "Article URL: https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model Comments URL: https://news.ycombinator.com/item?id=49428318 Points: 90 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49428121",
+      "title": "How Universities Should Prepare Founders",
+      "slug": "2026-08-25-how-universities-should-prepare-founders.html",
+      "path": "posts/2026-08-25-how-universities-should-prepare-founders.html",
+      "date_iso": "2026-08-25T01:40:39+00:00",
+      "source": "https://paulgraham.com/prepare.html",
+      "summary": "Article URL: https://paulgraham.com/prepare.html Comments URL: https://news.ycombinator.com/item?id=49428121 Points: 96 # Comments: 115"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49428080",
+      "title": "Was modern art a CIA psy-op? (2020)",
+      "slug": "2026-08-25-was-modern-art-a-cia-psy-op-2020.html",
+      "path": "posts/2026-08-25-was-modern-art-a-cia-psy-op-2020.html",
+      "date_iso": "2026-08-25T01:35:00+00:00",
+      "source": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
+      "summary": "Article URL: https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/ Comments URL: https://news.ycombinator.com/item?id=49428080 Points: 66 # Comments: 72"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49427001",
+      "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
+      "slug": "2026-08-24-bookshelf-self-hosted-ebook-library-that-runs-on-object-storage.html",
+      "path": "posts/2026-08-24-bookshelf-self-hosted-ebook-library-that-runs-on-object-storage.html",
+      "date_iso": "2026-08-24T23:00:37+00:00",
+      "source": "https://github.com/murerkinn/bookshelf",
+      "summary": "Article URL: https://github.com/murerkinn/bookshelf Comments URL: https://news.ycombinator.com/item?id=49427001 Points: 81 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49426564",
+      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+      "slug": "2026-08-24-icloud-hide-my-email-addresses-will-remain-on-icloud-com.html",
+      "path": "posts/2026-08-24-icloud-hide-my-email-addresses-will-remain-on-icloud-com.html",
+      "date_iso": "2026-08-24T22:13:40+00:00",
+      "source": "https://developer.apple.com/news/?id=1ptvdtcm",
+      "summary": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm Comments URL: https://news.ycombinator.com/item?id=49426564 Points: 405 # Comments: 107"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49426466",
+      "title": "Moon (2024)",
+      "slug": "2026-08-24-moon-2024.html",
+      "path": "posts/2026-08-24-moon-2024.html",
+      "date_iso": "2026-08-24T22:06:02+00:00",
+      "source": "https://ciechanow.ski/moon/",
+      "summary": "Article URL: https://ciechanow.ski/moon/ Comments URL: https://news.ycombinator.com/item?id=49426466 Points: 163 # Comments: 30"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49425800",
+      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
+      "slug": "2026-08-24-vintage-artificial-intelligence-before-it-got-awkward.html",
+      "path": "posts/2026-08-24-vintage-artificial-intelligence-before-it-got-awkward.html",
+      "date_iso": "2026-08-24T21:01:38+00:00",
+      "source": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
+      "summary": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 84 # Comments: 18"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/24/travel/american-airlines-laptop-fire.html",
+      "title": "Laptop Fire on American Airlines Flight Injures at Least One Passenger",
+      "slug": "2026-08-24-laptop-fire-on-american-airlines-flight-injures-at-least-one-passenger.html",
+      "path": "posts/2026-08-24-laptop-fire-on-american-airlines-flight-injures-at-least-one-passenger.html",
+      "date_iso": "2026-08-24T19:34:57+00:00",
+      "source": "https://www.nytimes.com/2026/08/24/travel/american-airlines-laptop-fire.html",
+      "summary": "Flight attendants acted quickly to stop a laptop fire on Friday evening aboard an American Airlines flight from Atlanta to Dallas-Fort Worth."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49424606",
+      "title": "Oceans hit highest temperature on record",
+      "slug": "2026-08-24-oceans-hit-highest-temperature-on-record.html",
+      "path": "posts/2026-08-24-oceans-hit-highest-temperature-on-record.html",
+      "date_iso": "2026-08-24T19:19:08+00:00",
+      "source": "https://www.bbc.com/news/articles/c62m4gpnp78o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 505 # Comments: 408"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49424387",
+      "title": "LLMs could control their host machines by exploiting inference engines",
+      "slug": "2026-08-24-llms-could-control-their-host-machines-by-exploiting-inference-engines.html",
+      "path": "posts/2026-08-24-llms-could-control-their-host-machines-by-exploiting-inference-engines.html",
+      "date_iso": "2026-08-24T19:03:06+00:00",
+      "source": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+      "summary": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 131 # Comments: 60"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/24/technology/hugging-face-open-source-ai-attack.html",
+      "title": "After Hugging Face Was Attacked By A.I. Agents, It Embarked on a Crusade",
+      "slug": "2026-08-24-after-hugging-face-was-attacked-by-a-i-agents-it-embarked-on-a-crusade.html",
+      "path": "posts/2026-08-24-after-hugging-face-was-attacked-by-a-i-agents-it-embarked-on-a-crusade.html",
+      "date_iso": "2026-08-24T18:07:41+00:00",
+      "source": "https://www.nytimes.com/2026/08/24/technology/hugging-face-open-source-ai-attack.html",
+      "summary": "Clément Delangue, the chief executive of Hugging Face, which is a vocal supporter of open-source artificial intelligence."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49423539",
+      "title": "Octopus intelligence may be related to never-before-seen mutation",
+      "slug": "2026-08-24-octopus-intelligence-may-be-related-to-never-before-seen-mutation.html",
+      "path": "posts/2026-08-24-octopus-intelligence-may-be-related-to-never-before-seen-mutation.html",
+      "date_iso": "2026-08-24T17:57:13+00:00",
+      "source": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
+      "summary": "Article URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/ Comments URL: https://news.ycombinator.com/item?id=49423539 Points: 142 # Comments: 101"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49423495",
+      "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+      "slug": "2026-08-24-autostep-yc-p26-is-hiring-ai-fullstack-engineers-and-a-chief-of-staff.html",
+      "path": "posts/2026-08-24-autostep-yc-p26-is-hiring-ai-fullstack-engineers-and-a-chief-of-staff.html",
+      "date_iso": "2026-08-24T17:53:14+00:00",
+      "source": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
+      "summary": "Article URL: https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4 Comments URL: https://news.ycombinator.com/item?id=49423495 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49422800",
+      "title": "Where did all the public bathrooms go?",
+      "slug": "2026-08-24-where-did-all-the-public-bathrooms-go.html",
+      "path": "posts/2026-08-24-where-did-all-the-public-bathrooms-go.html",
+      "date_iso": "2026-08-24T17:07:01+00:00",
+      "source": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
+      "summary": "Article URL: https://daily.jstor.org/where-did-all-the-public-bathrooms-go/ Comments URL: https://news.ycombinator.com/item?id=49422800 Points: 219 # Comments: 499"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49422784",
+      "title": "The entire city of San Francisco as a video game",
+      "slug": "2026-08-24-the-entire-city-of-san-francisco-as-a-video-game.html",
+      "path": "posts/2026-08-24-the-entire-city-of-san-francisco-as-a-video-game.html",
+      "date_iso": "2026-08-24T17:05:38+00:00",
+      "source": "https://sf.thijs.gg/",
+      "summary": "https://twitter.com/cdngdev/status/2091909073038082139 , https://xcancel.com/cdngdev/status/2091909073038082139 Comments URL: https://news.ycombinator.com/item?id=49422784 Points: 436 # Comments: 139"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49421536",
+      "title": "Jabber/XMPP: 25 Years of Digital Independence",
+      "slug": "2026-08-24-jabber-xmpp-25-years-of-digital-independence.html",
+      "path": "posts/2026-08-24-jabber-xmpp-25-years-of-digital-independence.html",
+      "date_iso": "2026-08-24T15:51:31+00:00",
+      "source": "https://gultsch.de/posts/25-years-of-digital-independence/",
+      "summary": "Article URL: https://gultsch.de/posts/25-years-of-digital-independence/ Comments URL: https://news.ycombinator.com/item?id=49421536 Points: 214 # Comments: 105"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49421158",
+      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "slug": "2026-08-24-ms-paint-and-photos-inivisibly-watermark-even-locally-generated-output-with-guid.html",
+      "path": "posts/2026-08-24-ms-paint-and-photos-inivisibly-watermark-even-locally-generated-output-with-guid.html",
+      "date_iso": "2026-08-24T15:28:04+00:00",
+      "source": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+      "summary": "Article URL: https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/ Comments URL: https://news.ycombinator.com/item?id=49421158 Points: 673 # Comments: 271"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49420873",
+      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+      "slug": "2026-08-24-xiaomi-new-cpu-matches-apple-cores-single-threaded-much-faster-multithreaded.html",
+      "path": "posts/2026-08-24-xiaomi-new-cpu-matches-apple-cores-single-threaded-much-faster-multithreaded.html",
+      "date_iso": "2026-08-24T15:08:17+00:00",
+      "source": "https://twitter.com/lemire/status/2091894299289874926",
+      "summary": "https://xcancel.com/lemire/status/2091894299289874926 Comments URL: https://news.ycombinator.com/item?id=49420873 Points: 835 # Comments: 584"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49409200",
       "title": "Slovakia finds Russian backdoor in traffic speed cameras",
       "slug": "2026-08-23-slovakia-finds-russian-backdoor-in-traffic-speed-cameras.html",
