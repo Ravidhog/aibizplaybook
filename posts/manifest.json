@@ -1,6 +1,285 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/08/27/technology/openai-letter-ai-attacks.html",
+      "title": "OpenAI and 100 Others Warn That Window to Defend Against A.I. Attacks Is Narrowing",
+      "slug": "2026-08-27-openai-and-100-others-warn-that-window-to-defend-against-a-i-attacks-is-narrowing.html",
+      "path": "posts/2026-08-27-openai-and-100-others-warn-that-window-to-defend-against-a-i-attacks-is-narrowing.html",
+      "date_iso": "2026-08-27T17:55:37+00:00",
+      "source": "https://www.nytimes.com/2026/08/27/technology/openai-letter-ai-attacks.html",
+      "summary": "Sam Altman of OpenAI, which has joined more than 100 tech companies in publishing an open letter warning of a wave of cyberattacks driven by artificial intelligence."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49468315",
+      "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
+      "slug": "2026-08-27-two-german-airport-workers-die-of-malaria-after-mosquito-arrives-on-plane.html",
+      "path": "posts/2026-08-27-two-german-airport-workers-die-of-malaria-after-mosquito-arrives-on-plane.html",
+      "date_iso": "2026-08-27T17:33:13+00:00",
+      "source": "https://www.bbc.com/news/articles/cz6zwgg9y8go",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cz6zwgg9y8go Comments URL: https://news.ycombinator.com/item?id=49468315 Points: 51 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49468083",
+      "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "slug": "2026-08-27-saving-100-terabytes-of-memory-by-optimizing-1-1-1-1-s-dns-cache.html",
+      "path": "posts/2026-08-27-saving-100-terabytes-of-memory-by-optimizing-1-1-1-1-s-dns-cache.html",
+      "date_iso": "2026-08-27T17:17:57+00:00",
+      "source": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "summary": "Article URL: https://blog.cloudflare.com/dns-cache-memory-optimization-1111/ Comments URL: https://news.ycombinator.com/item?id=49468083 Points: 50 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49467837",
+      "title": "Bild AI (YC W25) Is Hiring Product and AI Engineers",
+      "slug": "2026-08-27-bild-ai-yc-w25-is-hiring-product-and-ai-engineers.html",
+      "path": "posts/2026-08-27-bild-ai-yc-w25-is-hiring-product-and-ai-engineers.html",
+      "date_iso": "2026-08-27T17:00:14+00:00",
+      "source": "https://www.bild.ai/jobs",
+      "summary": "Article URL: https://www.bild.ai/jobs Comments URL: https://news.ycombinator.com/item?id=49467837 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49467750",
+      "title": "Flock CEO gets his house blurred out on Google Maps and Zillow",
+      "slug": "2026-08-27-flock-ceo-gets-his-house-blurred-out-on-google-maps-and-zillow.html",
+      "path": "posts/2026-08-27-flock-ceo-gets-his-house-blurred-out-on-google-maps-and-zillow.html",
+      "date_iso": "2026-08-27T16:53:01+00:00",
+      "source": "https://twitter.com/LocumRex/status/2092993787605717176",
+      "summary": "Article URL: https://twitter.com/LocumRex/status/2092993787605717176 Comments URL: https://news.ycombinator.com/item?id=49467750 Points: 43 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49467702",
+      "title": "Grok Bot for Linux: Unofficial port of the official app (open source)",
+      "slug": "2026-08-27-grok-bot-for-linux-unofficial-port-of-the-official-app-open-source.html",
+      "path": "posts/2026-08-27-grok-bot-for-linux-unofficial-port-of-the-official-app-open-source.html",
+      "date_iso": "2026-08-27T16:49:47+00:00",
+      "source": "https://github.com/jakob-bu/grok-bot-linux-unofficial",
+      "summary": "Article URL: https://github.com/jakob-bu/grok-bot-linux-unofficial Comments URL: https://news.ycombinator.com/item?id=49467702 Points: 23 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49467554",
+      "title": "Show HN: See fiber breaks linked to a map",
+      "slug": "2026-08-27-show-hn-see-fiber-breaks-linked-to-a-map.html",
+      "path": "posts/2026-08-27-show-hn-see-fiber-breaks-linked-to-a-map.html",
+      "date_iso": "2026-08-27T16:37:54+00:00",
+      "source": "https://react-networks-lib.rackout.net/otdr-strip",
+      "summary": "Article URL: https://react-networks-lib.rackout.net/otdr-strip Comments URL: https://news.ycombinator.com/item?id=49467554 Points: 10 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49467551",
+      "title": "Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find out why",
+      "slug": "2026-08-27-show-hn-my-claude-quota-ran-out-in-10-minutes-so-i-made-a-tool-to-find-out-why.html",
+      "path": "posts/2026-08-27-show-hn-my-claude-quota-ran-out-in-10-minutes-so-i-made-a-tool-to-find-out-why.html",
+      "date_iso": "2026-08-27T16:37:44+00:00",
+      "source": "https://github.com/kelviq/tare",
+      "summary": "Article URL: https://github.com/kelviq/tare Comments URL: https://news.ycombinator.com/item?id=49467551 Points: 34 # Comments: 16"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/26/technology/meta-settlement-dollars-amount.html",
+      "title": "What Does $17.1 Billion Mean for Meta?",
+      "slug": "2026-08-27-what-does-17-1-billion-mean-for-meta.html",
+      "path": "posts/2026-08-27-what-does-17-1-billion-mean-for-meta.html",
+      "date_iso": "2026-08-27T16:16:20+00:00",
+      "source": "https://www.nytimes.com/2026/08/26/technology/meta-settlement-dollars-amount.html",
+      "summary": "Meta’s entire stock value stands at $1.45 trillion. The $17.1 billion penalty is about 1 percent of that."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49466989",
+      "title": "Why HPSC Is a Big Deal for Space Exploration",
+      "slug": "2026-08-27-why-hpsc-is-a-big-deal-for-space-exploration.html",
+      "path": "posts/2026-08-27-why-hpsc-is-a-big-deal-for-space-exploration.html",
+      "date_iso": "2026-08-27T16:01:09+00:00",
+      "source": "https://www.windriver.com/blog/Why-HPSC-Is-a-Big-Deal-for-Space-Exploration",
+      "summary": "Article URL: https://www.windriver.com/blog/Why-HPSC-Is-a-Big-Deal-for-Space-Exploration Comments URL: https://news.ycombinator.com/item?id=49466989 Points: 13 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49466917",
+      "title": "Small Models Have Arrived",
+      "slug": "2026-08-27-small-models-have-arrived.html",
+      "path": "posts/2026-08-27-small-models-have-arrived.html",
+      "date_iso": "2026-08-27T15:56:58+00:00",
+      "source": "https://calv.info/small-models-have-arrived",
+      "summary": "Article URL: https://calv.info/small-models-have-arrived Comments URL: https://news.ycombinator.com/item?id=49466917 Points: 137 # Comments: 46"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49466894",
+      "title": "Suica, Japan's First IC Transit Card",
+      "slug": "2026-08-27-suica-japan-s-first-ic-transit-card.html",
+      "path": "posts/2026-08-27-suica-japan-s-first-ic-transit-card.html",
+      "date_iso": "2026-08-27T15:55:12+00:00",
+      "source": "https://www.tokyodev.com/articles/the-story-of-suica",
+      "summary": "Article URL: https://www.tokyodev.com/articles/the-story-of-suica Comments URL: https://news.ycombinator.com/item?id=49466894 Points: 65 # Comments: 45"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49466865",
+      "title": "Yayoi Kusama has died",
+      "slug": "2026-08-27-yayoi-kusama-has-died.html",
+      "path": "posts/2026-08-27-yayoi-kusama-has-died.html",
+      "date_iso": "2026-08-27T15:54:00+00:00",
+      "source": "https://www.bbc.com/news/articles/c3v4k0re3vwo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c3v4k0re3vwo Comments URL: https://news.ycombinator.com/item?id=49466865 Points: 105 # Comments: 11"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/27/science/scientists-experiments-replication-ai.html",
+      "title": "Some Scientists Have ‘Magic Hands’ in the Lab. This A.I. Is Learning Why.",
+      "slug": "2026-08-27-some-scientists-have-magic-hands-in-the-lab-this-a-i-is-learning-why.html",
+      "path": "posts/2026-08-27-some-scientists-have-magic-hands-in-the-lab-this-a-i-is-learning-why.html",
+      "date_iso": "2026-08-27T15:53:58+00:00",
+      "source": "https://www.nytimes.com/2026/08/27/science/scientists-experiments-replication-ai.html",
+      "summary": "Even the most adept researchers may not know exactly what they do to get successful results. An A.I. model is trying to figure it out by watching every move."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/27/style/meta-jonathan-haidt-anxious-generation.html",
+      "title": "“Anxious Generation” Author Jonathan Haidt on the Meta Settlement",
+      "slug": "2026-08-27-anxious-generation-author-jonathan-haidt-on-the-meta-settlement.html",
+      "path": "posts/2026-08-27-anxious-generation-author-jonathan-haidt-on-the-meta-settlement.html",
+      "date_iso": "2026-08-27T15:49:42+00:00",
+      "source": "https://www.nytimes.com/2026/08/27/style/meta-jonathan-haidt-anxious-generation.html",
+      "summary": "Jonathan Haidt’s 2024 book on the harms to children from social media was a best seller."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49466715",
+      "title": "Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots",
+      "slug": "2026-08-27-launch-hn-salem-robotics-yc-s26-software-for-industrial-inspection-robots.html",
+      "path": "posts/2026-08-27-launch-hn-salem-robotics-yc-s26-software-for-industrial-inspection-robots.html",
+      "date_iso": "2026-08-27T15:46:04+00:00",
+      "source": "https://news.ycombinator.com/item?id=49466715",
+      "summary": "Hi HN, we're the founders of Salem Robotics ( https://salemroboticsinc.com ). We give existing mobile robots the task-specific intelligence to carry out surveys and physically interactive inspections in hazardous industrial facilities. Here's a video of it running on real robot…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49466622",
+      "title": "Engineered yeast for converting plastic and biomass compounds into food",
+      "slug": "2026-08-27-engineered-yeast-for-converting-plastic-and-biomass-compounds-into-food.html",
+      "path": "posts/2026-08-27-engineered-yeast-for-converting-plastic-and-biomass-compounds-into-food.html",
+      "date_iso": "2026-08-27T15:40:04+00:00",
+      "source": "https://acs.digitellinc.com/live/37/session/586399",
+      "summary": "Article URL: https://acs.digitellinc.com/live/37/session/586399 Comments URL: https://news.ycombinator.com/item?id=49466622 Points: 20 # Comments: 15"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/27/technology/meta-settlement-mark-zuckerberg-youtube-tiktok.html",
+      "title": "Mark Zuckerberg Wants to Make Sure YouTube and TikTok Share His Pain",
+      "slug": "2026-08-27-mark-zuckerberg-wants-to-make-sure-youtube-and-tiktok-share-his-pain.html",
+      "path": "posts/2026-08-27-mark-zuckerberg-wants-to-make-sure-youtube-and-tiktok-share-his-pain.html",
+      "date_iso": "2026-08-27T15:16:46+00:00",
+      "source": "https://www.nytimes.com/2026/08/27/technology/meta-settlement-mark-zuckerberg-youtube-tiktok.html",
+      "summary": "To settle the suits, Meta agreed to drastically rein in children’s’ access to marquee products like Instagram and Facebook."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/27/technology/prediction-markets-states-kalshi-polymarket-lawsuits.html",
+      "title": "Prediction Markets and States Clashed, Setting Off a Furious Political Battle",
+      "slug": "2026-08-27-prediction-markets-and-states-clashed-setting-off-a-furious-political-battle.html",
+      "path": "posts/2026-08-27-prediction-markets-and-states-clashed-setting-off-a-furious-political-battle.html",
+      "date_iso": "2026-08-27T15:08:37+00:00",
+      "source": "https://www.nytimes.com/2026/08/27/technology/prediction-markets-states-kalshi-polymarket-lawsuits.html",
+      "summary": "A legal dispute over the future of Kalshi, Polymarket and others has drawn in the Trump administration, the president’s son and nearly every state attorney general."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49466052",
+      "title": "Nvidia projects $673B in sales as AI demand widens",
+      "slug": "2026-08-27-nvidia-projects-673b-in-sales-as-ai-demand-widens.html",
+      "path": "posts/2026-08-27-nvidia-projects-673b-in-sales-as-ai-demand-widens.html",
+      "date_iso": "2026-08-27T15:04:16+00:00",
+      "source": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/",
+      "summary": "Article URL: https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/ Comments URL: https://news.ycombinator.com/item?id=49466052 Points: 80 # Comments: 61"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49466006",
+      "title": "Decompiling a Nintendo 64 Game in 84 Days",
+      "slug": "2026-08-27-decompiling-a-nintendo-64-game-in-84-days.html",
+      "path": "posts/2026-08-27-decompiling-a-nintendo-64-game-in-84-days.html",
+      "date_iso": "2026-08-27T15:01:11+00:00",
+      "source": "https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/",
+      "summary": "Article URL: https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/ Comments URL: https://news.ycombinator.com/item?id=49466006 Points: 59 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49465784",
+      "title": "Hollywood's Video Game Era Is Here. Will It Be Any Good?",
+      "slug": "2026-08-27-hollywood-s-video-game-era-is-here-will-it-be-any-good.html",
+      "path": "posts/2026-08-27-hollywood-s-video-game-era-is-here-will-it-be-any-good.html",
+      "date_iso": "2026-08-27T14:48:47+00:00",
+      "source": "https://www.statsignificant.com/p/hollywoods-video-game-era-is-here",
+      "summary": "Article URL: https://www.statsignificant.com/p/hollywoods-video-game-era-is-here Comments URL: https://news.ycombinator.com/item?id=49465784 Points: 23 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49465732",
+      "title": "Launching Route 53 Files",
+      "slug": "2026-08-27-launching-route-53-files.html",
+      "path": "posts/2026-08-27-launching-route-53-files.html",
+      "date_iso": "2026-08-27T14:45:23+00:00",
+      "source": "https://www.daemonology.net/blog/2026-08-27-Launching-Route-53-Files.html",
+      "summary": "Article URL: https://www.daemonology.net/blog/2026-08-27-Launching-Route-53-Files.html Comments URL: https://news.ycombinator.com/item?id=49465732 Points: 52 # Comments: 18"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/27/business/energy-environment/california-legislature-plugin-solar.html",
+      "title": "California Lawmakers Pass Plug-In Solar Bill",
+      "slug": "2026-08-27-california-lawmakers-pass-plug-in-solar-bill.html",
+      "path": "posts/2026-08-27-california-lawmakers-pass-plug-in-solar-bill.html",
+      "date_iso": "2026-08-27T14:41:43+00:00",
+      "source": "https://www.nytimes.com/2026/08/27/business/energy-environment/california-legislature-plugin-solar.html",
+      "summary": "A plug-in solar panel on the balcony of a home in Sunnyvale, Calif."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49465461",
+      "title": "The Teaser Period: Why the AI Boom Is Hitting a Reset Wall",
+      "slug": "2026-08-27-the-teaser-period-why-the-ai-boom-is-hitting-a-reset-wall.html",
+      "path": "posts/2026-08-27-the-teaser-period-why-the-ai-boom-is-hitting-a-reset-wall.html",
+      "date_iso": "2026-08-27T14:27:39+00:00",
+      "source": "https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom",
+      "summary": "Article URL: https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom Comments URL: https://news.ycombinator.com/item?id=49465461 Points: 64 # Comments: 57"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49465291",
+      "title": "Show HN: Restoredrill – proves your Postgres backups restore",
+      "slug": "2026-08-27-show-hn-restoredrill-proves-your-postgres-backups-restore.html",
+      "path": "posts/2026-08-27-show-hn-restoredrill-proves-your-postgres-backups-restore.html",
+      "date_iso": "2026-08-27T14:16:23+00:00",
+      "source": "https://github.com/ahmadpiran/restoredrill",
+      "summary": "Article URL: https://github.com/ahmadpiran/restoredrill Comments URL: https://news.ycombinator.com/item?id=49465291 Points: 30 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49465169",
+      "title": "507 Mechanical Movements",
+      "slug": "2026-08-27-507-mechanical-movements.html",
+      "path": "posts/2026-08-27-507-mechanical-movements.html",
+      "date_iso": "2026-08-27T14:08:18+00:00",
+      "source": "https://507movements.com/",
+      "summary": "Book (1868): https://archive.org/details/fivehundredseven00browiala Comments URL: https://news.ycombinator.com/item?id=49465169 Points: 300 # Comments: 39"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/27/technology/meta-anthropic-frenemies.html",
+      "title": "Meta Projected It Could Spend $10 Billion on Anthropic’s A.I.",
+      "slug": "2026-08-27-meta-projected-it-could-spend-10-billion-on-anthropic-s-a-i.html",
+      "path": "posts/2026-08-27-meta-projected-it-could-spend-10-billion-on-anthropic-s-a-i.html",
+      "date_iso": "2026-08-27T14:04:10+00:00",
+      "source": "https://www.nytimes.com/2026/08/27/technology/meta-anthropic-frenemies.html",
+      "summary": "The social networking giant projected it could spend $10 billion annually on Anthropic’s tools, illustrating the friend-foe relationships underlying the A.I. race."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/26/technology/nvidia-profit-ai-doubles-earnings.html",
+      "title": "Nvidia’s Profit Doubles to $59.69 Billion Thanks to A.I. Spending",
+      "slug": "2026-08-27-nvidia-s-profit-doubles-to-59-69-billion-thanks-to-a-i-spending.html",
+      "path": "posts/2026-08-27-nvidia-s-profit-doubles-to-59-69-billion-thanks-to-a-i-spending.html",
+      "date_iso": "2026-08-27T01:05:58+00:00",
+      "source": "https://www.nytimes.com/2026/08/26/technology/nvidia-profit-ai-doubles-earnings.html",
+      "summary": "Jensen Huang, Nvidia’s chief executive, made a big bet years ago on chips and software for artificial intelligence."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html",
+      "title": "Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims",
+      "slug": "2026-08-26-meta-to-pay-up-to-17-1-billion-in-landmark-settlement-over-social-media-addiction-claims.html",
+      "path": "posts/2026-08-26-meta-to-pay-up-to-17-1-billion-in-landmark-settlement-over-social-media-addiction-claims.html",
+      "date_iso": "2026-08-26T22:49:36+00:00",
+      "source": "https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html",
+      "summary": "Meta headquarters in California."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/26/technology/meta-instagram-facebook-settlement.html",
+      "title": "What’s Changing For Teens on Instagram and Facebook After Meta Settlement",
+      "slug": "2026-08-26-what-s-changing-for-teens-on-instagram-and-facebook-after-meta-settlement.html",
+      "path": "posts/2026-08-26-what-s-changing-for-teens-on-instagram-and-facebook-after-meta-settlement.html",
+      "date_iso": "2026-08-26T18:22:32+00:00",
+      "source": "https://www.nytimes.com/2026/08/26/technology/meta-instagram-facebook-settlement.html",
+      "summary": "Meta said that it would change how teenagers use Instagram and Facebook as part of a landmark settlement with 47 states."
+    },
+    {
       "id": "https://www.nytimes.com/2026/08/26/technology/bill-gates-ai-risks.html",
       "title": "Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit",
       "slug": "2026-08-26-bill-gates-is-warning-that-a-i-is-more-dangerous-than-big-tech-will-admit.html",
