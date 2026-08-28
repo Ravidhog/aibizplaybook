@@ -1,6 +1,51 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/08/28/technology/meta-social-media-big-tobacco.html",
+      "title": "Social Media and the Myth of the Big Tobacco Moment",
+      "slug": "2026-08-28-social-media-and-the-myth-of-the-big-tobacco-moment.html",
+      "path": "posts/2026-08-28-social-media-and-the-myth-of-the-big-tobacco-moment.html",
+      "date_iso": "2026-08-28T18:52:04+00:00",
+      "source": "https://www.nytimes.com/2026/08/28/technology/meta-social-media-big-tobacco.html",
+      "summary": "Meta will pay up to $17.1 billion over a decade and make changes to its social media properties to make them less compulsive for young people."
+    },
+    {
+      "id": "https://www.nytimes.com/video/technology/100000011114831/explaining-metas-17-billion-dollar-settlement.html",
+      "title": "What Meta’s $17 Billion Settlement Means",
+      "slug": "2026-08-28-what-meta-s-17-billion-settlement-means.html",
+      "path": "posts/2026-08-28-what-meta-s-17-billion-settlement-means.html",
+      "date_iso": "2026-08-28T16:06:48+00:00",
+      "source": "https://www.nytimes.com/video/technology/100000011114831/explaining-metas-17-billion-dollar-settlement.html",
+      "summary": "Our reporter Cecilia Kang explains Meta’s settlement of a lawsuit claiming that the company’s social media platforms had harmed teenage users."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/28/technology/social-media-bans-meta.html",
+      "title": "Why Countries Are Pushing Social Media Bans Despite Their Flaws",
+      "slug": "2026-08-28-why-countries-are-pushing-social-media-bans-despite-their-flaws.html",
+      "path": "posts/2026-08-28-why-countries-are-pushing-social-media-bans-despite-their-flaws.html",
+      "date_iso": "2026-08-28T13:46:28+00:00",
+      "source": "https://www.nytimes.com/2026/08/28/technology/social-media-bans-meta.html",
+      "summary": "Teenagers in Australia on their phones. The country’s social media ban, which took effect in December, has so far failed to keep children off the platforms."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/28/podcasts/hardfork-meta-settlement.html",
+      "title": "Meta Shifts the Blame + Do Data Center Bans Work? + The Final HatGPT",
+      "slug": "2026-08-28-meta-shifts-the-blame-do-data-center-bans-work-the-final-hatgpt.html",
+      "path": "posts/2026-08-28-meta-shifts-the-blame-do-data-center-bans-work-the-final-hatgpt.html",
+      "date_iso": "2026-08-28T11:00:03+00:00",
+      "source": "https://www.nytimes.com/2026/08/28/podcasts/hardfork-meta-settlement.html",
+      "summary": "Meta negotiated an unusual provision in their landmark settlement: If TikTok and YouTube also agree to penalties and changes to their products, Meta will pay more."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+      "title": "Trump Administration’s Blacklisting of Anthropic Was Illegal, Judge Rules",
+      "slug": "2026-08-28-trump-administration-s-blacklisting-of-anthropic-was-illegal-judge-rules.html",
+      "path": "posts/2026-08-28-trump-administration-s-blacklisting-of-anthropic-was-illegal-judge-rules.html",
+      "date_iso": "2026-08-28T02:28:13+00:00",
+      "source": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+      "summary": "Anthropic, led by Dario Amodei, was barred from government work after it insisted that its technology not be used in mass surveillance of Americans or for autonomous lethal weapons."
+    },
+    {
       "id": "https://www.nytimes.com/2026/08/27/technology/openai-letter-ai-attacks.html",
       "title": "OpenAI and 100 Others Warn That Window to Defend Against A.I. Attacks Is Narrowing",
       "slug": "2026-08-27-openai-and-100-others-warn-that-window-to-defend-against-a-i-attacks-is-narrowing.html",
