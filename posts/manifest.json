@@ -1,6 +1,114 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49489057",
+      "title": "Iceland votes on whether to restart talks on joining EU",
+      "slug": "2026-08-29-iceland-votes-on-whether-to-restart-talks-on-joining-eu.html",
+      "path": "posts/2026-08-29-iceland-votes-on-whether-to-restart-talks-on-joining-eu.html",
+      "date_iso": "2026-08-29T11:39:38+00:00",
+      "source": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cn45vdxyvvlo Comments URL: https://news.ycombinator.com/item?id=49489057 Points: 88 # Comments: 99"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/29/technology/meta-states-settlement.html",
+      "title": "How Meta’s $17.1 Billion Social Media Settlement Came Together",
+      "slug": "2026-08-29-how-meta-s-17-1-billion-social-media-settlement-came-together.html",
+      "path": "posts/2026-08-29-how-meta-s-17-1-billion-social-media-settlement-came-together.html",
+      "date_iso": "2026-08-29T11:00:06+00:00",
+      "source": "https://www.nytimes.com/2026/08/29/technology/meta-states-settlement.html",
+      "summary": "Meta’s $17.1 billion agreement with states followed losses in court over claims that the social media is addictive and harmful to children."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html",
+      "title": "Political Campaigns Are Quietly Paying Influencers to Support Candidates",
+      "slug": "2026-08-29-political-campaigns-are-quietly-paying-influencers-to-support-candidates.html",
+      "path": "posts/2026-08-29-political-campaigns-are-quietly-paying-influencers-to-support-candidates.html",
+      "date_iso": "2026-08-29T09:00:16+00:00",
+      "source": "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html",
+      "summary": "Their videos have proliferated on social media, but the payments are frequently hidden from viewers."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49487341",
+      "title": "Samsung's Processing-in-Memory (PIM)",
+      "slug": "2026-08-29-samsung-s-processing-in-memory-pim.html",
+      "path": "posts/2026-08-29-samsung-s-processing-in-memory-pim.html",
+      "date_iso": "2026-08-29T06:06:51+00:00",
+      "source": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+      "summary": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing Comments URL: https://news.ycombinator.com/item?id=49487341 Points: 138 # Comments: 46"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49486334",
+      "title": "TurboKV: Insanely fast Rust key-value store",
+      "slug": "2026-08-29-turbokv-insanely-fast-rust-key-value-store.html",
+      "path": "posts/2026-08-29-turbokv-insanely-fast-rust-key-value-store.html",
+      "date_iso": "2026-08-29T02:23:37+00:00",
+      "source": "https://github.com/kingroryg/turbokv",
+      "summary": "Article URL: https://github.com/kingroryg/turbokv Comments URL: https://news.ycombinator.com/item?id=49486334 Points: 127 # Comments: 56"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49486172",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "slug": "2026-08-29-our-decision-on-cursor-following-its-acquisition-by-spacex.html",
+      "path": "posts/2026-08-29-our-decision-on-cursor-following-its-acquisition-by-spacex.html",
+      "date_iso": "2026-08-29T01:47:53+00:00",
+      "source": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "summary": "Article URL: https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/ Comments URL: https://news.ycombinator.com/item?id=49486172 Points: 599 # Comments: 343"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49486081",
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "slug": "2026-08-29-stemdeck-a-free-open-source-and-local-ai-stem-separator.html",
+      "path": "posts/2026-08-29-stemdeck-a-free-open-source-and-local-ai-stem-separator.html",
+      "date_iso": "2026-08-29T01:24:13+00:00",
+      "source": "https://github.com/stemdeckapp/stemdeck",
+      "summary": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 124 # Comments: 27"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49485532",
+      "title": "Does the Sumerian King List Align with Paleoclimate Events?",
+      "slug": "2026-08-28-does-the-sumerian-king-list-align-with-paleoclimate-events.html",
+      "path": "posts/2026-08-28-does-the-sumerian-king-list-align-with-paleoclimate-events.html",
+      "date_iso": "2026-08-28T23:46:10+00:00",
+      "source": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
+      "summary": "Article URL: https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/ Comments URL: https://news.ycombinator.com/item?id=49485532 Points: 108 # Comments: 55"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49485452",
+      "title": "9th Circuit sides with states in Kalshi gambling fight",
+      "slug": "2026-08-28-9th-circuit-sides-with-states-in-kalshi-gambling-fight.html",
+      "path": "posts/2026-08-28-9th-circuit-sides-with-states-in-kalshi-gambling-fight.html",
+      "date_iso": "2026-08-28T23:32:22+00:00",
+      "source": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
+      "summary": "Article URL: https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/ Comments URL: https://news.ycombinator.com/item?id=49485452 Points: 142 # Comments: 118"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49485416",
+      "title": "I accidentally turned LLM memory into program analysis",
+      "slug": "2026-08-28-i-accidentally-turned-llm-memory-into-program-analysis.html",
+      "path": "posts/2026-08-28-i-accidentally-turned-llm-memory-into-program-analysis.html",
+      "date_iso": "2026-08-28T23:27:45+00:00",
+      "source": "https://pwning.systems/posts/llm-memory-program-analysis/",
+      "summary": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49485416 Points: 180 # Comments: 45"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/28/technology/kalshi-prediction-markets-federal-courts.html",
+      "title": "Prediction Markets Should Be Regulated as Gambling, Appeals Court Says",
+      "slug": "2026-08-28-prediction-markets-should-be-regulated-as-gambling-appeals-court-says.html",
+      "path": "posts/2026-08-28-prediction-markets-should-be-regulated-as-gambling-appeals-court-says.html",
+      "date_iso": "2026-08-28T23:15:45+00:00",
+      "source": "https://www.nytimes.com/2026/08/28/technology/kalshi-prediction-markets-federal-courts.html",
+      "summary": "Prediction markets, notably Kalshi, have exploded in popularity this year."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49485267",
+      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "slug": "2026-08-28-boot-a-virtual-iphone-via-apple-s-virtualization-framework.html",
+      "path": "posts/2026-08-28-boot-a-virtual-iphone-via-apple-s-virtualization-framework.html",
+      "date_iso": "2026-08-28T23:02:21+00:00",
+      "source": "https://github.com/Lakr233/vphone-cli",
+      "summary": "Article URL: https://github.com/Lakr233/vphone-cli Comments URL: https://news.ycombinator.com/item?id=49485267 Points: 306 # Comments: 83"
+    },
+    {
       "id": "https://www.nytimes.com/2026/08/28/technology/meta-social-media-big-tobacco.html",
       "title": "Social Media and the Myth of the Big Tobacco Moment",
       "slug": "2026-08-28-social-media-and-the-myth-of-the-big-tobacco-moment.html",
@@ -19,6 +127,51 @@
       "summary": "Our reporter Cecilia Kang explains Meta’s settlement of a lawsuit claiming that the company’s social media platforms had harmed teenage users."
     },
     {
+      "id": "https://news.ycombinator.com/item?id=49480466",
+      "title": "Just the rumour of a bug is enough to find an exploit these days",
+      "slug": "2026-08-28-just-the-rumour-of-a-bug-is-enough-to-find-an-exploit-these-days.html",
+      "path": "posts/2026-08-28-just-the-rumour-of-a-bug-is-enough-to-find-an-exploit-these-days.html",
+      "date_iso": "2026-08-28T15:58:46+00:00",
+      "source": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+      "summary": "Article URL: https://anil.recoil.org/notes/rumour-is-the-exploit Comments URL: https://news.ycombinator.com/item?id=49480466 Points: 340 # Comments: 115"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49479924",
+      "title": "EasyEffects can improve laptop speaker sound quality",
+      "slug": "2026-08-28-easyeffects-can-improve-laptop-speaker-sound-quality.html",
+      "path": "posts/2026-08-28-easyeffects-can-improve-laptop-speaker-sound-quality.html",
+      "date_iso": "2026-08-28T15:23:10+00:00",
+      "source": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
+      "summary": "Article URL: https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/ Comments URL: https://news.ycombinator.com/item?id=49479924 Points: 170 # Comments: 69"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49479878",
+      "title": "GLM-5.3 is now open-weight",
+      "slug": "2026-08-28-glm-5-3-is-now-open-weight.html",
+      "path": "posts/2026-08-28-glm-5-3-is-now-open-weight.html",
+      "date_iso": "2026-08-28T15:20:13+00:00",
+      "source": "https://huggingface.co/zai-org/GLM-5.3",
+      "summary": "https://twitter.com/Zai_org/status/2093354097122455713 https://z.ai/blog/glm-5.3 Comments URL: https://news.ycombinator.com/item?id=49479878 Points: 722 # Comments: 241"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49479837",
+      "title": "GUIs should be fully keyboard-driven",
+      "slug": "2026-08-28-guis-should-be-fully-keyboard-driven.html",
+      "path": "posts/2026-08-28-guis-should-be-fully-keyboard-driven.html",
+      "date_iso": "2026-08-28T15:17:09+00:00",
+      "source": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+      "summary": "Article URL: https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html Comments URL: https://news.ycombinator.com/item?id=49479837 Points: 870 # Comments: 434"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49479072",
+      "title": "Verschlimmbesserung: The Word Your Software Updates Need",
+      "slug": "2026-08-28-verschlimmbesserung-the-word-your-software-updates-need.html",
+      "path": "posts/2026-08-28-verschlimmbesserung-the-word-your-software-updates-need.html",
+      "date_iso": "2026-08-28T14:30:33+00:00",
+      "source": "https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/",
+      "summary": "Article URL: https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/ Comments URL: https://news.ycombinator.com/item?id=49479072 Points: 149 # Comments: 103"
+    },
+    {
       "id": "https://www.nytimes.com/2026/08/28/technology/social-media-bans-meta.html",
       "title": "Why Countries Are Pushing Social Media Bans Despite Their Flaws",
       "slug": "2026-08-28-why-countries-are-pushing-social-media-bans-despite-their-flaws.html",
@@ -26,6 +179,42 @@
       "date_iso": "2026-08-28T13:46:28+00:00",
       "source": "https://www.nytimes.com/2026/08/28/technology/social-media-bans-meta.html",
       "summary": "Teenagers in Australia on their phones. The country’s social media ban, which took effect in December, has so far failed to keep children off the platforms."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49478178",
+      "title": "Htmx 4.0",
+      "slug": "2026-08-28-htmx-4-0.html",
+      "path": "posts/2026-08-28-htmx-4-0.html",
+      "date_iso": "2026-08-28T13:28:56+00:00",
+      "source": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+      "summary": "Article URL: https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released Comments URL: https://news.ycombinator.com/item?id=49478178 Points: 703 # Comments: 174"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49477854",
+      "title": "U.S. sanctions against the A/I Collective",
+      "slug": "2026-08-28-u-s-sanctions-against-the-a-i-collective.html",
+      "path": "posts/2026-08-28-u-s-sanctions-against-the-a-i-collective.html",
+      "date_iso": "2026-08-28T12:58:53+00:00",
+      "source": "https://www.inventati.org/",
+      "summary": "Earlier: US Government designates host of noblogs.org a \"global terrorist\" - https://news.ycombinator.com/item?id=49464391 - (131 comments) US sanctions Italian hosting provider Autistici Inventati - https://news.ycombinator.com/item?id=49451343 - (219 comments) Comments URL: ht…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49477564",
+      "title": "Inception-style curved map for turn-by-turn directions",
+      "slug": "2026-08-28-inception-style-curved-map-for-turn-by-turn-directions.html",
+      "path": "posts/2026-08-28-inception-style-curved-map-for-turn-by-turn-directions.html",
+      "date_iso": "2026-08-28T12:29:05+00:00",
+      "source": "https://www.orbify.eu/demo/",
+      "summary": "Article URL: https://www.orbify.eu/demo/ Comments URL: https://news.ycombinator.com/item?id=49477564 Points: 529 # Comments: 178"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49477212",
+      "title": "Migrating to HTTPX2",
+      "slug": "2026-08-28-migrating-to-httpx2.html",
+      "path": "posts/2026-08-28-migrating-to-httpx2.html",
+      "date_iso": "2026-08-28T11:51:20+00:00",
+      "source": "https://github.com/openai/openai-python/blob/main/httpx2.md",
+      "summary": "Article URL: https://github.com/openai/openai-python/blob/main/httpx2.md Comments URL: https://news.ycombinator.com/item?id=49477212 Points: 200 # Comments: 90"
     },
     {
       "id": "https://www.nytimes.com/2026/08/28/podcasts/hardfork-meta-settlement.html",
@@ -44,6 +233,15 @@
       "date_iso": "2026-08-28T02:28:13+00:00",
       "source": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
       "summary": "Anthropic, led by Dario Amodei, was barred from government work after it insisted that its technology not be used in mass surveillance of Americans or for autonomous lethal weapons."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49472216",
+      "title": "The Twelve-Factor App (2025)",
+      "slug": "2026-08-27-the-twelve-factor-app-2025.html",
+      "path": "posts/2026-08-27-the-twelve-factor-app-2025.html",
+      "date_iso": "2026-08-27T22:41:11+00:00",
+      "source": "https://12factor.net/",
+      "summary": "Article URL: https://12factor.net/ Comments URL: https://news.ycombinator.com/item?id=49472216 Points: 280 # Comments: 154"
     },
     {
       "id": "https://www.nytimes.com/2026/08/27/technology/openai-letter-ai-attacks.html",
@@ -314,6 +512,15 @@
       "date_iso": "2026-08-26T22:49:36+00:00",
       "source": "https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html",
       "summary": "Meta headquarters in California."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49456819",
+      "title": "Europe's last regular standard-gauge steam passenger service",
+      "slug": "2026-08-26-europe-s-last-regular-standard-gauge-steam-passenger-service.html",
+      "path": "posts/2026-08-26-europe-s-last-regular-standard-gauge-steam-passenger-service.html",
+      "date_iso": "2026-08-26T22:32:00+00:00",
+      "source": "https://parowozowniawolsztyn.pl/?page_id=2141",
+      "summary": "Article URL: https://parowozowniawolsztyn.pl/?page_id=2141 Comments URL: https://news.ycombinator.com/item?id=49456819 Points: 62 # Comments: 18"
     },
     {
       "id": "https://www.nytimes.com/2026/08/26/technology/meta-instagram-facebook-settlement.html",
