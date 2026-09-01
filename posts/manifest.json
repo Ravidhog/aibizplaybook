@@ -1,6 +1,159 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49520270",
+      "title": "Lake Ontario (\"Lake America\")",
+      "slug": "2026-09-01-lake-ontario-lake-america.html",
+      "path": "posts/2026-09-01-lake-ontario-lake-america.html",
+      "date_iso": "2026-09-01T10:56:03+00:00",
+      "source": "https://community.openstreetmap.org/t/lake-ontario-lake-america/146975",
+      "summary": "Article URL: https://community.openstreetmap.org/t/lake-ontario-lake-america/146975 Comments URL: https://news.ycombinator.com/item?id=49520270 Points: 29 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49520022",
+      "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+      "slug": "2026-09-01-ankidroid-google-play-no-longer-allowing-open-collective-donation-link.html",
+      "path": "posts/2026-09-01-ankidroid-google-play-no-longer-allowing-open-collective-donation-link.html",
+      "date_iso": "2026-09-01T10:11:02+00:00",
+      "source": "https://github.com/ankidroid/Anki-Android/issues/21656",
+      "summary": "Article URL: https://github.com/ankidroid/Anki-Android/issues/21656 Comments URL: https://news.ycombinator.com/item?id=49520022 Points: 208 # Comments: 30"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49519939",
+      "title": "44% on ARC-AGI-1 in 67 cents",
+      "slug": "2026-09-01-44-on-arc-agi-1-in-67-cents.html",
+      "path": "posts/2026-09-01-44-on-arc-agi-1-in-67-cents.html",
+      "date_iso": "2026-09-01T09:52:45+00:00",
+      "source": "https://mvakde.github.io/blog/44-on-arc-1/",
+      "summary": "Article URL: https://mvakde.github.io/blog/44-on-arc-1/ Comments URL: https://news.ycombinator.com/item?id=49519939 Points: 97 # Comments: 31"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49519902",
+      "title": "NASA: Fill in a name, and you can have an exclusive coordinate in the universe",
+      "slug": "2026-09-01-nasa-fill-in-a-name-and-you-can-have-an-exclusive-coordinate-in-the-universe.html",
+      "path": "posts/2026-09-01-nasa-fill-in-a-name-and-you-can-have-an-exclusive-coordinate-in-the-universe.html",
+      "date_iso": "2026-09-01T09:46:39+00:00",
+      "source": "https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel/",
+      "summary": "Article URL: https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel/ Comments URL: https://news.ycombinator.com/item?id=49519902 Points: 26 # Comments: 26"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/01/technology/apple-tim-cook-john-ternus.html",
+      "title": "John Ternus Replaces Tim Cook as Apple CEO",
+      "slug": "2026-09-01-john-ternus-replaces-tim-cook-as-apple-ceo.html",
+      "path": "posts/2026-09-01-john-ternus-replaces-tim-cook-as-apple-ceo.html",
+      "date_iso": "2026-09-01T09:01:55+00:00",
+      "source": "https://www.nytimes.com/2026/09/01/technology/apple-tim-cook-john-ternus.html",
+      "summary": "John Ternus, right, who became Apple’s chief executive on Tuesday, with Tim Cook, who held the job for 15 years, at the Sun Valley Conference in Idaho in July."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49518877",
+      "title": "CollectWise (YC F24) Is Hiring",
+      "slug": "2026-09-01-collectwise-yc-f24-is-hiring.html",
+      "path": "posts/2026-09-01-collectwise-yc-f24-is-hiring.html",
+      "date_iso": "2026-09-01T07:01:49+00:00",
+      "source": "https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer Comments URL: https://news.ycombinator.com/item?id=49518877 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49517624",
+      "title": "Restroom Archive",
+      "slug": "2026-09-01-restroom-archive.html",
+      "path": "posts/2026-09-01-restroom-archive.html",
+      "date_iso": "2026-09-01T03:23:48+00:00",
+      "source": "https://restroomarchive.com",
+      "summary": "Article URL: https://restroomarchive.com Comments URL: https://news.ycombinator.com/item?id=49517624 Points: 164 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49517584",
+      "title": "GPU World",
+      "slug": "2026-09-01-gpu-world.html",
+      "path": "posts/2026-09-01-gpu-world.html",
+      "date_iso": "2026-09-01T03:16:36+00:00",
+      "source": "https://www.gpuworld.org/",
+      "summary": "Article URL: https://www.gpuworld.org/ Comments URL: https://news.ycombinator.com/item?id=49517584 Points: 279 # Comments: 156"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49517448",
+      "title": "Fastpotify",
+      "slug": "2026-09-01-fastpotify.html",
+      "path": "posts/2026-09-01-fastpotify.html",
+      "date_iso": "2026-09-01T02:52:14+00:00",
+      "source": "https://fastpotify.rocks/",
+      "summary": "Article URL: https://fastpotify.rocks/ Comments URL: https://news.ycombinator.com/item?id=49517448 Points: 491 # Comments: 278"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49517297",
+      "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
+      "slug": "2026-09-01-rotarycell-making-an-unmodified-rotary-phone-work-over-lte-with-an-esp32-s3.html",
+      "path": "posts/2026-09-01-rotarycell-making-an-unmodified-rotary-phone-work-over-lte-with-an-esp32-s3.html",
+      "date_iso": "2026-09-01T02:29:23+00:00",
+      "source": "https://github.com/fregacmols/RotaryCell",
+      "summary": "Article URL: https://github.com/fregacmols/RotaryCell Comments URL: https://news.ycombinator.com/item?id=49517297 Points: 87 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49516199",
+      "title": "Evidence of Fraud in an Influential Study About Procrastination",
+      "slug": "2026-08-31-evidence-of-fraud-in-an-influential-study-about-procrastination.html",
+      "path": "posts/2026-08-31-evidence-of-fraud-in-an-influential-study-about-procrastination.html",
+      "date_iso": "2026-08-31T23:45:56+00:00",
+      "source": "https://datacolada.org/138",
+      "summary": "Article URL: https://datacolada.org/138 Comments URL: https://news.ycombinator.com/item?id=49516199 Points: 272 # Comments: 183"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49516059",
+      "title": "Tmp.0ut Volume 5",
+      "slug": "2026-08-31-tmp-0ut-volume-5.html",
+      "path": "posts/2026-08-31-tmp-0ut-volume-5.html",
+      "date_iso": "2026-08-31T23:26:08+00:00",
+      "source": "https://tmpout.sh/5/",
+      "summary": "Article URL: https://tmpout.sh/5/ Comments URL: https://news.ycombinator.com/item?id=49516059 Points: 104 # Comments: 27"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/08/31/technology/ftc-amazon-lawsuit-ad-prices.html",
+      "title": "FTC and 22 States Sue Amazon Over Advertising Practices",
+      "slug": "2026-08-31-ftc-and-22-states-sue-amazon-over-advertising-practices.html",
+      "path": "posts/2026-08-31-ftc-and-22-states-sue-amazon-over-advertising-practices.html",
+      "date_iso": "2026-08-31T22:26:37+00:00",
+      "source": "https://www.nytimes.com/2026/08/31/technology/ftc-amazon-lawsuit-ad-prices.html",
+      "summary": "The Federal Trade Commission and the states said Amazon misled brands and sellers into paying more for ads; the company is denying the accusations."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49512975",
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "slug": "2026-08-31-a-walkable-ascii-cyberpunk-city-in-one-html-file-video.html",
+      "path": "posts/2026-08-31-a-walkable-ascii-cyberpunk-city-in-one-html-file-video.html",
+      "date_iso": "2026-08-31T18:21:33+00:00",
+      "source": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "summary": "ASCII City: Traffic and Detail Update - https://www.youtube.com/watch?v=DSRooHo_HSI ASCII City Update: Interiors, Elevation and Skyscrapers - https://www.youtube.com/watch?v=UCKEDWowc0o Comments URL: https://news.ycombinator.com/item?id=49512975 Points: 342 # Comments: 48"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49511856",
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "slug": "2026-08-31-i-turned-my-security-cameras-into-an-automatic-bird-identification-system.html",
+      "path": "posts/2026-08-31-i-turned-my-security-cameras-into-an-automatic-bird-identification-system.html",
+      "date_iso": "2026-08-31T16:47:11+00:00",
+      "source": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+      "summary": "Article URL: https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/ Comments URL: https://news.ycombinator.com/item?id=49511856 Points: 526 # Comments: 130"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49511534",
+      "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+      "slug": "2026-08-31-ravynos-pre-alpha-open-source-os-based-on-darwin-freebsd-apple-open-source.html",
+      "path": "posts/2026-08-31-ravynos-pre-alpha-open-source-os-based-on-darwin-freebsd-apple-open-source.html",
+      "date_iso": "2026-08-31T16:19:36+00:00",
+      "source": "https://ravynos.com/",
+      "summary": "Article URL: https://ravynos.com/ Comments URL: https://news.ycombinator.com/item?id=49511534 Points: 206 # Comments: 119"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49510514",
+      "title": "Playa Phone",
+      "slug": "2026-08-31-playa-phone.html",
+      "path": "posts/2026-08-31-playa-phone.html",
+      "date_iso": "2026-08-31T14:52:26+00:00",
+      "source": "https://playaphone.com/",
+      "summary": "Article URL: https://playaphone.com/ Comments URL: https://news.ycombinator.com/item?id=49510514 Points: 654 # Comments: 213"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49510000",
       "title": "ChatGPT Work Tool and Skill Reference",
       "slug": "2026-08-31-chatgpt-work-tool-and-skill-reference.html",
@@ -19,6 +172,15 @@
       "summary": "Article URL: https://omarchy.org/news/2026/08/1password-and-37signals-become-distinguished-corporate-patrons/ Comments URL: https://news.ycombinator.com/item?id=49509876 Points: 9 # Comments: 1"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=49508982",
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "slug": "2026-08-31-apple-caught-off-guard-by-ai-demand-for-mac-mini-and-mac-studio.html",
+      "path": "posts/2026-08-31-apple-caught-off-guard-by-ai-demand-for-mac-mini-and-mac-studio.html",
+      "date_iso": "2026-08-31T12:41:22+00:00",
+      "source": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "summary": "Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/ Comments URL: https://news.ycombinator.com/item?id=49508982 Points: 428 # Comments: 483"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49508735",
       "title": "Show HN: SlideOps, slides from a repo that flag when they drift from the code",
       "slug": "2026-08-31-show-hn-slideops-slides-from-a-repo-that-flag-when-they-drift-from-the-code.html",
@@ -26,6 +188,15 @@
       "date_iso": "2026-08-31T12:15:10+00:00",
       "source": "https://github.com/glukicov/slideops",
       "summary": "Article URL: https://github.com/glukicov/slideops Comments URL: https://news.ycombinator.com/item?id=49508735 Points: 6 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49508506",
+      "title": "I think the military commissary's freezers were hacked",
+      "slug": "2026-08-31-i-think-the-military-commissary-s-freezers-were-hacked.html",
+      "path": "posts/2026-08-31-i-think-the-military-commissary-s-freezers-were-hacked.html",
+      "date_iso": "2026-08-31T11:45:48+00:00",
+      "source": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
+      "summary": "Article URL: https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary Comments URL: https://news.ycombinator.com/item?id=49508506 Points: 369 # Comments: 206"
     },
     {
       "id": "https://news.ycombinator.com/item?id=49508367",
@@ -172,6 +343,15 @@
       "summary": "Article URL: https://github.com/astral-sh/uv/pull/21327 Comments URL: https://news.ycombinator.com/item?id=49506142 Points: 135 # Comments: 56"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=49505584",
+      "title": "Roget's Thesaurus",
+      "slug": "2026-08-31-roget-s-thesaurus.html",
+      "path": "posts/2026-08-31-roget-s-thesaurus.html",
+      "date_iso": "2026-08-31T04:29:26+00:00",
+      "source": "https://artflsrv04.uchicago.edu/roget-thesaurus/",
+      "summary": "Article URL: https://artflsrv04.uchicago.edu/roget-thesaurus/ Comments URL: https://news.ycombinator.com/item?id=49505584 Points: 22 # Comments: 3"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49505219",
       "title": "P99 0 ms* autocomplete for 240M domain names",
       "slug": "2026-08-31-p99-0-ms-autocomplete-for-240m-domain-names.html",
@@ -179,6 +359,24 @@
       "date_iso": "2026-08-31T03:20:33+00:00",
       "source": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
       "summary": "Article URL: https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names Comments URL: https://news.ycombinator.com/item?id=49505219 Points: 186 # Comments: 72"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49503521",
+      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+      "slug": "2026-08-30-terence-tao-explains-6-essential-mathematical-concepts-video.html",
+      "path": "posts/2026-08-30-terence-tao-explains-6-essential-mathematical-concepts-video.html",
+      "date_iso": "2026-08-30T22:37:01+00:00",
+      "source": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+      "summary": "Article URL: https://www.youtube.com/watch?v=OOMx2BHHWtE Comments URL: https://news.ycombinator.com/item?id=49503521 Points: 462 # Comments: 64"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49500504",
+      "title": "Cheap GPS jammers are filling the world with navigation dead zones",
+      "slug": "2026-08-30-cheap-gps-jammers-are-filling-the-world-with-navigation-dead-zones.html",
+      "path": "posts/2026-08-30-cheap-gps-jammers-are-filling-the-world-with-navigation-dead-zones.html",
+      "date_iso": "2026-08-30T17:05:32+00:00",
+      "source": "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261",
+      "summary": "https://archive.is/zUA3D Comments URL: https://news.ycombinator.com/item?id=49500504 Points: 159 # Comments: 150"
     },
     {
       "id": "https://news.ycombinator.com/item?id=49497357",
