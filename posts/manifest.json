@@ -1,6 +1,213 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49534583",
+      "title": "LLM Judges Verify Presence, Not Absence: Omission Blindness in AI Clinical Notes",
+      "slug": "2026-09-02-llm-judges-verify-presence-not-absence-omission-blindness-in-ai-clinical-notes.html",
+      "path": "posts/2026-09-02-llm-judges-verify-presence-not-absence-omission-blindness-in-ai-clinical-notes.html",
+      "date_iso": "2026-09-02T11:07:07+00:00",
+      "source": "https://arxiv.org/abs/2608.31016",
+      "summary": "Article URL: https://arxiv.org/abs/2608.31016 Comments URL: https://news.ycombinator.com/item?id=49534583 Points: 13 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49534524",
+      "title": "It's OK to hardcode feature flags (2025)",
+      "slug": "2026-09-02-it-s-ok-to-hardcode-feature-flags-2025.html",
+      "path": "posts/2026-09-02-it-s-ok-to-hardcode-feature-flags-2025.html",
+      "date_iso": "2026-09-02T11:00:20+00:00",
+      "source": "https://code.mendhak.com/hardcode-feature-flags/",
+      "summary": "Article URL: https://code.mendhak.com/hardcode-feature-flags/ Comments URL: https://news.ycombinator.com/item?id=49534524 Points: 6 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49534396",
+      "title": "Why are there no flow batteries with symmetric ferrocyanide electrolytes?",
+      "slug": "2026-09-02-why-are-there-no-flow-batteries-with-symmetric-ferrocyanide-electrolytes.html",
+      "path": "posts/2026-09-02-why-are-there-no-flow-batteries-with-symmetric-ferrocyanide-electrolytes.html",
+      "date_iso": "2026-09-02T10:39:02+00:00",
+      "source": "https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-with-symmetric-ferrocyanide-electrolytes/",
+      "summary": "Article URL: https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-with-symmetric-ferrocyanide-electrolytes/ Comments URL: https://news.ycombinator.com/item?id=49534396 Points: 8 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49533809",
+      "title": "Sweden pauses Denmark power cable over EU grid rules",
+      "slug": "2026-09-02-sweden-pauses-denmark-power-cable-over-eu-grid-rules.html",
+      "path": "posts/2026-09-02-sweden-pauses-denmark-power-cable-over-eu-grid-rules.html",
+      "date_iso": "2026-09-02T09:20:34+00:00",
+      "source": "https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark/",
+      "summary": "Article URL: https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark/ Comments URL: https://news.ycombinator.com/item?id=49533809 Points: 24 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49533743",
+      "title": "Draft Punk – The Campaign for Alive 2027 – Alive2027.com",
+      "slug": "2026-09-02-draft-punk-the-campaign-for-alive-2027-alive2027-com.html",
+      "path": "posts/2026-09-02-draft-punk-the-campaign-for-alive-2027-alive2027-com.html",
+      "date_iso": "2026-09-02T09:11:00+00:00",
+      "source": "https://alive2027.com/",
+      "summary": "Article URL: https://alive2027.com/ Comments URL: https://news.ycombinator.com/item?id=49533743 Points: 4 # Comments: 5"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/02/technology/personaltech/iphone-android-emergency-features.html",
+      "title": "Get to Know Your Phone’s Built-In Emergency Kit",
+      "slug": "2026-09-02-get-to-know-your-phone-s-built-in-emergency-kit.html",
+      "path": "posts/2026-09-02-get-to-know-your-phone-s-built-in-emergency-kit.html",
+      "date_iso": "2026-09-02T09:03:10+00:00",
+      "source": "https://www.nytimes.com/2026/09/02/technology/personaltech/iphone-android-emergency-features.html",
+      "summary": "Apple’s more recent iPhone models include the ability to communicate with emergency services by text chat over a satellite connection, as well as a demonstration mode."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49533557",
+      "title": "Telli (YC F24) is hiring engineers and designers [Berlin, on-site]",
+      "slug": "2026-09-02-telli-yc-f24-is-hiring-engineers-and-designers-berlin-on-site.html",
+      "path": "posts/2026-09-02-telli-yc-f24-is-hiring-engineers-and-designers-berlin-on-site.html",
+      "date_iso": "2026-09-02T08:43:49+00:00",
+      "source": "https://careers.telli.com/",
+      "summary": "Article URL: https://careers.telli.com/ Comments URL: https://news.ycombinator.com/item?id=49533557 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49533497",
+      "title": "Commodore 64 released September 1, 1982",
+      "slug": "2026-09-02-commodore-64-released-september-1-1982.html",
+      "path": "posts/2026-09-02-commodore-64-released-september-1-1982.html",
+      "date_iso": "2026-09-02T08:36:43+00:00",
+      "source": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
+      "summary": "Article URL: https://dfarq.homeip.net/commodore-64-released-september-1-1982/ Comments URL: https://news.ycombinator.com/item?id=49533497 Points: 124 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49531651",
+      "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+      "slug": "2026-09-02-the-emergent-symbolic-structure-of-artificial-neural-networks.html",
+      "path": "posts/2026-09-02-the-emergent-symbolic-structure-of-artificial-neural-networks.html",
+      "date_iso": "2026-09-02T04:15:56+00:00",
+      "source": "https://arxiv.org/abs/2608.29530",
+      "summary": "Article URL: https://arxiv.org/abs/2608.29530 Comments URL: https://news.ycombinator.com/item?id=49531651 Points: 176 # Comments: 62"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49531525",
+      "title": "WebFPGA (2019)",
+      "slug": "2026-09-02-webfpga-2019.html",
+      "path": "posts/2026-09-02-webfpga-2019.html",
+      "date_iso": "2026-09-02T03:54:58+00:00",
+      "source": "https://webfpga.io/",
+      "summary": "Article URL: https://webfpga.io/ Comments URL: https://news.ycombinator.com/item?id=49531525 Points: 92 # Comments: 32"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/01/technology/data-center-recall-vote-independence.html",
+      "title": "Missouri Voters Appear to Recall City Councilman Over Data Center Support",
+      "slug": "2026-09-02-missouri-voters-appear-to-recall-city-councilman-over-data-center-support.html",
+      "path": "posts/2026-09-02-missouri-voters-appear-to-recall-city-councilman-over-data-center-support.html",
+      "date_iso": "2026-09-02T02:47:33+00:00",
+      "source": "https://www.nytimes.com/2026/09/01/technology/data-center-recall-vote-independence.html",
+      "summary": "Organizers of the recall vote said the councilman, John Perkins, had failed to engage the public while the city negotiated with the developer of a data center project."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49530989",
+      "title": "True Rate of Unemployment",
+      "slug": "2026-09-02-true-rate-of-unemployment.html",
+      "path": "posts/2026-09-02-true-rate-of-unemployment.html",
+      "date_iso": "2026-09-02T02:21:10+00:00",
+      "source": "https://www.lisep.org/tru",
+      "summary": "Article URL: https://www.lisep.org/tru Comments URL: https://news.ycombinator.com/item?id=49530989 Points: 256 # Comments: 227"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/01/us/lake-ontario-america-name-apple-maps-mapquest.html",
+      "title": "Map Apps Are Handling Trump’s Renaming of Lake Ontario to Lake America Differently",
+      "slug": "2026-09-02-map-apps-are-handling-trump-s-renaming-of-lake-ontario-to-lake-america-differently.html",
+      "path": "posts/2026-09-02-map-apps-are-handling-trump-s-renaming-of-lake-ontario-to-lake-america-differently.html",
+      "date_iso": "2026-09-02T00:40:33+00:00",
+      "source": "https://www.nytimes.com/2026/09/01/us/lake-ontario-america-name-apple-maps-mapquest.html",
+      "summary": "The companies making map apps are having to respond to President Trump’s order to change the lake’s name from Lake Ontario to Lake America."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49529898",
+      "title": "The efficient frontier of LLM inference",
+      "slug": "2026-09-01-the-efficient-frontier-of-llm-inference.html",
+      "path": "posts/2026-09-01-the-efficient-frontier-of-llm-inference.html",
+      "date_iso": "2026-09-01T23:48:05+00:00",
+      "source": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+      "summary": "Article URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/ Comments URL: https://news.ycombinator.com/item?id=49529898 Points: 130 # Comments: 35"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49529621",
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "slug": "2026-09-01-fbi-probes-service-selling-153m-drivers-licenses.html",
+      "path": "posts/2026-09-01-fbi-probes-service-selling-153m-drivers-licenses.html",
+      "date_iso": "2026-09-01T23:17:43+00:00",
+      "source": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "summary": "Article URL: https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/ Comments URL: https://news.ycombinator.com/item?id=49529621 Points: 260 # Comments: 124"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49529132",
+      "title": "My local model setup on an M4 Pro Mac Mini",
+      "slug": "2026-09-01-my-local-model-setup-on-an-m4-pro-mac-mini.html",
+      "path": "posts/2026-09-01-my-local-model-setup-on-an-m4-pro-mac-mini.html",
+      "date_iso": "2026-09-01T22:30:52+00:00",
+      "source": "https://lws.io/blog/my-local-model-setup/",
+      "summary": "Article URL: https://lws.io/blog/my-local-model-setup/ Comments URL: https://news.ycombinator.com/item?id=49529132 Points: 229 # Comments: 138"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49528895",
+      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+      "slug": "2026-09-01-show-hn-weedout-safari-extension-that-hides-youtube-ai-labeled-videos.html",
+      "path": "posts/2026-09-01-show-hn-weedout-safari-extension-that-hides-youtube-ai-labeled-videos.html",
+      "date_iso": "2026-09-01T22:06:57+00:00",
+      "source": "https://masteranza.github.io/weedout/",
+      "summary": "I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube labels “Made with AI” from feed, search, related videos, playlists and Shorts. It…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49528057",
+      "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+      "slug": "2026-09-01-show-hn-hn-match-maker-matching-who-wants-to-be-hired-with-who-s-hiring.html",
+      "path": "posts/2026-09-01-show-hn-hn-match-maker-matching-who-wants-to-be-hired-with-who-s-hiring.html",
+      "date_iso": "2026-09-01T20:53:35+00:00",
+      "source": "https://hnmatchmaker.com/",
+      "summary": "Hi! Every month the \"Who Wants to Be Hired?\" and \"Who's Hiring?\" Threads come through I would think to myself, \"there should be a match maker for these two threads\". So I had abacus.ai whip one up. The methodology is pretty simple, data is extracted from posts using an LLM, scor…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49527595",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "slug": "2026-09-01-path-to-astra-critical-capabilities-and-frontier-safeguards.html",
+      "path": "posts/2026-09-01-path-to-astra-critical-capabilities-and-frontier-safeguards.html",
+      "date_iso": "2026-09-01T20:20:41+00:00",
+      "source": "https://openai.com/index/path-to-astra/",
+      "summary": "Article URL: https://openai.com/index/path-to-astra/ Comments URL: https://news.ycombinator.com/item?id=49527595 Points: 162 # Comments: 78"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49527396",
+      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+      "slug": "2026-09-01-the-chatgpt-codex-app-bundles-a-full-copy-of-libreoffice.html",
+      "path": "posts/2026-09-01-the-chatgpt-codex-app-bundles-a-full-copy-of-libreoffice.html",
+      "date_iso": "2026-09-01T20:07:57+00:00",
+      "source": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+      "summary": "Article URL: https://simonwillison.net/2026/Sep/1/codex-libreoffice/ Comments URL: https://news.ycombinator.com/item?id=49527396 Points: 432 # Comments: 197"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49527232",
+      "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
+      "slug": "2026-09-01-refurbishing-a-tektronix-tds7104-oscilloscope.html",
+      "path": "posts/2026-09-01-refurbishing-a-tektronix-tds7104-oscilloscope.html",
+      "date_iso": "2026-09-01T19:55:47+00:00",
+      "source": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
+      "summary": "Article URL: https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html Comments URL: https://news.ycombinator.com/item?id=49527232 Points: 133 # Comments: 56"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49526069",
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "slug": "2026-09-01-how-accurate-have-ed-zitron-s-ai-skeptic-predictions-been.html",
+      "path": "posts/2026-09-01-how-accurate-have-ed-zitron-s-ai-skeptic-predictions-been.html",
+      "date_iso": "2026-09-01T18:35:15+00:00",
+      "source": "https://danluu.com/zitron/",
+      "summary": "Article URL: https://danluu.com/zitron/ Comments URL: https://news.ycombinator.com/item?id=49526069 Points: 748 # Comments: 821"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49525378",
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "slug": "2026-09-01-claude-fable-5-1-and-claude-mythos-5-1.html",
+      "path": "posts/2026-09-01-claude-fable-5-1-and-claude-mythos-5-1.html",
+      "date_iso": "2026-09-01T17:53:53+00:00",
+      "source": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "summary": "What's new in Claude Fable 5.1 – https://platform.claude.com/docs/en/models/fable-5-1/whats-n... System Card: https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32... Comments URL: https://news.ycombinator.com/item?id=49525378 Points: 1291 # Comments: 1204"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49520270",
       "title": "Lake Ontario (\"Lake America\")",
       "slug": "2026-09-01-lake-ontario-lake-america.html",
