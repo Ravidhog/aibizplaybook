@@ -1,6 +1,222 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49548530",
+      "title": "A dark horse enters China's AI race: StartLux",
+      "slug": "2026-09-03-a-dark-horse-enters-china-s-ai-race-startlux.html",
+      "path": "posts/2026-09-03-a-dark-horse-enters-china-s-ai-race-startlux.html",
+      "date_iso": "2026-09-03T11:12:57+00:00",
+      "source": "https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector",
+      "summary": "Article URL: https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector Comments URL: https://news.ycombinator.com/item?id=49548530 Points: 9 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49548395",
+      "title": "Audacity 4.0",
+      "slug": "2026-09-03-audacity-4-0.html",
+      "path": "posts/2026-09-03-audacity-4-0.html",
+      "date_iso": "2026-09-03T10:53:08+00:00",
+      "source": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+      "summary": "Article URL: https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0 Comments URL: https://news.ycombinator.com/item?id=49548395 Points: 9 # Comments: 1"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/03/technology/anthropic-ipo-investors-winners.html",
+      "title": "Which Investors Will Get Rich From Anthropic’s IPO?",
+      "slug": "2026-09-03-which-investors-will-get-rich-from-anthropic-s-ipo.html",
+      "path": "posts/2026-09-03-which-investors-will-get-rich-from-anthropic-s-ipo.html",
+      "date_iso": "2026-09-03T09:02:51+00:00",
+      "source": "https://www.nytimes.com/2026/09/03/technology/anthropic-ipo-investors-winners.html",
+      "summary": "When Anthropic goes public in a blockbuster offering, which investors will profit? The answer says a lot about how much start-up investing has changed over the years."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49546800",
+      "title": "Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)",
+      "slug": "2026-09-03-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-2016.html",
+      "path": "posts/2026-09-03-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-2016.html",
+      "date_iso": "2026-09-03T07:04:13+00:00",
+      "source": "https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/",
+      "summary": "Article URL: https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/ Comments URL: https://news.ycombinator.co…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49546753",
+      "title": "Pre-Release of Polars 2.0",
+      "slug": "2026-09-03-pre-release-of-polars-2-0.html",
+      "path": "posts/2026-09-03-pre-release-of-polars-2-0.html",
+      "date_iso": "2026-09-03T06:59:08+00:00",
+      "source": "https://pola.rs/posts/announcing-polars-2/",
+      "summary": "Article URL: https://pola.rs/posts/announcing-polars-2/ Comments URL: https://news.ycombinator.com/item?id=49546753 Points: 209 # Comments: 57"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49543530",
+      "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+      "slug": "2026-09-02-launch-hn-ronanrx-yc-s26-personalized-peptides-and-glp-1s.html",
+      "path": "posts/2026-09-02-launch-hn-ronanrx-yc-s26-personalized-peptides-and-glp-1s.html",
+      "date_iso": "2026-09-02T22:36:04+00:00",
+      "source": "https://news.ycombinator.com/item?id=49543530",
+      "summary": "Hi HN, I’m Lloyd, one of two founders of RonanRx ( https://ronanrx.com/ ). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GLP-1s and peptides. The path to Ro…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/02/technology/noise-monitors-public-housing.html",
+      "title": "Noise and Motion Monitors in Their Homes? These Tenants Say No.",
+      "slug": "2026-09-02-noise-and-motion-monitors-in-their-homes-these-tenants-say-no.html",
+      "path": "posts/2026-09-02-noise-and-motion-monitors-in-their-homes-these-tenants-say-no.html",
+      "date_iso": "2026-09-02T20:56:22+00:00",
+      "source": "https://www.nytimes.com/2026/09/02/technology/noise-monitors-public-housing.html",
+      "summary": "Tenants in public housing in Concord, N.H., were troubled to learn the wide array of data that new monitors in their homes collected, including decibel levels, Bluetooth signals and motion."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+      "title": "In a Big Win, Google Won’t Have to Break Up Its Ad Tech Business, Court Rules",
+      "slug": "2026-09-02-in-a-big-win-google-won-t-have-to-break-up-its-ad-tech-business-court-rules.html",
+      "path": "posts/2026-09-02-in-a-big-win-google-won-t-have-to-break-up-its-ad-tech-business-court-rules.html",
+      "date_iso": "2026-09-02T20:50:31+00:00",
+      "source": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+      "summary": "The government had asked the court to require Google to sell off parts of its business."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49541754",
+      "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
+      "slug": "2026-09-02-altair-basic-interpreter-source-code-1975-pdf.html",
+      "path": "posts/2026-09-02-altair-basic-interpreter-source-code-1975-pdf.html",
+      "date_iso": "2026-09-02T20:08:22+00:00",
+      "source": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
+      "summary": "Article URL: https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf Comments URL: https://news.ycombinator.com/item?id=49541754 Points: 65 # Comments: 35"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49541458",
+      "title": "Fable 5.1 World Modeling",
+      "slug": "2026-09-02-fable-5-1-world-modeling.html",
+      "path": "posts/2026-09-02-fable-5-1-world-modeling.html",
+      "date_iso": "2026-09-02T19:49:01+00:00",
+      "source": "https://github.com/PhiloLabs/fable51-worlds",
+      "summary": "Article URL: https://github.com/PhiloLabs/fable51-worlds Comments URL: https://news.ycombinator.com/item?id=49541458 Points: 278 # Comments: 80"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49541256",
+      "title": "Muse Spark 1.3",
+      "slug": "2026-09-02-muse-spark-1-3.html",
+      "path": "posts/2026-09-02-muse-spark-1-3.html",
+      "date_iso": "2026-09-02T19:35:04+00:00",
+      "source": "https://developer.meta.com/ai/models/muse-spark/",
+      "summary": "https://research.meta.ai/blog/introducing-muse-spark-1-3 Comments URL: https://news.ycombinator.com/item?id=49541256 Points: 608 # Comments: 400"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/02/technology/justice-department-openai-copyright-suit.html",
+      "title": "Justice Dept. Sides With OpenAI in New York Times Copyright Suit",
+      "slug": "2026-09-02-justice-dept-sides-with-openai-in-new-york-times-copyright-suit.html",
+      "path": "posts/2026-09-02-justice-dept-sides-with-openai-in-new-york-times-copyright-suit.html",
+      "date_iso": "2026-09-02T18:48:37+00:00",
+      "source": "https://www.nytimes.com/2026/09/02/technology/justice-department-openai-copyright-suit.html",
+      "summary": "The New York Times sued OpenAI and Microsoft in 2023 in a landmark copyright case."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49540565",
+      "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
+      "slug": "2026-09-02-qantas-airbus-a380-engine-failure-in-2010-2023.html",
+      "path": "posts/2026-09-02-qantas-airbus-a380-engine-failure-in-2010-2023.html",
+      "date_iso": "2026-09-02T18:42:41+00:00",
+      "source": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
+      "summary": "Article URL: https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7 Comments URL: https://news.ycombinator.com/item?id=49540565 Points: 150 # Comments: 89"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49540415",
+      "title": "Async Rust vs RTOS showdown (2022)",
+      "slug": "2026-09-02-async-rust-vs-rtos-showdown-2022.html",
+      "path": "posts/2026-09-02-async-rust-vs-rtos-showdown-2022.html",
+      "date_iso": "2026-09-02T18:32:24+00:00",
+      "source": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
+      "summary": "Article URL: https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/ Comments URL: https://news.ycombinator.com/item?id=49540415 Points: 100 # Comments: 50"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/02/technology/uber-layoffs.html",
+      "title": "Uber Lays Off 10% of Employees in Sweeping Reorganization",
+      "slug": "2026-09-02-uber-lays-off-10-of-employees-in-sweeping-reorganization.html",
+      "path": "posts/2026-09-02-uber-lays-off-10-of-employees-in-sweeping-reorganization.html",
+      "date_iso": "2026-09-02T17:47:50+00:00",
+      "source": "https://www.nytimes.com/2026/09/02/technology/uber-layoffs.html",
+      "summary": "Uber headquarters in San Francisco."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/02/arts/music/patrick-gleeson-dead.html",
+      "title": "Patrick Gleeson, Who Made Synthesizers Part of Jazz, Dies at 91",
+      "slug": "2026-09-02-patrick-gleeson-who-made-synthesizers-part-of-jazz-dies-at-91.html",
+      "path": "posts/2026-09-02-patrick-gleeson-who-made-synthesizers-part-of-jazz-dies-at-91.html",
+      "date_iso": "2026-09-02T17:29:04+00:00",
+      "source": "https://www.nytimes.com/2026/09/02/arts/music/patrick-gleeson-dead.html",
+      "summary": "He abandoned a job teaching college English in the 1960s to become a pioneer of the instrument, playing onstage with Herbie Hancock’s jazz band."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49537553",
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "slug": "2026-09-02-gemini-3-8-flash-and-3-8-flash-cyber.html",
+      "path": "posts/2026-09-02-gemini-3-8-flash-and-3-8-flash-cyber.html",
+      "date_iso": "2026-09-02T15:12:40+00:00",
+      "source": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "summary": "https://deepmind.google/models/model-cards/gemini-3-8-flash/ Comments URL: https://news.ycombinator.com/item?id=49537553 Points: 1053 # Comments: 588"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49537131",
+      "title": "Google avoids a breakup of its ad tech business",
+      "slug": "2026-09-02-google-avoids-a-breakup-of-its-ad-tech-business.html",
+      "path": "posts/2026-09-02-google-avoids-a-breakup-of-its-ad-tech-business.html",
+      "date_iso": "2026-09-02T14:46:16+00:00",
+      "source": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+      "summary": "https://archive.ph/rlAbY https://www.reuters.com/legal/litigation/google-defeats-us-b... Comments URL: https://news.ycombinator.com/item?id=49537131 Points: 410 # Comments: 287"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49536606",
+      "title": "Exit the Cave",
+      "slug": "2026-09-02-exit-the-cave.html",
+      "path": "posts/2026-09-02-exit-the-cave.html",
+      "date_iso": "2026-09-02T14:16:45+00:00",
+      "source": "https://turtlespace.blog/p/exit-the-cave",
+      "summary": "Article URL: https://turtlespace.blog/p/exit-the-cave Comments URL: https://news.ycombinator.com/item?id=49536606 Points: 278 # Comments: 95"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49536375",
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "slug": "2026-09-02-three-sites-made-215-128-best-software-pages-for-ai-perplexity-cites-them.html",
+      "path": "posts/2026-09-02-three-sites-made-215-128-best-software-pages-for-ai-perplexity-cites-them.html",
+      "date_iso": "2026-09-02T13:59:59+00:00",
+      "source": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "summary": "Article URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/ Comments URL: https://news.ycombinator.com/item?id=49536375 Points: 444 # Comments: 215"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49536177",
+      "title": "Poisson Disk Sampling",
+      "slug": "2026-09-02-poisson-disk-sampling.html",
+      "path": "posts/2026-09-02-poisson-disk-sampling.html",
+      "date_iso": "2026-09-02T13:47:49+00:00",
+      "source": "https://stripeacross.com/posts/poisson-disk-sampling/",
+      "summary": "Article URL: https://stripeacross.com/posts/poisson-disk-sampling/ Comments URL: https://news.ycombinator.com/item?id=49536177 Points: 177 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49536079",
+      "title": "Biggest dark matter detector spots a single weird particle",
+      "slug": "2026-09-02-biggest-dark-matter-detector-spots-a-single-weird-particle.html",
+      "path": "posts/2026-09-02-biggest-dark-matter-detector-spots-a-single-weird-particle.html",
+      "date_iso": "2026-09-02T13:40:29+00:00",
+      "source": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
+      "summary": "Article URL: https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle Comments URL: https://news.ycombinator.com/item?id=49536079 Points: 309 # Comments: 109"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49535548",
+      "title": "Aging brains blend memories together instead of just forgetting them",
+      "slug": "2026-09-02-aging-brains-blend-memories-together-instead-of-just-forgetting-them.html",
+      "path": "posts/2026-09-02-aging-brains-blend-memories-together-instead-of-just-forgetting-them.html",
+      "date_iso": "2026-09-02T12:59:09+00:00",
+      "source": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
+      "summary": "Article URL: https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/ Comments URL: https://news.ycombinator.com/item?id=49535548 Points: 300 # Comments: 120"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49535284",
+      "title": "Can I opt out of my input or output data being used for training?",
+      "slug": "2026-09-02-can-i-opt-out-of-my-input-or-output-data-being-used-for-training.html",
+      "path": "posts/2026-09-02-can-i-opt-out-of-my-input-or-output-data-being-used-for-training.html",
+      "date_iso": "2026-09-02T12:30:39+00:00",
+      "source": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "summary": "Article URL: https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training Comments URL: https://news.ycombinator.com/item?id=49535284 Points: 460 # Comments: 208"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49534583",
       "title": "LLM Judges Verify Presence, Not Absence: Omission Blindness in AI Clinical Notes",
       "slug": "2026-09-02-llm-judges-verify-presence-not-absence-omission-blindness-in-ai-clinical-notes.html",
@@ -206,6 +422,24 @@
       "date_iso": "2026-09-01T17:53:53+00:00",
       "source": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
       "summary": "What's new in Claude Fable 5.1 – https://platform.claude.com/docs/en/models/fable-5-1/whats-n... System Card: https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32... Comments URL: https://news.ycombinator.com/item?id=49525378 Points: 1291 # Comments: 1204"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49522137",
+      "title": "The Browser's Main Thread Is Expensive",
+      "slug": "2026-09-01-the-browser-s-main-thread-is-expensive.html",
+      "path": "posts/2026-09-01-the-browser-s-main-thread-is-expensive.html",
+      "date_iso": "2026-09-01T14:00:15+00:00",
+      "source": "https://kciter.so/posts/the-expensive-main-thread/en/",
+      "summary": "Article URL: https://kciter.so/posts/the-expensive-main-thread/en/ Comments URL: https://news.ycombinator.com/item?id=49522137 Points: 130 # Comments: 44"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49521909",
+      "title": "We could save petabytes of cache storage with Zstandard and Pingora",
+      "slug": "2026-09-01-we-could-save-petabytes-of-cache-storage-with-zstandard-and-pingora.html",
+      "path": "posts/2026-09-01-we-could-save-petabytes-of-cache-storage-with-zstandard-and-pingora.html",
+      "date_iso": "2026-09-01T13:41:11+00:00",
+      "source": "https://blog.cloudflare.com/cache-transcoding/",
+      "summary": "Article URL: https://blog.cloudflare.com/cache-transcoding/ Comments URL: https://news.ycombinator.com/item?id=49521909 Points: 119 # Comments: 54"
     },
     {
       "id": "https://news.ycombinator.com/item?id=49520270",
