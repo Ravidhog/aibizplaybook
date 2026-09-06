@@ -1,6 +1,168 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49585209",
+      "title": "Pigeon, a signed Pass for what a sub-agent may do",
+      "slug": "2026-09-06-pigeon-a-signed-pass-for-what-a-sub-agent-may-do.html",
+      "path": "posts/2026-09-06-pigeon-a-signed-pass-for-what-a-sub-agent-may-do.html",
+      "date_iso": "2026-09-06T10:47:19+00:00",
+      "source": "https://github.com/pigeonlabsHQ/pigeon",
+      "summary": "Article URL: https://github.com/pigeonlabsHQ/pigeon Comments URL: https://news.ycombinator.com/item?id=49585209 Points: 5 # Comments: 2"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
+      "title": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips",
+      "slug": "2026-09-06-how-a-blacklisted-chinese-tech-giant-kept-buying-america-s-best-a-i-chips.html",
+      "path": "posts/2026-09-06-how-a-blacklisted-chinese-tech-giant-kept-buying-america-s-best-a-i-chips.html",
+      "date_iso": "2026-09-06T10:45:11+00:00",
+      "source": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
+      "summary": "Aivres’s research and development technology center and manufacturing facility in Fremont, Calif."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49585161",
+      "title": "I Changed My License",
+      "slug": "2026-09-06-i-changed-my-license.html",
+      "path": "posts/2026-09-06-i-changed-my-license.html",
+      "date_iso": "2026-09-06T10:39:44+00:00",
+      "source": "https://bergie.iki.fi/blog/eupl/",
+      "summary": "Article URL: https://bergie.iki.fi/blog/eupl/ Comments URL: https://news.ycombinator.com/item?id=49585161 Points: 34 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49584880",
+      "title": "Show HN: Keen Bean – Mac meeting notes that draft the spec while you talk",
+      "slug": "2026-09-06-show-hn-keen-bean-mac-meeting-notes-that-draft-the-spec-while-you-talk.html",
+      "path": "posts/2026-09-06-show-hn-keen-bean-mac-meeting-notes-that-draft-the-spec-while-you-talk.html",
+      "date_iso": "2026-09-06T09:53:12+00:00",
+      "source": "https://keenbean.app/",
+      "summary": "Article URL: https://keenbean.app/ Comments URL: https://news.ycombinator.com/item?id=49584880 Points: 3 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49584637",
+      "title": "You Don't Have a Right to Safe Drinking Water, US Court Rules",
+      "slug": "2026-09-06-you-don-t-have-a-right-to-safe-drinking-water-us-court-rules.html",
+      "path": "posts/2026-09-06-you-don-t-have-a-right-to-safe-drinking-water-us-court-rules.html",
+      "date_iso": "2026-09-06T09:14:22+00:00",
+      "source": "https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/",
+      "summary": "Article URL: https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/ Comments URL: https://news.ycombinator.com/item?id=49584637 Points: 141 # Comments: 84"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49584449",
+      "title": "\"We Have to Assume That the Internet Will Go Offline in the Next Few Years\"",
+      "slug": "2026-09-06-we-have-to-assume-that-the-internet-will-go-offline-in-the-next-few-years.html",
+      "path": "posts/2026-09-06-we-have-to-assume-that-the-internet-will-go-offline-in-the-next-few-years.html",
+      "date_iso": "2026-09-06T08:31:01+00:00",
+      "source": "https://www.trendingtopics.eu/emad-mostaque-ai-internet-outlook-english/",
+      "summary": "Article URL: https://www.trendingtopics.eu/emad-mostaque-ai-internet-outlook-english/ Comments URL: https://news.ycombinator.com/item?id=49584449 Points: 8 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49584083",
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "slug": "2026-09-06-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight.html",
+      "path": "posts/2026-09-06-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight.html",
+      "date_iso": "2026-09-06T07:21:06+00:00",
+      "source": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+      "summary": "Article URL: https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight Comments URL: https://news.ycombinator.com/item?id=49584083 Points: 231 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49582719",
+      "title": "AMD Based FreeBSD Desktop Reloaded",
+      "slug": "2026-09-06-amd-based-freebsd-desktop-reloaded.html",
+      "path": "posts/2026-09-06-amd-based-freebsd-desktop-reloaded.html",
+      "date_iso": "2026-09-06T02:24:57+00:00",
+      "source": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
+      "summary": "Article URL: https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/ Comments URL: https://news.ycombinator.com/item?id=49582719 Points: 61 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49582656",
+      "title": "AI, Tools and Transformation",
+      "slug": "2026-09-06-ai-tools-and-transformation.html",
+      "path": "posts/2026-09-06-ai-tools-and-transformation.html",
+      "date_iso": "2026-09-06T02:12:46+00:00",
+      "source": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "summary": "Article URL: https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation Comments URL: https://news.ycombinator.com/item?id=49582656 Points: 73 # Comments: 27"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49582582",
+      "title": "GPT-6 Astra on robot arms",
+      "slug": "2026-09-06-gpt-6-astra-on-robot-arms.html",
+      "path": "posts/2026-09-06-gpt-6-astra-on-robot-arms.html",
+      "date_iso": "2026-09-06T01:52:45+00:00",
+      "source": "https://openai.robocurve.org/gpt-6-astra/",
+      "summary": "Article URL: https://openai.robocurve.org/gpt-6-astra/ Comments URL: https://news.ycombinator.com/item?id=49582582 Points: 202 # Comments: 149"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49582000",
+      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "slug": "2026-09-06-cloud-in-a-bottle-making-self-hosting-accessible-to-everyone.html",
+      "path": "posts/2026-09-06-cloud-in-a-bottle-making-self-hosting-accessible-to-everyone.html",
+      "date_iso": "2026-09-06T00:03:29+00:00",
+      "source": "https://cloudinabottle.org/blog/launch-post",
+      "summary": "Article URL: https://cloudinabottle.org/blog/launch-post Comments URL: https://news.ycombinator.com/item?id=49582000 Points: 440 # Comments: 213"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49581870",
+      "title": "Chrome again exempts Google from user site data settings",
+      "slug": "2026-09-05-chrome-again-exempts-google-from-user-site-data-settings.html",
+      "path": "posts/2026-09-05-chrome-again-exempts-google-from-user-site-data-settings.html",
+      "date_iso": "2026-09-05T23:39:47+00:00",
+      "source": "https://lapcatsoftware.com/articles/2026/9/1.html",
+      "summary": "Article URL: https://lapcatsoftware.com/articles/2026/9/1.html Comments URL: https://news.ycombinator.com/item?id=49581870 Points: 433 # Comments: 64"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49580939",
+      "title": "The revolt of the reader",
+      "slug": "2026-09-05-the-revolt-of-the-reader.html",
+      "path": "posts/2026-09-05-the-revolt-of-the-reader.html",
+      "date_iso": "2026-09-05T21:37:49+00:00",
+      "source": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+      "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/ Comments URL: https://news.ycombinator.com/item?id=49580939 Points: 389 # Comments: 160"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49580369",
+      "title": "Private German rocket makes history, reaches orbit from European soil",
+      "slug": "2026-09-05-private-german-rocket-makes-history-reaches-orbit-from-european-soil.html",
+      "path": "posts/2026-09-05-private-german-rocket-makes-history-reaches-orbit-from-european-soil.html",
+      "date_iso": "2026-09-05T20:31:38+00:00",
+      "source": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+      "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket Comments URL: https://news.ycombinator.com/item?id=49580369 Points: 633 # Comments: 341"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49580164",
+      "title": "LLMs as a Cognitive Virus",
+      "slug": "2026-09-05-llms-as-a-cognitive-virus.html",
+      "path": "posts/2026-09-05-llms-as-a-cognitive-virus.html",
+      "date_iso": "2026-09-05T20:02:35+00:00",
+      "source": "https://arxiv.org/abs/2609.03344",
+      "summary": "Article URL: https://arxiv.org/abs/2609.03344 Comments URL: https://news.ycombinator.com/item?id=49580164 Points: 282 # Comments: 204"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49578280",
+      "title": "Learn Programming with OCaml",
+      "slug": "2026-09-05-learn-programming-with-ocaml.html",
+      "path": "posts/2026-09-05-learn-programming-with-ocaml.html",
+      "date_iso": "2026-09-05T16:45:02+00:00",
+      "source": "https://usr.lmf.cnrs.fr/lpo/",
+      "summary": "Article URL: https://usr.lmf.cnrs.fr/lpo/ Comments URL: https://news.ycombinator.com/item?id=49578280 Points: 263 # Comments: 100"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49576386",
+      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+      "slug": "2026-09-05-the-60-gaming-pc-amd-bc-250-2025.html",
+      "path": "posts/2026-09-05-the-60-gaming-pc-amd-bc-250-2025.html",
+      "date_iso": "2026-09-05T13:36:38+00:00",
+      "source": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+      "summary": "Article URL: https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/ Comments URL: https://news.ycombinator.com/item?id=49576386 Points: 350 # Comments: 103"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49576343",
+      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+      "slug": "2026-09-05-visualizing-rust-s-vtables-how-dyn-trait-works-in-memory.html",
+      "path": "posts/2026-09-05-visualizing-rust-s-vtables-how-dyn-trait-works-in-memory.html",
+      "date_iso": "2026-09-05T13:31:05+00:00",
+      "source": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+      "summary": "Article URL: https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/ Comments URL: https://news.ycombinator.com/item?id=49576343 Points: 180 # Comments: 36"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49575034",
       "title": "Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
       "slug": "2026-09-05-netherlands-pulls-gold-out-of-the-us-for-fears-of-geopolitical-unrest.html",
@@ -251,6 +413,15 @@
       "date_iso": "2026-09-04T14:55:38+00:00",
       "source": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
       "summary": "Companies like AT&amp;T are increasingly using cheap, freely available artificial intelligence models over expensive ones from Anthropic and OpenAI."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49563355",
+      "title": "Discovery of a new OpenAI agent message board",
+      "slug": "2026-09-04-discovery-of-a-new-openai-agent-message-board.html",
+      "path": "posts/2026-09-04-discovery-of-a-new-openai-agent-message-board.html",
+      "date_iso": "2026-09-04T11:54:53+00:00",
+      "source": "https://collusion.wiki/",
+      "summary": "https://www.reuters.com/world/europe/openai-agents-hijacked-... Comments URL: https://news.ycombinator.com/item?id=49563355 Points: 2194 # Comments: 1551"
     },
     {
       "id": "https://www.nytimes.com/2026/09/04/podcasts/hugging-face-hack-reports.html",
