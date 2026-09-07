@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49597907",
+      "title": "De-Brainrot Vacations",
+      "slug": "2026-09-07-de-brainrot-vacations.html",
+      "path": "posts/2026-09-07-de-brainrot-vacations.html",
+      "date_iso": "2026-09-07T13:00:48+00:00",
+      "source": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+      "summary": "Article URL: https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/ Comments URL: https://news.ycombinator.com/item?id=49597907 Points: 9 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49597895",
+      "title": "Splash-free urinals for global sustainability and accessibility",
+      "slug": "2026-09-07-splash-free-urinals-for-global-sustainability-and-accessibility.html",
+      "path": "posts/2026-09-07-splash-free-urinals-for-global-sustainability-and-accessibility.html",
+      "date_iso": "2026-09-07T12:58:57+00:00",
+      "source": "https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false",
+      "summary": "Article URL: https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false Comments URL: https://news.ycombinator.com/item?id=49597895 Points: 9 # Comments: 1"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/07/sports/virtual-taekwondo-asian-games.html",
+      "title": "Virtual Taekwondo Takes the Contact Out of a Combat Sport",
+      "slug": "2026-09-07-virtual-taekwondo-takes-the-contact-out-of-a-combat-sport.html",
+      "path": "posts/2026-09-07-virtual-taekwondo-takes-the-contact-out-of-a-combat-sport.html",
+      "date_iso": "2026-09-07T12:20:03+00:00",
+      "source": "https://www.nytimes.com/2026/09/07/sports/virtual-taekwondo-asian-games.html",
+      "summary": "The contactless version of the Korean martial art is making its debut at this year’s Asian Games. Critics say it’s a glorified video game."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49597189",
+      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+      "slug": "2026-09-07-smartphone-makers-don-t-bother-to-comply-with-eu-repairability-requirements.html",
+      "path": "posts/2026-09-07-smartphone-makers-don-t-bother-to-comply-with-eu-repairability-requirements.html",
+      "date_iso": "2026-09-07T11:46:37+00:00",
+      "source": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+      "summary": "Article URL: https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532 Comments URL: https://news.ycombinator.com/item?id=49597189 Points: 69 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49596976",
+      "title": "Apparently CodePen 2.0 sends data to their servers as you type",
+      "slug": "2026-09-07-apparently-codepen-2-0-sends-data-to-their-servers-as-you-type.html",
+      "path": "posts/2026-09-07-apparently-codepen-2-0-sends-data-to-their-servers-as-you-type.html",
+      "date_iso": "2026-09-07T11:22:40+00:00",
+      "source": "https://news.ycombinator.com/item?id=49596976",
+      "summary": "They send all typed into editor input to codepen.dev almost immediately (you would see in 1-2 sec after you typed your secret that it appears in respective Network/Response tab) even before one saved it. I tested this with a unique marker: after typing it into index.html, CodePe…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49596797",
+      "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
+      "slug": "2026-09-07-vmware-migration-reduces-tottenham-hotspur-s-licensing-fees-by-85-percent.html",
+      "path": "posts/2026-09-07-vmware-migration-reduces-tottenham-hotspur-s-licensing-fees-by-85-percent.html",
+      "date_iso": "2026-09-07T11:01:06+00:00",
+      "source": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
+      "summary": "Article URL: https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/ Comments URL: https://news.ycombinator.com/item?id=49596797 Points: 24 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49596629",
+      "title": "Tiny $70 Xteink X3 e-reader puts Silicon Valley to shame",
+      "slug": "2026-09-07-tiny-70-xteink-x3-e-reader-puts-silicon-valley-to-shame.html",
+      "path": "posts/2026-09-07-tiny-70-xteink-x3-e-reader-puts-silicon-valley-to-shame.html",
+      "date_iso": "2026-09-07T10:41:29+00:00",
+      "source": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/",
+      "summary": "Article URL: https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/ Comments URL: https://news.ycombinator.com/item?id=49596629 Points: 68 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49596274",
+      "title": "Impedance Matching (2017)",
+      "slug": "2026-09-07-impedance-matching-2017.html",
+      "path": "posts/2026-09-07-impedance-matching-2017.html",
+      "date_iso": "2026-09-07T09:52:26+00:00",
+      "source": "https://www.edge.org/response-detail/27238",
+      "summary": "Article URL: https://www.edge.org/response-detail/27238 Comments URL: https://news.ycombinator.com/item?id=49596274 Points: 37 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49596119",
+      "title": "'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes",
+      "slug": "2026-09-07-you-can-see-everything-review-nathan-fielder-s-doc-about-elizabeth-holmes.html",
+      "path": "posts/2026-09-07-you-can-see-everything-review-nathan-fielder-s-doc-about-elizabeth-holmes.html",
+      "date_iso": "2026-09-07T09:33:39+00:00",
+      "source": "https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/",
+      "summary": "Article URL: https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/ Comments URL: https://news.ycombinator.com/item?id=49596119 Points: 134 # Comments: 79"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49596055",
+      "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+      "slug": "2026-09-07-caltech-mathathon-first-hackathon-ever-devoted-to-research-level-mathematics.html",
+      "path": "posts/2026-09-07-caltech-mathathon-first-hackathon-ever-devoted-to-research-level-mathematics.html",
+      "date_iso": "2026-09-07T09:26:53+00:00",
+      "source": "https://mathathonchallenge.com/index.html",
+      "summary": "Article URL: https://mathathonchallenge.com/index.html Comments URL: https://news.ycombinator.com/item?id=49596055 Points: 60 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49596054",
+      "title": "Speculative Decoding in vLLM on AMD GPUs",
+      "slug": "2026-09-07-speculative-decoding-in-vllm-on-amd-gpus.html",
+      "path": "posts/2026-09-07-speculative-decoding-in-vllm-on-amd-gpus.html",
+      "date_iso": "2026-09-07T09:26:41+00:00",
+      "source": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "summary": "Article URL: https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus Comments URL: https://news.ycombinator.com/item?id=49596054 Points: 44 # Comments: 13"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html",
+      "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging",
+      "slug": "2026-09-07-early-data-indicates-an-a-i-generated-drug-could-slow-aging.html",
+      "path": "posts/2026-09-07-early-data-indicates-an-a-i-generated-drug-could-slow-aging.html",
+      "date_iso": "2026-09-07T09:04:03+00:00",
+      "source": "https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html",
+      "summary": "Rentosertib, Insilico Medicine’s small-molecule drug candidate developed and designed using generative A.I. for treating chronic lung disease, at the company’s research and development facility in Shanghai."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49595865",
+      "title": "Live map of public transport in Belgium",
+      "slug": "2026-09-07-live-map-of-public-transport-in-belgium.html",
+      "path": "posts/2026-09-07-live-map-of-public-transport-in-belgium.html",
+      "date_iso": "2026-09-07T09:02:47+00:00",
+      "source": "https://openbaarvervoerbelgie.be/",
+      "summary": "Article URL: https://openbaarvervoerbelgie.be/ Comments URL: https://news.ycombinator.com/item?id=49595865 Points: 99 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49595360",
+      "title": "Programming is Art",
+      "slug": "2026-09-07-programming-is-art.html",
+      "path": "posts/2026-09-07-programming-is-art.html",
+      "date_iso": "2026-09-07T08:05:00+00:00",
+      "source": "https://orchidfiles.com/programming-is-art/",
+      "summary": "Article URL: https://orchidfiles.com/programming-is-art/ Comments URL: https://news.ycombinator.com/item?id=49595360 Points: 116 # Comments: 121"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49594878",
+      "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+      "slug": "2026-09-07-lg-smart-tvs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.html",
+      "path": "posts/2026-09-07-lg-smart-tvs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.html",
+      "date_iso": "2026-09-07T07:03:20+00:00",
+      "source": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
+      "summary": "Article URL: https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html Comments URL: https://news.ycombinator.com/item?id=49594878 Points: 435 # Comments: 244"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49594251",
+      "title": "Switzerland's Federal Government Is Replacing Microsoft on 3k Computers",
+      "slug": "2026-09-07-switzerland-s-federal-government-is-replacing-microsoft-on-3k-computers.html",
+      "path": "posts/2026-09-07-switzerland-s-federal-government-is-replacing-microsoft-on-3k-computers.html",
+      "date_iso": "2026-09-07T05:33:25+00:00",
+      "source": "https://itsfoss.com/news/switzerland-replace-microssoft-pilot/",
+      "summary": "Article URL: https://itsfoss.com/news/switzerland-replace-microssoft-pilot/ Comments URL: https://news.ycombinator.com/item?id=49594251 Points: 242 # Comments: 196"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49594008",
+      "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+      "slug": "2026-09-07-show-hn-engrim-a-universal-local-first-sqlite-memory-engine-for-ai-clis.html",
+      "path": "posts/2026-09-07-show-hn-engrim-a-universal-local-first-sqlite-memory-engine-for-ai-clis.html",
+      "date_iso": "2026-09-07T04:49:36+00:00",
+      "source": "https://github.com/timgordontg/engrim",
+      "summary": "Article URL: https://github.com/timgordontg/engrim Comments URL: https://news.ycombinator.com/item?id=49594008 Points: 52 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49593971",
+      "title": "TiVo to charge money for skipping commercials in your own recordings",
+      "slug": "2026-09-07-tivo-to-charge-money-for-skipping-commercials-in-your-own-recordings.html",
+      "path": "posts/2026-09-07-tivo-to-charge-money-for-skipping-commercials-in-your-own-recordings.html",
+      "date_iso": "2026-09-07T04:41:01+00:00",
+      "source": "https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/",
+      "summary": "Article URL: https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/ Comments URL: https://news.ycombinator.com/item?id=49593971 Points: 123 # Comments: 65"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49593563",
+      "title": "Keep Our Servers Running",
+      "slug": "2026-09-07-keep-our-servers-running.html",
+      "path": "posts/2026-09-07-keep-our-servers-running.html",
+      "date_iso": "2026-09-07T03:29:51+00:00",
+      "source": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+      "summary": "Article URL: https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/ Comments URL: https://news.ycombinator.com/item?id=49593563 Points: 646 # Comments: 158"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49593066",
+      "title": "Has anybody seen my keys? A key-hierarchy strategy for rack-level security",
+      "slug": "2026-09-07-has-anybody-seen-my-keys-a-key-hierarchy-strategy-for-rack-level-security.html",
+      "path": "posts/2026-09-07-has-anybody-seen-my-keys-a-key-hierarchy-strategy-for-rack-level-security.html",
+      "date_iso": "2026-09-07T02:14:59+00:00",
+      "source": "https://rfd.shared.oxide.computer/rfd/0301",
+      "summary": "Article URL: https://rfd.shared.oxide.computer/rfd/0301 Comments URL: https://news.ycombinator.com/item?id=49593066 Points: 42 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49592840",
+      "title": "Show HN: GET Together – A social network where you don't need POST to Post",
+      "slug": "2026-09-07-show-hn-get-together-a-social-network-where-you-don-t-need-post-to-post.html",
+      "path": "posts/2026-09-07-show-hn-get-together-a-social-network-where-you-don-t-need-post-to-post.html",
+      "date_iso": "2026-09-07T01:41:11+00:00",
+      "source": "https://gettogether.dev",
+      "summary": "Article URL: https://gettogether.dev Comments URL: https://news.ycombinator.com/item?id=49592840 Points: 82 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49591876",
+      "title": "Making a Python interpreter in 1024 bytes",
+      "slug": "2026-09-06-making-a-python-interpreter-in-1024-bytes.html",
+      "path": "posts/2026-09-06-making-a-python-interpreter-in-1024-bytes.html",
+      "date_iso": "2026-09-06T23:14:08+00:00",
+      "source": "https://austinhenley.com/blog/python1024.html",
+      "summary": "Article URL: https://austinhenley.com/blog/python1024.html Comments URL: https://news.ycombinator.com/item?id=49591876 Points: 258 # Comments: 92"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49585209",
       "title": "Pigeon, a signed Pass for what a sub-agent may do",
       "slug": "2026-09-06-pigeon-a-signed-pass-for-what-a-sub-agent-may-do.html",
