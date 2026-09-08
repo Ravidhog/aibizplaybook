@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49608023",
+      "title": "Why getting your hands dirty is good for you",
+      "slug": "2026-09-08-why-getting-your-hands-dirty-is-good-for-you.html",
+      "path": "posts/2026-09-08-why-getting-your-hands-dirty-is-good-for-you.html",
+      "date_iso": "2026-09-08T09:48:24+00:00",
+      "source": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks Comments URL: https://news.ycombinator.com/item?id=49608023 Points: 57 # Comments: 35"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49607991",
+      "title": "Antiquated HTML Snippets and Artefacts",
+      "slug": "2026-09-08-antiquated-html-snippets-and-artefacts.html",
+      "path": "posts/2026-09-08-antiquated-html-snippets-and-artefacts.html",
+      "date_iso": "2026-09-08T09:43:14+00:00",
+      "source": "https://vale.rocks/posts/html-relics",
+      "summary": "Article URL: https://vale.rocks/posts/html-relics Comments URL: https://news.ycombinator.com/item?id=49607991 Points: 52 # Comments: 7"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/08/technology/apple-iphone-event.html",
+      "title": "Apple to Make First Big Change to iPhones in Years",
+      "slug": "2026-09-08-apple-to-make-first-big-change-to-iphones-in-years.html",
+      "path": "posts/2026-09-08-apple-to-make-first-big-change-to-iphones-in-years.html",
+      "date_iso": "2026-09-08T09:05:12+00:00",
+      "source": "https://www.nytimes.com/2026/09/08/technology/apple-iphone-event.html",
+      "summary": "The look of Apple’s iPhones hasn’t changed that much over the years."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/08/us/politics/calif-ai-worm-wechat-hack.html",
+      "title": "A.I. Models Built a Computer Worm That Could Rapidly Hack WeChat Accounts",
+      "slug": "2026-09-08-a-i-models-built-a-computer-worm-that-could-rapidly-hack-wechat-accounts.html",
+      "path": "posts/2026-09-08-a-i-models-built-a-computer-worm-that-could-rapidly-hack-wechat-accounts.html",
+      "date_iso": "2026-09-08T09:05:09+00:00",
+      "source": "https://www.nytimes.com/2026/09/08/us/politics/calif-ai-worm-wechat-hack.html",
+      "summary": "Researchers at Calif, a security company, recently built a hacking tool in a little more than a week that could run roughshod across WeChat, the popular messaging platform."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/08/technology/apple-siri-ai.html",
+      "title": "Key App Developers Have Yet to Embrace Apple’s New Siri A.I.",
+      "slug": "2026-09-08-key-app-developers-have-yet-to-embrace-apple-s-new-siri-a-i.html",
+      "path": "posts/2026-09-08-key-app-developers-have-yet-to-embrace-apple-s-new-siri-a-i.html",
+      "date_iso": "2026-09-08T09:04:17+00:00",
+      "source": "https://www.nytimes.com/2026/09/08/technology/apple-siri-ai.html",
+      "summary": "The new Siri is a revamp of Apple’s A.I. technology."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49607443",
+      "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+      "slug": "2026-09-08-among-european-companies-that-use-a-cdn-nearly-9-in-10-use-cloudflare.html",
+      "path": "posts/2026-09-08-among-european-companies-that-use-a-cdn-nearly-9-in-10-use-cloudflare.html",
+      "date_iso": "2026-09-08T08:42:56+00:00",
+      "source": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
+      "summary": "Article URL: https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten Comments URL: https://news.ycombinator.com/item?id=49607443 Points: 170 # Comments: 148"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49605822",
+      "title": "Multi-Agents LLM Financial Trading Framework",
+      "slug": "2026-09-08-multi-agents-llm-financial-trading-framework.html",
+      "path": "posts/2026-09-08-multi-agents-llm-financial-trading-framework.html",
+      "date_iso": "2026-09-08T05:20:23+00:00",
+      "source": "https://github.com/TauricResearch/TradingAgents",
+      "summary": "Article URL: https://github.com/TauricResearch/TradingAgents Comments URL: https://news.ycombinator.com/item?id=49605822 Points: 66 # Comments: 46"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49605782",
+      "title": "My Feed, My Way",
+      "slug": "2026-09-08-my-feed-my-way.html",
+      "path": "posts/2026-09-08-my-feed-my-way.html",
+      "date_iso": "2026-09-08T05:10:36+00:00",
+      "source": "https://www.pm.gov.au/media/my-feed-my-way",
+      "summary": "Article URL: https://www.pm.gov.au/media/my-feed-my-way Comments URL: https://news.ycombinator.com/item?id=49605782 Points: 135 # Comments: 111"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49605767",
+      "title": "Mistral raises €3B",
+      "slug": "2026-09-08-mistral-raises-3b.html",
+      "path": "posts/2026-09-08-mistral-raises-3b.html",
+      "date_iso": "2026-09-08T05:06:23+00:00",
+      "source": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "summary": "Article URL: https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/ Comments URL: https://news.ycombinator.com/item?id=49605767 Points: 547 # Comments: 384"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49605691",
+      "title": "We have a year to fix security everywhere",
+      "slug": "2026-09-08-we-have-a-year-to-fix-security-everywhere.html",
+      "path": "posts/2026-09-08-we-have-a-year-to-fix-security-everywhere.html",
+      "date_iso": "2026-09-08T04:48:10+00:00",
+      "source": "https://jyn.dev/a-year-to-fix-security/",
+      "summary": "Article URL: https://jyn.dev/a-year-to-fix-security/ Comments URL: https://news.ycombinator.com/item?id=49605691 Points: 257 # Comments: 247"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49605644",
+      "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+      "slug": "2026-09-08-the-vms-powering-mobile-agents-instinct-claude-code.html",
+      "path": "posts/2026-09-08-the-vms-powering-mobile-agents-instinct-claude-code.html",
+      "date_iso": "2026-09-08T04:36:26+00:00",
+      "source": "https://rohanadwankar.github.io/posts/platforms.html",
+      "summary": "Article URL: https://rohanadwankar.github.io/posts/platforms.html Comments URL: https://news.ycombinator.com/item?id=49605644 Points: 39 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49605511",
+      "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
+      "slug": "2026-09-08-arm-mali-g2-ultra-nx-gpu-desktop-class-mobile-gameplay-with-ai-native-graphics.html",
+      "path": "posts/2026-09-08-arm-mali-g2-ultra-nx-gpu-desktop-class-mobile-gameplay-with-ai-native-graphics.html",
+      "date_iso": "2026-09-08T04:06:20+00:00",
+      "source": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+      "summary": "Article URL: https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics Comments URL: https://news.ycombinator.com/item?id=49605511 Points: 51 # Comments: 36"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49605433",
+      "title": "I tested 10 model/harness combinations on the same Three.js task",
+      "slug": "2026-09-08-i-tested-10-model-harness-combinations-on-the-same-three-js-task.html",
+      "path": "posts/2026-09-08-i-tested-10-model-harness-combinations-on-the-same-three-js-task.html",
+      "date_iso": "2026-09-08T03:42:25+00:00",
+      "source": "https://alvins82.github.io/hangar-harness-model-tests/",
+      "summary": "Article URL: https://alvins82.github.io/hangar-harness-model-tests/ Comments URL: https://news.ycombinator.com/item?id=49605433 Points: 91 # Comments: 52"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49605246",
+      "title": "How well do agents use test/verification techniques?",
+      "slug": "2026-09-08-how-well-do-agents-use-test-verification-techniques.html",
+      "path": "posts/2026-09-08-how-well-do-agents-use-test-verification-techniques.html",
+      "date_iso": "2026-09-08T02:58:16+00:00",
+      "source": "https://danluu.com/agentic-testing/",
+      "summary": "Article URL: https://danluu.com/agentic-testing/ Comments URL: https://news.ycombinator.com/item?id=49605246 Points: 103 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49604870",
+      "title": "There's a new \"Google Jail\" for independent wikis",
+      "slug": "2026-09-08-there-s-a-new-google-jail-for-independent-wikis.html",
+      "path": "posts/2026-09-08-there-s-a-new-google-jail-for-independent-wikis.html",
+      "date_iso": "2026-09-08T01:57:23+00:00",
+      "source": "https://weirdgloop.org/blog/google-jail",
+      "summary": "Article URL: https://weirdgloop.org/blog/google-jail Comments URL: https://news.ycombinator.com/item?id=49604870 Points: 219 # Comments: 77"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49604861",
+      "title": "Jellyfin 12.0",
+      "slug": "2026-09-08-jellyfin-12-0.html",
+      "path": "posts/2026-09-08-jellyfin-12-0.html",
+      "date_iso": "2026-09-08T01:56:35+00:00",
+      "source": "https://jellyfin.org/posts/jellyfin-release-12.0/",
+      "summary": "Article URL: https://jellyfin.org/posts/jellyfin-release-12.0/ Comments URL: https://news.ycombinator.com/item?id=49604861 Points: 419 # Comments: 177"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49604637",
+      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+      "slug": "2026-09-08-i-ve-factored-the-rsa-keys-of-a-certificate-authority-from-the-90s.html",
+      "path": "posts/2026-09-08-i-ve-factored-the-rsa-keys-of-a-certificate-authority-from-the-90s.html",
+      "date_iso": "2026-09-08T01:16:59+00:00",
+      "source": "https://mcpherrin.ca/2026/09/07/rsa.html",
+      "summary": "Article URL: https://mcpherrin.ca/2026/09/07/rsa.html Comments URL: https://news.ycombinator.com/item?id=49604637 Points: 365 # Comments: 59"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49604150",
+      "title": "TALA Is Open-Source",
+      "slug": "2026-09-07-tala-is-open-source.html",
+      "path": "posts/2026-09-07-tala-is-open-source.html",
+      "date_iso": "2026-09-07T23:37:42+00:00",
+      "source": "https://d2lang.com/blog/tala-is-open-source/",
+      "summary": "Article URL: https://d2lang.com/blog/tala-is-open-source/ Comments URL: https://news.ycombinator.com/item?id=49604150 Points: 245 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49602699",
+      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+      "slug": "2026-09-07-leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads.html",
+      "path": "posts/2026-09-07-leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads.html",
+      "date_iso": "2026-09-07T20:32:55+00:00",
+      "source": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+      "summary": "Article URL: https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/ Comments URL: https://news.ycombinator.com/item?id=49602699 Points: 210 # Comments: 100"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49602490",
+      "title": "Emacs Bedrock 2.0",
+      "slug": "2026-09-07-emacs-bedrock-2-0.html",
+      "path": "posts/2026-09-07-emacs-bedrock-2-0.html",
+      "date_iso": "2026-09-07T20:12:12+00:00",
+      "source": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
+      "summary": "Article URL: https://lambdaland.org/posts/2026-09-06-bedrock-v2/ Comments URL: https://news.ycombinator.com/item?id=49602490 Points: 131 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49601655",
+      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+      "slug": "2026-09-07-watch-los-angeles-get-built-one-building-at-a-time-1880-2026.html",
+      "path": "posts/2026-09-07-watch-los-angeles-get-built-one-building-at-a-time-1880-2026.html",
+      "date_iso": "2026-09-07T18:52:06+00:00",
+      "source": "https://lax-skyline.parcelscope.net/",
+      "summary": "Article URL: https://lax-skyline.parcelscope.net/ Comments URL: https://news.ycombinator.com/item?id=49601655 Points: 302 # Comments: 150"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49597907",
       "title": "De-Brainrot Vacations",
       "slug": "2026-09-07-de-brainrot-vacations.html",
@@ -118,6 +307,15 @@
       "summary": "Article URL: https://openbaarvervoerbelgie.be/ Comments URL: https://news.ycombinator.com/item?id=49595865 Points: 99 # Comments: 39"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=49595841",
+      "title": "anystation: Calling any station A public board shaped like a tree. No account",
+      "slug": "2026-09-07-anystation-calling-any-station-a-public-board-shaped-like-a-tree-no-account.html",
+      "path": "posts/2026-09-07-anystation-calling-any-station-a-public-board-shaped-like-a-tree-no-account.html",
+      "date_iso": "2026-09-07T09:00:01+00:00",
+      "source": "https://anystation.net/",
+      "summary": "Article URL: https://anystation.net/ Comments URL: https://news.ycombinator.com/item?id=49595841 Points: 10 # Comments: 14"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49595360",
       "title": "Programming is Art",
       "slug": "2026-09-07-programming-is-art.html",
@@ -197,6 +395,15 @@
       "date_iso": "2026-09-06T23:14:08+00:00",
       "source": "https://austinhenley.com/blog/python1024.html",
       "summary": "Article URL: https://austinhenley.com/blog/python1024.html Comments URL: https://news.ycombinator.com/item?id=49591876 Points: 258 # Comments: 92"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49590199",
+      "title": "Understanding Computer Memory Architecture and SSD Internals",
+      "slug": "2026-09-06-understanding-computer-memory-architecture-and-ssd-internals.html",
+      "path": "posts/2026-09-06-understanding-computer-memory-architecture-and-ssd-internals.html",
+      "date_iso": "2026-09-06T19:51:28+00:00",
+      "source": "https://codingpirate.com/understanding-computer-memory-architecture-ac9320110787",
+      "summary": "Article URL: https://codingpirate.com/understanding-computer-memory-architecture-ac9320110787 Comments URL: https://news.ycombinator.com/item?id=49590199 Points: 48 # Comments: 4"
     },
     {
       "id": "https://news.ycombinator.com/item?id=49585209",
