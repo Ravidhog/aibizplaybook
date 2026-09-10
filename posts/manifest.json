@@ -1,6 +1,213 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49641792",
+      "title": "Mathematicians want proof OpenAI didn't use their work",
+      "slug": "2026-09-10-mathematicians-want-proof-openai-didn-t-use-their-work.html",
+      "path": "posts/2026-09-10-mathematicians-want-proof-openai-didn-t-use-their-work.html",
+      "date_iso": "2026-09-10T11:18:58+00:00",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data Comments URL: https://news.ycombinator.com/item?id=49641792 Points: 34 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49641401",
+      "title": "Thanks to Siri Recaps, your Apple Watch is always listening",
+      "slug": "2026-09-10-thanks-to-siri-recaps-your-apple-watch-is-always-listening.html",
+      "path": "posts/2026-09-10-thanks-to-siri-recaps-your-apple-watch-is-always-listening.html",
+      "date_iso": "2026-09-10T10:36:00+00:00",
+      "source": "https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash",
+      "summary": "Article URL: https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash Comments URL: https://news.ycombinator.com/item?id=49641401 Points: 20 #…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49641393",
+      "title": "PlayStation cancels Kojima's PHYSINT, Xbox steps in",
+      "slug": "2026-09-10-playstation-cancels-kojima-s-physint-xbox-steps-in.html",
+      "path": "posts/2026-09-10-playstation-cancels-kojima-s-physint-xbox-steps-in.html",
+      "date_iso": "2026-09-10T10:35:09+00:00",
+      "source": "https://twitter.com/hideo_kojima_en/status/2097877506401681753",
+      "summary": "Article URL: https://twitter.com/hideo_kojima_en/status/2097877506401681753 Comments URL: https://news.ycombinator.com/item?id=49641393 Points: 24 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49641215",
+      "title": "Show HN: The same nine streaming subscriptions cost $702/year more than in 2021",
+      "slug": "2026-09-10-show-hn-the-same-nine-streaming-subscriptions-cost-702-year-more-than-in-2021.html",
+      "path": "posts/2026-09-10-show-hn-the-same-nine-streaming-subscriptions-cost-702-year-more-than-in-2021.html",
+      "date_iso": "2026-09-10T10:13:59+00:00",
+      "source": "https://honestlyranked.com/guides/streaming-price-increases/",
+      "summary": "Article URL: https://honestlyranked.com/guides/streaming-price-increases/ Comments URL: https://news.ycombinator.com/item?id=49641215 Points: 87 # Comments: 83"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/10/technology/personaltech/iphone-duo-foldable-phones.html",
+      "title": "Foldable Phones Are Unpopular. Why Is Apple Selling One?",
+      "slug": "2026-09-10-foldable-phones-are-unpopular-why-is-apple-selling-one.html",
+      "path": "posts/2026-09-10-foldable-phones-are-unpopular-why-is-apple-selling-one.html",
+      "date_iso": "2026-09-10T09:04:42+00:00",
+      "source": "https://www.nytimes.com/2026/09/10/technology/personaltech/iphone-duo-foldable-phones.html",
+      "summary": "Apple’s iPhone Duo will cost $1,999 when it arrives in October to compete with Samsung’s $1,900 Galaxy foldable."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49640646",
+      "title": "What algorithm did Windows XP use to choose your initial user picture?",
+      "slug": "2026-09-10-what-algorithm-did-windows-xp-use-to-choose-your-initial-user-picture.html",
+      "path": "posts/2026-09-10-what-algorithm-did-windows-xp-use-to-choose-your-initial-user-picture.html",
+      "date_iso": "2026-09-10T09:04:14+00:00",
+      "source": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683 Comments URL: https://news.ycombinator.com/item?id=49640646 Points: 94 # Comments: 38"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49639104",
+      "title": "I think I hate the internet",
+      "slug": "2026-09-10-i-think-i-hate-the-internet.html",
+      "path": "posts/2026-09-10-i-think-i-hate-the-internet.html",
+      "date_iso": "2026-09-10T06:12:23+00:00",
+      "source": "https://strategictree.bearblog.dev/i-think-i-hate-the-internet/",
+      "summary": "Article URL: https://strategictree.bearblog.dev/i-think-i-hate-the-internet/ Comments URL: https://news.ycombinator.com/item?id=49639104 Points: 89 # Comments: 70"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49639090",
+      "title": "DeepSeek v4.1 Flash",
+      "slug": "2026-09-10-deepseek-v4-1-flash.html",
+      "path": "posts/2026-09-10-deepseek-v4-1-flash.html",
+      "date_iso": "2026-09-10T06:11:05+00:00",
+      "source": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+      "summary": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash Comments URL: https://news.ycombinator.com/item?id=49639090 Points: 461 # Comments: 244"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49638280",
+      "title": "All grown-ups were once children, but only few of them remember it",
+      "slug": "2026-09-10-all-grown-ups-were-once-children-but-only-few-of-them-remember-it.html",
+      "path": "posts/2026-09-10-all-grown-ups-were-once-children-but-only-few-of-them-remember-it.html",
+      "date_iso": "2026-09-10T04:04:38+00:00",
+      "source": "https://mathstodon.xyz/@tao/117244102901892965",
+      "summary": "Article URL: https://mathstodon.xyz/@tao/117244102901892965 Comments URL: https://news.ycombinator.com/item?id=49638280 Points: 198 # Comments: 150"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49637435",
+      "title": "Training a 3.8B LLM to 0.384 CORE for $998",
+      "slug": "2026-09-10-training-a-3-8b-llm-to-0-384-core-for-998.html",
+      "path": "posts/2026-09-10-training-a-3-8b-llm-to-0-384-core-for-998.html",
+      "date_iso": "2026-09-10T02:04:11+00:00",
+      "source": "https://hugovergnes.github.io/little-lm-3-8b/",
+      "summary": "Article URL: https://hugovergnes.github.io/little-lm-3-8b/ Comments URL: https://news.ycombinator.com/item?id=49637435 Points: 89 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49637385",
+      "title": "Show HN: What if the speed of light was 5 km/h?",
+      "slug": "2026-09-10-show-hn-what-if-the-speed-of-light-was-5-km-h.html",
+      "path": "posts/2026-09-10-show-hn-what-if-the-speed-of-light-was-5-km-h.html",
+      "date_iso": "2026-09-10T01:58:00+00:00",
+      "source": "https://rivendell.dmitrybrant.com/relativity/",
+      "summary": "I've always wanted to make a visualization where the speed of light was scaled down to human speeds, so that we could intuit relativistic effects with everyday objects. Here is the first version of it! Comments URL: https://news.ycombinator.com/item?id=49637385 Points: 389 # Com…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/09/technology/anthropic-researchers-raise-alarm.html",
+      "title": "Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity",
+      "slug": "2026-09-10-anthropic-researchers-raise-alarm-over-a-i-acceleration-warning-of-threat-to-humanity.html",
+      "path": "posts/2026-09-10-anthropic-researchers-raise-alarm-over-a-i-acceleration-warning-of-threat-to-humanity.html",
+      "date_iso": "2026-09-10T00:12:18+00:00",
+      "source": "https://www.nytimes.com/2026/09/09/technology/anthropic-researchers-raise-alarm.html",
+      "summary": "A protest outside Anthropic’s offices in San Francisco."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49636283",
+      "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
+      "slug": "2026-09-09-automattic-s-board-forces-ceo-matt-mullenweg-into-leave-of-absence.html",
+      "path": "posts/2026-09-09-automattic-s-board-forces-ceo-matt-mullenweg-into-leave-of-absence.html",
+      "date_iso": "2026-09-09T23:49:29+00:00",
+      "source": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+      "summary": "Article URL: https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/ Comments URL: https://news.ycombinator.com/item?id=49636283 Points: 317 # Comments: 212"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/09/technology/apple-iphone-duo-foldable-phone.html",
+      "title": "Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999",
+      "slug": "2026-09-09-apple-unveils-the-iphone-duo-a-foldable-phone-that-costs-1-999.html",
+      "path": "posts/2026-09-09-apple-unveils-the-iphone-duo-a-foldable-phone-that-costs-1-999.html",
+      "date_iso": "2026-09-09T22:04:28+00:00",
+      "source": "https://www.nytimes.com/2026/09/09/technology/apple-iphone-duo-foldable-phone.html",
+      "summary": "Apple chief executive John Ternus introduced Duo, a foldable iPhone, on Wednesday."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49633534",
+      "title": "Factoring RSA 260",
+      "slug": "2026-09-09-factoring-rsa-260.html",
+      "path": "posts/2026-09-09-factoring-rsa-260.html",
+      "date_iso": "2026-09-09T20:16:08+00:00",
+      "source": "https://cognition.com/blog/factoring-rsa-260",
+      "summary": "Article URL: https://cognition.com/blog/factoring-rsa-260 Comments URL: https://news.ycombinator.com/item?id=49633534 Points: 104 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49630931",
+      "title": "iPhone Duo",
+      "slug": "2026-09-09-iphone-duo.html",
+      "path": "posts/2026-09-09-iphone-duo.html",
+      "date_iso": "2026-09-09T18:15:43+00:00",
+      "source": "https://www.apple.com/iphone-duo/",
+      "summary": "Article URL: https://www.apple.com/iphone-duo/ Comments URL: https://news.ycombinator.com/item?id=49630931 Points: 1239 # Comments: 2172"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49630253",
+      "title": "AirPods 5",
+      "slug": "2026-09-09-airpods-5.html",
+      "path": "posts/2026-09-09-airpods-5.html",
+      "date_iso": "2026-09-09T17:39:24+00:00",
+      "source": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/ Comments URL: https://news.ycombinator.com/item?id=49630253 Points: 465 # Comments: 396"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49630151",
+      "title": "iPhone 18 Pro and iPhone 18 Pro Max",
+      "slug": "2026-09-09-iphone-18-pro-and-iphone-18-pro-max.html",
+      "path": "posts/2026-09-09-iphone-18-pro-and-iphone-18-pro-max.html",
+      "date_iso": "2026-09-09T17:33:20+00:00",
+      "source": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/ Comments URL: https://news.ycombinator.com/item?id=49630151 Points: 372 # Comments: 409"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49630026",
+      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+      "slug": "2026-09-09-qwen-3-8-follows-gpt-5-5-pro-reasoning-prefills.html",
+      "path": "posts/2026-09-09-qwen-3-8-follows-gpt-5-5-pro-reasoning-prefills.html",
+      "date_iso": "2026-09-09T17:24:28+00:00",
+      "source": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+      "summary": "Article URL: https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3 Comments URL: https://news.ycombinator.com/item?id=49630026 Points: 221 # Comments: 85"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49629886",
+      "title": "Growing proof that autonomous cars save lives",
+      "slug": "2026-09-09-growing-proof-that-autonomous-cars-save-lives.html",
+      "path": "posts/2026-09-09-growing-proof-that-autonomous-cars-save-lives.html",
+      "date_iso": "2026-09-09T17:14:59+00:00",
+      "source": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+      "summary": "Article URL: https://spectrum.ieee.org/are-self-driving-cars-safe Comments URL: https://news.ycombinator.com/item?id=49629886 Points: 364 # Comments: 635"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49628493",
+      "title": "No Man's Sky Cosmos",
+      "slug": "2026-09-09-no-man-s-sky-cosmos.html",
+      "path": "posts/2026-09-09-no-man-s-sky-cosmos.html",
+      "date_iso": "2026-09-09T15:47:42+00:00",
+      "source": "https://www.nomanssky.com/cosmos-update/",
+      "summary": "Article URL: https://www.nomanssky.com/cosmos-update/ Comments URL: https://news.ycombinator.com/item?id=49628493 Points: 409 # Comments: 409"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49627370",
+      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+      "slug": "2026-09-09-gpt-6-astra-looped-transformers-and-hidden-reasoning.html",
+      "path": "posts/2026-09-09-gpt-6-astra-looped-transformers-and-hidden-reasoning.html",
+      "date_iso": "2026-09-09T14:37:47+00:00",
+      "source": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+      "summary": "Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and Comments URL: https://news.ycombinator.com/item?id=49627370 Points: 447 # Comments: 144"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49626190",
+      "title": "Shopify acquires Tailwind",
+      "slug": "2026-09-09-shopify-acquires-tailwind.html",
+      "path": "posts/2026-09-09-shopify-acquires-tailwind.html",
+      "date_iso": "2026-09-09T13:27:11+00:00",
+      "source": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "summary": "Article URL: https://tailwindcss.com/blog/tailwind-is-joining-shopify Comments URL: https://news.ycombinator.com/item?id=49626190 Points: 1055 # Comments: 405"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49625110",
       "title": "Roame (YC S23) Is Hiring Viral Content Editor",
       "slug": "2026-09-09-roame-yc-s23-is-hiring-viral-content-editor.html",
