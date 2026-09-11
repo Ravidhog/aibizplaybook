@@ -1,6 +1,249 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/09/11/arts/music/live-auto-tune-jojo-flo-singing.html",
+      "title": "The Mic Is On. So Is Live Auto-Tune.",
+      "slug": "2026-09-11-the-mic-is-on-so-is-live-auto-tune.html",
+      "path": "posts/2026-09-11-the-mic-is-on-so-is-live-auto-tune.html",
+      "date_iso": "2026-09-11T11:21:16+00:00",
+      "source": "https://www.nytimes.com/2026/09/11/arts/music/live-auto-tune-jojo-flo-singing.html",
+      "summary": "The girl group Flo performing in London last year. The Grammy-nominated trio typically use some level of live Auto-Tune to smooth out their vocals, they said."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49656496",
+      "title": "The Waymo effect: how AI is quietly making research less collaborative",
+      "slug": "2026-09-11-the-waymo-effect-how-ai-is-quietly-making-research-less-collaborative.html",
+      "path": "posts/2026-09-11-the-waymo-effect-how-ai-is-quietly-making-research-less-collaborative.html",
+      "date_iso": "2026-09-11T11:17:50+00:00",
+      "source": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+      "summary": "Article URL: https://www.researchagenda.news/articles/the-waymo-effect.html Comments URL: https://news.ycombinator.com/item?id=49656496 Points: 38 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49656471",
+      "title": "RTK reports token savings, but our cost benchmarks disagree",
+      "slug": "2026-09-11-rtk-reports-token-savings-but-our-cost-benchmarks-disagree.html",
+      "path": "posts/2026-09-11-rtk-reports-token-savings-but-our-cost-benchmarks-disagree.html",
+      "date_iso": "2026-09-11T11:15:13+00:00",
+      "source": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+      "summary": "Article URL: https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/ Comments URL: https://news.ycombinator.com/item?id=49656471 Points: 16 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49656225",
+      "title": "Claude is no longer available for minors",
+      "slug": "2026-09-11-claude-is-no-longer-available-for-minors.html",
+      "path": "posts/2026-09-11-claude-is-no-longer-available-for-minors.html",
+      "date_iso": "2026-09-11T10:48:00+00:00",
+      "source": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "summary": "Article URL: https://support.claude.com/en/articles/15171100-age-assurance-on-claude Comments URL: https://news.ycombinator.com/item?id=49656225 Points: 81 # Comments: 101"
+    },
+    {
+      "id": "https://www.nytimes.com/video/technology/100000011145658/could-ai-really-kill-all-humans.html",
+      "title": "Could A.I. Really Kill All Humans?",
+      "slug": "2026-09-11-could-a-i-really-kill-all-humans.html",
+      "path": "posts/2026-09-11-could-a-i-really-kill-all-humans.html",
+      "date_iso": "2026-09-11T10:34:43+00:00",
+      "source": "https://www.nytimes.com/video/technology/100000011145658/could-ai-really-kill-all-humans.html",
+      "summary": "After an Anthropic researcher quit, warning that the A.I. race is “gambling with our lives,” Cade Metz joined Natalie Kitroeff on “The Call” to break down what’s at stake."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/11/technology/x-grok-child-images.html",
+      "title": "Elon Musk Has Pledged to Rid His Platform, X, of Child Sexual Abuse, but It Persists",
+      "slug": "2026-09-11-elon-musk-has-pledged-to-rid-his-platform-x-of-child-sexual-abuse-but-it-persists.html",
+      "path": "posts/2026-09-11-elon-musk-has-pledged-to-rid-his-platform-x-of-child-sexual-abuse-but-it-persists.html",
+      "date_iso": "2026-09-11T09:01:02+00:00",
+      "source": "https://www.nytimes.com/2026/09/11/technology/x-grok-child-images.html",
+      "summary": "Elon Musk bought X, which was then known as Twitter, in 2022 and vowed to remove child sexual abuse material from the site, calling it “Priority #1.”"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49655286",
+      "title": "Cherenkov Radiation - traveling faster than light",
+      "slug": "2026-09-11-cherenkov-radiation-traveling-faster-than-light.html",
+      "path": "posts/2026-09-11-cherenkov-radiation-traveling-faster-than-light.html",
+      "date_iso": "2026-09-11T08:42:04+00:00",
+      "source": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+      "summary": "Article URL: http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation Comments URL: https://news.ycombinator.com/item?id=49655286 Points: 100 # Comments: 57"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49655176",
+      "title": "Neijuan",
+      "slug": "2026-09-11-neijuan.html",
+      "path": "posts/2026-09-11-neijuan.html",
+      "date_iso": "2026-09-11T08:26:56+00:00",
+      "source": "https://en.wikipedia.org/wiki/Neijuan",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Neijuan Comments URL: https://news.ycombinator.com/item?id=49655176 Points: 55 # Comments: 16"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/11/podcasts/hardfork-ezra-klein-jasmine-sun.html",
+      "title": "The Ezra Klein Show: The A.I. Revolt Is Here",
+      "slug": "2026-09-11-the-ezra-klein-show-the-a-i-revolt-is-here.html",
+      "path": "posts/2026-09-11-the-ezra-klein-show-the-a-i-revolt-is-here.html",
+      "date_iso": "2026-09-11T08:00:02+00:00",
+      "source": "https://www.nytimes.com/2026/09/11/podcasts/hardfork-ezra-klein-jasmine-sun.html",
+      "summary": "The A.I. giants weren’t prepared for this."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49654962",
+      "title": "CSS Curiosities of the Past",
+      "slug": "2026-09-11-css-curiosities-of-the-past.html",
+      "path": "posts/2026-09-11-css-curiosities-of-the-past.html",
+      "date_iso": "2026-09-11T07:57:17+00:00",
+      "source": "https://vale.rocks/posts/css-relics",
+      "summary": "Article URL: https://vale.rocks/posts/css-relics Comments URL: https://news.ycombinator.com/item?id=49654962 Points: 20 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49653985",
+      "title": "GPT‑Live‑1 in the API",
+      "slug": "2026-09-11-gpt-live-1-in-the-api.html",
+      "path": "posts/2026-09-11-gpt-live-1-in-the-api.html",
+      "date_iso": "2026-09-11T05:45:19+00:00",
+      "source": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-live-1-in-the-api/ Comments URL: https://news.ycombinator.com/item?id=49653985 Points: 40 # Comments: 35"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49652237",
+      "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+      "slug": "2026-09-11-mexican-student-creates-an-acoustic-fire-extinguisher-to-put-out-fire-in-seconds.html",
+      "path": "posts/2026-09-11-mexican-student-creates-an-acoustic-fire-extinguisher-to-put-out-fire-in-seconds.html",
+      "date_iso": "2026-09-11T01:00:56+00:00",
+      "source": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
+      "summary": "Article URL: https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/ Comments URL: https://news.ycombinator.com/item?id=49652237 Points: 250 # Comments: 85"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49651221",
+      "title": "Nine coding harnesses vs. your laptop",
+      "slug": "2026-09-10-nine-coding-harnesses-vs-your-laptop.html",
+      "path": "posts/2026-09-10-nine-coding-harnesses-vs-your-laptop.html",
+      "date_iso": "2026-09-10T22:54:01+00:00",
+      "source": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
+      "summary": "Article URL: https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74 Comments URL: https://news.ycombinator.com/item?id=49651221 Points: 117 # Comments: 36"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
+      "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
+      "slug": "2026-09-10-anthropic-says-it-blocked-possible-efforts-to-build-biological-weapons.html",
+      "path": "posts/2026-09-10-anthropic-says-it-blocked-possible-efforts-to-build-biological-weapons.html",
+      "date_iso": "2026-09-10T21:50:38+00:00",
+      "source": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
+      "summary": "The report Anthropic published on Thursday cataloged a litany of misuses of its A.I. models, including the chatbot Claude, over the past eight months."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49650418",
+      "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
+      "slug": "2026-09-10-ntsb-issues-investigative-update-on-b-767-runway-excursion-accident-in-miami.html",
+      "path": "posts/2026-09-10-ntsb-issues-investigative-update-on-b-767-runway-excursion-accident-in-miami.html",
+      "date_iso": "2026-09-10T21:30:55+00:00",
+      "source": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
+      "summary": "Article URL: https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx Comments URL: https://news.ycombinator.com/item?id=49650418 Points: 112 # Comments: 199"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/10/technology/californias-governor-gavin-newsom-online-child-safety-bills.html",
+      "title": "California’s Governor Signs Landmark Online Child Safety Bills",
+      "slug": "2026-09-10-california-s-governor-signs-landmark-online-child-safety-bills.html",
+      "path": "posts/2026-09-10-california-s-governor-signs-landmark-online-child-safety-bills.html",
+      "date_iso": "2026-09-10T20:49:14+00:00",
+      "source": "https://www.nytimes.com/2026/09/10/technology/californias-governor-gavin-newsom-online-child-safety-bills.html",
+      "summary": "Gov. Gavin Newsom’s actions follow a series of social media trials this year, in which thousands of teenagers, schools and states have accused Meta, Snap, TikTok and YouTube of hooking young users with products being compared to cigarettes."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49649222",
+      "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
+      "slug": "2026-09-10-proof-of-capture-apple-reference-image-but-open-source-and-using-steganography.html",
+      "path": "posts/2026-09-10-proof-of-capture-apple-reference-image-but-open-source-and-using-steganography.html",
+      "date_iso": "2026-09-10T19:44:15+00:00",
+      "source": "https://merybenavente.me/blog/proof-of-capture",
+      "summary": "Article URL: https://merybenavente.me/blog/proof-of-capture Comments URL: https://news.ycombinator.com/item?id=49649222 Points: 116 # Comments: 67"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49649213",
+      "title": "OpenAI Agents API",
+      "slug": "2026-09-10-openai-agents-api.html",
+      "path": "posts/2026-09-10-openai-agents-api.html",
+      "date_iso": "2026-09-10T19:43:22+00:00",
+      "source": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "summary": "Article URL: https://developers.openai.com/api/docs/guides/agents-api/overview Comments URL: https://news.ycombinator.com/item?id=49649213 Points: 277 # Comments: 155"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49649124",
+      "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+      "slug": "2026-09-10-the-deathray-a-simple-way-for-an-untrusted-site-to-freeze-a-mac.html",
+      "path": "posts/2026-09-10-the-deathray-a-simple-way-for-an-untrusted-site-to-freeze-a-mac.html",
+      "date_iso": "2026-09-10T19:34:20+00:00",
+      "source": "https://auberon.xyz/blog/posts/deathray/",
+      "summary": "Article URL: https://auberon.xyz/blog/posts/deathray/ Comments URL: https://news.ycombinator.com/item?id=49649124 Points: 220 # Comments: 142"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49647300",
+      "title": "Detecting and countering misuse of AI: September 2026",
+      "slug": "2026-09-10-detecting-and-countering-misuse-of-ai-september-2026.html",
+      "path": "posts/2026-09-10-detecting-and-countering-misuse-of-ai-september-2026.html",
+      "date_iso": "2026-09-10T17:23:42+00:00",
+      "source": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "summary": "https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a... Comments URL: https://news.ycombinator.com/item?id=49647300 Points: 141 # Comments: 209"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49647134",
+      "title": "Music Theory for the 21st-Century Classroom",
+      "slug": "2026-09-10-music-theory-for-the-21st-century-classroom.html",
+      "path": "posts/2026-09-10-music-theory-for-the-21st-century-classroom.html",
+      "date_iso": "2026-09-10T17:14:12+00:00",
+      "source": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+      "summary": "Article URL: https://musictheory.pugetsound.edu/mt21c/MusicTheory.html Comments URL: https://news.ycombinator.com/item?id=49647134 Points: 242 # Comments: 104"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/10/science/iphone-duo-apple-foldable-glass.html",
+      "title": "How the New iPhone Duo’s Glass Screen Bends Without Breaking",
+      "slug": "2026-09-10-how-the-new-iphone-duo-s-glass-screen-bends-without-breaking.html",
+      "path": "posts/2026-09-10-how-the-new-iphone-duo-s-glass-screen-bends-without-breaking.html",
+      "date_iso": "2026-09-10T16:21:33+00:00",
+      "source": "https://www.nytimes.com/2026/09/10/science/iphone-duo-apple-foldable-glass.html",
+      "summary": "The screens of foldable phones are a triumph of materials science and microengineering."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49645907",
+      "title": "Forgejo <=16.0.3 Critical RCE",
+      "slug": "2026-09-10-forgejo-16-0-3-critical-rce.html",
+      "path": "posts/2026-09-10-forgejo-16-0-3-critical-rce.html",
+      "date_iso": "2026-09-10T15:57:40+00:00",
+      "source": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+      "summary": "Article URL: https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md Comments URL: https://news.ycombinator.com/item?id=49645907 Points: 194 # Comments: 74"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49645686",
+      "title": "Neki – Sharded Postgres",
+      "slug": "2026-09-10-neki-sharded-postgres.html",
+      "path": "posts/2026-09-10-neki-sharded-postgres.html",
+      "date_iso": "2026-09-10T15:43:49+00:00",
+      "source": "https://planetscale.com/blog/introducing-neki",
+      "summary": "Article URL: https://planetscale.com/blog/introducing-neki Comments URL: https://news.ycombinator.com/item?id=49645686 Points: 251 # Comments: 132"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49645443",
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "slug": "2026-09-10-cognition-launches-new-swe-2-model-rivaling-fable-5-1-and-gpt-astra.html",
+      "path": "posts/2026-09-10-cognition-launches-new-swe-2-model-rivaling-fable-5-1-and-gpt-astra.html",
+      "date_iso": "2026-09-10T15:29:47+00:00",
+      "source": "https://cognition.com/blog/swe-2",
+      "summary": "Article URL: https://cognition.com/blog/swe-2 Comments URL: https://news.ycombinator.com/item?id=49645443 Points: 422 # Comments: 176"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49645437",
+      "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+      "slug": "2026-09-10-technique-for-manipulating-satellite-photos-now-reveals-ancient-images-2025.html",
+      "path": "posts/2026-09-10-technique-for-manipulating-satellite-photos-now-reveals-ancient-images-2025.html",
+      "date_iso": "2026-09-10T15:29:30+00:00",
+      "source": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
+      "summary": "https://dstretch.com/DecorrelationStretch.pdf https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-... Comments URL: https://news.ycombinator.com/item?id=49645437 Points: 345 # Comments: 56"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49645393",
+      "title": "Don't let anyone take away your big box of cables",
+      "slug": "2026-09-10-don-t-let-anyone-take-away-your-big-box-of-cables.html",
+      "path": "posts/2026-09-10-don-t-let-anyone-take-away-your-big-box-of-cables.html",
+      "date_iso": "2026-09-10T15:27:22+00:00",
+      "source": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+      "summary": "Article URL: https://blog.jim-nielsen.com/2026/hands-off-my-cables/ Comments URL: https://news.ycombinator.com/item?id=49645393 Points: 581 # Comments: 368"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49641792",
       "title": "Mathematicians want proof OpenAI didn't use their work",
       "slug": "2026-09-10-mathematicians-want-proof-openai-didn-t-use-their-work.html",
