@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49671043",
+      "title": "AI Is Powerful Enough to Crack Our Hardest Math Problems–and Kill Us All",
+      "slug": "2026-09-12-ai-is-powerful-enough-to-crack-our-hardest-math-problems-and-kill-us-all.html",
+      "path": "posts/2026-09-12-ai-is-powerful-enough-to-crack-our-hardest-math-problems-and-kill-us-all.html",
+      "date_iso": "2026-09-12T10:49:22+00:00",
+      "source": "https://www.wsj.com/tech/ai/ai-math-millennium-prize-safety-openai-anthropic-05179825",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/ai-math-millennium-prize-safety-openai-anthropic-05179825 Comments URL: https://news.ycombinator.com/item?id=49671043 Points: 5 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49670981",
+      "title": "We've followed their lives for six decades; now the stars of 7 Up are bowing out",
+      "slug": "2026-09-12-we-ve-followed-their-lives-for-six-decades-now-the-stars-of-7-up-are-bowing-out.html",
+      "path": "posts/2026-09-12-we-ve-followed-their-lives-for-six-decades-now-the-stars-of-7-up-are-bowing-out.html",
+      "date_iso": "2026-09-12T10:39:03+00:00",
+      "source": "https://www.bbc.co.uk/news/articles/crm932el3yjo",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/crm932el3yjo Comments URL: https://news.ycombinator.com/item?id=49670981 Points: 5 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49670493",
+      "title": "Resistance Training Prescription for Muscle Function, Hypertrophy in Health",
+      "slug": "2026-09-12-resistance-training-prescription-for-muscle-function-hypertrophy-in-health.html",
+      "path": "posts/2026-09-12-resistance-training-prescription-for-muscle-function-hypertrophy-in-health.html",
+      "date_iso": "2026-09-12T09:08:54+00:00",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/",
+      "summary": "Article URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/ Comments URL: https://news.ycombinator.com/item?id=49670493 Points: 17 # Comments: 6"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html",
+      "title": "Inside the Discussions at AI Companies Over a Superintelligence Doomsday",
+      "slug": "2026-09-12-inside-the-discussions-at-ai-companies-over-a-superintelligence-doomsday.html",
+      "path": "posts/2026-09-12-inside-the-discussions-at-ai-companies-over-a-superintelligence-doomsday.html",
+      "date_iso": "2026-09-12T09:03:01+00:00",
+      "source": "https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html",
+      "summary": "A demonstration of Anthropic’s Claude Cowork A.I. agent in May. The company’s employees have been talking about the risks of artificial intelligence after a colleague, citing dangers, resigned this week."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/12/technology/why-its-tough-for-tech-companies-to-keep-ai-out-of-trouble.html",
+      "title": "Why It’s Difficult for Tech Companies to Rein In A.I.",
+      "slug": "2026-09-12-why-it-s-difficult-for-tech-companies-to-rein-in-a-i.html",
+      "path": "posts/2026-09-12-why-it-s-difficult-for-tech-companies-to-rein-in-a-i.html",
+      "date_iso": "2026-09-12T09:02:53+00:00",
+      "source": "https://www.nytimes.com/2026/09/12/technology/why-its-tough-for-tech-companies-to-keep-ai-out-of-trouble.html",
+      "summary": "Researchers say artificial intelligence is developing faster than the systems put in place to monitor and control it."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49670032",
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "slug": "2026-09-12-retrospectively-reverse-engineering-apple-s-neural-engine.html",
+      "path": "posts/2026-09-12-retrospectively-reverse-engineering-apple-s-neural-engine.html",
+      "date_iso": "2026-09-12T07:54:03+00:00",
+      "source": "https://eiln.github.io/posts/ane.html",
+      "summary": "Article URL: https://eiln.github.io/posts/ane.html Comments URL: https://news.ycombinator.com/item?id=49670032 Points: 106 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49668777",
+      "title": "Usenet rewind archive search engine",
+      "slug": "2026-09-12-usenet-rewind-archive-search-engine.html",
+      "path": "posts/2026-09-12-usenet-rewind-archive-search-engine.html",
+      "date_iso": "2026-09-12T04:19:52+00:00",
+      "source": "https://www.usenet-rewind.com/",
+      "summary": "Article URL: https://www.usenet-rewind.com/ Comments URL: https://news.ycombinator.com/item?id=49668777 Points: 70 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49668706",
+      "title": "Navier-Stokes Announcement",
+      "slug": "2026-09-12-navier-stokes-announcement.html",
+      "path": "posts/2026-09-12-navier-stokes-announcement.html",
+      "date_iso": "2026-09-12T04:09:43+00:00",
+      "source": "https://www.claymath.org/news/navier-stokes-announcement/",
+      "summary": "Article URL: https://www.claymath.org/news/navier-stokes-announcement/ Comments URL: https://news.ycombinator.com/item?id=49668706 Points: 191 # Comments: 126"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49668386",
+      "title": "google.com/goto: Google's anti-scraping update",
+      "slug": "2026-09-12-google-com-goto-google-s-anti-scraping-update.html",
+      "path": "posts/2026-09-12-google-com-goto-google-s-anti-scraping-update.html",
+      "date_iso": "2026-09-12T03:14:20+00:00",
+      "source": "https://www.autom.dev/blog/google-search-goto-links",
+      "summary": "Article URL: https://www.autom.dev/blog/google-search-goto-links Comments URL: https://news.ycombinator.com/item?id=49668386 Points: 461 # Comments: 362"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49666735",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "slug": "2026-09-11-openai-agents-carried-out-an-undisclosed-attack-on-rubygems.html",
+      "path": "posts/2026-09-11-openai-agents-carried-out-an-undisclosed-attack-on-rubygems.html",
+      "date_iso": "2026-09-11T23:17:42+00:00",
+      "source": "https://www.rubyhack.ai/",
+      "summary": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems... Comments URL: https://news.ycombinator.com/item?id=49666735 Points: 740 # Comments: 411"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49666146",
+      "title": "Project Blinkenlights",
+      "slug": "2026-09-11-project-blinkenlights.html",
+      "path": "posts/2026-09-11-project-blinkenlights.html",
+      "date_iso": "2026-09-11T22:15:00+00:00",
+      "source": "https://blinkenlights.de/en/",
+      "summary": "Article URL: https://blinkenlights.de/en/ Comments URL: https://news.ycombinator.com/item?id=49666146 Points: 98 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49665864",
+      "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
+      "slug": "2026-09-11-show-hn-resolvehq-a-helpdesk-built-on-cloudflare-workers-d1-r2-and-queues.html",
+      "path": "posts/2026-09-11-show-hn-resolvehq-a-helpdesk-built-on-cloudflare-workers-d1-r2-and-queues.html",
+      "date_iso": "2026-09-11T21:48:00+00:00",
+      "source": "https://github.com/mirza-rizvi/ResolveHQ",
+      "summary": "Article URL: https://github.com/mirza-rizvi/ResolveHQ Comments URL: https://news.ycombinator.com/item?id=49665864 Points: 63 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49665502",
+      "title": "Another way to leak traffic on Android has been discovered",
+      "slug": "2026-09-11-another-way-to-leak-traffic-on-android-has-been-discovered.html",
+      "path": "posts/2026-09-11-another-way-to-leak-traffic-on-android-has-been-discovered.html",
+      "date_iso": "2026-09-11T21:16:48+00:00",
+      "source": "https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered",
+      "summary": "Article URL: https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered Comments URL: https://news.ycombinator.com/item?id=49665502 Points: 91 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49663373",
+      "title": "GrapheneOS' rewritten Messages app is released",
+      "slug": "2026-09-11-grapheneos-rewritten-messages-app-is-released.html",
+      "path": "posts/2026-09-11-grapheneos-rewritten-messages-app-is-released.html",
+      "date_iso": "2026-09-11T18:50:36+00:00",
+      "source": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+      "summary": "Article URL: https://github.com/GrapheneOS/Messaging/releases/tag/13 Comments URL: https://news.ycombinator.com/item?id=49663373 Points: 281 # Comments: 209"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49662990",
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "slug": "2026-09-11-i-spent-220-on-google-app-ads-and-60-of-the-installs-were-robots.html",
+      "path": "posts/2026-09-11-i-spent-220-on-google-app-ads-and-60-of-the-installs-were-robots.html",
+      "date_iso": "2026-09-11T18:24:55+00:00",
+      "source": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "summary": "Article URL: https://dayzlegame.com/blog/google-ads-bot-farm/ Comments URL: https://news.ycombinator.com/item?id=49662990 Points: 566 # Comments: 300"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49662767",
+      "title": "Litelm: LiteLLM Without the Bloat",
+      "slug": "2026-09-11-litelm-litellm-without-the-bloat.html",
+      "path": "posts/2026-09-11-litelm-litellm-without-the-bloat.html",
+      "date_iso": "2026-09-11T18:10:20+00:00",
+      "source": "https://github.com/kennethwolters/litelm",
+      "summary": "Article URL: https://github.com/kennethwolters/litelm Comments URL: https://news.ycombinator.com/item?id=49662767 Points: 150 # Comments: 49"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49662371",
+      "title": "A misalignment of AI in mathematics",
+      "slug": "2026-09-11-a-misalignment-of-ai-in-mathematics.html",
+      "path": "posts/2026-09-11-a-misalignment-of-ai-in-mathematics.html",
+      "date_iso": "2026-09-11T17:45:12+00:00",
+      "source": "https://mathandai.org/",
+      "summary": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm... https://www.economist.com/science-and-technology/2026/09/11/... , https://unwall.app/www.economist.com/science-and-technology/... Comments URL: https://news.ycombinator.com/item?id=49662371 Points: 963 # Comments: 9…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49662214",
+      "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
+      "slug": "2026-09-11-snap-an-inviting-programming-language-for-kids-and-adults-for-cs-study.html",
+      "path": "posts/2026-09-11-snap-an-inviting-programming-language-for-kids-and-adults-for-cs-study.html",
+      "date_iso": "2026-09-11T17:36:11+00:00",
+      "source": "https://snap.berkeley.edu/",
+      "summary": "Article URL: https://snap.berkeley.edu/ Comments URL: https://news.ycombinator.com/item?id=49662214 Points: 147 # Comments: 86"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49662020",
+      "title": "Mind-altering drugs played key role in rise of Andean civilization",
+      "slug": "2026-09-11-mind-altering-drugs-played-key-role-in-rise-of-andean-civilization.html",
+      "path": "posts/2026-09-11-mind-altering-drugs-played-key-role-in-rise-of-andean-civilization.html",
+      "date_iso": "2026-09-11T17:25:23+00:00",
+      "source": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
+      "summary": "Article URL: https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization Comments URL: https://news.ycombinator.com/item?id=49662020 Points: 168 # Comments: 109"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49660149",
+      "title": "Rune is now open source",
+      "slug": "2026-09-11-rune-is-now-open-source.html",
+      "path": "posts/2026-09-11-rune-is-now-open-source.html",
+      "date_iso": "2026-09-11T15:31:47+00:00",
+      "source": "https://rune.build/blog/rune-is-now-open-source",
+      "summary": "Article URL: https://rune.build/blog/rune-is-now-open-source Comments URL: https://news.ycombinator.com/item?id=49660149 Points: 194 # Comments: 59"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/11/business/kalshi-polymarket-minnesota-prediction-markets.html",
+      "title": "How Minnesota Became the Front Line in the Fight Over Prediction Markets",
+      "slug": "2026-09-11-how-minnesota-became-the-front-line-in-the-fight-over-prediction-markets.html",
+      "path": "posts/2026-09-11-how-minnesota-became-the-front-line-in-the-fight-over-prediction-markets.html",
+      "date_iso": "2026-09-11T14:35:45+00:00",
+      "source": "https://www.nytimes.com/2026/09/11/business/kalshi-polymarket-minnesota-prediction-markets.html",
+      "summary": "State Representative Emma Greenman in the Minnesota State Capitol, where she helped pass a law banning prediction markets in the spring."
+    },
+    {
       "id": "https://www.nytimes.com/2026/09/11/arts/music/live-auto-tune-jojo-flo-singing.html",
       "title": "The Mic Is On. So Is Live Auto-Tune.",
       "slug": "2026-09-11-the-mic-is-on-so-is-live-auto-tune.html",
@@ -145,6 +334,15 @@
       "summary": "Gov. Gavin Newsom’s actions follow a series of social media trials this year, in which thousands of teenagers, schools and states have accused Meta, Snap, TikTok and YouTube of hooking young users with products being compared to cigarettes."
     },
     {
+      "id": "https://news.ycombinator.com/item?id=49649789",
+      "title": "Show HN: Bodily Oddities",
+      "slug": "2026-09-10-show-hn-bodily-oddities.html",
+      "path": "posts/2026-09-10-show-hn-bodily-oddities.html",
+      "date_iso": "2026-09-10T20:33:11+00:00",
+      "source": "https://vester.si/bodily-oddities/",
+      "summary": "When I was about 11 years old, my best friend and I were playing during recess at school, and I was carrying him around on my back, presumably pretending to be a multipart attack robot. All of a sudden, my heart started hurting, and I collapsed to my knees, and the robot was no…"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49649222",
       "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
       "slug": "2026-09-10-proof-of-capture-apple-reference-image-but-open-source-and-using-steganography.html",
@@ -197,6 +395,15 @@
       "date_iso": "2026-09-10T16:21:33+00:00",
       "source": "https://www.nytimes.com/2026/09/10/science/iphone-duo-apple-foldable-glass.html",
       "summary": "The screens of foldable phones are a triumph of materials science and microengineering."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49646113",
+      "title": "Detailed report on the use of solar geoengineering",
+      "slug": "2026-09-10-detailed-report-on-the-use-of-solar-geoengineering.html",
+      "path": "posts/2026-09-10-detailed-report-on-the-use-of-solar-geoengineering.html",
+      "date_iso": "2026-09-10T16:08:54+00:00",
+      "source": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
+      "summary": "Article URL: https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/ Comments URL: https://news.ycombinator.com/item?id=49646113 Points: 14 # Comments: 3"
     },
     {
       "id": "https://news.ycombinator.com/item?id=49645907",
