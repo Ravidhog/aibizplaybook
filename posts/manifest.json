@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49696313",
+      "title": "Volkswagen Just Built an EV That Can Go Nearly 900 Miles on a Charge",
+      "slug": "2026-09-14-volkswagen-just-built-an-ev-that-can-go-nearly-900-miles-on-a-charge.html",
+      "path": "posts/2026-09-14-volkswagen-just-built-an-ev-that-can-go-nearly-900-miles-on-a-charge.html",
+      "date_iso": "2026-09-14T13:15:05+00:00",
+      "source": "https://www.motor1.com/news/808114/vw-mission-efficiency-concept-specs-photos/",
+      "summary": "Article URL: https://www.motor1.com/news/808114/vw-mission-efficiency-concept-specs-photos/ Comments URL: https://news.ycombinator.com/item?id=49696313 Points: 12 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49695876",
+      "title": "What a time to be alive – rouge AI agents attack RubyGems.org",
+      "slug": "2026-09-14-what-a-time-to-be-alive-rouge-ai-agents-attack-rubygems-org.html",
+      "path": "posts/2026-09-14-what-a-time-to-be-alive-rouge-ai-agents-attack-rubygems-org.html",
+      "date_iso": "2026-09-14T12:40:57+00:00",
+      "source": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "summary": "Article URL: https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/ Comments URL: https://news.ycombinator.com/item?id=49695876 Points: 64 # Comments: 69"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49695829",
+      "title": "Texas judge rules TikTok misled users on child safety feature",
+      "slug": "2026-09-14-texas-judge-rules-tiktok-misled-users-on-child-safety-feature.html",
+      "path": "posts/2026-09-14-texas-judge-rules-tiktok-misled-users-on-child-safety-feature.html",
+      "date_iso": "2026-09-14T12:37:42+00:00",
+      "source": "https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/",
+      "summary": "Article URL: https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/ Comments URL: https://news.ycombinator.com/item?id=49695829 Points: 21 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49695459",
+      "title": "XCancel suspended \"due to a new development in the ongoing legal proceedings\"",
+      "slug": "2026-09-14-xcancel-suspended-due-to-a-new-development-in-the-ongoing-legal-proceedings.html",
+      "path": "posts/2026-09-14-xcancel-suspended-due-to-a-new-development-in-the-ongoing-legal-proceedings.html",
+      "date_iso": "2026-09-14T12:05:52+00:00",
+      "source": "https://xcancel.com/twitter",
+      "summary": "Article URL: https://xcancel.com/twitter Comments URL: https://news.ycombinator.com/item?id=49695459 Points: 153 # Comments: 122"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49695409",
+      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+      "slug": "2026-09-14-apple-s-siri-ai-can-be-swapped-out-for-claude-chatgpt-code-shows.html",
+      "path": "posts/2026-09-14-apple-s-siri-ai-can-be-swapped-out-for-claude-chatgpt-code-shows.html",
+      "date_iso": "2026-09-14T12:01:32+00:00",
+      "source": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+      "summary": "Article URL: https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/ Comments URL: https://news.ycombinator.com/item?id=49695409 Points: 78 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49695408",
+      "title": "Show HN: Kinesis – Control your Mac with the Meta Neural Band",
+      "slug": "2026-09-14-show-hn-kinesis-control-your-mac-with-the-meta-neural-band.html",
+      "path": "posts/2026-09-14-show-hn-kinesis-control-your-mac-with-the-meta-neural-band.html",
+      "date_iso": "2026-09-14T12:01:31+00:00",
+      "source": "https://github.com/callbacked/kinesis",
+      "summary": "a couple hours ago i had astra take on a 10 month old repo of mine https://github.com/callbacked/neural-band-poc/ that involved finding a way to use the meta neural band independently from the glasses to read the sEMG data off of it. i really think it is a cool piece of technolo…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49694871",
+      "title": "Watch AI materials-science and bioscience abilities closely",
+      "slug": "2026-09-14-watch-ai-materials-science-and-bioscience-abilities-closely.html",
+      "path": "posts/2026-09-14-watch-ai-materials-science-and-bioscience-abilities-closely.html",
+      "date_iso": "2026-09-14T11:01:00+00:00",
+      "source": "https://www.lesswrong.com/posts/SCtkSz4nQ9icLZ4uq/watch-ai-materials-science-and-bioscience-abilities-closely",
+      "summary": "Article URL: https://www.lesswrong.com/posts/SCtkSz4nQ9icLZ4uq/watch-ai-materials-science-and-bioscience-abilities-closely Comments URL: https://news.ycombinator.com/item?id=49694871 Points: 35 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49694722",
+      "title": "Who Aligns the Aligners?",
+      "slug": "2026-09-14-who-aligns-the-aligners.html",
+      "path": "posts/2026-09-14-who-aligns-the-aligners.html",
+      "date_iso": "2026-09-14T10:41:56+00:00",
+      "source": "https://prestonbyrne.com/2026/09/13/aligners/",
+      "summary": "Article URL: https://prestonbyrne.com/2026/09/13/aligners/ Comments URL: https://news.ycombinator.com/item?id=49694722 Points: 58 # Comments: 70"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49694596",
+      "title": "Big AI sets out its terms for regulatory capture",
+      "slug": "2026-09-14-big-ai-sets-out-its-terms-for-regulatory-capture.html",
+      "path": "posts/2026-09-14-big-ai-sets-out-its-terms-for-regulatory-capture.html",
+      "date_iso": "2026-09-14T10:28:28+00:00",
+      "source": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067 Comments URL: https://news.ycombinator.com/item?id=49694596 Points: 26 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49694404",
+      "title": "Show HN: ChaosTree – A zero-dependency Java tree library (AVL,RBT,B-Tree,B+Tree)",
+      "slug": "2026-09-14-show-hn-chaostree-a-zero-dependency-java-tree-library-avl-rbt-b-tree-b-tree.html",
+      "path": "posts/2026-09-14-show-hn-chaostree-a-zero-dependency-java-tree-library-avl-rbt-b-tree-b-tree.html",
+      "date_iso": "2026-09-14T10:03:46+00:00",
+      "source": "https://github.com/Chaos-vy/ChaosTree",
+      "summary": "What is ChaosTree? ChaosTree is a zero-dependency Java Sorted Set/Map library built around multiple tree implementations. It provides implementations of: - AVL Tree - Red-Black Tree - B-Tree - B+Tree I have not made my custom API as it implements NavigableSet, NavigableMap, Sequ…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49693613",
+      "title": "A 386 PC for Your RP2350",
+      "slug": "2026-09-14-a-386-pc-for-your-rp2350.html",
+      "path": "posts/2026-09-14-a-386-pc-for-your-rp2350.html",
+      "date_iso": "2026-09-14T08:25:57+00:00",
+      "source": "https://github.com/rh1tech/frank-386",
+      "summary": "Article URL: https://github.com/rh1tech/frank-386 Comments URL: https://news.ycombinator.com/item?id=49693613 Points: 106 # Comments: 28"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49693610",
+      "title": "EuroBirdPortal – Live bird movements across Europe",
+      "slug": "2026-09-14-eurobirdportal-live-bird-movements-across-europe.html",
+      "path": "posts/2026-09-14-eurobirdportal-live-bird-movements-across-europe.html",
+      "date_iso": "2026-09-14T08:25:47+00:00",
+      "source": "https://www.eurobirdportal.org/ebp/en/",
+      "summary": "Article URL: https://www.eurobirdportal.org/ebp/en/ Comments URL: https://news.ycombinator.com/item?id=49693610 Points: 143 # Comments: 48"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49693384",
+      "title": "OpenArch – PyTorch implementations of modern LLM architectures",
+      "slug": "2026-09-14-openarch-pytorch-implementations-of-modern-llm-architectures.html",
+      "path": "posts/2026-09-14-openarch-pytorch-implementations-of-modern-llm-architectures.html",
+      "date_iso": "2026-09-14T07:55:19+00:00",
+      "source": "https://github.com/anuj0456/OpenArch",
+      "summary": "Article URL: https://github.com/anuj0456/OpenArch Comments URL: https://news.ycombinator.com/item?id=49693384 Points: 81 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49693226",
+      "title": "Show HN: 1080p is 920px tall – 1k real browser viewports",
+      "slug": "2026-09-14-show-hn-1080p-is-920px-tall-1k-real-browser-viewports.html",
+      "path": "posts/2026-09-14-show-hn-1080p-is-920px-tall-1k-real-browser-viewports.html",
+      "date_iso": "2026-09-14T07:35:00+00:00",
+      "source": "https://screensize.net/reports/viewport-stats",
+      "summary": "Article URL: https://screensize.net/reports/viewport-stats Comments URL: https://news.ycombinator.com/item?id=49693226 Points: 33 # Comments: 19"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/13/technology/silicon-valley-ai-slowdown.html",
+      "title": "Some in Silicon Valley Are Questioning the Calls for an A.I. Slowdown",
+      "slug": "2026-09-14-some-in-silicon-valley-are-questioning-the-calls-for-an-a-i-slowdown.html",
+      "path": "posts/2026-09-14-some-in-silicon-valley-are-questioning-the-calls-for-an-a-i-slowdown.html",
+      "date_iso": "2026-09-14T03:12:45+00:00",
+      "source": "https://www.nytimes.com/2026/09/13/technology/silicon-valley-ai-slowdown.html",
+      "summary": "OpenAI offices in San Francisco. Sam Altman, the company’s chief executive, agreed with the Anthropic chief’s call to slow down artificial intelligence advancements."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/13/technology/anthropic-ceo-slower-ai-development.html",
+      "title": "What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown",
+      "slug": "2026-09-14-what-anthropic-ceo-dario-amodei-argued-in-his-call-for-ai-slowdown.html",
+      "path": "posts/2026-09-14-what-anthropic-ceo-dario-amodei-argued-in-his-call-for-ai-slowdown.html",
+      "date_iso": "2026-09-14T01:04:20+00:00",
+      "source": "https://www.nytimes.com/2026/09/13/technology/anthropic-ceo-slower-ai-development.html",
+      "summary": "Dario Amodei, the chief executive of Anthropic, at a summit this year. His letter also called for cooperation from A.I. companies from other democratic countries."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49690554",
+      "title": "The case against JPEG XL",
+      "slug": "2026-09-14-the-case-against-jpeg-xl.html",
+      "path": "posts/2026-09-14-the-case-against-jpeg-xl.html",
+      "date_iso": "2026-09-14T01:02:37+00:00",
+      "source": "https://giannirosato.com/blog/post/case-against-jxl/",
+      "summary": "Article URL: https://giannirosato.com/blog/post/case-against-jxl/ Comments URL: https://news.ycombinator.com/item?id=49690554 Points: 210 # Comments: 278"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49690174",
+      "title": "Apple's Dimensional Drawings",
+      "slug": "2026-09-14-apple-s-dimensional-drawings.html",
+      "path": "posts/2026-09-14-apple-s-dimensional-drawings.html",
+      "date_iso": "2026-09-14T00:11:21+00:00",
+      "source": "https://developer.apple.com/accessories/dimensional-drawings/",
+      "summary": "Article URL: https://developer.apple.com/accessories/dimensional-drawings/ Comments URL: https://news.ycombinator.com/item?id=49690174 Points: 282 # Comments: 92"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49689048",
+      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+      "slug": "2026-09-13-registration-without-a-phone-number-on-signal-will-use-zero-knowledge-proofs.html",
+      "path": "posts/2026-09-13-registration-without-a-phone-number-on-signal-will-use-zero-knowledge-proofs.html",
+      "date_iso": "2026-09-13T21:47:04+00:00",
+      "source": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+      "summary": "Article URL: https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10 Comments URL: https://news.ycombinator.com/item?id=49689048 Points: 332 # Comments: 166"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49688695",
+      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "slug": "2026-09-13-fable-5-1-solves-the-cyphral-distich-a-370-year-old-cipher.html",
+      "path": "posts/2026-09-13-fable-5-1-solves-the-cyphral-distich-a-370-year-old-cipher.html",
+      "date_iso": "2026-09-13T21:06:13+00:00",
+      "source": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "summary": "Article URL: https://www.vals.ai/blogs/fable-solves-cyphral-distich Comments URL: https://news.ycombinator.com/item?id=49688695 Points: 1088 # Comments: 493"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49688259",
+      "title": "Mullenweg has returned as CEO after attempted board ouster",
+      "slug": "2026-09-13-mullenweg-has-returned-as-ceo-after-attempted-board-ouster.html",
+      "path": "posts/2026-09-13-mullenweg-has-returned-as-ceo-after-attempted-board-ouster.html",
+      "date_iso": "2026-09-13T20:19:06+00:00",
+      "source": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "summary": "Article URL: https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/ Comments URL: https://news.ycombinator.com/item?id=49688259 Points: 220 # Comments: 295"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49686445",
+      "title": "Why is Google still serving dodgy ads?",
+      "slug": "2026-09-13-why-is-google-still-serving-dodgy-ads.html",
+      "path": "posts/2026-09-13-why-is-google-still-serving-dodgy-ads.html",
+      "date_iso": "2026-09-13T17:37:44+00:00",
+      "source": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+      "summary": "Article URL: https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads Comments URL: https://news.ycombinator.com/item?id=49686445 Points: 888 # Comments: 384"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49682920",
       "title": "Ask HN: Career paths to consider if I am better at supporting than creating?",
       "slug": "2026-09-13-ask-hn-career-paths-to-consider-if-i-am-better-at-supporting-than-creating.html",
