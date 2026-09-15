@@ -1,6 +1,213 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49711240",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+      "slug": "2026-09-15-openai-buys-smartphone-camera-maker-glass-imaging-for-300m.html",
+      "path": "posts/2026-09-15-openai-buys-smartphone-camera-maker-glass-imaging-for-300m.html",
+      "date_iso": "2026-09-15T12:01:31+00:00",
+      "source": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "summary": "Article URL: https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/ Comments URL: https://news.ycombinator.com/item?id=49711240 Points: 6 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49710883",
+      "title": "25 Years of Mass Surveillance Is Enough",
+      "slug": "2026-09-15-25-years-of-mass-surveillance-is-enough.html",
+      "path": "posts/2026-09-15-25-years-of-mass-surveillance-is-enough.html",
+      "date_iso": "2026-09-15T11:26:48+00:00",
+      "source": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+      "summary": "Article URL: https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html Comments URL: https://news.ycombinator.com/item?id=49710883 Points: 14 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49710253",
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "slug": "2026-09-15-suspected-sabotage-causes-major-netherlands-rail-disruption.html",
+      "path": "posts/2026-09-15-suspected-sabotage-causes-major-netherlands-rail-disruption.html",
+      "date_iso": "2026-09-15T10:22:46+00:00",
+      "source": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c8ly49w9g1edo Comments URL: https://news.ycombinator.com/item?id=49710253 Points: 188 # Comments: 153"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/15/us/politics/ai-safety-2028-election-democrats.html",
+      "title": "Alex Bores Wants Democrats to Make AI Safety a 2028 Election Issue",
+      "slug": "2026-09-15-alex-bores-wants-democrats-to-make-ai-safety-a-2028-election-issue.html",
+      "path": "posts/2026-09-15-alex-bores-wants-democrats-to-make-ai-safety-a-2028-election-issue.html",
+      "date_iso": "2026-09-15T09:02:21+00:00",
+      "source": "https://www.nytimes.com/2026/09/15/us/politics/ai-safety-2028-election-democrats.html",
+      "summary": "Alex Bores campaigning in Central Park in June. He lost a Democratic primary contest for the House that centered on A.I. regulation."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49709381",
+      "title": "Alternatives to MinIO for single-node local S3",
+      "slug": "2026-09-15-alternatives-to-minio-for-single-node-local-s3.html",
+      "path": "posts/2026-09-15-alternatives-to-minio-for-single-node-local-s3.html",
+      "date_iso": "2026-09-15T08:21:27+00:00",
+      "source": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
+      "summary": "Article URL: https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/ Comments URL: https://news.ycombinator.com/item?id=49709381 Points: 72 # Comments: 38"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49709129",
+      "title": "The k-server conjecture is true",
+      "slug": "2026-09-15-the-k-server-conjecture-is-true.html",
+      "path": "posts/2026-09-15-the-k-server-conjecture-is-true.html",
+      "date_iso": "2026-09-15T07:45:31+00:00",
+      "source": "https://arxiv.org/abs/2609.15979",
+      "summary": "Article URL: https://arxiv.org/abs/2609.15979 Comments URL: https://news.ycombinator.com/item?id=49709129 Points: 32 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49708993",
+      "title": "CSS-Tricks in Limbo",
+      "slug": "2026-09-15-css-tricks-in-limbo.html",
+      "path": "posts/2026-09-15-css-tricks-in-limbo.html",
+      "date_iso": "2026-09-15T07:27:46+00:00",
+      "source": "https://vale.rocks/micros/20260915-0135",
+      "summary": "Article URL: https://vale.rocks/micros/20260915-0135 Comments URL: https://news.ycombinator.com/item?id=49708993 Points: 67 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49708774",
+      "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
+      "slug": "2026-09-15-lingo-dev-yc-f24-is-hiring-a-senior-content-engineer-remote-worldwide.html",
+      "path": "posts/2026-09-15-lingo-dev-yc-f24-is-hiring-a-senior-content-engineer-remote-worldwide.html",
+      "date_iso": "2026-09-15T07:00:30+00:00",
+      "source": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013",
+      "summary": "Article URL: https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013 Comments URL: https://news.ycombinator.com/item?id=49708774 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49708431",
+      "title": "I can't stop thinking about Papua New Guinea",
+      "slug": "2026-09-15-i-can-t-stop-thinking-about-papua-new-guinea.html",
+      "path": "posts/2026-09-15-i-can-t-stop-thinking-about-papua-new-guinea.html",
+      "date_iso": "2026-09-15T06:16:24+00:00",
+      "source": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+      "summary": "Article URL: https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua Comments URL: https://news.ycombinator.com/item?id=49708431 Points: 378 # Comments: 141"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49707627",
+      "title": "Linux from Scratch",
+      "slug": "2026-09-15-linux-from-scratch.html",
+      "path": "posts/2026-09-15-linux-from-scratch.html",
+      "date_iso": "2026-09-15T04:15:23+00:00",
+      "source": "https://www.linuxfromscratch.org/",
+      "summary": "Article URL: https://www.linuxfromscratch.org/ Comments URL: https://news.ycombinator.com/item?id=49707627 Points: 237 # Comments: 75"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49707473",
+      "title": "US confirms for first time it has deployed space weapons",
+      "slug": "2026-09-15-us-confirms-for-first-time-it-has-deployed-space-weapons.html",
+      "path": "posts/2026-09-15-us-confirms-for-first-time-it-has-deployed-space-weapons.html",
+      "date_iso": "2026-09-15T03:47:56+00:00",
+      "source": "https://www.bbc.com/news/articles/ck790xg41ygro",
+      "summary": "Article URL: https://www.bbc.com/news/articles/ck790xg41ygro Comments URL: https://news.ycombinator.com/item?id=49707473 Points: 90 # Comments: 56"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html",
+      "title": "Nvidia’s Jensen Huang Gets Onstage Call From Trump, Who Dismissed A.I. Safety Concerns",
+      "slug": "2026-09-14-nvidia-s-jensen-huang-gets-onstage-call-from-trump-who-dismissed-a-i-safety-concerns.html",
+      "path": "posts/2026-09-14-nvidia-s-jensen-huang-gets-onstage-call-from-trump-who-dismissed-a-i-safety-concerns.html",
+      "date_iso": "2026-09-14T22:29:25+00:00",
+      "source": "https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html",
+      "summary": "Nvidia’s chief executive, Jensen Huang, has been critical of worries over the safety of artificial intelligence."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49704246",
+      "title": "Charts built for Chat",
+      "slug": "2026-09-14-charts-built-for-chat.html",
+      "path": "posts/2026-09-14-charts-built-for-chat.html",
+      "date_iso": "2026-09-14T21:22:54+00:00",
+      "source": "https://dbtcharts.com/blog/charts-built-for-chat/",
+      "summary": "Article URL: https://dbtcharts.com/blog/charts-built-for-chat/ Comments URL: https://news.ycombinator.com/item?id=49704246 Points: 249 # Comments: 78"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49701004",
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "slug": "2026-09-14-ios-27-ipados-27-and-macos-27.html",
+      "path": "posts/2026-09-14-ios-27-ipados-27-and-macos-27.html",
+      "date_iso": "2026-09-14T17:50:29+00:00",
+      "source": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/ Comments URL: https://news.ycombinator.com/item?id=49701004 Points: 645 # Comments: 738"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49700477",
+      "title": "Pion, an agent designed to run any company autonomously",
+      "slug": "2026-09-14-pion-an-agent-designed-to-run-any-company-autonomously.html",
+      "path": "posts/2026-09-14-pion-an-agent-designed-to-run-any-company-autonomously.html",
+      "date_iso": "2026-09-14T17:16:06+00:00",
+      "source": "https://andonlabs.com/blog/why-we-built-pion",
+      "summary": "Article URL: https://andonlabs.com/blog/why-we-built-pion Comments URL: https://news.ycombinator.com/item?id=49700477 Points: 430 # Comments: 530"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/14/business/amazon-21-air-miami-airport-crash.html",
+      "title": "Amazon Suspends Flights With Airline Whose Plane Crashed in Miami",
+      "slug": "2026-09-14-amazon-suspends-flights-with-airline-whose-plane-crashed-in-miami.html",
+      "path": "posts/2026-09-14-amazon-suspends-flights-with-airline-whose-plane-crashed-in-miami.html",
+      "date_iso": "2026-09-14T16:42:19+00:00",
+      "source": "https://www.nytimes.com/2026/09/14/business/amazon-21-air-miami-airport-crash.html",
+      "summary": "Amazon’s Prime Air operations uses several cargo airlines to fly planes on its behalf."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49699158",
+      "title": "Distributed Systems Classics (2017)",
+      "slug": "2026-09-14-distributed-systems-classics-2017.html",
+      "path": "posts/2026-09-14-distributed-systems-classics-2017.html",
+      "date_iso": "2026-09-14T16:02:01+00:00",
+      "source": "https://nvartolomei.com/dist-sys-classics/",
+      "summary": "Article URL: https://nvartolomei.com/dist-sys-classics/ Comments URL: https://news.ycombinator.com/item?id=49699158 Points: 321 # Comments: 68"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49698699",
+      "title": "A beginning for mathematics",
+      "slug": "2026-09-14-a-beginning-for-mathematics.html",
+      "path": "posts/2026-09-14-a-beginning-for-mathematics.html",
+      "date_iso": "2026-09-14T15:33:07+00:00",
+      "source": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+      "summary": "Article URL: https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/ Comments URL: https://news.ycombinator.com/item?id=49698699 Points: 245 # Comments: 128"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49698607",
+      "title": "Principles for Fast Tokio Applications",
+      "slug": "2026-09-14-principles-for-fast-tokio-applications.html",
+      "path": "posts/2026-09-14-principles-for-fast-tokio-applications.html",
+      "date_iso": "2026-09-14T15:27:56+00:00",
+      "source": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+      "summary": "Article URL: https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/ Comments URL: https://news.ycombinator.com/item?id=49698607 Points: 227 # Comments: 53"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49697549",
+      "title": "A rough guide for going back to the Moon",
+      "slug": "2026-09-14-a-rough-guide-for-going-back-to-the-moon.html",
+      "path": "posts/2026-09-14-a-rough-guide-for-going-back-to-the-moon.html",
+      "date_iso": "2026-09-14T14:33:00+00:00",
+      "source": "https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model",
+      "summary": "Article URL: https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model Comments URL: https://news.ycombinator.com/item?id=49697549 Points: 13 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49697477",
+      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+      "slug": "2026-09-14-dropping-ebpf-cpu-cost-by-about-90-with-memoization-not-ai-gen.html",
+      "path": "posts/2026-09-14-dropping-ebpf-cpu-cost-by-about-90-with-memoization-not-ai-gen.html",
+      "date_iso": "2026-09-14T14:29:23+00:00",
+      "source": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+      "summary": "Article URL: https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/ Comments URL: https://news.ycombinator.com/item?id=49697477 Points: 134 # Comments: 28"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49696697",
+      "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
+      "slug": "2026-09-14-ubuntu-26-10-completes-transition-to-rust-based-coreutils.html",
+      "path": "posts/2026-09-14-ubuntu-26-10-completes-transition-to-rust-based-coreutils.html",
+      "date_iso": "2026-09-14T13:38:58+00:00",
+      "source": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+      "summary": "Article URL: https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete Comments URL: https://news.ycombinator.com/item?id=49696697 Points: 222 # Comments: 235"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49696453",
+      "title": "People who can't picture anything are rewriting the science of imagination",
+      "slug": "2026-09-14-people-who-can-t-picture-anything-are-rewriting-the-science-of-imagination.html",
+      "path": "posts/2026-09-14-people-who-can-t-picture-anything-are-rewriting-the-science-of-imagination.html",
+      "date_iso": "2026-09-14T13:23:53+00:00",
+      "source": "https://dailyneuron.com/aphantasia-mental-imagery-brain-network/",
+      "summary": "Article URL: https://dailyneuron.com/aphantasia-mental-imagery-brain-network/ Comments URL: https://news.ycombinator.com/item?id=49696453 Points: 187 # Comments: 263"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49696313",
       "title": "Volkswagen Just Built an EV That Can Go Nearly 900 Miles on a Charge",
       "slug": "2026-09-14-volkswagen-just-built-an-ev-that-can-go-nearly-900-miles-on-a-charge.html",
@@ -368,6 +575,15 @@
       "date_iso": "2026-09-12T16:25:08+00:00",
       "source": "https://high5apps.github.io/josm-plugin-website-wizard/",
       "summary": "Article URL: https://high5apps.github.io/josm-plugin-website-wizard/ Comments URL: https://news.ycombinator.com/item?id=49674050 Points: 495 # Comments: 127"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/12/technology/ai-safeguards.html",
+      "title": "Why It’s Difficult for Tech Companies to Rein In A.I.",
+      "slug": "2026-09-12-why-it-s-difficult-for-tech-companies-to-rein-in-a-i.html",
+      "path": "posts/2026-09-12-why-it-s-difficult-for-tech-companies-to-rein-in-a-i.html",
+      "date_iso": "2026-09-12T16:18:06+00:00",
+      "source": "https://www.nytimes.com/2026/09/12/technology/ai-safeguards.html",
+      "summary": "Researchers say artificial intelligence is developing faster than the systems put in place to monitor and control it."
     },
     {
       "id": "https://news.ycombinator.com/item?id=49673098",
