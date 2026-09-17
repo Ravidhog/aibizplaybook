@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49738879",
+      "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
+      "slug": "2026-09-17-neovim-have-a-800k-bitcoin-donation-sitting-untouched-since-2023.html",
+      "path": "posts/2026-09-17-neovim-have-a-800k-bitcoin-donation-sitting-untouched-since-2023.html",
+      "date_iso": "2026-09-17T10:44:49+00:00",
+      "source": "https://news.ycombinator.com/item?id=49738879",
+      "summary": "I was looking at neovim's donation footer at the bottom of their site and saw a bitcoin donation address. Thought I'd check how much in donations they've gotten. And I saw this massive 10 Bitcoin donation from back in 2023 (worth $800,000 now...) From the activity history, neovi…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49738766",
+      "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
+      "slug": "2026-09-17-better-vector-search-for-long-documents-chunking-inside-manticore-search.html",
+      "path": "posts/2026-09-17-better-vector-search-for-long-documents-chunking-inside-manticore-search.html",
+      "date_iso": "2026-09-17T10:30:52+00:00",
+      "source": "https://manticoresearch.com/blog/auto-chunking/",
+      "summary": "Article URL: https://manticoresearch.com/blog/auto-chunking/ Comments URL: https://news.ycombinator.com/item?id=49738766 Points: 25 # Comments: 1"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/17/arts/television/cupertino-robert-and-michelle-king.html",
+      "title": "On ‘Cupertino,’ Robert and Michelle King Go Online",
+      "slug": "2026-09-17-on-cupertino-robert-and-michelle-king-go-online.html",
+      "path": "posts/2026-09-17-on-cupertino-robert-and-michelle-king-go-online.html",
+      "date_iso": "2026-09-17T09:02:35+00:00",
+      "source": "https://www.nytimes.com/2026/09/17/arts/television/cupertino-robert-and-michelle-king.html",
+      "summary": "The prolific producers target tech bigwigs in their newest show. “They’re really the stupidest and dumbest people,” Robert King said."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html",
+      "title": "How Anthropic CEO Dario Amodei’s Writings Help Explain A.I. Fears",
+      "slug": "2026-09-17-how-anthropic-ceo-dario-amodei-s-writings-help-explain-a-i-fears.html",
+      "path": "posts/2026-09-17-how-anthropic-ceo-dario-amodei-s-writings-help-explain-a-i-fears.html",
+      "date_iso": "2026-09-17T09:00:08+00:00",
+      "source": "https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html",
+      "summary": "Dario Amodei, Anthropic’s chief executive, on Tuesday."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49737922",
+      "title": "GLM Built Its Own Inference Infrastructure",
+      "slug": "2026-09-17-glm-built-its-own-inference-infrastructure.html",
+      "path": "posts/2026-09-17-glm-built-its-own-inference-infrastructure.html",
+      "date_iso": "2026-09-17T08:27:09+00:00",
+      "source": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+      "summary": "Article URL: https://z.ai/blog/glm-built-its-inference-infrastructure Comments URL: https://news.ycombinator.com/item?id=49737922 Points: 119 # Comments: 84"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49737849",
+      "title": "One Year of Sponsored Servo Development",
+      "slug": "2026-09-17-one-year-of-sponsored-servo-development.html",
+      "path": "posts/2026-09-17-one-year-of-sponsored-servo-development.html",
+      "date_iso": "2026-09-17T08:13:54+00:00",
+      "source": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+      "summary": "Article URL: https://servo.org/blog/2026/09/15/one-year-of-sponsorship/ Comments URL: https://news.ycombinator.com/item?id=49737849 Points: 152 # Comments: 63"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49737787",
+      "title": "CCC invites all model citizens to 40C3",
+      "slug": "2026-09-17-ccc-invites-all-model-citizens-to-40c3.html",
+      "path": "posts/2026-09-17-ccc-invites-all-model-citizens-to-40c3.html",
+      "date_iso": "2026-09-17T08:03:54+00:00",
+      "source": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
+      "summary": "Article URL: https://events.ccc.de/en/2026/09/12/40c3-model-citizens/ Comments URL: https://news.ycombinator.com/item?id=49737787 Points: 13 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49737503",
+      "title": "OpenAI Model Misalignment Report",
+      "slug": "2026-09-17-openai-model-misalignment-report.html",
+      "path": "posts/2026-09-17-openai-model-misalignment-report.html",
+      "date_iso": "2026-09-17T07:21:19+00:00",
+      "source": "https://openai.com/index/model-misalignment-reporting-framework/",
+      "summary": "Article URL: https://openai.com/index/model-misalignment-reporting-framework/ Comments URL: https://news.ycombinator.com/item?id=49737503 Points: 77 # Comments: 55"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49736466",
+      "title": "Cloudflare/Security-Audit-Skill",
+      "slug": "2026-09-17-cloudflare-security-audit-skill.html",
+      "path": "posts/2026-09-17-cloudflare-security-audit-skill.html",
+      "date_iso": "2026-09-17T04:36:55+00:00",
+      "source": "https://github.com/cloudflare/security-audit-skill",
+      "summary": "Article URL: https://github.com/cloudflare/security-audit-skill Comments URL: https://news.ycombinator.com/item?id=49736466 Points: 93 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49735930",
+      "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+      "slug": "2026-09-17-keys-not-included-recovering-the-signing-keys-for-us-driver-s-license-barcodes.html",
+      "path": "posts/2026-09-17-keys-not-included-recovering-the-signing-keys-for-us-driver-s-license-barcodes.html",
+      "date_iso": "2026-09-17T03:03:23+00:00",
+      "source": "https://ryan.science/blog/keys-not-included",
+      "summary": "Article URL: https://ryan.science/blog/keys-not-included Comments URL: https://news.ycombinator.com/item?id=49735930 Points: 202 # Comments: 74"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
+      "title": "OpenAI Discloses Six New Incidents of ‘Concerning' A.I. Behavior",
+      "slug": "2026-09-17-openai-discloses-six-new-incidents-of-concerning-a-i-behavior.html",
+      "path": "posts/2026-09-17-openai-discloses-six-new-incidents-of-concerning-a-i-behavior.html",
+      "date_iso": "2026-09-17T00:12:24+00:00",
+      "source": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
+      "summary": "OpenAI offices in San Francisco."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/16/technology/google-ad-tech-remedies.html",
+      "title": "Judge Orders Data Sharing and Other Fixes to Solve Google’s Ad Tech Monopoly",
+      "slug": "2026-09-16-judge-orders-data-sharing-and-other-fixes-to-solve-google-s-ad-tech-monopoly.html",
+      "path": "posts/2026-09-16-judge-orders-data-sharing-and-other-fixes-to-solve-google-s-ad-tech-monopoly.html",
+      "date_iso": "2026-09-16T23:50:26+00:00",
+      "source": "https://www.nytimes.com/2026/09/16/technology/google-ad-tech-remedies.html",
+      "summary": "Google offices in San Francisco."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49734264",
+      "title": "OpenSpec – A lightweight and configurable AI spec framework",
+      "slug": "2026-09-16-openspec-a-lightweight-and-configurable-ai-spec-framework.html",
+      "path": "posts/2026-09-16-openspec-a-lightweight-and-configurable-ai-spec-framework.html",
+      "date_iso": "2026-09-16T23:06:39+00:00",
+      "source": "https://openspec.dev/",
+      "summary": "Article URL: https://openspec.dev/ Comments URL: https://news.ycombinator.com/item?id=49734264 Points: 154 # Comments: 72"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49733726",
+      "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+      "slug": "2026-09-16-harnesstax-how-much-does-the-harness-matter-for-coding-agents.html",
+      "path": "posts/2026-09-16-harnesstax-how-much-does-the-harness-matter-for-coding-agents.html",
+      "date_iso": "2026-09-16T22:10:13+00:00",
+      "source": "https://harnesstax.github.io/",
+      "summary": "Article URL: https://harnesstax.github.io/ Comments URL: https://news.ycombinator.com/item?id=49733726 Points: 148 # Comments: 56"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49732931",
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "slug": "2026-09-16-breaking-the-1-58-bit-barrier-for-ternary-llms.html",
+      "path": "posts/2026-09-16-breaking-the-1-58-bit-barrier-for-ternary-llms.html",
+      "date_iso": "2026-09-16T20:59:24+00:00",
+      "source": "https://arxiv.org/abs/2609.16338",
+      "summary": "Article URL: https://arxiv.org/abs/2609.16338 Comments URL: https://news.ycombinator.com/item?id=49732931 Points: 214 # Comments: 33"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/16/us/merriam-webster-new-words-looksmaxxing-yacht-rock.html",
+      "title": "Merriam-Webster Dictionary Is Wordsmaxxing With 1,400 New Definitions",
+      "slug": "2026-09-16-merriam-webster-dictionary-is-wordsmaxxing-with-1-400-new-definitions.html",
+      "path": "posts/2026-09-16-merriam-webster-dictionary-is-wordsmaxxing-with-1-400-new-definitions.html",
+      "date_iso": "2026-09-16T20:54:17+00:00",
+      "source": "https://www.nytimes.com/2026/09/16/us/merriam-webster-new-words-looksmaxxing-yacht-rock.html",
+      "summary": "A copy of Merriam-Webster’s 12th edition of the “Collegiate Dictionary.” The company is adding 1,400 words to its online catalog, some of which will go in print."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49732513",
+      "title": "Backups Aren't Simple",
+      "slug": "2026-09-16-backups-aren-t-simple.html",
+      "path": "posts/2026-09-16-backups-aren-t-simple.html",
+      "date_iso": "2026-09-16T20:27:16+00:00",
+      "source": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+      "summary": "Article URL: https://filipovski.net/2026/09/16/backups-arent-simple.html Comments URL: https://news.ycombinator.com/item?id=49732513 Points: 267 # Comments: 168"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49732270",
+      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+      "slug": "2026-09-16-xiaomi-mimo-2-6-live-post-training-dashboard.html",
+      "path": "posts/2026-09-16-xiaomi-mimo-2-6-live-post-training-dashboard.html",
+      "date_iso": "2026-09-16T20:09:18+00:00",
+      "source": "https://mimo.xiaomi.com/rl/",
+      "summary": "Article URL: https://mimo.xiaomi.com/rl/ Comments URL: https://news.ycombinator.com/item?id=49732270 Points: 463 # Comments: 134"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49731285",
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "slug": "2026-09-16-training-a-4b-model-to-produce-81-faster-query-plans-than-postgres.html",
+      "path": "posts/2026-09-16-training-a-4b-model-to-produce-81-faster-query-plans-than-postgres.html",
+      "date_iso": "2026-09-16T18:50:00+00:00",
+      "source": "https://rohanbansal.com/qorl",
+      "summary": "Article URL: https://rohanbansal.com/qorl Comments URL: https://news.ycombinator.com/item?id=49731285 Points: 579 # Comments: 121"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49729000",
+      "title": "Small programming tricks",
+      "slug": "2026-09-16-small-programming-tricks.html",
+      "path": "posts/2026-09-16-small-programming-tricks.html",
+      "date_iso": "2026-09-16T15:56:47+00:00",
+      "source": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+      "summary": "Article URL: https://will-keleher.com/posts/small-programming-tricks-matter/ Comments URL: https://news.ycombinator.com/item?id=49729000 Points: 559 # Comments: 250"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49725541",
       "title": "Kyber (YC W23) Is Hiring a Forward Deployed Engineer",
       "slug": "2026-09-16-kyber-yc-w23-is-hiring-a-forward-deployed-engineer.html",
@@ -17,6 +197,15 @@
       "date_iso": "2026-09-16T11:19:11+00:00",
       "source": "https://gultsch.social/@daniel/117280438824908947",
       "summary": "Article URL: https://gultsch.social/@daniel/117280438824908947 Comments URL: https://news.ycombinator.com/item?id=49724927 Points: 32 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49724881",
+      "title": "Nvidia announces native GPU programming in Rust",
+      "slug": "2026-09-16-nvidia-announces-native-gpu-programming-in-rust.html",
+      "path": "posts/2026-09-16-nvidia-announces-native-gpu-programming-in-rust.html",
+      "date_iso": "2026-09-16T11:15:53+00:00",
+      "source": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "summary": "Article URL: https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/ Comments URL: https://news.ycombinator.com/item?id=49724881 Points: 755 # Comments: 307"
     },
     {
       "id": "https://news.ycombinator.com/item?id=49724849",
@@ -136,6 +325,15 @@
       "summary": "Article URL: https://security.apple.com/blog/apple-reference-image/ Comments URL: https://news.ycombinator.com/item?id=49721322 Points: 307 # Comments: 221"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=49721291",
+      "title": "A 32-year-old bug walks into a Telnet server",
+      "slug": "2026-09-16-a-32-year-old-bug-walks-into-a-telnet-server.html",
+      "path": "posts/2026-09-16-a-32-year-old-bug-walks-into-a-telnet-server.html",
+      "date_iso": "2026-09-16T02:01:27+00:00",
+      "source": "https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/",
+      "summary": "Article URL: https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/ Comments URL: https://news.ycombinator.com/item?id=49721291 Points: 70 # Comments: 30"
+    },
+    {
       "id": "https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html",
       "title": "Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown",
       "slug": "2026-09-16-mark-zuckerberg-takes-aim-at-anthropic-in-debate-over-a-i-slowdown.html",
@@ -170,6 +368,33 @@
       "date_iso": "2026-09-15T22:50:55+00:00",
       "source": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
       "summary": "Article URL: https://nand2mario.github.io/posts/2026/zsst-voodoo/ Comments URL: https://news.ycombinator.com/item?id=49719938 Points: 140 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49719751",
+      "title": "Lucasart's Afterlife",
+      "slug": "2026-09-15-lucasart-s-afterlife.html",
+      "path": "posts/2026-09-15-lucasart-s-afterlife.html",
+      "date_iso": "2026-09-15T22:30:30+00:00",
+      "source": "https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/",
+      "summary": "Article URL: https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/ Comments URL: https://news.ycombinator.com/item?id=49719751 Points: 43 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49719596",
+      "title": "The engineering behind the US Strategic Petroleum Reserve",
+      "slug": "2026-09-15-the-engineering-behind-the-us-strategic-petroleum-reserve.html",
+      "path": "posts/2026-09-15-the-engineering-behind-the-us-strategic-petroleum-reserve.html",
+      "date_iso": "2026-09-15T22:15:25+00:00",
+      "source": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
+      "summary": "Article URL: https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve Comments URL: https://news.ycombinator.com/item?id=49719596 Points: 221 # Comments: 90"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49719249",
+      "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
+      "slug": "2026-09-15-aws-says-it-can-t-restore-some-data-from-mideast-facilities-struck-by-iran.html",
+      "path": "posts/2026-09-15-aws-says-it-can-t-restore-some-data-from-mideast-facilities-struck-by-iran.html",
+      "date_iso": "2026-09-15T21:41:42+00:00",
+      "source": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
+      "summary": "https://archive.is/Ay7RJ Comments URL: https://news.ycombinator.com/item?id=49719249 Points: 445 # Comments: 374"
     },
     {
       "id": "https://news.ycombinator.com/item?id=49718928",
