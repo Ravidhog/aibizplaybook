@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49786689",
+      "title": "Raspberry Pi blocks changing RAM chips",
+      "slug": "2026-09-21-raspberry-pi-blocks-changing-ram-chips.html",
+      "path": "posts/2026-09-21-raspberry-pi-blocks-changing-ram-chips.html",
+      "date_iso": "2026-09-21T12:54:24+00:00",
+      "source": "https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888",
+      "summary": "Article URL: https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888 Comments URL: https://news.ycombinator.com/item?id=49786689 Points: 52 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49786609",
+      "title": "Ask HN: Is it impossible to disable Siri on macOS 27?",
+      "slug": "2026-09-21-ask-hn-is-it-impossible-to-disable-siri-on-macos-27.html",
+      "path": "posts/2026-09-21-ask-hn-is-it-impossible-to-disable-siri-on-macos-27.html",
+      "date_iso": "2026-09-21T12:47:05+00:00",
+      "source": "https://news.ycombinator.com/item?id=49786609",
+      "summary": "I disabled Siri in the Settings app, and then further disabled Siri and its extensions in Settings > Screen Time. Next, I disabled all Siri-related and Apple Intelligence-related services as per https://github.com/OleksandrKrupko/mac-os-debloat But after restarting, I could stil…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49786419",
+      "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
+      "slug": "2026-09-21-show-hn-lossless-memory-a-personal-ai-memory-that-never-summarizes.html",
+      "path": "posts/2026-09-21-show-hn-lossless-memory-a-personal-ai-memory-that-never-summarizes.html",
+      "date_iso": "2026-09-21T12:28:17+00:00",
+      "source": "https://github.com/aru-labs/lossless-memory",
+      "summary": "Article URL: https://github.com/aru-labs/lossless-memory Comments URL: https://news.ycombinator.com/item?id=49786419 Points: 10 # Comments: 4"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html",
+      "title": "This A.I. House Can Provide You With Connections. It Also Has a Dark Side.",
+      "slug": "2026-09-21-this-a-i-house-can-provide-you-with-connections-it-also-has-a-dark-side.html",
+      "path": "posts/2026-09-21-this-a-i-house-can-provide-you-with-connections-it-also-has-a-dark-side.html",
+      "date_iso": "2026-09-21T11:01:14+00:00",
+      "source": "https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html",
+      "summary": "The entrance to AGI House in Hillsborough, Calif. AGI House is one of the most prominent and notorious tech group homes in the artificial intelligence boom."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49785429",
+      "title": "ZuckOff Know when a camera is in the room",
+      "slug": "2026-09-21-zuckoff-know-when-a-camera-is-in-the-room.html",
+      "path": "posts/2026-09-21-zuckoff-know-when-a-camera-is-in-the-room.html",
+      "date_iso": "2026-09-21T10:33:14+00:00",
+      "source": "https://zuckoff.app/",
+      "summary": "Article URL: https://zuckoff.app/ Comments URL: https://news.ycombinator.com/item?id=49785429 Points: 435 # Comments: 180"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49785397",
+      "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
+      "slug": "2026-09-21-zuckoff-is-a-free-app-that-sees-meta-glasses-before-they-see-you.html",
+      "path": "posts/2026-09-21-zuckoff-is-a-free-app-that-sees-meta-glasses-before-they-see-you.html",
+      "date_iso": "2026-09-21T10:27:50+00:00",
+      "source": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
+      "summary": "Article URL: https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff Comments URL: https://news.ycombinator.com/item?id=49785397 Points: 224 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49784706",
+      "title": "Jev-Leftpad",
+      "slug": "2026-09-21-jev-leftpad.html",
+      "path": "posts/2026-09-21-jev-leftpad.html",
+      "date_iso": "2026-09-21T08:39:32+00:00",
+      "source": "https://github.com/f/jev-leftpad",
+      "summary": "Article URL: https://github.com/f/jev-leftpad Comments URL: https://news.ycombinator.com/item?id=49784706 Points: 142 # Comments: 48"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49784336",
+      "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
+      "slug": "2026-09-21-disney-new-user-agreement-allows-ads-before-movies-in-all-subscriptions.html",
+      "path": "posts/2026-09-21-disney-new-user-agreement-allows-ads-before-movies-in-all-subscriptions.html",
+      "date_iso": "2026-09-21T07:55:28+00:00",
+      "source": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
+      "summary": "Article URL: https://consumerrights.wiki/w/Disney%2B_ad_policy_change Comments URL: https://news.ycombinator.com/item?id=49784336 Points: 212 # Comments: 147"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49783999",
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "slug": "2026-09-21-kev-tiny-jev-like-family-of-decision-models-built-on-top-of-qwen3-5.html",
+      "path": "posts/2026-09-21-kev-tiny-jev-like-family-of-decision-models-built-on-top-of-qwen3-5.html",
+      "date_iso": "2026-09-21T07:11:55+00:00",
+      "source": "https://github.com/jaredpalmer/kev/tree/main",
+      "summary": "Article URL: https://github.com/jaredpalmer/kev/tree/main Comments URL: https://news.ycombinator.com/item?id=49783999 Points: 198 # Comments: 90"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49783568",
+      "title": "Elektron Machinedrum in the Browser",
+      "slug": "2026-09-21-elektron-machinedrum-in-the-browser.html",
+      "path": "posts/2026-09-21-elektron-machinedrum-in-the-browser.html",
+      "date_iso": "2026-09-21T06:07:52+00:00",
+      "source": "https://machinedrum-study.pages.dev/",
+      "summary": "Article URL: https://machinedrum-study.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49783568 Points: 26 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49783495",
+      "title": "Grim Fandango Puzzle Document (1996) [pdf]",
+      "slug": "2026-09-21-grim-fandango-puzzle-document-1996-pdf.html",
+      "path": "posts/2026-09-21-grim-fandango-puzzle-document-1996-pdf.html",
+      "date_iso": "2026-09-21T05:55:22+00:00",
+      "source": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+      "summary": "Article URL: http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf Comments URL: https://news.ycombinator.com/item?id=49783495 Points: 256 # Comments: 56"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49783133",
+      "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+      "slug": "2026-09-21-show-hn-mini-agi-dynamic-continual-learning-model-trained-on-8gb-vram.html",
+      "path": "posts/2026-09-21-show-hn-mini-agi-dynamic-continual-learning-model-trained-on-8gb-vram.html",
+      "date_iso": "2026-09-21T04:42:37+00:00",
+      "source": "https://github.com/volotat/mini-AGI/",
+      "summary": "Sorry for the pretentious name, I know, I know.. It just contains all the pieces I would like to see a AGI model to have, and I can't stand the temptation. Before throwing rocks at me, please take a glance at the Readme, and I hope it will cover your mood a little bit. So, first…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49783101",
+      "title": "Heretic removes restrictions from language models",
+      "slug": "2026-09-21-heretic-removes-restrictions-from-language-models.html",
+      "path": "posts/2026-09-21-heretic-removes-restrictions-from-language-models.html",
+      "date_iso": "2026-09-21T04:35:22+00:00",
+      "source": "https://heretic-project.org/",
+      "summary": "Article URL: https://heretic-project.org/ Comments URL: https://news.ycombinator.com/item?id=49783101 Points: 105 # Comments: 42"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49781693",
+      "title": "Why Backprop Goes Backward (2018)",
+      "slug": "2026-09-21-why-backprop-goes-backward-2018.html",
+      "path": "posts/2026-09-21-why-backprop-goes-backward-2018.html",
+      "date_iso": "2026-09-21T00:42:14+00:00",
+      "source": "https://gregorygundersen.com/blog/2018/04/15/backprop/",
+      "summary": "Article URL: https://gregorygundersen.com/blog/2018/04/15/backprop/ Comments URL: https://news.ycombinator.com/item?id=49781693 Points: 59 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49781436",
+      "title": "Amiga Unix, Again",
+      "slug": "2026-09-20-amiga-unix-again.html",
+      "path": "posts/2026-09-20-amiga-unix-again.html",
+      "date_iso": "2026-09-20T23:57:10+00:00",
+      "source": "https://amigaux.org/",
+      "summary": "Article URL: https://amigaux.org/ Comments URL: https://news.ycombinator.com/item?id=49781436 Points: 120 # Comments: 44"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49780820",
+      "title": "What happened to the Snowden archive",
+      "slug": "2026-09-20-what-happened-to-the-snowden-archive.html",
+      "path": "posts/2026-09-20-what-happened-to-the-snowden-archive.html",
+      "date_iso": "2026-09-20T22:35:49+00:00",
+      "source": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+      "summary": "Article URL: https://libroot.org/posts/what-happened-to-the-snowden-archive Comments URL: https://news.ycombinator.com/item?id=49780820 Points: 536 # Comments: 375"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49780797",
+      "title": "AX – Google’s Open Agentic Orchestrator",
+      "slug": "2026-09-20-ax-google-s-open-agentic-orchestrator.html",
+      "path": "posts/2026-09-20-ax-google-s-open-agentic-orchestrator.html",
+      "date_iso": "2026-09-20T22:32:43+00:00",
+      "source": "https://agentexecutor.io",
+      "summary": "Article URL: https://agentexecutor.io Comments URL: https://news.ycombinator.com/item?id=49780797 Points: 556 # Comments: 248"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49780022",
+      "title": "Ogre Battle 64 Recompiled Project at 99.05%",
+      "slug": "2026-09-20-ogre-battle-64-recompiled-project-at-99-05.html",
+      "path": "posts/2026-09-20-ogre-battle-64-recompiled-project-at-99-05.html",
+      "date_iso": "2026-09-20T20:59:02+00:00",
+      "source": "https://github.com/lfarroco/ogre-battle-64-recomp",
+      "summary": "Article URL: https://github.com/lfarroco/ogre-battle-64-recomp Comments URL: https://news.ycombinator.com/item?id=49780022 Points: 95 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49779329",
+      "title": "MCP was always a bad idea?",
+      "slug": "2026-09-20-mcp-was-always-a-bad-idea.html",
+      "path": "posts/2026-09-20-mcp-was-always-a-bad-idea.html",
+      "date_iso": "2026-09-20T19:44:40+00:00",
+      "source": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
+      "summary": "Article URL: https://maharship.com/blog/why-mcp-was-always-a-bad-idea/ Comments URL: https://news.ycombinator.com/item?id=49779329 Points: 219 # Comments: 183"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49778195",
+      "title": "A Necessary History of the Oddest Letter: W",
+      "slug": "2026-09-20-a-necessary-history-of-the-oddest-letter-w.html",
+      "path": "posts/2026-09-20-a-necessary-history-of-the-oddest-letter-w.html",
+      "date_iso": "2026-09-20T17:55:57+00:00",
+      "source": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
+      "summary": "Article URL: https://lithub.com/a-necessary-history-of-the-oddest-letter-w/ Comments URL: https://news.ycombinator.com/item?id=49778195 Points: 175 # Comments: 86"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49778029",
+      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "slug": "2026-09-20-samsung-is-expected-to-more-than-double-output-of-its-hbm4-and-hbm4e-dram.html",
+      "path": "posts/2026-09-20-samsung-is-expected-to-more-than-double-output-of-its-hbm4-and-hbm4e-dram.html",
+      "date_iso": "2026-09-20T17:38:50+00:00",
+      "source": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+      "summary": "Article URL: https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say Comments URL: https://news.ycombinator.com/item?id=49778029 Points: 510 # Comments: 363"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49774665",
       "title": "I'm Tired of the AI Tone",
       "slug": "2026-09-20-i-m-tired-of-the-ai-tone.html",
@@ -26,6 +215,15 @@
       "date_iso": "2026-09-20T09:08:52+00:00",
       "source": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
       "summary": "Article URL: https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549 Comments URL: https://news.ycombinator.com/item?id=49773998 Points: 29 # Comments: 26"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/20/business/china-ai-economy.html",
+      "title": "In China, A.I. Is Moving Forward While the Economy Lags Behind",
+      "slug": "2026-09-20-in-china-a-i-is-moving-forward-while-the-economy-lags-behind.html",
+      "path": "posts/2026-09-20-in-china-a-i-is-moving-forward-while-the-economy-lags-behind.html",
+      "date_iso": "2026-09-20T09:01:40+00:00",
+      "source": "https://www.nytimes.com/2026/09/20/business/china-ai-economy.html",
+      "summary": "As Xi Jinping arrives in the United States this week for a state visit, China’s advances in artificial intelligence will be in the air. Less discussed: China’s economy in its worst shape in decades."
     },
     {
       "id": "https://news.ycombinator.com/item?id=49772961",
