@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49799577",
+      "title": "Type Punning in C and C++",
+      "slug": "2026-09-22-type-punning-in-c-and-c.html",
+      "path": "posts/2026-09-22-type-punning-in-c-and-c.html",
+      "date_iso": "2026-09-22T11:29:47+00:00",
+      "source": "https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html",
+      "summary": "Article URL: https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html Comments URL: https://news.ycombinator.com/item?id=49799577 Points: 11 # Comments: 2"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/22/climate/climate-change-artificial-intelligence-global-threat.html",
+      "title": "The Big Threat Has Been Climate Change. Now Comes A.I.",
+      "slug": "2026-09-22-the-big-threat-has-been-climate-change-now-comes-a-i.html",
+      "path": "posts/2026-09-22-the-big-threat-has-been-climate-change-now-comes-a-i.html",
+      "date_iso": "2026-09-22T11:05:50+00:00",
+      "source": "https://www.nytimes.com/2026/09/22/climate/climate-change-artificial-intelligence-global-threat.html",
+      "summary": "Construction of an A.I. data center in Texas last month."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49799287",
+      "title": "JetBrains Air: A System of Products for Agentic Software Development",
+      "slug": "2026-09-22-jetbrains-air-a-system-of-products-for-agentic-software-development.html",
+      "path": "posts/2026-09-22-jetbrains-air-a-system-of-products-for-agentic-software-development.html",
+      "date_iso": "2026-09-22T11:00:58+00:00",
+      "source": "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/",
+      "summary": "Article URL: https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/ Comments URL: https://news.ycombinator.com/item?id=49799287 Points: 38 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49799083",
+      "title": "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"",
+      "slug": "2026-09-22-9-ads-per-minute-fifa-cup-26-the-price-of-the-beautiful-game.html",
+      "path": "posts/2026-09-22-9-ads-per-minute-fifa-cup-26-the-price-of-the-beautiful-game.html",
+      "date_iso": "2026-09-22T10:36:44+00:00",
+      "source": "https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html",
+      "summary": "Article URL: https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html Comments URL: https://news.ycombinator.com/item?id=49799083 Points: 82 # Comments: 92"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49798597",
+      "title": "Verda (Finland) raises $189M in Series B",
+      "slug": "2026-09-22-verda-finland-raises-189m-in-series-b.html",
+      "path": "posts/2026-09-22-verda-finland-raises-189m-in-series-b.html",
+      "date_iso": "2026-09-22T09:36:31+00:00",
+      "source": "https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers",
+      "summary": "Article URL: https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers Comments URL: https://news.ycombinator.com/item?id=49798597 Points: 32 # Comments: 10"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/22/technology/ai-hacks-list.html",
+      "title": "What to Know About Recent A.I. Hacks",
+      "slug": "2026-09-22-what-to-know-about-recent-a-i-hacks.html",
+      "path": "posts/2026-09-22-what-to-know-about-recent-a-i-hacks.html",
+      "date_iso": "2026-09-22T09:03:32+00:00",
+      "source": "https://www.nytimes.com/2026/09/22/technology/ai-hacks-list.html",
+      "summary": "An analysis of one recent hack by OpenAI technology helped to reveal how A.I. agents communicated with one another."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/22/travel/group-trip-expenses-splitting-costs.html",
+      "title": "How to Split Expenses on a Group Trip Without Fighting",
+      "slug": "2026-09-22-how-to-split-expenses-on-a-group-trip-without-fighting.html",
+      "path": "posts/2026-09-22-how-to-split-expenses-on-a-group-trip-without-fighting.html",
+      "date_iso": "2026-09-22T09:01:28+00:00",
+      "source": "https://www.nytimes.com/2026/09/22/travel/group-trip-expenses-splitting-costs.html",
+      "summary": "From bachelorette trips to family vacations, group travel can cause relationship-ending fallouts. Here’s how to navigate difficult conversations about finances."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/22/business/self-driving-cars-tesla-fsd.html",
+      "title": "As Computers Take the Driver’s Seat, Experts Worry About Safety",
+      "slug": "2026-09-22-as-computers-take-the-driver-s-seat-experts-worry-about-safety.html",
+      "path": "posts/2026-09-22-as-computers-take-the-driver-s-seat-experts-worry-about-safety.html",
+      "date_iso": "2026-09-22T09:00:22+00:00",
+      "source": "https://www.nytimes.com/2026/09/22/business/self-driving-cars-tesla-fsd.html",
+      "summary": "Hands-free driving in a Rivian. The automaker is among those offering systems that allow drivers to take their hands off the steering wheel on certain roads."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49798204",
+      "title": "AMD's random number generator can't generate a 0?",
+      "slug": "2026-09-22-amd-s-random-number-generator-can-t-generate-a-0.html",
+      "path": "posts/2026-09-22-amd-s-random-number-generator-can-t-generate-a-0.html",
+      "date_iso": "2026-09-22T08:39:43+00:00",
+      "source": "https://board.flatassembler.net/topic.php?t=24261",
+      "summary": "Article URL: https://board.flatassembler.net/topic.php?t=24261 Comments URL: https://news.ycombinator.com/item?id=49798204 Points: 106 # Comments: 54"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49797982",
+      "title": "I said no and Apple said yes",
+      "slug": "2026-09-22-i-said-no-and-apple-said-yes.html",
+      "path": "posts/2026-09-22-i-said-no-and-apple-said-yes.html",
+      "date_iso": "2026-09-22T08:04:55+00:00",
+      "source": "https://dbushell.com/2026/09/22/apple-intelligence/",
+      "summary": "Article URL: https://dbushell.com/2026/09/22/apple-intelligence/ Comments URL: https://news.ycombinator.com/item?id=49797982 Points: 299 # Comments: 221"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49797323",
+      "title": "Can gzip be a language model?",
+      "slug": "2026-09-22-can-gzip-be-a-language-model.html",
+      "path": "posts/2026-09-22-can-gzip-be-a-language-model.html",
+      "date_iso": "2026-09-22T06:08:39+00:00",
+      "source": "https://nathan.rs/posts/gzip-lm/",
+      "summary": "Article URL: https://nathan.rs/posts/gzip-lm/ Comments URL: https://news.ycombinator.com/item?id=49797323 Points: 196 # Comments: 78"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49796660",
+      "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+      "slug": "2026-09-22-mimo-v2-6-pro-intelligence-performance-and-price-analysis.html",
+      "path": "posts/2026-09-22-mimo-v2-6-pro-intelligence-performance-and-price-analysis.html",
+      "date_iso": "2026-09-22T04:02:09+00:00",
+      "source": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
+      "summary": "Article URL: https://artificialanalysis.ai/models/mimo-v2-6-pro Comments URL: https://news.ycombinator.com/item?id=49796660 Points: 97 # Comments: 30"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49795579",
+      "title": "Claude Status – Elevated errors for multiple models",
+      "slug": "2026-09-22-claude-status-elevated-errors-for-multiple-models.html",
+      "path": "posts/2026-09-22-claude-status-elevated-errors-for-multiple-models.html",
+      "date_iso": "2026-09-22T01:05:19+00:00",
+      "source": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "summary": "Article URL: https://status.claude.com/incidents/7g1qpkyz5gxh Comments URL: https://news.ycombinator.com/item?id=49795579 Points: 123 # Comments: 92"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49795122",
+      "title": "Socrates vs. the Written Word (2011)",
+      "slug": "2026-09-22-socrates-vs-the-written-word-2011.html",
+      "path": "posts/2026-09-22-socrates-vs-the-written-word-2011.html",
+      "date_iso": "2026-09-22T00:06:55+00:00",
+      "source": "https://wondermark.com/socrates-vs-writing/",
+      "summary": "Article URL: https://wondermark.com/socrates-vs-writing/ Comments URL: https://news.ycombinator.com/item?id=49795122 Points: 51 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49794736",
+      "title": "Looking forward to Git 2.56 – and 3.0",
+      "slug": "2026-09-21-looking-forward-to-git-2-56-and-3-0.html",
+      "path": "posts/2026-09-21-looking-forward-to-git-2-56-and-3-0.html",
+      "date_iso": "2026-09-21T23:16:51+00:00",
+      "source": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/ Comments URL: https://news.ycombinator.com/item?id=49794736 Points: 148 # Comments: 74"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49794615",
+      "title": "Spymarks, Not Watermarks",
+      "slug": "2026-09-21-spymarks-not-watermarks.html",
+      "path": "posts/2026-09-21-spymarks-not-watermarks.html",
+      "date_iso": "2026-09-21T23:03:49+00:00",
+      "source": "https://brand.io/article/spymarks/",
+      "summary": "Article URL: https://brand.io/article/spymarks/ Comments URL: https://news.ycombinator.com/item?id=49794615 Points: 488 # Comments: 120"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49794330",
+      "title": "I don't want to read what you didn't write",
+      "slug": "2026-09-21-i-don-t-want-to-read-what-you-didn-t-write.html",
+      "path": "posts/2026-09-21-i-don-t-want-to-read-what-you-didn-t-write.html",
+      "date_iso": "2026-09-21T22:30:41+00:00",
+      "source": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+      "summary": "Article URL: https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/ Comments URL: https://news.ycombinator.com/item?id=49794330 Points: 754 # Comments: 306"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49792730",
+      "title": "MiMo v2.6",
+      "slug": "2026-09-21-mimo-v2-6.html",
+      "path": "posts/2026-09-21-mimo-v2-6.html",
+      "date_iso": "2026-09-21T20:12:12+00:00",
+      "source": "https://mimo.xiaomi.com/mimo-v2-6",
+      "summary": "Article URL: https://mimo.xiaomi.com/mimo-v2-6 Comments URL: https://news.ycombinator.com/item?id=49792730 Points: 945 # Comments: 419"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49792342",
+      "title": "Transformers Explained Visually",
+      "slug": "2026-09-21-transformers-explained-visually.html",
+      "path": "posts/2026-09-21-transformers-explained-visually.html",
+      "date_iso": "2026-09-21T19:43:49+00:00",
+      "source": "https://poloclub.github.io/transformer-explainer/",
+      "summary": "Article URL: https://poloclub.github.io/transformer-explainer/ Comments URL: https://news.ycombinator.com/item?id=49792342 Points: 456 # Comments: 71"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49792067",
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "slug": "2026-09-21-ai-coding-has-made-ci-a-bottleneck-so-we-reworked-ours-to-keep-up.html",
+      "path": "posts/2026-09-21-ai-coding-has-made-ci-a-bottleneck-so-we-reworked-ours-to-keep-up.html",
+      "date_iso": "2026-09-21T19:23:33+00:00",
+      "source": "https://linear.app/now/ci-bottleneck-reworked",
+      "summary": "Article URL: https://linear.app/now/ci-bottleneck-reworked Comments URL: https://news.ycombinator.com/item?id=49792067 Points: 260 # Comments: 298"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49791997",
+      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+      "slug": "2026-09-21-the-advisory-group-on-mathematics-and-artificial-intelligence.html",
+      "path": "posts/2026-09-21-the-advisory-group-on-mathematics-and-artificial-intelligence.html",
+      "date_iso": "2026-09-21T19:17:42+00:00",
+      "source": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/ Comments URL: https://news.ycombinator.com/item?id=49791997 Points: 146 # Comments: 71"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49791939",
+      "title": "NASA’s Mars Sample Return mission is dead",
+      "slug": "2026-09-21-nasa-s-mars-sample-return-mission-is-dead.html",
+      "path": "posts/2026-09-21-nasa-s-mars-sample-return-mission-is-dead.html",
+      "date_iso": "2026-09-21T19:14:12+00:00",
+      "source": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+      "summary": "Article URL: https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead Comments URL: https://news.ycombinator.com/item?id=49791939 Points: 407 # Comments: 338"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/21/us/politics/2028-presidential-race-artificial-intelligence.html",
+      "title": "How Potential 2028 Presidential Candidates Are Talking About A.I.",
+      "slug": "2026-09-21-how-potential-2028-presidential-candidates-are-talking-about-a-i.html",
+      "path": "posts/2026-09-21-how-potential-2028-presidential-candidates-are-talking-about-a-i.html",
+      "date_iso": "2026-09-21T16:53:07+00:00",
+      "source": "https://www.nytimes.com/2026/09/21/us/politics/2028-presidential-race-artificial-intelligence.html",
+      "summary": "Democrats are jockeying to embrace new safeguards, while Republicans have aligned with President Trump’s warnings against slowing down the technology."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49789228",
+      "title": "HERMES radio enables voice and data communication over vast distances",
+      "slug": "2026-09-21-hermes-radio-enables-voice-and-data-communication-over-vast-distances.html",
+      "path": "posts/2026-09-21-hermes-radio-enables-voice-and-data-communication-over-vast-distances.html",
+      "date_iso": "2026-09-21T16:14:16+00:00",
+      "source": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
+      "summary": "https://hermes.radio/ https://www.rhizomatica.org/ Comments URL: https://news.ycombinator.com/item?id=49789228 Points: 151 # Comments: 61"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49789081",
+      "title": "How do traffic signals work? (2019)",
+      "slug": "2026-09-21-how-do-traffic-signals-work-2019.html",
+      "path": "posts/2026-09-21-how-do-traffic-signals-work-2019.html",
+      "date_iso": "2026-09-21T16:06:44+00:00",
+      "source": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
+      "summary": "Article URL: https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work Comments URL: https://news.ycombinator.com/item?id=49789081 Points: 95 # Comments: 64"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49786689",
       "title": "Raspberry Pi blocks changing RAM chips",
       "slug": "2026-09-21-raspberry-pi-blocks-changing-ram-chips.html",
