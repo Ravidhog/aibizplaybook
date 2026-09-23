@@ -1,6 +1,222 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49814780",
+      "title": "QuestDB (YC S20) Is Hiring a Sales Engineer",
+      "slug": "2026-09-23-questdb-yc-s20-is-hiring-a-sales-engineer.html",
+      "path": "posts/2026-09-23-questdb-yc-s20-is-hiring-a-sales-engineer.html",
+      "date_iso": "2026-09-23T12:01:04+00:00",
+      "source": "https://questdb.com/careers/pre-sales-engineer-north-america/",
+      "summary": "Article URL: https://questdb.com/careers/pre-sales-engineer-north-america/ Comments URL: https://news.ycombinator.com/item?id=49814780 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49814236",
+      "title": "Z80 REPL",
+      "slug": "2026-09-23-z80-repl.html",
+      "path": "posts/2026-09-23-z80-repl.html",
+      "date_iso": "2026-09-23T11:04:52+00:00",
+      "source": "https://abagames.github.io/z80-repl/index.html",
+      "summary": "Article URL: https://abagames.github.io/z80-repl/index.html Comments URL: https://news.ycombinator.com/item?id=49814236 Points: 18 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49814211",
+      "title": "The Download: why AI's latest breakthroughs and fears may be more hype than rea",
+      "slug": "2026-09-23-the-download-why-ai-s-latest-breakthroughs-and-fears-may-be-more-hype-than-rea.html",
+      "path": "posts/2026-09-23-the-download-why-ai-s-latest-breakthroughs-and-fears-may-be-more-hype-than-rea.html",
+      "date_iso": "2026-09-23T11:01:50+00:00",
+      "source": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+      "summary": "Article URL: https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/ Comments URL: https://news.ycombinator.com/item?id=49814211 Points: 33 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49814159",
+      "title": "The darker side of being a doctor",
+      "slug": "2026-09-23-the-darker-side-of-being-a-doctor.html",
+      "path": "posts/2026-09-23-the-darker-side-of-being-a-doctor.html",
+      "date_iso": "2026-09-23T10:54:55+00:00",
+      "source": "https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/",
+      "summary": "Article URL: https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/ Comments URL: https://news.ycombinator.com/item?id=49814159 Points: 119 # Comments: 97"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49812769",
+      "title": "Jev in 25 Lines of Python",
+      "slug": "2026-09-23-jev-in-25-lines-of-python.html",
+      "path": "posts/2026-09-23-jev-in-25-lines-of-python.html",
+      "date_iso": "2026-09-23T07:26:23+00:00",
+      "source": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+      "summary": "Article URL: https://www.nobodywho.ai/posts/jev-in-25-lines/ Comments URL: https://news.ycombinator.com/item?id=49812769 Points: 268 # Comments: 88"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49812533",
+      "title": "There is no epidemic of loneliness, but there is an epidemic of scurvy",
+      "slug": "2026-09-23-there-is-no-epidemic-of-loneliness-but-there-is-an-epidemic-of-scurvy.html",
+      "path": "posts/2026-09-23-there-is-no-epidemic-of-loneliness-but-there-is-an-epidemic-of-scurvy.html",
+      "date_iso": "2026-09-23T06:48:37+00:00",
+      "source": "https://www.experimental-history.com/p/there-is-no-epidemic-of-loneliness",
+      "summary": "Article URL: https://www.experimental-history.com/p/there-is-no-epidemic-of-loneliness Comments URL: https://news.ycombinator.com/item?id=49812533 Points: 29 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49812023",
+      "title": "How often do you think about the 1893 World's Fair?",
+      "slug": "2026-09-23-how-often-do-you-think-about-the-1893-world-s-fair.html",
+      "path": "posts/2026-09-23-how-often-do-you-think-about-the-1893-world-s-fair.html",
+      "date_iso": "2026-09-23T05:32:51+00:00",
+      "source": "https://www.thebirthofacapital.info/chicago-worlds-fair-tataria-ware-larsen/",
+      "summary": "Article URL: https://www.thebirthofacapital.info/chicago-worlds-fair-tataria-ware-larsen/ Comments URL: https://news.ycombinator.com/item?id=49812023 Points: 28 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49811484",
+      "title": "Grammarly will send unhinged messages to all your users if you try to cancel",
+      "slug": "2026-09-23-grammarly-will-send-unhinged-messages-to-all-your-users-if-you-try-to-cancel.html",
+      "path": "posts/2026-09-23-grammarly-will-send-unhinged-messages-to-all-your-users-if-you-try-to-cancel.html",
+      "date_iso": "2026-09-23T04:00:43+00:00",
+      "source": "https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/",
+      "summary": "Article URL: https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/ Comments URL: https://news.ycombinator.com/item?id=49811484 Points: 214 # Comments: 63"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49811429",
+      "title": "Data-only attacks are easier than you think (2024)",
+      "slug": "2026-09-23-data-only-attacks-are-easier-than-you-think-2024.html",
+      "path": "posts/2026-09-23-data-only-attacks-are-easier-than-you-think-2024.html",
+      "date_iso": "2026-09-23T03:49:28+00:00",
+      "source": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
+      "summary": "Article URL: https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think Comments URL: https://news.ycombinator.com/item?id=49811429 Points: 63 # Comments: 24"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/22/us/politics/influencers-midterms-echo-chamber.html",
+      "title": "An Army of Paid Creators Is Carpeting the Web With Political Content",
+      "slug": "2026-09-23-an-army-of-paid-creators-is-carpeting-the-web-with-political-content.html",
+      "path": "posts/2026-09-23-an-army-of-paid-creators-is-carpeting-the-web-with-political-content.html",
+      "date_iso": "2026-09-23T03:16:08+00:00",
+      "source": "https://www.nytimes.com/2026/09/22/us/politics/influencers-midterms-echo-chamber.html",
+      "summary": "Unlike celebrity influencers with large followings, these creators produce a blizzard of videos for a fraction of the cost of traditional online campaigns and, in the process, shift public conversation."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49811065",
+      "title": "Transit rewards",
+      "slug": "2026-09-23-transit-rewards.html",
+      "path": "posts/2026-09-23-transit-rewards.html",
+      "date_iso": "2026-09-23T02:52:29+00:00",
+      "source": "https://waymo.com/blog/2026/09/transit-rewards/",
+      "summary": "Article URL: https://waymo.com/blog/2026/09/transit-rewards/ Comments URL: https://news.ycombinator.com/item?id=49811065 Points: 168 # Comments: 201"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49808816",
+      "title": "The current balance of power in open models",
+      "slug": "2026-09-22-the-current-balance-of-power-in-open-models.html",
+      "path": "posts/2026-09-22-the-current-balance-of-power-in-open-models.html",
+      "date_iso": "2026-09-22T22:03:46+00:00",
+      "source": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+      "summary": "Article URL: https://www.interconnects.ai/p/the-current-balance-of-power-in-open Comments URL: https://news.ycombinator.com/item?id=49808816 Points: 98 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49808023",
+      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+      "slug": "2026-09-22-microsoft-killed-foxpro-in-2007-anyway-here-s-foxpro-revived.html",
+      "path": "posts/2026-09-22-microsoft-killed-foxpro-in-2007-anyway-here-s-foxpro-revived.html",
+      "date_iso": "2026-09-22T21:00:30+00:00",
+      "source": "https://foxscript.org/",
+      "summary": "Visual FoxPro stopped at version 9 in 2007. A surprising amount of it is still running, in 32 bits, because rewriting a 20-year-old business app is how you lose the business. A customer wanted to keep milking their app for the foreseeable future, so here it is: the same language…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49807003",
+      "title": "Obscura: VPN that can't log your activity",
+      "slug": "2026-09-22-obscura-vpn-that-can-t-log-your-activity.html",
+      "path": "posts/2026-09-22-obscura-vpn-that-can-t-log-your-activity.html",
+      "date_iso": "2026-09-22T19:40:28+00:00",
+      "source": "https://obscura.com/#faq-technical",
+      "summary": "Article URL: https://obscura.com/#faq-technical Comments URL: https://news.ycombinator.com/item?id=49807003 Points: 154 # Comments: 118"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html",
+      "title": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away",
+      "slug": "2026-09-22-i-gave-my-life-over-to-meta-s-a-i-agent-and-was-blown-away.html",
+      "path": "posts/2026-09-22-i-gave-my-life-over-to-meta-s-a-i-agent-and-was-blown-away.html",
+      "date_iso": "2026-09-22T19:24:41+00:00",
+      "source": "https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html",
+      "summary": "The New York Times reporter Eli Tan using Meta Muse to buy movie tickets in San Francisco."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49806430",
+      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+      "slug": "2026-09-22-pentagon-says-overreliance-on-ai-contributed-to-missile-strike-on-iran-school.html",
+      "path": "posts/2026-09-22-pentagon-says-overreliance-on-ai-contributed-to-missile-strike-on-iran-school.html",
+      "date_iso": "2026-09-22T19:03:38+00:00",
+      "source": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+      "summary": "https://archive.ph/0V37g Comments URL: https://news.ycombinator.com/item?id=49806430 Points: 702 # Comments: 351"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49806335",
+      "title": "SAML: A fractal of bad design",
+      "slug": "2026-09-22-saml-a-fractal-of-bad-design.html",
+      "path": "posts/2026-09-22-saml-a-fractal-of-bad-design.html",
+      "date_iso": "2026-09-22T18:57:17+00:00",
+      "source": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+      "summary": "Article URL: https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/ Comments URL: https://news.ycombinator.com/item?id=49806335 Points: 266 # Comments: 146"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/22/business/trump-natalie-harp-photo-ai.html",
+      "title": "An A.I. Image of Trump Kissing a Woman Was Fake. It Spread Anyway.",
+      "slug": "2026-09-22-an-a-i-image-of-trump-kissing-a-woman-was-fake-it-spread-anyway.html",
+      "path": "posts/2026-09-22-an-a-i-image-of-trump-kissing-a-woman-was-fake-it-spread-anyway.html",
+      "date_iso": "2026-09-22T18:37:12+00:00",
+      "source": "https://www.nytimes.com/2026/09/22/business/trump-natalie-harp-photo-ai.html",
+      "summary": "Advances in artificial intelligence and the myriad ways content is shared online have made establishing authenticity even more difficult for users of social media."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49805748",
+      "title": "Unreal Agent",
+      "slug": "2026-09-22-unreal-agent.html",
+      "path": "posts/2026-09-22-unreal-agent.html",
+      "date_iso": "2026-09-22T18:15:53+00:00",
+      "source": "https://unreallabs.ai/blog/unreal-agent/",
+      "summary": "https://github.com/unreallabsai/unreal-agent Comments URL: https://news.ycombinator.com/item?id=49805748 Points: 208 # Comments: 111"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/22/technology/anthropic-ai-model-safety.html",
+      "title": "Anthropic Releases a New A.I. Model, Opus 5.5, Amid Safety Debate",
+      "slug": "2026-09-22-anthropic-releases-a-new-a-i-model-opus-5-5-amid-safety-debate.html",
+      "path": "posts/2026-09-22-anthropic-releases-a-new-a-i-model-opus-5-5-amid-safety-debate.html",
+      "date_iso": "2026-09-22T18:06:39+00:00",
+      "source": "https://www.nytimes.com/2026/09/22/technology/anthropic-ai-model-safety.html",
+      "summary": "Anthropic’s new artificial intelligence model, Opus 5.5, was the first release since the company’s chief executive called for the industry to slow down."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49805509",
+      "title": "GPT-6 Sol and Luna",
+      "slug": "2026-09-22-gpt-6-sol-and-luna.html",
+      "path": "posts/2026-09-22-gpt-6-sol-and-luna.html",
+      "date_iso": "2026-09-22T18:00:34+00:00",
+      "source": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-sol-and-luna/ Comments URL: https://news.ycombinator.com/item?id=49805509 Points: 1600 # Comments: 770"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49805278",
+      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+      "slug": "2026-09-22-we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees.html",
+      "path": "posts/2026-09-22-we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees.html",
+      "date_iso": "2026-09-22T17:46:02+00:00",
+      "source": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+      "summary": "https://archive.ph/96YBP Comments URL: https://news.ycombinator.com/item?id=49805278 Points: 655 # Comments: 479"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49804316",
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "slug": "2026-09-22-claude-opus-5-5-intelligence-performance-and-price-analysis-max.html",
+      "path": "posts/2026-09-22-claude-opus-5-5-intelligence-performance-and-price-analysis-max.html",
+      "date_iso": "2026-09-22T16:51:31+00:00",
+      "source": "https://artificialanalysis.ai/models/claude-opus-5-5",
+      "summary": "Article URL: https://artificialanalysis.ai/models/claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49804316 Points: 308 # Comments: 95"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49803959",
+      "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
+      "slug": "2026-09-22-wordpress-unauthenticated-path-traversal-leading-to-conditional-rce.html",
+      "path": "posts/2026-09-22-wordpress-unauthenticated-path-traversal-leading-to-conditional-rce.html",
+      "date_iso": "2026-09-22T16:33:45+00:00",
+      "source": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
+      "summary": "Article URL: https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp Comments URL: https://news.ycombinator.com/item?id=49803959 Points: 203 # Comments: 103"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49799577",
       "title": "Type Punning in C and C++",
       "slug": "2026-09-22-type-punning-in-c-and-c.html",
