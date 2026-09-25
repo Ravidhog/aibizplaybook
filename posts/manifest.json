@@ -1,6 +1,249 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49843269",
+      "title": "Platform-Independent SIMD in Go",
+      "slug": "2026-09-25-platform-independent-simd-in-go.html",
+      "path": "posts/2026-09-25-platform-independent-simd-in-go.html",
+      "date_iso": "2026-09-25T11:47:06+00:00",
+      "source": "https://go.dev/blog/simd-experiment",
+      "summary": "Article URL: https://go.dev/blog/simd-experiment Comments URL: https://news.ycombinator.com/item?id=49843269 Points: 15 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49843174",
+      "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+      "slug": "2026-09-25-git-bug-distributed-offline-first-bug-tracker-embedded-in-git.html",
+      "path": "posts/2026-09-25-git-bug-distributed-offline-first-bug-tracker-embedded-in-git.html",
+      "date_iso": "2026-09-25T11:38:31+00:00",
+      "source": "https://github.com/git-bug/git-bug",
+      "summary": "Article URL: https://github.com/git-bug/git-bug Comments URL: https://news.ycombinator.com/item?id=49843174 Points: 8 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/25/podcasts/hardfork-ezra-klein-jensen-huang.html",
+      "title": "The Ezra Klein Show: Jensen Huang Thinks A.I. Alarmism Has Gone Too Far",
+      "slug": "2026-09-25-the-ezra-klein-show-jensen-huang-thinks-a-i-alarmism-has-gone-too-far.html",
+      "path": "posts/2026-09-25-the-ezra-klein-show-jensen-huang-thinks-a-i-alarmism-has-gone-too-far.html",
+      "date_iso": "2026-09-25T11:00:03+00:00",
+      "source": "https://www.nytimes.com/2026/09/25/podcasts/hardfork-ezra-klein-jensen-huang.html",
+      "summary": "Ezra Klein interviews the Nvidia chief executive Jensen Huang."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49842596",
+      "title": "Show HN: Agentic CUDA Kernel Optimizer",
+      "slug": "2026-09-25-show-hn-agentic-cuda-kernel-optimizer.html",
+      "path": "posts/2026-09-25-show-hn-agentic-cuda-kernel-optimizer.html",
+      "date_iso": "2026-09-25T10:32:58+00:00",
+      "source": "https://github.com/bertaye/agentic-cuda-optimizer",
+      "summary": "Hello; I was working on optimizing some CUDA kernels and I thought may be it is a good oppurtunity learn langgraph as well. I created a simple C++ CUDA Test Harness and handed that to AI agents. They can run kernels, get benchmarks, and even can profile via nsight Comments URL:…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49842487",
+      "title": "The Mafia may be keeping fentanyl out of Italy",
+      "slug": "2026-09-25-the-mafia-may-be-keeping-fentanyl-out-of-italy.html",
+      "path": "posts/2026-09-25-the-mafia-may-be-keeping-fentanyl-out-of-italy.html",
+      "date_iso": "2026-09-25T10:20:20+00:00",
+      "source": "https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy",
+      "summary": "Article URL: https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy Comments URL: https://news.ycombinator.com/item?id=49842487 Points: 91 # Comments: 100"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49842483",
+      "title": "Oracle on the hook to pay data centre investors even if site has no electricity",
+      "slug": "2026-09-25-oracle-on-the-hook-to-pay-data-centre-investors-even-if-site-has-no-electricity.html",
+      "path": "posts/2026-09-25-oracle-on-the-hook-to-pay-data-centre-investors-even-if-site-has-no-electricity.html",
+      "date_iso": "2026-09-25T10:19:36+00:00",
+      "source": "https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016",
+      "summary": "Article URL: https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016 Comments URL: https://news.ycombinator.com/item?id=49842483 Points: 60 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49842332",
+      "title": "Topcoat is pushing the boundary of server applications with Rust",
+      "slug": "2026-09-25-topcoat-is-pushing-the-boundary-of-server-applications-with-rust.html",
+      "path": "posts/2026-09-25-topcoat-is-pushing-the-boundary-of-server-applications-with-rust.html",
+      "date_iso": "2026-09-25T09:59:40+00:00",
+      "source": "https://tokio.rs/blog/2026-09-24-topcoat-server-applications",
+      "summary": "Article URL: https://tokio.rs/blog/2026-09-24-topcoat-server-applications Comments URL: https://news.ycombinator.com/item?id=49842332 Points: 10 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49842270",
+      "title": "Ink and Switch Interactive Homepage",
+      "slug": "2026-09-25-ink-and-switch-interactive-homepage.html",
+      "path": "posts/2026-09-25-ink-and-switch-interactive-homepage.html",
+      "date_iso": "2026-09-25T09:50:25+00:00",
+      "source": "https://www.inkandswitch.com/",
+      "summary": "Article URL: https://www.inkandswitch.com/ Comments URL: https://news.ycombinator.com/item?id=49842270 Points: 61 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49842084",
+      "title": "Boards of Casio",
+      "slug": "2026-09-25-boards-of-casio.html",
+      "path": "posts/2026-09-25-boards-of-casio.html",
+      "date_iso": "2026-09-25T09:26:01+00:00",
+      "source": "https://www.ambionix.com/blog/boards-of-casio/",
+      "summary": "Article URL: https://www.ambionix.com/blog/boards-of-casio/ Comments URL: https://news.ycombinator.com/item?id=49842084 Points: 9 # Comments: 1"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/25/well/ai-chatbots-artificial-intimacy.html",
+      "title": "Chatbots Are Not Your Friends",
+      "slug": "2026-09-25-chatbots-are-not-your-friends.html",
+      "path": "posts/2026-09-25-chatbots-are-not-your-friends.html",
+      "date_iso": "2026-09-25T09:03:23+00:00",
+      "source": "https://www.nytimes.com/2026/09/25/well/ai-chatbots-artificial-intimacy.html",
+      "summary": "Our cozy relationship with A.I. chatbots can lead to “artificial intimacy,” says one expert. Here’s how to keep it in check."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/25/style/mark-zuckerberg-fashion-glasses.html",
+      "title": "Mark Zuckerberg Is Trying Something On",
+      "slug": "2026-09-25-mark-zuckerberg-is-trying-something-on.html",
+      "path": "posts/2026-09-25-mark-zuckerberg-is-trying-something-on.html",
+      "date_iso": "2026-09-25T09:00:13+00:00",
+      "source": "https://www.nytimes.com/2026/09/25/style/mark-zuckerberg-fashion-glasses.html",
+      "summary": "Meta’s C.E.O. talks for the first time about his style evolution."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49841893",
+      "title": "Special Projects (2016)",
+      "slug": "2026-09-25-special-projects-2016.html",
+      "path": "posts/2026-09-25-special-projects-2016.html",
+      "date_iso": "2026-09-25T08:55:43+00:00",
+      "source": "https://openai.com/index/special-projects/",
+      "summary": "Article URL: https://openai.com/index/special-projects/ Comments URL: https://news.ycombinator.com/item?id=49841893 Points: 37 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49841563",
+      "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+      "slug": "2026-09-25-dutch-governments-builds-alternative-for-microsoft-based-on-nixos.html",
+      "path": "posts/2026-09-25-dutch-governments-builds-alternative-for-microsoft-based-on-nixos.html",
+      "date_iso": "2026-09-25T08:06:49+00:00",
+      "source": "https://www.dawo.community/en/",
+      "summary": "Article URL: https://www.dawo.community/en/ Comments URL: https://news.ycombinator.com/item?id=49841563 Points: 409 # Comments: 178"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49841309",
+      "title": "Amiga Screens: A Primer",
+      "slug": "2026-09-25-amiga-screens-a-primer.html",
+      "path": "posts/2026-09-25-amiga-screens-a-primer.html",
+      "date_iso": "2026-09-25T07:31:12+00:00",
+      "source": "https://www.datagubbe.se/amscr/",
+      "summary": "Article URL: https://www.datagubbe.se/amscr/ Comments URL: https://news.ycombinator.com/item?id=49841309 Points: 23 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49841285",
+      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+      "slug": "2026-09-25-pentium-ii-at-600mhz-with-voodoo-3-emulated-on-86box-with-m6-mac-mini.html",
+      "path": "posts/2026-09-25-pentium-ii-at-600mhz-with-voodoo-3-emulated-on-86box-with-m6-mac-mini.html",
+      "date_iso": "2026-09-25T07:27:45+00:00",
+      "source": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+      "summary": "Article URL: https://nyaa.sh/reviews/mac-mini-m6-emulation Comments URL: https://news.ycombinator.com/item?id=49841285 Points: 105 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49841115",
+      "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
+      "slug": "2026-09-25-cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2.html",
+      "path": "posts/2026-09-25-cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2.html",
+      "date_iso": "2026-09-25T07:03:46+00:00",
+      "source": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
+      "summary": "Article URL: https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2 Comments URL: https://news.ycombinator.com/item?id=49841115 Points: 66 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49839664",
+      "title": "What About Rails?",
+      "slug": "2026-09-25-what-about-rails.html",
+      "path": "posts/2026-09-25-what-about-rails.html",
+      "date_iso": "2026-09-25T02:50:16+00:00",
+      "source": "https://jardo.dev/what-about-rails",
+      "summary": "Article URL: https://jardo.dev/what-about-rails Comments URL: https://news.ycombinator.com/item?id=49839664 Points: 103 # Comments: 57"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/24/technology/data-centers-in-space-science.html",
+      "title": "Can Tech Companies Like Google Really Put Data Centers in Space?",
+      "slug": "2026-09-25-can-tech-companies-like-google-really-put-data-centers-in-space.html",
+      "path": "posts/2026-09-25-can-tech-companies-like-google-really-put-data-centers-in-space.html",
+      "date_iso": "2026-09-25T01:12:39+00:00",
+      "source": "https://www.nytimes.com/2026/09/24/technology/data-centers-in-space-science.html",
+      "summary": "Workers prepared to test solar panels and wires for a vibration test for eventual use on a spacecraft, at Planet Labs in San Francisco."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/24/technology/us-x-elon-musk-europe-fine.html",
+      "title": "U.S. Intercedes for Elon Musk’s X Over European Fine",
+      "slug": "2026-09-24-u-s-intercedes-for-elon-musk-s-x-over-european-fine.html",
+      "path": "posts/2026-09-24-u-s-intercedes-for-elon-musk-s-x-over-european-fine.html",
+      "date_iso": "2026-09-24T22:34:49+00:00",
+      "source": "https://www.nytimes.com/2026/09/24/technology/us-x-elon-musk-europe-fine.html",
+      "summary": "The European Commission’s action against X, which is owned by Elon Musk, was “regulatory overreach,” the Justice Department said in a statement."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49836374",
+      "title": "Opus 5.5 is good at explainer videos",
+      "slug": "2026-09-24-opus-5-5-is-good-at-explainer-videos.html",
+      "path": "posts/2026-09-24-opus-5-5-is-good-at-explainer-videos.html",
+      "date_iso": "2026-09-24T20:28:47+00:00",
+      "source": "https://launchvideo.io",
+      "summary": "Article URL: https://launchvideo.io Comments URL: https://news.ycombinator.com/item?id=49836374 Points: 300 # Comments: 156"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49835996",
+      "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+      "slug": "2026-09-24-sourcehut-account-takeover-via-build-logs-xss-in-ansi2html.html",
+      "path": "posts/2026-09-24-sourcehut-account-takeover-via-build-logs-xss-in-ansi2html.html",
+      "date_iso": "2026-09-24T19:54:21+00:00",
+      "source": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+      "summary": "Article URL: https://blog.arusekk.pl/posts/srht-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=49835996 Points: 134 # Comments: 27"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49835531",
+      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+      "slug": "2026-09-24-using-llms-to-trace-alchemical-knowledge-and-decode-17th-century-letters.html",
+      "path": "posts/2026-09-24-using-llms-to-trace-alchemical-knowledge-and-decode-17th-century-letters.html",
+      "date_iso": "2026-09-24T19:14:27+00:00",
+      "source": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+      "summary": "Article URL: https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical Comments URL: https://news.ycombinator.com/item?id=49835531 Points: 143 # Comments: 31"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/24/technology/personaltech/meta-glasses-wearables.html",
+      "title": "Complaints About Meta’s ‘Pervert Glasses’ Won’t Slow Tech’s Wearable Gadgets Drive",
+      "slug": "2026-09-24-complaints-about-meta-s-pervert-glasses-won-t-slow-tech-s-wearable-gadgets-drive.html",
+      "path": "posts/2026-09-24-complaints-about-meta-s-pervert-glasses-won-t-slow-tech-s-wearable-gadgets-drive.html",
+      "date_iso": "2026-09-24T19:02:55+00:00",
+      "source": "https://www.nytimes.com/2026/09/24/technology/personaltech/meta-glasses-wearables.html",
+      "summary": "Mark Zuckerberg demonstrated the latest of Meta’s smart glasses on Wednesday."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49833867",
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "slug": "2026-09-24-show-hn-whiteboard-yc-w26-an-open-source-ide-for-thoughtful-software-design.html",
+      "path": "posts/2026-09-24-show-hn-whiteboard-yc-w26-an-open-source-ide-for-thoughtful-software-design.html",
+      "date_iso": "2026-09-24T17:21:36+00:00",
+      "source": "https://github.com/devdotfast/whiteboard",
+      "summary": "Hello! We’re Sid, Alex, Ketan, and Milan. We’re building Whiteboard ( https://whiteboard.dev.fast/ ), an open-source desktop app where humans and agents can architect software together in a common workspace. Here’s our repo: https://github.com/devdotfast/whiteboard . We were mis…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49832938",
+      "title": "Why is the liver so weirdly regenerative?",
+      "slug": "2026-09-24-why-is-the-liver-so-weirdly-regenerative.html",
+      "path": "posts/2026-09-24-why-is-the-liver-so-weirdly-regenerative.html",
+      "date_iso": "2026-09-24T16:23:00+00:00",
+      "source": "https://dynomight.substack.com/p/liver",
+      "summary": "Article URL: https://dynomight.substack.com/p/liver Comments URL: https://news.ycombinator.com/item?id=49832938 Points: 441 # Comments: 227"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49831968",
+      "title": "F-Droid 2.0",
+      "slug": "2026-09-24-f-droid-2-0.html",
+      "path": "posts/2026-09-24-f-droid-2-0.html",
+      "date_iso": "2026-09-24T15:26:12+00:00",
+      "source": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+      "summary": "Article URL: https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html Comments URL: https://news.ycombinator.com/item?id=49831968 Points: 1294 # Comments: 372"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html",
+      "title": "Google Is Sending an A.I. Data Center to Outer Space",
+      "slug": "2026-09-24-google-is-sending-an-a-i-data-center-to-outer-space.html",
+      "path": "posts/2026-09-24-google-is-sending-an-a-i-data-center-to-outer-space.html",
+      "date_iso": "2026-09-24T13:48:42+00:00",
+      "source": "https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html",
+      "summary": "A technician in a clean room at the Planet Labs office inspects the solar panels and wires of a Google-commissioned satellite before a vibration test meant to mimic the shaking it will undergo during launch."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49829387",
       "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
       "slug": "2026-09-24-hackers-influence-chatgpt-and-gemini-to-direct-users-to-scam-centers.html",
