@@ -1,6 +1,132 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html",
+      "title": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind",
+      "slug": "2026-09-27-as-a-i-accelerates-governments-are-increasingly-being-left-behind.html",
+      "path": "posts/2026-09-27-as-a-i-accelerates-governments-are-increasingly-being-left-behind.html",
+      "date_iso": "2026-09-27T11:22:48+00:00",
+      "source": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html",
+      "summary": "The gap between technology and policymaking has gotten wider than ever with artificial intelligence, leaving a global policy vacuum as A.I. models rapidly advance."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49865343",
+      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "slug": "2026-09-27-as-a-language-model-chat-template-switches-llm-self-referential-voice.html",
+      "path": "posts/2026-09-27-as-a-language-model-chat-template-switches-llm-self-referential-voice.html",
+      "date_iso": "2026-09-27T10:26:25+00:00",
+      "source": "https://arxiv.org/abs/2609.25021",
+      "summary": "Article URL: https://arxiv.org/abs/2609.25021 Comments URL: https://news.ycombinator.com/item?id=49865343 Points: 55 # Comments: 42"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49865067",
+      "title": "Show HN: LightCloud – A cloud console organised like file system",
+      "slug": "2026-09-27-show-hn-lightcloud-a-cloud-console-organised-like-file-system.html",
+      "path": "posts/2026-09-27-show-hn-lightcloud-a-cloud-console-organised-like-file-system.html",
+      "date_iso": "2026-09-27T09:45:15+00:00",
+      "source": "https://www.light-cloud.com/",
+      "summary": "Hi HN, Light Cloud is a hosting platform where the unit of organisation is a folder. A folder holds everything project needs: frontend, API, database, env variables, preview per branch. Comments URL: https://news.ycombinator.com/item?id=49865067 Points: 6 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49864642",
+      "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+      "slug": "2026-09-27-meta-blocks-president-lula-s-facebook-page-campaign-ads-2-weeks-from-election.html",
+      "path": "posts/2026-09-27-meta-blocks-president-lula-s-facebook-page-campaign-ads-2-weeks-from-election.html",
+      "date_iso": "2026-09-27T08:44:04+00:00",
+      "source": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+      "summary": "Article URL: https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/ Comments URL: https://news.ycombinator.com/item?id=49864642 Points: 247 # Comments: 162"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49863864",
+      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+      "slug": "2026-09-27-openai-feared-optics-of-what-might-appear-on-hacker-news.html",
+      "path": "posts/2026-09-27-openai-feared-optics-of-what-might-appear-on-hacker-news.html",
+      "date_iso": "2026-09-27T06:19:33+00:00",
+      "source": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+      "summary": "Article URL: https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/ Comments URL: https://news.ycombinator.com/item?id=49863864 Points: 325 # Comments: 277"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49863600",
+      "title": "The internet discovers TLA+. Now what?",
+      "slug": "2026-09-27-the-internet-discovers-tla-now-what.html",
+      "path": "posts/2026-09-27-the-internet-discovers-tla-now-what.html",
+      "date_iso": "2026-09-27T05:26:15+00:00",
+      "source": "https://reasonable.io/blog/tla-tutorial/",
+      "summary": "Article URL: https://reasonable.io/blog/tla-tutorial/ Comments URL: https://news.ycombinator.com/item?id=49863600 Points: 31 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49862809",
+      "title": "What is the size of Yemen? (2024)",
+      "slug": "2026-09-27-what-is-the-size-of-yemen-2024.html",
+      "path": "posts/2026-09-27-what-is-the-size-of-yemen-2024.html",
+      "date_iso": "2026-09-27T02:40:26+00:00",
+      "source": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
+      "summary": "Article URL: https://theborys.substack.com/p/what-is-the-size-of-yemen Comments URL: https://news.ycombinator.com/item?id=49862809 Points: 195 # Comments: 66"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49859112",
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "slug": "2026-09-26-deepseek-elastic-compute-dsec.html",
+      "path": "posts/2026-09-26-deepseek-elastic-compute-dsec.html",
+      "date_iso": "2026-09-26T18:22:41+00:00",
+      "source": "https://arxiv.org/abs/2609.22978",
+      "summary": "Article URL: https://arxiv.org/abs/2609.22978 Comments URL: https://news.ycombinator.com/item?id=49859112 Points: 269 # Comments: 89"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49858676",
+      "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
+      "slug": "2026-09-26-reverse-engineering-the-intel-8087-s-tangent-algorithm-more-than-cordic.html",
+      "path": "posts/2026-09-26-reverse-engineering-the-intel-8087-s-tangent-algorithm-more-than-cordic.html",
+      "date_iso": "2026-09-26T17:26:54+00:00",
+      "source": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
+      "summary": "Article URL: https://www.righto.com/2026/09/8087-tangent-cordic.html Comments URL: https://news.ycombinator.com/item?id=49858676 Points: 86 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49858513",
+      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+      "slug": "2026-09-26-show-hn-reladraw-a-diagram-language-where-you-decide-where-to-place-things.html",
+      "path": "posts/2026-09-26-show-hn-reladraw-a-diagram-language-where-you-decide-where-to-place-things.html",
+      "date_iso": "2026-09-26T17:10:40+00:00",
+      "source": "https://github.com/reladraw/reladraw",
+      "summary": "I love making diagrams to help understand, plan, etc. However, the options are (A) auto-placement languages like Mermaid or Graphviz (which don't let me decide how the diagram looks), or (B) software like Draw.io which are powerful but are very time consuming (and inefficient fo…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49857729",
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "slug": "2026-09-26-drawgent-coding-agent-on-a-live-excalidraw-canvas.html",
+      "path": "posts/2026-09-26-drawgent-coding-agent-on-a-live-excalidraw-canvas.html",
+      "date_iso": "2026-09-26T15:56:34+00:00",
+      "source": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "summary": "Article URL: https://tangled.org/yanndegat.tngl.sh/drawgent Comments URL: https://news.ycombinator.com/item?id=49857729 Points: 162 # Comments: 42"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49857656",
+      "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+      "slug": "2026-09-26-turning-glm-5-3-flash-into-a-jev-like-decision-model.html",
+      "path": "posts/2026-09-26-turning-glm-5-3-flash-into-a-jev-like-decision-model.html",
+      "date_iso": "2026-09-26T15:49:04+00:00",
+      "source": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+      "summary": "We found an approach to get Jev-like properties from standard LLMs like GLM-5.3-Flash. The core idea is to craft the input prompt so that the first output token answers the question. This makes it possible to get a decision with a single forward pass. In the blog post, we descri…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49856988",
+      "title": "Go Concurrency Distilled",
+      "slug": "2026-09-26-go-concurrency-distilled.html",
+      "path": "posts/2026-09-26-go-concurrency-distilled.html",
+      "date_iso": "2026-09-26T14:34:49+00:00",
+      "source": "https://antonz.org/go-concurrency-distilled/",
+      "summary": "Article URL: https://antonz.org/go-concurrency-distilled/ Comments URL: https://news.ycombinator.com/item?id=49856988 Points: 260 # Comments: 105"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49856193",
+      "title": "Improving site performance by shipping more CSS",
+      "slug": "2026-09-26-improving-site-performance-by-shipping-more-css.html",
+      "path": "posts/2026-09-26-improving-site-performance-by-shipping-more-css.html",
+      "date_iso": "2026-09-26T13:10:05+00:00",
+      "source": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+      "summary": "Article URL: https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/ Comments URL: https://news.ycombinator.com/item?id=49856193 Points: 54 # Comments: 33"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49855315",
       "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
       "slug": "2026-09-26-breaking-up-with-google-play-why-conversations-is-now-free.html",
@@ -19,6 +145,15 @@
       "summary": "Article URL: https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html Comments URL: https://news.ycombinator.com/item?id=49855018 Points: 47 # Comments: 29"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=49854875",
+      "title": "How to keep enjoying programming in a world of LLMs",
+      "slug": "2026-09-26-how-to-keep-enjoying-programming-in-a-world-of-llms.html",
+      "path": "posts/2026-09-26-how-to-keep-enjoying-programming-in-a-world-of-llms.html",
+      "date_iso": "2026-09-26T09:41:58+00:00",
+      "source": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "summary": "Article URL: https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705 Comments URL: https://news.ycombinator.com/item?id=49854875 Points: 255 # Comments: 284"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49854693",
       "title": "Fifteen years later, the Apple Cards origin story",
       "slug": "2026-09-26-fifteen-years-later-the-apple-cards-origin-story.html",
@@ -35,6 +170,15 @@
       "date_iso": "2026-09-26T08:31:02+00:00",
       "source": "https://floci.io",
       "summary": "Article URL: https://floci.io Comments URL: https://news.ycombinator.com/item?id=49854416 Points: 28 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49854219",
+      "title": "Flip Fluid on Flip Dots",
+      "slug": "2026-09-26-flip-fluid-on-flip-dots.html",
+      "path": "posts/2026-09-26-flip-fluid-on-flip-dots.html",
+      "date_iso": "2026-09-26T07:50:24+00:00",
+      "source": "https://mitxela.com/projects/flipflip",
+      "summary": "Article URL: https://mitxela.com/projects/flipflip Comments URL: https://news.ycombinator.com/item?id=49854219 Points: 144 # Comments: 12"
     },
     {
       "id": "https://news.ycombinator.com/item?id=49854216",
@@ -62,6 +206,24 @@
       "date_iso": "2026-09-26T04:20:58+00:00",
       "source": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
       "summary": "Article URL: http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html Comments URL: https://news.ycombinator.com/item?id=49853175 Points: 94 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49853137",
+      "title": "An agent used DNS to reach an external chatbot",
+      "slug": "2026-09-26-an-agent-used-dns-to-reach-an-external-chatbot.html",
+      "path": "posts/2026-09-26-an-agent-used-dns-to-reach-an-external-chatbot.html",
+      "date_iso": "2026-09-26T04:14:11+00:00",
+      "source": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
+      "summary": "Article URL: https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/ Comments URL: https://news.ycombinator.com/item?id=49853137 Points: 115 # Comments: 115"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49852905",
+      "title": "Promising discoveries about the potential for life on one of Saturn’s icy moons",
+      "slug": "2026-09-26-promising-discoveries-about-the-potential-for-life-on-one-of-saturn-s-icy-moons.html",
+      "path": "posts/2026-09-26-promising-discoveries-about-the-potential-for-life-on-one-of-saturn-s-icy-moons.html",
+      "date_iso": "2026-09-26T03:23:31+00:00",
+      "source": "https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html",
+      "summary": "Article URL: https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html Comments URL: https://news.ycombinator.com/item?id=49852905 Points: 72 # Comments: 37"
     },
     {
       "id": "https://www.nytimes.com/2026/09/25/technology/anthropic-trump-ruling.html",
@@ -125,6 +287,24 @@
       "date_iso": "2026-09-26T00:59:02+00:00",
       "source": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
       "summary": "Article URL: https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide Comments URL: https://news.ycombinator.com/item?id=49852065 Points: 198 # Comments: 90"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49851883",
+      "title": "Generate fonts where every LLM token is the same width",
+      "slug": "2026-09-26-generate-fonts-where-every-llm-token-is-the-same-width.html",
+      "path": "posts/2026-09-26-generate-fonts-where-every-llm-token-is-the-same-width.html",
+      "date_iso": "2026-09-26T00:30:03+00:00",
+      "source": "https://ampdot.mesh.host/token-space-fonts.html",
+      "summary": "Article URL: https://ampdot.mesh.host/token-space-fonts.html Comments URL: https://news.ycombinator.com/item?id=49851883 Points: 76 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49850991",
+      "title": "Exploding variance of means of exponentials: least-squares to the rescue",
+      "slug": "2026-09-25-exploding-variance-of-means-of-exponentials-least-squares-to-the-rescue.html",
+      "path": "posts/2026-09-25-exploding-variance-of-means-of-exponentials-least-squares-to-the-rescue.html",
+      "date_iso": "2026-09-25T22:48:52+00:00",
+      "source": "https://francisbach.com/spectral_log_density_estimation/",
+      "summary": "Article URL: https://francisbach.com/spectral_log_density_estimation/ Comments URL: https://news.ycombinator.com/item?id=49850991 Points: 39 # Comments: 0"
     },
     {
       "id": "https://news.ycombinator.com/item?id=49850781",
