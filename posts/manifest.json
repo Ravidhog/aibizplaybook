@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/09/28/business/nvidia-stock-buyback.html",
+      "title": "Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever",
+      "slug": "2026-09-28-nvidia-adds-150-billion-to-massive-stock-buyback-the-largest-ever.html",
+      "path": "posts/2026-09-28-nvidia-adds-150-billion-to-massive-stock-buyback-the-largest-ever.html",
+      "date_iso": "2026-09-28T14:41:14+00:00",
+      "source": "https://www.nytimes.com/2026/09/28/business/nvidia-stock-buyback.html",
+      "summary": "Jensen Huang, chief executive of Nvidia, has led the company as its stock price has skyrocketed amid the explosion in demand chips that are the centerpiece of giant A.I. data centers."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49877988",
+      "title": "Coding Is Not Solved – Alex Ewerlöf Notes",
+      "slug": "2026-09-28-coding-is-not-solved-alex-ewerl-f-notes.html",
+      "path": "posts/2026-09-28-coding-is-not-solved-alex-ewerl-f-notes.html",
+      "date_iso": "2026-09-28T13:52:57+00:00",
+      "source": "https://blog.alexewerlof.com/p/coding-is-not-solved",
+      "summary": "Article URL: https://blog.alexewerlof.com/p/coding-is-not-solved Comments URL: https://news.ycombinator.com/item?id=49877988 Points: 94 # Comments: 88"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49877813",
+      "title": "Has Violence Against Teachers Become Accepted by Society?",
+      "slug": "2026-09-28-has-violence-against-teachers-become-accepted-by-society.html",
+      "path": "posts/2026-09-28-has-violence-against-teachers-become-accepted-by-society.html",
+      "date_iso": "2026-09-28T13:40:28+00:00",
+      "source": "https://theeducatorsroom.com/has-violence-against-teachers-become-accepted-by-society/",
+      "summary": "Article URL: https://theeducatorsroom.com/has-violence-against-teachers-become-accepted-by-society/ Comments URL: https://news.ycombinator.com/item?id=49877813 Points: 79 # Comments: 74"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49876760",
+      "title": "Show HN: Hntui – A TUI for Hacker News",
+      "slug": "2026-09-28-show-hn-hntui-a-tui-for-hacker-news.html",
+      "path": "posts/2026-09-28-show-hn-hntui-a-tui-for-hacker-news.html",
+      "date_iso": "2026-09-28T12:11:20+00:00",
+      "source": "https://github.com/ahmd-sh/hntui",
+      "summary": "hi there! i'd like you to try out a tui i made for browsing hackernews. it's built using opentui and also effect (learning experiment). i really like it and i think you will too! Comments URL: https://news.ycombinator.com/item?id=49876760 Points: 69 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49875913",
+      "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+      "slug": "2026-09-28-parley-federated-decentralised-chat-that-speaks-plain-irc.html",
+      "path": "posts/2026-09-28-parley-federated-decentralised-chat-that-speaks-plain-irc.html",
+      "date_iso": "2026-09-28T10:30:54+00:00",
+      "source": "https://git.mills.io/prologic/parley",
+      "summary": "Article URL: https://git.mills.io/prologic/parley Comments URL: https://news.ycombinator.com/item?id=49875913 Points: 169 # Comments: 80"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49875801",
+      "title": "Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",
+      "slug": "2026-09-28-show-hn-papermono-e-ink-fridge-magnet-shopping-list-with-mobile-web-page.html",
+      "path": "posts/2026-09-28-show-hn-papermono-e-ink-fridge-magnet-shopping-list-with-mobile-web-page.html",
+      "date_iso": "2026-09-28T10:14:41+00:00",
+      "source": "https://github.com/seamusc/papermono-shopping-list",
+      "summary": "Fridge magnet shopping list on an M5Stack PaperMono (ESP32-S3, e-ink touchscreen), synced with a phone web app over Wi-Fi. Works offline, ~2,400 lines of C++. This is a great wee device! BLE, Wi-Fi and LoRa on one board makes it flexible for way more than a shopping list, this i…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49875308",
+      "title": "Show HN: Free alternative to graphics design giants",
+      "slug": "2026-09-28-show-hn-free-alternative-to-graphics-design-giants.html",
+      "path": "posts/2026-09-28-show-hn-free-alternative-to-graphics-design-giants.html",
+      "date_iso": "2026-09-28T08:55:31+00:00",
+      "source": "https://scissor.studio/",
+      "summary": "A webassembly web based app that help editing raster and vector on browser without any subscription or signups Comments URL: https://news.ycombinator.com/item?id=49875308 Points: 17 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49875148",
+      "title": "AI companies in race to demonstrate their model most threatening to humanity",
+      "slug": "2026-09-28-ai-companies-in-race-to-demonstrate-their-model-most-threatening-to-humanity.html",
+      "path": "posts/2026-09-28-ai-companies-in-race-to-demonstrate-their-model-most-threatening-to-humanity.html",
+      "date_iso": "2026-09-28T08:35:40+00:00",
+      "source": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
+      "summary": "Article URL: https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/ Comments URL: https://news.ycombinator.com/item?id=49875148 Points: 388 # Comments: 304"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49875142",
+      "title": "37,500 border drawings: a map of the world as people remember it",
+      "slug": "2026-09-28-37-500-border-drawings-a-map-of-the-world-as-people-remember-it.html",
+      "path": "posts/2026-09-28-37-500-border-drawings-a-map-of-the-world-as-people-remember-it.html",
+      "date_iso": "2026-09-28T08:35:10+00:00",
+      "source": "https://www.habibicode.org/thedrawnworld",
+      "summary": "Article URL: https://www.habibicode.org/thedrawnworld Comments URL: https://news.ycombinator.com/item?id=49875142 Points: 97 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49874551",
+      "title": "Made by Mechanical Means",
+      "slug": "2026-09-28-made-by-mechanical-means.html",
+      "path": "posts/2026-09-28-made-by-mechanical-means.html",
+      "date_iso": "2026-09-28T07:06:06+00:00",
+      "source": "https://felixrieseberg.com/made-by-mechanical-means/",
+      "summary": "Article URL: https://felixrieseberg.com/made-by-mechanical-means/ Comments URL: https://news.ycombinator.com/item?id=49874551 Points: 55 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49873241",
+      "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+      "slug": "2026-09-28-thinking-fast-and-slow-in-ai-the-role-of-metacognition-2021.html",
+      "path": "posts/2026-09-28-thinking-fast-and-slow-in-ai-the-role-of-metacognition-2021.html",
+      "date_iso": "2026-09-28T03:23:53+00:00",
+      "source": "https://arxiv.org/abs/2110.01834",
+      "summary": "Article URL: https://arxiv.org/abs/2110.01834 Comments URL: https://news.ycombinator.com/item?id=49873241 Points: 146 # Comments: 54"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49872883",
+      "title": "Nissan's third generation e-POWER powertrain",
+      "slug": "2026-09-28-nissan-s-third-generation-e-power-powertrain.html",
+      "path": "posts/2026-09-28-nissan-s-third-generation-e-power-powertrain.html",
+      "date_iso": "2026-09-28T02:31:23+00:00",
+      "source": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
+      "summary": "Article URL: https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/ Comments URL: https://news.ycombinator.com/item?id=49872883 Points: 116 # Comments: 230"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49872723",
+      "title": "Owed a billion dollars in Nvidia stock",
+      "slug": "2026-09-28-owed-a-billion-dollars-in-nvidia-stock.html",
+      "path": "posts/2026-09-28-owed-a-billion-dollars-in-nvidia-stock.html",
+      "date_iso": "2026-09-28T02:05:13+00:00",
+      "source": "https://colo.to/nvidia-stock-narrative.html",
+      "summary": "Article URL: https://colo.to/nvidia-stock-narrative.html Comments URL: https://news.ycombinator.com/item?id=49872723 Points: 900 # Comments: 384"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/27/us/politics/trump-amodei-anthropic-artificial-intelligence.html",
+      "title": "Dario Amodei of Anthropic to Dine With Trump at White House",
+      "slug": "2026-09-27-dario-amodei-of-anthropic-to-dine-with-trump-at-white-house.html",
+      "path": "posts/2026-09-27-dario-amodei-of-anthropic-to-dine-with-trump-at-white-house.html",
+      "date_iso": "2026-09-27T22:12:24+00:00",
+      "source": "https://www.nytimes.com/2026/09/27/us/politics/trump-amodei-anthropic-artificial-intelligence.html",
+      "summary": "Dario Amodei has warned about the safety risks of artificial intelligence for years, but President Trump has called potential serious threats from the technology a “hoax.”"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49870837",
+      "title": "Lunar Terminator Paradox",
+      "slug": "2026-09-27-lunar-terminator-paradox.html",
+      "path": "posts/2026-09-27-lunar-terminator-paradox.html",
+      "date_iso": "2026-09-27T21:06:17+00:00",
+      "source": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
+      "summary": "Article URL: https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html Comments URL: https://news.ycombinator.com/item?id=49870837 Points: 93 # Comments: 61"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49870367",
+      "title": "When did Google get so weird?",
+      "slug": "2026-09-27-when-did-google-get-so-weird.html",
+      "path": "posts/2026-09-27-when-did-google-get-so-weird.html",
+      "date_iso": "2026-09-27T20:12:54+00:00",
+      "source": "https://sancho.bearblog.dev/google-weird/",
+      "summary": "Article URL: https://sancho.bearblog.dev/google-weird/ Comments URL: https://news.ycombinator.com/item?id=49870367 Points: 1543 # Comments: 830"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49870295",
+      "title": "Self-Hosting on the Dark Web",
+      "slug": "2026-09-27-self-hosting-on-the-dark-web.html",
+      "path": "posts/2026-09-27-self-hosting-on-the-dark-web.html",
+      "date_iso": "2026-09-27T20:03:36+00:00",
+      "source": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
+      "summary": "Article URL: https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/ Comments URL: https://news.ycombinator.com/item?id=49870295 Points: 286 # Comments: 100"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49870070",
+      "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
+      "slug": "2026-09-27-alan-kay-s-answer-to-did-the-eniac-have-a-bios.html",
+      "path": "posts/2026-09-27-alan-kay-s-answer-to-did-the-eniac-have-a-bios.html",
+      "date_iso": "2026-09-27T19:37:05+00:00",
+      "source": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
+      "summary": "Article URL: https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11 Comments URL: https://news.ycombinator.com/item?id=49870070 Points: 165 # Comments: 56"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49869995",
+      "title": "Imp is a full port of DSPy to the BEAM",
+      "slug": "2026-09-27-imp-is-a-full-port-of-dspy-to-the-beam.html",
+      "path": "posts/2026-09-27-imp-is-a-full-port-of-dspy-to-the-beam.html",
+      "date_iso": "2026-09-27T19:28:23+00:00",
+      "source": "https://github.com/deepfates/imp",
+      "summary": "https://hex.pm/packages/imp https://dspy.ai/current/ Comments URL: https://news.ycombinator.com/item?id=49869995 Points: 90 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49869755",
+      "title": "Malleable software: Restoring user agency in a world of locked-down apps (2025)",
+      "slug": "2026-09-27-malleable-software-restoring-user-agency-in-a-world-of-locked-down-apps-2025.html",
+      "path": "posts/2026-09-27-malleable-software-restoring-user-agency-in-a-world-of-locked-down-apps-2025.html",
+      "date_iso": "2026-09-27T19:01:31+00:00",
+      "source": "https://www.inkandswitch.com/essay/malleable-software/",
+      "summary": "Article URL: https://www.inkandswitch.com/essay/malleable-software/ Comments URL: https://news.ycombinator.com/item?id=49869755 Points: 130 # Comments: 63"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49869574",
+      "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+      "slug": "2026-09-27-show-hn-lofi-cities-pixel-art-city-nights-with-browser-generated-lofi.html",
+      "path": "posts/2026-09-27-show-hn-lofi-cities-pixel-art-city-nights-with-browser-generated-lofi.html",
+      "date_iso": "2026-09-27T18:44:30+00:00",
+      "source": "https://loficities.com/",
+      "summary": "Article URL: https://loficities.com/ Comments URL: https://news.ycombinator.com/item?id=49869574 Points: 290 # Comments: 118"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49868830",
+      "title": "Ember-1",
+      "slug": "2026-09-27-ember-1.html",
+      "path": "posts/2026-09-27-ember-1.html",
+      "date_iso": "2026-09-27T17:31:53+00:00",
+      "source": "https://fireworks.ai/blog/ember-1",
+      "summary": "Article URL: https://fireworks.ai/blog/ember-1 Comments URL: https://news.ycombinator.com/item?id=49868830 Points: 536 # Comments: 235"
+    },
+    {
       "id": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html",
       "title": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind",
       "slug": "2026-09-27-as-a-i-accelerates-governments-are-increasingly-being-left-behind.html",
