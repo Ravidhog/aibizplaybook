@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49907057",
+      "title": "Most data centers refusing to say how much water, electricity they use",
+      "slug": "2026-09-30-most-data-centers-refusing-to-say-how-much-water-electricity-they-use.html",
+      "path": "posts/2026-09-30-most-data-centers-refusing-to-say-how-much-water-electricity-they-use.html",
+      "date_iso": "2026-09-30T10:49:32+00:00",
+      "source": "https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use",
+      "summary": "Article URL: https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use Comments URL: https://news.ycombinator.com/item?id=49907057 Points: 92 # Comments: 60"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49906637",
+      "title": "Pi.dev: You Said No MCP",
+      "slug": "2026-09-30-pi-dev-you-said-no-mcp.html",
+      "path": "posts/2026-09-30-pi-dev-you-said-no-mcp.html",
+      "date_iso": "2026-09-30T09:55:23+00:00",
+      "source": "https://earendil.com/posts/you-said-no-mcp/",
+      "summary": "Article URL: https://earendil.com/posts/you-said-no-mcp/ Comments URL: https://news.ycombinator.com/item?id=49906637 Points: 222 # Comments: 96"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/30/technology/personaltech/how-to-listen-to-your-favorite-music-online-or-off-the-grid.html",
+      "title": "How to Listen to Your Favorite Music, Online or Off the Grid",
+      "slug": "2026-09-30-how-to-listen-to-your-favorite-music-online-or-off-the-grid.html",
+      "path": "posts/2026-09-30-how-to-listen-to-your-favorite-music-online-or-off-the-grid.html",
+      "date_iso": "2026-09-30T09:03:07+00:00",
+      "source": "https://www.nytimes.com/2026/09/30/technology/personaltech/how-to-listen-to-your-favorite-music-online-or-off-the-grid.html",
+      "summary": "Tap the Download menu in the Apple Music app to see which songs, albums and playlists are stored locally on your phone or tablet."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
+      "title": "He Was a Tech Investor Before There Was a Silicon Valley",
+      "slug": "2026-09-30-he-was-a-tech-investor-before-there-was-a-silicon-valley.html",
+      "path": "posts/2026-09-30-he-was-a-tech-investor-before-there-was-a-silicon-valley.html",
+      "date_iso": "2026-09-30T09:02:28+00:00",
+      "source": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
+      "summary": "Bill Draper began funding start-ups in the early 1960s, when the Santa Clara Valley was better known for apricot orchards than microchips. He has died at 98."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+      "title": "How Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+      "slug": "2026-09-30-how-meta-uses-a-i-data-centers-to-avoid-billions-in-federal-taxes.html",
+      "path": "posts/2026-09-30-how-meta-uses-a-i-data-centers-to-avoid-billions-in-federal-taxes.html",
+      "date_iso": "2026-09-30T09:00:48+00:00",
+      "source": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+      "summary": "Meta is exploiting a lucrative tax break intended to support research and experimentation. Its own accountants say the gambit is risky."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49905487",
+      "title": "September 2026: The world today, as seen by one Polish guy",
+      "slug": "2026-09-30-september-2026-the-world-today-as-seen-by-one-polish-guy.html",
+      "path": "posts/2026-09-30-september-2026-the-world-today-as-seen-by-one-polish-guy.html",
+      "date_iso": "2026-09-30T07:12:31+00:00",
+      "source": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
+      "summary": "Article URL: https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/ Comments URL: https://news.ycombinator.com/item?id=49905487 Points: 366 # Comments: 230"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49903862",
+      "title": "RSS Feeds for Last.fm",
+      "slug": "2026-09-30-rss-feeds-for-last-fm.html",
+      "path": "posts/2026-09-30-rss-feeds-for-last-fm.html",
+      "date_iso": "2026-09-30T03:00:05+00:00",
+      "source": "https://lfm.xiffy.nl/",
+      "summary": "Article URL: https://lfm.xiffy.nl/ Comments URL: https://news.ycombinator.com/item?id=49903862 Points: 97 # Comments: 29"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "title": "Is Claude Conscious? Inside Anthropic’s Quest to Instill Morality Into Its A.I. Models",
+      "slug": "2026-09-30-is-claude-conscious-inside-anthropic-s-quest-to-instill-morality-into-its-a-i-models.html",
+      "path": "posts/2026-09-30-is-claude-conscious-inside-anthropic-s-quest-to-instill-morality-into-its-a-i-models.html",
+      "date_iso": "2026-09-30T00:09:48+00:00",
+      "source": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "summary": "“To be clear,” Christopher Olah told me, “we don’t know if A.I. models are conscious. I don’t know. I’m genuinely uncertain. The thing that I care about is that we get to the right answer, whatever it is.”"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/29/us/politics/ai-trump-meta-microsoft-openai.html",
+      "title": "At A.I. Event, Trump Asks Meta, OpenAI and Microsoft to Make Safety Decisions Themselves",
+      "slug": "2026-09-29-at-a-i-event-trump-asks-meta-openai-and-microsoft-to-make-safety-decisions-themselves.html",
+      "path": "posts/2026-09-29-at-a-i-event-trump-asks-meta-openai-and-microsoft-to-make-safety-decisions-themselves.html",
+      "date_iso": "2026-09-29T23:20:44+00:00",
+      "source": "https://www.nytimes.com/2026/09/29/us/politics/ai-trump-meta-microsoft-openai.html",
+      "summary": "President Trump unveiled an A.I.-powered government website at the White House on Tuesday,"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49902093",
+      "title": "Floppy Emu Hardware Failure Analysis Results",
+      "slug": "2026-09-29-floppy-emu-hardware-failure-analysis-results.html",
+      "path": "posts/2026-09-29-floppy-emu-hardware-failure-analysis-results.html",
+      "date_iso": "2026-09-29T23:10:26+00:00",
+      "source": "https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/",
+      "summary": "Article URL: https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/ Comments URL: https://news.ycombinator.com/item?id=49902093 Points: 19 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49902019",
+      "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
+      "slug": "2026-09-29-nrc-issues-first-u-s-construction-permit-for-a-bwrx-300-small-modular-reactor.html",
+      "path": "posts/2026-09-29-nrc-issues-first-u-s-construction-permit-for-a-bwrx-300-small-modular-reactor.html",
+      "date_iso": "2026-09-29T23:03:38+00:00",
+      "source": "https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river",
+      "summary": "Article URL: https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river Comments URL: https://news.ycombinator.com/item?id=49902019 Points: 67 # Comments: 30"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html",
+      "title": "OpenAI Ignored Employees’ Warnings About Safely Testing A.I. Models",
+      "slug": "2026-09-29-openai-ignored-employees-warnings-about-safely-testing-a-i-models.html",
+      "path": "posts/2026-09-29-openai-ignored-employees-warnings-about-safely-testing-a-i-models.html",
+      "date_iso": "2026-09-29T22:53:40+00:00",
+      "source": "https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html",
+      "summary": "OpenAI chief executive Sam Altman."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49901736",
+      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "slug": "2026-09-29-livenerf-has-opus-5-5-been-nerfed-yet.html",
+      "path": "posts/2026-09-29-livenerf-has-opus-5-5-been-nerfed-yet.html",
+      "date_iso": "2026-09-29T22:36:14+00:00",
+      "source": "https://github.com/ninjahawk/livenerf",
+      "summary": "Article URL: https://github.com/ninjahawk/livenerf Comments URL: https://news.ycombinator.com/item?id=49901736 Points: 724 # Comments: 284"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/29/science/ukraine-science-academy-russia-attack.html",
+      "title": "Ukrainian Science Academy, Struck by Drone, Played Key Role in Research",
+      "slug": "2026-09-29-ukrainian-science-academy-struck-by-drone-played-key-role-in-research.html",
+      "path": "posts/2026-09-29-ukrainian-science-academy-struck-by-drone-played-key-role-in-research.html",
+      "date_iso": "2026-09-29T19:55:20+00:00",
+      "source": "https://www.nytimes.com/2026/09/29/science/ukraine-science-academy-russia-attack.html",
+      "summary": "A Russian drone strike on the National Academy of Sciences in Kyiv, Ukraine, killed at least two people on Monday."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49899090",
+      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+      "slug": "2026-09-29-u-s-postal-inspectors-shut-down-website-selling-counterfeit-postage-labels.html",
+      "path": "posts/2026-09-29-u-s-postal-inspectors-shut-down-website-selling-counterfeit-postage-labels.html",
+      "date_iso": "2026-09-29T19:30:17+00:00",
+      "source": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+      "summary": "Article URL: https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/ Comments URL: https://news.ycombinator.com/item?id=49899090 Points: 245 # Comments: 144"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49898778",
+      "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+      "slug": "2026-09-29-show-hn-real-time-solar-system-with-526k-asteroids-and-all-tracked-satellites.html",
+      "path": "posts/2026-09-29-show-hn-real-time-solar-system-with-526k-asteroids-and-all-tracked-satellites.html",
+      "date_iso": "2026-09-29T19:08:01+00:00",
+      "source": "https://space.bl2.net/",
+      "summary": "Article URL: https://space.bl2.net/ Comments URL: https://news.ycombinator.com/item?id=49898778 Points: 292 # Comments: 70"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/29/technology/openai-dots-ai-agents.html",
+      "title": "OpenAI Unveils Dots, New A.I. Agents to Rival Meta’s Muse",
+      "slug": "2026-09-29-openai-unveils-dots-new-a-i-agents-to-rival-meta-s-muse.html",
+      "path": "posts/2026-09-29-openai-unveils-dots-new-a-i-agents-to-rival-meta-s-muse.html",
+      "date_iso": "2026-09-29T18:29:40+00:00",
+      "source": "https://www.nytimes.com/2026/09/29/technology/openai-dots-ai-agents.html",
+      "summary": "The ChatGPT maker unveiled agents that act as assistants, just weeks after Meta released Muse, as it faces scrutiny over incidents involving its technology."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49897993",
+      "title": "Vermont replacing power plants with home batteries",
+      "slug": "2026-09-29-vermont-replacing-power-plants-with-home-batteries.html",
+      "path": "posts/2026-09-29-vermont-replacing-power-plants-with-home-batteries.html",
+      "date_iso": "2026-09-29T18:19:02+00:00",
+      "source": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+      "summary": "See also https://electrek.co/2026/07/28/vermonts-largest-energy-sourc... Comments URL: https://news.ycombinator.com/item?id=49897993 Points: 253 # Comments: 205"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49896604",
+      "title": "Dots: Always-on agents",
+      "slug": "2026-09-29-dots-always-on-agents.html",
+      "path": "posts/2026-09-29-dots-always-on-agents.html",
+      "date_iso": "2026-09-29T17:07:57+00:00",
+      "source": "https://openai.com/index/introducing-dots/",
+      "summary": "Article URL: https://openai.com/index/introducing-dots/ Comments URL: https://news.ycombinator.com/item?id=49896604 Points: 668 # Comments: 527"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49896586",
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "slug": "2026-09-29-gpt-6-1-sol-near-astra-intelligence-for-a-fifth-of-the-price.html",
+      "path": "posts/2026-09-29-gpt-6-1-sol-near-astra-intelligence-for-a-fifth-of-the-price.html",
+      "date_iso": "2026-09-29T17:06:45+00:00",
+      "source": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ Comments URL: https://news.ycombinator.com/item?id=49896586 Points: 991 # Comments: 866"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49895864",
+      "title": "Needed 1+1, built a functional programming language",
+      "slug": "2026-09-29-needed-1-1-built-a-functional-programming-language.html",
+      "path": "posts/2026-09-29-needed-1-1-built-a-functional-programming-language.html",
+      "date_iso": "2026-09-29T16:18:26+00:00",
+      "source": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
+      "summary": "Article URL: https://hereticpleb.vercel.app/blog/needed-one-plus-one/ Comments URL: https://news.ycombinator.com/item?id=49895864 Points: 121 # Comments: 45"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49895304",
+      "title": "PS5 Relapse Exploit",
+      "slug": "2026-09-29-ps5-relapse-exploit.html",
+      "path": "posts/2026-09-29-ps5-relapse-exploit.html",
+      "date_iso": "2026-09-29T15:44:41+00:00",
+      "source": "https://github.com/ntfargo/Relapse-Exploit",
+      "summary": "Article URL: https://github.com/ntfargo/Relapse-Exploit Comments URL: https://news.ycombinator.com/item?id=49895304 Points: 331 # Comments: 205"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49893509",
+      "title": "America.gov",
+      "slug": "2026-09-29-america-gov.html",
+      "path": "posts/2026-09-29-america-gov.html",
+      "date_iso": "2026-09-29T14:04:57+00:00",
+      "source": "https://america.gov/",
+      "summary": "Article URL: https://america.gov/ Comments URL: https://news.ycombinator.com/item?id=49893509 Points: 643 # Comments: 532"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49893157",
+      "title": "Ask HN: What are you reading?",
+      "slug": "2026-09-29-ask-hn-what-are-you-reading.html",
+      "path": "posts/2026-09-29-ask-hn-what-are-you-reading.html",
+      "date_iso": "2026-09-29T13:44:43+00:00",
+      "source": "https://news.ycombinator.com/item?id=49893157",
+      "summary": "I'm plowing through the Dungeon Crawler Carl series, which is not particularly challenging as sci-fi/LitRPG goes, but entertaining enough. I'm also wrapping up Doctorow's _Enshittification_, and I'm looking for something a little meaty to keep the brain working... Comments URL:…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49893002",
+      "title": "Backblaze drive stats for Q2 2026",
+      "slug": "2026-09-29-backblaze-drive-stats-for-q2-2026.html",
+      "path": "posts/2026-09-29-backblaze-drive-stats-for-q2-2026.html",
+      "date_iso": "2026-09-29T13:34:20+00:00",
+      "source": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
+      "summary": "Article URL: https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/ Comments URL: https://news.ycombinator.com/item?id=49893002 Points: 226 # Comments: 70"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49892245",
       "title": "Delhi Cut Electricity Loss from 50 to 5 Percent",
       "slug": "2026-09-29-delhi-cut-electricity-loss-from-50-to-5-percent.html",
@@ -73,6 +298,15 @@
       "summary": "Article URL: https://github.com/PostHog/jeeves Comments URL: https://news.ycombinator.com/item?id=49891290 Points: 82 # Comments: 36"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=49891203",
+      "title": "Language models for text classification: From bag-of-words to Jev",
+      "slug": "2026-09-29-language-models-for-text-classification-from-bag-of-words-to-jev.html",
+      "path": "posts/2026-09-29-language-models-for-text-classification-from-bag-of-words-to-jev.html",
+      "date_iso": "2026-09-29T11:06:25+00:00",
+      "source": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+      "summary": "Article URL: https://magazine.sebastianraschka.com/p/classifier-history-and-jev Comments URL: https://news.ycombinator.com/item?id=49891203 Points: 149 # Comments: 7"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49890829",
       "title": "New Cyber-OSINT model released",
       "slug": "2026-09-29-new-cyber-osint-model-released.html",
@@ -80,6 +314,15 @@
       "date_iso": "2026-09-29T10:23:33+00:00",
       "source": "https://twitter.com/0x0SojalSec/status/2104736980768866439",
       "summary": "Article URL: https://twitter.com/0x0SojalSec/status/2104736980768866439 Comments URL: https://news.ycombinator.com/item?id=49890829 Points: 36 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49890733",
+      "title": "NASA asked several former SR-71A staffers to help secret restart",
+      "slug": "2026-09-29-nasa-asked-several-former-sr-71a-staffers-to-help-secret-restart.html",
+      "path": "posts/2026-09-29-nasa-asked-several-former-sr-71a-staffers-to-help-secret-restart.html",
+      "date_iso": "2026-09-29T10:10:20+00:00",
+      "source": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
+      "summary": "Article URL: https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart Comments URL: https://news.ycombinator.com/item?id=49890733 Points: 221 # Comments: 204"
     },
     {
       "id": "https://news.ycombinator.com/item?id=49890647",
