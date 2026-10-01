@@ -1,6 +1,240 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49921523",
+      "title": "Navy Sailor Dies by Suicide After Deployment Keeps Getting Extended",
+      "slug": "2026-10-01-navy-sailor-dies-by-suicide-after-deployment-keeps-getting-extended.html",
+      "path": "posts/2026-10-01-navy-sailor-dies-by-suicide-after-deployment-keeps-getting-extended.html",
+      "date_iso": "2026-10-01T13:37:47+00:00",
+      "source": "https://atlantablackstar.com/2026/09/30/black-navy-sailor-dies-by-suicide-after-extended-deployment/",
+      "summary": "Article URL: https://atlantablackstar.com/2026/09/30/black-navy-sailor-dies-by-suicide-after-extended-deployment/ Comments URL: https://news.ycombinator.com/item?id=49921523 Points: 3 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49921118",
+      "title": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+      "slug": "2026-10-01-meta-uses-a-i-data-centers-to-avoid-billions-in-federal-taxes.html",
+      "path": "posts/2026-10-01-meta-uses-a-i-data-centers-to-avoid-billions-in-federal-taxes.html",
+      "date_iso": "2026-10-01T13:05:51+00:00",
+      "source": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html Comments URL: https://news.ycombinator.com/item?id=49921118 Points: 40 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49921051",
+      "title": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
+      "slug": "2026-10-01-an-ai-sovereign-wealth-fund-isn-t-progressive-it-s-techno-imperialism.html",
+      "path": "posts/2026-10-01-an-ai-sovereign-wealth-fund-isn-t-progressive-it-s-techno-imperialism.html",
+      "date_iso": "2026-10-01T13:01:02+00:00",
+      "source": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
+      "summary": "Article URL: https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243 Comments URL: https://news.ycombinator.com/item?id=49921051 Points: 22 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49921050",
+      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+      "slug": "2026-10-01-ftc-is-investigating-openai-anthropic-and-other-ai-companies-over-product-risks.html",
+      "path": "posts/2026-10-01-ftc-is-investigating-openai-anthropic-and-other-ai-companies-over-product-risks.html",
+      "date_iso": "2026-10-01T13:00:55+00:00",
+      "source": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html Comments URL: https://news.ycombinator.com/item?id=49921050 Points: 41 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49920997",
+      "title": "Google breaks promise to provide 10 years of updates to Chromebooks",
+      "slug": "2026-10-01-google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks.html",
+      "path": "posts/2026-10-01-google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks.html",
+      "date_iso": "2026-10-01T12:55:27+00:00",
+      "source": "https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/",
+      "summary": "Article URL: https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/ Comments URL: https://news.ycombinator.com/item?id=49920997 Points: 100 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49920932",
+      "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+      "slug": "2026-10-01-micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026.html",
+      "path": "posts/2026-10-01-micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026.html",
+      "date_iso": "2026-10-01T12:48:59+00:00",
+      "source": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
+      "summary": "Article URL: https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026 Comments URL: https://news.ycombinator.com/item?id=49920932 Points: 76 # Comments: 74"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49920896",
+      "title": "How to speed up the Rust compiler in September 2026",
+      "slug": "2026-10-01-how-to-speed-up-the-rust-compiler-in-september-2026.html",
+      "path": "posts/2026-10-01-how-to-speed-up-the-rust-compiler-in-september-2026.html",
+      "date_iso": "2026-10-01T12:44:38+00:00",
+      "source": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+      "summary": "Article URL: https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html Comments URL: https://news.ycombinator.com/item?id=49920896 Points: 33 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49920234",
+      "title": "Returning from vacation? The government can search your phone without a warrant",
+      "slug": "2026-10-01-returning-from-vacation-the-government-can-search-your-phone-without-a-warrant.html",
+      "path": "posts/2026-10-01-returning-from-vacation-the-government-can-search-your-phone-without-a-warrant.html",
+      "date_iso": "2026-10-01T11:13:59+00:00",
+      "source": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/ Comments URL: https://news.ycombinator.com/item?id=49920234 Points: 160 # Comments: 154"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/01/podcasts/hard-fork-whats-next.html",
+      "title": "What’s Next for ‘Hard Fork’?",
+      "slug": "2026-10-01-what-s-next-for-hard-fork.html",
+      "path": "posts/2026-10-01-what-s-next-for-hard-fork.html",
+      "date_iso": "2026-10-01T11:00:22+00:00",
+      "source": "https://www.nytimes.com/2026/10/01/podcasts/hard-fork-whats-next.html",
+      "summary": "The podcast’s next chapter begins this week."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49920160",
+      "title": "StreetComplete on iOS is now in public beta",
+      "slug": "2026-10-01-streetcomplete-on-ios-is-now-in-public-beta.html",
+      "path": "posts/2026-10-01-streetcomplete-on-ios-is-now-in-public-beta.html",
+      "date_iso": "2026-10-01T10:59:57+00:00",
+      "source": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+      "summary": "Article URL: https://github.com/streetcomplete/StreetComplete/issues/5421 Comments URL: https://news.ycombinator.com/item?id=49920160 Points: 196 # Comments: 44"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49919910",
+      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+      "slug": "2026-10-01-gpt-synopsys-frontier-intelligence-to-revolutionize-chip-design.html",
+      "path": "posts/2026-10-01-gpt-synopsys-frontier-intelligence-to-revolutionize-chip-design.html",
+      "date_iso": "2026-10-01T10:21:36+00:00",
+      "source": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "summary": "Article URL: https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design Comments URL: https://news.ycombinator.com/item?id=49919910 Points: 84 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49919680",
+      "title": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate",
+      "slug": "2026-10-01-truemetrics-yc-s23-is-hiring-a-gtm-founder-s-associate.html",
+      "path": "posts/2026-10-01-truemetrics-yc-s23-is-hiring-a-gtm-founder-s-associate.html",
+      "date_iso": "2026-10-01T09:48:18+00:00",
+      "source": "https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate",
+      "summary": "Article URL: https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate Comments URL: https://news.ycombinator.com/item?id=49919680 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/01/climate/data-center-pollution-study-pennsylvania.html",
+      "title": "When Data Centers Cluster Together, How Dirty Are They? One County Wants Answers.",
+      "slug": "2026-10-01-when-data-centers-cluster-together-how-dirty-are-they-one-county-wants-answers.html",
+      "path": "posts/2026-10-01-when-data-centers-cluster-together-how-dirty-are-they-one-county-wants-answers.html",
+      "date_iso": "2026-10-01T09:02:57+00:00",
+      "source": "https://www.nytimes.com/2026/10/01/climate/data-center-pollution-study-pennsylvania.html",
+      "summary": "Seldom do local officials consider the cumulative effect that several data-center projects have on a region. Construction of a Texas data center near a residential community recently."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/30/technology/openai-brockman-super-pac-leading-the-future.html",
+      "title": "OpenAI’s Greg Brockman Backs Out of Second $25 Million Donation to A.I. Super PAC",
+      "slug": "2026-09-30-openai-s-greg-brockman-backs-out-of-second-25-million-donation-to-a-i-super-pac.html",
+      "path": "posts/2026-09-30-openai-s-greg-brockman-backs-out-of-second-25-million-donation-to-a-i-super-pac.html",
+      "date_iso": "2026-09-30T22:27:26+00:00",
+      "source": "https://www.nytimes.com/2026/09/30/technology/openai-brockman-super-pac-leading-the-future.html",
+      "summary": "Greg Brockman, center, OpenAI’s president, and his wife, Anna."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49915082",
+      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
+      "slug": "2026-09-30-the-top-secret-ursala-raquel-and-farrah-satellites-2025.html",
+      "path": "posts/2026-09-30-the-top-secret-ursala-raquel-and-farrah-satellites-2025.html",
+      "date_iso": "2026-09-30T22:03:04+00:00",
+      "source": "https://www.thespacereview.com/article/4951/1",
+      "summary": "Article URL: https://www.thespacereview.com/article/4951/1 Comments URL: https://news.ycombinator.com/item?id=49915082 Points: 260 # Comments: 125"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/30/business/media/google-hollywood-krya-sedgwick.html",
+      "title": "Google Wants Hollywood to Stop Being So Afraid of Technology",
+      "slug": "2026-09-30-google-wants-hollywood-to-stop-being-so-afraid-of-technology.html",
+      "path": "posts/2026-09-30-google-wants-hollywood-to-stop-being-so-afraid-of-technology.html",
+      "date_iso": "2026-09-30T21:18:56+00:00",
+      "source": "https://www.nytimes.com/2026/09/30/business/media/google-hollywood-krya-sedgwick.html",
+      "summary": "Jonathan Zepp, left, Google’s head of entertainment content and platforms, and Peter Micelli, chief executive of Range Media Partners, at Google offices in Los Angeles."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/30/technology/google-gemini-4-argon-ai-safety.html",
+      "title": "Google Releases New Gemini Model With Guardrails Amid A.I. Safety Debate",
+      "slug": "2026-09-30-google-releases-new-gemini-model-with-guardrails-amid-a-i-safety-debate.html",
+      "path": "posts/2026-09-30-google-releases-new-gemini-model-with-guardrails-amid-a-i-safety-debate.html",
+      "date_iso": "2026-09-30T20:24:33+00:00",
+      "source": "https://www.nytimes.com/2026/09/30/technology/google-gemini-4-argon-ai-safety.html",
+      "summary": "The Gemini 4 model is available for now only to a select group of companies and organizations focused on cybersecurity defense,"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49913571",
+      "title": "Gemini 4 Argon",
+      "slug": "2026-09-30-gemini-4-argon.html",
+      "path": "posts/2026-09-30-gemini-4-argon.html",
+      "date_iso": "2026-09-30T20:04:37+00:00",
+      "source": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "summary": "See also: Gemini 4 Argon (High): Intelligence, Performance and Price Analysis - https://news.ycombinator.com/item?id=49914236 Comments URL: https://news.ycombinator.com/item?id=49913571 Points: 1500 # Comments: 994"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49913350",
+      "title": "Halfspace experimental IDE for solid modeling with distance fields",
+      "slug": "2026-09-30-halfspace-experimental-ide-for-solid-modeling-with-distance-fields.html",
+      "path": "posts/2026-09-30-halfspace-experimental-ide-for-solid-modeling-with-distance-fields.html",
+      "date_iso": "2026-09-30T19:44:37+00:00",
+      "source": "https://www.mattkeeter.com/projects/halfspace/",
+      "summary": "Article URL: https://www.mattkeeter.com/projects/halfspace/ Comments URL: https://news.ycombinator.com/item?id=49913350 Points: 157 # Comments: 9"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/09/30/technology/ftc-openai-anthropic-investigation.html",
+      "title": "F.T.C. Investigates OpenAI and Anthropic Over Potential Consumer Harms",
+      "slug": "2026-09-30-f-t-c-investigates-openai-and-anthropic-over-potential-consumer-harms.html",
+      "path": "posts/2026-09-30-f-t-c-investigates-openai-and-anthropic-over-potential-consumer-harms.html",
+      "date_iso": "2026-09-30T19:26:02+00:00",
+      "source": "https://www.nytimes.com/2026/09/30/technology/ftc-openai-anthropic-investigation.html",
+      "summary": "The Federal Trade Commission building in Washington. The agency is examining whether top A.I. companies have harmed consumers, a person with knowledge of the inquiry said."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49912955",
+      "title": "Surprisingly complex waves reveal the brain's inner workings",
+      "slug": "2026-09-30-surprisingly-complex-waves-reveal-the-brain-s-inner-workings.html",
+      "path": "posts/2026-09-30-surprisingly-complex-waves-reveal-the-brain-s-inner-workings.html",
+      "date_iso": "2026-09-30T19:04:50+00:00",
+      "source": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+      "summary": "Article URL: https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/ Comments URL: https://news.ycombinator.com/item?id=49912955 Points: 218 # Comments: 84"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49912792",
+      "title": "Before pixels: Modular industrial dashboards",
+      "slug": "2026-09-30-before-pixels-modular-industrial-dashboards.html",
+      "path": "posts/2026-09-30-before-pixels-modular-industrial-dashboards.html",
+      "date_iso": "2026-09-30T18:49:06+00:00",
+      "source": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
+      "summary": "Article URL: https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/ Comments URL: https://news.ycombinator.com/item?id=49912792 Points: 216 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49912444",
+      "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+      "slug": "2026-09-30-5x-faster-edge-functions-v8-isolates-to-firecracker-microvms.html",
+      "path": "posts/2026-09-30-5x-faster-edge-functions-v8-isolates-to-firecracker-microvms.html",
+      "date_iso": "2026-09-30T18:17:45+00:00",
+      "source": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
+      "summary": "Article URL: https://www.netlify.com/blog/edge-functions-firecracker-microvms/ Comments URL: https://news.ycombinator.com/item?id=49912444 Points: 198 # Comments: 86"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49912048",
+      "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
+      "slug": "2026-09-30-chompi-portable-sampler-instrument-is-now-open-source-hardware-and-software.html",
+      "path": "posts/2026-09-30-chompi-portable-sampler-instrument-is-now-open-source-hardware-and-software.html",
+      "date_iso": "2026-09-30T17:42:13+00:00",
+      "source": "https://www.chompiclub.com/opensource",
+      "summary": "Article URL: https://www.chompiclub.com/opensource Comments URL: https://news.ycombinator.com/item?id=49912048 Points: 96 # Comments: 24"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49911995",
+      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+      "slug": "2026-09-30-launch-hn-magnitude-yc-s25-self-optimizing-inference-engine-for-agents.html",
+      "path": "posts/2026-09-30-launch-hn-magnitude-yc-s25-self-optimizing-inference-engine-for-agents.html",
+      "date_iso": "2026-09-30T17:37:40+00:00",
+      "source": "https://github.com/magnitudedev/magnitude",
+      "summary": "Hey HN, Anders and Tom here. We're building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It works on Mac, Linux, and Windows on any hardware and is up to 2x faster than llama.cpp. We're both software engineers and p…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49909583",
+      "title": "A brief history of the Bloomberg terminal",
+      "slug": "2026-09-30-a-brief-history-of-the-bloomberg-terminal.html",
+      "path": "posts/2026-09-30-a-brief-history-of-the-bloomberg-terminal.html",
+      "date_iso": "2026-09-30T14:34:07+00:00",
+      "source": "https://spectrum.ieee.org/bloomberg-terminal",
+      "summary": "Article URL: https://spectrum.ieee.org/bloomberg-terminal Comments URL: https://news.ycombinator.com/item?id=49909583 Points: 328 # Comments: 142"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49907057",
       "title": "Most data centers refusing to say how much water, electricity they use",
       "slug": "2026-09-30-most-data-centers-refusing-to-say-how-much-water-electricity-they-use.html",
