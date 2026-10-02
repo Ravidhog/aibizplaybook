@@ -1,6 +1,249 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/10/02/business/auto-sales-pickup-trucks-suvs.html",
+      "title": "As Gas Prices Rose, Sales of Larger Vehicles Slid",
+      "slug": "2026-10-02-as-gas-prices-rose-sales-of-larger-vehicles-slid.html",
+      "path": "posts/2026-10-02-as-gas-prices-rose-sales-of-larger-vehicles-slid.html",
+      "date_iso": "2026-10-02T13:22:04+00:00",
+      "source": "https://www.nytimes.com/2026/10/02/business/auto-sales-pickup-trucks-suvs.html",
+      "summary": "Gas was nearly $5 per gallon in Detroit last month."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/02/technology/amazon-data-centers-funding.html",
+      "title": "Amazon Promises More Local Funding and Less Secrecy Around Data Centers",
+      "slug": "2026-10-02-amazon-promises-more-local-funding-and-less-secrecy-around-data-centers.html",
+      "path": "posts/2026-10-02-amazon-promises-more-local-funding-and-less-secrecy-around-data-centers.html",
+      "date_iso": "2026-10-02T12:56:28+00:00",
+      "source": "https://www.nytimes.com/2026/10/02/technology/amazon-data-centers-funding.html",
+      "summary": "A data center owned by Amazon in Ashburn, Va."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/02/podcasts/hardfork-regulation-agents-muse.html",
+      "title": "A.I. Agents: Cute, Cuddly and Maybe Catastrophically Dangerous?",
+      "slug": "2026-10-02-a-i-agents-cute-cuddly-and-maybe-catastrophically-dangerous.html",
+      "path": "posts/2026-10-02-a-i-agents-cute-cuddly-and-maybe-catastrophically-dangerous.html",
+      "date_iso": "2026-10-02T11:00:03+00:00",
+      "source": "https://www.nytimes.com/2026/10/02/podcasts/hardfork-regulation-agents-muse.html",
+      "summary": "“It’s going to be gnarly for a little while.”"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/01/world/europe/ai-garbo-ad-sweden-skf.html",
+      "title": "Swedish Company Uses A.I. Likeness of Greta Garbo in Ad",
+      "slug": "2026-10-02-swedish-company-uses-a-i-likeness-of-greta-garbo-in-ad.html",
+      "path": "posts/2026-10-02-swedish-company-uses-a-i-likeness-of-greta-garbo-in-ad.html",
+      "date_iso": "2026-10-02T09:35:43+00:00",
+      "source": "https://www.nytimes.com/2026/10/01/world/europe/ai-garbo-ad-sweden-skf.html",
+      "summary": "Greta Garbo in 1925."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html",
+      "title": "Who’s to Blame When A.I. Goes Rogue?",
+      "slug": "2026-10-02-who-s-to-blame-when-a-i-goes-rogue.html",
+      "path": "posts/2026-10-02-who-s-to-blame-when-a-i-goes-rogue.html",
+      "date_iso": "2026-10-02T09:21:48+00:00",
+      "source": "https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html",
+      "summary": "Many think artificial intelligence companies should be held liable for their runaway technology. But legal scholars say applying existing law could be messy."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/02/technology/russian-propaganda-ai-war-songs.html",
+      "title": "Russia’s Latest Propaganda? A.I.-Generated War Songs.",
+      "slug": "2026-10-02-russia-s-latest-propaganda-a-i-generated-war-songs.html",
+      "path": "posts/2026-10-02-russia-s-latest-propaganda-a-i-generated-war-songs.html",
+      "date_iso": "2026-10-02T09:04:05+00:00",
+      "source": "https://www.nytimes.com/2026/10/02/technology/russian-propaganda-ai-war-songs.html",
+      "summary": "Russian society is becoming increasingly militaristic since the war in Ukraine began. These soldiers marched in Moscow in a parade in 2023."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49931031",
+      "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
+      "slug": "2026-10-02-show-hn-audionaut-an-open-source-cross-platform-multitrack-audio-editor.html",
+      "path": "posts/2026-10-02-show-hn-audionaut-an-open-source-cross-platform-multitrack-audio-editor.html",
+      "date_iso": "2026-10-02T08:05:48+00:00",
+      "source": "https://github.com/kvoltmer/Audionaut",
+      "summary": "Article URL: https://github.com/kvoltmer/Audionaut Comments URL: https://news.ycombinator.com/item?id=49931031 Points: 53 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49930047",
+      "title": "Shimano Bicycle Museum Review",
+      "slug": "2026-10-02-shimano-bicycle-museum-review.html",
+      "path": "posts/2026-10-02-shimano-bicycle-museum-review.html",
+      "date_iso": "2026-10-02T05:12:58+00:00",
+      "source": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+      "summary": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/ Comments URL: https://news.ycombinator.com/item?id=49930047 Points: 180 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49929489",
+      "title": "DeepSeek Harness Desktop for macOS and Windows",
+      "slug": "2026-10-02-deepseek-harness-desktop-for-macos-and-windows.html",
+      "path": "posts/2026-10-02-deepseek-harness-desktop-for-macos-and-windows.html",
+      "date_iso": "2026-10-02T03:11:20+00:00",
+      "source": "https://www.deepseek.com/en/harness/",
+      "summary": "Article URL: https://www.deepseek.com/en/harness/ Comments URL: https://news.ycombinator.com/item?id=49929489 Points: 287 # Comments: 149"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49929113",
+      "title": "How Singapore's government-run dating service works",
+      "slug": "2026-10-02-how-singapore-s-government-run-dating-service-works.html",
+      "path": "posts/2026-10-02-how-singapore-s-government-run-dating-service-works.html",
+      "date_iso": "2026-10-02T01:56:52+00:00",
+      "source": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+      "summary": "Article URL: https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works Comments URL: https://news.ycombinator.com/item?id=49929113 Points: 203 # Comments: 194"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49928152",
+      "title": "Butterflies use optical illusions to dodge predators",
+      "slug": "2026-10-01-butterflies-use-optical-illusions-to-dodge-predators.html",
+      "path": "posts/2026-10-01-butterflies-use-optical-illusions-to-dodge-predators.html",
+      "date_iso": "2026-10-01T23:15:24+00:00",
+      "source": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators",
+      "summary": "Article URL: https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators Comments URL: https://news.ycombinator.com/item?id=49928152 Points: 64 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49928121",
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "slug": "2026-10-01-several-vulnerabilities-have-been-discovered-in-the-linux-kernel.html",
+      "path": "posts/2026-10-01-several-vulnerabilities-have-been-discovered-in-the-linux-kernel.html",
+      "date_iso": "2026-10-01T23:10:44+00:00",
+      "source": "https://lwn.net/Articles/1097401/",
+      "summary": "Article URL: https://lwn.net/Articles/1097401/ Comments URL: https://news.ycombinator.com/item?id=49928121 Points: 398 # Comments: 288"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49927760",
+      "title": "Frog and Toad and the Increasingly Capable Machines",
+      "slug": "2026-10-01-frog-and-toad-and-the-increasingly-capable-machines.html",
+      "path": "posts/2026-10-01-frog-and-toad-and-the-increasingly-capable-machines.html",
+      "date_iso": "2026-10-01T22:23:38+00:00",
+      "source": "https://www.frogandtoad.ai/",
+      "summary": "Article URL: https://www.frogandtoad.ai/ Comments URL: https://news.ycombinator.com/item?id=49927760 Points: 268 # Comments: 61"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49927212",
+      "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+      "slug": "2026-10-01-css-bed-classless-css-themes-to-use-as-starting-points-in-web-development.html",
+      "path": "posts/2026-10-01-css-bed-classless-css-themes-to-use-as-starting-points-in-web-development.html",
+      "date_iso": "2026-10-01T21:21:32+00:00",
+      "source": "https://www.cssbed.com",
+      "summary": "Article URL: https://www.cssbed.com Comments URL: https://news.ycombinator.com/item?id=49927212 Points: 127 # Comments: 35"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49926917",
+      "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
+      "slug": "2026-10-01-using-opus-5-5-to-discover-a-new-eyewitness-record-of-the-dodo.html",
+      "path": "posts/2026-10-01-using-opus-5-5-to-discover-a-new-eyewitness-record-of-the-dodo.html",
+      "date_iso": "2026-10-01T20:48:37+00:00",
+      "source": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
+      "summary": "Article URL: https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness Comments URL: https://news.ycombinator.com/item?id=49926917 Points: 177 # Comments: 49"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49926773",
+      "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+      "slug": "2026-10-01-show-hn-janus-go-binary-that-runs-gguf-models-via-vulkan-on-amd-intel-nvidia.html",
+      "path": "posts/2026-10-01-show-hn-janus-go-binary-that-runs-gguf-models-via-vulkan-on-amd-intel-nvidia.html",
+      "date_iso": "2026-10-01T20:36:47+00:00",
+      "source": "https://github.com/Vibra-Ingenn/Janus",
+      "summary": "Article URL: https://github.com/Vibra-Ingenn/Janus Comments URL: https://news.ycombinator.com/item?id=49926773 Points: 82 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49926628",
+      "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+      "slug": "2026-10-01-automatic-transmission-a-data-privacy-study-of-connected-vehicles.html",
+      "path": "posts/2026-10-01-automatic-transmission-a-data-privacy-study-of-connected-vehicles.html",
+      "date_iso": "2026-10-01T20:23:27+00:00",
+      "source": "https://automatictransmission.khoury.northeastern.edu/index.html",
+      "summary": "Article URL: https://automatictransmission.khoury.northeastern.edu/index.html Comments URL: https://news.ycombinator.com/item?id=49926628 Points: 210 # Comments: 180"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49926536",
+      "title": "SvelteKit 3",
+      "slug": "2026-10-01-sveltekit-3.html",
+      "path": "posts/2026-10-01-sveltekit-3.html",
+      "date_iso": "2026-10-01T20:14:23+00:00",
+      "source": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "summary": "Article URL: https://svelte.dev/blog/sveltekit-3-is-here Comments URL: https://news.ycombinator.com/item?id=49926536 Points: 332 # Comments: 135"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49926512",
+      "title": "ArXiv's Updated Rate Limit Policy",
+      "slug": "2026-10-01-arxiv-s-updated-rate-limit-policy.html",
+      "path": "posts/2026-10-01-arxiv-s-updated-rate-limit-policy.html",
+      "date_iso": "2026-10-01T20:12:15+00:00",
+      "source": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
+      "summary": "Article URL: https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/ Comments URL: https://news.ycombinator.com/item?id=49926512 Points: 132 # Comments: 65"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49926069",
+      "title": "Pi 1.0",
+      "slug": "2026-10-01-pi-1-0.html",
+      "path": "posts/2026-10-01-pi-1-0.html",
+      "date_iso": "2026-10-01T19:33:05+00:00",
+      "source": "https://earendil.com/posts/pi-1-0/",
+      "summary": "Related: Pi Durable - https://news.ycombinator.com/item?id=49925969 Comments URL: https://news.ycombinator.com/item?id=49926069 Points: 1457 # Comments: 479"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49925969",
+      "title": "Pi Durable",
+      "slug": "2026-10-01-pi-durable.html",
+      "path": "posts/2026-10-01-pi-durable.html",
+      "date_iso": "2026-10-01T19:24:08+00:00",
+      "source": "https://earendil.com/posts/pi-durable/",
+      "summary": "Related: Pi 1.0 - https://news.ycombinator.com/item?id=49926069 - Oct 2026 (184 comments) Comments URL: https://news.ycombinator.com/item?id=49925969 Points: 423 # Comments: 56"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/01/technology/amazon-slow-deliveries-dc.html",
+      "title": "Amazon Settles Lawsuit Over Claims of Slow Deliveries to Low-Income Areas",
+      "slug": "2026-10-01-amazon-settles-lawsuit-over-claims-of-slow-deliveries-to-low-income-areas.html",
+      "path": "posts/2026-10-01-amazon-settles-lawsuit-over-claims-of-slow-deliveries-to-low-income-areas.html",
+      "date_iso": "2026-10-01T19:17:52+00:00",
+      "source": "https://www.nytimes.com/2026/10/01/technology/amazon-slow-deliveries-dc.html",
+      "summary": "The District of Columbia’s attorney general said in a 2024 lawsuit that Amazon had excluded two ZIP codes from its in-house Prime delivery services."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49925742",
+      "title": "Oxygen-deprived underwater zones may not be “dead zones” but clue to early life",
+      "slug": "2026-10-01-oxygen-deprived-underwater-zones-may-not-be-dead-zones-but-clue-to-early-life.html",
+      "path": "posts/2026-10-01-oxygen-deprived-underwater-zones-may-not-be-dead-zones-but-clue-to-early-life.html",
+      "date_iso": "2026-10-01T19:03:42+00:00",
+      "source": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
+      "summary": "Article URL: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570 Comments URL: https://news.ycombinator.com/item?id=49925742 Points: 113 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49924618",
+      "title": "Vote on which of Hacker News' challenges for AI have been met",
+      "slug": "2026-10-01-vote-on-which-of-hacker-news-challenges-for-ai-have-been-met.html",
+      "path": "posts/2026-10-01-vote-on-which-of-hacker-news-challenges-for-ai-have-been-met.html",
+      "date_iso": "2026-10-01T17:32:43+00:00",
+      "source": "https://stoppels.ch/goalposts/",
+      "summary": "Article URL: https://stoppels.ch/goalposts/ Comments URL: https://news.ycombinator.com/item?id=49924618 Points: 170 # Comments: 198"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49924179",
+      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+      "slug": "2026-10-01-git-3-0-s-upcoming-sha-256-default-will-be-a-costly-mistake.html",
+      "path": "posts/2026-10-01-git-3-0-s-upcoming-sha-256-default-will-be-a-costly-mistake.html",
+      "date_iso": "2026-10-01T16:57:03+00:00",
+      "source": "https://blog.gitbutler.com/git-3-sha-256",
+      "summary": "Article URL: https://blog.gitbutler.com/git-3-sha-256 Comments URL: https://news.ycombinator.com/item?id=49924179 Points: 436 # Comments: 411"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49923692",
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "slug": "2026-10-01-clef-open-weight-decision-models-and-new-rl-fine-tuning-platform.html",
+      "path": "posts/2026-10-01-clef-open-weight-decision-models-and-new-rl-fine-tuning-platform.html",
+      "date_iso": "2026-10-01T16:18:57+00:00",
+      "source": "https://blog.cloudflare.com/clef-decision-models/",
+      "summary": "Article URL: https://blog.cloudflare.com/clef-decision-models/ Comments URL: https://news.ycombinator.com/item?id=49923692 Points: 549 # Comments: 195"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49923466",
+      "title": "RIP, vector database",
+      "slug": "2026-10-01-rip-vector-database.html",
+      "path": "posts/2026-10-01-rip-vector-database.html",
+      "date_iso": "2026-10-01T16:01:56+00:00",
+      "source": "https://turbopuffer.com/blog/rip-vector-database",
+      "summary": "Article URL: https://turbopuffer.com/blog/rip-vector-database Comments URL: https://news.ycombinator.com/item?id=49923466 Points: 347 # Comments: 98"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49921523",
       "title": "Navy Sailor Dies by Suicide After Deployment Keeps Getting Extended",
       "slug": "2026-10-01-navy-sailor-dies-by-suicide-after-deployment-keeps-getting-extended.html",
@@ -62,6 +305,15 @@
       "date_iso": "2026-10-01T12:44:38+00:00",
       "source": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
       "summary": "Article URL: https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html Comments URL: https://news.ycombinator.com/item?id=49920896 Points: 33 # Comments: 15"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/01/business/changpeng-zhao-binance.html",
+      "title": "Inside Binance Founder Changpeng Zhao’s Life After Prison",
+      "slug": "2026-10-01-inside-binance-founder-changpeng-zhao-s-life-after-prison.html",
+      "path": "posts/2026-10-01-inside-binance-founder-changpeng-zhao-s-life-after-prison.html",
+      "date_iso": "2026-10-01T11:55:56+00:00",
+      "source": "https://www.nytimes.com/2026/10/01/business/changpeng-zhao-binance.html",
+      "summary": "Changpeng Zhao, jailed in the United States for a financial crime and pardoned by President Trump, is now living a gilded life in the United Arab Emirates."
     },
     {
       "id": "https://news.ycombinator.com/item?id=49920234",
