@@ -1,6 +1,159 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49943524",
+      "title": "Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)",
+      "slug": "2026-10-03-great-question-yc-w21-is-hiring-product-engineers-in-canada-remote.html",
+      "path": "posts/2026-10-03-great-question-yc-w21-is-hiring-product-engineers-in-canada-remote.html",
+      "date_iso": "2026-10-03T12:02:10+00:00",
+      "source": "https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack",
+      "summary": "Article URL: https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack Comments URL: https://news.ycombinator.com/item?id=49943524 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49942818",
+      "title": "GitHub's new dashboard experience now the default",
+      "slug": "2026-10-03-github-s-new-dashboard-experience-now-the-default.html",
+      "path": "posts/2026-10-03-github-s-new-dashboard-experience-now-the-default.html",
+      "date_iso": "2026-10-03T09:59:01+00:00",
+      "source": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/",
+      "summary": "Article URL: https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/ Comments URL: https://news.ycombinator.com/item?id=49942818 Points: 32 # Comments: 37"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/03/arts/music/human-songwriting-ai-songwriting.html",
+      "title": "An A.I. Songwriting Experiment: Humans Against the Machine",
+      "slug": "2026-10-03-an-a-i-songwriting-experiment-humans-against-the-machine.html",
+      "path": "posts/2026-10-03-an-a-i-songwriting-experiment-humans-against-the-machine.html",
+      "date_iso": "2026-10-03T09:00:28+00:00",
+      "source": "https://www.nytimes.com/2026/10/03/arts/music/human-songwriting-ai-songwriting.html",
+      "summary": "Five humans convened for a weekend to create new music from scratch. Could they do better than A.I.? Could you even tell the difference?"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49942434",
+      "title": "Show HN: Offrun – manage every coding agent from one workspace",
+      "slug": "2026-10-03-show-hn-offrun-manage-every-coding-agent-from-one-workspace.html",
+      "path": "posts/2026-10-03-show-hn-offrun-manage-every-coding-agent-from-one-workspace.html",
+      "date_iso": "2026-10-03T08:40:17+00:00",
+      "source": "https://offrun.dev/",
+      "summary": "Run Claude Code, Codex, AGY, and Grok Build side by side. See who is working, who needs you, and what every account has left. Comments URL: https://news.ycombinator.com/item?id=49942434 Points: 6 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49941447",
+      "title": "An Update on Orion for Linux and Windows",
+      "slug": "2026-10-03-an-update-on-orion-for-linux-and-windows.html",
+      "path": "posts/2026-10-03-an-update-on-orion-for-linux-and-windows.html",
+      "date_iso": "2026-10-03T04:53:57+00:00",
+      "source": "https://blog.kagi.com/update-orion-linux-windows",
+      "summary": "Article URL: https://blog.kagi.com/update-orion-linux-windows Comments URL: https://news.ycombinator.com/item?id=49941447 Points: 75 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49941114",
+      "title": "Extra Big Ass Intelligence",
+      "slug": "2026-10-03-extra-big-ass-intelligence.html",
+      "path": "posts/2026-10-03-extra-big-ass-intelligence.html",
+      "date_iso": "2026-10-03T03:19:10+00:00",
+      "source": "https://www.extrabigassintelligence.com/",
+      "summary": "Article URL: https://www.extrabigassintelligence.com/ Comments URL: https://news.ycombinator.com/item?id=49941114 Points: 321 # Comments: 72"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49941091",
+      "title": "Cloudflare OHTTP gateway",
+      "slug": "2026-10-03-cloudflare-ohttp-gateway.html",
+      "path": "posts/2026-10-03-cloudflare-ohttp-gateway.html",
+      "date_iso": "2026-10-03T03:15:05+00:00",
+      "source": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+      "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/ Comments URL: https://news.ycombinator.com/item?id=49941091 Points: 100 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49940394",
+      "title": "Newgrounds.com – A community of games, music, and art",
+      "slug": "2026-10-03-newgrounds-com-a-community-of-games-music-and-art.html",
+      "path": "posts/2026-10-03-newgrounds-com-a-community-of-games-music-and-art.html",
+      "date_iso": "2026-10-03T00:55:25+00:00",
+      "source": "https://www.newgrounds.com/",
+      "summary": "Article URL: https://www.newgrounds.com/ Comments URL: https://news.ycombinator.com/item?id=49940394 Points: 269 # Comments: 74"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49937631",
+      "title": "Updates to Full Disk Access in macOS",
+      "slug": "2026-10-02-updates-to-full-disk-access-in-macos.html",
+      "path": "posts/2026-10-02-updates-to-full-disk-access-in-macos.html",
+      "date_iso": "2026-10-02T19:37:01+00:00",
+      "source": "https://developer.apple.com/news/?id=p6zjojqw",
+      "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw Comments URL: https://news.ycombinator.com/item?id=49937631 Points: 217 # Comments: 145"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49937540",
+      "title": "Make Tmux the OS",
+      "slug": "2026-10-02-make-tmux-the-os.html",
+      "path": "posts/2026-10-02-make-tmux-the-os.html",
+      "date_iso": "2026-10-02T19:29:07+00:00",
+      "source": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
+      "summary": "Article URL: https://matduggan.com/what-does-my-dream-os-ui-look-like/ Comments URL: https://news.ycombinator.com/item?id=49937540 Points: 69 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49937504",
+      "title": "Muse Gadgets",
+      "slug": "2026-10-02-muse-gadgets.html",
+      "path": "posts/2026-10-02-muse-gadgets.html",
+      "date_iso": "2026-10-02T19:26:54+00:00",
+      "source": "https://gadgets.muse.ai",
+      "summary": "Article URL: https://gadgets.muse.ai Comments URL: https://news.ycombinator.com/item?id=49937504 Points: 205 # Comments: 92"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49937276",
+      "title": "Apple Pass Designer",
+      "slug": "2026-10-02-apple-pass-designer.html",
+      "path": "posts/2026-10-02-apple-pass-designer.html",
+      "date_iso": "2026-10-02T19:06:56+00:00",
+      "source": "https://developer.apple.com/pass-designer/",
+      "summary": "Article URL: https://developer.apple.com/pass-designer/ Comments URL: https://news.ycombinator.com/item?id=49937276 Points: 452 # Comments: 277"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49937146",
+      "title": "The Nintendo 64 Partner-N64 Development Kit",
+      "slug": "2026-10-02-the-nintendo-64-partner-n64-development-kit.html",
+      "path": "posts/2026-10-02-the-nintendo-64-partner-n64-development-kit.html",
+      "date_iso": "2026-10-02T18:53:34+00:00",
+      "source": "https://www.behindthecode.ca/partner-n64pc-dev-kit/",
+      "summary": "https://archive.is/WCnLA Comments URL: https://news.ycombinator.com/item?id=49937146 Points: 49 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49936575",
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "slug": "2026-10-02-from-the-creator-of-redis-run-llm-locally-with-ds4.html",
+      "path": "posts/2026-10-02-from-the-creator-of-redis-run-llm-locally-with-ds4.html",
+      "date_iso": "2026-10-02T18:01:16+00:00",
+      "source": "https://dwarfstar.sh/",
+      "summary": "Article URL: https://dwarfstar.sh/ Comments URL: https://news.ycombinator.com/item?id=49936575 Points: 269 # Comments: 69"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49934620",
+      "title": "One month coding with GLM 5.3 Flash",
+      "slug": "2026-10-02-one-month-coding-with-glm-5-3-flash.html",
+      "path": "posts/2026-10-02-one-month-coding-with-glm-5-3-flash.html",
+      "date_iso": "2026-10-02T15:29:15+00:00",
+      "source": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
+      "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/ Comments URL: https://news.ycombinator.com/item?id=49934620 Points: 170 # Comments: 132"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49933869",
+      "title": "The Forgetful CPU (Linux on M4)",
+      "slug": "2026-10-02-the-forgetful-cpu-linux-on-m4.html",
+      "path": "posts/2026-10-02-the-forgetful-cpu-linux-on-m4.html",
+      "date_iso": "2026-10-02T14:22:12+00:00",
+      "source": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "summary": "Article URL: https://yuka.dev/blog-2026-10-02-linux-m4.html Comments URL: https://news.ycombinator.com/item?id=49933869 Points: 235 # Comments: 155"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49933740",
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "slug": "2026-10-02-with-most-information-hidden-the-game-stratego-had-stumped-ai-until-now.html",
+      "path": "posts/2026-10-02-with-most-information-hidden-the-game-stratego-had-stumped-ai-until-now.html",
+      "date_iso": "2026-10-02T14:11:24+00:00",
+      "source": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "summary": "https://www.nature.com/articles/s41586-026-11036-y https://arxiv.org/abs/2511.07312 Comments URL: https://news.ycombinator.com/item?id=49933740 Points: 226 # Comments: 112"
+    },
+    {
       "id": "https://www.nytimes.com/2026/10/02/business/auto-sales-pickup-trucks-suvs.html",
       "title": "As Gas Prices Rose, Sales of Larger Vehicles Slid",
       "slug": "2026-10-02-as-gas-prices-rose-sales-of-larger-vehicles-slid.html",
@@ -8,6 +161,24 @@
       "date_iso": "2026-10-02T13:22:04+00:00",
       "source": "https://www.nytimes.com/2026/10/02/business/auto-sales-pickup-trucks-suvs.html",
       "summary": "Gas was nearly $5 per gallon in Detroit last month."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49933235",
+      "title": "The Legend of von Neumann (1973) [pdf]",
+      "slug": "2026-10-02-the-legend-of-von-neumann-1973-pdf.html",
+      "path": "posts/2026-10-02-the-legend-of-von-neumann-1973-pdf.html",
+      "date_iso": "2026-10-02T13:18:32+00:00",
+      "source": "https://gwern.net/doc/math/1973-halmos.pdf",
+      "summary": "Article URL: https://gwern.net/doc/math/1973-halmos.pdf Comments URL: https://news.ycombinator.com/item?id=49933235 Points: 290 # Comments: 156"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49933230",
+      "title": "Venice’s failed war against Constantinople led to the first bond market",
+      "slug": "2026-10-02-venice-s-failed-war-against-constantinople-led-to-the-first-bond-market.html",
+      "path": "posts/2026-10-02-venice-s-failed-war-against-constantinople-led-to-the-first-bond-market.html",
+      "date_iso": "2026-10-02T13:17:47+00:00",
+      "source": "https://bigthink.com/books/a-fabulous-debt/",
+      "summary": "Article URL: https://bigthink.com/books/a-fabulous-debt/ Comments URL: https://news.ycombinator.com/item?id=49933230 Points: 132 # Comments: 39"
     },
     {
       "id": "https://www.nytimes.com/2026/10/02/technology/amazon-data-centers-funding.html",
@@ -19,6 +190,15 @@
       "summary": "A data center owned by Amazon in Ashburn, Va."
     },
     {
+      "id": "https://news.ycombinator.com/item?id=49932147",
+      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+      "slug": "2026-10-02-a-12-year-sequence-of-telescope-images-of-a-star-and-four-planets-orbiting.html",
+      "path": "posts/2026-10-02-a-12-year-sequence-of-telescope-images-of-a-star-and-four-planets-orbiting.html",
+      "date_iso": "2026-10-02T11:07:17+00:00",
+      "source": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+      "summary": "Article URL: https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f Comments URL: https://news.ycombinator.com/item?id=49932147 Points: 307 # Comments: 58"
+    },
+    {
       "id": "https://www.nytimes.com/2026/10/02/podcasts/hardfork-regulation-agents-muse.html",
       "title": "A.I. Agents: Cute, Cuddly and Maybe Catastrophically Dangerous?",
       "slug": "2026-10-02-a-i-agents-cute-cuddly-and-maybe-catastrophically-dangerous.html",
@@ -26,6 +206,15 @@
       "date_iso": "2026-10-02T11:00:03+00:00",
       "source": "https://www.nytimes.com/2026/10/02/podcasts/hardfork-regulation-agents-muse.html",
       "summary": "“It’s going to be gnarly for a little while.”"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49931725",
+      "title": "Scientists invent underwater umbrellas to protect coral reefs",
+      "slug": "2026-10-02-scientists-invent-underwater-umbrellas-to-protect-coral-reefs.html",
+      "path": "posts/2026-10-02-scientists-invent-underwater-umbrellas-to-protect-coral-reefs.html",
+      "date_iso": "2026-10-02T09:57:02+00:00",
+      "source": "https://gizmodo.com/scientists-invent-underwater-umbrellas-to-protect-coral-reefs-and-it-appears-to-be-working-2000819444",
+      "summary": "https://www.frontiersin.org/journals/marine-science/articles... Comments URL: https://news.ycombinator.com/item?id=49931725 Points: 12 # Comments: 4"
     },
     {
       "id": "https://www.nytimes.com/2026/10/01/world/europe/ai-garbo-ad-sweden-skf.html",
