@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49953116",
+      "title": "Rejection Sensitivity in Gifted and Twice-Exceptional Children",
+      "slug": "2026-10-04-rejection-sensitivity-in-gifted-and-twice-exceptional-children.html",
+      "path": "posts/2026-10-04-rejection-sensitivity-in-gifted-and-twice-exceptional-children.html",
+      "date_iso": "2026-10-04T11:58:47+00:00",
+      "source": "https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and",
+      "summary": "Article URL: https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and Comments URL: https://news.ycombinator.com/item?id=49953116 Points: 11 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49952111",
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "slug": "2026-10-04-show-hn-ai-search-for-every-photo-and-every-frame-of-video-on-macos.html",
+      "path": "posts/2026-10-04-show-hn-ai-search-for-every-photo-and-every-frame-of-video-on-macos.html",
+      "date_iso": "2026-10-04T09:24:52+00:00",
+      "source": "https://github.com/allenv0/SCM",
+      "summary": "Article URL: https://github.com/allenv0/SCM Comments URL: https://news.ycombinator.com/item?id=49952111 Points: 13 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49952029",
+      "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
+      "slug": "2026-10-04-vghf-digital-archive-passes-5000-magazines-here-s-what-s-next.html",
+      "path": "posts/2026-10-04-vghf-digital-archive-passes-5000-magazines-here-s-what-s-next.html",
+      "date_iso": "2026-10-04T09:07:11+00:00",
+      "source": "https://gamehistory.org/5k-magazines/",
+      "summary": "Article URL: https://gamehistory.org/5k-magazines/ Comments URL: https://news.ycombinator.com/item?id=49952029 Points: 43 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49951881",
+      "title": "In Ukraine, distributed renewables foil Russia's assaults",
+      "slug": "2026-10-04-in-ukraine-distributed-renewables-foil-russia-s-assaults.html",
+      "path": "posts/2026-10-04-in-ukraine-distributed-renewables-foil-russia-s-assaults.html",
+      "date_iso": "2026-10-04T08:39:58+00:00",
+      "source": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
+      "summary": "Article URL: https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/ Comments URL: https://news.ycombinator.com/item?id=49951881 Points: 121 # Comments: 101"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49951218",
+      "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
+      "slug": "2026-10-04-emitting-metadata-early-makes-building-checking-rust-up-to-twice-as-fast.html",
+      "path": "posts/2026-10-04-emitting-metadata-early-makes-building-checking-rust-up-to-twice-as-fast.html",
+      "date_iso": "2026-10-04T06:26:57+00:00",
+      "source": "https://github.com/PowderworksCode/headstart",
+      "summary": "Article URL: https://github.com/PowderworksCode/headstart Comments URL: https://news.ycombinator.com/item?id=49951218 Points: 22 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49950554",
+      "title": "Why don't more developers “use the platform”?",
+      "slug": "2026-10-04-why-don-t-more-developers-use-the-platform.html",
+      "path": "posts/2026-10-04-why-don-t-more-developers-use-the-platform.html",
+      "date_iso": "2026-10-04T04:10:47+00:00",
+      "source": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+      "summary": "Article URL: https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/ Comments URL: https://news.ycombinator.com/item?id=49950554 Points: 174 # Comments: 150"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49950052",
+      "title": "Religious scholars met with Anthropic",
+      "slug": "2026-10-04-religious-scholars-met-with-anthropic.html",
+      "path": "posts/2026-10-04-religious-scholars-met-with-anthropic.html",
+      "date_iso": "2026-10-04T02:34:22+00:00",
+      "source": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "summary": "https://archive.is/y8FW0 Comments URL: https://news.ycombinator.com/item?id=49950052 Points: 98 # Comments: 231"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49949588",
+      "title": "We're working on a new RuneScape MMO",
+      "slug": "2026-10-04-we-re-working-on-a-new-runescape-mmo.html",
+      "path": "posts/2026-10-04-we-re-working-on-a-new-runescape-mmo.html",
+      "date_iso": "2026-10-04T01:12:22+00:00",
+      "source": "https://play.runescape.com/4",
+      "summary": "Article URL: https://play.runescape.com/4 Comments URL: https://news.ycombinator.com/item?id=49949588 Points: 95 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49949438",
+      "title": "Tell HN: Bob Cringely has died",
+      "slug": "2026-10-04-tell-hn-bob-cringely-has-died.html",
+      "path": "posts/2026-10-04-tell-hn-bob-cringely-has-died.html",
+      "date_iso": "2026-10-04T00:50:52+00:00",
+      "source": "https://news.ycombinator.com/item?id=49949438",
+      "summary": "I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who's real name was Mark Stevens, was an early employee of Apple and was best known for his PBS documentaries, especially \"Triumph of the Nerds\". He will be missed. Comments…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49949235",
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "slug": "2026-10-04-we-re-going-to-need-default-hard-budget-caps-on-pretty-much-everything.html",
+      "path": "posts/2026-10-04-we-re-going-to-need-default-hard-budget-caps-on-pretty-much-everything.html",
+      "date_iso": "2026-10-04T00:20:16+00:00",
+      "source": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "summary": "Article URL: https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/ Comments URL: https://news.ycombinator.com/item?id=49949235 Points: 485 # Comments: 244"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49947631",
+      "title": "Reasons I didn't become an EMT, ranked",
+      "slug": "2026-10-03-reasons-i-didn-t-become-an-emt-ranked.html",
+      "path": "posts/2026-10-03-reasons-i-didn-t-become-an-emt-ranked.html",
+      "date_iso": "2026-10-03T20:49:15+00:00",
+      "source": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
+      "summary": "Article URL: https://ben.stolovitz.com/posts/reasons-not-emt-ranked/ Comments URL: https://news.ycombinator.com/item?id=49947631 Points: 172 # Comments: 79"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49947472",
+      "title": "Surely you have ultra-wideband radios on your bins too?",
+      "slug": "2026-10-03-surely-you-have-ultra-wideband-radios-on-your-bins-too.html",
+      "path": "posts/2026-10-03-surely-you-have-ultra-wideband-radios-on-your-bins-too.html",
+      "date_iso": "2026-10-03T20:27:44+00:00",
+      "source": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
+      "summary": "Article URL: https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/ Comments URL: https://news.ycombinator.com/item?id=49947472 Points: 94 # Comments: 46"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49947051",
+      "title": "We want you to build the next Git platform on Cloudflare",
+      "slug": "2026-10-03-we-want-you-to-build-the-next-git-platform-on-cloudflare.html",
+      "path": "posts/2026-10-03-we-want-you-to-build-the-next-git-platform-on-cloudflare.html",
+      "date_iso": "2026-10-03T19:33:16+00:00",
+      "source": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+      "summary": "Article URL: https://blog.cloudflare.com/next-git-platform-on-cloudflare/ Comments URL: https://news.ycombinator.com/item?id=49947051 Points: 153 # Comments: 132"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49946895",
+      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+      "slug": "2026-10-03-the-work-by-valve-s-timur-krist-f-on-improving-old-amd-gpus-on-linux.html",
+      "path": "posts/2026-10-03-the-work-by-valve-s-timur-krist-f-on-improving-old-amd-gpus-on-linux.html",
+      "date_iso": "2026-10-03T19:14:48+00:00",
+      "source": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+      "summary": "Article URL: https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU Comments URL: https://news.ycombinator.com/item?id=49946895 Points: 333 # Comments: 56"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49946707",
+      "title": "How to hack time, with C2PA",
+      "slug": "2026-10-03-how-to-hack-time-with-c2pa.html",
+      "path": "posts/2026-10-03-how-to-hack-time-with-c2pa.html",
+      "date_iso": "2026-10-03T18:52:06+00:00",
+      "source": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
+      "summary": "Article URL: https://www.da.vidbuchanan.co.uk/blog/hacking-time.html Comments URL: https://news.ycombinator.com/item?id=49946707 Points: 45 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49946526",
+      "title": "What Meta got right with Muse",
+      "slug": "2026-10-03-what-meta-got-right-with-muse.html",
+      "path": "posts/2026-10-03-what-meta-got-right-with-muse.html",
+      "date_iso": "2026-10-03T18:23:48+00:00",
+      "source": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
+      "summary": "Article URL: https://metedata.substack.com/p/what-meta-got-right-with-muse Comments URL: https://news.ycombinator.com/item?id=49946526 Points: 64 # Comments: 87"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49946393",
+      "title": "Hole Punch: Sling your spaceship around gravitational fields",
+      "slug": "2026-10-03-hole-punch-sling-your-spaceship-around-gravitational-fields.html",
+      "path": "posts/2026-10-03-hole-punch-sling-your-spaceship-around-gravitational-fields.html",
+      "date_iso": "2026-10-03T18:06:45+00:00",
+      "source": "https://notoriousbfg.com/hole-punch/",
+      "summary": "Article URL: https://notoriousbfg.com/hole-punch/ Comments URL: https://news.ycombinator.com/item?id=49946393 Points: 308 # Comments: 71"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49946355",
+      "title": "Treachery in the Rodin Museum 3D scan verdict",
+      "slug": "2026-10-03-treachery-in-the-rodin-museum-3d-scan-verdict.html",
+      "path": "posts/2026-10-03-treachery-in-the-rodin-museum-3d-scan-verdict.html",
+      "date_iso": "2026-10-03T18:01:27+00:00",
+      "source": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+      "summary": "Article URL: https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict Comments URL: https://news.ycombinator.com/item?id=49946355 Points: 231 # Comments: 106"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49946228",
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "slug": "2026-10-03-lecun-has-zero-concerns-about-ai-wiping-out-humanity-recent-rogue-incidents.html",
+      "path": "posts/2026-10-03-lecun-has-zero-concerns-about-ai-wiping-out-humanity-recent-rogue-incidents.html",
+      "date_iso": "2026-10-03T17:44:29+00:00",
+      "source": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "summary": "https://archive.ph/TyDPf Comments URL: https://news.ycombinator.com/item?id=49946228 Points: 183 # Comments: 278"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49945933",
+      "title": "Agents don't need memory, they need documentation",
+      "slug": "2026-10-03-agents-don-t-need-memory-they-need-documentation.html",
+      "path": "posts/2026-10-03-agents-don-t-need-memory-they-need-documentation.html",
+      "date_iso": "2026-10-03T17:03:37+00:00",
+      "source": "https://liao.gg/blog/agents-dont-need-memory",
+      "summary": "Article URL: https://liao.gg/blog/agents-dont-need-memory Comments URL: https://news.ycombinator.com/item?id=49945933 Points: 224 # Comments: 127"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49943524",
       "title": "Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)",
       "slug": "2026-10-03-great-question-yc-w21-is-hiring-product-engineers-in-canada-remote.html",
