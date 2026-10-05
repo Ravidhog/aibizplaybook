@@ -1,6 +1,213 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/10/05/science/consciousness-brain-babies.html",
+      "title": "Are Babies Conscious?",
+      "slug": "2026-10-05-are-babies-conscious.html",
+      "path": "posts/2026-10-05-are-babies-conscious.html",
+      "date_iso": "2026-10-05T15:12:12+00:00",
+      "source": "https://www.nytimes.com/2026/10/05/science/consciousness-brain-babies.html",
+      "summary": "By pinpointing when it begins in young humans, scientists hope to better understand what consciousness is, and how it arises, in all of us."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49965856",
+      "title": "Parents upset after CA high school cuts honors classes for 'equity' reasons",
+      "slug": "2026-10-05-parents-upset-after-ca-high-school-cuts-honors-classes-for-equity-reasons.html",
+      "path": "posts/2026-10-05-parents-upset-after-ca-high-school-cuts-honors-classes-for-equity-reasons.html",
+      "date_iso": "2026-10-05T15:08:20+00:00",
+      "source": "https://thenationaldesk.com/news/americas-news-now/parents-upset-after-california-high-school-cuts-honors-classes-for-equity-reasons-san-diego-advanced-patrick-henry-gpa-college-admissions-kids-students-grades",
+      "summary": "Article URL: https://thenationaldesk.com/news/americas-news-now/parents-upset-after-california-high-school-cuts-honors-classes-for-equity-reasons-san-diego-advanced-patrick-henry-gpa-college-admissions-kids-students-grades Comments URL: https://news.ycombinator.com/item?id=49965…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/05/business/energy-environment/tandem-solar-panels-us-china.html",
+      "title": "US Solar Panel Makers Try to Catch China With a Big Leap in Technology",
+      "slug": "2026-10-05-us-solar-panel-makers-try-to-catch-china-with-a-big-leap-in-technology.html",
+      "path": "posts/2026-10-05-us-solar-panel-makers-try-to-catch-china-with-a-big-leap-in-technology.html",
+      "date_iso": "2026-10-05T15:05:39+00:00",
+      "source": "https://www.nytimes.com/2026/10/05/business/energy-environment/tandem-solar-panels-us-china.html",
+      "summary": "Manufacturers say they are close to perfecting a new, more efficient solar panel that could help the United States reclaim ground it lost."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49965308",
+      "title": "Making a GTK application in Haskell, part 1",
+      "slug": "2026-10-05-making-a-gtk-application-in-haskell-part-1.html",
+      "path": "posts/2026-10-05-making-a-gtk-application-in-haskell-part-1.html",
+      "date_iso": "2026-10-05T14:23:47+00:00",
+      "source": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+      "summary": "Article URL: https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/ Comments URL: https://news.ycombinator.com/item?id=49965308 Points: 5 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49964303",
+      "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
+      "slug": "2026-10-05-pixel-11-doesn-t-yet-meet-the-grapheneos-security-standards-and-may-be-skipped.html",
+      "path": "posts/2026-10-05-pixel-11-doesn-t-yet-meet-the-grapheneos-security-standards-and-may-be-skipped.html",
+      "date_iso": "2026-10-05T13:02:25+00:00",
+      "source": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
+      "summary": "Article URL: https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped Comments URL: https://news.ycombinator.com/item?id=49964303 Points: 173 # Comments: 101"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49964265",
+      "title": "Gitframes",
+      "slug": "2026-10-05-gitframes.html",
+      "path": "posts/2026-10-05-gitframes.html",
+      "date_iso": "2026-10-05T12:59:14+00:00",
+      "source": "https://github.com/gatewai-dev/gitframes",
+      "summary": "Article URL: https://github.com/gatewai-dev/gitframes Comments URL: https://news.ycombinator.com/item?id=49964265 Points: 52 # Comments: 26"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html",
+      "title": "The Humanoid Robot Future Has Arrived at a South Korean Park. Sort of.",
+      "slug": "2026-10-05-the-humanoid-robot-future-has-arrived-at-a-south-korean-park-sort-of.html",
+      "path": "posts/2026-10-05-the-humanoid-robot-future-has-arrived-at-a-south-korean-park-sort-of.html",
+      "date_iso": "2026-10-05T12:57:32+00:00",
+      "source": "https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html",
+      "summary": "I went to Galaxy Robot Park in Seoul to see how we might one day live with robots. It was part cutting-edge technology, part theatrics."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49964045",
+      "title": "Tell HN: Uceprotect is extorting website owners",
+      "slug": "2026-10-05-tell-hn-uceprotect-is-extorting-website-owners.html",
+      "path": "posts/2026-10-05-tell-hn-uceprotect-is-extorting-website-owners.html",
+      "date_iso": "2026-10-05T12:35:55+00:00",
+      "source": "https://news.ycombinator.com/item?id=49964045",
+      "summary": "I recently discovered by accident that our website was being blocked by Orange's security filters. After a quick check, I found that our IP address is listed on UCEPROTECT Level 3. The listing is based on the reputation of the entire ASN 14061 (DigitalOcean, US) [1]. In other wo…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49964018",
+      "title": "The Era of Software Quality, or the Era of Ostriches?",
+      "slug": "2026-10-05-the-era-of-software-quality-or-the-era-of-ostriches.html",
+      "path": "posts/2026-10-05-the-era-of-software-quality-or-the-era-of-ostriches.html",
+      "date_iso": "2026-10-05T12:33:15+00:00",
+      "source": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
+      "summary": "Article URL: https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/ Comments URL: https://news.ycombinator.com/item?id=49964018 Points: 41 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49963394",
+      "title": "Show HN: Minigraf – An embedded, bi-temporal graph database in Rust",
+      "slug": "2026-10-05-show-hn-minigraf-an-embedded-bi-temporal-graph-database-in-rust.html",
+      "path": "posts/2026-10-05-show-hn-minigraf-an-embedded-bi-temporal-graph-database-in-rust.html",
+      "date_iso": "2026-10-05T11:18:18+00:00",
+      "source": "https://github.com/project-minigraf/minigraf",
+      "summary": "A successor project to my previous attempt at building a temporal graph database ( https://news.ycombinator.com/item?id=23455516 ). This one builds on its predecessor's concept, but drops the dependency on another database to provide the storage, transaction and query engines. M…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49963385",
+      "title": "Mold Linker Version 3.0.0 Release – Rewritten in Rust",
+      "slug": "2026-10-05-mold-linker-version-3-0-0-release-rewritten-in-rust.html",
+      "path": "posts/2026-10-05-mold-linker-version-3-0-0-release-rewritten-in-rust.html",
+      "date_iso": "2026-10-05T11:17:18+00:00",
+      "source": "https://github.com/rui314/mold/releases/tag/v3.0.0",
+      "summary": "Article URL: https://github.com/rui314/mold/releases/tag/v3.0.0 Comments URL: https://news.ycombinator.com/item?id=49963385 Points: 23 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49963366",
+      "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+      "slug": "2026-10-05-europe-s-new-robotics-unicorn-germany-s-robco-hits-1b-valuation.html",
+      "path": "posts/2026-10-05-europe-s-new-robotics-unicorn-germany-s-robco-hits-1b-valuation.html",
+      "date_iso": "2026-10-05T11:13:51+00:00",
+      "source": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
+      "summary": "Article URL: https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/ Comments URL: https://news.ycombinator.com/item?id=49963366 Points: 254 # Comments: 217"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49963171",
+      "title": "Web Search API",
+      "slug": "2026-10-05-web-search-api.html",
+      "path": "posts/2026-10-05-web-search-api.html",
+      "date_iso": "2026-10-05T10:47:06+00:00",
+      "source": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "summary": "Article URL: https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/ Comments URL: https://news.ycombinator.com/item?id=49963171 Points: 178 # Comments: 95"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49963094",
+      "title": "Press Release: Nobel Prize in Physiology or Medicine 2026",
+      "slug": "2026-10-05-press-release-nobel-prize-in-physiology-or-medicine-2026.html",
+      "path": "posts/2026-10-05-press-release-nobel-prize-in-physiology-or-medicine-2026.html",
+      "date_iso": "2026-10-05T10:35:59+00:00",
+      "source": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
+      "summary": "Article URL: https://www.nobelprize.org/prizes/medicine/2026/press-release/ Comments URL: https://news.ycombinator.com/item?id=49963094 Points: 93 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49962857",
+      "title": "Apple and a Hacker's Future",
+      "slug": "2026-10-05-apple-and-a-hacker-s-future.html",
+      "path": "posts/2026-10-05-apple-and-a-hacker-s-future.html",
+      "date_iso": "2026-10-05T10:05:02+00:00",
+      "source": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+      "summary": "Article URL: https://stratechery.com/2026/apple-and-a-hackers-future/ Comments URL: https://news.ycombinator.com/item?id=49962857 Points: 128 # Comments: 116"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49962012",
+      "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
+      "slug": "2026-10-05-denmark-data-breach-exposes-8-8m-people-s-personal-data.html",
+      "path": "posts/2026-10-05-denmark-data-breach-exposes-8-8m-people-s-personal-data.html",
+      "date_iso": "2026-10-05T08:09:36+00:00",
+      "source": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+      "summary": "Article URL: https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger Comments URL: https://news.ycombinator.com/item?id=49962012 Points: 318 # Comments: 246"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49961861",
+      "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+      "slug": "2026-10-05-huawei-and-qualcomm-announce-broad-patent-license-agreement.html",
+      "path": "posts/2026-10-05-huawei-and-qualcomm-announce-broad-patent-license-agreement.html",
+      "date_iso": "2026-10-05T07:46:10+00:00",
+      "source": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
+      "summary": "Article URL: https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement Comments URL: https://news.ycombinator.com/item?id=49961861 Points: 113 # Comments: 67"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/04/us/manslaughter-conviction-overturned-ai-video-statement.html",
+      "title": "Court Tosses ​​Sentence After A.I. Video of Victim ‘Forgiving’ His Killer Is Played",
+      "slug": "2026-10-04-court-tosses-sentence-after-a-i-video-of-victim-forgiving-his-killer-is-played.html",
+      "path": "posts/2026-10-04-court-tosses-sentence-after-a-i-video-of-victim-forgiving-his-killer-is-played.html",
+      "date_iso": "2026-10-04T21:04:45+00:00",
+      "source": "https://www.nytimes.com/2026/10/04/us/manslaughter-conviction-overturned-ai-video-statement.html",
+      "summary": "Stacey Wales with an enlarged photo of her brother, Christopher Pelkey. She created a video using artificial intelligence to depict her dead brother speaking at the sentencing of his killer."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49957812",
+      "title": "In the wake of Tippett Studios’ closure, a digital archive appears online",
+      "slug": "2026-10-04-in-the-wake-of-tippett-studios-closure-a-digital-archive-appears-online.html",
+      "path": "posts/2026-10-04-in-the-wake-of-tippett-studios-closure-a-digital-archive-appears-online.html",
+      "date_iso": "2026-10-04T21:01:28+00:00",
+      "source": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+      "summary": "https://archive.org/details/tippett-archive/ Comments URL: https://news.ycombinator.com/item?id=49957812 Points: 192 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49957116",
+      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+      "slug": "2026-10-04-turn-off-apple-intelligence-on-macos-27-and-get-its-disk-space-back.html",
+      "path": "posts/2026-10-04-turn-off-apple-intelligence-on-macos-27-and-get-its-disk-space-back.html",
+      "date_iso": "2026-10-04T19:42:25+00:00",
+      "source": "https://github.com/omlahore/RemoveMacAI",
+      "summary": "Article URL: https://github.com/omlahore/RemoveMacAI Comments URL: https://news.ycombinator.com/item?id=49957116 Points: 696 # Comments: 463"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49956681",
+      "title": "A browser-native classic Visual Basic VB6 IDE",
+      "slug": "2026-10-04-a-browser-native-classic-visual-basic-vb6-ide.html",
+      "path": "posts/2026-10-04-a-browser-native-classic-visual-basic-vb6-ide.html",
+      "date_iso": "2026-10-04T18:49:17+00:00",
+      "source": "https://wieslawsoltes.github.io/VB6/",
+      "summary": "Article URL: https://wieslawsoltes.github.io/VB6/ Comments URL: https://news.ycombinator.com/item?id=49956681 Points: 331 # Comments: 107"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49956290",
+      "title": "Mosquitoes Are a Choice",
+      "slug": "2026-10-04-mosquitoes-are-a-choice.html",
+      "path": "posts/2026-10-04-mosquitoes-are-a-choice.html",
+      "date_iso": "2026-10-04T18:06:04+00:00",
+      "source": "https://worksinprogress.co/issue/mosquitoes-are-a-choice/",
+      "summary": "Article URL: https://worksinprogress.co/issue/mosquitoes-are-a-choice/ Comments URL: https://news.ycombinator.com/item?id=49956290 Points: 37 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49953495",
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "slug": "2026-10-04-run-qwen-3-8-flash-next-125b-on-consumer-hardware-rtx-4090-at-100t-s.html",
+      "path": "posts/2026-10-04-run-qwen-3-8-flash-next-125b-on-consumer-hardware-rtx-4090-at-100t-s.html",
+      "date_iso": "2026-10-04T12:51:53+00:00",
+      "source": "https://github.com/Niko1221/Strata",
+      "summary": "Article URL: https://github.com/Niko1221/Strata Comments URL: https://news.ycombinator.com/item?id=49953495 Points: 866 # Comments: 388"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49953116",
       "title": "Rejection Sensitivity in Gifted and Twice-Exceptional Children",
       "slug": "2026-10-04-rejection-sensitivity-in-gifted-and-twice-exceptional-children.html",
@@ -89,6 +296,15 @@
       "date_iso": "2026-10-04T00:20:16+00:00",
       "source": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
       "summary": "Article URL: https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/ Comments URL: https://news.ycombinator.com/item?id=49949235 Points: 485 # Comments: 244"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49948300",
+      "title": "We ported the original Doom to SQL",
+      "slug": "2026-10-03-we-ported-the-original-doom-to-sql.html",
+      "path": "posts/2026-10-03-we-ported-the-original-doom-to-sql.html",
+      "date_iso": "2026-10-03T22:14:00+00:00",
+      "source": "https://cedardb.com/blog/sqldoom/",
+      "summary": "Article URL: https://cedardb.com/blog/sqldoom/ Comments URL: https://news.ycombinator.com/item?id=49948300 Points: 231 # Comments: 38"
     },
     {
       "id": "https://news.ycombinator.com/item?id=49947631",
