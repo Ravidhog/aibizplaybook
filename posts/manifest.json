@@ -1,6 +1,213 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=49992125",
+      "title": "House with 15m underground tunnels for sale for 300k",
+      "slug": "2026-10-07-house-with-15m-underground-tunnels-for-sale-for-300k.html",
+      "path": "posts/2026-10-07-house-with-15m-underground-tunnels-for-sale-for-300k.html",
+      "date_iso": "2026-10-07T12:57:10+00:00",
+      "source": "https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/",
+      "summary": "Article URL: https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/ Comments URL: https://news.ycombinator.com/item?id=49992125 Points: 50 # Comments: 62"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49992057",
+      "title": "Show HN: A walkable 3D art history museum built from Wikipedia",
+      "slug": "2026-10-07-show-hn-a-walkable-3d-art-history-museum-built-from-wikipedia.html",
+      "path": "posts/2026-10-07-show-hn-a-walkable-3d-art-history-museum-built-from-wikipedia.html",
+      "date_iso": "2026-10-07T12:51:08+00:00",
+      "source": "https://artmuseum.artfrompixels.com/",
+      "summary": "From Li Cheng to Banksy Comments URL: https://news.ycombinator.com/item?id=49992057 Points: 10 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49991823",
+      "title": "Google Playground: Create and play custom games",
+      "slug": "2026-10-07-google-playground-create-and-play-custom-games.html",
+      "path": "posts/2026-10-07-google-playground-create-and-play-custom-games.html",
+      "date_iso": "2026-10-07T12:28:36+00:00",
+      "source": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/ Comments URL: https://news.ycombinator.com/item?id=49991823 Points: 32 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49991580",
+      "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
+      "slug": "2026-10-07-write-like-it-s-1866-llms-relearn-telegraphese.html",
+      "path": "posts/2026-10-07-write-like-it-s-1866-llms-relearn-telegraphese.html",
+      "date_iso": "2026-10-07T12:04:36+00:00",
+      "source": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
+      "summary": "Article URL: https://fiveminutesforward.com/post/2026-10-04-telegraph-test/ Comments URL: https://news.ycombinator.com/item?id=49991580 Points: 27 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49991227",
+      "title": "Shipping JPEG XL in Chrome",
+      "slug": "2026-10-07-shipping-jpeg-xl-in-chrome.html",
+      "path": "posts/2026-10-07-shipping-jpeg-xl-in-chrome.html",
+      "date_iso": "2026-10-07T11:25:02+00:00",
+      "source": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+      "summary": "Article URL: https://developer.chrome.com/blog/jpeg-xl-in-chrome Comments URL: https://news.ycombinator.com/item?id=49991227 Points: 184 # Comments: 90"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49991132",
+      "title": "It may soon be possible to create \"mirror life\"",
+      "slug": "2026-10-07-it-may-soon-be-possible-to-create-mirror-life.html",
+      "path": "posts/2026-10-07-it-may-soon-be-possible-to-create-mirror-life.html",
+      "date_iso": "2026-10-07T11:14:38+00:00",
+      "source": "https://www.economist.com/science-and-technology/2026/09/30/it-may-soon-be-possible-to-create-mirror-life",
+      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/09/30/it-may-soon-be-possible-to-create-mirror-life Comments URL: https://news.ycombinator.com/item?id=49991132 Points: 37 # Comments: 50"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49990763",
+      "title": "PS5 Jailbreaks Are Escalating at an Unprecedented Pace",
+      "slug": "2026-10-07-ps5-jailbreaks-are-escalating-at-an-unprecedented-pace.html",
+      "path": "posts/2026-10-07-ps5-jailbreaks-are-escalating-at-an-unprecedented-pace.html",
+      "date_iso": "2026-10-07T10:24:19+00:00",
+      "source": "https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating",
+      "summary": "Article URL: https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating Comments URL: https://news.ycombinator.com/item?id=49990763 Points: 54 # Comments: 49"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49990470",
+      "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+      "slug": "2026-10-07-nobel-prize-in-chemistry-2026-to-henri-b-kagan-and-kenso-soai.html",
+      "path": "posts/2026-10-07-nobel-prize-in-chemistry-2026-to-henri-b-kagan-and-kenso-soai.html",
+      "date_iso": "2026-10-07T09:51:43+00:00",
+      "source": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+      "summary": "Article URL: https://www.nobelprize.org/prizes/chemistry/2026/press-release/ Comments URL: https://news.ycombinator.com/item?id=49990470 Points: 132 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49990224",
+      "title": "A font recreated from photographs of classic Commodore 64 keycaps",
+      "slug": "2026-10-07-a-font-recreated-from-photographs-of-classic-commodore-64-keycaps.html",
+      "path": "posts/2026-10-07-a-font-recreated-from-photographs-of-classic-commodore-64-keycaps.html",
+      "date_iso": "2026-10-07T09:17:55+00:00",
+      "source": "https://github.com/szabadkai/c64-keyboard-font/",
+      "summary": "Article URL: https://github.com/szabadkai/c64-keyboard-font/ Comments URL: https://news.ycombinator.com/item?id=49990224 Points: 193 # Comments: 35"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/07/technology/personaltech/chatgpt-teens-openai.html",
+      "title": "Why My Conversations with OpenAI’s ‘ChatGPT for Teens’ Made Me Very Worried",
+      "slug": "2026-10-07-why-my-conversations-with-openai-s-chatgpt-for-teens-made-me-very-worried.html",
+      "path": "posts/2026-10-07-why-my-conversations-with-openai-s-chatgpt-for-teens-made-me-very-worried.html",
+      "date_iso": "2026-10-07T09:07:18+00:00",
+      "source": "https://www.nytimes.com/2026/10/07/technology/personaltech/chatgpt-teens-openai.html",
+      "summary": "A new mode includes a study tool, but it still does a user’s homework. And a children’s safety nonprofit says the chatbot flunked its tests."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49989684",
+      "title": "Forever Junior: The Skills AI Can't Develop for You",
+      "slug": "2026-10-07-forever-junior-the-skills-ai-can-t-develop-for-you.html",
+      "path": "posts/2026-10-07-forever-junior-the-skills-ai-can-t-develop-for-you.html",
+      "date_iso": "2026-10-07T08:00:06+00:00",
+      "source": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/",
+      "summary": "Article URL: https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/ Comments URL: https://news.ycombinator.com/item?id=49989684 Points: 35 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49988709",
+      "title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
+      "slug": "2026-10-07-shaders-webgpu-components-for-react-vue-svelte-solid-javascript-and-framer.html",
+      "path": "posts/2026-10-07-shaders-webgpu-components-for-react-vue-svelte-solid-javascript-and-framer.html",
+      "date_iso": "2026-10-07T05:38:35+00:00",
+      "source": "https://github.com/shader-effects-inc/shaders",
+      "summary": "Article URL: https://github.com/shader-effects-inc/shaders Comments URL: https://news.ycombinator.com/item?id=49988709 Points: 49 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49987765",
+      "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+      "slug": "2026-10-07-show-hn-nanomuse-an-open-source-ai-agent-for-your-phone-and-computer.html",
+      "path": "posts/2026-10-07-show-hn-nanomuse-an-open-source-ai-agent-for-your-phone-and-computer.html",
+      "date_iso": "2026-10-07T03:30:44+00:00",
+      "source": "https://github.com/nano-muse/nanoMuse",
+      "summary": "Article URL: https://github.com/nano-muse/nanoMuse Comments URL: https://news.ycombinator.com/item?id=49987765 Points: 39 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49987076",
+      "title": "Strands Decider 2B: a small, open-source, decision model",
+      "slug": "2026-10-07-strands-decider-2b-a-small-open-source-decision-model.html",
+      "path": "posts/2026-10-07-strands-decider-2b-a-small-open-source-decision-model.html",
+      "date_iso": "2026-10-07T02:02:11+00:00",
+      "source": "https://strandsagents.com/blog/introducing-strands-decider/",
+      "summary": "Article URL: https://strandsagents.com/blog/introducing-strands-decider/ Comments URL: https://news.ycombinator.com/item?id=49987076 Points: 229 # Comments: 68"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49986862",
+      "title": "ESP32-C3 Adblock",
+      "slug": "2026-10-07-esp32-c3-adblock.html",
+      "path": "posts/2026-10-07-esp32-c3-adblock.html",
+      "date_iso": "2026-10-07T01:39:21+00:00",
+      "source": "https://github.com/M-Abozaid/esp32-c3-adblock",
+      "summary": "Article URL: https://github.com/M-Abozaid/esp32-c3-adblock Comments URL: https://news.ycombinator.com/item?id=49986862 Points: 146 # Comments: 56"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49984923",
+      "title": "Sharing AI progress in mathematics",
+      "slug": "2026-10-06-sharing-ai-progress-in-mathematics.html",
+      "path": "posts/2026-10-06-sharing-ai-progress-in-mathematics.html",
+      "date_iso": "2026-10-06T22:17:21+00:00",
+      "source": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "summary": "https://github.com/openai/math https://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 1055 # Comments: 1080"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49984716",
+      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "slug": "2026-10-06-penguin-mail-open-source-rust-email-client-for-linux-with-ai.html",
+      "path": "posts/2026-10-06-penguin-mail-open-source-rust-email-client-for-linux-with-ai.html",
+      "date_iso": "2026-10-06T21:59:43+00:00",
+      "source": "https://penguin-mail.com/",
+      "summary": "Article URL: https://penguin-mail.com/ Comments URL: https://news.ycombinator.com/item?id=49984716 Points: 218 # Comments: 149"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49984025",
+      "title": "Decisions API is in public beta",
+      "slug": "2026-10-06-decisions-api-is-in-public-beta.html",
+      "path": "posts/2026-10-06-decisions-api-is-in-public-beta.html",
+      "date_iso": "2026-10-06T20:57:25+00:00",
+      "source": "https://developers.openai.com/api/docs/guides/decisions",
+      "summary": "Article URL: https://developers.openai.com/api/docs/guides/decisions Comments URL: https://news.ycombinator.com/item?id=49984025 Points: 354 # Comments: 196"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html",
+      "title": "Energy Firms Try to Squeeze More Power Out of Old Nuclear Plants",
+      "slug": "2026-10-06-energy-firms-try-to-squeeze-more-power-out-of-old-nuclear-plants.html",
+      "path": "posts/2026-10-06-energy-firms-try-to-squeeze-more-power-out-of-old-nuclear-plants.html",
+      "date_iso": "2026-10-06T19:37:09+00:00",
+      "source": "https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html",
+      "summary": "Constellation Energy, the nation’s largest nuclear power plant operator, said it would spend more than $4.3 billion to refurbish 11 reactors at six plants in Illinois, Pennsylvania and New Jersey."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49982498",
+      "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+      "slug": "2026-10-06-tell-hn-github-refuses-to-remove-cracked-copies-of-my-software-after-a-month.html",
+      "path": "posts/2026-10-06-tell-hn-github-refuses-to-remove-cracked-copies-of-my-software-after-a-month.html",
+      "date_iso": "2026-10-06T18:54:01+00:00",
+      "source": "https://news.ycombinator.com/item?id=49982498",
+      "summary": "I am a developer of https://www.photopea.com, a popular photo editor that runs in a web browser. Many people are asking AI models to take the Javascript code from my website, remove all ads from it, and they publish such a \"new product\" on Github for everyone to download. There…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49981905",
+      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+      "slug": "2026-10-06-claude-code-s-suggested-message-feature-i-think-the-real-customer-is-the-model.html",
+      "path": "posts/2026-10-06-claude-code-s-suggested-message-feature-i-think-the-real-customer-is-the-model.html",
+      "date_iso": "2026-10-06T18:00:34+00:00",
+      "source": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+      "summary": "Article URL: https://www.zohaib.cc/blog/smartest-claude-code-feature Comments URL: https://news.ycombinator.com/item?id=49981905 Points: 238 # Comments: 137"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html",
+      "title": "In Race With U.S., China Struggles to Recruit Foreign A.I. Researchers",
+      "slug": "2026-10-06-in-race-with-u-s-china-struggles-to-recruit-foreign-a-i-researchers.html",
+      "path": "posts/2026-10-06-in-race-with-u-s-china-struggles-to-recruit-foreign-a-i-researchers.html",
+      "date_iso": "2026-10-06T17:00:14+00:00",
+      "source": "https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html",
+      "summary": "Chinese A.I. companies like Deepseek and Moonshot have made a name for themselves internationally. But China still struggles to recruit foreign researchers."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=49980715",
+      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+      "slug": "2026-10-06-opentpu-an-open-source-ai-accelerator-developed-by-ai.html",
+      "path": "posts/2026-10-06-opentpu-an-open-source-ai-accelerator-developed-by-ai.html",
+      "date_iso": "2026-10-06T16:23:25+00:00",
+      "source": "https://github.com/FeSens/openTPU",
+      "summary": "Article URL: https://github.com/FeSens/openTPU Comments URL: https://news.ycombinator.com/item?id=49980715 Points: 319 # Comments: 359"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=49978116",
       "title": "Mistral Large 4: \"Le Chonk\"",
       "slug": "2026-10-06-mistral-large-4-le-chonk.html",
