@@ -1,6 +1,240 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/10/09/business/elon-musk-delta-starlink-wifi.html",
+      "title": "Airlines Are Upgrading Wi-Fi. Not All Are Using Elon Musk’s Service.",
+      "slug": "2026-10-09-airlines-are-upgrading-wi-fi-not-all-are-using-elon-musk-s-service.html",
+      "path": "posts/2026-10-09-airlines-are-upgrading-wi-fi-not-all-are-using-elon-musk-s-service.html",
+      "date_iso": "2026-10-09T13:28:00+00:00",
+      "source": "https://www.nytimes.com/2026/10/09/business/elon-musk-delta-starlink-wifi.html",
+      "summary": "Elon Musk’s satellite service has been the provider of choice for many major airlines looking to upgrade to faster internet."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50020014",
+      "title": "Our $445M Series D",
+      "slug": "2026-10-09-our-445m-series-d.html",
+      "path": "posts/2026-10-09-our-445m-series-d.html",
+      "date_iso": "2026-10-09T13:12:47+00:00",
+      "source": "https://oxide.computer/blog/our-445m-series-d",
+      "summary": "Article URL: https://oxide.computer/blog/our-445m-series-d Comments URL: https://news.ycombinator.com/item?id=50020014 Points: 84 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50019911",
+      "title": "Deno Is Joining Cloudflare",
+      "slug": "2026-10-09-deno-is-joining-cloudflare.html",
+      "path": "posts/2026-10-09-deno-is-joining-cloudflare.html",
+      "date_iso": "2026-10-09T13:03:48+00:00",
+      "source": "https://deno.com/blog/cloudflare",
+      "summary": "Article URL: https://deno.com/blog/cloudflare Comments URL: https://news.ycombinator.com/item?id=50019911 Points: 190 # Comments: 85"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50019741",
+      "title": "Study: Exercise increases cancer survival rates",
+      "slug": "2026-10-09-study-exercise-increases-cancer-survival-rates.html",
+      "path": "posts/2026-10-09-study-exercise-increases-cancer-survival-rates.html",
+      "date_iso": "2026-10-09T12:49:41+00:00",
+      "source": "https://www.nejm.org/doi/10.1056/NEJMoa2502760",
+      "summary": "Article URL: https://www.nejm.org/doi/10.1056/NEJMoa2502760 Comments URL: https://news.ycombinator.com/item?id=50019741 Points: 8 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50019535",
+      "title": "Meadows – a small language for stock-and-flow diagrams that run",
+      "slug": "2026-10-09-meadows-a-small-language-for-stock-and-flow-diagrams-that-run.html",
+      "path": "posts/2026-10-09-meadows-a-small-language-for-stock-and-flow-diagrams-that-run.html",
+      "date_iso": "2026-10-09T12:29:40+00:00",
+      "source": "https://lorezzed.github.io/meadows/",
+      "summary": "Article URL: https://lorezzed.github.io/meadows/ Comments URL: https://news.ycombinator.com/item?id=50019535 Points: 7 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50019455",
+      "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
+      "slug": "2026-10-09-iranian-campaign-planted-fake-articles-in-real-u-s-publications-using-chatgpt.html",
+      "path": "posts/2026-10-09-iranian-campaign-planted-fake-articles-in-real-u-s-publications-using-chatgpt.html",
+      "date_iso": "2026-10-09T12:21:24+00:00",
+      "source": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
+      "summary": "Article URL: https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/ Comments URL: https://news.ycombinator.com/item?id=50019455 Points: 44 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50019451",
+      "title": "The Hetzner Cloud network stack – history and technical overview",
+      "slug": "2026-10-09-the-hetzner-cloud-network-stack-history-and-technical-overview.html",
+      "path": "posts/2026-10-09-the-hetzner-cloud-network-stack-history-and-technical-overview.html",
+      "date_iso": "2026-10-09T12:20:55+00:00",
+      "source": "https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/",
+      "summary": "Article URL: https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/ Comments URL: https://news.ycombinator.com/item?id=50019451 Points: 31 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50018817",
+      "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+      "slug": "2026-10-09-let-your-ai-agents-paint-big-arrows-boxes-and-text-on-your-screen.html",
+      "path": "posts/2026-10-09-let-your-ai-agents-paint-big-arrows-boxes-and-text-on-your-screen.html",
+      "date_iso": "2026-10-09T11:03:48+00:00",
+      "source": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 167 # Comments: 65"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/09/podcasts/hardfork-anthropic-ai-morals.html",
+      "title": "Anthropic’s Quest to Give A.I. Morals",
+      "slug": "2026-10-09-anthropic-s-quest-to-give-a-i-morals.html",
+      "path": "posts/2026-10-09-anthropic-s-quest-to-give-a-i-morals.html",
+      "date_iso": "2026-10-09T11:01:21+00:00",
+      "source": "https://www.nytimes.com/2026/10/09/podcasts/hardfork-anthropic-ai-morals.html",
+      "summary": "“For Anthropic, it was part research and part evangelism.”"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50018420",
+      "title": "Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay",
+      "slug": "2026-10-09-nobel-peace-prize-for-2026-to-navanethem-navi-pillay.html",
+      "path": "posts/2026-10-09-nobel-peace-prize-for-2026-to-navanethem-navi-pillay.html",
+      "date_iso": "2026-10-09T10:12:11+00:00",
+      "source": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+      "summary": "Article URL: https://www.nobelprize.org/prizes/peace/2026/press-release/ Comments URL: https://news.ycombinator.com/item?id=50018420 Points: 189 # Comments: 104"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50018350",
+      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+      "slug": "2026-10-09-openai-fires-three-safety-researchers-for-mishandling-research-information.html",
+      "path": "posts/2026-10-09-openai-fires-three-safety-researchers-for-mishandling-research-information.html",
+      "date_iso": "2026-10-09T10:00:26+00:00",
+      "source": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "summary": "Article URL: https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/ Comments URL: https://news.ycombinator.com/item?id=50018350 Points: 99 # Comments: 53"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50018239",
+      "title": "Once: Cache CLI Commands",
+      "slug": "2026-10-09-once-cache-cli-commands.html",
+      "path": "posts/2026-10-09-once-cache-cli-commands.html",
+      "date_iso": "2026-10-09T09:43:06+00:00",
+      "source": "https://github.com/alex0ptr/once",
+      "summary": "Article URL: https://github.com/alex0ptr/once Comments URL: https://news.ycombinator.com/item?id=50018239 Points: 36 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50018088",
+      "title": "I'm in a Meeting",
+      "slug": "2026-10-09-i-m-in-a-meeting.html",
+      "path": "posts/2026-10-09-i-m-in-a-meeting.html",
+      "date_iso": "2026-10-09T09:21:48+00:00",
+      "source": "https://iminafleeting.com/",
+      "summary": "Article URL: https://iminafleeting.com/ Comments URL: https://news.ycombinator.com/item?id=50018088 Points: 184 # Comments: 72"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/09/technology/inside-mark-zuckerbergs-decision-to-pull-the-trigger-on-metas-ai-agent.html",
+      "title": "Inside Mark Zuckerberg’s Decision to Pull the Trigger on Meta’s A.I. Agent",
+      "slug": "2026-10-09-inside-mark-zuckerberg-s-decision-to-pull-the-trigger-on-meta-s-a-i-agent.html",
+      "path": "posts/2026-10-09-inside-mark-zuckerberg-s-decision-to-pull-the-trigger-on-meta-s-a-i-agent.html",
+      "date_iso": "2026-10-09T09:03:46+00:00",
+      "source": "https://www.nytimes.com/2026/10/09/technology/inside-mark-zuckerbergs-decision-to-pull-the-trigger-on-metas-ai-agent.html",
+      "summary": "Mark Zuckerberg, Meta’s chief executive, with various iterations of the Muse avatar."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/09/movies/musk-documentary-alex-gibney.html",
+      "title": "In Alex Gibney’s ‘Musk’, the Answer to the Trillionaire’s Power Is Unsatisfying.",
+      "slug": "2026-10-09-in-alex-gibney-s-musk-the-answer-to-the-trillionaire-s-power-is-unsatisfying.html",
+      "path": "posts/2026-10-09-in-alex-gibney-s-musk-the-answer-to-the-trillionaire-s-power-is-unsatisfying.html",
+      "date_iso": "2026-10-09T09:03:28+00:00",
+      "source": "https://www.nytimes.com/2026/10/09/movies/musk-documentary-alex-gibney.html",
+      "summary": "Alex Gibney’s nearly four-hour documentary is deeply researched. But because the mogul has long been in the spotlight, little is new."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/09/arts/the-social-reckoning-movie-meta-facebook-mark-zuckerberg.html",
+      "title": "What to Know About the Facebook Whistle-Blowing Case Depicted in ‘The Social Reckoning’",
+      "slug": "2026-10-09-what-to-know-about-the-facebook-whistle-blowing-case-depicted-in-the-social-reckoning.html",
+      "path": "posts/2026-10-09-what-to-know-about-the-facebook-whistle-blowing-case-depicted-in-the-social-reckoning.html",
+      "date_iso": "2026-10-09T09:01:00+00:00",
+      "source": "https://www.nytimes.com/2026/10/09/arts/the-social-reckoning-movie-meta-facebook-mark-zuckerberg.html",
+      "summary": "Jeremy Strong as Mark Zuckerberg in a scene from “The Social Reckoning.”"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50016489",
+      "title": "MXC - a sandboxed code execution system",
+      "slug": "2026-10-09-mxc-a-sandboxed-code-execution-system.html",
+      "path": "posts/2026-10-09-mxc-a-sandboxed-code-execution-system.html",
+      "date_iso": "2026-10-09T05:51:29+00:00",
+      "source": "https://github.com/microsoft/mxc",
+      "summary": "Article URL: https://github.com/microsoft/mxc Comments URL: https://news.ycombinator.com/item?id=50016489 Points: 86 # Comments: 47"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50015515",
+      "title": "Keyboard differences between Windows and Macs",
+      "slug": "2026-10-09-keyboard-differences-between-windows-and-macs.html",
+      "path": "posts/2026-10-09-keyboard-differences-between-windows-and-macs.html",
+      "date_iso": "2026-10-09T03:08:05+00:00",
+      "source": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+      "summary": "Article URL: https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/ Comments URL: https://news.ycombinator.com/item?id=50015515 Points: 214 # Comments: 187"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/08/science/space/margaret-hamilton-computer-science.html",
+      "title": "Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code",
+      "slug": "2026-10-09-before-computer-science-became-a-boys-club-margaret-hamilton-wrote-the-code.html",
+      "path": "posts/2026-10-09-before-computer-science-became-a-boys-club-margaret-hamilton-wrote-the-code.html",
+      "date_iso": "2026-10-09T02:09:40+00:00",
+      "source": "https://www.nytimes.com/2026/10/08/science/space/margaret-hamilton-computer-science.html",
+      "summary": "The woman who helped put astronauts on the moon was a software engineer when the field was not prestigious or lucrative."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50013902",
+      "title": "OpenAI, the Partition Principle, and Mathematics",
+      "slug": "2026-10-08-openai-the-partition-principle-and-mathematics.html",
+      "path": "posts/2026-10-08-openai-the-partition-principle-and-mathematics.html",
+      "date_iso": "2026-10-08T23:29:43+00:00",
+      "source": "https://karagila.org/2026/openai-pp/",
+      "summary": "Article URL: https://karagila.org/2026/openai-pp/ Comments URL: https://news.ycombinator.com/item?id=50013902 Points: 150 # Comments: 231"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/08/technology/ai-chatbots-urgent-care.html",
+      "title": "Clinical Trial Indicates A.I. Chatbots Could Aid Urgent Care",
+      "slug": "2026-10-08-clinical-trial-indicates-a-i-chatbots-could-aid-urgent-care.html",
+      "path": "posts/2026-10-08-clinical-trial-indicates-a-i-chatbots-could-aid-urgent-care.html",
+      "date_iso": "2026-10-08T22:48:06+00:00",
+      "source": "https://www.nytimes.com/2026/10/08/technology/ai-chatbots-urgent-care.html",
+      "summary": "After scheduling a visit with the hospital’s urgent care facility, the patients discussed their ailments with a Google chatbot before meeting with their doctors."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50011999",
+      "title": "AI-ready biological data: $1.8B global commitment",
+      "slug": "2026-10-08-ai-ready-biological-data-1-8b-global-commitment.html",
+      "path": "posts/2026-10-08-ai-ready-biological-data-1-8b-global-commitment.html",
+      "date_iso": "2026-10-08T20:46:25+00:00",
+      "source": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+      "summary": "Article URL: https://biohub.org/news/virtual-biology-initiative-expansion/ Comments URL: https://news.ycombinator.com/item?id=50011999 Points: 135 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50010470",
+      "title": "The value of not getting to the point (2015)",
+      "slug": "2026-10-08-the-value-of-not-getting-to-the-point-2015.html",
+      "path": "posts/2026-10-08-the-value-of-not-getting-to-the-point-2015.html",
+      "date_iso": "2026-10-08T19:04:56+00:00",
+      "source": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
+      "summary": "Article URL: https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/ Comments URL: https://news.ycombinator.com/item?id=50010470 Points: 193 # Comments: 68"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50009295",
+      "title": "Theranos.world",
+      "slug": "2026-10-08-theranos-world.html",
+      "path": "posts/2026-10-08-theranos-world.html",
+      "date_iso": "2026-10-08T17:51:49+00:00",
+      "source": "https://www.theranos.world/",
+      "summary": "Article URL: https://www.theranos.world/ Comments URL: https://news.ycombinator.com/item?id=50009295 Points: 492 # Comments: 176"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50008427",
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "slug": "2026-10-08-whistle-speech-to-text-in-16-9-mb.html",
+      "path": "posts/2026-10-08-whistle-speech-to-text-in-16-9-mb.html",
+      "date_iso": "2026-10-08T16:59:39+00:00",
+      "source": "https://cactuscompute.com/blog/whistle",
+      "summary": "Article URL: https://cactuscompute.com/blog/whistle Comments URL: https://news.ycombinator.com/item?id=50008427 Points: 824 # Comments: 167"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50008047",
+      "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
+      "slug": "2026-10-08-show-hn-making-a-flexible-neon-t-shirt-with-led-filaments.html",
+      "path": "posts/2026-10-08-show-hn-making-a-flexible-neon-t-shirt-with-led-filaments.html",
+      "date_iso": "2026-10-08T16:37:24+00:00",
+      "source": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
+      "summary": "Article URL: http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html Comments URL: https://news.ycombinator.com/item?id=50008047 Points: 192 # Comments: 33"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50005527",
       "title": "Beauty in DVD Menus",
       "slug": "2026-10-08-beauty-in-dvd-menus.html",
