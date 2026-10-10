@@ -1,6 +1,168 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=50032064",
+      "title": "LLMs Aren't Inevitable",
+      "slug": "2026-10-10-llms-aren-t-inevitable.html",
+      "path": "posts/2026-10-10-llms-aren-t-inevitable.html",
+      "date_iso": "2026-10-10T12:04:04+00:00",
+      "source": "https://deadsimpletech.com/blog/llms-arent-inevitable",
+      "summary": "Article URL: https://deadsimpletech.com/blog/llms-arent-inevitable Comments URL: https://news.ycombinator.com/item?id=50032064 Points: 22 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50031653",
+      "title": "Apple/macOS silently removed from official Unix registry",
+      "slug": "2026-10-10-apple-macos-silently-removed-from-official-unix-registry.html",
+      "path": "posts/2026-10-10-apple-macos-silently-removed-from-official-unix-registry.html",
+      "date_iso": "2026-10-10T10:57:31+00:00",
+      "source": "https://www.opengroup.org//openbrand/register/",
+      "summary": "Article URL: https://www.opengroup.org//openbrand/register/ Comments URL: https://news.ycombinator.com/item?id=50031653 Points: 63 # Comments: 47"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50031614",
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "slug": "2026-10-10-talorys-a-self-hosted-personal-ai-agent-on-cloudflare-s-free-tier.html",
+      "path": "posts/2026-10-10-talorys-a-self-hosted-personal-ai-agent-on-cloudflare-s-free-tier.html",
+      "date_iso": "2026-10-10T10:52:09+00:00",
+      "source": "https://github.com/rociiu/talorys",
+      "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 58 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50031269",
+      "title": "`123456' password used in Danish CPR data breach",
+      "slug": "2026-10-10-123456-password-used-in-danish-cpr-data-breach.html",
+      "path": "posts/2026-10-10-123456-password-used-in-danish-cpr-data-breach.html",
+      "date_iso": "2026-10-10T09:51:49+00:00",
+      "source": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+      "summary": "Article URL: https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/ Comments URL: https://news.ycombinator.com/item?id=50031269 Points: 187 # Comments: 113"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50029982",
+      "title": "Computers Cannot Make Decisions",
+      "slug": "2026-10-10-computers-cannot-make-decisions.html",
+      "path": "posts/2026-10-10-computers-cannot-make-decisions.html",
+      "date_iso": "2026-10-10T05:47:46+00:00",
+      "source": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
+      "summary": "Article URL: https://wiki.cateat.fish/art:computers_cannot_make_decisions Comments URL: https://news.ycombinator.com/item?id=50029982 Points: 135 # Comments: 108"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50029830",
+      "title": "Food processing influences metabolism and brain activity",
+      "slug": "2026-10-10-food-processing-influences-metabolism-and-brain-activity.html",
+      "path": "posts/2026-10-10-food-processing-influences-metabolism-and-brain-activity.html",
+      "date_iso": "2026-10-10T05:22:30+00:00",
+      "source": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+      "summary": "Article URL: https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html Comments URL: https://news.ycombinator.com/item?id=50029830 Points: 66 # Comments: 54"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50029123",
+      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+      "slug": "2026-10-10-telegram-desktop-vulnerability-allowed-any-user-s-file-to-be-stolen.html",
+      "path": "posts/2026-10-10-telegram-desktop-vulnerability-allowed-any-user-s-file-to-be-stolen.html",
+      "date_iso": "2026-10-10T03:02:47+00:00",
+      "source": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+      "summary": "Article URL: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=50029123 Points: 228 # Comments: 114"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
+      "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
+      "slug": "2026-10-10-anthropic-agents-tried-to-fill-out-visa-forms-on-state-dept-website.html",
+      "path": "posts/2026-10-10-anthropic-agents-tried-to-fill-out-visa-forms-on-state-dept-website.html",
+      "date_iso": "2026-10-10T01:19:55+00:00",
+      "source": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
+      "summary": "Broad Street in Philadelphia near the Police Department’s headquarters, with City Hall in the distance."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50028275",
+      "title": "REA Reverse – Engineer Anything",
+      "slug": "2026-10-10-rea-reverse-engineer-anything.html",
+      "path": "posts/2026-10-10-rea-reverse-engineer-anything.html",
+      "date_iso": "2026-10-10T00:37:07+00:00",
+      "source": "https://rea.tools/",
+      "summary": "Article URL: https://rea.tools/ Comments URL: https://news.ycombinator.com/item?id=50028275 Points: 501 # Comments: 212"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50028027",
+      "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
+      "slug": "2026-10-09-clinical-trial-of-a-prion-disease-drug-candidate-begins-enrolling-participants.html",
+      "path": "posts/2026-10-09-clinical-trial-of-a-prion-disease-drug-candidate-begins-enrolling-participants.html",
+      "date_iso": "2026-10-09T23:53:08+00:00",
+      "source": "https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants",
+      "summary": "Article URL: https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants Comments URL: https://news.ycombinator.com/item?id=50028027 Points: 96 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50027853",
+      "title": "Compiling Rust to readable C with Eurydice",
+      "slug": "2026-10-09-compiling-rust-to-readable-c-with-eurydice.html",
+      "path": "posts/2026-10-09-compiling-rust-to-readable-c-with-eurydice.html",
+      "date_iso": "2026-10-09T23:28:36+00:00",
+      "source": "https://lwn.net/Articles/1055211/",
+      "summary": "Article URL: https://lwn.net/Articles/1055211/ Comments URL: https://news.ycombinator.com/item?id=50027853 Points: 100 # Comments: 30"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50024499",
+      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "slug": "2026-10-09-show-hn-carrier-explode-iphone-pixel-and-galaxy-carrier-settings-decoded.html",
+      "path": "posts/2026-10-09-show-hn-carrier-explode-iphone-pixel-and-galaxy-carrier-settings-decoded.html",
+      "date_iso": "2026-10-09T18:10:55+00:00",
+      "source": "https://carrierexplode.com/",
+      "summary": "Showing off carrier-explode, one of my side projects that continuously archives carrier settings for all major phone brands. carrier-explode also contains decoders and explanations for all the common baseband configurations, etc. There’s still quite a bit of work to be done in c…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50024090",
+      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+      "slug": "2026-10-09-what-mathematicians-should-know-about-the-lean-theorem-prover-reliability-ai.html",
+      "path": "posts/2026-10-09-what-mathematicians-should-know-about-the-lean-theorem-prover-reliability-ai.html",
+      "date_iso": "2026-10-09T17:42:12+00:00",
+      "source": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/ Comments URL: https://news.ycombinator.com/item?id=50024090 Points: 140 # Comments: 35"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50023995",
+      "title": "Scam American companies are using to manipulate ingredient lists",
+      "slug": "2026-10-09-scam-american-companies-are-using-to-manipulate-ingredient-lists.html",
+      "path": "posts/2026-10-09-scam-american-companies-are-using-to-manipulate-ingredient-lists.html",
+      "date_iso": "2026-10-09T17:35:40+00:00",
+      "source": "https://twitter.com/WallStreetApes/status/2108594998656807078",
+      "summary": "Article URL: https://twitter.com/WallStreetApes/status/2108594998656807078 Comments URL: https://news.ycombinator.com/item?id=50023995 Points: 150 # Comments: 162"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50023450",
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "slug": "2026-10-09-typesafe-ai-raises-870m-at-7-5b.html",
+      "path": "posts/2026-10-09-typesafe-ai-raises-870m-at-7-5b.html",
+      "date_iso": "2026-10-09T17:02:31+00:00",
+      "source": "https://typesafe.ai/blog/series-ai",
+      "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 388 # Comments: 309"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50022292",
+      "title": "Triple-A Minesweeper",
+      "slug": "2026-10-09-triple-a-minesweeper.html",
+      "path": "posts/2026-10-09-triple-a-minesweeper.html",
+      "date_iso": "2026-10-09T15:51:05+00:00",
+      "source": "https://minesweeper.mikelacher.com/",
+      "summary": "Article URL: https://minesweeper.mikelacher.com/ Comments URL: https://news.ycombinator.com/item?id=50022292 Points: 1086 # Comments: 213"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50021410",
+      "title": "Can you use autoregressive diffusion to generate market data?",
+      "slug": "2026-10-09-can-you-use-autoregressive-diffusion-to-generate-market-data.html",
+      "path": "posts/2026-10-09-can-you-use-autoregressive-diffusion-to-generate-market-data.html",
+      "date_iso": "2026-10-09T14:56:13+00:00",
+      "source": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+      "summary": "Article URL: https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/ Comments URL: https://news.ycombinator.com/item?id=50021410 Points: 117 # Comments: 38"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50020533",
+      "title": "'Wallace and Gromit,' 90% Alone",
+      "slug": "2026-10-09-wallace-and-gromit-90-alone.html",
+      "path": "posts/2026-10-09-wallace-and-gromit-90-alone.html",
+      "date_iso": "2026-10-09T13:49:31+00:00",
+      "source": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
+      "summary": "Article URL: https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone Comments URL: https://news.ycombinator.com/item?id=50020533 Points: 236 # Comments: 35"
+    },
+    {
       "id": "https://www.nytimes.com/2026/10/09/business/elon-musk-delta-starlink-wifi.html",
       "title": "Airlines Are Upgrading Wi-Fi. Not All Are Using Elon Musk’s Service.",
       "slug": "2026-10-09-airlines-are-upgrading-wi-fi-not-all-are-using-elon-musk-s-service.html",
@@ -62,6 +224,15 @@
       "date_iso": "2026-10-09T12:20:55+00:00",
       "source": "https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/",
       "summary": "Article URL: https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/ Comments URL: https://news.ycombinator.com/item?id=50019451 Points: 31 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50019056",
+      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+      "slug": "2026-10-09-pointing-ai-at-archives-found-a-forgotten-meteorite-lost-rhinos-and-more.html",
+      "path": "posts/2026-10-09-pointing-ai-at-archives-found-a-forgotten-meteorite-lost-rhinos-and-more.html",
+      "date_iso": "2026-10-09T11:36:20+00:00",
+      "source": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+      "summary": "Article URL: https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/ Comments URL: https://news.ycombinator.com/item?id=50019056 Points: 159 # Comments: 80"
     },
     {
       "id": "https://news.ycombinator.com/item?id=50018817",
