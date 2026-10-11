@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=50042942",
+      "title": "How HN: Go-dev-auth zero-dependency authentication library for Go",
+      "slug": "2026-10-11-how-hn-go-dev-auth-zero-dependency-authentication-library-for-go.html",
+      "path": "posts/2026-10-11-how-hn-go-dev-auth-zero-dependency-authentication-library-for-go.html",
+      "date_iso": "2026-10-11T13:06:36+00:00",
+      "source": "https://github.com/go-dev-auth/go-dev-auth",
+      "summary": "Article URL: https://github.com/go-dev-auth/go-dev-auth Comments URL: https://news.ycombinator.com/item?id=50042942 Points: 4 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50042896",
+      "title": "Bot traffic plunged to near 0 following the strike on its Vladimir data center",
+      "slug": "2026-10-11-bot-traffic-plunged-to-near-0-following-the-strike-on-its-vladimir-data-center.html",
+      "path": "posts/2026-10-11-bot-traffic-plunged-to-near-0-following-the-strike-on-its-vladimir-data-center.html",
+      "date_iso": "2026-10-11T13:00:27+00:00",
+      "source": "https://bsky.app/profile/perevaa.bsky.social/post/3mxlm6w2wcs26",
+      "summary": "Article URL: https://bsky.app/profile/perevaa.bsky.social/post/3mxlm6w2wcs26 Comments URL: https://news.ycombinator.com/item?id=50042896 Points: 14 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50042425",
+      "title": "Don't Put Tilde In Your Path",
+      "slug": "2026-10-11-don-t-put-tilde-in-your-path.html",
+      "path": "posts/2026-10-11-don-t-put-tilde-in-your-path.html",
+      "date_iso": "2026-10-11T12:13:13+00:00",
+      "source": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+      "summary": "Article URL: https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/ Comments URL: https://news.ycombinator.com/item?id=50042425 Points: 40 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50042370",
+      "title": "Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests",
+      "slug": "2026-10-11-scandinavia-s-first-farmers-slaughtered-hunter-gatherer-population-dna-suggests.html",
+      "path": "posts/2026-10-11-scandinavia-s-first-farmers-slaughtered-hunter-gatherer-population-dna-suggests.html",
+      "date_iso": "2026-10-11T12:07:22+00:00",
+      "source": "https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html",
+      "summary": "Article URL: https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html Comments URL: https://news.ycombinator.com/item?id=50042370 Points: 35 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50042362",
+      "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+      "slug": "2026-10-11-valen-s-memory-safety-a-new-kind-of-borrow-checking.html",
+      "path": "posts/2026-10-11-valen-s-memory-safety-a-new-kind-of-borrow-checking.html",
+      "date_iso": "2026-10-11T12:06:22+00:00",
+      "source": "https://verdagon.dev/blog/valen-group-borrowing",
+      "summary": "Article URL: https://verdagon.dev/blog/valen-group-borrowing Comments URL: https://news.ycombinator.com/item?id=50042362 Points: 21 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50042330",
+      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "slug": "2026-10-11-weave-yc-w25-is-hiring-ml-ai-product-design-engineers.html",
+      "path": "posts/2026-10-11-weave-yc-w25-is-hiring-ml-ai-product-design-engineers.html",
+      "date_iso": "2026-10-11T12:01:08+00:00",
+      "source": "https://jobs.ashbyhq.com/weave-os",
+      "summary": "Article URL: https://jobs.ashbyhq.com/weave-os Comments URL: https://news.ycombinator.com/item?id=50042330 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50042219",
+      "title": "I paid people to try and follow my README",
+      "slug": "2026-10-11-i-paid-people-to-try-and-follow-my-readme.html",
+      "path": "posts/2026-10-11-i-paid-people-to-try-and-follow-my-readme.html",
+      "date_iso": "2026-10-11T11:47:29+00:00",
+      "source": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+      "summary": "Article URL: https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/ Comments URL: https://news.ycombinator.com/item?id=50042219 Points: 92 # Comments: 57"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50042149",
+      "title": "What driving across Europe costs in tolls, vignettes, bridges and fuel",
+      "slug": "2026-10-11-what-driving-across-europe-costs-in-tolls-vignettes-bridges-and-fuel.html",
+      "path": "posts/2026-10-11-what-driving-across-europe-costs-in-tolls-vignettes-bridges-and-fuel.html",
+      "date_iso": "2026-10-11T11:39:10+00:00",
+      "source": "https://copilot.travel/tolls/europe-2026",
+      "summary": "Article URL: https://copilot.travel/tolls/europe-2026 Comments URL: https://news.ycombinator.com/item?id=50042149 Points: 33 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50041682",
+      "title": "Nitter: Update Oct 10th seeking funding and legal help",
+      "slug": "2026-10-11-nitter-update-oct-10th-seeking-funding-and-legal-help.html",
+      "path": "posts/2026-10-11-nitter-update-oct-10th-seeking-funding-and-legal-help.html",
+      "date_iso": "2026-10-11T10:37:55+00:00",
+      "source": "https://nitter.net",
+      "summary": "Article URL: https://nitter.net Comments URL: https://news.ycombinator.com/item?id=50041682 Points: 192 # Comments: 67"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50041667",
+      "title": "\"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot",
+      "slug": "2026-10-11-robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot.html",
+      "path": "posts/2026-10-11-robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot.html",
+      "date_iso": "2026-10-11T10:34:43+00:00",
+      "source": "https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/",
+      "summary": "Article URL: https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/ Comments URL: https://news.ycombinator.com/item?id=50041667 Points: 32 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50041619",
+      "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
+      "slug": "2026-10-11-sudden-drop-in-cloudflare-bot-traffic-after-strike-on-yandex-datacenter.html",
+      "path": "posts/2026-10-11-sudden-drop-in-cloudflare-bot-traffic-after-strike-on-yandex-datacenter.html",
+      "date_iso": "2026-10-11T10:27:53+00:00",
+      "source": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+      "summary": "Article URL: https://radar.cloudflare.com/bots/as13238?dateRange=7d Comments URL: https://news.ycombinator.com/item?id=50041619 Points: 331 # Comments: 125"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50041540",
+      "title": "IRCv3",
+      "slug": "2026-10-11-ircv3.html",
+      "path": "posts/2026-10-11-ircv3.html",
+      "date_iso": "2026-10-11T10:11:27+00:00",
+      "source": "https://ircv3.net/",
+      "summary": "Article URL: https://ircv3.net/ Comments URL: https://news.ycombinator.com/item?id=50041540 Points: 144 # Comments: 137"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/11/movies/mark-zuckerberg-social-network-reckoning.html",
+      "title": "Three Mark Zuckerbergs, Three Surprisingly Different Men",
+      "slug": "2026-10-11-three-mark-zuckerbergs-three-surprisingly-different-men.html",
+      "path": "posts/2026-10-11-three-mark-zuckerbergs-three-surprisingly-different-men.html",
+      "date_iso": "2026-10-11T09:01:17+00:00",
+      "source": "https://www.nytimes.com/2026/10/11/movies/mark-zuckerberg-social-network-reckoning.html",
+      "summary": "From top, Jesse Eisenberg, Mark Zuckerberg and Jeremy Strong."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50040547",
+      "title": "3rd Yandex Cloud Data Center Was Hit",
+      "slug": "2026-10-11-3rd-yandex-cloud-data-center-was-hit.html",
+      "path": "posts/2026-10-11-3rd-yandex-cloud-data-center-was-hit.html",
+      "date_iso": "2026-10-11T07:34:45+00:00",
+      "source": "https://status.yandex.cloud/en/incidents/2136",
+      "summary": "Article URL: https://status.yandex.cloud/en/incidents/2136 Comments URL: https://news.ycombinator.com/item?id=50040547 Points: 309 # Comments: 376"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50040276",
+      "title": "LineageOS 24.0",
+      "slug": "2026-10-11-lineageos-24-0.html",
+      "path": "posts/2026-10-11-lineageos-24-0.html",
+      "date_iso": "2026-10-11T06:18:59+00:00",
+      "source": "https://lineageos.org/Changelog-32/",
+      "summary": "Article URL: https://lineageos.org/Changelog-32/ Comments URL: https://news.ycombinator.com/item?id=50040276 Points: 206 # Comments: 63"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html",
+      "title": "Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage",
+      "slug": "2026-10-11-justice-dept-is-investigating-tv-networks-over-trump-pool-coverage.html",
+      "path": "posts/2026-10-11-justice-dept-is-investigating-tv-networks-over-trump-pool-coverage.html",
+      "date_iso": "2026-10-11T02:40:52+00:00",
+      "source": "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html",
+      "summary": "The White House briefing room last month."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50038623",
+      "title": "PSPi 6 – Raspberry Pi in a PSP",
+      "slug": "2026-10-11-pspi-6-raspberry-pi-in-a-psp.html",
+      "path": "posts/2026-10-11-pspi-6-raspberry-pi-in-a-psp.html",
+      "date_iso": "2026-10-11T00:45:49+00:00",
+      "source": "https://github.com/othermod/PSPi-Version-6",
+      "summary": "Article URL: https://github.com/othermod/PSPi-Version-6 Comments URL: https://news.ycombinator.com/item?id=50038623 Points: 111 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50037949",
+      "title": "Build your own decision model",
+      "slug": "2026-10-10-build-your-own-decision-model.html",
+      "path": "posts/2026-10-10-build-your-own-decision-model.html",
+      "date_iso": "2026-10-10T22:50:10+00:00",
+      "source": "https://nishtahir.com/build-your-own-decision-model/",
+      "summary": "Article URL: https://nishtahir.com/build-your-own-decision-model/ Comments URL: https://news.ycombinator.com/item?id=50037949 Points: 375 # Comments: 82"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50036864",
+      "title": "A city-building game in which the city would prefer you didn't",
+      "slug": "2026-10-10-a-city-building-game-in-which-the-city-would-prefer-you-didn-t.html",
+      "path": "posts/2026-10-10-a-city-building-game-in-which-the-city-would-prefer-you-didn-t.html",
+      "date_iso": "2026-10-10T20:31:50+00:00",
+      "source": "https://housing.over.pizza/",
+      "summary": "Article URL: https://housing.over.pizza/ Comments URL: https://news.ycombinator.com/item?id=50036864 Points: 410 # Comments: 134"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50034081",
+      "title": "Knuth reward check",
+      "slug": "2026-10-10-knuth-reward-check.html",
+      "path": "posts/2026-10-10-knuth-reward-check.html",
+      "date_iso": "2026-10-10T15:47:01+00:00",
+      "source": "https://www.thomas-huehn.com/knuth-reward-check/",
+      "summary": "Article URL: https://www.thomas-huehn.com/knuth-reward-check/ Comments URL: https://news.ycombinator.com/item?id=50034081 Points: 205 # Comments: 75"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50033300",
+      "title": "Compression and Concatenation on the Web",
+      "slug": "2026-10-10-compression-and-concatenation-on-the-web.html",
+      "path": "posts/2026-10-10-compression-and-concatenation-on-the-web.html",
+      "date_iso": "2026-10-10T14:21:12+00:00",
+      "source": "https://theconsensus.dev/p/2026/10/04/compression-and-concatenation-on-the-web.html?focus=1",
+      "summary": "Article URL: https://theconsensus.dev/p/2026/10/04/compression-and-concatenation-on-the-web.html?focus=1 Comments URL: https://news.ycombinator.com/item?id=50033300 Points: 7 # Comments: 1"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50032064",
       "title": "LLMs Aren't Inevitable",
       "slug": "2026-10-10-llms-aren-t-inevitable.html",
