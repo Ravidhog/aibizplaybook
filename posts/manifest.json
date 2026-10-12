@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=50058507",
+      "title": "GLM-Legal: Advancing Agentic Legal Intelligence",
+      "slug": "2026-10-12-glm-legal-advancing-agentic-legal-intelligence.html",
+      "path": "posts/2026-10-12-glm-legal-advancing-agentic-legal-intelligence.html",
+      "date_iso": "2026-10-12T16:11:45+00:00",
+      "source": "https://z.ai/blog/glm-legal",
+      "summary": "Article URL: https://z.ai/blog/glm-legal Comments URL: https://news.ycombinator.com/item?id=50058507 Points: 9 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50057956",
+      "title": "French supermarkets suffer fridge shutdown after 'unprecedented' cyberattack",
+      "slug": "2026-10-12-french-supermarkets-suffer-fridge-shutdown-after-unprecedented-cyberattack.html",
+      "path": "posts/2026-10-12-french-supermarkets-suffer-fridge-shutdown-after-unprecedented-cyberattack.html",
+      "date_iso": "2026-10-12T15:36:21+00:00",
+      "source": "https://uk.finance.yahoo.com/news/french-supermarket-chains-cyberattack-forced-115141288.html",
+      "summary": "Article URL: https://uk.finance.yahoo.com/news/french-supermarket-chains-cyberattack-forced-115141288.html Comments URL: https://news.ycombinator.com/item?id=50057956 Points: 22 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50057551",
+      "title": "Fridges in French supermarkets hit by cyber attack",
+      "slug": "2026-10-12-fridges-in-french-supermarkets-hit-by-cyber-attack.html",
+      "path": "posts/2026-10-12-fridges-in-french-supermarkets-hit-by-cyber-attack.html",
+      "date_iso": "2026-10-12T15:08:53+00:00",
+      "source": "https://www.bbc.com/news/articles/crq5nzxv9q4yo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/crq5nzxv9q4yo Comments URL: https://news.ycombinator.com/item?id=50057551 Points: 5 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50057278",
+      "title": "Why aren't AI companies being charged for hacking?",
+      "slug": "2026-10-12-why-aren-t-ai-companies-being-charged-for-hacking.html",
+      "path": "posts/2026-10-12-why-aren-t-ai-companies-being-charged-for-hacking.html",
+      "date_iso": "2026-10-12T14:52:37+00:00",
+      "source": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
+      "summary": "Article URL: https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/ Comments URL: https://news.ycombinator.com/item?id=50057278 Points: 238 # Comments: 207"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50057185",
+      "title": "Deep dive into Azure Maia 300 architecture",
+      "slug": "2026-10-12-deep-dive-into-azure-maia-300-architecture.html",
+      "path": "posts/2026-10-12-deep-dive-into-azure-maia-300-architecture.html",
+      "date_iso": "2026-10-12T14:45:44+00:00",
+      "source": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/",
+      "summary": "Article URL: https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/ Comments URL: https://news.ycombinator.com/item?id=50057185 Points: 11 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50057030",
+      "title": "An Unmade Film Shaped Hayao Miyazaki",
+      "slug": "2026-10-12-an-unmade-film-shaped-hayao-miyazaki.html",
+      "path": "posts/2026-10-12-an-unmade-film-shaped-hayao-miyazaki.html",
+      "date_iso": "2026-10-12T14:34:25+00:00",
+      "source": "https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki",
+      "summary": "Article URL: https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki Comments URL: https://news.ycombinator.com/item?id=50057030 Points: 26 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50055654",
+      "title": "AI less regulated than milk, Microsoft president says in warning over safety",
+      "slug": "2026-10-12-ai-less-regulated-than-milk-microsoft-president-says-in-warning-over-safety.html",
+      "path": "posts/2026-10-12-ai-less-regulated-than-milk-microsoft-president-says-in-warning-over-safety.html",
+      "date_iso": "2026-10-12T12:46:52+00:00",
+      "source": "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules Comments URL: https://news.ycombinator.com/item?id=50055654 Points: 28 # Comments: 27"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50055375",
+      "title": "Incident with Actions, Pull Requests and Issues",
+      "slug": "2026-10-12-incident-with-actions-pull-requests-and-issues.html",
+      "path": "posts/2026-10-12-incident-with-actions-pull-requests-and-issues.html",
+      "date_iso": "2026-10-12T12:23:51+00:00",
+      "source": "https://www.githubstatus.com/incidents/93njd414rpbx",
+      "summary": "Article URL: https://www.githubstatus.com/incidents/93njd414rpbx Comments URL: https://news.ycombinator.com/item?id=50055375 Points: 108 # Comments: 93"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50054751",
+      "title": "QGIS bans AI assisted contributions",
+      "slug": "2026-10-12-qgis-bans-ai-assisted-contributions.html",
+      "path": "posts/2026-10-12-qgis-bans-ai-assisted-contributions.html",
+      "date_iso": "2026-10-12T11:22:24+00:00",
+      "source": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+      "summary": "Article URL: https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387 Comments URL: https://news.ycombinator.com/item?id=50054751 Points: 303 # Comments: 324"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50054474",
+      "title": "Living in the Weimar Era of Ruby",
+      "slug": "2026-10-12-living-in-the-weimar-era-of-ruby.html",
+      "path": "posts/2026-10-12-living-in-the-weimar-era-of-ruby.html",
+      "date_iso": "2026-10-12T10:53:41+00:00",
+      "source": "https://blog.julik.nl/2026/10/the-weimar-of-ruby",
+      "summary": "Article URL: https://blog.julik.nl/2026/10/the-weimar-of-ruby Comments URL: https://news.ycombinator.com/item?id=50054474 Points: 34 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50054207",
+      "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
+      "slug": "2026-10-12-deloitte-falsified-documents-to-evade-tax-on-abramovich-s-wealth.html",
+      "path": "posts/2026-10-12-deloitte-falsified-documents-to-evade-tax-on-abramovich-s-wealth.html",
+      "date_iso": "2026-10-12T10:21:27+00:00",
+      "source": "https://www.bbc.com/news/articles/c64g1l5389kvo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c64g1l5389kvo Comments URL: https://news.ycombinator.com/item?id=50054207 Points: 522 # Comments: 176"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/12/technology/universal-basic-income-silicon-valley.html",
+      "title": "Is Universal Basic Income the Answer to A.I.-Fueled Job Losses?",
+      "slug": "2026-10-12-is-universal-basic-income-the-answer-to-a-i-fueled-job-losses.html",
+      "path": "posts/2026-10-12-is-universal-basic-income-the-answer-to-a-i-fueled-job-losses.html",
+      "date_iso": "2026-10-12T09:00:17+00:00",
+      "source": "https://www.nytimes.com/2026/10/12/technology/universal-basic-income-silicon-valley.html",
+      "summary": "For more than a year, The New York Times followed recipients of universal basic income programs, which Elon Musk and other tech leaders have promoted as a solution to A.I.-fueled job losses."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50052638",
+      "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
+      "slug": "2026-10-12-i-found-a-90k-remote-code-execution-vulnerability-in-google.html",
+      "path": "posts/2026-10-12-i-found-a-90k-remote-code-execution-vulnerability-in-google.html",
+      "date_iso": "2026-10-12T07:28:53+00:00",
+      "source": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
+      "summary": "Article URL: https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce Comments URL: https://news.ycombinator.com/item?id=50052638 Points: 45 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50052251",
+      "title": "Show HN: PS2 games statically recompiled to WebAssembly",
+      "slug": "2026-10-12-show-hn-ps2-games-statically-recompiled-to-webassembly.html",
+      "path": "posts/2026-10-12-show-hn-ps2-games-statically-recompiled-to-webassembly.html",
+      "date_iso": "2026-10-12T06:46:53+00:00",
+      "source": "https://github.com/snuri00/ps2-web-recomp",
+      "summary": "Article URL: https://github.com/snuri00/ps2-web-recomp Comments URL: https://news.ycombinator.com/item?id=50052251 Points: 166 # Comments: 89"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50051573",
+      "title": "Type-safe HTML templating in Zig",
+      "slug": "2026-10-12-type-safe-html-templating-in-zig.html",
+      "path": "posts/2026-10-12-type-safe-html-templating-in-zig.html",
+      "date_iso": "2026-10-12T05:02:34+00:00",
+      "source": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+      "summary": "Article URL: https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html Comments URL: https://news.ycombinator.com/item?id=50051573 Points: 193 # Comments: 73"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50049872",
+      "title": "Doory – Open-Source Canva",
+      "slug": "2026-10-12-doory-open-source-canva.html",
+      "path": "posts/2026-10-12-doory-open-source-canva.html",
+      "date_iso": "2026-10-12T00:48:27+00:00",
+      "source": "https://github.com/shaongitbd/doory",
+      "summary": "Article URL: https://github.com/shaongitbd/doory Comments URL: https://news.ycombinator.com/item?id=50049872 Points: 177 # Comments: 68"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50049508",
+      "title": "Local Indexing to reduce tool calling and token usage",
+      "slug": "2026-10-12-local-indexing-to-reduce-tool-calling-and-token-usage.html",
+      "path": "posts/2026-10-12-local-indexing-to-reduce-tool-calling-and-token-usage.html",
+      "date_iso": "2026-10-12T00:03:53+00:00",
+      "source": "https://tedhaley.ca/pensieve/",
+      "summary": "Article URL: https://tedhaley.ca/pensieve/ Comments URL: https://news.ycombinator.com/item?id=50049508 Points: 106 # Comments: 35"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50049133",
+      "title": "Illustration Beyond Proof",
+      "slug": "2026-10-11-illustration-beyond-proof.html",
+      "path": "posts/2026-10-11-illustration-beyond-proof.html",
+      "date_iso": "2026-10-11T23:22:36+00:00",
+      "source": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/ Comments URL: https://news.ycombinator.com/item?id=50049133 Points: 92 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50048642",
+      "title": "Fingerprints are the new cookies",
+      "slug": "2026-10-11-fingerprints-are-the-new-cookies.html",
+      "path": "posts/2026-10-11-fingerprints-are-the-new-cookies.html",
+      "date_iso": "2026-10-11T22:33:39+00:00",
+      "source": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "summary": "Article URL: https://royfish.dev/fingerprints-are-the-new-cookies Comments URL: https://news.ycombinator.com/item?id=50048642 Points: 581 # Comments: 285"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50048312",
+      "title": "Passkeys are a trap",
+      "slug": "2026-10-11-passkeys-are-a-trap.html",
+      "path": "posts/2026-10-11-passkeys-are-a-trap.html",
+      "date_iso": "2026-10-11T21:59:48+00:00",
+      "source": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+      "summary": "Article URL: https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them Comments URL: https://news.ycombinator.com/item?id=50048312 Points: 890 # Comments: 465"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50047422",
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "slug": "2026-10-11-the-gap-in-shared-understanding-of-llm-capability-is-widening.html",
+      "path": "posts/2026-10-11-the-gap-in-shared-understanding-of-llm-capability-is-widening.html",
+      "date_iso": "2026-10-11T20:20:52+00:00",
+      "source": "https://twitter.com/karpathy/status/2109361546505966046",
+      "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 594 # Comments: 853"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/11/insider/new-york-times-space-editor-victoria-jaggard.html",
+      "title": "The Times’s New Space Editor Has Her Eye on the Cosmos",
+      "slug": "2026-10-11-the-times-s-new-space-editor-has-her-eye-on-the-cosmos.html",
+      "path": "posts/2026-10-11-the-times-s-new-space-editor-has-her-eye-on-the-cosmos.html",
+      "date_iso": "2026-10-11T18:14:28+00:00",
+      "source": "https://www.nytimes.com/2026/10/11/insider/new-york-times-space-editor-victoria-jaggard.html",
+      "summary": "On the Science desk, Victoria Jaggard spends her days pondering the universe’s most pressing mysteries."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50042942",
       "title": "How HN: Go-dev-auth zero-dependency authentication library for Go",
       "slug": "2026-10-11-how-hn-go-dev-auth-zero-dependency-authentication-library-for-go.html",
