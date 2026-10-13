@@ -1,6 +1,213 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/10/13/technology/apple-homeview-tablet.html",
+      "title": "Apple Introduces HomeView, a $299 Tablet for the Home",
+      "slug": "2026-10-13-apple-introduces-homeview-a-299-tablet-for-the-home.html",
+      "path": "posts/2026-10-13-apple-introduces-homeview-a-299-tablet-for-the-home.html",
+      "date_iso": "2026-10-13T14:38:37+00:00",
+      "source": "https://www.nytimes.com/2026/10/13/technology/apple-homeview-tablet.html",
+      "summary": "Apple unveiled the HomeView, a seven-inch tablet that will be able to recognize up to six members of a household and change its content based on who is using it."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50072229",
+      "title": "A Book That Will Never Be Read",
+      "slug": "2026-10-13-a-book-that-will-never-be-read.html",
+      "path": "posts/2026-10-13-a-book-that-will-never-be-read.html",
+      "date_iso": "2026-10-13T14:21:40+00:00",
+      "source": "https://forbetterscience.com/2026/09/22/a-book-that-will-never-be-read/",
+      "summary": "Article URL: https://forbetterscience.com/2026/09/22/a-book-that-will-never-be-read/ Comments URL: https://news.ycombinator.com/item?id=50072229 Points: 5 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/12/science/mars-rover-sets-record.html",
+      "title": "NASA’s Perseverance Rover Sets a Mars Driving Record",
+      "slug": "2026-10-13-nasa-s-perseverance-rover-sets-a-mars-driving-record.html",
+      "path": "posts/2026-10-13-nasa-s-perseverance-rover-sets-a-mars-driving-record.html",
+      "date_iso": "2026-10-13T14:09:44+00:00",
+      "source": "https://www.nytimes.com/2026/10/12/science/mars-rover-sets-record.html",
+      "summary": "Advances in self-driving technology have made it easier to traverse distant worlds."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50071310",
+      "title": "Apple unveils the new Apple TV 4K, supercharged by Siri AI",
+      "slug": "2026-10-13-apple-unveils-the-new-apple-tv-4k-supercharged-by-siri-ai.html",
+      "path": "posts/2026-10-13-apple-unveils-the-new-apple-tv-4k-supercharged-by-siri-ai.html",
+      "date_iso": "2026-10-13T13:21:35+00:00",
+      "source": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/ Comments URL: https://news.ycombinator.com/item?id=50071310 Points: 6 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50071017",
+      "title": "Apple HomeView",
+      "slug": "2026-10-13-apple-homeview.html",
+      "path": "posts/2026-10-13-apple-homeview.html",
+      "date_iso": "2026-10-13T13:02:12+00:00",
+      "source": "https://www.apple.com/apple-homeview/",
+      "summary": "Article URL: https://www.apple.com/apple-homeview/ Comments URL: https://news.ycombinator.com/item?id=50071017 Points: 165 # Comments: 212"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50070593",
+      "title": "Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs",
+      "slug": "2026-10-13-apple-s-minions-a-virtual-gpu-cloud-built-from-idle-apple-silicon-macs.html",
+      "path": "posts/2026-10-13-apple-s-minions-a-virtual-gpu-cloud-built-from-idle-apple-silicon-macs.html",
+      "date_iso": "2026-10-13T12:26:36+00:00",
+      "source": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+      "summary": "Article URL: https://machinelearning.apple.com/research/distributed-gpu-cloud Comments URL: https://news.ycombinator.com/item?id=50070593 Points: 100 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50070302",
+      "title": "Mozilla Introduces Firefox Enterprise",
+      "slug": "2026-10-13-mozilla-introduces-firefox-enterprise.html",
+      "path": "posts/2026-10-13-mozilla-introduces-firefox-enterprise.html",
+      "date_iso": "2026-10-13T12:00:42+00:00",
+      "source": "https://www.firefox.com/en-US/enterprise/",
+      "summary": "Article URL: https://www.firefox.com/en-US/enterprise/ Comments URL: https://news.ycombinator.com/item?id=50070302 Points: 220 # Comments: 107"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50070287",
+      "title": "A Visual Intro to Complex Numbers",
+      "slug": "2026-10-13-a-visual-intro-to-complex-numbers.html",
+      "path": "posts/2026-10-13-a-visual-intro-to-complex-numbers.html",
+      "date_iso": "2026-10-13T12:00:04+00:00",
+      "source": "https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers",
+      "summary": "Article URL: https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers Comments URL: https://news.ycombinator.com/item?id=50070287 Points: 25 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50069971",
+      "title": "An hour of audio transcribed in about 13s on MacBook Air",
+      "slug": "2026-10-13-an-hour-of-audio-transcribed-in-about-13s-on-macbook-air.html",
+      "path": "posts/2026-10-13-an-hour-of-audio-transcribed-in-about-13s-on-macbook-air.html",
+      "date_iso": "2026-10-13T11:27:14+00:00",
+      "source": "https://eg2.haku.sh/",
+      "summary": "Article URL: https://eg2.haku.sh/ Comments URL: https://news.ycombinator.com/item?id=50069971 Points: 214 # Comments: 57"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50069942",
+      "title": "Character.ai Files for Bankruptcy",
+      "slug": "2026-10-13-character-ai-files-for-bankruptcy.html",
+      "path": "posts/2026-10-13-character-ai-files-for-bankruptcy.html",
+      "date_iso": "2026-10-13T11:24:08+00:00",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney Comments URL: https://news.ycombinator.com/item?id=50069942 Points: 121 # Comments: 85"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50069499",
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
+      "slug": "2026-10-13-11-year-old-unsoundness-bugs-found-in-rust-borrow-checker.html",
+      "path": "posts/2026-10-13-11-year-old-unsoundness-bugs-found-in-rust-borrow-checker.html",
+      "date_iso": "2026-10-13T10:27:00+00:00",
+      "source": "https://github.com/rust-lang/rust/issues/164250",
+      "summary": "Article URL: https://github.com/rust-lang/rust/issues/164250 Comments URL: https://news.ycombinator.com/item?id=50069499 Points: 402 # Comments: 205"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50069337",
+      "title": "Show HN: Use your OpenAI subscription to create audiobooks",
+      "slug": "2026-10-13-show-hn-use-your-openai-subscription-to-create-audiobooks.html",
+      "path": "posts/2026-10-13-show-hn-use-your-openai-subscription-to-create-audiobooks.html",
+      "date_iso": "2026-10-13T10:08:34+00:00",
+      "source": "https://pdftomp3.com/connect-ai/",
+      "summary": "Article URL: https://pdftomp3.com/connect-ai/ Comments URL: https://news.ycombinator.com/item?id=50069337 Points: 104 # Comments: 55"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50069329",
+      "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
+      "slug": "2026-10-13-cftc-staff-were-told-to-retract-analysis-of-suspicious-oil-trades.html",
+      "path": "posts/2026-10-13-cftc-staff-were-told-to-retract-analysis-of-suspicious-oil-trades.html",
+      "date_iso": "2026-10-13T10:08:00+00:00",
+      "source": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran",
+      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran Comments URL: https://news.ycombinator.com/item?id=50069329 Points: 274 # Comments: 121"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50068443",
+      "title": "Document Review with Unsiloed and TypeSafe Jev",
+      "slug": "2026-10-13-document-review-with-unsiloed-and-typesafe-jev.html",
+      "path": "posts/2026-10-13-document-review-with-unsiloed-and-typesafe-jev.html",
+      "date_iso": "2026-10-13T08:24:51+00:00",
+      "source": "https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev",
+      "summary": "Article URL: https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev Comments URL: https://news.ycombinator.com/item?id=50068443 Points: 32 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50068036",
+      "title": "Character.ai files for Chapter 11 bankruptcy",
+      "slug": "2026-10-13-character-ai-files-for-chapter-11-bankruptcy.html",
+      "path": "posts/2026-10-13-character-ai-files-for-chapter-11-bankruptcy.html",
+      "date_iso": "2026-10-13T07:28:34+00:00",
+      "source": "https://blog.character.ai/an-update-on-character-ai/",
+      "summary": "Article URL: https://blog.character.ai/an-update-on-character-ai/ Comments URL: https://news.ycombinator.com/item?id=50068036 Points: 82 # Comments: 31"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50067414",
+      "title": "Hittite royal archive found in Turkey",
+      "slug": "2026-10-13-hittite-royal-archive-found-in-turkey.html",
+      "path": "posts/2026-10-13-hittite-royal-archive-found-in-turkey.html",
+      "date_iso": "2026-10-13T06:02:51+00:00",
+      "source": "https://www.thehistoryblog.com/archives/77107",
+      "summary": "Article URL: https://www.thehistoryblog.com/archives/77107 Comments URL: https://news.ycombinator.com/item?id=50067414 Points: 208 # Comments: 48"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50065932",
+      "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
+      "slug": "2026-10-13-a-look-at-the-math-that-openai-claims-computes-faster-fourier-transforms.html",
+      "path": "posts/2026-10-13-a-look-at-the-math-that-openai-claims-computes-faster-fourier-transforms.html",
+      "date_iso": "2026-10-13T02:46:43+00:00",
+      "source": "https://www.argmin.net/p/faster-fourier-transforms",
+      "summary": "Article URL: https://www.argmin.net/p/faster-fourier-transforms Comments URL: https://news.ycombinator.com/item?id=50065932 Points: 203 # Comments: 129"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50064840",
+      "title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
+      "slug": "2026-10-13-show-hn-solidcraft-open-source-parametric-cad-in-rust-with-mcp-support.html",
+      "path": "posts/2026-10-13-show-hn-solidcraft-open-source-parametric-cad-in-rust-with-mcp-support.html",
+      "date_iso": "2026-10-13T00:11:04+00:00",
+      "source": "https://github.com/bherbruck/solidcraft",
+      "summary": "Article URL: https://github.com/bherbruck/solidcraft Comments URL: https://news.ycombinator.com/item?id=50064840 Points: 102 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50063717",
+      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "slug": "2026-10-12-janas-run-llms-larger-than-ram-by-streaming-experts-from-ssd.html",
+      "path": "posts/2026-10-12-janas-run-llms-larger-than-ram-by-streaming-experts-from-ssd.html",
+      "date_iso": "2026-10-12T22:05:43+00:00",
+      "source": "https://github.com/prabanta-dev/janas",
+      "summary": "Article URL: https://github.com/prabanta-dev/janas Comments URL: https://news.ycombinator.com/item?id=50063717 Points: 191 # Comments: 69"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50063427",
+      "title": "AI is a tool and using it well takes skill",
+      "slug": "2026-10-12-ai-is-a-tool-and-using-it-well-takes-skill.html",
+      "path": "posts/2026-10-12-ai-is-a-tool-and-using-it-well-takes-skill.html",
+      "date_iso": "2026-10-12T21:40:18+00:00",
+      "source": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "summary": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 505 # Comments: 405"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50063365",
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "slug": "2026-10-12-intel-d270-gpu-ai-accelerator-up-to-480-gb-lpddr5x.html",
+      "path": "posts/2026-10-12-intel-d270-gpu-ai-accelerator-up-to-480-gb-lpddr5x.html",
+      "date_iso": "2026-10-12T21:35:35+00:00",
+      "source": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "summary": "Article URL: https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html Comments URL: https://news.ycombinator.com/item?id=50063365 Points: 276 # Comments: 148"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50063138",
+      "title": "Who is vfmaddrnd231pd?",
+      "slug": "2026-10-12-who-is-vfmaddrnd231pd.html",
+      "path": "posts/2026-10-12-who-is-vfmaddrnd231pd.html",
+      "date_iso": "2026-10-12T21:12:43+00:00",
+      "source": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+      "summary": "Article URL: https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/ Comments URL: https://news.ycombinator.com/item?id=50063138 Points: 234 # Comments: 21"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/12/technology/meta-muse-wonder-full-models.html",
+      "title": "Meta Unveils New Series of Advanced A.I. Models",
+      "slug": "2026-10-12-meta-unveils-new-series-of-advanced-a-i-models.html",
+      "path": "posts/2026-10-12-meta-unveils-new-series-of-advanced-a-i-models.html",
+      "date_iso": "2026-10-12T17:00:06+00:00",
+      "source": "https://www.nytimes.com/2026/10/12/technology/meta-muse-wonder-full-models.html",
+      "summary": "Mark Zuckerberg, Meta’s chief executive, revamped his company’s A.I. division last year after setbacks in developing the technology."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50058507",
       "title": "GLM-Legal: Advancing Agentic Legal Intelligence",
       "slug": "2026-10-12-glm-legal-advancing-agentic-legal-intelligence.html",
