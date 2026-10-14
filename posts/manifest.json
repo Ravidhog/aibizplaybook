@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=50086165",
+      "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+      "slug": "2026-10-14-pg-vectorsearch-an-index-that-is-faster-than-pgvector-s-ivfflat-and-hnsw.html",
+      "path": "posts/2026-10-14-pg-vectorsearch-an-index-that-is-faster-than-pgvector-s-ivfflat-and-hnsw.html",
+      "date_iso": "2026-10-14T11:47:53+00:00",
+      "source": "https://github.com/timescale/pg_vectorsearch",
+      "summary": "Article URL: https://github.com/timescale/pg_vectorsearch Comments URL: https://news.ycombinator.com/item?id=50086165 Points: 14 # Comments: 2"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html",
+      "title": "Rogue A.I. Agents from China Chatted with American Researchers",
+      "slug": "2026-10-14-rogue-a-i-agents-from-china-chatted-with-american-researchers.html",
+      "path": "posts/2026-10-14-rogue-a-i-agents-from-china-chatted-with-american-researchers.html",
+      "date_iso": "2026-10-14T11:00:05+00:00",
+      "source": "https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html",
+      "summary": "Tencent is one of the biggest tech companies in China."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50085323",
+      "title": "TV4 postpones show after AI agent erases edited material",
+      "slug": "2026-10-14-tv4-postpones-show-after-ai-agent-erases-edited-material.html",
+      "path": "posts/2026-10-14-tv4-postpones-show-after-ai-agent-erases-edited-material.html",
+      "date_iso": "2026-10-14T10:28:26+00:00",
+      "source": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+      "summary": "Article URL: https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage Comments URL: https://news.ycombinator.com/item?id=50085323 Points: 6 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50085306",
+      "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
+      "slug": "2026-10-14-pulsar-at-esug-2026-new-smalltalk-ide.html",
+      "path": "posts/2026-10-14-pulsar-at-esug-2026-new-smalltalk-ide.html",
+      "date_iso": "2026-10-14T10:26:53+00:00",
+      "source": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
+      "summary": "Article URL: https://blog.lorenzano.eu/pulsar-at-esug-2026/ Comments URL: https://news.ycombinator.com/item?id=50085306 Points: 28 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50085302",
+      "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
+      "slug": "2026-10-14-ai-laser-locking-for-quantum-computers-how-quera-automates-it.html",
+      "path": "posts/2026-10-14-ai-laser-locking-for-quantum-computers-how-quera-automates-it.html",
+      "date_iso": "2026-10-14T10:26:24+00:00",
+      "source": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
+      "summary": "Article URL: https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers Comments URL: https://news.ycombinator.com/item?id=50085302 Points: 10 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50085022",
+      "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
+      "slug": "2026-10-14-show-hn-a-guided-3d-leonardo-da-vinci-museum-built-in-code.html",
+      "path": "posts/2026-10-14-show-hn-a-guided-3d-leonardo-da-vinci-museum-built-in-code.html",
+      "date_iso": "2026-10-14T10:00:24+00:00",
+      "source": "https://museumofages.org/w/vinci",
+      "summary": "Hello HN, I am the founder of a small nonprofit which built Museum of Ages. We opened its first wing last week, a digital Leonardo da Vinci museum. It is a virtual tour with 17 stops, his works and then his last house in Amboise. The entrance is free. At the different stops you…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50084838",
+      "title": "Who Is Planting Backdoors in Ledger Crypto Wallets?",
+      "slug": "2026-10-14-who-is-planting-backdoors-in-ledger-crypto-wallets.html",
+      "path": "posts/2026-10-14-who-is-planting-backdoors-in-ledger-crypto-wallets.html",
+      "date_iso": "2026-10-14T09:37:24+00:00",
+      "source": "https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/",
+      "summary": "Article URL: https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/ Comments URL: https://news.ycombinator.com/item?id=50084838 Points: 39 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50084757",
+      "title": "Amazon pushes up prices across the Internet",
+      "slug": "2026-10-14-amazon-pushes-up-prices-across-the-internet.html",
+      "path": "posts/2026-10-14-amazon-pushes-up-prices-across-the-internet.html",
+      "date_iso": "2026-10-14T09:28:17+00:00",
+      "source": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+      "summary": "Article URL: https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/ Comments URL: https://news.ycombinator.com/item?id=50084757 Points: 99 # Comments: 74"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/14/technology/ai-agents-communication-tech-dinner-party.html",
+      "title": "22 People Got Together For a Dinner Party. So Did Their A.I. Agents.",
+      "slug": "2026-10-14-22-people-got-together-for-a-dinner-party-so-did-their-a-i-agents.html",
+      "path": "posts/2026-10-14-22-people-got-together-for-a-dinner-party-so-did-their-a-i-agents.html",
+      "date_iso": "2026-10-14T09:01:19+00:00",
+      "source": "https://www.nytimes.com/2026/10/14/technology/ai-agents-communication-tech-dinner-party.html",
+      "summary": "As artificial intelligence bots spread, we are increasingly glimpsing how these digital entities interact and what they talk about with one another."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50084416",
+      "title": "What agents mean for Rust (and vice versa)",
+      "slug": "2026-10-14-what-agents-mean-for-rust-and-vice-versa.html",
+      "path": "posts/2026-10-14-what-agents-mean-for-rust-and-vice-versa.html",
+      "date_iso": "2026-10-14T08:49:06+00:00",
+      "source": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
+      "summary": "Article URL: https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/ Comments URL: https://news.ycombinator.com/item?id=50084416 Points: 41 # Comments: 35"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50084240",
+      "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+      "slug": "2026-10-14-iosevka-is-an-open-source-sans-serif-and-slab-serif-monospace-font.html",
+      "path": "posts/2026-10-14-iosevka-is-an-open-source-sans-serif-and-slab-serif-monospace-font.html",
+      "date_iso": "2026-10-14T08:27:59+00:00",
+      "source": "https://typeof.net/Iosevka/",
+      "summary": "Article URL: https://typeof.net/Iosevka/ Comments URL: https://news.ycombinator.com/item?id=50084240 Points: 233 # Comments: 85"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50083130",
+      "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+      "slug": "2026-10-14-aosp-source-releases-are-so-late-developers-disassemble-libraries-to-report-bugs.html",
+      "path": "posts/2026-10-14-aosp-source-releases-are-so-late-developers-disassemble-libraries-to-report-bugs.html",
+      "date_iso": "2026-10-14T06:18:01+00:00",
+      "source": "https://github.com/android/ndk/issues/2260",
+      "summary": "Article URL: https://github.com/android/ndk/issues/2260 Comments URL: https://news.ycombinator.com/item?id=50083130 Points: 324 # Comments: 145"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50082470",
+      "title": "Felix Rieseberg Homepage",
+      "slug": "2026-10-14-felix-rieseberg-homepage.html",
+      "path": "posts/2026-10-14-felix-rieseberg-homepage.html",
+      "date_iso": "2026-10-14T04:42:33+00:00",
+      "source": "https://felixrieseberg.com/",
+      "summary": "Article URL: https://felixrieseberg.com/ Comments URL: https://news.ycombinator.com/item?id=50082470 Points: 214 # Comments: 82"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50082021",
+      "title": "Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord",
+      "slug": "2026-10-14-strafe-a-new-open-source-e2e-encrypted-and-federated-alternative-to-discord.html",
+      "path": "posts/2026-10-14-strafe-a-new-open-source-e2e-encrypted-and-federated-alternative-to-discord.html",
+      "date_iso": "2026-10-14T03:28:00+00:00",
+      "source": "https://strafe.chat/",
+      "summary": "Article URL: https://strafe.chat/ Comments URL: https://news.ycombinator.com/item?id=50082021 Points: 49 # Comments: 35"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html",
+      "title": "F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office",
+      "slug": "2026-10-14-f-b-i-arrests-openai-employee-accused-of-planting-bug-in-office.html",
+      "path": "posts/2026-10-14-f-b-i-arrests-openai-employee-accused-of-planting-bug-in-office.html",
+      "date_iso": "2026-10-14T01:33:22+00:00",
+      "source": "https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html",
+      "summary": "The San Francisco offices of OpenAI, where a recording device was discovered during a sweep of a conference room, the company said."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50079865",
+      "title": "Recreational Programming",
+      "slug": "2026-10-13-recreational-programming.html",
+      "path": "posts/2026-10-13-recreational-programming.html",
+      "date_iso": "2026-10-13T22:33:33+00:00",
+      "source": "https://www.cphiri.dev/presentations/recreational-programming",
+      "summary": "Article URL: https://www.cphiri.dev/presentations/recreational-programming Comments URL: https://news.ycombinator.com/item?id=50079865 Points: 222 # Comments: 92"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50079464",
+      "title": "AlphaNIST",
+      "slug": "2026-10-13-alphanist.html",
+      "path": "posts/2026-10-13-alphanist.html",
+      "date_iso": "2026-10-13T21:57:29+00:00",
+      "source": "https://alpha-nist.github.io/",
+      "summary": "Article URL: https://alpha-nist.github.io/ Comments URL: https://news.ycombinator.com/item?id=50079464 Points: 81 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50077020",
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "slug": "2026-10-13-show-hn-guitoro-a-virtual-guitar-you-strum-with-your-keyboard.html",
+      "path": "posts/2026-10-13-show-hn-guitoro-a-virtual-guitar-you-strum-with-your-keyboard.html",
+      "date_iso": "2026-10-13T19:11:48+00:00",
+      "source": "https://guitoro.com/",
+      "summary": "Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic, classical, electric guitar or bass, and see chord fingering and each stroke. Song practice can be slowed to 20%, and there are free ch…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50074909",
+      "title": "Show HN: How random are you?",
+      "slug": "2026-10-13-show-hn-how-random-are-you.html",
+      "path": "posts/2026-10-13-show-hn-how-random-are-you.html",
+      "date_iso": "2026-10-13T16:57:57+00:00",
+      "source": "https://lab.specr.net/rigged-draw/",
+      "summary": "Article URL: https://lab.specr.net/rigged-draw/ Comments URL: https://news.ycombinator.com/item?id=50074909 Points: 164 # Comments: 85"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50073879",
+      "title": "Gemini 4 Argon",
+      "slug": "2026-10-13-gemini-4-argon.html",
+      "path": "posts/2026-10-13-gemini-4-argon.html",
+      "date_iso": "2026-10-13T16:03:16+00:00",
+      "source": "https://deepmind.google/models/gemini/",
+      "summary": "See also: Gemini 4 Argon for Robotics - https://news.ycombinator.com/item?id=50074869 Comments URL: https://news.ycombinator.com/item?id=50073879 Points: 1347 # Comments: 939"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50073633",
+      "title": "Redesigning source control at Anthropic",
+      "slug": "2026-10-13-redesigning-source-control-at-anthropic.html",
+      "path": "posts/2026-10-13-redesigning-source-control-at-anthropic.html",
+      "date_iso": "2026-10-13T15:49:56+00:00",
+      "source": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "summary": "Article URL: https://www.anthropic.com/engineering/redesigning-source-control Comments URL: https://news.ycombinator.com/item?id=50073633 Points: 801 # Comments: 849"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50072994",
+      "title": "The United Kingdom generates less electricity per person than in the 1970s",
+      "slug": "2026-10-13-the-united-kingdom-generates-less-electricity-per-person-than-in-the-1970s.html",
+      "path": "posts/2026-10-13-the-united-kingdom-generates-less-electricity-per-person-than-in-the-1970s.html",
+      "date_iso": "2026-10-13T15:12:57+00:00",
+      "source": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+      "summary": "Article URL: https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak Comments URL: https://news.ycombinator.com/item?id=50072994 Points: 339 # Comments: 548"
+    },
+    {
       "id": "https://www.nytimes.com/2026/10/13/technology/apple-homeview-tablet.html",
       "title": "Apple Introduces HomeView, a $299 Tablet for the Home",
       "slug": "2026-10-13-apple-introduces-homeview-a-299-tablet-for-the-home.html",
@@ -26,6 +224,15 @@
       "date_iso": "2026-10-13T14:09:44+00:00",
       "source": "https://www.nytimes.com/2026/10/12/science/mars-rover-sets-record.html",
       "summary": "Advances in self-driving technology have made it easier to traverse distant worlds."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50071466",
+      "title": "Same Job, Two Engines: InnoDB and Iceberg Internals",
+      "slug": "2026-10-13-same-job-two-engines-innodb-and-iceberg-internals.html",
+      "path": "posts/2026-10-13-same-job-two-engines-innodb-and-iceberg-internals.html",
+      "date_iso": "2026-10-13T13:31:43+00:00",
+      "source": "https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/",
+      "summary": "Article URL: https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/ Comments URL: https://news.ycombinator.com/item?id=50071466 Points: 27 # Comments: 2"
     },
     {
       "id": "https://news.ycombinator.com/item?id=50071310",
