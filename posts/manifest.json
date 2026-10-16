@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/10/16/podcasts/hardfork-elizabeth-holmes.html",
+      "title": "Why No One Can Look Away From Elizabeth Holmes",
+      "slug": "2026-10-16-why-no-one-can-look-away-from-elizabeth-holmes.html",
+      "path": "posts/2026-10-16-why-no-one-can-look-away-from-elizabeth-holmes.html",
+      "date_iso": "2026-10-16T11:00:03+00:00",
+      "source": "https://www.nytimes.com/2026/10/16/podcasts/hardfork-elizabeth-holmes.html",
+      "summary": "“I felt like there were some moments in the film where she was just brazenly lying.”"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50114342",
+      "title": "The Folders Programming Language",
+      "slug": "2026-10-16-the-folders-programming-language.html",
+      "path": "posts/2026-10-16-the-folders-programming-language.html",
+      "date_iso": "2026-10-16T05:11:28+00:00",
+      "source": "https://danieltemkin.com/esolangs/folders",
+      "summary": "Article URL: https://danieltemkin.com/esolangs/folders Comments URL: https://news.ycombinator.com/item?id=50114342 Points: 96 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50112887",
+      "title": "Comparing Chromium Development at Google and Igalia",
+      "slug": "2026-10-16-comparing-chromium-development-at-google-and-igalia.html",
+      "path": "posts/2026-10-16-comparing-chromium-development-at-google-and-igalia.html",
+      "date_iso": "2026-10-16T01:56:37+00:00",
+      "source": "https://lwn.net/Articles/1094721/",
+      "summary": "Article URL: https://lwn.net/Articles/1094721/ Comments URL: https://news.ycombinator.com/item?id=50112887 Points: 59 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50112739",
+      "title": "Any window from your Mac, on your iPhone and iPad",
+      "slug": "2026-10-16-any-window-from-your-mac-on-your-iphone-and-ipad.html",
+      "path": "posts/2026-10-16-any-window-from-your-mac-on-your-iphone-and-ipad.html",
+      "date_iso": "2026-10-16T01:43:17+00:00",
+      "source": "https://github.com/Saffsanity/sill",
+      "summary": "Article URL: https://github.com/Saffsanity/sill Comments URL: https://news.ycombinator.com/item?id=50112739 Points: 172 # Comments: 42"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50112331",
+      "title": "Thank You, Deno",
+      "slug": "2026-10-16-thank-you-deno.html",
+      "path": "posts/2026-10-16-thank-you-deno.html",
+      "date_iso": "2026-10-16T00:52:40+00:00",
+      "source": "https://www.vlt.io/blog/competition-keeps-javascript-moving",
+      "summary": "Article URL: https://www.vlt.io/blog/competition-keeps-javascript-moving Comments URL: https://news.ycombinator.com/item?id=50112331 Points: 101 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50112330",
+      "title": "RPKI now protects 70% of internet routes",
+      "slug": "2026-10-16-rpki-now-protects-70-of-internet-routes.html",
+      "path": "posts/2026-10-16-rpki-now-protects-70-of-internet-routes.html",
+      "date_iso": "2026-10-16T00:52:35+00:00",
+      "source": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+      "summary": "Article URL: https://ipinfo.io/blog/rpki-protects-70-internet-routes Comments URL: https://news.ycombinator.com/item?id=50112330 Points: 174 # Comments: 64"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50111852",
+      "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
+      "slug": "2026-10-15-meta-s-new-commercial-terms-will-allow-the-scraping-of-news-sites-experts.html",
+      "path": "posts/2026-10-15-meta-s-new-commercial-terms-will-allow-the-scraping-of-news-sites-experts.html",
+      "date_iso": "2026-10-15T23:37:42+00:00",
+      "source": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "summary": "Article URL: https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/ Comments URL: https://news.ycombinator.com/item?id=50111852 Points: 341 # Comments: 119"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50111742",
+      "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
+      "slug": "2026-10-15-bebox-is-a-haiku-application-that-emulates-be-inc-s-bebox.html",
+      "path": "posts/2026-10-15-bebox-is-a-haiku-application-that-emulates-be-inc-s-bebox.html",
+      "date_iso": "2026-10-15T23:22:53+00:00",
+      "source": "https://github.com/johnrash/bebox",
+      "summary": "Article URL: https://github.com/johnrash/bebox Comments URL: https://news.ycombinator.com/item?id=50111742 Points: 70 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50109715",
+      "title": "What I self-host",
+      "slug": "2026-10-15-what-i-self-host.html",
+      "path": "posts/2026-10-15-what-i-self-host.html",
+      "date_iso": "2026-10-15T20:23:25+00:00",
+      "source": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "summary": "Article URL: https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/ Comments URL: https://news.ycombinator.com/item?id=50109715 Points: 526 # Comments: 333"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50109375",
+      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+      "slug": "2026-10-15-new-withings-users-must-pay-99-year-for-apple-health-syncing.html",
+      "path": "posts/2026-10-15-new-withings-users-must-pay-99-year-for-apple-health-syncing.html",
+      "date_iso": "2026-10-15T19:55:49+00:00",
+      "source": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+      "summary": "Article URL: https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts Comments URL: https://news.ycombinator.com/item?id=50109375 Points: 322 # Comments: 208"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/15/us/175-anniversary-history-corrections-pulitzer-martian.html",
+      "title": "Ms., Martians and Guacamole: Their First Time in The Times",
+      "slug": "2026-10-15-ms-martians-and-guacamole-their-first-time-in-the-times.html",
+      "path": "posts/2026-10-15-ms-martians-and-guacamole-their-first-time-in-the-times.html",
+      "date_iso": "2026-10-15T19:50:16+00:00",
+      "source": "https://www.nytimes.com/2026/10/15/us/175-anniversary-history-corrections-pulitzer-martian.html",
+      "summary": "Our reporters share a compendium of debuts, discoveries and (sometimes overdue) appearances in the paper."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50108872",
+      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+      "slug": "2026-10-15-someone-on-torrent-sites-kept-fucking-with-my-sonarr.html",
+      "path": "posts/2026-10-15-someone-on-torrent-sites-kept-fucking-with-my-sonarr.html",
+      "date_iso": "2026-10-15T19:21:38+00:00",
+      "source": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+      "summary": "Article URL: https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup Comments URL: https://news.ycombinator.com/item?id=50108872 Points: 362 # Comments: 168"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50107379",
+      "title": "Muse Spark Open",
+      "slug": "2026-10-15-muse-spark-open.html",
+      "path": "posts/2026-10-15-muse-spark-open.html",
+      "date_iso": "2026-10-15T17:47:39+00:00",
+      "source": "https://research.meta.ai/blog/muse-spark-open",
+      "summary": "https://dev.meta.ai/resources/blog/build-with-muse-spark-ope... https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-... Comments URL: https://news.ycombinator.com/item?id=50107379 Points: 839 # Comments: 421"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50106023",
+      "title": "Jev meets the Trolley Problem",
+      "slug": "2026-10-15-jev-meets-the-trolley-problem.html",
+      "path": "posts/2026-10-15-jev-meets-the-trolley-problem.html",
+      "date_iso": "2026-10-15T16:24:52+00:00",
+      "source": "https://zachlandes.com/trolley-problem/",
+      "summary": "Article URL: https://zachlandes.com/trolley-problem/ Comments URL: https://news.ycombinator.com/item?id=50106023 Points: 497 # Comments: 208"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50105777",
+      "title": "BIPM decides to stop adding leap seconds to UTC",
+      "slug": "2026-10-15-bipm-decides-to-stop-adding-leap-seconds-to-utc.html",
+      "path": "posts/2026-10-15-bipm-decides-to-stop-adding-leap-seconds-to-utc.html",
+      "date_iso": "2026-10-15T16:11:36+00:00",
+      "source": "https://www.bipm.org/en/cgpm-2026/resolution-5",
+      "summary": "Article URL: https://www.bipm.org/en/cgpm-2026/resolution-5 Comments URL: https://news.ycombinator.com/item?id=50105777 Points: 200 # Comments: 96"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50105648",
+      "title": "Krea 3 – An image model built for editing at scale",
+      "slug": "2026-10-15-krea-3-an-image-model-built-for-editing-at-scale.html",
+      "path": "posts/2026-10-15-krea-3-an-image-model-built-for-editing-at-scale.html",
+      "date_iso": "2026-10-15T16:04:05+00:00",
+      "source": "https://www.krea.ai/krea-3",
+      "summary": "Article URL: https://www.krea.ai/krea-3 Comments URL: https://news.ycombinator.com/item?id=50105648 Points: 316 # Comments: 101"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50105647",
+      "title": "Neural networks are clean",
+      "slug": "2026-10-15-neural-networks-are-clean.html",
+      "path": "posts/2026-10-15-neural-networks-are-clean.html",
+      "date_iso": "2026-10-15T16:04:01+00:00",
+      "source": "https://already-clean.goodfire.com/",
+      "summary": "https://twitter.com/nickcammarata/status/2110757819427574056 Comments URL: https://news.ycombinator.com/item?id=50105647 Points: 716 # Comments: 271"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50104726",
+      "title": "Celebrating 70 Years of Fortran",
+      "slug": "2026-10-15-celebrating-70-years-of-fortran.html",
+      "path": "posts/2026-10-15-celebrating-70-years-of-fortran.html",
+      "date_iso": "2026-10-15T15:03:17+00:00",
+      "source": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+      "summary": "Article URL: https://fortran-lang.org/news/2026/09-15-Fortran-birthday/ Comments URL: https://news.ycombinator.com/item?id=50104726 Points: 284 # Comments: 122"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50104299",
+      "title": "Using AI to reverse engineer hardware",
+      "slug": "2026-10-15-using-ai-to-reverse-engineer-hardware.html",
+      "path": "posts/2026-10-15-using-ai-to-reverse-engineer-hardware.html",
+      "date_iso": "2026-10-15T14:35:15+00:00",
+      "source": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+      "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 209 # Comments: 188"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50103338",
+      "title": "Wayland desktop for Linux with skeuomorphic design",
+      "slug": "2026-10-15-wayland-desktop-for-linux-with-skeuomorphic-design.html",
+      "path": "posts/2026-10-15-wayland-desktop-for-linux-with-skeuomorphic-design.html",
+      "date_iso": "2026-10-15T13:23:44+00:00",
+      "source": "https://github.com/fyzugx/DEsk",
+      "summary": "Article URL: https://github.com/fyzugx/DEsk Comments URL: https://news.ycombinator.com/item?id=50103338 Points: 627 # Comments: 253"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50102923",
+      "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+      "slug": "2026-10-15-libreboot-26-10-ominous-olive-released-with-uefi-chromebook-support.html",
+      "path": "posts/2026-10-15-libreboot-26-10-ominous-olive-released-with-uefi-chromebook-support.html",
+      "date_iso": "2026-10-15T12:52:16+00:00",
+      "source": "https://libreboot.org/news/libreboot2610.html",
+      "summary": "Article URL: https://libreboot.org/news/libreboot2610.html Comments URL: https://news.ycombinator.com/item?id=50102923 Points: 290 # Comments: 181"
+    },
+    {
       "id": "https://www.nytimes.com/2026/10/15/business/tesla-roadster-2026-ev-sports-car.html",
       "title": "Tesla Debuts 2026 Roadster, an EV Sports Car at Least $200,000",
       "slug": "2026-10-15-tesla-debuts-2026-roadster-an-ev-sports-car-at-least-200-000.html",
@@ -242,6 +431,15 @@
       "date_iso": "2026-10-14T09:37:24+00:00",
       "source": "https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/",
       "summary": "Article URL: https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/ Comments URL: https://news.ycombinator.com/item?id=50084838 Points: 39 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50084790",
+      "title": "The Economic Complexity of the Western Roman Empire",
+      "slug": "2026-10-14-the-economic-complexity-of-the-western-roman-empire.html",
+      "path": "posts/2026-10-14-the-economic-complexity-of-the-western-roman-empire.html",
+      "date_iso": "2026-10-14T09:32:09+00:00",
+      "source": "https://www.michelecoscia.com/?p=2613",
+      "summary": "Article URL: https://www.michelecoscia.com/?p=2613 Comments URL: https://news.ycombinator.com/item?id=50084790 Points: 46 # Comments: 9"
     },
     {
       "id": "https://news.ycombinator.com/item?id=50084757",
