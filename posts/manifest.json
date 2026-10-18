@@ -1,6 +1,141 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=50139935",
+      "title": "Kids are outsmarting social media bans. That's not a problem we need to solve",
+      "slug": "2026-10-18-kids-are-outsmarting-social-media-bans-that-s-not-a-problem-we-need-to-solve.html",
+      "path": "posts/2026-10-18-kids-are-outsmarting-social-media-bans-that-s-not-a-problem-we-need-to-solve.html",
+      "date_iso": "2026-10-18T11:02:28+00:00",
+      "source": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
+      "summary": "Article URL: https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/ Comments URL: https://news.ycombinator.com/item?id=50139935 Points: 9 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50139873",
+      "title": "How employment is changing at Anthropic",
+      "slug": "2026-10-18-how-employment-is-changing-at-anthropic.html",
+      "path": "posts/2026-10-18-how-employment-is-changing-at-anthropic.html",
+      "date_iso": "2026-10-18T10:49:26+00:00",
+      "source": "https://www.anthropic.com/research/employment-at-anthropic",
+      "summary": "Article URL: https://www.anthropic.com/research/employment-at-anthropic Comments URL: https://news.ycombinator.com/item?id=50139873 Points: 46 # Comments: 51"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50139692",
+      "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+      "slug": "2026-10-18-legal-experts-warn-meta-s-new-terms-still-grant-broad-scraping-permissions.html",
+      "path": "posts/2026-10-18-legal-experts-warn-meta-s-new-terms-still-grant-broad-scraping-permissions.html",
+      "date_iso": "2026-10-18T10:21:51+00:00",
+      "source": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+      "summary": "Article URL: https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/ Comments URL: https://news.ycombinator.com/item?id=50139692 Points: 8 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50139067",
+      "title": "Parser Combinators",
+      "slug": "2026-10-18-parser-combinators.html",
+      "path": "posts/2026-10-18-parser-combinators.html",
+      "date_iso": "2026-10-18T08:19:53+00:00",
+      "source": "https://t3.at/blog/2026-10-17-parser-combinators/",
+      "summary": "Article URL: https://t3.at/blog/2026-10-17-parser-combinators/ Comments URL: https://news.ycombinator.com/item?id=50139067 Points: 45 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50138531",
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "slug": "2026-10-18-deepseek-search-and-fetch-0-75-per-1000-successful-requests.html",
+      "path": "posts/2026-10-18-deepseek-search-and-fetch-0-75-per-1000-successful-requests.html",
+      "date_iso": "2026-10-18T06:50:36+00:00",
+      "source": "https://api-docs.deepseek.com/guides/search/",
+      "summary": "Article URL: https://api-docs.deepseek.com/guides/search/ Comments URL: https://news.ycombinator.com/item?id=50138531 Points: 251 # Comments: 118"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50137950",
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "slug": "2026-10-18-show-hn-sphinx-a-hook-that-quizzes-you-on-your-ai-s-code-before-shipping.html",
+      "path": "posts/2026-10-18-show-hn-sphinx-a-hook-that-quizzes-you-on-your-ai-s-code-before-shipping.html",
+      "date_iso": "2026-10-18T04:33:49+00:00",
+      "source": "https://sphinx-six-theta.vercel.app/",
+      "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 149 # Comments: 46"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50137620",
+      "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+      "slug": "2026-10-18-how-the-elizabeth-holmes-documentary-you-can-see-everything-is-deceiving.html",
+      "path": "posts/2026-10-18-how-the-elizabeth-holmes-documentary-you-can-see-everything-is-deceiving.html",
+      "date_iso": "2026-10-18T03:19:49+00:00",
+      "source": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "summary": "Article URL: https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything Comments URL: https://news.ycombinator.com/item?id=50137620 Points: 164 # Comments: 191"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50136536",
+      "title": "NY announces game ownership bill requiring ownership rather than licensing",
+      "slug": "2026-10-18-ny-announces-game-ownership-bill-requiring-ownership-rather-than-licensing.html",
+      "path": "posts/2026-10-18-ny-announces-game-ownership-bill-requiring-ownership-rather-than-licensing.html",
+      "date_iso": "2026-10-18T00:14:22+00:00",
+      "source": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+      "summary": "Article URL: https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends Comments URL: https://news.ycombinator…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50133231",
+      "title": "Codex Desktop continuously generates Crashpad pending dumps",
+      "slug": "2026-10-17-codex-desktop-continuously-generates-crashpad-pending-dumps.html",
+      "path": "posts/2026-10-17-codex-desktop-continuously-generates-crashpad-pending-dumps.html",
+      "date_iso": "2026-10-17T17:45:08+00:00",
+      "source": "https://github.com/openai/codex/issues/25921",
+      "summary": "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 140 # Comments: 63"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50132870",
+      "title": "Gold is now the top U.S. export",
+      "slug": "2026-10-17-gold-is-now-the-top-u-s-export.html",
+      "path": "posts/2026-10-17-gold-is-now-the-top-u-s-export.html",
+      "date_iso": "2026-10-17T17:06:07+00:00",
+      "source": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+      "summary": "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export Comments URL: https://news.ycombinator.com/item?id=50132870 Points: 347 # Comments: 190"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50132193",
+      "title": "Pele – Mermaid diagrams as themeable SVG",
+      "slug": "2026-10-17-pele-mermaid-diagrams-as-themeable-svg.html",
+      "path": "posts/2026-10-17-pele-mermaid-diagrams-as-themeable-svg.html",
+      "date_iso": "2026-10-17T15:55:09+00:00",
+      "source": "https://pele.run/",
+      "summary": "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 458 # Comments: 41"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50131213",
+      "title": "Making chicken transparent using Dorito dust",
+      "slug": "2026-10-17-making-chicken-transparent-using-dorito-dust.html",
+      "path": "posts/2026-10-17-making-chicken-transparent-using-dorito-dust.html",
+      "date_iso": "2026-10-17T13:55:28+00:00",
+      "source": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+      "summary": "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 312 # Comments: 82"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50131189",
+      "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+      "slug": "2026-10-17-show-hn-esp32sim-run-esp32-firmware-in-the-browser.html",
+      "path": "posts/2026-10-17-show-hn-esp32sim-run-esp32-firmware-in-the-browser.html",
+      "date_iso": "2026-10-17T13:51:08+00:00",
+      "source": "https://github.com/mikroverk/esp32sim",
+      "summary": "Hi HN, I’ve been working on esp32sim, an open-source ESP32 emulator that runs in the browser. The fun part of the demo is that there is no ESP32 involved — the firmware is executing in the emulator. The goal is to make ESP32 software easier to experiment with, test and simulate…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50131006",
+      "title": "Show HN: High-quality duck audio synthesizer",
+      "slug": "2026-10-17-show-hn-high-quality-duck-audio-synthesizer.html",
+      "path": "posts/2026-10-17-show-hn-high-quality-duck-audio-synthesizer.html",
+      "date_iso": "2026-10-17T13:28:46+00:00",
+      "source": "https://celphase.github.io/duck-pond/",
+      "summary": "Article URL: https://celphase.github.io/duck-pond/ Comments URL: https://news.ycombinator.com/item?id=50131006 Points: 143 # Comments: 31"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50130379",
+      "title": "Interactive Linear Programming in the Browser",
+      "slug": "2026-10-17-interactive-linear-programming-in-the-browser.html",
+      "path": "posts/2026-10-17-interactive-linear-programming-in-the-browser.html",
+      "date_iso": "2026-10-17T12:06:44+00:00",
+      "source": "https://lpviz.net/",
+      "summary": "Article URL: https://lpviz.net/ Comments URL: https://news.ycombinator.com/item?id=50130379 Points: 43 # Comments: 0"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50129121",
       "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
       "slug": "2026-10-17-deepseek-deepseek-v4-1-flash-1017.html",
@@ -55,6 +190,24 @@
       "summary": "Article URL: https://www.flexport.com/company/careers/ Comments URL: https://news.ycombinator.com/item?id=50126774 Points: 0 # Comments: 0"
     },
     {
+      "id": "https://news.ycombinator.com/item?id=50126312",
+      "title": "Dam removals are bringing fish back across the northeastern United States",
+      "slug": "2026-10-16-dam-removals-are-bringing-fish-back-across-the-northeastern-united-states.html",
+      "path": "posts/2026-10-16-dam-removals-are-bringing-fish-back-across-the-northeastern-united-states.html",
+      "date_iso": "2026-10-16T23:47:31+00:00",
+      "source": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+      "summary": "Article URL: https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/ Comments URL: https://news.ycombinator.com/item?id=50126312 Points: 289 # Comments: 71"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50126253",
+      "title": "Bleached corals thrive within days when touching healthy neighbour",
+      "slug": "2026-10-16-bleached-corals-thrive-within-days-when-touching-healthy-neighbour.html",
+      "path": "posts/2026-10-16-bleached-corals-thrive-within-days-when-touching-healthy-neighbour.html",
+      "date_iso": "2026-10-16T23:38:27+00:00",
+      "source": "https://www.nature.com/articles/d41586-026-03266-x",
+      "summary": "https://archive.ph/zIPG4 Comments URL: https://news.ycombinator.com/item?id=50126253 Points: 475 # Comments: 101"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50125545",
       "title": "Nine-Inch Snails",
       "slug": "2026-10-16-nine-inch-snails.html",
@@ -62,6 +215,15 @@
       "date_iso": "2026-10-16T22:21:05+00:00",
       "source": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
       "summary": "Article URL: https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/ Comments URL: https://news.ycombinator.com/item?id=50125545 Points: 74 # Comments: 36"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50124730",
+      "title": "Teal – A statically-typed dialect of Lua",
+      "slug": "2026-10-16-teal-a-statically-typed-dialect-of-lua.html",
+      "path": "posts/2026-10-16-teal-a-statically-typed-dialect-of-lua.html",
+      "date_iso": "2026-10-16T21:07:24+00:00",
+      "source": "https://teal-language.org/",
+      "summary": "Article URL: https://teal-language.org/ Comments URL: https://news.ycombinator.com/item?id=50124730 Points: 48 # Comments: 13"
     },
     {
       "id": "https://www.nytimes.com/2026/10/16/technology/meta-midterms-funding.html",
