@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=50152207",
+      "title": "Stripe will acquire OpenRouter for $7.5B",
+      "slug": "2026-10-19-stripe-will-acquire-openrouter-for-7-5b.html",
+      "path": "posts/2026-10-19-stripe-will-acquire-openrouter-for-7-5b.html",
+      "date_iso": "2026-10-19T13:27:49+00:00",
+      "source": "https://startupfortune.com/stripe-will-pay-75-billion-for-openrouter-the-ai-model-traffic-cop/",
+      "summary": "Article URL: https://startupfortune.com/stripe-will-pay-75-billion-for-openrouter-the-ai-model-traffic-cop/ Comments URL: https://news.ycombinator.com/item?id=50152207 Points: 45 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50151928",
+      "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+      "slug": "2026-10-19-show-hn-qwen3-4b-with-the-ai-writing-tics-trained-out.html",
+      "path": "posts/2026-10-19-show-hn-qwen3-4b-with-the-ai-writing-tics-trained-out.html",
+      "date_iso": "2026-10-19T13:00:47+00:00",
+      "source": "https://100toolkit.com/blog/deslop-model/",
+      "summary": "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 52 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50151390",
+      "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+      "slug": "2026-10-19-harness-engineering-101-the-llm-is-the-brain-the-harness-is-the-body.html",
+      "path": "posts/2026-10-19-harness-engineering-101-the-llm-is-the-brain-the-harness-is-the-body.html",
+      "date_iso": "2026-10-19T12:07:41+00:00",
+      "source": "https://github.com/IsuruMaduranga/harness-engineering-101",
+      "summary": "Article URL: https://github.com/IsuruMaduranga/harness-engineering-101 Comments URL: https://news.ycombinator.com/item?id=50151390 Points: 80 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50151059",
+      "title": "Harness2 by Google Research – Recursive Agent Harnessing",
+      "slug": "2026-10-19-harness2-by-google-research-recursive-agent-harnessing.html",
+      "path": "posts/2026-10-19-harness2-by-google-research-recursive-agent-harnessing.html",
+      "date_iso": "2026-10-19T11:28:45+00:00",
+      "source": "https://github.com/google-research/harness2",
+      "summary": "Article URL: https://github.com/google-research/harness2 Comments URL: https://news.ycombinator.com/item?id=50151059 Points: 25 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50150935",
+      "title": "ESA's Hera Will View Asteroid Scars from DART's Strike",
+      "slug": "2026-10-19-esa-s-hera-will-view-asteroid-scars-from-dart-s-strike.html",
+      "path": "posts/2026-10-19-esa-s-hera-will-view-asteroid-scars-from-dart-s-strike.html",
+      "date_iso": "2026-10-19T11:12:02+00:00",
+      "source": "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous",
+      "summary": "Article URL: https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous Comments URL: https://news.ycombinator.com/item?id=50150935 Points: 31 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50150927",
+      "title": "Alternatives to Animal Testing Are Finally Taking Off",
+      "slug": "2026-10-19-alternatives-to-animal-testing-are-finally-taking-off.html",
+      "path": "posts/2026-10-19-alternatives-to-animal-testing-are-finally-taking-off.html",
+      "date_iso": "2026-10-19T11:10:54+00:00",
+      "source": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+      "summary": "Article URL: https://spectrum.ieee.org/alternatives-to-animal-testing Comments URL: https://news.ycombinator.com/item?id=50150927 Points: 82 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50150809",
+      "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+      "slug": "2026-10-19-let-s-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation.html",
+      "path": "posts/2026-10-19-let-s-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation.html",
+      "date_iso": "2026-10-19T10:53:39+00:00",
+      "source": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+      "summary": "Article URL: https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166 Comments URL: https://news.ycombinator.com/item?id=50150809 Points: 80 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50150750",
+      "title": "Documents: Police officer gave her Flock login to her ICE agent husband",
+      "slug": "2026-10-19-documents-police-officer-gave-her-flock-login-to-her-ice-agent-husband.html",
+      "path": "posts/2026-10-19-documents-police-officer-gave-her-flock-login-to-her-ice-agent-husband.html",
+      "date_iso": "2026-10-19T10:45:14+00:00",
+      "source": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
+      "summary": "Article URL: https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816 Comments URL: https://news.ycombinator.com/item?id=50150750 Points: 422 # Comments: 205"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50150434",
+      "title": "Timestral: Mistral release time-series foundation models",
+      "slug": "2026-10-19-timestral-mistral-release-time-series-foundation-models.html",
+      "path": "posts/2026-10-19-timestral-mistral-release-time-series-foundation-models.html",
+      "date_iso": "2026-10-19T09:59:32+00:00",
+      "source": "https://mistral.ai/news/timestral/",
+      "summary": "Article URL: https://mistral.ai/news/timestral/ Comments URL: https://news.ycombinator.com/item?id=50150434 Points: 198 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50149392",
+      "title": "Linux 7.3 Released",
+      "slug": "2026-10-19-linux-7-3-released.html",
+      "path": "posts/2026-10-19-linux-7-3-released.html",
+      "date_iso": "2026-10-19T07:23:57+00:00",
+      "source": "https://lwn.net/Articles/1101143/",
+      "summary": "Article URL: https://lwn.net/Articles/1101143/ Comments URL: https://news.ycombinator.com/item?id=50149392 Points: 397 # Comments: 179"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50148855",
+      "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+      "slug": "2026-10-19-tmux-and-claude-code-sessions-send-keys-and-the-ceiling.html",
+      "path": "posts/2026-10-19-tmux-and-claude-code-sessions-send-keys-and-the-ceiling.html",
+      "date_iso": "2026-10-19T05:55:31+00:00",
+      "source": "https://crystl.dev/guides/tmux-for-ai-agents/",
+      "summary": "Article URL: https://crystl.dev/guides/tmux-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50148855 Points: 93 # Comments: 53"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50147492",
+      "title": "Superlite: A Faster Alternatie to Superpowers",
+      "slug": "2026-10-19-superlite-a-faster-alternatie-to-superpowers.html",
+      "path": "posts/2026-10-19-superlite-a-faster-alternatie-to-superpowers.html",
+      "date_iso": "2026-10-19T02:01:16+00:00",
+      "source": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+      "summary": "Article URL: https://contextfirst.blog/superlite-hand-an-agent-a-spec/ Comments URL: https://news.ycombinator.com/item?id=50147492 Points: 118 # Comments: 56"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50146625",
+      "title": "William Gibson and the trademarking of cyberspace",
+      "slug": "2026-10-18-william-gibson-and-the-trademarking-of-cyberspace.html",
+      "path": "posts/2026-10-18-william-gibson-and-the-trademarking-of-cyberspace.html",
+      "date_iso": "2026-10-18T23:37:57+00:00",
+      "source": "https://colo.to/cyberspace.html",
+      "summary": "Article URL: https://colo.to/cyberspace.html Comments URL: https://news.ycombinator.com/item?id=50146625 Points: 228 # Comments: 107"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50146624",
+      "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
+      "slug": "2026-10-18-how-quickly-can-the-dod-rebuild-and-recast-the-munitions-industrial-base.html",
+      "path": "posts/2026-10-18-how-quickly-can-the-dod-rebuild-and-recast-the-munitions-industrial-base.html",
+      "date_iso": "2026-10-18T23:37:54+00:00",
+      "source": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
+      "summary": "Article URL: https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base Comments URL: https://news.ycombinator.com/item?id=50146624 Points: 101 # Comments: 139"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50145715",
+      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+      "slug": "2026-10-18-show-hn-whatsapp-mcp-running-free-on-cloudflare.html",
+      "path": "posts/2026-10-18-show-hn-whatsapp-mcp-running-free-on-cloudflare.html",
+      "date_iso": "2026-10-18T21:36:10+00:00",
+      "source": "https://github.com/finereli/whatsapp-mcp",
+      "summary": "I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on. I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this. Import…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50145507",
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "slug": "2026-10-18-if-you-don-t-run-your-own-llm-proxy-how-do-you-know-whats-going-on.html",
+      "path": "posts/2026-10-18-if-you-don-t-run-your-own-llm-proxy-how-do-you-know-whats-going-on.html",
+      "date_iso": "2026-10-18T21:09:12+00:00",
+      "source": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 237 # Comments: 159"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50145337",
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "slug": "2026-10-18-hybrid-reasoning-agents-llm-agents-that-think-in-latent-space-act-through-text.html",
+      "path": "posts/2026-10-18-hybrid-reasoning-agents-llm-agents-that-think-in-latent-space-act-through-text.html",
+      "date_iso": "2026-10-18T20:48:14+00:00",
+      "source": "https://arxiv.org/abs/2610.18861",
+      "summary": "https://x.com/Jiaru_Zou/status/2110400256647340476 https://github.com/togethercomputer/HybridAgent https://huggingface.co/collections/togethercomputer/hybridag... Evaluations: https://arxiv.org/html/2610.18861v1#S5 Comments URL: https://news.ycombinator.com/item?id=50145337 Poin…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50144066",
+      "title": "Free Pascal compiler now supports dynamic packages",
+      "slug": "2026-10-18-free-pascal-compiler-now-supports-dynamic-packages.html",
+      "path": "posts/2026-10-18-free-pascal-compiler-now-supports-dynamic-packages.html",
+      "date_iso": "2026-10-18T18:48:04+00:00",
+      "source": "https://www.getlazarus.org/dynamic/",
+      "summary": "Article URL: https://www.getlazarus.org/dynamic/ Comments URL: https://news.ycombinator.com/item?id=50144066 Points: 181 # Comments: 44"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50143536",
+      "title": "PalmOS Lemmings",
+      "slug": "2026-10-18-palmos-lemmings.html",
+      "path": "posts/2026-10-18-palmos-lemmings.html",
+      "date_iso": "2026-10-18T17:56:59+00:00",
+      "source": "https://github.com/ardiri/palmos-lemmings",
+      "summary": "Article URL: https://github.com/ardiri/palmos-lemmings Comments URL: https://news.ycombinator.com/item?id=50143536 Points: 142 # Comments: 33"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50142573",
+      "title": "Someone behind the software",
+      "slug": "2026-10-18-someone-behind-the-software.html",
+      "path": "posts/2026-10-18-someone-behind-the-software.html",
+      "date_iso": "2026-10-18T16:32:00+00:00",
+      "source": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "summary": "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 499 # Comments: 180"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50139935",
       "title": "Kids are outsmarting social media bans. That's not a problem we need to solve",
       "slug": "2026-10-18-kids-are-outsmarting-social-media-bans-that-s-not-a-problem-we-need-to-solve.html",
