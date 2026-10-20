@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=50164991",
+      "title": "Hazel (YC W24) Is Hiring",
+      "slug": "2026-10-20-hazel-yc-w24-is-hiring.html",
+      "path": "posts/2026-10-20-hazel-yc-w24-is-hiring.html",
+      "date_iso": "2026-10-20T12:00:32+00:00",
+      "source": "https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci",
+      "summary": "Article URL: https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci Comments URL: https://news.ycombinator.com/item?id=50164991 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/20/technology/google-cloud-down-outage-europe.html",
+      "title": "Google Reports Cloud Disruptions in Europe Region",
+      "slug": "2026-10-20-google-reports-cloud-disruptions-in-europe-region.html",
+      "path": "posts/2026-10-20-google-reports-cloud-disruptions-in-europe-region.html",
+      "date_iso": "2026-10-20T11:34:52+00:00",
+      "source": "https://www.nytimes.com/2026/10/20/technology/google-cloud-down-outage-europe.html",
+      "summary": "A Google office in London. Its cloud services were experiencing intermittent network failures in the region, the company said on Tuesday."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50163961",
+      "title": "Google cloud outage takes down banks",
+      "slug": "2026-10-20-google-cloud-outage-takes-down-banks.html",
+      "path": "posts/2026-10-20-google-cloud-outage-takes-down-banks.html",
+      "date_iso": "2026-10-20T10:26:02+00:00",
+      "source": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+      "summary": "Article URL: https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/ Comments URL: https://news.ycombinator.com/item?id=50163961 Points: 81 # Comments: 28"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50163625",
+      "title": "Revolut down as users report app not working",
+      "slug": "2026-10-20-revolut-down-as-users-report-app-not-working.html",
+      "path": "posts/2026-10-20-revolut-down-as-users-report-app-not-working.html",
+      "date_iso": "2026-10-20T09:54:48+00:00",
+      "source": "https://www.bbc.com/news/articles/cxdd8mm6qy4mo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cxdd8mm6qy4mo Comments URL: https://news.ycombinator.com/item?id=50163625 Points: 76 # Comments: 45"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50163277",
+      "title": "DeepSeek just open-sourced its inference engine",
+      "slug": "2026-10-20-deepseek-just-open-sourced-its-inference-engine.html",
+      "path": "posts/2026-10-20-deepseek-just-open-sourced-its-inference-engine.html",
+      "date_iso": "2026-10-20T09:08:54+00:00",
+      "source": "https://github.com/deepseek-ai/DeepInfer",
+      "summary": "Article URL: https://github.com/deepseek-ai/DeepInfer Comments URL: https://news.ycombinator.com/item?id=50163277 Points: 703 # Comments: 241"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50163142",
+      "title": "There is no official XScreenSaver GitHub repository",
+      "slug": "2026-10-20-there-is-no-official-xscreensaver-github-repository.html",
+      "path": "posts/2026-10-20-there-is-no-official-xscreensaver-github-repository.html",
+      "date_iso": "2026-10-20T08:51:31+00:00",
+      "source": "https://github.com/xscreensaver-official/xscreensaver",
+      "summary": "Article URL: https://github.com/xscreensaver-official/xscreensaver Comments URL: https://news.ycombinator.com/item?id=50163142 Points: 63 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50162177",
+      "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+      "slug": "2026-10-20-microg-free-libre-re-implementation-of-google-s-proprietary-android-user-space.html",
+      "path": "posts/2026-10-20-microg-free-libre-re-implementation-of-google-s-proprietary-android-user-space.html",
+      "date_iso": "2026-10-20T06:37:07+00:00",
+      "source": "https://github.com/microg/GmsCore/wiki",
+      "summary": "Article URL: https://github.com/microg/GmsCore/wiki Comments URL: https://news.ycombinator.com/item?id=50162177 Points: 135 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50160877",
+      "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+      "slug": "2026-10-20-go-will-reject-certificate-chains-containing-eight-distrusted-spkis.html",
+      "path": "posts/2026-10-20-go-will-reject-certificate-chains-containing-eight-distrusted-spkis.html",
+      "date_iso": "2026-10-20T03:05:07+00:00",
+      "source": "https://github.com/golang/go/issues/82345",
+      "summary": "Article URL: https://github.com/golang/go/issues/82345 Comments URL: https://news.ycombinator.com/item?id=50160877 Points: 112 # Comments: 51"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html",
+      "title": "Saudis Aided Family of Engineer Accused of Bugging OpenAI, Prosecutors Say",
+      "slug": "2026-10-20-saudis-aided-family-of-engineer-accused-of-bugging-openai-prosecutors-say.html",
+      "path": "posts/2026-10-20-saudis-aided-family-of-engineer-accused-of-bugging-openai-prosecutors-say.html",
+      "date_iso": "2026-10-20T02:27:47+00:00",
+      "source": "https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html",
+      "summary": "The San Francisco offices of OpenAI, whose former employee Abdulrahman Alfozan is charged with trying to secretly record conversations."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50160494",
+      "title": "OpenBSD 8.0",
+      "slug": "2026-10-20-openbsd-8-0.html",
+      "path": "posts/2026-10-20-openbsd-8-0.html",
+      "date_iso": "2026-10-20T02:06:40+00:00",
+      "source": "https://www.openbsd.org/80.html",
+      "summary": "Article URL: https://www.openbsd.org/80.html Comments URL: https://news.ycombinator.com/item?id=50160494 Points: 353 # Comments: 109"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50159616",
+      "title": "France's supermarket fridges were vulnerable online for months",
+      "slug": "2026-10-20-france-s-supermarket-fridges-were-vulnerable-online-for-months.html",
+      "path": "posts/2026-10-20-france-s-supermarket-fridges-were-vulnerable-online-for-months.html",
+      "date_iso": "2026-10-20T00:00:49+00:00",
+      "source": "https://ipinfo.io/blog/france-fridges-hack",
+      "summary": "Related: Hackers activate automatic defrosting in supermarket fridges across Europe - https://news.ycombinator.com/item?id=50055304 - Oct 2026 (1007 comments) Comments URL: https://news.ycombinator.com/item?id=50159616 Points: 193 # Comments: 174"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50159341",
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "slug": "2026-10-19-whatsapp-s-help-pages-hid-llm-instructions-dont-recommend-a-regulator.html",
+      "path": "posts/2026-10-19-whatsapp-s-help-pages-hid-llm-instructions-dont-recommend-a-regulator.html",
+      "date_iso": "2026-10-19T23:22:18+00:00",
+      "source": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 529 # Comments: 151"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50159245",
+      "title": "How abliterated models can get you pwned",
+      "slug": "2026-10-19-how-abliterated-models-can-get-you-pwned.html",
+      "path": "posts/2026-10-19-how-abliterated-models-can-get-you-pwned.html",
+      "date_iso": "2026-10-19T23:08:52+00:00",
+      "source": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
+      "summary": "Article URL: https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned Comments URL: https://news.ycombinator.com/item?id=50159245 Points: 164 # Comments: 94"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50158942",
+      "title": "An ad-free Android TV",
+      "slug": "2026-10-19-an-ad-free-android-tv.html",
+      "path": "posts/2026-10-19-an-ad-free-android-tv.html",
+      "date_iso": "2026-10-19T22:32:37+00:00",
+      "source": "https://cretezy.com/2026/ad-free-android-tv",
+      "summary": "Article URL: https://cretezy.com/2026/ad-free-android-tv Comments URL: https://news.ycombinator.com/item?id=50158942 Points: 272 # Comments: 91"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/19/technology/elon-musk-spacex-stock-anthropic-giveaway.html",
+      "title": "Elon Musk Says He Will Give a SpaceX Share to ‘Every Kid in America’",
+      "slug": "2026-10-19-elon-musk-says-he-will-give-a-spacex-share-to-every-kid-in-america.html",
+      "path": "posts/2026-10-19-elon-musk-says-he-will-give-a-spacex-share-to-every-kid-in-america.html",
+      "date_iso": "2026-10-19T22:12:02+00:00",
+      "source": "https://www.nytimes.com/2026/10/19/technology/elon-musk-spacex-stock-anthropic-giveaway.html",
+      "summary": "Elon Musk said he would give one share of SpaceX stock to every child in America, but did not specify how."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50158138",
+      "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+      "slug": "2026-10-19-openbsd-8-0-release-will-have-inteldrm-radeondrm-amdgpu-drivers-from-linux-6-18.html",
+      "path": "posts/2026-10-19-openbsd-8-0-release-will-have-inteldrm-radeondrm-amdgpu-drivers-from-linux-6-18.html",
+      "date_iso": "2026-10-19T21:11:45+00:00",
+      "source": "https://bsd.network/@brynet/117407035545900963",
+      "summary": "Article URL: https://bsd.network/@brynet/117407035545900963 Comments URL: https://news.ycombinator.com/item?id=50158138 Points: 161 # Comments: 38"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50154540",
+      "title": "MiniMax M3.1 Flash",
+      "slug": "2026-10-19-minimax-m3-1-flash.html",
+      "path": "posts/2026-10-19-minimax-m3-1-flash.html",
+      "date_iso": "2026-10-19T16:39:09+00:00",
+      "source": "https://www.minimax.io/blog/minimax-m31f",
+      "summary": "Article URL: https://www.minimax.io/blog/minimax-m31f Comments URL: https://news.ycombinator.com/item?id=50154540 Points: 483 # Comments: 206"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50154244",
+      "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+      "slug": "2026-10-19-deepseek-banned-from-u-s-federal-civilian-agencies-under-new-dhs-order.html",
+      "path": "posts/2026-10-19-deepseek-banned-from-u-s-federal-civilian-agencies-under-new-dhs-order.html",
+      "date_iso": "2026-10-19T16:16:46+00:00",
+      "source": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+      "summary": "https://public-inspection.federalregister.gov/2026-21447.pdf Comments URL: https://news.ycombinator.com/item?id=50154244 Points: 338 # Comments: 298"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50153664",
+      "title": "Ukraine claims first drone evacuation of wounded soldier",
+      "slug": "2026-10-19-ukraine-claims-first-drone-evacuation-of-wounded-soldier.html",
+      "path": "posts/2026-10-19-ukraine-claims-first-drone-evacuation-of-wounded-soldier.html",
+      "date_iso": "2026-10-19T15:31:34+00:00",
+      "source": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
+      "summary": "Article URL: https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310 Comments URL: https://news.ycombinator.com/item?id=50153664 Points: 333 # Comments: 252"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50152539",
+      "title": "Why Is Speculative Decoding Fast?",
+      "slug": "2026-10-19-why-is-speculative-decoding-fast.html",
+      "path": "posts/2026-10-19-why-is-speculative-decoding-fast.html",
+      "date_iso": "2026-10-19T13:53:41+00:00",
+      "source": "https://jbarrow.ai/2026-10-08-why-is-speculative-decoding-fast/",
+      "summary": "Article URL: https://jbarrow.ai/2026-10-08-why-is-speculative-decoding-fast/ Comments URL: https://news.ycombinator.com/item?id=50152539 Points: 29 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50152466",
+      "title": "Maxwell: A new kind of model that sits between code and hardware",
+      "slug": "2026-10-19-maxwell-a-new-kind-of-model-that-sits-between-code-and-hardware.html",
+      "path": "posts/2026-10-19-maxwell-a-new-kind-of-model-that-sits-between-code-and-hardware.html",
+      "date_iso": "2026-10-19T13:47:56+00:00",
+      "source": "https://heymaxwell.ai/",
+      "summary": "Hi HN, I'm Gal from doubleAI. We've built Maxwell, a new kind of frontier model we call a Code Execution Model. It sits between your code and the hardware. No humans in the loop! Maxwell makes the code run faster as it runs, without ever changing a single line. Maxwell sees prog…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50152307",
+      "title": "Wine ported to OpenBSD",
+      "slug": "2026-10-19-wine-ported-to-openbsd.html",
+      "path": "posts/2026-10-19-wine-ported-to-openbsd.html",
+      "date_iso": "2026-10-19T13:35:34+00:00",
+      "source": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+      "summary": "Article URL: https://marc.info/?l=openbsd-ports&amp;m=179236125692175 Comments URL: https://news.ycombinator.com/item?id=50152307 Points: 581 # Comments: 196"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50152207",
       "title": "Stripe will acquire OpenRouter for $7.5B",
       "slug": "2026-10-19-stripe-will-acquire-openrouter-for-7-5b.html",
@@ -35,6 +233,15 @@
       "date_iso": "2026-10-19T11:28:45+00:00",
       "source": "https://github.com/google-research/harness2",
       "summary": "Article URL: https://github.com/google-research/harness2 Comments URL: https://news.ycombinator.com/item?id=50151059 Points: 25 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50151036",
+      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "slug": "2026-10-19-ask-hn-how-to-deal-with-shipping-ai-written-code-you-don-t-understand.html",
+      "path": "posts/2026-10-19-ask-hn-how-to-deal-with-shipping-ai-written-code-you-don-t-understand.html",
+      "date_iso": "2026-10-19T11:24:34+00:00",
+      "source": "https://news.ycombinator.com/item?id=50151036",
+      "summary": "I saw this LinkedIn post from a Meta engineer and it resonated with me: https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m... > I'm an engineer at Meta and I never felt this uncomfortable doing my job. I'm writing code these days and it all feels like a black box. This…"
     },
     {
       "id": "https://news.ycombinator.com/item?id=50150935",
