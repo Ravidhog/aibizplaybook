@@ -1,6 +1,240 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=50179455",
+      "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
+      "slug": "2026-10-21-9-mothers-yc-p26-is-hiring-in-austin-tx.html",
+      "path": "posts/2026-10-21-9-mothers-yc-p26-is-hiring-in-austin-tx.html",
+      "date_iso": "2026-10-21T12:00:24+00:00",
+      "source": "https://9mothers.com/careers",
+      "summary": "Article URL: https://9mothers.com/careers Comments URL: https://news.ycombinator.com/item?id=50179455 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/21/world/europe/uk-underground-headphones-commuters.html",
+      "title": "UK to Headphone Dodgers on Trains: Shush",
+      "slug": "2026-10-21-uk-to-headphone-dodgers-on-trains-shush.html",
+      "path": "posts/2026-10-21-uk-to-headphone-dodgers-on-trains-shush.html",
+      "date_iso": "2026-10-21T11:01:21+00:00",
+      "source": "https://www.nytimes.com/2026/10/21/world/europe/uk-underground-headphones-commuters.html",
+      "summary": "Traveling on the London subway in April. Prime Minister Andy Burnham announced a national campaign against “one of the most annoying things on public transport” — people blasting music or videos from their phone."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50178455",
+      "title": "Whatever Happened to Fire Escapes",
+      "slug": "2026-10-21-whatever-happened-to-fire-escapes.html",
+      "path": "posts/2026-10-21-whatever-happened-to-fire-escapes.html",
+      "date_iso": "2026-10-21T10:14:43+00:00",
+      "source": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
+      "summary": "Article URL: https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes Comments URL: https://news.ycombinator.com/item?id=50178455 Points: 55 # Comments: 24"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50177916",
+      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+      "slug": "2026-10-21-eight-bits-of-trust-emudhra-s-ca-keys-cracked-in-milliseconds.html",
+      "path": "posts/2026-10-21-eight-bits-of-trust-emudhra-s-ca-keys-cracked-in-milliseconds.html",
+      "date_iso": "2026-10-21T09:08:08+00:00",
+      "source": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "summary": "Article URL: https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/ Comments URL: https://news.ycombinator.com/item?id=50177916 Points: 309 # Comments: 124"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50177911",
+      "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
+      "slug": "2026-10-21-the-1-5-c-goal-of-the-paris-agreement-is-no-longer-viable.html",
+      "path": "posts/2026-10-21-the-1-5-c-goal-of-the-paris-agreement-is-no-longer-viable.html",
+      "date_iso": "2026-10-21T09:07:49+00:00",
+      "source": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+      "summary": "Article URL: https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/ Comments URL: https://news.ycombinator.com/item?id=50177911 Points: 435 # Comments: 477"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50175779",
+      "title": "Using Claude to reduce the attack surface of code",
+      "slug": "2026-10-21-using-claude-to-reduce-the-attack-surface-of-code.html",
+      "path": "posts/2026-10-21-using-claude-to-reduce-the-attack-surface-of-code.html",
+      "date_iso": "2026-10-21T03:36:43+00:00",
+      "source": "https://www.anthropic.com/research/attack-surface-reduction",
+      "summary": "Article URL: https://www.anthropic.com/research/attack-surface-reduction Comments URL: https://news.ycombinator.com/item?id=50175779 Points: 77 # Comments: 34"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html",
+      "title": "China Criticizes U.S. Ban on DeepSeek A.I. in Government Systems",
+      "slug": "2026-10-21-china-criticizes-u-s-ban-on-deepseek-a-i-in-government-systems.html",
+      "path": "posts/2026-10-21-china-criticizes-u-s-ban-on-deepseek-a-i-in-government-systems.html",
+      "date_iso": "2026-10-21T03:15:01+00:00",
+      "source": "https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html",
+      "summary": "A DeepSeek AI sign at the company’s office in Beijing."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50175510",
+      "title": "C# now beats Rust on WASM size",
+      "slug": "2026-10-21-c-now-beats-rust-on-wasm-size.html",
+      "path": "posts/2026-10-21-c-now-beats-rust-on-wasm-size.html",
+      "date_iso": "2026-10-21T02:53:47+00:00",
+      "source": "https://github.com/zion-sati/NetWasm",
+      "summary": "Article URL: https://github.com/zion-sati/NetWasm Comments URL: https://news.ycombinator.com/item?id=50175510 Points: 105 # Comments: 45"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50175185",
+      "title": "In Hilbert space, all things are quantumly possible",
+      "slug": "2026-10-21-in-hilbert-space-all-things-are-quantumly-possible.html",
+      "path": "posts/2026-10-21-in-hilbert-space-all-things-are-quantumly-possible.html",
+      "date_iso": "2026-10-21T02:04:15+00:00",
+      "source": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+      "summary": "Article URL: https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/ Comments URL: https://news.ycombinator.com/item?id=50175185 Points: 109 # Comments: 58"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50175070",
+      "title": "The Future of CSS",
+      "slug": "2026-10-21-the-future-of-css.html",
+      "path": "posts/2026-10-21-the-future-of-css.html",
+      "date_iso": "2026-10-21T01:47:28+00:00",
+      "source": "https://www.joshwcomeau.com/css/interop-2027/",
+      "summary": "Article URL: https://www.joshwcomeau.com/css/interop-2027/ Comments URL: https://news.ycombinator.com/item?id=50175070 Points: 434 # Comments: 180"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50175059",
+      "title": "Good type against all odds",
+      "slug": "2026-10-21-good-type-against-all-odds.html",
+      "path": "posts/2026-10-21-good-type-against-all-odds.html",
+      "date_iso": "2026-10-21T01:45:07+00:00",
+      "source": "https://unsung.aresluna.org/good-type-against-all-odds/",
+      "summary": "Article URL: https://unsung.aresluna.org/good-type-against-all-odds/ Comments URL: https://news.ycombinator.com/item?id=50175059 Points: 147 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50174687",
+      "title": "Muse exposes users' personal and business secrets when they share conversations",
+      "slug": "2026-10-21-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations.html",
+      "path": "posts/2026-10-21-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations.html",
+      "date_iso": "2026-10-21T00:45:59+00:00",
+      "source": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "summary": "Article URL: https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/ Comments URL: https://news.ycombinator.com/item?id=50174687 Points: 224 # Comments: 108"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50173891",
+      "title": "The Other Epidemic: Trying to get off benzodiazepines",
+      "slug": "2026-10-20-the-other-epidemic-trying-to-get-off-benzodiazepines.html",
+      "path": "posts/2026-10-20-the-other-epidemic-trying-to-get-off-benzodiazepines.html",
+      "date_iso": "2026-10-20T23:04:09+00:00",
+      "source": "https://www.thebeliever.net/the-other-epidemic/",
+      "summary": "https://web.archive.org/web/20261020230542/https://www.thebe... https://archive.ph/Tb1SZ Comments URL: https://news.ycombinator.com/item?id=50173891 Points: 215 # Comments: 170"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/20/business/media/netflix-earnings-ted-sarandos-peter-rice.html",
+      "title": "Netflix Is Great at Making Money. Its Problem Is Keeping Viewers Hooked.",
+      "slug": "2026-10-20-netflix-is-great-at-making-money-its-problem-is-keeping-viewers-hooked.html",
+      "path": "posts/2026-10-20-netflix-is-great-at-making-money-its-problem-is-keeping-viewers-hooked.html",
+      "date_iso": "2026-10-20T22:39:40+00:00",
+      "source": "https://www.nytimes.com/2026/10/20/business/media/netflix-earnings-ted-sarandos-peter-rice.html",
+      "summary": "Despite being the most-watched paid streaming service in the world, Netflix is not growing fast enough for its top executives or its shareholders."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/20/technology/spacex-earnings-elon-musk.html",
+      "title": "SpaceX Swings to a Profit, as A.I. Business Grows",
+      "slug": "2026-10-20-spacex-swings-to-a-profit-as-a-i-business-grows.html",
+      "path": "posts/2026-10-20-spacex-swings-to-a-profit-as-a-i-business-grows.html",
+      "date_iso": "2026-10-20T22:37:38+00:00",
+      "source": "https://www.nytimes.com/2026/10/20/technology/spacex-earnings-elon-musk.html",
+      "summary": "SpaceX’s performance on the stock market is a barometer for Anthropic, the A.I. company that may go public as early as next month."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50173487",
+      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+      "slug": "2026-10-20-feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site.html",
+      "path": "posts/2026-10-20-feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site.html",
+      "date_iso": "2026-10-20T22:21:05+00:00",
+      "source": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "summary": "Article URL: https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/ Comments URL: https://news.ycombinator.com/item?id=50173487 Points: 223 # Comments: 107"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50172041",
+      "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+      "slug": "2026-10-20-upcoming-critical-php-security-release-cve-2026-109618-109619.html",
+      "path": "posts/2026-10-20-upcoming-critical-php-security-release-cve-2026-109618-109619.html",
+      "date_iso": "2026-10-20T20:15:50+00:00",
+      "source": "https://news-web.php.net/php.announce/509",
+      "summary": "https://cert.europa.eu/publications/security-advisories/2026... https://news.ycombinator.com/item?id=50167754 Comments URL: https://news.ycombinator.com/item?id=50172041 Points: 1178 # Comments: 475"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/20/business/boeing-737-max-10-faa.html",
+      "title": "Boeing’s Large 737 Max Jet Secures U.S. Approval",
+      "slug": "2026-10-20-boeing-s-large-737-max-jet-secures-u-s-approval.html",
+      "path": "posts/2026-10-20-boeing-s-large-737-max-jet-secures-u-s-approval.html",
+      "date_iso": "2026-10-20T20:04:15+00:00",
+      "source": "https://www.nytimes.com/2026/10/20/business/boeing-737-max-10-faa.html",
+      "summary": "A Boeing 737 Max 10 in production at the company’s factory in Everett, Wash., in July."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50170593",
+      "title": "Show HN: SimCity, but with Permits",
+      "slug": "2026-10-20-show-hn-simcity-but-with-permits.html",
+      "path": "posts/2026-10-20-show-hn-simcity-but-with-permits.html",
+      "date_iso": "2026-10-20T18:29:09+00:00",
+      "source": "https://permit.petercai.com/",
+      "summary": "Article URL: https://permit.petercai.com/ Comments URL: https://news.ycombinator.com/item?id=50170593 Points: 836 # Comments: 388"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/20/technology/meta-joel-kaplan-policy-chief-depart.html",
+      "title": "Joel Kaplan, Meta’s Global Policy Chief, to Leave After 15 Years",
+      "slug": "2026-10-20-joel-kaplan-meta-s-global-policy-chief-to-leave-after-15-years.html",
+      "path": "posts/2026-10-20-joel-kaplan-meta-s-global-policy-chief-to-leave-after-15-years.html",
+      "date_iso": "2026-10-20T18:18:07+00:00",
+      "source": "https://www.nytimes.com/2026/10/20/technology/meta-joel-kaplan-policy-chief-depart.html",
+      "summary": "Joel Kaplan, right, Meta’s chief global affairs officer, in Washington in 2025."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50169707",
+      "title": "What shall I teach my son?",
+      "slug": "2026-10-20-what-shall-i-teach-my-son.html",
+      "path": "posts/2026-10-20-what-shall-i-teach-my-son.html",
+      "date_iso": "2026-10-20T17:25:07+00:00",
+      "source": "https://stevekrouse.com/ends",
+      "summary": "Article URL: https://stevekrouse.com/ends Comments URL: https://news.ycombinator.com/item?id=50169707 Points: 423 # Comments: 510"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50169053",
+      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+      "slug": "2026-10-20-google-open-sources-torchtpu-a-native-pytorch-back-end-for-tpus.html",
+      "path": "posts/2026-10-20-google-open-sources-torchtpu-a-native-pytorch-back-end-for-tpus.html",
+      "date_iso": "2026-10-20T16:40:24+00:00",
+      "source": "https://github.com/google-pytorch/torch_tpu",
+      "summary": "Article URL: https://github.com/google-pytorch/torch_tpu Comments URL: https://news.ycombinator.com/item?id=50169053 Points: 356 # Comments: 74"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50168396",
+      "title": "Voxtral 3",
+      "slug": "2026-10-20-voxtral-3.html",
+      "path": "posts/2026-10-20-voxtral-3.html",
+      "date_iso": "2026-10-20T16:02:07+00:00",
+      "source": "https://mistral.ai/news/voxtral-3/",
+      "summary": "Article URL: https://mistral.ai/news/voxtral-3/ Comments URL: https://news.ycombinator.com/item?id=50168396 Points: 715 # Comments: 175"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50167028",
+      "title": "Ofcom concedes defeat in 4chan case",
+      "slug": "2026-10-20-ofcom-concedes-defeat-in-4chan-case.html",
+      "path": "posts/2026-10-20-ofcom-concedes-defeat-in-4chan-case.html",
+      "date_iso": "2026-10-20T14:30:31+00:00",
+      "source": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+      "summary": "Article URL: https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/ Comments URL: https://news.ycombinator.com/item?id=50167028 Points: 405 # Comments: 323"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50166579",
+      "title": "eMudhra intermediate CA compromise",
+      "slug": "2026-10-20-emudhra-intermediate-ca-compromise.html",
+      "path": "posts/2026-10-20-emudhra-intermediate-ca-compromise.html",
+      "date_iso": "2026-10-20T13:58:33+00:00",
+      "source": "https://emudhra.we-have-a-problem.com/",
+      "summary": "https://blog.mozilla.org/security/2026/10/20/protecting-fire... https://bugzilla.mozilla.org/show_bug.cgi?id=2083449 Comments URL: https://news.ycombinator.com/item?id=50166579 Points: 1048 # Comments: 418"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50165215",
+      "title": "Four Years with Decker",
+      "slug": "2026-10-20-four-years-with-decker.html",
+      "path": "posts/2026-10-20-four-years-with-decker.html",
+      "date_iso": "2026-10-20T12:18:02+00:00",
+      "source": "https://beyondloom.com/blog/fouryearsdecker.html",
+      "summary": "Article URL: https://beyondloom.com/blog/fouryearsdecker.html Comments URL: https://news.ycombinator.com/item?id=50165215 Points: 51 # Comments: 10"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50164991",
       "title": "Hazel (YC W24) Is Hiring",
       "slug": "2026-10-20-hazel-yc-w24-is-hiring.html",
