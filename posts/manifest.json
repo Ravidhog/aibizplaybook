@@ -1,6 +1,249 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=50194070",
+      "title": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
+      "slug": "2026-10-22-amazon-identifies-oct-17-php2shell-exploitation-prior-to-public-disclosure.html",
+      "path": "posts/2026-10-22-amazon-identifies-oct-17-php2shell-exploitation-prior-to-public-disclosure.html",
+      "date_iso": "2026-10-22T11:50:36+00:00",
+      "source": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
+      "summary": "Article URL: https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/ Comments URL: https://news.ycombinator.com/item?id=50194070 Points: 31 # Comments: 2"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
+      "title": "Global Rush to Fix PHP Security Flaw Leaves Some Websites Offline",
+      "slug": "2026-10-22-global-rush-to-fix-php-security-flaw-leaves-some-websites-offline.html",
+      "path": "posts/2026-10-22-global-rush-to-fix-php-security-flaw-leaves-some-websites-offline.html",
+      "date_iso": "2026-10-22T11:48:14+00:00",
+      "source": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
+      "summary": "Prime Minister Rob Jetten of the Netherlands in Brussels last week. He said that his cabinet was closely monitoring the online vulnerability caused by a security flaw in PHP."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50194009",
+      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
+      "slug": "2026-10-22-xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-bought.html",
+      "path": "posts/2026-10-22-xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-bought.html",
+      "date_iso": "2026-10-22T11:42:03+00:00",
+      "source": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+      "summary": "Article URL: https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/ Comments URL: https://news.ycombinator.com/item?id=50194009 Points: 53 # Comments: 53"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50193804",
+      "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+      "slug": "2026-10-22-several-linux-kernel-vulnerabilities-accidentally-posted-to-public-mailing-list.html",
+      "path": "posts/2026-10-22-several-linux-kernel-vulnerabilities-accidentally-posted-to-public-mailing-list.html",
+      "date_iso": "2026-10-22T11:12:37+00:00",
+      "source": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+      "summary": "Article URL: https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities Comments URL: https://news.ycombinator.com/item?id=50193804 Points: 77 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50193170",
+      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+      "slug": "2026-10-22-faster-than-earcut-triangulating-3-7m-map-polygons-in-489-ms.html",
+      "path": "posts/2026-10-22-faster-than-earcut-triangulating-3-7m-map-polygons-in-489-ms.html",
+      "date_iso": "2026-10-22T09:31:18+00:00",
+      "source": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+      "summary": "Article URL: https://globus.software/blog/2026/10/16/cutting-map-polygons/ Comments URL: https://news.ycombinator.com/item?id=50193170 Points: 77 # Comments: 16"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/22/technology/ai-data-centers-paint.html",
+      "title": "How the A.I. Boom Is Driving Up Sales of Gray Paint",
+      "slug": "2026-10-22-how-the-a-i-boom-is-driving-up-sales-of-gray-paint.html",
+      "path": "posts/2026-10-22-how-the-a-i-boom-is-driving-up-sales-of-gray-paint.html",
+      "date_iso": "2026-10-22T09:02:51+00:00",
+      "source": "https://www.nytimes.com/2026/10/22/technology/ai-data-centers-paint.html",
+      "summary": "Tech companies are painting data centers with gray coatings on top of gray concrete and steel to resist fire, rust and static electricity. That has made data centers a fast-growing market for paint makers."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50192900",
+      "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+      "slug": "2026-10-22-cve-2026-111943-compromised-intermediate-certificate-authority.html",
+      "path": "posts/2026-10-22-cve-2026-111943-compromised-intermediate-certificate-authority.html",
+      "date_iso": "2026-10-22T08:51:31+00:00",
+      "source": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+      "summary": "Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-111943 Comments URL: https://news.ycombinator.com/item?id=50192900 Points: 205 # Comments: 54"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50192536",
+      "title": "Jailbreaking the Switch 2",
+      "slug": "2026-10-22-jailbreaking-the-switch-2.html",
+      "path": "posts/2026-10-22-jailbreaking-the-switch-2.html",
+      "date_iso": "2026-10-22T08:01:52+00:00",
+      "source": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "summary": "Article URL: https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/ Comments URL: https://news.ycombinator.com/item?id=50192536 Points: 161 # Comments: 53"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50191507",
+      "title": "OpenAI CLI",
+      "slug": "2026-10-22-openai-cli.html",
+      "path": "posts/2026-10-22-openai-cli.html",
+      "date_iso": "2026-10-22T05:23:11+00:00",
+      "source": "https://github.com/openai/openai-cli",
+      "summary": "Article URL: https://github.com/openai/openai-cli Comments URL: https://news.ycombinator.com/item?id=50191507 Points: 160 # Comments: 82"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50190455",
+      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+      "slug": "2026-10-22-the-recently-proposed-o-n-log-n-integer-multiplication-algorithm-pdf.html",
+      "path": "posts/2026-10-22-the-recently-proposed-o-n-log-n-integer-multiplication-algorithm-pdf.html",
+      "date_iso": "2026-10-22T02:30:52+00:00",
+      "source": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+      "summary": "Article URL: https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf Comments URL: https://news.ycombinator.com/item?id=50190455 Points: 230 # Comments: 174"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50190363",
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "slug": "2026-10-22-worldtui-i-trained-a-360m-model-to-pretend-to-be-a-terminal.html",
+      "path": "posts/2026-10-22-worldtui-i-trained-a-360m-model-to-pretend-to-be-a-terminal.html",
+      "date_iso": "2026-10-22T02:18:41+00:00",
+      "source": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "summary": "Article URL: https://simedw.com/2026/10/21/world-model-terminal/ Comments URL: https://news.ycombinator.com/item?id=50190363 Points: 312 # Comments: 93"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html",
+      "title": "How Mark Zuckerberg Pushed Meta to Shield Him From California’s Proposed Wealth Tax",
+      "slug": "2026-10-22-how-mark-zuckerberg-pushed-meta-to-shield-him-from-california-s-proposed-wealth-tax.html",
+      "path": "posts/2026-10-22-how-mark-zuckerberg-pushed-meta-to-shield-him-from-california-s-proposed-wealth-tax.html",
+      "date_iso": "2026-10-22T01:21:13+00:00",
+      "source": "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html",
+      "summary": "Mark Zuckerberg, the chief executive of Meta, at his home in Lake Tahoe, Calif. He has another California home in Palo Alto, close to Meta’s headquarters."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50189232",
+      "title": "mitmproxy adds --emudhra option",
+      "slug": "2026-10-21-mitmproxy-adds-emudhra-option.html",
+      "path": "posts/2026-10-21-mitmproxy-adds-emudhra-option.html",
+      "date_iso": "2026-10-21T23:51:37+00:00",
+      "source": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+      "summary": "Article URL: https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b Comments URL: https://news.ycombinator.com/item?id=50189232 Points: 525 # Comments: 127"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/21/technology/meta-penalty-new-mexico.html",
+      "title": "Meta Ordered to Pay $25 Billion Over Cambridge Analytica Privacy Violations",
+      "slug": "2026-10-21-meta-ordered-to-pay-25-billion-over-cambridge-analytica-privacy-violations.html",
+      "path": "posts/2026-10-21-meta-ordered-to-pay-25-billion-over-cambridge-analytica-privacy-violations.html",
+      "date_iso": "2026-10-21T22:57:53+00:00",
+      "source": "https://www.nytimes.com/2026/10/21/technology/meta-penalty-new-mexico.html",
+      "summary": "Meta’s annual Meta Connect event at the company’s Menlo Park, Calif., campus."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/21/technology/anthropic-ai-agent-claude-duet.html",
+      "title": "Anthropic Joins the A.I. Agent Race With Claude Duet",
+      "slug": "2026-10-21-anthropic-joins-the-a-i-agent-race-with-claude-duet.html",
+      "path": "posts/2026-10-21-anthropic-joins-the-a-i-agent-race-with-claude-duet.html",
+      "date_iso": "2026-10-21T22:45:12+00:00",
+      "source": "https://www.nytimes.com/2026/10/21/technology/anthropic-ai-agent-claude-duet.html",
+      "summary": "Anthropic’s new A.I. agent, Claude Duet."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/21/technology/meta-earnings.html",
+      "title": "Meta Earnings Show Increased A.I. Spending, Even as Cash Pressures Grow",
+      "slug": "2026-10-21-meta-earnings-show-increased-a-i-spending-even-as-cash-pressures-grow.html",
+      "path": "posts/2026-10-21-meta-earnings-show-increased-a-i-spending-even-as-cash-pressures-grow.html",
+      "date_iso": "2026-10-21T22:42:39+00:00",
+      "source": "https://www.nytimes.com/2026/10/21/technology/meta-earnings.html",
+      "summary": "Construction of Meta’s Richland Parish Data Center in Holly Ridge, La."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50188228",
+      "title": "Security Disclosure",
+      "slug": "2026-10-21-security-disclosure.html",
+      "path": "posts/2026-10-21-security-disclosure.html",
+      "date_iso": "2026-10-21T21:58:03+00:00",
+      "source": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "summary": "Article URL: https://blog.railway.com/p/security-disclosure-wednesday-october-21st Comments URL: https://news.ycombinator.com/item?id=50188228 Points: 503 # Comments: 293"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50186037",
+      "title": "Claude Duet",
+      "slug": "2026-10-21-claude-duet.html",
+      "path": "posts/2026-10-21-claude-duet.html",
+      "date_iso": "2026-10-21T19:14:01+00:00",
+      "source": "https://claude.com/product/claude-duet",
+      "summary": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 440 # Comments: 403"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50186010",
+      "title": "Rust Style Guide",
+      "slug": "2026-10-21-rust-style-guide.html",
+      "path": "posts/2026-10-21-rust-style-guide.html",
+      "date_iso": "2026-10-21T19:11:57+00:00",
+      "source": "https://google.github.io/styleguide/rustguide.html",
+      "summary": "Article URL: https://google.github.io/styleguide/rustguide.html Comments URL: https://news.ycombinator.com/item?id=50186010 Points: 332 # Comments: 195"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50185869",
+      "title": "GitLab critical patch release",
+      "slug": "2026-10-21-gitlab-critical-patch-release.html",
+      "path": "posts/2026-10-21-gitlab-critical-patch-release.html",
+      "date_iso": "2026-10-21T19:01:12+00:00",
+      "source": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+      "summary": "Article URL: https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/ Comments URL: https://news.ycombinator.com/item?id=50185869 Points: 366 # Comments: 86"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html",
+      "title": "GM Aims to Bring ‘Eyes-Off’ Driving to AI-Powered Cars Within 2 Years",
+      "slug": "2026-10-21-gm-aims-to-bring-eyes-off-driving-to-ai-powered-cars-within-2-years.html",
+      "path": "posts/2026-10-21-gm-aims-to-bring-eyes-off-driving-to-ai-powered-cars-within-2-years.html",
+      "date_iso": "2026-10-21T18:23:52+00:00",
+      "source": "https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html",
+      "summary": "A General Motors factory for electric vehicles in Lake Orion, Mich. The company said this week that it would drastically cut the cost of electric vehicle batteries."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50184820",
+      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "slug": "2026-10-21-meta-ordered-to-pay-25b-penalty-in-new-mexico-cambridge-analytica-case.html",
+      "path": "posts/2026-10-21-meta-ordered-to-pay-25b-penalty-in-new-mexico-cambridge-analytica-case.html",
+      "date_iso": "2026-10-21T17:45:13+00:00",
+      "source": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+      "summary": "https://nmdoj.gov/press-release/the-new-mexico-department-of... Comments URL: https://news.ycombinator.com/item?id=50184820 Points: 598 # Comments: 342"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50182987",
+      "title": "Today's PHP security release, and how we're strengthening security",
+      "slug": "2026-10-21-today-s-php-security-release-and-how-we-re-strengthening-security.html",
+      "path": "posts/2026-10-21-today-s-php-security-release-and-how-we-re-strengthening-security.html",
+      "date_iso": "2026-10-21T15:48:56+00:00",
+      "source": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "summary": "Related ongoing thread: PHP 8.2.35 - https://news.ycombinator.com/item?id=50180873 (links to more at https://news.ycombinator.com/item?id=50184935 ) Comments URL: https://news.ycombinator.com/item?id=50182987 Points: 759 # Comments: 374"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50181136",
+      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+      "slug": "2026-10-21-duckdb-2-0-0-lts-cinnamon-teal.html",
+      "path": "posts/2026-10-21-duckdb-2-0-0-lts-cinnamon-teal.html",
+      "date_iso": "2026-10-21T14:01:22+00:00",
+      "source": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+      "summary": "Article URL: https://duckdb.org/2026/10/21/announcing-duckdb-200 Comments URL: https://news.ycombinator.com/item?id=50181136 Points: 432 # Comments: 58"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50181114",
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "slug": "2026-10-21-compromised-litellm-1-107-0-on-pypi-installs-a-credential-stealer-and-backdoor.html",
+      "path": "posts/2026-10-21-compromised-litellm-1-107-0-on-pypi-installs-a-credential-stealer-and-backdoor.html",
+      "date_iso": "2026-10-21T14:00:26+00:00",
+      "source": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "summary": "Article URL: https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/ Comments URL: https://news.ycombinator.com/item?id=50181114 Points: 545 # Comments: 176"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/21/insider/trump-ai-videos-photos.html",
+      "title": "How The New York Times Reports on A.I. Images",
+      "slug": "2026-10-21-how-the-new-york-times-reports-on-a-i-images.html",
+      "path": "posts/2026-10-21-how-the-new-york-times-reports-on-a-i-images.html",
+      "date_iso": "2026-10-21T13:21:54+00:00",
+      "source": "https://www.nytimes.com/2026/10/21/insider/trump-ai-videos-photos.html",
+      "summary": "A Times reporter and editors discuss the challenges of sifting through what’s real and what’s not in pursuit of the news."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50180079",
+      "title": "OpenAI models are coming to Google Cloud",
+      "slug": "2026-10-21-openai-models-are-coming-to-google-cloud.html",
+      "path": "posts/2026-10-21-openai-models-are-coming-to-google-cloud.html",
+      "date_iso": "2026-10-21T12:53:11+00:00",
+      "source": "https://openai.com/index/openai-models-google-cloud/",
+      "summary": "Article URL: https://openai.com/index/openai-models-google-cloud/ Comments URL: https://news.ycombinator.com/item?id=50180079 Points: 304 # Comments: 126"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50179455",
       "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
       "slug": "2026-10-21-9-mothers-yc-p26-is-hiring-in-austin-tx.html",
@@ -44,6 +287,15 @@
       "date_iso": "2026-10-21T09:07:49+00:00",
       "source": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
       "summary": "Article URL: https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/ Comments URL: https://news.ycombinator.com/item?id=50177911 Points: 435 # Comments: 477"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50176082",
+      "title": "Using LLM for confidence scoring is a bad idea",
+      "slug": "2026-10-21-using-llm-for-confidence-scoring-is-a-bad-idea.html",
+      "path": "posts/2026-10-21-using-llm-for-confidence-scoring-is-a-bad-idea.html",
+      "date_iso": "2026-10-21T04:27:51+00:00",
+      "source": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "summary": "Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html Comments URL: https://news.ycombinator.com/item?id=50176082 Points: 122 # Comments: 66"
     },
     {
       "id": "https://news.ycombinator.com/item?id=50175779",
