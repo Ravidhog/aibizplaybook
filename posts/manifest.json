@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=50220204",
+      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+      "slug": "2026-10-24-ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesn-t-exist.html",
+      "path": "posts/2026-10-24-ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesn-t-exist.html",
+      "date_iso": "2026-10-24T11:18:54+00:00",
+      "source": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+      "summary": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204 Points: 13 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50220145",
+      "title": "Node.js Vulnerability Blog",
+      "slug": "2026-10-24-node-js-vulnerability-blog.html",
+      "path": "posts/2026-10-24-node-js-vulnerability-blog.html",
+      "date_iso": "2026-10-24T11:08:47+00:00",
+      "source": "https://nodejs.org/en/blog/vulnerability",
+      "summary": "Article URL: https://nodejs.org/en/blog/vulnerability Comments URL: https://news.ycombinator.com/item?id=50220145 Points: 6 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50219666",
+      "title": "I Don't Understand Quantum Physics (2018)",
+      "slug": "2026-10-24-i-don-t-understand-quantum-physics-2018.html",
+      "path": "posts/2026-10-24-i-don-t-understand-quantum-physics-2018.html",
+      "date_iso": "2026-10-24T09:53:26+00:00",
+      "source": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "summary": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 87 # Comments: 46"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50219177",
+      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "slug": "2026-10-24-node2shell-evolves-to-http2shell-blast-radius-affects-many-http-libs-and-apps.html",
+      "path": "posts/2026-10-24-node2shell-evolves-to-http2shell-blast-radius-affects-many-http-libs-and-apps.html",
+      "date_iso": "2026-10-24T08:06:39+00:00",
+      "source": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "summary": "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 27 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50218633",
+      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+      "slug": "2026-10-24-hacker-reverses-samsung-tv-finds-on-board-ai-listening-openai-account-suspended.html",
+      "path": "posts/2026-10-24-hacker-reverses-samsung-tv-finds-on-board-ai-listening-openai-account-suspended.html",
+      "date_iso": "2026-10-24T05:49:57+00:00",
+      "source": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+      "summary": "Article URL: https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/ Comments URL: https://news.ycombinator.com/item?id=50218633 Points: 208 # Comments: 54"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50218430",
+      "title": "OBS Studio 33",
+      "slug": "2026-10-24-obs-studio-33.html",
+      "path": "posts/2026-10-24-obs-studio-33.html",
+      "date_iso": "2026-10-24T04:49:58+00:00",
+      "source": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "summary": "Article URL: https://github.com/obsproject/obs-studio/releases/tag/33.0.0 Comments URL: https://news.ycombinator.com/item?id=50218430 Points: 190 # Comments: 62"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50218195",
+      "title": "How close can pure functional programming get to C?",
+      "slug": "2026-10-24-how-close-can-pure-functional-programming-get-to-c.html",
+      "path": "posts/2026-10-24-how-close-can-pure-functional-programming-get-to-c.html",
+      "date_iso": "2026-10-24T03:43:54+00:00",
+      "source": "https://rtfeldman.com/fp-vs-c",
+      "summary": "Article URL: https://rtfeldman.com/fp-vs-c Comments URL: https://news.ycombinator.com/item?id=50218195 Points: 138 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50217946",
+      "title": "How Block Blast harvests its players for ad money",
+      "slug": "2026-10-24-how-block-blast-harvests-its-players-for-ad-money.html",
+      "path": "posts/2026-10-24-how-block-blast-harvests-its-players-for-ad-money.html",
+      "date_iso": "2026-10-24T02:43:43+00:00",
+      "source": "https://ayoships.com/breakdowns/block-blast",
+      "summary": "Article URL: https://ayoships.com/breakdowns/block-blast Comments URL: https://news.ycombinator.com/item?id=50217946 Points: 57 # Comments: 24"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50217903",
+      "title": "Apple Security Research Device",
+      "slug": "2026-10-24-apple-security-research-device.html",
+      "path": "posts/2026-10-24-apple-security-research-device.html",
+      "date_iso": "2026-10-24T02:36:38+00:00",
+      "source": "https://security.apple.com/research-device/",
+      "summary": "Article URL: https://security.apple.com/research-device/ Comments URL: https://news.ycombinator.com/item?id=50217903 Points: 80 # Comments: 31"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50217500",
+      "title": "Twelve years of distributed SQLite",
+      "slug": "2026-10-24-twelve-years-of-distributed-sqlite.html",
+      "path": "posts/2026-10-24-twelve-years-of-distributed-sqlite.html",
+      "date_iso": "2026-10-24T01:16:58+00:00",
+      "source": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "summary": "Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/ Comments URL: https://news.ycombinator.com/item?id=50217500 Points: 224 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50217495",
+      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+      "slug": "2026-10-24-around-a-dozen-banking-apps-began-specifically-permitting-grapheneos.html",
+      "path": "posts/2026-10-24-around-a-dozen-banking-apps-began-specifically-permitting-grapheneos.html",
+      "date_iso": "2026-10-24T01:15:14+00:00",
+      "source": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117492375462459244 Comments URL: https://news.ycombinator.com/item?id=50217495 Points: 162 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50215828",
+      "title": "One Man's Pan Am 747 Replica [video]",
+      "slug": "2026-10-23-one-man-s-pan-am-747-replica-video.html",
+      "path": "posts/2026-10-23-one-man-s-pan-am-747-replica-video.html",
+      "date_iso": "2026-10-23T21:46:51+00:00",
+      "source": "https://www.youtube.com/watch?v=vAFwHGGfPz4",
+      "summary": "Article URL: https://www.youtube.com/watch?v=vAFwHGGfPz4 Comments URL: https://news.ycombinator.com/item?id=50215828 Points: 40 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50215530",
+      "title": "CVE Tracker",
+      "slug": "2026-10-23-cve-tracker.html",
+      "path": "posts/2026-10-23-cve-tracker.html",
+      "date_iso": "2026-10-23T21:21:47+00:00",
+      "source": "https://cve.0xosprey.com/",
+      "summary": "Article URL: https://cve.0xosprey.com/ Comments URL: https://news.ycombinator.com/item?id=50215530 Points: 175 # Comments: 69"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50214373",
+      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+      "slug": "2026-10-23-show-hn-corgi-a-helpful-agent-terminal-multiplexer.html",
+      "path": "posts/2026-10-23-show-hn-corgi-a-helpful-agent-terminal-multiplexer.html",
+      "date_iso": "2026-10-23T19:46:38+00:00",
+      "source": "https://corgi.computer/",
+      "summary": "Hey everyone, Inspired by Herdr, I've built an agent multiplexer that I've been using as my daily driver for a few weeks now. I think I improved on the concept in a few ways, focusing on the ergonomics I always wished I had: I show you what the agents are up to, along with a run…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50213925",
+      "title": "Dessa: Conversation Model trained only on speech",
+      "slug": "2026-10-23-dessa-conversation-model-trained-only-on-speech.html",
+      "path": "posts/2026-10-23-dessa-conversation-model-trained-only-on-speech.html",
+      "date_iso": "2026-10-23T19:09:54+00:00",
+      "source": "https://block.xyz/dessa",
+      "summary": "Article URL: https://block.xyz/dessa Comments URL: https://news.ycombinator.com/item?id=50213925 Points: 403 # Comments: 148"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50212507",
+      "title": "Air Purifiers as White Noise Machines",
+      "slug": "2026-10-23-air-purifiers-as-white-noise-machines.html",
+      "path": "posts/2026-10-23-air-purifiers-as-white-noise-machines.html",
+      "date_iso": "2026-10-23T17:28:36+00:00",
+      "source": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+      "summary": "Article URL: https://www.jefftk.com/p/air-purifiers-as-white-noise-machines Comments URL: https://news.ycombinator.com/item?id=50212507 Points: 139 # Comments: 129"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50212065",
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "slug": "2026-10-23-kimi-k3-1-pro-and-k3-1-pro-highspeed.html",
+      "path": "posts/2026-10-23-kimi-k3-1-pro-and-k3-1-pro-highspeed.html",
+      "date_iso": "2026-10-23T16:59:08+00:00",
+      "source": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "summary": "https://www.kimi.com/code/docs/en/kimi-code/models.html https://artificialanalysis.ai/models/kimi-k3-1-pro https://www.modelcompare.ai/blog/china-open-source-ai Comments URL: https://news.ycombinator.com/item?id=50212065 Points: 937 # Comments: 558"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50211474",
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "slug": "2026-10-23-today-we-hacked-what-we-d-set-out-to-hack-the-iphone.html",
+      "path": "posts/2026-10-23-today-we-hacked-what-we-d-set-out-to-hack-the-iphone.html",
+      "date_iso": "2026-10-23T16:21:50+00:00",
+      "source": "https://blog.calif.io/p/iphone",
+      "summary": "Article URL: https://blog.calif.io/p/iphone Comments URL: https://news.ycombinator.com/item?id=50211474 Points: 910 # Comments: 593"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/23/technology/personaltech/iphone-duo-review-tablet-smartphone.html",
+      "title": "Apple’s Foldable iPhone Duo Arrives in Stores: Smartphone Review",
+      "slug": "2026-10-23-apple-s-foldable-iphone-duo-arrives-in-stores-smartphone-review.html",
+      "path": "posts/2026-10-23-apple-s-foldable-iphone-duo-arrives-in-stores-smartphone-review.html",
+      "date_iso": "2026-10-23T16:14:56+00:00",
+      "source": "https://www.nytimes.com/2026/10/23/technology/personaltech/iphone-duo-review-tablet-smartphone.html",
+      "summary": "The first-generation Apple foldable may feel awkward, but it’s an intriguing step toward merging phones and tablets into one."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/23/business/energy-environment/ohio-election-gas-prices.html",
+      "title": "Why Anger About Data Centers and Energy Prices May Not Swing Votes",
+      "slug": "2026-10-23-why-anger-about-data-centers-and-energy-prices-may-not-swing-votes.html",
+      "path": "posts/2026-10-23-why-anger-about-data-centers-and-energy-prices-may-not-swing-votes.html",
+      "date_iso": "2026-10-23T16:00:09+00:00",
+      "source": "https://www.nytimes.com/2026/10/23/business/energy-environment/ohio-election-gas-prices.html",
+      "summary": "In interviews, Ohio residents described data centers as threats to their communities. But many of them said the issue was not driving their choice for senator or governor."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50207910",
+      "title": "Apple Music 404 Not Found",
+      "slug": "2026-10-23-apple-music-404-not-found.html",
+      "path": "posts/2026-10-23-apple-music-404-not-found.html",
+      "date_iso": "2026-10-23T12:28:47+00:00",
+      "source": "https://music.apple.com/this-url-doesnt-exist",
+      "summary": "https://www.macrumors.com/2026/10/23/apple-music-has-a-hidde... Comments URL: https://news.ycombinator.com/item?id=50207910 Points: 792 # Comments: 238"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50207405",
       "title": "Swedish government offices to ban ChatGPT and Claude",
       "slug": "2026-10-23-swedish-government-offices-to-ban-chatgpt-and-claude.html",
