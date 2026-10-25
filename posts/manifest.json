@@ -1,6 +1,186 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=50230384",
+      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+      "slug": "2026-10-25-fheroes2-a-recreation-of-heroes-of-might-and-magic-ii-game-engine.html",
+      "path": "posts/2026-10-25-fheroes2-a-recreation-of-heroes-of-might-and-magic-ii-game-engine.html",
+      "date_iso": "2026-10-25T11:09:12+00:00",
+      "source": "https://github.com/ihhub/fheroes2",
+      "summary": "Article URL: https://github.com/ihhub/fheroes2 Comments URL: https://news.ycombinator.com/item?id=50230384 Points: 21 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50230181",
+      "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+      "slug": "2026-10-25-samsung-running-a-tensorflow-lite-model-on-960x540-image-to-track-you.html",
+      "path": "posts/2026-10-25-samsung-running-a-tensorflow-lite-model-on-960x540-image-to-track-you.html",
+      "date_iso": "2026-10-25T10:42:01+00:00",
+      "source": "https://twitter.com/mike64_t/status/2114150399406202896",
+      "summary": "Article URL: https://twitter.com/mike64_t/status/2114150399406202896 Comments URL: https://news.ycombinator.com/item?id=50230181 Points: 60 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50229861",
+      "title": "France asked ISPs to prepare temporary DNS blocks for major social platforms",
+      "slug": "2026-10-25-france-asked-isps-to-prepare-temporary-dns-blocks-for-major-social-platforms.html",
+      "path": "posts/2026-10-25-france-asked-isps-to-prepare-temporary-dns-blocks-for-major-social-platforms.html",
+      "date_iso": "2026-10-25T09:56:49+00:00",
+      "source": "https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ",
+      "summary": "Article URL: https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ Comments URL: https://news.ycombinator.com/item?id=50229861 Points: 87 # Comments: 75"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50229827",
+      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+      "slug": "2026-10-25-nikon-photography-contest-winner-loses-title-after-scientists-spot-signs-of-ai.html",
+      "path": "posts/2026-10-25-nikon-photography-contest-winner-loses-title-after-scientists-spot-signs-of-ai.html",
+      "date_iso": "2026-10-25T09:51:17+00:00",
+      "source": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "summary": "Article URL: https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html Comments URL: https://news.ycombinator.com/item?id=50229827 Points: 18 # Comments: 1"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
+      "title": "Elon Musk Says Ukraine Violated Starlink’s Rules",
+      "slug": "2026-10-25-elon-musk-says-ukraine-violated-starlink-s-rules.html",
+      "path": "posts/2026-10-25-elon-musk-says-ukraine-violated-starlink-s-rules.html",
+      "date_iso": "2026-10-25T09:28:35+00:00",
+      "source": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
+      "summary": "Ukrainian soldiers operated a drone over Russian-occupied territory from the Zaporizhzhia region in 2023."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50229599",
+      "title": "Online censorship is crushing indie webcomics",
+      "slug": "2026-10-25-online-censorship-is-crushing-indie-webcomics.html",
+      "path": "posts/2026-10-25-online-censorship-is-crushing-indie-webcomics.html",
+      "date_iso": "2026-10-25T09:04:13+00:00",
+      "source": "https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463",
+      "summary": "Article URL: https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463 Comments URL: https://news.ycombinator.com/item?id=50229599 Points: 83 # Comments: 63"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-4-killer-tasks.html",
+      "title": "Put Your A.I. Agents to Work with These 4 Killer Tasks",
+      "slug": "2026-10-25-put-your-a-i-agents-to-work-with-these-4-killer-tasks.html",
+      "path": "posts/2026-10-25-put-your-a-i-agents-to-work-with-these-4-killer-tasks.html",
+      "date_iso": "2026-10-25T09:01:00+00:00",
+      "source": "https://www.nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-4-killer-tasks.html",
+      "summary": "When you start using Meta’s Muse and OpenAI’s dots for these tasks — like applying for jobs and booking hard-to-get restaurant tables — you may never go back."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50229587",
+      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+      "slug": "2026-10-25-meta-ignores-brazilian-court-order-to-end-bolsonaro-favoritism.html",
+      "path": "posts/2026-10-25-meta-ignores-brazilian-court-order-to-end-bolsonaro-favoritism.html",
+      "date_iso": "2026-10-25T09:00:40+00:00",
+      "source": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+      "summary": "Article URL: https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order Comments URL: https://news.ycombinator.com/item?id=50229587 Points: 265 # Comments: 163"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50227356",
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "slug": "2026-10-25-cerebras-deploys-trillion-parameter-ai-models.html",
+      "path": "posts/2026-10-25-cerebras-deploys-trillion-parameter-ai-models.html",
+      "date_iso": "2026-10-25T01:33:49+00:00",
+      "source": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 212 # Comments: 65"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50226577",
+      "title": "Why Gopher in 2026?",
+      "slug": "2026-10-24-why-gopher-in-2026.html",
+      "path": "posts/2026-10-24-why-gopher-in-2026.html",
+      "date_iso": "2026-10-24T23:33:19+00:00",
+      "source": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+      "summary": "Article URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt Comments URL: https://news.ycombinator.com/item?id=50226577 Points: 87 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50226419",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "slug": "2026-10-24-america-has-lost-200k-of-jobs-in-media-film-and-the-arts-how-much-is-ai.html",
+      "path": "posts/2026-10-24-america-has-lost-200k-of-jobs-in-media-film-and-the-arts-how-much-is-ai.html",
+      "date_iso": "2026-10-24T23:11:54+00:00",
+      "source": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 389 # Comments: 398"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50225695",
+      "title": "We should be more ambitious with the software we build",
+      "slug": "2026-10-24-we-should-be-more-ambitious-with-the-software-we-build.html",
+      "path": "posts/2026-10-24-we-should-be-more-ambitious-with-the-software-we-build.html",
+      "date_iso": "2026-10-24T21:47:31+00:00",
+      "source": "https://danluu.com/ambitious/",
+      "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 482 # Comments: 419"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50225674",
+      "title": "Small Programs and Languages",
+      "slug": "2026-10-24-small-programs-and-languages.html",
+      "path": "posts/2026-10-24-small-programs-and-languages.html",
+      "date_iso": "2026-10-24T21:44:23+00:00",
+      "source": "https://ratfactor.com/cards/pl-small",
+      "summary": "Article URL: https://ratfactor.com/cards/pl-small Comments URL: https://news.ycombinator.com/item?id=50225674 Points: 129 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50225663",
+      "title": "The Importance of Limitations for Creativity and Learning (2023)",
+      "slug": "2026-10-24-the-importance-of-limitations-for-creativity-and-learning-2023.html",
+      "path": "posts/2026-10-24-the-importance-of-limitations-for-creativity-and-learning-2023.html",
+      "date_iso": "2026-10-24T21:42:47+00:00",
+      "source": "https://ratfactor.com/cards/limitations",
+      "summary": "Article URL: https://ratfactor.com/cards/limitations Comments URL: https://news.ycombinator.com/item?id=50225663 Points: 83 # Comments: 24"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50224210",
+      "title": "SpeedCrunch 1.1",
+      "slug": "2026-10-24-speedcrunch-1-1.html",
+      "path": "posts/2026-10-24-speedcrunch-1-1.html",
+      "date_iso": "2026-10-24T19:19:43+00:00",
+      "source": "https://www.speedcrunch.org/",
+      "summary": "Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: 167 # Comments: 31"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50224100",
+      "title": "The Goose Programming Language",
+      "slug": "2026-10-24-the-goose-programming-language.html",
+      "path": "posts/2026-10-24-the-goose-programming-language.html",
+      "date_iso": "2026-10-24T19:06:55+00:00",
+      "source": "https://aardappel.github.io/goose/",
+      "summary": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 438 # Comments: 270"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50223777",
+      "title": "Bbtree: Fastest Ordered Map",
+      "slug": "2026-10-24-bbtree-fastest-ordered-map.html",
+      "path": "posts/2026-10-24-bbtree-fastest-ordered-map.html",
+      "date_iso": "2026-10-24T18:22:14+00:00",
+      "source": "https://bbtree.xiangpeng.systems/post/",
+      "summary": "Article URL: https://bbtree.xiangpeng.systems/post/ Comments URL: https://news.ycombinator.com/item?id=50223777 Points: 125 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50222927",
+      "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+      "slug": "2026-10-24-the-st-helena-5-pence-coin-shows-jonathan-a-roughly-190-year-old-tortoise.html",
+      "path": "posts/2026-10-24-the-st-helena-5-pence-coin-shows-jonathan-a-roughly-190-year-old-tortoise.html",
+      "date_iso": "2026-10-24T16:41:55+00:00",
+      "source": "https://de.numista.com/9866",
+      "summary": "Article URL: https://de.numista.com/9866 Comments URL: https://news.ycombinator.com/item?id=50222927 Points: 124 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50222525",
+      "title": "Neural chip decodes interactions between brain regions",
+      "slug": "2026-10-24-neural-chip-decodes-interactions-between-brain-regions.html",
+      "path": "posts/2026-10-24-neural-chip-decodes-interactions-between-brain-regions.html",
+      "date_iso": "2026-10-24T15:57:17+00:00",
+      "source": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+      "summary": "Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ Comments URL: https://news.ycombinator.com/item?id=50222525 Points: 111 # Comments: 43"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50222133",
+      "title": "FreeDNS",
+      "slug": "2026-10-24-freedns.html",
+      "path": "posts/2026-10-24-freedns.html",
+      "date_iso": "2026-10-24T15:20:01+00:00",
+      "source": "https://freedns.afraid.org/",
+      "summary": "Article URL: https://freedns.afraid.org/ Comments URL: https://news.ycombinator.com/item?id=50222133 Points: 305 # Comments: 83"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50220204",
       "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
       "slug": "2026-10-24-ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesn-t-exist.html",
@@ -17,6 +197,15 @@
       "date_iso": "2026-10-24T11:08:47+00:00",
       "source": "https://nodejs.org/en/blog/vulnerability",
       "summary": "Article URL: https://nodejs.org/en/blog/vulnerability Comments URL: https://news.ycombinator.com/item?id=50220145 Points: 6 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50219700",
+      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+      "slug": "2026-10-24-gpu-unlock-fp-bf16-instruction-issue-rate-on-nvidia-3000-s-cards.html",
+      "path": "posts/2026-10-24-gpu-unlock-fp-bf16-instruction-issue-rate-on-nvidia-3000-s-cards.html",
+      "date_iso": "2026-10-24T09:58:27+00:00",
+      "source": "https://github.com/Zagitta/gpu-unlock",
+      "summary": "Article URL: https://github.com/Zagitta/gpu-unlock Comments URL: https://news.ycombinator.com/item?id=50219700 Points: 266 # Comments: 73"
     },
     {
       "id": "https://news.ycombinator.com/item?id=50219666",
