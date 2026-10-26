@@ -1,6 +1,213 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html",
+      "title": "Anthropic S-1 Reveals Rapid Growth Ahead of Blockbuster IPO",
+      "slug": "2026-10-26-anthropic-s-1-reveals-rapid-growth-ahead-of-blockbuster-ipo.html",
+      "path": "posts/2026-10-26-anthropic-s-1-reveals-rapid-growth-ahead-of-blockbuster-ipo.html",
+      "date_iso": "2026-10-26T13:49:11+00:00",
+      "source": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html",
+      "summary": "Anthropic, a powerhouse in A.I., is only five years old and seemingly came out of nowhere."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/26/technology/anthropic-founders.html",
+      "title": "Meet Anthropic’s Seven Founders",
+      "slug": "2026-10-26-meet-anthropic-s-seven-founders.html",
+      "path": "posts/2026-10-26-meet-anthropic-s-seven-founders.html",
+      "date_iso": "2026-10-26T13:34:56+00:00",
+      "source": "https://www.nytimes.com/2026/10/26/technology/anthropic-founders.html",
+      "summary": "Former OpenAI employees started the company in 2021 after disagreements over how to safely build artificial intelligence. An I.P.O. could make them billionaires."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50242993",
+      "title": "Anthropic S-1",
+      "slug": "2026-10-26-anthropic-s-1.html",
+      "path": "posts/2026-10-26-anthropic-s-1.html",
+      "date_iso": "2026-10-26T13:09:33+00:00",
+      "source": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm#ica694c859b8e458dbf6a73f56dde9d42_2972",
+      "summary": "Article URL: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm#ica694c859b8e458dbf6a73f56dde9d42_2972 Comments URL: https://news.ycombinator.com/item?id=50242993 Points: 13 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50242939",
+      "title": "Anthropic S-1",
+      "slug": "2026-10-26-anthropic-s-1.html",
+      "path": "posts/2026-10-26-anthropic-s-1.html",
+      "date_iso": "2026-10-26T13:04:50+00:00",
+      "source": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "summary": "Article URL: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm Comments URL: https://news.ycombinator.com/item?id=50242939 Points: 318 # Comments: 254"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50242870",
+      "title": "Fixing Tool-Call Accuracy in vLLM",
+      "slug": "2026-10-26-fixing-tool-call-accuracy-in-vllm.html",
+      "path": "posts/2026-10-26-fixing-tool-call-accuracy-in-vllm.html",
+      "date_iso": "2026-10-26T12:59:48+00:00",
+      "source": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+      "summary": "Article URL: https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm Comments URL: https://news.ycombinator.com/item?id=50242870 Points: 19 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50242734",
+      "title": "Peter Thiel, the tech oligarch who believes in the Antichrist",
+      "slug": "2026-10-26-peter-thiel-the-tech-oligarch-who-believes-in-the-antichrist.html",
+      "path": "posts/2026-10-26-peter-thiel-the-tech-oligarch-who-believes-in-the-antichrist.html",
+      "date_iso": "2026-10-26T12:49:31+00:00",
+      "source": "https://english.elpais.com/technology/2026-10-25/peter-thiel-the-tech-oligarch-who-believes-in-the-antichrist.html",
+      "summary": "Article URL: https://english.elpais.com/technology/2026-10-25/peter-thiel-the-tech-oligarch-who-believes-in-the-antichrist.html Comments URL: https://news.ycombinator.com/item?id=50242734 Points: 94 # Comments: 61"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50242555",
+      "title": "Writing Is Closer to Thought Than Code",
+      "slug": "2026-10-26-writing-is-closer-to-thought-than-code.html",
+      "path": "posts/2026-10-26-writing-is-closer-to-thought-than-code.html",
+      "date_iso": "2026-10-26T12:32:15+00:00",
+      "source": "https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code",
+      "summary": "Article URL: https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code Comments URL: https://news.ycombinator.com/item?id=50242555 Points: 22 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50241924",
+      "title": "Tasks as Code: Move Your Tickets into the Repository",
+      "slug": "2026-10-26-tasks-as-code-move-your-tickets-into-the-repository.html",
+      "path": "posts/2026-10-26-tasks-as-code-move-your-tickets-into-the-repository.html",
+      "date_iso": "2026-10-26T11:15:43+00:00",
+      "source": "https://typemill.net/knowledge-hub/tasks-as-code",
+      "summary": "Article URL: https://typemill.net/knowledge-hub/tasks-as-code Comments URL: https://news.ycombinator.com/item?id=50241924 Points: 30 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50241664",
+      "title": "Websites Should Be Printable",
+      "slug": "2026-10-26-websites-should-be-printable.html",
+      "path": "posts/2026-10-26-websites-should-be-printable.html",
+      "date_iso": "2026-10-26T10:32:14+00:00",
+      "source": "https://brennenputh.me/blog/printable-websites/",
+      "summary": "Article URL: https://brennenputh.me/blog/printable-websites/ Comments URL: https://news.ycombinator.com/item?id=50241664 Points: 99 # Comments: 90"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/26/us/politics/darline-graham-data-centers-south-carolina.html",
+      "title": "Darline Graham Gets Help From the Data Center Industry in South Carolina Senate Race",
+      "slug": "2026-10-26-darline-graham-gets-help-from-the-data-center-industry-in-south-carolina-senate-race.html",
+      "path": "posts/2026-10-26-darline-graham-gets-help-from-the-data-center-industry-in-south-carolina-senate-race.html",
+      "date_iso": "2026-10-26T09:03:34+00:00",
+      "source": "https://www.nytimes.com/2026/10/26/us/politics/darline-graham-data-centers-south-carolina.html",
+      "summary": "Senator Darline Graham of South Carolina has been friendlier toward the data center industry than her Democratic opponent, trying to walk a line between backing the centers’ development as a national security necessity while stressing the need for community involvement."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html",
+      "title": "What’s Riding on Anthropic Going Public? Nearly Everything.",
+      "slug": "2026-10-26-what-s-riding-on-anthropic-going-public-nearly-everything.html",
+      "path": "posts/2026-10-26-what-s-riding-on-anthropic-going-public-nearly-everything.html",
+      "date_iso": "2026-10-26T09:02:15+00:00",
+      "source": "https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html",
+      "summary": "Anthropic sits atop a pyramid of business partners and suppliers, making it a barometer of the broader economy. Its initial public offering will have widespread implications."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50240922",
+      "title": "Switzerland. Block by block. At 1:1 scale",
+      "slug": "2026-10-26-switzerland-block-by-block-at-1-1-scale.html",
+      "path": "posts/2026-10-26-switzerland-block-by-block-at-1-1-scale.html",
+      "date_iso": "2026-10-26T08:46:09+00:00",
+      "source": "https://blocks.manifold3d.ch/",
+      "summary": "Article URL: https://blocks.manifold3d.ch/ Comments URL: https://news.ycombinator.com/item?id=50240922 Points: 298 # Comments: 132"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50238763",
+      "title": "Behind the scenes at the NeXT Computer office",
+      "slug": "2026-10-26-behind-the-scenes-at-the-next-computer-office.html",
+      "path": "posts/2026-10-26-behind-the-scenes-at-the-next-computer-office.html",
+      "date_iso": "2026-10-26T03:31:11+00:00",
+      "source": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+      "summary": "Article URL: https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&amp;sort=pub_year_isi+asc%2C+title_sort+asc&amp;view=masonry Comments URL: https://news.ycombinator.com/item?id=50238763 Points: 173 # Comments: 96"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50238739",
+      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "slug": "2026-10-26-paperpilot-zero-cloud-pure-rust-pdf-engine-with-wasm-and-mcp.html",
+      "path": "posts/2026-10-26-paperpilot-zero-cloud-pure-rust-pdf-engine-with-wasm-and-mcp.html",
+      "date_iso": "2026-10-26T03:29:05+00:00",
+      "source": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "summary": "Article URL: https://github.com/KrushnaVardhanReddy/PaperPilot Comments URL: https://news.ycombinator.com/item?id=50238739 Points: 187 # Comments: 69"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50238708",
+      "title": "Show HN: TitleArt – Make text like it's 1997",
+      "slug": "2026-10-26-show-hn-titleart-make-text-like-it-s-1997.html",
+      "path": "posts/2026-10-26-show-hn-titleart-make-text-like-it-s-1997.html",
+      "date_iso": "2026-10-26T03:23:57+00:00",
+      "source": "https://titleart.dvy.io/",
+      "summary": "Article URL: https://titleart.dvy.io/ Comments URL: https://news.ycombinator.com/item?id=50238708 Points: 302 # Comments: 54"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50238088",
+      "title": "IBM CEO says open weight models are now good and cheap on-prem",
+      "slug": "2026-10-26-ibm-ceo-says-open-weight-models-are-now-good-and-cheap-on-prem.html",
+      "path": "posts/2026-10-26-ibm-ceo-says-open-weight-models-are-now-good-and-cheap-on-prem.html",
+      "date_iso": "2026-10-26T01:47:46+00:00",
+      "source": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+      "summary": "Article URL: https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640 Comments URL: https://news.ycombinator.com/item?id=50238088 Points: 350 # Comments: 251"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50237379",
+      "title": "Steal My Bitcoin CTF PoC",
+      "slug": "2026-10-26-steal-my-bitcoin-ctf-poc.html",
+      "path": "posts/2026-10-26-steal-my-bitcoin-ctf-poc.html",
+      "date_iso": "2026-10-26T00:15:17+00:00",
+      "source": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+      "summary": "Article URL: https://github.com/KillaBoi/StealMyBitcoin-PoC Comments URL: https://news.ycombinator.com/item?id=50237379 Points: 141 # Comments: 38"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50237224",
+      "title": "Attention Is Not What You Need (2025)",
+      "slug": "2026-10-25-attention-is-not-what-you-need-2025.html",
+      "path": "posts/2026-10-25-attention-is-not-what-you-need-2025.html",
+      "date_iso": "2026-10-25T23:52:05+00:00",
+      "source": "https://arxiv.org/abs/2512.19428",
+      "summary": "Article URL: https://arxiv.org/abs/2512.19428 Comments URL: https://news.ycombinator.com/item?id=50237224 Points: 148 # Comments: 53"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50237078",
+      "title": "F-Zero X on Nintendo 3DS",
+      "slug": "2026-10-25-f-zero-x-on-nintendo-3ds.html",
+      "path": "posts/2026-10-25-f-zero-x-on-nintendo-3ds.html",
+      "date_iso": "2026-10-25T23:27:30+00:00",
+      "source": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+      "summary": "Article URL: https://hypnotize.works/gdx-3ds/postmortem/index.html Comments URL: https://news.ycombinator.com/item?id=50237078 Points: 143 # Comments: 79"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50235780",
+      "title": "The State of Context Engineering",
+      "slug": "2026-10-25-the-state-of-context-engineering.html",
+      "path": "posts/2026-10-25-the-state-of-context-engineering.html",
+      "date_iso": "2026-10-25T20:32:31+00:00",
+      "source": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+      "summary": "Article URL: https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html Comments URL: https://news.ycombinator.com/item?id=50235780 Points: 218 # Comments: 56"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50235017",
+      "title": "Why I Am a Programmer",
+      "slug": "2026-10-25-why-i-am-a-programmer.html",
+      "path": "posts/2026-10-25-why-i-am-a-programmer.html",
+      "date_iso": "2026-10-25T19:11:31+00:00",
+      "source": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+      "summary": "Article URL: https://www.alfie.wtf/programming/why-i-am-a-programmer.html Comments URL: https://news.ycombinator.com/item?id=50235017 Points: 275 # Comments: 85"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50234474",
+      "title": "Dolly Parton's Imagination Library",
+      "slug": "2026-10-25-dolly-parton-s-imagination-library.html",
+      "path": "posts/2026-10-25-dolly-parton-s-imagination-library.html",
+      "date_iso": "2026-10-25T18:23:54+00:00",
+      "source": "https://imaginationlibrary.com/",
+      "summary": "With today's news, I thought I'd share this great program: “When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with their own dreams. They dream of becoming a doctor or an inventor or a minister. Wh…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50233779",
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "slug": "2026-10-25-a-10-year-old-cnn-outperforms-frontier-llms-for-skin-cancer-diagnosis.html",
+      "path": "posts/2026-10-25-a-10-year-old-cnn-outperforms-frontier-llms-for-skin-cancer-diagnosis.html",
+      "date_iso": "2026-10-25T17:15:38+00:00",
+      "source": "https://lynchlab.net/llm-skin-cancer",
+      "summary": "Article URL: https://lynchlab.net/llm-skin-cancer Comments URL: https://news.ycombinator.com/item?id=50233779 Points: 613 # Comments: 259"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50230384",
       "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
       "slug": "2026-10-25-fheroes2-a-recreation-of-heroes-of-might-and-magic-ii-game-engine.html",
@@ -64,6 +271,15 @@
       "summary": "When you start using Meta’s Muse and OpenAI’s dots for these tasks — like applying for jobs and booking hard-to-get restaurant tables — you may never go back."
     },
     {
+      "id": "https://www.nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-killer-tasks.html",
+      "title": "Put Your A.I. Agents to Work with These 5 Killer Tasks",
+      "slug": "2026-10-25-put-your-a-i-agents-to-work-with-these-5-killer-tasks.html",
+      "path": "posts/2026-10-25-put-your-a-i-agents-to-work-with-these-5-killer-tasks.html",
+      "date_iso": "2026-10-25T09:01:00+00:00",
+      "source": "https://www.nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-killer-tasks.html",
+      "summary": "When you start using Meta’s Muse and OpenAI’s dots for these tasks — like applying for jobs and booking hard-to-get restaurant tables — you may never go back."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50229587",
       "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
       "slug": "2026-10-25-meta-ignores-brazilian-court-order-to-end-bolsonaro-favoritism.html",
@@ -71,6 +287,15 @@
       "date_iso": "2026-10-25T09:00:40+00:00",
       "source": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
       "summary": "Article URL: https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order Comments URL: https://news.ycombinator.com/item?id=50229587 Points: 265 # Comments: 163"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50228115",
+      "title": "Show HN: A Truly Modular Keyboard",
+      "slug": "2026-10-25-show-hn-a-truly-modular-keyboard.html",
+      "path": "posts/2026-10-25-show-hn-a-truly-modular-keyboard.html",
+      "date_iso": "2026-10-25T03:47:56+00:00",
+      "source": "https://github.com/notaroomba/keybytes",
+      "summary": "Article URL: https://github.com/notaroomba/keybytes Comments URL: https://news.ycombinator.com/item?id=50228115 Points: 211 # Comments: 69"
     },
     {
       "id": "https://news.ycombinator.com/item?id=50227356",
