@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html",
+      "title": "AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them",
+      "slug": "2026-10-28-ai-is-finding-a-flood-of-bugs-and-silicon-valley-is-rushing-to-fix-them.html",
+      "path": "posts/2026-10-28-ai-is-finding-a-flood-of-bugs-and-silicon-valley-is-rushing-to-fix-them.html",
+      "date_iso": "2026-10-28T13:40:03+00:00",
+      "source": "https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html",
+      "summary": "A.I. has uncovered a horde of software flaws, which engineers are racing to fix before they can be exploited and abused by hackers."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50273171",
+      "title": "Emacs Turns 50",
+      "slug": "2026-10-28-emacs-turns-50.html",
+      "path": "posts/2026-10-28-emacs-turns-50.html",
+      "date_iso": "2026-10-28T13:25:11+00:00",
+      "source": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+      "summary": "Article URL: https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/ Comments URL: https://news.ycombinator.com/item?id=50273171 Points: 3 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50272749",
+      "title": "ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
+      "slug": "2026-10-28-ice-is-running-one-of-the-largest-anti-left-surveillance-ops-in-us-history.html",
+      "path": "posts/2026-10-28-ice-is-running-one-of-the-largest-anti-left-surveillance-ops-in-us-history.html",
+      "date_iso": "2026-10-28T12:49:45+00:00",
+      "source": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
+      "summary": "Article URL: https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/ Comments URL: https://news.ycombinator.com/item?id=50272749 Points: 110 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50272596",
+      "title": "Two high-speed trains collide near Toledo, Spain",
+      "slug": "2026-10-28-two-high-speed-trains-collide-near-toledo-spain.html",
+      "path": "posts/2026-10-28-two-high-speed-trains-collide-near-toledo-spain.html",
+      "date_iso": "2026-10-28T12:35:41+00:00",
+      "source": "https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash",
+      "summary": "Article URL: https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash Comments URL: https://news.ycombinator.com/item?id=50272596 Points: 59 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50272145",
+      "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
+      "slug": "2026-10-28-amazon-to-buy-satellite-firm-globalstar-in-11-57b-deal.html",
+      "path": "posts/2026-10-28-amazon-to-buy-satellite-firm-globalstar-in-11-57b-deal.html",
+      "date_iso": "2026-10-28T11:54:23+00:00",
+      "source": "https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/",
+      "summary": "Article URL: https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/ Comments URL: https://news.ycombinator.com/item?id=502721…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50271685",
+      "title": "About the compromised eMudhra intermediate CAs",
+      "slug": "2026-10-28-about-the-compromised-emudhra-intermediate-cas.html",
+      "path": "posts/2026-10-28-about-the-compromised-emudhra-intermediate-cas.html",
+      "date_iso": "2026-10-28T11:08:49+00:00",
+      "source": "https://support.apple.com/en-us/149555",
+      "summary": "Article URL: https://support.apple.com/en-us/149555 Comments URL: https://news.ycombinator.com/item?id=50271685 Points: 46 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50271640",
+      "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
+      "slug": "2026-10-28-ten-days-later-git-on-macos-still-trusts-the-compromised-emudhra-certificates.html",
+      "path": "posts/2026-10-28-ten-days-later-git-on-macos-still-trusts-the-compromised-emudhra-certificates.html",
+      "date_iso": "2026-10-28T11:03:40+00:00",
+      "source": "https://emudhra.we-have-a-problem.com/apple.html",
+      "summary": "Article URL: https://emudhra.we-have-a-problem.com/apple.html Comments URL: https://news.ycombinator.com/item?id=50271640 Points: 284 # Comments: 123"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50268380",
+      "title": "Git for the US Code",
+      "slug": "2026-10-28-git-for-the-us-code.html",
+      "path": "posts/2026-10-28-git-for-the-us-code.html",
+      "date_iso": "2026-10-28T01:47:50+00:00",
+      "source": "https://lexifina.com/blog/git-for-the-us-code",
+      "summary": "Article URL: https://lexifina.com/blog/git-for-the-us-code Comments URL: https://news.ycombinator.com/item?id=50268380 Points: 332 # Comments: 174"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50265609",
+      "title": "Early progress on accelerating drug development with Claude",
+      "slug": "2026-10-27-early-progress-on-accelerating-drug-development-with-claude.html",
+      "path": "posts/2026-10-27-early-progress-on-accelerating-drug-development-with-claude.html",
+      "date_iso": "2026-10-27T20:50:42+00:00",
+      "source": "https://www.anthropic.com/research/early-progress-drug-development",
+      "summary": "Article URL: https://www.anthropic.com/research/early-progress-drug-development Comments URL: https://news.ycombinator.com/item?id=50265609 Points: 263 # Comments: 255"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50265594",
+      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+      "slug": "2026-10-27-raspberry-pi-zero-3w-and-pi-4-model-a-spotted-in-device-trees.html",
+      "path": "posts/2026-10-27-raspberry-pi-zero-3w-and-pi-4-model-a-spotted-in-device-trees.html",
+      "date_iso": "2026-10-27T20:48:49+00:00",
+      "source": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+      "summary": "Article URL: https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/ Comments URL: https://news.ycombinator.com/item?id=50265594 Points: 189 # Comments: 111"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50265393",
+      "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+      "slug": "2026-10-27-code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth.html",
+      "path": "posts/2026-10-27-code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth.html",
+      "date_iso": "2026-10-27T20:35:09+00:00",
+      "source": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+      "summary": "Article URL: https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/ Comments URL: https://news.ycombinator.com/item?id=50265393 Points: 198 # Comments: 126"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50265128",
+      "title": "Four Months of Zig",
+      "slug": "2026-10-27-four-months-of-zig.html",
+      "path": "posts/2026-10-27-four-months-of-zig.html",
+      "date_iso": "2026-10-27T20:13:27+00:00",
+      "source": "https://gracefulliberty.com/articles/four-months-of-zig/",
+      "summary": "Article URL: https://gracefulliberty.com/articles/four-months-of-zig/ Comments URL: https://news.ycombinator.com/item?id=50265128 Points: 154 # Comments: 109"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50264857",
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "slug": "2026-10-27-tailscale-ssh-investigation-and-remediation-update.html",
+      "path": "posts/2026-10-27-tailscale-ssh-investigation-and-remediation-update.html",
+      "date_iso": "2026-10-27T19:55:21+00:00",
+      "source": "https://tailscale.com/ssh-investigation-update",
+      "summary": "Article URL: https://tailscale.com/ssh-investigation-update Comments URL: https://news.ycombinator.com/item?id=50264857 Points: 321 # Comments: 170"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50264853",
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "slug": "2026-10-27-survival-llm-ai-assistant-and-emergency-library-that-runs-on-your-own-computer.html",
+      "path": "posts/2026-10-27-survival-llm-ai-assistant-and-emergency-library-that-runs-on-your-own-computer.html",
+      "date_iso": "2026-10-27T19:55:06+00:00",
+      "source": "https://www.brangus.io/survival-llm",
+      "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 410 # Comments: 155"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/27/business/general-motors-nasdaq-nyse.html",
+      "title": "GM Is Leaving NYSE for the Nasdaq After More Than 100 Years",
+      "slug": "2026-10-27-gm-is-leaving-nyse-for-the-nasdaq-after-more-than-100-years.html",
+      "path": "posts/2026-10-27-gm-is-leaving-nyse-for-the-nasdaq-after-more-than-100-years.html",
+      "date_iso": "2026-10-27T17:46:24+00:00",
+      "source": "https://www.nytimes.com/2026/10/27/business/general-motors-nasdaq-nyse.html",
+      "summary": "At a General Motors factory in Tennessee."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50261998",
+      "title": "Ghostty 1.4",
+      "slug": "2026-10-27-ghostty-1-4.html",
+      "path": "posts/2026-10-27-ghostty-1-4.html",
+      "date_iso": "2026-10-27T16:51:22+00:00",
+      "source": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "summary": "Article URL: https://ghostty.org/docs/install/release-notes/1-4-0 Comments URL: https://news.ycombinator.com/item?id=50261998 Points: 1131 # Comments: 364"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50261647",
+      "title": "Classification of Finite Simple Groups Formalized in Lean",
+      "slug": "2026-10-27-classification-of-finite-simple-groups-formalized-in-lean.html",
+      "path": "posts/2026-10-27-classification-of-finite-simple-groups-formalized-in-lean.html",
+      "date_iso": "2026-10-27T16:29:02+00:00",
+      "source": "https://cfsg.axiommath.ai/",
+      "summary": "Article URL: https://cfsg.axiommath.ai/ Comments URL: https://news.ycombinator.com/item?id=50261647 Points: 224 # Comments: 68"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50261352",
+      "title": "New 14‑inch MacBook Pro with M6",
+      "slug": "2026-10-27-new-14-inch-macbook-pro-with-m6.html",
+      "path": "posts/2026-10-27-new-14-inch-macbook-pro-with-m6.html",
+      "date_iso": "2026-10-27T16:08:32+00:00",
+      "source": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "summary": "Article URL: https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/ Comments URL: https://news.ycombinator.com/item?id=50261352 Points: 386 # Comments: 531"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50261319",
+      "title": "Genie 4",
+      "slug": "2026-10-27-genie-4.html",
+      "path": "posts/2026-10-27-genie-4.html",
+      "date_iso": "2026-10-27T16:06:01+00:00",
+      "source": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "summary": "Article URL: https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/ Comments URL: https://news.ycombinator.com/item?id=50261319 Points: 948 # Comments: 544"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/27/technology/proposition-40-california-billionaire-tax.html",
+      "title": "How Billionaires Are Fighting the Prop 40 California Wealth Tax",
+      "slug": "2026-10-27-how-billionaires-are-fighting-the-prop-40-california-wealth-tax.html",
+      "path": "posts/2026-10-27-how-billionaires-are-fighting-the-prop-40-california-wealth-tax.html",
+      "date_iso": "2026-10-27T14:55:35+00:00",
+      "source": "https://www.nytimes.com/2026/10/27/technology/proposition-40-california-billionaire-tax.html",
+      "summary": "The latest Silicon Valley billionaire club is a $333 million political ad machine that is heavily engaged in next week’s elections."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50259604",
+      "title": "US Government is hiding a secret court ruling about how it spies on Americans",
+      "slug": "2026-10-27-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans.html",
+      "path": "posts/2026-10-27-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans.html",
+      "date_iso": "2026-10-27T14:06:42+00:00",
+      "source": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+      "summary": "Article URL: https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/ Comments URL: https://news.ycombinator.com/item?id=50259604 Points: 1001 # Comments: 387"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50258538",
+      "title": "New iMac with M6",
+      "slug": "2026-10-27-new-imac-with-m6.html",
+      "path": "posts/2026-10-27-new-imac-with-m6.html",
+      "date_iso": "2026-10-27T13:02:02+00:00",
+      "source": "https://www.apple.com/imac/",
+      "summary": "Article URL: https://www.apple.com/imac/ Comments URL: https://news.ycombinator.com/item?id=50258538 Points: 352 # Comments: 445"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50257548",
       "title": "Software may be getting worse, but it used to be horrible",
       "slug": "2026-10-27-software-may-be-getting-worse-but-it-used-to-be-horrible.html",
