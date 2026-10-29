@@ -1,6 +1,249 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html",
+      "title": "DoorDash to Buy Instacart for $17 Billion, Uniting 2 Delivery Giants",
+      "slug": "2026-10-29-doordash-to-buy-instacart-for-17-billion-uniting-2-delivery-giants.html",
+      "path": "posts/2026-10-29-doordash-to-buy-instacart-for-17-billion-uniting-2-delivery-giants.html",
+      "date_iso": "2026-10-29T13:00:07+00:00",
+      "source": "https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html",
+      "summary": "In its most recent quarter, DoorDash said it completed 970 million orders."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50288019",
+      "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+      "slug": "2026-10-29-gemini-4-carbon-is-the-new-1-on-the-artificial-analysis-intelligence-index-v5.html",
+      "path": "posts/2026-10-29-gemini-4-carbon-is-the-new-1-on-the-artificial-analysis-intelligence-index-v5.html",
+      "date_iso": "2026-10-29T12:41:56+00:00",
+      "source": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1 Comments URL: https://news.ycombinator.com/item?id=50288019 Points: 84 # Comments: 44"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50287919",
+      "title": "DoorDash to Acquire Instacart",
+      "slug": "2026-10-29-doordash-to-acquire-instacart.html",
+      "path": "posts/2026-10-29-doordash-to-acquire-instacart.html",
+      "date_iso": "2026-10-29T12:33:05+00:00",
+      "source": "https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx",
+      "summary": "Article URL: https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx Comments URL: https://news.ycombinator.com/item?id=50287919 Points: 79 # Comments: 47"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50287898",
+      "title": "Hackers expose the identities of more than 40k DHS employees",
+      "slug": "2026-10-29-hackers-expose-the-identities-of-more-than-40k-dhs-employees.html",
+      "path": "posts/2026-10-29-hackers-expose-the-identities-of-more-than-40k-dhs-employees.html",
+      "date_iso": "2026-10-29T12:31:09+00:00",
+      "source": "https://text.npr.org/nx-s1-6021497",
+      "summary": "Article URL: https://text.npr.org/nx-s1-6021497 Comments URL: https://news.ycombinator.com/item?id=50287898 Points: 58 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50287775",
+      "title": "If IPv4 Were Land",
+      "slug": "2026-10-29-if-ipv4-were-land.html",
+      "path": "posts/2026-10-29-if-ipv4-were-land.html",
+      "date_iso": "2026-10-29T12:19:00+00:00",
+      "source": "https://iptrust.co/blog/if-ipv4-were-land",
+      "summary": "Article URL: https://iptrust.co/blog/if-ipv4-were-land Comments URL: https://news.ycombinator.com/item?id=50287775 Points: 101 # Comments: 74"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50287599",
+      "title": "NetBSD adds a new beginner-friendly text editor called atto",
+      "slug": "2026-10-29-netbsd-adds-a-new-beginner-friendly-text-editor-called-atto.html",
+      "path": "posts/2026-10-29-netbsd-adds-a-new-beginner-friendly-text-editor-called-atto.html",
+      "date_iso": "2026-10-29T11:59:01+00:00",
+      "source": "https://mastodon.sdf.org/@netbsd/117518160563539748",
+      "summary": "Article URL: https://mastodon.sdf.org/@netbsd/117518160563539748 Comments URL: https://news.ycombinator.com/item?id=50287599 Points: 39 # Comments: 30"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50287448",
+      "title": "Google determines the names for bodies of water in Google Earth (2008)",
+      "slug": "2026-10-29-google-determines-the-names-for-bodies-of-water-in-google-earth-2008.html",
+      "path": "posts/2026-10-29-google-determines-the-names-for-bodies-of-water-in-google-earth-2008.html",
+      "date_iso": "2026-10-29T11:41:18+00:00",
+      "source": "https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html",
+      "summary": "Article URL: https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html Comments URL: https://news.ycombinator.com/item?id=50287448 Points: 72 # Comments: 47"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50287255",
+      "title": "Show HN: UK Farming Simulator",
+      "slug": "2026-10-29-show-hn-uk-farming-simulator.html",
+      "path": "posts/2026-10-29-show-hn-uk-farming-simulator.html",
+      "date_iso": "2026-10-29T11:15:59+00:00",
+      "source": "https://butterbean.farm/",
+      "summary": "Article URL: https://butterbean.farm/ Comments URL: https://news.ycombinator.com/item?id=50287255 Points: 23 # Comments: 25"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/29/arts/ai-bots-jokes-theft-comedians.html",
+      "title": "Bodacious A.I. Bots Are Stealing Jokes From Young Female Comedians",
+      "slug": "2026-10-29-bodacious-a-i-bots-are-stealing-jokes-from-young-female-comedians.html",
+      "path": "posts/2026-10-29-bodacious-a-i-bots-are-stealing-jokes-from-young-female-comedians.html",
+      "date_iso": "2026-10-29T11:15:18+00:00",
+      "source": "https://www.nytimes.com/2026/10/29/arts/ai-bots-jokes-theft-comedians.html",
+      "summary": "Swiping jokes word for word, these bodacious bots mainly lift from young female comedians. What’s so insidious is how they’re subtly changing us, the audience."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50287001",
+      "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
+      "slug": "2026-10-29-the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months.html",
+      "path": "posts/2026-10-29-the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months.html",
+      "date_iso": "2026-10-29T10:44:49+00:00",
+      "source": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
+      "summary": "Article URL: https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/ Comments URL: https://news.ycombinator.com/item?id=50287001 Points: 130 # Comments: 87"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50286987",
+      "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
+      "slug": "2026-10-29-chained-php2shell-exploit-roots-25-servers-including-us-government-servers.html",
+      "path": "posts/2026-10-29-chained-php2shell-exploit-roots-25-servers-including-us-government-servers.html",
+      "date_iso": "2026-10-29T10:42:41+00:00",
+      "source": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+      "summary": "Article URL: https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers Comments URL: https://news.ycombinator.com/item?id=50286987 Points: 29 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50286738",
+      "title": "I Used AI to Fake a Scientific Paper. Here's What Happened",
+      "slug": "2026-10-29-i-used-ai-to-fake-a-scientific-paper-here-s-what-happened.html",
+      "path": "posts/2026-10-29-i-used-ai-to-fake-a-scientific-paper-here-s-what-happened.html",
+      "date_iso": "2026-10-29T10:08:04+00:00",
+      "source": "https://spectrum.ieee.org/ai-generated-scientific-papers",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-generated-scientific-papers Comments URL: https://news.ycombinator.com/item?id=50286738 Points: 18 # Comments: 7"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/29/technology/personaltech/apple-google-maps-features.html",
+      "title": "Hit the Road This Season With These Useful New Map Features",
+      "slug": "2026-10-29-hit-the-road-this-season-with-these-useful-new-map-features.html",
+      "path": "posts/2026-10-29-hit-the-road-this-season-with-these-useful-new-map-features.html",
+      "date_iso": "2026-10-29T09:02:47+00:00",
+      "source": "https://www.nytimes.com/2026/10/29/technology/personaltech/apple-google-maps-features.html",
+      "summary": "The Flyover view in the latest version of Apple’s Maps app includes sharper aerial views of major cities so you can explore before you go."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html",
+      "title": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot",
+      "slug": "2026-10-29-nvidia-chief-jensen-huang-is-seen-as-target-of-chinese-spy-plot.html",
+      "path": "posts/2026-10-29-nvidia-chief-jensen-huang-is-seen-as-target-of-chinese-spy-plot.html",
+      "date_iso": "2026-10-29T09:01:52+00:00",
+      "source": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html",
+      "summary": "Jensen Huang, the chief executive of Nvidia, is influential at the White House on technology policy and has developed a close relationship with President Trump."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50285452",
+      "title": "Zero click, silent, remote Android DoS",
+      "slug": "2026-10-29-zero-click-silent-remote-android-dos.html",
+      "path": "posts/2026-10-29-zero-click-silent-remote-android-dos.html",
+      "date_iso": "2026-10-29T07:08:50+00:00",
+      "source": "https://smsofdeath.com/",
+      "summary": "Article URL: https://smsofdeath.com/ Comments URL: https://news.ycombinator.com/item?id=50285452 Points: 191 # Comments: 104"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50285319",
+      "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+      "slug": "2026-10-29-forging-a-microsoft-edge-full-chain-with-logic-bugs-only.html",
+      "path": "posts/2026-10-29-forging-a-microsoft-edge-full-chain-with-logic-bugs-only.html",
+      "date_iso": "2026-10-29T06:47:28+00:00",
+      "source": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+      "summary": "Article URL: https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/ Comments URL: https://news.ycombinator.com/item?id=50285319 Points: 149 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50284255",
+      "title": "Claude Code regularly sends each background agent’s transcript to its model",
+      "slug": "2026-10-29-claude-code-regularly-sends-each-background-agent-s-transcript-to-its-model.html",
+      "path": "posts/2026-10-29-claude-code-regularly-sends-each-background-agent-s-transcript-to-its-model.html",
+      "date_iso": "2026-10-29T03:33:42+00:00",
+      "source": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "summary": "Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce Comments URL: https://news.ycombinator.com/item?id=50284255 Points: 478 # Comments: 190"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/28/technology/alphabet-earnings-google-ai.html",
+      "title": "Alphabet’s Revenue Rises 25% as Profit Falls",
+      "slug": "2026-10-29-alphabet-s-revenue-rises-25-as-profit-falls.html",
+      "path": "posts/2026-10-29-alphabet-s-revenue-rises-25-as-profit-falls.html",
+      "date_iso": "2026-10-29T01:47:40+00:00",
+      "source": "https://www.nytimes.com/2026/10/28/technology/alphabet-earnings-google-ai.html",
+      "summary": "A Google data center next to the Columbia River in The Dalles, Ore. “We’re excited by the range of big opportunities ahead of us,” said Alphabet’s chief executive, Sundar Pichai."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50282838",
+      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "slug": "2026-10-29-qwenputer-a-functioning-deterministic-risc-v-cpu-inside-qwen3-5.html",
+      "path": "posts/2026-10-29-qwenputer-a-functioning-deterministic-risc-v-cpu-inside-qwen3-5.html",
+      "date_iso": "2026-10-29T00:25:45+00:00",
+      "source": "https://divagr.com/blog/qwenputer",
+      "summary": "Article URL: https://divagr.com/blog/qwenputer Comments URL: https://news.ycombinator.com/item?id=50282838 Points: 590 # Comments: 119"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50282544",
+      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+      "slug": "2026-10-28-gitlab-security-incident-attempted-exploitation-of-cve-2026-97229.html",
+      "path": "posts/2026-10-28-gitlab-security-incident-attempted-exploitation-of-cve-2026-97229.html",
+      "date_iso": "2026-10-28T23:45:46+00:00",
+      "source": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "summary": "Article URL: https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html Comments URL: https://news.ycombinator.com/item?id=50282544 Points: 208 # Comments: 97"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50282454",
+      "title": "StackOverflow now gets fewer than 1000 questions a month",
+      "slug": "2026-10-28-stackoverflow-now-gets-fewer-than-1000-questions-a-month.html",
+      "path": "posts/2026-10-28-stackoverflow-now-gets-fewer-than-1000-questions-a-month.html",
+      "date_iso": "2026-10-28T23:35:02+00:00",
+      "source": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+      "summary": "Article URL: https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1 Comments URL: https://news.ycombinator.com/item?id=50282454 Points: 598 # Comments: 495"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/28/technology/microsoft-earnings-ai.html",
+      "title": "Microsoft’s Profit Jumps 32% Despite Big Increase in Spending",
+      "slug": "2026-10-28-microsoft-s-profit-jumps-32-despite-big-increase-in-spending.html",
+      "path": "posts/2026-10-28-microsoft-s-profit-jumps-32-despite-big-increase-in-spending.html",
+      "date_iso": "2026-10-28T22:54:52+00:00",
+      "source": "https://www.nytimes.com/2026/10/28/technology/microsoft-earnings-ai.html",
+      "summary": "The Redmond, Wash., campus of Microsoft, which reported $36.6 billion in profit for its latest quarter."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50281044",
+      "title": "Formlabs Studio 1 $699 Resin Printer",
+      "slug": "2026-10-28-formlabs-studio-1-699-resin-printer.html",
+      "path": "posts/2026-10-28-formlabs-studio-1-699-resin-printer.html",
+      "date_iso": "2026-10-28T21:19:30+00:00",
+      "source": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+      "summary": "Article URL: https://formlabs.com/products/form-studio-1-basic-founders-edition/ Comments URL: https://news.ycombinator.com/item?id=50281044 Points: 203 # Comments: 141"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50280974",
+      "title": "A Health Update",
+      "slug": "2026-10-28-a-health-update.html",
+      "path": "posts/2026-10-28-a-health-update.html",
+      "date_iso": "2026-10-28T21:13:21+00:00",
+      "source": "https://furbo.org/2026/10/28/a-health-update/",
+      "summary": "Article URL: https://furbo.org/2026/10/28/a-health-update/ Comments URL: https://news.ycombinator.com/item?id=50280974 Points: 305 # Comments: 46"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/28/technology/apple-touch-screen-macbook-pro.html",
+      "title": "Apple Unveils Its First Touch-Screen MacBook Pro",
+      "slug": "2026-10-28-apple-unveils-its-first-touch-screen-macbook-pro.html",
+      "path": "posts/2026-10-28-apple-unveils-its-first-touch-screen-macbook-pro.html",
+      "date_iso": "2026-10-28T18:30:51+00:00",
+      "source": "https://www.nytimes.com/2026/10/28/technology/apple-touch-screen-macbook-pro.html",
+      "summary": "The new Mac, with a starting price of $2,899, is the latest step into a new era for the consumer electronics giant."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50276998",
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "slug": "2026-10-28-why-is-this-fingerprinting-script-creating-bioweapons.html",
+      "path": "posts/2026-10-28-why-is-this-fingerprinting-script-creating-bioweapons.html",
+      "date_iso": "2026-10-28T17:13:29+00:00",
+      "source": "https://nullpt.rs/fingerprinting-bioweapons",
+      "summary": "Article URL: https://nullpt.rs/fingerprinting-bioweapons Comments URL: https://news.ycombinator.com/item?id=50276998 Points: 1397 # Comments: 256"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50276792",
+      "title": "Gemini 4 Carbon",
+      "slug": "2026-10-28-gemini-4-carbon.html",
+      "path": "posts/2026-10-28-gemini-4-carbon.html",
+      "date_iso": "2026-10-28T17:01:23+00:00",
+      "source": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/ Comments URL: https://news.ycombinator.com/item?id=50276792 Points: 967 # Comments: 771"
+    },
+    {
       "id": "https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html",
       "title": "AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them",
       "slug": "2026-10-28-ai-is-finding-a-flood-of-bugs-and-silicon-valley-is-rushing-to-fix-them.html",
