@@ -1,6 +1,240 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/10/29/technology/binance-hack-crypto.html",
+      "title": "Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion",
+      "slug": "2026-10-30-binance-suspends-withdrawals-after-crypto-hackers-steal-6-3-billion.html",
+      "path": "posts/2026-10-30-binance-suspends-withdrawals-after-crypto-hackers-steal-6-3-billion.html",
+      "date_iso": "2026-10-30T13:46:48+00:00",
+      "source": "https://www.nytimes.com/2026/10/29/technology/binance-hack-crypto.html",
+      "summary": "Changpeng Zhao, Binance’s founder, said the incident “does look like a hack.”"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50303571",
+      "title": "Just Noting That Your Candy Corn Is Made of Bug Secretions",
+      "slug": "2026-10-30-just-noting-that-your-candy-corn-is-made-of-bug-secretions.html",
+      "path": "posts/2026-10-30-just-noting-that-your-candy-corn-is-made-of-bug-secretions.html",
+      "date_iso": "2026-10-30T13:26:43+00:00",
+      "source": "https://www.theatlantic.com/science/2026/10/candy-corn-bug-shellac/689213/",
+      "summary": "Article URL: https://www.theatlantic.com/science/2026/10/candy-corn-bug-shellac/689213/ Comments URL: https://news.ycombinator.com/item?id=50303571 Points: 5 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50303172",
+      "title": "The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes",
+      "slug": "2026-10-30-the-6-3b-binance-hack-was-pulled-off-in-just-20-minutes.html",
+      "path": "posts/2026-10-30-the-6-3b-binance-hack-was-pulled-off-in-just-20-minutes.html",
+      "date_iso": "2026-10-30T12:50:01+00:00",
+      "source": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "summary": "Article URL: https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/ Comments URL: https://news.ycombinator.com/item?id=50303172 Points: 23 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50302814",
+      "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+      "slug": "2026-10-30-us-reps-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech.html",
+      "path": "posts/2026-10-30-us-reps-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech.html",
+      "date_iso": "2026-10-30T12:08:00+00:00",
+      "source": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+      "summary": "Article URL: https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead Comments URL: https://news.ycombinator.com/item?id=50302814 Points: 87 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50302407",
+      "title": "Fiber lasts decades, GPUs last three years: the AI boom isn't the dot-com boom [video]",
+      "slug": "2026-10-30-fiber-lasts-decades-gpus-last-three-years-the-ai-boom-isn-t-the-dot-com-boom-video.html",
+      "path": "posts/2026-10-30-fiber-lasts-decades-gpus-last-three-years-the-ai-boom-isn-t-the-dot-com-boom-video.html",
+      "date_iso": "2026-10-30T11:16:15+00:00",
+      "source": "https://www.youtube.com/watch?v=MENoB3Rex28",
+      "summary": "Article URL: https://www.youtube.com/watch?v=MENoB3Rex28 Comments URL: https://news.ycombinator.com/item?id=50302407 Points: 26 # Comments: 20"
+    },
+    {
+      "id": "https://www.nytimes.com/video/technology/100000011221955/ai-lasers-mosquitoes.html",
+      "title": "This Device Uses A.I. and Lasers to Kill Mosquitoes",
+      "slug": "2026-10-30-this-device-uses-a-i-and-lasers-to-kill-mosquitoes.html",
+      "path": "posts/2026-10-30-this-device-uses-a-i-and-lasers-to-kill-mosquitoes.html",
+      "date_iso": "2026-10-30T11:12:48+00:00",
+      "source": "https://www.nytimes.com/video/technology/100000011221955/ai-lasers-mosquitoes.html",
+      "summary": "A Chinese start-up has developed a device that uses artificial intelligence and lasers to kill mosquitoes. But there are safety concerns for people and other creatures nearby when the device is in action."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50302334",
+      "title": "Backdoors in official Claude Code extensions",
+      "slug": "2026-10-30-backdoors-in-official-claude-code-extensions.html",
+      "path": "posts/2026-10-30-backdoors-in-official-claude-code-extensions.html",
+      "date_iso": "2026-10-30T11:05:53+00:00",
+      "source": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+      "summary": "Article URL: https://cyberplace.social/@GossiTheDog/117528831681803563 Comments URL: https://news.ycombinator.com/item?id=50302334 Points: 466 # Comments: 137"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50301983",
+      "title": "Anthropic hacked to deliver remote access trojan",
+      "slug": "2026-10-30-anthropic-hacked-to-deliver-remote-access-trojan.html",
+      "path": "posts/2026-10-30-anthropic-hacked-to-deliver-remote-access-trojan.html",
+      "date_iso": "2026-10-30T10:22:51+00:00",
+      "source": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+      "summary": "Article URL: https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2 Comments URL: https://news.ycombinator.com/item?id=50301983 Points: 290 # Comments: 55"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50301854",
+      "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+      "slug": "2026-10-30-azure-s-weakest-link-five-full-cross-tenant-compromises.html",
+      "path": "posts/2026-10-30-azure-s-weakest-link-five-full-cross-tenant-compromises.html",
+      "date_iso": "2026-10-30T10:06:15+00:00",
+      "source": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+      "summary": "Article URL: https://www.binarysecurity.no/posts/2026/10/one-root-case Comments URL: https://news.ycombinator.com/item?id=50301854 Points: 90 # Comments: 6"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/30/podcasts/hardfork-anthropic-ipo.html",
+      "title": "Are We in an A.I. Bubble? We’re About to Find Out.",
+      "slug": "2026-10-30-are-we-in-an-a-i-bubble-we-re-about-to-find-out.html",
+      "path": "posts/2026-10-30-are-we-in-an-a-i-bubble-we-re-about-to-find-out.html",
+      "date_iso": "2026-10-30T10:00:25+00:00",
+      "source": "https://www.nytimes.com/2026/10/30/podcasts/hardfork-anthropic-ipo.html",
+      "summary": "“This is the first pure-play L.L.M. company to go public, to open its books so we can actually look at the underlying business of this A.I. boom.”"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50301717",
+      "title": "How Do You Take a Picture of a Black Hole?",
+      "slug": "2026-10-30-how-do-you-take-a-picture-of-a-black-hole.html",
+      "path": "posts/2026-10-30-how-do-you-take-a-picture-of-a-black-hole.html",
+      "date_iso": "2026-10-30T09:49:02+00:00",
+      "source": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+      "summary": "Article URL: https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/ Comments URL: https://news.ycombinator.com/item?id=50301717 Points: 40 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50301462",
+      "title": "elect.horse",
+      "slug": "2026-10-30-elect-horse.html",
+      "path": "posts/2026-10-30-elect-horse.html",
+      "date_iso": "2026-10-30T09:14:34+00:00",
+      "source": "https://elect.horse/",
+      "summary": "Article URL: https://elect.horse/ Comments URL: https://news.ycombinator.com/item?id=50301462 Points: 262 # Comments: 71"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50300683",
+      "title": "Official Claude Code extension compromise",
+      "slug": "2026-10-30-official-claude-code-extension-compromise.html",
+      "path": "posts/2026-10-30-official-claude-code-extension-compromise.html",
+      "date_iso": "2026-10-30T07:09:12+00:00",
+      "source": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "summary": "Article URL: https://phorion.io/blog/offical-claude-code-vsx-compromise/ Comments URL: https://news.ycombinator.com/item?id=50300683 Points: 34 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50300643",
+      "title": "Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe",
+      "slug": "2026-10-30-wasmer-yc-s19-is-hiring-os-hypervisor-experts-in-europe.html",
+      "path": "posts/2026-10-30-wasmer-yc-s19-is-hiring-os-hypervisor-experts-in-europe.html",
+      "date_iso": "2026-10-30T07:00:35+00:00",
+      "source": "https://www.workatastartup.com/jobs/98722",
+      "summary": "Article URL: https://www.workatastartup.com/jobs/98722 Comments URL: https://news.ycombinator.com/item?id=50300643 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
+      "title": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St.",
+      "slug": "2026-10-30-big-tech-s-data-center-blitz-is-burning-through-cash-and-scaring-wall-st.html",
+      "path": "posts/2026-10-30-big-tech-s-data-center-blitz-is-burning-through-cash-and-scaring-wall-st.html",
+      "date_iso": "2026-10-30T01:30:27+00:00",
+      "source": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
+      "summary": "Amazon is spending heavily on new data centers to operate with this one in Ashburn, Va."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50298436",
+      "title": "Herdr has released native app",
+      "slug": "2026-10-30-herdr-has-released-native-app.html",
+      "path": "posts/2026-10-30-herdr-has-released-native-app.html",
+      "date_iso": "2026-10-30T00:42:41+00:00",
+      "source": "https://github.com/herdrdev/herdr-app",
+      "summary": "Article URL: https://github.com/herdrdev/herdr-app Comments URL: https://news.ycombinator.com/item?id=50298436 Points: 266 # Comments: 176"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50298318",
+      "title": "Cormac McCarthy's Library",
+      "slug": "2026-10-30-cormac-mccarthy-s-library.html",
+      "path": "posts/2026-10-30-cormac-mccarthy-s-library.html",
+      "date_iso": "2026-10-30T00:31:00+00:00",
+      "source": "https://cormacmccarthy.lib.utk.edu/",
+      "summary": "Article URL: https://cormacmccarthy.lib.utk.edu/ Comments URL: https://news.ycombinator.com/item?id=50298318 Points: 79 # Comments: 28"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50297697",
+      "title": "Show HN: I Turned DOOM into a Transformer",
+      "slug": "2026-10-29-show-hn-i-turned-doom-into-a-transformer.html",
+      "path": "posts/2026-10-29-show-hn-i-turned-doom-into-a-transformer.html",
+      "date_iso": "2026-10-29T23:25:46+00:00",
+      "source": "https://github.com/mottopanikeiku/doomformer",
+      "summary": "Instead of trying to run DOOM on things, I have instead decided to use DOOM (many, many, many doom games actually) to create a transformer. For a lot of the math required I essentially had to use DOOM game mechanics and voodoo dolls (DOOM is turing complete btw) and exchange the…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50296486",
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "slug": "2026-10-29-we-ran-ai-agent-swarms-in-minecraft-and-mindustry.html",
+      "path": "posts/2026-10-29-we-ran-ai-agent-swarms-in-minecraft-and-mindustry.html",
+      "date_iso": "2026-10-29T21:40:28+00:00",
+      "source": "https://labs.ycombinator.com/projects/games/index.html",
+      "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 333 # Comments: 131"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50296470",
+      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "slug": "2026-10-29-binance-hacker-1029-5-6b-stolen-from-binance.html",
+      "path": "posts/2026-10-29-binance-hacker-1029-5-6b-stolen-from-binance.html",
+      "date_iso": "2026-10-29T21:38:59+00:00",
+      "source": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "summary": "Article URL: https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8 Comments URL: https://news.ycombinator.com/item?id=50296470 Points: 1557 # Comments: 1026"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/29/technology/intel-earnings.html",
+      "title": "Intel’s Shares Plunge 20% as A.I. Hinders Some Parts of Its Business",
+      "slug": "2026-10-29-intel-s-shares-plunge-20-as-a-i-hinders-some-parts-of-its-business.html",
+      "path": "posts/2026-10-29-intel-s-shares-plunge-20-as-a-i-hinders-some-parts-of-its-business.html",
+      "date_iso": "2026-10-29T21:17:40+00:00",
+      "source": "https://www.nytimes.com/2026/10/29/technology/intel-earnings.html",
+      "summary": "A silicon wafer at Intel’s campus in Ocotillo, Ariz. The company reported revenue of $16.5 billion in its third quarter."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/29/technology/polymarket-kalshi-midterm-election-betting-wagers.html",
+      "title": "Polymarket and Kalshi Turn Midterm Elections Into a Multimillion Dollar Market",
+      "slug": "2026-10-29-polymarket-and-kalshi-turn-midterm-elections-into-a-multimillion-dollar-market.html",
+      "path": "posts/2026-10-29-polymarket-and-kalshi-turn-midterm-elections-into-a-multimillion-dollar-market.html",
+      "date_iso": "2026-10-29T21:08:30+00:00",
+      "source": "https://www.nytimes.com/2026/10/29/technology/polymarket-kalshi-midterm-election-betting-wagers.html",
+      "summary": "David Bensoussan has placed wagers worth over $1.5 million in over a dozen midterm races."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50295450",
+      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+      "slug": "2026-10-29-a-tiny-world-model-running-games-on-a-raspberry-pi-pico-2-w.html",
+      "path": "posts/2026-10-29-a-tiny-world-model-running-games-on-a-raspberry-pi-pico-2-w.html",
+      "date_iso": "2026-10-29T20:32:28+00:00",
+      "source": "https://github.com/SheepSeb/tinyworldformer",
+      "summary": "Article URL: https://github.com/SheepSeb/tinyworldformer Comments URL: https://news.ycombinator.com/item?id=50295450 Points: 240 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50291054",
+      "title": "H.264 Is Magic (2016)",
+      "slug": "2026-10-29-h-264-is-magic-2016.html",
+      "path": "posts/2026-10-29-h-264-is-magic-2016.html",
+      "date_iso": "2026-10-29T15:53:03+00:00",
+      "source": "https://sidbala.com/h-264-is-magic/",
+      "summary": "Article URL: https://sidbala.com/h-264-is-magic/ Comments URL: https://news.ycombinator.com/item?id=50291054 Points: 473 # Comments: 154"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50290177",
+      "title": "LLM Voice",
+      "slug": "2026-10-29-llm-voice.html",
+      "path": "posts/2026-10-29-llm-voice.html",
+      "date_iso": "2026-10-29T14:57:55+00:00",
+      "source": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "summary": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html Comments URL: https://news.ycombinator.com/item?id=50290177 Points: 519 # Comments: 277"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50289418",
+      "title": "We're releasing the weights of Mistral Large 4",
+      "slug": "2026-10-29-we-re-releasing-the-weights-of-mistral-large-4.html",
+      "path": "posts/2026-10-29-we-re-releasing-the-weights-of-mistral-large-4.html",
+      "date_iso": "2026-10-29T14:13:21+00:00",
+      "source": "https://mistral.ai/news/mistral-large-4-oss/",
+      "summary": "Article URL: https://mistral.ai/news/mistral-large-4-oss/ Comments URL: https://news.ycombinator.com/item?id=50289418 Points: 1576 # Comments: 413"
+    },
+    {
       "id": "https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html",
       "title": "DoorDash to Buy Instacart for $17 Billion, Uniting 2 Delivery Giants",
       "slug": "2026-10-29-doordash-to-buy-instacart-for-17-billion-uniting-2-delivery-giants.html",
