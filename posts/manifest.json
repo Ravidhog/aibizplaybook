@@ -1,6 +1,222 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=50315574",
+      "title": "Why Anthropic's Filing Crushed Tech Stocks",
+      "slug": "2026-10-31-why-anthropic-s-filing-crushed-tech-stocks.html",
+      "path": "posts/2026-10-31-why-anthropic-s-filing-crushed-tech-stocks.html",
+      "date_iso": "2026-10-31T12:32:10+00:00",
+      "source": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
+      "summary": "Article URL: https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech Comments URL: https://news.ycombinator.com/item?id=50315574 Points: 6 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50314872",
+      "title": "Shiny Object Syndrome",
+      "slug": "2026-10-31-shiny-object-syndrome.html",
+      "path": "posts/2026-10-31-shiny-object-syndrome.html",
+      "date_iso": "2026-10-31T11:02:14+00:00",
+      "source": "https://en.wikipedia.org/wiki/Shiny_object_syndrome",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Shiny_object_syndrome Comments URL: https://news.ycombinator.com/item?id=50314872 Points: 29 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50314699",
+      "title": "We Took over ChatGPT Accounts",
+      "slug": "2026-10-31-we-took-over-chatgpt-accounts.html",
+      "path": "posts/2026-10-31-we-took-over-chatgpt-accounts.html",
+      "date_iso": "2026-10-31T10:30:11+00:00",
+      "source": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "summary": "Article URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai Comments URL: https://news.ycombinator.com/item?id=50314699 Points: 63 # Comments: 27"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50314666",
+      "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
+      "slug": "2026-10-31-molly-signal-fork-has-not-been-updated-since-3-months-and-is-vulnerable.html",
+      "path": "posts/2026-10-31-molly-signal-fork-has-not-been-updated-since-3-months-and-is-vulnerable.html",
+      "date_iso": "2026-10-31T10:23:41+00:00",
+      "source": "https://piefed.world/post/1503394",
+      "summary": "Article URL: https://piefed.world/post/1503394 Comments URL: https://news.ycombinator.com/item?id=50314666 Points: 70 # Comments: 33"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50314654",
+      "title": "Serbia just elected the world's brainiest parliament",
+      "slug": "2026-10-31-serbia-just-elected-the-world-s-brainiest-parliament.html",
+      "path": "posts/2026-10-31-serbia-just-elected-the-world-s-brainiest-parliament.html",
+      "date_iso": "2026-10-31T10:21:30+00:00",
+      "source": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "summary": "Article URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament Comments URL: https://news.ycombinator.com/item?id=50314654 Points: 346 # Comments: 204"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/31/technology/san-francisco-ai-boom-dating.html",
+      "title": "In San Francisco’s A.I. Boom, a First Date Has Become an Interview",
+      "slug": "2026-10-31-in-san-francisco-s-a-i-boom-a-first-date-has-become-an-interview.html",
+      "path": "posts/2026-10-31-in-san-francisco-s-a-i-boom-a-first-date-has-become-an-interview.html",
+      "date_iso": "2026-10-31T09:00:54+00:00",
+      "source": "https://www.nytimes.com/2026/10/31/technology/san-francisco-ai-boom-dating.html",
+      "summary": "Fresh off a long relationship and wanting to keep things low-key, Amanda Chung, 25, said most of the men she had met in San Francisco wanted something serious “even if they aren’t ready for it yet.”"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50314085",
+      "title": "Switch Lowering in GCC",
+      "slug": "2026-10-31-switch-lowering-in-gcc.html",
+      "path": "posts/2026-10-31-switch-lowering-in-gcc.html",
+      "date_iso": "2026-10-31T08:02:26+00:00",
+      "source": "https://xoranth.net/gcc-switch/",
+      "summary": "Article URL: https://xoranth.net/gcc-switch/ Comments URL: https://news.ycombinator.com/item?id=50314085 Points: 99 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50313661",
+      "title": "Digital Minimalism",
+      "slug": "2026-10-31-digital-minimalism.html",
+      "path": "posts/2026-10-31-digital-minimalism.html",
+      "date_iso": "2026-10-31T06:16:36+00:00",
+      "source": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+      "summary": "Article URL: https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html Comments URL: https://news.ycombinator.com/item?id=50313661 Points: 109 # Comments: 68"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50312756",
+      "title": "Tell HN: Scribd Breached",
+      "slug": "2026-10-31-tell-hn-scribd-breached.html",
+      "path": "posts/2026-10-31-tell-hn-scribd-breached.html",
+      "date_iso": "2026-10-31T02:46:36+00:00",
+      "source": "https://news.ycombinator.com/item?id=50312756",
+      "summary": "Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026: Subject: Notice of Security Incident This notice is being sent on behalf of Scribd, Inc., the parent company of Scribd, Slideshare, Everand, and Fable, by Epiq, Scribd Inc.’s notification partn…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50311686",
+      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+      "slug": "2026-10-30-show-hn-to-honor-sir-patrick-stewart-enjoy-the-tng-episode-guessing-game.html",
+      "path": "posts/2026-10-30-show-hn-to-honor-sir-patrick-stewart-enjoy-the-tng-episode-guessing-game.html",
+      "date_iso": "2026-10-30T23:51:24+00:00",
+      "source": "https://tng.episodle.com/",
+      "summary": "Article URL: https://tng.episodle.com/ Comments URL: https://news.ycombinator.com/item?id=50311686 Points: 203 # Comments: 59"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/30/arts/ao3-fan-fiction-site-down.html",
+      "title": "Hack Could Leave AO3, a Popular Fan Fiction Site, Offline for Weeks",
+      "slug": "2026-10-30-hack-could-leave-ao3-a-popular-fan-fiction-site-offline-for-weeks.html",
+      "path": "posts/2026-10-30-hack-could-leave-ao3-a-popular-fan-fiction-site-offline-for-weeks.html",
+      "date_iso": "2026-10-30T23:39:37+00:00",
+      "source": "https://www.nytimes.com/2026/10/30/arts/ao3-fan-fiction-site-down.html",
+      "summary": "AO3, which hosts 18 million stories spun off from the likes of “Harry Potter” and “Heated Rivalry,” was taken offline after “an intrusion,” one of its founders said."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/30/technology/polymarket-kalshi-midterm-elections.html",
+      "title": "Polymarket and Kalshi Face a Major Accuracy Test: The Midterms",
+      "slug": "2026-10-30-polymarket-and-kalshi-face-a-major-accuracy-test-the-midterms.html",
+      "path": "posts/2026-10-30-polymarket-and-kalshi-face-a-major-accuracy-test-the-midterms.html",
+      "date_iso": "2026-10-30T22:46:05+00:00",
+      "source": "https://www.nytimes.com/2026/10/30/technology/polymarket-kalshi-midterm-elections.html",
+      "summary": "Prediction platforms like Polymarket are hoping the U.S. midterm elections will be their moment to shine."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html",
+      "title": "Binance’s $6.3 Billion Hack Is Just the Start of a Risky New Era",
+      "slug": "2026-10-30-binance-s-6-3-billion-hack-is-just-the-start-of-a-risky-new-era.html",
+      "path": "posts/2026-10-30-binance-s-6-3-billion-hack-is-just-the-start-of-a-risky-new-era.html",
+      "date_iso": "2026-10-30T21:17:37+00:00",
+      "source": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html",
+      "summary": "The founder of Binance, Changpeng Zhao, in Hong Kong in August. The company, the world’s biggest crypto exchange, has promised to make customers whole."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/30/technology/house-democrats-openai-copyright-lawsuit.html",
+      "title": "House Democrats Criticize Justice Dept. Support of OpenAI in Copyright Suit",
+      "slug": "2026-10-30-house-democrats-criticize-justice-dept-support-of-openai-in-copyright-suit.html",
+      "path": "posts/2026-10-30-house-democrats-criticize-justice-dept-support-of-openai-in-copyright-suit.html",
+      "date_iso": "2026-10-30T20:30:42+00:00",
+      "source": "https://www.nytimes.com/2026/10/30/technology/house-democrats-openai-copyright-lawsuit.html",
+      "summary": "The San Francisco offices of OpenAI, which is being sued in federal court by The New York Times and other publishers."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50309314",
+      "title": "Jules Verne's Lost Novel",
+      "slug": "2026-10-30-jules-verne-s-lost-novel.html",
+      "path": "posts/2026-10-30-jules-verne-s-lost-novel.html",
+      "date_iso": "2026-10-30T19:55:10+00:00",
+      "source": "https://blue-continuum.com/verne-paris",
+      "summary": "Article URL: https://blue-continuum.com/verne-paris Comments URL: https://news.ycombinator.com/item?id=50309314 Points: 125 # Comments: 30"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50309266",
+      "title": "The oldest ice disappears and the Stone Age emerges from it",
+      "slug": "2026-10-30-the-oldest-ice-disappears-and-the-stone-age-emerges-from-it.html",
+      "path": "posts/2026-10-30-the-oldest-ice-disappears-and-the-stone-age-emerges-from-it.html",
+      "date_iso": "2026-10-30T19:51:33+00:00",
+      "source": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+      "summary": "Article URL: https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921 Comments URL: https://news.ycombinator.com/item?id=50309266 Points: 172 # Comments: 66"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50309029",
+      "title": "Infinite Mac: BeOS",
+      "slug": "2026-10-30-infinite-mac-beos.html",
+      "path": "posts/2026-10-30-infinite-mac-beos.html",
+      "date_iso": "2026-10-30T19:30:09+00:00",
+      "source": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
+      "summary": "Article URL: https://blog.persistent.info/2026/10/infinite-mac-beos.html Comments URL: https://news.ycombinator.com/item?id=50309029 Points: 170 # Comments: 105"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50307190",
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "slug": "2026-10-30-my-favourite-powermac-is-a-nintendo-wii.html",
+      "path": "posts/2026-10-30-my-favourite-powermac-is-a-nintendo-wii.html",
+      "date_iso": "2026-10-30T17:25:15+00:00",
+      "source": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "summary": "Article URL: https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/ Comments URL: https://news.ycombinator.com/item?id=50307190 Points: 329 # Comments: 96"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/30/upshot/billy-evans-you-can-see-everything.html",
+      "title": "You Can See Everything That Billy Evans Watched on 2x Speed",
+      "slug": "2026-10-30-you-can-see-everything-that-billy-evans-watched-on-2x-speed.html",
+      "path": "posts/2026-10-30-you-can-see-everything-that-billy-evans-watched-on-2x-speed.html",
+      "date_iso": "2026-10-30T17:24:13+00:00",
+      "source": "https://www.nytimes.com/2026/10/30/upshot/billy-evans-you-can-see-everything.html",
+      "summary": "What was Elizabeth Holmes’s partner watching in the new Nathan Fielder documentary? We found the videos (and the scientists in them)."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50306442",
+      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+      "slug": "2026-10-30-show-hn-a-working-nintendo-in-1gb-of-qwen-weights.html",
+      "path": "posts/2026-10-30-show-hn-a-working-nintendo-in-1gb-of-qwen-weights.html",
+      "date_iso": "2026-10-30T16:40:22+00:00",
+      "source": "https://github.com/dbreunig/nesformer",
+      "summary": "Article URL: https://github.com/dbreunig/nesformer Comments URL: https://news.ycombinator.com/item?id=50306442 Points: 264 # Comments: 128"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50305637",
+      "title": "Florilegium: Procedural Flowers in LaTeX",
+      "slug": "2026-10-30-florilegium-procedural-flowers-in-latex.html",
+      "path": "posts/2026-10-30-florilegium-procedural-flowers-in-latex.html",
+      "date_iso": "2026-10-30T15:48:12+00:00",
+      "source": "https://github.com/kevinraymond/florilegium",
+      "summary": "Article URL: https://github.com/kevinraymond/florilegium Comments URL: https://news.ycombinator.com/item?id=50305637 Points: 312 # Comments: 49"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50305573",
+      "title": "The federated code forge",
+      "slug": "2026-10-30-the-federated-code-forge.html",
+      "path": "posts/2026-10-30-the-federated-code-forge.html",
+      "date_iso": "2026-10-30T15:44:29+00:00",
+      "source": "https://tangled.org/blog/forge/",
+      "summary": "Article URL: https://tangled.org/blog/forge/ Comments URL: https://news.ycombinator.com/item?id=50305573 Points: 299 # Comments: 87"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50305025",
+      "title": "Northflank Breached",
+      "slug": "2026-10-30-northflank-breached.html",
+      "path": "posts/2026-10-30-northflank-breached.html",
+      "date_iso": "2026-10-30T15:10:31+00:00",
+      "source": "https://status.northflank.com",
+      "summary": "Article URL: https://status.northflank.com Comments URL: https://news.ycombinator.com/item?id=50305025 Points: 450 # Comments: 325"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50304122",
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "slug": "2026-10-30-cisco-gives-engineer-unlimited-ai-tokens-to-rewrite-legacy-code.html",
+      "path": "posts/2026-10-30-cisco-gives-engineer-unlimited-ai-tokens-to-rewrite-legacy-code.html",
+      "date_iso": "2026-10-30T14:08:20+00:00",
+      "source": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 219 # Comments: 268"
+    },
+    {
       "id": "https://www.nytimes.com/2026/10/29/technology/binance-hack-crypto.html",
       "title": "Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion",
       "slug": "2026-10-30-binance-suspends-withdrawals-after-crypto-hackers-steal-6-3-billion.html",
