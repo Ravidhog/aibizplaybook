@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=50325454",
+      "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
+      "slug": "2026-11-01-proving-and-improving-the-platonic-representation-hypothesis-with-jepas.html",
+      "path": "posts/2026-11-01-proving-and-improving-the-platonic-representation-hypothesis-with-jepas.html",
+      "date_iso": "2026-11-01T13:24:49+00:00",
+      "source": "https://arxiv.org/abs/2610.39302",
+      "summary": "Article URL: https://arxiv.org/abs/2610.39302 Comments URL: https://news.ycombinator.com/item?id=50325454 Points: 16 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50325411",
+      "title": "The \"Moon Trees\"",
+      "slug": "2026-11-01-the-moon-trees.html",
+      "path": "posts/2026-11-01-the-moon-trees.html",
+      "date_iso": "2026-11-01T13:20:23+00:00",
+      "source": "https://nssdc.gsfc.nasa.gov/planetary/lunar/moon_tree.html",
+      "summary": "Article URL: https://nssdc.gsfc.nasa.gov/planetary/lunar/moon_tree.html Comments URL: https://news.ycombinator.com/item?id=50325411 Points: 5 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50325069",
+      "title": "Everyone Has Email. Nobody Uses It Right",
+      "slug": "2026-11-01-everyone-has-email-nobody-uses-it-right.html",
+      "path": "posts/2026-11-01-everyone-has-email-nobody-uses-it-right.html",
+      "date_iso": "2026-11-01T12:38:33+00:00",
+      "source": "https://kaplich.me/essays/email",
+      "summary": "Article URL: https://kaplich.me/essays/email Comments URL: https://news.ycombinator.com/item?id=50325069 Points: 15 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50324533",
+      "title": "noyb win: French electronics retailer Fnac Darty fined €7M",
+      "slug": "2026-11-01-noyb-win-french-electronics-retailer-fnac-darty-fined-7m.html",
+      "path": "posts/2026-11-01-noyb-win-french-electronics-retailer-fnac-darty-fined-7m.html",
+      "date_iso": "2026-11-01T11:17:15+00:00",
+      "source": "https://noyb.eu/en/noyb-win-french-electronics-retailer-fnac-darty-fined-eu7-million",
+      "summary": "Article URL: https://noyb.eu/en/noyb-win-french-electronics-retailer-fnac-darty-fined-eu7-million Comments URL: https://news.ycombinator.com/item?id=50324533 Points: 29 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50324388",
+      "title": "Norway makes shithouses great again",
+      "slug": "2026-11-01-norway-makes-shithouses-great-again.html",
+      "path": "posts/2026-11-01-norway-makes-shithouses-great-again.html",
+      "date_iso": "2026-11-01T10:47:58+00:00",
+      "source": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+      "summary": "Article URL: https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/ Comments URL: https://news.ycombinator.com/item?id=50324388 Points: 412 # Comments: 197"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50324371",
+      "title": "Domain hacks with unusual Unicode characters (2018)",
+      "slug": "2026-11-01-domain-hacks-with-unusual-unicode-characters-2018.html",
+      "path": "posts/2026-11-01-domain-hacks-with-unusual-unicode-characters-2018.html",
+      "date_iso": "2026-11-01T10:44:20+00:00",
+      "source": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/",
+      "summary": "Article URL: https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/ Comments URL: https://news.ycombinator.com/item?id=50324371 Points: 25 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50324118",
+      "title": "A tiny Pacific country rolls out universal basic income",
+      "slug": "2026-11-01-a-tiny-pacific-country-rolls-out-universal-basic-income.html",
+      "path": "posts/2026-11-01-a-tiny-pacific-country-rolls-out-universal-basic-income.html",
+      "date_iso": "2026-11-01T10:05:09+00:00",
+      "source": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
+      "summary": "Article URL: https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income Comments URL: https://news.ycombinator.com/item?id=50324118 Points: 85 # Comments: 72"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/01/technology/cyril-hilsum-dead.html",
+      "title": "Cyril Hilsum, Who Helped Invent Flat-Panel Displays in TVs and iPhones, Has Died at 101",
+      "slug": "2026-11-01-cyril-hilsum-who-helped-invent-flat-panel-displays-in-tvs-and-iphones-has-died-at-101.html",
+      "path": "posts/2026-11-01-cyril-hilsum-who-helped-invent-flat-panel-displays-in-tvs-and-iphones-has-died-at-101.html",
+      "date_iso": "2026-11-01T10:00:44+00:00",
+      "source": "https://www.nytimes.com/2026/11/01/technology/cyril-hilsum-dead.html",
+      "summary": "Cyril Hilsum with a fellow scientist in England in 1966. Known as “the father of liquid crystals,” he helped develop the technology that allowed electronic screens to go from bulky to svelte."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50323088",
+      "title": "The AI cost of JavaScript frameworks",
+      "slug": "2026-11-01-the-ai-cost-of-javascript-frameworks.html",
+      "path": "posts/2026-11-01-the-ai-cost-of-javascript-frameworks.html",
+      "date_iso": "2026-11-01T06:06:19+00:00",
+      "source": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 154 # Comments: 103"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50322173",
+      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "slug": "2026-11-01-brazilian-court-sanctions-lawyers-for-prompt-injection-in-court-filing.html",
+      "path": "posts/2026-11-01-brazilian-court-sanctions-lawyers-for-prompt-injection-in-court-filing.html",
+      "date_iso": "2026-11-01T02:19:53+00:00",
+      "source": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+      "summary": "Article URL: https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/ Comments URL: https://news.ycombinator.com/item?id=50322173 Points: 184 # Comments: 80"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50322022",
+      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+      "slug": "2026-11-01-leaking-secrets-from-air-gap-computers-by-spelling-radio-signals-from-ram-2024.html",
+      "path": "posts/2026-11-01-leaking-secrets-from-air-gap-computers-by-spelling-radio-signals-from-ram-2024.html",
+      "date_iso": "2026-11-01T01:46:29+00:00",
+      "source": "https://arxiv.org/abs/2409.02292",
+      "summary": "Article URL: https://arxiv.org/abs/2409.02292 Comments URL: https://news.ycombinator.com/item?id=50322022 Points: 115 # Comments: 62"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50321048",
+      "title": "Altoids Project",
+      "slug": "2026-10-31-altoids-project.html",
+      "path": "posts/2026-10-31-altoids-project.html",
+      "date_iso": "2026-10-31T22:54:55+00:00",
+      "source": "https://uvdn7.github.io/altoids-project/",
+      "summary": "Article URL: https://uvdn7.github.io/altoids-project/ Comments URL: https://news.ycombinator.com/item?id=50321048 Points: 127 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50320995",
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "slug": "2026-10-31-memdoor-a-team-of-5-qwen3-8-27b-models-beats-fable-5-on-livecodebench-hard.html",
+      "path": "posts/2026-10-31-memdoor-a-team-of-5-qwen3-8-27b-models-beats-fable-5-on-livecodebench-hard.html",
+      "date_iso": "2026-10-31T22:46:12+00:00",
+      "source": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "summary": "Article URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve Comments URL: https://news.ycombinator.com/item?id=50320995 Points: 306 # Comments: 147"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50320963",
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "slug": "2026-10-31-an-italian-farmer-found-some-unknown-seeds-in-his-attic-and-planted-them.html",
+      "path": "posts/2026-10-31-an-italian-farmer-found-some-unknown-seeds-in-his-attic-and-planted-them.html",
+      "date_iso": "2026-10-31T22:41:06+00:00",
+      "source": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "summary": "Article URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/ Comments URL: https://news.ycombinator.com/item?id=50320963 Points: 549 # Comments: 166"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
+      "title": "How Binance’s $6.3 Billion Hack Went Down",
+      "slug": "2026-10-31-how-binance-s-6-3-billion-hack-went-down.html",
+      "path": "posts/2026-10-31-how-binance-s-6-3-billion-hack-went-down.html",
+      "date_iso": "2026-10-31T22:19:49+00:00",
+      "source": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
+      "summary": "Binance, the world’s largest crypto exchange, said $6.3 billion of funds are involved in what the industry is describing as crypto’s biggest-ever hack."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50319563",
+      "title": "Surviving \"The Graduate\"",
+      "slug": "2026-10-31-surviving-the-graduate.html",
+      "path": "posts/2026-10-31-surviving-the-graduate.html",
+      "date_iso": "2026-10-31T20:02:06+00:00",
+      "source": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
+      "summary": "https://archive.ph/Eqn1F Comments URL: https://news.ycombinator.com/item?id=50319563 Points: 138 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50319510",
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "slug": "2026-10-31-hackertube-youtube-built-from-videos-recommended-by-hn.html",
+      "path": "posts/2026-10-31-hackertube-youtube-built-from-videos-recommended-by-hn.html",
+      "date_iso": "2026-10-31T19:56:53+00:00",
+      "source": "https://karpathy.bearblog.dev/hacker-tube/",
+      "summary": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https://hackertube.org/ Comments URL: https://news.ycombinator.com/item?id=50319510 Points: 1553 # Comments: 418"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50319143",
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "slug": "2026-10-31-tcp-use-after-free-cve-2026-98432-cvss-9-8.html",
+      "path": "posts/2026-10-31-tcp-use-after-free-cve-2026-98432-cvss-9-8.html",
+      "date_iso": "2026-10-31T19:16:30+00:00",
+      "source": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "summary": "Article URL: https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf Comments URL: https://news.ycombinator.com/item?id=50319143 Points: 567 # Comments: 266"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50319110",
+      "title": "Electrification Could Cut Global Energy Use in Half",
+      "slug": "2026-10-31-electrification-could-cut-global-energy-use-in-half.html",
+      "path": "posts/2026-10-31-electrification-could-cut-global-energy-use-in-half.html",
+      "date_iso": "2026-10-31T19:13:34+00:00",
+      "source": "https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/",
+      "summary": "Article URL: https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/ Comments URL: https://news.ycombinator.com/item?id=50319110 Points: 152 # Comments: 87"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50318720",
+      "title": "It's the memory latency, stupid",
+      "slug": "2026-10-31-it-s-the-memory-latency-stupid.html",
+      "path": "posts/2026-10-31-it-s-the-memory-latency-stupid.html",
+      "date_iso": "2026-10-31T18:38:16+00:00",
+      "source": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+      "summary": "Article URL: https://pivotlake.io/blog/its-the-memory-latency-stupid/ Comments URL: https://news.ycombinator.com/item?id=50318720 Points: 222 # Comments: 73"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50316117",
+      "title": "The Ocean 'Was the Color of Chocolate.' Mexico Declares War on Seaweed.",
+      "slug": "2026-10-31-the-ocean-was-the-color-of-chocolate-mexico-declares-war-on-seaweed.html",
+      "path": "posts/2026-10-31-the-ocean-was-the-color-of-chocolate-mexico-declares-war-on-seaweed.html",
+      "date_iso": "2026-10-31T13:41:18+00:00",
+      "source": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html Comments URL: https://news.ycombinator.com/item?id=50316117 Points: 22 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50316100",
+      "title": "Jepsen: ParticleDB 1.1.4",
+      "slug": "2026-10-31-jepsen-particledb-1-1-4.html",
+      "path": "posts/2026-10-31-jepsen-particledb-1-1-4.html",
+      "date_iso": "2026-10-31T13:39:52+00:00",
+      "source": "https://jepsen.io/analyses/particledb-1.1.4",
+      "summary": "https://github.com/jepsen-io/particledb Comments URL: https://news.ycombinator.com/item?id=50316100 Points: 290 # Comments: 163"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50315574",
       "title": "Why Anthropic's Filing Crushed Tech Stocks",
       "slug": "2026-10-31-why-anthropic-s-filing-crushed-tech-stocks.html",
