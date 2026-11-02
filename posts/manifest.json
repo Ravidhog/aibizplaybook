@@ -1,6 +1,222 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=50338871",
+      "title": "Show HN: VHS Camera – Run your camera or videos through a simulated VHS signal",
+      "slug": "2026-11-02-show-hn-vhs-camera-run-your-camera-or-videos-through-a-simulated-vhs-signal.html",
+      "path": "posts/2026-11-02-show-hn-vhs-camera-run-your-camera-or-videos-through-a-simulated-vhs-signal.html",
+      "date_iso": "2026-11-02T16:08:30+00:00",
+      "source": "https://fotojockovic.com/vhs",
+      "summary": "Article URL: https://fotojockovic.com/vhs Comments URL: https://news.ycombinator.com/item?id=50338871 Points: 4 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50338747",
+      "title": "Moving our warehouse off DuckDB",
+      "slug": "2026-11-02-moving-our-warehouse-off-duckdb.html",
+      "path": "posts/2026-11-02-moving-our-warehouse-off-duckdb.html",
+      "date_iso": "2026-11-02T16:02:26+00:00",
+      "source": "https://posthog.com/blog/moving-off-duckdb",
+      "summary": "Article URL: https://posthog.com/blog/moving-off-duckdb Comments URL: https://news.ycombinator.com/item?id=50338747 Points: 40 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50338728",
+      "title": "Ask HN: Who is hiring? (November 2026)",
+      "slug": "2026-11-02-ask-hn-who-is-hiring-november-2026.html",
+      "path": "posts/2026-11-02-ask-hn-who-is-hiring-november-2026.html",
+      "date_iso": "2026-11-02T16:01:37+00:00",
+      "source": "https://news.ycombinator.com/item?id=50338728",
+      "summary": "Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option. Please only post if you personally are part of the hiring company—no recruiting firms or job boards. One post per comp…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50338726",
+      "title": "Ask HN: Who wants to be hired? (November 2026)",
+      "slug": "2026-11-02-ask-hn-who-wants-to-be-hired-november-2026.html",
+      "path": "posts/2026-11-02-ask-hn-who-wants-to-be-hired-november-2026.html",
+      "date_iso": "2026-11-02T16:01:37+00:00",
+      "source": "https://news.ycombinator.com/item?id=50338726",
+      "summary": "Share your information if you are looking for work. Please use this format: Location: Remote: Willing to relocate: Technologies: Résumé/CV: Email: Please only post if you are personally looking for work. Agencies, recruiters, job boards, and so on, are off topic here. Readers: p…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/02/business/anthropic-earnings-ai.html",
+      "title": "Anthropic Reveals Surging Revenue in Third Quarter as I.P.O. Approaches",
+      "slug": "2026-11-02-anthropic-reveals-surging-revenue-in-third-quarter-as-i-p-o-approaches.html",
+      "path": "posts/2026-11-02-anthropic-reveals-surging-revenue-in-third-quarter-as-i-p-o-approaches.html",
+      "date_iso": "2026-11-02T15:48:38+00:00",
+      "source": "https://www.nytimes.com/2026/11/02/business/anthropic-earnings-ai.html",
+      "summary": "Anthropic chief executive, Dario Amodei, in San Francisco, in September."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/02/technology/anthropic-ai-computing-power.html",
+      "title": "Inside Anthropic’s Hunt for A.I. Computing Power",
+      "slug": "2026-11-02-inside-anthropic-s-hunt-for-a-i-computing-power.html",
+      "path": "posts/2026-11-02-inside-anthropic-s-hunt-for-a-i-computing-power.html",
+      "date_iso": "2026-11-02T15:08:36+00:00",
+      "source": "https://www.nytimes.com/2026/11/02/technology/anthropic-ai-computing-power.html",
+      "summary": "The company went on a deal spree with tech giants, former crypto miners and others to obtain one of the artificial intelligence boom’s scarcest resources."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50337725",
+      "title": "Why are Soviet math textbooks so hardcore in comparison to US textbooks? (2017)",
+      "slug": "2026-11-02-why-are-soviet-math-textbooks-so-hardcore-in-comparison-to-us-textbooks-2017.html",
+      "path": "posts/2026-11-02-why-are-soviet-math-textbooks-so-hardcore-in-comparison-to-us-textbooks-2017.html",
+      "date_iso": "2026-11-02T15:01:15+00:00",
+      "source": "https://www.quora.com/Why-are-Soviet-mathematics-physics-textbooks-so-insanely-hardcore-in-comparison-to-US-textbooks/answer/Scott-Miller-307?share=1",
+      "summary": "Article URL: https://www.quora.com/Why-are-Soviet-mathematics-physics-textbooks-so-insanely-hardcore-in-comparison-to-US-textbooks/answer/Scott-Miller-307?share=1 Comments URL: https://news.ycombinator.com/item?id=50337725 Points: 83 # Comments: 107"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50337716",
+      "title": "LongCat-2.5: Native Multimodality for Agentic Tasks",
+      "slug": "2026-11-02-longcat-2-5-native-multimodality-for-agentic-tasks.html",
+      "path": "posts/2026-11-02-longcat-2-5-native-multimodality-for-agentic-tasks.html",
+      "date_iso": "2026-11-02T15:00:26+00:00",
+      "source": "https://longcat.ai/blog/longcat-2.5/",
+      "summary": "Article URL: https://longcat.ai/blog/longcat-2.5/ Comments URL: https://news.ycombinator.com/item?id=50337716 Points: 23 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50337661",
+      "title": "C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)",
+      "slug": "2026-11-02-c64-basic-dungeon-crawler-stairs-levels-and-levelling-up-part-11.html",
+      "path": "posts/2026-11-02-c64-basic-dungeon-crawler-stairs-levels-and-levelling-up-part-11.html",
+      "date_iso": "2026-11-02T14:56:21+00:00",
+      "source": "https://retrogamecoders.com/c64-basic-dungeon-part11/",
+      "summary": "Article URL: https://retrogamecoders.com/c64-basic-dungeon-part11/ Comments URL: https://news.ycombinator.com/item?id=50337661 Points: 3 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/02/business/media/ai-microtargeting-midterm-elections.html",
+      "title": "How A.I. Is Making It Easier Than Ever to Microtarget Voters",
+      "slug": "2026-11-02-how-a-i-is-making-it-easier-than-ever-to-microtarget-voters.html",
+      "path": "posts/2026-11-02-how-a-i-is-making-it-easier-than-ever-to-microtarget-voters.html",
+      "date_iso": "2026-11-02T14:55:57+00:00",
+      "source": "https://www.nytimes.com/2026/11/02/business/media/ai-microtargeting-midterm-elections.html",
+      "summary": "Microtargeting technology can help campaigns build more sophisticated models about constituent preferences that can be used to test various messaging in real time."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50337635",
+      "title": "Napping characteristics and incident dementia",
+      "slug": "2026-11-02-napping-characteristics-and-incident-dementia.html",
+      "path": "posts/2026-11-02-napping-characteristics-and-incident-dementia.html",
+      "date_iso": "2026-11-02T14:53:44+00:00",
+      "source": "https://academic.oup.com/biomedgerontology/article/81/10/glag208/8769491?login=false",
+      "summary": "Article URL: https://academic.oup.com/biomedgerontology/article/81/10/glag208/8769491?login=false Comments URL: https://news.ycombinator.com/item?id=50337635 Points: 21 # Comments: 10"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/02/world/deportees-social-media-immigration.html",
+      "title": "Deportees Turn to TikTok to Document Life Starting Over",
+      "slug": "2026-11-02-deportees-turn-to-tiktok-to-document-life-starting-over.html",
+      "path": "posts/2026-11-02-deportees-turn-to-tiktok-to-document-life-starting-over.html",
+      "date_iso": "2026-11-02T14:53:35+00:00",
+      "source": "https://www.nytimes.com/2026/11/02/world/deportees-social-media-immigration.html",
+      "summary": "Catherine Coe with her family in Tuscaloosa, Ala., before Mr. Benitez was deported in September of 2025."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50337608",
+      "title": "WTF Ubuntu?",
+      "slug": "2026-11-02-wtf-ubuntu.html",
+      "path": "posts/2026-11-02-wtf-ubuntu.html",
+      "date_iso": "2026-11-02T14:52:00+00:00",
+      "source": "https://chalmovsky.com/posts/wtf-ubuntu",
+      "summary": "Article URL: https://chalmovsky.com/posts/wtf-ubuntu Comments URL: https://news.ycombinator.com/item?id=50337608 Points: 601 # Comments: 292"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50337558",
+      "title": "We halved DNS build delay and cut memory use by 85%",
+      "slug": "2026-11-02-we-halved-dns-build-delay-and-cut-memory-use-by-85.html",
+      "path": "posts/2026-11-02-we-halved-dns-build-delay-and-cut-memory-use-by-85.html",
+      "date_iso": "2026-11-02T14:47:28+00:00",
+      "source": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+      "summary": "Article URL: https://blog.cloudflare.com/dns-targeted-zone-builds/ Comments URL: https://news.ycombinator.com/item?id=50337558 Points: 21 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50337503",
+      "title": "GPT-Rosalind-6 System Card Addendum",
+      "slug": "2026-11-02-gpt-rosalind-6-system-card-addendum.html",
+      "path": "posts/2026-11-02-gpt-rosalind-6-system-card-addendum.html",
+      "date_iso": "2026-11-02T14:44:02+00:00",
+      "source": "https://deploymentsafety.openai.com/gpt-rosalind-6",
+      "summary": "Article URL: https://deploymentsafety.openai.com/gpt-rosalind-6 Comments URL: https://news.ycombinator.com/item?id=50337503 Points: 19 # Comments: 5"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50337439",
+      "title": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
+      "slug": "2026-11-02-anthropic-reports-17b-in-q3-revenue-commitments-of-895b-in-revised-s-1.html",
+      "path": "posts/2026-11-02-anthropic-reports-17b-in-q3-revenue-commitments-of-895b-in-revised-s-1.html",
+      "date_iso": "2026-11-02T14:38:45+00:00",
+      "source": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html Comments URL: https://news.ycombinator.com/item?id=50337439 Points: 147 # Comments: 137"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50336518",
+      "title": "If you love a website, back it up",
+      "slug": "2026-11-02-if-you-love-a-website-back-it-up.html",
+      "path": "posts/2026-11-02-if-you-love-a-website-back-it-up.html",
+      "date_iso": "2026-11-02T13:25:35+00:00",
+      "source": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+      "summary": "Article URL: https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/ Comments URL: https://news.ycombinator.com/item?id=50336518 Points: 69 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50336138",
+      "title": "Last night an AI agent performed brain surgery on a mouse",
+      "slug": "2026-11-02-last-night-an-ai-agent-performed-brain-surgery-on-a-mouse.html",
+      "path": "posts/2026-11-02-last-night-an-ai-agent-performed-brain-surgery-on-a-mouse.html",
+      "date_iso": "2026-11-02T12:50:59+00:00",
+      "source": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+      "summary": "Article URL: https://twitter.com/OcanaSantero/status/2115442964574908902 Comments URL: https://news.ycombinator.com/item?id=50336138 Points: 71 # Comments: 61"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50335659",
+      "title": "Never Complain, Never Explain",
+      "slug": "2026-11-02-never-complain-never-explain.html",
+      "path": "posts/2026-11-02-never-complain-never-explain.html",
+      "date_iso": "2026-11-02T11:55:48+00:00",
+      "source": "https://en.wikipedia.org/wiki/Never_complain,_never_explain",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Never_complain,_never_explain Comments URL: https://news.ycombinator.com/item?id=50335659 Points: 117 # Comments: 45"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50335615",
+      "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
+      "slug": "2026-11-02-supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack.html",
+      "path": "posts/2026-11-02-supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack.html",
+      "date_iso": "2026-11-02T11:50:13+00:00",
+      "source": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+      "summary": "https://www.bbc.com/news/articles/cq1kd1nee80eo https://www.irishtimes.com/technology/data-security/2026/11/... Comments URL: https://news.ycombinator.com/item?id=50335615 Points: 182 # Comments: 279"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50334704",
+      "title": "Show HN: I've updated my Linux System Call website and API",
+      "slug": "2026-11-02-show-hn-i-ve-updated-my-linux-system-call-website-and-api.html",
+      "path": "posts/2026-11-02-show-hn-i-ve-updated-my-linux-system-call-website-and-api.html",
+      "date_iso": "2026-11-02T09:29:16+00:00",
+      "source": "https://syscall.sh/",
+      "summary": "I first released those in back in 2020 and now I finally added more architectures, Kernel selector, syscall descriptions and a few other niceties. It should work a bit better on mobile devices too but I am no CSS expert. The API is at https://api.syscall.sh Comments URL: https:/…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50334240",
+      "title": "Wir müssen wissen – wir werden wissen",
+      "slug": "2026-11-02-wir-m-ssen-wissen-wir-werden-wissen.html",
+      "path": "posts/2026-11-02-wir-m-ssen-wissen-wir-werden-wissen.html",
+      "date_iso": "2026-11-02T08:07:20+00:00",
+      "source": "https://remy.wang/blog/hilbert.html",
+      "summary": "Article URL: https://remy.wang/blog/hilbert.html Comments URL: https://news.ycombinator.com/item?id=50334240 Points: 33 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50334038",
+      "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+      "slug": "2026-11-02-china-s-first-frontier-ai-export-controls-mofcom-announcement-no-48.html",
+      "path": "posts/2026-11-02-china-s-first-frontier-ai-export-controls-mofcom-announcement-no-48.html",
+      "date_iso": "2026-11-02T07:27:28+00:00",
+      "source": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
+      "summary": "Article URL: https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/ Comments URL: https://news.ycombinator.com/item?id=50334038 Points: 137 # Comments: 75"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50332163",
+      "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
+      "slug": "2026-11-02-f-oss-comics-13-bsd-unix-part-3-the-beginning-of-bsd-unix.html",
+      "path": "posts/2026-11-02-f-oss-comics-13-bsd-unix-part-3-the-beginning-of-bsd-unix.html",
+      "date_iso": "2026-11-02T01:59:38+00:00",
+      "source": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
+      "summary": "Article URL: https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/ Comments URL: https://news.ycombinator.com/item?id=50332163 Points: 189 # Comments: 24"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50325454",
       "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
       "slug": "2026-11-01-proving-and-improving-the-platonic-representation-hypothesis-with-jepas.html",
