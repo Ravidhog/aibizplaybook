@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=50352257",
+      "title": "Just a little AI resistance, as a treat",
+      "slug": "2026-11-03-just-a-little-ai-resistance-as-a-treat.html",
+      "path": "posts/2026-11-03-just-a-little-ai-resistance-as-a-treat.html",
+      "date_iso": "2026-11-03T14:14:12+00:00",
+      "source": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
+      "summary": "Article URL: https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/ Comments URL: https://news.ycombinator.com/item?id=50352257 Points: 25 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50351833",
+      "title": "Microsoft's Canada timezone troubles leave admins fixing calendars",
+      "slug": "2026-11-03-microsoft-s-canada-timezone-troubles-leave-admins-fixing-calendars.html",
+      "path": "posts/2026-11-03-microsoft-s-canada-timezone-troubles-leave-admins-fixing-calendars.html",
+      "date_iso": "2026-11-03T13:37:27+00:00",
+      "source": "https://www.theregister.com/software/2026/11/02/microsofts-canada-timezone-troubles-leave-admins-fixing-calendars-pretending-theyre-in-bogota/5306934",
+      "summary": "Article URL: https://www.theregister.com/software/2026/11/02/microsofts-canada-timezone-troubles-leave-admins-fixing-calendars-pretending-theyre-in-bogota/5306934 Comments URL: https://news.ycombinator.com/item?id=50351833 Points: 12 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50351712",
+      "title": "Anthropic's IPO Filing Warns It May Be 'Imminently' Close to RSI",
+      "slug": "2026-11-03-anthropic-s-ipo-filing-warns-it-may-be-imminently-close-to-rsi.html",
+      "path": "posts/2026-11-03-anthropic-s-ipo-filing-warns-it-may-be-imminently-close-to-rsi.html",
+      "date_iso": "2026-11-03T13:26:43+00:00",
+      "source": "https://epyhia.com/anthropic-s-ipo-filing-warns-it-may-be-imminently-close-to-recursive",
+      "summary": "Article URL: https://epyhia.com/anthropic-s-ipo-filing-warns-it-may-be-imminently-close-to-recursive Comments URL: https://news.ycombinator.com/item?id=50351712 Points: 8 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50351427",
+      "title": "Show HN: Kvittas, an Expense Splitting App",
+      "slug": "2026-11-03-show-hn-kvittas-an-expense-splitting-app.html",
+      "path": "posts/2026-11-03-show-hn-kvittas-an-expense-splitting-app.html",
+      "date_iso": "2026-11-03T12:53:48+00:00",
+      "source": "https://kvittas.app",
+      "summary": "I built this to replace Cost Split, which I've used for several years and always thought was great but lacking in the UI. No account required. Comments URL: https://news.ycombinator.com/item?id=50351427 Points: 7 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50351404",
+      "title": "Show HN: Bema: Work messaging built for humans",
+      "slug": "2026-11-03-show-hn-bema-work-messaging-built-for-humans.html",
+      "path": "posts/2026-11-03-show-hn-bema-work-messaging-built-for-humans.html",
+      "date_iso": "2026-11-03T12:51:11+00:00",
+      "source": "https://getbema.app/",
+      "summary": "Hi HN! I'm Ben, the founder of Bema. I've been frustrated with the current state of work messaging software for a while now, and I've heard similar complaints from friends and coworkers. (Too many channels, easy to lose things, distracted from actual work.) I set out to build a…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50351319",
+      "title": "Charles Tandy, the mastermind behind Radio Shack",
+      "slug": "2026-11-03-charles-tandy-the-mastermind-behind-radio-shack.html",
+      "path": "posts/2026-11-03-charles-tandy-the-mastermind-behind-radio-shack.html",
+      "date_iso": "2026-11-03T12:42:30+00:00",
+      "source": "https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/",
+      "summary": "Article URL: https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/ Comments URL: https://news.ycombinator.com/item?id=50351319 Points: 29 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50351111",
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "slug": "2026-11-03-the-astra-can-read-and-write-weights-to-improve-qwen-post-is-misleading.html",
+      "path": "posts/2026-11-03-the-astra-can-read-and-write-weights-to-improve-qwen-post-is-misleading.html",
+      "date_iso": "2026-11-03T12:21:17+00:00",
+      "source": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "summary": "Article URL: https://honnibal.dev/blog/astra-read-write-misleading Comments URL: https://news.ycombinator.com/item?id=50351111 Points: 337 # Comments: 72"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50350924",
+      "title": "Sava Trust (YC F25) Is Hiring a Founding Engineer in NYC",
+      "slug": "2026-11-03-sava-trust-yc-f25-is-hiring-a-founding-engineer-in-nyc.html",
+      "path": "posts/2026-11-03-sava-trust-yc-f25-is-hiring-a-founding-engineer-in-nyc.html",
+      "date_iso": "2026-11-03T12:01:01+00:00",
+      "source": "https://www.ycombinator.com/companies/sava-trust-company/jobs",
+      "summary": "Article URL: https://www.ycombinator.com/companies/sava-trust-company/jobs Comments URL: https://news.ycombinator.com/item?id=50350924 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
+      "title": "Are Freezers Being Hacked? Europe and the U.S. Military Investigate.",
+      "slug": "2026-11-03-are-freezers-being-hacked-europe-and-the-u-s-military-investigate.html",
+      "path": "posts/2026-11-03-are-freezers-being-hacked-europe-and-the-u-s-military-investigate.html",
+      "date_iso": "2026-11-03T08:45:19+00:00",
+      "source": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
+      "summary": "Shelves were empty at a grocery store in Névez, France, last month after hundreds of supermarket refrigeration systems in the country were targeted."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50349276",
+      "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+      "slug": "2026-11-03-could-a-modern-chess-engine-on-a-pentium-have-defeated-kasparov-in-1996.html",
+      "path": "posts/2026-11-03-could-a-modern-chess-engine-on-a-pentium-have-defeated-kasparov-in-1996.html",
+      "date_iso": "2026-11-03T07:56:21+00:00",
+      "source": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+      "summary": "Article URL: https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html Comments URL: https://news.ycombinator.com/item?id=50349276 Points: 171 # Comments: 84"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50348962",
+      "title": "Nvidia – open-source auto-ontology",
+      "slug": "2026-11-03-nvidia-open-source-auto-ontology.html",
+      "path": "posts/2026-11-03-nvidia-open-source-auto-ontology.html",
+      "date_iso": "2026-11-03T07:04:50+00:00",
+      "source": "https://github.com/NVIDIA/auto-ontology",
+      "summary": "Article URL: https://github.com/NVIDIA/auto-ontology Comments URL: https://news.ycombinator.com/item?id=50348962 Points: 194 # Comments: 65"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50346981",
+      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+      "slug": "2026-11-03-show-hn-hacker-times-a-new-york-times-inspired-version-of-hacker-news.html",
+      "path": "posts/2026-11-03-show-hn-hacker-times-a-new-york-times-inspired-version-of-hacker-news.html",
+      "date_iso": "2026-11-03T01:53:34+00:00",
+      "source": "https://hackertimes.ca/",
+      "summary": "I thought it would be fun to browse HN as if it were a newspaper. The site updates once an hour. Enjoy! Comments URL: https://news.ycombinator.com/item?id=50346981 Points: 379 # Comments: 119"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50346849",
+      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+      "slug": "2026-11-03-discimagestudio-burn-visible-artwork-onto-cds-dvds-and-blu-ray-discs.html",
+      "path": "posts/2026-11-03-discimagestudio-burn-visible-artwork-onto-cds-dvds-and-blu-ray-discs.html",
+      "date_iso": "2026-11-03T01:33:43+00:00",
+      "source": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "summary": "Article URL: https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio Comments URL: https://news.ycombinator.com/item?id=50346849 Points: 301 # Comments: 62"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/02/technology/apple-earnings.html",
+      "title": "Apple’s Profit Grows 12% Despite Component Price Worries",
+      "slug": "2026-11-02-apple-s-profit-grows-12-despite-component-price-worries.html",
+      "path": "posts/2026-11-02-apple-s-profit-grows-12-despite-component-price-worries.html",
+      "date_iso": "2026-11-02T23:41:50+00:00",
+      "source": "https://www.nytimes.com/2026/11/02/technology/apple-earnings.html",
+      "summary": "Apple’s new touch-screen MacBook Pro at a product launch in Los Angeles last week."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50342119",
+      "title": "Writing seen in PHerc. 306B, for the first time in 2000 years",
+      "slug": "2026-11-02-writing-seen-in-pherc-306b-for-the-first-time-in-2000-years.html",
+      "path": "posts/2026-11-02-writing-seen-in-pherc-306b-for-the-first-time-in-2000-years.html",
+      "date_iso": "2026-11-02T19:18:46+00:00",
+      "source": "https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the",
+      "summary": "Article URL: https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the Comments URL: https://news.ycombinator.com/item?id=50342119 Points: 6 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/02/technology/marvell-lumentum-115-billion-merger-ai.html",
+      "title": "Driven by A.I. Boom, Marvell and Lumentum Announce $115 Billion Merger",
+      "slug": "2026-11-02-driven-by-a-i-boom-marvell-and-lumentum-announce-115-billion-merger.html",
+      "path": "posts/2026-11-02-driven-by-a-i-boom-marvell-and-lumentum-announce-115-billion-merger.html",
+      "date_iso": "2026-11-02T18:48:04+00:00",
+      "source": "https://www.nytimes.com/2026/11/02/technology/marvell-lumentum-115-billion-merger-ai.html",
+      "summary": "Matt Murphy, chairman and chief executive of Marvell Technology, at the company’s investor day in New York last month."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50341174",
+      "title": "Astra can read and write weights to improve Qwen",
+      "slug": "2026-11-02-astra-can-read-and-write-weights-to-improve-qwen.html",
+      "path": "posts/2026-11-02-astra-can-read-and-write-weights-to-improve-qwen.html",
+      "date_iso": "2026-11-02T18:21:28+00:00",
+      "source": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "summary": "Article URL: https://rikiyat.github.io/blog/weight-space-programming/ Comments URL: https://news.ycombinator.com/item?id=50341174 Points: 2871 # Comments: 864"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50340619",
+      "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+      "slug": "2026-11-02-self-employed-solopreneur-nist-has-a-cybersecurity-guide-just-for-you.html",
+      "path": "posts/2026-11-02-self-employed-solopreneur-nist-has-a-cybersecurity-guide-just-for-you.html",
+      "date_iso": "2026-11-02T17:47:40+00:00",
+      "source": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
+      "summary": "Article URL: https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you Comments URL: https://news.ycombinator.com/item?id=50340619 Points: 286 # Comments: 82"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50340088",
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "slug": "2026-11-02-show-hn-subvocal-talk-to-your-computer-without-making-noise.html",
+      "path": "posts/2026-11-02-show-hn-subvocal-talk-to-your-computer-without-making-noise.html",
+      "date_iso": "2026-11-02T17:16:17+00:00",
+      "source": "https://news.ycombinator.com/item?id=50340088",
+      "summary": "Hi HN, we're Aarush and Arnav from The Subvocal Company (YC F26) ( https://subvocal.company/ ). We’re building smart glasses that let you talk to your computer without talking out loud. You can mouth words silently and discreetly and the glasses decode them to text at the speed…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50339913",
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "slug": "2026-11-02-launch-hn-momentic-yc-w24-agents-that-catch-bugs-by-using-your-app.html",
+      "path": "posts/2026-11-02-launch-hn-momentic-yc-w24-agents-that-catch-bugs-by-using-your-app.html",
+      "date_iso": "2026-11-02T17:05:25+00:00",
+      "source": "https://momentic.ai/",
+      "summary": "Hey HN, we’re Wei-Wei and Jeff. We’re building Momentic, QA agents that autonomously plan, explore, and bug-bash controls and user flows in your web, iOS, Android, and (soon) desktop apps to catch bugs. Here’s a demo: https://youtu.be/BFsM-Se1Fh8 We’re both software engineers th…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50339397",
+      "title": "US boy names that became girl names and vice versa",
+      "slug": "2026-11-02-us-boy-names-that-became-girl-names-and-vice-versa.html",
+      "path": "posts/2026-11-02-us-boy-names-that-became-girl-names-and-vice-versa.html",
+      "date_iso": "2026-11-02T16:34:36+00:00",
+      "source": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+      "summary": "Article URL: https://namedaisy.com/blog/boy-names-that-became-girl-names Comments URL: https://news.ycombinator.com/item?id=50339397 Points: 445 # Comments: 428"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50339221",
+      "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
+      "slug": "2026-11-02-show-hn-warsaw-in-voxels-an-interactive-3d-map-of-the-city-centre.html",
+      "path": "posts/2026-11-02-show-hn-warsaw-in-voxels-an-interactive-3d-map-of-the-city-centre.html",
+      "date_iso": "2026-11-02T16:25:26+00:00",
+      "source": "https://p.migdal.pl/warsaw-vibe-voxel/",
+      "summary": "Explore central Warsaw in voxels - slightly inspired by Minecraft, and MagicaVoxel. You can change the date, time of day and weather, explore the city, or click on a pedestrian to control them (here a bit of inspiration from Dungeon Keeper). Works best on desktop, but I tried to…"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50338871",
       "title": "Show HN: VHS Camera – Run your camera or videos through a simulated VHS signal",
       "slug": "2026-11-02-show-hn-vhs-camera-run-your-camera-or-videos-through-a-simulated-vhs-signal.html",
@@ -44,6 +242,15 @@
       "date_iso": "2026-11-02T15:48:38+00:00",
       "source": "https://www.nytimes.com/2026/11/02/business/anthropic-earnings-ai.html",
       "summary": "Anthropic chief executive, Dario Amodei, in San Francisco, in September."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50337980",
+      "title": "Killing what can't be handled – putting a spaghetti demon to eternal rest",
+      "slug": "2026-11-02-killing-what-can-t-be-handled-putting-a-spaghetti-demon-to-eternal-rest.html",
+      "path": "posts/2026-11-02-killing-what-can-t-be-handled-putting-a-spaghetti-demon-to-eternal-rest.html",
+      "date_iso": "2026-11-02T15:18:49+00:00",
+      "source": "https://themaister.net/blog/2026/10/29/killing-what-cant-be-handled-putting-a-spaghetti-demon-to-eternal-rest/",
+      "summary": "Article URL: https://themaister.net/blog/2026/10/29/killing-what-cant-be-handled-putting-a-spaghetti-demon-to-eternal-rest/ Comments URL: https://news.ycombinator.com/item?id=50337980 Points: 6 # Comments: 0"
     },
     {
       "id": "https://www.nytimes.com/2026/11/02/technology/anthropic-ai-computing-power.html",
