@@ -1,6 +1,222 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=50365982",
+      "title": "US voters roundly reject data centers in ballot measures",
+      "slug": "2026-11-04-us-voters-roundly-reject-data-centers-in-ballot-measures.html",
+      "path": "posts/2026-11-04-us-voters-roundly-reject-data-centers-in-ballot-measures.html",
+      "date_iso": "2026-11-04T14:27:02+00:00",
+      "source": "https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures",
+      "summary": "Article URL: https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures Comments URL: https://news.ycombinator.com/item?id=50365982 Points: 66 # Comments: 33"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50365760",
+      "title": "Jaron Lanier on parallels between AI and social media",
+      "slug": "2026-11-04-jaron-lanier-on-parallels-between-ai-and-social-media.html",
+      "path": "posts/2026-11-04-jaron-lanier-on-parallels-between-ai-and-social-media.html",
+      "date_iso": "2026-11-04T14:10:14+00:00",
+      "source": "https://www.youtube.com/watch?v=WxaRn8kX2eI",
+      "summary": "Article URL: https://www.youtube.com/watch?v=WxaRn8kX2eI Comments URL: https://news.ycombinator.com/item?id=50365760 Points: 12 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50365755",
+      "title": "North Korean fake job interview led to $6.3B Binance heist",
+      "slug": "2026-11-04-north-korean-fake-job-interview-led-to-6-3b-binance-heist.html",
+      "path": "posts/2026-11-04-north-korean-fake-job-interview-led-to-6-3b-binance-heist.html",
+      "date_iso": "2026-11-04T14:09:55+00:00",
+      "source": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+      "summary": "Article URL: https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398 Comments URL: https://news.ycombinator.com/item?id=50365755 Points: 61 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50364336",
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "slug": "2026-11-04-ai-is-forcing-us-to-pay-off-40-years-of-technical-debt.html",
+      "path": "posts/2026-11-04-ai-is-forcing-us-to-pay-off-40-years-of-technical-debt.html",
+      "date_iso": "2026-11-04T11:52:17+00:00",
+      "source": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 356 # Comments: 248"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50363968",
+      "title": "Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver",
+      "slug": "2026-11-04-synaptics-appears-to-use-legal-threats-to-block-open-source-displaylink-driver.html",
+      "path": "posts/2026-11-04-synaptics-appears-to-use-legal-threats-to-block-open-source-displaylink-driver.html",
+      "date_iso": "2026-11-04T11:14:12+00:00",
+      "source": "https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver",
+      "summary": "Article URL: https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver Comments URL: https://news.ycombinator.com/item?id=50363968 Points: 71 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50363554",
+      "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+      "slug": "2026-11-04-geoffrey-hinton-it-might-turn-out-we-were-better-off-without-ai.html",
+      "path": "posts/2026-11-04-geoffrey-hinton-it-might-turn-out-we-were-better-off-without-ai.html",
+      "date_iso": "2026-11-04T10:23:34+00:00",
+      "source": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+      "summary": "Article URL: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai Comments URL: https://news.ycombinator.com/item?id=50363554 Points: 216 # Comments: 169"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50363461",
+      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "slug": "2026-11-04-tell-hn-gemini-trains-on-chat-history-even-for-subscribers-personal-accounts.html",
+      "path": "posts/2026-11-04-tell-hn-gemini-trains-on-chat-history-even-for-subscribers-personal-accounts.html",
+      "date_iso": "2026-11-04T10:10:27+00:00",
+      "source": "https://news.ycombinator.com/item?id=50363461",
+      "summary": "If you have a personal Google AI subscription, all your saved chat history in Gemini can be used for training and there is no way to opt out unless you turn off chat history or use temporary chat sessions. These chat transcripts may even be read by human reviewers. Although Goog…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50363378",
+      "title": "Incident with Pull Requests, Git Operations and Issues",
+      "slug": "2026-11-04-incident-with-pull-requests-git-operations-and-issues.html",
+      "path": "posts/2026-11-04-incident-with-pull-requests-git-operations-and-issues.html",
+      "date_iso": "2026-11-04T10:00:06+00:00",
+      "source": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+      "summary": "Article URL: https://www.githubstatus.com/incidents/smtdswd1h2w4 Comments URL: https://news.ycombinator.com/item?id=50363378 Points: 164 # Comments: 80"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50363019",
+      "title": "Verification Is Not Knowledge: Science needs more than answers",
+      "slug": "2026-11-04-verification-is-not-knowledge-science-needs-more-than-answers.html",
+      "path": "posts/2026-11-04-verification-is-not-knowledge-science-needs-more-than-answers.html",
+      "date_iso": "2026-11-04T09:01:58+00:00",
+      "source": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+      "summary": "Article URL: https://blog.cosmos-institute.org/p/verification-is-not-knowledge Comments URL: https://news.ycombinator.com/item?id=50363019 Points: 127 # Comments: 75"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50362980",
+      "title": "Kitty 0.50",
+      "slug": "2026-11-04-kitty-0-50.html",
+      "path": "posts/2026-11-04-kitty-0-50.html",
+      "date_iso": "2026-11-04T08:57:10+00:00",
+      "source": "https://sw.kovidgoyal.net/kitty/changelog/#",
+      "summary": "Article URL: https://sw.kovidgoyal.net/kitty/changelog/# Comments URL: https://news.ycombinator.com/item?id=50362980 Points: 260 # Comments: 160"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50362905",
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "slug": "2026-11-04-nvidia-rtx-spark-encrypted-firmware-slows-inference-speed-to-35-on-linux.html",
+      "path": "posts/2026-11-04-nvidia-rtx-spark-encrypted-firmware-slows-inference-speed-to-35-on-linux.html",
+      "date_iso": "2026-11-04T08:46:29+00:00",
+      "source": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "summary": "Article URL: https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop Comments URL: https://news.ycombinator.com/item?id=50362905 Points: 305 # Comments: 157"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50362466",
+      "title": "The lost malloc()",
+      "slug": "2026-11-04-the-lost-malloc.html",
+      "path": "posts/2026-11-04-the-lost-malloc.html",
+      "date_iso": "2026-11-04T07:37:30+00:00",
+      "source": "https://napcakes.nekoweb.org/posts/malloc/",
+      "summary": "Article URL: https://napcakes.nekoweb.org/posts/malloc/ Comments URL: https://news.ycombinator.com/item?id=50362466 Points: 100 # Comments: 36"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50361268",
+      "title": "Jelly Sheet",
+      "slug": "2026-11-04-jelly-sheet.html",
+      "path": "posts/2026-11-04-jelly-sheet.html",
+      "date_iso": "2026-11-04T03:40:50+00:00",
+      "source": "https://mrdoob.github.io/codevember-2026/01/",
+      "summary": "Article URL: https://mrdoob.github.io/codevember-2026/01/ Comments URL: https://news.ycombinator.com/item?id=50361268 Points: 340 # Comments: 88"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50361154",
+      "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+      "slug": "2026-11-04-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-young-patients.html",
+      "path": "posts/2026-11-04-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-young-patients.html",
+      "date_iso": "2026-11-04T03:20:13+00:00",
+      "source": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
+      "summary": "Article URL: https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients Comments URL: https://news.ycombinator.com/item?id=50361154 Points: 99 # Comments: 36"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50361107",
+      "title": "Arrows to arrows, categories to queries (2025)",
+      "slug": "2026-11-04-arrows-to-arrows-categories-to-queries-2025.html",
+      "path": "posts/2026-11-04-arrows-to-arrows-categories-to-queries-2025.html",
+      "date_iso": "2026-11-04T03:11:27+00:00",
+      "source": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
+      "summary": "Article URL: https://reasonablypolymorphic.com/blog/arrows-to-arrows/ Comments URL: https://news.ycombinator.com/item?id=50361107 Points: 68 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50360573",
+      "title": "Giant canyon on Mars is still tectonically active",
+      "slug": "2026-11-04-giant-canyon-on-mars-is-still-tectonically-active.html",
+      "path": "posts/2026-11-04-giant-canyon-on-mars-is-still-tectonically-active.html",
+      "date_iso": "2026-11-04T01:40:42+00:00",
+      "source": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
+      "summary": "Article URL: https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today Comments URL: https://news.ycombinator.com/item?id=50360573 Points: 120 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50360164",
+      "title": "C++26 Disapproved",
+      "slug": "2026-11-04-c-26-disapproved.html",
+      "path": "posts/2026-11-04-c-26-disapproved.html",
+      "date_iso": "2026-11-04T00:33:22+00:00",
+      "source": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+      "summary": "Article URL: https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/ Comments URL: https://news.ycombinator.com/item?id=50360164 Points: 371 # Comments: 273"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html",
+      "title": "OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections",
+      "slug": "2026-11-03-openai-and-anthropic-set-up-war-rooms-to-fight-disinfo-about-midterm-elections.html",
+      "path": "posts/2026-11-03-openai-and-anthropic-set-up-war-rooms-to-fight-disinfo-about-midterm-elections.html",
+      "date_iso": "2026-11-03T23:39:55+00:00",
+      "source": "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html",
+      "summary": "OpenAI employees work inside the company’s Election Operations Center in San Francisco."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50358702",
+      "title": "The Internals of PostgreSQL",
+      "slug": "2026-11-03-the-internals-of-postgresql.html",
+      "path": "posts/2026-11-03-the-internals-of-postgresql.html",
+      "date_iso": "2026-11-03T21:51:06+00:00",
+      "source": "https://www.interdb.jp/pg/index.html",
+      "summary": "Article URL: https://www.interdb.jp/pg/index.html Comments URL: https://news.ycombinator.com/item?id=50358702 Points: 324 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50358562",
+      "title": "Safari introduces Adaptive Dark Mode in 27.3",
+      "slug": "2026-11-03-safari-introduces-adaptive-dark-mode-in-27-3.html",
+      "path": "posts/2026-11-03-safari-introduces-adaptive-dark-mode-in-27-3.html",
+      "date_iso": "2026-11-03T21:39:05+00:00",
+      "source": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+      "summary": "Article URL: https://webkit.org/blog/18541/introducing-adaptive-dark-mode/ Comments URL: https://news.ycombinator.com/item?id=50358562 Points: 472 # Comments: 247"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50358352",
+      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+      "slug": "2026-11-03-show-hn-uncracked-city-detective-game-where-you-question-llm-suspects-that-lie.html",
+      "path": "posts/2026-11-03-show-hn-uncracked-city-detective-game-where-you-question-llm-suspects-that-lie.html",
+      "date_iso": "2026-11-03T21:20:03+00:00",
+      "source": "https://uncracked.city",
+      "summary": "To give you some context on the project. I'm a solo founder and I use AI heavily in my work. The idea came from wanting players to discover cities. Each city has its own history, so every case is set in a real city with real public places. The crime and the people are on other h…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "title": "Google Will Turn Off Search for Schools That Reject A.I.",
+      "slug": "2026-11-03-google-will-turn-off-search-for-schools-that-reject-a-i.html",
+      "path": "posts/2026-11-03-google-will-turn-off-search-for-schools-that-reject-a-i.html",
+      "date_iso": "2026-11-03T20:53:40+00:00",
+      "source": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "summary": "Google products are ubiquitous in American schools."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/03/technology/midterm-elections-voter-fraud-claims.html",
+      "title": "Voting Problems Cause a Surge in Misleading Fraud Claims Online",
+      "slug": "2026-11-03-voting-problems-cause-a-surge-in-misleading-fraud-claims-online.html",
+      "path": "posts/2026-11-03-voting-problems-cause-a-surge-in-misleading-fraud-claims-online.html",
+      "date_iso": "2026-11-03T19:54:29+00:00",
+      "source": "https://www.nytimes.com/2026/11/03/technology/midterm-elections-voter-fraud-claims.html",
+      "summary": "Mentions of “cheat,” “steal,” “rig” and similar terms spiked on X this morning as voting began."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/03/technology/binance-hack-report.html",
+      "title": "Binance Says Hackers Plotted $6.3 Billion Crypto Heist for Months",
+      "slug": "2026-11-03-binance-says-hackers-plotted-6-3-billion-crypto-heist-for-months.html",
+      "path": "posts/2026-11-03-binance-says-hackers-plotted-6-3-billion-crypto-heist-for-months.html",
+      "date_iso": "2026-11-03T18:09:36+00:00",
+      "source": "https://www.nytimes.com/2026/11/03/technology/binance-hack-report.html",
+      "summary": "The hackers used a computer and an internal A.I. tool to take control of the machines of two engineers on Binance’s wallet team."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50352257",
       "title": "Just a little AI resistance, as a treat",
       "slug": "2026-11-03-just-a-little-ai-resistance-as-a-treat.html",
