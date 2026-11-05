@@ -1,6 +1,222 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=50379773",
+      "title": "Image of Our Satellite-Choked Night Skies",
+      "slug": "2026-11-05-image-of-our-satellite-choked-night-skies.html",
+      "path": "posts/2026-11-05-image-of-our-satellite-choked-night-skies.html",
+      "date_iso": "2026-11-05T14:49:07+00:00",
+      "source": "https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies",
+      "summary": "Article URL: https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies Comments URL: https://news.ycombinator.com/item?id=50379773 Points: 13 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50379704",
+      "title": "Alpine Linux Security advisory: OpenSSH-server password authentication bypass",
+      "slug": "2026-11-05-alpine-linux-security-advisory-openssh-server-password-authentication-bypass.html",
+      "path": "posts/2026-11-05-alpine-linux-security-advisory-openssh-server-password-authentication-bypass.html",
+      "date_iso": "2026-11-05T14:44:20+00:00",
+      "source": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+      "summary": "Article URL: https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/ Comments URL: https://news.ycombinator.com/item?id=50379704 Points: 19 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50379576",
+      "title": "September in Servo: <progress>, rounded rectangles, and more",
+      "slug": "2026-11-05-september-in-servo-progress-rounded-rectangles-and-more.html",
+      "path": "posts/2026-11-05-september-in-servo-progress-rounded-rectangles-and-more.html",
+      "date_iso": "2026-11-05T14:34:18+00:00",
+      "source": "https://servo.org/blog/2026/11/05/september-in-servo/",
+      "summary": "Article URL: https://servo.org/blog/2026/11/05/september-in-servo/ Comments URL: https://news.ycombinator.com/item?id=50379576 Points: 4 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50379249",
+      "title": "MCP Explained",
+      "slug": "2026-11-05-mcp-explained.html",
+      "path": "posts/2026-11-05-mcp-explained.html",
+      "date_iso": "2026-11-05T14:08:35+00:00",
+      "source": "https://mcp-explained.com/",
+      "summary": "Article URL: https://mcp-explained.com/ Comments URL: https://news.ycombinator.com/item?id=50379249 Points: 56 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50378942",
+      "title": "I wish tech companies knew more about me",
+      "slug": "2026-11-05-i-wish-tech-companies-knew-more-about-me.html",
+      "path": "posts/2026-11-05-i-wish-tech-companies-knew-more-about-me.html",
+      "date_iso": "2026-11-05T13:40:52+00:00",
+      "source": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+      "summary": "Article URL: https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me Comments URL: https://news.ycombinator.com/item?id=50378942 Points: 36 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50378625",
+      "title": "Discord is ditching Electron and its new app uses less RAM",
+      "slug": "2026-11-05-discord-is-ditching-electron-and-its-new-app-uses-less-ram.html",
+      "path": "posts/2026-11-05-discord-is-ditching-electron-and-its-new-app-uses-less-ram.html",
+      "date_iso": "2026-11-05T13:05:28+00:00",
+      "source": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+      "summary": "Article URL: https://www.theverge.com/news/1027379/discord-ditching-electron-web-app Comments URL: https://news.ycombinator.com/item?id=50378625 Points: 115 # Comments: 75"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50378571",
+      "title": "Download your favourite YouTube videos",
+      "slug": "2026-11-05-download-your-favourite-youtube-videos.html",
+      "path": "posts/2026-11-05-download-your-favourite-youtube-videos.html",
+      "date_iso": "2026-11-05T13:00:11+00:00",
+      "source": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+      "summary": "Article URL: https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/ Comments URL: https://news.ycombinator.com/item?id=50378571 Points: 25 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50378508",
+      "title": "Why This Obscure Audio Codec Is a Perfect Fit for the N64",
+      "slug": "2026-11-05-why-this-obscure-audio-codec-is-a-perfect-fit-for-the-n64.html",
+      "path": "posts/2026-11-05-why-this-obscure-audio-codec-is-a-perfect-fit-for-the-n64.html",
+      "date_iso": "2026-11-05T12:51:48+00:00",
+      "source": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
+      "summary": "Article URL: https://phoboslab.org/log/2026/11/n64-ulc-codec Comments URL: https://news.ycombinator.com/item?id=50378508 Points: 19 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50378398",
+      "title": "Vivaldi 8.3 for Desktop: make bad ads sad",
+      "slug": "2026-11-05-vivaldi-8-3-for-desktop-make-bad-ads-sad.html",
+      "path": "posts/2026-11-05-vivaldi-8-3-for-desktop-make-bad-ads-sad.html",
+      "date_iso": "2026-11-05T12:39:12+00:00",
+      "source": "https://vivaldi.com/blog/vivaldi-on-desktop-8-3/",
+      "summary": "Article URL: https://vivaldi.com/blog/vivaldi-on-desktop-8-3/ Comments URL: https://news.ycombinator.com/item?id=50378398 Points: 23 # Comments: 18"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50378228",
+      "title": "Sshole",
+      "slug": "2026-11-05-sshole.html",
+      "path": "posts/2026-11-05-sshole.html",
+      "date_iso": "2026-11-05T12:19:02+00:00",
+      "source": "https://sshhole.com",
+      "summary": "Article URL: https://sshhole.com Comments URL: https://news.ycombinator.com/item?id=50378228 Points: 795 # Comments: 224"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
+      "title": "What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I.",
+      "slug": "2026-11-05-what-shaped-anthropic-ceo-dario-amodei-s-thinking-on-a-i.html",
+      "path": "posts/2026-11-05-what-shaped-anthropic-ceo-dario-amodei-s-thinking-on-a-i.html",
+      "date_iso": "2026-11-05T12:14:40+00:00",
+      "source": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
+      "summary": "Some call him a doomer. Others see him as a responsible technologist. Here’s how the Anthropic chief executive’s thinking on artificial intelligence was shaped."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50377976",
+      "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
+      "slug": "2026-11-05-openssh-10-6p2-critical-workaround-for-alpine-without-pam.html",
+      "path": "posts/2026-11-05-openssh-10-6p2-critical-workaround-for-alpine-without-pam.html",
+      "date_iso": "2026-11-05T11:40:30+00:00",
+      "source": "https://www.openssh.org/releasenotes.html#10.6p2",
+      "summary": "Article URL: https://www.openssh.org/releasenotes.html#10.6p2 Comments URL: https://news.ycombinator.com/item?id=50377976 Points: 97 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50377821",
+      "title": "Awesome repositories are no longer awesome",
+      "slug": "2026-11-05-awesome-repositories-are-no-longer-awesome.html",
+      "path": "posts/2026-11-05-awesome-repositories-are-no-longer-awesome.html",
+      "date_iso": "2026-11-05T11:16:51+00:00",
+      "source": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/",
+      "summary": "Article URL: https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/ Comments URL: https://news.ycombinator.com/item?id=50377821 Points: 149 # Comments: 77"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/05/technology/personaltech/amazon-kindle-colorsoft-review.html",
+      "title": "Amazon Kindle Colorsoft Review: The Single-Task Gadget of Our Times",
+      "slug": "2026-11-05-amazon-kindle-colorsoft-review-the-single-task-gadget-of-our-times.html",
+      "path": "posts/2026-11-05-amazon-kindle-colorsoft-review-the-single-task-gadget-of-our-times.html",
+      "date_iso": "2026-11-05T10:03:28+00:00",
+      "source": "https://www.nytimes.com/2026/11/05/technology/personaltech/amazon-kindle-colorsoft-review.html",
+      "summary": "E-book reader sales are soaring as consumers seek technology offering respite from social media and artificial intelligence hype. It’s even better in color."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50377221",
+      "title": "OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability",
+      "slug": "2026-11-05-openssh-10-6p2-has-been-released-with-a-workaround-for-a-critical-vulnerability.html",
+      "path": "posts/2026-11-05-openssh-10-6p2-has-been-released-with-a-workaround-for-a-critical-vulnerability.html",
+      "date_iso": "2026-11-05T09:46:17+00:00",
+      "source": "https://hachyderm.io/@damienmiller/117563026759098135",
+      "summary": "Article URL: https://hachyderm.io/@damienmiller/117563026759098135 Comments URL: https://news.ycombinator.com/item?id=50377221 Points: 136 # Comments: 51"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50377078",
+      "title": "Baidu released ERNIE 5.5 Flash Base",
+      "slug": "2026-11-05-baidu-released-ernie-5-5-flash-base.html",
+      "path": "posts/2026-11-05-baidu-released-ernie-5-5-flash-base.html",
+      "date_iso": "2026-11-05T09:29:12+00:00",
+      "source": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+      "summary": "Article URL: https://ernie.baidu.com/release/ernie-5-5-flash-base/ Comments URL: https://news.ycombinator.com/item?id=50377078 Points: 120 # Comments: 69"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50376313",
+      "title": "GPT-6 Astra covertly underperforms on safety research",
+      "slug": "2026-11-05-gpt-6-astra-covertly-underperforms-on-safety-research.html",
+      "path": "posts/2026-11-05-gpt-6-astra-covertly-underperforms-on-safety-research.html",
+      "date_iso": "2026-11-05T07:44:30+00:00",
+      "source": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+      "summary": "Article URL: https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/ Comments URL: https://news.ycombinator.com/item?id=50376313 Points: 82 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50375691",
+      "title": "Being a kid making games in the early 2000s",
+      "slug": "2026-11-05-being-a-kid-making-games-in-the-early-2000s.html",
+      "path": "posts/2026-11-05-being-a-kid-making-games-in-the-early-2000s.html",
+      "date_iso": "2026-11-05T05:53:53+00:00",
+      "source": "https://jaytholen.net/teengamedev/",
+      "summary": "Article URL: https://jaytholen.net/teengamedev/ Comments URL: https://news.ycombinator.com/item?id=50375691 Points: 78 # Comments: 31"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50375354",
+      "title": "Lemmings CSS Animation",
+      "slug": "2026-11-05-lemmings-css-animation.html",
+      "path": "posts/2026-11-05-lemmings-css-animation.html",
+      "date_iso": "2026-11-05T04:54:10+00:00",
+      "source": "https://markblah.github.io/lemmings/",
+      "summary": "Article URL: https://markblah.github.io/lemmings/ Comments URL: https://news.ycombinator.com/item?id=50375354 Points: 300 # Comments: 59"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50372945",
+      "title": "Images 2.6",
+      "slug": "2026-11-04-images-2-6.html",
+      "path": "posts/2026-11-04-images-2-6.html",
+      "date_iso": "2026-11-04T23:35:44+00:00",
+      "source": "https://openai.com/index/introducing-images-2-6/",
+      "summary": "Article URL: https://openai.com/index/introducing-images-2-6/ Comments URL: https://news.ycombinator.com/item?id=50372945 Points: 350 # Comments: 213"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50372929",
+      "title": "A thousand fewer paths to root",
+      "slug": "2026-11-04-a-thousand-fewer-paths-to-root.html",
+      "path": "posts/2026-11-04-a-thousand-fewer-paths-to-root.html",
+      "date_iso": "2026-11-04T23:33:14+00:00",
+      "source": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+      "summary": "Article URL: https://openai.com/index/a-thousand-fewer-paths-to-root/ Comments URL: https://news.ycombinator.com/item?id=50372929 Points: 434 # Comments: 318"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50371246",
+      "title": "Residential proxies detected on White House network",
+      "slug": "2026-11-04-residential-proxies-detected-on-white-house-network.html",
+      "path": "posts/2026-11-04-residential-proxies-detected-on-white-house-network.html",
+      "date_iso": "2026-11-04T20:45:18+00:00",
+      "source": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "summary": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet... Comments URL: https://news.ycombinator.com/item?id=50371246 Points: 1199 # Comments: 390"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/04/technology/midterm-elections-ai-data-centers.html",
+      "title": "Voters Rejected A.I. in the Midterms. Now Comes an Era of Scrutiny.",
+      "slug": "2026-11-04-voters-rejected-a-i-in-the-midterms-now-comes-an-era-of-scrutiny.html",
+      "path": "posts/2026-11-04-voters-rejected-a-i-in-the-midterms-now-comes-an-era-of-scrutiny.html",
+      "date_iso": "2026-11-04T19:53:16+00:00",
+      "source": "https://www.nytimes.com/2026/11/04/technology/midterm-elections-ai-data-centers.html",
+      "summary": "A sign supporting the banning of data centers is posted outside a home in New Albany, Ohio."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/04/technology/sherrod-brown-ohio-crypto-trump.html",
+      "title": "Sherrod Brown’s Win in Ohio Is a Rare Loss for Crypto Under Trump",
+      "slug": "2026-11-04-sherrod-brown-s-win-in-ohio-is-a-rare-loss-for-crypto-under-trump.html",
+      "path": "posts/2026-11-04-sherrod-brown-s-win-in-ohio-is-a-rare-loss-for-crypto-under-trump.html",
+      "date_iso": "2026-11-04T18:12:27+00:00",
+      "source": "https://www.nytimes.com/2026/11/04/technology/sherrod-brown-ohio-crypto-trump.html",
+      "summary": "Sherrod Brown at the Democratic watch party in Columbus, Ohio, on Tuesday after winning back his Senate seat."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50365982",
       "title": "US voters roundly reject data centers in ballot measures",
       "slug": "2026-11-04-us-voters-roundly-reject-data-centers-in-ballot-measures.html",
