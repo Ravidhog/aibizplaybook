@@ -1,6 +1,258 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=50392499",
+      "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+      "slug": "2026-11-06-university-libraries-are-being-swarmed-by-ai-bots-putting-public-access-at-risk.html",
+      "path": "posts/2026-11-06-university-libraries-are-being-swarmed-by-ai-bots-putting-public-access-at-risk.html",
+      "date_iso": "2026-11-06T14:13:09+00:00",
+      "source": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+      "summary": "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499 Points: 11 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50392330",
+      "title": "Protesters break into Microsoft data center site in Amsterdam",
+      "slug": "2026-11-06-protesters-break-into-microsoft-data-center-site-in-amsterdam.html",
+      "path": "posts/2026-11-06-protesters-break-into-microsoft-data-center-site-in-amsterdam.html",
+      "date_iso": "2026-11-06T13:55:56+00:00",
+      "source": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+      "summary": "Article URL: https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam Comments URL: https://news.ycombinator.com/item?id=50392330 Points: 16 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50392118",
+      "title": "Gemini Omni 1.2 Flash",
+      "slug": "2026-11-06-gemini-omni-1-2-flash.html",
+      "path": "posts/2026-11-06-gemini-omni-1-2-flash.html",
+      "date_iso": "2026-11-06T13:35:27+00:00",
+      "source": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/ Comments URL: https://news.ycombinator.com/item?id=50392118 Points: 56 # Comments: 29"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html",
+      "title": "Microsoft’s Buyout Offer Sets Its Workforce on Edge",
+      "slug": "2026-11-06-microsoft-s-buyout-offer-sets-its-workforce-on-edge.html",
+      "path": "posts/2026-11-06-microsoft-s-buyout-offer-sets-its-workforce-on-edge.html",
+      "date_iso": "2026-11-06T12:23:09+00:00",
+      "source": "https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html",
+      "summary": "As Microsoft pours billions into artificial intelligence, the company has offered buyouts to about 60,000 employees. The work force was already on edge."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50391456",
+      "title": "Tesla winds down Cybertruck production after years of poor sales in few markets",
+      "slug": "2026-11-06-tesla-winds-down-cybertruck-production-after-years-of-poor-sales-in-few-markets.html",
+      "path": "posts/2026-11-06-tesla-winds-down-cybertruck-production-after-years-of-poor-sales-in-few-markets.html",
+      "date_iso": "2026-11-06T12:13:51+00:00",
+      "source": "https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv",
+      "summary": "Article URL: https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv Comments URL: https://news.ycombinator.com/item?id=50391456 Points: 169 # Comments: 171"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50391342",
+      "title": "Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers",
+      "slug": "2026-11-06-mbodi-ai-yc-p25-is-hiring-research-and-robotic-engineers.html",
+      "path": "posts/2026-11-06-mbodi-ai-yc-p25-is-hiring-research-and-robotic-engineers.html",
+      "date_iso": "2026-11-06T12:00:42+00:00",
+      "source": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
+      "summary": "Article URL: https://www.ycombinator.com/companies/mbodi-ai/jobs Comments URL: https://news.ycombinator.com/item?id=50391342 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50391145",
+      "title": "We've built an open-source feature flag server for 11 years",
+      "slug": "2026-11-06-we-ve-built-an-open-source-feature-flag-server-for-11-years.html",
+      "path": "posts/2026-11-06-we-ve-built-an-open-source-feature-flag-server-for-11-years.html",
+      "date_iso": "2026-11-06T11:40:06+00:00",
+      "source": "https://github.com/Unleash/unleash",
+      "summary": "Article URL: https://github.com/Unleash/unleash Comments URL: https://news.ycombinator.com/item?id=50391145 Points: 55 # Comments: 28"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/06/podcasts/hardfork-midterms-tech-right.html",
+      "title": "Why the Tech Right Lost Big This Week",
+      "slug": "2026-11-06-why-the-tech-right-lost-big-this-week.html",
+      "path": "posts/2026-11-06-why-the-tech-right-lost-big-this-week.html",
+      "date_iso": "2026-11-06T11:00:19+00:00",
+      "source": "https://www.nytimes.com/2026/11/06/podcasts/hardfork-midterms-tech-right.html",
+      "summary": "“This felt like a decidedly anti-tech election.”"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50390525",
+      "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
+      "slug": "2026-11-06-living-beyond-the-limits-of-survival-wood-ants-trapped-in-a-gigantic-pitfall-2016.html",
+      "path": "posts/2026-11-06-living-beyond-the-limits-of-survival-wood-ants-trapped-in-a-gigantic-pitfall-2016.html",
+      "date_iso": "2026-11-06T10:21:15+00:00",
+      "source": "https://jhr.pensoft.net/articles.php?id=9096",
+      "summary": "Article URL: https://jhr.pensoft.net/articles.php?id=9096 Comments URL: https://news.ycombinator.com/item?id=50390525 Points: 82 # Comments: 29"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/06/technology/tiktok-time-saved-videos-heyitsyoon.html",
+      "title": "Tired of Slow TikToks? This Content Creator Gives You the Ending",
+      "slug": "2026-11-06-tired-of-slow-tiktoks-this-content-creator-gives-you-the-ending.html",
+      "path": "posts/2026-11-06-tired-of-slow-tiktoks-this-content-creator-gives-you-the-ending.html",
+      "date_iso": "2026-11-06T10:00:58+00:00",
+      "source": "https://www.nytimes.com/2026/11/06/technology/tiktok-time-saved-videos-heyitsyoon.html",
+      "summary": "Videos on social media often save key details for the end. One content creator, who goes by Heyitsyoon, skips the filler so viewers don’t have to wait."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50390124",
+      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+      "slug": "2026-11-06-dutch-idealist-bank-asn-blocks-non-google-android-including-grapheneos.html",
+      "path": "posts/2026-11-06-dutch-idealist-bank-asn-blocks-non-google-android-including-grapheneos.html",
+      "date_iso": "2026-11-06T09:27:12+00:00",
+      "source": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+      "summary": "Article URL: https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105 Comments URL: https://news.ycombinator.com/item?id=50390124 Points: 381 # Comments: 224"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50389570",
+      "title": "Chomsky and the Two Cultures of Statistical Learning",
+      "slug": "2026-11-06-chomsky-and-the-two-cultures-of-statistical-learning.html",
+      "path": "posts/2026-11-06-chomsky-and-the-two-cultures-of-statistical-learning.html",
+      "date_iso": "2026-11-06T08:18:36+00:00",
+      "source": "https://www.norvig.com/chomsky.html",
+      "summary": "Article URL: https://www.norvig.com/chomsky.html Comments URL: https://news.ycombinator.com/item?id=50389570 Points: 29 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50389420",
+      "title": "Multiplayer tanks that demolish real buildings from OpenStreetMap",
+      "slug": "2026-11-06-multiplayer-tanks-that-demolish-real-buildings-from-openstreetmap.html",
+      "path": "posts/2026-11-06-multiplayer-tanks-that-demolish-real-buildings-from-openstreetmap.html",
+      "date_iso": "2026-11-06T07:55:48+00:00",
+      "source": "https://worldstrike.fun/",
+      "summary": "Article URL: https://worldstrike.fun/ Comments URL: https://news.ycombinator.com/item?id=50389420 Points: 106 # Comments: 67"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50389370",
+      "title": "Kugelblitz – Mac-Native Google Earth Alternative",
+      "slug": "2026-11-06-kugelblitz-mac-native-google-earth-alternative.html",
+      "path": "posts/2026-11-06-kugelblitz-mac-native-google-earth-alternative.html",
+      "date_iso": "2026-11-06T07:47:38+00:00",
+      "source": "https://apps.metaebene.me/en/kugelblitz",
+      "summary": "Article URL: https://apps.metaebene.me/en/kugelblitz Comments URL: https://news.ycombinator.com/item?id=50389370 Points: 155 # Comments: 45"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50389333",
+      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "slug": "2026-11-06-blender-s-ui-and-runtime-much-faster-than-gpui.html",
+      "path": "posts/2026-11-06-blender-s-ui-and-runtime-much-faster-than-gpui.html",
+      "date_iso": "2026-11-06T07:40:35+00:00",
+      "source": "https://github.com/ppmpreetham/BUI",
+      "summary": "Article URL: https://github.com/ppmpreetham/BUI Comments URL: https://news.ycombinator.com/item?id=50389333 Points: 407 # Comments: 173"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50389260",
+      "title": "Hardcoded credentials and other issues in Tata Motors App",
+      "slug": "2026-11-06-hardcoded-credentials-and-other-issues-in-tata-motors-app.html",
+      "path": "posts/2026-11-06-hardcoded-credentials-and-other-issues-in-tata-motors-app.html",
+      "date_iso": "2026-11-06T07:28:39+00:00",
+      "source": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537",
+      "summary": "Article URL: https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&amp;VLCODE=CIVN-2026-0537 Comments URL: https://news.ycombinator.com/item?id=50389260 Points: 61 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50389222",
+      "title": "Britain to make salary disclosure in job ads mandatory",
+      "slug": "2026-11-06-britain-to-make-salary-disclosure-in-job-ads-mandatory.html",
+      "path": "posts/2026-11-06-britain-to-make-salary-disclosure-in-job-ads-mandatory.html",
+      "date_iso": "2026-11-06T07:22:04+00:00",
+      "source": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
+      "summary": "Article URL: https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/ Comments URL: https://news.ycombinator.com/item?id=50389222 Points: 382 # Comments: 314"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50388122",
+      "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+      "slug": "2026-11-06-from-linux-to-wikipedia-how-volunteers-build-the-internet.html",
+      "path": "posts/2026-11-06-from-linux-to-wikipedia-how-volunteers-build-the-internet.html",
+      "date_iso": "2026-11-06T04:17:49+00:00",
+      "source": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+      "summary": "Article URL: https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/ Comments URL: https://news.ycombinator.com/item?id=50388122 Points: 179 # Comments: 58"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50387796",
+      "title": "Pwn.college",
+      "slug": "2026-11-06-pwn-college.html",
+      "path": "posts/2026-11-06-pwn-college.html",
+      "date_iso": "2026-11-06T03:27:14+00:00",
+      "source": "https://pwn.college/",
+      "summary": "Article URL: https://pwn.college/ Comments URL: https://news.ycombinator.com/item?id=50387796 Points: 220 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50387738",
+      "title": "Nvidia Kubernetes Engine (NVKE)",
+      "slug": "2026-11-06-nvidia-kubernetes-engine-nvke.html",
+      "path": "posts/2026-11-06-nvidia-kubernetes-engine-nvke.html",
+      "date_iso": "2026-11-06T03:16:26+00:00",
+      "source": "https://github.com/dsx-ai-factory/nvke",
+      "summary": "Article URL: https://github.com/dsx-ai-factory/nvke Comments URL: https://news.ycombinator.com/item?id=50387738 Points: 105 # Comments: 24"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/05/technology/openai-data-centers-midterms.html",
+      "title": "OpenAI Pledges to Give Locals More Say in Data Center Projects",
+      "slug": "2026-11-06-openai-pledges-to-give-locals-more-say-in-data-center-projects.html",
+      "path": "posts/2026-11-06-openai-pledges-to-give-locals-more-say-in-data-center-projects.html",
+      "date_iso": "2026-11-06T01:54:18+00:00",
+      "source": "https://www.nytimes.com/2026/11/05/technology/openai-data-centers-midterms.html",
+      "summary": "OpenAI’s Stargate data center project in Abilene, Texas, is one of the largest under construction in the country."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/05/technology/house-republicans-nvidia-jensen-huang-china.html",
+      "title": "House G.O.P. Leaders Ask Nvidia’s Huang to Speak in Closed-Door Briefing",
+      "slug": "2026-11-06-house-g-o-p-leaders-ask-nvidia-s-huang-to-speak-in-closed-door-briefing.html",
+      "path": "posts/2026-11-06-house-g-o-p-leaders-ask-nvidia-s-huang-to-speak-in-closed-door-briefing.html",
+      "date_iso": "2026-11-06T01:10:46+00:00",
+      "source": "https://www.nytimes.com/2026/11/05/technology/house-republicans-nvidia-jensen-huang-china.html",
+      "summary": "A request for Jensen Huang, Nvidia’s chief executive, to speak represented a shift for Republican congressional leaders, who have largely taken a hands-off approach to the tech industry."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/05/technology/tech-billionaires-democrats-midterms.html",
+      "title": "Tech Billionaires Face Tricky Political Waters After Democratic Midterm Sweep",
+      "slug": "2026-11-06-tech-billionaires-face-tricky-political-waters-after-democratic-midterm-sweep.html",
+      "path": "posts/2026-11-06-tech-billionaires-face-tricky-political-waters-after-democratic-midterm-sweep.html",
+      "date_iso": "2026-11-06T00:33:00+00:00",
+      "source": "https://www.nytimes.com/2026/11/05/technology/tech-billionaires-democrats-midterms.html",
+      "summary": "President Trump met with leaders of the artificial intelligence industry at the White House in September."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50386338",
+      "title": "Inkling 2 Small",
+      "slug": "2026-11-06-inkling-2-small.html",
+      "path": "posts/2026-11-06-inkling-2-small.html",
+      "date_iso": "2026-11-06T00:00:24+00:00",
+      "source": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "summary": "Article URL: https://thinkingmachines.ai/news/inkling-2-small/ Comments URL: https://news.ycombinator.com/item?id=50386338 Points: 242 # Comments: 81"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50385870",
+      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "slug": "2026-11-05-cuban-facebook-knowingly-runs-ai-deepfake-scam-ads-docs-say-16b-fraud-revenue.html",
+      "path": "posts/2026-11-05-cuban-facebook-knowingly-runs-ai-deepfake-scam-ads-docs-say-16b-fraud-revenue.html",
+      "date_iso": "2026-11-05T23:09:57+00:00",
+      "source": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 438 # Comments: 202"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50385272",
+      "title": "Claude Code sends your email address to websites",
+      "slug": "2026-11-05-claude-code-sends-your-email-address-to-websites.html",
+      "path": "posts/2026-11-05-claude-code-sends-your-email-address-to-websites.html",
+      "date_iso": "2026-11-05T22:17:15+00:00",
+      "source": "https://github.com/anthropics/claude-code/issues/107757",
+      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/107757 Comments URL: https://news.ycombinator.com/item?id=50385272 Points: 1344 # Comments: 427"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/05/technology/social-media-child-safety-california.html",
+      "title": "Google, Meta and TikTok Sue California Over Ban on Features for Kids",
+      "slug": "2026-11-05-google-meta-and-tiktok-sue-california-over-ban-on-features-for-kids.html",
+      "path": "posts/2026-11-05-google-meta-and-tiktok-sue-california-over-ban-on-features-for-kids.html",
+      "date_iso": "2026-11-05T22:10:24+00:00",
+      "source": "https://www.nytimes.com/2026/11/05/technology/social-media-child-safety-california.html",
+      "summary": "A new California law says features like personalized recommendations can be “psychologically exploitative” for minors and cause them to check social media compulsively."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html",
+      "title": "Parents Sue Google Over A.I. Safety Risks on School Chromebooks",
+      "slug": "2026-11-05-parents-sue-google-over-a-i-safety-risks-on-school-chromebooks.html",
+      "path": "posts/2026-11-05-parents-sue-google-over-a-i-safety-risks-on-school-chromebooks.html",
+      "date_iso": "2026-11-05T19:27:58+00:00",
+      "source": "https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html",
+      "summary": "The new lawsuit argues that Google’s “sprawling digital ecosystem” of school laptops and apps has helped the tech giant push its A.I. into classrooms."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50379773",
       "title": "Image of Our Satellite-Choked Night Skies",
       "slug": "2026-11-05-image-of-our-satellite-choked-night-skies.html",
