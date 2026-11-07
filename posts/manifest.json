@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=50403507",
+      "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+      "slug": "2026-11-07-every-windows-11-app-should-kill-electron-and-discord-just-showed-why.html",
+      "path": "posts/2026-11-07-every-windows-11-app-should-kill-electron-and-discord-just-showed-why.html",
+      "date_iso": "2026-11-07T11:11:15+00:00",
+      "source": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+      "summary": "Article URL: https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/ Comments URL: https://news.ycombinator.com/item?id=50403507 Points: 47 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50403214",
+      "title": "Upload Your RAM",
+      "slug": "2026-11-07-upload-your-ram.html",
+      "path": "posts/2026-11-07-upload-your-ram.html",
+      "date_iso": "2026-11-07T10:15:26+00:00",
+      "source": "https://uploadyourram.org",
+      "summary": "Article URL: https://uploadyourram.org Comments URL: https://news.ycombinator.com/item?id=50403214 Points: 180 # Comments: 129"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/07/technology/whistle-blowers-jeffrey-wigand.html",
+      "title": "Jeffrey Wigand, Who Blew the Whistle on Big Tobacco, Takes a Lot of Calls",
+      "slug": "2026-11-07-jeffrey-wigand-who-blew-the-whistle-on-big-tobacco-takes-a-lot-of-calls.html",
+      "path": "posts/2026-11-07-jeffrey-wigand-who-blew-the-whistle-on-big-tobacco-takes-a-lot-of-calls.html",
+      "date_iso": "2026-11-07T10:00:49+00:00",
+      "source": "https://www.nytimes.com/2026/11/07/technology/whistle-blowers-jeffrey-wigand.html",
+      "summary": "Jeffrey Wigand at home in Mount Pleasant, Mich."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50403097",
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "slug": "2026-11-07-every-mac-comes-with-an-undocumented-family-member-classifier.html",
+      "path": "posts/2026-11-07-every-mac-comes-with-an-undocumented-family-member-classifier.html",
+      "date_iso": "2026-11-07T09:46:03+00:00",
+      "source": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "summary": "Article URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph Comments URL: https://news.ycombinator.com/item?id=50403097 Points: 219 # Comments: 106"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50403066",
+      "title": "Running a law firm on Free software",
+      "slug": "2026-11-07-running-a-law-firm-on-free-software.html",
+      "path": "posts/2026-11-07-running-a-law-firm-on-free-software.html",
+      "date_iso": "2026-11-07T09:39:06+00:00",
+      "source": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+      "summary": "Article URL: https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/ Comments URL: https://news.ycombinator.com/item?id=50403066 Points: 28 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50403063",
+      "title": "Port 0: The Port That Does Not Exist",
+      "slug": "2026-11-07-port-0-the-port-that-does-not-exist.html",
+      "path": "posts/2026-11-07-port-0-the-port-that-does-not-exist.html",
+      "date_iso": "2026-11-07T09:38:26+00:00",
+      "source": "https://acid.vegas/blog/the-port-that-does-not-exist/",
+      "summary": "Article URL: https://acid.vegas/blog/the-port-that-does-not-exist/ Comments URL: https://news.ycombinator.com/item?id=50403063 Points: 22 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50403052",
+      "title": "Need for Speed Underground 2 online in the browser",
+      "slug": "2026-11-07-need-for-speed-underground-2-online-in-the-browser.html",
+      "path": "posts/2026-11-07-need-for-speed-underground-2-online-in-the-browser.html",
+      "date_iso": "2026-11-07T09:36:36+00:00",
+      "source": "https://nfsu2.xyz/",
+      "summary": "Article URL: https://nfsu2.xyz/ Comments URL: https://news.ycombinator.com/item?id=50403052 Points: 141 # Comments: 43"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50402212",
+      "title": "The Components of Agent Memory",
+      "slug": "2026-11-07-the-components-of-agent-memory.html",
+      "path": "posts/2026-11-07-the-components-of-agent-memory.html",
+      "date_iso": "2026-11-07T06:39:04+00:00",
+      "source": "https://www.anthropic.com/research/components-of-agent-memory",
+      "summary": "Article URL: https://www.anthropic.com/research/components-of-agent-memory Comments URL: https://news.ycombinator.com/item?id=50402212 Points: 76 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50401740",
+      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+      "slug": "2026-11-07-a-barbarian-tribe-s-mythic-origin-story-is-true-ancient-dna-reveals.html",
+      "path": "posts/2026-11-07-a-barbarian-tribe-s-mythic-origin-story-is-true-ancient-dna-reveals.html",
+      "date_iso": "2026-11-07T04:54:36+00:00",
+      "source": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+      "summary": "Article URL: https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals Comments URL: https://news.ycombinator.com/item?id=50401740 Points: 136 # Comments: 104"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/06/technology/kalshi-polymarket-nyt-siena-poll-bets.html",
+      "title": "Researchers Identify Suspicious Activity on Kalshi and Polymarket Before Times/Siena Poll Release",
+      "slug": "2026-11-07-researchers-identify-suspicious-activity-on-kalshi-and-polymarket-before-times-siena-poll-release.html",
+      "path": "posts/2026-11-07-researchers-identify-suspicious-activity-on-kalshi-and-polymarket-before-times-siena-poll-release.html",
+      "date_iso": "2026-11-07T02:55:47+00:00",
+      "source": "https://www.nytimes.com/2026/11/06/technology/kalshi-polymarket-nyt-siena-poll-bets.html",
+      "summary": "A trader placed well-timed bets on Polymarket and Kalshi in two Senate races. It was unclear if the person had access to inside information or simply made good trades."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50399991",
+      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+      "slug": "2026-11-06-realpage-rent-pricing-case-wraps-with-nearly-360m-to-renters.html",
+      "path": "posts/2026-11-06-realpage-rent-pricing-case-wraps-with-nearly-360m-to-renters.html",
+      "date_iso": "2026-11-06T23:37:19+00:00",
+      "source": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+      "summary": "Article URL: https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/ Comments URL: https://news.ycombinator.com/item?id=50399991 Points: 143 # Comments: 84"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50399933",
+      "title": "Libghostty 1.0",
+      "slug": "2026-11-06-libghostty-1-0.html",
+      "path": "posts/2026-11-06-libghostty-1-0.html",
+      "date_iso": "2026-11-06T23:30:52+00:00",
+      "source": "https://mitchellh.com/writing/libghostty-1-0",
+      "summary": "Article URL: https://mitchellh.com/writing/libghostty-1-0 Comments URL: https://news.ycombinator.com/item?id=50399933 Points: 771 # Comments: 122"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/06/us/faa-floppy-disks-atc-2028.html",
+      "title": "F.A.A. to Phase Out Floppy Disks in Air Traffic Control Towers",
+      "slug": "2026-11-06-f-a-a-to-phase-out-floppy-disks-in-air-traffic-control-towers.html",
+      "path": "posts/2026-11-06-f-a-a-to-phase-out-floppy-disks-in-air-traffic-control-towers.html",
+      "date_iso": "2026-11-06T20:45:56+00:00",
+      "source": "https://www.nytimes.com/2026/11/06/us/faa-floppy-disks-atc-2028.html",
+      "summary": "The floppy disk, once a heralded computer storage technology, will be phased out at the Federal Aviation Administration."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50397711",
+      "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
+      "slug": "2026-11-06-google-has-acquired-crusoe-s-data-center-site-in-southeast-wyoming.html",
+      "path": "posts/2026-11-06-google-has-acquired-crusoe-s-data-center-site-in-southeast-wyoming.html",
+      "date_iso": "2026-11-06T20:09:14+00:00",
+      "source": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+      "summary": "Article URL: https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update Comments URL: https://news.ycombinator.com/item?id=50397711 Points: 86 # Comments: 33"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50397429",
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "slug": "2026-11-06-a-jev-that-can-ask-opus-for-help-gives-opus-accuracy-at-4x-lower-cost.html",
+      "path": "posts/2026-11-06-a-jev-that-can-ask-opus-for-help-gives-opus-accuracy-at-4x-lower-cost.html",
+      "date_iso": "2026-11-06T19:48:51+00:00",
+      "source": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "summary": "Article URL: https://hightouch.com/blog/llm-judges-identity-resolution Comments URL: https://news.ycombinator.com/item?id=50397429 Points: 513 # Comments: 122"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50397219",
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "slug": "2026-11-06-firecracker-vm-escape-pwnescape-part-2.html",
+      "path": "posts/2026-11-06-firecracker-vm-escape-pwnescape-part-2.html",
+      "date_iso": "2026-11-06T19:33:38+00:00",
+      "source": "https://pwn.ai/blog/firecracker-escape",
+      "summary": "Article URL: https://pwn.ai/blog/firecracker-escape Comments URL: https://news.ycombinator.com/item?id=50397219 Points: 257 # Comments: 110"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50397099",
+      "title": "GitHub's new Git storage architecture",
+      "slug": "2026-11-06-github-s-new-git-storage-architecture.html",
+      "path": "posts/2026-11-06-github-s-new-git-storage-architecture.html",
+      "date_iso": "2026-11-06T19:24:21+00:00",
+      "source": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "summary": "Article URL: https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/ Comments URL: https://news.ycombinator.com/item?id=50397099 Points: 168 # Comments: 38"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50397017",
+      "title": "Restaurant Delivery Payment-Skimming Campaign",
+      "slug": "2026-11-06-restaurant-delivery-payment-skimming-campaign.html",
+      "path": "posts/2026-11-06-restaurant-delivery-payment-skimming-campaign.html",
+      "date_iso": "2026-11-06T19:19:27+00:00",
+      "source": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+      "summary": "Article URL: https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming Comments URL: https://news.ycombinator.com/item?id=50397017 Points: 138 # Comments: 71"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50395450",
+      "title": "Devvm.dev: One VM for every project",
+      "slug": "2026-11-06-devvm-dev-one-vm-for-every-project.html",
+      "path": "posts/2026-11-06-devvm-dev-one-vm-for-every-project.html",
+      "date_iso": "2026-11-06T17:30:22+00:00",
+      "source": "https://devvm.dev/",
+      "summary": "Article URL: https://devvm.dev/ Comments URL: https://news.ycombinator.com/item?id=50395450 Points: 169 # Comments: 64"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50395183",
+      "title": "Notes on San Marino",
+      "slug": "2026-11-06-notes-on-san-marino.html",
+      "path": "posts/2026-11-06-notes-on-san-marino.html",
+      "date_iso": "2026-11-06T17:12:05+00:00",
+      "source": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
+      "summary": "Article URL: https://mattlakeman.org/2026/11/05/notes-on-san-marino/ Comments URL: https://news.ycombinator.com/item?id=50395183 Points: 90 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50394855",
+      "title": "First steps in bare-metal programming using UEFI",
+      "slug": "2026-11-06-first-steps-in-bare-metal-programming-using-uefi.html",
+      "path": "posts/2026-11-06-first-steps-in-bare-metal-programming-using-uefi.html",
+      "date_iso": "2026-11-06T16:50:29+00:00",
+      "source": "https://kevinboone.me/efitest_index.html",
+      "summary": "Article URL: https://kevinboone.me/efitest_index.html Comments URL: https://news.ycombinator.com/item?id=50394855 Points: 233 # Comments: 46"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50392499",
       "title": "University libraries are being swarmed by AI bots, putting public access at risk",
       "slug": "2026-11-06-university-libraries-are-being-swarmed-by-ai-bots-putting-public-access-at-risk.html",
