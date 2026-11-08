@@ -1,6 +1,177 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=50412318",
+      "title": "Person of Interest",
+      "slug": "2026-11-08-person-of-interest.html",
+      "path": "posts/2026-11-08-person-of-interest.html",
+      "date_iso": "2026-11-08T11:23:28+00:00",
+      "source": "https://krthr.co/person-of-interest/",
+      "summary": "Article URL: https://krthr.co/person-of-interest/ Comments URL: https://news.ycombinator.com/item?id=50412318 Points: 125 # Comments: 76"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50412152",
+      "title": "Petered (what happens after the Peter Principle)",
+      "slug": "2026-11-08-petered-what-happens-after-the-peter-principle.html",
+      "path": "posts/2026-11-08-petered-what-happens-after-the-peter-principle.html",
+      "date_iso": "2026-11-08T10:56:43+00:00",
+      "source": "https://aworkinglibrary.com/writing/petered",
+      "summary": "Article URL: https://aworkinglibrary.com/writing/petered Comments URL: https://news.ycombinator.com/item?id=50412152 Points: 69 # Comments: 35"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50412072",
+      "title": "JIT bitmap text rendering for microcontrollers",
+      "slug": "2026-11-08-jit-bitmap-text-rendering-for-microcontrollers.html",
+      "path": "posts/2026-11-08-jit-bitmap-text-rendering-for-microcontrollers.html",
+      "date_iso": "2026-11-08T10:42:15+00:00",
+      "source": "https://linebender.org/blog/jit-bitmap-text/",
+      "summary": "Article URL: https://linebender.org/blog/jit-bitmap-text/ Comments URL: https://news.ycombinator.com/item?id=50412072 Points: 30 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50411961",
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "slug": "2026-11-08-llama-modchip-284b-deepseek-on-64gb-ram-no-gpu.html",
+      "path": "posts/2026-11-08-llama-modchip-284b-deepseek-on-64gb-ram-no-gpu.html",
+      "date_iso": "2026-11-08T10:22:04+00:00",
+      "source": "https://github.com/synchopate/llama-modchip",
+      "summary": "Article URL: https://github.com/synchopate/llama-modchip Comments URL: https://news.ycombinator.com/item?id=50411961 Points: 55 # Comments: 21"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50411467",
+      "title": "Agent memory needs its OpenTelemetry moment",
+      "slug": "2026-11-08-agent-memory-needs-its-opentelemetry-moment.html",
+      "path": "posts/2026-11-08-agent-memory-needs-its-opentelemetry-moment.html",
+      "date_iso": "2026-11-08T08:40:23+00:00",
+      "source": "https://www.lorekit.io/blog/open-agent-memory-format",
+      "summary": "Article URL: https://www.lorekit.io/blog/open-agent-memory-format Comments URL: https://news.ycombinator.com/item?id=50411467 Points: 80 # Comments: 71"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50411083",
+      "title": "WaveDudeNext 2D Wave Simulator",
+      "slug": "2026-11-08-wavedudenext-2d-wave-simulator.html",
+      "path": "posts/2026-11-08-wavedudenext-2d-wave-simulator.html",
+      "date_iso": "2026-11-08T07:09:02+00:00",
+      "source": "https://github.com/graealex/WaveDudeNext",
+      "summary": "Article URL: https://github.com/graealex/WaveDudeNext Comments URL: https://news.ycombinator.com/item?id=50411083 Points: 31 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50410359",
+      "title": "Kirlian Photography: Building Your Own Equipment",
+      "slug": "2026-11-08-kirlian-photography-building-your-own-equipment.html",
+      "path": "posts/2026-11-08-kirlian-photography-building-your-own-equipment.html",
+      "date_iso": "2026-11-08T04:14:12+00:00",
+      "source": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
+      "summary": "Article URL: https://imagesco.com/articles/kirlian/kirlian-photography.html Comments URL: https://news.ycombinator.com/item?id=50410359 Points: 57 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50410249",
+      "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
+      "slug": "2026-11-08-isponsorblocktv-sponsorblock-client-for-all-youtube-tv-clients.html",
+      "path": "posts/2026-11-08-isponsorblocktv-sponsorblock-client-for-all-youtube-tv-clients.html",
+      "date_iso": "2026-11-08T03:47:19+00:00",
+      "source": "https://github.com/dmunozv04/isponsorblocktv",
+      "summary": "Article URL: https://github.com/dmunozv04/isponsorblocktv Comments URL: https://news.ycombinator.com/item?id=50410249 Points: 66 # Comments: 28"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50410107",
+      "title": "Goodbye Claude, Hello Pi",
+      "slug": "2026-11-08-goodbye-claude-hello-pi.html",
+      "path": "posts/2026-11-08-goodbye-claude-hello-pi.html",
+      "date_iso": "2026-11-08T03:11:48+00:00",
+      "source": "https://caleb.software/posts/claude-to-pi.html",
+      "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 429 # Comments: 272"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50409856",
+      "title": "Consumer brain wave headsets threaten privacy",
+      "slug": "2026-11-08-consumer-brain-wave-headsets-threaten-privacy.html",
+      "path": "posts/2026-11-08-consumer-brain-wave-headsets-threaten-privacy.html",
+      "date_iso": "2026-11-08T02:02:38+00:00",
+      "source": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+      "summary": "Article URL: https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F Comments URL: https://news.ycombinator.com/item?id=50409856 Points: 84 # Comments: 46"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50408931",
+      "title": "GitHub New pull request overview page in public preview",
+      "slug": "2026-11-07-github-new-pull-request-overview-page-in-public-preview.html",
+      "path": "posts/2026-11-07-github-new-pull-request-overview-page-in-public-preview.html",
+      "date_iso": "2026-11-07T23:09:40+00:00",
+      "source": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+      "summary": "Article URL: https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/ Comments URL: https://news.ycombinator.com/item?id=50408931 Points: 154 # Comments: 107"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50408713",
+      "title": "Making any integer with four 2s (2025)",
+      "slug": "2026-11-07-making-any-integer-with-four-2s-2025.html",
+      "path": "posts/2026-11-07-making-any-integer-with-four-2s-2025.html",
+      "date_iso": "2026-11-07T22:38:58+00:00",
+      "source": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+      "summary": "Article URL: https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/ Comments URL: https://news.ycombinator.com/item?id=50408713 Points: 160 # Comments: 45"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50407882",
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "slug": "2026-11-07-claude-code-s-don-t-ask-again-exposes-passwords-in-1-122-public-github-files.html",
+      "path": "posts/2026-11-07-claude-code-s-don-t-ask-again-exposes-passwords-in-1-122-public-github-files.html",
+      "date_iso": "2026-11-07T20:45:32+00:00",
+      "source": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 457 # Comments: 319"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50406670",
+      "title": "What I run on my $10 USD OpenStick homelab",
+      "slug": "2026-11-07-what-i-run-on-my-10-usd-openstick-homelab.html",
+      "path": "posts/2026-11-07-what-i-run-on-my-10-usd-openstick-homelab.html",
+      "date_iso": "2026-11-07T18:12:12+00:00",
+      "source": "https://blog.bosscher.ch/posts/openstick/",
+      "summary": "Article URL: https://blog.bosscher.ch/posts/openstick/ Comments URL: https://news.ycombinator.com/item?id=50406670 Points: 648 # Comments: 119"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50406563",
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "slug": "2026-11-07-the-end-of-microsoft-research-s-ai-frontiers-group.html",
+      "path": "posts/2026-11-07-the-end-of-microsoft-research-s-ai-frontiers-group.html",
+      "date_iso": "2026-11-07T18:02:17+00:00",
+      "source": "https://hunch.net/?p=13764006",
+      "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 476 # Comments: 289"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50406292",
+      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "slug": "2026-11-07-show-hn-coldframe-a-honeypot-that-poses-as-a-supermarket-fridge-controller.html",
+      "path": "posts/2026-11-07-show-hn-coldframe-a-honeypot-that-poses-as-a-supermarket-fridge-controller.html",
+      "date_iso": "2026-11-07T17:27:30+00:00",
+      "source": "https://github.com/hedgerow-dev/coldframe",
+      "summary": "I built Coldframe, a honeypot that pretends to be a supermarket refrigeration controller. Inspired by the events on industrial fridge installations in the past weeks, I wanted to see what people would try against a convincing fake. To learn more about this I built a honeypot tha…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50406222",
+      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+      "slug": "2026-11-07-maxxbench-nice-deepswe-score-but-is-it-true.html",
+      "path": "posts/2026-11-07-maxxbench-nice-deepswe-score-but-is-it-true.html",
+      "date_iso": "2026-11-07T17:19:00+00:00",
+      "source": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+      "summary": "Article URL: https://maxxbench.unlap.ai/research/why-maxxbench/ Comments URL: https://news.ycombinator.com/item?id=50406222 Points: 339 # Comments: 92"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50406111",
+      "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+      "slug": "2026-11-07-apple-s-grey-list-words-and-phrases-your-iphone-won-t-help-you-spell.html",
+      "path": "posts/2026-11-07-apple-s-grey-list-words-and-phrases-your-iphone-won-t-help-you-spell.html",
+      "date_iso": "2026-11-07T17:06:36+00:00",
+      "source": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you Comments URL: https://news.ycombinator.com/item?id=50406111 Points: 494 # Comments: 314"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50404599",
+      "title": "The $8 Linux Computer (2022)",
+      "slug": "2026-11-07-the-8-linux-computer-2022.html",
+      "path": "posts/2026-11-07-the-8-linux-computer-2022.html",
+      "date_iso": "2026-11-07T14:00:20+00:00",
+      "source": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+      "summary": "Article URL: http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html Comments URL: https://news.ycombinator.com/item?id=50404599 Points: 247 # Comments: 94"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50403507",
       "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
       "slug": "2026-11-07-every-windows-11-app-should-kill-electron-and-discord-just-showed-why.html",
