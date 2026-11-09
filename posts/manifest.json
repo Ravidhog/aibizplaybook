@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=50427486",
+      "title": "Commerce Dept Inquiry into Megaspeed Halted After Nvdia Intervention",
+      "slug": "2026-11-09-commerce-dept-inquiry-into-megaspeed-halted-after-nvdia-intervention.html",
+      "path": "posts/2026-11-09-commerce-dept-inquiry-into-megaspeed-halted-after-nvdia-intervention.html",
+      "date_iso": "2026-11-09T16:10:07+00:00",
+      "source": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html Comments URL: https://news.ycombinator.com/item?id=50427486 Points: 10 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50427378",
+      "title": "Castration extends life span, but in a surprising way, mouse study suggests",
+      "slug": "2026-11-09-castration-extends-life-span-but-in-a-surprising-way-mouse-study-suggests.html",
+      "path": "posts/2026-11-09-castration-extends-life-span-but-in-a-surprising-way-mouse-study-suggests.html",
+      "date_iso": "2026-11-09T16:01:45+00:00",
+      "source": "https://www.science.org/content/article/castration-extends-life-span-surprising-way-mouse-study-suggests",
+      "summary": "Article URL: https://www.science.org/content/article/castration-extends-life-span-surprising-way-mouse-study-suggests Comments URL: https://news.ycombinator.com/item?id=50427378 Points: 10 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50427362",
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "slug": "2026-11-09-payments-canada-announces-launch-of-canada-s-real-time-rail-rtr-payment-system.html",
+      "path": "posts/2026-11-09-payments-canada-announces-launch-of-canada-s-real-time-rail-rtr-payment-system.html",
+      "date_iso": "2026-11-09T16:00:45+00:00",
+      "source": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "summary": "Article URL: https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy Comments URL: https://news.ycombinator.com/item?id=50427362 Points: 48 # Comments: 27"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50427085",
+      "title": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it",
+      "slug": "2026-11-09-the-same-h100-costs-2-69-or-12-29-an-hour-depending-where-you-rent-it.html",
+      "path": "posts/2026-11-09-the-same-h100-costs-2-69-or-12-29-an-hour-depending-where-you-rent-it.html",
+      "date_iso": "2026-11-09T15:39:01+00:00",
+      "source": "https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing",
+      "summary": "Article URL: https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing Comments URL: https://news.ycombinator.com/item?id=50427085 Points: 48 # Comments: 25"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html",
+      "title": "Giant Merger of NextEra and Dominion Could Fail Amid Anger Over Electricity Bills",
+      "slug": "2026-11-09-giant-merger-of-nextera-and-dominion-could-fail-amid-anger-over-electricity-bills.html",
+      "path": "posts/2026-11-09-giant-merger-of-nextera-and-dominion-could-fail-amid-anger-over-electricity-bills.html",
+      "date_iso": "2026-11-09T15:18:30+00:00",
+      "source": "https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html",
+      "summary": "Opponents of a merger between NextEra and Dominion Energy demonstrating outside a hearing on Thursday in Richmond, Va."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50426831",
+      "title": "Pigshell: Unix the Web",
+      "slug": "2026-11-09-pigshell-unix-the-web.html",
+      "path": "posts/2026-11-09-pigshell-unix-the-web.html",
+      "date_iso": "2026-11-09T15:18:19+00:00",
+      "source": "http://pigshell.com/v/0.6.4/",
+      "summary": "Article URL: http://pigshell.com/v/0.6.4/ Comments URL: https://news.ycombinator.com/item?id=50426831 Points: 3 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50426582",
+      "title": "I Saw Your HN Comment",
+      "slug": "2026-11-09-i-saw-your-hn-comment.html",
+      "path": "posts/2026-11-09-i-saw-your-hn-comment.html",
+      "date_iso": "2026-11-09T15:01:03+00:00",
+      "source": "https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/",
+      "summary": "Article URL: https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/ Comments URL: https://news.ycombinator.com/item?id=50426582 Points: 214 # Comments: 141"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50426207",
+      "title": "Zebkit – Chromium as an embeddable library",
+      "slug": "2026-11-09-zebkit-chromium-as-an-embeddable-library.html",
+      "path": "posts/2026-11-09-zebkit-chromium-as-an-embeddable-library.html",
+      "date_iso": "2026-11-09T14:34:00+00:00",
+      "source": "https://github.com/ikey4u/zebkit",
+      "summary": "Article URL: https://github.com/ikey4u/zebkit Comments URL: https://news.ycombinator.com/item?id=50426207 Points: 60 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50426175",
+      "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
+      "slug": "2026-11-09-magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet.html",
+      "path": "posts/2026-11-09-magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet.html",
+      "date_iso": "2026-11-09T14:31:39+00:00",
+      "source": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+      "summary": "Article URL: https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/ Comments URL: https://news.ycombinator.com/item?id=50426175 Points: 45 # Comments: 9"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-affair-nvidia.html",
+      "title": "Is Jensen Huang Too Powerful to Be Punished by Nvidia?",
+      "slug": "2026-11-09-is-jensen-huang-too-powerful-to-be-punished-by-nvidia.html",
+      "path": "posts/2026-11-09-is-jensen-huang-too-powerful-to-be-punished-by-nvidia.html",
+      "date_iso": "2026-11-09T13:54:04+00:00",
+      "source": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-affair-nvidia.html",
+      "summary": "Jensen Huang is Nvidia’s biggest individual shareholder. His children are also senior executives at the company."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang.html",
+      "title": "What to Know About Nvidia’s Investigation of CEO Jensen Huang",
+      "slug": "2026-11-09-what-to-know-about-nvidia-s-investigation-of-ceo-jensen-huang.html",
+      "path": "posts/2026-11-09-what-to-know-about-nvidia-s-investigation-of-ceo-jensen-huang.html",
+      "date_iso": "2026-11-09T13:49:56+00:00",
+      "source": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang.html",
+      "summary": "“I was unfaithful to my wife,” Jensen Huang, Nvidia’s chief executive, said in a message to the company. “My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry.”"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html",
+      "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Suspected Chinese Spy",
+      "slug": "2026-11-09-nvidia-opens-investigation-into-jensen-huang-s-relationship-with-suspected-chinese-spy.html",
+      "path": "posts/2026-11-09-nvidia-opens-investigation-into-jensen-huang-s-relationship-with-suspected-chinese-spy.html",
+      "date_iso": "2026-11-09T13:31:00+00:00",
+      "source": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html",
+      "summary": "Jensen Huang, the chief executive of Nvidia, is one of the most powerful figures in the artificial intelligence revolution as well as an influential ally of President Trump."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50424704",
+      "title": "Humans will never again create a project like Wikipedia",
+      "slug": "2026-11-09-humans-will-never-again-create-a-project-like-wikipedia.html",
+      "path": "posts/2026-11-09-humans-will-never-again-create-a-project-like-wikipedia.html",
+      "date_iso": "2026-11-09T12:30:20+00:00",
+      "source": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
+      "summary": "Article URL: https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia Comments URL: https://news.ycombinator.com/item?id=50424704 Points: 393 # Comments: 323"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50424581",
+      "title": "Fold Epic Paper Airplanes",
+      "slug": "2026-11-09-fold-epic-paper-airplanes.html",
+      "path": "posts/2026-11-09-fold-epic-paper-airplanes.html",
+      "date_iso": "2026-11-09T12:19:22+00:00",
+      "source": "https://www.foldableflight.com",
+      "summary": "Article URL: https://www.foldableflight.com Comments URL: https://news.ycombinator.com/item?id=50424581 Points: 446 # Comments: 81"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50424157",
+      "title": "What is malloc doing, anyway?",
+      "slug": "2026-11-09-what-is-malloc-doing-anyway.html",
+      "path": "posts/2026-11-09-what-is-malloc-doing-anyway.html",
+      "date_iso": "2026-11-09T11:31:05+00:00",
+      "source": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
+      "summary": "Article URL: https://benmandrew.com/articles/what-is-malloc-doing-anyway Comments URL: https://news.ycombinator.com/item?id=50424157 Points: 123 # Comments: 27"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50423569",
+      "title": "Fun things to do with your VM/370 CE machine – Fun with big computers",
+      "slug": "2026-11-09-fun-things-to-do-with-your-vm-370-ce-machine-fun-with-big-computers.html",
+      "path": "posts/2026-11-09-fun-things-to-do-with-your-vm-370-ce-machine-fun-with-big-computers.html",
+      "date_iso": "2026-11-09T10:11:47+00:00",
+      "source": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
+      "summary": "Article URL: https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/ Comments URL: https://news.ycombinator.com/item?id=50423569 Points: 82 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50423151",
+      "title": "Borrowing a Microsoft-signed shim to abuse Secure Boot on corporate hardware",
+      "slug": "2026-11-09-borrowing-a-microsoft-signed-shim-to-abuse-secure-boot-on-corporate-hardware.html",
+      "path": "posts/2026-11-09-borrowing-a-microsoft-signed-shim-to-abuse-secure-boot-on-corporate-hardware.html",
+      "date_iso": "2026-11-09T09:22:30+00:00",
+      "source": "https://leosmith.wtf/blog/not-so-secure-boot.html",
+      "summary": "Article URL: https://leosmith.wtf/blog/not-so-secure-boot.html Comments URL: https://news.ycombinator.com/item?id=50423151 Points: 35 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50422628",
+      "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
+      "slug": "2026-11-09-chatgpt-desktop-forwards-your-ssh-agent-to-remote-machines.html",
+      "path": "posts/2026-11-09-chatgpt-desktop-forwards-your-ssh-agent-to-remote-machines.html",
+      "date_iso": "2026-11-09T08:17:49+00:00",
+      "source": "https://news.ycombinator.com/item?id=50422628",
+      "summary": "The agent running on a remote machine can authenticate using your local SSH credentials. That means it can push to your private repos on GitHub, for example. Proof: https://github.com/openai/codex/pull/28131#discussion_r3410013180 Comments URL: https://news.ycombinator.com/item?…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50422168",
+      "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+      "slug": "2026-11-09-next-concept-modeling-fast-parallel-coarse-to-fine-text-generation.html",
+      "path": "posts/2026-11-09-next-concept-modeling-fast-parallel-coarse-to-fine-text-generation.html",
+      "date_iso": "2026-11-09T07:20:37+00:00",
+      "source": "https://arxiv.org/abs/2610.14162",
+      "summary": "Article URL: https://arxiv.org/abs/2610.14162 Comments URL: https://news.ycombinator.com/item?id=50422168 Points: 157 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50421155",
+      "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
+      "slug": "2026-11-09-show-hn-flide-make-jev-like-decision-models-up-to-9-5x-faster.html",
+      "path": "posts/2026-11-09-show-hn-flide-make-jev-like-decision-models-up-to-9-5x-faster.html",
+      "date_iso": "2026-11-09T04:43:12+00:00",
+      "source": "https://github.com/OmniJev/Flide",
+      "summary": "Decision models need their own inference engine. So we developed Flide, a high-performance and exact inference engine for Jev-like decision models. Flide achieves up to a 9.5x speedup over vLLM and SGLang. It now supports 30+ popular local Jev-like decision models. Start to make…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
+      "title": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy",
+      "slug": "2026-11-09-rubio-warned-officials-about-nvidia-chief-s-entanglement-with-chinese-spy.html",
+      "path": "posts/2026-11-09-rubio-warned-officials-about-nvidia-chief-s-entanglement-with-chinese-spy.html",
+      "date_iso": "2026-11-09T00:27:00+00:00",
+      "source": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
+      "summary": "A memo circulated this past spring warning top Trump administration officials that Nvidia’s chief executive, Jensen Huang, was in a close relationship with a Chinese spy."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50419215",
+      "title": "Unlocking any car from X brand in most of the world",
+      "slug": "2026-11-09-unlocking-any-car-from-x-brand-in-most-of-the-world.html",
+      "path": "posts/2026-11-09-unlocking-any-car-from-x-brand-in-most-of-the-world.html",
+      "date_iso": "2026-11-09T00:10:50+00:00",
+      "source": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+      "summary": "Article URL: https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/ Comments URL: https://news.ycombinator.com/item?id=50419215 Points: 550 # Comments: 296"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50418975",
+      "title": "I'm not convinced the AI bubble exists",
+      "slug": "2026-11-08-i-m-not-convinced-the-ai-bubble-exists.html",
+      "path": "posts/2026-11-08-i-m-not-convinced-the-ai-bubble-exists.html",
+      "date_iso": "2026-11-08T23:44:36+00:00",
+      "source": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 484 # Comments: 828"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50418182",
+      "title": "Chimera Vocal Synth",
+      "slug": "2026-11-08-chimera-vocal-synth.html",
+      "path": "posts/2026-11-08-chimera-vocal-synth.html",
+      "date_iso": "2026-11-08T22:36:03+00:00",
+      "source": "https://chimera-vocal-synth.vercel.app/",
+      "summary": "Article URL: https://chimera-vocal-synth.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50418182 Points: 306 # Comments: 56"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50418176",
+      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "slug": "2026-11-08-ketchup-open-source-sketchup-alternative-built-with-rust-and-webgpu.html",
+      "path": "posts/2026-11-08-ketchup-open-source-sketchup-alternative-built-with-rust-and-webgpu.html",
+      "date_iso": "2026-11-08T22:35:35+00:00",
+      "source": "https://ketchup3d.github.io/app/",
+      "summary": "Article URL: https://ketchup3d.github.io/app/ Comments URL: https://news.ycombinator.com/item?id=50418176 Points: 678 # Comments: 198"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50412318",
       "title": "Person of Interest",
       "slug": "2026-11-08-person-of-interest.html",
