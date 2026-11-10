@@ -1,6 +1,240 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
+      "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
+      "slug": "2026-11-10-anthropic-targets-valuation-of-up-to-1-4-trillion-for-blockbuster-i-p-o.html",
+      "path": "posts/2026-11-10-anthropic-targets-valuation-of-up-to-1-4-trillion-for-blockbuster-i-p-o.html",
+      "date_iso": "2026-11-10T15:15:32+00:00",
+      "source": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
+      "summary": "Anthropic’s listing is the first time public market investors have the chance to invest in an A.I. company."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/10/business/roku-aquatic-life-screensaver-fox.html",
+      "title": "A Fan-Favorite Aquarium Screen Saver Is Leaving Roku",
+      "slug": "2026-11-10-a-fan-favorite-aquarium-screen-saver-is-leaving-roku.html",
+      "path": "posts/2026-11-10-a-fan-favorite-aquarium-screen-saver-is-leaving-roku.html",
+      "date_iso": "2026-11-10T15:11:36+00:00",
+      "source": "https://www.nytimes.com/2026/11/10/business/roku-aquatic-life-screensaver-fox.html",
+      "summary": "The Aquatic Life display, a welcome moment of Zen in the frenzied world of TV streaming, will go dark on Dec. 1 after its designer pulled the license."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50439805",
+      "title": "Don't buy AR glasses",
+      "slug": "2026-11-10-don-t-buy-ar-glasses.html",
+      "path": "posts/2026-11-10-don-t-buy-ar-glasses.html",
+      "date_iso": "2026-11-10T13:10:25+00:00",
+      "source": "https://blog.yaros.ae/dont-buy-ar-glasses/",
+      "summary": "Article URL: https://blog.yaros.ae/dont-buy-ar-glasses/ Comments URL: https://news.ycombinator.com/item?id=50439805 Points: 98 # Comments: 115"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/10/technology/jensen-huang-nvidia-board.html",
+      "title": "Nvidia’s Board Has a History of Letting Jensen Huang Get His Way",
+      "slug": "2026-11-10-nvidia-s-board-has-a-history-of-letting-jensen-huang-get-his-way.html",
+      "path": "posts/2026-11-10-nvidia-s-board-has-a-history-of-letting-jensen-huang-get-his-way.html",
+      "date_iso": "2026-11-10T13:07:03+00:00",
+      "source": "https://www.nytimes.com/2026/11/10/technology/jensen-huang-nvidia-board.html",
+      "summary": "Corporate governance experts worry that Nvidia’s board of directors has allowed Mr. Huang to become too indispensable to the company."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50439695",
+      "title": "Ableton Live 13",
+      "slug": "2026-11-10-ableton-live-13.html",
+      "path": "posts/2026-11-10-ableton-live-13.html",
+      "date_iso": "2026-11-10T12:58:04+00:00",
+      "source": "https://www.ableton.com/en/live/",
+      "summary": "Article URL: https://www.ableton.com/en/live/ Comments URL: https://news.ycombinator.com/item?id=50439695 Points: 101 # Comments: 108"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50439448",
+      "title": "Let over Lambda–50 Years of Lisp (2008)",
+      "slug": "2026-11-10-let-over-lambda-50-years-of-lisp-2008.html",
+      "path": "posts/2026-11-10-let-over-lambda-50-years-of-lisp-2008.html",
+      "date_iso": "2026-11-10T12:35:27+00:00",
+      "source": "https://letoverlambda.com/",
+      "summary": "Article URL: https://letoverlambda.com/ Comments URL: https://news.ycombinator.com/item?id=50439448 Points: 13 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50439284",
+      "title": "What's new in the .NET 11 runtime",
+      "slug": "2026-11-10-what-s-new-in-the-net-11-runtime.html",
+      "path": "posts/2026-11-10-what-s-new-in-the-net-11-runtime.html",
+      "date_iso": "2026-11-10T12:20:07+00:00",
+      "source": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
+      "summary": "Article URL: https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime Comments URL: https://news.ycombinator.com/item?id=50439284 Points: 52 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50439193",
+      "title": "AlphaProof Code",
+      "slug": "2026-11-10-alphaproof-code.html",
+      "path": "posts/2026-11-10-alphaproof-code.html",
+      "date_iso": "2026-11-10T12:11:12+00:00",
+      "source": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "summary": "Article URL: https://deepmind.google/blog/introducing-alphaproof-code/ Comments URL: https://news.ycombinator.com/item?id=50439193 Points: 276 # Comments: 105"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50439000",
+      "title": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
+      "slug": "2026-11-10-show-hn-a-15-mb-self-hosted-netflix-and-spotify-for-your-media-server.html",
+      "path": "posts/2026-11-10-show-hn-a-15-mb-self-hosted-netflix-and-spotify-for-your-media-server.html",
+      "date_iso": "2026-11-10T11:51:19+00:00",
+      "source": "https://github.com/HolyArrs/HolyArrs",
+      "summary": "Article URL: https://github.com/HolyArrs/HolyArrs Comments URL: https://news.ycombinator.com/item?id=50439000 Points: 97 # Comments: 51"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50438891",
+      "title": "Anthropic launches roadshow for proposed initial public offering",
+      "slug": "2026-11-10-anthropic-launches-roadshow-for-proposed-initial-public-offering.html",
+      "path": "posts/2026-11-10-anthropic-launches-roadshow-for-proposed-initial-public-offering.html",
+      "date_iso": "2026-11-10T11:38:57+00:00",
+      "source": "https://www.anthropic.com/news/roadshow-launch",
+      "summary": "Article URL: https://www.anthropic.com/news/roadshow-launch Comments URL: https://news.ycombinator.com/item?id=50438891 Points: 10 # Comments: 3"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/10/podcasts/hardfork-jensen-huang-spy-affair.html",
+      "title": "The Jensen Huang Affair",
+      "slug": "2026-11-10-the-jensen-huang-affair.html",
+      "path": "posts/2026-11-10-the-jensen-huang-affair.html",
+      "date_iso": "2026-11-10T11:00:17+00:00",
+      "source": "https://www.nytimes.com/2026/11/10/podcasts/hardfork-jensen-huang-spy-affair.html",
+      "summary": "Nvidia’s C.E.O., Jensen Huang, admitted to having an affair with a suspected Chinese corporate spy. Everything that means for him and the A.I. industry, and what happens next."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50438377",
+      "title": "'C:\\> FORMAT C:' – relax, it's just a screen saver",
+      "slug": "2026-11-10-c-format-c-relax-it-s-just-a-screen-saver.html",
+      "path": "posts/2026-11-10-c-format-c-relax-it-s-just-a-screen-saver.html",
+      "date_iso": "2026-11-10T10:32:36+00:00",
+      "source": "https://fakedos.com/",
+      "summary": "Article URL: https://fakedos.com/ Comments URL: https://news.ycombinator.com/item?id=50438377 Points: 42 # Comments: 30"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/10/us/politics/presidential-library-artifacts-photo-book.html",
+      "title": "What BlackBerries and Horseshoes Reveal About Our Presidents",
+      "slug": "2026-11-10-what-blackberries-and-horseshoes-reveal-about-our-presidents.html",
+      "path": "posts/2026-11-10-what-blackberries-and-horseshoes-reveal-about-our-presidents.html",
+      "date_iso": "2026-11-10T10:02:45+00:00",
+      "source": "https://www.nytimes.com/2026/11/10/us/politics/presidential-library-artifacts-photo-book.html",
+      "summary": "The photographer Peter Adams visited 15 presidential libraries, chronicling individual objects that offered insights about the men who have sat in the White House."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50437790",
+      "title": "Queens Public library under ransomware attack e-borrowing suspended",
+      "slug": "2026-11-10-queens-public-library-under-ransomware-attack-e-borrowing-suspended.html",
+      "path": "posts/2026-11-10-queens-public-library-under-ransomware-attack-e-borrowing-suspended.html",
+      "date_iso": "2026-11-10T09:04:39+00:00",
+      "source": "https://connect.queenslibrary.org/",
+      "summary": "Article URL: https://connect.queenslibrary.org/ Comments URL: https://news.ycombinator.com/item?id=50437790 Points: 101 # Comments: 74"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50437752",
+      "title": "Fossil CO2 emissions decrease by 0.4% in 2026",
+      "slug": "2026-11-10-fossil-co2-emissions-decrease-by-0-4-in-2026.html",
+      "path": "posts/2026-11-10-fossil-co2-emissions-decrease-by-0-4-in-2026.html",
+      "date_iso": "2026-11-10T08:59:41+00:00",
+      "source": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
+      "summary": "Article URL: https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/ Comments URL: https://news.ycombinator.com/item?id=50437752 Points: 111 # Comments: 131"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50437106",
+      "title": "Fireworks AI security breach impacts Notion and their customers",
+      "slug": "2026-11-10-fireworks-ai-security-breach-impacts-notion-and-their-customers.html",
+      "path": "posts/2026-11-10-fireworks-ai-security-breach-impacts-notion-and-their-customers.html",
+      "date_iso": "2026-11-10T07:19:38+00:00",
+      "source": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+      "summary": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=50437106 Points: 107 # Comments: 36"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50436706",
+      "title": "ClickHouse Acquires Xata",
+      "slug": "2026-11-10-clickhouse-acquires-xata.html",
+      "path": "posts/2026-11-10-clickhouse-acquires-xata.html",
+      "date_iso": "2026-11-10T06:14:51+00:00",
+      "source": "https://xata.io/blog/xata-is-joining-clickhouse",
+      "summary": "Article URL: https://xata.io/blog/xata-is-joining-clickhouse Comments URL: https://news.ycombinator.com/item?id=50436706 Points: 75 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50436640",
+      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "slug": "2026-11-10-amazon-saves-millions-by-replacing-sonnet-4-6-with-strands-decider.html",
+      "path": "posts/2026-11-10-amazon-saves-millions-by-replacing-sonnet-4-6-with-strands-decider.html",
+      "date_iso": "2026-11-10T06:01:08+00:00",
+      "source": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "summary": "Article URL: https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/ Comments URL: https://news.ycombinator.com/item?id=50436640 Points: 489 # Comments: 177"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50436410",
+      "title": "Your TV can see through walls",
+      "slug": "2026-11-10-your-tv-can-see-through-walls.html",
+      "path": "posts/2026-11-10-your-tv-can-see-through-walls.html",
+      "date_iso": "2026-11-10T05:24:45+00:00",
+      "source": "https://maurycyz.com/projects/fading/",
+      "summary": "Article URL: https://maurycyz.com/projects/fading/ Comments URL: https://news.ycombinator.com/item?id=50436410 Points: 212 # Comments: 87"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50435898",
+      "title": "Ultorg: The User Interface for Relational Databases",
+      "slug": "2026-11-10-ultorg-the-user-interface-for-relational-databases.html",
+      "path": "posts/2026-11-10-ultorg-the-user-interface-for-relational-databases.html",
+      "date_iso": "2026-11-10T03:59:39+00:00",
+      "source": "https://www.ultorg.com/",
+      "summary": "Article URL: https://www.ultorg.com/ Comments URL: https://news.ycombinator.com/item?id=50435898 Points: 112 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50434310",
+      "title": "Locating the source of a mysterious beep",
+      "slug": "2026-11-10-locating-the-source-of-a-mysterious-beep.html",
+      "path": "posts/2026-11-10-locating-the-source-of-a-mysterious-beep.html",
+      "date_iso": "2026-11-10T00:10:46+00:00",
+      "source": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+      "summary": "Article URL: https://simonwillison.net/2026/Nov/9/mysterious-beeps/ Comments URL: https://news.ycombinator.com/item?id=50434310 Points: 262 # Comments: 133"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50434264",
+      "title": "Horible public key tricks",
+      "slug": "2026-11-10-horible-public-key-tricks.html",
+      "path": "posts/2026-11-10-horible-public-key-tricks.html",
+      "date_iso": "2026-11-10T00:07:17+00:00",
+      "source": "https://maurycyz.com/projects/badcert/",
+      "summary": "Article URL: https://maurycyz.com/projects/badcert/ Comments URL: https://news.ycombinator.com/item?id=50434264 Points: 211 # Comments: 72"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50431075",
+      "title": "Here comes the sun[light]:An ambient Daylight Clock with time and space controls",
+      "slug": "2026-11-09-here-comes-the-sun-light-an-ambient-daylight-clock-with-time-and-space-controls.html",
+      "path": "posts/2026-11-09-here-comes-the-sun-light-an-ambient-daylight-clock-with-time-and-space-controls.html",
+      "date_iso": "2026-11-09T20:00:32+00:00",
+      "source": "https://hannahilea.com/blog/daylight-clock/",
+      "summary": "Article URL: https://hannahilea.com/blog/daylight-clock/ Comments URL: https://news.ycombinator.com/item?id=50431075 Points: 10 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50431058",
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "slug": "2026-11-09-usps-now-offers-official-zip-code-boundary-polygons.html",
+      "path": "posts/2026-11-09-usps-now-offers-official-zip-code-boundary-polygons.html",
+      "date_iso": "2026-11-09T19:58:59+00:00",
+      "source": "https://postalpro.usps.com/zcb",
+      "summary": "Article URL: https://postalpro.usps.com/zcb Comments URL: https://news.ycombinator.com/item?id=50431058 Points: 683 # Comments: 345"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50429734",
+      "title": "E-means: Outperforming k-means in one-tenth the epochs",
+      "slug": "2026-11-09-e-means-outperforming-k-means-in-one-tenth-the-epochs.html",
+      "path": "posts/2026-11-09-e-means-outperforming-k-means-in-one-tenth-the-epochs.html",
+      "date_iso": "2026-11-09T18:45:43+00:00",
+      "source": "https://e-means.github.io/",
+      "summary": "Article URL: https://e-means.github.io/ Comments URL: https://news.ycombinator.com/item?id=50429734 Points: 451 # Comments: 61"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html",
+      "title": "A.I. Fueled Nvidia CEO Jensen Huang’s Elite Status, but Scandal Followed",
+      "slug": "2026-11-09-a-i-fueled-nvidia-ceo-jensen-huang-s-elite-status-but-scandal-followed.html",
+      "path": "posts/2026-11-09-a-i-fueled-nvidia-ceo-jensen-huang-s-elite-status-but-scandal-followed.html",
+      "date_iso": "2026-11-09T17:58:29+00:00",
+      "source": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html",
+      "summary": "Nvidia’s chief executive Jensen Huang at the company’s annual conference in San Jose in March."
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50427486",
       "title": "Commerce Dept Inquiry into Megaspeed Halted After Nvdia Intervention",
       "slug": "2026-11-09-commerce-dept-inquiry-into-megaspeed-halted-after-nvdia-intervention.html",
