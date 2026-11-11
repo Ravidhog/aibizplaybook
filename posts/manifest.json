@@ -1,6 +1,240 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html",
+      "title": "Jensen Huang’s Affair Puts His Wife, Lori Huang, In the Spotlight",
+      "slug": "2026-11-11-jensen-huang-s-affair-puts-his-wife-lori-huang-in-the-spotlight.html",
+      "path": "posts/2026-11-11-jensen-huang-s-affair-puts-his-wife-lori-huang-in-the-spotlight.html",
+      "date_iso": "2026-11-11T14:46:43+00:00",
+      "source": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html",
+      "summary": "Jensen Huang, the chief executive of Nvidia, with his wife, Lori Huang, met as engineering students at Oregon State University."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50453763",
+      "title": "Pharo in the Browser with WebAssembly",
+      "slug": "2026-11-11-pharo-in-the-browser-with-webassembly.html",
+      "path": "posts/2026-11-11-pharo-in-the-browser-with-webassembly.html",
+      "date_iso": "2026-11-11T14:21:27+00:00",
+      "source": "https://massimo-nocentini.github.io/pharo-vm/world.html",
+      "summary": "Article URL: https://massimo-nocentini.github.io/pharo-vm/world.html Comments URL: https://news.ycombinator.com/item?id=50453763 Points: 15 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50453637",
+      "title": "Atuin Threads: All your agent sessions on every machine",
+      "slug": "2026-11-11-atuin-threads-all-your-agent-sessions-on-every-machine.html",
+      "path": "posts/2026-11-11-atuin-threads-all-your-agent-sessions-on-every-machine.html",
+      "date_iso": "2026-11-11T14:10:46+00:00",
+      "source": "https://blog.atuin.sh/threads-agent-sessions/",
+      "summary": "Article URL: https://blog.atuin.sh/threads-agent-sessions/ Comments URL: https://news.ycombinator.com/item?id=50453637 Points: 9 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50453555",
+      "title": "Apple is killing its Support Community forum next week",
+      "slug": "2026-11-11-apple-is-killing-its-support-community-forum-next-week.html",
+      "path": "posts/2026-11-11-apple-is-killing-its-support-community-forum-next-week.html",
+      "date_iso": "2026-11-11T14:02:11+00:00",
+      "source": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+      "summary": "Article URL: https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down Comments URL: https://news.ycombinator.com/item?id=50453555 Points: 17 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50453474",
+      "title": "I asked every TV manufacturer 17 questions about how they spy on you",
+      "slug": "2026-11-11-i-asked-every-tv-manufacturer-17-questions-about-how-they-spy-on-you.html",
+      "path": "posts/2026-11-11-i-asked-every-tv-manufacturer-17-questions-about-how-they-spy-on-you.html",
+      "date_iso": "2026-11-11T13:56:05+00:00",
+      "source": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+      "summary": "Article URL: https://www.theverge.com/tech/1012372/tv-privacy-acr-questions Comments URL: https://news.ycombinator.com/item?id=50453474 Points: 40 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50453229",
+      "title": "Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",
+      "slug": "2026-11-11-show-hn-godbolt-in-a-floating-window-for-neovim-c-c-rust.html",
+      "path": "posts/2026-11-11-show-hn-godbolt-in-a-floating-window-for-neovim-c-c-rust.html",
+      "date_iso": "2026-11-11T13:34:24+00:00",
+      "source": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
+      "summary": "No internet connection needed. Uses a locally-installed compiler for assembly generation. Comments URL: https://news.ycombinator.com/item?id=50453229 Points: 6 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50453080",
+      "title": "EventSourcingDB 1.3.0 Is Available",
+      "slug": "2026-11-11-eventsourcingdb-1-3-0-is-available.html",
+      "path": "posts/2026-11-11-eventsourcingdb-1-3-0-is-available.html",
+      "date_iso": "2026-11-11T13:19:45+00:00",
+      "source": "https://www.eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available",
+      "summary": "Article URL: https://www.eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available Comments URL: https://news.ycombinator.com/item?id=50453080 Points: 4 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50452742",
+      "title": "Open research, stronger privacy: Making Firefox users harder to fingerprint",
+      "slug": "2026-11-11-open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint.html",
+      "path": "posts/2026-11-11-open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint.html",
+      "date_iso": "2026-11-11T12:44:06+00:00",
+      "source": "https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/",
+      "summary": "Article URL: https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/ Comments URL: https://news.ycombinator.com/item?id=50452742 Points: 41 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50452655",
+      "title": "Can a Linear Program Do Weight-Space Programming?",
+      "slug": "2026-11-11-can-a-linear-program-do-weight-space-programming.html",
+      "path": "posts/2026-11-11-can-a-linear-program-do-weight-space-programming.html",
+      "date_iso": "2026-11-11T12:30:17+00:00",
+      "source": "https://nathan.rs/posts/weight-space-lp/",
+      "summary": "Article URL: https://nathan.rs/posts/weight-space-lp/ Comments URL: https://news.ycombinator.com/item?id=50452655 Points: 88 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50452652",
+      "title": "We need more goat sacrifices",
+      "slug": "2026-11-11-we-need-more-goat-sacrifices.html",
+      "path": "posts/2026-11-11-we-need-more-goat-sacrifices.html",
+      "date_iso": "2026-11-11T12:29:48+00:00",
+      "source": "https://www.experimental-history.com/p/we-need-more-goat-sacrifices",
+      "summary": "Article URL: https://www.experimental-history.com/p/we-need-more-goat-sacrifices Comments URL: https://news.ycombinator.com/item?id=50452652 Points: 31 # Comments: 16"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50452496",
+      "title": "Next-Level Benchmarking Overfitting – Thomas Neumann",
+      "slug": "2026-11-11-next-level-benchmarking-overfitting-thomas-neumann.html",
+      "path": "posts/2026-11-11-next-level-benchmarking-overfitting-thomas-neumann.html",
+      "date_iso": "2026-11-11T12:09:49+00:00",
+      "source": "http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html",
+      "summary": "Article URL: http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html Comments URL: https://news.ycombinator.com/item?id=50452496 Points: 28 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50452455",
+      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "slug": "2026-11-11-google-swe-points-48-ai-agents-at-nasa-lidar-finds-unmapped-maya-pyramid-in-72h.html",
+      "path": "posts/2026-11-11-google-swe-points-48-ai-agents-at-nasa-lidar-finds-unmapped-maya-pyramid-in-72h.html",
+      "date_iso": "2026-11-11T12:05:22+00:00",
+      "source": "https://pietromiotti.com/latest/maya-site/?maya",
+      "summary": "Article URL: https://pietromiotti.com/latest/maya-site/?maya Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 367 # Comments: 144"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50452404",
+      "title": "Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco",
+      "slug": "2026-11-11-tinfoil-yc-p25-is-hiring-an-applied-ai-security-engineer-in-san-francisco.html",
+      "path": "posts/2026-11-11-tinfoil-yc-p25-is-hiring-an-applied-ai-security-engineer-in-san-francisco.html",
+      "date_iso": "2026-11-11T12:00:35+00:00",
+      "source": "https://news.ycombinator.com/item?id=50452404",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=50452404 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50452224",
+      "title": "Physically Controllable Relighting of Photographs",
+      "slug": "2026-11-11-physically-controllable-relighting-of-photographs.html",
+      "path": "posts/2026-11-11-physically-controllable-relighting-of-photographs.html",
+      "date_iso": "2026-11-11T11:38:43+00:00",
+      "source": "https://yaksoy.github.io/PhysicalRelighting/",
+      "summary": "Article URL: https://yaksoy.github.io/PhysicalRelighting/ Comments URL: https://news.ycombinator.com/item?id=50452224 Points: 25 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50451903",
+      "title": "Using voltage glitching to unleash the A100 in my mining card",
+      "slug": "2026-11-11-using-voltage-glitching-to-unleash-the-a100-in-my-mining-card.html",
+      "path": "posts/2026-11-11-using-voltage-glitching-to-unleash-the-a100-in-my-mining-card.html",
+      "date_iso": "2026-11-11T10:48:40+00:00",
+      "source": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+      "summary": "Article URL: https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/ Comments URL: https://news.ycombinator.com/item?id=50451903 Points: 92 # Comments: 35"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/11/magazine/ai-behavior-incorrigible.html",
+      "title": "Why Is It So Hard to Teach A.I. Agents to Behave? Researchers Have a Theory.",
+      "slug": "2026-11-11-why-is-it-so-hard-to-teach-a-i-agents-to-behave-researchers-have-a-theory.html",
+      "path": "posts/2026-11-11-why-is-it-so-hard-to-teach-a-i-agents-to-behave-researchers-have-a-theory.html",
+      "date_iso": "2026-11-11T10:01:51+00:00",
+      "source": "https://www.nytimes.com/2026/11/11/magazine/ai-behavior-incorrigible.html",
+      "summary": "The makers of A.I. want to build systems that follow human direction, without resisting or deceiving their operators."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50450007",
+      "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+      "slug": "2026-11-11-greg-kurtzer-s-ginux-is-now-a-userspace-kernel.html",
+      "path": "posts/2026-11-11-greg-kurtzer-s-ginux-is-now-a-userspace-kernel.html",
+      "date_iso": "2026-11-11T05:25:54+00:00",
+      "source": "https://github.com/gmkurtzer/ginux",
+      "summary": "Article URL: https://github.com/gmkurtzer/ginux Comments URL: https://news.ycombinator.com/item?id=50450007 Points: 98 # Comments: 58"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50449891",
+      "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+      "slug": "2026-11-11-show-hn-black-ops-ii-statically-recompiled-to-native-arm64-macos.html",
+      "path": "posts/2026-11-11-show-hn-black-ops-ii-statically-recompiled-to-native-arm64-macos.html",
+      "date_iso": "2026-11-11T04:56:47+00:00",
+      "source": "https://github.com/adrbn/bo2-mac",
+      "summary": "I grew up with Black Ops 2 and wanted to see if I could make it work on my 2020 MacBook Pro. So I used Claude Opus 5.5 to create a tool that converts your copy of the game (from Steam) to a native ARM64 Mac app, with almost 60fps in all areas. The whole game is statically recomp…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50449748",
+      "title": "Protecting SSH Keys with macOS Secure Enclave",
+      "slug": "2026-11-11-protecting-ssh-keys-with-macos-secure-enclave.html",
+      "path": "posts/2026-11-11-protecting-ssh-keys-with-macos-secure-enclave.html",
+      "date_iso": "2026-11-11T04:28:57+00:00",
+      "source": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+      "summary": "Article URL: https://gatezh.com/posts/macos-secure-enclave-ssh-keys/ Comments URL: https://news.ycombinator.com/item?id=50449748 Points: 296 # Comments: 109"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50449275",
+      "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+      "slug": "2026-11-11-to-deter-bioterrorism-u-s-imposes-new-rules-on-ordering-synthetic-dna.html",
+      "path": "posts/2026-11-11-to-deter-bioterrorism-u-s-imposes-new-rules-on-ordering-synthetic-dna.html",
+      "date_iso": "2026-11-11T02:57:08+00:00",
+      "source": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+      "summary": "Article URL: https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna Comments URL: https://news.ycombinator.com/item?id=50449275 Points: 137 # Comments: 114"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50448921",
+      "title": "A great old-timey game-programming hack (2013)",
+      "slug": "2026-11-11-a-great-old-timey-game-programming-hack-2013.html",
+      "path": "posts/2026-11-11-a-great-old-timey-game-programming-hack-2013.html",
+      "date_iso": "2026-11-11T01:56:31+00:00",
+      "source": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+      "summary": "Article URL: https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html Comments URL: https://news.ycombinator.com/item?id=50448921 Points: 218 # Comments: 46"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/10/business/toyota-kei-pickup-truck.html",
+      "title": "Toyota Plans to Sell a Kei Pickup Truck in the U.S.",
+      "slug": "2026-11-10-toyota-plans-to-sell-a-kei-pickup-truck-in-the-u-s.html",
+      "path": "posts/2026-11-10-toyota-plans-to-sell-a-kei-pickup-truck-in-the-u-s.html",
+      "date_iso": "2026-11-10T22:58:31+00:00",
+      "source": "https://www.nytimes.com/2026/11/10/business/toyota-kei-pickup-truck.html",
+      "summary": "Toyota’s Scion KEI-01 truck will go on sale in the United States next year. They will be assembled at a factory in Indiana."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/10/business/anthropic-ipo-nvidia.html",
+      "title": "Anthropic’s Giant IPO Will Tie It Closer to Nvidia",
+      "slug": "2026-11-10-anthropic-s-giant-ipo-will-tie-it-closer-to-nvidia.html",
+      "path": "posts/2026-11-10-anthropic-s-giant-ipo-will-tie-it-closer-to-nvidia.html",
+      "date_iso": "2026-11-10T22:03:38+00:00",
+      "source": "https://www.nytimes.com/2026/11/10/business/anthropic-ipo-nvidia.html",
+      "summary": "Nvidia planned to invest $10 billion in Anthropic alongside its initial public offering, the largest of the new financial commitments from several giants to the A.I. company."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-google-amazon.html",
+      "title": "Amazon and Google Will See Big Paydays from Anthropic IPO",
+      "slug": "2026-11-10-amazon-and-google-will-see-big-paydays-from-anthropic-ipo.html",
+      "path": "posts/2026-11-10-amazon-and-google-will-see-big-paydays-from-anthropic-ipo.html",
+      "date_iso": "2026-11-10T21:54:37+00:00",
+      "source": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-google-amazon.html",
+      "summary": "An Amazon and Anthropic data center complex in New Carlisle, Ind."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50446520",
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "slug": "2026-11-10-apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy.html",
+      "path": "posts/2026-11-10-apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy.html",
+      "date_iso": "2026-11-10T21:25:03+00:00",
+      "source": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 386 # Comments: 390"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html",
+      "title": "Who Is Alice Huang, the Woman in the Middle of Nvidia’s Spy Scandal?",
+      "slug": "2026-11-10-who-is-alice-huang-the-woman-in-the-middle-of-nvidia-s-spy-scandal.html",
+      "path": "posts/2026-11-10-who-is-alice-huang-the-woman-in-the-middle-of-nvidia-s-spy-scandal.html",
+      "date_iso": "2026-11-10T21:12:39+00:00",
+      "source": "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html",
+      "summary": "Jensen Huang and Alice Huang have been photographed together on several occasions. In this photo, posted to Weibo, they are at a Shanghai restaurant, Pujiang Huaiyan."
+    },
+    {
       "id": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
       "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
       "slug": "2026-11-10-anthropic-targets-valuation-of-up-to-1-4-trillion-for-blockbuster-i-p-o.html",
