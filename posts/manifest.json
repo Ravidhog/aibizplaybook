@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
+      "title": "Microsoft’s Global Outage and Fixes: What We Know",
+      "slug": "2026-11-14-microsoft-s-global-outage-and-fixes-what-we-know.html",
+      "path": "posts/2026-11-14-microsoft-s-global-outage-and-fixes-what-we-know.html",
+      "date_iso": "2026-11-14T13:15:55+00:00",
+      "source": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
+      "summary": "Microsoft on Saturday declared an end to one of its most extensive outages in recent times."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50496602",
+      "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+      "slug": "2026-11-14-tech-companies-are-trying-to-shift-the-concept-of-privacy-again.html",
+      "path": "posts/2026-11-14-tech-companies-are-trying-to-shift-the-concept-of-privacy-again.html",
+      "date_iso": "2026-11-14T12:45:45+00:00",
+      "source": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again Comments URL: https://news.ycombinator.com/item?id=50496602 Points: 38 # Comments: 2"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-scandal-silicon-valley.html",
+      "title": "The Jensen Huang Scandal Has Shocked Even Scandal-Prone Silicon Valley",
+      "slug": "2026-11-14-the-jensen-huang-scandal-has-shocked-even-scandal-prone-silicon-valley.html",
+      "path": "posts/2026-11-14-the-jensen-huang-scandal-has-shocked-even-scandal-prone-silicon-valley.html",
+      "date_iso": "2026-11-14T11:55:40+00:00",
+      "source": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-scandal-silicon-valley.html",
+      "summary": "The revelation that Jensen Huang had a romantic relationship with Alice Huang changed the chatter in Silicon Valley from soaring I.P.O.s to tawdry affairs."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50493904",
+      "title": "Monkey Island: all 13 versions side by side",
+      "slug": "2026-11-14-monkey-island-all-13-versions-side-by-side.html",
+      "path": "posts/2026-11-14-monkey-island-all-13-versions-side-by-side.html",
+      "date_iso": "2026-11-14T04:23:30+00:00",
+      "source": "https://monkeyisland.pages.dev/",
+      "summary": "Article URL: https://monkeyisland.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50493904 Points: 254 # Comments: 81"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50493251",
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "slug": "2026-11-14-nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus.html",
+      "path": "posts/2026-11-14-nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus.html",
+      "date_iso": "2026-11-14T02:52:59+00:00",
+      "source": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 781 # Comments: 461"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50493062",
+      "title": "Ggml v1.0.0",
+      "slug": "2026-11-14-ggml-v1-0-0.html",
+      "path": "posts/2026-11-14-ggml-v1-0-0.html",
+      "date_iso": "2026-11-14T02:28:29+00:00",
+      "source": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "summary": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 317 # Comments: 50"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50492860",
+      "title": "Elephants found to be increasingly isolated leading to fractured social networks",
+      "slug": "2026-11-14-elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks.html",
+      "path": "posts/2026-11-14-elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks.html",
+      "date_iso": "2026-11-14T02:02:42+00:00",
+      "source": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
+      "summary": "Article URL: https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks Comments URL: https://news.ycombinator.com/item?id=50492860 Points: 158 # Comments: 35"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50492315",
+      "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+      "slug": "2026-11-14-amtrak-booking-system-experiencing-major-issues-amid-nationwide-faa-ground-stop.html",
+      "path": "posts/2026-11-14-amtrak-booking-system-experiencing-major-issues-amid-nationwide-faa-ground-stop.html",
+      "date_iso": "2026-11-14T00:52:29+00:00",
+      "source": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+      "summary": "Article URL: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026 Comments URL: https://news.ycombinator.com/item?id=50492315 Points: 180 # Comments: 69"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50491980",
+      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+      "slug": "2026-11-14-unsloth-qwen3-8-27b-quantizations-dynamic-v3-1-update.html",
+      "path": "posts/2026-11-14-unsloth-qwen3-8-27b-quantizations-dynamic-v3-1-update.html",
+      "date_iso": "2026-11-14T00:06:04+00:00",
+      "source": "https://unsloth.ai/docs/models/qwen3.8",
+      "summary": "Article URL: https://unsloth.ai/docs/models/qwen3.8 Comments URL: https://news.ycombinator.com/item?id=50491980 Points: 191 # Comments: 54"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50491830",
+      "title": "What happened to 3Com?",
+      "slug": "2026-11-13-what-happened-to-3com.html",
+      "path": "posts/2026-11-13-what-happened-to-3com.html",
+      "date_iso": "2026-11-13T23:48:59+00:00",
+      "source": "https://dfarq.homeip.net/what-happened-to-3com/",
+      "summary": "Article URL: https://dfarq.homeip.net/what-happened-to-3com/ Comments URL: https://news.ycombinator.com/item?id=50491830 Points: 170 # Comments: 91"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html",
+      "title": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers",
+      "slug": "2026-11-13-why-anthropic-s-dario-amodei-has-angered-openai-and-other-a-i-peers.html",
+      "path": "posts/2026-11-13-why-anthropic-s-dario-amodei-has-angered-openai-and-other-a-i-peers.html",
+      "date_iso": "2026-11-13T23:20:11+00:00",
+      "source": "https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html",
+      "summary": "Dario Amodei, the company’s chief executive, publicly frets about the dangers of artificial intelligence and has made enemies of his peers along the way."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50491545",
+      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+      "slug": "2026-11-13-show-hn-live-map-of-u-s-flights-during-tonight-s-faa-nationwide-ground-stop.html",
+      "path": "posts/2026-11-13-show-hn-live-map-of-u-s-flights-during-tonight-s-faa-nationwide-ground-stop.html",
+      "date_iso": "2026-11-13T23:17:39+00:00",
+      "source": "https://grounds.top/",
+      "summary": "Article URL: https://grounds.top/ Comments URL: https://news.ycombinator.com/item?id=50491545 Points: 171 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50491423",
+      "title": "Terminal borders that don't cost a cell",
+      "slug": "2026-11-13-terminal-borders-that-don-t-cost-a-cell.html",
+      "path": "posts/2026-11-13-terminal-borders-that-don-t-cost-a-cell.html",
+      "date_iso": "2026-11-13T23:06:40+00:00",
+      "source": "https://www.joshka.net/cell-borders/",
+      "summary": "Article URL: https://www.joshka.net/cell-borders/ Comments URL: https://news.ycombinator.com/item?id=50491423 Points: 324 # Comments: 142"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50491400",
+      "title": "How Not to Build a Music Player",
+      "slug": "2026-11-13-how-not-to-build-a-music-player.html",
+      "path": "posts/2026-11-13-how-not-to-build-a-music-player.html",
+      "date_iso": "2026-11-13T23:04:30+00:00",
+      "source": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
+      "summary": "Article URL: https://alichraghi.github.io/blog/how-not-to-build-a-music-player/ Comments URL: https://news.ycombinator.com/item?id=50491400 Points: 140 # Comments: 60"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50490593",
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "slug": "2026-11-13-live-airband-on-all-frequencies-from-kors-victoria-ca-also-ground-stopped.html",
+      "path": "posts/2026-11-13-live-airband-on-all-frequencies-from-kors-victoria-ca-also-ground-stopped.html",
+      "date_iso": "2026-11-13T22:04:24+00:00",
+      "source": "https://orcasairband.com/",
+      "summary": "Article URL: https://orcasairband.com/ Comments URL: https://news.ycombinator.com/item?id=50490593 Points: 279 # Comments: 65"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50489641",
+      "title": "FAA issues national ground stop – lifted 4.5 hours later",
+      "slug": "2026-11-13-faa-issues-national-ground-stop-lifted-4-5-hours-later.html",
+      "path": "posts/2026-11-13-faa-issues-national-ground-stop-lifted-4-5-hours-later.html",
+      "date_iso": "2026-11-13T21:05:53+00:00",
+      "source": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "summary": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&amp;a... https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&amp;a... https://www.nytimes.com/live/2026/11/13/us/ground-stop-natio... Comments URL: https://news.ycombinator.com/item?id=50489641 Points: 1585 # Comm…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50488835",
+      "title": "Live-migration support in FreeBSD and bhyve coming",
+      "slug": "2026-11-13-live-migration-support-in-freebsd-and-bhyve-coming.html",
+      "path": "posts/2026-11-13-live-migration-support-in-freebsd-and-bhyve-coming.html",
+      "date_iso": "2026-11-13T19:58:42+00:00",
+      "source": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
+      "summary": "Article URL: https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/ Comments URL: https://news.ycombinator.com/item?id=50488835 Points: 122 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50488470",
+      "title": "Found: A protein that drives ageing without unleashing inflammation",
+      "slug": "2026-11-13-found-a-protein-that-drives-ageing-without-unleashing-inflammation.html",
+      "path": "posts/2026-11-13-found-a-protein-that-drives-ageing-without-unleashing-inflammation.html",
+      "date_iso": "2026-11-13T19:25:21+00:00",
+      "source": "https://www.nature.com/articles/d41586-026-03638-3",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-026-03638-3 Comments URL: https://news.ycombinator.com/item?id=50488470 Points: 219 # Comments: 50"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50488464",
+      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+      "slug": "2026-11-13-perplexity-decider-v1-3-training-eval-and-use-cases.html",
+      "path": "posts/2026-11-13-perplexity-decider-v1-3-training-eval-and-use-cases.html",
+      "date_iso": "2026-11-13T19:24:47+00:00",
+      "source": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+      "summary": "Article URL: https://www.perplexity.ai/hub/blog/perplexity-decider Comments URL: https://news.ycombinator.com/item?id=50488464 Points: 140 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50488325",
+      "title": "FM-1 Workbench",
+      "slug": "2026-11-13-fm-1-workbench.html",
+      "path": "posts/2026-11-13-fm-1-workbench.html",
+      "date_iso": "2026-11-13T19:14:02+00:00",
+      "source": "https://open.m-vave.com/fm1-workbench",
+      "summary": "Article URL: https://open.m-vave.com/fm1-workbench Comments URL: https://news.ycombinator.com/item?id=50488325 Points: 247 # Comments: 160"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html",
+      "title": "Wall Street Braces for Anthropic’s Spending",
+      "slug": "2026-11-13-wall-street-braces-for-anthropic-s-spending.html",
+      "path": "posts/2026-11-13-wall-street-braces-for-anthropic-s-spending.html",
+      "date_iso": "2026-11-13T18:52:43+00:00",
+      "source": "https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html",
+      "summary": "A screen displays news about Anthropic’s initial public offering on the floor of the New York Stock Exchange last month."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50487228",
+      "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+      "slug": "2026-11-13-show-hn-isometric-sf-a-pixel-art-map-of-the-sf-bay-area.html",
+      "path": "posts/2026-11-13-show-hn-isometric-sf-a-pixel-art-map-of-the-sf-bay-area.html",
+      "date_iso": "2026-11-13T17:58:37+00:00",
+      "source": "https://isometricsf.com/",
+      "summary": "Technical Write-up: https://www.justinchavez.com/blog/isometric-sf-how/ Hi HN! Showcasing this fun project. I took 1300 square miles of the SF Bay Area from Google Photorealistic 3D Tiles and transformed them into a cohesive pixel map. It's really fun to explore and stumble upon…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50487185",
+      "title": "After 600 experiments, here's what I discovered about JEPA world models",
+      "slug": "2026-11-13-after-600-experiments-here-s-what-i-discovered-about-jepa-world-models.html",
+      "path": "posts/2026-11-13-after-600-experiments-here-s-what-i-discovered-about-jepa-world-models.html",
+      "date_iso": "2026-11-13T17:55:28+00:00",
+      "source": "https://haddyalchaer.com/jepa",
+      "summary": "Article URL: https://haddyalchaer.com/jepa Comments URL: https://news.ycombinator.com/item?id=50487185 Points: 273 # Comments: 45"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html",
+      "title": "Jensen Huang’s Resignation From Nvidia Worries the A.I. Start-Up World",
+      "slug": "2026-11-13-jensen-huang-s-resignation-from-nvidia-worries-the-a-i-start-up-world.html",
+      "path": "posts/2026-11-13-jensen-huang-s-resignation-from-nvidia-worries-the-a-i-start-up-world.html",
+      "date_iso": "2026-11-13T16:36:28+00:00",
+      "source": "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html",
+      "summary": "Jensen Huang’s resignation on Thursday as chief executive of Nvidia has investors and start-up founders nervous that they have lost a powerful ally."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50484658",
+      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "slug": "2026-11-13-jonathan-blow-if-ai-solved-coding-why-is-my-software-still-the-same-video.html",
+      "path": "posts/2026-11-13-jonathan-blow-if-ai-solved-coding-why-is-my-software-still-the-same-video.html",
+      "date_iso": "2026-11-13T15:08:44+00:00",
+      "source": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 364 # Comments: 489"
+    },
+    {
       "id": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
       "title": "Microsoft Races to Fix Outage Disrupting Outlook for a Second Day",
       "slug": "2026-11-13-microsoft-races-to-fix-outage-disrupting-outlook-for-a-second-day.html",
