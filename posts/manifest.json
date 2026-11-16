@@ -1,6 +1,222 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html",
+      "title": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip",
+      "slug": "2026-11-16-trump-administration-moves-to-close-a-i-chip-loophole-ahead-of-china-trip.html",
+      "path": "posts/2026-11-16-trump-administration-moves-to-close-a-i-chip-loophole-ahead-of-china-trip.html",
+      "date_iso": "2026-11-16T16:35:00+00:00",
+      "source": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html",
+      "summary": "A Megaspeed data center under construction in Johor, Malaysia."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50518567",
+      "title": "Nvidia Was in Trouble Before the Jensen Huang Mess",
+      "slug": "2026-11-16-nvidia-was-in-trouble-before-the-jensen-huang-mess.html",
+      "path": "posts/2026-11-16-nvidia-was-in-trouble-before-the-jensen-huang-mess.html",
+      "date_iso": "2026-11-16T15:24:09+00:00",
+      "source": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+      "summary": "Article URL: https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/ Comments URL: https://news.ycombinator.com/item?id=50518567 Points: 38 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50517838",
+      "title": "Whistleblower accuses Pentagon over Iran strike on US base that killed 6",
+      "slug": "2026-11-16-whistleblower-accuses-pentagon-over-iran-strike-on-us-base-that-killed-6.html",
+      "path": "posts/2026-11-16-whistleblower-accuses-pentagon-over-iran-strike-on-us-base-that-killed-6.html",
+      "date_iso": "2026-11-16T14:17:53+00:00",
+      "source": "https://www.cnn.com/2026/11/15/politics/army-soldier-whistleblower-complaint",
+      "summary": "Article URL: https://www.cnn.com/2026/11/15/politics/army-soldier-whistleblower-complaint Comments URL: https://news.ycombinator.com/item?id=50517838 Points: 168 # Comments: 43"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50517815",
+      "title": "The Active Directory Era Is Finally Over",
+      "slug": "2026-11-16-the-active-directory-era-is-finally-over.html",
+      "path": "posts/2026-11-16-the-active-directory-era-is-finally-over.html",
+      "date_iso": "2026-11-16T14:15:31+00:00",
+      "source": "https://infisical.com/blog/active-directory-machine-identity",
+      "summary": "Article URL: https://infisical.com/blog/active-directory-machine-identity Comments URL: https://news.ycombinator.com/item?id=50517815 Points: 3 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50517602",
+      "title": "What is w2rt6byl5nf1opmc-a.com?",
+      "slug": "2026-11-16-what-is-w2rt6byl5nf1opmc-a-com.html",
+      "path": "posts/2026-11-16-what-is-w2rt6byl5nf1opmc-a-com.html",
+      "date_iso": "2026-11-16T13:51:38+00:00",
+      "source": "https://jack.cab/blog/siterate",
+      "summary": "Article URL: https://jack.cab/blog/siterate Comments URL: https://news.ycombinator.com/item?id=50517602 Points: 246 # Comments: 105"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50517488",
+      "title": "Many of Amazon’s Black Friday and Cyber Monday “Deals” Offered No Savings",
+      "slug": "2026-11-16-many-of-amazon-s-black-friday-and-cyber-monday-deals-offered-no-savings.html",
+      "path": "posts/2026-11-16-many-of-amazon-s-black-friday-and-cyber-monday-deals-offered-no-savings.html",
+      "date_iso": "2026-11-16T13:39:07+00:00",
+      "source": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+      "summary": "Article URL: http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/ Comments URL: https://news.ycombinator.com/item?id=50…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/16/business/media/apple-tv-podcasts-youtube.html",
+      "title": "Apple Was Late to the Video Podcast Boom. Now It’s Trying to Catch Up.",
+      "slug": "2026-11-16-apple-was-late-to-the-video-podcast-boom-now-it-s-trying-to-catch-up.html",
+      "path": "posts/2026-11-16-apple-was-late-to-the-video-podcast-boom-now-it-s-trying-to-catch-up.html",
+      "date_iso": "2026-11-16T13:24:37+00:00",
+      "source": "https://www.nytimes.com/2026/11/16/business/media/apple-tv-podcasts-youtube.html",
+      "summary": "Apple will bring video podcasts to Apple TV and increase the number of video podcasts on its regular Podcasts app."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50517352",
+      "title": "Show HN: OpenTodo – a self-hosted, local-first task manager in one Go binary",
+      "slug": "2026-11-16-show-hn-opentodo-a-self-hosted-local-first-task-manager-in-one-go-binary.html",
+      "path": "posts/2026-11-16-show-hn-opentodo-a-self-hosted-local-first-task-manager-in-one-go-binary.html",
+      "date_iso": "2026-11-16T13:21:53+00:00",
+      "source": "https://github.com/OpenTodoApp/OpenTodo",
+      "summary": "Article URL: https://github.com/OpenTodoApp/OpenTodo Comments URL: https://news.ycombinator.com/item?id=50517352 Points: 14 # Comments: 8"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50516473",
+      "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+      "slug": "2026-11-16-the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life-2007.html",
+      "path": "posts/2026-11-16-the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life-2007.html",
+      "date_iso": "2026-11-16T11:39:31+00:00",
+      "source": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+      "summary": "Article URL: https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/ Comments URL: https://news.ycombinator.com/item?id=50516473 Points: 175 # Comments: 77"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50516245",
+      "title": "Coffeehouses and the Rise of Science [pdf]",
+      "slug": "2026-11-16-coffeehouses-and-the-rise-of-science-pdf.html",
+      "path": "posts/2026-11-16-coffeehouses-and-the-rise-of-science-pdf.html",
+      "date_iso": "2026-11-16T11:03:16+00:00",
+      "source": "https://www.monirbounadi.com/Bounadi_JMP.pdf",
+      "summary": "Article URL: https://www.monirbounadi.com/Bounadi_JMP.pdf Comments URL: https://news.ycombinator.com/item?id=50516245 Points: 137 # Comments: 82"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/16/technology/sam-bankman-fried-anthropic.html",
+      "title": "How Sam Bankman-Fried Lost Out on a $35 Billion Jackpot From Anthropic",
+      "slug": "2026-11-16-how-sam-bankman-fried-lost-out-on-a-35-billion-jackpot-from-anthropic.html",
+      "path": "posts/2026-11-16-how-sam-bankman-fried-lost-out-on-a-35-billion-jackpot-from-anthropic.html",
+      "date_iso": "2026-11-16T10:02:09+00:00",
+      "source": "https://www.nytimes.com/2026/11/16/technology/sam-bankman-fried-anthropic.html",
+      "summary": "Sam Bankman-Fried, founder of the crypto firm FTX, leaving federal court in Manhattan in 2022. He was convicted of fraud and is now in federal prison in California."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50515182",
+      "title": "Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME",
+      "slug": "2026-11-16-winudf-dvd-bluray-driver-for-dos-windows-1-x-3x-95-98-me.html",
+      "path": "posts/2026-11-16-winudf-dvd-bluray-driver-for-dos-windows-1-x-3x-95-98-me.html",
+      "date_iso": "2026-11-16T08:00:13+00:00",
+      "source": "https://github.com/ages2001/WINUDF",
+      "summary": "Article URL: https://github.com/ages2001/WINUDF Comments URL: https://news.ycombinator.com/item?id=50515182 Points: 62 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50515058",
+      "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
+      "slug": "2026-11-16-interpreting-claims-that-a-theorem-is-correct-because-it-was-checked-in-lean.html",
+      "path": "posts/2026-11-16-interpreting-claims-that-a-theorem-is-correct-because-it-was-checked-in-lean.html",
+      "date_iso": "2026-11-16T07:38:19+00:00",
+      "source": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
+      "summary": "Article URL: https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/ Comments URL: https://news.ycombinator.com/item?id=50515058 Points: 187 # Comments: 71"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50514470",
+      "title": "How to make almost anything",
+      "slug": "2026-11-16-how-to-make-almost-anything.html",
+      "path": "posts/2026-11-16-how-to-make-almost-anything.html",
+      "date_iso": "2026-11-16T05:50:37+00:00",
+      "source": "https://pub.cba.mit.edu/863.26/site/",
+      "summary": "Article URL: https://pub.cba.mit.edu/863.26/site/ Comments URL: https://news.ycombinator.com/item?id=50514470 Points: 630 # Comments: 103"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50513215",
+      "title": "Qwen4-Max",
+      "slug": "2026-11-16-qwen4-max.html",
+      "path": "posts/2026-11-16-qwen4-max.html",
+      "date_iso": "2026-11-16T02:14:44+00:00",
+      "source": "https://qwen.ai/blog?id=qwen4-max",
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen4-max Comments URL: https://news.ycombinator.com/item?id=50513215 Points: 762 # Comments: 382"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50513160",
+      "title": "Universal XSS in uBlock Origin from website-driven element picker",
+      "slug": "2026-11-16-universal-xss-in-ublock-origin-from-website-driven-element-picker.html",
+      "path": "posts/2026-11-16-universal-xss-in-ublock-origin-from-website-driven-element-picker.html",
+      "date_iso": "2026-11-16T02:04:48+00:00",
+      "source": "https://iter.ca/post/ubo-uxss/",
+      "summary": "Article URL: https://iter.ca/post/ubo-uxss/ Comments URL: https://news.ycombinator.com/item?id=50513160 Points: 526 # Comments: 148"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50512441",
+      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "slug": "2026-11-16-tor-project-issues-rapid-response-dos-defense-fix-amid-sustained-ddos-attack.html",
+      "path": "posts/2026-11-16-tor-project-issues-rapid-response-dos-defense-fix-amid-sustained-ddos-attack.html",
+      "date_iso": "2026-11-16T00:21:54+00:00",
+      "source": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "summary": "Article URL: https://forum.torproject.org/t/security-release-0-4-9-17/22454 Comments URL: https://news.ycombinator.com/item?id=50512441 Points: 217 # Comments: 55"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50512235",
+      "title": "What's Next for Nvidia?",
+      "slug": "2026-11-15-what-s-next-for-nvidia.html",
+      "path": "posts/2026-11-15-what-s-next-for-nvidia.html",
+      "date_iso": "2026-11-15T23:55:55+00:00",
+      "source": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "summary": "Article URL: https://steveblank.com/2026/11/15/whats-next-for-nvidia/ Comments URL: https://news.ycombinator.com/item?id=50512235 Points: 395 # Comments: 503"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50511806",
+      "title": "Preserving 30 years of Salon journalism",
+      "slug": "2026-11-15-preserving-30-years-of-salon-journalism.html",
+      "path": "posts/2026-11-15-preserving-30-years-of-salon-journalism.html",
+      "date_iso": "2026-11-15T23:00:11+00:00",
+      "source": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+      "summary": "Article URL: https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/ Comments URL: https://news.ycombinator.com/item?id=50511806 Points: 193 # Comments: 53"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/15/arts/ao3-fan-fiction-site.html",
+      "title": "Fan Fiction Site AO3 Returns, and So Do Its Readers, in Droves",
+      "slug": "2026-11-15-fan-fiction-site-ao3-returns-and-so-do-its-readers-in-droves.html",
+      "path": "posts/2026-11-15-fan-fiction-site-ao3-returns-and-so-do-its-readers-in-droves.html",
+      "date_iso": "2026-11-15T22:55:42+00:00",
+      "source": "https://www.nytimes.com/2026/11/15/arts/ao3-fan-fiction-site.html",
+      "summary": "The AO3 website was restored on Sunday, welcoming readers after an outage that started last month."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50511395",
+      "title": "Old Bitly links are being hijacked",
+      "slug": "2026-11-15-old-bitly-links-are-being-hijacked.html",
+      "path": "posts/2026-11-15-old-bitly-links-are-being-hijacked.html",
+      "date_iso": "2026-11-15T22:11:43+00:00",
+      "source": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "summary": "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/ Comments URL: https://news.ycombinator.com/item?id=50511395 Points: 350 # Comments: 181"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50510296",
+      "title": "WebGL Flight Simulator with seed generated terrain",
+      "slug": "2026-11-15-webgl-flight-simulator-with-seed-generated-terrain.html",
+      "path": "posts/2026-11-15-webgl-flight-simulator-with-seed-generated-terrain.html",
+      "date_iso": "2026-11-15T20:20:05+00:00",
+      "source": "https://baron.by.dai.studio/",
+      "summary": "Article URL: https://baron.by.dai.studio/ Comments URL: https://news.ycombinator.com/item?id=50510296 Points: 215 # Comments: 54"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50509972",
+      "title": "Handwriting, as a Font",
+      "slug": "2026-11-15-handwriting-as-a-font.html",
+      "path": "posts/2026-11-15-handwriting-as-a-font.html",
+      "date_iso": "2026-11-15T19:42:13+00:00",
+      "source": "https://ductus.sorenblank.com",
+      "summary": "Article URL: https://ductus.sorenblank.com Comments URL: https://news.ycombinator.com/item?id=50509972 Points: 400 # Comments: 70"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50509837",
+      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "slug": "2026-11-15-protomaps-self-hosting-map-tiles-has-gotten-cheap-and-easy.html",
+      "path": "posts/2026-11-15-protomaps-self-hosting-map-tiles-has-gotten-cheap-and-easy.html",
+      "date_iso": "2026-11-15T19:26:22+00:00",
+      "source": "https://bruceroettgers.eu/blog/protomaps/",
+      "summary": "Article URL: https://bruceroettgers.eu/blog/protomaps/ Comments URL: https://news.ycombinator.com/item?id=50509837 Points: 429 # Comments: 75"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50506894",
       "title": "Things That Turbo Pascal Is Smaller Than (2011)",
       "slug": "2026-11-15-things-that-turbo-pascal-is-smaller-than-2011.html",
