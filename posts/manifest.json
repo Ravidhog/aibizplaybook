@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html",
+      "title": "Jensen Huang Says He Would Return to Nvidia if Asked",
+      "slug": "2026-11-17-jensen-huang-says-he-would-return-to-nvidia-if-asked.html",
+      "path": "posts/2026-11-17-jensen-huang-says-he-would-return-to-nvidia-if-asked.html",
+      "date_iso": "2026-11-17T16:21:22+00:00",
+      "source": "https://www.nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html",
+      "summary": "Jensen Huang, the former chief executive of Nvidia."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50533571",
+      "title": "Mistral offers three months of Vibe Pro free in Europe",
+      "slug": "2026-11-17-mistral-offers-three-months-of-vibe-pro-free-in-europe.html",
+      "path": "posts/2026-11-17-mistral-offers-three-months-of-vibe-pro-free-in-europe.html",
+      "date_iso": "2026-11-17T16:15:44+00:00",
+      "source": "https://x.com/MistralAI/status/2122713540666806397",
+      "summary": "Article URL: https://x.com/MistralAI/status/2122713540666806397 Comments URL: https://news.ycombinator.com/item?id=50533571 Points: 8 # Comments: 9"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50533089",
+      "title": "NSA Internal Network Down",
+      "slug": "2026-11-17-nsa-internal-network-down.html",
+      "path": "posts/2026-11-17-nsa-internal-network-down.html",
+      "date_iso": "2026-11-17T15:50:48+00:00",
+      "source": "https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/",
+      "summary": "Article URL: https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/ Comments URL: https://news.ycombinator.com/item?id=50533089 Points: 21 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50532849",
+      "title": "Highly classified US national security communications network goes down",
+      "slug": "2026-11-17-highly-classified-us-national-security-communications-network-goes-down.html",
+      "path": "posts/2026-11-17-highly-classified-us-national-security-communications-network-goes-down.html",
+      "date_iso": "2026-11-17T15:38:28+00:00",
+      "source": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+      "summary": "Article URL: https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down Comments URL: https://news.ycombinator.com/item?id=50532849 Points: 101 # Comments: 73"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50532385",
+      "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+      "slug": "2026-11-17-show-hn-alloy-css-dialogs-menus-and-tabs-that-work-with-javascript-off.html",
+      "path": "posts/2026-11-17-show-hn-alloy-css-dialogs-menus-and-tabs-that-work-with-javascript-off.html",
+      "date_iso": "2026-11-17T15:07:09+00:00",
+      "source": "https://alloyhtml.com/example.html",
+      "summary": "Article URL: https://alloyhtml.com/example.html Comments URL: https://news.ycombinator.com/item?id=50532385 Points: 48 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50532191",
+      "title": "In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
+      "slug": "2026-11-17-in-27-280-coding-agent-runs-64-of-inference-spend-went-to-runs-that-failed.html",
+      "path": "posts/2026-11-17-in-27-280-coding-agent-runs-64-of-inference-spend-went-to-runs-that-failed.html",
+      "date_iso": "2026-11-17T14:53:43+00:00",
+      "source": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+      "summary": "Article URL: https://runta.com/blog/introducing-frontierharness-eval-v1-1/ Comments URL: https://news.ycombinator.com/item?id=50532191 Points: 72 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50532086",
+      "title": "We don't need more apps. We need better open source",
+      "slug": "2026-11-17-we-don-t-need-more-apps-we-need-better-open-source.html",
+      "path": "posts/2026-11-17-we-don-t-need-more-apps-we-need-better-open-source.html",
+      "date_iso": "2026-11-17T14:45:36+00:00",
+      "source": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
+      "summary": "Article URL: https://jordankrueger.com/blog/better-open-source-not-more-apps/ Comments URL: https://news.ycombinator.com/item?id=50532086 Points: 236 # Comments: 140"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50531761",
+      "title": "Loopholes Are for Assholes",
+      "slug": "2026-11-17-loopholes-are-for-assholes.html",
+      "path": "posts/2026-11-17-loopholes-are-for-assholes.html",
+      "date_iso": "2026-11-17T14:20:32+00:00",
+      "source": "https://actsofvolition.com/2026/11/loopholes-are-for-assholes/",
+      "summary": "Article URL: https://actsofvolition.com/2026/11/loopholes-are-for-assholes/ Comments URL: https://news.ycombinator.com/item?id=50531761 Points: 133 # Comments: 110"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50531751",
+      "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+      "slug": "2026-11-17-baidu-xiaomi-ceos-warn-of-growing-gap-between-ai-hype-and-returns.html",
+      "path": "posts/2026-11-17-baidu-xiaomi-ceos-warn-of-growing-gap-between-ai-hype-and-returns.html",
+      "date_iso": "2026-11-17T14:19:59+00:00",
+      "source": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
+      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 138 # Comments: 161"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50530163",
+      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "slug": "2026-11-17-new-evidence-shows-school-phone-bans-are-gradually-improving-test-scores.html",
+      "path": "posts/2026-11-17-new-evidence-shows-school-phone-bans-are-gradually-improving-test-scores.html",
+      "date_iso": "2026-11-17T11:45:51+00:00",
+      "source": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html Comments URL: https://news.ycombinator.com/item?id=50530163 Points: 694 # Comments: 351"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50529612",
+      "title": "How the Claude Code team thinks about verification",
+      "slug": "2026-11-17-how-the-claude-code-team-thinks-about-verification.html",
+      "path": "posts/2026-11-17-how-the-claude-code-team-thinks-about-verification.html",
+      "date_iso": "2026-11-17T10:20:40+00:00",
+      "source": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+      "summary": "Article URL: https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/ Comments URL: https://news.ycombinator.com/item?id=50529612 Points: 134 # Comments: 135"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50526560",
+      "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+      "slug": "2026-11-17-if-an-app-asks-for-full-disk-access-or-system-and-app-protection-override.html",
+      "path": "posts/2026-11-17-if-an-app-asks-for-full-disk-access-or-system-and-app-protection-override.html",
+      "date_iso": "2026-11-17T02:17:04+00:00",
+      "source": "https://support.apple.com/en-us/149699",
+      "summary": "Article URL: https://support.apple.com/en-us/149699 Comments URL: https://news.ycombinator.com/item?id=50526560 Points: 197 # Comments: 105"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html",
+      "title": "Madison Huang, Jensen Huang’s Daughter, Became a Powerful Force at Nvidia",
+      "slug": "2026-11-17-madison-huang-jensen-huang-s-daughter-became-a-powerful-force-at-nvidia.html",
+      "path": "posts/2026-11-17-madison-huang-jensen-huang-s-daughter-became-a-powerful-force-at-nvidia.html",
+      "date_iso": "2026-11-17T02:15:57+00:00",
+      "source": "https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html",
+      "summary": "Madison Huang, a senior director of product marketing at Nvidia and daughter of Jensen Huang, at the 2026 World Robot Conference, in Beijing in August."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50525575",
+      "title": "Why 3dfx 1 cards had such a washed out color output?",
+      "slug": "2026-11-17-why-3dfx-1-cards-had-such-a-washed-out-color-output.html",
+      "path": "posts/2026-11-17-why-3dfx-1-cards-had-such-a-washed-out-color-output.html",
+      "date_iso": "2026-11-17T00:16:24+00:00",
+      "source": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
+      "summary": "Article URL: https://twitter.com/id_aa_carmack/status/2122478083319992513 Comments URL: https://news.ycombinator.com/item?id=50525575 Points: 242 # Comments: 88"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50524767",
+      "title": "Optimizely compromised, served malware on Zoom, GitLab",
+      "slug": "2026-11-16-optimizely-compromised-served-malware-on-zoom-gitlab.html",
+      "path": "posts/2026-11-16-optimizely-compromised-served-malware-on-zoom-gitlab.html",
+      "date_iso": "2026-11-16T23:00:34+00:00",
+      "source": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "summary": "Article URL: https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/ Comments URL: https://news.ycombinator.com/item?id=50524767 Points: 547 # Comments: 219"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50523601",
+      "title": "BugMeNot has closed",
+      "slug": "2026-11-16-bugmenot-has-closed.html",
+      "path": "posts/2026-11-16-bugmenot-has-closed.html",
+      "date_iso": "2026-11-16T21:32:17+00:00",
+      "source": "https://www.bugmenot.com/",
+      "summary": "Article URL: https://www.bugmenot.com/ Comments URL: https://news.ycombinator.com/item?id=50523601 Points: 670 # Comments: 305"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50523025",
+      "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
+      "slug": "2026-11-16-comcast-s-fiber-powered-wi-fi-is-cable-at-t-says-in-false-advertising-case.html",
+      "path": "posts/2026-11-16-comcast-s-fiber-powered-wi-fi-is-cable-at-t-says-in-false-advertising-case.html",
+      "date_iso": "2026-11-16T20:48:08+00:00",
+      "source": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/ Comments URL: https://news.ycombinator.com/item?id=50523025 Points: 217 # Comments: 189"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50522980",
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "slug": "2026-11-16-carnegie-mellon-is-putting-computer-science-courses-on-youtube-for-free.html",
+      "path": "posts/2026-11-16-carnegie-mellon-is-putting-computer-science-courses-on-youtube-for-free.html",
+      "date_iso": "2026-11-16T20:43:36+00:00",
+      "source": "https://www.cs.cmu.edu/learn/",
+      "summary": "Article URL: https://www.cs.cmu.edu/learn/ Comments URL: https://news.ycombinator.com/item?id=50522980 Points: 2043 # Comments: 274"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50522643",
+      "title": "Chemistry is Actually Geometry",
+      "slug": "2026-11-16-chemistry-is-actually-geometry.html",
+      "path": "posts/2026-11-16-chemistry-is-actually-geometry.html",
+      "date_iso": "2026-11-16T20:22:18+00:00",
+      "source": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+      "summary": "Article URL: https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry Comments URL: https://news.ycombinator.com/item?id=50522643 Points: 298 # Comments: 127"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/16/technology/california-openai-ai-safety.html",
+      "title": "California Sues OpenAI Over A.I. Safety Issues",
+      "slug": "2026-11-16-california-sues-openai-over-a-i-safety-issues.html",
+      "path": "posts/2026-11-16-california-sues-openai-over-a-i-safety-issues.html",
+      "date_iso": "2026-11-16T19:55:37+00:00",
+      "source": "https://www.nytimes.com/2026/11/16/technology/california-openai-ai-safety.html",
+      "summary": "The report on the OpenAI agents’ behavior in the Hugging Face attack."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50520182",
+      "title": "Grazing sheep in fields with solar arrays",
+      "slug": "2026-11-16-grazing-sheep-in-fields-with-solar-arrays.html",
+      "path": "posts/2026-11-16-grazing-sheep-in-fields-with-solar-arrays.html",
+      "date_iso": "2026-11-16T17:27:46+00:00",
+      "source": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+      "summary": "Article URL: https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains Comments URL: https://news.ycombinator.com/item?id=50520182 Points: 313 # Comments: 316"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50519744",
+      "title": "Jiff 1.0: A datetime library for Rust",
+      "slug": "2026-11-16-jiff-1-0-a-datetime-library-for-rust.html",
+      "path": "posts/2026-11-16-jiff-1-0-a-datetime-library-for-rust.html",
+      "date_iso": "2026-11-16T16:53:39+00:00",
+      "source": "https://burntsushi.net/jiff/",
+      "summary": "Article URL: https://burntsushi.net/jiff/ Comments URL: https://news.ycombinator.com/item?id=50519744 Points: 423 # Comments: 91"
+    },
+    {
       "id": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html",
       "title": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip",
       "slug": "2026-11-16-trump-administration-moves-to-close-a-i-chip-loophole-ahead-of-china-trip.html",
@@ -8,6 +206,15 @@
       "date_iso": "2026-11-16T16:35:00+00:00",
       "source": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html",
       "summary": "A Megaspeed data center under construction in Johor, Malaysia."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50519354",
+      "title": "Frame – 31.5\" color ePaper display",
+      "slug": "2026-11-16-frame-31-5-color-epaper-display.html",
+      "path": "posts/2026-11-16-frame-31-5-color-epaper-display.html",
+      "date_iso": "2026-11-16T16:23:22+00:00",
+      "source": "https://trmnl.com/blog/introducing-frame",
+      "summary": "Article URL: https://trmnl.com/blog/introducing-frame Comments URL: https://news.ycombinator.com/item?id=50519354 Points: 499 # Comments: 362"
     },
     {
       "id": "https://news.ycombinator.com/item?id=50518567",
