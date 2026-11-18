@@ -1,6 +1,195 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=50547620",
+      "title": "Deutsche Bank",
+      "slug": "2026-11-18-deutsche-bank.html",
+      "path": "posts/2026-11-18-deutsche-bank.html",
+      "date_iso": "2026-11-18T15:38:33+00:00",
+      "source": "https://www.inside-db.com/",
+      "summary": "Article URL: https://www.inside-db.com/ Comments URL: https://news.ycombinator.com/item?id=50547620 Points: 25 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50547583",
+      "title": "U.S. AirForce is looking for old storage Media (CF or PC cards)",
+      "slug": "2026-11-18-u-s-airforce-is-looking-for-old-storage-media-cf-or-pc-cards.html",
+      "path": "posts/2026-11-18-u-s-airforce-is-looking-for-old-storage-media-cf-or-pc-cards.html",
+      "date_iso": "2026-11-18T15:35:44+00:00",
+      "source": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
+      "summary": "Article URL: https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view Comments URL: https://news.ycombinator.com/item?id=50547583 Points: 11 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50547374",
+      "title": "Pre-auth RCE in Nginx HTTP/2 handling",
+      "slug": "2026-11-18-pre-auth-rce-in-nginx-http-2-handling.html",
+      "path": "posts/2026-11-18-pre-auth-rce-in-nginx-http-2-handling.html",
+      "date_iso": "2026-11-18T15:19:55+00:00",
+      "source": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+      "summary": "Article URL: https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities Comments URL: https://news.ycombinator.com/item?id=50547374 Points: 82 # Comments: 24"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50547344",
+      "title": "Poland says it thwarted false flag operation near border with Kaliningrad",
+      "slug": "2026-11-18-poland-says-it-thwarted-false-flag-operation-near-border-with-kaliningrad.html",
+      "path": "posts/2026-11-18-poland-says-it-thwarted-false-flag-operation-near-border-with-kaliningrad.html",
+      "date_iso": "2026-11-18T15:18:30+00:00",
+      "source": "https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html",
+      "summary": "Article URL: https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html Comments URL: https://news.ycombinator.com/item?id=50547344 Points: 37 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50546967",
+      "title": "The x86 CPU: From 4004 to 486",
+      "slug": "2026-11-18-the-x86-cpu-from-4004-to-486.html",
+      "path": "posts/2026-11-18-the-x86-cpu-from-4004-to-486.html",
+      "date_iso": "2026-11-18T14:47:53+00:00",
+      "source": "https://pikuma.com/blog/history-of-x86-4004-to-486",
+      "summary": "Article URL: https://pikuma.com/blog/history-of-x86-4004-to-486 Comments URL: https://news.ycombinator.com/item?id=50546967 Points: 15 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50546922",
+      "title": "A Primer on Fourier Series",
+      "slug": "2026-11-18-a-primer-on-fourier-series.html",
+      "path": "posts/2026-11-18-a-primer-on-fourier-series.html",
+      "date_iso": "2026-11-18T14:44:33+00:00",
+      "source": "https://arxiv.org/abs/2510.18203",
+      "summary": "Article URL: https://arxiv.org/abs/2510.18203 Comments URL: https://news.ycombinator.com/item?id=50546922 Points: 9 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50546914",
+      "title": "'Human' Is Cambridge Dictionary's Word of the Year 2026",
+      "slug": "2026-11-18-human-is-cambridge-dictionary-s-word-of-the-year-2026.html",
+      "path": "posts/2026-11-18-human-is-cambridge-dictionary-s-word-of-the-year-2026.html",
+      "date_iso": "2026-11-18T14:43:52+00:00",
+      "source": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+      "summary": "Article URL: https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026 Comments URL: https://news.ycombinator.com/item?id=50546914 Points: 73 # Comments: 51"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50546465",
+      "title": "Energy drinks linked to 11 times more reports of cardiac arrest",
+      "slug": "2026-11-18-energy-drinks-linked-to-11-times-more-reports-of-cardiac-arrest.html",
+      "path": "posts/2026-11-18-energy-drinks-linked-to-11-times-more-reports-of-cardiac-arrest.html",
+      "date_iso": "2026-11-18T14:03:37+00:00",
+      "source": "https://www.sciencedaily.com/releases/2026/11/261110042543.htm",
+      "summary": "Article URL: https://www.sciencedaily.com/releases/2026/11/261110042543.htm Comments URL: https://news.ycombinator.com/item?id=50546465 Points: 80 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50546312",
+      "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
+      "slug": "2026-11-18-can-peer-review-survive-ai-generated-text-pdf.html",
+      "path": "posts/2026-11-18-can-peer-review-survive-ai-generated-text-pdf.html",
+      "date_iso": "2026-11-18T13:51:03+00:00",
+      "source": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
+      "summary": "Article URL: https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf Comments URL: https://news.ycombinator.com/item?id=50546312 Points: 55 # Comments: 66"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50545958",
+      "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
+      "slug": "2026-11-18-quad9-is-leaving-france-why-dns-resolvers-are-the-wrong-place-to-fight-piracy.html",
+      "path": "posts/2026-11-18-quad9-is-leaving-france-why-dns-resolvers-are-the-wrong-place-to-fight-piracy.html",
+      "date_iso": "2026-11-18T13:18:02+00:00",
+      "source": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+      "summary": "Article URL: https://techstackups.com/articles/quad9-leaves-france-dns-blocking/ Comments URL: https://news.ycombinator.com/item?id=50545958 Points: 276 # Comments: 66"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50545238",
+      "title": "Evidence (YC S21) Is Hiring",
+      "slug": "2026-11-18-evidence-yc-s21-is-hiring.html",
+      "path": "posts/2026-11-18-evidence-yc-s21-is-hiring.html",
+      "date_iso": "2026-11-18T12:00:16+00:00",
+      "source": "https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead",
+      "summary": "Article URL: https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead Comments URL: https://news.ycombinator.com/item?id=50545238 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50544821",
+      "title": "Show HN: Type Fighter 2",
+      "slug": "2026-11-18-show-hn-type-fighter-2.html",
+      "path": "posts/2026-11-18-show-hn-type-fighter-2.html",
+      "date_iso": "2026-11-18T11:11:53+00:00",
+      "source": "https://typefighter2.com/",
+      "summary": "Type Fighter II is an arcade inspired game for people learning to touch type. Free, no account, and progress stays local. You can try on mobile, best with a physical keyboard. Comments URL: https://news.ycombinator.com/item?id=50544821 Points: 68 # Comments: 30"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50543989",
+      "title": "Energy-Based Reasoners: 385x more efficient inference",
+      "slug": "2026-11-18-energy-based-reasoners-385x-more-efficient-inference.html",
+      "path": "posts/2026-11-18-energy-based-reasoners-385x-more-efficient-inference.html",
+      "date_iso": "2026-11-18T09:29:32+00:00",
+      "source": "https://energy-based-reasoners.github.io/",
+      "summary": "Article URL: https://energy-based-reasoners.github.io/ Comments URL: https://news.ycombinator.com/item?id=50543989 Points: 227 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50541790",
+      "title": "Why is Gemini 4 Carbon taking so long?",
+      "slug": "2026-11-18-why-is-gemini-4-carbon-taking-so-long.html",
+      "path": "posts/2026-11-18-why-is-gemini-4-carbon-taking-so-long.html",
+      "date_iso": "2026-11-18T04:14:04+00:00",
+      "source": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+      "summary": "Article URL: https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/ Comments URL: https://news.ycombinator.com/item?id=50541790 Points: 220 # Comments: 112"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50541619",
+      "title": "Claude was trained on protein sequences at scale",
+      "slug": "2026-11-18-claude-was-trained-on-protein-sequences-at-scale.html",
+      "path": "posts/2026-11-18-claude-was-trained-on-protein-sequences-at-scale.html",
+      "date_iso": "2026-11-18T03:47:43+00:00",
+      "source": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+      "summary": "Article URL: http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/ Comments URL: https://news.ycombinator.com/item?id=50541619 Points: 130 # Comments: 58"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50540437",
+      "title": "ID.me terms required for IRS sign-in",
+      "slug": "2026-11-18-id-me-terms-required-for-irs-sign-in.html",
+      "path": "posts/2026-11-18-id-me-terms-required-for-irs-sign-in.html",
+      "date_iso": "2026-11-18T00:51:45+00:00",
+      "source": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+      "summary": "Article URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in Comments URL: https://news.ycombinator.com/item?id=50540437 Points: 444 # Comments: 230"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50540178",
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "slug": "2026-11-18-google-s-ai-answers-reducing-search-traffic-by-40.html",
+      "path": "posts/2026-11-18-google-s-ai-answers-reducing-search-traffic-by-40.html",
+      "date_iso": "2026-11-18T00:17:58+00:00",
+      "source": "https://revscope.co/blog/search-seo-geo-2026/",
+      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 625 # Comments: 473"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50539747",
+      "title": "Archive Team is archiving the Apple Support Community",
+      "slug": "2026-11-17-archive-team-is-archiving-the-apple-support-community.html",
+      "path": "posts/2026-11-17-archive-team-is-archiving-the-apple-support-community.html",
+      "date_iso": "2026-11-17T23:32:58+00:00",
+      "source": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+      "summary": "Article URL: https://wiki.archiveteam.org/index.php/Apple_Discussions Comments URL: https://news.ycombinator.com/item?id=50539747 Points: 248 # Comments: 101"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50539610",
+      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+      "slug": "2026-11-17-microsoft-s-onnx-runtime-has-disappeared-from-github.html",
+      "path": "posts/2026-11-17-microsoft-s-onnx-runtime-has-disappeared-from-github.html",
+      "date_iso": "2026-11-17T23:18:49+00:00",
+      "source": "https://github.com/microsoft/onnxruntime",
+      "summary": "Article URL: https://github.com/microsoft/onnxruntime Comments URL: https://news.ycombinator.com/item?id=50539610 Points: 418 # Comments: 85"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html",
+      "title": "Apple Addresses Outages Affecting Apple Pay, iCloud and Apps",
+      "slug": "2026-11-17-apple-addresses-outages-affecting-apple-pay-icloud-and-apps.html",
+      "path": "posts/2026-11-17-apple-addresses-outages-affecting-apple-pay-icloud-and-apps.html",
+      "date_iso": "2026-11-17T23:17:38+00:00",
+      "source": "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html",
+      "summary": "Apple said it was addressing problems with its systems after an internal update caused outages to some of its services."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50538303",
+      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "slug": "2026-11-17-harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review.html",
+      "path": "posts/2026-11-17-harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review.html",
+      "date_iso": "2026-11-17T21:16:12+00:00",
+      "source": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 282 # Comments: 368"
+    },
+    {
       "id": "https://www.nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html",
       "title": "Jensen Huang Says He Would Return to Nvidia if Asked",
       "slug": "2026-11-17-jensen-huang-says-he-would-return-to-nvidia-if-asked.html",
@@ -98,6 +287,15 @@
       "date_iso": "2026-11-17T10:20:40+00:00",
       "source": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
       "summary": "Article URL: https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/ Comments URL: https://news.ycombinator.com/item?id=50529612 Points: 134 # Comments: 135"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/17/fashion/optical-atomic-clocks-rolex.html",
+      "title": "A More Precise Clock Is on Its Way",
+      "slug": "2026-11-17-a-more-precise-clock-is-on-its-way.html",
+      "path": "posts/2026-11-17-a-more-precise-clock-is-on-its-way.html",
+      "date_iso": "2026-11-17T10:00:32+00:00",
+      "source": "https://www.nytimes.com/2026/11/17/fashion/optical-atomic-clocks-rolex.html",
+      "summary": "To measure time, optical clocks use a laser to probe atoms that have been isolated and cooled to a near standstill. The photo shows compact lasers made by the Finnish company Vexlum, which is working with Menlo Systems on commercial production of an optical clock."
     },
     {
       "id": "https://news.ycombinator.com/item?id=50526560",
