@@ -1,6 +1,339 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=50561515",
+      "title": "I built Cornhole News. A Hacker News inspired site for news across the Midwest",
+      "slug": "2026-11-19-i-built-cornhole-news-a-hacker-news-inspired-site-for-news-across-the-midwest.html",
+      "path": "posts/2026-11-19-i-built-cornhole-news-a-hacker-news-inspired-site-for-news-across-the-midwest.html",
+      "date_iso": "2026-11-19T15:38:32+00:00",
+      "source": "https://cornholenews.news",
+      "summary": "Article URL: https://cornholenews.news Comments URL: https://news.ycombinator.com/item?id=50561515 Points: 6 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50561508",
+      "title": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+      "slug": "2026-11-19-why-ai-wants-to-be-local-with-pete-warden-creator-of-moonshine-voice.html",
+      "path": "posts/2026-11-19-why-ai-wants-to-be-local-with-pete-warden-creator-of-moonshine-voice.html",
+      "date_iso": "2026-11-19T15:38:12+00:00",
+      "source": "https://thedataexchange.media/pete-warden-moonshine/",
+      "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 16 # Comments: 4"
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/some-of-the-gulfs-largest-investors-have-put-big-bets-on-anthropic",
+      "title": "Some of the Gulf’s largest investors have put big bets on Anthropic.",
+      "slug": "2026-11-19-some-of-the-gulf-s-largest-investors-have-put-big-bets-on-anthropic.html",
+      "path": "posts/2026-11-19-some-of-the-gulf-s-largest-investors-have-put-big-bets-on-anthropic.html",
+      "date_iso": "2026-11-19T15:35:29+00:00",
+      "source": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/some-of-the-gulfs-largest-investors-have-put-big-bets-on-anthropic",
+      "summary": "MGX, an Abu Dhabi-based investment firm, co-led a multibillion-dollar funding round for Anthropic earlier this year."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50561436",
+      "title": "Show HN: Watch weight-space programming in action with WebGPU",
+      "slug": "2026-11-19-show-hn-watch-weight-space-programming-in-action-with-webgpu.html",
+      "path": "posts/2026-11-19-show-hn-watch-weight-space-programming-in-action-with-webgpu.html",
+      "date_iso": "2026-11-19T15:32:47+00:00",
+      "source": "https://tabbyml.github.io/weight-space-playground/",
+      "summary": "I wanted to build a full weight-space programming loop entirely in the browser with WebGPU: let an LLM inspect Qwen3.5-0.8B, edit its weights, evaluate, and repeat. the full loop needed too much VRAM. so I turned it into an interactive walkthrough of a concrete example: editing…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/18/technology/tech-outages-emergency-prep.html",
+      "title": "Tech Outages May Become Routine. Experts Say Don’t Panic, but Prepare.",
+      "slug": "2026-11-19-tech-outages-may-become-routine-experts-say-don-t-panic-but-prepare.html",
+      "path": "posts/2026-11-19-tech-outages-may-become-routine-experts-say-don-t-panic-but-prepare.html",
+      "date_iso": "2026-11-19T15:28:55+00:00",
+      "source": "https://www.nytimes.com/2026/11/18/technology/tech-outages-emergency-prep.html",
+      "summary": "The federal government’s disaster preparedness initiative, Ready.gov, suggests creating a paper copy of important phone numbers."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html",
+      "title": "Google Disrupts Its Search Advertising With Its Embrace of A.I.",
+      "slug": "2026-11-19-google-disrupts-its-search-advertising-with-its-embrace-of-a-i.html",
+      "path": "posts/2026-11-19-google-disrupts-its-search-advertising-with-its-embrace-of-a-i.html",
+      "date_iso": "2026-11-19T15:16:40+00:00",
+      "source": "https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html",
+      "summary": "The Silicon Valley giant’s search advertising has long fueled the company. But its search ad growth is slowing as A.I. becomes more prevalent."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50561170",
+      "title": "How to Make the Ink Used to Write Hamlet and the Declaration of Independence",
+      "slug": "2026-11-19-how-to-make-the-ink-used-to-write-hamlet-and-the-declaration-of-independence.html",
+      "path": "posts/2026-11-19-how-to-make-the-ink-used-to-write-hamlet-and-the-declaration-of-independence.html",
+      "date_iso": "2026-11-19T15:13:23+00:00",
+      "source": "https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/",
+      "summary": "Article URL: https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/ Comments URL: https://news.ycombinator.com/item?id=50561170 Points: 7 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50560955",
+      "title": "Cooling buildings is overtaking heating them as an energy need, IEA says",
+      "slug": "2026-11-19-cooling-buildings-is-overtaking-heating-them-as-an-energy-need-iea-says.html",
+      "path": "posts/2026-11-19-cooling-buildings-is-overtaking-heating-them-as-an-energy-need-iea-says.html",
+      "date_iso": "2026-11-19T14:57:14+00:00",
+      "source": "https://maccus.fr/en/cooling-overtaking-heating/",
+      "summary": "Article URL: https://maccus.fr/en/cooling-overtaking-heating/ Comments URL: https://news.ycombinator.com/item?id=50560955 Points: 25 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50560822",
+      "title": "Everything you need to survive and rebuild society",
+      "slug": "2026-11-19-everything-you-need-to-survive-and-rebuild-society.html",
+      "path": "posts/2026-11-19-everything-you-need-to-survive-and-rebuild-society.html",
+      "date_iso": "2026-11-19T14:47:18+00:00",
+      "source": "https://lastbook.org/",
+      "summary": "Article URL: https://lastbook.org/ Comments URL: https://news.ycombinator.com/item?id=50560822 Points: 55 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50560795",
+      "title": "Germany and Austria Call for European Control of TikTok",
+      "slug": "2026-11-19-germany-and-austria-call-for-european-control-of-tiktok.html",
+      "path": "posts/2026-11-19-germany-and-austria-call-for-european-control-of-tiktok.html",
+      "date_iso": "2026-11-19T14:44:50+00:00",
+      "source": "https://www.techcentral.ie/germany-and-austria-call-for-european-control-of-tiktok/",
+      "summary": "Article URL: https://www.techcentral.ie/germany-and-austria-call-for-european-control-of-tiktok/ Comments URL: https://news.ycombinator.com/item?id=50560795 Points: 59 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50560461",
+      "title": "OpenAI still has a WebRTC Problem",
+      "slug": "2026-11-19-openai-still-has-a-webrtc-problem.html",
+      "path": "posts/2026-11-19-openai-still-has-a-webrtc-problem.html",
+      "date_iso": "2026-11-19T14:20:08+00:00",
+      "source": "https://moq.dev/blog/webrtc-is-still-the-problem/",
+      "summary": "Article URL: https://moq.dev/blog/webrtc-is-still-the-problem/ Comments URL: https://news.ycombinator.com/item?id=50560461 Points: 48 # Comments: 15"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html",
+      "title": "Dustin Moskovitz, an Early Anthropic Investor, Feels a Bit Uneasy About the IPO",
+      "slug": "2026-11-19-dustin-moskovitz-an-early-anthropic-investor-feels-a-bit-uneasy-about-the-ipo.html",
+      "path": "posts/2026-11-19-dustin-moskovitz-an-early-anthropic-investor-feels-a-bit-uneasy-about-the-ipo.html",
+      "date_iso": "2026-11-19T13:28:13+00:00",
+      "source": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html",
+      "summary": "An early investment that Facebook co-founder Dustin Moskovitz made in Anthropic is paying off. But it’s not making him happy."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50559749",
+      "title": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
+      "slug": "2026-11-19-show-hn-foolscap-a-writing-app-that-reads-your-book-and-never-writes-for-you.html",
+      "path": "posts/2026-11-19-show-hn-foolscap-a-writing-app-that-reads-your-book-and-never-writes-for-you.html",
+      "date_iso": "2026-11-19T13:21:20+00:00",
+      "source": "https://foolscap.works/",
+      "summary": "People are scared of their ability to write and think atrophying, so I wondered: what if I built something that enhanced human creativity instead of destroying it by doing the thinking and writing for people? Foolscap is the result, or at least the first version of that idea tha…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
+      "title": "Anthropic’s Trillion-Dollar Debut Is Watershed Moment for A.I.’s Risks and Rewards",
+      "slug": "2026-11-19-anthropic-s-trillion-dollar-debut-is-watershed-moment-for-a-i-s-risks-and-rewards.html",
+      "path": "posts/2026-11-19-anthropic-s-trillion-dollar-debut-is-watershed-moment-for-a-i-s-risks-and-rewards.html",
+      "date_iso": "2026-11-19T13:20:40+00:00",
+      "source": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
+      "summary": "Anthropic’s arrival on the Nasdaq coincides with a moment of heightened scrutiny around A.I. and its pioneers."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50559719",
+      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+      "slug": "2026-11-19-making-8-page-foldable-zines-from-a-single-a4-sheet-in-the-browser.html",
+      "path": "posts/2026-11-19-making-8-page-foldable-zines-from-a-single-a4-sheet-in-the-browser.html",
+      "date_iso": "2026-11-19T13:18:11+00:00",
+      "source": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
+      "summary": "Article URL: https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/ Comments URL: https://news.ycombinator.com/item?id=50559719 Points: 88 # Comments: 25"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50559179",
+      "title": "Unblockable communication with gravity – Science Advances",
+      "slug": "2026-11-19-unblockable-communication-with-gravity-science-advances.html",
+      "path": "posts/2026-11-19-unblockable-communication-with-gravity-science-advances.html",
+      "date_iso": "2026-11-19T12:22:00+00:00",
+      "source": "https://www.science.org/doi/10.1126/sciadv.aee0802",
+      "summary": "Article URL: https://www.science.org/doi/10.1126/sciadv.aee0802 Comments URL: https://news.ycombinator.com/item?id=50559179 Points: 44 # Comments: 14"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50558906",
+      "title": "Someone reported java4shell bug in September 2026",
+      "slug": "2026-11-19-someone-reported-java4shell-bug-in-september-2026.html",
+      "path": "posts/2026-11-19-someone-reported-java4shell-bug-in-september-2026.html",
+      "date_iso": "2026-11-19T11:47:03+00:00",
+      "source": "https://github.com/openjdk/jdk/pull/32781",
+      "summary": "Article URL: https://github.com/openjdk/jdk/pull/32781 Comments URL: https://news.ycombinator.com/item?id=50558906 Points: 110 # Comments: 27"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/19/podcasts/the-daily/tech-outages-internet.html",
+      "title": "‘Did A.I. Break the Internet?’ and Other Things We’ve Worried About This Week",
+      "slug": "2026-11-19-did-a-i-break-the-internet-and-other-things-we-ve-worried-about-this-week.html",
+      "path": "posts/2026-11-19-did-a-i-break-the-internet-and-other-things-we-ve-worried-about-this-week.html",
+      "date_iso": "2026-11-19T11:00:14+00:00",
+      "source": "https://www.nytimes.com/2026/11/19/podcasts/the-daily/tech-outages-internet.html",
+      "summary": "Ronald Reagan Washington National Airport in Arlington, Va. last week, during the F.A.A.’s nationwide grounding of flights."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50558533",
+      "title": "How the European Commission rolled out Matrix to more than 40k staff",
+      "slug": "2026-11-19-how-the-european-commission-rolled-out-matrix-to-more-than-40k-staff.html",
+      "path": "posts/2026-11-19-how-the-european-commission-rolled-out-matrix-to-more-than-40k-staff.html",
+      "date_iso": "2026-11-19T10:58:29+00:00",
+      "source": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+      "summary": "Article URL: https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/ Comments URL: https://news.ycombinator.com/item?id=50558533 Points: 447 # Comments: 224"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50557870",
+      "title": "What's New in PHP 8.6",
+      "slug": "2026-11-19-what-s-new-in-php-8-6.html",
+      "path": "posts/2026-11-19-what-s-new-in-php-8-6.html",
+      "date_iso": "2026-11-19T09:27:15+00:00",
+      "source": "https://www.php.net/releases/8.6/en.php",
+      "summary": "Article URL: https://www.php.net/releases/8.6/en.php Comments URL: https://news.ycombinator.com/item?id=50557870 Points: 186 # Comments: 96"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50557716",
+      "title": "SSD prices will start going down the second half of next year",
+      "slug": "2026-11-19-ssd-prices-will-start-going-down-the-second-half-of-next-year.html",
+      "path": "posts/2026-11-19-ssd-prices-will-start-going-down-the-second-half-of-next-year.html",
+      "date_iso": "2026-11-19T09:05:34+00:00",
+      "source": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
+      "summary": "Article URL: https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html Comments URL: https://news.ycombinator.com/item?id=50557716 Points: 213 # Comments: 180"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50557661",
+      "title": "Do not buy RAM, compress",
+      "slug": "2026-11-19-do-not-buy-ram-compress.html",
+      "path": "posts/2026-11-19-do-not-buy-ram-compress.html",
+      "date_iso": "2026-11-19T08:56:47+00:00",
+      "source": "https://curiousbits.nl/blog/do-not-buy-ram-compress/",
+      "summary": "Article URL: https://curiousbits.nl/blog/do-not-buy-ram-compress/ Comments URL: https://news.ycombinator.com/item?id=50557661 Points: 83 # Comments: 82"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/18/us/gta-6-sick-work-school.html",
+      "title": "‘GTA Flu’ Has Schools and Jobs Bracing for Sick Days",
+      "slug": "2026-11-19-gta-flu-has-schools-and-jobs-bracing-for-sick-days.html",
+      "path": "posts/2026-11-19-gta-flu-has-schools-and-jobs-bracing-for-sick-days.html",
+      "date_iso": "2026-11-19T08:53:03+00:00",
+      "source": "https://www.nytimes.com/2026/11/18/us/gta-6-sick-work-school.html",
+      "summary": "Grand Theft Auto VI is rolling out worldwide on Thursday."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50557537",
+      "title": "Distributed, high-performance blob storage on SQLite",
+      "slug": "2026-11-19-distributed-high-performance-blob-storage-on-sqlite.html",
+      "path": "posts/2026-11-19-distributed-high-performance-blob-storage-on-sqlite.html",
+      "date_iso": "2026-11-19T08:39:45+00:00",
+      "source": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+      "summary": "Article URL: https://zerodha.tech/blog/high-performance-distributed-blob-storage/ Comments URL: https://news.ycombinator.com/item?id=50557537 Points: 169 # Comments: 38"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50556533",
+      "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+      "slug": "2026-11-19-15m-web-servers-on-one-vm-smoltcp-dpdk-af-xdp.html",
+      "path": "posts/2026-11-19-15m-web-servers-on-one-vm-smoltcp-dpdk-af-xdp.html",
+      "date_iso": "2026-11-19T05:56:36+00:00",
+      "source": "https://kapteko.com/15-million-webservers/",
+      "summary": "Article URL: https://kapteko.com/15-million-webservers/ Comments URL: https://news.ycombinator.com/item?id=50556533 Points: 278 # Comments: 32"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html",
+      "title": "What Nvidia’s Interim CEO, Colette Kress, Said to Employees After Jensen Huang’s Resignation",
+      "slug": "2026-11-19-what-nvidia-s-interim-ceo-colette-kress-said-to-employees-after-jensen-huang-s-resignation.html",
+      "path": "posts/2026-11-19-what-nvidia-s-interim-ceo-colette-kress-said-to-employees-after-jensen-huang-s-resignation.html",
+      "date_iso": "2026-11-19T05:11:13+00:00",
+      "source": "https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html",
+      "summary": "Nvidia’s market value, which was within a whisper of $6 trillion a month ago, has plummeted to $3.66 trillion."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50556287",
+      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "slug": "2026-11-19-ruby2-hell-pre-authentication-rce-on-stock-rails.html",
+      "path": "posts/2026-11-19-ruby2-hell-pre-authentication-rce-on-stock-rails.html",
+      "date_iso": "2026-11-19T05:09:11+00:00",
+      "source": "https://verialabs.com/ruby2shell/",
+      "summary": "Article URL: https://verialabs.com/ruby2shell/ Comments URL: https://news.ycombinator.com/item?id=50556287 Points: 285 # Comments: 116"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/19/business/energy-environment/gas-prices-iran-war-driving-callout.html",
+      "title": "Have High Gas Prices Made You Change How You Drive? Tell Us About It.",
+      "slug": "2026-11-19-have-high-gas-prices-made-you-change-how-you-drive-tell-us-about-it.html",
+      "path": "posts/2026-11-19-have-high-gas-prices-made-you-change-how-you-drive-tell-us-about-it.html",
+      "date_iso": "2026-11-19T05:00:13+00:00",
+      "source": "https://www.nytimes.com/2026/11/19/business/energy-environment/gas-prices-iran-war-driving-callout.html",
+      "summary": "Fuel prices rose sharply after the United States and Israel began attacking Iran in February."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html",
+      "title": "How Nvidia Chips Ended Up Within Reach of China’s Military",
+      "slug": "2026-11-19-how-nvidia-chips-ended-up-within-reach-of-china-s-military.html",
+      "path": "posts/2026-11-19-how-nvidia-chips-ended-up-within-reach-of-china-s-military.html",
+      "date_iso": "2026-11-19T04:13:05+00:00",
+      "source": "https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html",
+      "summary": "Alibaba is an internet powerhouse, with a wide range of businesses."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/18/business/dealbook/elon-musk-midterms.html",
+      "title": "Elon Musk Plays Down G.O.P. Support After Midterm Loss",
+      "slug": "2026-11-19-elon-musk-plays-down-g-o-p-support-after-midterm-loss.html",
+      "path": "posts/2026-11-19-elon-musk-plays-down-g-o-p-support-after-midterm-loss.html",
+      "date_iso": "2026-11-19T00:58:47+00:00",
+      "source": "https://www.nytimes.com/2026/11/18/business/dealbook/elon-musk-midterms.html",
+      "summary": "“There are positives and negatives in both parties,” Elon Musk said at the DealBook Summit, appearing remotely from China."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/18/technology/anthropic-ipo-pricing.html",
+      "title": "Anthropic Sells $81.3 Billion in Shares for a Record IPO",
+      "slug": "2026-11-19-anthropic-sells-81-3-billion-in-shares-for-a-record-ipo.html",
+      "path": "posts/2026-11-19-anthropic-sells-81-3-billion-in-shares-for-a-record-ipo.html",
+      "date_iso": "2026-11-19T00:41:26+00:00",
+      "source": "https://www.nytimes.com/2026/11/18/technology/anthropic-ipo-pricing.html",
+      "summary": "Anthropic, which makes the Claude chatbot, had set a preliminary price range of $70 to $78 a share, raising it to $83."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/18/business/dealbook/microsoft-satya-nadella-outages-ai.html",
+      "title": "A.I. Makes More Tech Outages Likely, Microsoft’s Chief Warns",
+      "slug": "2026-11-18-a-i-makes-more-tech-outages-likely-microsoft-s-chief-warns.html",
+      "path": "posts/2026-11-18-a-i-makes-more-tech-outages-likely-microsoft-s-chief-warns.html",
+      "date_iso": "2026-11-18T23:58:15+00:00",
+      "source": "https://www.nytimes.com/2026/11/18/business/dealbook/microsoft-satya-nadella-outages-ai.html",
+      "summary": "Satya Nadella, right, Microsoft’s chief executive, said tech companies had less time to test patches, which could lead to buggy updates."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50554038",
+      "title": "Multiple vulnerabilities in Regexp and String case conversion",
+      "slug": "2026-11-18-multiple-vulnerabilities-in-regexp-and-string-case-conversion.html",
+      "path": "posts/2026-11-18-multiple-vulnerabilities-in-regexp-and-string-case-conversion.html",
+      "date_iso": "2026-11-18T23:52:50+00:00",
+      "source": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+      "summary": "Article URL: https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/ Comments URL: https://news.ycombinator.com/item?id=50554038 Points: 313 # Comments: 120"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/18/insider/nvidia-jensen-huang-spying-plot.html",
+      "title": "How We Broke Open the Nvidia Investigation",
+      "slug": "2026-11-18-how-we-broke-open-the-nvidia-investigation.html",
+      "path": "posts/2026-11-18-how-we-broke-open-the-nvidia-investigation.html",
+      "date_iso": "2026-11-18T23:52:05+00:00",
+      "source": "https://www.nytimes.com/2026/11/18/insider/nvidia-jensen-huang-spying-plot.html",
+      "summary": "“I was unfaithful to my wife,” Jensen Huang, Nvidia’s chief executive, said in a message to the company. “My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry.”"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html",
+      "title": "NYC, LA and Chicago School Districts Weigh Breaking Up With Google Search Over A.I.",
+      "slug": "2026-11-18-nyc-la-and-chicago-school-districts-weigh-breaking-up-with-google-search-over-a-i.html",
+      "path": "posts/2026-11-18-nyc-la-and-chicago-school-districts-weigh-breaking-up-with-google-search-over-a-i.html",
+      "date_iso": "2026-11-18T23:23:06+00:00",
+      "source": "https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html",
+      "summary": "Google’s refusal to unbundle A.I. features from search for students prompted a backlash. Now schools are looking for alternatives."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/18/science/ai-artificial-intelligence-terminology-glossary.html",
+      "title": "A.I. Has Changed How We Talk. Here Are the Words You Need to Know.",
+      "slug": "2026-11-18-a-i-has-changed-how-we-talk-here-are-the-words-you-need-to-know.html",
+      "path": "posts/2026-11-18-a-i-has-changed-how-we-talk-here-are-the-words-you-need-to-know.html",
+      "date_iso": "2026-11-18T21:41:35+00:00",
+      "source": "https://www.nytimes.com/2026/11/18/science/ai-artificial-intelligence-terminology-glossary.html",
+      "summary": "A Glossary of AI Terms You Should Know"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/18/business/dealbook/openai-sam-altman-greg-brockman.html",
+      "title": "OpenAI Executives Say They Have to Strike a Balance Between A.I. Safety and Progress",
+      "slug": "2026-11-18-openai-executives-say-they-have-to-strike-a-balance-between-a-i-safety-and-progress.html",
+      "path": "posts/2026-11-18-openai-executives-say-they-have-to-strike-a-balance-between-a-i-safety-and-progress.html",
+      "date_iso": "2026-11-18T18:10:04+00:00",
+      "source": "https://www.nytimes.com/2026/11/18/business/dealbook/openai-sam-altman-greg-brockman.html",
+      "summary": "The company’s C.E.O., Sam Altman, and president, Greg Brockman, said they cannot “make everybody happy.”"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50547620",
       "title": "Deutsche Bank",
       "slug": "2026-11-18-deutsche-bank.html",
