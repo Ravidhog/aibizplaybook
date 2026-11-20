@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Show HN: Fast deterministic natural language search for OpenStreetMap data</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Show HN: Fast deterministic natural language search for OpenStreetMap data</h1>
+    <p><small>Published: 2026-11-19T15:16:02+00:00</small></p>
+  </header>
+
+  <main>
+    <p>I want to show you HippoMaps. It is a fully featured map and navigation app built on OpenStreetMap with a custom Overpass API engine for really fast search of POIs, areas and ways.<p>My aim with HippoMaps is to get to a level where I don't need Google Maps anymore. The biggest hurdle IMHO with OSM based apps is the lack of nice and fast search (where GMaps excels at). To get there I started working on a deterministic (as in no LLMs used) parser of queries that translates them to the Overpass QL.<p>Search queries are split into tokens and the algorithm tries to guess "what" you want to search and "where". The former comes from a word list (known brands, sports, OSM tags) and the latter from the geocoder service (Photon).<p>You can get quite creative like "cafes in Zurich by the Limmat", "peaks over 4000 m in Valais", "pharmacies open now in Bern". It's good for discovering hiking trails, e.g. "hiking trails from Arth-Goldau to Rigi Kulm". It knows how to find stuff between two places, next to a place, near a place and so on. You can stack those as well like "bridges over the danube in serbia 50 km from novi sad".<p>Except the search it has almost all of the features you would expect from a map like turn-by-turn navigation (Valhalla) with voice (Piper), public transport navigation in Europe (MOTIS), live traffic (only a few countries so far).<p>The app is GPL-3.0: <a href="https://github.com/cdutsov/hippomaps" rel="nofollow">https://github.com/cdutsov/hippomaps</a><p>I'm looking forward to feedback on searches that work or don't work for you + overall comments.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50561199">https://news.ycombinator.com/item?id=50561199</a></p>
+<p>Points: 80</p>
+<p># Comments: 24</p>
+    <p><a href="https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935" rel="noopener noreferrer">Source</a></p>
+  </main>
+
+  <aside>
+    <!-- Paste AdSense snippet here -->
+
+  </aside>
+
+  <script src="/site.js"></script>
+</body>
+</html>

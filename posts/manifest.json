@@ -1,6 +1,267 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/11/20/podcasts/hardfork-gta6-nvidia-anthropic.html",
+      "title": "G.T.A. VI Is a Monumental Human Achievement",
+      "slug": "2026-11-20-g-t-a-vi-is-a-monumental-human-achievement.html",
+      "path": "posts/2026-11-20-g-t-a-vi-is-a-monumental-human-achievement.html",
+      "date_iso": "2026-11-20T15:19:25+00:00",
+      "source": "https://www.nytimes.com/2026/11/20/podcasts/hardfork-gta6-nvidia-anthropic.html",
+      "summary": "Anthropic goes public, Jensen Huang wants back in at Nvidia, and software patches seem to be breaking everything. But first, let’s talk about G.T.A."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50575644",
+      "title": "Why there are still no non-WebKit browsers on iOS",
+      "slug": "2026-11-20-why-there-are-still-no-non-webkit-browsers-on-ios.html",
+      "path": "posts/2026-11-20-why-there-are-still-no-non-webkit-browsers-on-ios.html",
+      "date_iso": "2026-11-20T15:03:31+00:00",
+      "source": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+      "summary": "Article URL: https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/ Comments URL: https://news.ycombinator.com/item?id=50575644 Points: 29 # Comments: 7"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
+      "title": "How Jensen Huang Made Humiliation Routine at Nvidia",
+      "slug": "2026-11-20-how-jensen-huang-made-humiliation-routine-at-nvidia.html",
+      "path": "posts/2026-11-20-how-jensen-huang-made-humiliation-routine-at-nvidia.html",
+      "date_iso": "2026-11-20T14:43:10+00:00",
+      "source": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
+      "summary": "Jensen Huang, the former chief executive of Nvidia, at a company event in Washington, D.C., last year."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50574968",
+      "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+      "slug": "2026-11-20-anthropic-employee-claims-general-proof-of-the-riemann-hypothesis-pdf.html",
+      "path": "posts/2026-11-20-anthropic-employee-claims-general-proof-of-the-riemann-hypothesis-pdf.html",
+      "date_iso": "2026-11-20T14:16:21+00:00",
+      "source": "https://alpo.ge/remark.pdf",
+      "summary": "Article URL: https://alpo.ge/remark.pdf Comments URL: https://news.ycombinator.com/item?id=50574968 Points: 714 # Comments: 403"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50574383",
+      "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+      "slug": "2026-11-20-global-stock-markets-slump-as-anthropic-s-record-ipo-fails-to-stem-ai-sell-off.html",
+      "path": "posts/2026-11-20-global-stock-markets-slump-as-anthropic-s-record-ipo-fails-to-stem-ai-sell-off.html",
+      "date_iso": "2026-11-20T13:29:59+00:00",
+      "source": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 98 # Comments: 69"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50573886",
+      "title": "If you stop writing code, you also get worse at reviewing it",
+      "slug": "2026-11-20-if-you-stop-writing-code-you-also-get-worse-at-reviewing-it.html",
+      "path": "posts/2026-11-20-if-you-stop-writing-code-you-also-get-worse-at-reviewing-it.html",
+      "date_iso": "2026-11-20T12:41:38+00:00",
+      "source": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
+      "summary": "Article URL: https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/ Comments URL: https://news.ycombinator.com/item?id=50573886 Points: 110 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50572822",
+      "title": "The Making of Oxygene",
+      "slug": "2026-11-20-the-making-of-oxygene.html",
+      "path": "posts/2026-11-20-the-making-of-oxygene.html",
+      "date_iso": "2026-11-20T10:41:10+00:00",
+      "source": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
+      "summary": "Article URL: https://jeanmicheljarre.com/aaa/the-making-of-oxygene Comments URL: https://news.ycombinator.com/item?id=50572822 Points: 125 # Comments: 45"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50572503",
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "slug": "2026-11-20-frostbite-a-new-cpu-architecture-discovered-designed-and-verified-by-ai.html",
+      "path": "posts/2026-11-20-frostbite-a-new-cpu-architecture-discovered-designed-and-verified-by-ai.html",
+      "date_iso": "2026-11-20T10:01:41+00:00",
+      "source": "https://architectlabs.com/blog/frostbite",
+      "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 390 # Comments: 247"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/20/magazine/ai-slop-taste-aesthetic-silicon-valley.html",
+      "title": "The Internet Broke Our Taste. Will A.I. Destroy It for Good?",
+      "slug": "2026-11-20-the-internet-broke-our-taste-will-a-i-destroy-it-for-good.html",
+      "path": "posts/2026-11-20-the-internet-broke-our-taste-will-a-i-destroy-it-for-good.html",
+      "date_iso": "2026-11-20T10:00:38+00:00",
+      "source": "https://www.nytimes.com/2026/11/20/magazine/ai-slop-taste-aesthetic-silicon-valley.html",
+      "summary": "In a world of slop capitalism, vibe-crafted culture and taste paranoia, why we like what we like feels harder than ever to know."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50572448",
+      "title": "What people are building, discovered through new domains",
+      "slug": "2026-11-20-what-people-are-building-discovered-through-new-domains.html",
+      "path": "posts/2026-11-20-what-people-are-building-discovered-through-new-domains.html",
+      "date_iso": "2026-11-20T09:54:33+00:00",
+      "source": "https://startups.novumsignals.com/",
+      "summary": "Article URL: https://startups.novumsignals.com/ Comments URL: https://news.ycombinator.com/item?id=50572448 Points: 101 # Comments: 48"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50572430",
+      "title": "UK fridges secured from hackers",
+      "slug": "2026-11-20-uk-fridges-secured-from-hackers.html",
+      "path": "posts/2026-11-20-uk-fridges-secured-from-hackers.html",
+      "date_iso": "2026-11-20T09:52:20+00:00",
+      "source": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
+      "summary": "https://www.pentestpartners.com/security-blog/the-fridge-hac... Comments URL: https://news.ycombinator.com/item?id=50572430 Points: 109 # Comments: 96"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50572355",
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "slug": "2026-11-20-if-you-can-t-explain-something-in-simple-terms-you-don-t-understand-it-2017.html",
+      "path": "posts/2026-11-20-if-you-can-t-explain-something-in-simple-terms-you-don-t-understand-it-2017.html",
+      "date_iso": "2026-11-20T09:43:19+00:00",
+      "source": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+      "summary": "Article URL: https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it Comments URL: https://news.ycombinator.com/item?id=50572355 Points: 322 # Comments: 186"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50572348",
+      "title": "Signal Is Serious About Protecting Your Privacy",
+      "slug": "2026-11-20-signal-is-serious-about-protecting-your-privacy.html",
+      "path": "posts/2026-11-20-signal-is-serious-about-protecting-your-privacy.html",
+      "date_iso": "2026-11-20T09:42:16+00:00",
+      "source": "https://signal.org/blog/protecting-your-privacy/",
+      "summary": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 157 # Comments: 68"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50572116",
+      "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
+      "slug": "2026-11-20-carnival-cruises-emits-ten-times-more-sulphur-oxide-than-all-of-europe-s-cars-2019.html",
+      "path": "posts/2026-11-20-carnival-cruises-emits-ten-times-more-sulphur-oxide-than-all-of-europe-s-cars-2019.html",
+      "date_iso": "2026-11-20T09:13:09+00:00",
+      "source": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
+      "summary": "Article URL: https://ecohustler.com/article/one-corporation-to-pollute-them-all/ Comments URL: https://news.ycombinator.com/item?id=50572116 Points: 344 # Comments: 197"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50571189",
+      "title": "\"I can tell you wrote this yourself\"",
+      "slug": "2026-11-20-i-can-tell-you-wrote-this-yourself.html",
+      "path": "posts/2026-11-20-i-can-tell-you-wrote-this-yourself.html",
+      "date_iso": "2026-11-20T07:13:21+00:00",
+      "source": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
+      "summary": "Article URL: https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/ Comments URL: https://news.ycombinator.com/item?id=50571189 Points: 328 # Comments: 308"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50569998",
+      "title": "FFmpeg 9.1 'Gauss'",
+      "slug": "2026-11-20-ffmpeg-9-1-gauss.html",
+      "path": "posts/2026-11-20-ffmpeg-9-1-gauss.html",
+      "date_iso": "2026-11-20T04:02:39+00:00",
+      "source": "https://ffmpeg.org/download.html#release_9.1",
+      "summary": "Article URL: https://ffmpeg.org/download.html#release_9.1 Comments URL: https://news.ycombinator.com/item?id=50569998 Points: 230 # Comments: 32"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50569890",
+      "title": "PostgreSQL 19",
+      "slug": "2026-11-20-postgresql-19.html",
+      "path": "posts/2026-11-20-postgresql-19.html",
+      "date_iso": "2026-11-20T03:45:45+00:00",
+      "source": "https://www.postgresql.org/docs/release/19.0/",
+      "summary": "Article URL: https://www.postgresql.org/docs/release/19.0/ Comments URL: https://news.ycombinator.com/item?id=50569890 Points: 312 # Comments: 20"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50569519",
+      "title": "What Comes After AGI?",
+      "slug": "2026-11-20-what-comes-after-agi.html",
+      "path": "posts/2026-11-20-what-comes-after-agi.html",
+      "date_iso": "2026-11-20T02:44:13+00:00",
+      "source": "https://institute.deepmind.com/essays/what-comes-after-agi/",
+      "summary": "Article URL: https://institute.deepmind.com/essays/what-comes-after-agi/ Comments URL: https://news.ycombinator.com/item?id=50569519 Points: 122 # Comments: 238"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50569516",
+      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+      "slug": "2026-11-20-postgres-19-repack-faster-built-in-table-bloat-cleanup.html",
+      "path": "posts/2026-11-20-postgres-19-repack-faster-built-in-table-bloat-cleanup.html",
+      "date_iso": "2026-11-20T02:43:49+00:00",
+      "source": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+      "summary": "Article URL: https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/ Comments URL: https://news.ycombinator.com/item?id=50569516 Points: 151 # Comments: 26"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50569226",
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "slug": "2026-11-20-openssl-buffer-overflow-in-evp-encodeblock-cve-2026-121481-cvss-9-8.html",
+      "path": "posts/2026-11-20-openssl-buffer-overflow-in-evp-encodeblock-cve-2026-121481-cvss-9-8.html",
+      "date_iso": "2026-11-20T02:01:09+00:00",
+      "source": "https://github.com/openssl/openssl/pull/33652",
+      "summary": "Article URL: https://github.com/openssl/openssl/pull/33652 Comments URL: https://news.ycombinator.com/item?id=50569226 Points: 328 # Comments: 278"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html",
+      "title": "Nvidia Asked to Sell Chips to Companies Tied to Chinese Military and Megaspeed",
+      "slug": "2026-11-20-nvidia-asked-to-sell-chips-to-companies-tied-to-chinese-military-and-megaspeed.html",
+      "path": "posts/2026-11-20-nvidia-asked-to-sell-chips-to-companies-tied-to-chinese-military-and-megaspeed.html",
+      "date_iso": "2026-11-20T01:13:38+00:00",
+      "source": "https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html",
+      "summary": "The Commerce Department approved artificial intelligence chips to be sold to Chinese companies, according to a release of classified information by lawmakers."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50568861",
+      "title": "Vint Cerf on why TCP/IP was never patented",
+      "slug": "2026-11-20-vint-cerf-on-why-tcp-ip-was-never-patented.html",
+      "path": "posts/2026-11-20-vint-cerf-on-why-tcp-ip-was-never-patented.html",
+      "date_iso": "2026-11-20T01:06:12+00:00",
+      "source": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+      "summary": "Article URL: https://seremot.com/p/vint-cerf-on-why-tcpip-was-never Comments URL: https://news.ycombinator.com/item?id=50568861 Points: 141 # Comments: 74"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
+      "title": "Anthropic’s I.P.O. Turns Tech Researchers Into Overnight Millionaires",
+      "slug": "2026-11-20-anthropic-s-i-p-o-turns-tech-researchers-into-overnight-millionaires.html",
+      "path": "posts/2026-11-20-anthropic-s-i-p-o-turns-tech-researchers-into-overnight-millionaires.html",
+      "date_iso": "2026-11-20T00:25:47+00:00",
+      "source": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
+      "summary": "An Anthropic ad in Times Square on Thursday before the company began its first day trading."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/19/technology/anthropic-2-trillion.html",
+      "title": "Anthropic Debuts on Wall Street as a $2 Trillion Company",
+      "slug": "2026-11-19-anthropic-debuts-on-wall-street-as-a-2-trillion-company.html",
+      "path": "posts/2026-11-19-anthropic-debuts-on-wall-street-as-a-2-trillion-company.html",
+      "date_iso": "2026-11-19T22:45:17+00:00",
+      "source": "https://www.nytimes.com/2026/11/19/technology/anthropic-2-trillion.html",
+      "summary": "Anthropic’s co-founders and executives appeared on Nasdaq’s Times Square billboard in Manhattan as the company began trading shares on Thursday."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-stock-market.html",
+      "title": "Why Is the Stock Market Down After Anthropic’s Successful IPO?",
+      "slug": "2026-11-19-why-is-the-stock-market-down-after-anthropic-s-successful-ipo.html",
+      "path": "posts/2026-11-19-why-is-the-stock-market-down-after-anthropic-s-successful-ipo.html",
+      "date_iso": "2026-11-19T22:17:42+00:00",
+      "source": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-stock-market.html",
+      "summary": "The broader market slipped as Anthropic continued to grow."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/19/technology/downdetector-tech-outages-microsoft-chase-apple.html",
+      "title": "What You Should Know About Downdetector Before the Next Big Tech Outage",
+      "slug": "2026-11-19-what-you-should-know-about-downdetector-before-the-next-big-tech-outage.html",
+      "path": "posts/2026-11-19-what-you-should-know-about-downdetector-before-the-next-big-tech-outage.html",
+      "date_iso": "2026-11-19T21:39:12+00:00",
+      "source": "https://www.nytimes.com/2026/11/19/technology/downdetector-tech-outages-microsoft-chase-apple.html",
+      "summary": "For many, Downdetector has become a go-to website to check for possible widespread system outages."
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/what-are-anthropics-financials",
+      "title": "What are Anthropic’s financials?",
+      "slug": "2026-11-19-what-are-anthropic-s-financials.html",
+      "path": "posts/2026-11-19-what-are-anthropic-s-financials.html",
+      "date_iso": "2026-11-19T19:30:04+00:00",
+      "source": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/what-are-anthropics-financials",
+      "summary": "Anthropic’s chief executive, Dario Amodei, in San Francisco, in September."
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/anthropics-unusual-corporate-structure-mandates-it-balance-safety-and-profit",
+      "title": "Anthropic’s unusual corporate structure mandates it balance safety and profit.",
+      "slug": "2026-11-19-anthropic-s-unusual-corporate-structure-mandates-it-balance-safety-and-profit.html",
+      "path": "posts/2026-11-19-anthropic-s-unusual-corporate-structure-mandates-it-balance-safety-and-profit.html",
+      "date_iso": "2026-11-19T18:53:18+00:00",
+      "source": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/anthropics-unusual-corporate-structure-mandates-it-balance-safety-and-profit",
+      "summary": "Anthropic’s public offering sets up an important test as it goes from one of the most closely watched private companies in the world to one of the most scrutinized."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50563066",
+      "title": "Pancreatic cancer halted by virus injection in three patients",
+      "slug": "2026-11-19-pancreatic-cancer-halted-by-virus-injection-in-three-patients.html",
+      "path": "posts/2026-11-19-pancreatic-cancer-halted-by-virus-injection-in-three-patients.html",
+      "date_iso": "2026-11-19T17:25:33+00:00",
+      "source": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+      "summary": "https://archive.ph/2Et0x https://clinicaltrials.gov/study/NCT06693986 Comments URL: https://news.ycombinator.com/item?id=50563066 Points: 848 # Comments: 148"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50561515",
       "title": "I built Cornhole News. A Hacker News inspired site for news across the Midwest",
       "slug": "2026-11-19-i-built-cornhole-news-a-hacker-news-inspired-site-for-news-across-the-midwest.html",
@@ -53,6 +314,15 @@
       "date_iso": "2026-11-19T15:16:40+00:00",
       "source": "https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html",
       "summary": "The Silicon Valley giant’s search advertising has long fueled the company. But its search ad growth is slowing as A.I. becomes more prevalent."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50561199",
+      "title": "Show HN: Fast deterministic natural language search for OpenStreetMap data",
+      "slug": "2026-11-19-show-hn-fast-deterministic-natural-language-search-for-openstreetmap-data.html",
+      "path": "posts/2026-11-19-show-hn-fast-deterministic-natural-language-search-for-openstreetmap-data.html",
+      "date_iso": "2026-11-19T15:16:02+00:00",
+      "source": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
+      "summary": "I want to show you HippoMaps. It is a fully featured map and navigation app built on OpenStreetMap with a custom Overpass API engine for really fast search of POIs, areas and ways. My aim with HippoMaps is to get to a level where I don't need Google Maps anymore. The biggest hur…"
     },
     {
       "id": "https://news.ycombinator.com/item?id=50561170",
