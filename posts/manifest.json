@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html",
+      "title": "Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die",
+      "slug": "2026-11-21-why-nostalgia-for-tamagotchis-the-virtual-pets-won-t-die.html",
+      "path": "posts/2026-11-21-why-nostalgia-for-tamagotchis-the-virtual-pets-won-t-die.html",
+      "date_iso": "2026-11-21T13:57:13+00:00",
+      "source": "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html",
+      "summary": "Millennials are answering the beeping call of the pocket-size game that caused a sensation 30 years ago. But analog-craving Gen Zers are, too."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50588982",
+      "title": "Derek Lowe: Detonating a Pile of Lead Azide",
+      "slug": "2026-11-21-derek-lowe-detonating-a-pile-of-lead-azide.html",
+      "path": "posts/2026-11-21-derek-lowe-detonating-a-pile-of-lead-azide.html",
+      "date_iso": "2026-11-21T13:23:14+00:00",
+      "source": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 94 # Comments: 53"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50588916",
+      "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
+      "slug": "2026-11-21-astra-6-2-and-sol-6-2-flop-at-simple-bench.html",
+      "path": "posts/2026-11-21-astra-6-2-and-sol-6-2-flop-at-simple-bench.html",
+      "date_iso": "2026-11-21T13:16:12+00:00",
+      "source": "https://simple-bench.com/",
+      "summary": "Article URL: https://simple-bench.com/ Comments URL: https://news.ycombinator.com/item?id=50588916 Points: 25 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50588436",
+      "title": "Adult-only households accounted for 55% of toy sales in the first half of 2026",
+      "slug": "2026-11-21-adult-only-households-accounted-for-55-of-toy-sales-in-the-first-half-of-2026.html",
+      "path": "posts/2026-11-21-adult-only-households-accounted-for-55-of-toy-sales-in-the-first-half-of-2026.html",
+      "date_iso": "2026-11-21T12:15:41+00:00",
+      "source": "https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic Comments URL: https://news.ycombinator.com/item?id=50588436 Points: 65 # Comments: 70"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50587875",
+      "title": "My Monitor Was Cutting My Download Speed by 75%",
+      "slug": "2026-11-21-my-monitor-was-cutting-my-download-speed-by-75.html",
+      "path": "posts/2026-11-21-my-monitor-was-cutting-my-download-speed-by-75.html",
+      "date_iso": "2026-11-21T10:36:32+00:00",
+      "source": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "summary": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 124 # Comments: 44"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50587859",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "slug": "2026-11-21-fbi-reportedly-investigating-apparent-hack-of-its-criminal-database.html",
+      "path": "posts/2026-11-21-fbi-reportedly-investigating-apparent-hack-of-its-criminal-database.html",
+      "date_iso": "2026-11-21T10:33:57+00:00",
+      "source": "https://www.bbc.com/news/articles/cvze7de86pk3o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cvze7de86pk3o Comments URL: https://news.ycombinator.com/item?id=50587859 Points: 88 # Comments: 37"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/21/science/outages-tech-history.html",
+      "title": "A New Era of A.I.-Driven Chaos? That Might Just Be Progress.",
+      "slug": "2026-11-21-a-new-era-of-a-i-driven-chaos-that-might-just-be-progress.html",
+      "path": "posts/2026-11-21-a-new-era-of-a-i-driven-chaos-that-might-just-be-progress.html",
+      "date_iso": "2026-11-21T10:02:09+00:00",
+      "source": "https://www.nytimes.com/2026/11/21/science/outages-tech-history.html",
+      "summary": "Travelers waited to board a flight last week at San Francisco International Airport in the aftermath of a nationwide ground stop."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50587208",
+      "title": "RCE in Gnupg",
+      "slug": "2026-11-21-rce-in-gnupg.html",
+      "path": "posts/2026-11-21-rce-in-gnupg.html",
+      "date_iso": "2026-11-21T08:32:58+00:00",
+      "source": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "summary": "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html Comments URL: https://news.ycombinator.com/item?id=50587208 Points: 118 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50586648",
+      "title": "Surprisingly Adorable Insect Portraits",
+      "slug": "2026-11-21-surprisingly-adorable-insect-portraits.html",
+      "path": "posts/2026-11-21-surprisingly-adorable-insect-portraits.html",
+      "date_iso": "2026-11-21T06:44:14+00:00",
+      "source": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
+      "summary": "Article URL: https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/ Comments URL: https://news.ycombinator.com/item?id=50586648 Points: 92 # Comments: 22"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50586292",
+      "title": "ClawDOS – An AI coding agent for DOS",
+      "slug": "2026-11-21-clawdos-an-ai-coding-agent-for-dos.html",
+      "path": "posts/2026-11-21-clawdos-an-ai-coding-agent-for-dos.html",
+      "date_iso": "2026-11-21T05:38:01+00:00",
+      "source": "http://ricapar.net/ClawDOS/",
+      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 118 # Comments: 35"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
+      "title": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military",
+      "slug": "2026-11-21-alice-huang-accused-of-spying-on-nvidia-s-ceo-is-linked-to-firms-with-ties-to-china-s-military.html",
+      "path": "posts/2026-11-21-alice-huang-accused-of-spying-on-nvidia-s-ceo-is-linked-to-firms-with-ties-to-china-s-military.html",
+      "date_iso": "2026-11-21T05:13:03+00:00",
+      "source": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
+      "summary": "The woman at the center of the Nvidia scandal has ties to China’s defense industry and the People’s Liberation Army."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50585376",
+      "title": "Clojure will affect the way you think about programming (2017)",
+      "slug": "2026-11-21-clojure-will-affect-the-way-you-think-about-programming-2017.html",
+      "path": "posts/2026-11-21-clojure-will-affect-the-way-you-think-about-programming-2017.html",
+      "date_iso": "2026-11-21T02:40:39+00:00",
+      "source": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+      "summary": "Article URL: https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/ Comments URL: https://news.ycombinator.com/item?id=50585376 Points: 139 # Comments: 63"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50583856",
+      "title": "Serious cyberattack thought backed by wealthy operators",
+      "slug": "2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators.html",
+      "path": "posts/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators.html",
+      "date_iso": "2026-11-20T23:29:30+00:00",
+      "source": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
+      "summary": "Article URL: https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411 Comments URL: https://news.ycombinator.com/item?id=50583856 Points: 115 # Comments: 62"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50583768",
+      "title": "Sir Brian May adds new dimension to Hera asteroid",
+      "slug": "2026-11-20-sir-brian-may-adds-new-dimension-to-hera-asteroid.html",
+      "path": "posts/2026-11-20-sir-brian-may-adds-new-dimension-to-hera-asteroid.html",
+      "date_iso": "2026-11-20T23:19:44+00:00",
+      "source": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+      "summary": "Article URL: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid Comments URL: https://news.ycombinator.com/item?id=50583768 Points: 129 # Comments: 31"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50583761",
+      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "slug": "2026-11-20-ask-hn-i-have-been-unemployed-for-2y-15-years-of-experience-us-what-to-do.html",
+      "path": "posts/2026-11-20-ask-hn-i-have-been-unemployed-for-2y-15-years-of-experience-us-what-to-do.html",
+      "date_iso": "2026-11-20T23:18:32+00:00",
+      "source": "https://news.ycombinator.com/item?id=50583761",
+      "summary": "I'm Senior software engineer in the US (DMV area), with 15y of experience. Worked for Fortune 50+ company and bunch of mid-size companies. Been unemployed for 2y and can't find a job, within those 2 years, I pretty much spent my savings that I've saved through years, maybe have…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50583274",
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "slug": "2026-11-20-ninlive-the-nine-inch-nails-live-archive.html",
+      "path": "posts/2026-11-20-ninlive-the-nine-inch-nails-live-archive.html",
+      "date_iso": "2026-11-20T22:30:47+00:00",
+      "source": "https://ninlive.com/",
+      "summary": "Article URL: https://ninlive.com/ Comments URL: https://news.ycombinator.com/item?id=50583274 Points: 302 # Comments: 80"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50581260",
+      "title": "Inkling 2 Mini",
+      "slug": "2026-11-20-inkling-2-mini.html",
+      "path": "posts/2026-11-20-inkling-2-mini.html",
+      "date_iso": "2026-11-20T20:12:19+00:00",
+      "source": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "summary": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/ Comments URL: https://news.ycombinator.com/item?id=50581260 Points: 1145 # Comments: 216"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50581110",
+      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+      "slug": "2026-11-20-dreamcoder-coding-harness-and-ide-from-the-author-of-mastering-emacs.html",
+      "path": "posts/2026-11-20-dreamcoder-coding-harness-and-ide-from-the-author-of-mastering-emacs.html",
+      "date_iso": "2026-11-20T20:03:59+00:00",
+      "source": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+      "summary": "Article URL: https://www.masteringemacs.org/article/announcing-dreamcoder Comments URL: https://news.ycombinator.com/item?id=50581110 Points: 247 # Comments: 97"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/20/business/nissan-reapirs-hack-technology.html",
+      "title": "Nissan Shuts Down System Used for Repairs After Hack Attempt",
+      "slug": "2026-11-20-nissan-shuts-down-system-used-for-repairs-after-hack-attempt.html",
+      "path": "posts/2026-11-20-nissan-shuts-down-system-used-for-repairs-after-hack-attempt.html",
+      "date_iso": "2026-11-20T19:39:27+00:00",
+      "source": "https://www.nytimes.com/2026/11/20/business/nissan-reapirs-hack-technology.html",
+      "summary": "Nissan said in a statement that it had “identified unauthorized access to part of a vehicle diagnostic system used by our dealers globally.”"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html",
+      "title": "Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad",
+      "slug": "2026-11-20-trump-threatens-to-bar-u-s-tech-firms-from-building-data-centers-abroad.html",
+      "path": "posts/2026-11-20-trump-threatens-to-bar-u-s-tech-firms-from-building-data-centers-abroad.html",
+      "date_iso": "2026-11-20T18:51:23+00:00",
+      "source": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html",
+      "summary": "President Trump raised the prospect of imposing “tremendous penalties” on companies that tried to build data centers outside the United States."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50579568",
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "slug": "2026-11-20-hurried-announcement-alessandro-masullo-grh.html",
+      "path": "posts/2026-11-20-hurried-announcement-alessandro-masullo-grh.html",
+      "date_iso": "2026-11-20T18:33:14+00:00",
+      "source": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "summary": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968 Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 2255 # Comments: 1065"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50579331",
+      "title": "We promoted developers into architects without informing them",
+      "slug": "2026-11-20-we-promoted-developers-into-architects-without-informing-them.html",
+      "path": "posts/2026-11-20-we-promoted-developers-into-architects-without-informing-them.html",
+      "date_iso": "2026-11-20T18:17:51+00:00",
+      "source": "https://manidoraisamy.com/developer-to-architect.html",
+      "summary": "Article URL: https://manidoraisamy.com/developer-to-architect.html Comments URL: https://news.ycombinator.com/item?id=50579331 Points: 503 # Comments: 281"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50578358",
+      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "slug": "2026-11-20-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis.html",
+      "path": "posts/2026-11-20-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis.html",
+      "date_iso": "2026-11-20T17:21:36+00:00",
+      "source": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50578358 Points: 487 # Comments: 210"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50577265",
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "slug": "2026-11-20-language-models-can-rewrite-their-own-weights.html",
+      "path": "posts/2026-11-20-language-models-can-rewrite-their-own-weights.html",
+      "date_iso": "2026-11-20T16:29:06+00:00",
+      "source": "https://arxiv.org/abs/2611.21885",
+      "summary": "Article URL: https://arxiv.org/abs/2611.21885 Comments URL: https://news.ycombinator.com/item?id=50577265 Points: 443 # Comments: 128"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50576232",
+      "title": "Finite-time blow-up for the Navier–Stokes equations",
+      "slug": "2026-11-20-finite-time-blow-up-for-the-navier-stokes-equations.html",
+      "path": "posts/2026-11-20-finite-time-blow-up-for-the-navier-stokes-equations.html",
+      "date_iso": "2026-11-20T15:34:31+00:00",
+      "source": "https://github.com/tristanbuckmaster/navier-stokes/",
+      "summary": "Article URL: https://github.com/tristanbuckmaster/navier-stokes/ Comments URL: https://news.ycombinator.com/item?id=50576232 Points: 301 # Comments: 94"
+    },
+    {
       "id": "https://www.nytimes.com/2026/11/20/podcasts/hardfork-gta6-nvidia-anthropic.html",
       "title": "G.T.A. VI Is a Monumental Human Achievement",
       "slug": "2026-11-20-g-t-a-vi-is-a-monumental-human-achievement.html",
