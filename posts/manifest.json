@@ -1,6 +1,231 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html",
+      "title": "Trump Is Said to Have Directed Effort to Reinstate Nvidia Chief",
+      "slug": "2026-11-23-trump-is-said-to-have-directed-effort-to-reinstate-nvidia-chief.html",
+      "path": "posts/2026-11-23-trump-is-said-to-have-directed-effort-to-reinstate-nvidia-chief.html",
+      "date_iso": "2026-11-23T17:30:04+00:00",
+      "source": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html",
+      "summary": "President Trump at the White House on Friday."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/23/technology/employee-callout-tips.html",
+      "title": "Have You Worked With Nvidia? We Want to Hear From You.",
+      "slug": "2026-11-23-have-you-worked-with-nvidia-we-want-to-hear-from-you.html",
+      "path": "posts/2026-11-23-have-you-worked-with-nvidia-we-want-to-hear-from-you.html",
+      "date_iso": "2026-11-23T17:29:11+00:00",
+      "source": "https://www.nytimes.com/2026/11/23/technology/employee-callout-tips.html",
+      "summary": "Fill out the form below and a reporter will be in touch."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50615520",
+      "title": "How should an LLM see a computer?",
+      "slug": "2026-11-23-how-should-an-llm-see-a-computer.html",
+      "path": "posts/2026-11-23-how-should-an-llm-see-a-computer.html",
+      "date_iso": "2026-11-23T17:19:25+00:00",
+      "source": "https://www.greptile.com/blog/trex-computer-use",
+      "summary": "Article URL: https://www.greptile.com/blog/trex-computer-use Comments URL: https://news.ycombinator.com/item?id=50615520 Points: 9 # Comments: 6"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50615481",
+      "title": "Kagi Mail (public beta)",
+      "slug": "2026-11-23-kagi-mail-public-beta.html",
+      "path": "posts/2026-11-23-kagi-mail-public-beta.html",
+      "date_iso": "2026-11-23T17:17:01+00:00",
+      "source": "https://blog.kagi.com/kagi-mail-public-beta",
+      "summary": "Article URL: https://blog.kagi.com/kagi-mail-public-beta Comments URL: https://news.ycombinator.com/item?id=50615481 Points: 118 # Comments: 82"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50615308",
+      "title": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control",
+      "slug": "2026-11-23-dario-is-hyping-the-dangers-so-oss-models-are-illegal-and-he-stays-in-control.html",
+      "path": "posts/2026-11-23-dario-is-hyping-the-dangers-so-oss-models-are-illegal-and-he-stays-in-control.html",
+      "date_iso": "2026-11-23T17:07:26+00:00",
+      "source": "https://twitter.com/ylecun/status/2124550037912920090",
+      "summary": "Article URL: https://twitter.com/ylecun/status/2124550037912920090 Comments URL: https://news.ycombinator.com/item?id=50615308 Points: 36 # Comments: 6"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/23/technology/trump-nvidia-stock-purchases.html",
+      "title": "Trump’s Own Stock Portfolio Likely Benefits From Nvidia’s Rise",
+      "slug": "2026-11-23-trump-s-own-stock-portfolio-likely-benefits-from-nvidia-s-rise.html",
+      "path": "posts/2026-11-23-trump-s-own-stock-portfolio-likely-benefits-from-nvidia-s-rise.html",
+      "date_iso": "2026-11-23T17:04:35+00:00",
+      "source": "https://www.nytimes.com/2026/11/23/technology/trump-nvidia-stock-purchases.html",
+      "summary": "Nvidia’s headquarters in Santa Clara, Calif."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50615161",
+      "title": "EasyPost (YC S13) Is Hiring",
+      "slug": "2026-11-23-easypost-yc-s13-is-hiring.html",
+      "path": "posts/2026-11-23-easypost-yc-s13-is-hiring.html",
+      "date_iso": "2026-11-23T17:00:05+00:00",
+      "source": "https://www.easypost.com/careers/",
+      "summary": "Article URL: https://www.easypost.com/careers/ Comments URL: https://news.ycombinator.com/item?id=50615161 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-ceo-return-silicon-valley.html",
+      "title": "Jensen Huang’s Return as Nvidia CEO Feels Like Déjà Vu in Silicon Valley",
+      "slug": "2026-11-23-jensen-huang-s-return-as-nvidia-ceo-feels-like-d-j-vu-in-silicon-valley.html",
+      "path": "posts/2026-11-23-jensen-huang-s-return-as-nvidia-ceo-feels-like-d-j-vu-in-silicon-valley.html",
+      "date_iso": "2026-11-23T16:50:11+00:00",
+      "source": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-ceo-return-silicon-valley.html",
+      "summary": "Jensen Huang said in a statement that he was “honored to return to Nvidia and lead one of the most consequential technology companies in the world at the beginning of a new industrial revolution.”"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50614249",
+      "title": "Ladybird is now in alpha",
+      "slug": "2026-11-23-ladybird-is-now-in-alpha.html",
+      "path": "posts/2026-11-23-ladybird-is-now-in-alpha.html",
+      "date_iso": "2026-11-23T16:13:12+00:00",
+      "source": "https://ladybird.org/posts/alpha/",
+      "summary": "Article URL: https://ladybird.org/posts/alpha/ Comments URL: https://news.ycombinator.com/item?id=50614249 Points: 683 # Comments: 188"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50612686",
+      "title": "Cyberleek posted the GTA 6 Xbox build executable",
+      "slug": "2026-11-23-cyberleek-posted-the-gta-6-xbox-build-executable.html",
+      "path": "posts/2026-11-23-cyberleek-posted-the-gta-6-xbox-build-executable.html",
+      "date_iso": "2026-11-23T14:49:44+00:00",
+      "source": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/",
+      "summary": "Article URL: https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/ Comments URL: https://news.ycombinator.com/item?id=50612686 Points: 130 # Comments: 106"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50611861",
+      "title": "Building a wireless network adapter for the Super Nintendo",
+      "slug": "2026-11-23-building-a-wireless-network-adapter-for-the-super-nintendo.html",
+      "path": "posts/2026-11-23-building-a-wireless-network-adapter-for-the-super-nintendo.html",
+      "date_iso": "2026-11-23T14:16:37+00:00",
+      "source": "https://boland.dev/snet/",
+      "summary": "Article URL: https://boland.dev/snet/ Comments URL: https://news.ycombinator.com/item?id=50611861 Points: 42 # Comments: 10"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50611576",
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "slug": "2026-11-23-nvidia-reinstates-jensen-huang-as-ceo.html",
+      "path": "posts/2026-11-23-nvidia-reinstates-jensen-huang-as-ceo.html",
+      "date_iso": "2026-11-23T14:00:18+00:00",
+      "source": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "summary": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-j... Comments URL: https://news.ycombinator.com/item?id=50611576 Points: 1146 # Comments: 2230"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50611402",
+      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+      "slug": "2026-11-23-nariq-bf16-level-qwen3-8-27b-in-a-10-gb-file.html",
+      "path": "posts/2026-11-23-nariq-bf16-level-qwen3-8-27b-in-a-10-gb-file.html",
+      "date_iso": "2026-11-23T13:42:38+00:00",
+      "source": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+      "summary": "We built NariQ: 3-bit-or-lower quantizations of Qwen3.8-27B that retain near-BF16 quality across agentic tasks, math, multilingual reasoning, and image understanding. To our knowledge, this is the first 3-bit-or-lower quantization that retains BF16 lvl performance on long-horizo…"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/23/technology/spacex-lawsuit-ai-sexualized-images.html",
+      "title": "SpaceX Sued By Oregon and Virginia Over A.I.-Generated Sexualized Images",
+      "slug": "2026-11-23-spacex-sued-by-oregon-and-virginia-over-a-i-generated-sexualized-images.html",
+      "path": "posts/2026-11-23-spacex-sued-by-oregon-and-virginia-over-a-i-generated-sexualized-images.html",
+      "date_iso": "2026-11-23T13:40:06+00:00",
+      "source": "https://www.nytimes.com/2026/11/23/technology/spacex-lawsuit-ai-sexualized-images.html",
+      "summary": "The headquarters of SpaceX’s A.I. unit, which is owned by Elon Musk, in Palo Alto, Calif."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50610743",
+      "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+      "slug": "2026-11-23-win4wine-run-windows-shell-as-the-linux-desktop-on-wine.html",
+      "path": "posts/2026-11-23-win4wine-run-windows-shell-as-the-linux-desktop-on-wine.html",
+      "date_iso": "2026-11-23T12:28:11+00:00",
+      "source": "https://github.com/mikuta0407/win4wine",
+      "summary": "Article URL: https://github.com/mikuta0407/win4wine Comments URL: https://news.ycombinator.com/item?id=50610743 Points: 156 # Comments: 87"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50610334",
+      "title": "The next circle of security hell",
+      "slug": "2026-11-23-the-next-circle-of-security-hell.html",
+      "path": "posts/2026-11-23-the-next-circle-of-security-hell.html",
+      "date_iso": "2026-11-23T11:34:16+00:00",
+      "source": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
+      "summary": "Article URL: https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/ Comments URL: https://news.ycombinator.com/item?id=50610334 Points: 179 # Comments: 90"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50610318",
+      "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
+      "slug": "2026-11-23-nospeaker-make-your-macbook-s-trackpad-talk-using-its-haptic-motor.html",
+      "path": "posts/2026-11-23-nospeaker-make-your-macbook-s-trackpad-talk-using-its-haptic-motor.html",
+      "date_iso": "2026-11-23T11:31:54+00:00",
+      "source": "https://github.com/os6/nospeaker",
+      "summary": "Article URL: https://github.com/os6/nospeaker Comments URL: https://news.ycombinator.com/item?id=50610318 Points: 190 # Comments: 99"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50609685",
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "slug": "2026-11-23-glm-5-4-toward-generalized-coding-with-our-first-loop-transformer.html",
+      "path": "posts/2026-11-23-glm-5-4-toward-generalized-coding-with-our-first-loop-transformer.html",
+      "date_iso": "2026-11-23T10:06:43+00:00",
+      "source": "https://z.ai/blog/glm-5.4",
+      "summary": "Article URL: https://z.ai/blog/glm-5.4 Comments URL: https://news.ycombinator.com/item?id=50609685 Points: 856 # Comments: 304"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50609579",
+      "title": "Don't keep your SSH keys on disk",
+      "slug": "2026-11-23-don-t-keep-your-ssh-keys-on-disk.html",
+      "path": "posts/2026-11-23-don-t-keep-your-ssh-keys-on-disk.html",
+      "date_iso": "2026-11-23T09:55:38+00:00",
+      "source": "https://jola.dev/posts/you-cant-afford-ssh-keys-disk",
+      "summary": "Article URL: https://jola.dev/posts/you-cant-afford-ssh-keys-disk Comments URL: https://news.ycombinator.com/item?id=50609579 Points: 73 # Comments: 59"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50607668",
+      "title": "Yes, 17M lines of Lean is a lot",
+      "slug": "2026-11-23-yes-17m-lines-of-lean-is-a-lot.html",
+      "path": "posts/2026-11-23-yes-17m-lines-of-lean-is-a-lot.html",
+      "date_iso": "2026-11-23T05:00:49+00:00",
+      "source": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
+      "summary": "Article URL: https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/ Comments URL: https://news.ycombinator.com/item?id=50607668 Points: 238 # Comments: 294"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50607261",
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "slug": "2026-11-23-xnu-linux-full-os-x-gui-userspace-on-linux.html",
+      "path": "posts/2026-11-23-xnu-linux-full-os-x-gui-userspace-on-linux.html",
+      "date_iso": "2026-11-23T03:49:24+00:00",
+      "source": "https://github.com/AFK-surf/xnulinux",
+      "summary": "Article URL: https://github.com/AFK-surf/xnulinux Comments URL: https://news.ycombinator.com/item?id=50607261 Points: 547 # Comments: 227"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50606192",
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "slug": "2026-11-23-free-alternative-tv-network-built-from-the-internet-archive-s-forgotten-videos.html",
+      "path": "posts/2026-11-23-free-alternative-tv-network-built-from-the-internet-archive-s-forgotten-videos.html",
+      "date_iso": "2026-11-23T01:13:51+00:00",
+      "source": "https://spelunkr.tv",
+      "summary": "Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 834 # Comments: 150"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50605479",
+      "title": "Nespresso's project to reduce grams of coffee per capsule",
+      "slug": "2026-11-22-nespresso-s-project-to-reduce-grams-of-coffee-per-capsule.html",
+      "path": "posts/2026-11-22-nespresso-s-project-to-reduce-grams-of-coffee-per-capsule.html",
+      "date_iso": "2026-11-22T23:57:45+00:00",
+      "source": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
+      "summary": "Article URL: https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/ Comments URL: https://news.ycombinator.com/item?id=50605479 Points: 171 # Comments: 224"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50603845",
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "slug": "2026-11-22-a-beginner-s-guide-to-local-ai-with-inkling-qwen-and-unsloth.html",
+      "path": "posts/2026-11-22-a-beginner-s-guide-to-local-ai-with-inkling-qwen-and-unsloth.html",
+      "date_iso": "2026-11-22T21:01:16+00:00",
+      "source": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 700 # Comments: 280"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50602843",
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "slug": "2026-11-22-the-birds-of-gta-6-a-field-guide-to-vice-city-and-leonida-s-wildlife.html",
+      "path": "posts/2026-11-22-the-birds-of-gta-6-a-field-guide-to-vice-city-and-leonida-s-wildlife.html",
+      "date_iso": "2026-11-22T19:10:34+00:00",
+      "source": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "summary": "Article URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife Comments URL: https://news.ycombinator.com/item?id=50602843 Points: 623 # Comments: 354"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50599762",
       "title": "Show HN: I built a game where you are an LLM's subagent",
       "slug": "2026-11-22-show-hn-i-built-a-game-where-you-are-an-llm-s-subagent.html",
