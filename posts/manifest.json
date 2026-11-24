@@ -1,6 +1,240 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=50631900",
+      "title": "AstridVPN: A VPN that doesn't know who you are",
+      "slug": "2026-11-24-astridvpn-a-vpn-that-doesn-t-know-who-you-are.html",
+      "path": "posts/2026-11-24-astridvpn-a-vpn-that-doesn-t-know-who-you-are.html",
+      "date_iso": "2026-11-24T18:00:21+00:00",
+      "source": "https://astridvpn.com/",
+      "summary": "Article URL: https://astridvpn.com/ Comments URL: https://news.ycombinator.com/item?id=50631900 Points: 5 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50631210",
+      "title": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
+      "slug": "2026-11-24-top-mit-physicist-anthropic-staff-openly-talk-about-taking-over-the-world.html",
+      "path": "posts/2026-11-24-top-mit-physicist-anthropic-staff-openly-talk-about-taking-over-the-world.html",
+      "date_iso": "2026-11-24T17:10:45+00:00",
+      "source": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
+      "summary": "Article URL: https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/ Comments URL: https://news.ycombinator.com/item?id=50631210 Points: 92 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50631157",
+      "title": "Microsoft declares 'Code Red' after historic outage, internal memos show",
+      "slug": "2026-11-24-microsoft-declares-code-red-after-historic-outage-internal-memos-show.html",
+      "path": "posts/2026-11-24-microsoft-declares-code-red-after-historic-outage-internal-memos-show.html",
+      "date_iso": "2026-11-24T17:07:41+00:00",
+      "source": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/",
+      "summary": "Article URL: https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/ Comments URL: https://news.ycombinator.com/item?id=50631157 Points: 31 # Comments: 24"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50631041",
+      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "slug": "2026-11-24-weave-yc-w25-is-hiring-ml-ai-product-design-engineers.html",
+      "path": "posts/2026-11-24-weave-yc-w25-is-hiring-ml-ai-product-design-engineers.html",
+      "date_iso": "2026-11-24T17:00:55+00:00",
+      "source": "https://jobs.ashbyhq.com/weave-os",
+      "summary": "Article URL: https://jobs.ashbyhq.com/weave-os Comments URL: https://news.ycombinator.com/item?id=50631041 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50630594",
+      "title": "Cyberattack campaign compromising Check Point servers across 22 organizations",
+      "slug": "2026-11-24-cyberattack-campaign-compromising-check-point-servers-across-22-organizations.html",
+      "path": "posts/2026-11-24-cyberattack-campaign-compromising-check-point-servers-across-22-organizations.html",
+      "date_iso": "2026-11-24T16:32:17+00:00",
+      "source": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "summary": "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign Comments URL: https://news.ycombinator.com/item?id=50630594 Points: 149 # Comments: 51"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50630462",
+      "title": "Jetty Pro",
+      "slug": "2026-11-24-jetty-pro.html",
+      "path": "posts/2026-11-24-jetty-pro.html",
+      "date_iso": "2026-11-24T16:23:02+00:00",
+      "source": "http://hypercritical.co/2026/11/23/jetty-pro",
+      "summary": "Article URL: http://hypercritical.co/2026/11/23/jetty-pro Comments URL: https://news.ycombinator.com/item?id=50630462 Points: 117 # Comments: 44"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50630423",
+      "title": "How to Make a Lovable City",
+      "slug": "2026-11-24-how-to-make-a-lovable-city.html",
+      "path": "posts/2026-11-24-how-to-make-a-lovable-city.html",
+      "date_iso": "2026-11-24T16:19:55+00:00",
+      "source": "https://www.worksinprogress.news/p/how-to-make-a-lovable-city",
+      "summary": "Article URL: https://www.worksinprogress.news/p/how-to-make-a-lovable-city Comments URL: https://news.ycombinator.com/item?id=50630423 Points: 57 # Comments: 19"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50630309",
+      "title": "Tidal bans AI-generated music",
+      "slug": "2026-11-24-tidal-bans-ai-generated-music.html",
+      "path": "posts/2026-11-24-tidal-bans-ai-generated-music.html",
+      "date_iso": "2026-11-24T16:12:38+00:00",
+      "source": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+      "summary": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/ Comments URL: https://news.ycombinator.com/item?id=50630309 Points: 254 # Comments: 212"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50630294",
+      "title": "Show HN: Mason – a lightweight Postgres read-replica, built on columnar storage",
+      "slug": "2026-11-24-show-hn-mason-a-lightweight-postgres-read-replica-built-on-columnar-storage.html",
+      "path": "posts/2026-11-24-show-hn-mason-a-lightweight-postgres-read-replica-built-on-columnar-storage.html",
+      "date_iso": "2026-11-24T16:11:52+00:00",
+      "source": "https://masondata.ai/",
+      "summary": "Hi HN! TLDR: we’ve built an open-source drop-in replacement for a postgres read-replica, powered by duckdb’s columnar compute engine. It’s very fast. And it looks like postgres. So, this started out as: let’s just connect Clickhouse to our postgres dbs and throw our analytics qu…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50630245",
+      "title": "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
+      "slug": "2026-11-24-ex-nvidia-partner-megaspeed-hit-with-u-s-commerce-department-export-ban.html",
+      "path": "posts/2026-11-24-ex-nvidia-partner-megaspeed-hit-with-u-s-commerce-department-export-ban.html",
+      "date_iso": "2026-11-24T16:08:29+00:00",
+      "source": "https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063/",
+      "summary": "Article URL: https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063/ Comments URL: https://news.ycombinator.com/item?id=50630245 Points: 67 # Comments: 34"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50630122",
+      "title": "Millions of bitcoin are probably lost for good. Almost none can be proved gone",
+      "slug": "2026-11-24-millions-of-bitcoin-are-probably-lost-for-good-almost-none-can-be-proved-gone.html",
+      "path": "posts/2026-11-24-millions-of-bitcoin-are-probably-lost-for-good-almost-none-can-be-proved-gone.html",
+      "date_iso": "2026-11-24T16:01:24+00:00",
+      "source": "https://blog.everstrike.io/lost-bitcoin/",
+      "summary": "Article URL: https://blog.everstrike.io/lost-bitcoin/ Comments URL: https://news.ycombinator.com/item?id=50630122 Points: 14 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50629962",
+      "title": "The KL Divergence Is Never Negative, Except in PyTorch",
+      "slug": "2026-11-24-the-kl-divergence-is-never-negative-except-in-pytorch.html",
+      "path": "posts/2026-11-24-the-kl-divergence-is-never-negative-except-in-pytorch.html",
+      "date_iso": "2026-11-24T15:50:22+00:00",
+      "source": "https://arxiv.org/abs/2611.30835",
+      "summary": "Article URL: https://arxiv.org/abs/2611.30835 Comments URL: https://news.ycombinator.com/item?id=50629962 Points: 43 # Comments: 12"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html",
+      "title": "With Jensen Huang’s Return as C.E.O., Trump Effectively Overrode Nvidia’s Board",
+      "slug": "2026-11-24-with-jensen-huang-s-return-as-c-e-o-trump-effectively-overrode-nvidia-s-board.html",
+      "path": "posts/2026-11-24-with-jensen-huang-s-return-as-c-e-o-trump-effectively-overrode-nvidia-s-board.html",
+      "date_iso": "2026-11-24T15:40:13+00:00",
+      "source": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html",
+      "summary": "On Monday, Nvidia said that the board had “voted unanimously” to bring Jensen Huang back as the company’s leader."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50629231",
+      "title": "A training engine for your local model, using your idle compute",
+      "slug": "2026-11-24-a-training-engine-for-your-local-model-using-your-idle-compute.html",
+      "path": "posts/2026-11-24-a-training-engine-for-your-local-model-using-your-idle-compute.html",
+      "date_iso": "2026-11-24T15:03:40+00:00",
+      "source": "https://github.com/sous-labs/songe",
+      "summary": "Article URL: https://github.com/sous-labs/songe Comments URL: https://news.ycombinator.com/item?id=50629231 Points: 78 # Comments: 13"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50629106",
+      "title": "Splitting USB-C: USB 3 and USB 2 on One Port",
+      "slug": "2026-11-24-splitting-usb-c-usb-3-and-usb-2-on-one-port.html",
+      "path": "posts/2026-11-24-splitting-usb-c-usb-3-and-usb-2-on-one-port.html",
+      "date_iso": "2026-11-24T14:54:10+00:00",
+      "source": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
+      "summary": "Article URL: https://www.frankchiarulli.com/blog/splitting-usb-c/ Comments URL: https://news.ycombinator.com/item?id=50629106 Points: 61 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50627340",
+      "title": "LLM agents work for their parent companies, not for you",
+      "slug": "2026-11-24-llm-agents-work-for-their-parent-companies-not-for-you.html",
+      "path": "posts/2026-11-24-llm-agents-work-for-their-parent-companies-not-for-you.html",
+      "date_iso": "2026-11-24T12:40:15+00:00",
+      "source": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+      "summary": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 681 # Comments: 289"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50626413",
+      "title": "Worshipping at the altar of Brendan Gregg",
+      "slug": "2026-11-24-worshipping-at-the-altar-of-brendan-gregg.html",
+      "path": "posts/2026-11-24-worshipping-at-the-altar-of-brendan-gregg.html",
+      "date_iso": "2026-11-24T10:50:14+00:00",
+      "source": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+      "summary": "Article URL: https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg Comments URL: https://news.ycombinator.com/item?id=50626413 Points: 183 # Comments: 29"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html",
+      "title": "From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang",
+      "slug": "2026-11-24-from-chinese-factory-town-to-the-nvidia-scandal-the-rise-of-alice-huang.html",
+      "path": "posts/2026-11-24-from-chinese-factory-town-to-the-nvidia-scandal-the-rise-of-alice-huang.html",
+      "date_iso": "2026-11-24T10:03:11+00:00",
+      "source": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html",
+      "summary": "The woman whose role has become a focus of the Nvidia spying saga grew up in a small town built around a weapons factory. Her jump to finance and the tech world paralleled China’s own."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50625953",
+      "title": "Just a Few Bugs",
+      "slug": "2026-11-24-just-a-few-bugs.html",
+      "path": "posts/2026-11-24-just-a-few-bugs.html",
+      "date_iso": "2026-11-24T09:47:59+00:00",
+      "source": "https://www.justafewbugs.xyz/",
+      "summary": "Article URL: https://www.justafewbugs.xyz/ Comments URL: https://news.ycombinator.com/item?id=50625953 Points: 116 # Comments: 40"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50625384",
+      "title": "Quad9 pulled their DNS service from France",
+      "slug": "2026-11-24-quad9-pulled-their-dns-service-from-france.html",
+      "path": "posts/2026-11-24-quad9-pulled-their-dns-service-from-france.html",
+      "date_iso": "2026-11-24T08:33:14+00:00",
+      "source": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
+      "summary": "Article URL: https://quad9.net/news/blog/quad9-service-deactivation-in-france/ Comments URL: https://news.ycombinator.com/item?id=50625384 Points: 220 # Comments: 121"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50624497",
+      "title": "2035 came early",
+      "slug": "2026-11-24-2035-came-early.html",
+      "path": "posts/2026-11-24-2035-came-early.html",
+      "date_iso": "2026-11-24T06:30:33+00:00",
+      "source": "https://fzakaria.com/2026/11/23/2035-came-early",
+      "summary": "Article URL: https://fzakaria.com/2026/11/23/2035-came-early Comments URL: https://news.ycombinator.com/item?id=50624497 Points: 815 # Comments: 301"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50624061",
+      "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+      "slug": "2026-11-24-amd-epyc-zen-6-vs-zen-1-performance-12-1x-geo-mean-in-less-than-10-years.html",
+      "path": "posts/2026-11-24-amd-epyc-zen-6-vs-zen-1-performance-12-1x-geo-mean-in-less-than-10-years.html",
+      "date_iso": "2026-11-24T05:15:22+00:00",
+      "source": "https://www.phoronix.com/review/amd-epyc-9006-7601",
+      "summary": "Article URL: https://www.phoronix.com/review/amd-epyc-9006-7601 Comments URL: https://news.ycombinator.com/item?id=50624061 Points: 204 # Comments: 104"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html",
+      "title": "OpenAI Engineer Secretly Recorded Dozens of Meetings, Prosecutors Say",
+      "slug": "2026-11-24-openai-engineer-secretly-recorded-dozens-of-meetings-prosecutors-say.html",
+      "path": "posts/2026-11-24-openai-engineer-secretly-recorded-dozens-of-meetings-prosecutors-say.html",
+      "date_iso": "2026-11-24T01:36:37+00:00",
+      "source": "https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html",
+      "summary": "Prosecutors say they still do not know why the man made his recordings."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/23/podcasts/why-trump-put-jensen-huang-back-in-charge-at-nvidia.html",
+      "title": "Why Trump Put Jensen Huang Back in Charge at Nvidia",
+      "slug": "2026-11-24-why-trump-put-jensen-huang-back-in-charge-at-nvidia.html",
+      "path": "posts/2026-11-24-why-trump-put-jensen-huang-back-in-charge-at-nvidia.html",
+      "date_iso": "2026-11-24T01:33:12+00:00",
+      "source": "https://www.nytimes.com/2026/11/23/podcasts/why-trump-put-jensen-huang-back-in-charge-at-nvidia.html",
+      "summary": "In a shocking turn, the chip-making giant reinstated its chief executive. We unpack how it happened — and what it means."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-national-security.html",
+      "title": "Trump’s Extraordinary Nvidia Intervention Sidelines National Security Concerns",
+      "slug": "2026-11-24-trump-s-extraordinary-nvidia-intervention-sidelines-national-security-concerns.html",
+      "path": "posts/2026-11-24-trump-s-extraordinary-nvidia-intervention-sidelines-national-security-concerns.html",
+      "date_iso": "2026-11-24T00:55:56+00:00",
+      "source": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-national-security.html",
+      "summary": "“I’m doing it for the country,” President Trump told CNBC on Monday shortly after Nvidia’s board reinstated Jensen Huang as chief executive."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/23/technology/republicans-trump-jensen-huang-nvidia.html",
+      "title": "Republicans Break With Trump Over Jensen Huang’s Reinstatement at Nvidia",
+      "slug": "2026-11-23-republicans-break-with-trump-over-jensen-huang-s-reinstatement-at-nvidia.html",
+      "path": "posts/2026-11-23-republicans-break-with-trump-over-jensen-huang-s-reinstatement-at-nvidia.html",
+      "date_iso": "2026-11-23T23:18:46+00:00",
+      "source": "https://www.nytimes.com/2026/11/23/technology/republicans-trump-jensen-huang-nvidia.html",
+      "summary": "Senator John Curtis, Republican of Utah, questioned why the board had reversed course just 11 days after Jensen Huang’s departure."
+    },
+    {
       "id": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html",
       "title": "Trump Is Said to Have Directed Effort to Reinstate Nvidia Chief",
       "slug": "2026-11-23-trump-is-said-to-have-directed-effort-to-reinstate-nvidia-chief.html",
