@@ -1,6 +1,240 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=50644817",
+      "title": "1Password Security Incident",
+      "slug": "2026-11-25-1password-security-incident.html",
+      "path": "posts/2026-11-25-1password-security-incident.html",
+      "date_iso": "2026-11-25T17:18:26+00:00",
+      "source": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "summary": "Article URL: https://1password.com/blog/update-on-nov-2026-security-incident Comments URL: https://news.ycombinator.com/item?id=50644817 Points: 55 # Comments: 23"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50643720",
+      "title": "Investigating degraded experiences across GitHub products",
+      "slug": "2026-11-25-investigating-degraded-experiences-across-github-products.html",
+      "path": "posts/2026-11-25-investigating-degraded-experiences-across-github-products.html",
+      "date_iso": "2026-11-25T15:59:23+00:00",
+      "source": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
+      "summary": "Article URL: https://www.githubstatus.com/incidents/qn8mfv6q5hlx Comments URL: https://news.ycombinator.com/item?id=50643720 Points: 116 # Comments: 60"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/25/technology/anthropic-stock-tech-start-ups.html",
+      "title": "Anthropic’s Stock Debut Could Hurt Tech Start-Ups",
+      "slug": "2026-11-25-anthropic-s-stock-debut-could-hurt-tech-start-ups.html",
+      "path": "posts/2026-11-25-anthropic-s-stock-debut-could-hurt-tech-start-ups.html",
+      "date_iso": "2026-11-25T15:43:56+00:00",
+      "source": "https://www.nytimes.com/2026/11/25/technology/anthropic-stock-tech-start-ups.html",
+      "summary": "Anthropic’s chief executive, Dario Amodei, on a screen at the New York Stock Exchange during the company’s initial public offering last Thursday."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50643129",
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "slug": "2026-11-25-a-few-questions-for-the-guy-who-went-snorkeling-in-a-home-depot-retention-pond.html",
+      "path": "posts/2026-11-25-a-few-questions-for-the-guy-who-went-snorkeling-in-a-home-depot-retention-pond.html",
+      "date_iso": "2026-11-25T15:14:32+00:00",
+      "source": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "summary": "Article URL: https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts Comments URL: https://news.ycombinator.com/item?id=50643129 Points: 244 # Comments: 68"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50643065",
+      "title": "Rumors swirling that labs might have cracked Factoring in P",
+      "slug": "2026-11-25-rumors-swirling-that-labs-might-have-cracked-factoring-in-p.html",
+      "path": "posts/2026-11-25-rumors-swirling-that-labs-might-have-cracked-factoring-in-p.html",
+      "date_iso": "2026-11-25T15:08:44+00:00",
+      "source": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
+      "summary": "Article URL: https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/ Comments URL: https://news.ycombinator.com/item?id=50643065 Points: 194 # Comments: 131"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50642939",
+      "title": "I checked Clojure's core with Lean and found unreported bugs",
+      "slug": "2026-11-25-i-checked-clojure-s-core-with-lean-and-found-unreported-bugs.html",
+      "path": "posts/2026-11-25-i-checked-clojure-s-core-with-lean-and-found-unreported-bugs.html",
+      "date_iso": "2026-11-25T14:56:52+00:00",
+      "source": "https://s.conao3.com/blog/2026/e4f733",
+      "summary": "Article URL: https://s.conao3.com/blog/2026/e4f733 Comments URL: https://news.ycombinator.com/item?id=50642939 Points: 45 # Comments: 12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50642086",
+      "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
+      "slug": "2026-11-25-google-releases-cogentic-papers-on-integer-factorization-discrete-logs-and-more.html",
+      "path": "posts/2026-11-25-google-releases-cogentic-papers-on-integer-factorization-discrete-logs-and-more.html",
+      "date_iso": "2026-11-25T13:33:07+00:00",
+      "source": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "summary": "Article URL: https://github.com/google-research/google-research/tree/master/cogentic_research_papers Comments URL: https://news.ycombinator.com/item?id=50642086 Points: 276 # Comments: 225"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50641323",
+      "title": "Hazel (YC W24) Is Hiring a Product Designer",
+      "slug": "2026-11-25-hazel-yc-w24-is-hiring-a-product-designer.html",
+      "path": "posts/2026-11-25-hazel-yc-w24-is-hiring-a-product-designer.html",
+      "date_iso": "2026-11-25T12:00:34+00:00",
+      "source": "https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract",
+      "summary": "Article URL: https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract Comments URL: https://news.ycombinator.com/item?id=50641323 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50641171",
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "slug": "2026-11-25-windows-loudness-equalization-reverse-engineered-and-ported-to-pipewire.html",
+      "path": "posts/2026-11-25-windows-loudness-equalization-reverse-engineered-and-ported-to-pipewire.html",
+      "date_iso": "2026-11-25T11:34:25+00:00",
+      "source": "https://github.com/xoxorwr/pw-loudness-eq",
+      "summary": "Article URL: https://github.com/xoxorwr/pw-loudness-eq Comments URL: https://news.ycombinator.com/item?id=50641171 Points: 242 # Comments: 137"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/25/technology/thanksgiving-ai-doom-family.html",
+      "title": "How to Talk to Your Family About A.I. Doom at Thanksgiving",
+      "slug": "2026-11-25-how-to-talk-to-your-family-about-a-i-doom-at-thanksgiving.html",
+      "path": "posts/2026-11-25-how-to-talk-to-your-family-about-a-i-doom-at-thanksgiving.html",
+      "date_iso": "2026-11-25T10:04:13+00:00",
+      "source": "https://www.nytimes.com/2026/11/25/technology/thanksgiving-ai-doom-family.html",
+      "summary": "For people steeped in the world of artificial intelligence, the topic could be a minefield at this year’s dinner."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/25/technology/personaltech/apps-widgets.html",
+      "title": "How to Use Your Apps With Fewer Taps",
+      "slug": "2026-11-25-how-to-use-your-apps-with-fewer-taps.html",
+      "path": "posts/2026-11-25-how-to-use-your-apps-with-fewer-taps.html",
+      "date_iso": "2026-11-25T10:03:55+00:00",
+      "source": "https://www.nytimes.com/2026/11/25/technology/personaltech/apps-widgets.html",
+      "summary": "As shown on an iPad, pressing an icon just long enough for a menu to pop up can often give you shortcuts to certain actions within that app. Some apps also include widget options at the top of the menu that you can use to add a mini-version of the app to the screen."
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/25/arts/design/artport-whitney-museum-digital-art-ai-paul.html",
+      "title": "The Web May Be Dying. Can Net Art Save It?",
+      "slug": "2026-11-25-the-web-may-be-dying-can-net-art-save-it.html",
+      "path": "posts/2026-11-25-the-web-may-be-dying-can-net-art-save-it.html",
+      "date_iso": "2026-11-25T10:02:18+00:00",
+      "source": "https://www.nytimes.com/2026/11/25/arts/design/artport-whitney-museum-digital-art-ai-paul.html",
+      "summary": "Live Study by Micheal Mandiberg at the Artport exhibition at the Whitney Museum of American Art in New York, NY on Thursday, November 19, 2026"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50638503",
+      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+      "slug": "2026-11-25-show-hn-old-nvidia-and-ati-tech-demos-running-again-in-the-browser.html",
+      "path": "posts/2026-11-25-show-hn-old-nvidia-and-ati-tech-demos-running-again-in-the-browser.html",
+      "date_iso": "2026-11-25T04:31:48+00:00",
+      "source": "https://gpu-demo-gallery.pages.dev/",
+      "summary": "Article URL: https://gpu-demo-gallery.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50638503 Points: 279 # Comments: 61"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50638478",
+      "title": "Taking over US Treasury subdomains for $3 each",
+      "slug": "2026-11-25-taking-over-us-treasury-subdomains-for-3-each.html",
+      "path": "posts/2026-11-25-taking-over-us-treasury-subdomains-for-3-each.html",
+      "date_iso": "2026-11-25T04:27:55+00:00",
+      "source": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+      "summary": "Article URL: https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each Comments URL: https://news.ycombinator.com/item?id=50638478 Points: 194 # Comments: 38"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50638220",
+      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "slug": "2026-11-25-marginalia-search-money-c-rust-ai-stuff.html",
+      "path": "posts/2026-11-25-marginalia-search-money-c-rust-ai-stuff.html",
+      "date_iso": "2026-11-25T03:47:42+00:00",
+      "source": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/ Comments URL: https://news.ycombinator.com/item?id=50638220 Points: 202 # Comments: 78"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50638032",
+      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+      "slug": "2026-11-25-button-sounds-collection-of-professionally-recorded-button-clicks-and-presses.html",
+      "path": "posts/2026-11-25-button-sounds-collection-of-professionally-recorded-button-clicks-and-presses.html",
+      "date_iso": "2026-11-25T03:23:07+00:00",
+      "source": "https://buttons.joshwcomeau.com/",
+      "summary": "Article URL: https://buttons.joshwcomeau.com/ Comments URL: https://news.ycombinator.com/item?id=50638032 Points: 715 # Comments: 115"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50637890",
+      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+      "slug": "2026-11-25-bypassing-ios-safari-s-60-fps-limit-to-build-web-applications-that-feel-native.html",
+      "path": "posts/2026-11-25-bypassing-ios-safari-s-60-fps-limit-to-build-web-applications-that-feel-native.html",
+      "date_iso": "2026-11-25T03:04:37+00:00",
+      "source": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+      "summary": "Article URL: https://rida.dev/blog/bypassing-ios-safari-60-fps-limit Comments URL: https://news.ycombinator.com/item?id=50637890 Points: 376 # Comments: 130"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50637686",
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "slug": "2026-11-25-models-can-communicate-via-inference-servers-despite-being-sandboxed.html",
+      "path": "posts/2026-11-25-models-can-communicate-via-inference-servers-despite-being-sandboxed.html",
+      "date_iso": "2026-11-25T02:34:21+00:00",
+      "source": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "summary": "Article URL: https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being Comments URL: https://news.ycombinator.com/item?id=50637686 Points: 390 # Comments: 165"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50637220",
+      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+      "slug": "2026-11-25-matrix-multiplication-is-n-2-25-pdf.html",
+      "path": "posts/2026-11-25-matrix-multiplication-is-n-2-25-pdf.html",
+      "date_iso": "2026-11-25T01:19:26+00:00",
+      "source": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "summary": "Article URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50637220 Points: 893 # Comments: 505"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50637056",
+      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "slug": "2026-11-25-pengpt-a-generative-transformer-for-handwriting-and-sketches.html",
+      "path": "posts/2026-11-25-pengpt-a-generative-transformer-for-handwriting-and-sketches.html",
+      "date_iso": "2026-11-25T00:54:49+00:00",
+      "source": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "summary": "Article URL: https://greydanus.github.io/2026/11/12/pengpt/ Comments URL: https://news.ycombinator.com/item?id=50637056 Points: 364 # Comments: 66"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
+      "title": "Blanche Downplays Questions Over Nvidia as Investigators Examine Company’s Customers",
+      "slug": "2026-11-24-blanche-downplays-questions-over-nvidia-as-investigators-examine-company-s-customers.html",
+      "path": "posts/2026-11-24-blanche-downplays-questions-over-nvidia-as-investigators-examine-company-s-customers.html",
+      "date_iso": "2026-11-24T23:27:37+00:00",
+      "source": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
+      "summary": "“I have no reason to stand up here and say Nvidia is anything but a good corporate citizen,” Attorney General Todd Blanche said."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50635783",
+      "title": "Predicting LoRA size for any dataset",
+      "slug": "2026-11-24-predicting-lora-size-for-any-dataset.html",
+      "path": "posts/2026-11-24-predicting-lora-size-for-any-dataset.html",
+      "date_iso": "2026-11-24T22:34:29+00:00",
+      "source": "https://engram.com/blog/lora-size",
+      "summary": "Article URL: https://engram.com/blog/lora-size Comments URL: https://news.ycombinator.com/item?id=50635783 Points: 39 # Comments: 1"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html",
+      "title": "Jensen Huang Apologizes to Nvidia Employees, Says He Is in Therapy",
+      "slug": "2026-11-24-jensen-huang-apologizes-to-nvidia-employees-says-he-is-in-therapy.html",
+      "path": "posts/2026-11-24-jensen-huang-apologizes-to-nvidia-employees-says-he-is-in-therapy.html",
+      "date_iso": "2026-11-24T21:46:11+00:00",
+      "source": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html",
+      "summary": "A photo posted to an Nvidia social media account on Monday showed Jensen Huang returning to the company’s headquarters in Santa Clara, Calif."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50634658",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "slug": "2026-11-24-gpt-6-models-demonstrate-intrinsic-protein-design-capabilities.html",
+      "path": "posts/2026-11-24-gpt-6-models-demonstrate-intrinsic-protein-design-capabilities.html",
+      "date_iso": "2026-11-24T21:02:22+00:00",
+      "source": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "summary": "Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/ Comments URL: https://news.ycombinator.com/item?id=50634658 Points: 339 # Comments: 93"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50634426",
+      "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+      "slug": "2026-11-24-launch-hn-versine-yc-f26-mcp-to-send-and-receive-money.html",
+      "path": "posts/2026-11-24-launch-hn-versine-yc-f26-mcp-to-send-and-receive-money.html",
+      "date_iso": "2026-11-24T20:44:15+00:00",
+      "source": "https://news.ycombinator.com/item?id=50634426",
+      "summary": "Hey HN, we’re Harshith, Param, and Vishnu and we're building Versine ( https://versine.com ). Versine lets you send and request money just by talking or texting with your AI (think Venmo with an MCP). We’re software engineers who have worked on distributed systems at Stripe, Dat…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50633922",
+      "title": "Ternary Bonsai 2.5 27B",
+      "slug": "2026-11-24-ternary-bonsai-2-5-27b.html",
+      "path": "posts/2026-11-24-ternary-bonsai-2-5-27b.html",
+      "date_iso": "2026-11-24T20:08:03+00:00",
+      "source": "https://prismml.com/news/bonsai-2-5-27b",
+      "summary": "Article URL: https://prismml.com/news/bonsai-2-5-27b Comments URL: https://news.ycombinator.com/item?id=50633922 Points: 513 # Comments: 167"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50631900",
       "title": "AstridVPN: A VPN that doesn't know who you are",
       "slug": "2026-11-24-astridvpn-a-vpn-that-doesn-t-know-who-you-are.html",
