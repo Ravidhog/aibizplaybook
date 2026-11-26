@@ -1,6 +1,213 @@
 {
   "posts": [
     {
+      "id": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
+      "title": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
+      "slug": "2026-11-26-jensen-huang-is-back-and-so-is-his-plaque-at-denny-s.html",
+      "path": "posts/2026-11-26-jensen-huang-is-back-and-so-is-his-plaque-at-denny-s.html",
+      "date_iso": "2026-11-26T17:23:31+00:00",
+      "source": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
+      "summary": "A plaque above a booth at a Denny’s in San Jose, Calif., ties the location to Nvidia’s origin story."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50657265",
+      "title": "AMD Specific Patches for Llama.cpp",
+      "slug": "2026-11-26-amd-specific-patches-for-llama-cpp.html",
+      "path": "posts/2026-11-26-amd-specific-patches-for-llama-cpp.html",
+      "date_iso": "2026-11-26T17:11:29+00:00",
+      "source": "https://devnull.land/amd-specific-llama-cpp",
+      "summary": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 15 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50657110",
+      "title": "One guy is doing an hunger strike at Anthropic, currently in his 3rd day",
+      "slug": "2026-11-26-one-guy-is-doing-an-hunger-strike-at-anthropic-currently-in-his-3rd-day.html",
+      "path": "posts/2026-11-26-one-guy-is-doing-an-hunger-strike-at-anthropic-currently-in-his-3rd-day.html",
+      "date_iso": "2026-11-26T16:55:15+00:00",
+      "source": "https://twitter.com/ElliotC1/status/2125689373337489419",
+      "summary": "Article URL: https://twitter.com/ElliotC1/status/2125689373337489419 Comments URL: https://news.ycombinator.com/item?id=50657110 Points: 26 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50657059",
+      "title": "NP_R ≠ PAR_R",
+      "slug": "2026-11-26-np-r-par-r.html",
+      "path": "posts/2026-11-26-np-r-par-r.html",
+      "date_iso": "2026-11-26T16:50:55+00:00",
+      "source": "https://github.com/samueleverett01/bss-permanent-separations",
+      "summary": "Article URL: https://github.com/samueleverett01/bss-permanent-separations Comments URL: https://news.ycombinator.com/item?id=50657059 Points: 29 # Comments: 7"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50656763",
+      "title": "Ask HN: Any courses/products by indie makers worth getting today?",
+      "slug": "2026-11-26-ask-hn-any-courses-products-by-indie-makers-worth-getting-today.html",
+      "path": "posts/2026-11-26-ask-hn-any-courses-products-by-indie-makers-worth-getting-today.html",
+      "date_iso": "2026-11-26T16:16:41+00:00",
+      "source": "https://news.ycombinator.com/item?id=50656763",
+      "summary": "Though I am not a JS dev, I got threejs-journey (no affiliation with the creator) last year on a whim, enjoyed it. Any courses/products/books etc that you recommend, specifically from Indie makers? Not interested in big promotions like Udemy, Datacamp etc Comments URL: https://n…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50656036",
+      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+      "slug": "2026-11-26-show-hn-three-linux-vms-in-a-browser-tab-each-running-a-different-browser.html",
+      "path": "posts/2026-11-26-show-hn-three-linux-vms-in-a-browser-tab-each-running-a-different-browser.html",
+      "date_iso": "2026-11-26T15:00:06+00:00",
+      "source": "https://michidk.github.io/sidebyside/",
+      "summary": "Article URL: https://michidk.github.io/sidebyside/ Comments URL: https://news.ycombinator.com/item?id=50656036 Points: 33 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50655664",
+      "title": "Tell HN: Happy Thanksgiving",
+      "slug": "2026-11-26-tell-hn-happy-thanksgiving.html",
+      "path": "posts/2026-11-26-tell-hn-happy-thanksgiving.html",
+      "date_iso": "2026-11-26T14:26:54+00:00",
+      "source": "https://news.ycombinator.com/item?id=50655664",
+      "summary": "Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway! Comments URL: https://news.ycombinator.com/item?id=50655664 Points: 348 # Comments: 100"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50655278",
+      "title": "45°C inlets just killed the chiller. Most people haven't noticed yet",
+      "slug": "2026-11-26-45-c-inlets-just-killed-the-chiller-most-people-haven-t-noticed-yet.html",
+      "path": "posts/2026-11-26-45-c-inlets-just-killed-the-chiller-most-people-haven-t-noticed-yet.html",
+      "date_iso": "2026-11-26T13:48:11+00:00",
+      "source": "https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831",
+      "summary": "Article URL: https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831 Comments URL: https://news.ycombinator.com/item?id=50655278 Points: 150 # Comments: 70"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
+      "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
+      "slug": "2026-11-26-nvidia-halts-sales-to-southeast-asia-as-u-s-tightens-china-restrictions.html",
+      "path": "posts/2026-11-26-nvidia-halts-sales-to-southeast-asia-as-u-s-tightens-china-restrictions.html",
+      "date_iso": "2026-11-26T12:04:01+00:00",
+      "source": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
+      "summary": "The shipping halt, which hit four countries, follows a new U.S. rule that would require licenses for companies in the countries to buy advanced A.I. chips."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50654353",
+      "title": "Head of Software Engineering – NOX Metals",
+      "slug": "2026-11-26-head-of-software-engineering-nox-metals.html",
+      "path": "posts/2026-11-26-head-of-software-engineering-nox-metals.html",
+      "date_iso": "2026-11-26T12:00:00+00:00",
+      "source": "https://news.ycombinator.com/item?id=50654353",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=50654353 Points: 0 # Comments: 0"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50654289",
+      "title": "Nextcloud Office Desktop app",
+      "slug": "2026-11-26-nextcloud-office-desktop-app.html",
+      "path": "posts/2026-11-26-nextcloud-office-desktop-app.html",
+      "date_iso": "2026-11-26T11:50:49+00:00",
+      "source": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+      "summary": "Article URL: https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/ Comments URL: https://news.ycombinator.com/item?id=50654289 Points: 335 # Comments: 140"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50653667",
+      "title": "Intel One Mono font",
+      "slug": "2026-11-26-intel-one-mono-font.html",
+      "path": "posts/2026-11-26-intel-one-mono-font.html",
+      "date_iso": "2026-11-26T10:11:01+00:00",
+      "source": "https://github.com/intel/intel-one-mono",
+      "summary": "Article URL: https://github.com/intel/intel-one-mono Comments URL: https://news.ycombinator.com/item?id=50653667 Points: 338 # Comments: 195"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50652184",
+      "title": "Moat: Your OpenRouter Replacement",
+      "slug": "2026-11-26-moat-your-openrouter-replacement.html",
+      "path": "posts/2026-11-26-moat-your-openrouter-replacement.html",
+      "date_iso": "2026-11-26T06:32:48+00:00",
+      "source": "https://commandcode.ai/moat",
+      "summary": "Article URL: https://commandcode.ai/moat Comments URL: https://news.ycombinator.com/item?id=50652184 Points: 179 # Comments: 106"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50651863",
+      "title": "An algebraic quantization of gravity from the null cone",
+      "slug": "2026-11-26-an-algebraic-quantization-of-gravity-from-the-null-cone.html",
+      "path": "posts/2026-11-26-an-algebraic-quantization-of-gravity-from-the-null-cone.html",
+      "date_iso": "2026-11-26T05:37:51+00:00",
+      "source": "https://arxiv.org/abs/2611.34924",
+      "summary": "Article URL: https://arxiv.org/abs/2611.34924 Comments URL: https://news.ycombinator.com/item?id=50651863 Points: 139 # Comments: 42"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50651719",
+      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+      "slug": "2026-11-26-lions-commentary-on-unix-why-it-was-secretly-copied-for-20-years.html",
+      "path": "posts/2026-11-26-lions-commentary-on-unix-why-it-was-secretly-copied-for-20-years.html",
+      "date_iso": "2026-11-26T05:12:59+00:00",
+      "source": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+      "summary": "Article URL: https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/ Comments URL: https://news.ycombinator.com/item?id=50651719 Points: 208 # Comments: 44"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50651627",
+      "title": "Unconditional Integer Factorization in Subexponential Time",
+      "slug": "2026-11-26-unconditional-integer-factorization-in-subexponential-time.html",
+      "path": "posts/2026-11-26-unconditional-integer-factorization-in-subexponential-time.html",
+      "date_iso": "2026-11-26T04:59:56+00:00",
+      "source": "https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization",
+      "summary": "Article URL: https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization Comments URL: https://news.ycombinator.com/item?id=50651627 Points: 122 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50650892",
+      "title": "Minipg: PostgreSQL as a Single Executable",
+      "slug": "2026-11-26-minipg-postgresql-as-a-single-executable.html",
+      "path": "posts/2026-11-26-minipg-postgresql-as-a-single-executable.html",
+      "date_iso": "2026-11-26T03:00:48+00:00",
+      "source": "https://progrium.github.io/minipg/",
+      "summary": "Article URL: https://progrium.github.io/minipg/ Comments URL: https://news.ycombinator.com/item?id=50650892 Points: 246 # Comments: 35"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50649864",
+      "title": "Tell HN: Lots of Ask HNs again",
+      "slug": "2026-11-26-tell-hn-lots-of-ask-hns-again.html",
+      "path": "posts/2026-11-26-tell-hn-lots-of-ask-hns-again.html",
+      "date_iso": "2026-11-26T00:43:34+00:00",
+      "source": "https://news.ycombinator.com/item?id=50649864",
+      "summary": "There have been questions about why the /ask page ( https://news.ycombinator.com/ask ) was running dry of Ask HNs - e.g.: Ask HN: Why is Ask HN only showing me 14 posts? - https://news.ycombinator.com/item?id=49984484 - Oct 2026 (47 comments) Ask HN: Why is pagination gone on \"A…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50649834",
+      "title": "Collection of preserved UI style guides",
+      "slug": "2026-11-26-collection-of-preserved-ui-style-guides.html",
+      "path": "posts/2026-11-26-collection-of-preserved-ui-style-guides.html",
+      "date_iso": "2026-11-26T00:40:00+00:00",
+      "source": "https://aresluna.org/ui-style-guides/",
+      "summary": "Article URL: https://aresluna.org/ui-style-guides/ Comments URL: https://news.ycombinator.com/item?id=50649834 Points: 340 # Comments: 64"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50648365",
+      "title": "Bare Metal Qwen",
+      "slug": "2026-11-25-bare-metal-qwen.html",
+      "path": "posts/2026-11-25-bare-metal-qwen.html",
+      "date_iso": "2026-11-25T22:15:34+00:00",
+      "source": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+      "summary": "Article URL: https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os Comments URL: https://news.ycombinator.com/item?id=50648365 Points: 220 # Comments: 53"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html",
+      "title": "A Man in Denver Has Been Throwing Eggs at Waymo Vehicles",
+      "slug": "2026-11-25-a-man-in-denver-has-been-throwing-eggs-at-waymo-vehicles.html",
+      "path": "posts/2026-11-25-a-man-in-denver-has-been-throwing-eggs-at-waymo-vehicles.html",
+      "date_iso": "2026-11-25T21:36:35+00:00",
+      "source": "https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html",
+      "summary": "A Waymo vehicle driving in Denver last month. The company started its driverless service in the city in September."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50647673",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "slug": "2026-11-25-the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features.html",
+      "path": "posts/2026-11-25-the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features.html",
+      "date_iso": "2026-11-25T21:18:02+00:00",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "summary": "https://archive.ph/pcUgy Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 552 # Comments: 465"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50647181",
+      "title": "Slow Ubuntu security response times",
+      "slug": "2026-11-25-slow-ubuntu-security-response-times.html",
+      "path": "posts/2026-11-25-slow-ubuntu-security-response-times.html",
+      "date_iso": "2026-11-25T20:38:00+00:00",
+      "source": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "summary": "Article URL: https://www.openwall.com/lists/oss-security/2026/11/25/9 Comments URL: https://news.ycombinator.com/item?id=50647181 Points: 380 # Comments: 226"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50644817",
       "title": "1Password Security Incident",
       "slug": "2026-11-25-1password-security-incident.html",
