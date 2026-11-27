@@ -1,6 +1,204 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=50668828",
+      "title": "Nvidia CEO's comeback fuels debate on misogyny or impunity for rich and powerful",
+      "slug": "2026-11-27-nvidia-ceo-s-comeback-fuels-debate-on-misogyny-or-impunity-for-rich-and-powerful.html",
+      "path": "posts/2026-11-27-nvidia-ceo-s-comeback-fuels-debate-on-misogyny-or-impunity-for-rich-and-powerful.html",
+      "date_iso": "2026-11-27T16:43:06+00:00",
+      "source": "https://www.pbs.org/newshour/nation/nvidia-ceos-comeback-fuels-debate-over-misogyny-and-impunity-for-the-rich-and-powerful",
+      "summary": "Article URL: https://www.pbs.org/newshour/nation/nvidia-ceos-comeback-fuels-debate-over-misogyny-and-impunity-for-the-rich-and-powerful Comments URL: https://news.ycombinator.com/item?id=50668828 Points: 4 # Comments: 4"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50668145",
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "slug": "2026-11-27-credit-card-skimming-scripts-using-webrtc-found-on-popular-shopping-sites.html",
+      "path": "posts/2026-11-27-credit-card-skimming-scripts-using-webrtc-found-on-popular-shopping-sites.html",
+      "date_iso": "2026-11-27T15:40:31+00:00",
+      "source": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "summary": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 72 # Comments: 24"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50667989",
+      "title": "False computer-checked proofs",
+      "slug": "2026-11-27-false-computer-checked-proofs.html",
+      "path": "posts/2026-11-27-false-computer-checked-proofs.html",
+      "date_iso": "2026-11-27T15:26:09+00:00",
+      "source": "https://cr.yp.to/proofs/falseccp.html",
+      "summary": "Article URL: https://cr.yp.to/proofs/falseccp.html Comments URL: https://news.ycombinator.com/item?id=50667989 Points: 44 # Comments: 15"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50667744",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "slug": "2026-11-27-gpt-6-2-astra-solves-a-historical-mystery.html",
+      "path": "posts/2026-11-27-gpt-6-2-astra-solves-a-historical-mystery.html",
+      "date_iso": "2026-11-27T15:03:17+00:00",
+      "source": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "summary": "Article URL: https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical Comments URL: https://news.ycombinator.com/item?id=50667744 Points: 86 # Comments: 39"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50667726",
+      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "slug": "2026-11-27-show-hn-bouncemarket-a-live-prediction-market-game-for-a-bouncing-ball.html",
+      "path": "posts/2026-11-27-show-hn-bouncemarket-a-live-prediction-market-game-for-a-bouncing-ball.html",
+      "date_iso": "2026-11-27T15:01:50+00:00",
+      "source": "https://bouncemarket.minhanhday.com/",
+      "summary": "a ball will fall. trade on where it lands. I made this game! Some technical details: The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer. Every drop is deterministic from its starting position, so rounds ca…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50667452",
+      "title": "Show HN: I restored Palm's last device, and brought its OS to other platforms",
+      "slug": "2026-11-27-show-hn-i-restored-palm-s-last-device-and-brought-its-os-to-other-platforms.html",
+      "path": "posts/2026-11-27-show-hn-i-restored-palm-s-last-device-and-brought-its-os-to-other-platforms.html",
+      "date_iso": "2026-11-27T14:37:02+00:00",
+      "source": "https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far/",
+      "summary": "webOS Community Edition 3.2.0 is the first OTA Update for Palm/HP's TouchPad, modernizing a 15-year old device. Lunacy is its sibling: the webOS experience, and apps, on Android. Luna DE is a developer tool that brings the webOS app contract to Mac, Windows and Linux as a SDK-co…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50667143",
+      "title": "Norse Atlantic suspends all flights as it faces potential collapse",
+      "slug": "2026-11-27-norse-atlantic-suspends-all-flights-as-it-faces-potential-collapse.html",
+      "path": "posts/2026-11-27-norse-atlantic-suspends-all-flights-as-it-faces-potential-collapse.html",
+      "date_iso": "2026-11-27T14:09:44+00:00",
+      "source": "https://www.bbc.com/news/articles/c9kgmd0ldy0lo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c9kgmd0ldy0lo Comments URL: https://news.ycombinator.com/item?id=50667143 Points: 44 # Comments: 35"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50667062",
+      "title": "Making a 3D fantasy map like a 16th-Century atlas",
+      "slug": "2026-11-27-making-a-3d-fantasy-map-like-a-16th-century-atlas.html",
+      "path": "posts/2026-11-27-making-a-3d-fantasy-map-like-a-16th-century-atlas.html",
+      "date_iso": "2026-11-27T14:02:52+00:00",
+      "source": "https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas",
+      "summary": "Article URL: https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas Comments URL: https://news.ycombinator.com/item?id=50667062 Points: 16 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50666436",
+      "title": "Mental Health Resources and Political Engagement",
+      "slug": "2026-11-27-mental-health-resources-and-political-engagement.html",
+      "path": "posts/2026-11-27-mental-health-resources-and-political-engagement.html",
+      "date_iso": "2026-11-27T13:01:02+00:00",
+      "source": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219",
+      "summary": "Article URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219 Comments URL: https://news.ycombinator.com/item?id=50666436 Points: 92 # Comments: 164"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50666375",
+      "title": "US Air Force's cloud computing platform hacked",
+      "slug": "2026-11-27-us-air-force-s-cloud-computing-platform-hacked.html",
+      "path": "posts/2026-11-27-us-air-force-s-cloud-computing-platform-hacked.html",
+      "date_iso": "2026-11-27T12:54:11+00:00",
+      "source": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+      "summary": "Article URL: https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163 Comments URL: https://news.ycombinator.com/item?id=50666375 Points: 182 # Comments: 101"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50666279",
+      "title": "New York and California age gating rules go into effect in the new year",
+      "slug": "2026-11-27-new-york-and-california-age-gating-rules-go-into-effect-in-the-new-year.html",
+      "path": "posts/2026-11-27-new-york-and-california-age-gating-rules-go-into-effect-in-the-new-year.html",
+      "date_iso": "2026-11-27T12:43:40+00:00",
+      "source": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year Comments URL: https://news.ycombinator.com/item?id=50666279 Points: 119 # Comments: 143"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50665968",
+      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+      "slug": "2026-11-27-a-deterministic-subexponential-time-algorithm-for-the-discrete-logarithm-problem-pdf.html",
+      "path": "posts/2026-11-27-a-deterministic-subexponential-time-algorithm-for-the-discrete-logarithm-problem-pdf.html",
+      "date_iso": "2026-11-27T12:08:51+00:00",
+      "source": "https://eprint.iacr.org/2026/3020.pdf",
+      "summary": "Article URL: https://eprint.iacr.org/2026/3020.pdf Comments URL: https://news.ycombinator.com/item?id=50665968 Points: 171 # Comments: 76"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50665920",
+      "title": "Kimi for Science: More scientific ideas, made possible",
+      "slug": "2026-11-27-kimi-for-science-more-scientific-ideas-made-possible.html",
+      "path": "posts/2026-11-27-kimi-for-science-more-scientific-ideas-made-possible.html",
+      "date_iso": "2026-11-27T12:03:11+00:00",
+      "source": "https://www.kimi.ai/news/kimi-for-science-program",
+      "summary": "Article URL: https://www.kimi.ai/news/kimi-for-science-program Comments URL: https://news.ycombinator.com/item?id=50665920 Points: 141 # Comments: 101"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50665488",
+      "title": "AI on brink of making online security useless, mathematicians fear",
+      "slug": "2026-11-27-ai-on-brink-of-making-online-security-useless-mathematicians-fear.html",
+      "path": "posts/2026-11-27-ai-on-brink-of-making-online-security-useless-mathematicians-fear.html",
+      "date_iso": "2026-11-27T11:09:04+00:00",
+      "source": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+      "summary": "https://archive.ph/4hRp8 Comments URL: https://news.ycombinator.com/item?id=50665488 Points: 88 # Comments: 108"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/27/podcasts/hardfork-terence-tao.html",
+      "title": "How A.I. Is Transforming Mathematics",
+      "slug": "2026-11-27-how-a-i-is-transforming-mathematics.html",
+      "path": "posts/2026-11-27-how-a-i-is-transforming-mathematics.html",
+      "date_iso": "2026-11-27T11:00:20+00:00",
+      "source": "https://www.nytimes.com/2026/11/27/podcasts/hardfork-terence-tao.html",
+      "summary": "“One thing that A.I. has done is that it’s given us answers without insight, without understanding.”"
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/27/magazine/ai-silicon-valley-human-extinction.html",
+      "title": "Why Some A.I. Evangelists Aren’t Bothered by the Potential for Human Extinction",
+      "slug": "2026-11-27-why-some-a-i-evangelists-aren-t-bothered-by-the-potential-for-human-extinction.html",
+      "path": "posts/2026-11-27-why-some-a-i-evangelists-aren-t-bothered-by-the-potential-for-human-extinction.html",
+      "date_iso": "2026-11-27T10:01:01+00:00",
+      "source": "https://www.nytimes.com/2026/11/27/magazine/ai-silicon-valley-human-extinction.html",
+      "summary": "Understanding the set of beliefs that drives the Silicon Valley vanguard."
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50664931",
+      "title": "Pimalaya goes stable: Himalaya v3 and the pimdir standard",
+      "slug": "2026-11-27-pimalaya-goes-stable-himalaya-v3-and-the-pimdir-standard.html",
+      "path": "posts/2026-11-27-pimalaya-goes-stable-himalaya-v3-and-the-pimdir-standard.html",
+      "date_iso": "2026-11-27T09:50:02+00:00",
+      "source": "https://blog.pimalaya.org/pimalaya-goes-stable/",
+      "summary": "Article URL: https://blog.pimalaya.org/pimalaya-goes-stable/ Comments URL: https://news.ycombinator.com/item?id=50664931 Points: 22 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50664325",
+      "title": "Claude sabotaging ML research tasks?",
+      "slug": "2026-11-27-claude-sabotaging-ml-research-tasks.html",
+      "path": "posts/2026-11-27-claude-sabotaging-ml-research-tasks.html",
+      "date_iso": "2026-11-27T08:28:08+00:00",
+      "source": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "summary": "Article URL: https://twitter.com/RealAstropulse/status/2126119408997466389 Comments URL: https://news.ycombinator.com/item?id=50664325 Points: 277 # Comments: 155"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50663595",
+      "title": "Group chat where your AI talks behind your back",
+      "slug": "2026-11-27-group-chat-where-your-ai-talks-behind-your-back.html",
+      "path": "posts/2026-11-27-group-chat-where-your-ai-talks-behind-your-back.html",
+      "date_iso": "2026-11-27T06:44:34+00:00",
+      "source": "https://construct22.com/",
+      "summary": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 547 # Comments: 241"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50663261",
+      "title": "Buy Nothing Day – Friday November 27th 2026",
+      "slug": "2026-11-27-buy-nothing-day-friday-november-27th-2026.html",
+      "path": "posts/2026-11-27-buy-nothing-day-friday-november-27th-2026.html",
+      "date_iso": "2026-11-27T05:52:42+00:00",
+      "source": "https://www.buynothingday.co.uk/",
+      "summary": "Article URL: https://www.buynothingday.co.uk/ Comments URL: https://news.ycombinator.com/item?id=50663261 Points: 277 # Comments: 84"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50663089",
+      "title": "The need for a formally verifiable mainstream programming language",
+      "slug": "2026-11-27-the-need-for-a-formally-verifiable-mainstream-programming-language.html",
+      "path": "posts/2026-11-27-the-need-for-a-formally-verifiable-mainstream-programming-language.html",
+      "date_iso": "2026-11-27T05:22:06+00:00",
+      "source": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "summary": "Article URL: https://blainehansen.me/post/mainstream-verifiable-language/ Comments URL: https://news.ycombinator.com/item?id=50663089 Points: 229 # Comments: 239"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50662933",
+      "title": "\"What's Claude's fursona?\" and other questions",
+      "slug": "2026-11-27-what-s-claude-s-fursona-and-other-questions.html",
+      "path": "posts/2026-11-27-what-s-claude-s-fursona-and-other-questions.html",
+      "date_iso": "2026-11-27T04:56:18+00:00",
+      "source": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+      "summary": "Article URL: https://herecomesthemoon.net/2026/11/whats-claudes-fursona/ Comments URL: https://news.ycombinator.com/item?id=50662933 Points: 104 # Comments: 81"
+    },
+    {
       "id": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
       "title": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
       "slug": "2026-11-26-jensen-huang-is-back-and-so-is-his-plaque-at-denny-s.html",
