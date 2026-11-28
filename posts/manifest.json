@@ -1,6 +1,150 @@
 {
   "posts": [
     {
+      "id": "https://news.ycombinator.com/item?id=50678273",
+      "title": "Physics Breakthrough Simulator",
+      "slug": "2026-11-28-physics-breakthrough-simulator.html",
+      "path": "posts/2026-11-28-physics-breakthrough-simulator.html",
+      "date_iso": "2026-11-28T14:52:45+00:00",
+      "source": "https://pages.ethanmdavidson.com/ai-physics-breakthrough",
+      "summary": "Article URL: https://pages.ethanmdavidson.com/ai-physics-breakthrough Comments URL: https://news.ycombinator.com/item?id=50678273 Points: 40 # Comments: 3"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50678186",
+      "title": "AI Isn't That Dangerous",
+      "slug": "2026-11-28-ai-isn-t-that-dangerous.html",
+      "path": "posts/2026-11-28-ai-isn-t-that-dangerous.html",
+      "date_iso": "2026-11-28T14:42:41+00:00",
+      "source": "https://www.verysane.ai/p/ai-isnt-that-dangerous",
+      "summary": "Article URL: https://www.verysane.ai/p/ai-isnt-that-dangerous Comments URL: https://news.ycombinator.com/item?id=50678186 Points: 39 # Comments: 33"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50677861",
+      "title": "Why stop at Emacs? Native apps you or an AI reprogram in Clojure while they run",
+      "slug": "2026-11-28-why-stop-at-emacs-native-apps-you-or-an-ai-reprogram-in-clojure-while-they-run.html",
+      "path": "posts/2026-11-28-why-stop-at-emacs-native-apps-you-or-an-ai-reprogram-in-clojure-while-they-run.html",
+      "date_iso": "2026-11-28T14:09:39+00:00",
+      "source": "https://github.com/RiccardoSottini/AffrescoUI",
+      "summary": "Article URL: https://github.com/RiccardoSottini/AffrescoUI Comments URL: https://news.ycombinator.com/item?id=50677861 Points: 17 # Comments: 11"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50677822",
+      "title": "The AI-designed USB-C LTE Modem is built, and it makes calls",
+      "slug": "2026-11-28-the-ai-designed-usb-c-lte-modem-is-built-and-it-makes-calls.html",
+      "path": "posts/2026-11-28-the-ai-designed-usb-c-lte-modem-is-built-and-it-makes-calls.html",
+      "date_iso": "2026-11-28T14:06:19+00:00",
+      "source": "https://koppar.ai/blog/lte-modem-bring-up/",
+      "summary": "Article URL: https://koppar.ai/blog/lte-modem-bring-up/ Comments URL: https://news.ycombinator.com/item?id=50677822 Points: 30 # Comments: 17"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50677302",
+      "title": "IBM MVS 3.8j Community Edition (52-year old OS)",
+      "slug": "2026-11-28-ibm-mvs-3-8j-community-edition-52-year-old-os.html",
+      "path": "posts/2026-11-28-ibm-mvs-3-8j-community-edition-52-year-old-os.html",
+      "date_iso": "2026-11-28T13:17:39+00:00",
+      "source": "https://github.com/MVS-sysgen/sysgen",
+      "summary": "Article URL: https://github.com/MVS-sysgen/sysgen Comments URL: https://news.ycombinator.com/item?id=50677302 Points: 19 # Comments: 2"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50677091",
+      "title": "Show HN: Luciole Mono – terminal font designed for legibility",
+      "slug": "2026-11-28-show-hn-luciole-mono-terminal-font-designed-for-legibility.html",
+      "path": "posts/2026-11-28-show-hn-luciole-mono-terminal-font-designed-for-legibility.html",
+      "date_iso": "2026-11-28T12:50:15+00:00",
+      "source": "https://scriptor-pro.github.io/luciole-mono/",
+      "summary": "TLDR : Atkinson Hyperlegible Mono alternative Luciole Mono is a vibe-clauded derivative of Luciole.Luciole was designed for visually impaired readers by Laurent Bourcellier and Jonathan Perez, at the Centre Technique Régional pour la Déficience Visuelle (typographies.fr) Please…"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50676752",
+      "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+      "slug": "2026-11-28-gguf-llm-models-with-hidden-malware-on-hugging-face-reached-2400-victims.html",
+      "path": "posts/2026-11-28-gguf-llm-models-with-hidden-malware-on-hugging-face-reached-2400-victims.html",
+      "date_iso": "2026-11-28T11:57:04+00:00",
+      "source": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
+      "summary": "Article URL: https://malspark.com/blog/malicious-gguf-models-hugging-face/ Comments URL: https://news.ycombinator.com/item?id=50676752 Points: 89 # Comments: 29"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50676723",
+      "title": "Audible removes download option for purchased audiobooks",
+      "slug": "2026-11-28-audible-removes-download-option-for-purchased-audiobooks.html",
+      "path": "posts/2026-11-28-audible-removes-download-option-for-purchased-audiobooks.html",
+      "date_iso": "2026-11-28T11:51:27+00:00",
+      "source": "https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks",
+      "summary": "Article URL: https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks Comments URL: https://news.ycombinator.com/item?id=50676723 Points: 249 # Comments: 111"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50676672",
+      "title": "Farewell",
+      "slug": "2026-11-28-farewell.html",
+      "path": "posts/2026-11-28-farewell.html",
+      "date_iso": "2026-11-28T11:42:26+00:00",
+      "source": "https://github.com/p-e-w/heretic/issues/601",
+      "summary": "Article URL: https://github.com/p-e-w/heretic/issues/601 Comments URL: https://news.ycombinator.com/item?id=50676672 Points: 581 # Comments: 261"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50676390",
+      "title": "Claude Code sabotage: preliminary benchmarking",
+      "slug": "2026-11-28-claude-code-sabotage-preliminary-benchmarking.html",
+      "path": "posts/2026-11-28-claude-code-sabotage-preliminary-benchmarking.html",
+      "date_iso": "2026-11-28T10:37:40+00:00",
+      "source": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+      "summary": "Article URL: https://xinyadu.github.io/blog/claude-code-sabotage.html Comments URL: https://news.ycombinator.com/item?id=50676390 Points: 329 # Comments: 114"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50676199",
+      "title": "Diablo II",
+      "slug": "2026-11-28-diablo-ii.html",
+      "path": "posts/2026-11-28-diablo-ii.html",
+      "date_iso": "2026-11-28T09:54:19+00:00",
+      "source": "https://www.filfre.net/2026/11/diablo-ii/",
+      "summary": "Article URL: https://www.filfre.net/2026/11/diablo-ii/ Comments URL: https://news.ycombinator.com/item?id=50676199 Points: 100 # Comments: 37"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50674452",
+      "title": "Knuth: Moratorium on Error Reports",
+      "slug": "2026-11-28-knuth-moratorium-on-error-reports.html",
+      "path": "posts/2026-11-28-knuth-moratorium-on-error-reports.html",
+      "date_iso": "2026-11-28T03:49:21+00:00",
+      "source": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
+      "summary": "Article URL: https://www-cs-faculty.stanford.edu/~knuth/moratorium.html Comments URL: https://news.ycombinator.com/item?id=50674452 Points: 286 # Comments: 148"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50674218",
+      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "slug": "2026-11-28-unkernel-real-linux-kernel-compiled-to-webassembly.html",
+      "path": "posts/2026-11-28-unkernel-real-linux-kernel-compiled-to-webassembly.html",
+      "date_iso": "2026-11-28T03:19:20+00:00",
+      "source": "https://unkernel.dev",
+      "summary": "Article URL: https://unkernel.dev Comments URL: https://news.ycombinator.com/item?id=50674218 Points: 467 # Comments: 123"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50672565",
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "slug": "2026-11-27-google-s-deepcrossattention-achieves-comparable-model-quality-up-to-3x-faster.html",
+      "path": "posts/2026-11-27-google-s-deepcrossattention-achieves-comparable-model-quality-up-to-3x-faster.html",
+      "date_iso": "2026-11-27T23:06:29+00:00",
+      "source": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "summary": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points: 509 # Comments: 179"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50672521",
+      "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+      "slug": "2026-11-27-tabernetes-a-kubernetes-cluster-whose-nodes-are-browser-tabs.html",
+      "path": "posts/2026-11-27-tabernetes-a-kubernetes-cluster-whose-nodes-are-browser-tabs.html",
+      "date_iso": "2026-11-27T23:00:30+00:00",
+      "source": "https://tabernet.es/",
+      "summary": "Article URL: https://tabernet.es/ Comments URL: https://news.ycombinator.com/item?id=50672521 Points: 183 # Comments: 61"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50669765",
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "slug": "2026-11-27-convex-skills-send-the-user-s-app-idea-to-a-remote-server-without-telling-them.html",
+      "path": "posts/2026-11-27-convex-skills-send-the-user-s-app-idea-to-a-remote-server-without-telling-them.html",
+      "date_iso": "2026-11-27T18:02:45+00:00",
+      "source": "https://github.com/convex/convex-backend-skill/issues/64",
+      "summary": "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments URL: https://news.ycombinator.com/item?id=50669765 Points: 345 # Comments: 115"
+    },
+    {
       "id": "https://news.ycombinator.com/item?id=50668828",
       "title": "Nvidia CEO's comeback fuels debate on misogyny or impunity for rich and powerful",
       "slug": "2026-11-27-nvidia-ceo-s-comeback-fuels-debate-on-misogyny-or-impunity-for-rich-and-powerful.html",
@@ -71,6 +215,15 @@
       "date_iso": "2026-11-27T14:02:52+00:00",
       "source": "https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas",
       "summary": "Article URL: https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas Comments URL: https://news.ycombinator.com/item?id=50667062 Points: 16 # Comments: 1"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50666724",
+      "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
+      "slug": "2026-11-27-paolo-soleri-built-a-utopian-eco-city-in-the-arizona-desert.html",
+      "path": "posts/2026-11-27-paolo-soleri-built-a-utopian-eco-city-in-the-arizona-desert.html",
+      "date_iso": "2026-11-27T13:30:20+00:00",
+      "source": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
+      "summary": "Article URL: https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona Comments URL: https://news.ycombinator.com/item?id=50666724 Points: 128 # Comments: 44"
     },
     {
       "id": "https://news.ycombinator.com/item?id=50666436",
@@ -197,6 +350,15 @@
       "date_iso": "2026-11-27T04:56:18+00:00",
       "source": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
       "summary": "Article URL: https://herecomesthemoon.net/2026/11/whats-claudes-fursona/ Comments URL: https://news.ycombinator.com/item?id=50662933 Points: 104 # Comments: 81"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=50662313",
+      "title": "Citroën Hydraulic System",
+      "slug": "2026-11-27-citro-n-hydraulic-system.html",
+      "path": "posts/2026-11-27-citro-n-hydraulic-system.html",
+      "date_iso": "2026-11-27T03:10:19+00:00",
+      "source": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
+      "summary": "Article URL: https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html Comments URL: https://news.ycombinator.com/item?id=50662313 Points: 226 # Comments: 78"
     },
     {
       "id": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
